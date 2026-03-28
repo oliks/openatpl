@@ -1,0 +1,14 @@
+{
+  "number": 1,
+  "questionId": 8101,
+  "questionNumber": "0810001",
+  "stemHtml": "<p>As angle of attack increases beyond the critical angle, what happens to lift?</p>",
+  "options": {
+    "a": "<p>Lift continues to increase</p>",
+    "b": "<p>Lift remains constant</p>",
+    "c": "<p>Lift decreases sharply (stall)</p>",
+    "d": "<p>Lift increases then gradually decreases</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

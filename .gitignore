@@ -1,0 +1,9 @@
+node_modules/
+.next/
+dist/
+.DS_Store
+.cache/
+.env.local
+
+# Raw exports from browser/API
+test-*.json

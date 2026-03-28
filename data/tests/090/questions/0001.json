@@ -1,0 +1,14 @@
+{
+  "number": 1,
+  "questionId": 9001,
+  "questionNumber": "0900001",
+  "stemHtml": "<p>What does the term 'WILCO' mean in radiotelephony?</p>",
+  "options": {
+    "a": "<p>I understand your message</p>",
+    "b": "<p>I understand your message and will comply</p>",
+    "c": "<p>Please repeat your message</p>",
+    "d": "<p>Message received</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

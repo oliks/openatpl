@@ -1,0 +1,14 @@
+{
+  "number": 1,
+  "questionId": 7001,
+  "questionNumber": "0700001",
+  "stemHtml": "<p>What is the minimum fuel reserve for a turbojet aeroplane under IFR?</p>",
+  "options": {
+    "a": "<p>30 minutes at holding speed</p>",
+    "b": "<p>45 minutes at normal cruise consumption</p>",
+    "c": "<p>60 minutes at normal cruise consumption</p>",
+    "d": "<p>30 minutes at normal cruise consumption</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

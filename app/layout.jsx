@@ -1,0 +1,92 @@
+import { Space_Grotesk, Bitter } from "next/font/google";
+import Link from "next/link";
+import ThemeToggle from "@/components/ThemeToggle";
+import "./globals.css";
+
+const GITHUB_URL = "https://github.com/openatpl/openatpl";
+
+const headingFont = Space_Grotesk({
+  subsets: ["latin"],
+  variable: "--font-heading",
+  weight: ["400", "500", "700"],
+});
+
+const bodyFont = Bitter({
+  subsets: ["latin"],
+  variable: "--font-body",
+  weight: ["400", "600"],
+});
+
+export const metadata = {
+  title: "OpenATPL Practice",
+  description: "Open-source EASA ATPL question bank and practice platform. No accounts, no subscriptions, no fees — just questions.",
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
+  openGraph: {
+    title: "OpenATPL — Free EASA ATPL Question Bank",
+    description: "Open-source EASA ATPL question bank and practice platform. No accounts, no subscriptions, no fees — just questions.",
+    url: "https://openatpl.io",
+    siteName: "OpenATPL",
+    images: [{ url: "/gitsocial.png", width: 1280, height: 640 }],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "OpenATPL — Free EASA ATPL Question Bank",
+    description: "Open-source EASA ATPL question bank and practice platform.",
+    images: ["/gitsocial.png"],
+  },
+};
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem("openatpl-theme");if(t==="dark"||(t!=="light"&&matchMedia("(prefers-color-scheme:dark)").matches))document.documentElement.setAttribute("data-theme","dark")}catch(e){}})()`,
+          }}
+        />
+      </head>
+      <body className={`${headingFont.variable} ${bodyFont.variable}`}>
+        <header className="topbar">
+          <div className="topbar-inner">
+            <Link href="/" className="topbar-logo">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/logo.png" alt="" className="topbar-logo-icon" width={28} height={28} />
+              OpenATPL
+            </Link>
+            <nav className="topbar-nav" aria-label="Main">
+              <Link href="/" className="topbar-link">
+                Tests
+              </Link>
+              <ThemeToggle />
+            </nav>
+          </div>
+        </header>
+        {children}
+        {/* eslint-disable-next-line @next/next/no-sync-scripts */}
+        <script
+          data-name="BMC-Widget"
+          data-cfasync="false"
+          src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+          data-id="openatpl"
+          data-description="Support me on Buy me a coffee!"
+          data-message=""
+          data-color="#0f7a69"
+          data-position="Right"
+          data-x_margin="48"
+          data-y_margin="48"
+        />
+        <footer className="site-footer site-footer-compact">
+          <p className="site-footer-disclaimer">
+            OpenATPL is open source. No warranties or liabilities are provided. Use at your own risk.
+            {" "}Contribute via <a href={GITHUB_URL} target="_blank" rel="noreferrer">GitHub</a>.
+          </p>
+        </footer>
+      </body>
+    </html>
+  );
+}

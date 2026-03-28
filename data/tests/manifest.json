@@ -1,0 +1,93 @@
+[
+  {
+    "id": "010",
+    "name": "010 - Air Law",
+    "subject": "Air Law",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/010/index.json"
+  },
+  {
+    "id": "021",
+    "name": "021 - Airframe, Systems, Electrics, Power Plant",
+    "subject": "Airframe, Systems, Electrics, Power Plant",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/021/index.json"
+  },
+  {
+    "id": "022",
+    "name": "022 - Instrumentation",
+    "subject": "Instrumentation",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/022/index.json"
+  },
+  {
+    "id": "031",
+    "name": "031 - Mass and Balance",
+    "subject": "Mass and Balance",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/031/index.json"
+  },
+  {
+    "id": "032",
+    "name": "032 - Performance",
+    "subject": "Performance",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/032/index.json"
+  },
+  {
+    "id": "033",
+    "name": "033 - Flight Planning and Monitoring",
+    "subject": "Flight Planning and Monitoring",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/033/index.json"
+  },
+  {
+    "id": "040",
+    "name": "040 - Human Performance Limitations",
+    "subject": "Human Performance Limitations",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/040/index.json"
+  },
+  {
+    "id": "050",
+    "name": "050 - Meteorology",
+    "subject": "Meteorology",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/050/index.json"
+  },
+  {
+    "id": "061",
+    "name": "061 - General Navigation",
+    "subject": "General Navigation",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/061/index.json"
+  },
+  {
+    "id": "062",
+    "name": "062 - Radio Navigation",
+    "subject": "Radio Navigation",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/062/index.json"
+  },
+  {
+    "id": "070",
+    "name": "070 - Operational Procedures",
+    "subject": "Operational Procedures",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/070/index.json"
+  },
+  {
+    "id": "081",
+    "name": "081 - Principles of Flight",
+    "subject": "Principles of Flight",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/081/index.json"
+  },
+  {
+    "id": "090",
+    "name": "090 - Communications",
+    "subject": "Communications",
+    "description": "ATPL subject bank.",
+    "sourceFile": "data/tests/090/index.json"
+  }
+]

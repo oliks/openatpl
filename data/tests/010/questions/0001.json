@@ -1,0 +1,14 @@
+{
+  "number": 1,
+  "questionId": 1001,
+  "questionNumber": "0100001",
+  "stemHtml": "<p>In ICAO Annex 2, what is the right-of-way rule when two aircraft are converging at approximately the same altitude?</p>",
+  "options": {
+    "a": "<p>The aircraft on the left shall give way</p>",
+    "b": "<p>The aircraft on the right shall give way</p>",
+    "c": "<p>The faster aircraft shall give way</p>",
+    "d": "<p>The aircraft at the higher altitude shall give way</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}
