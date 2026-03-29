@@ -454,6 +454,8 @@ a {
 .create-test-form {
   display: grid;
   gap: 0.9rem;
+  min-width: 0;
+  overflow: hidden;
 }
 
 .field {
@@ -475,6 +477,10 @@ a {
   color: var(--ink);
   font: inherit;
   padding: 0.58rem 2rem 0.58rem 0.68rem;
+  width: 100%;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .rename-form {
@@ -988,9 +994,122 @@ a {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 640px) {
+  html {
+    scrollbar-gutter: auto;
+    overflow-x: hidden;
+  }
+
+  .app-shell {
+    padding: 1.25rem 1rem 2rem;
+  }
+
+  .runner-shell {
+    padding: 1rem 0.75rem 2rem;
+  }
+
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+
+  .hero p {
+    font-size: 0.9rem;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+  }
+
+  .hero-actions .button {
+    width: 100%;
+    text-align: center;
+  }
+
+  .setup-card {
+    padding: 1rem;
+    max-width: 100%;
+    border-radius: 12px;
+    box-sizing: border-box;
+  }
+
+  .field select {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .question-slider {
+    max-width: 100%;
+  }
+
+  .setup-card .field select {
+    font-size: 1rem;
+    padding: 0.7rem 2rem 0.7rem 0.75rem;
+  }
+
+  .setup-card .question-slider {
+    height: 6px;
+  }
+
+  .runner-header h1 {
+    font-size: 1.25rem;
+  }
+
+  .runner-card {
+    padding: 0.75rem;
+    border-radius: 12px;
+  }
+
+  .runner-nav {
+    gap: 0.4rem;
+  }
+
+  .runner-nav .button {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.8rem;
+  }
+
+  .shortcut-hints {
+    display: none;
+  }
+
   .tile-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .inline-row {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .option-button {
+    padding: 0.6rem 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  .test-card {
+    padding: 0.75rem;
+  }
+
+  .topbar-inner {
+    padding: 0.75rem 0.75rem;
+  }
+
+  #bmc-wbtn {
+    width: 48px !important;
+    height: 48px !important;
+    bottom: 12px !important;
+    right: 12px !important;
+  }
+
+  #bmc-wbtn img {
+    width: 28px !important;
+    height: 28px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .tile-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 
