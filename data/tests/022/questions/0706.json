@@ -1,7 +1,7 @@
 {
   "number": 706,
-  "questionId": 78025,
-  "questionNumber": "227727",
+  "questionId": "022-0706",
+  "questionNumber": "022-0706",
   "stemHtml": "When is the automatic thrust control (autothrottle) used in speed hold mode?",
   "options": {
     "a": "Take-off, Cruise and Descent.",
@@ -10,5 +10,10 @@
     "d": "Take-off and Descent."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78025,
+    "number": "227727"
+  }
 }

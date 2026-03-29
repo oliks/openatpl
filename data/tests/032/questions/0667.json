@@ -1,7 +1,7 @@
 {
   "number": 667,
-  "questionId": 78123,
-  "questionNumber": "325954",
+  "questionId": "032-0667",
+  "questionNumber": "032-0667",
   "stemHtml": "<p>At an aerodrome, the minimum climb gradient for obstacle clearance is 6.3%. What is the minimum rate of climb which the pilot has to maintain during the climb?</p>\n\n<p>TAS: 135 kt <br /> \nTailwind: 8 kt</p>",
   "options": {
     "a": "<p>950 ft/min</p>",
@@ -10,5 +10,10 @@
     "d": "630 ft/min"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78123,
+    "number": "325954"
+  }
 }

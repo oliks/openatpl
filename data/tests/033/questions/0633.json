@@ -1,7 +1,7 @@
 {
   "number": 633,
-  "questionId": 83646,
-  "questionNumber": "332428",
+  "questionId": "033-0633",
+  "questionNumber": "033-0633",
   "stemHtml": "<p>Refer to figure VFR Chart ED-4 from Jeppesen GSPRM 2017. Find the highest obstacle or elevation, considering a 7 NM radius around the aerodromes, when flying directly from Griesau (N48\u00b057\u2032, E12\u00b025\u2032) to Arnbruck (N49\u00b07\u2032, E12\u00b059\u2032).</p>",
   "options": {
     "a": "<p>4055 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/091332D2-83D0-4D12-831D-F33C5051E2FF.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/091332D2-83D0-4D12-831D-F33C5051E2FF.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83646,
+    "number": "332428"
+  }
 }

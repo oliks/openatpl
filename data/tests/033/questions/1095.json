@@ -1,7 +1,7 @@
 {
   "number": 1095,
-  "questionId": 70818,
-  "questionNumber": "334660",
+  "questionId": "033-1095",
+  "questionNumber": "033-1095",
   "stemHtml": "<p>Given the following information, what is the contingency fuel required for a twin-engined jet? For an IFR flight from the departure aerodrome A to the destination aerodrome B, the decision point procedure has to be applied, considering a Decision Point DP and an optional refuel destination C.</p>\r\r<p>Distance from A to B: 1500 NM <br /> \rDistance from A to C: 800 NM <br /> \rDistance from A to DP: 710 NM <br /> \rTAS: 390 kt <br /> \rFuel flow: 2500 kg/h <br /> \rHeadwind Component: 35 kt</p>",
   "options": {
     "a": "<p>250 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>278 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70818,
+    "number": "334660"
+  }
 }

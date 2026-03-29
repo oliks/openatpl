@@ -1,7 +1,7 @@
 {
   "number": 1803,
-  "questionId": 109990,
-  "questionNumber": "225146",
+  "questionId": "022-1803",
+  "questionNumber": "022-1803",
   "stemHtml": "<p>How is the Aircraft Condition Monitoring System (ACMS) data reported to the company?</p>\r\r<p>1. Automatically via ATSU, without crew notification <br /> \r2. Wirelessly upon landing, without crew notification <br /> \r3. By accessing data from the Flight Data Recorder (FDR) <br /> \r4. Manually by the pilot, downloading data onto a memory card during flight <br /> \r5. Printed in the cockpit while on the ground</p>",
   "options": {
     "a": "<p>1, 2 and 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3 and 4.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109990,
+    "number": "225146"
+  }
 }

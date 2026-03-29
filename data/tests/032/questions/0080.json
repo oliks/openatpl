@@ -1,7 +1,7 @@
 {
   "number": 80,
-  "questionId": 103284,
-  "questionNumber": "323354",
+  "questionId": "032-0080",
+  "questionNumber": "032-0080",
   "stemHtml": "<p>Refer to figure.  <br /> \rWhich figure represents the effect on take-off distance when considering the engine failure case?</p>",
   "options": {
     "a": "<p>Figure 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/59175192-01b1-496e-be0d-b22506857deb.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/59175192-01b1-496e-be0d-b22506857deb.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103284,
+    "number": "323354"
+  }
 }

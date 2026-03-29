@@ -1,7 +1,7 @@
 {
   "number": 573,
-  "questionId": 66724,
-  "questionNumber": "104069",
+  "questionId": "010-0573",
+  "questionNumber": "010-0573",
   "stemHtml": "<p>For the issue of an instrument rating the holder of a PPL or CPL shall have completed at least 50 hours of cross-country flight time as pilot-in-command, according to the relevant FCL requirements, the minimum required cross country flight hours in the relevant aircraft category are\u2026</p>",
   "options": {
     "a": "15 hours.",
@@ -10,5 +10,10 @@
     "d": "none."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66724,
+    "number": "104069"
+  }
 }

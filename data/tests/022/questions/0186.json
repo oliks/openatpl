@@ -1,7 +1,7 @@
 {
   "number": 186,
-  "questionId": 68731,
-  "questionNumber": "223569",
+  "questionId": "022-0186",
+  "questionNumber": "022-0186",
   "stemHtml": "<p>If the navigation function of an INS is inoperative and the control rotary switch is set to ATT, the output data of the INS is (are)\u2026</p>",
   "options": {
     "a": "attitude and heading.",
@@ -10,5 +10,10 @@
     "d": "heading."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68731,
+    "number": "223569"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 733,
-  "questionId": 110148,
-  "questionNumber": "216389",
+  "questionId": "021-0733",
+  "questionNumber": "021-0733",
   "stemHtml": "<p>A fixed swash-plate pump in a hydraulic system provides (1) _____ volume and (2) _____ pressure.</p>",
   "options": {
     "a": "<p>(1) constant; (2) variable</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) constant; (2) constant</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110148,
+    "number": "216389"
+  }
 }

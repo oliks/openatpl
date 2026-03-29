@@ -1,7 +1,7 @@
 {
   "number": 578,
-  "questionId": 69214,
-  "questionNumber": "223257",
+  "questionId": "022-0578",
+  "questionNumber": "022-0578",
   "stemHtml": "<p>Which of these statements about temperature units are correct or incorrect?</p><p>1. 20\u00b0 Celsius = 68\u00b0 Fahrenheit<br>2. 0\u00b0 Celsius = 273\u00b0 Kelvin</p>",
   "options": {
     "a": "1 is correct, 2 is correct.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is incorrect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69214,
+    "number": "223257"
+  }
 }

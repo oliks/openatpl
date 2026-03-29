@@ -1,7 +1,7 @@
 {
   "number": 1014,
-  "questionId": 66901,
-  "questionNumber": "102658",
+  "questionId": "010-1014",
+  "questionNumber": "010-1014",
   "stemHtml": "<p>According to ICAO Doc 8168 PANS-OPS, prior to take-off, one altimeter shall be set on the latest _____ (1) altimeter setting for the aerodrome. What is the abbreviation for the missing term?</p>",
   "options": {
     "a": "QNE",
@@ -10,5 +10,10 @@
     "d": "QFE"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66901,
+    "number": "102658"
+  }
 }

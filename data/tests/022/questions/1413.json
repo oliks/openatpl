@@ -1,7 +1,7 @@
 {
   "number": 1413,
-  "questionId": 69134,
-  "questionNumber": "222217",
+  "questionId": "022-1413",
+  "questionNumber": "022-1413",
   "stemHtml": "<p>The core purpose of an EFIS system is to\u2026</p>",
   "options": {
     "a": "display system schematics and failure indications.",
@@ -10,5 +10,10 @@
     "d": "give airspeed and vertical speed indications."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69134,
+    "number": "222217"
+  }
 }

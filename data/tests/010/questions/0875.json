@@ -1,7 +1,7 @@
 {
   "number": 875,
-  "questionId": 66647,
-  "questionNumber": "108956",
+  "questionId": "010-0875",
+  "questionNumber": "010-0875",
   "stemHtml": "If the first aircraft to reach the scene of an accident is not a search and rescue aircraft, what action must it take until the arrival of the first search and rescue aircraft?",
   "options": {
     "a": "Leave the area to avoid hampering subsequent search and rescue activities.",
@@ -10,5 +10,10 @@
     "d": "Remain in the area, overflying the scene of the accident at a height of 1000 ft on a North-South heading."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66647,
+    "number": "108956"
+  }
 }

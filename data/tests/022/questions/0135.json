@@ -1,7 +1,7 @@
 {
   "number": 135,
-  "questionId": 68932,
-  "questionNumber": "227348",
+  "questionId": "022-0135",
+  "questionNumber": "022-0135",
   "stemHtml": "Which type(s) of sensor may be used in an engine vibration monitoring system?",
   "options": {
     "a": "Tachometers only.",
@@ -10,5 +10,10 @@
     "d": "Magnet and piezoelectric crystal sensors."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68932,
+    "number": "227348"
+  }
 }

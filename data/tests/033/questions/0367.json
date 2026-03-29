@@ -1,7 +1,7 @@
 {
   "number": 367,
-  "questionId": 70763,
-  "questionNumber": "336082",
+  "questionId": "033-0367",
+  "questionNumber": "033-0367",
   "stemHtml": "Refer to figure.<br />\r\nIn the ITEM 9 of an ICAO ATS Flight Plan, what does the letter M denote?",
   "options": {
     "a": "MLS equipped.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5C64C746-2CE6-450C-B7EC-5AF6AE409EF6.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5C64C746-2CE6-450C-B7EC-5AF6AE409EF6.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70763,
+    "number": "336082"
+  }
 }

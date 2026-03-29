@@ -1,7 +1,7 @@
 {
   "number": 675,
-  "questionId": 77933,
-  "questionNumber": "102889",
+  "questionId": "010-0675",
+  "questionNumber": "010-0675",
   "stemHtml": "<p>Except when necessary for take-off and landing, an IFR flight shall be flown at a level which is not below the minimum flight altitude. What is the minimum flight altitude?</p>",
   "options": {
     "a": "<p>For mountainous area, double the value of minimum altitude over flat terrain.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The same for both a flight over mountainous area or flat terrain.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77933,
+    "number": "102889"
+  }
 }

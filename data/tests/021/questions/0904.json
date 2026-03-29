@@ -1,7 +1,7 @@
 {
   "number": 904,
-  "questionId": 161953,
-  "questionNumber": "217149",
+  "questionId": "021-0904",
+  "questionNumber": "021-0904",
   "stemHtml": "<p>Concerning FADEC (Full Authority Digital Engine Control) input/output operations, which description is accurate?</p>",
   "options": {
     "a": "<p>To store engine data for maintenance purposes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To provide manual backup control of the engine.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161953,
+    "number": "217149"
+  }
 }

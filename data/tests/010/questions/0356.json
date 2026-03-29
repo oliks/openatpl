@@ -1,7 +1,7 @@
 {
   "number": 356,
-  "questionId": 100788,
-  "questionNumber": "109420",
+  "questionId": "010-0356",
+  "questionNumber": "010-0356",
   "stemHtml": "<p>Independent parallel departures require the nominal departure tracks to diverge by (1) _____ and independent parallel approaches require a No Transgression Zone (NTZ) of (2) _____.</p>",
   "options": {
     "a": "<p>(1) 30\u00b0; (2) 760 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) 15\u00b0; (2) 760 m</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100788,
+    "number": "109420"
+  }
 }

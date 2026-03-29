@@ -1,7 +1,7 @@
 {
   "number": 327,
-  "questionId": 67067,
-  "questionNumber": "109557",
+  "questionId": "010-0327",
+  "questionNumber": "010-0327",
   "stemHtml": "Which of the following information shall be provided by the Aeronautical Information Services (AIS) to flight crews, for pre-flight purposes?",
   "options": {
     "a": "NOTAMs",
@@ -10,5 +10,10 @@
     "d": "Aircraft Minimum Equipment List"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67067,
+    "number": "109557"
+  }
 }

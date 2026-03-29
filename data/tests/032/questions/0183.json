@@ -1,7 +1,7 @@
 {
   "number": 183,
-  "questionId": 69822,
-  "questionNumber": "321366",
+  "questionId": "032-0183",
+  "questionNumber": "032-0183",
   "stemHtml": "According to the OPS Regulations, which one of the following statements concerning the landing distance for a turbojet aeroplane is correct?",
   "options": {
     "a": "Malfunctioning of an anti-skid system has no effect on the required runway length.",
@@ -10,5 +10,10 @@
     "d": "The landing distance is the distance from 35 ft above the surface of the runway to the full stop."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69822,
+    "number": "321366"
+  }
 }

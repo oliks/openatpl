@@ -1,7 +1,7 @@
 {
   "number": 1353,
-  "questionId": 84382,
-  "questionNumber": "336543",
+  "questionId": "033-1353",
+  "questionNumber": "033-1353",
   "stemHtml": "Refer to figure. <br /> A pilot is completing a standard ICAO ATS flight plan for a flight in Europe of an aeroplane equipped with VHF RTF, VOR, ILS, DME, a Mode S transponder and a GNSS receiver that is capable of using the EGNOS GNSS augmentation system. How will the data concerning the communication/navigation equipment of the aeroplane be inserted?",
   "options": {
     "a": "DSGEGNOS/S in item 10.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/77D8C5A9-8510-4790-BBB1-E1E7DC7A1D83.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/77D8C5A9-8510-4790-BBB1-E1E7DC7A1D83.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84382,
+    "number": "336543"
+  }
 }

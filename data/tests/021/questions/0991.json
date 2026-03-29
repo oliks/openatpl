@@ -1,7 +1,7 @@
 {
   "number": 991,
-  "questionId": 67799,
-  "questionNumber": "219268",
+  "questionId": "021-0991",
+  "questionNumber": "021-0991",
   "stemHtml": "<p>Consider brake-wear indicators on multi-disc-type brakes. The indicators show brake wear as a measure of the\u2026</p>",
   "options": {
     "a": "movement of the brake unit piston.",
@@ -10,5 +10,10 @@
     "d": "brake pedal deflection in the brake system."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67799,
+    "number": "219268"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1244,
-  "questionId": 84453,
-  "questionNumber": "225482",
+  "questionId": "022-1244",
+  "questionNumber": "022-1244",
   "stemHtml": "<p>Refer to figure. <br /> You inadvertently set the IRS mode selector from NAV to ATT mode, resulting in loss of alignment in flight. What are the implications of this?</p>",
   "options": {
     "a": "Groundspeed data is lost, although position information may still be available.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/8B4424EC-AE5A-4B54-AA24-D56F78FED312.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/8B4424EC-AE5A-4B54-AA24-D56F78FED312.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84453,
+    "number": "225482"
+  }
 }

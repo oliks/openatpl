@@ -1,7 +1,7 @@
 {
   "number": 1157,
-  "questionId": 69271,
-  "questionNumber": "225269",
+  "questionId": "022-1157",
+  "questionNumber": "022-1157",
   "stemHtml": "<p>Which option lists the correct modes displayed on the Navigation Display of an EFIS equipped aircraft?</p>",
   "options": {
     "a": "<p>MAP or ARC (covering approximately 45\u00b0 either side of the current heading), ROSE (orientated to instantaneous track up) and PLAN (flight plan map orientated to Magnetic North).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>MAP or ARC (covering approximately 45\u00b0 either side of the instantaneous track), ROSE (orientated to current heading up) and PLAN (flight plan map orientated to Magnetic North).</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69271,
+    "number": "225269"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 510,
-  "questionId": 68592,
-  "questionNumber": "229957",
+  "questionId": "022-0510",
+  "questionNumber": "022-0510",
   "stemHtml": "<p>A directional gyro consists of a\u2026</p>",
   "options": {
     "a": "<p>1 degrees of freedom horizontal axis gyro.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 degrees of freedom horizontal axis gyro.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68592,
+    "number": "229957"
+  }
 }

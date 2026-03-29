@@ -1,7 +1,7 @@
 {
   "number": 392,
-  "questionId": 69501,
-  "questionNumber": "315074",
+  "questionId": "031-0392",
+  "questionNumber": "031-0392",
   "stemHtml": "<p>What is the effect if the Centre of Gravity is behind the aft limit in level and forward flight?</p>",
   "options": {
     "a": "<p>The stability is increased.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The stability is decreased.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69501,
+    "number": "315074"
+  }
 }

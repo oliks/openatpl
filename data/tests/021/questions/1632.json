@@ -1,7 +1,7 @@
 {
   "number": 1632,
-  "questionId": 81728,
-  "questionNumber": "215695",
+  "questionId": "021-1632",
+  "questionNumber": "021-1632",
   "stemHtml": "<p>Which of these options refers to a function of a standpipe in a hydraulic system reservoir?</p>",
   "options": {
     "a": "<p>It supplies the main feed line.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It helps proper lubrication of the cylinder walls.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81728,
+    "number": "215695"
+  }
 }

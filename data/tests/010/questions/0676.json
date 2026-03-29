@@ -1,7 +1,7 @@
 {
   "number": 676,
-  "questionId": 67253,
-  "questionNumber": "105594",
+  "questionId": "010-0676",
+  "questionNumber": "010-0676",
   "stemHtml": "An airport provides two parallel runways where one is used for departures and the other one is used for arrivals. What type of operation is this?",
   "options": {
     "a": "<p>Parallel mixed operation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Parallel segregated operation.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67253,
+    "number": "105594"
+  }
 }

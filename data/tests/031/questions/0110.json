@@ -1,7 +1,7 @@
 {
   "number": 110,
-  "questionId": 110835,
-  "questionNumber": "318724",
+  "questionId": "031-0110",
+  "questionNumber": "031-0110",
   "stemHtml": "<p>Refer to figure or CAP696 Figure 2.5. <br>Given a mass of 2600 lbs, determine the rear and forward limits for the CG positions.</p>",
   "options": {
     "a": "<p>Rear 87.7 in, forward 82.3 in aft of datum.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/96314959-beb2-4c79-9d59-9f72129faa38.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/96314959-beb2-4c79-9d59-9f72129faa38.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110835,
+    "number": "318724"
+  }
 }

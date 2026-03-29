@@ -1,7 +1,7 @@
 {
   "number": 1174,
-  "questionId": 67262,
-  "questionNumber": "107798",
+  "questionId": "010-1174",
+  "questionNumber": "010-1174",
   "stemHtml": "Which emergency frequency should be used, when on the frequency currently in use there is no possibility to communicate with ATS?",
   "options": {
     "a": "121.5 MHz",
@@ -10,5 +10,10 @@
     "d": "122.5 MHz"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67262,
+    "number": "107798"
+  }
 }

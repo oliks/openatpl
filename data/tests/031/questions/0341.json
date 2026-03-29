@@ -1,7 +1,7 @@
 {
   "number": 341,
-  "questionId": 80272,
-  "questionNumber": "316460",
+  "questionId": "031-0341",
+  "questionNumber": "031-0341",
   "stemHtml": "What is correct about conversion of fuel volume to mass?",
   "options": {
     "a": "It may be done by using standard fuel density values as specified in the Operations Manual, if the actual fuel density is not known.",
@@ -10,5 +10,10 @@
     "d": "It must be done by using actual measured fuel density values."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80272,
+    "number": "316460"
+  }
 }

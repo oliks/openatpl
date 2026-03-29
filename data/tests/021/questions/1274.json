@@ -1,7 +1,7 @@
 {
   "number": 1274,
-  "questionId": 163442,
-  "questionNumber": "214812",
+  "questionId": "021-1274",
+  "questionNumber": "021-1274",
   "stemHtml": "<p>After starting an engine using a 24 V battery and then switching the generator to ON, what voltage and current readings would you expect to observe after a few minutes ? <br />  </p>",
   "options": {
     "a": "<p>24 V and 0 A <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>28 V and 200 A continuously</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163442,
+    "number": "214812"
+  }
 }

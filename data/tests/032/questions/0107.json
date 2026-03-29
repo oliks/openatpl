@@ -1,7 +1,7 @@
 {
   "number": 107,
-  "questionId": 80346,
-  "questionNumber": "323378",
+  "questionId": "032-0107",
+  "questionNumber": "032-0107",
   "stemHtml": "<p>Determine the distance travelled to climb to 1500 ft for a Class B twin engine aircraft for the purpose of obstacle clearance, given:</p><p>TAS: 120 kts <br>Nil wind <br>Cloudbase: 300 ft <br>AEO ROC: 1000 fpm <br>OEI ROC: 400 fpm</p><p>(Answer required to 2 decimal places in NM)</p>",
   "options": {
     "a": "2.90 NM",
@@ -10,5 +10,10 @@
     "d": "7.50 NM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80346,
+    "number": "323378"
+  }
 }

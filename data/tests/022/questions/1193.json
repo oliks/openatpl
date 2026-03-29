@@ -1,7 +1,7 @@
 {
   "number": 1193,
-  "questionId": 68771,
-  "questionNumber": "223039",
+  "questionId": "022-1193",
+  "questionNumber": "022-1193",
   "stemHtml": "On a large aeroplane and according to the CS25: when the speed is reduced, the stall warning must begin:",
   "options": {
     "a": "at a speed exceeding the stall speed by not less than 5 kt or 5% CAS.",
@@ -10,5 +10,10 @@
     "d": "exactly at the stall speed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68771,
+    "number": "223039"
+  }
 }

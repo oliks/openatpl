@@ -1,7 +1,7 @@
 {
   "number": 1130,
-  "questionId": 115454,
-  "questionNumber": "336726",
+  "questionId": "033-1130",
+  "questionNumber": "033-1130",
   "stemHtml": "<p>Refer to figure or Amsterdam Chart 11-3 from Jeppesen GSPRM 2017. <br /> \rWhich of the following statements is correct, for an aircraft category C?</p>",
   "options": {
     "a": "<p>After passing LCTR, descend to a height of 2000 feet.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/646a4800-645d-4ae5-9b29-dbb595b52df8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/646a4800-645d-4ae5-9b29-dbb595b52df8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 115454,
+    "number": "336726"
+  }
 }

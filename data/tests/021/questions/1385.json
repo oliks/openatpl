@@ -1,7 +1,7 @@
 {
   "number": 1385,
-  "questionId": 68226,
-  "questionNumber": "217373",
+  "questionId": "021-1385",
+  "questionNumber": "021-1385",
   "stemHtml": "<p>Which of these statements about trimming in a irreversible flight control system of a conventional aeroplane are correct or incorrect?</p><p>I. The zero force position of the control column does not change when using the pitch trim<br>II. The zero force position of the control wheel changes when using the aileron trim</p>",
   "options": {
     "a": "I is correct, II is correct.",
@@ -10,5 +10,10 @@
     "d": "I is correct, II is incorrect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68226,
+    "number": "217373"
+  }
 }

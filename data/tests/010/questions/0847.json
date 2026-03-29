@@ -1,7 +1,7 @@
 {
   "number": 847,
-  "questionId": 100474,
-  "questionNumber": "108556",
+  "questionId": "010-0847",
+  "questionNumber": "010-0847",
   "stemHtml": "An individual applying for an aerobatic rating must have completed...",
   "options": {
     "a": "At least 5 hrs of aerobatic instruction in aeroplanes or TMGs.",
@@ -10,5 +10,10 @@
     "d": "<p>A minimum of 10 hours or 15 flights of aerobatic instruction in the appropriate aircraft category.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100474,
+    "number": "108556"
+  }
 }

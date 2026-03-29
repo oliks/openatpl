@@ -1,7 +1,7 @@
 {
   "number": 1095,
-  "questionId": 105965,
-  "questionNumber": "215395",
+  "questionId": "021-1095",
+  "questionNumber": "021-1095",
   "stemHtml": "<p>You are dumping fuel in order to reduce your Landing weight. However, the automatic jettison valve does not close. Is this situation still safe?</p>",
   "options": {
     "a": "<p>No, all the fuel will be removed from the tanks.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes. The aircraft will still be within safe weight and balance limits, regardless of the fuel dumped.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105965,
+    "number": "215395"
+  }
 }

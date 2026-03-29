@@ -1,7 +1,7 @@
 {
   "number": 111,
-  "questionId": 66961,
-  "questionNumber": "108378",
+  "questionId": "010-0111",
+  "questionNumber": "010-0111",
   "stemHtml": "What does the abbreviation ATIS stand for?",
   "options": {
     "a": "Automatic Terminal Instruction Service",
@@ -10,5 +10,10 @@
     "d": "Automatic Transferable Information Service"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66961,
+    "number": "108378"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1480,
-  "questionId": 68833,
-  "questionNumber": "224423",
+  "questionId": "022-1480",
+  "questionNumber": "022-1480",
   "stemHtml": "<p>When flying a fly-by-wire aeroplane manually, the automatic pitch trim system eliminates the need for the pilot to make control column inputs to compensate for:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 thrust changes.</span>  <br />  \n2 \u2013 gear configuration changes.  <br />  \n3 \u2013 a terrain proximity warning.</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "1, 2.",
@@ -10,5 +10,10 @@
     "d": "2, 3."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68833,
+    "number": "224423"
+  }
 }

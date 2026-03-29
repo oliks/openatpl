@@ -1,7 +1,7 @@
 {
   "number": 424,
-  "questionId": 107619,
-  "questionNumber": "337516",
+  "questionId": "033-0424",
+  "questionNumber": "033-0424",
   "stemHtml": "<p>Given the following information, at what distance from MAN VOR should the pilot commence the descent, in order to arrive overhead MAN VOR at 2000 ft?</p>\r\r<p>Cruise level: FL155 <br /> \rTAS: 260 kt, constant during descent <br /> \rWind component: negligible <br /> \rTemperature: ISA <br /> \rQNH: 1030 hPa <br /> \rRate of Descent: 500 ft/min </p>",
   "options": {
     "a": "<p>140 NM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>130 NM</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107619,
+    "number": "337516"
+  }
 }

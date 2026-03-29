@@ -1,7 +1,7 @@
 {
   "number": 1369,
-  "questionId": 107208,
-  "questionNumber": "337162",
+  "questionId": "033-1369",
+  "questionNumber": "033-1369",
   "stemHtml": "<p>Refer to figure. <br>While flying VFR towards Munich, you intend to hold in the vicinity of Class C airspace (northwest). Which radio aid is most useful for maintaining a holding pattern in this situation?</p>",
   "options": {
     "a": "<p>VOR, WLD</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/b552beb4-bf1a-4505-98a3-c8919419d428.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/b552beb4-bf1a-4505-98a3-c8919419d428.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107208,
+    "number": "337162"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 543,
-  "questionId": 163885,
-  "questionNumber": "337188",
+  "questionId": "033-0543",
+  "questionNumber": "033-0543",
   "stemHtml": "<p>Refer to figure or Dubrovnik VFR Chart 19-1 from Jeppesen GSPRM 2017.<br />You are approaching Dubrovnik from 2 NM south of reporting point F2. Which arrival procedure can you expect?</p>",
   "options": {
     "a": "<p>Routing from reporting point F2 to B2</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/29db931c-26dc-451a-a696-2fbc27e8baca.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/29db931c-26dc-451a-a696-2fbc27e8baca.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163885,
+    "number": "337188"
+  }
 }

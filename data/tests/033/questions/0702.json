@@ -1,7 +1,7 @@
 {
   "number": 702,
-  "questionId": 81847,
-  "questionNumber": "338712",
+  "questionId": "033-0702",
+  "questionNumber": "033-0702",
   "stemHtml": "<p>Refer to figure or VFR chart ED-4 from the Jeppesen GSPRM 2017.<br>What is the True Course and distance for a direct flight from Scharnstein aerodrome (LOLC) (N47\u00b054' E013\u00b056') to Trieben aerodrome (LOGI) (N47\u00b030' E014\u00b030')?</p>",
   "options": {
     "a": "<p>136\u00b0 and 63 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/E8B57CF6-C7B1-47D9-A6D3-FB55B8C99B9D.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E8B57CF6-C7B1-47D9-A6D3-FB55B8C99B9D.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81847,
+    "number": "338712"
+  }
 }

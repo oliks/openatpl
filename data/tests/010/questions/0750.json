@@ -1,7 +1,7 @@
 {
   "number": 750,
-  "questionId": 67201,
-  "questionNumber": "104159",
+  "questionId": "010-0750",
+  "questionNumber": "010-0750",
   "stemHtml": "<p>According to PART-FCL, an applicant for an IR(A) shall hold a PPL(A) including a night qualification, if the IR privileges will be used at night, or CPL(A) and shall have completed at least 50 hours\u2026</p>",
   "options": {
     "a": "instructional flight time as student-pilot-in-command of aeroplanes.",
@@ -10,5 +10,10 @@
     "d": "instructional flight time as student-pilot-in-command of aeroplanes or helicopters of which at least 10 hours shall be in aeroplanes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67201,
+    "number": "104159"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 538,
-  "questionId": 69797,
-  "questionNumber": "328765",
+  "questionId": "032-0538",
+  "questionNumber": "032-0538",
   "stemHtml": "May anti-skid be considered to determine the take-off and landing data?",
   "options": {
     "a": "Only for take-off.",
@@ -10,5 +10,10 @@
     "d": "Yes."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69797,
+    "number": "328765"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 333,
-  "questionId": 69787,
-  "questionNumber": "325566",
+  "questionId": "032-0333",
+  "questionNumber": "032-0333",
   "stemHtml": "Which of the equations below defines specific range (SR)?",
   "options": {
     "a": "SR = Calibrated Airspeed / Total Fuel Flow",
@@ -10,5 +10,10 @@
     "d": "SR = True Airspeed / Total Fuel Flow"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69787,
+    "number": "325566"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 971,
-  "questionId": 109355,
-  "questionNumber": "223179",
+  "questionId": "022-0971",
+  "questionNumber": "022-0971",
   "stemHtml": "<p>Your aircraft is equipped with TCAS II. What is the minimum equipment required on another aircraft for it to be detected?</p>",
   "options": {
     "a": "<p>Mode C transponder</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADS C</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109355,
+    "number": "223179"
+  }
 }

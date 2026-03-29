@@ -1,7 +1,7 @@
 {
   "number": 1290,
-  "questionId": 70885,
-  "questionNumber": "339164",
+  "questionId": "033-1290",
+  "questionNumber": "033-1290",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017.  <br /> On a VFR flight, you need to overfly Alicante CTR from NE1 and exit at SW. Who shall you be in contact with to get transit clearance and what would be an appropriate altitude?</p>",
   "options": {
     "a": "<p>Valencia Control, 5000 ft</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/AAF14A85-B7BA-4765-94E6-BDB046BAA73E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/AAF14A85-B7BA-4765-94E6-BDB046BAA73E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70885,
+    "number": "339164"
+  }
 }

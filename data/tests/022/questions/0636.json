@@ -1,7 +1,7 @@
 {
   "number": 636,
-  "questionId": 68770,
-  "questionNumber": "221283",
+  "questionId": "022-0636",
+  "questionNumber": "022-0636",
   "stemHtml": "<p>For compatibility between the different components of a Flight Warning System, the priority from the highest to the lowest is\u2026</p>",
   "options": {
     "a": "TCAS, Stall, Windshear, GPWS.",
@@ -10,5 +10,10 @@
     "d": "Stall, Windshear, GPWS, TCAS."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68770,
+    "number": "221283"
+  }
 }

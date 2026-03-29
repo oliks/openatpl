@@ -1,7 +1,7 @@
 {
   "number": 1295,
-  "questionId": 70888,
-  "questionNumber": "335434",
+  "questionId": "033-1295",
+  "questionNumber": "033-1295",
   "stemHtml": "<p>Refer to figure or ALICANTE - chart 10-2G from Jeppesen GSPRM 2017. <br>Which approach is possible on Runway 28?</p>",
   "options": {
     "a": "Continuous Descent Arrival via CALLES, KOVAM and VILNA",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/4CC3FB6E-C7DC-4C6B-8C14-490AE7EF33C4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4CC3FB6E-C7DC-4C6B-8C14-490AE7EF33C4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70888,
+    "number": "335434"
+  }
 }

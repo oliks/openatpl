@@ -1,7 +1,7 @@
 {
   "number": 1180,
-  "questionId": 81943,
-  "questionNumber": "339182",
+  "questionId": "033-1180",
+  "questionNumber": "033-1180",
   "stemHtml": "What is the difference between GNSS planned and unplanned outages?",
   "options": {
     "a": "Planned outages are not notified.",
@@ -10,5 +10,10 @@
     "d": "Planned outages are notified in advance."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81943,
+    "number": "339182"
+  }
 }

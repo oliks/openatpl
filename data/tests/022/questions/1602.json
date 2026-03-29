@@ -1,7 +1,7 @@
 {
   "number": 1602,
-  "questionId": 68458,
-  "questionNumber": "228975",
+  "questionId": "022-1602",
+  "questionNumber": "022-1602",
   "stemHtml": "<p>In the building principle of a gyroscope, the best efficiency is obtained through the concentration of the mass\u2026</p>",
   "options": {
     "a": "on the periphery and with a low rotational speed.",
@@ -10,5 +10,10 @@
     "d": "close to the axis and with a low rotational speed."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68458,
+    "number": "228975"
+  }
 }

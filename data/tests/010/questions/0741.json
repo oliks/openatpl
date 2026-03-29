@@ -1,7 +1,7 @@
 {
   "number": 741,
-  "questionId": 107507,
-  "questionNumber": "108225",
+  "questionId": "010-0741",
+  "questionNumber": "010-0741",
   "stemHtml": "<p>An aircraft registered in France is executing a flight from Paris, France to Santiago, Chile. When should the aircraft follow the European Rules of the Air (SERA)?</p>",
   "options": {
     "a": "<p>All the time, even if the local rules conflict with SERA.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Never.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107507,
+    "number": "108225"
+  }
 }

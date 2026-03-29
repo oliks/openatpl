@@ -1,7 +1,7 @@
 {
   "number": 659,
-  "questionId": 68415,
-  "questionNumber": "224990",
+  "questionId": "022-0659",
+  "questionNumber": "022-0659",
   "stemHtml": "What is, in computer terminology, an operating system?",
   "options": {
     "a": "The bus structure that allows data communication.",
@@ -10,5 +10,10 @@
     "d": "The programme that controls a computer`s basic functions."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68415,
+    "number": "224990"
+  }
 }

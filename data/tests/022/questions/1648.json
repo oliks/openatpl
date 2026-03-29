@@ -1,7 +1,7 @@
 {
   "number": 1648,
-  "questionId": 69146,
-  "questionNumber": "225416",
+  "questionId": "022-1648",
+  "questionNumber": "022-1648",
   "stemHtml": "<p>The ACARS allows air/ground datalink communications for\u2026</p>",
   "options": {
     "a": "Airline Operational and Public Communications (AOC &amp; PC).",
@@ -10,5 +10,10 @@
     "d": "Airline Operational Communication only (AOC)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69146,
+    "number": "225416"
+  }
 }

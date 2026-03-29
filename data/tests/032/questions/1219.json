@@ -1,7 +1,7 @@
 {
   "number": 1219,
-  "questionId": 69765,
-  "questionNumber": "328638",
+  "questionId": "032-1219",
+  "questionNumber": "032-1219",
   "stemHtml": "In which of the flight conditions listed below is the thrust equal to the drag?",
   "options": {
     "a": "In a descent with constant TAS",
@@ -10,5 +10,10 @@
     "d": "In accelerated level flight"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69765,
+    "number": "328638"
+  }
 }

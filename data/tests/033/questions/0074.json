@@ -1,7 +1,7 @@
 {
   "number": 74,
-  "questionId": 70588,
-  "questionNumber": "334373",
+  "questionId": "033-0074",
+  "questionNumber": "033-0074",
   "stemHtml": "Excluding RVSM an appropriate flight level for an IFR flight in accordance with the semi circular height rules on a course of 180&deg;M is",
   "options": {
     "a": "FL90",
@@ -10,5 +10,10 @@
     "d": "FL105"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70588,
+    "number": "334373"
+  }
 }

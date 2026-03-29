@@ -1,7 +1,7 @@
 {
   "number": 63,
-  "questionId": 109140,
-  "questionNumber": "224326",
+  "questionId": "022-0063",
+  "questionNumber": "022-0063",
   "stemHtml": "<p>How can D-ATIS be obtained in flight?</p>",
   "options": {
     "a": "<p>VHF</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADS-C</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109140,
+    "number": "224326"
+  }
 }

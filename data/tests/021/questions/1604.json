@@ -1,7 +1,7 @@
 {
   "number": 1604,
-  "questionId": 68206,
-  "questionNumber": "211446",
+  "questionId": "021-1604",
+  "questionNumber": "021-1604",
   "stemHtml": "Which of the following parameters remains constant in a divergent (subsonic) gas turbine engine intake?",
   "options": {
     "a": "Total temperature.",
@@ -10,5 +10,10 @@
     "d": "Static pressure."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68206,
+    "number": "211446"
+  }
 }

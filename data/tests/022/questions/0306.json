@@ -1,7 +1,7 @@
 {
   "number": 306,
-  "questionId": 81267,
-  "questionNumber": "224763",
+  "questionId": "022-0306",
+  "questionNumber": "022-0306",
   "stemHtml": "<p>On the PFD of an EFIS equipped aircraft, where may TCAS RA command indications be displayed? On the\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">Vertical speed scale.</p>",
@@ -10,5 +10,10 @@
     "d": "Altitude scale."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81267,
+    "number": "224763"
+  }
 }

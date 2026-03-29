@@ -1,7 +1,7 @@
 {
   "number": 70,
-  "questionId": 112092,
-  "questionNumber": "324498",
+  "questionId": "032-0070",
+  "questionNumber": "032-0070",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich sketch correctly depicts the change in the thrust-required curve when density altitude is decreased?</p>",
   "options": {
     "a": "<p>Sketch A</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/ba89d317-5abf-44b0-9cc0-d1646171aa27.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/ba89d317-5abf-44b0-9cc0-d1646171aa27.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112092,
+    "number": "324498"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 489,
-  "questionId": 67425,
-  "questionNumber": "214534",
+  "questionId": "021-0489",
+  "questionNumber": "021-0489",
   "stemHtml": "<p>A booster or LP compressor in a twin spool turbofan\u2026</p>",
   "options": {
     "a": "<p>rotates at the same rotor speed as the fan.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>rotates at the same rotor speed as the HP turbine.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67425,
+    "number": "214534"
+  }
 }

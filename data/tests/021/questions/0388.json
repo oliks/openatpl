@@ -1,7 +1,7 @@
 {
   "number": 388,
-  "questionId": 159034,
-  "questionNumber": "219001",
+  "questionId": "021-0388",
+  "questionNumber": "021-0388",
   "stemHtml": "<p>Refer to figure.    <br />    An aircraft cruising level is FL380. What altitude should the aircraft's cabin altitude be to maintain a differential pressure of 7.45 psi?</p>",
   "options": {
     "a": "<p>9780 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/640247ab-ae60-4016-aa4f-98ff7b95f38a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/640247ab-ae60-4016-aa4f-98ff7b95f38a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159034,
+    "number": "219001"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 880,
-  "questionId": 111298,
-  "questionNumber": "104408",
+  "questionId": "010-0880",
+  "questionNumber": "010-0880",
   "stemHtml": "<p>In usual aviation definitions, which of the following correctly describes flight time?</p>",
   "options": {
     "a": "<p>From the moment the aircraft takes off.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>From brake release at take-off until touchdown.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111298,
+    "number": "104408"
+  }
 }

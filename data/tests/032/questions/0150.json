@@ -1,7 +1,7 @@
 {
   "number": 150,
-  "questionId": 70001,
-  "questionNumber": "328119",
+  "questionId": "032-0150",
+  "questionNumber": "032-0150",
   "stemHtml": "<p>In error the V<strong><sub>1</sub></strong> used on a particular take-off exceeds the correct value of V<sub>1</sub>. If an engine fails at a speed immediately above the correct value of V<sub>1 </sub>then...</p>",
   "options": {
     "a": "the accelerate stop distance may exceed the accelerate stop distance available.",
@@ -10,5 +10,10 @@
     "d": "V<sub>1</sub> may be too high resulting in the initial climb performance decreasing."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70001,
+    "number": "328119"
+  }
 }

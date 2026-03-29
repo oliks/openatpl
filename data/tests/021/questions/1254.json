@@ -1,7 +1,7 @@
 {
   "number": 1254,
-  "questionId": 78307,
-  "questionNumber": "211187",
+  "questionId": "021-1254",
+  "questionNumber": "021-1254",
   "stemHtml": "<p>To prevent vapour locking, which can lead to fuel starvation, a common type of limitation imposed by the Minimum Equipment List (MEL) in large transport aeroplanes for complete boost pump failure is\u2026</p>",
   "options": {
     "a": "No fuel may be carried in the affected fuel tank.",
@@ -10,5 +10,10 @@
     "d": "<p>Maximum operating speed limitation.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78307,
+    "number": "211187"
+  }
 }

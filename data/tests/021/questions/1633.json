@@ -1,7 +1,7 @@
 {
   "number": 1633,
-  "questionId": 96739,
-  "questionNumber": "216421",
+  "questionId": "021-1633",
+  "questionNumber": "021-1633",
   "stemHtml": "What is a Transformer Rectifier Unit (TRU) used for?",
   "options": {
     "a": "To convert from DC to AC, usually to a higher voltage.",
@@ -10,5 +10,10 @@
     "d": "To convert from DC to AC, usually to a lower voltage."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96739,
+    "number": "216421"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 649,
-  "questionId": 67024,
-  "questionNumber": "109605",
+  "questionId": "010-0649",
+  "questionNumber": "010-0649",
   "stemHtml": "<p>While flying you have an emergency \u2013 Which of the following SSR transponder modes and codes shall you select?</p>",
   "options": {
     "a": "Mode C and code 7000.",
@@ -10,5 +10,10 @@
     "d": "Mode A and code 7700."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67024,
+    "number": "109605"
+  }
 }

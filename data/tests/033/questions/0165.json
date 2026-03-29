@@ -1,7 +1,7 @@
 {
   "number": 165,
-  "questionId": 162655,
-  "questionNumber": "338629",
+  "questionId": "033-0165",
+  "questionNumber": "033-0165",
   "stemHtml": "<p>Refer to figure or LONDON Chart 11-3 from Jeppesen GSPRM 2017.      <br />     Which of the following is an ATIS frequency?</p>",
   "options": {
     "a": "<p>113.75 MHz</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/659b52fa-245c-4c23-b938-8b2c4faf8f77.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/659b52fa-245c-4c23-b938-8b2c4faf8f77.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162655,
+    "number": "338629"
+  }
 }

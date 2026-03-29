@@ -1,7 +1,7 @@
 {
   "number": 307,
-  "questionId": 80251,
-  "questionNumber": "106038",
+  "questionId": "010-0307",
+  "questionNumber": "010-0307",
   "stemHtml": "<p>Which of the following are regulated in Commission Regulation (EU) No 965/2012 on Air Operations, as amended?</p><p>1. Air operator certificates<br>2. Authorisation of high-risk commercial specialised operations<br>3. Flight crew licensing<br>4. Ramp inspections</p>",
   "options": {
     "a": "1 and 4.",
@@ -10,5 +10,10 @@
     "d": "1, 2 and 4."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80251,
+    "number": "106038"
+  }
 }

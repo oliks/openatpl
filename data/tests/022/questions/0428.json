@@ -1,7 +1,7 @@
 {
   "number": 428,
-  "questionId": 108152,
-  "questionNumber": "222456",
+  "questionId": "022-0428",
+  "questionNumber": "022-0428",
   "stemHtml": "<p>What happens to the thrust levers if the autothrust system is engaged?</p>",
   "options": {
     "a": "<p>The thrust lever doesn\u2019t move, regardless of thrust changes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The thrust lever moves continuously to match the thrust output.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108152,
+    "number": "222456"
+  }
 }

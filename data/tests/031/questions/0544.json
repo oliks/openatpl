@@ -1,7 +1,7 @@
 {
   "number": 544,
-  "questionId": 69416,
-  "questionNumber": "312090",
+  "questionId": "031-0544",
+  "questionNumber": "031-0544",
   "stemHtml": "<p>Traffic load is the\u2026</p>",
   "options": {
     "a": "Take-off Mass minus Zero Fuel Mass.",
@@ -10,5 +10,10 @@
     "d": "Zero Fuel Mass minus Dry Operating Mass."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69416,
+    "number": "312090"
+  }
 }

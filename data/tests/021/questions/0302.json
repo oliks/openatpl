@@ -1,7 +1,7 @@
 {
   "number": 302,
-  "questionId": 82702,
-  "questionNumber": "219840",
+  "questionId": "021-0302",
+  "questionNumber": "021-0302",
   "stemHtml": "Which of the following fluids carried on board an aircraft may all be considered corrosive?",
   "options": {
     "a": "Battery acid, fuel & mercury.",
@@ -10,5 +10,10 @@
     "d": "Hydraulic fluid, fuel & water."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82702,
+    "number": "219840"
+  }
 }

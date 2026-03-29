@@ -1,7 +1,7 @@
 {
   "number": 733,
-  "questionId": 68721,
-  "questionNumber": "229182",
+  "questionId": "022-0733",
+  "questionNumber": "022-0733",
   "stemHtml": "<p>The aural alert associated with the mode 2 (excessive terrain closure rate) of the GPWS is\u2026</p>",
   "options": {
     "a": "CLIMB",
@@ -10,5 +10,10 @@
     "d": "DON`T SINK"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68721,
+    "number": "229182"
+  }
 }

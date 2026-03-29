@@ -1,7 +1,7 @@
 {
   "number": 1340,
-  "questionId": 108969,
-  "questionNumber": "211115",
+  "questionId": "021-1340",
+  "questionNumber": "021-1340",
   "stemHtml": "<p>Which of the following is a benefit of a low pressure hydraulic system over a high pressure system?</p>",
   "options": {
     "a": "<p>It uses less hydraulic fluid.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It generates less heat and wears on its components.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108969,
+    "number": "211115"
+  }
 }

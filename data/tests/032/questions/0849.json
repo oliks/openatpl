@@ -1,7 +1,7 @@
 {
   "number": 849,
-  "questionId": 153854,
-  "questionNumber": "326574",
+  "questionId": "032-0849",
+  "questionNumber": "032-0849",
   "stemHtml": "<p>What factor is affected by headwind during a departure?</p>",
   "options": {
     "a": "<p>Rate of climb</p>",
@@ -10,5 +10,10 @@
     "d": "<p>V<sub>Y</sub></p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153854,
+    "number": "326574"
+  }
 }

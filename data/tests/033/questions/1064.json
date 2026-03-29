@@ -1,7 +1,7 @@
 {
   "number": 1064,
-  "questionId": 110162,
-  "questionNumber": "338321",
+  "questionId": "033-1064",
+  "questionNumber": "033-1064",
   "stemHtml": "<p>Where can VORs be referenced to the True North?</p>",
   "options": {
     "a": "<p>Northern Canada.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>New Scotland.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110162,
+    "number": "338321"
+  }
 }

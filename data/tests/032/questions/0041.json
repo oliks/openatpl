@@ -1,7 +1,7 @@
 {
   "number": 41,
-  "questionId": 69955,
-  "questionNumber": "328178",
+  "questionId": "032-0041",
+  "questionNumber": "032-0041",
   "stemHtml": "Which of the following statements, concerning tires, is the major consideration when establishing the tyre speed limit?",
   "options": {
     "a": "rotation rate of the tyre and temperature.",
@@ -10,5 +10,10 @@
     "d": "tyre pressure and brake temperature."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69955,
+    "number": "328178"
+  }
 }

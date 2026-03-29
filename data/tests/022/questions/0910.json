@@ -1,7 +1,7 @@
 {
   "number": 910,
-  "questionId": 80839,
-  "questionNumber": "228321",
+  "questionId": "022-0910",
+  "questionNumber": "022-0910",
   "stemHtml": "<p>After a failure, whats is an appropriate procedure, in the correct order of prority, for following an on-screen checklist?</p><p>1. Confirm the failure <br /> 2. Check the status of the FWS <br /> 3. Follow the checklist slowly and methodically  <br /> 4. Seek confirmation prior to manipulating any guarded switches  <br /> 5. Assess the possible implications of making certain selections</p>",
   "options": {
     "a": "<p>2, 3, 4, 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 4, 5</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80839,
+    "number": "228321"
+  }
 }

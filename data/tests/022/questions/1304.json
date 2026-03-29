@@ -1,7 +1,7 @@
 {
   "number": 1304,
-  "questionId": 84487,
-  "questionNumber": "221832",
+  "questionId": "022-1304",
+  "questionNumber": "022-1304",
   "stemHtml": "<p>A crew performed a go around at the destination aerodrome and diverted to the primary alternate aerodrome. During the go around, the crew forgets to retract the landing gear. What will happen to the fuel required? It will\u2026</p>",
   "options": {
     "a": "Remain unchanged as the diversion is calculated with the gear extended and/or flaps down.",
@@ -10,5 +10,10 @@
     "d": "Remain unchanged as the crew fly at lower altitude and at a lower speed."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84487,
+    "number": "221832"
+  }
 }

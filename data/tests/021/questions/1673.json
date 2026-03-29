@@ -1,7 +1,7 @@
 {
   "number": 1673,
-  "questionId": 67340,
-  "questionNumber": "214750",
+  "questionId": "021-1673",
+  "questionNumber": "021-1673",
   "stemHtml": "Temperature regulation of an air conditioning system:",
   "options": {
     "a": "is manually controlled by the pilot reading the cabin temperature gauge and increasing or decreasing hot air as required.",
@@ -10,5 +10,10 @@
     "d": "is automatically controlled by sensing the output temperature from the control valve in relation to the temperature set on the pilot`s control panel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67340,
+    "number": "214750"
+  }
 }

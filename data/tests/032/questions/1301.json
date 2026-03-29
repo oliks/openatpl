@@ -1,7 +1,7 @@
 {
   "number": 1301,
-  "questionId": 70011,
-  "questionNumber": "329061",
+  "questionId": "032-1301",
+  "questionNumber": "032-1301",
   "stemHtml": "<p>Refer to figure or Performance Manual MEP 1 Figure 3.1.</p><p>OAT: 24\u00b0C<br>Pressure Altitude: 3000 ft<br>RWY: 30R<br>Wind: 060\u00b0/4 kt<br>Take-off Mass: 3800 lb</p><p>Other conditions as associated in the header of the graph. Given the following information, what is the ground roll distance?</p>",
   "options": {
     "a": "2000 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/04c360d9-8994-4764-a7c4-56e4d75f949d.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/04c360d9-8994-4764-a7c4-56e4d75f949d.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70011,
+    "number": "329061"
+  }
 }

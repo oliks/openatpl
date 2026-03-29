@@ -1,7 +1,7 @@
 {
   "number": 1287,
-  "questionId": 111452,
-  "questionNumber": "109711",
+  "questionId": "010-1287",
+  "questionNumber": "010-1287",
   "stemHtml": "<p>On the 30th of September, a construction site in the vicinity of an aerodrome is erecting a group of 3 cranes. The first crane will be erected until the 1st of December. The second crane will be erected until the 2nd<strong><sup> </sup></strong>of January. The third crane will be erected until the 3rd of March. Which of the following is the correct option for distributing this information to pilots?</p>",
   "options": {
     "a": "<p>As a NOTAM.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>As an AIP supplement.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111452,
+    "number": "109711"
+  }
 }

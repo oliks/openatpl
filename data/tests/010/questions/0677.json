@@ -1,7 +1,7 @@
 {
   "number": 677,
-  "questionId": 107519,
-  "questionNumber": "106978",
+  "questionId": "010-0677",
+  "questionNumber": "010-0677",
   "stemHtml": "<p>Refer to figure.  <br />  \rThe marshaller is holding the right arm up with a baton and the left arm down. What does this signal indicate to the pilot?</p>",
   "options": {
     "a": "<p>Stop.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/2a590073-f392-449a-b3cd-09a342121b59.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/2a590073-f392-449a-b3cd-09a342121b59.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107519,
+    "number": "106978"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 304,
-  "questionId": 82903,
-  "questionNumber": "331953",
+  "questionId": "033-0304",
+  "questionNumber": "033-0304",
   "stemHtml": "<p>In terms of the flight method used to conduct an approach, which type does the following definition describe?</p><p>This type of approach has both lateral and vertical guidance ; the flight path can use both a Course Deviation Indicator (CDI) and Glide Path (GP) indicator.</p>",
   "options": {
     "a": "<p>3D</p>",
@@ -10,5 +10,10 @@
     "d": "Type B"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82903,
+    "number": "331953"
+  }
 }

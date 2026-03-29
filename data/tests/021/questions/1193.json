@@ -1,7 +1,7 @@
 {
   "number": 1193,
-  "questionId": 80797,
-  "questionNumber": "212190",
+  "questionId": "021-1193",
+  "questionNumber": "021-1193",
   "stemHtml": "<p>How may corrosion of ferrous based metals be identified?</p>",
   "options": {
     "a": "<p>By brown or reddy/brown discolouration.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>By blue powder.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80797,
+    "number": "212190"
+  }
 }

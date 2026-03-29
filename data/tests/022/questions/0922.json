@@ -1,7 +1,7 @@
 {
   "number": 922,
-  "questionId": 68681,
-  "questionNumber": "222656",
+  "questionId": "022-0922",
+  "questionNumber": "022-0922",
   "stemHtml": "<p>For most FMS the fuel prediction function, which computes the remaining fuel along the flight plan, takes into account the following situations:</p><p>1. the gross weight of the aircraft<br>2. the current wind computed or the resulting ground speed<br>3. the additional drag in case the landing gear remains extended<br>4. the additional drag resulting in a missing fuselage or wing element in compliance with the CDL (Configuration Deviation List)</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 3.",
@@ -10,5 +10,10 @@
     "d": "1, 2."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68681,
+    "number": "222656"
+  }
 }

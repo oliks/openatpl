@@ -1,7 +1,7 @@
 {
   "number": 1832,
-  "questionId": 108068,
-  "questionNumber": "101803",
+  "questionId": "010-1832",
+  "questionNumber": "010-1832",
   "stemHtml": "<p>Refer to figure. <br>What is the appropriate holding entry?</p>",
   "options": {
     "a": "<p>Direct with dead reackoning.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/441d04b1-9f67-4d78-9ba6-21870ef687de.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/441d04b1-9f67-4d78-9ba6-21870ef687de.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108068,
+    "number": "101803"
+  }
 }

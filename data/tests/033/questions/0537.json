@@ -1,7 +1,7 @@
 {
   "number": 537,
-  "questionId": 70919,
-  "questionNumber": "333492",
+  "questionId": "033-0537",
+  "questionNumber": "033-0537",
   "stemHtml": "How many trips must you plan to make in order to file a repetitive flight plan?",
   "options": {
     "a": "10",
@@ -10,5 +10,10 @@
     "d": "2"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70919,
+    "number": "333492"
+  }
 }

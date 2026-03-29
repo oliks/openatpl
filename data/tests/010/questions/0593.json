@@ -1,7 +1,7 @@
 {
   "number": 593,
-  "questionId": 67138,
-  "questionNumber": "105033",
+  "questionId": "010-0593",
+  "questionNumber": "010-0593",
   "stemHtml": "According to ICAO Annex 14, which of the following is necessary when aircraft refuelling operations take place at the same time as passengers are embarking, on board or disembarking?",
   "options": {
     "a": "Ground equipment shall be positioned so as to allow the use of a sufficient number of exits for expeditious evacuation.",
@@ -10,5 +10,10 @@
     "d": "Rescue and fire fighting vehicles must be manned and at their stations in order to be available in the event of a fire."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67138,
+    "number": "105033"
+  }
 }

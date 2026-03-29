@@ -1,7 +1,7 @@
 {
   "number": 50,
-  "questionId": 84488,
-  "questionNumber": "226522",
+  "questionId": "022-0050",
+  "questionNumber": "022-0050",
   "stemHtml": "<p>All GPS signal inputs to the FMS are lost. What is one implication of this?</p>",
   "options": {
     "a": "<p>The system will be unable to navigate directly by using great circles.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The displayed position will be offset.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84488,
+    "number": "226522"
+  }
 }

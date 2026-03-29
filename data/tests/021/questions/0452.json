@@ -1,7 +1,7 @@
 {
   "number": 452,
-  "questionId": 67829,
-  "questionNumber": "217225",
+  "questionId": "021-0452",
+  "questionNumber": "021-0452",
   "stemHtml": "<p>The ventilation system in a fuel tank\u2026</p>",
   "options": {
     "a": "prevents vapour locking in the fuel lines.",
@@ -10,5 +10,10 @@
     "d": "can be used to drain the tanks, for daily checks."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67829,
+    "number": "217225"
+  }
 }

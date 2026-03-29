@@ -1,7 +1,7 @@
 {
   "number": 1007,
-  "questionId": 84800,
-  "questionNumber": "229582",
+  "questionId": "022-1007",
+  "questionNumber": "022-1007",
   "stemHtml": "The ADC fails. What happens to the A/P?",
   "options": {
     "a": "The A/P is affected and gets less accurate and thus more unreliable.",
@@ -10,5 +10,10 @@
     "d": "The ADC supplies data only to the IRS and the FMS."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84800,
+    "number": "229582"
+  }
 }

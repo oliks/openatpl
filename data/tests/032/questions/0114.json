@@ -1,7 +1,7 @@
 {
   "number": 114,
-  "questionId": 117473,
-  "questionNumber": "326940",
+  "questionId": "032-0114",
+  "questionNumber": "032-0114",
   "stemHtml": "<p>What is the lateral obstacle clearance in visual conditions along the net take-off flight path with turns less than 15\u00b0?</p>",
   "options": {
     "a": "<p>500 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>90 m</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117473,
+    "number": "326940"
+  }
 }

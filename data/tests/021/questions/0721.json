@@ -1,7 +1,7 @@
 {
   "number": 721,
-  "questionId": 67523,
-  "questionNumber": "215889",
+  "questionId": "021-0721",
+  "questionNumber": "021-0721",
   "stemHtml": "Which property must a fluid have for a hydraulic system to operate correctly?",
   "options": {
     "a": "High viscosity",
@@ -10,5 +10,10 @@
     "d": "Chemical instability"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67523,
+    "number": "215889"
+  }
 }

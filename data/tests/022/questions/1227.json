@@ -1,7 +1,7 @@
 {
   "number": 1227,
-  "questionId": 81798,
-  "questionNumber": "221708",
+  "questionId": "022-1227",
+  "questionNumber": "022-1227",
   "stemHtml": "Refer to figure. <br /> What must the pilot be particularly careful about in the current situation?",
   "options": {
     "a": "The autopilot could capture the glideslope before the localiser and commence descent outside of the protected area.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/720D754F-F1BA-4B05-AC66-95730935E692.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/720D754F-F1BA-4B05-AC66-95730935E692.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81798,
+    "number": "221708"
+  }
 }

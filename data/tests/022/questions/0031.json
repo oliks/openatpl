@@ -1,7 +1,7 @@
 {
   "number": 31,
-  "questionId": 81380,
-  "questionNumber": "222990",
+  "questionId": "022-0031",
+  "questionNumber": "022-0031",
   "stemHtml": "<p dir=\"ltr\">To provide complete attitude data and navigational data, what external input(s) does the INS computer require?</p>",
   "options": {
     "a": "<p dir=\"ltr\">TAS, radar altitude and GPS position.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">TAS only.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81380,
+    "number": "222990"
+  }
 }

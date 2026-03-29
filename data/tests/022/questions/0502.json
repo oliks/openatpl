@@ -1,7 +1,7 @@
 {
   "number": 502,
-  "questionId": 68695,
-  "questionNumber": "227799",
+  "questionId": "022-0502",
+  "questionNumber": "022-0502",
   "stemHtml": "<p>The Mach Meter is subject to position error. This error varies with\u2026</p>",
   "options": {
     "a": "TAS only.",
@@ -10,5 +10,10 @@
     "d": "OAT only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68695,
+    "number": "227799"
+  }
 }

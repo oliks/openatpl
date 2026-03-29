@@ -1,7 +1,7 @@
 {
   "number": 242,
-  "questionId": 82283,
-  "questionNumber": "226497",
+  "questionId": "022-0242",
+  "questionNumber": "022-0242",
   "stemHtml": "Which of the following, if not selected before the take-off run initiation, will not trigger the take-off configuration warning?",
   "options": {
     "a": "Arming of the auto-brake.",
@@ -10,5 +10,10 @@
     "d": "Parking brake still set."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82283,
+    "number": "226497"
+  }
 }

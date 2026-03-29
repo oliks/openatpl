@@ -1,7 +1,7 @@
 {
   "number": 493,
-  "questionId": 70952,
-  "questionNumber": "332647",
+  "questionId": "033-0493",
+  "questionNumber": "033-0493",
   "stemHtml": "<p>Given the following data:</p><p>MSA 8230 ft <br>QNH 995 hPa (measured at an airfield nearby at MSL) <br>Temperature ISA -18\u00b0C <br>Track 123\u00b0M <br>Assume 30 ft / hPa</p><p>Calculate the minimum cruising flight level for a flight under under IFR.</p>",
   "options": {
     "a": "FL 90",
@@ -10,5 +10,10 @@
     "d": "FL 120"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70952,
+    "number": "332647"
+  }
 }

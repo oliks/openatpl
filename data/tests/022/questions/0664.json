@@ -1,7 +1,7 @@
 {
   "number": 664,
-  "questionId": 69137,
-  "questionNumber": "222139",
+  "questionId": "022-0664",
+  "questionNumber": "022-0664",
   "stemHtml": "<p>A flight envelope protection system is a system\u2026</p>",
   "options": {
     "a": "that generates a signal when the engines have exceeded the start envelope limit.",
@@ -10,5 +10,10 @@
     "d": "that generates a signal during flight when engine parameters only are exceeded."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69137,
+    "number": "222139"
+  }
 }

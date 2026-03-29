@@ -1,7 +1,7 @@
 {
   "number": 1380,
-  "questionId": 152453,
-  "questionNumber": "107736",
+  "questionId": "010-1380",
+  "questionNumber": "010-1380",
   "stemHtml": "<p>At 25th of September 2018 work is being carried out on an aerodrome that will end on 31st of March 2019. How will the pilots be informed of this change?</p>",
   "options": {
     "a": "<p>AIP Supplement</p>",
@@ -10,5 +10,10 @@
     "d": "<p>AIP Amendment</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 152453,
+    "number": "107736"
+  }
 }

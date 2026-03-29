@@ -1,7 +1,7 @@
 {
   "number": 277,
-  "questionId": 67056,
-  "questionNumber": "104433",
+  "questionId": "010-0277",
+  "questionNumber": "010-0277",
   "stemHtml": "<p>Temporary, long-term modifications (3 months or more) and short-term extensive or graphical information are published as\u2026</p>",
   "options": {
     "a": "NOTAM.",
@@ -10,5 +10,10 @@
     "d": "AIP supplements."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67056,
+    "number": "104433"
+  }
 }

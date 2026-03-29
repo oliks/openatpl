@@ -1,7 +1,7 @@
 {
   "number": 570,
-  "questionId": 144145,
-  "questionNumber": "216954",
+  "questionId": "021-0570",
+  "questionNumber": "021-0570",
   "stemHtml": "<p>A Torque is another word for\u2026</p>",
   "options": {
     "a": "<p>Engine power.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pressure.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 144145,
+    "number": "216954"
+  }
 }

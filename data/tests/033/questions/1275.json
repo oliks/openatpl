@@ -1,7 +1,7 @@
 {
   "number": 1275,
-  "questionId": 70994,
-  "questionNumber": "332115",
+  "questionId": "033-1275",
+  "questionNumber": "033-1275",
   "stemHtml": "Refer to figure.  <br />  With regard to the given OFP, which statement is correct concerning the ground speed experienced between WPT1 and WPT2  when the accumulated flight time after this segment was equal to 27 minutes?",
   "options": {
     "a": "The GS is approximately 100 kt lower than expected.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2377B228-E3FA-48D2-87F2-6DE5E4CF71FC.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2377B228-E3FA-48D2-87F2-6DE5E4CF71FC.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70994,
+    "number": "332115"
+  }
 }

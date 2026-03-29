@@ -1,7 +1,7 @@
 {
   "number": 559,
-  "questionId": 66491,
-  "questionNumber": "225334",
+  "questionId": "022-0559",
+  "questionNumber": "022-0559",
   "stemHtml": "What is the value of the magnetic dip at the magnetic South Pole?",
   "options": {
     "a": "0\u00b0",
@@ -10,5 +10,10 @@
     "d": "45\u00b0"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66491,
+    "number": "225334"
+  }
 }

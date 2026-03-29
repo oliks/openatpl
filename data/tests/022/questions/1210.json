@@ -1,7 +1,7 @@
 {
   "number": 1210,
-  "questionId": 80884,
-  "questionNumber": "228391",
+  "questionId": "022-1210",
+  "questionNumber": "022-1210",
   "stemHtml": "What do you understand by \u201cunreliable airspeed\u201d?",
   "options": {
     "a": "Airspeed indications affected by pitot/static system errors, but without triggering a warning and being automatically removed from displays and computations.",
@@ -10,5 +10,10 @@
     "d": "A modern commercial aviation EFIS feature."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80884,
+    "number": "228391"
+  }
 }

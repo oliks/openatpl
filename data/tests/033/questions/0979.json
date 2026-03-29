@@ -1,7 +1,7 @@
 {
   "number": 979,
-  "questionId": 117495,
-  "questionNumber": "332477",
+  "questionId": "033-0979",
+  "questionNumber": "033-0979",
   "stemHtml": "\"Contingency Fuel\" is the amount of fuel that should account for (1) _____ to the (2) _____ aerodrome.",
   "options": {
     "a": "(1) unforeseen or unpredictable factors; (2) destination",
@@ -10,5 +10,10 @@
     "d": "(1) all known predictable factors; (2) alternate"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117495,
+    "number": "332477"
+  }
 }

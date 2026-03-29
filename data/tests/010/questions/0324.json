@@ -1,7 +1,7 @@
 {
   "number": 324,
-  "questionId": 122863,
-  "questionNumber": "101098",
+  "questionId": "010-0324",
+  "questionNumber": "010-0324",
   "stemHtml": "<p>Under normal circumstances, where would a runway threshold be located?</p>",
   "options": {
     "a": "<p>Within 50 metres of the touchdown zone</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Adjacent to the airfield reference point</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 122863,
+    "number": "101098"
+  }
 }

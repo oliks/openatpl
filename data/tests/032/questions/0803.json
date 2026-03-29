@@ -1,7 +1,7 @@
 {
   "number": 803,
-  "questionId": 69908,
-  "questionNumber": "326420",
+  "questionId": "032-0803",
+  "questionNumber": "032-0803",
   "stemHtml": "Which statement is true when calculating take-off data for a class A aeroplane and if the reverse thrust is inoperative?",
   "options": {
     "a": "The ASD will increase if the runway is wet.",
@@ -10,5 +10,10 @@
     "d": "The CLTOM will decrease."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69908,
+    "number": "326420"
+  }
 }

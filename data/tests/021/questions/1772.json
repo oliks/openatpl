@@ -1,7 +1,7 @@
 {
   "number": 1772,
-  "questionId": 102839,
-  "questionNumber": "215925",
+  "questionId": "021-1772",
+  "questionNumber": "021-1772",
   "stemHtml": "<p>Which of the following statements accurately describes cyclic loads?</p>",
   "options": {
     "a": "<p>Pilots need to log every landing in order to know when cyclic load limitations may be exceeded.            </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Cyclic loads are present when loading cargo.            </p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102839,
+    "number": "215925"
+  }
 }

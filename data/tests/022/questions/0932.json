@@ -1,7 +1,7 @@
 {
   "number": 932,
-  "questionId": 68863,
-  "questionNumber": "229507",
+  "questionId": "022-0932",
+  "questionNumber": "022-0932",
   "stemHtml": "<p>In a mechanical instrument, the V<sub>MO</sub>/M<sub>MO</sub> pointer (barberpole) connects to which of the items listed below?</p><p>1. Aneroid capsule <br>2. Differential pressure capsule <br>3. Temperature-sensitive capsule</p>",
   "options": {
     "a": "2 only.",
@@ -10,5 +10,10 @@
     "d": "1 and 2."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68863,
+    "number": "229507"
+  }
 }

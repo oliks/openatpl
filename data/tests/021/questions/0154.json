@@ -1,7 +1,7 @@
 {
   "number": 154,
-  "questionId": 67958,
-  "questionNumber": "217608",
+  "questionId": "021-0154",
+  "questionNumber": "021-0154",
   "stemHtml": "Using compressor bleed air to power systems:",
   "options": {
     "a": "has no influence on aircraft performance",
@@ -10,5 +10,10 @@
     "d": "decreases aircraft performance"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67958,
+    "number": "217608"
+  }
 }

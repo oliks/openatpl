@@ -1,7 +1,7 @@
 {
   "number": 135,
-  "questionId": 159468,
-  "questionNumber": "213711",
+  "questionId": "021-0135",
+  "questionNumber": "021-0135",
   "stemHtml": "<p>When a generator is running, the indication on the left-zero ammeter shows (1) _____ and the centre-zero ammeter shows (2) _____. If the generator fails, the left-zero ammeter shows (3) _____ and the centre-zero ammeter shows (4) _____.</p>",
   "options": {
     "a": "<p>(1) Generator load; (2) Battery charge; (3) Zero; (4) Battery discharge\u00a0<br>\u00a0</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Generator load; (2) No indication; (3) Zero; (4) Zero</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159468,
+    "number": "213711"
+  }
 }

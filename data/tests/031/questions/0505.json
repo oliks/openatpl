@@ -1,7 +1,7 @@
 {
   "number": 505,
-  "questionId": 101471,
-  "questionNumber": "315724",
+  "questionId": "031-0505",
+  "questionNumber": "031-0505",
   "stemHtml": "<p>Refer to figure or CAP696 Figure 4.9. <br /> \rFor the forward cargo compartment (Cargo Hold 1), area between balance arms (BA) 286 in and 343 in, determine which of the 4 crates may be loaded:</p>",
   "options": {
     "a": "<p>Crate W: 8.30 kg/inch and 90 kg per ft<sup>2</sup></p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/c95574c1-824c-4dea-8820-a4ac1c9d3c86.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/c95574c1-824c-4dea-8820-a4ac1c9d3c86.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101471,
+    "number": "315724"
+  }
 }

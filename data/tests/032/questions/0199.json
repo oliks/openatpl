@@ -1,7 +1,7 @@
 {
   "number": 199,
-  "questionId": 82561,
-  "questionNumber": "325269",
+  "questionId": "032-0199",
+  "questionNumber": "032-0199",
   "stemHtml": "Which of the following characteristics is correct when describing compacted snow?",
   "options": {
     "a": "Compacted slush with a depth of at least 13 mm.",
@@ -10,5 +10,10 @@
     "d": "Equivalent to compressed ice crystals which are from airborne moisture on a Surface whose temperature is at or below freezing."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82561,
+    "number": "325269"
+  }
 }

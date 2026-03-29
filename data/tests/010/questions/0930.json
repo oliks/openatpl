@@ -1,7 +1,7 @@
 {
   "number": 930,
-  "questionId": 80264,
-  "questionNumber": "108300",
+  "questionId": "010-0930",
+  "questionNumber": "010-0930",
   "stemHtml": "Regulation (EU) No 965/2012, as amended, lays down detailed rules on certain aspects of aviation safety. Which of the following are covered by that Regulation?",
   "options": {
     "a": "The design, production, maintenance and operation of aeronautical products, parts and appliances.",
@@ -10,5 +10,10 @@
     "d": "Flight crew licensing."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80264,
+    "number": "108300"
+  }
 }

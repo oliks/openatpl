@@ -1,7 +1,7 @@
 {
   "number": 52,
-  "questionId": 68346,
-  "questionNumber": "215510",
+  "questionId": "021-0052",
+  "questionNumber": "021-0052",
   "stemHtml": "<p>Consider the case that hydraulic systems have failed in a fully powered flight control system. Movement of the normal pilot's flight control input will result in...</p>",
   "options": {
     "a": "jamming of the control actuator.",
@@ -10,5 +10,10 @@
     "d": "a lack of response in the control surface."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68346,
+    "number": "215510"
+  }
 }

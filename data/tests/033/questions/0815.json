@@ -1,7 +1,7 @@
 {
   "number": 815,
-  "questionId": 83001,
-  "questionNumber": "332843",
+  "questionId": "033-0815",
+  "questionNumber": "033-0815",
   "stemHtml": "<p>Refer to figure or Chart E(LO)6 from Jeppesen GSPRM 2017.<br>What is the shortest route from ALTET VOR/DME (ALT) N38\u00b016' W000\u00ba34' to BARCELONA VOR/DME (BCN) N41\u00b018' E002\u00b006')?</p>",
   "options": {
     "a": "ALT \u2013 A34 \u2013 VLC \u2013 B28 \u2013 BCN.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2C6535C0-BEC1-4687-A324-14F99AD0FD41.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2C6535C0-BEC1-4687-A324-14F99AD0FD41.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83001,
+    "number": "332843"
+  }
 }

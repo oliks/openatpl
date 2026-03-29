@@ -1,7 +1,7 @@
 {
   "number": 146,
-  "questionId": 106593,
-  "questionNumber": "105725",
+  "questionId": "010-0146",
+  "questionNumber": "010-0146",
   "stemHtml": "<p>A published holding procedure specifies right hand turns. Why is it dangerous to make left turns instead?</p>",
   "options": {
     "a": "<p>Flying left turns requires manual control.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Rate of descent must be increased.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106593,
+    "number": "105725"
+  }
 }

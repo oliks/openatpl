@@ -1,7 +1,7 @@
 {
   "number": 13,
-  "questionId": 70596,
-  "questionNumber": "339329",
+  "questionId": "033-0013",
+  "questionNumber": "033-0013",
   "stemHtml": "<p>The Commercial Air Transport flight shall be conducted so that the expected usable remaining fuel on arrival at the destination aerodrome is NOT less than the sum of the\u2026</p>",
   "options": {
     "a": "Alternate Fuel and the Final Reserve Fuel.",
@@ -10,5 +10,10 @@
     "d": "Contingency Fuel and the Final Reserve Fuel."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70596,
+    "number": "339329"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1813,
-  "questionId": 74789,
-  "questionNumber": "226591",
+  "questionId": "022-1813",
+  "questionNumber": "022-1813",
   "stemHtml": "Refer to figure. <br /> What is the aircraft track?",
   "options": {
     "a": "<p>260\u00b0M</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/2103821C-BBA4-4792-A0A1-50B660348468.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/2103821C-BBA4-4792-A0A1-50B660348468.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74789,
+    "number": "226591"
+  }
 }

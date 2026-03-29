@@ -1,7 +1,7 @@
 {
   "number": 1321,
-  "questionId": 82653,
-  "questionNumber": "338736",
+  "questionId": "033-1321",
+  "questionNumber": "033-1321",
   "stemHtml": "<p>Refer to figure or AMSTERDAM - Chart 16-2 from Jeppesen GSPRM 2017.<br>What is the Minimum Holding Altitude (MHA) at SPL?</p>",
   "options": {
     "a": "FL90",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/DE7244B9-40F6-4219-922F-564F7A26BC71.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/DE7244B9-40F6-4219-922F-564F7A26BC71.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82653,
+    "number": "338736"
+  }
 }

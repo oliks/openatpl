@@ -1,7 +1,7 @@
 {
   "number": 1348,
-  "questionId": 70860,
-  "questionNumber": "339821",
+  "questionId": "033-1348",
+  "questionNumber": "033-1348",
   "stemHtml": "Refer to figure.  <br />  In an ATS flight plan item 15 (route), in terms of latitude and longitude, a significant point at 41\u00b035'N 4\u00b015'E should be entered as:",
   "options": {
     "a": "41\u00b035' N 04\u00b0 15'E",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/65142F1B-209C-4372-B129-2097AD92738D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/65142F1B-209C-4372-B129-2097AD92738D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70860,
+    "number": "339821"
+  }
 }

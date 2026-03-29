@@ -1,7 +1,7 @@
 {
   "number": 1214,
-  "questionId": 70821,
-  "questionNumber": "333422",
+  "questionId": "033-1214",
+  "questionNumber": "033-1214",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual SEP 1 Figure 2.1.\u00a0<br>Given:</p><p>FL75\u00a0<br>OAT: +5\u00b0C\u00a0<br>During climb: average head wind component 20 kt\u00a0<br>Take-off from MSL with the initial mass of 3650 lb.</p><p>Find: Time and fuel to climb.</p>",
   "options": {
     "a": "10 min. 3.6 USG",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/143A69E9-E80E-4C35-A599-74B0C05EFBB8.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/143A69E9-E80E-4C35-A599-74B0C05EFBB8.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70821,
+    "number": "333422"
+  }
 }

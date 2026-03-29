@@ -1,7 +1,7 @@
 {
   "number": 974,
-  "questionId": 68641,
-  "questionNumber": "226699",
+  "questionId": "022-0974",
+  "questionNumber": "022-0974",
   "stemHtml": "<p>The EPR (Engine Pressure Ratio) is\u2026</p>",
   "options": {
     "a": "the difference between the compressor inlet total pressure and the turbine outlet total pressure.",
@@ -10,5 +10,10 @@
     "d": "the ratio of the compressor outlet total pressure to the compressor inlet total pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68641,
+    "number": "226699"
+  }
 }

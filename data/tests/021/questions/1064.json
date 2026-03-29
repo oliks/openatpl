@@ -1,7 +1,7 @@
 {
   "number": 1064,
-  "questionId": 159587,
-  "questionNumber": "211193",
+  "questionId": "021-1064",
+  "questionNumber": "021-1064",
   "stemHtml": "<p>Fly-by-wire flight controls systems use\u2026</p>",
   "options": {
     "a": "<p>a single computer controlling the movement of the control surfaces.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the autopilot computer to control the movement of control surfaces during manual flight.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159587,
+    "number": "211193"
+  }
 }

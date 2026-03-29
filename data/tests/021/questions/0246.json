@@ -1,7 +1,7 @@
 {
   "number": 246,
-  "questionId": 84630,
-  "questionNumber": "212371",
+  "questionId": "021-0246",
+  "questionNumber": "021-0246",
   "stemHtml": "Calculate the bypass ratio of a turbofan engine with the following parameters; an inlet mass flow of 400 kg/s and a HP compressor mass flow of 80kg/s.",
   "options": {
     "a": "5",
@@ -10,5 +10,10 @@
     "d": "8"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84630,
+    "number": "212371"
+  }
 }

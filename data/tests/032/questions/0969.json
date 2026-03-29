@@ -1,7 +1,7 @@
 {
   "number": 969,
-  "questionId": 96511,
-  "questionNumber": "323722",
+  "questionId": "032-0969",
+  "questionNumber": "032-0969",
   "stemHtml": "Refer to figure.  <br /> Why has the chart not accounted for any wind?",
   "options": {
     "a": "There is a safety margin built-in.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/96700eed-c717-4e1f-baca-b3de667a4087.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/96700eed-c717-4e1f-baca-b3de667a4087.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96511,
+    "number": "323722"
+  }
 }

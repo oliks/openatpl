@@ -1,7 +1,7 @@
 {
   "number": 408,
-  "questionId": 105439,
-  "questionNumber": "211367",
+  "questionId": "021-0408",
+  "questionNumber": "021-0408",
   "stemHtml": "<p>Why is \"vapour lock\" dangerous?</p>",
   "options": {
     "a": "<p>It can irritate the skin and eyes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Fuel consumption increases.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105439,
+    "number": "211367"
+  }
 }

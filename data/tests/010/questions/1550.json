@@ -1,7 +1,7 @@
 {
   "number": 1550,
-  "questionId": 66979,
-  "questionNumber": "107564",
+  "questionId": "010-1550",
+  "questionNumber": "010-1550",
   "stemHtml": "<p>The vertical separation minimum for RVSM-approved aircraft flying in the same direction, on the same route, at or above FL290 in RVSM airspace is?</p>",
   "options": {
     "a": "<p>500 feet (150 m).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1000 feet (300 m).</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66979,
+    "number": "107564"
+  }
 }

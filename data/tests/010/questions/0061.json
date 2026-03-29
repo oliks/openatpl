@@ -1,7 +1,7 @@
 {
   "number": 61,
-  "questionId": 109447,
-  "questionNumber": "104290",
+  "questionId": "010-0061",
+  "questionNumber": "010-0061",
   "stemHtml": "<p>Germany is conducting search and rescue operation. They should follow (1) _____ laws which are in accordance with (2) _____.</p>",
   "options": {
     "a": "<p>(1) Germany (2) ICAO</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) ICAO (2) EASA</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109447,
+    "number": "104290"
+  }
 }

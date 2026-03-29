@@ -1,7 +1,7 @@
 {
   "number": 936,
-  "questionId": 68433,
-  "questionNumber": "222890",
+  "questionId": "022-0936",
+  "questionNumber": "022-0936",
   "stemHtml": "<p>The yaw damper system controls\u2026</p>",
   "options": {
     "a": "the ailerons, with the angular rate about the yaw axis as the input signal.",
@@ -10,5 +10,10 @@
     "d": "the rudder, with the angular rate about the yaw axis as the input signal."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68433,
+    "number": "222890"
+  }
 }

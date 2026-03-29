@@ -1,7 +1,7 @@
 {
   "number": 741,
-  "questionId": 80222,
-  "questionNumber": "228264",
+  "questionId": "022-0741",
+  "questionNumber": "022-0741",
   "stemHtml": "<p>The output of an ADC can be used by\u2026</p>",
   "options": {
     "a": "<p>IRS</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADIRU</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80222,
+    "number": "228264"
+  }
 }

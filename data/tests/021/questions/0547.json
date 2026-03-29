@@ -1,7 +1,7 @@
 {
   "number": 547,
-  "questionId": 80813,
-  "questionNumber": "213541",
+  "questionId": "021-0547",
+  "questionNumber": "021-0547",
   "stemHtml": "<p>The main stress factor(s) for the material used in the turbine section of a gas turbine engine is/are\u2026</p>",
   "options": {
     "a": "High acceleration forces at the turbine inlet guide vanes.",
@@ -10,5 +10,10 @@
     "d": "Chemical abrasion caused by combustion gases."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80813,
+    "number": "213541"
+  }
 }

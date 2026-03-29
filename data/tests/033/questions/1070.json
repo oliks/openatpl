@@ -1,7 +1,7 @@
 {
   "number": 1070,
-  "questionId": 163364,
-  "questionNumber": "334316",
+  "questionId": "033-1070",
+  "questionNumber": "033-1070",
   "stemHtml": "<p>Refer to figure or Chart E(HI)2 from the Jeppesen GSPRM 2017.   <br />   Which route uses a single airway and is the shortest from Southampton (SAM) VOR/DME (50\u00b057.3\u2019N 001\u00b020.7\u2019W) to waypoint LORKU (49\u00b056.3\u2019N 002\u00b022.3\u2019W)?</p>",
   "options": {
     "a": "<p>SAM \u2013 BILNI \u2013 ROKSI \u2013 RUBMI \u2013 LORKU</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/6806366e-6f14-4bb5-a1f0-1925d60efab6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/6806366e-6f14-4bb5-a1f0-1925d60efab6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163364,
+    "number": "334316"
+  }
 }

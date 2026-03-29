@@ -1,7 +1,7 @@
 {
   "number": 1274,
-  "questionId": 82792,
-  "questionNumber": "228022",
+  "questionId": "022-1274",
+  "questionNumber": "022-1274",
   "stemHtml": "<p>What information must the pilots input and check with regards to FMS data before getting airborne?</p>",
   "options": {
     "a": "<p>Data from the load sheet.</p>",
@@ -10,5 +10,10 @@
     "d": "Destination weather input."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82792,
+    "number": "228022"
+  }
 }

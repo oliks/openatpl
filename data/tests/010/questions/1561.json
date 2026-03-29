@@ -1,7 +1,7 @@
 {
   "number": 1561,
-  "questionId": 102958,
-  "questionNumber": "108436",
+  "questionId": "010-1561",
+  "questionNumber": "010-1561",
   "stemHtml": "<p>Which of the following statements is true about psychoactive substances and their use by pilots?</p>",
   "options": {
     "a": "<p>You are able to take them as long as it is 8 hours before your duty.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The pilot can fly under their influence provided he is not acting as pilot flying.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102958,
+    "number": "108436"
+  }
 }

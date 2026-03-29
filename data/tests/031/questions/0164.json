@@ -1,7 +1,7 @@
 {
   "number": 164,
-  "questionId": 83185,
-  "questionNumber": "315567",
+  "questionId": "031-0164",
+  "questionNumber": "031-0164",
   "stemHtml": "<p>You are conducting a flight with a light jet aircraft with a Maximum Structural Take-off Mass of 8450 kg. On this exceptionally cold and dry winter day, your Performance-Limited Take-off Mass is equal to 8200 kg and your taxi fuel is equal to 80 kg. The Regulated Take-off Mass is...</p>",
   "options": {
     "a": "<p>8200 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>8280 kg.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83185,
+    "number": "315567"
+  }
 }

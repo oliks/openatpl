@@ -1,7 +1,7 @@
 {
   "number": 317,
-  "questionId": 66986,
-  "questionNumber": "108535",
+  "questionId": "010-0317",
+  "questionNumber": "010-0317",
   "stemHtml": "A pilot will receive an EAT as soon as practicable, when the expected approach delay is..",
   "options": {
     "a": "5 minutes.",
@@ -10,5 +10,10 @@
     "d": "15 minutes or more."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66986,
+    "number": "108535"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1306,
-  "questionId": 68272,
-  "questionNumber": "213330",
+  "questionId": "021-1306",
+  "questionNumber": "021-1306",
   "stemHtml": "<p>The first indication of carburettor icing on an aeroplane with a piston engine and a constant speed propeller during cruise is\u2026</p>",
   "options": {
     "a": "loss of manifold pressure.",
@@ -10,5 +10,10 @@
     "d": "abnormal cylinder head temperature."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68272,
+    "number": "213330"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 205,
-  "questionId": 69068,
-  "questionNumber": "226603",
+  "questionId": "022-0205",
+  "questionNumber": "022-0205",
   "stemHtml": "<p>Given:</p><p>C = the temperature in Celsius. <br>K = the temperature in Kelvin. <br>F = the temperature in Fahrenheit.</p><p>Which of these statements about temperature units are correct or incorrect?</p><p>1. C = K + 273<br>2. F = (C x 1.8) + 32</p>",
   "options": {
     "a": "1 is correct, 2 is correct.",
@@ -10,5 +10,10 @@
     "d": "1 is correct, 2 is incorrect."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69068,
+    "number": "226603"
+  }
 }

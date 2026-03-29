@@ -1,7 +1,7 @@
 {
   "number": 1565,
-  "questionId": 108477,
-  "questionNumber": "217938",
+  "questionId": "021-1565",
+  "questionNumber": "021-1565",
   "stemHtml": "<p>You are flying a large aircraft when you experience a leak in the bleed air system. After managing the situation, which systems will be most affected until you land?</p>",
   "options": {
     "a": "<p>Anti-icing and pressurisation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Landing gear extension and anti-icing.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108477,
+    "number": "217938"
+  }
 }

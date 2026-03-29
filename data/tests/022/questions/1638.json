@@ -1,7 +1,7 @@
 {
   "number": 1638,
-  "questionId": 131037,
-  "questionNumber": "223180",
+  "questionId": "022-1638",
+  "questionNumber": "022-1638",
   "stemHtml": "<p>Does an IRS provide data to the Flight Management System (FMS)? If it does, what kind of information does it supply?</p>",
   "options": {
     "a": "<p>Yes, it provides fuel and engine data.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes, it provides weather radar data.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 131037,
+    "number": "223180"
+  }
 }

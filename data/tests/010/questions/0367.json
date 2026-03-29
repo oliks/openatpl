@@ -1,7 +1,7 @@
 {
   "number": 367,
-  "questionId": 108753,
-  "questionNumber": "103188",
+  "questionId": "010-0367",
+  "questionNumber": "010-0367",
   "stemHtml": "<p>What is the wake turbulence category of an aircraft that weights 236 tonnes?</p>",
   "options": {
     "a": "<p>Medium.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Light.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108753,
+    "number": "103188"
+  }
 }

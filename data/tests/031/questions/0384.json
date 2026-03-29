@@ -1,7 +1,7 @@
 {
   "number": 384,
-  "questionId": 69598,
-  "questionNumber": "314015",
+  "questionId": "031-0384",
+  "questionNumber": "031-0384",
   "stemHtml": "<p>Refer to figure or CAP696 File 4.9. The Loading Manual for the transport aeroplane, the maximum running load for the aft section of the forward lower deck cargo compartment is\u2026</p>",
   "options": {
     "a": "14.65 kg per inch.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/54156231-B81C-45AD-A3AF-EBB8A244574C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/54156231-B81C-45AD-A3AF-EBB8A244574C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69598,
+    "number": "314015"
+  }
 }

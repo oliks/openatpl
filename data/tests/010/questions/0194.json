@@ -1,7 +1,7 @@
 {
   "number": 194,
-  "questionId": 80753,
-  "questionNumber": "103661",
+  "questionId": "010-0194",
+  "questionNumber": "010-0194",
   "stemHtml": "An aircraft has suffered damage to the landing gear and fuselage, as well as experiencing an AIRPROX. How are these two events classified?",
   "options": {
     "a": "<p>Accident and serious incident, respectively.</p>",
@@ -10,5 +10,10 @@
     "d": "Both serious incident<strong>.</strong>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80753,
+    "number": "103661"
+  }
 }

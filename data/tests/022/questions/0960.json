@@ -1,7 +1,7 @@
 {
   "number": 960,
-  "questionId": 80890,
-  "questionNumber": "222538",
+  "questionId": "022-0960",
+  "questionNumber": "022-0960",
   "stemHtml": "A flight is performed with a higher \"Cost Index\" at a given mass. Which of the following will occur?",
   "options": {
     "a": "<p>A higher cruise Mach Number.</p>",
@@ -10,5 +10,10 @@
     "d": "A better long range."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80890,
+    "number": "222538"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 593,
-  "questionId": 126425,
-  "questionNumber": "319428",
+  "questionId": "031-0593",
+  "questionNumber": "031-0593",
   "stemHtml": "<p>Refer to figure. <br /> \rFor aerodynamic purposes, a pilot decides to refuel only the inner and outer wing tanks on both sides, while the centre tank remains empty. The fuel density is 0.8. How many litres of fuel will be in the tanks?</p>",
   "options": {
     "a": "<p>15 608 L</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/09b42891-0526-4aec-880c-b37db761951b.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/09b42891-0526-4aec-880c-b37db761951b.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 126425,
+    "number": "319428"
+  }
 }

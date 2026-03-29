@@ -1,7 +1,7 @@
 {
   "number": 238,
-  "questionId": 107345,
-  "questionNumber": "334143",
+  "questionId": "033-0238",
+  "questionNumber": "033-0238",
   "stemHtml": "<p>Refer to figure. <br /> \rThe annex shows the fuel breakdown for a flight from VOGO (Goa) to EGCC (Manchester). The pilots decide to carry an extra 2300 kg of fuel due to weather at the destination. Using a fuel flow of 4.5 tonnes per hour, how much extra holding time in minutes will this extra fuel give at the destination of EGCC, if required?</p>",
   "options": {
     "a": "<p>15 min</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2d13cf83-709d-4afc-8073-a20d81ea816c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2d13cf83-709d-4afc-8073-a20d81ea816c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107345,
+    "number": "334143"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1221,
-  "questionId": 69028,
-  "questionNumber": "226318",
+  "questionId": "022-1221",
+  "questionNumber": "022-1221",
   "stemHtml": "<p>The function of the altitude alerting system is to alert the flight crew:</p>\r\r<p>1 \u2013 upon approaching a pre-selected altitude <br /> \r2 \u2013 upon approaching a pre-selected altitude, during climb only <br /> \r3 \u2013 of a loss of altitude during take-off or missed approach <br /> \r4 \u2013 of a wrong landing configuration <br /> \r5 \u2013 when deviating from the selected altitude</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>1, 3, 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 5.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69028,
+    "number": "226318"
+  }
 }

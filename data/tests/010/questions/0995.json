@@ -1,7 +1,7 @@
 {
   "number": 995,
-  "questionId": 83924,
-  "questionNumber": "108201",
+  "questionId": "010-0995",
+  "questionNumber": "010-0995",
   "stemHtml": "<p>An aircraft experiences radio communication failure on an IFR flight in IMC. It shall land, If possible, within\u2026</p>",
   "options": {
     "a": "15 minutes after crossing the designated navigation fix from which a normal Instrument approach can be conducted.",
@@ -10,5 +10,10 @@
     "d": "30 minutes after the ETA or the last acknowledged Expected Approach Time, whichever is later."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83924,
+    "number": "108201"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 767,
-  "questionId": 70484,
-  "questionNumber": "335491",
+  "questionId": "033-0767",
+  "questionNumber": "033-0767",
   "stemHtml": "<p>A twin-engined turbojet is being operated for a Commercial Air Transport flight. The Reduced Contingency Fuel (RCF) procedure is being applied. Given the following information and assuming a fuel ERA is not available for the flight to destination B, find the sum of the minimum required Trip Fuel and Contingency Fuel.</p><p>Route: from DEP to original destination A via decision point DP, with optional refuel destination B.</p><p>Trip Fuel DEP-A via DP: 6000 kg <br>Trip Fuel DEP-B via DP: 4000 kg <br>Fuel DP-A: 3000 kg <br>A alternate: not planned <br>B alternate: not planned <br>Fuel ERA: not planned <br>Additional Fuel: not required <br>Extra Fuel: not required</p>",
   "options": {
     "a": "<p>6300 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>6200 kg</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70484,
+    "number": "335491"
+  }
 }

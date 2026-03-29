@@ -1,7 +1,7 @@
 {
   "number": 131,
-  "questionId": 110053,
-  "questionNumber": "224641",
+  "questionId": "022-0131",
+  "questionNumber": "022-0131",
   "stemHtml": "<p>When refueling an aircraft, which of the following units can be used to measure fuel quantity?</p><p>1. g <br>2. lb <br>3. kg <br>4. L <br>5. Pa</p><p> </p>",
   "options": {
     "a": "<p>1, 2, 3, 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3, 4, 5</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110053,
+    "number": "224641"
+  }
 }

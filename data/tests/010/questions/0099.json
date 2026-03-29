@@ -1,7 +1,7 @@
 {
   "number": 99,
-  "questionId": 83009,
-  "questionNumber": "109123",
+  "questionId": "010-0099",
+  "questionNumber": "010-0099",
   "stemHtml": "Which of the following only lists instructions and information that should always be read back?",
   "options": {
     "a": "SSR code, QNH, take-off clearance, and speed instructions.",
@@ -10,5 +10,10 @@
     "d": "ATC clearance, speed instructions, and runway state information."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83009,
+    "number": "109123"
+  }
 }

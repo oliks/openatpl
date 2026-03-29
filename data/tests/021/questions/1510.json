@@ -1,7 +1,7 @@
 {
   "number": 1510,
-  "questionId": 67725,
-  "questionNumber": "214271",
+  "questionId": "021-1510",
+  "questionNumber": "021-1510",
   "stemHtml": "<p>In a bootstrap air-conditioning system, the mass air flow is routed through the\u2026</p>",
   "options": {
     "a": "<p>compressor outlet to the primary heat exchanger inlet.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>secondary heat exchanger outlet to the compressor inlet.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67725,
+    "number": "214271"
+  }
 }

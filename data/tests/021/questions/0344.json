@@ -1,7 +1,7 @@
 {
   "number": 344,
-  "questionId": 111619,
-  "questionNumber": "211928",
+  "questionId": "021-0344",
+  "questionNumber": "021-0344",
   "stemHtml": "<p>Hydraulic fluid in the reservoir is pressurised in order to\u2026</p>",
   "options": {
     "a": "<p>ensure sufficient pump output.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>prevent vapour locking.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111619,
+    "number": "211928"
+  }
 }

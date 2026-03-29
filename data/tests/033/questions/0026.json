@@ -1,7 +1,7 @@
 {
   "number": 26,
-  "questionId": 82827,
-  "questionNumber": "331655",
+  "questionId": "033-0026",
+  "questionNumber": "033-0026",
   "stemHtml": "Which option is correct as regards checking the availability of the GNSS service for flights that will rely on GNSS information for guidance?",
   "options": {
     "a": "Satellites may NOT be available due to terrain and/or antenna masking.",
@@ -10,5 +10,10 @@
     "d": "The availability of satellites is dependent on the aircraft's equipment."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82827,
+    "number": "331655"
+  }
 }

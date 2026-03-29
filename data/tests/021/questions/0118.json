@@ -1,7 +1,7 @@
 {
   "number": 118,
-  "questionId": 80823,
-  "questionNumber": "214233",
+  "questionId": "021-0118",
+  "questionNumber": "021-0118",
   "stemHtml": "After experiencing a loud bang, a master caution annunciator and a large yawing moment to the right which you correct by pushing left rudder.  The Pilot Flying in a twin engine jet aircraft asks the Pilot Monitoring to \"State the malfunction\" and get the following reply; \"Number 2 Engine\" \"NO N1 Rotation\" \"NO N2 Rotation\" \"NO Fuel Flow\" \"High EGT\" \"High Oil TEMP\" \"LOW Oil Pressure\" \"High Vibration\".  <br /> What has most likely happened?",
   "options": {
     "a": "The aircraft suffered a rapid decompression and the loud bang was from a cockpit window bursting.",
@@ -10,5 +10,10 @@
     "d": "The aircraft is experiencing a right engine stall."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80823,
+    "number": "214233"
+  }
 }

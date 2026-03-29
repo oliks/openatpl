@@ -1,7 +1,7 @@
 {
   "number": 1232,
-  "questionId": 70910,
-  "questionNumber": "332049",
+  "questionId": "033-1232",
+  "questionNumber": "033-1232",
   "stemHtml": "<p>Refer to figure or ALICANTE - charts 13-2, 10-2J from Jeppesen GSPRM 2017. <br>An aircraft is flying on airway A-34 to Alicante / Spain (LEAL) and arrives at MAGAL for an approach on runway 10. What is the distance from the IAF to the runway threshold?</p>",
   "options": {
     "a": "28.7 NM",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/F90011A0-B012-4857-9BD8-BE16EF1367E8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F90011A0-B012-4857-9BD8-BE16EF1367E8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70910,
+    "number": "332049"
+  }
 }

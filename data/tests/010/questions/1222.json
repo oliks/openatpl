@@ -1,7 +1,7 @@
 {
   "number": 1222,
-  "questionId": 67148,
-  "questionNumber": "101500",
+  "questionId": "010-1222",
+  "questionNumber": "010-1222",
   "stemHtml": "<p>You are flying on a VFR flight in VMC in a control zone. Suddenly, you realize you are unable to maintain VMC. What are your actions according ICAO Annex 2?</p>",
   "options": {
     "a": "<p>Request a special VFR clearance.</p>",
@@ -10,5 +10,10 @@
     "d": "Continue to fly in VMC as best as possible and land at the nearest suitable airport immediately."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67148,
+    "number": "101500"
+  }
 }

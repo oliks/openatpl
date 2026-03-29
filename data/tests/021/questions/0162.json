@@ -1,7 +1,7 @@
 {
   "number": 162,
-  "questionId": 67395,
-  "questionNumber": "214220",
+  "questionId": "021-0162",
+  "questionNumber": "021-0162",
   "stemHtml": "<p>One of the advantages of an annular combustion chamber in a gas turbine engine is\u2026</p>",
   "options": {
     "a": "<p>a simpler assembly.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>that fewer igniters are required.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67395,
+    "number": "214220"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1855,
-  "questionId": 110039,
-  "questionNumber": "108878",
+  "questionId": "010-1855",
+  "questionNumber": "010-1855",
   "stemHtml": "<p>The maximum holding speed for your aeroplane category is determined as 190 kt. What is the risk of following a higher speed? </p>",
   "options": {
     "a": "<p>Obstacle clearance can be lost.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No danger exists.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110039,
+    "number": "108878"
+  }
 }

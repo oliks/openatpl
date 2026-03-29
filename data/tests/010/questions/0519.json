@@ -1,7 +1,7 @@
 {
   "number": 519,
-  "questionId": 110143,
-  "questionNumber": "105543",
+  "questionId": "010-0519",
+  "questionNumber": "010-0519",
   "stemHtml": "<p>ICAO Annex 13 defines which of the following as a serious injury?</p>",
   "options": {
     "a": "<p>An injury resulting in severe damage to an internal organ.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An injury resulting in a burn affecting more than 10 percent of the body surface.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110143,
+    "number": "105543"
+  }
 }

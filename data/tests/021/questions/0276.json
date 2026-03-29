@@ -1,7 +1,7 @@
 {
   "number": 276,
-  "questionId": 68090,
-  "questionNumber": "214262",
+  "questionId": "021-0276",
+  "questionNumber": "021-0276",
   "stemHtml": "<p>In aeroplanes equipped with constant speed propellers, the first indication of carburettor icing during cruise would most likely be a\u2026</p>",
   "options": {
     "a": "rough running engine followed by loss in RPM.",
@@ -10,5 +10,10 @@
     "d": "decrease in RPM."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68090,
+    "number": "214262"
+  }
 }

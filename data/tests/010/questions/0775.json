@@ -1,7 +1,7 @@
 {
   "number": 775,
-  "questionId": 103831,
-  "questionNumber": "106438",
+  "questionId": "010-0775",
+  "questionNumber": "010-0775",
   "stemHtml": "<p>The primary objective of each Contracting State as regards safeguarding against acts of unlawful interference with civil aviation is the safety of which of the following?</p>\r\r<p>1. Passengers <br /> \r2. Crew <br /> \r3. The aircraft <br /> \r4. Ground personnel <br /> \r5. The general public <br /> \r6. Aerodrome buildings</p>\r\r<div> </div>",
   "options": {
     "a": "<p>2, 3, 5, and 6</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3, and 4</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103831,
+    "number": "106438"
+  }
 }

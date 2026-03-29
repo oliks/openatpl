@@ -1,7 +1,7 @@
 {
   "number": 44,
-  "questionId": 80159,
-  "questionNumber": "214549",
+  "questionId": "021-0044",
+  "questionNumber": "021-0044",
   "stemHtml": "What is the SI unit of measurement for power?",
   "options": {
     "a": "Pa",
@@ -10,5 +10,10 @@
     "d": "W"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80159,
+    "number": "214549"
+  }
 }

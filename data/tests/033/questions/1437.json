@@ -1,7 +1,7 @@
 {
   "number": 1437,
-  "questionId": 70730,
-  "questionNumber": "339339",
+  "questionId": "033-1437",
+  "questionNumber": "033-1437",
   "stemHtml": "According to ICAO, what is the lowest altitude that may be used which provides a minimum clearance of 300 m 1000 ft above all objects located in the area contained within a sector of a circle of 46 km (25 NM) radius centred on a radio aid to navigation?",
   "options": {
     "a": "MCA.",
@@ -10,5 +10,10 @@
     "d": "MSA."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70730,
+    "number": "339339"
+  }
 }

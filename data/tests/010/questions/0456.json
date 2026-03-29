@@ -1,7 +1,7 @@
 {
   "number": 456,
-  "questionId": 100101,
-  "questionNumber": "109784",
+  "questionId": "010-0456",
+  "questionNumber": "010-0456",
   "stemHtml": "For aircraft flying above a specific Flight Level, typically above FL180, the vertical separation should be communicated or described...",
   "options": {
     "a": "in meters above sea level (MSL).",
@@ -10,5 +10,10 @@
     "d": "in Flight Levels."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100101,
+    "number": "109784"
+  }
 }

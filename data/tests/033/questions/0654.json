@@ -1,7 +1,7 @@
 {
   "number": 654,
-  "questionId": 71056,
-  "questionNumber": "334931",
+  "questionId": "033-0654",
+  "questionNumber": "033-0654",
   "stemHtml": "<p>Refer to figure.\u00a0<br>An Aircraft is planned to fly from Blaubeuren aerodrome (EDMC) (N 48\u00b025\u2019 E009\u00b048\u2019) to Schwenningen at Neckaraerodrom (EDTS) (N 48\u00b004\u2019, E008\u00b034\u2019) following the most direct routing. The route can include any airspace at these two airports, but the remaining portions of the route shall remain clear of any airspaces classes D, E or F and any danger or restricted areas. Which of the following is the most suitable visual turning point for the route?</p>",
   "options": {
     "a": "<p>Hayingen gliding site (N48\u00b017\u2019 E009\u00b028\u2019)</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/A4EAAE8B-DC21-46CB-B3CF-5474AC38C99C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/A4EAAE8B-DC21-46CB-B3CF-5474AC38C99C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71056,
+    "number": "334931"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 49,
-  "questionId": 82906,
-  "questionNumber": "333936",
+  "questionId": "033-0049",
+  "questionNumber": "033-0049",
   "stemHtml": "<p>Given the following information for a Commercial Air Transport flight:</p><p>Missed Approach at destination: 6 min <br /> Climb to cruise level: 7 min <br /> Cruise distance: 85 NM <br /> Cruise TAS: 165 kt <br /> Tailwind component: 10 kt <br /> Anticipated hold at alternate: 10 min <br /> Descent to alternate: 6 min <br /> Approach to alternate: 7 min</p><p>What is the time (in minutes) needed from the destination to the alternate aerodrome?</p>",
   "options": {
     "a": "55 minutes",
@@ -10,5 +10,10 @@
     "d": "69 minutes"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82906,
+    "number": "333936"
+  }
 }

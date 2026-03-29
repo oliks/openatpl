@@ -1,7 +1,7 @@
 {
   "number": 1184,
-  "questionId": 106795,
-  "questionNumber": "106931",
+  "questionId": "010-1184",
+  "questionNumber": "010-1184",
   "stemHtml": "<p>An aircraft is flying in a control zone with a Secondary Surveillance Radar (SSR) available. ATC has NO SSR capabilities. Which mode should the aircraft squawk?</p>",
   "options": {
     "a": "<p>Mode C continuously, Mode A upon request.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Mode A continuously, Mode C when passing through specific altitudes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106795,
+    "number": "106931"
+  }
 }

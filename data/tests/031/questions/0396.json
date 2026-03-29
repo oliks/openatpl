@@ -1,7 +1,7 @@
 {
   "number": 396,
-  "questionId": 69351,
-  "questionNumber": "316977",
+  "questionId": "031-0396",
+  "questionNumber": "031-0396",
   "stemHtml": "Refer to figure.  <br />  Using the loading manifest in the annex, determine the Basic Empty Mass of the aircraft.",
   "options": {
     "a": "3292 lb",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/8E2FAA6C-E801-48BB-9AA5-BB8E66C38A7F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/8E2FAA6C-E801-48BB-9AA5-BB8E66C38A7F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69351,
+    "number": "316977"
+  }
 }

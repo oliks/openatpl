@@ -1,7 +1,7 @@
 {
   "number": 988,
-  "questionId": 112039,
-  "questionNumber": "339913",
+  "questionId": "033-0988",
+  "questionNumber": "033-0988",
   "stemHtml": "<p>An aeroplane is maintaining M 0.80 at FL360, where the OAT is -55\u00b0C, the crew are instructed by ATC to climb to and maintain FL380, where the OAT is -52\u00b0C and to maintain a speed of M 0.76. By how much will the TAS change?</p>",
   "options": {
     "a": "<p>20 kt decrease</p>",
@@ -10,5 +10,10 @@
     "d": "<p>20 kt increase</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112039,
+    "number": "339913"
+  }
 }

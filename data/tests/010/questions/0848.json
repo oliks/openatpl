@@ -1,7 +1,7 @@
 {
   "number": 848,
-  "questionId": 86335,
-  "questionNumber": "104508",
+  "questionId": "010-0848",
+  "questionNumber": "010-0848",
   "stemHtml": "What is the fix tolerance of a Terminal Area Radar (TAR) within 20 NM of the facility?",
   "options": {
     "a": "0.5 NM",
@@ -10,5 +10,10 @@
     "d": "1.5 NM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86335,
+    "number": "104508"
+  }
 }

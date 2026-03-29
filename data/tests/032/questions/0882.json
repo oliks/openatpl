@@ -1,7 +1,7 @@
 {
   "number": 882,
-  "questionId": 80321,
-  "questionNumber": "321133",
+  "questionId": "032-0882",
+  "questionNumber": "032-0882",
   "stemHtml": "<p>Determine the ASDA for runway 09, given:</p><p>TORA: 2300 m <br /> Stopway: 280 m <br /> Clearway: 480 m</p>",
   "options": {
     "a": "<p>2300 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3060 m</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80321,
+    "number": "321133"
+  }
 }

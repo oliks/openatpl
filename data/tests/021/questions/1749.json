@@ -1,7 +1,7 @@
 {
   "number": 1749,
-  "questionId": 85330,
-  "questionNumber": "212279",
+  "questionId": "021-1749",
+  "questionNumber": "021-1749",
   "stemHtml": "In an aircraft without a dedicated battery charging system, how are batteries charged?",
   "options": {
     "a": "By the transformer rectifier unit (TRU).",
@@ -10,5 +10,10 @@
     "d": "By the rotary converter."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85330,
+    "number": "212279"
+  }
 }

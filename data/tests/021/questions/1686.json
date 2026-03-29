@@ -1,7 +1,7 @@
 {
   "number": 1686,
-  "questionId": 85622,
-  "questionNumber": "214377",
+  "questionId": "021-1686",
+  "questionNumber": "021-1686",
   "stemHtml": "An aircraft has a fully powered flight control system, linked to a single hydraulic actuator. If this actuator fails, which of the following will happen?",
   "options": {
     "a": "The control column will become jammed.",
@@ -10,5 +10,10 @@
     "d": "The control surface will not respond to pilot inputs."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85622,
+    "number": "214377"
+  }
 }

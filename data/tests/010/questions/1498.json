@@ -1,7 +1,7 @@
 {
   "number": 1498,
-  "questionId": 66740,
-  "questionNumber": "109212",
+  "questionId": "010-1498",
+  "questionNumber": "010-1498",
   "stemHtml": "The pre-flight actions performed by the pilot-in-command before the beginning of an IFR flight shall include...",
   "options": {
     "a": "a short briefing of the crew about the flight.",
@@ -10,5 +10,10 @@
     "d": "a consideration of fuel requirements."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66740,
+    "number": "109212"
+  }
 }

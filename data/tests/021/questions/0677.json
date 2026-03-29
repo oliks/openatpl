@@ -1,7 +1,7 @@
 {
   "number": 677,
-  "questionId": 67696,
-  "questionNumber": "214427",
+  "questionId": "021-0677",
+  "questionNumber": "021-0677",
   "stemHtml": "<p>For a piston engine, pre-ignition refers to the condition that may arise when\u2026</p>",
   "options": {
     "a": "the sparking plug ignites the mixture too early.",
@@ -10,5 +10,10 @@
     "d": "<p>the mixture is ignited by abnormal conditions within the cylinder before the spark occurs at the plug.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67696,
+    "number": "214427"
+  }
 }

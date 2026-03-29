@@ -1,7 +1,7 @@
 {
   "number": 393,
-  "questionId": 83733,
-  "questionNumber": "339797",
+  "questionId": "033-0393",
+  "questionNumber": "033-0393",
   "stemHtml": "<p>Due to significant weather conditions in the vicinity of the destination aerodrome, the pilot of a Commercial Air Transport flight has to plan for two destination alternate aerodromes. Given the following information, what is the Alternate Fuel required?</p><p>Average cruise fuel flow: 46 kg/min\u00a0<br>Fuel for missed approach: 400 kg\u00a0<br>Flight time from missed approach altitude to destination first alternate: 54 min<br>Flight time from missed approach altitude to destination second alternate: 44 min</p>",
   "options": {
     "a": "<p>4264 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2424 kg</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83733,
+    "number": "339797"
+  }
 }

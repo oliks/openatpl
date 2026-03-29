@@ -1,7 +1,7 @@
 {
   "number": 332,
-  "questionId": 68158,
-  "questionNumber": "217933",
+  "questionId": "021-0332",
+  "questionNumber": "021-0332",
   "stemHtml": "<p>The diffuser in a centrifugal compressor is a device in which the\u2026</p>",
   "options": {
     "a": "velocity, pressure and temperature rise.",
@@ -10,5 +10,10 @@
     "d": "pressure rises at a constant velocity."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68158,
+    "number": "217933"
+  }
 }

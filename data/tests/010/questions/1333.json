@@ -1,7 +1,7 @@
 {
   "number": 1333,
-  "questionId": 67150,
-  "questionNumber": "109714",
+  "questionId": "010-1333",
+  "questionNumber": "010-1333",
   "stemHtml": "An aircraft is flying in a holding pattern. Which adjustments shall be done by the pilot to remain within the holding pattern and protected airspace?",
   "options": {
     "a": "tracking and speed",
@@ -10,5 +10,10 @@
     "d": "heading and speed"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67150,
+    "number": "109714"
+  }
 }

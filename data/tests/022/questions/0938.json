@@ -1,7 +1,7 @@
 {
   "number": 938,
-  "questionId": 85548,
-  "questionNumber": "229666",
+  "questionId": "022-0938",
+  "questionNumber": "022-0938",
   "stemHtml": "<p>How many capsules can you find in a sensitive altimeter?</p>",
   "options": {
     "a": "<p>One.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>At least three.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85548,
+    "number": "229666"
+  }
 }

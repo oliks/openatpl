@@ -1,7 +1,7 @@
 {
   "number": 207,
-  "questionId": 68046,
-  "questionNumber": "213192",
+  "questionId": "021-0207",
+  "questionNumber": "021-0207",
   "stemHtml": "<p>An inverter is a\u2026</p>",
   "options": {
     "a": "device for changing mechanical movement into electrical energy.",
@@ -10,5 +10,10 @@
     "d": "unit used to change AC to DC."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68046,
+    "number": "213192"
+  }
 }

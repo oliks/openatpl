@@ -1,7 +1,7 @@
 {
   "number": 574,
-  "questionId": 136447,
-  "questionNumber": "329876",
+  "questionId": "032-0574",
+  "questionNumber": "032-0574",
   "stemHtml": "<p>A departure procedure requires a climb gradient of 6.3% to 1300 ft in order to maintain obstacle clearance. Given the data below, estimate the minimum rate of climb required.</p>\r\r<p>TAS: 134 kt <br /> \rAverage headwind component: 10 kt</p>",
   "options": {
     "a": "<p>790 ft/min</p>",
@@ -10,5 +10,10 @@
     "d": "<p>640 ft/min</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 136447,
+    "number": "329876"
+  }
 }

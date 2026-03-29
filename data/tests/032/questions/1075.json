@@ -1,7 +1,7 @@
 {
   "number": 1075,
-  "questionId": 69873,
-  "questionNumber": "323468",
+  "questionId": "032-1075",
+  "questionNumber": "032-1075",
   "stemHtml": "Having all other conditions the same, taking off from an upward-sloping runway compared to a zero slope runway will result in...",
   "options": {
     "a": "an increased take-off distance, and an increased stopping distance in case of an aborted take-off.",
@@ -10,5 +10,10 @@
     "d": "a decreased take-off distance, and an increased stopping distance in case of an aborted take-off."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69873,
+    "number": "323468"
+  }
 }

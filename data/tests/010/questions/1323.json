@@ -1,7 +1,7 @@
 {
   "number": 1323,
-  "questionId": 67097,
-  "questionNumber": "109262",
+  "questionId": "010-1323",
+  "questionNumber": "010-1323",
   "stemHtml": "<p>What is the ICAO definition for stopway?</p>",
   "options": {
     "a": "<p>A defined rectangular area on the ground at the end of take-off run available prepared to reduce the risk of damage to aircraft running off a runway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A defined rectangular area on the ground at the end of take-off run available prepared as a suitable area in which an aircraft can be stopped in the case of an abandoned take-off.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67097,
+    "number": "109262"
+  }
 }

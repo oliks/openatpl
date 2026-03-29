@@ -1,7 +1,7 @@
 {
   "number": 1001,
-  "questionId": 104780,
-  "questionNumber": "326414",
+  "questionId": "032-1001",
+  "questionNumber": "032-1001",
   "stemHtml": "<p>Which of the following statements are true regarding the ASDA?</p><p>1. It includes all of the TORA <br>2. It includes a starter extension <br>3. It includes a stopway in the direction of take-off <br>4. It includes a stopway in both directions</p>",
   "options": {
     "a": "<p>1 only</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 4</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104780,
+    "number": "326414"
+  }
 }

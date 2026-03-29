@@ -1,7 +1,7 @@
 {
   "number": 1049,
-  "questionId": 105813,
-  "questionNumber": "105310",
+  "questionId": "010-1049",
+  "questionNumber": "010-1049",
   "stemHtml": "<p>A pilot is prepared for departure and has begun taxiing to runway 32. It is around midnight, and snow is making conditions difficult. Although runway 32 is preferred for noise abatement, runway 24 is longer and offers more safety. The pilot decides to request clearance from ATC for takeoff from runway 24. What should the pilot expect from ATC?</p>",
   "options": {
     "a": "<p>A clearance for runway 24, however, ATC needs to file an incident report.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A clearance for runway 32, but ATC will instruct you to use maximum available thrust.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105813,
+    "number": "105310"
+  }
 }

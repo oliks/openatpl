@@ -1,7 +1,7 @@
 {
   "number": 1079,
-  "questionId": 70176,
-  "questionNumber": "326815",
+  "questionId": "032-1079",
+  "questionNumber": "032-1079",
   "stemHtml": "<p>Consider the curve for the thrust required versus speed, for a jet aeroplane. What speed can be obtained from the minimum of this curve? The speed for\u2026</p>",
   "options": {
     "a": "Max Range, because fuel flow is proportional to lift to drag ratio.",
@@ -10,5 +10,10 @@
     "d": "Max Range, because this speed corresponds to the maximum lift to drag ratio at the minimum."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70176,
+    "number": "326815"
+  }
 }

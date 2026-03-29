@@ -1,7 +1,7 @@
 {
   "number": 323,
-  "questionId": 100311,
-  "questionNumber": "311593",
+  "questionId": "031-0323",
+  "questionNumber": "031-0323",
   "stemHtml": "<p>Determine the mass that must be moved aft by a distance of 2.8 m, in order to establish a CG at 2.8 m aft of the datum, given:</p><p>Current CG position: 2.7 m <br /> aft of the datum Actual Take-Off Mass: 6 630 kg</p>",
   "options": {
     "a": "<p>877 kg</p>",
@@ -10,5 +10,10 @@
     "d": "1 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100311,
+    "number": "311593"
+  }
 }

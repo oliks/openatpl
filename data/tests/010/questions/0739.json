@@ -1,7 +1,7 @@
 {
   "number": 739,
-  "questionId": 96229,
-  "questionNumber": "104956",
+  "questionId": "010-0739",
+  "questionNumber": "010-0739",
   "stemHtml": "During which clearance may the pilot request and obtain a flight level?",
   "options": {
     "a": "Taxi.",
@@ -10,5 +10,10 @@
     "d": "Entering the traffic circuit."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96229,
+    "number": "104956"
+  }
 }

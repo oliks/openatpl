@@ -1,7 +1,7 @@
 {
   "number": 185,
-  "questionId": 69343,
-  "questionNumber": "311237",
+  "questionId": "031-0185",
+  "questionNumber": "031-0185",
   "stemHtml": "Regarding the securing of traffic load, which of the following answers is correct?",
   "options": {
     "a": "During rotation on take-off, the dangers of an unsecured load include possible damage to bulkheads and the forward shift of the CG to outside of the CG limits.",
@@ -10,5 +10,10 @@
     "d": "During flight, containers and pallets are permitted to remain on rollers within tracks, provided they are secured by latches."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69343,
+    "number": "311237"
+  }
 }

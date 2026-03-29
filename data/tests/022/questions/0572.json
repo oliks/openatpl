@@ -1,7 +1,7 @@
 {
   "number": 572,
-  "questionId": 134579,
-  "questionNumber": "222216",
+  "questionId": "022-0572",
+  "questionNumber": "022-0572",
   "stemHtml": "<p>What does the position of the Flight Director command bars represent?</p>",
   "options": {
     "a": "<p>Guidance to achieve the programmed flight path.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Current flight path flown by the autopilot.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 134579,
+    "number": "222216"
+  }
 }

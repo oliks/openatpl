@@ -1,7 +1,7 @@
 {
   "number": 1799,
-  "questionId": 68808,
-  "questionNumber": "225309",
+  "questionId": "022-1799",
+  "questionNumber": "022-1799",
   "stemHtml": "<p>Comparing the media used to transmit datalink communications, the appropriate classification from the slowest to the fastest data transmission rate is\u2026</p>",
   "options": {
     "a": "HF datalink, VHF datalink, SATCOM.",
@@ -10,5 +10,10 @@
     "d": "SATCOM, HF datalink, VHF datalink."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68808,
+    "number": "225309"
+  }
 }

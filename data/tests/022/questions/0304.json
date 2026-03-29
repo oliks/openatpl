@@ -1,7 +1,7 @@
 {
   "number": 304,
-  "questionId": 86104,
-  "questionNumber": "225446",
+  "questionId": "022-0304",
+  "questionNumber": "022-0304",
   "stemHtml": "Are there any flight envelope protections available in mechanical backup mode?",
   "options": {
     "a": "Flight envelope protection is provided in mechanical backup mode but with reduced capabilities.",
@@ -10,5 +10,10 @@
     "d": "Flight envelope protection is only partially provided in mechanical backup mode."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86104,
+    "number": "225446"
+  }
 }

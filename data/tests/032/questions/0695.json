@@ -1,7 +1,7 @@
 {
   "number": 695,
-  "questionId": 108894,
-  "questionNumber": "323854",
+  "questionId": "032-0695",
+  "questionNumber": "032-0695",
   "stemHtml": "<p>Refer to figure. <br>An aircraft has the option to cruise at either 4000 ft or 10 000 ft. Based on the following information and the attached table, which altitude should the pilots choose to fly at?</p><p>ISA: +0\u00b0 <br>4000 ft: Calm winds <br>10 000 ft: 10 kt headwind <br>Distance: 166 NM</p>",
   "options": {
     "a": "<p>4000 ft, due to lower fuel consumption.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/a78c68b1-4f48-4a79-b974-9f10f640e2bd.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/a78c68b1-4f48-4a79-b974-9f10f640e2bd.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108894,
+    "number": "323854"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 370,
-  "questionId": 96402,
-  "questionNumber": "329004",
+  "questionId": "032-0370",
+  "questionNumber": "032-0370",
   "stemHtml": "<p>What are the implications on take-off distances if a pilot increases thrust while aligning with the runway for a rolling take-off?</p>",
   "options": {
     "a": "TOD decreases and ASD increases",
@@ -10,5 +10,10 @@
     "d": "TOD and ASD increase"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96402,
+    "number": "329004"
+  }
 }

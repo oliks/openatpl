@@ -1,7 +1,7 @@
 {
   "number": 272,
-  "questionId": 109323,
-  "questionNumber": "338725",
+  "questionId": "033-0272",
+  "questionNumber": "033-0272",
   "stemHtml": "<p>An aircraft descends from FL310 to FL050. Considering the following information:</p><p>For the pressure altitude 31 000 ft, the descent is 93 NM and 20 mins.  <br /> For the pressure altitude 5000 ft, the descent is 18 NM and 6 mins. </p><p>Which statement is true?</p>",
   "options": {
     "a": "<p>The TAS is 321 kt</p>",
@@ -10,5 +10,10 @@
     "d": "<p>NAM = 90,8 NM</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109323,
+    "number": "338725"
+  }
 }

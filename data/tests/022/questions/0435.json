@@ -1,7 +1,7 @@
 {
   "number": 435,
-  "questionId": 68827,
-  "questionNumber": "225709",
+  "questionId": "022-0435",
+  "questionNumber": "022-0435",
   "stemHtml": "<p>On a Flight Mode Annunciator (FMA), the pilot can check:</p>\r\r<p>1 \u2013 the engaged and armed modes of the autopilot. <br /> \r2 \u2013 the automatic landing capability. <br /> \r3 \u2013 the ACAS mode.</p>\r\r<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "<p>1.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68827,
+    "number": "225709"
+  }
 }

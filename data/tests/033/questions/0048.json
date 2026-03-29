@@ -1,7 +1,7 @@
 {
   "number": 48,
-  "questionId": 70617,
-  "questionNumber": "333873",
+  "questionId": "033-0048",
+  "questionNumber": "033-0048",
   "stemHtml": "<p>Refer to figure or CAP 697 Figure 4.5.3.2 for Pressure Altitude 37 000 ft. <br>What will be the approximate change in air distance available from 1000 kg of fuel for the following situation if the tailwind component increases from 45 kt to 65 kt?</p><p>Aircraft mass at start of cruise leg: 50 000 kg <br>Cruise level: FL370 <br>Cruise speed: Mach 0.74 <br>Forecast OAT at FL370: ISA</p>",
   "options": {
     "a": "A decrease of 20 NAM.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/adb8b0d6-1990-4369-a2fc-c2c76220be1f.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/adb8b0d6-1990-4369-a2fc-c2c76220be1f.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70617,
+    "number": "333873"
+  }
 }

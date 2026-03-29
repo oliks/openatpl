@@ -1,7 +1,7 @@
 {
   "number": 1796,
-  "questionId": 83191,
-  "questionNumber": "211575",
+  "questionId": "021-1796",
+  "questionNumber": "021-1796",
   "stemHtml": "<p>The development of a faulty attachment can be detected during the pre-flight inspection by looking for missing\u2026</p>",
   "options": {
     "a": "<p>Cables and/or grounding connections.</p>",
@@ -10,5 +10,10 @@
     "d": "Static dischargers."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83191,
+    "number": "211575"
+  }
 }

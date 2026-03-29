@@ -1,7 +1,7 @@
 {
   "number": 873,
-  "questionId": 159062,
-  "questionNumber": "218596",
+  "questionId": "021-0873",
+  "questionNumber": "021-0873",
   "stemHtml": "<p>In the event that all engine driven generators on board a large transport aircraft have failed, the RAT (Ram Air Turbine) has been deployed, but the RAT on this aircraft only provides hydraulic power, what will happen to the electrical supply?</p>",
   "options": {
     "a": "<p>Electrical power will be supplied by a hydraulic motor.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only DC services will be available through the inverter.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159062,
+    "number": "218596"
+  }
 }

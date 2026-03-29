@@ -1,7 +1,7 @@
 {
   "number": 1735,
-  "questionId": 69189,
-  "questionNumber": "226956",
+  "questionId": "022-1735",
+  "questionNumber": "022-1735",
   "stemHtml": "<p>An ADI is an Attitude Indicator\u2026</p>",
   "options": {
     "a": "<p>that shows pitch, roll, and yaw angles.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>whose scale shows attitude commands.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69189,
+    "number": "226956"
+  }
 }

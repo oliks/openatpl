@@ -1,7 +1,7 @@
 {
   "number": 120,
-  "questionId": 81907,
-  "questionNumber": "327946",
+  "questionId": "032-0120",
+  "questionNumber": "032-0120",
   "stemHtml": "You are the pilot of a jet transport aeroplane and are doing performance calculations for your departure on a contaminated runway with a strong crosswind-component. Which of the following statements best describes guidance for calculating take-off performance?",
   "options": {
     "a": "Special crosswind limitations may apply in case of contaminated runways. Aircraft-type-specific limitations are to be found in the Operations Manual Part D.",
@@ -10,5 +10,10 @@
     "d": "<p>Special crosswind limitations are only given for dry runway surface conditions. Aircraft-type-specific limitations are to be found in the Operations Manual Part C.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81907,
+    "number": "327946"
+  }
 }

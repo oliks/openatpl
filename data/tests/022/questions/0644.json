@@ -1,7 +1,7 @@
 {
   "number": 644,
-  "questionId": 140997,
-  "questionNumber": "222230",
+  "questionId": "022-0644",
+  "questionNumber": "022-0644",
   "stemHtml": "<p>Refer to figure.   <br />   \rWhen flying a magnetic heading of 210\u00b0, the deviation is (1) _____ and the compass heading you'll have to fly is (2) _____.</p>",
   "options": {
     "a": "<p>(1) -1\u00b0; (2) 209\u00b0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/8a0a6bca-f640-4319-9652-d625cf11458d.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/8a0a6bca-f640-4319-9652-d625cf11458d.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140997,
+    "number": "222230"
+  }
 }

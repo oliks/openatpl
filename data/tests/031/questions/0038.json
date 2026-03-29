@@ -1,7 +1,7 @@
 {
   "number": 38,
-  "questionId": 125073,
-  "questionNumber": "317488",
+  "questionId": "031-0038",
+  "questionNumber": "031-0038",
   "stemHtml": "<p>Refer to figure. <br /> \rUsing the load sheet, what is the correct underload / overload of this flight?</p>",
   "options": {
     "a": "<p>5000 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/ad931597-1e22-484b-ad28-741b11e53353.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/ad931597-1e22-484b-ad28-741b11e53353.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 125073,
+    "number": "317488"
+  }
 }

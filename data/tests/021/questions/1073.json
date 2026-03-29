@@ -1,7 +1,7 @@
 {
   "number": 1073,
-  "questionId": 68232,
-  "questionNumber": "211102",
+  "questionId": "021-1073",
+  "questionNumber": "021-1073",
   "stemHtml": "Which statement about rudder pedal nose wheel steering of a jet transport aeroplane is correct?",
   "options": {
     "a": "When performing a rudder check during taxiing there is no need for additional pilot action to avoid deflection of the nose wheel.",
@@ -10,5 +10,10 @@
     "d": "<p>Manual or tiller nose wheel steering offers a larger maximum deflection of the nose wheel compared to rudder pedal nose wheel steering.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68232,
+    "number": "211102"
+  }
 }

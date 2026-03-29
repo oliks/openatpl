@@ -1,7 +1,7 @@
 {
   "number": 1695,
-  "questionId": 68555,
-  "questionNumber": "225658",
+  "questionId": "022-1695",
+  "questionNumber": "022-1695",
   "stemHtml": "<p>The guidance functions of an autopilot consist of\u2026</p>",
   "options": {
     "a": "<p>controlling the movements of the aircraft centre of gravity in three-dimensional space.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>stabilising and controlling the movements around the pitch and roll axes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68555,
+    "number": "225658"
+  }
 }

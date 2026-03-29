@@ -1,7 +1,7 @@
 {
   "number": 17,
-  "questionId": 107874,
-  "questionNumber": "225356",
+  "questionId": "022-0017",
+  "questionNumber": "022-0017",
   "stemHtml": "<p>Does a total air temperature (TAT) probe require electrical heating to prevent ice buildup?</p>",
   "options": {
     "a": "<p>No, because of the geometry of the tube.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No, because the tube gets heated due to the rapid deceleration of the air when it comes to a standstill.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107874,
+    "number": "225356"
+  }
 }

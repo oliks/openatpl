@@ -1,7 +1,7 @@
 {
   "number": 478,
-  "questionId": 82885,
-  "questionNumber": "228084",
+  "questionId": "022-0478",
+  "questionNumber": "022-0478",
   "stemHtml": "What is the main function of a basic autopilot?",
   "options": {
     "a": "Monitoring the movement of the aeroplane centre of gravity.",
@@ -10,5 +10,10 @@
     "d": "Stabilising and monitoring the movement around the aeroplane aerodynamic centre."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82885,
+    "number": "228084"
+  }
 }

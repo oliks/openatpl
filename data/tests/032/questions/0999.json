@@ -1,7 +1,7 @@
 {
   "number": 999,
-  "questionId": 103302,
-  "questionNumber": "321511",
+  "questionId": "032-0999",
+  "questionNumber": "032-0999",
   "stemHtml": "<p>Which of the following statements is correct regarding the speeds V<strong><sub>MO</sub></strong> and V<strong><sub>C</sub></strong>?</p>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>V<sub>MO</sub> must be equal to V<sub>C</sub>.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>V<sub>MO</sub> must NOT be greater than 0.8 x V<sub>C</sub>.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103302,
+    "number": "321511"
+  }
 }

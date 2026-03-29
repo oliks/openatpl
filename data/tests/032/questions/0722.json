@@ -1,7 +1,7 @@
 {
   "number": 722,
-  "questionId": 103057,
-  "questionNumber": "328136",
+  "questionId": "032-0722",
+  "questionNumber": "032-0722",
   "stemHtml": "<p>During a climb after passing the cross-over altitude, which statement is correct? </p>",
   "options": {
     "a": "<p>TAS will decrease in the troposphere, and thereafter remain constant above the tropopause. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>TAS will fluctuate unpredictably during the climb.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103057,
+    "number": "328136"
+  }
 }

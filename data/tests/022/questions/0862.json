@@ -1,7 +1,7 @@
 {
   "number": 862,
-  "questionId": 80233,
-  "questionNumber": "221258",
+  "questionId": "022-0862",
+  "questionNumber": "022-0862",
   "stemHtml": "What data would you be able to continue using if there's a fault in the Barometric feed to an ADIRU?",
   "options": {
     "a": "Attitude and heading data may be used.",
@@ -10,5 +10,10 @@
     "d": "All data may be used."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80233,
+    "number": "221258"
+  }
 }

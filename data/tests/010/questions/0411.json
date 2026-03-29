@@ -1,7 +1,7 @@
 {
   "number": 411,
-  "questionId": 66799,
-  "questionNumber": "109654",
+  "questionId": "010-0411",
+  "questionNumber": "010-0411",
   "stemHtml": "Visual Flight Rules \u2013 Except when a clearance is obtained from an ATC unit, flights under VFR shall not take off from an aerodrome within a Control Zone or enter a Control Zone when the ceiling is lower than?",
   "options": {
     "a": "1000 ft or the ground visibility is less than 5 km.",
@@ -10,5 +10,10 @@
     "d": "2000 ft or the ground visibility is less than 5 km."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66799,
+    "number": "109654"
+  }
 }

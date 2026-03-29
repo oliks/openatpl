@@ -1,7 +1,7 @@
 {
   "number": 1356,
-  "questionId": 159857,
-  "questionNumber": "327440",
+  "questionId": "032-1356",
+  "questionNumber": "032-1356",
   "stemHtml": "<p>Refer to figure.\u00a0<br>Note: For this question do NOT interpolate. Choose the most conservative figures at ALL times.</p><p>The annex shows a regulated take-off mass (RTOM) table for runway 23L from take-off position VB. In each RTOM chart box, the following information is provided for a given wind component / outside air temperature combination: MTOM / limitation code / V<strong><sub>1</sub></strong>/V<strong><sub>R</sub></strong>/V<strong><sub>2</sub></strong> (+100 kt). Given the following information, determine the RTOM for departure.</p><p>W/V: 230\u00b0/8 kt\u00a0<br>OAT: +5\u00b0C\u00a0<br>QNH: 985 hPa\u00a0<br>Runway condition: DRY\u00a0<br>Engine anti-ice: OFF\u00a0<br>Packs: OFF\u00a0<br>Quick line-up</p>",
   "options": {
     "a": "<p>78 460 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/7e7aa2c9-2246-4cbf-bf1c-c693eee5fc7b.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/7e7aa2c9-2246-4cbf-bf1c-c693eee5fc7b.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159857,
+    "number": "327440"
+  }
 }

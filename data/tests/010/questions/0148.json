@@ -1,7 +1,7 @@
 {
   "number": 148,
-  "questionId": 102460,
-  "questionNumber": "106330",
+  "questionId": "010-0148",
+  "questionNumber": "010-0148",
   "stemHtml": "<p>If notified and requested by the State of Occurrence to join, the State of Design and the State of Manufacture must, in the event of an accident or serious incident, share the identity of their designated representative with the State of Occurrence for participation in the investigation when the aircraft...</p>",
   "options": {
     "a": "<p>has a maximum mass over 2250 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>has a maximum mass over 5700 kg.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102460,
+    "number": "106330"
+  }
 }

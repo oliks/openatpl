@@ -1,7 +1,7 @@
 {
   "number": 771,
-  "questionId": 69152,
-  "questionNumber": "224415",
+  "questionId": "022-0771",
+  "questionNumber": "022-0771",
   "stemHtml": "<p>The residual deviation after the compass swing procedure is\u2026</p>",
   "options": {
     "a": "noted on a compass deviation correction card.",
@@ -10,5 +10,10 @@
     "d": "indicated on the magnetic compass by small red dots."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69152,
+    "number": "224415"
+  }
 }

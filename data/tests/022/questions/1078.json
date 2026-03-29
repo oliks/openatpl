@@ -1,7 +1,7 @@
 {
   "number": 1078,
-  "questionId": 81758,
-  "questionNumber": "222953",
+  "questionId": "022-1078",
+  "questionNumber": "022-1078",
   "stemHtml": "<p>Should the static pressure line become blocked during level flight, the pressure altimeter indications will\u2026</p>",
   "options": {
     "a": "<p>be correct, provided the aeroplane maintains its altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>decrease during climb and increase during descent.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81758,
+    "number": "222953"
+  }
 }

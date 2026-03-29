@@ -1,7 +1,7 @@
 {
   "number": 1098,
-  "questionId": 107210,
-  "questionNumber": "338356",
+  "questionId": "033-1098",
+  "questionNumber": "033-1098",
   "stemHtml": "<p>Refer to figure.  <br />  \rYou are flying along the red route shown on figure. What is the highest obstacle within 5 NM on each side of this route?</p>",
   "options": {
     "a": "<p>The wind turbine with 2648 ft.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/ceddf2a9-652e-4327-ab81-878f8a3d31f3.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/ceddf2a9-652e-4327-ab81-878f8a3d31f3.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107210,
+    "number": "338356"
+  }
 }

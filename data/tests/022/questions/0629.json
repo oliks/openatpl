@@ -1,7 +1,7 @@
 {
   "number": 629,
-  "questionId": 66525,
-  "questionNumber": "227402",
+  "questionId": "022-0629",
+  "questionNumber": "022-0629",
   "stemHtml": "<p>Refer to figure. <br>What magnetic heading is the aircraft on, if the deviation on this heading is -2<strong>\u00b0</strong>?</p>",
   "options": {
     "a": "094\u00b0 (M)",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/A2945AA2-4F89-4B14-B90B-0E74FFB3263D.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/A2945AA2-4F89-4B14-B90B-0E74FFB3263D.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66525,
+    "number": "227402"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1160,
-  "questionId": 86122,
-  "questionNumber": "226511",
+  "questionId": "022-1160",
+  "questionNumber": "022-1160",
   "stemHtml": "In respect to the Electronic Flight Instrument System (EFIS), where might the standby flight instrument be mounted?",
   "options": {
     "a": "To the right of the EFIS displays.",
@@ -10,5 +10,10 @@
     "d": "Completely visible<strong>.</strong>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86122,
+    "number": "226511"
+  }
 }

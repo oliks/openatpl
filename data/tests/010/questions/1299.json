@@ -1,7 +1,7 @@
 {
   "number": 1299,
-  "questionId": 66893,
-  "questionNumber": "108437",
+  "questionId": "010-1299",
+  "questionNumber": "010-1299",
   "stemHtml": "<p>State the main objectives for altimeter setting procedures.</p>",
   "options": {
     "a": "<p>The main reason is to provide vertical separation in the departure and landing phases only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The main reason is to provide vertical separation between aircraft and terrain clearance during all phases.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66893,
+    "number": "108437"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1788,
-  "questionId": 163983,
-  "questionNumber": "103121",
+  "questionId": "010-1788",
+  "questionNumber": "010-1788",
   "stemHtml": "<p>For a rotorcraft, in which position should the aircraft identification plate normally be located?</p>",
   "options": {
     "a": "<p>In the cockpit</p>",
@@ -10,5 +10,10 @@
     "d": "<p>At the main entrance</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163983,
+    "number": "103121"
+  }
 }

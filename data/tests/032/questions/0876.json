@@ -1,7 +1,7 @@
 {
   "number": 876,
-  "questionId": 84860,
-  "questionNumber": "321410",
+  "questionId": "032-0876",
+  "questionNumber": "032-0876",
   "stemHtml": "<p>With regard to Obstacle-Limited Take-Off Mass, which of the following statements is correct?</p><p>1. Maximum Obstacle-Limited Take-Off Mass is the limiting take-off mass if the climb gradient to clear obstacle with required margins is higher than the minimum climb gradient<br>2. Obstacle limitations may overcompensate the positive effects of headwinds</p>",
   "options": {
     "a": "1 is correct, 2 is correct.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is incorrect."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84860,
+    "number": "321410"
+  }
 }

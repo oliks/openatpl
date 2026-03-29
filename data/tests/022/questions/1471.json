@@ -1,7 +1,7 @@
 {
   "number": 1471,
-  "questionId": 79043,
-  "questionNumber": "226336",
+  "questionId": "022-1471",
+  "questionNumber": "022-1471",
   "stemHtml": "<p>Refer to figure. <br /> \rThe null-seeking (slotted) probe AoA sensor of (1) _____ will automatically rotate (2) _____ to automatically seek a balance point.</p>",
   "options": {
     "a": "<p>(1) figure B, (2) anti-clockwise</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/AA41443A-56ED-40A3-B502-898C9650EB4D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/AA41443A-56ED-40A3-B502-898C9650EB4D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79043,
+    "number": "226336"
+  }
 }

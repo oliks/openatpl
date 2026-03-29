@@ -1,7 +1,7 @@
 {
   "number": 15,
-  "questionId": 70110,
-  "questionNumber": "322702",
+  "questionId": "032-0015",
+  "questionNumber": "032-0015",
   "stemHtml": "<p>A frangible obstacle is classed as\u2026</p>",
   "options": {
     "a": "<p>An obstruction that must be removed from any part of the manoeuvring.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An obstruction in the take off path that limits the length of the stopway.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70110,
+    "number": "322702"
+  }
 }

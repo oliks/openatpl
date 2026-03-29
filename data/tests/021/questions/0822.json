@@ -1,7 +1,7 @@
 {
   "number": 822,
-  "questionId": 68077,
-  "questionNumber": "217020",
+  "questionId": "021-0822",
+  "questionNumber": "021-0822",
   "stemHtml": "<p>On most transport aeroplanes, the low pressure pumps of the fuel system are\u2026</p>",
   "options": {
     "a": "<p>hydraulically driven centrifugal pumps.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>electro-mechanical swash plate pumps, with self-regulated pressure.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68077,
+    "number": "217020"
+  }
 }

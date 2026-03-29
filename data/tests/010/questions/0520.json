@@ -1,7 +1,7 @@
 {
   "number": 520,
-  "questionId": 101025,
-  "questionNumber": "102045",
+  "questionId": "010-0520",
+  "questionNumber": "010-0520",
   "stemHtml": "<p>An aircraft has completed an approach procedure and is executing a visual manoeuvre (circling). While circling, visual contact with the runway environment is lost. Which of the following is the correct transition to the missed approach procedure?</p>",
   "options": {
     "a": "<p>An immediate climb straight ahead.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Remain at MDA until visual reference is regained.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101025,
+    "number": "102045"
+  }
 }

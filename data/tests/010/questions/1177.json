@@ -1,7 +1,7 @@
 {
   "number": 1177,
-  "questionId": 67236,
-  "questionNumber": "107241",
+  "questionId": "010-1177",
+  "questionNumber": "010-1177",
   "stemHtml": "For a category D aeroplane, the indicated airspeed at threshold (V<sub>AT</sub>) is:",
   "options": {
     "a": "from 141 - 165 knots.",
@@ -10,5 +10,10 @@
     "d": "from 121 - 140 knots."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67236,
+    "number": "107241"
+  }
 }

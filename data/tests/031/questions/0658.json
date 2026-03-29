@@ -1,7 +1,7 @@
 {
   "number": 658,
-  "questionId": 85703,
-  "questionNumber": "312664",
+  "questionId": "031-0658",
+  "questionNumber": "031-0658",
   "stemHtml": "<p>The centre of gravity is placed far aft in flight. What is the effect on the elevator trim?</p>",
   "options": {
     "a": "<p>An aft centre of gravity has no effect on the elevator trim.</p>",
@@ -10,5 +10,10 @@
     "d": "Nose up trim force is increased."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85703,
+    "number": "312664"
+  }
 }

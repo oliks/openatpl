@@ -1,7 +1,7 @@
 {
   "number": 961,
-  "questionId": 70658,
-  "questionNumber": "338613",
+  "questionId": "033-0961",
+  "questionNumber": "033-0961",
   "stemHtml": "<p>Refer to figure or CAP697 file 4.3.1C. For a flight of 1900 nautical ground miles the following apply:</p><p>Head wind component: 10 kt <br>Temperature: ISA -5\u00b0C <br>Trip fuel available: 15 000 kg <br>Landing mass: 50 000 kg</p><p>What is the minimum cruise level pressure altitude which may be planned?</p>",
   "options": {
     "a": "<p>22 000 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0EBBBBCE-B38D-4B95-B3B2-35557F186843.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0EBBBBCE-B38D-4B95-B3B2-35557F186843.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70658,
+    "number": "338613"
+  }
 }

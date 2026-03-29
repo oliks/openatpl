@@ -1,7 +1,7 @@
 {
   "number": 1450,
-  "questionId": 80761,
-  "questionNumber": "218885",
+  "questionId": "021-1450",
+  "questionNumber": "021-1450",
   "stemHtml": "<p>The climatic region which is most conducive to corrosion is\u2026</p>",
   "options": {
     "a": "Temperate continental",
@@ -10,5 +10,10 @@
     "d": "Polar oceanic"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80761,
+    "number": "218885"
+  }
 }

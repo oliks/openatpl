@@ -1,7 +1,7 @@
 {
   "number": 1022,
-  "questionId": 70178,
-  "questionNumber": "321328",
+  "questionId": "032-1022",
+  "questionNumber": "032-1022",
   "stemHtml": "<p>Landing on a runway with 6 mm slush will?</p>",
   "options": {
     "a": "not affect the landing distance",
@@ -10,5 +10,10 @@
     "d": "decrease landing distance"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70178,
+    "number": "321328"
+  }
 }

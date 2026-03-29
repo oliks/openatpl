@@ -1,7 +1,7 @@
 {
   "number": 148,
-  "questionId": 80833,
-  "questionNumber": "322988",
+  "questionId": "032-0148",
+  "questionNumber": "032-0148",
   "stemHtml": "<p>The standard climb speeds for a Medium Range Jet Transport are 250 kts below 10 000 ft and subsequently 300 kts/0.80M. Choose the speed profiles you may expect if you entered a lower than usual Cost Index into the FMC.</p>",
   "options": {
     "a": "240/340/0.84M",
@@ -10,5 +10,10 @@
     "d": "280/340/0.82M"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80833,
+    "number": "322988"
+  }
 }

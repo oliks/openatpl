@@ -1,7 +1,7 @@
 {
   "number": 283,
-  "questionId": 70451,
-  "questionNumber": "333263",
+  "questionId": "033-0283",
+  "questionNumber": "033-0283",
   "stemHtml": "Refer to figure. <br /> Which letter shall be used in ITEM 8 FLIGHT RULES of an ICAO ATS Flight Plan (FPL) to denote a flight initially operated under IFR, followed by one or more subsequent changes of flight rules?",
   "options": {
     "a": "Y",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/FD562F2A-0251-45F5-BAFE-0929ACD40506.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/FD562F2A-0251-45F5-BAFE-0929ACD40506.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70451,
+    "number": "333263"
+  }
 }

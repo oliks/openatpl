@@ -1,7 +1,7 @@
 {
   "number": 195,
-  "questionId": 67897,
-  "questionNumber": "211867",
+  "questionId": "021-0195",
+  "questionNumber": "021-0195",
   "stemHtml": "<p>In straight and level flight the loads on a cantilever wing with a torsion box are\u2026</p>",
   "options": {
     "a": "<p>compression in both the upper and the lower skin.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>tension in both the upper and the lower skin.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67897,
+    "number": "211867"
+  }
 }

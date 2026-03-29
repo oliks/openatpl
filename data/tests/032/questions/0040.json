@@ -1,7 +1,7 @@
 {
   "number": 40,
-  "questionId": 77871,
-  "questionNumber": "323505",
+  "questionId": "032-0040",
+  "questionNumber": "032-0040",
   "stemHtml": "Which propeller configuration will give the best controllability if a light twin aircraft suffers a failure of the critical engine after departure?",
   "options": {
     "a": "Clockwise rotating propellers.",
@@ -10,5 +10,10 @@
     "d": "Engines mounted on the side of the fuselage."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77871,
+    "number": "323505"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1202,
-  "questionId": 68656,
-  "questionNumber": "226542",
+  "questionId": "022-1202",
+  "questionNumber": "022-1202",
   "stemHtml": "<p>Below the tropopause in standard atmosphere, when descending at a constant Mach number\u2026</p>",
   "options": {
     "a": "TAS decreases.",
@@ -10,5 +10,10 @@
     "d": "CAS decreases."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68656,
+    "number": "226542"
+  }
 }

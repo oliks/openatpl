@@ -1,7 +1,7 @@
 {
   "number": 1197,
-  "questionId": 67401,
-  "questionNumber": "212934",
+  "questionId": "021-1197",
+  "questionNumber": "021-1197",
   "stemHtml": "<p>The primary input signals for a hydro-mechanical gas turbine engine fuel control system include\u2026</p>",
   "options": {
     "a": "N2, turbine inlet temperature, fuel shut-off, generator, thrust lever angle.",
@@ -10,5 +10,10 @@
     "d": "N1, N2, bypass ratio, fuel shut-off, thrust lever angle."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67401,
+    "number": "212934"
+  }
 }

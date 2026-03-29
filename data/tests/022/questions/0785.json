@@ -1,7 +1,7 @@
 {
   "number": 785,
-  "questionId": 68597,
-  "questionNumber": "221570",
+  "questionId": "022-0785",
+  "questionNumber": "022-0785",
   "stemHtml": "<p>A stall warning system makes use of\u2026</p>",
   "options": {
     "a": "<p>Groundspeed</p>",
@@ -10,5 +10,10 @@
     "d": "TAS"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68597,
+    "number": "221570"
+  }
 }

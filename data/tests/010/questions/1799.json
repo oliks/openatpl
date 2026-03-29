@@ -1,7 +1,7 @@
 {
   "number": 1799,
-  "questionId": 81324,
-  "questionNumber": "107307",
+  "questionId": "010-1799",
+  "questionNumber": "010-1799",
   "stemHtml": "<p>According to ICAO Doc 8168 PANS-OPS, the QNH altimeter setting shall be made available to departing aircraft.</p>",
   "options": {
     "a": "<p dir=\"ltr\">In taxi clearances prior to take-off.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">In take-off clearances.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81324,
+    "number": "107307"
+  }
 }

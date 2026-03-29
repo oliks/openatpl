@@ -1,7 +1,7 @@
 {
   "number": 1315,
-  "questionId": 67525,
-  "questionNumber": "215104",
+  "questionId": "021-1315",
+  "questionNumber": "021-1315",
   "stemHtml": "Which of these statements about an auto-brake system is correct?",
   "options": {
     "a": "When using manual braking during taxiing, the auto-brake system will disarm.",
@@ -10,5 +10,10 @@
     "d": "When the auto-brake system is inoperative, in general take-off is not allowed, because maximum manual braking does not achieve the same deceleration as the auto-brake system in the RTO mode."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67525,
+    "number": "215104"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1465,
-  "questionId": 67508,
-  "questionNumber": "215731",
+  "questionId": "021-1465",
+  "questionNumber": "021-1465",
   "stemHtml": "<p>Ohm's law states that in an electric circuit\u2026</p>",
   "options": {
     "a": "the voltage passing through a resistor between two points is proportional to the current between those two points.",
@@ -10,5 +10,10 @@
     "d": "the current passing through a resistor between two points is proportional to the resistance between those two points."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67508,
+    "number": "215731"
+  }
 }

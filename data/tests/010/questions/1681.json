@@ -1,7 +1,7 @@
 {
   "number": 1681,
-  "questionId": 103181,
-  "questionNumber": "107942",
+  "questionId": "010-1681",
+  "questionNumber": "010-1681",
   "stemHtml": "<p>A pilot has a type rating for a multi-engine complex aircraft. What is true about the validity period and applicability of the type rating?</p><p>1. The pilot is restricted to flying only the specific type mentioned in their type rating. <br /> 2. The pilot can has the privileges to fly with non-complex aircraft. <br /> 3. The type rating remains valid for a duration of 1 year. <br /> 4. The type rating remains valid for a duration of 2 years.</p>",
   "options": {
     "a": "<p>1 and 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103181,
+    "number": "107942"
+  }
 }

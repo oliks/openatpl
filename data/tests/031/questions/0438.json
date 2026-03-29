@@ -1,7 +1,7 @@
 {
   "number": 438,
-  "questionId": 69477,
-  "questionNumber": "319745",
+  "questionId": "031-0438",
+  "questionNumber": "031-0438",
   "stemHtml": "The dry operating index is:",
   "options": {
     "a": "The arm used for the moment calculation.",
@@ -10,5 +10,10 @@
     "d": "The centre of gravity of the dry operating mass."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69477,
+    "number": "319745"
+  }
 }

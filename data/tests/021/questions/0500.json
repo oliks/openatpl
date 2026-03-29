@@ -1,7 +1,7 @@
 {
   "number": 500,
-  "questionId": 68223,
-  "questionNumber": "212104",
+  "questionId": "021-0500",
+  "questionNumber": "021-0500",
   "stemHtml": "<p>An artificial feel system\u2026</p>",
   "options": {
     "a": "<p>functions in series with an irreversible hydraulic actuator.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>functions in parallel with an irreversible hydraulic actuator.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68223,
+    "number": "212104"
+  }
 }

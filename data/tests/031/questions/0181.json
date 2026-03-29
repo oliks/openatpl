@@ -1,7 +1,7 @@
 {
   "number": 181,
-  "questionId": 85698,
-  "questionNumber": "313038",
+  "questionId": "031-0181",
+  "questionNumber": "031-0181",
   "stemHtml": "<p>What is the allowed traffic load?</p><p>MTOM: 6100 kg <br>Performance limited TOM: 6000 kg <br>Performance limited LM: 5250 kg <br>DOM: 3450 kg <br>Block Fuel: 950 kg <br>Trip Fuel: 530 kg <br>Taxi Fuel: 20 kg</p>",
   "options": {
     "a": "<p>1730 kg</p>",
@@ -10,5 +10,10 @@
     "d": "880 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85698,
+    "number": "313038"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 599,
-  "questionId": 70075,
-  "questionNumber": "329660",
+  "questionId": "032-0599",
+  "questionNumber": "032-0599",
   "stemHtml": "Which of the following requirements must be met by a MEP Performance Class B aircraft landing on dry runways? The actual landing distance shall be less than:",
   "options": {
     "a": "1.15 x LDA.",
@@ -10,5 +10,10 @@
     "d": "0.7 x LDA."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70075,
+    "number": "329660"
+  }
 }

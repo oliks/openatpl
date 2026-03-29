@@ -1,7 +1,7 @@
 {
   "number": 1469,
-  "questionId": 71032,
-  "questionNumber": "339391",
+  "questionId": "033-1469",
+  "questionNumber": "033-1469",
   "stemHtml": "<p>Refer to figures. <br>An aircraft travels an air distance of 2 800 NAM at long-range cruise speed. What is the approximate ground distance in NM?</p>",
   "options": {
     "a": "<p>In a tailwind of 50 kt, 2550 NM.</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/093F5234-0A06-4833-A8F8-EB44D7A95FFE.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/093F5234-0A06-4833-A8F8-EB44D7A95FFE.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71032,
+    "number": "339391"
+  }
 }

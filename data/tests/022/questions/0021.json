@@ -1,7 +1,7 @@
 {
   "number": 21,
-  "questionId": 82785,
-  "questionNumber": "222577",
+  "questionId": "022-0021",
+  "questionNumber": "022-0021",
   "stemHtml": "<p>During the cruise at FL400, the pitot tubes of your aircraft become blocked by volcanic ash. After starting a descent, what should you be aware of? The airspeed display will\u2026</p>",
   "options": {
     "a": "<p>over-read.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>under-read.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82785,
+    "number": "222577"
+  }
 }

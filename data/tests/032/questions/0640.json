@@ -1,7 +1,7 @@
 {
   "number": 640,
-  "questionId": 70265,
-  "questionNumber": "327825",
+  "questionId": "032-0640",
+  "questionNumber": "032-0640",
   "stemHtml": "<p>Refer to figure or CAP698 file 4.1.<br />\r\nGiven the following information, what is the maximum allowed wind speed?</p>\r\n\r\n<p>Aeroplane maximum allowed crosswind component: 25 kt<br />\r\nRunway direction: 240\u00b0(M)<br />\r\nWind direction: 190\u00b0(M)</p>\r\n",
   "options": {
     "a": "32 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/F60A9BFD-2E2B-4A8C-A345-369F17A50B8D.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/F60A9BFD-2E2B-4A8C-A345-369F17A50B8D.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70265,
+    "number": "327825"
+  }
 }

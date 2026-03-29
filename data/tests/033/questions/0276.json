@@ -1,7 +1,7 @@
 {
   "number": 276,
-  "questionId": 70799,
-  "questionNumber": "332510",
+  "questionId": "033-0276",
+  "questionNumber": "033-0276",
   "stemHtml": "Refer to figure.\r\n<div>Assuming an average fuel flow of 2790 kg/h, complete the following fuel log and determine the block fuel required by a jet aircraft to perform the Commercial Air Transport flight.</div>",
   "options": {
     "a": "5608 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/BDF29F23-D787-4973-AA8D-F8889A67D519.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/BDF29F23-D787-4973-AA8D-F8889A67D519.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70799,
+    "number": "332510"
+  }
 }

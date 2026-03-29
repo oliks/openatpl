@@ -1,7 +1,7 @@
 {
   "number": 1650,
-  "questionId": 117177,
-  "questionNumber": "103253",
+  "questionId": "010-1650",
+  "questionNumber": "010-1650",
   "stemHtml": "<p>An AIP Supplement is published when a change is...</p>",
   "options": {
     "a": "<p>temporary.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>valid for 48 hours.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117177,
+    "number": "103253"
+  }
 }

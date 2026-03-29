@@ -1,7 +1,7 @@
 {
   "number": 1042,
-  "questionId": 82032,
-  "questionNumber": "329520",
+  "questionId": "032-1042",
+  "questionNumber": "032-1042",
   "stemHtml": "<p>Refer to figure.<br>You are taking-off with a single-engined aeroplane, and a field-lenght-limited take-off mass, from runway 18, in VMC, for a straight-out departure. Given the following information, what will be the expected obstacle clearance over the trees on the extended centre line?</p><p>Climb gradient: 9%<br>TAS: 124 kt<br>Wind component: 10 kt headwind<br>1 NM = 6080 ft<br>Height Difference = ((GD x TAS)/GS) x Gradient/100</p>",
   "options": {
     "a": "390 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/3E9613CE-FE68-4758-881D-C6A647478354.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/3E9613CE-FE68-4758-881D-C6A647478354.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82032,
+    "number": "329520"
+  }
 }

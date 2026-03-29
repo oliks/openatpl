@@ -1,7 +1,7 @@
 {
   "number": 898,
-  "questionId": 79296,
-  "questionNumber": "324288",
+  "questionId": "032-0898",
+  "questionNumber": "032-0898",
   "stemHtml": "<p>For a single engine aeroplane, calculate the net glide distance following an engine failure. Given:</p>\r\n\r\n<p>Altitude: 9500 ft<br />\r\nTerrain elevation: 500 ft<br />\r\nGross gradient: 11%<br />\r\nTAS: 250 kt<br />\r\nTailwind: 50 kt</p>\r\n\r\n<p>Still Air Distance = (Height Difference (ft) x 100) / Net Gradient (%)<br />\r\nGround Distance = Still Air Distance x (GS/TAS)</p>\r\n",
   "options": {
     "a": "12.9 NM",
@@ -10,5 +10,10 @@
     "d": "16.2 NM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79296,
+    "number": "324288"
+  }
 }

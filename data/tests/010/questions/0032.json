@@ -1,7 +1,7 @@
 {
   "number": 32,
-  "questionId": 81609,
-  "questionNumber": "107778",
+  "questionId": "010-0032",
+  "questionNumber": "010-0032",
   "stemHtml": "What is the main objective of the EU regulation No. 376/2014?",
   "options": {
     "a": "Accidents investigation at the Union level.",
@@ -10,5 +10,10 @@
     "d": "Occurrence reporting in order to prevent accidents and incidents without attributing blame or liability."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81609,
+    "number": "107778"
+  }
 }

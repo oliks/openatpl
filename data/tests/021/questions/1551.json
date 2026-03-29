@@ -1,7 +1,7 @@
 {
   "number": 1551,
-  "questionId": 67618,
-  "questionNumber": "217086",
+  "questionId": "021-1551",
+  "questionNumber": "021-1551",
   "stemHtml": "<p>Both gas turbine and piston engines use a cycle made up of induction, compression, combustion and exhaust phases. Which of these statements about a piston engine are correct?</p>\r\r<p>1. The process in a piston engine is continuous <br /> \r2. Theoretically the combustion occurs at constant volume</p>",
   "options": {
     "a": "<p>1 is incorrect, 2 is correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Both 1 and 2 are correct.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67618,
+    "number": "217086"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 256,
-  "questionId": 69206,
-  "questionNumber": "221815",
+  "questionId": "022-0256",
+  "questionNumber": "022-0256",
   "stemHtml": "<p>In a left turn, the ball of the turn co-ordinator is out to the right, what corrective action is required?</p>",
   "options": {
     "a": "<p>More left rudder.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Less right rudder.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69206,
+    "number": "221815"
+  }
 }

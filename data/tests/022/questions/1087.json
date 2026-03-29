@@ -1,7 +1,7 @@
 {
   "number": 1087,
-  "questionId": 81578,
-  "questionNumber": "222756",
+  "questionId": "022-1087",
+  "questionNumber": "022-1087",
   "stemHtml": "<p>Where should the Warning/Caution lights be located in the flight deck?</p>",
   "options": {
     "a": "Pilots' primary view.",
@@ -10,5 +10,10 @@
     "d": "<p>On the overhead panel.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81578,
+    "number": "222756"
+  }
 }

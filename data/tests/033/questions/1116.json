@@ -1,7 +1,7 @@
 {
   "number": 1116,
-  "questionId": 70626,
-  "questionNumber": "333843",
+  "questionId": "033-1116",
+  "questionNumber": "033-1116",
   "stemHtml": "<p>The maximum fuel capacity of an aircraft is 1400 lb, and the pilot has to pre position fuel to fill up en route to the final destination. The pilot estimates landing at the fuelling point with 350 lb on board.</p>\n\n<p><span style=\"letter-spacing:0.7px\">How many 45 Imperial gallon fuel drums must be ordered if the fuel supplier states a specific gravity of 0.79?</span></p>",
   "options": {
     "a": "2",
@@ -10,5 +10,10 @@
     "d": "5"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70626,
+    "number": "333843"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 29,
-  "questionId": 102841,
-  "questionNumber": "331909",
+  "questionId": "033-0029",
+  "questionNumber": "033-0029",
   "stemHtml": "<p>Refer to figures or ALICANTE 13-1, 13-2, 13-4, 13-5, charts from the Jeppesen GSPRM 2017. <br /> \rWhich non-precision approach procedure would you expect, due to a sea breeze in Alicante?</p>",
   "options": {
     "a": "<p>VOR Z Rwy 10</p>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/f7dce15a-286c-4aeb-89e5-4ed52bb1393f.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f7dce15a-286c-4aeb-89e5-4ed52bb1393f.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102841,
+    "number": "331909"
+  }
 }

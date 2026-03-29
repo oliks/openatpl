@@ -1,7 +1,7 @@
 {
   "number": 1626,
-  "questionId": 78016,
-  "questionNumber": "224896",
+  "questionId": "022-1626",
+  "questionNumber": "022-1626",
   "stemHtml": "<p>The yellow colour on an EGPWS refers to...</p>",
   "options": {
     "a": "<p>Terrain is 2000 ft (or more) above the aircraft altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Terrain is 500 ft below to 1000 ft above the aircraft altitude.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78016,
+    "number": "224896"
+  }
 }

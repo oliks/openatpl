@@ -1,7 +1,7 @@
 {
   "number": 425,
-  "questionId": 114851,
-  "questionNumber": "337738",
+  "questionId": "033-0425",
+  "questionNumber": "033-0425",
   "stemHtml": "<p>Refer to figure. <br /> \rYou are flying at 8500 ft over position N54\u00b030' E12\u00b030', maintaining a true track of 180\u00b0 toward the M\u00fcnchen airspace boundary located at N48\u00b030' E12\u00b030'. Under standard ISA conditions, with a ground speed of 120 kt and a descent rate of 400 ft/min, how far in advance of the point N48\u00b030' E12\u00b030' must you begin your descent in order to reach the base level of the M\u00fcnchen airspace upon arrival?</p>",
   "options": {
     "a": "<p>30 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5f540df3-febe-4164-9d9b-881cd2ac32dc.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5f540df3-febe-4164-9d9b-881cd2ac32dc.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 114851,
+    "number": "337738"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1068,
-  "questionId": 85627,
-  "questionNumber": "213049",
+  "questionId": "021-1068",
+  "questionNumber": "021-1068",
   "stemHtml": "Which of these is the primary purpose of flight deck windshield heating on a commercial jet aeroplane?",
   "options": {
     "a": "De-icing for improved visibility during take-off.",
@@ -10,5 +10,10 @@
     "d": "To improve the window's impact strength."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85627,
+    "number": "213049"
+  }
 }

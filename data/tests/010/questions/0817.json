@@ -1,7 +1,7 @@
 {
   "number": 817,
-  "questionId": 102925,
-  "questionNumber": "103139",
+  "questionId": "010-0817",
+  "questionNumber": "010-0817",
   "stemHtml": "<p>Outside controlled airspace, the first IFR level should provide a margin of 500 ft above\u2026</p>",
   "options": {
     "a": "<p>3000 ft AMSL or 1500 ft AGL.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL30 or 100 ft AGL.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102925,
+    "number": "103139"
+  }
 }

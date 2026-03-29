@@ -1,7 +1,7 @@
 {
   "number": 275,
-  "questionId": 84072,
-  "questionNumber": "329881",
+  "questionId": "032-0275",
+  "questionNumber": "032-0275",
   "stemHtml": "For a multi-engine aircraft in the class B performance category, what is the minimum all engine take-off climb gradient?",
   "options": {
     "a": "2.5%",
@@ -10,5 +10,10 @@
     "d": "3.3%"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84072,
+    "number": "329881"
+  }
 }

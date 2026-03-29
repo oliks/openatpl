@@ -1,7 +1,7 @@
 {
   "number": 484,
-  "questionId": 106988,
-  "questionNumber": "316131",
+  "questionId": "031-0484",
+  "questionNumber": "031-0484",
   "stemHtml": "<p>The distance from the datum to the Centre of Gravity of a mass is known as\u2026</p>",
   "options": {
     "a": "<p>the moment.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the moment arm or balance arm.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106988,
+    "number": "316131"
+  }
 }

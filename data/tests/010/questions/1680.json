@@ -1,7 +1,7 @@
 {
   "number": 1680,
-  "questionId": 102331,
-  "questionNumber": "102490",
+  "questionId": "010-1680",
+  "questionNumber": "010-1680",
   "stemHtml": "<p>What does the International Air Services Transit Agreement deal with?</p>",
   "options": {
     "a": "<p>Free and unhindered transit of aeroplanes over the high seas.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The freedom for aeroplanes of one State to land in the territory of another State for the purpose of refuelling.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102331,
+    "number": "102490"
+  }
 }

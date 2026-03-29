@@ -1,7 +1,7 @@
 {
   "number": 1070,
-  "questionId": 81882,
-  "questionNumber": "222147",
+  "questionId": "022-1070",
+  "questionNumber": "022-1070",
   "stemHtml": "A visual and aural warning of runaway trim requires\u2026",
   "options": {
     "a": "NO action, as the autopilot will reset the trim once it has isolated the auto-trim system.",
@@ -10,5 +10,10 @@
     "d": "<p>Disconnection of the autopilot, and manual trimming fully forward, to retain control full flap must be used for landing.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81882,
+    "number": "222147"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1371,
-  "questionId": 159410,
-  "questionNumber": "334261",
+  "questionId": "033-1371",
+  "questionNumber": "033-1371",
   "stemHtml": "<p>A flight was planned using a forecast wind of 340\u00b0/10 kt, a planned true airspeed (TAS) of 170 kt, a true course (TC) of 334\u00b0, and a planned magnetic heading (MH) of 331\u00b0. During the flight, the actual wind changes to 260\u00b0/15 kt. Which statement is correct?</p>",
   "options": {
     "a": "<p>The GS is higher + the WCA has to be increased to the left.  <br />   </p>",
@@ -10,5 +10,10 @@
     "d": "<p>The GS is lower + the WCA has to be increased to the right.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159410,
+    "number": "334261"
+  }
 }

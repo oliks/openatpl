@@ -1,7 +1,7 @@
 {
   "number": 1091,
-  "questionId": 164208,
-  "questionNumber": "218710",
+  "questionId": "021-1091",
+  "questionNumber": "021-1091",
   "stemHtml": "<p>Electric current is defined as...</p>",
   "options": {
     "a": "<p>Difference of potential (V).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Energy (J).</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164208,
+    "number": "218710"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1389,
-  "questionId": 82052,
-  "questionNumber": "213723",
+  "questionId": "021-1389",
+  "questionNumber": "021-1389",
   "stemHtml": "Select the correct order of these fuels based on their freezing points, from coldest to warmest: Jet A-1, Jet A, Jet B.",
   "options": {
     "a": "Jet A, Jet A-1, Jet B.",
@@ -10,5 +10,10 @@
     "d": "Jet B, Jet A-1, Jet A."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82052,
+    "number": "213723"
+  }
 }

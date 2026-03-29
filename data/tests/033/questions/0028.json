@@ -1,7 +1,7 @@
 {
   "number": 28,
-  "questionId": 70893,
-  "questionNumber": "335621",
+  "questionId": "033-0028",
+  "questionNumber": "033-0028",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017.\u00a0<br>An aircraft is on a VFR flight in Austria. The departure airfield is Ried Kirchheim (LOLK, N48\u00b012.8' E13\u00b020.8') and the destination is Freistadt (LOLF, N48\u00b030.9' E14\u00b024.5'). Which of the following radio frequencies should be used as a radio navigation aid if the pilot intends to fly directly to the destination?</p>",
   "options": {
     "a": "327 kHz (Linz NDB)",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/C2DF0FDD-2BCB-4671-80FC-EBD939BB21CD.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C2DF0FDD-2BCB-4671-80FC-EBD939BB21CD.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70893,
+    "number": "335621"
+  }
 }

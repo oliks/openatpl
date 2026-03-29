@@ -1,7 +1,7 @@
 {
   "number": 155,
-  "questionId": 70615,
-  "questionNumber": "331429",
+  "questionId": "033-0155",
+  "questionNumber": "033-0155",
   "stemHtml": "<p>Given:</p><p>CAS: 190 kt<br>Altitude: 9000 ft<br>Temperature: ISA -10\u00b0C<br>True Course TC: 350\u00b0<br>W/V: 320/40<br>Distance from departure to destination: 350 NM<br>Endurance: 3 hours<br>Actual time of departure: 11:05 UTC</p><p>The Point of Equal Time PET is reached at\u2026</p>",
   "options": {
     "a": "12:21 UTC",
@@ -10,5 +10,10 @@
     "d": "12:03 UTC"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70615,
+    "number": "331429"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1041,
-  "questionId": 100776,
-  "questionNumber": "339444",
+  "questionId": "033-1041",
+  "questionNumber": "033-1041",
   "stemHtml": "<p>At the last minute, 15 passengers were unable to board an aircraft, resulting in a weight reduction of 1500 kg. The operational flight plan shows that a weight reduction of 1000 kg will apply a 205 kg reduction to the aircraft's trip fuel. Calculate the new trip fuel required for the flight. <br /> (Use interpolation)</p>",
   "options": {
     "a": "205 kg less than the original trip fuel requirement.",
@@ -10,5 +10,10 @@
     "d": "205 kg more than the original trip fuel requirement."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100776,
+    "number": "339444"
+  }
 }

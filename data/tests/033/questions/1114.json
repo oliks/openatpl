@@ -1,7 +1,7 @@
 {
   "number": 1114,
-  "questionId": 109015,
-  "questionNumber": "334007",
+  "questionId": "033-1114",
+  "questionNumber": "033-1114",
   "stemHtml": "<p>Given the following information, determine the change in fuel required for a Medium-Range Jet Transport (MRJT) flight:</p><p>Cruise distance: 150 NM <br>TAS planned: 450 kt <br>Forecast wind component: -10 kt <br>Fuel consumption: 5 kg / NAM <br>Revised wind component: +20 kt</p>",
   "options": {
     "a": "<p>Increase by approx. 51 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Decrease by approx. 49 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109015,
+    "number": "334007"
+  }
 }

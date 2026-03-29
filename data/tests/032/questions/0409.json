@@ -1,7 +1,7 @@
 {
   "number": 409,
-  "questionId": 97919,
-  "questionNumber": "327648",
+  "questionId": "032-0409",
+  "questionNumber": "032-0409",
   "stemHtml": "<p>Given the following information, calculate the net glide distance for a single-engined aeroplane operating under performance class B.</p><p>Aeroplane altitude: 9000 ft <br>Terrain elevation: 500 ft <br>Gross glide gradient: 10% <br>TAS: 210 kt <br>Headwind component: 42 kt <br>1 NM = 6080 ft</p><p>Still air distance = (height difference / net gradient) x 100 <br>Ground distance = Still Air Distance x (GS / TAS)</p>",
   "options": {
     "a": "<p>11 NM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>14 NM</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 97919,
+    "number": "327648"
+  }
 }

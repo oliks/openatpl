@@ -1,7 +1,7 @@
 {
   "number": 765,
-  "questionId": 66648,
-  "questionNumber": "106415",
+  "questionId": "010-0765",
+  "questionNumber": "010-0765",
   "stemHtml": "In accordance with Annex 12, what does the ground-air visual signal code LLL used by rescue units mean?",
   "options": {
     "a": "Operation completed.",
@@ -10,5 +10,10 @@
     "d": "Require medical assistance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66648,
+    "number": "106415"
+  }
 }

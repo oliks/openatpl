@@ -1,7 +1,7 @@
 {
   "number": 227,
-  "questionId": 80348,
-  "questionNumber": "324608",
+  "questionId": "032-0227",
+  "questionNumber": "032-0227",
   "stemHtml": "<p>Following a take-off determined by the 50 ft (15 m) screen height, a light twin climbs on a 10% over-the-ground climb gradient. Determine the obstacle clearance above a 215 m high obstacle in relation to the runway (horizontally), situated at 3000 m from reference zero\u2026</p>",
   "options": {
     "a": "100 m.",
@@ -10,5 +10,10 @@
     "d": "It will not clear the obstacle."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80348,
+    "number": "324608"
+  }
 }

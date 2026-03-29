@@ -1,7 +1,7 @@
 {
   "number": 757,
-  "questionId": 164959,
-  "questionNumber": "332274",
+  "questionId": "033-0757",
+  "questionNumber": "033-0757",
   "stemHtml": "<p>Given the following information, what is a suitable altitude for turning to the final?</p><p>Distance to the threshold: 4 NM\u00a0<br>Threshold elevation: 700 ft\u00a0<br>Approach angle: 3\u00b0</p>",
   "options": {
     "a": "<p>500 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1200 ft</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164959,
+    "number": "332274"
+  }
 }

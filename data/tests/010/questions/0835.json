@@ -1,7 +1,7 @@
 {
   "number": 835,
-  "questionId": 67027,
-  "questionNumber": "101578",
+  "questionId": "010-0835",
+  "questionNumber": "010-0835",
   "stemHtml": "What is the code word used in air traffic incident reports to designate \"aircraft proximity\"?",
   "options": {
     "a": "AIRPROX",
@@ -10,5 +10,10 @@
     "d": "PROXIMITY"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67027,
+    "number": "101578"
+  }
 }

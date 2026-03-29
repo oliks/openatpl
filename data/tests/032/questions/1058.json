@@ -1,7 +1,7 @@
 {
   "number": 1058,
-  "questionId": 69989,
-  "questionNumber": "325705",
+  "questionId": "032-1058",
+  "questionNumber": "032-1058",
   "stemHtml": "London City Airport has a landing approach glide slope of 5.5\u00b0, which equates to flight path gradient of\u2026",
   "options": {
     "a": "5.5%",
@@ -10,5 +10,10 @@
     "d": "9.9%"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69989,
+    "number": "325705"
+  }
 }

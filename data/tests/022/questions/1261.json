@@ -1,7 +1,7 @@
 {
   "number": 1261,
-  "questionId": 82674,
-  "questionNumber": "229906",
+  "questionId": "022-1261",
+  "questionNumber": "022-1261",
   "stemHtml": "Typical Flight Envelope Protection (FEP) inputs include...",
   "options": {
     "a": "<p>Angle of Attack (AoA), airspeed and aircraft configuration.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Angle of Attack (AoA) and aircraft mass.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82674,
+    "number": "229906"
+  }
 }

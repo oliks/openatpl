@@ -1,7 +1,7 @@
 {
   "number": 1363,
-  "questionId": 80413,
-  "questionNumber": "336162",
+  "questionId": "033-1363",
+  "questionNumber": "033-1363",
   "stemHtml": "<p>Refer to figure or E(LO)-3 chart from Jeppesen GSPRM 2017.<br>What is the name of the airway between DRAKE (50\u00b012'N, 000\u00b004'W) and SITET (50\u00b006'N, 000\u00b000'E/W) and is it a one way or two way airway?</p>",
   "options": {
     "a": "L151 and N859. N859 is one way airways.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/F8E5DBA3-2F1E-474A-8D6D-E15E3AF13ABF.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F8E5DBA3-2F1E-474A-8D6D-E15E3AF13ABF.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80413,
+    "number": "336162"
+  }
 }

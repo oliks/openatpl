@@ -1,7 +1,7 @@
 {
   "number": 322,
-  "questionId": 79117,
-  "questionNumber": "328127",
+  "questionId": "032-0322",
+  "questionNumber": "032-0322",
   "stemHtml": "<p>The best endurance for a jet is found\u2026</p>",
   "options": {
     "a": "In an OEI scenario.",
@@ -10,5 +10,10 @@
     "d": "At low altitudes."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79117,
+    "number": "328127"
+  }
 }

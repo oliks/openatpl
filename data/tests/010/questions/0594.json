@@ -1,7 +1,7 @@
 {
   "number": 594,
-  "questionId": 66880,
-  "questionNumber": "104737",
+  "questionId": "010-0594",
+  "questionNumber": "010-0594",
   "stemHtml": "Holding Procedures \u2013 Buffer Area \u2013 The buffer area beyond the boundary of the holding area extends to..",
   "options": {
     "a": "5 NM.",
@@ -10,5 +10,10 @@
     "d": "3 NM."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66880,
+    "number": "104737"
+  }
 }

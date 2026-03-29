@@ -1,7 +1,7 @@
 {
   "number": 989,
-  "questionId": 68788,
-  "questionNumber": "228967",
+  "questionId": "022-0989",
+  "questionNumber": "022-0989",
   "stemHtml": "<p>The Primary Flight Display (PFD) of an EFIS equipped aircraft can display information relative to the following conditions\u2026</p>",
   "options": {
     "a": "altitude capture, braking system, autopilot and flight director mode changes.",
@@ -10,5 +10,10 @@
     "d": "altitude capture, TCAS resolution advisory, autopilot and flight director mode changes."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68788,
+    "number": "228967"
+  }
 }

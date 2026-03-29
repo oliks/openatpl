@@ -1,7 +1,7 @@
 {
   "number": 1131,
-  "questionId": 82731,
-  "questionNumber": "214146",
+  "questionId": "021-1131",
+  "questionNumber": "021-1131",
   "stemHtml": "<p>What will happen if a dual control input is made on an Airbus type Fly-By-Wire flight control system?</p>",
   "options": {
     "a": "The last input would take priority over the first.",
@@ -10,5 +10,10 @@
     "d": "<p>Both inputs would be summed together by the Fly-By-Wire computer.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82731,
+    "number": "214146"
+  }
 }

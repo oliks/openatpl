@@ -1,7 +1,7 @@
 {
   "number": 1240,
-  "questionId": 162758,
-  "questionNumber": "334744",
+  "questionId": "033-1240",
+  "questionNumber": "033-1240",
   "stemHtml": "<p>Refer to figure.\u00a0<br>Given the following information and the extract from the fuel breakdown for a flight from VOGO to EGCC, with EDDM nominated as an en-route alternate, calculate the minimum block fuel required.\u00a0</p><p>Average fuel flow (airborne): 5758 kg/h\u00a0<br>Fuel flow on the ground: 1500 kg/h\u00a0<br>Holding fuel flow: As for the final reserve</p>",
   "options": {
     "a": "<p>64 403 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/bae83ee1-217d-4d1a-8430-e18b812c7779.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/bae83ee1-217d-4d1a-8430-e18b812c7779.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162758,
+    "number": "334744"
+  }
 }

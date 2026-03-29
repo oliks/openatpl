@@ -1,7 +1,7 @@
 {
   "number": 737,
-  "questionId": 109678,
-  "questionNumber": "105859",
+  "questionId": "010-0737",
+  "questionNumber": "010-0737",
   "stemHtml": "<p>Refer to figure. <br>Compete the statements for each marshalling signal.</p><p>A) Moving extended arms downwards in a \u2018patting\u2019 gesture, moving wands up and down from waist to knees indicates _____. <br>B) Arms and wands fully extended above head, moving wands outward in a 'jabbing' motion indicates _____. <br>C) Fully extend arms and wands at a 90-degree angle to sides and slowly moving to above head until wands cross indicates _____. <br>D) Bending extended arms at elbows and moving wands up and down from chest height to head indicates _____.<br>\u0395) Abruptly extend arms and wands to top of head, crossing wands indicates _____.</p>",
   "options": {
     "a": "<p>A) slow down; B) chocks removed; C) normal stop; D) straight ahead; E) emergency stop</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/32a71d0c-bef8-494c-854d-0216f2c8f493.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/32a71d0c-bef8-494c-854d-0216f2c8f493.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109678,
+    "number": "105859"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 166,
-  "questionId": 69500,
-  "questionNumber": "313318",
+  "questionId": "031-0166",
+  "questionNumber": "031-0166",
   "stemHtml": "<p>Why is it important to have accurate information about the airplane mass and CG position during flight?</p>",
   "options": {
     "a": "<p>allow airlines to better compute navigation and route charges.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>are unimportant since all performance decisions are based on expected masses on the operational flight plan.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69500,
+    "number": "313318"
+  }
 }

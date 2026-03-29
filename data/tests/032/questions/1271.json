@@ -1,7 +1,7 @@
 {
   "number": 1271,
-  "questionId": 85119,
-  "questionNumber": "326238",
+  "questionId": "032-1271",
+  "questionNumber": "032-1271",
   "stemHtml": "<p>Refer to figure or CAP 698 file 4.23.<br>Owing to some last-minute airspace closures, a passenger flight over southern Europe has been re-routed from its normal flight plan. The flight crew have noticed that the primary en-route diversion would require a one-engine-inoperative net level-off altitude of 16 000 ft to stay above the highest relevant obstacles. Determine the maximum net mass that would allow clearance of the highest relevant obstacles, given:</p><p>Minimum off-route pressure altitude: 16 000 ft<br>Temperature: ISA +15\u00b0C<br>A/C: AUTO (HIGH)<br>ANTI-ICE: ALL OFF<br>(NOTE: For this question ignore any altimetry issues.)</p>",
   "options": {
     "a": "52 300 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/0E37676B-721F-411D-8D54-C3E039CA0BB8.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/0E37676B-721F-411D-8D54-C3E039CA0BB8.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85119,
+    "number": "326238"
+  }
 }

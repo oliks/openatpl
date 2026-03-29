@@ -1,7 +1,7 @@
 {
   "number": 216,
-  "questionId": 84848,
-  "questionNumber": "105448",
+  "questionId": "010-0216",
+  "questionNumber": "010-0216",
   "stemHtml": "Snow that is well saturated with water, and will drain if you try to squash it into a snowball, makes a distinct slap when walking on it. What contaminant is being described?",
   "options": {
     "a": "Dry Snow",
@@ -10,5 +10,10 @@
     "d": "Slush"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84848,
+    "number": "105448"
+  }
 }

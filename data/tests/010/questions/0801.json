@@ -1,7 +1,7 @@
 {
   "number": 801,
-  "questionId": 100099,
-  "questionNumber": "105497",
+  "questionId": "010-0801",
+  "questionNumber": "010-0801",
   "stemHtml": "<p>Which of the following could be used instead of single source lights?</p>",
   "options": {
     "a": "<p>Barrettes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Crossbars.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100099,
+    "number": "105497"
+  }
 }

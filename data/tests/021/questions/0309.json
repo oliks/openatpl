@@ -1,7 +1,7 @@
 {
   "number": 309,
-  "questionId": 68293,
-  "questionNumber": "218944",
+  "questionId": "021-0309",
+  "questionNumber": "021-0309",
   "stemHtml": "<p>Assuming the initiating cause is removed, which of these statements about resetting are correct or incorrect?</p><p>I. A fuse is not resettable <br>II. A circuit breaker is resettable</p>",
   "options": {
     "a": "I is incorrect, II is correct.",
@@ -10,5 +10,10 @@
     "d": "I is incorrect, II is incorrect."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68293,
+    "number": "218944"
+  }
 }

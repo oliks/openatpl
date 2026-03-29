@@ -1,7 +1,7 @@
 {
   "number": 457,
-  "questionId": 78034,
-  "questionNumber": "216548",
+  "questionId": "021-0457",
+  "questionNumber": "021-0457",
   "stemHtml": "A leakage on the gas charging valve of an accumulator...",
   "options": {
     "a": "means that less hydraulic work can be stored. <strong> </strong>",
@@ -10,5 +10,10 @@
     "d": "indicates that hydraulic pressure is too high."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78034,
+    "number": "216548"
+  }
 }

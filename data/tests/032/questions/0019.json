@@ -1,7 +1,7 @@
 {
   "number": 19,
-  "questionId": 69899,
-  "questionNumber": "321465",
+  "questionId": "032-0019",
+  "questionNumber": "032-0019",
   "stemHtml": "What speed can be found on both intersections of the thrust required curve with the thrust available curve?",
   "options": {
     "a": "V<sub>X</sub> and V<sub>Y</sub>",
@@ -10,5 +10,10 @@
     "d": "V<sub>S</sub> and V<sub>MAX</sub>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69899,
+    "number": "321465"
+  }
 }

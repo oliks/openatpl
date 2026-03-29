@@ -1,7 +1,7 @@
 {
   "number": 575,
-  "questionId": 69551,
-  "questionNumber": "319158",
+  "questionId": "031-0575",
+  "questionNumber": "031-0575",
   "stemHtml": "<p>The actual Take-off Mass for a CAT flight is equivalent to\u2026</p>",
   "options": {
     "a": "Dry Operating Mass plus take-off fuel and the Traffic Load.",
@@ -10,5 +10,10 @@
     "d": "<p>Actual Zero Fuel Mass plus the Traffic Load.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69551,
+    "number": "319158"
+  }
 }

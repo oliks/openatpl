@@ -1,7 +1,7 @@
 {
   "number": 97,
-  "questionId": 81346,
-  "questionNumber": "105460",
+  "questionId": "010-0097",
+  "questionNumber": "010-0097",
   "stemHtml": "<p dir=\"ltr\">After vacating the active runway and while taxiing towards the apron, the Tower East advises the pilot to stay on the current frequency 113.55. Subsequently, just before approaching the apron, the frequency becomes blocked. The pilot decides to change the frequency on his/her own initiative. The pilot may expect the following frequencies to provide him/her with specified services on the apron:</p><p dir=\"ltr\">1. Tower West: 118.75 <br /> 2. Ground: 121.65 <br /> 3. Delivery: 120.35 <br /> 4. AFIS: 126.70 <br /> 5. ATIS: 131.70</p>",
   "options": {
     "a": "<p dir=\"ltr\">1 and 2</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">4 and 5</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81346,
+    "number": "105460"
+  }
 }

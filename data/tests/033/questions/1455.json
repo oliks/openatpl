@@ -1,7 +1,7 @@
 {
   "number": 1455,
-  "questionId": 70732,
-  "questionNumber": "338555",
+  "questionId": "033-1455",
+  "questionNumber": "033-1455",
   "stemHtml": "<p>The minimum safe altitude is 8500 ft. The meteorological data gives an outside air temperature of -20\u00b0C at FL 85. The QNH, given by the reference meteorological station at an elevation of 4000 ft, is 1003 hPa.</p>\n\n<p>What is the minimum pressure altitude which should be flown?</p>",
   "options": {
     "a": "9150 ft.",
@@ -10,5 +10,10 @@
     "d": "8850 ft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70732,
+    "number": "338555"
+  }
 }

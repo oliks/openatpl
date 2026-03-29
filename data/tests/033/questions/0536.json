@@ -1,7 +1,7 @@
 {
   "number": 536,
-  "questionId": 70924,
-  "questionNumber": "339733",
+  "questionId": "033-0536",
+  "questionNumber": "033-0536",
   "stemHtml": "<p>Refer to figures or NANTES - Charts 19-1, 19-2, 19-3 from Jeppesen GSPRM 2017.\u00a0<br>What is the elevation of the highest obstacle on the chart?</p>",
   "options": {
     "a": "369 ft AGL",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/5D36ED97-0362-4BDC-9B5E-23003317AC5E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5D36ED97-0362-4BDC-9B5E-23003317AC5E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70924,
+    "number": "339733"
+  }
 }

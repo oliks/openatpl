@@ -1,7 +1,7 @@
 {
   "number": 535,
-  "questionId": 81977,
-  "questionNumber": "327291",
+  "questionId": "032-0535",
+  "questionNumber": "032-0535",
   "stemHtml": "A difference between a reduced (flex) and a derated thrust take-off is that...",
   "options": {
     "a": "on a flex take-off, the TOGA thrust remains available.",
@@ -10,5 +10,10 @@
     "d": "flex take-offs can be conducted on contaminated runways."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81977,
+    "number": "327291"
+  }
 }

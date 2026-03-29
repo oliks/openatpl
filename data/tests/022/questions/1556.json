@@ -1,7 +1,7 @@
 {
   "number": 1556,
-  "questionId": 82887,
-  "questionNumber": "224732",
+  "questionId": "022-1556",
+  "questionNumber": "022-1556",
   "stemHtml": "<p>What should a take-off warning provide, as a minimum requirement?</p>",
   "options": {
     "a": "An aural warning in the initial take-off roll.",
@@ -10,5 +10,10 @@
     "d": "A visual warning after V1."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82887,
+    "number": "224732"
+  }
 }

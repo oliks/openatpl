@@ -1,7 +1,7 @@
 {
   "number": 725,
-  "questionId": 84035,
-  "questionNumber": "325308",
+  "questionId": "032-0725",
+  "questionNumber": "032-0725",
   "stemHtml": "<p>An aeroplane is flying westwards over the middle of the Alps when it suffers an engine failure. The operator has defined two possible escape routes from the area, both of equal distance and terrain profile. In order to maximise terrain clearance, which escape route should the pilot take, and what speed should they descend at?</p><p>1. Escape route North, with a tailwind<br>2. Escape route South, with a headwind<br>3. Descend at high speed (close to V<strong><sub>MO</sub></strong>, maximum operating limit speed)<br>4. Descend at low speed (close to V<strong><sub>MD</sub></strong>, minimum drag speed)</p>",
   "options": {
     "a": "1 and 3",
@@ -10,5 +10,10 @@
     "d": "2 and 4"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84035,
+    "number": "325308"
+  }
 }

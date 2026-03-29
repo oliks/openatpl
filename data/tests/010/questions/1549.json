@@ -1,7 +1,7 @@
 {
   "number": 1549,
-  "questionId": 107468,
-  "questionNumber": "102331",
+  "questionId": "010-1549",
+  "questionNumber": "010-1549",
   "stemHtml": "<p>The ATC instructs the flight crew of an aircraft to follow heading 150. Based on the weather radar of the aircraft, this heading will lead the aircraft to a CB cloud. What should you do as a flight crew?</p>",
   "options": {
     "a": "<p>Report 'UNABLE'.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Deviate your heading from the ATC clearance.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107468,
+    "number": "102331"
+  }
 }

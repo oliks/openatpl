@@ -1,7 +1,7 @@
 {
   "number": 337,
-  "questionId": 81763,
-  "questionNumber": "216888",
+  "questionId": "021-0337",
+  "questionNumber": "021-0337",
   "stemHtml": "<p>The purpose of the \"pressure relief valve\" in a high pressure gaseous oxygen system is to\u2026</p>",
   "options": {
     "a": "Relieve overpressure if the pressure reducing valve malfunctions.",
@@ -10,5 +10,10 @@
     "d": "Reduce pressure in the oxygen reservoir to a suitable manifold pressure for the regulator."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81763,
+    "number": "216888"
+  }
 }

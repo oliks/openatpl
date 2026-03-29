@@ -1,7 +1,7 @@
 {
   "number": 776,
-  "questionId": 67870,
-  "questionNumber": "218010",
+  "questionId": "021-0776",
+  "questionNumber": "021-0776",
   "stemHtml": "<p>The function of a hydraulic selector valve is to\u2026</p>",
   "options": {
     "a": "<p>direct system pressure to either side of the piston of an actuator.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>automatically activate the hydraulic system.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67870,
+    "number": "218010"
+  }
 }

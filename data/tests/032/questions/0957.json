@@ -1,7 +1,7 @@
 {
   "number": 957,
-  "questionId": 107877,
-  "questionNumber": "329335",
+  "questionId": "032-0957",
+  "questionNumber": "032-0957",
   "stemHtml": "<p>Which conditions have the most significant impact on limiting V<sub><strong>MBE</strong></sub>?</p>",
   "options": {
     "a": "<p>Low Altitude, Low Temperature</p>",
@@ -10,5 +10,10 @@
     "d": "<p>High Altitude, High Temperature</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107877,
+    "number": "329335"
+  }
 }

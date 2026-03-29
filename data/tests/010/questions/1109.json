@@ -1,7 +1,7 @@
 {
   "number": 1109,
-  "questionId": 80504,
-  "questionNumber": "102008",
+  "questionId": "010-1109",
+  "questionNumber": "010-1109",
   "stemHtml": "<p>Which of the following occurrences is classified as an aircraft accident?</p>",
   "options": {
     "a": "<p>In flight, an engine turbine destroys the engine and its cowling but no other part of the aircraft suffers serious damage.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An engineer is struck and seriously injured after the crew has boarded the aircraft.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80504,
+    "number": "102008"
+  }
 }

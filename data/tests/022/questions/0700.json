@@ -1,7 +1,7 @@
 {
   "number": 700,
-  "questionId": 69012,
-  "questionNumber": "226662",
+  "questionId": "022-0700",
+  "questionNumber": "022-0700",
   "stemHtml": "<p>In which range does a modern radio altimeter operate?</p>",
   "options": {
     "a": "<p>500 to 700 MHz</p>",
@@ -10,5 +10,10 @@
     "d": "<p>4200 to 4400 MHz</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69012,
+    "number": "226662"
+  }
 }

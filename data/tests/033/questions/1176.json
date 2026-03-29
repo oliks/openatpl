@@ -1,7 +1,7 @@
 {
   "number": 1176,
-  "questionId": 70706,
-  "questionNumber": "333255",
+  "questionId": "033-1176",
+  "questionNumber": "033-1176",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MEP 1 Figure 3.3.\u00a0<br>A flight has to be made with a multi engine piston aeroplane MEP 1. For the fuel calculations take 5 US gallons for the taxi, and an additional 13 minutes at cruise condition to account for climb and descent.</p><p>Calculated time overhead to overhead is 2 h 37 min.\u00a0<br>Power setting is 65%, 2500 RPM.\u00a0<br>Calculated reserve fuel is 30% of the trip fuel.\u00a0<br>FL120.\u00a0<br>Temperature 1\u00b0C.</p><p>Find the minimum block fuel.</p>",
   "options": {
     "a": "118 US gallons.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/BC39EFC4-65A1-48D5-A09F-8F71FC5DA843.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/BC39EFC4-65A1-48D5-A09F-8F71FC5DA843.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70706,
+    "number": "333255"
+  }
 }

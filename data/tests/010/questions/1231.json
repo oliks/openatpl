@@ -1,7 +1,7 @@
 {
   "number": 1231,
-  "questionId": 82487,
-  "questionNumber": "108271",
+  "questionId": "010-1231",
+  "questionNumber": "010-1231",
   "stemHtml": "<p>During cruise on route to your destination, you hear over the radio that another aircraft is performing an emergency descent in the area due to a depressurisation problem. What actions should you take?</p>",
   "options": {
     "a": "<p>Broadcast your call sign, location, altitude and heading</p>",
@@ -10,5 +10,10 @@
     "d": "Clear the area"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82487,
+    "number": "108271"
+  }
 }

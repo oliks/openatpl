@@ -1,7 +1,7 @@
 {
   "number": 1783,
-  "questionId": 81265,
-  "questionNumber": "224362",
+  "questionId": "022-1783",
+  "questionNumber": "022-1783",
   "stemHtml": "<p>Approximately how long will the ADIRU alignment take at mid latitudes (30 - 60<strong>\u00b0</strong> North)?</p>",
   "options": {
     "a": "<p dir=\"ltr\">5 minutes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Alignment is instantaneous when powered up.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81265,
+    "number": "224362"
+  }
 }

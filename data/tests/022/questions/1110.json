@@ -1,7 +1,7 @@
 {
   "number": 1110,
-  "questionId": 109089,
-  "questionNumber": "227433",
+  "questionId": "022-1110",
+  "questionNumber": "022-1110",
   "stemHtml": "<p>What is the typical time required to align an Air Data Inertial Reference Unit at 60\u00b0N?</p>",
   "options": {
     "a": "<p>5 minutes</p>",
@@ -10,5 +10,10 @@
     "d": "<p>20 minutes</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109089,
+    "number": "227433"
+  }
 }

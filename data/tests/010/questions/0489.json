@@ -1,7 +1,7 @@
 {
   "number": 489,
-  "questionId": 109157,
-  "questionNumber": "109381",
+  "questionId": "010-0489",
+  "questionNumber": "010-0489",
   "stemHtml": "<p>In accordance with ICAO Annex 14, the Rescue and Fire Fighting (RFF) service of an aerodrome should be able to facilitate the (1) _____ aircraft operating at the aerodrome, as well as the aircraft with the maximum fuselage (2) _____ operating at the aerodrome.</p>",
   "options": {
     "a": "<p>(1) heaviest, (2) length</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) longest, (2) length</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109157,
+    "number": "109381"
+  }
 }

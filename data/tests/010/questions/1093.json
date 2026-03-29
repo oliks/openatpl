@@ -1,7 +1,7 @@
 {
   "number": 1093,
-  "questionId": 110870,
-  "questionNumber": "103358",
+  "questionId": "010-1093",
+  "questionNumber": "010-1093",
   "stemHtml": "<p>ACN and ACR are abbreviations for which of the following?</p>",
   "options": {
     "a": "<p>Airfield Capacity Number and Aircraft Climb Requirement</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Aircraft Classification Number and Aircraft Classification Rating</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110870,
+    "number": "103358"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 927,
-  "questionId": 70884,
-  "questionNumber": "332706",
+  "questionId": "033-0927",
+  "questionNumber": "033-0927",
   "stemHtml": "<p>Refer to figure or \"E LO 1\" from Jeppesen GSPRM 2017.\u00a0<br>A section of a flight is carried out from SUMBURGH (SUM) to ABERDEEN (ADN) along airway Y905. Choose the applicable IFR flight level between those points.</p>",
   "options": {
     "a": "FL110",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/EC4184A8-A5D4-45F5-8772-E59FFD04B1F3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/EC4184A8-A5D4-45F5-8772-E59FFD04B1F3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70884,
+    "number": "332706"
+  }
 }

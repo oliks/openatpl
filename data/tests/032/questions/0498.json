@@ -1,7 +1,7 @@
 {
   "number": 498,
-  "questionId": 96377,
-  "questionNumber": "322480",
+  "questionId": "032-0498",
+  "questionNumber": "032-0498",
   "stemHtml": "For aircraft with a wingspan of more than 60 m, which formula should be used to calculate obstacle clearance for the initial climb?",
   "options": {
     "a": "<p>60 m + \u00bd of the wingspan + 0.0125 D</p>",
@@ -10,5 +10,10 @@
     "d": "<p>90 m + \u00bd of the wingspan + 1.125 D</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96377,
+    "number": "322480"
+  }
 }

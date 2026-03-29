@@ -1,7 +1,7 @@
 {
   "number": 1075,
-  "questionId": 78675,
-  "questionNumber": "108854",
+  "questionId": "010-1075",
+  "questionNumber": "010-1075",
   "stemHtml": "<p>Three aircraft: (1), (2), and (3) arrive successively at ten minute intervals, overhead the scene of a recent aircraft accident.</p><p>(1) is unable to establish contact with the Search and Rescue Centre<br>(2) is able to contact the Search and Rescue Centre<br>(3) is a Search and Rescue helicopter</p><p>The command of the situation is the responsibility of\u2026</p>",
   "options": {
     "a": "(1), then by mutual consent (2) and then (3).",
@@ -10,5 +10,10 @@
     "d": "(2), then by mutual consent (3) until the completion of operations."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78675,
+    "number": "108854"
+  }
 }

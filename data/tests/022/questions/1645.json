@@ -1,7 +1,7 @@
 {
   "number": 1645,
-  "questionId": 115495,
-  "questionNumber": "221447",
+  "questionId": "022-1645",
+  "questionNumber": "022-1645",
   "stemHtml": "<p>Refer to figure.     <br />    Regarding the airspeed display shown in the annex, the input pressure source is\u2026</p>",
   "options": {
     "a": "<p>calculated within the instrument, in analogue form, by subtracting static pressure from pitot pressure.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/11a40d9a-3863-4ded-8d6c-76a47ebe3608.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/11a40d9a-3863-4ded-8d6c-76a47ebe3608.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 115495,
+    "number": "221447"
+  }
 }

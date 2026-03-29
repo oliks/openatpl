@@ -1,7 +1,7 @@
 {
   "number": 201,
-  "questionId": 68479,
-  "questionNumber": "224304",
+  "questionId": "022-0201",
+  "questionNumber": "022-0201",
   "stemHtml": "<p>The principle of the Mach indicator is based on the computation of the ratio.</p>",
   "options": {
     "a": "(Pt \u2013 Ps) / Pt",
@@ -10,5 +10,10 @@
     "d": "(Pt \u2013 Ps) / Ps"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68479,
+    "number": "224304"
+  }
 }

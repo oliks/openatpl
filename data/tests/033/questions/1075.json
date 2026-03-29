@@ -1,7 +1,7 @@
 {
   "number": 1075,
-  "questionId": 70477,
-  "questionNumber": "331791",
+  "questionId": "033-1075",
+  "questionNumber": "033-1075",
   "stemHtml": "<p>Given the following NOTAM information, what changes apply to SID KOMIB 1E?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EDDF (FRANKFURT MAIN) <<< DUE TO REVISED FREQUENCY ALLOCATION CHANGE CONTACT FREQUENCY AFTER TAKE-OFF FOR SID: RWY07: KOMIB 1E/2D. TO LANGEN RADAR 136.125 . REMARK CONTACT LANGEN RADAR WHEN ADVISED BY TOWER REMAINS. REF AIP AD 2 EDDF 5-7-11 / 5-7-13 ALL EFF 23 JUL 2015 . : NOTAM ED/A0198/16 >>> END-OF-BULLETIN <<<</span></p>",
   "options": {
     "a": "CONTACT LANGEN RADAR IMMEDIATELY AFTER TAKEOFF ON 136.125.",
@@ -10,5 +10,10 @@
     "d": "CONTACT LANGEN RADAR WHEN ADVISED ON 136.125."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70477,
+    "number": "331791"
+  }
 }

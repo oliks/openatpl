@@ -1,7 +1,7 @@
 {
   "number": 504,
-  "questionId": 66496,
-  "questionNumber": "221924",
+  "questionId": "022-0504",
+  "questionNumber": "022-0504",
   "stemHtml": "<p>With an increase in magnetic latitude there will be a decrease in the\u2026</p>",
   "options": {
     "a": "angle of dip.",
@@ -10,5 +10,10 @@
     "d": "vertical component of the Earth's magnetic field."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66496,
+    "number": "221924"
+  }
 }

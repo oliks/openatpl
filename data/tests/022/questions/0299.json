@@ -1,7 +1,7 @@
 {
   "number": 299,
-  "questionId": 134487,
-  "questionNumber": "226688",
+  "questionId": "022-0299",
+  "questionNumber": "022-0299",
   "stemHtml": "<p>When flying in the Northern Hemisphere, to counteract the turning errors of the direct reading compass you must\u2026</p>",
   "options": {
     "a": "<p>roll out early when turning from 070\u00b0 to 110\u00b0</p>",
@@ -10,5 +10,10 @@
     "d": "<p>roll out late when turning from 330\u00b0 to 040\u00b0</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 134487,
+    "number": "226688"
+  }
 }

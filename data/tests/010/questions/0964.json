@@ -1,7 +1,7 @@
 {
   "number": 964,
-  "questionId": 100018,
-  "questionNumber": "106011",
+  "questionId": "010-0964",
+  "questionNumber": "010-0964",
   "stemHtml": "The aircraft passenger seats are all occupied, and there is a request from an extra passenger to join the flight. What are the potential courses of action in this situation?",
   "options": {
     "a": "The passenger must seek alternative seating arrangements as passengers are not permitted in the cockpit, regardless of circumstances.",
@@ -10,5 +10,10 @@
     "d": "Under no circumstances are passengers allowed in the cockpit, but the captain has the discretion to accommodate another crew member on the jump seat."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100018,
+    "number": "106011"
+  }
 }

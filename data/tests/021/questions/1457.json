@@ -1,7 +1,7 @@
 {
   "number": 1457,
-  "questionId": 67953,
-  "questionNumber": "213123",
+  "questionId": "021-1457",
+  "questionNumber": "021-1457",
   "stemHtml": "During take-off, the fan in a high by-pass ratio turbofan engine produces:",
   "options": {
     "a": "the greater part of the thrust.",
@@ -10,5 +10,10 @@
     "d": "the lesser part of the thrust."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67953,
+    "number": "213123"
+  }
 }

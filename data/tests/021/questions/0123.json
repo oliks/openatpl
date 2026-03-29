@@ -1,7 +1,7 @@
 {
   "number": 123,
-  "questionId": 101038,
-  "questionNumber": "213901",
+  "questionId": "021-0123",
+  "questionNumber": "021-0123",
   "stemHtml": "<p>Refer to figure. <br /> \rConsider the fuel schematic of a two-engine aircraft. Where on the diagram is a check valve located?</p>",
   "options": {
     "a": "<p>Position 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/be6aaed1-51f8-4eda-9ab2-6558e514a543.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/be6aaed1-51f8-4eda-9ab2-6558e514a543.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101038,
+    "number": "213901"
+  }
 }

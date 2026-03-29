@@ -1,7 +1,7 @@
 {
   "number": 778,
-  "questionId": 81037,
-  "questionNumber": "223852",
+  "questionId": "022-0778",
+  "questionNumber": "022-0778",
   "stemHtml": "<p>The autopilot is intentionally disengaged by using the button on the control column. What kind of warning will the flight crew get?</p>",
   "options": {
     "a": "<p>Both a visual and an aural warning.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A visual warning only.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81037,
+    "number": "223852"
+  }
 }

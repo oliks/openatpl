@@ -1,7 +1,7 @@
 {
   "number": 684,
-  "questionId": 105491,
-  "questionNumber": "329547",
+  "questionId": "032-0684",
+  "questionNumber": "032-0684",
   "stemHtml": "<p>The pilot of a modern, large turbojet aeroplane sets the vertical speed mode of the autopilot to carry out a climb. What must he/she be particularly careful of?</p>",
   "options": {
     "a": "<p>The autopilot may select a rate of climb outside the maximum permissible limit of the aeroplane.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>If the climb is prolonged, there is a risk that the airspeed may reduce towards the stall.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105491,
+    "number": "329547"
+  }
 }

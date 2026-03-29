@@ -1,7 +1,7 @@
 {
   "number": 1253,
-  "questionId": 68265,
-  "questionNumber": "218630",
+  "questionId": "021-1253",
+  "questionNumber": "021-1253",
   "stemHtml": "One of the advantages of a turbocharger in a piston engine is:",
   "options": {
     "a": "that there is no danger of detonation.",
@@ -10,5 +10,10 @@
     "d": "to make the power available less affected by altitude."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68265,
+    "number": "218630"
+  }
 }

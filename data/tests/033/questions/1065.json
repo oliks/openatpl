@@ -1,7 +1,7 @@
 {
   "number": 1065,
-  "questionId": 108703,
-  "questionNumber": "331926",
+  "questionId": "033-1065",
+  "questionNumber": "033-1065",
   "stemHtml": "<p>Mode A transponder is made of\u2026</p>",
   "options": {
     "a": "<p>24 digits (496 codes)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>4 digits (496 codes)</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108703,
+    "number": "331926"
+  }
 }

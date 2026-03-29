@@ -1,7 +1,7 @@
 {
   "number": 1537,
-  "questionId": 79431,
-  "questionNumber": "229445",
+  "questionId": "022-1537",
+  "questionNumber": "022-1537",
   "stemHtml": "<p>Which of the following scenarios will typically trigger a \"Master Warning\"? <br /> \r <br /> \r1. Engine fire <br /> \r2. Brake overheat <br /> \r3. Overspeed</p>",
   "options": {
     "a": "<p>1 and 2.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 3.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79431,
+    "number": "229445"
+  }
 }

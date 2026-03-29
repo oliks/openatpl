@@ -1,7 +1,7 @@
 {
   "number": 757,
-  "questionId": 108401,
-  "questionNumber": "103315",
+  "questionId": "010-0757",
+  "questionNumber": "010-0757",
   "stemHtml": "<p>Weather conditions in a control zone fall below the VMC minima. What is the appropriate course of action by the control tower?</p>",
   "options": {
     "a": "<p>VFR flights not permitted but local flights may depart.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Talk to incoming VFR traffic about it and call back the VFR traffic on the ground.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108401,
+    "number": "103315"
+  }
 }

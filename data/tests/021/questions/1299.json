@@ -1,7 +1,7 @@
 {
   "number": 1299,
-  "questionId": 67862,
-  "questionNumber": "213969",
+  "questionId": "021-1299",
+  "questionNumber": "021-1299",
   "stemHtml": "<p>In the exhaust section of a gas turbine engine, the\u2026</p>",
   "options": {
     "a": "turbine extracts energy to drive the main transmission gearbox.",
@@ -10,5 +10,10 @@
     "d": "turbine extracts energy to drive the compressor."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67862,
+    "number": "213969"
+  }
 }

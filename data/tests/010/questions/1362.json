@@ -1,7 +1,7 @@
 {
   "number": 1362,
-  "questionId": 101622,
-  "questionNumber": "106223",
+  "questionId": "010-1362",
+  "questionNumber": "010-1362",
   "stemHtml": "<p>What shape and colour typically signify the Landing Direction indicator when displaying the runway direction?</p>",
   "options": {
     "a": "<p>In the shape of a T and be White or Orange and surrounded by white lights when used at night.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>In the shape of a T and be White or Yellow surrounded by white lights at night.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101622,
+    "number": "106223"
+  }
 }

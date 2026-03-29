@@ -1,7 +1,7 @@
 {
   "number": 98,
-  "questionId": 158971,
-  "questionNumber": "105384",
+  "questionId": "010-0098",
+  "questionNumber": "010-0098",
   "stemHtml": "<p>The uncertainty phase is defined as when...</p>",
   "options": {
     "a": "<p>apprehension exists as to the safety of an aircraft and its occupants.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the operating efficiency of the aircraft has been impaired.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 158971,
+    "number": "105384"
+  }
 }

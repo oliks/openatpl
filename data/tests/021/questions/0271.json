@@ -1,7 +1,7 @@
 {
   "number": 271,
-  "questionId": 67779,
-  "questionNumber": "214212",
+  "questionId": "021-0271",
+  "questionNumber": "021-0271",
   "stemHtml": "Refer to figure. <br /> GEN 2 can be used to feed the DC ESS BUS: (NB: all contactors not mentioned are assumed to remain open)",
   "options": {
     "a": "via AC BUS 2 and AC ESS BUS, when C1.1, C1.4, C3.1, C3.2 and C5.2 are closed.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/83BA08CA-A281-4C19-87ED-4EC7FD401FDB.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/83BA08CA-A281-4C19-87ED-4EC7FD401FDB.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67779,
+    "number": "214212"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 899,
-  "questionId": 101061,
-  "questionNumber": "334845",
+  "questionId": "033-0899",
+  "questionNumber": "033-0899",
   "stemHtml": "<p>Refer to figure or to Dubrovnik Chart 19-10 from Jeppesen GSPRM 2017. <br /> You are flying a Cat C A320, which initial magnetic track do you follow after CAVTAT NDB?</p>",
   "options": {
     "a": "<p>148\u00b0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/75e8c175-7163-4033-9625-e9dd688bb74b.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/75e8c175-7163-4033-9625-e9dd688bb74b.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101061,
+    "number": "334845"
+  }
 }

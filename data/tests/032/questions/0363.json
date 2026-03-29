@@ -1,7 +1,7 @@
 {
   "number": 363,
-  "questionId": 82372,
-  "questionNumber": "321095",
+  "questionId": "032-0363",
+  "questionNumber": "032-0363",
   "stemHtml": "The Specific Fuel Consumption (SFC) for a propeller engine is\u2026",
   "options": {
     "a": "Fuel flow per unit of thrust.",
@@ -10,5 +10,10 @@
     "d": "Aeroplane drag multiplied by TAS."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82372,
+    "number": "321095"
+  }
 }

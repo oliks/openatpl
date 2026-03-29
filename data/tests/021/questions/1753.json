@@ -1,7 +1,7 @@
 {
   "number": 1753,
-  "questionId": 96181,
-  "questionNumber": "217635",
+  "questionId": "021-1753",
+  "questionNumber": "021-1753",
   "stemHtml": "How can a jet engine be started?",
   "options": {
     "a": "From an APU and RAM air turbine.",
@@ -10,5 +10,10 @@
     "d": "From two batteries or an APU generator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96181,
+    "number": "217635"
+  }
 }

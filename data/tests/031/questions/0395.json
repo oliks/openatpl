@@ -1,7 +1,7 @@
 {
   "number": 395,
-  "questionId": 69426,
-  "questionNumber": "313533",
+  "questionId": "031-0395",
+  "questionNumber": "031-0395",
   "stemHtml": "<p>Given that the total mass of an aeroplane is 112 000 kg with a centre of gravity position at 22.62 m aft of the datum. The centre of gravity limits are between 18 m and 22 m.</p><p>How much mass must be removed from the rear hold (30 m aft of the datum) to move the centre of gravity to the middle of the limits?</p>",
   "options": {
     "a": "<p>16 529 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>29 344 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69426,
+    "number": "313533"
+  }
 }

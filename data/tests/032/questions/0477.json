@@ -1,7 +1,7 @@
 {
   "number": 477,
-  "questionId": 81905,
-  "questionNumber": "323205",
+  "questionId": "032-0477",
+  "questionNumber": "032-0477",
   "stemHtml": "A pilot is operating a series of short-haul flights. The landing at one destination was performed at the maximum landing mass and the aircraft is only scheduled to spend a short time on the ground prior to the next departure. Brake temperature\u2026",
   "options": {
     "a": "should NOT limit the turnaround time, because the regulated take-off mass calculation will take into account brake temperature considerations.",
@@ -10,5 +10,10 @@
     "d": "should NOT limit the turnaround time, because brakes are mainly used during the landing phase of a flight, and there is NO need to delay the departure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81905,
+    "number": "323205"
+  }
 }

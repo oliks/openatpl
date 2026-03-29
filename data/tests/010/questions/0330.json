@@ -1,7 +1,7 @@
 {
   "number": 330,
-  "questionId": 102348,
-  "questionNumber": "103595",
+  "questionId": "010-0330",
+  "questionNumber": "010-0330",
   "stemHtml": "<p>A revised Expected Approach Time (EAT) is given if it deviates from the previously transmitted time by...</p>",
   "options": {
     "a": "<p>3 minutes or more.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>10 minutes or more.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102348,
+    "number": "103595"
+  }
 }

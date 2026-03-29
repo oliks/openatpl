@@ -1,7 +1,7 @@
 {
   "number": 618,
-  "questionId": 82358,
-  "questionNumber": "317453",
+  "questionId": "031-0618",
+  "questionNumber": "031-0618",
   "stemHtml": "<p>During dispatch calculations, you want to calculate the maximum possible Traffic Load and carry as a minimum 13 800 kg of Block Fuel.</p><p>Given the following information, what is the Allowed Traffic Load for your flight?</p><p>Maximum Take-off Mass: 71 204 kg <br>Maximum Zero Fuel Mass: 56 490 kg <br>Dry Operating Mass: 40 195 kg <br>Actual Traffic Load: 14 585 kg <br>Taxi Fuel: 215 kg</p><p>Assume NO restrictions on the Landing Mass.</p>",
   "options": {
     "a": "17 424 kg",
@@ -10,5 +10,10 @@
     "d": "16 295 kg"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82358,
+    "number": "317453"
+  }
 }

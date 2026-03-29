@@ -1,7 +1,7 @@
 {
   "number": 118,
-  "questionId": 79085,
-  "questionNumber": "319011",
+  "questionId": "031-0118",
+  "questionNumber": "031-0118",
   "stemHtml": "Refer to figure. <br /> Calculate the actual Overload or Underload, given the data in the load and trim sheet.",
   "options": {
     "a": "Overload of 2 000 kg.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/FC5564B6-780B-41C0-A028-1E879C182C68.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/FC5564B6-780B-41C0-A028-1E879C182C68.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79085,
+    "number": "319011"
+  }
 }

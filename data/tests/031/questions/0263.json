@@ -1,7 +1,7 @@
 {
   "number": 263,
-  "questionId": 110250,
-  "questionNumber": "313421",
+  "questionId": "031-0263",
+  "questionNumber": "031-0263",
   "stemHtml": "<p>An aircraft has a mean aerodynamic chord (MAC) which is 134.5 inches in length. The leading edge of the MAC is located 625.6 inches aft of the datum. The mass of the aeroplane is acting through an arm located 650 inches aft of the datum. Calculate the center of gravity as a percentage MAC.</p>",
   "options": {
     "a": "<p>85.5%</p>",
@@ -10,5 +10,10 @@
     "d": "<p>18.14%</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110250,
+    "number": "313421"
+  }
 }

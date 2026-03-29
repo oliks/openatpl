@@ -1,7 +1,7 @@
 {
   "number": 196,
-  "questionId": 69009,
-  "questionNumber": "225690",
+  "questionId": "022-0196",
+  "questionNumber": "022-0196",
   "stemHtml": "<p>The magnetic heading can be obtained from the compass heading by using a\u2026</p>",
   "options": {
     "a": "map showing the isogonic lines.",
@@ -10,5 +10,10 @@
     "d": "compass deviation card."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69009,
+    "number": "225690"
+  }
 }

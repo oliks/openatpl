@@ -1,7 +1,7 @@
 {
   "number": 79,
-  "questionId": 102254,
-  "questionNumber": "107977",
+  "questionId": "010-0079",
+  "questionNumber": "010-0079",
   "stemHtml": "<p>You are a LIGHT aircraft and about to land behind a MEDIUM category aircraft on a controlled airfield not using radar. What is the Minimum Separation to be applied?</p>",
   "options": {
     "a": "<p>3 NM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 min</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102254,
+    "number": "107977"
+  }
 }

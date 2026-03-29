@@ -1,7 +1,7 @@
 {
   "number": 1504,
-  "questionId": 67096,
-  "questionNumber": "102804",
+  "questionId": "010-1504",
+  "questionNumber": "010-1504",
   "stemHtml": "The stopway is located at the end of the?",
   "options": {
     "a": "Take-Off Run Available (TORA).",
@@ -10,5 +10,10 @@
     "d": "Take-Off Distance Available (TODA)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67096,
+    "number": "102804"
+  }
 }

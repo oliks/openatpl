@@ -1,7 +1,7 @@
 {
   "number": 1242,
-  "questionId": 107203,
-  "questionNumber": "333518",
+  "questionId": "033-1242",
+  "questionNumber": "033-1242",
   "stemHtml": "<p>Refer to figure or CAP697 figure 4.5.4a. An aircraft descends from FL310 to FL050. Its landing weight is expected to be 45 tons. Which of the following options are correct? <br /> \rDescent: M 0.74 / 250 kt</p>",
   "options": {
     "a": "<p>The groundspeed is 471 kt</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/87ee63b0-ba7c-4637-9f56-1012019e2ece.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/87ee63b0-ba7c-4637-9f56-1012019e2ece.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107203,
+    "number": "333518"
+  }
 }

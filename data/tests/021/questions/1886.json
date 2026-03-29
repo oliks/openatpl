@@ -1,7 +1,7 @@
 {
   "number": 1886,
-  "questionId": 67619,
-  "questionNumber": "216302",
+  "questionId": "021-1886",
+  "questionNumber": "021-1886",
   "stemHtml": "<p>The blade angle of a constant-speed propeller\u2026</p>",
   "options": {
     "a": "<p>is independent of the true air speed.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>increases with increasing true air speed.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67619,
+    "number": "216302"
+  }
 }

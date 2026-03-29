@@ -1,7 +1,7 @@
 {
   "number": 143,
-  "questionId": 66932,
-  "questionNumber": "105993",
+  "questionId": "010-0143",
+  "questionNumber": "010-0143",
   "stemHtml": "<p>The lower limit of a Control Area is established at a height of not less than\u2026</p>",
   "options": {
     "a": "<p>300 m or 1000 ft above ground or water.</p>",
@@ -10,5 +10,10 @@
     "d": "200 m or 700 ft above aerodrome level."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66932,
+    "number": "105993"
+  }
 }

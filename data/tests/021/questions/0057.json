@@ -1,7 +1,7 @@
 {
   "number": 57,
-  "questionId": 83873,
-  "questionNumber": "212378",
+  "questionId": "021-0057",
+  "questionNumber": "021-0057",
   "stemHtml": "How can upwards wing flex be avoided?",
   "options": {
     "a": "Move C of G forwards.",
@@ -10,5 +10,10 @@
     "d": "Keep fuel in the wing tanks as long as possible."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83873,
+    "number": "212378"
+  }
 }

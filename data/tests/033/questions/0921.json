@@ -1,7 +1,7 @@
 {
   "number": 921,
-  "questionId": 130007,
-  "questionNumber": "339204",
+  "questionId": "033-0921",
+  "questionNumber": "033-0921",
   "stemHtml": "<p>Refer to figure. <br>What is the minimum radar altitude at the point 15 DME from the VOR on a magnetic bearing of 240\u00b0?</p>",
   "options": {
     "a": "<p>3000 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/df0902af-fefa-44ee-86f2-d2996ca6f3fc.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/df0902af-fefa-44ee-86f2-d2996ca6f3fc.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 130007,
+    "number": "339204"
+  }
 }

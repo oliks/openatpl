@@ -1,7 +1,7 @@
 {
   "number": 563,
-  "questionId": 82719,
-  "questionNumber": "315397",
+  "questionId": "031-0563",
+  "questionNumber": "031-0563",
   "stemHtml": "Refer to figure. <br /> Cross-check the information contained in the load/trim sheet of a Medium Range Jet Commercial Air Transport (MRJT) aeroplane. Which of the following masses/loads is correctly computed?",
   "options": {
     "a": "LM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/C2CF77E8-6E2E-4DDF-8901-38450F3833BF.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/C2CF77E8-6E2E-4DDF-8901-38450F3833BF.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82719,
+    "number": "315397"
+  }
 }

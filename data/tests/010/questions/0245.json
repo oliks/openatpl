@@ -1,7 +1,7 @@
 {
   "number": 245,
-  "questionId": 82563,
-  "questionNumber": "108632",
+  "questionId": "010-0245",
+  "questionNumber": "010-0245",
   "stemHtml": "<p>A fix of an object measured from a DME has a tolerance of (1) _____, plus (2) _____ the distance to the antenna.</p>",
   "options": {
     "a": "<p>(1) 1.25 NM; (2) 0.25%</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) 0.5 NM; (2) 2.5%</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82563,
+    "number": "108632"
+  }
 }

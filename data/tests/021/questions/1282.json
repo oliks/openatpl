@@ -1,7 +1,7 @@
 {
   "number": 1282,
-  "questionId": 67930,
-  "questionNumber": "217765",
+  "questionId": "021-1282",
+  "questionNumber": "021-1282",
   "stemHtml": "<p>Cabin differential pressure means the pressure difference between...</p>",
   "options": {
     "a": "<p>actual cabin pressure and selected pressure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>cabin pressure and ambient air pressure at MSL.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67930,
+    "number": "217765"
+  }
 }

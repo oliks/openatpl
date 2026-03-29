@@ -1,7 +1,7 @@
 {
   "number": 415,
-  "questionId": 68955,
-  "questionNumber": "222707",
+  "questionId": "022-0415",
+  "questionNumber": "022-0415",
   "stemHtml": "FD commands can be displayed through the...",
   "options": {
     "a": "heading bug and the course deviation indicator on the HSI.",
@@ -10,5 +10,10 @@
     "d": "V-shaped bars and the collective cue on the HSI."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68955,
+    "number": "222707"
+  }
 }

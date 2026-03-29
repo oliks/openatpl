@@ -1,7 +1,7 @@
 {
   "number": 750,
-  "questionId": 67878,
-  "questionNumber": "212995",
+  "questionId": "021-0750",
+  "questionNumber": "021-0750",
   "stemHtml": "<p>The approach flight idle value (RPM) is higher than the ground idle value\u2026</p>",
   "options": {
     "a": "to allow the engines to more rapidly accelerate to full power, in case of a go-around.",
@@ -10,5 +10,10 @@
     "d": "<p>to guarantee that a gradient of 5% can be achieved during the descent.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67878,
+    "number": "212995"
+  }
 }

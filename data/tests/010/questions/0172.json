@@ -1,7 +1,7 @@
 {
   "number": 172,
-  "questionId": 96231,
-  "questionNumber": "108062",
+  "questionId": "010-0172",
+  "questionNumber": "010-0172",
   "stemHtml": "<p>You are a pilot accustomed to using a long runway. With ATC procedures that prioritize quick landings to maintain traffic flow, what challenges can arise when transitioning to a shorter runway for landing?</p>",
   "options": {
     "a": "<p>The aircraft may exceed the runway because high speed can make the plane float.</p>",
@@ -10,5 +10,10 @@
     "d": "The aircraft will automatically adjust its landing speed to match the shorter runway length."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96231,
+    "number": "108062"
+  }
 }

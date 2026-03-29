@@ -1,7 +1,7 @@
 {
   "number": 939,
-  "questionId": 68308,
-  "questionNumber": "217158",
+  "questionId": "021-0939",
+  "questionNumber": "021-0939",
   "stemHtml": "<p>The function of the generator breaker is to close when the voltage of the\u2026</p>",
   "options": {
     "a": "generator is greater than battery voltage and to open when the opposite is true",
@@ -10,5 +10,10 @@
     "d": "battery is greater than the alternator voltage and to open when the opposite is true"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68308,
+    "number": "217158"
+  }
 }

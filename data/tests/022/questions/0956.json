@@ -1,7 +1,7 @@
 {
   "number": 956,
-  "questionId": 81856,
-  "questionNumber": "228986",
+  "questionId": "022-0956",
+  "questionNumber": "022-0956",
   "stemHtml": "<p>The yaw damper detects and filters Dutch roll. How?</p><p>1. By the use of a horizontal axis rate gyro that measure angular rate <br /> 2. By the use of inputs from the IRS <br /> 3. By the use of a vertical axis rate gyro that measures angular rate <br /> 4. It will depend on the aircraft type, but both 1 and 2 can be correct</p>",
   "options": {
     "a": "4",
@@ -10,5 +10,10 @@
     "d": "1"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81856,
+    "number": "228986"
+  }
 }

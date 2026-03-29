@@ -1,7 +1,7 @@
 {
   "number": 1018,
-  "questionId": 80060,
-  "questionNumber": "106929",
+  "questionId": "010-1018",
+  "questionNumber": "010-1018",
   "stemHtml": "<p>The Pavement Classification System (ACN-PCN), for an aircraft under 5700 kg\u2026</p>",
   "options": {
     "a": "The Pavement Classification System is not applicable to aircraft under 5700 kg.",
@@ -10,5 +10,10 @@
     "d": "Is used for grass strips."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80060,
+    "number": "106929"
+  }
 }

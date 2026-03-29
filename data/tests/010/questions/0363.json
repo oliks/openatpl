@@ -1,7 +1,7 @@
 {
   "number": 363,
-  "questionId": 163456,
-  "questionNumber": "101593",
+  "questionId": "010-0363",
+  "questionNumber": "010-0363",
   "stemHtml": "<p>An aircraft is cruising at 1000 ft altitude and the pressure at that level is 1013 hPa. Calculate the QNH.</p>",
   "options": {
     "a": "<p>980 hPa</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1013 hPa</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163456,
+    "number": "101593"
+  }
 }

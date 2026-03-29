@@ -1,7 +1,7 @@
 {
   "number": 406,
-  "questionId": 102144,
-  "questionNumber": "321480",
+  "questionId": "032-0406",
+  "questionNumber": "032-0406",
   "stemHtml": "<p>Which of the following statements are correct with regards to aircraft performance classes and the corresponding aircraft characteristics?</p><p>1. Class C contains piston engined aircraft that have greater than a MTOM of 5700 kg <br /> 2. Class A contains turbojet aircraft only <br /> 3. Class C contains propeller driven aircraft only <br /> 4. Class B aircraft have 9 or fewer passenger seats <br /> 5. Class B aircraft have a MTOM of 5700 kg or greater <br /> 6. Class A aircraft can have 9 or fewer passenger seats</p>",
   "options": {
     "a": "<p>1, 2, 3 and 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 4, 5 and 6</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102144,
+    "number": "321480"
+  }
 }

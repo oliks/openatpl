@@ -1,7 +1,7 @@
 {
   "number": 449,
-  "questionId": 69573,
-  "questionNumber": "315958",
+  "questionId": "031-0449",
+  "questionNumber": "031-0449",
   "stemHtml": "For the purpose of completing the Mass and Balance documentation, the Traffic Load is considered to be equal to the Take-off Mass:",
   "options": {
     "a": "plus the Operating Mass.",
@@ -10,5 +10,10 @@
     "d": "minus the Trip Fuel Mass."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69573,
+    "number": "315958"
+  }
 }

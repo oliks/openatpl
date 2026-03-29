@@ -1,7 +1,7 @@
 {
   "number": 1211,
-  "questionId": 67009,
-  "questionNumber": "101921",
+  "questionId": "010-1211",
+  "questionNumber": "010-1211",
   "stemHtml": "Air Traffic Control Services have the responsibility to prevent terrain collisions when..",
   "options": {
     "a": "a flight under IFR is vectored by radar.",
@@ -10,5 +10,10 @@
     "d": "an aircraft is flying IFR in IMC."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67009,
+    "number": "101921"
+  }
 }

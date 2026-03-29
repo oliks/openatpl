@@ -1,7 +1,7 @@
 {
   "number": 108,
-  "questionId": 101395,
-  "questionNumber": "218449",
+  "questionId": "021-0108",
+  "questionNumber": "021-0108",
   "stemHtml": "<p>In a Fly-By-Wire (FBW) aircraft controlled by sidesticks, how can a pilot lock out the flight control inputs of the other pilot?</p>",
   "options": {
     "a": "<p>By pressing and holding the autopilot engage button.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>By performing a rapid double tap on the sidestick priority button.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101395,
+    "number": "218449"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 314,
-  "questionId": 164135,
-  "questionNumber": "314865",
+  "questionId": "031-0314",
+  "questionNumber": "031-0314",
   "stemHtml": "<p>Given the following information, what is the take-off mass (TOM) of the aircraft if the maximum payload will be uplifted?</p><p>MSTOM: 4934 kg<br>MSLM: 4931 kg<br>MZFM: 4128 kg<br>PLTOM: 4917 kg (due to it being a hot day)<br>Block fuel: 803 kg<br>Taxi fuel: 35 kg</p><p>\u00a0</p>",
   "options": {
     "a": "<p>4093 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>4896 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164135,
+    "number": "314865"
+  }
 }

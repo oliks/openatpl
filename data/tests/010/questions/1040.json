@@ -1,7 +1,7 @@
 {
   "number": 1040,
-  "questionId": 83900,
-  "questionNumber": "109423",
+  "questionId": "010-1040",
+  "questionNumber": "010-1040",
   "stemHtml": "<p>Which of the following would lead to the issue of a NOTAM?</p><p>1. Establishment, closure or significant changes In operation of aerodrome(s)/heliport(s) or runways  <br />  2. Routine maintenance work on aprons and taxiways which does not affect the safe movement of aircraft  <br />  3. Establishment, withdrawal or significant changes made to visual aids  <br />  4. interruption of or return to operation of major components of aerodrome lighting systems  <br />  5. Observations or forecasts of space weather phenomena  <br />  6. Outbreaks of epidemia necessitating changes In notified requirements for inoculations and quarantine measures  <br />  7. The unserviceability of location, destination or other Instruction signs on the aerodrome movement area</p>",
   "options": {
     "a": "<p>1, 2, 4, 5 and 6.</p>",
@@ -10,5 +10,10 @@
     "d": "2, 3, 6 and 7."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83900,
+    "number": "109423"
+  }
 }

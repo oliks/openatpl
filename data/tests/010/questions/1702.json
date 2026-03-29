@@ -1,7 +1,7 @@
 {
   "number": 1702,
-  "questionId": 140901,
-  "questionNumber": "109437",
+  "questionId": "010-1702",
+  "questionNumber": "010-1702",
   "stemHtml": "<p>Two aircraft are already holding at FL60 and FL80. A third aircraft is instructed to enter the hold and expects a long delay due to weather. Where should it be placed in the holding sequence?</p>",
   "options": {
     "a": "<p>FL50</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL70</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140901,
+    "number": "109437"
+  }
 }

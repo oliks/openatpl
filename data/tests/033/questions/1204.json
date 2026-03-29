@@ -1,7 +1,7 @@
 {
   "number": 1204,
-  "questionId": 164351,
-  "questionNumber": "338048",
+  "questionId": "033-1204",
+  "questionNumber": "033-1204",
   "stemHtml": "<p>When should a pilot check RAIM availability for a GNSS approach?</p>",
   "options": {
     "a": "<p>After top of climb until top of descent.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Before take-off.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164351,
+    "number": "338048"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1458,
-  "questionId": 111161,
-  "questionNumber": "218851",
+  "questionId": "021-1458",
+  "questionNumber": "021-1458",
   "stemHtml": "<p>Which of the following statements regarding tail ice-protection are correct?</p>",
   "options": {
     "a": "<p>The tail is protected from ice accretion by ram air.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Some aeroplanes don't have tail ice-protection systems.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111161,
+    "number": "218851"
+  }
 }

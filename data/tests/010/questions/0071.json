@@ -1,7 +1,7 @@
 {
   "number": 71,
-  "questionId": 105759,
-  "questionNumber": "104444",
+  "questionId": "010-0071",
+  "questionNumber": "010-0071",
   "stemHtml": "<p>A runway condition report of 5/5/5 is given. This indicates that the runway is...</p>",
   "options": {
     "a": "<p>wet.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>damp.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105759,
+    "number": "104444"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1177,
-  "questionId": 108964,
-  "questionNumber": "331044",
+  "questionId": "033-1177",
+  "questionNumber": "033-1177",
   "stemHtml": "<p>Refer to figure or chart E(LO)3 from Jeppesen GSPRM 2017. <br>After passing Biggin VOR (BIG, N51\u00ba20' E000\u00ba02') on a northern heading (349\u00b0), what is the next waypoint on the N16 route?</p>",
   "options": {
     "a": "<p>OCK</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0a776350-5072-4a61-921f-e5a655dfcc20.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0a776350-5072-4a61-921f-e5a655dfcc20.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108964,
+    "number": "331044"
+  }
 }

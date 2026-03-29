@@ -1,7 +1,7 @@
 {
   "number": 1761,
-  "questionId": 68040,
-  "questionNumber": "216824",
+  "questionId": "021-1761",
+  "questionNumber": "021-1761",
   "stemHtml": "<p>Which of these statements about a gust lock system are correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. Irreversible flight controls should have a gust lock.</span>  <br />  \n2. A fully manual flight control system should have a gust lock.</p>",
   "options": {
     "a": "Both 1 and 2 are incorrect.",
@@ -10,5 +10,10 @@
     "d": "Both 1 and 2 are correct."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68040,
+    "number": "216824"
+  }
 }

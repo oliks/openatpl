@@ -1,7 +1,7 @@
 {
   "number": 808,
-  "questionId": 82015,
-  "questionNumber": "325113",
+  "questionId": "032-0808",
+  "questionNumber": "032-0808",
   "stemHtml": "<p>Refer to figure. <br /> Calculate the de-factored distance for TODA that could be used to enter the take-off performance graph for a multi-engined piston aeroplane used for Commercial Air Transport, given the following information:</p>Take-Off Distance Available: 2300 ft <br /> Runway slope: 1% downslope <br /> Runway surface: paved, dry <br /> Aerodrome field lengths: unbalanced",
   "options": {
     "a": "2520 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/4A545834-5EC2-4E64-BF15-000D3295D6E2.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/4A545834-5EC2-4E64-BF15-000D3295D6E2.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82015,
+    "number": "325113"
+  }
 }

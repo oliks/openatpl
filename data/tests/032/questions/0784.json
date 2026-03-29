@@ -1,7 +1,7 @@
 {
   "number": 784,
-  "questionId": 80360,
-  "questionNumber": "329504",
+  "questionId": "032-0784",
+  "questionNumber": "032-0784",
   "stemHtml": "<p>You are crossing the threshold at a landing screen height of 67 ft. Compared to the standard screen height, what will be the effect on the landing distance?</p>",
   "options": {
     "a": "<p>Landing distance decreases and the ground roll increase.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Landing distance decreases.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80360,
+    "number": "329504"
+  }
 }

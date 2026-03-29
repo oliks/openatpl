@@ -1,7 +1,7 @@
 {
   "number": 147,
-  "questionId": 68943,
-  "questionNumber": "229762",
+  "questionId": "022-0147",
+  "questionNumber": "022-0147",
   "stemHtml": "Which of the following ATC clearances can be received via the datalink application?",
   "options": {
     "a": "Take off, En route, Landing.",
@@ -10,5 +10,10 @@
     "d": "Departure, Oceanic."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68943,
+    "number": "229762"
+  }
 }

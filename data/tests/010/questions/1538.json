@@ -1,7 +1,7 @@
 {
   "number": 1538,
-  "questionId": 160069,
-  "questionNumber": "106598",
+  "questionId": "010-1538",
+  "questionNumber": "010-1538",
   "stemHtml": "<p>In which situations is it necessary for airport signs to be illuminated?</p>",
   "options": {
     "a": "<p>Only when the airport serves an instrument runway at night.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only during periods of reduced visibility.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160069,
+    "number": "106598"
+  }
 }

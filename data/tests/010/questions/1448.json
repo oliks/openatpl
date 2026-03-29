@@ -1,7 +1,7 @@
 {
   "number": 1448,
-  "questionId": 95821,
-  "questionNumber": "107922",
+  "questionId": "010-1448",
+  "questionNumber": "010-1448",
   "stemHtml": "<p>A braking action code 4 reported on a SNOWTAM corresponds to a measured coefficient of _____ and an estimated surface friction of ______.</p>",
   "options": {
     "a": "Poor, 0.25 and below",
@@ -10,5 +10,10 @@
     "d": "Medium to good, 0.39 to 0.36"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95821,
+    "number": "107922"
+  }
 }

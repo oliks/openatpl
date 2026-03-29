@@ -1,7 +1,7 @@
 {
   "number": 1156,
-  "questionId": 83436,
-  "questionNumber": "328915",
+  "questionId": "032-1156",
+  "questionNumber": "032-1156",
   "stemHtml": "<p>Refer to figures or CAP 698 files 4.8 and 4.9. <br /> \rAn MRJT is scheduled to take-off from the Madrid\u2013Barajas International Airport (LEMD). Given the following information below, determine the V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong> and V<strong><sub>2</sub></strong> take-off speeds.</p>\r\r<p>Actual Take-Off Mass: 54 750 kg <br /> \rAirport Elevation: 1998 ft <br /> \rOutside Air Temperature: +38\u00b0C <br /> \rFlaps Position: 15\u00b0 <br /> \rRunway Slope: 0.2% Down <br /> \rWind: 10 kt headwind</p>",
   "options": {
     "a": "<p>V<sub>1</sub>:139 kt, V<sub>R</sub>:140 kt and V<sub>2</sub>:146 kt</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/032/EEABEACF-21A6-4797-81EA-8D0B73038D71.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/EEABEACF-21A6-4797-81EA-8D0B73038D71.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83436,
+    "number": "328915"
+  }
 }

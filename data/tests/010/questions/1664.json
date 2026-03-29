@@ -1,7 +1,7 @@
 {
   "number": 1664,
-  "questionId": 77935,
-  "questionNumber": "105672",
+  "questionId": "010-1664",
+  "questionNumber": "010-1664",
   "stemHtml": "<p>An A320 is on its final approach at an intermediate altitude, on a precision instrument approach. This means that the aircraft is at or past the\u2026</p>",
   "options": {
     "a": "<p>Final Approach Point (FAP)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Initial Approach Fix</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77935,
+    "number": "105672"
+  }
 }

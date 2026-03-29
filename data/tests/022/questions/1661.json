@@ -1,7 +1,7 @@
 {
   "number": 1661,
-  "questionId": 68657,
-  "questionNumber": "228299",
+  "questionId": "022-1661",
+  "questionNumber": "022-1661",
   "stemHtml": "<p>When descending at a constant Mach number\u2026</p>",
   "options": {
     "a": "<p>CAS increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The difference between surrounding conditions and standard atmosphere must be known to deduce the CAS variation.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68657,
+    "number": "228299"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1502,
-  "questionId": 101053,
-  "questionNumber": "108890",
+  "questionId": "010-1502",
+  "questionNumber": "010-1502",
   "stemHtml": "A PPL holder completes his/her Night Rating training course according to the Aircrew Regulation (Commission Regulation (EU) No 1178/2011). The Night Rating privilages may be exercised during...",
   "options": {
     "a": "only special VFR conditions at night.",
@@ -10,5 +10,10 @@
     "d": "both IFR and VFR conditions during both day and night."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101053,
+    "number": "108890"
+  }
 }

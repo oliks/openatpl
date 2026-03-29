@@ -1,7 +1,7 @@
 {
   "number": 831,
-  "questionId": 81975,
-  "questionNumber": "327547",
+  "questionId": "032-0831",
+  "questionNumber": "032-0831",
   "stemHtml": "<p>Which of the following statements describes typical characteristics of Continuous Descent Arrivals (CDAs). By performing a CDA the aircraft...</p>",
   "options": {
     "a": "<p>remains higher for longer and operates at lower engine thrust.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>descends step-wise with portions of level flight as required, until starting the approach.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81975,
+    "number": "327547"
+  }
 }

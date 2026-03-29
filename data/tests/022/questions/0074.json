@@ -1,7 +1,7 @@
 {
   "number": 74,
-  "questionId": 80767,
-  "questionNumber": "222051",
+  "questionId": "022-0074",
+  "questionNumber": "022-0074",
   "stemHtml": "<p>Regarding a Machmeter, the following parameters must be determined to display the Mach Number\u2026</p>",
   "options": {
     "a": "Static pressure and outside air temperature.",
@@ -10,5 +10,10 @@
     "d": "Air density and dynamic pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80767,
+    "number": "222051"
+  }
 }

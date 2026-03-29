@@ -1,7 +1,7 @@
 {
   "number": 1835,
-  "questionId": 107171,
-  "questionNumber": "107321",
+  "questionId": "010-1835",
+  "questionNumber": "010-1835",
   "stemHtml": "<p>Refer to figure. <br>You are executing the LOCy RWY 03 approach procedure at LFRS (Nantes Atlantique). What is the location of the Missed Approach Point (MAPt)?</p>",
   "options": {
     "a": "<p>At the threshold (0 NM).</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/0e469fa8-7e90-4aed-944b-6a6345f4914b.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/0e469fa8-7e90-4aed-944b-6a6345f4914b.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107171,
+    "number": "107321"
+  }
 }

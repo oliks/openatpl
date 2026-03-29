@@ -1,7 +1,7 @@
 {
   "number": 726,
-  "questionId": 68698,
-  "questionNumber": "221528",
+  "questionId": "022-0726",
+  "questionNumber": "022-0726",
   "stemHtml": "<p>To obtain at a given moment the instantaneous speed from the accelerations\u2026</p>",
   "options": {
     "a": "it is necessary to integrate the acceleration once with respect to time, and to know the initial speed only.",
@@ -10,5 +10,10 @@
     "d": "it is necessary to integrate the acceleration once with respect to time, and to know the initial position only."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68698,
+    "number": "221528"
+  }
 }

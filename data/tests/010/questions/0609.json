@@ -1,7 +1,7 @@
 {
   "number": 609,
-  "questionId": 81319,
-  "questionNumber": "107701",
+  "questionId": "010-0609",
+  "questionNumber": "010-0609",
   "stemHtml": "<p>An Aeronautical Information Circular (AIC) shall comply with the following general specifications:</p><p>1. The originating aeronautical information service shall select the AICs that are to be given international distribution<br>2. Each AIC shall be allocated a serial number, which shall be consecutive and based on the calendar year<br>3. Each AIC shall be allocated a serial letter and number<br>4. A checklist of AICs currently in force shall be issued at least once a year, with distribution as for the AICs<br>5. A checklist of AICs currently in force shall be issued at least twice a year, with distribution as for the AICs</p>",
   "options": {
     "a": "<p dir=\"ltr\">1, 3 and 5.</p>",
@@ -10,5 +10,10 @@
     "d": "3 and 4 only."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81319,
+    "number": "107701"
+  }
 }

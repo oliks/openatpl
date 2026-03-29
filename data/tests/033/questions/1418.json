@@ -1,7 +1,7 @@
 {
   "number": 1418,
-  "questionId": 128253,
-  "questionNumber": "335893",
+  "questionId": "033-1418",
+  "questionNumber": "033-1418",
   "stemHtml": "<p>An IFR flight is planned to a destination where only a GNSS approach is available. When should the Pilot check whether the GNSS is available or not?</p>",
   "options": {
     "a": "<p>At the expected time of arrival.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>During the pre-flight planning procedure.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 128253,
+    "number": "335893"
+  }
 }

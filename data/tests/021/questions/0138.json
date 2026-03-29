@@ -1,7 +1,7 @@
 {
   "number": 138,
-  "questionId": 68305,
-  "questionNumber": "214430",
+  "questionId": "021-0138",
+  "questionNumber": "021-0138",
   "stemHtml": "<p>The opening of the doors giving access to the oxygen masks for the passengers is:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. pneumatic for the gaseous oxygen system</span>  <br />  \n2. electrical for the chemical oxygen system  <br />  \n3. pneumatic for the chemical oxygen system  <br />  \n4. electrical for the gaseous oxygen system.</p>\n\n<p>The combination that regroups all of the correct statements is:</p>\n\n<div> </div>",
   "options": {
     "a": "1, 2",
@@ -10,5 +10,10 @@
     "d": "2, 4"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68305,
+    "number": "214430"
+  }
 }

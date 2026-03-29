@@ -1,7 +1,7 @@
 {
   "number": 414,
-  "questionId": 69746,
-  "questionNumber": "325752",
+  "questionId": "032-0414",
+  "questionNumber": "032-0414",
   "stemHtml": "<p>To minimise the risk of hydroplaning during landing the pilot should\u2026</p>",
   "options": {
     "a": "use normal landing-, braking- and reverse technique.",
@@ -10,5 +10,10 @@
     "d": "make a \u201cpositive\u201d landing and apply maximum reverse thrust and brakes as quickly as possible."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69746,
+    "number": "325752"
+  }
 }

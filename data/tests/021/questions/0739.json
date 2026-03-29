@@ -1,7 +1,7 @@
 {
   "number": 739,
-  "questionId": 68271,
-  "questionNumber": "211574",
+  "questionId": "021-0739",
+  "questionNumber": "021-0739",
   "stemHtml": "What is the best method to stop a running engine if the magneto switch ground wire becomes disconnected?",
   "options": {
     "a": "Lean out mixture until engine backfires and stops.",
@@ -10,5 +10,10 @@
     "d": "Shut off fuel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68271,
+    "number": "211574"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 753,
-  "questionId": 66692,
-  "questionNumber": "101684",
+  "questionId": "010-0753",
+  "questionNumber": "010-0753",
   "stemHtml": "Which State ensures the existence of a continuing structural integrity programme to ensure the airworthiness of the aeroplane above 5700 kg certificated take-off mass?",
   "options": {
     "a": "The State of Manufacture.",
@@ -10,5 +10,10 @@
     "d": "The State of Design."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66692,
+    "number": "101684"
+  }
 }

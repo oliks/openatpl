@@ -1,7 +1,7 @@
 {
   "number": 802,
-  "questionId": 68006,
-  "questionNumber": "216107",
+  "questionId": "021-0802",
+  "questionNumber": "021-0802",
   "stemHtml": "With regard to a twin spool gas turbine engine, an abortive start (hung start) will result in:",
   "options": {
     "a": "N2 speed stabilising at a lower than normal rpm and a subsequent increase in EGT.",
@@ -10,5 +10,10 @@
     "d": "N2 speed stabilising at a lower than normal rpm and a subsequent decrease in EGT."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68006,
+    "number": "216107"
+  }
 }

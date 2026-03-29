@@ -1,7 +1,7 @@
 {
   "number": 267,
-  "questionId": 84465,
-  "questionNumber": "227051",
+  "questionId": "022-0267",
+  "questionNumber": "022-0267",
   "stemHtml": "<p>What is the purpose of the Flight Director (FD)?</p>",
   "options": {
     "a": "<p>It repeats the flight control orders of the opposite crew member.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It enables the crew to cross-check autopilot orders.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84465,
+    "number": "227051"
+  }
 }

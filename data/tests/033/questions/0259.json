@@ -1,7 +1,7 @@
 {
   "number": 259,
-  "questionId": 70468,
-  "questionNumber": "337591",
+  "questionId": "033-0259",
+  "questionNumber": "033-0259",
   "stemHtml": "<p>Refer to figure. <br>The operational hours of the ARO in local time are\u2026</p>",
   "options": {
     "a": "04:00-20:00.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2003CACF-200F-4A93-8805-EDDD55531D1A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2003CACF-200F-4A93-8805-EDDD55531D1A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70468,
+    "number": "337591"
+  }
 }

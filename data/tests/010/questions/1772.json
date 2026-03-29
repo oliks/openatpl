@@ -1,7 +1,7 @@
 {
   "number": 1772,
-  "questionId": 78319,
-  "questionNumber": "109869",
+  "questionId": "010-1772",
+  "questionNumber": "010-1772",
   "stemHtml": "<p>A light aircraft is an aircraft which weighs a maximum of\u2026</p>",
   "options": {
     "a": "<p>7600 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>7700 kg</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78319,
+    "number": "109869"
+  }
 }

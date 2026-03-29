@@ -1,7 +1,7 @@
 {
   "number": 1212,
-  "questionId": 83642,
-  "questionNumber": "211451",
+  "questionId": "021-1212",
+  "questionNumber": "021-1212",
   "stemHtml": "A vent valve in the combustion chamber of a gas turbine engine\u2026",
   "options": {
     "a": "prevents a wet start.",
@@ -10,5 +10,10 @@
     "d": "allows the fuel tanks to be emptied for maintenance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83642,
+    "number": "211451"
+  }
 }

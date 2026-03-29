@@ -1,7 +1,7 @@
 {
   "number": 954,
-  "questionId": 111494,
-  "questionNumber": "321293",
+  "questionId": "032-0954",
+  "questionNumber": "032-0954",
   "stemHtml": "<p>A crew are briefing a departure with obstacles for a medium range jet transport aircraft. Considering the Net take-off flight path for a Class A aircraft, what is the bank angle limit in the first and second segment?</p>",
   "options": {
     "a": "<p>0\u00b0 in the first segment; 15\u00b0 in the second segment.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>0\u00b0 in the first segment; 0\u00b0 in the second segment.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111494,
+    "number": "321293"
+  }
 }

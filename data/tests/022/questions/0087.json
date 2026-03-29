@@ -1,7 +1,7 @@
 {
   "number": 87,
-  "questionId": 84737,
-  "questionNumber": "223178",
+  "questionId": "022-0087",
+  "questionNumber": "022-0087",
   "stemHtml": "<p>Refer to figure.               <br />              Which statement is correct regarding the status of the autopilot and flight director?</p>",
   "options": {
     "a": "The autopilot is engaged and is conducting an autoland. The flight director is giving flight guidance as a backup.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/f3d4a70e-763d-441b-8d4f-42ad85255da2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/f3d4a70e-763d-441b-8d4f-42ad85255da2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84737,
+    "number": "223178"
+  }
 }

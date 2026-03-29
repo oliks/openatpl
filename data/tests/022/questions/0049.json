@@ -1,7 +1,7 @@
 {
   "number": 49,
-  "questionId": 68492,
-  "questionNumber": "225246",
+  "questionId": "022-0049",
+  "questionNumber": "022-0049",
   "stemHtml": "<p>The yaw damper system:</p><p>1 \u2013 counters any wrong pilot action on the rudder pedals <br>2 \u2013 counters Dutch roll <br>3 \u2013 is active only when autopilot is engaged</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 3.",
@@ -10,5 +10,10 @@
     "d": "2, 3."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68492,
+    "number": "225246"
+  }
 }

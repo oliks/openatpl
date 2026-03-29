@@ -1,7 +1,7 @@
 {
   "number": 1698,
-  "questionId": 67925,
-  "questionNumber": "213280",
+  "questionId": "021-1698",
+  "questionNumber": "021-1698",
   "stemHtml": "<p>The purpose of the pack cooling fans in the air conditioning system is to...</p>",
   "options": {
     "a": "<p>supply the heat exchangers with cooling air during slow flights and ground operation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>supply the heat exchangers with cooling air during cruise flight.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67925,
+    "number": "213280"
+  }
 }

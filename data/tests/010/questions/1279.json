@@ -1,7 +1,7 @@
 {
   "number": 1279,
-  "questionId": 67279,
-  "questionNumber": "108540",
+  "questionId": "010-1279",
+  "questionNumber": "010-1279",
   "stemHtml": "Parking stand markings are required\u2026",
   "options": {
     "a": "<div style=\"\">On any apron and de-icing/anti-icing bays.</div>",
@@ -10,5 +10,10 @@
     "d": "<div style=\"\">On any paved apron and de-icing/anti-icing bays.</div>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67279,
+    "number": "108540"
+  }
 }

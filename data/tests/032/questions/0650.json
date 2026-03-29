@@ -1,7 +1,7 @@
 {
   "number": 650,
-  "questionId": 79702,
-  "questionNumber": "328108",
+  "questionId": "032-0650",
+  "questionNumber": "032-0650",
   "stemHtml": "<p>When is a runway considered to be contaminated? When\u2026</p>",
   "options": {
     "a": "Less than 25% of the runway surface area (whether in isolated areas or not) is covered with water more than 3 mm deep.",
@@ -10,5 +10,10 @@
     "d": "Only if the contaminant covers a connected 25% of the runway surface area (patches of contaminants can add up to more than 25% of the surface area without effects)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79702,
+    "number": "328108"
+  }
 }

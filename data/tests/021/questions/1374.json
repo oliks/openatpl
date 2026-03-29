@@ -1,7 +1,7 @@
 {
   "number": 1374,
-  "questionId": 78587,
-  "questionNumber": "216093",
+  "questionId": "021-1374",
+  "questionNumber": "021-1374",
   "stemHtml": "What directly controls the power required for field excitation of the main rotor in modern constant-frequency alternators?",
   "options": {
     "a": "A battery.",
@@ -10,5 +10,10 @@
     "d": "An alternator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78587,
+    "number": "216093"
+  }
 }

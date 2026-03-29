@@ -1,7 +1,7 @@
 {
   "number": 580,
-  "questionId": 82567,
-  "questionNumber": "223758",
+  "questionId": "022-0580",
+  "questionNumber": "022-0580",
   "stemHtml": "Which of the following systems uses output data from the Air Data Computer?",
   "options": {
     "a": "The transponder.",
@@ -10,5 +10,10 @@
     "d": "The direct reading magnetic compass."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82567,
+    "number": "223758"
+  }
 }

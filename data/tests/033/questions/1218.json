@@ -1,7 +1,7 @@
 {
   "number": 1218,
-  "questionId": 70575,
-  "questionNumber": "337445",
+  "questionId": "033-1218",
+  "questionNumber": "033-1218",
   "stemHtml": "<p>Refer to figure or CAP 697 Figure 3.4.\u00a0<br>Given the following conditions and in order to complete a navigation plan, calculate the True Air Speed TAS during cruise, for a VFR flight with a multi engined piston aeroplane at FL075.</p><p>OAT: +10\u00b0C\u00a0<br>Power: Economy</p>",
   "options": {
     "a": "189 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/d4672fdf-3595-447c-8f03-97c7dc650013.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/d4672fdf-3595-447c-8f03-97c7dc650013.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70575,
+    "number": "337445"
+  }
 }

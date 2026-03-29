@@ -1,7 +1,7 @@
 {
   "number": 195,
-  "questionId": 67121,
-  "questionNumber": "105376",
+  "questionId": "010-0195",
+  "questionNumber": "010-0195",
   "stemHtml": "<p>Mandatory instructions signs on an aerodrome shall consist of inscriptions in\u2026</p>",
   "options": {
     "a": "<p>black on a yellow background.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>white on a red background.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67121,
+    "number": "105376"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 704,
-  "questionId": 109421,
-  "questionNumber": "217656",
+  "questionId": "021-0704",
+  "questionNumber": "021-0704",
   "stemHtml": "<p>What is the purpose of the re-breather bag on a passenger oxygen mask?</p>",
   "options": {
     "a": "<p>To change exhaled CO<sub>2</sub> back into Oxygen for breathing.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To even out pressure fluctuations and act as a reserve if the pressure gets low.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109421,
+    "number": "217656"
+  }
 }

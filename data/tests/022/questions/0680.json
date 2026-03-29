@@ -1,7 +1,7 @@
 {
   "number": 680,
-  "questionId": 68736,
-  "questionNumber": "222254",
+  "questionId": "022-0680",
+  "questionNumber": "022-0680",
   "stemHtml": "<p>The accelerometers of a strap-down inertial system are in line with\u2026</p>",
   "options": {
     "a": "the axes of the absolute space co-ordinate system (X, Y Z).",
@@ -10,5 +10,10 @@
     "d": "the geographical directions (N/S, E/W)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68736,
+    "number": "222254"
+  }
 }

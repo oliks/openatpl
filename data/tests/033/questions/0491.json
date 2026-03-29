@@ -1,7 +1,7 @@
 {
   "number": 491,
-  "questionId": 70372,
-  "questionNumber": "334166",
+  "questionId": "033-0491",
+  "questionNumber": "033-0491",
   "stemHtml": "In the appropriate box of an ATC flight plan form, corresponding to the estimated time of departure, the time indicated is that at which the aircraft intends to:",
   "options": {
     "a": "pass the departure beacon",
@@ -10,5 +10,10 @@
     "d": "take-off"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70372,
+    "number": "334166"
+  }
 }

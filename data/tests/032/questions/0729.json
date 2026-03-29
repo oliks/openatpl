@@ -1,7 +1,7 @@
 {
   "number": 729,
-  "questionId": 70221,
-  "questionNumber": "325313",
+  "questionId": "032-0729",
+  "questionNumber": "032-0729",
   "stemHtml": "<p>The lift required for climbing flight is\u2026</p>",
   "options": {
     "a": "<p>Equal to mass x sin (angle of climb)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Equal to drag x cos (angle of climb)</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70221,
+    "number": "325313"
+  }
 }

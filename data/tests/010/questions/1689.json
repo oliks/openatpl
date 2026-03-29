@@ -1,7 +1,7 @@
 {
   "number": 1689,
-  "questionId": 67076,
-  "questionNumber": "104591",
+  "questionId": "010-1689",
+  "questionNumber": "010-1689",
   "stemHtml": "<p>Regarding the bearing strength of aprons, runways, and taxiways, the abbreviation PCN stands for\u2026</p>",
   "options": {
     "a": "Platform Code Number.",
@@ -10,5 +10,10 @@
     "d": "Platform Classification Number."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67076,
+    "number": "104591"
+  }
 }

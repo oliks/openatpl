@@ -1,7 +1,7 @@
 {
   "number": 1286,
-  "questionId": 70085,
-  "questionNumber": "329630",
+  "questionId": "032-1286",
+  "questionNumber": "032-1286",
   "stemHtml": "When compared to a clean configuration, how does flap setting usually affect the Runway Length Limited Take-Off Mass and the Climb Limited Take-Off Mass?    The Runway Length Limited Take-Off Mass\u2026",
   "options": {
     "a": "increases, and the Climb Limited Take Off Mass increases.",
@@ -10,5 +10,10 @@
     "d": "decreases, and the Climb Limited Take Off Mass decreases."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70085,
+    "number": "329630"
+  }
 }

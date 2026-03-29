@@ -1,7 +1,7 @@
 {
   "number": 692,
-  "questionId": 108985,
-  "questionNumber": "213503",
+  "questionId": "021-0692",
+  "questionNumber": "021-0692",
   "stemHtml": "<p>Which of the following is correct regarding the output of a hydraulic pump with pistons and a variable swash plate?</p>",
   "options": {
     "a": "<p>Variable pressure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Constant volume.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108985,
+    "number": "213503"
+  }
 }

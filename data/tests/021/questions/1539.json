@@ -1,7 +1,7 @@
 {
   "number": 1539,
-  "questionId": 82739,
-  "questionNumber": "211033",
+  "questionId": "021-1539",
+  "questionNumber": "021-1539",
   "stemHtml": "<p>Light aircraft and helicopters may equipped with a \u201cblowdown\u201d emergency gear extension system for use in case of hydraulic failure. Which gasses are used for this purpose, and how are the gasses sent to the actuators?</p>",
   "options": {
     "a": "<p>Nitrogen or compressed air, which is routed through a manually operated shuttle valve.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Helium or carbon dioxide, which is routed through a manually operated shuttle valve.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82739,
+    "number": "211033"
+  }
 }

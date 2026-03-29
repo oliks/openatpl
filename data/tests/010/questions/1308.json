@@ -1,7 +1,7 @@
 {
   "number": 1308,
-  "questionId": 67131,
-  "questionNumber": "106819",
+  "questionId": "010-1308",
+  "questionNumber": "010-1308",
   "stemHtml": "<p>Lighting of objects \u2013 Low-intensity obstacle lights on fixed objects are\u2026</p>",
   "options": {
     "a": "<p>steady white.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>steady red.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67131,
+    "number": "106819"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 256,
-  "questionId": 66700,
-  "questionNumber": "106073",
+  "questionId": "010-0256",
+  "questionNumber": "010-0256",
   "stemHtml": "<p>In the case of a heavier-than-air aircraft, where on the wing structure are the registration marks located?</p>",
   "options": {
     "a": "<p>Upper surface left.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Lower surface left.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66700,
+    "number": "106073"
+  }
 }

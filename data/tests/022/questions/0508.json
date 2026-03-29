@@ -1,7 +1,7 @@
 {
   "number": 508,
-  "questionId": 107982,
-  "questionNumber": "227896",
+  "questionId": "022-0508",
+  "questionNumber": "022-0508",
   "stemHtml": "<p>Where are the outputs from an IRS/INS shown?</p>",
   "options": {
     "a": "<p>ADIRU</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADU</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107982,
+    "number": "227896"
+  }
 }

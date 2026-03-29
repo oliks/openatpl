@@ -1,7 +1,7 @@
 {
   "number": 35,
-  "questionId": 69165,
-  "questionNumber": "223600",
+  "questionId": "022-0035",
+  "questionNumber": "022-0035",
   "stemHtml": "<p>The altimeter of an aircraft provides indications from 0 - 50 000 ft. The aircraft is on a position of known elevation at the airfield and the altimeter is set to the local QNH. The altimeter will read the elevation of that point\u2026</p>",
   "options": {
     "a": "<p>plus the height of the altimeter from the ground with a +/- 60 ft tolerance.</p>",
@@ -10,5 +10,10 @@
     "d": "+/- 25 ft tolerance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69165,
+    "number": "223600"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 225,
-  "questionId": 78722,
-  "questionNumber": "226311",
+  "questionId": "022-0225",
+  "questionNumber": "022-0225",
   "stemHtml": "What is correct about an Air Data Computer (ADC)?",
   "options": {
     "a": "An ADC is an auxiliary system that provides altitude information in the event that the static source is blocked.",
@@ -10,5 +10,10 @@
     "d": "An ADC measures position error in the static system and transmits this information to ATC to provide correct altitude reporting."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78722,
+    "number": "226311"
+  }
 }

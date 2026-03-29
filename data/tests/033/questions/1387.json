@@ -1,7 +1,7 @@
 {
   "number": 1387,
-  "questionId": 70795,
-  "questionNumber": "332323",
+  "questionId": "033-1387",
+  "questionNumber": "033-1387",
   "stemHtml": "<p>Mark the correct statement: If a decision point procedure is applied for flight planning\u2026</p>",
   "options": {
     "a": "the trip fuel to the destination aerodrome is to be calculated via the suitable enroute alternate.",
@@ -10,5 +10,10 @@
     "d": "a destination alternate is not required."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70795,
+    "number": "332323"
+  }
 }

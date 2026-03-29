@@ -1,7 +1,7 @@
 {
   "number": 1614,
-  "questionId": 67331,
-  "questionNumber": "216536",
+  "questionId": "021-1614",
+  "questionNumber": "021-1614",
   "stemHtml": "<p>In the event of an AC generator fault, on a twin engine aircraft, the protection device will open\u2026</p>",
   "options": {
     "a": "the generator breaker and the bus tie breaker.",
@@ -10,5 +10,10 @@
     "d": "the exciter control relay and the generator breaker."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67331,
+    "number": "216536"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 171,
-  "questionId": 83781,
-  "questionNumber": "337877",
+  "questionId": "033-0171",
+  "questionNumber": "033-0171",
   "stemHtml": "<p>Refer to figure or Dubrovnik VFR Chart 19-1 from Jeppesen GSPRM 2017. <br>How many VFR Approach/Departure routes are published?</p>",
   "options": {
     "a": "5",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3519BAC1-67E4-401D-8D1F-171B8109CF6F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3519BAC1-67E4-401D-8D1F-171B8109CF6F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83781,
+    "number": "337877"
+  }
 }

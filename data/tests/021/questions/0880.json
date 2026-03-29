@@ -1,7 +1,7 @@
 {
   "number": 880,
-  "questionId": 86097,
-  "questionNumber": "214288",
+  "questionId": "021-0880",
+  "questionNumber": "021-0880",
   "stemHtml": "In the event of an abnormal gear extension using gravity free fall, which of the following shall be mechanically activated?",
   "options": {
     "a": "Selector valves",
@@ -10,5 +10,10 @@
     "d": "<p>Uplocks</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86097,
+    "number": "214288"
+  }
 }

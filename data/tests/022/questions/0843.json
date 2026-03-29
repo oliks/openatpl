@@ -1,7 +1,7 @@
 {
   "number": 843,
-  "questionId": 86089,
-  "questionNumber": "221000",
+  "questionId": "022-0843",
+  "questionNumber": "022-0843",
   "stemHtml": "While programming the FMS, the flight crew enters the wrong cruising level. What are the possible consequences?",
   "options": {
     "a": "Speed, fuel burn, and time will not be updated.",
@@ -10,5 +10,10 @@
     "d": "It is not possible to enter a new cruising flight level once in flight."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86089,
+    "number": "221000"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1454,
-  "questionId": 68140,
-  "questionNumber": "216804",
+  "questionId": "021-1454",
+  "questionNumber": "021-1454",
   "stemHtml": "<p>The purpose of the main accumulator in a hydraulic system is\u2026</p>",
   "options": {
     "a": "<p>to damp the fluid pressure variations.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>to cool the hydraulic fluid.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68140,
+    "number": "216804"
+  }
 }

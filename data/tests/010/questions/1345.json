@@ -1,7 +1,7 @@
 {
   "number": 1345,
-  "questionId": 67124,
-  "questionNumber": "106348",
+  "questionId": "010-1345",
+  "questionNumber": "010-1345",
   "stemHtml": "<p>A pattern \"B\" runway-holding position marking at an intersection of a taxiway and a precision approach RWY shall be supplemented\u2026</p>",
   "options": {
     "a": "with a category II or III holding position sign, though for CAT I runways a sign is NOT mandatory.",
@@ -10,5 +10,10 @@
     "d": "only with a runway designation sign."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67124,
+    "number": "106348"
+  }
 }

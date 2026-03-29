@@ -1,7 +1,7 @@
 {
   "number": 55,
-  "questionId": 70567,
-  "questionNumber": "337287",
+  "questionId": "033-0055",
+  "questionNumber": "033-0055",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.5.3.1.<br>Given:</p><p>Twin jet aeroplane FL330 Long range cruise <br>Outside air temperature : -63\u00b0C <br>Gross mass: 50 500 kg <br>Find: True airspeed (TAS)</p>",
   "options": {
     "a": "418 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/046416F2-04EF-42A5-8A8A-7EBA70BBFD53.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/046416F2-04EF-42A5-8A8A-7EBA70BBFD53.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70567,
+    "number": "337287"
+  }
 }

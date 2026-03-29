@@ -1,7 +1,7 @@
 {
   "number": 121,
-  "questionId": 110968,
-  "questionNumber": "314514",
+  "questionId": "031-0121",
+  "questionNumber": "031-0121",
   "stemHtml": "<p>Given the following information: CG is located at STN (station) 15. Aircraft mass is 3650 lbs. What is the effect on the CG if baggage (with a mass 64 lbs) is moved from STN 14 to STN 20?</p>",
   "options": {
     "a": "<p>It moves AFT by 0.3 units.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It moves AFT by 0.1 units.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110968,
+    "number": "314514"
+  }
 }

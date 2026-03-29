@@ -1,7 +1,7 @@
 {
   "number": 953,
-  "questionId": 82651,
-  "questionNumber": "224576",
+  "questionId": "022-0953",
+  "questionNumber": "022-0953",
   "stemHtml": "When the selected Mach number is displayed above the PFD speed tape, the speed bug shows the corresponding...",
   "options": {
     "a": "IAS.",
@@ -10,5 +10,10 @@
     "d": "TAS."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82651,
+    "number": "224576"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 898,
-  "questionId": 81574,
-  "questionNumber": "228911",
+  "questionId": "022-0898",
+  "questionNumber": "022-0898",
   "stemHtml": "How can you ascertain the landing capability in an auto-coupled approach?",
   "options": {
     "a": "Checking the FMA.",
@@ -10,5 +10,10 @@
     "d": "By checking the primary indications on the PFD."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81574,
+    "number": "228911"
+  }
 }

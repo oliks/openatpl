@@ -1,7 +1,7 @@
 {
   "number": 522,
-  "questionId": 70445,
-  "questionNumber": "336806",
+  "questionId": "033-0522",
+  "questionNumber": "033-0522",
   "stemHtml": "<p>Refer to figure. <br>Given the following information and based on the actual time overhead and actual fuel at B, what will be the Estimated Time of Overflight (ETO) and estimated remaining fuel at waypoint C?</p>",
   "options": {
     "a": "ETO 15:40, and estimated remaining fuel 1775 lb.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/AF01A670-4CA9-47F9-9949-1E66B72FD2E0.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/AF01A670-4CA9-47F9-9949-1E66B72FD2E0.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70445,
+    "number": "336806"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 341,
-  "questionId": 68368,
-  "questionNumber": "216628",
+  "questionId": "021-0341",
+  "questionNumber": "021-0341",
   "stemHtml": "Which of these statements is correct about a flight crew oxygen mask?<br>",
   "options": {
     "a": "When selected to the position \u201cEMERGENCY\u201d oxygen is supplied with some overpressure above a certain altitude.<br>",
@@ -10,5 +10,10 @@
     "d": "Above a certain altitude oxygen is always delivered at a slight overpressure independent of selected mask position.<br>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68368,
+    "number": "216628"
+  }
 }

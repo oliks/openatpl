@@ -1,7 +1,7 @@
 {
   "number": 260,
-  "questionId": 69683,
-  "questionNumber": "325026",
+  "questionId": "032-0260",
+  "questionNumber": "032-0260",
   "stemHtml": "<p>How does increasing pressure altitude influence V<strong><sub>MCA</sub></strong>?</p>",
   "options": {
     "a": "V<sub>MCA</sub> is not affected by pressure altitude.",
@@ -10,5 +10,10 @@
     "d": "V<sub>MCA</sub> decreases only with increasing pressure altitudes above 4000 ft."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69683,
+    "number": "325026"
+  }
 }

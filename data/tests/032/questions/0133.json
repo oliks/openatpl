@@ -1,7 +1,7 @@
 {
   "number": 133,
-  "questionId": 69671,
-  "questionNumber": "324869",
+  "questionId": "032-0133",
+  "questionNumber": "032-0133",
   "stemHtml": "Refer to figure.  <br />  What is the value of the declared distance that must be used in order to calculate the Landing Distance Required (LDR) on Runway 23 at Glasgow Airport (EGPF)?",
   "options": {
     "a": "2661 m",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/0EF054DD-DF7A-4D5D-AFAD-F3F36032A5BF.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/0EF054DD-DF7A-4D5D-AFAD-F3F36032A5BF.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69671,
+    "number": "324869"
+  }
 }

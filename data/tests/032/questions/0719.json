@@ -1,7 +1,7 @@
 {
   "number": 719,
-  "questionId": 96334,
-  "questionNumber": "328148",
+  "questionId": "032-0719",
+  "questionNumber": "032-0719",
   "stemHtml": "On short final to land on a visibly damp runway, you notice significant rubber deposits on the touchdown zone. The runway is long so little to no braking is required to stop before the end of the runway. Which of the following is most correct with regards to hydroplaning?",
   "options": {
     "a": "Dynamic hydroplaning would occur, but will not have an effect due to the light braking.",
@@ -10,5 +10,10 @@
     "d": "Dynamic hydroplaning is less likely to occur due to the extra deceleration of the rubber deposits on the runway."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96334,
+    "number": "328148"
+  }
 }

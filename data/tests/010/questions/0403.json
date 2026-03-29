@@ -1,7 +1,7 @@
 {
   "number": 403,
-  "questionId": 102670,
-  "questionNumber": "109031",
+  "questionId": "010-0403",
+  "questionNumber": "010-0403",
   "stemHtml": "<p>A heavy aircraft has just landed and a light aircraft is taking-off from the same runway from the opposite side. What is the minimum separation time?</p>",
   "options": {
     "a": "<p>3 min</p>",
@@ -10,5 +10,10 @@
     "d": "<p> </p>\r\n\r\n<p>4 min</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102670,
+    "number": "109031"
+  }
 }

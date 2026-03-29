@@ -1,7 +1,7 @@
 {
   "number": 516,
-  "questionId": 82105,
-  "questionNumber": "226804",
+  "questionId": "022-0516",
+  "questionNumber": "022-0516",
   "stemHtml": "Why do TCAS II equipped aircraft need a Mode S transponder?",
   "options": {
     "a": "True altitude is obtained from mode S.",
@@ -10,5 +10,10 @@
     "d": "Data link provided by mode S is required to transmit relative position."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82105,
+    "number": "226804"
+  }
 }

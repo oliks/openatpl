@@ -1,7 +1,7 @@
 {
   "number": 1245,
-  "questionId": 80108,
-  "questionNumber": "214874",
+  "questionId": "021-1245",
+  "questionNumber": "021-1245",
   "stemHtml": "What happens if the grooves or tread of an aircraft tyre are worn?",
   "options": {
     "a": "The tyre can be used on the nose wheel only.",
@@ -10,5 +10,10 @@
     "d": "The tyre can be retreaded once."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80108,
+    "number": "214874"
+  }
 }

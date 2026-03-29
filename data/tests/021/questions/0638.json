@@ -1,7 +1,7 @@
 {
   "number": 638,
-  "questionId": 67570,
-  "questionNumber": "213603",
+  "questionId": "021-0638",
+  "questionNumber": "021-0638",
   "stemHtml": "If an engine fire detection loop is broken, what is the indication when the fire warning system is tested for that engine?",
   "options": {
     "a": "A fault alert and a fire warning bell.",
@@ -10,5 +10,10 @@
     "d": "A fault alert and a red master warning light."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67570,
+    "number": "213603"
+  }
 }

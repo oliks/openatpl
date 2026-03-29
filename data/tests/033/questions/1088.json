@@ -1,7 +1,7 @@
 {
   "number": 1088,
-  "questionId": 102752,
-  "questionNumber": "337085",
+  "questionId": "033-1088",
+  "questionNumber": "033-1088",
   "stemHtml": "<p>Refer to figure or Chart 10-3Q from Jeppesen GSPRM 2017.<br>What is the difference between EH\u00d848 and EH\u00d88\u00d8?</p>",
   "options": {
     "a": "<p>EH\u00d88\u00d8 is a fly-over waypoint for B737 only. Other aircraft use EH\u00d848 instead, which is a fly-by waypoint.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/d85eda64-262e-4659-9a89-5a74e20f4b90.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/d85eda64-262e-4659-9a89-5a74e20f4b90.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102752,
+    "number": "337085"
+  }
 }

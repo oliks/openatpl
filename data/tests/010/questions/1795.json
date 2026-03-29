@@ -1,7 +1,7 @@
 {
   "number": 1795,
-  "questionId": 100054,
-  "questionNumber": "107018",
+  "questionId": "010-1795",
+  "questionNumber": "010-1795",
   "stemHtml": "Two aircraft are flying in G airspace. An aircraft that wants to overtake the other should\u2026",
   "options": {
     "a": "Change its heading to the right.",
@@ -10,5 +10,10 @@
     "d": "Fly below."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100054,
+    "number": "107018"
+  }
 }

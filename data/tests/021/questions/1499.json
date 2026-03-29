@@ -1,7 +1,7 @@
 {
   "number": 1499,
-  "questionId": 83596,
-  "questionNumber": "217035",
+  "questionId": "021-1499",
+  "questionNumber": "021-1499",
   "stemHtml": "<p>Which of the following statements is correct regarding aircraft engine turbochargers?</p>",
   "options": {
     "a": "<p>A ground boosted turbocharger increases manifold pressure only during take-off.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Ground boosted turbochargers are switched to OFF once the aircraft has achieved a safe altitude.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83596,
+    "number": "217035"
+  }
 }

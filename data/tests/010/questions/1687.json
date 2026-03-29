@@ -1,7 +1,7 @@
 {
   "number": 1687,
-  "questionId": 66678,
-  "questionNumber": "106228",
+  "questionId": "010-1687",
+  "questionNumber": "010-1687",
   "stemHtml": "The aircraft has made a complete stop on the apron. When leaving the aircraft, one of the passengers walks into the trailing edge of the wing and gets seriously injured. What is this and what reporting procedure must be followed?",
   "options": {
     "a": "An irregularity in passenger handling and the handling agent must inform their insurance company.",
@@ -10,5 +10,10 @@
     "d": "An accident and the crew must follow the procedure relevant to this case."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66678,
+    "number": "106228"
+  }
 }

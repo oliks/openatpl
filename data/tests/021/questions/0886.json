@@ -1,7 +1,7 @@
 {
   "number": 886,
-  "questionId": 67446,
-  "questionNumber": "213527",
+  "questionId": "021-0886",
+  "questionNumber": "021-0886",
   "stemHtml": "<p>Given the following statements about diesel engines:</p>\r\r<p>1. power is set by the mixture control <br /> \r2. there is no mixture control <br /> \r3. the amount of power is determined by the fuel flow only <br /> \r4. thermal efficiency is higher than that for a petrol engine <br /> \r5. diesel fuel is more inflammable than petrol</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>2, 3, 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67446,
+    "number": "213527"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1094,
-  "questionId": 67794,
-  "questionNumber": "213027",
+  "questionId": "021-1094",
+  "questionNumber": "021-1094",
   "stemHtml": "Refer to figure. <br /> In case of failure of the static inverter: (NB: all contactors not mentioned are assumed to remain open)",
   "options": {
     "a": "AC ESS BUS can be powered, if required, by the EMER GEN if C4.1 is closed.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/2DF14FB8-B1DC-46D0-88C5-BA4029E37782.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/2DF14FB8-B1DC-46D0-88C5-BA4029E37782.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67794,
+    "number": "213027"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 794,
-  "questionId": 70141,
-  "questionNumber": "322516",
+  "questionId": "032-0794",
+  "questionNumber": "032-0794",
   "stemHtml": "<p>What conditions allow the \"increased V<sub>2</sub>\" technique to increase the Allowable Take-Off Mass? The Take-Off Mass is\u2026</p>",
   "options": {
     "a": "<p>Limited by structural restrictions MTOM.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Limited either by the runway length or by the Maximum Tyre Speed.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70141,
+    "number": "322516"
+  }
 }

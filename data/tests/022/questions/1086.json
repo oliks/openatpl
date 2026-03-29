@@ -1,7 +1,7 @@
 {
   "number": 1086,
-  "questionId": 107423,
-  "questionNumber": "221079",
+  "questionId": "022-1086",
+  "questionNumber": "022-1086",
   "stemHtml": "<p>Refer to figure.  <br /> Where is the autothrust ON switch located on an Airbus Flight Control Unit (FCU)?</p>",
   "options": {
     "a": "<p>The button labelled A/THR in the centre of the panel.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/9b49ea76-1ab0-4fe1-9d39-670d5f761e71.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/9b49ea76-1ab0-4fe1-9d39-670d5f761e71.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107423,
+    "number": "221079"
+  }
 }

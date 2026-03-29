@@ -1,7 +1,7 @@
 {
   "number": 5,
-  "questionId": 100198,
-  "questionNumber": "103873",
+  "questionId": "010-0005",
+  "questionNumber": "010-0005",
   "stemHtml": "<p>Implementing acts represent (1)_____ hard law measures adopted by the (2)_____ to offer exact technical and operational particulars, guaranteeing the standardized enforcement of regulations across the European Union.</p>",
   "options": {
     "a": "<p>(1) not binding, (2) ICAO</p>",
@@ -10,5 +10,10 @@
     "d": "(1) not binding, (2) Basic Regulations"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100198,
+    "number": "103873"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 422,
-  "questionId": 69533,
-  "questionNumber": "313102",
+  "questionId": "031-0422",
+  "questionNumber": "031-0422",
   "stemHtml": "<p>An additional baggage container is loaded into the aft cargo compartment but is not entered into the load and trim sheet.The aeroplane will be heavier than expected and calculated take-off safety speeds\u2026</p>",
   "options": {
     "a": "will give reduced safety margin",
@@ -10,5 +10,10 @@
     "d": "will not be achieved"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69533,
+    "number": "313102"
+  }
 }

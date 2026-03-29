@@ -1,7 +1,7 @@
 {
   "number": 682,
-  "questionId": 68550,
-  "questionNumber": "224403",
+  "questionId": "022-0682",
+  "questionNumber": "022-0682",
   "stemHtml": "<p>If, in the event of a failure, there is no significant out-of-trim condition or deviation of flight path or attitude but the landing is not completed automatically, such an automatic landing system is considered as\u2026</p>",
   "options": {
     "a": "fail-safe.",
@@ -10,5 +10,10 @@
     "d": "fail-passive."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68550,
+    "number": "224403"
+  }
 }

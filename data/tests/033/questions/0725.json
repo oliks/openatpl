@@ -1,7 +1,7 @@
 {
   "number": 725,
-  "questionId": 70599,
-  "questionNumber": "339516",
+  "questionId": "033-0725",
+  "questionNumber": "033-0725",
   "stemHtml": "<p>Refer to figure or CAP697 file 4.3.1B.<br>Given the following information:</p><p>Twin jet aeroplane Zero Fuel Mass: 50 000 kg<br>Landing mass at alternate: 52 000 kg<br>Final reserve fuel: 2000 kg<br>Alternate fuel: 1000 kg<br>Extra fuel: 0 kg<br>Discretionary fuel: 0 kg<br><br>Flight to destination:</p><p>Distance: 720 NM<br>True course: 030\u00b0<br>W/V: 340\u00b0/30 kt<br>Long range cruise FL 330<br>Outside air temperature: -30\u00b0C</p><p>Find: Estimated trip fuel and time with simplified flight planning.</p>",
   "options": {
     "a": "4400 kg, 02 h 03 min",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/9cc5d1cd-50aa-4e18-8c0e-14e5a5e8e1a4.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9cc5d1cd-50aa-4e18-8c0e-14e5a5e8e1a4.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70599,
+    "number": "339516"
+  }
 }

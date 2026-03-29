@@ -1,7 +1,7 @@
 {
   "number": 736,
-  "questionId": 85084,
-  "questionNumber": "217517",
+  "questionId": "021-0736",
+  "questionNumber": "021-0736",
   "stemHtml": "<p>An aircraft has 4 engine driven generators and a split bus AC distribution system. Which of the following statements is true if no failures occur in flight?</p>",
   "options": {
     "a": "Each pair of generators is connected to a common AC bus.",
@@ -10,5 +10,10 @@
     "d": "Each generator is connected to its own dedicated AC bus bar."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85084,
+    "number": "217517"
+  }
 }

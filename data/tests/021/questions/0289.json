@@ -1,7 +1,7 @@
 {
   "number": 289,
-  "questionId": 68001,
-  "questionNumber": "218864",
+  "questionId": "021-0289",
+  "questionNumber": "021-0289",
   "stemHtml": "<p>In a gas turbine engine the air flow passages between adjacent axial compressor rotor blades are divergent, but the absolute exit velocity is higher than the absolute entry velocity of the rotor. This is because\u2026</p>",
   "options": {
     "a": "the gas expands between the blades.",
@@ -10,5 +10,10 @@
     "d": "the compressor rotational velocity slows down the air flow."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68001,
+    "number": "218864"
+  }
 }

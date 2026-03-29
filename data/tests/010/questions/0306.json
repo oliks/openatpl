@@ -1,7 +1,7 @@
 {
   "number": 306,
-  "questionId": 95823,
-  "questionNumber": "108156",
+  "questionId": "010-0306",
+  "questionNumber": "010-0306",
   "stemHtml": "A flight crew license shall be issued\u2026",
   "options": {
     "a": "in paper form only.",
@@ -10,5 +10,10 @@
     "d": "in plastic card form only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95823,
+    "number": "108156"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1418,
-  "questionId": 84681,
-  "questionNumber": "216425",
+  "questionId": "021-1418",
+  "questionNumber": "021-1418",
   "stemHtml": "In an AC circuit with a capacitor, voltage is kept the same, but the AC frequency is increased. What will happen to the current?",
   "options": {
     "a": "Current reduces down to a value of zero.",
@@ -10,5 +10,10 @@
     "d": "Current remains the same."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84681,
+    "number": "216425"
+  }
 }

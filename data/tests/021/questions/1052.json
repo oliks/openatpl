@@ -1,7 +1,7 @@
 {
   "number": 1052,
-  "questionId": 68045,
-  "questionNumber": "217011",
+  "questionId": "021-1052",
+  "questionNumber": "021-1052",
   "stemHtml": "<p>Refer to figure. <br>Which of these statements about the fuel system in the annex are correct?</p><p>1. If the AC fuel pumps are not running in the system configuration shown in the annex, it is still possible to feed both engines from the main tanks<br>2. In the system configuration shown in the annex the DC fuel pump can supply fuel to the engines</p>",
   "options": {
     "a": "Both 1 and 2 are incorrect.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/8CF63004-09B3-4EAC-A310-E1647674E1E8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/8CF63004-09B3-4EAC-A310-E1647674E1E8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68045,
+    "number": "217011"
+  }
 }

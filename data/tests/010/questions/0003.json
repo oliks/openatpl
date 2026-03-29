@@ -1,7 +1,7 @@
 {
   "number": 3,
-  "questionId": 66865,
-  "questionNumber": "107809",
+  "questionId": "010-0003",
+  "questionNumber": "010-0003",
   "stemHtml": "For which ICAO aircraft categories is the obstacle clearance altitude/height within an established visual manoeuvring (circling) area determined?",
   "options": {
     "a": "A, B, C, D, E",
@@ -10,5 +10,10 @@
     "d": "C, D, E"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66865,
+    "number": "107809"
+  }
 }

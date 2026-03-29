@@ -1,7 +1,7 @@
 {
   "number": 672,
-  "questionId": 66867,
-  "questionNumber": "107024",
+  "questionId": "010-0672",
+  "questionNumber": "010-0672",
   "stemHtml": "In a circling approach, how is the pilot expected to behave after initial visual contact with the runway has been established?",
   "options": {
     "a": "The circling manoeuvre will be continued even in case of momentary loss of visual references.",
@@ -10,5 +10,10 @@
     "d": "Continue the circling at MDA/H keeping the runway environment in sight."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66867,
+    "number": "107024"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 325,
-  "questionId": 104358,
-  "questionNumber": "104641",
+  "questionId": "010-0325",
+  "questionNumber": "010-0325",
   "stemHtml": "<p>A pilot is flying to an airport that he/she is not familiar with and does not have the approach charts. The ATC guides the pilot through the entire instrument approach and when the guidance is done, the pilot is cleared to straight in approach. What does the tower must always specify in such a case?</p>",
   "options": {
     "a": "<p>Missed approach point (MAPt).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Decision height/altitude.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104358,
+    "number": "104641"
+  }
 }

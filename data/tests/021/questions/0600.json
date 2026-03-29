@@ -1,7 +1,7 @@
 {
   "number": 600,
-  "questionId": 80103,
-  "questionNumber": "217852",
+  "questionId": "021-0600",
+  "questionNumber": "021-0600",
   "stemHtml": "What is correct regarding ice protection of the horizontal stabiliser on a modern large commercial transport aircraft?",
   "options": {
     "a": "Hydraulic pipes run through the tailplane and the heat is used to stop anti-icing.",
@@ -10,5 +10,10 @@
     "d": "Ram air prevents icing."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80103,
+    "number": "217852"
+  }
 }

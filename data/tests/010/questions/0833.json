@@ -1,7 +1,7 @@
 {
   "number": 833,
-  "questionId": 66641,
-  "questionNumber": "104972",
+  "questionId": "010-0833",
+  "questionNumber": "010-0833",
   "stemHtml": "<p>When an unruly passenger endangers the safety of the aircraft, the aircraft commander\u2026</p>",
   "options": {
     "a": "may disembark the unruly passenger in the territory of any State.",
@@ -10,5 +10,10 @@
     "d": "may only ask for assistance from cabin crew in restraining the unruly passenger."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66641,
+    "number": "104972"
+  }
 }

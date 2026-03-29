@@ -1,7 +1,7 @@
 {
   "number": 1338,
-  "questionId": 81038,
-  "questionNumber": "329963",
+  "questionId": "032-1338",
+  "questionNumber": "032-1338",
   "stemHtml": "Which statement regarding gross performance is true?",
   "options": {
     "a": "Actual flight performance with NO safety factor.",
@@ -10,5 +10,10 @@
     "d": "Actual flight performance with a safety factor."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81038,
+    "number": "329963"
+  }
 }

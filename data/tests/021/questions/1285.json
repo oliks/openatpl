@@ -1,7 +1,7 @@
 {
   "number": 1285,
-  "questionId": 77974,
-  "questionNumber": "211643",
+  "questionId": "021-1285",
+  "questionNumber": "021-1285",
   "stemHtml": "<p>Which of the following statements is/are correct regarding engine fire extinguishers?</p><p>1. A twin-engine aeroplane certified under CS-25 needs a minimum of two independent engine fire extinguishers<br>2. Every engine of an aeroplane certified under CS-25 needs to be provided with two individual extinguishing shots</p>",
   "options": {
     "a": "1 is correct; 2 is incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is correct; 2 is correct."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77974,
+    "number": "211643"
+  }
 }

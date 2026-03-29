@@ -1,7 +1,7 @@
 {
   "number": 1504,
-  "questionId": 126879,
-  "questionNumber": "333341",
+  "questionId": "033-1504",
+  "questionNumber": "033-1504",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the minimum altitude over the Quiet-zone?</p>",
   "options": {
     "a": "<p>1500 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/39d3ec9e-5563-48fc-b71b-543f2fd59226.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/39d3ec9e-5563-48fc-b71b-543f2fd59226.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 126879,
+    "number": "333341"
+  }
 }

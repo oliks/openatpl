@@ -1,7 +1,7 @@
 {
   "number": 463,
-  "questionId": 109432,
-  "questionNumber": "222997",
+  "questionId": "022-0463",
+  "questionNumber": "022-0463",
   "stemHtml": "<p>Two aircraft equipped with ACAS II are flying head-on towards each other at the same altitude. How would the ACAS II system react?</p>",
   "options": {
     "a": "<p>Exchange information via their transponders, and co-ordinate a RA.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only a TA is provided and there is no exchange of information.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109432,
+    "number": "222997"
+  }
 }

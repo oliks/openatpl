@@ -1,7 +1,7 @@
 {
   "number": 1515,
-  "questionId": 103864,
-  "questionNumber": "101281",
+  "questionId": "010-1515",
+  "questionNumber": "010-1515",
   "stemHtml": "<p>An aircraft is operating a flight in class F airspace and is communicating on the advisory frequency. The aircraft is flying under...</p>",
   "options": {
     "a": "<p>VFR.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Special VFR.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103864,
+    "number": "101281"
+  }
 }

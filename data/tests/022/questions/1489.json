@@ -1,7 +1,7 @@
 {
   "number": 1489,
-  "questionId": 81796,
-  "questionNumber": "221747",
+  "questionId": "022-1489",
+  "questionNumber": "022-1489",
   "stemHtml": "The purpose of an FCU/MCP is to\u2026",
   "options": {
     "a": "operate the FMC.",
@@ -10,5 +10,10 @@
     "d": "verify thrust mode selections."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81796,
+    "number": "221747"
+  }
 }

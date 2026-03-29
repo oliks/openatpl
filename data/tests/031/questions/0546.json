@@ -1,7 +1,7 @@
 {
   "number": 546,
-  "questionId": 69603,
-  "questionNumber": "314994",
+  "questionId": "031-0546",
+  "questionNumber": "031-0546",
   "stemHtml": "If during flight a considerable amount of fuel was transferred from a fuel tank located in the forward fuselage section to a fuel tank located at the rear section of the fuselage, what effect would this have on the aircraft?",
   "options": {
     "a": "Increase in range and stall speed.",
@@ -10,5 +10,10 @@
     "d": "Increase in stability and decrease in trim drag."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69603,
+    "number": "314994"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 559,
-  "questionId": 78657,
-  "questionNumber": "106196",
+  "questionId": "010-0559",
+  "questionNumber": "010-0559",
   "stemHtml": "<p>Select the option which correctly states, in the increasing order of seriousness, the phases related to an aircraft in emergency or believed in emergency.</p>",
   "options": {
     "a": "INCERFA, ALERFA, DETRESFA.",
@@ -10,5 +10,10 @@
     "d": "ALERFA, DISTRESFA, RESCUEFA."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78657,
+    "number": "106196"
+  }
 }

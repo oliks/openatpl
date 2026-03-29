@@ -1,7 +1,7 @@
 {
   "number": 41,
-  "questionId": 69384,
-  "questionNumber": "311993",
+  "questionId": "031-0041",
+  "questionNumber": "031-0041",
   "stemHtml": "<p>Refer to figure. <br /> \rGiven the following information, complete the Last Minute Change (LMC) section of the load sheet and find the LMC TOTAL value. The LMC data:</p>\r\r<div>\r<div>Two male and two female passengers embarked at seat row no. 7.</div>\r\r<div>Four pieces of baggage loaded in cargo compartment no. 5.</div>\r\r<div>A 100-kg cargo box off-loaded from cargo compartment no. 4.</div>\r\r<div>A 50-kg mail box loaded in cargo compartment no. 4.</div>\r\r<div> <br /> \rUse 'all adult' standard masses for passengers and standard masses for baggage for a domestic scheduled flight.</div>\r</div>\r\r<div> </div>",
   "options": {
     "a": "<p>266 kg</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/031/e4b34135-749a-4b9a-b121-2d87b71572ed.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/e4b34135-749a-4b9a-b121-2d87b71572ed.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69384,
+    "number": "311993"
+  }
 }

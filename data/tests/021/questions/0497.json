@@ -1,7 +1,7 @@
 {
   "number": 497,
-  "questionId": 83121,
-  "questionNumber": "211253",
+  "questionId": "021-0497",
+  "questionNumber": "021-0497",
   "stemHtml": "<p>What is the main purpose of a diffuser?</p>",
   "options": {
     "a": "<p>To reduce the temperature of gases in the combustion chamber.  </p>",
@@ -10,5 +10,10 @@
     "d": "To increase total pressure in the combustion chamber."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83121,
+    "number": "211253"
+  }
 }

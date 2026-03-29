@@ -1,7 +1,7 @@
 {
   "number": 611,
-  "questionId": 74629,
-  "questionNumber": "222409",
+  "questionId": "022-0611",
+  "questionNumber": "022-0611",
   "stemHtml": "Refer to figure.             <br />             Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in map mode?",
   "options": {
     "a": "Figure 4",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/4C0681ED-BFEF-4B27-90B8-463DA21B7E3B.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/4C0681ED-BFEF-4B27-90B8-463DA21B7E3B.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74629,
+    "number": "222409"
+  }
 }

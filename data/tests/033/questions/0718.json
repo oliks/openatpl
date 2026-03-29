@@ -1,7 +1,7 @@
 {
   "number": 718,
-  "questionId": 159660,
-  "questionNumber": "339461",
+  "questionId": "033-0718",
+  "questionNumber": "033-0718",
   "stemHtml": "<p>Refer to figure.\u00a0<br>The pilot of a light twin-engined aircraft has filled in the flight log for a charter flight to Nice in France. What is the actual ground speed at TORDU? If the groundspeed at TORDU remains the same, what will be the ATO at EBROX?</p>",
   "options": {
     "a": "<p>GS at TORDU: 185; ATO at EBROX: 07:09</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/b763b198-9781-452a-b13f-5e727f652012.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/b763b198-9781-452a-b13f-5e727f652012.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159660,
+    "number": "339461"
+  }
 }

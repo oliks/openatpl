@@ -1,7 +1,7 @@
 {
   "number": 259,
-  "questionId": 103174,
-  "questionNumber": "108233",
+  "questionId": "010-0259",
+  "questionNumber": "010-0259",
   "stemHtml": "<p>Who is responsible to sign the Cargo Declaration prior to departure?</p>",
   "options": {
     "a": "<p>The cabin purser.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The declaration or manifest must be signed by the flight company's main office.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103174,
+    "number": "108233"
+  }
 }

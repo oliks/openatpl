@@ -1,7 +1,7 @@
 {
   "number": 474,
-  "questionId": 69234,
-  "questionNumber": "225956",
+  "questionId": "022-0474",
+  "questionNumber": "022-0474",
   "stemHtml": "If the outside temperature at 35 000 ft is -40\u00b0C, the local speed of sound is:<br>",
   "options": {
     "a": "686 kt.<br>",
@@ -10,5 +10,10 @@
     "d": "247 kt.<br>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69234,
+    "number": "225956"
+  }
 }

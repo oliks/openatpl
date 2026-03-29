@@ -1,7 +1,7 @@
 {
   "number": 876,
-  "questionId": 125706,
-  "questionNumber": "334533",
+  "questionId": "033-0876",
+  "questionNumber": "033-0876",
   "stemHtml": "<p>Refer to figure or ALICANTE Chart 10-3A from Jeppesen GSPRM 2017. <br /> \rWhat is the initial minimum climb gradient on the CATON 2C SID from Alicante (LEAL) aerodrome?</p>",
   "options": {
     "a": "<p>4.0%</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/d6d6ec6d-b538-4642-a175-60e66992306c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/d6d6ec6d-b538-4642-a175-60e66992306c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 125706,
+    "number": "334533"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1283,
-  "questionId": 109071,
-  "questionNumber": "228086",
+  "questionId": "022-1283",
+  "questionNumber": "022-1283",
   "stemHtml": "<p>In a remote Reading Compass: what is the function of a comparator?</p>",
   "options": {
     "a": "<p>Compares the amplifier output with the gyro.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Sends a command to the torque motor if the gyro north and magnetic north are not the same.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109071,
+    "number": "228086"
+  }
 }

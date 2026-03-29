@@ -1,7 +1,7 @@
 {
   "number": 1116,
-  "questionId": 70242,
-  "questionNumber": "321457",
+  "questionId": "032-1116",
+  "questionNumber": "032-1116",
   "stemHtml": "How does a change in Pressure Altitude affect the climb performance with regard to the Rate Of Climb and the Climb Angle? Increasing Pressure Altitude results in...",
   "options": {
     "a": "a decreased Climb Angle but the Rate Of Climb remains the same.",
@@ -10,5 +10,10 @@
     "d": "a decreased Rate Of Climb and a decreased Climb Angle."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70242,
+    "number": "321457"
+  }
 }

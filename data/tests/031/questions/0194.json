@@ -1,7 +1,7 @@
 {
   "number": 194,
-  "questionId": 106212,
-  "questionNumber": "317948",
+  "questionId": "031-0194",
+  "questionNumber": "031-0194",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the maximum fuel mass that can be added in the outer and inner fuel tanks with a fuel specific gravity of 0.8 kg/l?</p>",
   "options": {
     "a": "<p>35 835 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/52c511a4-f7ad-4131-9db1-80811f6c1d30.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/52c511a4-f7ad-4131-9db1-80811f6c1d30.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106212,
+    "number": "317948"
+  }
 }

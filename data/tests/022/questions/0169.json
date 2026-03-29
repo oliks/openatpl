@@ -1,7 +1,7 @@
 {
   "number": 169,
-  "questionId": 140921,
-  "questionNumber": "222223",
+  "questionId": "022-0169",
+  "questionNumber": "022-0169",
   "stemHtml": "<p>What type of navigational guidance information can be displayed on the primary flight display (PFD) of a commercial transport aircraft equipped with an electronic flight instrument system (EFIS)?</p>",
   "options": {
     "a": "<p>Only map and route information.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>All navigation information including detailed maps and weather radar.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140921,
+    "number": "222223"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1201,
-  "questionId": 70580,
-  "questionNumber": "332930",
+  "questionId": "033-1201",
+  "questionNumber": "033-1201",
   "stemHtml": "<p>Refer to figure. <br>Calculate the Wind Correction Angle WCA and Ground Speed GS for the sector RDG VOR to EDPW. The WCA is\u2026</p>",
   "options": {
     "a": "8\u00b0 Left, and GS is 127 kt.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/d9a86c59-0fd5-4794-a638-9bce22926eaa.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/d9a86c59-0fd5-4794-a638-9bce22926eaa.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70580,
+    "number": "332930"
+  }
 }

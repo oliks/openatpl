@@ -1,7 +1,7 @@
 {
   "number": 455,
-  "questionId": 69293,
-  "questionNumber": "221910",
+  "questionId": "022-0455",
+  "questionNumber": "022-0455",
   "stemHtml": "<p>Refer to figure.      <br />      \rWhich mode is selected on the Navigation Display (ND) in the picture?</p>",
   "options": {
     "a": "<p>Expanded VOR mode</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/4c5e35f7-8281-49a2-8742-a31e8fe6e84e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/4c5e35f7-8281-49a2-8742-a31e8fe6e84e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69293,
+    "number": "221910"
+  }
 }

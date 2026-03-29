@@ -1,7 +1,7 @@
 {
   "number": 1104,
-  "questionId": 109263,
-  "questionNumber": "333783",
+  "questionId": "033-1104",
+  "questionNumber": "033-1104",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017. <br>A pilot departs on a VFR flight out of Mengen airport (EDTM, 48\u00b003\u2019N 009\u00b022\u2019E) and climbs out on the runway heading of 259\u00b0 magnetic and levels off at the top of climb of FL85. Using the following information, which of the statements is correct regarding the aircraft's location after levelling off?</p><p>Rate of Climb: 740 feet/min <br>True Wind: 240\u00b0/ 20 kt <br>Planned TAS: 140 kt <br>Conditions: ISA</p>",
   "options": {
     "a": "<p>EDTM is 22.5 NM behind you</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/d6248a65-7001-4370-936e-257000dd00f5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/d6248a65-7001-4370-936e-257000dd00f5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109263,
+    "number": "333783"
+  }
 }

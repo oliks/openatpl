@@ -1,7 +1,7 @@
 {
   "number": 1478,
-  "questionId": 81760,
-  "questionNumber": "218186",
+  "questionId": "021-1478",
+  "questionNumber": "021-1478",
   "stemHtml": "<p>In a Fly-By-Wire controlled aircraft, what happens if both pilots move their sidesticks at the same time?</p>",
   "options": {
     "a": "The pilot-in-command has priority (left stick).",
@@ -10,5 +10,10 @@
     "d": "The stick where the last input was made has priority."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81760,
+    "number": "218186"
+  }
 }

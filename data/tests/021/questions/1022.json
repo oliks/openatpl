@@ -1,7 +1,7 @@
 {
   "number": 1022,
-  "questionId": 67577,
-  "questionNumber": "214074",
+  "questionId": "021-1022",
+  "questionNumber": "021-1022",
   "stemHtml": "<p>In a bootstrap air cycle system, the\u2026</p>",
   "options": {
     "a": "<p>turbine increases the pressure of the air supply to the cabin.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>turbine drives the compressor, which increases the temperature of the air, thus making the second heat exchanger more efficient.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67577,
+    "number": "214074"
+  }
 }

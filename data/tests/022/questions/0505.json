@@ -1,7 +1,7 @@
 {
   "number": 505,
-  "questionId": 68594,
-  "questionNumber": "221929",
+  "questionId": "022-0505",
+  "questionNumber": "022-0505",
   "stemHtml": "<p>When the autopilot is engaged, the role of the automatic pitch trim is to\u2026</p>",
   "options": {
     "a": "<p>respond to altitude changes in altitude hold mode.</p>",
@@ -10,5 +10,10 @@
     "d": "relieve the autopilot servo motor and return the aircraft in-trim when disconnecting the autopilot."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68594,
+    "number": "221929"
+  }
 }

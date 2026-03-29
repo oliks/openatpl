@@ -1,7 +1,7 @@
 {
   "number": 1261,
-  "questionId": 161820,
-  "questionNumber": "109669",
+  "questionId": "010-1261",
+  "questionNumber": "010-1261",
   "stemHtml": "<p>An aircraft is lining up to a runway of a controlled aerodrome. The pilot notices a vehicle entering the runway from another holding point and backtracking. What is true about the runway?</p>",
   "options": {
     "a": "<p>The runway is non-controlled, so vehicles may enter without clearance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>\u00a0The runway is controlled, vehicles may enter the runway to report surface conditions without requiring a clearance.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161820,
+    "number": "109669"
+  }
 }

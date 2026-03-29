@@ -1,7 +1,7 @@
 {
   "number": 342,
-  "questionId": 79423,
-  "questionNumber": "221777",
+  "questionId": "022-0342",
+  "questionNumber": "022-0342",
   "stemHtml": "What happens when a pitot tube becomes blocked in a descent?",
   "options": {
     "a": "The ASI will underread.",
@@ -10,5 +10,10 @@
     "d": "The ASI will overread."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79423,
+    "number": "221777"
+  }
 }

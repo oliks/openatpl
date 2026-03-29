@@ -1,7 +1,7 @@
 {
   "number": 1091,
-  "questionId": 96382,
-  "questionNumber": "331100",
+  "questionId": "033-1091",
+  "questionNumber": "033-1091",
   "stemHtml": "<p>Refer to figure.\u00a0<br>Given: Planned and actual data as shown in the Flight Log excerpt.</p><p>Provided that flight conditions and fuel consumption remain unchanged on the leg BETA to GAMMA, and the reserves fuel is 350 kg, what is the safe endurance left at GAMMA?</p>",
   "options": {
     "a": "19 minutes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/e5398aec-caa2-4475-ae38-00a5dede5256.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/e5398aec-caa2-4475-ae38-00a5dede5256.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96382,
+    "number": "331100"
+  }
 }

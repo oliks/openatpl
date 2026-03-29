@@ -1,7 +1,7 @@
 {
   "number": 664,
-  "questionId": 70081,
-  "questionNumber": "326902",
+  "questionId": "032-0664",
+  "questionNumber": "032-0664",
   "stemHtml": "<p>The lowest take-off safety speed (V<strong><sub>2MIN</sub></strong>) is\u2026</p>",
   "options": {
     "a": "1.20 V<sub>SR</sub> for all turboprop powered aeroplanes.",
@@ -10,5 +10,10 @@
     "d": "1.20 V<sub>SR</sub> for all aeroplanes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70081,
+    "number": "326902"
+  }
 }

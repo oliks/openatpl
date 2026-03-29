@@ -1,7 +1,7 @@
 {
   "number": 775,
-  "questionId": 108940,
-  "questionNumber": "218986",
+  "questionId": "021-0775",
+  "questionNumber": "021-0775",
   "stemHtml": "<p>\"Sandwich type\" structures are used in the construction of aircraft due to their...</p>",
   "options": {
     "a": "<p>ease of deformation under load.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>low mass and low stiffness.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108940,
+    "number": "218986"
+  }
 }

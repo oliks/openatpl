@@ -1,7 +1,7 @@
 {
   "number": 1856,
-  "questionId": 102540,
-  "questionNumber": "103935",
+  "questionId": "010-1856",
+  "questionNumber": "010-1856",
   "stemHtml": "<p>The last point of the STAR (Standard Instrument Arrival) EELDE A is the ARTIP waypoint. ARTIP is the...</p>",
   "options": {
     "a": "<p>IAF.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>IF.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102540,
+    "number": "103935"
+  }
 }

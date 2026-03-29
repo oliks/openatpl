@@ -1,7 +1,7 @@
 {
   "number": 1551,
-  "questionId": 80255,
-  "questionNumber": "102747",
+  "questionId": "010-1551",
+  "questionNumber": "010-1551",
   "stemHtml": "<p>In precision approach procedures, the FAP is a point\u2026</p>",
   "options": {
     "a": "<p>Sited on the final approach track at a distance that permits selection of final approach configuration, and descent from intermediate approach altitude to the appropriate MDA.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>That marks the end of an initial segment and the beginning of the intermediate segment of the precision approach.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80255,
+    "number": "102747"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1725,
-  "questionId": 84502,
-  "questionNumber": "229032",
+  "questionId": "022-1725",
+  "questionNumber": "022-1725",
   "stemHtml": "<p>What is a rate of turn?</p>",
   "options": {
     "a": "An angle of bank equal to that required for described DME arc.",
@@ -10,5 +10,10 @@
     "d": "An angle of bank equal to the maximum rate of turn."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84502,
+    "number": "229032"
+  }
 }

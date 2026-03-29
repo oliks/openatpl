@@ -1,7 +1,7 @@
 {
   "number": 156,
-  "questionId": 69100,
-  "questionNumber": "222717",
+  "questionId": "022-0156",
+  "questionNumber": "022-0156",
   "stemHtml": "<p>The components of an autopilot system are the:</p><p>1 \u2013 actuators <br>2 \u2013 autopilot mode control panel <br>3 \u2013 EFIS control panel <br>4 \u2013 mode annunciator panel (FMA)</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 4.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69100,
+    "number": "222717"
+  }
 }

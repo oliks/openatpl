@@ -1,7 +1,7 @@
 {
   "number": 745,
-  "questionId": 67520,
-  "questionNumber": "214917",
+  "questionId": "021-0745",
+  "questionNumber": "021-0745",
   "stemHtml": "In a hard-time maintenance programme, a component must be replaced...",
   "options": {
     "a": "at a specified number of flight cycles or hours.",
@@ -10,5 +10,10 @@
     "d": "after a complaint from the flight crew."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67520,
+    "number": "214917"
+  }
 }

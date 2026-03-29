@@ -1,7 +1,7 @@
 {
   "number": 1018,
-  "questionId": 108902,
-  "questionNumber": "221286",
+  "questionId": "022-1018",
+  "questionNumber": "022-1018",
   "stemHtml": "<p>Refer to figure. <br>What is the temperature of the main gearbox oil?</p>",
   "options": {
     "a": "<p>80\u00b0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/5a4c29ed-ba40-44b9-8717-028ca6e0bc31.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/5a4c29ed-ba40-44b9-8717-028ca6e0bc31.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108902,
+    "number": "221286"
+  }
 }

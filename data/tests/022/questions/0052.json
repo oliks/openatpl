@@ -1,7 +1,7 @@
 {
   "number": 52,
-  "questionId": 85550,
-  "questionNumber": "228538",
+  "questionId": "022-0052",
+  "questionNumber": "022-0052",
   "stemHtml": "Which formula represents the correct relationship between the following parameters?   <br />   P: power   <br />   T: torque   <br />   n: RPM   <br />   GS: ground speed   <br />   TAS: true air speed",
   "options": {
     "a": "P = T \u00d7 GS",
@@ -10,5 +10,10 @@
     "d": "P = T \u00d7 TAS"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85550,
+    "number": "228538"
+  }
 }

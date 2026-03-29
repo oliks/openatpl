@@ -1,7 +1,7 @@
 {
   "number": 394,
-  "questionId": 69949,
-  "questionNumber": "326234",
+  "questionId": "032-0394",
+  "questionNumber": "032-0394",
   "stemHtml": "<p>If the field-length-limited take-off mass and V<sub>1</sub> were calculated using balanced field-lengths, the use of any additional clearway in the calculation would cause\u2026</p>",
   "options": {
     "a": "an increased obstacle-limited take-off mass with the same V<sub>1</sub>.",
@@ -10,5 +10,10 @@
     "d": "an increased obstacle-limited take-off mass and an increased V<sub>1</sub>."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69949,
+    "number": "326234"
+  }
 }

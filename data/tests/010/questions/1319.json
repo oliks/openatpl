@@ -1,7 +1,7 @@
 {
   "number": 1319,
-  "questionId": 80074,
-  "questionNumber": "101768",
+  "questionId": "010-1319",
+  "questionNumber": "010-1319",
   "stemHtml": "What does \"Hard Law\" include? (EASA regulatory material)",
   "options": {
     "a": "Certification Specifications, Acceptable Means of Compliance and Guidance Material.",
@@ -10,5 +10,10 @@
     "d": "Guidance Material, Regulations, Delegated Acts and Implementing Acts."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80074,
+    "number": "101768"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 176,
-  "questionId": 83183,
-  "questionNumber": "213047",
+  "questionId": "021-0176",
+  "questionNumber": "021-0176",
   "stemHtml": "<p>What is a voltage regulator used for? To control voltage from\u2026</p>",
   "options": {
     "a": "<p>Generators during varying speed, and batteries during varying load.</p>",
@@ -10,5 +10,10 @@
     "d": "Batteries during varying load."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83183,
+    "number": "213047"
+  }
 }

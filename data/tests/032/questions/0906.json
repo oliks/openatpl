@@ -1,7 +1,7 @@
 {
   "number": 906,
-  "questionId": 81910,
-  "questionNumber": "329191",
+  "questionId": "032-0906",
+  "questionNumber": "032-0906",
   "stemHtml": "Which of the following options correctly describes the effects on aircraft performance of landing on wet or contaminated runways?",
   "options": {
     "a": "The lower effective braking force has a much greater effect on increasing the landing distance than the benefit of higher drag.",
@@ -10,5 +10,10 @@
     "d": "The coefficient of friction is dramatically increased, which reduces the maximum braking energy that can be applied, which increases the landing distance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81910,
+    "number": "329191"
+  }
 }

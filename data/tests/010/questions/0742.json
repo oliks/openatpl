@@ -1,7 +1,7 @@
 {
   "number": 742,
-  "questionId": 110325,
-  "questionNumber": "108353",
+  "questionId": "010-0742",
+  "questionNumber": "010-0742",
   "stemHtml": "<p>What is the wake turbulence category of an aircraft with maximum certificated take-off mass of 72 000 kg?</p>",
   "options": {
     "a": "<p>Light.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Super heavy.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110325,
+    "number": "108353"
+  }
 }

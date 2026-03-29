@@ -1,7 +1,7 @@
 {
   "number": 507,
-  "questionId": 102665,
-  "questionNumber": "104705",
+  "questionId": "010-0507",
+  "questionNumber": "010-0507",
   "stemHtml": "<p>What is the term describing the examination of the interior and accessible exterior sections of an aircraft to identify prohibited items that pose a security risk to the aircraft?</p>",
   "options": {
     "a": "<p>Aircraft security search.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Security control.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102665,
+    "number": "104705"
+  }
 }

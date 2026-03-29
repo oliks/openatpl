@@ -1,7 +1,7 @@
 {
   "number": 352,
-  "questionId": 107455,
-  "questionNumber": "106096",
+  "questionId": "010-0352",
+  "questionNumber": "010-0352",
   "stemHtml": "<p>Refer to figure.    <br />    \rWhat does the object of annex C indicate?</p>",
   "options": {
     "a": "<p>An apron marker.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/15dbfb59-79fa-400a-a395-7876a01e032d.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/15dbfb59-79fa-400a-a395-7876a01e032d.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107455,
+    "number": "106096"
+  }
 }

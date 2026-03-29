@@ -1,7 +1,7 @@
 {
   "number": 1426,
-  "questionId": 67902,
-  "questionNumber": "216923",
+  "questionId": "021-1426",
+  "questionNumber": "021-1426",
   "stemHtml": "<p>A hydraulic shuttle valve\u2026</p>",
   "options": {
     "a": "<p>is a non-return valve.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>allows two units to be operated by one pressure supply.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67902,
+    "number": "216923"
+  }
 }

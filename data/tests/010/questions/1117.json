@@ -1,7 +1,7 @@
 {
   "number": 1117,
-  "questionId": 82833,
-  "questionNumber": "107483",
+  "questionId": "010-1117",
+  "questionNumber": "010-1117",
   "stemHtml": "<p>Which of the following units assigns the transition level?</p>",
   "options": {
     "a": "<p>Aerodrome management</p>",
@@ -10,5 +10,10 @@
     "d": "AIS office"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82833,
+    "number": "107483"
+  }
 }

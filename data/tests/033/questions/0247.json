@@ -1,7 +1,7 @@
 {
   "number": 247,
-  "questionId": 70942,
-  "questionNumber": "336603",
+  "questionId": "033-0247",
+  "questionNumber": "033-0247",
   "stemHtml": "<p>Refer to figures or NANTES - Charts 19-1, 19-2, 19-3 from Jeppesen GSPRM 2017. <br>To which risk should you pay special attention?</p>",
   "options": {
     "a": "<div>Increased traffic of gliders and microlights has to be expected.</div>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/3DBB893A-26DB-4961-9FF5-00D18E266E82.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3DBB893A-26DB-4961-9FF5-00D18E266E82.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70942,
+    "number": "336603"
+  }
 }

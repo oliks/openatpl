@@ -1,7 +1,7 @@
 {
   "number": 378,
-  "questionId": 83593,
-  "questionNumber": "318727",
+  "questionId": "031-0378",
+  "questionNumber": "031-0378",
   "stemHtml": "What is the definition of the Maximum Take-Off Mass of an aeroplane?",
   "options": {
     "a": "It is the maximum permissible mass of a loaded aeroplane before leaving the parking stand.\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>",
@@ -10,5 +10,10 @@
     "d": "It is a performance-limited take-off mass which is affected by atmospheric pressure and temperature."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83593,
+    "number": "318727"
+  }
 }

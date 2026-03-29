@@ -1,7 +1,7 @@
 {
   "number": 335,
-  "questionId": 68697,
-  "questionNumber": "224069",
+  "questionId": "022-0335",
+  "questionNumber": "022-0335",
   "stemHtml": "To obtain the instantaneous position from the accelerations:",
   "options": {
     "a": "integrating twice acceleration with respect to time is sufficient.",
@@ -10,5 +10,10 @@
     "d": "it is necessary to integrate twice the acceleration with respect to time, and to know the initial position and the initial speed."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68697,
+    "number": "224069"
+  }
 }

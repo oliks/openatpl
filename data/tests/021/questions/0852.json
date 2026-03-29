@@ -1,7 +1,7 @@
 {
   "number": 852,
-  "questionId": 67551,
-  "questionNumber": "216988",
+  "questionId": "021-0852",
+  "questionNumber": "021-0852",
   "stemHtml": "<p>For a safe life designed structure\u2026</p>",
   "options": {
     "a": "one load path is sufficient and the structure should be redundant.",
@@ -10,5 +10,10 @@
     "d": "there is more than one load path and the structure should be redundant."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67551,
+    "number": "216988"
+  }
 }

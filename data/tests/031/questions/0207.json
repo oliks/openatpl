@@ -1,7 +1,7 @@
 {
   "number": 207,
-  "questionId": 83180,
-  "questionNumber": "311615",
+  "questionId": "031-0207",
+  "questionNumber": "031-0207",
   "stemHtml": "<p>According to the AFM, the centre tank fuel has to be consumed prior to the wing tanks fuel. According to the pre-flight fuel planning, the remaining fuel upon landing will be 2000 kg. Given the following information below, calculate your CG position upon landing:</p><p>Zero Fuel Mass: 40 000 kg\u00a0<br>CG position at TOM: 15.45 m\u00a0<br>Fuel in centre tank at take-off: 28 000 kg\u00a0<br>Centre fuel tank station: 15.3 m\u00a0<br>Fuel in wing tanks at take-off: 26 000 kg\u00a0<br>Wing fuel tank station: 15.7 m</p>",
   "options": {
     "a": "<p>14.66 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>16.18 m</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83180,
+    "number": "311615"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 366,
-  "questionId": 96386,
-  "questionNumber": "336827",
+  "questionId": "033-0366",
+  "questionNumber": "033-0366",
   "stemHtml": "<p>Refer to figure or Jeppesen Stuttgart RNAV SID 10-3P chart.<br>On DKB 9B SID, what does DS\u00d85\u00d8 indicate?</p>",
   "options": {
     "a": "<p>Non-compulsory reporting point.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2bcc4c9c-3507-461a-8e15-ed022dd72f4a.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2bcc4c9c-3507-461a-8e15-ed022dd72f4a.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96386,
+    "number": "336827"
+  }
 }

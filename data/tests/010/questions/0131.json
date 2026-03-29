@@ -1,7 +1,7 @@
 {
   "number": 131,
-  "questionId": 159007,
-  "questionNumber": "109997",
+  "questionId": "010-0131",
+  "questionNumber": "010-0131",
   "stemHtml": "<p>ICAO Annex 2 deals with (1) _____ and was established by (2) _____ Convention.</p>",
   "options": {
     "a": "<p>(1) Rules of the flight; (2) Chicago</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Rules of the flight; (2) Tokyo</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159007,
+    "number": "109997"
+  }
 }

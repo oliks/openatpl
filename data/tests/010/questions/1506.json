@@ -1,7 +1,7 @@
 {
   "number": 1506,
-  "questionId": 102300,
-  "questionNumber": "106453",
+  "questionId": "010-1506",
+  "questionNumber": "010-1506",
   "stemHtml": "<p>The standard Vertical Separation Minimum (VSM) above FL290 is...</p>",
   "options": {
     "a": "<p>2000 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3000 ft</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102300,
+    "number": "106453"
+  }
 }

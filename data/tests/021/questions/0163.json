@@ -1,7 +1,7 @@
 {
   "number": 163,
-  "questionId": 67699,
-  "questionNumber": "215399",
+  "questionId": "021-0163",
+  "questionNumber": "021-0163",
   "stemHtml": "<p>If the manifold pressure gauge of a piston engine shows an increase shortly after carburettor heat is turned on, it indicates that\u2026</p>",
   "options": {
     "a": "excessive heat is being used.",
@@ -10,5 +10,10 @@
     "d": "the cylinder walls are overheating."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67699,
+    "number": "215399"
+  }
 }

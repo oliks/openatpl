@@ -1,7 +1,7 @@
 {
   "number": 174,
-  "questionId": 110948,
-  "questionNumber": "336039",
+  "questionId": "033-0174",
+  "questionNumber": "033-0174",
   "stemHtml": "<p>You receive the following plain text description within a NOTAM.</p><p>GPS (INCLUDING EGNOS, GBAS, AND ADSB) MAY BE UNAVAILABLE WITHIN A 400 NM RADIUS CENTERED AT LBPR (42\u00b015'29''N 027\u00b042'12''W) FL400-UNL DECREASING IN AREA WITH A DECREASE IN ALTITUDE DEFINED AS:</p><p>344 NM RADIUS AT FL250<br>253 NM RADIUS AT FL100<br>198 NM RADIUS AT 4000 FT AGL<br>175 NM RADIUS AT 50 FT AGL<br>EFFECTIVE DAILY 2000-2359 FROM 17/03 UNTIL 21/03</p><p>What does this mean?</p>",
   "options": {
     "a": "<p>GNSS may be unavailable daily between 2000z and 2359z within a radius of 334 NM of LBPR at all levels.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>GPS, LPV and ADSB are permanently unavailable at LBPR.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110948,
+    "number": "336039"
+  }
 }

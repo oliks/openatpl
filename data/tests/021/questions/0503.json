@@ -1,7 +1,7 @@
 {
   "number": 503,
-  "questionId": 81985,
-  "questionNumber": "211745",
+  "questionId": "021-0503",
+  "questionNumber": "021-0503",
   "stemHtml": "How do windscreen heating systems usually work?",
   "options": {
     "a": "They cycle on and off to keep the screen temperature within a specific range.",
@@ -10,5 +10,10 @@
     "d": "They consist of warm air from cabin heat blown onto the windscreen."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81985,
+    "number": "211745"
+  }
 }

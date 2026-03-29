@@ -1,7 +1,7 @@
 {
   "number": 433,
-  "questionId": 79079,
-  "questionNumber": "311703",
+  "questionId": "031-0433",
+  "questionNumber": "031-0433",
   "stemHtml": "<p>Determine the length of the MAC, given:</p>\n\n<p>Leading edge at wing root: STA 235  <br />  \nTrailing edge at wing root: STA 250  <br />  \nLeading edge at wing tip: STA 148  <br />  \nTrailing edge at wing tip: STA 212  <br />  \nLeading edge of MAC: STA 192  <br />  \nTrailing edge of MAC: STA 224</p>\n\n<p><em>Note: Body stations are distances from the aircraft nose in <strong>10<sup>-1</sup> </strong>m.</em></p>",
   "options": {
     "a": "150 cm",
@@ -10,5 +10,10 @@
     "d": "640 cm"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79079,
+    "number": "311703"
+  }
 }

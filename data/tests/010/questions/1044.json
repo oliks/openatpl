@@ -1,7 +1,7 @@
 {
   "number": 1044,
-  "questionId": 111278,
-  "questionNumber": "104074",
+  "questionId": "010-1044",
+  "questionNumber": "010-1044",
   "stemHtml": "<p>During cruise, a passenger reports a malfunctioning lock on the lavatory and the crew in response considers this lavatory inoperative. In accordance with EU Regulations on occurrences, what is the appropriate course of action after the flight?</p>",
   "options": {
     "a": "<p>NO action is necessary since the information comes from a passenger and NOT the crew, and because there is NO requirement to report such type of malfunction.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>This malfunction should be reported using the Operator's voluntary reporting system.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111278,
+    "number": "104074"
+  }
 }

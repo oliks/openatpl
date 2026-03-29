@@ -1,7 +1,7 @@
 {
   "number": 822,
-  "questionId": 66879,
-  "questionNumber": "102981",
+  "questionId": "010-0822",
+  "questionNumber": "010-0822",
   "stemHtml": "<p>Holding Procedures \u2013 Entry \u2013 The three entry sectors in a holding pattern have a zone of flexibility on either side of the sectors boundaries of\u2026</p>",
   "options": {
     "a": "<p>10 degrees.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>5 degrees.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66879,
+    "number": "102981"
+  }
 }

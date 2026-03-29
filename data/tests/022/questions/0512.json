@@ -1,7 +1,7 @@
 {
   "number": 512,
-  "questionId": 111492,
-  "questionNumber": "228704",
+  "questionId": "022-0512",
+  "questionNumber": "022-0512",
   "stemHtml": "<p>From the following list select 5 typical position inputs to an FMS?</p>\r\r<p>1. GPS  <br />  \r2. IRS  <br />  \r3. ILS  <br />  \r4. NDB  <br />  \r5. VOR  <br />  \r6. DME  <br />  \r7. GS  <br />  \r8. LOC</p>\r\r<p> </p>",
   "options": {
     "a": "<p>1, 2, 3, 4 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 5, 6, 7 and 8</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111492,
+    "number": "228704"
+  }
 }

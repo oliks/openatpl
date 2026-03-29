@@ -1,7 +1,7 @@
 {
   "number": 371,
-  "questionId": 83581,
-  "questionNumber": "325854",
+  "questionId": "032-0371",
+  "questionNumber": "032-0371",
   "stemHtml": "What will be the effect on the landing distance required for a Class B aircraft, if the runway has a downhill slope of 2%?",
   "options": {
     "a": "The landing distance required will increase by 2%.",
@@ -10,5 +10,10 @@
     "d": "The landing distance required will increase by 10%."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83581,
+    "number": "325854"
+  }
 }

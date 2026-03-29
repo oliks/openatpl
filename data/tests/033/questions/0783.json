@@ -1,7 +1,7 @@
 {
   "number": 783,
-  "questionId": 79123,
-  "questionNumber": "336296",
+  "questionId": "033-0783",
+  "questionNumber": "033-0783",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - VFR Chart ED-4.<br>A VFR flight from RODING VOR/DME (RDG, N49\u00b002.5' E012\u00b031.5') is on 065\u00ba radial of RODING VOR. To receive the latest QNH, the pilot of the aircraft enters a frequency of 123.42 MHz. The name of the suitable frequency is\u2026</p>",
   "options": {
     "a": "ARNBRUCK INFO.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/C6087315-D067-4135-AE64-0B139F990D3E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C6087315-D067-4135-AE64-0B139F990D3E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79123,
+    "number": "336296"
+  }
 }

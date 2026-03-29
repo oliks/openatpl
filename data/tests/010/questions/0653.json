@@ -1,7 +1,7 @@
 {
   "number": 653,
-  "questionId": 81032,
-  "questionNumber": "105233",
+  "questionId": "010-0653",
+  "questionNumber": "010-0653",
   "stemHtml": "What does \"Category of Aircraft\" mean?",
   "options": {
     "a": "A categorisation of aircraft according to specified basic characteristics, for example aeroplane, powered-lift, helicopter, airship, sailplane, free balloon.",
@@ -10,5 +10,10 @@
     "d": "A categorisation of single pilot aeroplanes not requiring a type rating."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81032,
+    "number": "105233"
+  }
 }

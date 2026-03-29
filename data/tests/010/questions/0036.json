@@ -1,7 +1,7 @@
 {
   "number": 36,
-  "questionId": 85695,
-  "questionNumber": "104132",
+  "questionId": "010-0036",
+  "questionNumber": "010-0036",
   "stemHtml": "Independent departures, on parallel runways, may be conducted provided that the tracks diverge by at least _____ and the runway centre lines are spaced by a minimum of _____.",
   "options": {
     "a": "15\u00b0; 760 m.",
@@ -10,5 +10,10 @@
     "d": "30\u00b0; 610 m."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85695,
+    "number": "104132"
+  }
 }

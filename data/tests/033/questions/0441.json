@@ -1,7 +1,7 @@
 {
   "number": 441,
-  "questionId": 70482,
-  "questionNumber": "336276",
+  "questionId": "033-0441",
+  "questionNumber": "033-0441",
   "stemHtml": "<p>According to the following NOTAM, what is the maximum height of the balloon involved?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q) EUAD/QWCLW/IV/M/W/000/004/5339N00135W001 A) EUAD B) FROM: 15/12/14 13:48C) TO: 16/03/06 18:30 E) UNMANNED CAPTIVE BALLOON IN LOW FLYING AREA AVOIDANCE AREA WI 1NM RADIUS. MAX HEIGHT 200FT AGL/324FT AMSL. 15/12/06/OPSLF. LOWER: Surface, UPPER: 324 Feet AMSL SCHEDULE: DEC 14 1348-1600, DEC 15-31 0700-1600, JAN 01-31 0700-1630, FEB 01-29 0700-1730, MAR 01-06 0600-1830</span></p>",
   "options": {
     "a": "324 feet AMSL.",
@@ -10,5 +10,10 @@
     "d": "200 feet AMSL."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70482,
+    "number": "336276"
+  }
 }

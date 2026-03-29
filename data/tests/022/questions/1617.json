@@ -1,7 +1,7 @@
 {
   "number": 1617,
-  "questionId": 106979,
-  "questionNumber": "226562",
+  "questionId": "022-1617",
+  "questionNumber": "022-1617",
   "stemHtml": "<p>Which one of these changes would trigger an ADS-C \u2018on event\u2019 downlink?</p>",
   "options": {
     "a": "<p>Change in altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Change in the flight plan.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106979,
+    "number": "226562"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 241,
-  "questionId": 81762,
-  "questionNumber": "216979",
+  "questionId": "021-0241",
+  "questionNumber": "021-0241",
   "stemHtml": "What advantage does an aeroplane fitted with an electric-pneumatic system have compared to one fitted with an engine bleed air source?",
   "options": {
     "a": "Shorter take-off distance with reduced climb gradient.",
@@ -10,5 +10,10 @@
     "d": "Cheaper and easier to use solution."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81762,
+    "number": "216979"
+  }
 }

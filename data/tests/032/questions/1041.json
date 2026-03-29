@@ -1,7 +1,7 @@
 {
   "number": 1041,
-  "questionId": 69698,
-  "questionNumber": "323711",
+  "questionId": "032-1041",
+  "questionNumber": "032-1041",
   "stemHtml": "If a jet aeroplane is climbing at a constant IAS, which operational speed limit is most likely to be reached?",
   "options": {
     "a": "Mach limit for the Mach trim system.",
@@ -10,5 +10,10 @@
     "d": "Maximum operating Mach number."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69698,
+    "number": "323711"
+  }
 }

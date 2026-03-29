@@ -1,7 +1,7 @@
 {
   "number": 599,
-  "questionId": 108519,
-  "questionNumber": "218111",
+  "questionId": "021-0599",
+  "questionNumber": "021-0599",
   "stemHtml": "<p>What is an advantage of a low pressure hydraulic system compared to a high pressure hydraulic system?</p>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>A low pressure system allows for simpler gear type hydraulic pumps.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Low pressure pumps can be used at all altitudes, whereas high pressure pumps are much more efficient at high altitudes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108519,
+    "number": "218111"
+  }
 }

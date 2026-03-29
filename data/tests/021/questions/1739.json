@@ -1,7 +1,7 @@
 {
   "number": 1739,
-  "questionId": 68356,
-  "questionNumber": "216579",
+  "questionId": "021-1739",
+  "questionNumber": "021-1739",
   "stemHtml": "<p>Refer to figure. <br /> \rA turbine stage is represented by\u2026</p>",
   "options": {
     "a": "<p>figure 4.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/9716BFCC-8C08-4093-AAD9-9D01D3DF9DF9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/9716BFCC-8C08-4093-AAD9-9D01D3DF9DF9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68356,
+    "number": "216579"
+  }
 }

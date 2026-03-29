@@ -106,8 +106,8 @@ Each subject has an `index.json` that lists all questions:
     {
       "number": 1,
       "file": "questions/0001.json",
-      "questionId": 107825,
-      "questionNumber": "327467",
+      "questionId": "032-0001",
+      "questionNumber": "032-0001",
       "correctOption": "a"
     }
   ]
@@ -121,8 +121,8 @@ Each question is a standalone JSON file:
 ```json
 {
   "number": 1,
-  "questionId": 107825,
-  "questionNumber": "327467",
+  "questionId": "032-0001",
+  "questionNumber": "032-0001",
   "stemHtml": "<p>What is the minimum TOD?</p>",
   "options": {
     "a": "<p>2860 ft</p>",
@@ -137,19 +137,25 @@ Each question is a standalone JSON file:
       "sourceUrl": "https://example.com/image.jpg",
       "publicUrl": "/attachments/032/5a413b42-c023-49af-aa3a-062fc731da8a.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107825,
+    "number": "327467"
+  }
 }
 ```
 
 | Field | Required | Description |
 |-------|----------|-------------|
 | `number` | Yes | Sequential number within the subject |
-| `questionId` | Yes | Unique question identifier |
-| `questionNumber` | No | External reference number |
+| `questionId` | Yes | Unique identifier in format `{subjectCode}-{number}` (e.g. `"032-0001"`) |
+| `questionNumber` | Yes | Same as `questionId` |
 | `stemHtml` | Yes | Question text (HTML) |
 | `options` | Yes | Answer choices keyed `a` through `f` (HTML) |
 | `correctOption` | Yes | Letter of the correct answer or `null` if unknown |
 | `attachments` | No | Array of image attachments |
+| `externalRef` | No | Source reference: `source` (`atplq`, `avexam`, `ahead`), `id`, `number` |
 
 ### Attachment format
 

@@ -1,7 +1,7 @@
 {
   "number": 495,
-  "questionId": 80685,
-  "questionNumber": "318635",
+  "questionId": "031-0495",
+  "questionNumber": "031-0495",
   "stemHtml": "<p>What is the difference between the Take-off Mass and the Take-off Fuel?</p>",
   "options": {
     "a": "<p>DOM + traffic load</p>",
@@ -10,5 +10,10 @@
     "d": "<p>BEM + traffic load</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80685,
+    "number": "318635"
+  }
 }

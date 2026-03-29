@@ -1,7 +1,7 @@
 {
   "number": 1376,
-  "questionId": 102827,
-  "questionNumber": "331551",
+  "questionId": "033-1376",
+  "questionNumber": "033-1376",
   "stemHtml": "<p>Refer to figure or ALICANTE - Chart 10-3 from Jeppesen GSPRM 2017. <br>Departing on SID ASTRO 4A, you are cleared to FL80, with a restriction to maintain 2000 ft until passing ALT VOR. The QNH is 1040 hPa, the aircraft climbs with an average ROC of 800 ft/min, and the ground speed is 133 kt.</p><p>When will you reach the top of climb (ToC)? Approximately...</p>",
   "options": {
     "a": "<p>1 NM after VILNA</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/9a67d391-666f-4943-97f1-1470c58335c7.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9a67d391-666f-4943-97f1-1470c58335c7.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102827,
+    "number": "331551"
+  }
 }

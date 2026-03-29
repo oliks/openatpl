@@ -1,7 +1,7 @@
 {
   "number": 561,
-  "questionId": 105967,
-  "questionNumber": "215898",
+  "questionId": "021-0561",
+  "questionNumber": "021-0561",
   "stemHtml": "<p>Complete the following sentence.</p><p>The landing gear is typically (1) _____, receiving most of the power from the (2) _____.</p>",
   "options": {
     "a": "<p>(1) active; (2) electric hydraulic pump.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) passive; (2) engine driven pump.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105967,
+    "number": "215898"
+  }
 }

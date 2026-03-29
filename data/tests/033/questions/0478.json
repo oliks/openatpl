@@ -1,7 +1,7 @@
 {
   "number": 478,
-  "questionId": 70736,
-  "questionNumber": "336768",
+  "questionId": "033-0478",
+  "questionNumber": "033-0478",
   "stemHtml": "<p>Given the following NOTAM information, what operational restriction can be expected for ENTRY/EXIT N4W?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EGLL LONDON HEATHROW RWY 09RL/27LR <<< MLS SERVING RUNWAY 09R IS NOW CAT 1: NOTAM EG/A0513/16 RWY 09R/27L ENTRY/EXIT N4W CLOSED DUE TO WIP: NOTAM EG/A0506/16 >>> END OF BULLETIN <<<</span></p>",
   "options": {
     "a": "Clearance is required due to Water in Patches.",
@@ -10,5 +10,10 @@
     "d": "Out of service due to Work in Progress."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70736,
+    "number": "336768"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1699,
-  "questionId": 66596,
-  "questionNumber": "101092",
+  "questionId": "010-1699",
+  "questionNumber": "010-1699",
   "stemHtml": "<p>Complete the following statement:<br><br>\u201cThe objective of the Standardised European Rules of the Air (SERA) is...\u201d</p>",
   "options": {
     "a": "To establish common requirements for the provision of air traffic management and air navigation services (\u2018ATM/ANS\u2019) and other air traffic management network functions.",
@@ -10,5 +10,10 @@
     "d": "To lay down common requirements for the competent authorities, and the qualified entities acting on their behalf, which exercise certification, oversight and enforcement tasks."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66596,
+    "number": "101092"
+  }
 }

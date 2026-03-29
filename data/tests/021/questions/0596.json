@@ -1,7 +1,7 @@
 {
   "number": 596,
-  "questionId": 68347,
-  "questionNumber": "216471",
+  "questionId": "021-0596",
+  "questionNumber": "021-0596",
   "stemHtml": "<p>A large transport aircraft is fitted with flight spoilers, speed brakes, trailing-edge flaps, and a moveable horizontal stabiliser. If this aircraft\u2019s ailerons are jammed, roll control may be achieved by using the\u2026</p>",
   "options": {
     "a": "horizontal stabiliser.",
@@ -10,5 +10,10 @@
     "d": "differential flaps."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68347,
+    "number": "216471"
+  }
 }

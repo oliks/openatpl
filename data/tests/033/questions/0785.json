@@ -1,7 +1,7 @@
 {
   "number": 785,
-  "questionId": 82795,
-  "questionNumber": "333139",
+  "questionId": "033-0785",
+  "questionNumber": "033-0785",
   "stemHtml": "The flight crew has 1 hour flight time remaining of a 4 hours flight towards the destination aerodrome. The FMS displays the message DEST EFOB BELOW MIN and the Commander looks at the FMS data to see that there is an estimated 0.3 tonnes less fuel than required when arriving at the destination. Under NORMAL circumstances for a commercial Air transport flight with one destination alternate nominated, what is the minimum fuel to be expected on board when arriving at the destination aerodrome?",
   "options": {
     "a": "Contingency fuel plus final reserve fuel.",
@@ -10,5 +10,10 @@
     "d": "Alternate fuel plus final reserve fuel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82795,
+    "number": "333139"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 552,
-  "questionId": 67970,
-  "questionNumber": "218550",
+  "questionId": "021-0552",
+  "questionNumber": "021-0552",
   "stemHtml": "<p>The purpose of the venturi in a carburettor is to\u2026</p>",
   "options": {
     "a": "ensure complete atomisation of the fuel before entering the injection system.",
@@ -10,5 +10,10 @@
     "d": "create the suction necessary to cause fuel to flow through the carburettor main jets."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67970,
+    "number": "218550"
+  }
 }

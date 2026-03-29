@@ -1,7 +1,7 @@
 {
   "number": 1060,
-  "questionId": 78313,
-  "questionNumber": "216507",
+  "questionId": "021-1060",
+  "questionNumber": "021-1060",
   "stemHtml": "What is correct regarding the Airbus fly-by-wire philosophy?",
   "options": {
     "a": "<p>The level of safety required for commercial operations is easily achieved when FBW relies on a single computer controlling all the control surfaces</p>",
@@ -10,5 +10,10 @@
     "d": "<p>In Alternate Law the system will still provide the basic control laws but angle of attack protection and other protections may be lost</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78313,
+    "number": "216507"
+  }
 }

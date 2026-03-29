@@ -1,7 +1,7 @@
 {
   "number": 850,
-  "questionId": 66955,
-  "questionNumber": "102137",
+  "questionId": "010-0850",
+  "questionNumber": "010-0850",
   "stemHtml": "In which airspace classes shall an Air Traffic Control service for all IFR flights be provided?",
   "options": {
     "a": "A, B, C, D, E, F, and G.",
@@ -10,5 +10,10 @@
     "d": "B, C, D, E, and F."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66955,
+    "number": "102137"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 371,
-  "questionId": 84790,
-  "questionNumber": "229488",
+  "questionId": "022-0371",
+  "questionNumber": "022-0371",
   "stemHtml": "<p>On an Electronic Horizontal Situation Indicator (EHSI) on a B737-400, weather radar returns will not be shown in the following modes\u2026</p>",
   "options": {
     "a": "<p>EXP VOR, MAP and PLAN.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>NAV, PLAN and MAP.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84790,
+    "number": "229488"
+  }
 }

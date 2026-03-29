@@ -1,7 +1,7 @@
 {
   "number": 1382,
-  "questionId": 109269,
-  "questionNumber": "333717",
+  "questionId": "033-1382",
+  "questionNumber": "033-1382",
   "stemHtml": "<p>Refer to figure or chart E(LO)6 from the Jeppesen GSPRM 2017. What type of airway links FARO VOR (VFA, N37\u00b001' W007\u00b058') and SEVILLE VOR (SVL, N37\u00b026' W005\u00b046')?</p>",
   "options": {
     "a": "<p>RNAV ATS</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5ba98f95-f9fa-4fe2-b837-4215639e8baf.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5ba98f95-f9fa-4fe2-b837-4215639e8baf.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109269,
+    "number": "333717"
+  }
 }

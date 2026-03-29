@@ -1,7 +1,7 @@
 {
   "number": 430,
-  "questionId": 68250,
-  "questionNumber": "217217",
+  "questionId": "021-0430",
+  "questionNumber": "021-0430",
   "stemHtml": "<p>The purpose of the regulator of a flight deck oxygen system is to:</p><p>1. decrease oxygen pressure from 1800 PSI (in the bottles) down to about 50-75 PSI (low pressure system) <br>2. supply 100% oxygen <br>3. supply diluted oxygen <br>4. supply oxygen on demand <br>5. supply oxygen at positive pressure <br>6. trigger the continuous cabin altitude warning at 10000 ft cabin altitude</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2, 3, 4, 5",
@@ -10,5 +10,10 @@
     "d": "3, 4, 5, 6"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68250,
+    "number": "217217"
+  }
 }

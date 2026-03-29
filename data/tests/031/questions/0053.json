@@ -1,7 +1,7 @@
 {
   "number": 53,
-  "questionId": 108593,
-  "questionNumber": "319180",
+  "questionId": "031-0053",
+  "questionNumber": "031-0053",
   "stemHtml": "<p>You are tasked with determining the Takeoff Mass CG with the following data provided:</p>\r\r<p>Takeoff fuel: 9400 lbs <br /> \rActual takeoff mass: 56 800 lbs <br /> \rFuel index chart: <br /> \rFor 9360 lbs: -0.3 <br /> \rFor 9600 lbs: -0.9 <br /> \rFor 9850 lbs: -1.1 <br /> \rInstruction: If the fuel mass does not match the chart values, use the next higher mass.</p>\r\r<p>Given this, what is the correct fuel index to use in determining the Takeoff Mass CG?</p>",
   "options": {
     "a": "<p>-0.3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>0</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108593,
+    "number": "319180"
+  }
 }

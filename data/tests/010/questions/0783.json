@@ -1,7 +1,7 @@
 {
   "number": 783,
-  "questionId": 102049,
-  "questionNumber": "106976",
+  "questionId": "010-0783",
+  "questionNumber": "010-0783",
   "stemHtml": "<p>To whom should an Air Traffic Incident Report be submitted?</p>",
   "options": {
     "a": "<p>To the air traffic services unit.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To the competent authority.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102049,
+    "number": "106976"
+  }
 }

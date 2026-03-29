@@ -1,7 +1,7 @@
 {
   "number": 105,
-  "questionId": 106958,
-  "questionNumber": "228694",
+  "questionId": "022-0105",
+  "questionNumber": "022-0105",
   "stemHtml": "<p>What fuel measurement units can you see when fuelling an aircraft?</p>\r\r<p>1. kg <br /> \r2. gal <br /> \r3. lb <br /> \r4. g</p>",
   "options": {
     "a": "<p>1, 2 and 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3 and 4.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106958,
+    "number": "228694"
+  }
 }

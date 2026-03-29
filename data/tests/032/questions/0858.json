@@ -1,7 +1,7 @@
 {
   "number": 858,
-  "questionId": 70261,
-  "questionNumber": "325598",
+  "questionId": "032-0858",
+  "questionNumber": "032-0858",
   "stemHtml": "The Take-Off Distance Available (TODA) is the length of the take-off run available plus the length...",
   "options": {
     "a": "of the clearway, if provided.",
@@ -10,5 +10,10 @@
     "d": "of the stopway, if provided."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70261,
+    "number": "325598"
+  }
 }

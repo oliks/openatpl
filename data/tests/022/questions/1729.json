@@ -1,7 +1,7 @@
 {
   "number": 1729,
-  "questionId": 68919,
-  "questionNumber": "226406",
+  "questionId": "022-1729",
+  "questionNumber": "022-1729",
   "stemHtml": "<p>The FMS provides the following functions:</p><p>1 \u2013 traffic advisories emission <br>2 \u2013 resolution advisories emission <br>3 \u2013 aid for fuel management <br>4 \u2013 lateral flight plan management</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 3.",
@@ -10,5 +10,10 @@
     "d": "1, 3, 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68919,
+    "number": "226406"
+  }
 }

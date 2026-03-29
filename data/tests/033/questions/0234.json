@@ -1,7 +1,7 @@
 {
   "number": 234,
-  "questionId": 81707,
-  "questionNumber": "339312",
+  "questionId": "033-0234",
+  "questionNumber": "033-0234",
   "stemHtml": "<p>Given the following information, calculate the minimum required fuel for a Commercial Air Transport flight in accordance with the Reduced Contingency Fuel Procedure.</p><p>Taxi Fuel: 230 kg\u00a0<br>Trip Fuel to the Decision Point: 8355 kg\u00a0<br>Trip Fuel from the Decision Point to the commercial destination: 2120 kg\u00a0<br>Trip Fuel from the Decision Point to the optional refuel destination: 1860 kg\u00a0<br>Final Reserve Fuel: 1200 kg\u00a0<br>No Additional Fuel is required\u00a0<br>No Extra Fuel is required\u00a0<br>There is a suitable fuel en-route alternate (ERA) for the flight to the optional refuel destination.\u00a0<br>No destination alternate requirements exist for both destination aerodromes.</p>",
   "options": {
     "a": "<p>12 429 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>11 952 kg</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81707,
+    "number": "339312"
+  }
 }

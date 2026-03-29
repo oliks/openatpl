@@ -1,7 +1,7 @@
 {
   "number": 1596,
-  "questionId": 68144,
-  "questionNumber": "213762",
+  "questionId": "021-1596",
+  "questionNumber": "021-1596",
   "stemHtml": "<p>When there is a pressure difference between the two sides of a pressure-operated ice detector, the\u2026</p>",
   "options": {
     "a": "<p>probe starts to vibrate until the differential pressure reaches zero.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>heater in the probe melts the ice in the smaller holes first.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68144,
+    "number": "213762"
+  }
 }

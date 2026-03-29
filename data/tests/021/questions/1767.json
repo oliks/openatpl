@@ -1,7 +1,7 @@
 {
   "number": 1767,
-  "questionId": 67530,
-  "questionNumber": "219589",
+  "questionId": "021-1767",
+  "questionNumber": "021-1767",
   "stemHtml": "A Rosemount Ice Detector provides an indication of ice accretion by measuring the...",
   "options": {
     "a": "differential temperature.",
@@ -10,5 +10,10 @@
     "d": "differential air pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67530,
+    "number": "219589"
+  }
 }

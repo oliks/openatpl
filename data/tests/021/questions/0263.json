@@ -1,7 +1,7 @@
 {
   "number": 263,
-  "questionId": 67505,
-  "questionNumber": "217989",
+  "questionId": "021-0263",
+  "questionNumber": "021-0263",
   "stemHtml": "Which of these statements concerning oxygen on board of passenger transport aeroplanes is correct?",
   "options": {
     "a": "Since lavatories are not fitted with an oxygen system, they should be evacuated quickly in case of decompression.",
@@ -10,5 +10,10 @@
     "d": "Portable oxygen bottles in the cabin are primarily intended for first aid purposes."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67505,
+    "number": "217989"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 27,
-  "questionId": 68121,
-  "questionNumber": "214890",
+  "questionId": "021-0027",
+  "questionNumber": "021-0027",
   "stemHtml": "Refer to figure. <br /> In the diagram, the component 3 is a:",
   "options": {
     "a": "battery.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/1ECD879C-EC63-423F-8949-541F3F81599A.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/1ECD879C-EC63-423F-8949-541F3F81599A.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68121,
+    "number": "214890"
+  }
 }

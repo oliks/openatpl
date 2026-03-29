@@ -1,7 +1,7 @@
 {
   "number": 1135,
-  "questionId": 67296,
-  "questionNumber": "215937",
+  "questionId": "021-1135",
+  "questionNumber": "021-1135",
   "stemHtml": "<p>\"Vapour lock\" is the phenomenon by which\u2026</p>",
   "options": {
     "a": "burned gas bubbles are formed and remain in the exhaust manifold following an overheat, thereby disturbing the exhaust.",
@@ -10,5 +10,10 @@
     "d": "abrupt and abnormal enrichment of the mixture following an inappropriate use of carburettor heat."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67296,
+    "number": "215937"
+  }
 }

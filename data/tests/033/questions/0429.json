@@ -1,7 +1,7 @@
 {
   "number": 429,
-  "questionId": 108925,
-  "questionNumber": "333242",
+  "questionId": "033-0429",
+  "questionNumber": "033-0429",
   "stemHtml": "<p>Refer to figure or VFR chart Friedrichshafen (EDNY) 19-2 from the Jeppesen GSPRM 2017. <br>When approaching Friedrichshafen via NOVEMBER, when must you make contact with the tower?</p>",
   "options": {
     "a": "<p>5 minutes before reaching NOVEMBER</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/7e530c89-88ae-4ecd-8f05-5264c3a66780.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7e530c89-88ae-4ecd-8f05-5264c3a66780.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108925,
+    "number": "333242"
+  }
 }

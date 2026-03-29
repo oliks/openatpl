@@ -1,7 +1,7 @@
 {
   "number": 415,
-  "questionId": 70761,
-  "questionNumber": "335110",
+  "questionId": "033-0415",
+  "questionNumber": "033-0415",
   "stemHtml": "<p>The fuel plan gives a total trip fuel of 65 US gallons. At the half way point, fuel consumption is 40 US gallons. Given the following information, and assuming that fuel consumption does not change, which statement is correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Alternate fuel, including final reserve fuel: 17 US gallons</span>  <br />  \nContingency fuel: 5% of trip fuel  <br />  \nUsable fuel at departure: 93 US gallons</p>\n\n<div> </div>",
   "options": {
     "a": "The remaining fuel is not sufficient to reach the destination with reserves intact.",
@@ -10,5 +10,10 @@
     "d": "At the destination there will still be 30 US gallons in the tanks."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70761,
+    "number": "335110"
+  }
 }

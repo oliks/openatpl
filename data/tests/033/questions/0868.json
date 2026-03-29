@@ -1,7 +1,7 @@
 {
   "number": 868,
-  "questionId": 83644,
-  "questionNumber": "334232",
+  "questionId": "033-0868",
+  "questionNumber": "033-0868",
   "stemHtml": "<p>Refer to figure or Amsterdam chart 10-3C from the Jeppesen GSPRM 2017.\u00a0<br>Which of the following statements correctly describes the RNAV SID ANDIK 2F?</p>",
   "options": {
     "a": "Turn to track 040\u00b0 after waypoint EH\u00d82\u00d8.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D097DC07-461D-4EB3-84AB-6692DEA516E4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D097DC07-461D-4EB3-84AB-6692DEA516E4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83644,
+    "number": "334232"
+  }
 }

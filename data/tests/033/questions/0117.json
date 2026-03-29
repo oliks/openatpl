@@ -1,7 +1,7 @@
 {
   "number": 117,
-  "questionId": 70887,
-  "questionNumber": "333678",
+  "questionId": "033-0117",
+  "questionNumber": "033-0117",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017.Refer to M\u00fcnchen / Munich airport (EDDM, N048\u00b0 21.23' E11\u00b0 47.17'). <br>What is the lowest altitude of class C airspace?</p>",
   "options": {
     "a": "3500 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/A0ED8CB8-9B0C-4676-B307-E03A97708C4E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/A0ED8CB8-9B0C-4676-B307-E03A97708C4E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70887,
+    "number": "333678"
+  }
 }

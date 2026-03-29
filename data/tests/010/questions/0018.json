@@ -1,7 +1,7 @@
 {
   "number": 18,
-  "questionId": 117477,
-  "questionNumber": "104790",
+  "questionId": "010-0018",
+  "questionNumber": "010-0018",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following combinations is correctly describing the colous used in the aerodrome sign in the figure?</p>",
   "options": {
     "a": "<p>A4 would be white writing and 27R CATI/II/III would be yellow writing</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/111be2c4-93c4-434d-ad83-b728d09f3eea.jpeg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/111be2c4-93c4-434d-ad83-b728d09f3eea.jpeg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117477,
+    "number": "104790"
+  }
 }

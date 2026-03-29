@@ -1,7 +1,7 @@
 {
   "number": 697,
-  "questionId": 105640,
-  "questionNumber": "338239",
+  "questionId": "033-0697",
+  "questionNumber": "033-0697",
   "stemHtml": "<p>Refer to figures or ALICANTE charts 11-1, 11-2, 13-1, 13-2 from the Jeppesen GSPRM 2017.\u00a0<br>You have followed Alicante arrival RESTU 1Q which leads to the initial approach fix ALTET. Which approaches can you use from there?</p>",
   "options": {
     "a": "<p>ILS Z and VOR Y.</p>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/03a05d03-462b-4875-82d0-b854161047ca.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/03a05d03-462b-4875-82d0-b854161047ca.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105640,
+    "number": "338239"
+  }
 }

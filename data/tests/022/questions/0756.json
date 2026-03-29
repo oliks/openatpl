@@ -1,7 +1,7 @@
 {
   "number": 756,
-  "questionId": 108437,
-  "questionNumber": "229200",
+  "questionId": "022-0756",
+  "questionNumber": "022-0756",
   "stemHtml": "<p>While flying in the North Atlantic area at 60\u00b0 latitude. When do you need to realign ADIRU?</p>",
   "options": {
     "a": "<p>Every 20 min</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Not necessary, since ADIRU doesn't need to be realigned</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108437,
+    "number": "229200"
+  }
 }

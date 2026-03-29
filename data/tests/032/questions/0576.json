@@ -1,7 +1,7 @@
 {
   "number": 576,
-  "questionId": 70196,
-  "questionNumber": "329199",
+  "questionId": "032-0576",
+  "questionNumber": "032-0576",
   "stemHtml": "<p>When descending at a constant TAS with power idle, what effect does the extension of trailing edge flaps have on the Rate Of Descent and the Descent Gradient compared with a clean configuration? The Rate Of Descent...</p>",
   "options": {
     "a": "increases, and the Descent Angle decreases.",
@@ -10,5 +10,10 @@
     "d": "decreases, and the Descent Angle increases."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70196,
+    "number": "329199"
+  }
 }

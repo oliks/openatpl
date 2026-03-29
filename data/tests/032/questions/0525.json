@@ -1,7 +1,7 @@
 {
   "number": 525,
-  "questionId": 69844,
-  "questionNumber": "322966",
+  "questionId": "032-0525",
+  "questionNumber": "032-0525",
   "stemHtml": "What does the abbreviation &quot;OEI&quot; mean?",
   "options": {
     "a": "Out of engine limits",
@@ -10,5 +10,10 @@
     "d": "Override electrical inverter"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69844,
+    "number": "322966"
+  }
 }

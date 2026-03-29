@@ -1,7 +1,7 @@
 {
   "number": 247,
-  "questionId": 80372,
-  "questionNumber": "329350",
+  "questionId": "032-0247",
+  "questionNumber": "032-0247",
   "stemHtml": "<p>What happens to CLTOM and the climb angle if V<strong><sub>2</sub></strong> is increased?</p>",
   "options": {
     "a": "CLTOM increases and climb angle decreases.",
@@ -10,5 +10,10 @@
     "d": "Both decrease."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80372,
+    "number": "329350"
+  }
 }

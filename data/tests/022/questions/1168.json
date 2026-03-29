@@ -1,7 +1,7 @@
 {
   "number": 1168,
-  "questionId": 82225,
-  "questionNumber": "226244",
+  "questionId": "022-1168",
+  "questionNumber": "022-1168",
   "stemHtml": "Refer to figure. <br /> Which instrument is represented in the picture?",
   "options": {
     "a": "IRS",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/06E22080-79D0-4AC5-B487-421A8969993F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/06E22080-79D0-4AC5-B487-421A8969993F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82225,
+    "number": "226244"
+  }
 }

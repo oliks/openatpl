@@ -1,7 +1,7 @@
 {
   "number": 1557,
-  "questionId": 96395,
-  "questionNumber": "101360",
+  "questionId": "010-1557",
+  "questionNumber": "010-1557",
   "stemHtml": "While flying a holding pattern, the turns shall be made at a bank angle of (1) _____ or at a rate of turn of (2) _____, whichever requires (3) ______ bank.",
   "options": {
     "a": "(1) 25\u00b0, (2) 3 degrees per second, (3) lesser",
@@ -10,5 +10,10 @@
     "d": "<p>(1) 20\u00b0, (2) 5 degrees per second, (3) greater</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96395,
+    "number": "101360"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 462,
-  "questionId": 80284,
-  "questionNumber": "315639",
+  "questionId": "031-0462",
+  "questionNumber": "031-0462",
   "stemHtml": "An aircraft has a total mass of 3 927 kg with a CG of 4.28 m aft of the datum line. <br /> Determine the amount of additional load to be loaded at station 5.8 m aft of the datum line, to establish a new CG of 4.37 m aft of the datum line:",
   "options": {
     "a": "81 kg.",
@@ -10,5 +10,10 @@
     "d": "247 kg."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80284,
+    "number": "315639"
+  }
 }

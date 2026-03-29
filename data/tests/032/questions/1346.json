@@ -1,7 +1,7 @@
 {
   "number": 1346,
-  "questionId": 159891,
-  "questionNumber": "324219",
+  "questionId": "032-1346",
+  "questionNumber": "032-1346",
   "stemHtml": "<p>Compared with a balanced field with no stopway or clearway, how will the use of a clearway in the take-off calculations affect the field length limited take-off mass (FLLTOM)?</p>",
   "options": {
     "a": "<p>The FLLTOM increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The FLLTOM decreases, then increases.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159891,
+    "number": "324219"
+  }
 }

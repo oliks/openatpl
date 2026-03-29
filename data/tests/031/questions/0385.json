@@ -1,7 +1,7 @@
 {
   "number": 385,
-  "questionId": 84171,
-  "questionNumber": "316449",
+  "questionId": "031-0385",
+  "questionNumber": "031-0385",
   "stemHtml": "<p>During the pre-flight mass and balance calculations, a fuel amount of 1850 kg has been decided to be carried for tankering purposes. While the refuelling procedure was about to start, the load controller informs the Commander about a Last Minute Change (LMC) of +285 kg. Given the following information, calculate the maximum Block Fuel that can be carried.</p><p>Dry Operating Mass: 4135 kg <br>Traffic Load before LMC: 1200 kg <br>Maximum Zero Fuel Mass: 6805 kg <br>Allowed Take-off Mass: 7205 kg <br>Minimum Required Block Fuel: 1430 kg <br>Taxi Fuel: 33 kg <br>(Assume no restrictions on the Landing Mass)</p>",
   "options": {
     "a": "<p>1532 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1585 kg</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84171,
+    "number": "316449"
+  }
 }

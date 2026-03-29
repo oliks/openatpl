@@ -1,7 +1,7 @@
 {
   "number": 1206,
-  "questionId": 81972,
-  "questionNumber": "327508",
+  "questionId": "032-1206",
+  "questionNumber": "032-1206",
   "stemHtml": "<p>What is the maximum bank angle in segments 1 and 2 for a standard take-off procedure and what, if any, is the effect on stall speed and V<strong><sub>2</sub></strong>? The maximum bank angle is\u2026</p>",
   "options": {
     "a": "0\u00b0 and NO changes to the stall speed or V<sub>2</sub>.",
@@ -10,5 +10,10 @@
     "d": "25\u00b0 and leading to a 10.4% increase in stall speed and a 10.4% increase in V<sub>2</sub>."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81972,
+    "number": "327508"
+  }
 }

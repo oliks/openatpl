@@ -1,7 +1,7 @@
 {
   "number": 263,
-  "questionId": 110078,
-  "questionNumber": "336448",
+  "questionId": "033-0263",
+  "questionNumber": "033-0263",
   "stemHtml": "<p>An aircraft on a track of 046\u00b0(M) has to fly over an obstacle of 4600 ft with a clearance of 1000 ft. The QNH is 990 hPa and the temperature is ISA +15\u00b0C. What is the minimum safe flight level at which the aircraft may fly? Assume 30 ft per hPa.</p>",
   "options": {
     "a": "<p>FL80</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL60</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110078,
+    "number": "336448"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 619,
-  "questionId": 66734,
-  "questionNumber": "102970",
+  "questionId": "010-0619",
+  "questionNumber": "010-0619",
   "stemHtml": "A holder of a Commercial Pilot Licence (CPL) is required to hold a medical certificate..",
   "options": {
     "a": "Class 2.",
@@ -10,5 +10,10 @@
     "d": "Class 1."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66734,
+    "number": "102970"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1559,
-  "questionId": 69043,
-  "questionNumber": "229517",
+  "questionId": "022-1559",
+  "questionNumber": "022-1559",
   "stemHtml": "<p>Among the following functions of an autopilot, those related to the aeroplane stabilisation are:</p><p>1 \u2013 Pitch angle hold <br>2 \u2013 IAS or Mach number hold <br>3 \u2013 Wings level hold <br>4 \u2013 VOR radial hold</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 3.",
@@ -10,5 +10,10 @@
     "d": "2, 4."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69043,
+    "number": "229517"
+  }
 }

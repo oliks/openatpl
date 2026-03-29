@@ -1,7 +1,7 @@
 {
   "number": 86,
-  "questionId": 66705,
-  "questionNumber": "101371",
+  "questionId": "010-0086",
+  "questionNumber": "010-0086",
   "stemHtml": "At what age shall the holder of a pilot licence NOT act as a pilot of an aeroplane or helicopter engaged in commercial air transport?",
   "options": {
     "a": "60 years",
@@ -10,5 +10,10 @@
     "d": "62 years"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66705,
+    "number": "101371"
+  }
 }

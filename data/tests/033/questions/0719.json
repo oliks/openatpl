@@ -1,7 +1,7 @@
 {
   "number": 719,
-  "questionId": 70505,
-  "questionNumber": "331176",
+  "questionId": "033-0719",
+  "questionNumber": "033-0719",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.7.3.\u00a0<br>Given:</p><p>Distance to alternate: 950 NM\u00a0<br>Head wind component: 20 kt\u00a0<br>Mass at point of diversion: 50 000 kg\u00a0<br>Diversion fuel available: 5800 kg</p><p>The minimum pressure altitude at which the above conditions may be met is\u2026</p>",
   "options": {
     "a": "<p>26 000 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/EB82BBDD-6507-4ED4-976C-748E666C16DA.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/EB82BBDD-6507-4ED4-976C-748E666C16DA.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70505,
+    "number": "331176"
+  }
 }

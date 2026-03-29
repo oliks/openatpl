@@ -1,7 +1,7 @@
 {
   "number": 210,
-  "questionId": 125416,
-  "questionNumber": "313062",
+  "questionId": "031-0210",
+  "questionNumber": "031-0210",
   "stemHtml": "<p>The Maximum Structural Take-Off Mass means the maximum permissible\u2026</p>",
   "options": {
     "a": "<p>total aeroplane mass at the start of the take-off run.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>total aeroplane mass at V1.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 125416,
+    "number": "313062"
+  }
 }

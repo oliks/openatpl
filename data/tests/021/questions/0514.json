@@ -1,7 +1,7 @@
 {
   "number": 514,
-  "questionId": 67831,
-  "questionNumber": "218196",
+  "questionId": "021-0514",
+  "questionNumber": "021-0514",
   "stemHtml": "Fuel low level warnings usually provide the pilot with information regarding..",
   "options": {
     "a": "fuel pressure at the outlet of the high-pressure pump.",
@@ -10,5 +10,10 @@
     "d": "the level of fuel in all tanks."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67831,
+    "number": "218196"
+  }
 }

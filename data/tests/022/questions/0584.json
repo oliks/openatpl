@@ -1,7 +1,7 @@
 {
   "number": 584,
-  "questionId": 68796,
-  "questionNumber": "226396",
+  "questionId": "022-0584",
+  "questionNumber": "022-0584",
   "stemHtml": "<p>Changes in temperature of the fuel affect its density, volume and dielectric value Er. A decrease in temperature causes\u2026</p>",
   "options": {
     "a": "a decreases in volume, decreases in density and decreases in Er.",
@@ -10,5 +10,10 @@
     "d": "an increases in volume, decreases in density and decreases in Er."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68796,
+    "number": "226396"
+  }
 }

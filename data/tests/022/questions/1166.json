@@ -1,7 +1,7 @@
 {
   "number": 1166,
-  "questionId": 84744,
-  "questionNumber": "229330",
+  "questionId": "022-1166",
+  "questionNumber": "022-1166",
   "stemHtml": "<p>The autopilot consists of a number of control channels and their basic function is to provide automatic control of the aeroplane\u2026</p>",
   "options": {
     "a": "During phases of flight with high workload, to improve the mental capacity of the pilot(s).",
@@ -10,5 +10,10 @@
     "d": "During all phases of flight at all times."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84744,
+    "number": "229330"
+  }
 }

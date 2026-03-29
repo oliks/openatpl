@@ -1,7 +1,7 @@
 {
   "number": 1234,
-  "questionId": 108469,
-  "questionNumber": "213468",
+  "questionId": "021-1234",
+  "questionNumber": "021-1234",
   "stemHtml": "<p>What are the disadvantages of a Bladder tank compared to a Rigid tank?</p><p>1. More easily punctured <br>2. Heavier <br>3. Wrinkles can form where water might get stuck at the bottom <br>4. Requires a large opening in the wing to be fitted</p>",
   "options": {
     "a": "<p>1 and 2.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 and 3.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108469,
+    "number": "213468"
+  }
 }

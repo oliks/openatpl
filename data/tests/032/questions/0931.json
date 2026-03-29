@@ -1,7 +1,7 @@
 {
   "number": 931,
-  "questionId": 70309,
-  "questionNumber": "328663",
+  "questionId": "032-0931",
+  "questionNumber": "032-0931",
   "stemHtml": "Describe the cost index...",
   "options": {
     "a": "Cost of fuel divided by distance travelled.",
@@ -10,5 +10,10 @@
     "d": "Distance travelled divided by cost of fuel."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70309,
+    "number": "328663"
+  }
 }

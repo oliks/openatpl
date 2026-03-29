@@ -1,7 +1,7 @@
 {
   "number": 1206,
-  "questionId": 96105,
-  "questionNumber": "108324",
+  "questionId": "010-1206",
+  "questionNumber": "010-1206",
   "stemHtml": "EASA is responsible for proposing hard law, such...",
   "options": {
     "a": "Guidance Material, and publishing soft law, such as Acceptable Means of Compliance.",
@@ -10,5 +10,10 @@
     "d": "Acceptable Means of Compliance and Guidance Material, and publishing soft law, such as Regulations, Implementing Acts, and Delegated Acts."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96105,
+    "number": "108324"
+  }
 }

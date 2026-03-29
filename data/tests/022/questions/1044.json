@@ -1,7 +1,7 @@
 {
   "number": 1044,
-  "questionId": 68759,
-  "questionNumber": "228339",
+  "questionId": "022-1044",
+  "questionNumber": "022-1044",
   "stemHtml": "<p>The computer of the autopilot system can use, among others, the following parameters\u2026</p>",
   "options": {
     "a": "<p>Altitude, vertical speed, heading, attitude, GPS position.</p>",
@@ -10,5 +10,10 @@
     "d": "CAS, altitude, temperature, inertial position, attitude."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68759,
+    "number": "228339"
+  }
 }

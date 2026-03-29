@@ -1,7 +1,7 @@
 {
   "number": 1824,
-  "questionId": 67339,
-  "questionNumber": "212993",
+  "questionId": "021-1824",
+  "questionNumber": "021-1824",
   "stemHtml": "<p>EPR can be defined as the ratio of\u2026</p>",
   "options": {
     "a": "the total turbine outlet pressure to the total compressor outlet pressure.",
@@ -10,5 +10,10 @@
     "d": "the total turbine inlet pressure to the total compressor outlet pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67339,
+    "number": "212993"
+  }
 }

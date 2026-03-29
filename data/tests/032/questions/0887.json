@@ -1,7 +1,7 @@
 {
   "number": 887,
-  "questionId": 101959,
-  "questionNumber": "327712",
+  "questionId": "032-0887",
+  "questionNumber": "032-0887",
   "stemHtml": "<p>Refer to figure or to CAP 698 Figure 4.6. <br>The pilots of the Medium-Range Jet Transport (MRJT) are planning to depart from Madrid airport. Using the information below, what is the tyre-speed-limited mass for take-off?</p><p>Aerodrome pressure altitude: 1998 ft <br>OAT: +29<strong>\u00b0</strong>C <br>Wind: 6 kt headwind <br>210 mph tyres <br>Flaps: 5<strong>\u00b0</strong> <br>PMC: ON</p>",
   "options": {
     "a": "<p>74 200 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/6f82ed09-3ed0-41e2-bfae-6b7445dd9182.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6f82ed09-3ed0-41e2-bfae-6b7445dd9182.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101959,
+    "number": "327712"
+  }
 }

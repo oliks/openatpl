@@ -1,7 +1,7 @@
 {
   "number": 398,
-  "questionId": 67137,
-  "questionNumber": "105817",
+  "questionId": "010-0398",
+  "questionNumber": "010-0398",
   "stemHtml": "Which of the following has the right-of-way against a vehicle that is operating on an apron?",
   "options": {
     "a": "A follow-me vehicle.",
@@ -10,5 +10,10 @@
     "d": "An aircraft being towed."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67137,
+    "number": "105817"
+  }
 }

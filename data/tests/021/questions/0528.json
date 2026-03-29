@@ -1,7 +1,7 @@
 {
   "number": 528,
-  "questionId": 81854,
-  "questionNumber": "215986",
+  "questionId": "021-0528",
+  "questionNumber": "021-0528",
   "stemHtml": "Which of these can be controlled by the FADEC system on a piston engine?",
   "options": {
     "a": "Changing the mixture when the temperature at the fuel metering valve becomes too high.",
@@ -10,5 +10,10 @@
     "d": "Automatically start the engine."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81854,
+    "number": "215986"
+  }
 }

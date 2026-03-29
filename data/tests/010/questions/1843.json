@@ -1,7 +1,7 @@
 {
   "number": 1843,
-  "questionId": 106255,
-  "questionNumber": "105392",
+  "questionId": "010-1843",
+  "questionNumber": "010-1843",
   "stemHtml": "<p>An aircraft is registered in Morocco and operated in Tunisia. During a flight from Egypt to Germany, should the aircraft follow European regulations?</p>",
   "options": {
     "a": "<p>No, it should follow the state of registry regulations.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes, always.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106255,
+    "number": "105392"
+  }
 }

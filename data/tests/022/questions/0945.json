@@ -1,7 +1,7 @@
 {
   "number": 945,
-  "questionId": 69288,
-  "questionNumber": "224427",
+  "questionId": "022-0945",
+  "questionNumber": "022-0945",
   "stemHtml": "<p>Which of the following is used in a flight envelope protection system?</p>",
   "options": {
     "a": "<p>Dynamic trim</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Stick shaker</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69288,
+    "number": "224427"
+  }
 }

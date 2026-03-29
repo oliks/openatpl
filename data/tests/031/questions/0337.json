@@ -1,7 +1,7 @@
 {
   "number": 337,
-  "questionId": 69346,
-  "questionNumber": "316506",
+  "questionId": "031-0337",
+  "questionNumber": "031-0337",
   "stemHtml": "Refer to figure.  <br />  The Dry Operating Index (DOI) calculation and basic index correction information from an aeroplane load and trim sheet are shown in the annex.<p> </p><div>Calculate the DOI for an aeroplane mass of 112 600 kg and 30.7% MAC, corrected for one additional cabin crew member, with a mass of 75 kg, in zone G.</div>",
   "options": {
     "a": "118.1",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/5AA4E76E-C13F-4A63-B8AB-7A8037B7C42A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/5AA4E76E-C13F-4A63-B8AB-7A8037B7C42A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69346,
+    "number": "316506"
+  }
 }

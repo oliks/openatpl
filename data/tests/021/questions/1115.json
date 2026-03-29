@@ -1,7 +1,7 @@
 {
   "number": 1115,
-  "questionId": 67480,
-  "questionNumber": "216576",
+  "questionId": "021-1115",
+  "questionNumber": "021-1115",
   "stemHtml": "<p>Which of these statements about an auto-brake system are correct or incorrect?</p><p>1. During landing and rejected take-off auto-brakes stop operating below a certain low speed<br>2. During landing auto-brakes stop operating and disarm when reverse thrust is selected</p>",
   "options": {
     "a": "1 is correct, 2 is correct.",
@@ -10,5 +10,10 @@
     "d": "1 is correct, 2 is incorrect."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67480,
+    "number": "216576"
+  }
 }

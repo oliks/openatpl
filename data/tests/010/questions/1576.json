@@ -1,7 +1,7 @@
 {
   "number": 1576,
-  "questionId": 101021,
-  "questionNumber": "101337",
+  "questionId": "010-1576",
+  "questionNumber": "010-1576",
   "stemHtml": "The type of contamination that with a heel-and-toe slap-down motion against the ground will be displaced with a splatter is...",
   "options": {
     "a": "ice.",
@@ -10,5 +10,10 @@
     "d": "dry snow."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101021,
+    "number": "101337"
+  }
 }

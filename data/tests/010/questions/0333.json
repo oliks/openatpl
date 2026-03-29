@@ -1,7 +1,7 @@
 {
   "number": 333,
-  "questionId": 83862,
-  "questionNumber": "109471",
+  "questionId": "010-0333",
+  "questionNumber": "010-0333",
   "stemHtml": "<p>A civil aircraft has been intercepted. According to SERA, the correct actions to be carried out by the Pilot-in-Command of the civil aircraft are\u2026</p>",
   "options": {
     "a": "Squawk 7500, lower the landing gear (if lifted), and show stedy landing lights.",
@@ -10,5 +10,10 @@
     "d": "Contact ATC and squawk 7600."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83862,
+    "number": "109471"
+  }
 }

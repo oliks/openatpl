@@ -1,7 +1,7 @@
 {
   "number": 157,
-  "questionId": 154372,
-  "questionNumber": "317825",
+  "questionId": "031-0157",
+  "questionNumber": "031-0157",
   "stemHtml": "<p>Refer to figure.  <br /> Which masses are used for male and female adult passengers in an aircraft with 20 or more passenger seats when standard masses are applied to a NON holiday charter flight?</p>",
   "options": {
     "a": "<p>Male 88 kg; Female 70 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/67bfa48d-f64d-4feb-8b77-4293d667778e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/67bfa48d-f64d-4feb-8b77-4293d667778e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 154372,
+    "number": "317825"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 45,
-  "questionId": 107943,
-  "questionNumber": "105986",
+  "questionId": "010-0045",
+  "questionNumber": "010-0045",
   "stemHtml": "<p>After landing on a grass runway you landed left off the centerline. There are boundary markers, why are these limited in height?</p>",
   "options": {
     "a": "<p>preserve clearance for propellers and engine pods.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>preserve clearance for aircraft and vehicles.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107943,
+    "number": "105986"
+  }
 }

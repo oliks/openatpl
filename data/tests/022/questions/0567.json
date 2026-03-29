@@ -1,7 +1,7 @@
 {
   "number": 567,
-  "questionId": 82650,
-  "questionNumber": "228883",
+  "questionId": "022-0567",
+  "questionNumber": "022-0567",
   "stemHtml": "<p>You are the pilot of an aircraft, manually flying using the Flight Directors (FD). When both the FD bars cross in the centre of the aircraft symbol, it means that...</p>",
   "options": {
     "a": "<p>both the pitch and yaw attitudes of your aircraft are equal to zero.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>your aircraft maintains the optimum altitude and heading.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82650,
+    "number": "228883"
+  }
 }

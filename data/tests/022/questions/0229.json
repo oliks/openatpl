@@ -1,7 +1,7 @@
 {
   "number": 229,
-  "questionId": 68571,
-  "questionNumber": "226787",
+  "questionId": "022-0229",
+  "questionNumber": "022-0229",
   "stemHtml": "<p>A TCAS II resolution advisory is displayed as\u2026</p>",
   "options": {
     "a": "<p>a red full square.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>an amber solid circle.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68571,
+    "number": "226787"
+  }
 }

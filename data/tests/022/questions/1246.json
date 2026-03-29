@@ -1,7 +1,7 @@
 {
   "number": 1246,
-  "questionId": 84485,
-  "questionNumber": "222501",
+  "questionId": "022-1246",
+  "questionNumber": "022-1246",
   "stemHtml": "<p>A pilot is flying a GNSS non-precision approach using the autopilot. The pilot intends to disconnect the autopilot on final approach after having obtained sufficient visual references to complete a manual landing. When disconnecting the autopilot using the instinctive or quick disengagement control, the pilot should expect\u2026</p>",
   "options": {
     "a": "<p>A continuous aural and visual master warning sounding until the pilot presses the autopilot ON/OFF switch to confirm the disconnection was intended.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A unique autopilot disconnect aural warning and a visual warning for a limited period of time confirming that the autopilot is disconnected.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84485,
+    "number": "222501"
+  }
 }

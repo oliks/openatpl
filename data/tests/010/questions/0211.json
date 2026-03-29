@@ -1,7 +1,7 @@
 {
   "number": 211,
-  "questionId": 164330,
-  "questionNumber": "107910",
+  "questionId": "010-0211",
+  "questionNumber": "010-0211",
   "stemHtml": "<p>Refer to figure.<br />An aircraft taxiing is approaching a single dashed yellow line across the taxiway. What is the meaning of this marking?</p>",
   "options": {
     "a": "<p>Taxiway intersection</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/0c018015-b33c-414c-ae35-bc08ccecccbf.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/0c018015-b33c-414c-ae35-bc08ccecccbf.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164330,
+    "number": "107910"
+  }
 }

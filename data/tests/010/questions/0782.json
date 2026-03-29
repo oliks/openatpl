@@ -1,7 +1,7 @@
 {
   "number": 782,
-  "questionId": 102365,
-  "questionNumber": "102494",
+  "questionId": "010-0782",
+  "questionNumber": "010-0782",
   "stemHtml": "<p>In the event of a communication failure during an IFR flight in IMC within radar-controlled airspace, the pilot is required to maintain the last assigned speed and level for...</p>",
   "options": {
     "a": "<p>7 minutes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>20 minutes.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102365,
+    "number": "102494"
+  }
 }

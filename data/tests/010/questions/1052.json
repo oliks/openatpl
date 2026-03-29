@@ -1,7 +1,7 @@
 {
   "number": 1052,
-  "questionId": 84669,
-  "questionNumber": "108163",
+  "questionId": "010-1052",
+  "questionNumber": "010-1052",
   "stemHtml": "An aircraft is being radar vectored. What instructions will the controller give to the pilot when vectoring is terminated and ATC wants the pilot to fly to LESDA?",
   "options": {
     "a": "<p>Resume own navigation. Fly direct to \"LESDA\", magnetic track 150, distance to \"LESDA\" 41 nautical miles.</p>",
@@ -10,5 +10,10 @@
     "d": "Resume previous navigation, position 15 NM South of VOR XY."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84669,
+    "number": "108163"
+  }
 }

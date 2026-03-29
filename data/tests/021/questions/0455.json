@@ -1,7 +1,7 @@
 {
   "number": 455,
-  "questionId": 80112,
-  "questionNumber": "218362",
+  "questionId": "021-0455",
+  "questionNumber": "021-0455",
   "stemHtml": "<p>How can a pilot determine the amount of oxygen in a bottle? By observing its\u2026</p>",
   "options": {
     "a": "Temperature.",
@@ -10,5 +10,10 @@
     "d": "Mass."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80112,
+    "number": "218362"
+  }
 }

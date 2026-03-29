@@ -1,7 +1,7 @@
 {
   "number": 60,
-  "questionId": 68385,
-  "questionNumber": "216754",
+  "questionId": "021-0060",
+  "questionNumber": "021-0060",
   "stemHtml": "Which statement is correct regarding nose wheel steering using the tiller or rudder pedals?",
   "options": {
     "a": "Nose-wheel steering also works when using the rudder pedals in flight.",
@@ -10,5 +10,10 @@
     "d": "Pedals and nosewheel are usually disconnected during taxi."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68385,
+    "number": "216754"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 123,
-  "questionId": 100069,
-  "questionNumber": "313891",
+  "questionId": "031-0123",
+  "questionNumber": "031-0123",
   "stemHtml": "<p>Refer to figure or CAP696. <br>An Airbus commercial holiday charter flight is scheduled to fly within Europe operated by 3 flight crew and 4 cabin crew. For this flight, the passengers on board are 142 adults, 15 children and 5 infants who will take the same seat as their parents. The Operator uses standard masses for passengers (all adults) and checked baggage. There is 1050 kg of freight. What is the traffic load?</p>",
   "options": {
     "a": "<p>11 317 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/d6458aa2-119c-4370-98ae-ad4172ea9068.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/d6458aa2-119c-4370-98ae-ad4172ea9068.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100069,
+    "number": "313891"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1805,
-  "questionId": 83599,
-  "questionNumber": "214835",
+  "questionId": "021-1805",
+  "questionNumber": "021-1805",
   "stemHtml": "<p>Which of the following statements is correct regarding aircraft engine turbochargers?</p>",
   "options": {
     "a": "<p>The compressor compresses the mixture only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The waste-gate actuator diverts exhaust gases to the compressor.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83599,
+    "number": "214835"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1094,
-  "questionId": 101073,
-  "questionNumber": "103435",
+  "questionId": "010-1094",
+  "questionNumber": "010-1094",
   "stemHtml": "Registration marks may consist of...",
   "options": {
     "a": "Symbols.",
@@ -10,5 +10,10 @@
     "d": "Just letters."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101073,
+    "number": "103435"
+  }
 }

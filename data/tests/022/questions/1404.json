@@ -1,7 +1,7 @@
 {
   "number": 1404,
-  "questionId": 68622,
-  "questionNumber": "221773",
+  "questionId": "022-1404",
+  "questionNumber": "022-1404",
   "stemHtml": "<p>Concerning the FMS, entering a cost index of zero\u2026</p>",
   "options": {
     "a": "results in minimum trip fuel.",
@@ -10,5 +10,10 @@
     "d": "does not influence the FMS cruising speed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68622,
+    "number": "221773"
+  }
 }

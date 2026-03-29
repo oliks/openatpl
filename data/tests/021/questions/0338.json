@@ -1,7 +1,7 @@
 {
   "number": 338,
-  "questionId": 67398,
-  "questionNumber": "215192",
+  "questionId": "021-0338",
+  "questionNumber": "021-0338",
   "stemHtml": "<p>The turbine in a gas turbine engine generates shaft power using\u2026</p>",
   "options": {
     "a": "expansion of hot gas followed by conversion of potential energy (pressure) into (mechanical) work.",
@@ -10,5 +10,10 @@
     "d": "compression of hot gas followed by conversion of potential energy (pressure) into kinetic energy (velocity)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67398,
+    "number": "215192"
+  }
 }

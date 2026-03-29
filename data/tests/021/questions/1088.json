@@ -1,7 +1,7 @@
 {
   "number": 1088,
-  "questionId": 108937,
-  "questionNumber": "214389",
+  "questionId": "021-1088",
+  "questionNumber": "021-1088",
   "stemHtml": "<p>Due to failure of the automatic pressurisation system, cabin pressure altitude decreases in level flight at FL370. What action should be taken?</p>",
   "options": {
     "a": "<p>No action is required.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Climb to increase the engine bleed air output.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108937,
+    "number": "214389"
+  }
 }

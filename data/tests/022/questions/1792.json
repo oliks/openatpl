@@ -1,7 +1,7 @@
 {
   "number": 1792,
-  "questionId": 68528,
-  "questionNumber": "225112",
+  "questionId": "022-1792",
+  "questionNumber": "022-1792",
   "stemHtml": "<p>The altitude alerting system\u2026</p>",
   "options": {
     "a": "<p>generates a signal once the aircraft is steady at the pre-selected altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>alerts the flight crew upon approaching a pre-selected altitude.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68528,
+    "number": "225112"
+  }
 }

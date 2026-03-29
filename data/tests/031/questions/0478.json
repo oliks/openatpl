@@ -1,7 +1,7 @@
 {
   "number": 478,
-  "questionId": 84144,
-  "questionNumber": "317001",
+  "questionId": "031-0478",
+  "questionNumber": "031-0478",
   "stemHtml": "To calculate the Centre of Gravity of a large aircraft, the practical use of the Index Method is to...",
   "options": {
     "a": "reduce the size of the moment values and to simplify calculations.",
@@ -10,5 +10,10 @@
     "d": "visually indicate the CG on a CG limit chart WITHOUT using calculations."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84144,
+    "number": "317001"
+  }
 }

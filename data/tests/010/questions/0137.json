@@ -1,7 +1,7 @@
 {
   "number": 137,
-  "questionId": 108243,
-  "questionNumber": "106141",
+  "questionId": "010-0137",
+  "questionNumber": "010-0137",
   "stemHtml": "<p>According to Annex 6, RNP (Required Navigation Performance) is a navigation specification based on\u2026</p>",
   "options": {
     "a": "<p>GNSS.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Navigation within a specified area.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108243,
+    "number": "106141"
+  }
 }

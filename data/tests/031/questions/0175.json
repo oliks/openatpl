@@ -1,7 +1,7 @@
 {
   "number": 175,
-  "questionId": 69408,
-  "questionNumber": "319629",
+  "questionId": "031-0175",
+  "questionNumber": "031-0175",
   "stemHtml": "<p>An aeroplane with a two nose wheels and four main wheels rests on the ground with a single nose wheel load of 500 kg and a single main wheel load of 6000 kg.</p><p>The distance between the nose wheels and the main wheels is 10 metres. How far is the centre of gravity in front of the main wheels?</p>",
   "options": {
     "a": "<p>25 cm.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>40 cm.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69408,
+    "number": "319629"
+  }
 }

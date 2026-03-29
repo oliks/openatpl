@@ -1,7 +1,7 @@
 {
   "number": 360,
-  "questionId": 67023,
-  "questionNumber": "107848",
+  "questionId": "010-0360",
+  "questionNumber": "010-0360",
   "stemHtml": "You are flying when you receive a broadcast from ATS, advising of the emergency descent of an aircraft in your area. What action should you take?",
   "options": {
     "a": "Change to the previous frequency and request instructions.",
@@ -10,5 +10,10 @@
     "d": "<p>Continue according to current ATC clearance</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67023,
+    "number": "107848"
+  }
 }

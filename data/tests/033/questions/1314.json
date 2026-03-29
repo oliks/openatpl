@@ -1,7 +1,7 @@
 {
   "number": 1314,
-  "questionId": 81499,
-  "questionNumber": "339409",
+  "questionId": "033-1314",
+  "questionNumber": "033-1314",
   "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> Using the information in the Flight Log extract, calculate the actual fuel used from ALPHA to DELTA.The flight conditions on the leg CHARLIE to DELTA and the fuel consumption remain unchanged.</p>",
   "options": {
     "a": "9.2 US gal",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/9CF58989-EC57-4C10-9FC3-F4853E3C2B79.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9CF58989-EC57-4C10-9FC3-F4853E3C2B79.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81499,
+    "number": "339409"
+  }
 }

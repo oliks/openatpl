@@ -1,7 +1,7 @@
 {
   "number": 545,
-  "questionId": 110634,
-  "questionNumber": "326812",
+  "questionId": "032-0545",
+  "questionNumber": "032-0545",
   "stemHtml": "<p>Which of the following regroups the set of conditions which lead to an increase in take-off distance? </p>",
   "options": {
     "a": "<p>Downhill slope; high QNH; contaminated runway</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Downhill slope; low QNH; wet runway</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110634,
+    "number": "326812"
+  }
 }

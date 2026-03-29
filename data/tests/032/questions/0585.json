@@ -1,7 +1,7 @@
 {
   "number": 585,
-  "questionId": 101866,
-  "questionNumber": "329171",
+  "questionId": "032-0585",
+  "questionNumber": "032-0585",
   "stemHtml": "<p>The term 'screen height' refers to the...</p><p>1. Minimum height above ground when passing the final approach fix<br>2. Height at the end of the take-off distance required (TODR)<br>3. Height above the aerodrome reference point<br>4. Required height to safely overfly mountainous areas<br>5. Minimum ILS approach height when non-visual with the runway<br>6. Height at the beginning of the landing distance required (LDR)</p>",
   "options": {
     "a": "<p>1, 2 and 3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 and 5</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101866,
+    "number": "329171"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 147,
-  "questionId": 78680,
-  "questionNumber": "105385",
+  "questionId": "010-0147",
+  "questionNumber": "010-0147",
   "stemHtml": "What are the contents of Aeronautical Information Publication (AIP)?",
   "options": {
     "a": "GEN (General), ENR (En-route) and AD (Aerodrome).",
@@ -10,5 +10,10 @@
     "d": "GEN, ENR, RAC, AD."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78680,
+    "number": "105385"
+  }
 }

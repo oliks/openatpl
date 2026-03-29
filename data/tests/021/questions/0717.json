@@ -1,7 +1,7 @@
 {
   "number": 717,
-  "questionId": 85562,
-  "questionNumber": "215427",
+  "questionId": "021-0717",
+  "questionNumber": "021-0717",
   "stemHtml": "How is the output voltage of a generator regulated?",
   "options": {
     "a": "By the reverse current relay circuit breaker.",
@@ -10,5 +10,10 @@
     "d": "By varying the length of wire in the armature windings."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85562,
+    "number": "215427"
+  }
 }

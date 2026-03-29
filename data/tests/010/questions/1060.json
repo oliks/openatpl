@@ -1,7 +1,7 @@
 {
   "number": 1060,
-  "questionId": 110215,
-  "questionNumber": "102790",
+  "questionId": "010-1060",
+  "questionNumber": "010-1060",
   "stemHtml": "<p>Each centre-line light of a simple approach lighting system should be...</p>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>a single source of light or a barrette.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a crossbar.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110215,
+    "number": "102790"
+  }
 }

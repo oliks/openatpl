@@ -1,7 +1,7 @@
 {
   "number": 220,
-  "questionId": 78688,
-  "questionNumber": "107669",
+  "questionId": "010-0220",
+  "questionNumber": "010-0220",
   "stemHtml": "After departure, on flights in accordance with IFR, when shall the change of the altimeter setting from QNH to standard setting 1013.2 hPa be made?",
   "options": {
     "a": "Transition level.",
@@ -10,5 +10,10 @@
     "d": "At an altitude specified by ATC."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78688,
+    "number": "107669"
+  }
 }

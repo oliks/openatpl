@@ -1,7 +1,7 @@
 {
   "number": 577,
-  "questionId": 112107,
-  "questionNumber": "226092",
+  "questionId": "022-0577",
+  "questionNumber": "022-0577",
   "stemHtml": "<p>In pre-flight preparations, it becomes evident that the altitude alerting system on the aircraft is inoperative. No engineering support is available at the airport. As a consequence of this failure, which operational restrictions are now applicable?</p>",
   "options": {
     "a": "<p>GPS altitude must be available as a back-up to the barometric altimeters.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The aeroplane is unable to perform an autoland.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112107,
+    "number": "226092"
+  }
 }

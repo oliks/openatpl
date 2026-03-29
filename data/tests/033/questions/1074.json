@@ -1,7 +1,7 @@
 {
   "number": 1074,
-  "questionId": 107367,
-  "questionNumber": "333661",
+  "questionId": "033-1074",
+  "questionNumber": "033-1074",
   "stemHtml": "<p>Refer to figure or Chart \"E(LO) 5\" from Jeppesen GSPRM 2017. Determine the track and distance from AMGAR to Vitoria (VRA) (N42<strong>\u00b0</strong>44' W002<strong>\u00b0</strong>53').</p><p> </p>",
   "options": {
     "a": "<p>059\u00b0 / 20 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5884036d-8412-4e71-bf6c-b1b57cc42d26.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5884036d-8412-4e71-bf6c-b1b57cc42d26.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107367,
+    "number": "333661"
+  }
 }

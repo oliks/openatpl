@@ -1,7 +1,7 @@
 {
   "number": 1475,
-  "questionId": 106080,
-  "questionNumber": "106618",
+  "questionId": "010-1475",
+  "questionNumber": "010-1475",
   "stemHtml": "<p>Which elements should the pilot report to the ATC while en route?</p>\r\r<p>1. Aircraft ID <br /> \r2. Position <br /> \r3. Time <br /> \r4. Flight Level <br /> \r5. Next Point <br /> \r6. Next Important Point <br /> \r7. Time Expected</p>",
   "options": {
     "a": "<p>1, 2, 3, and 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3, 4, 5, 6, and 7</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106080,
+    "number": "106618"
+  }
 }

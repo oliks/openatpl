@@ -1,7 +1,7 @@
 {
   "number": 1409,
-  "questionId": 79729,
-  "questionNumber": "212409",
+  "questionId": "021-1409",
+  "questionNumber": "021-1409",
   "stemHtml": "<p>Refer to figure. <br>The function of X-TIE is\u2026</p>",
   "options": {
     "a": "For redundancy in case the ESS TRU fails.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/42A8E4E5-7538-468A-B62C-0AD0AB78AF8D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/42A8E4E5-7538-468A-B62C-0AD0AB78AF8D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79729,
+    "number": "212409"
+  }
 }

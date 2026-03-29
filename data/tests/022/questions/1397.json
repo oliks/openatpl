@@ -1,7 +1,7 @@
 {
   "number": 1397,
-  "questionId": 68817,
-  "questionNumber": "223294",
+  "questionId": "022-1397",
+  "questionNumber": "022-1397",
   "stemHtml": "<p>Given:</p><p>C = temperature in Celsius. <br>K = temperature in Kelvin.</p><p>The correct relationship between these different units is\u2026</p>",
   "options": {
     "a": "<p>K = C x 1.8 + 32</p>",
@@ -10,5 +10,10 @@
     "d": "<p>C = K + 273</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68817,
+    "number": "223294"
+  }
 }

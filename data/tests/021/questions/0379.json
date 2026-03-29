@@ -1,7 +1,7 @@
 {
   "number": 379,
-  "questionId": 109970,
-  "questionNumber": "216356",
+  "questionId": "021-0379",
+  "questionNumber": "021-0379",
   "stemHtml": "<p>During the pre-flight inspection, a pilot notices a bulge on the sidewall of one of the nose landing gear tyres. What issue could the pilot experience if taking off and landing with the tyre in this condition?</p>",
   "options": {
     "a": "<p>Risk of tyre burst.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The bulge could lead to longitudinal instability.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109970,
+    "number": "216356"
+  }
 }

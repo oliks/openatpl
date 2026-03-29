@@ -1,7 +1,7 @@
 {
   "number": 107,
-  "questionId": 81545,
-  "questionNumber": "334539",
+  "questionId": "033-0107",
+  "questionNumber": "033-0107",
   "stemHtml": "<p style=\"\">Refer to figure.  <br />  (For this question use VFR chart ED-4 from the Jeppesen GSPRM 2017).  <br />  Which option gives the correct type, identification, and frequency of a navigation aid?</p>",
   "options": {
     "a": "VOR, RODING, 114.70 MHz (near N49\u00b000<sup>\u0131</sup>, E012\u00b030<sup> \u0131</sup>)",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/582FF34C-CD3C-433A-B39D-F8C380B9D1DD.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/582FF34C-CD3C-433A-B39D-F8C380B9D1DD.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81545,
+    "number": "334539"
+  }
 }

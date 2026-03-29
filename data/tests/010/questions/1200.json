@@ -1,7 +1,7 @@
 {
   "number": 1200,
-  "questionId": 110421,
-  "questionNumber": "105682",
+  "questionId": "010-1200",
+  "questionNumber": "010-1200",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the approach lighting system of Runway 21 at Netherlands De Kooy airport?</p>",
   "options": {
     "a": "<p>CAT I approach light system with barrette type lights on the extended centre line.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/bd6d14f8-15be-410d-96f7-a4617dce965b.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/bd6d14f8-15be-410d-96f7-a4617dce965b.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110421,
+    "number": "105682"
+  }
 }

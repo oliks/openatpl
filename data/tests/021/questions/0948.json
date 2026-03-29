@@ -1,7 +1,7 @@
 {
   "number": 948,
-  "questionId": 68252,
-  "questionNumber": "211731",
+  "questionId": "021-0948",
+  "questionNumber": "021-0948",
   "stemHtml": "<p>The voltage of a fully charged lead-acid battery cell under no electrical load is\u2026</p>",
   "options": {
     "a": "2.2 volts.",
@@ -10,5 +10,10 @@
     "d": "1.4 volts."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68252,
+    "number": "211731"
+  }
 }

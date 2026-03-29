@@ -1,7 +1,7 @@
 {
   "number": 1468,
-  "questionId": 67350,
-  "questionNumber": "217164",
+  "questionId": "021-1468",
+  "questionNumber": "021-1468",
   "stemHtml": "<p>In aircraft with AC generators as primary source of electrical power DC power is obtained by\u2026</p>",
   "options": {
     "a": "<p>AC-DC regulators</p>",
@@ -10,5 +10,10 @@
     "d": "<p>rectifiers and voltage reducing resistors</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67350,
+    "number": "217164"
+  }
 }

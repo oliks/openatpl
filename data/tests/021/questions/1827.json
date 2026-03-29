@@ -1,7 +1,7 @@
 {
   "number": 1827,
-  "questionId": 116433,
-  "questionNumber": "219759",
+  "questionId": "021-1827",
+  "questionNumber": "021-1827",
   "stemHtml": "<p>Consider an aircraft that conforms to CS-23 (aeroplanes) or CS-27 (helicopters), in which the electrical power is provided by a single AC alternator. If this alternator suddenly fails, which of the following will happen?</p>",
   "options": {
     "a": "<p>AC will be provided to the main bus via a Transformer Rectifier Unit (TRU).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The battery can provide all necessary electrical power for the duration of the flight.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 116433,
+    "number": "219759"
+  }
 }

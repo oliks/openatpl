@@ -1,7 +1,7 @@
 {
   "number": 1425,
-  "questionId": 70977,
-  "questionNumber": "334277",
+  "questionId": "033-1425",
+  "questionNumber": "033-1425",
   "stemHtml": "<p>According to below find the fuel remaining in Liters:</p>\r\n\r\n<table border=\"1\" cellspacing=\"0\" class=\"MsoTableGrid\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align:top; width:21.05pt\">\r\n\t\t\t<p> </p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:49.6pt\">\r\n\t\t\t<p>ETO</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:42.5pt\">\r\n\t\t\t<p>ATO</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:92.15pt\">\r\n\t\t\t<p>Planned Fuel (L)</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:3.0cm\">\r\n\t\t\t<p>Actual Fuel (L)</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align:top; width:21.05pt\">\r\n\t\t\t<p>1</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:49.6pt\">\r\n\t\t\t<p>10:02</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:42.5pt\">\r\n\t\t\t<p>10:00</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:92.15pt\">\r\n\t\t\t<p>133</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:3.0cm\">\r\n\t\t\t<p>137</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align:top; width:21.05pt\">\r\n\t\t\t<p>2</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:49.6pt\">\r\n\t\t\t<p>10:10</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:42.5pt\">\r\n\t\t\t<p>10:08</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:92.15pt\">\r\n\t\t\t<p>126</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:3.0cm\">\r\n\t\t\t<p>130</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align:top; width:21.05pt\">\r\n\t\t\t<p>3</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:49.6pt\">\r\n\t\t\t<p>10:32</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:42.5pt\">\r\n\t\t\t<p> </p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:92.15pt\">\r\n\t\t\t<p> </p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"vertical-align:top; width:3.0cm\">\r\n\t\t\t<p> </p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>If the Fuel flow is 52 l/h :</p>",
   "options": {
     "a": "105",
@@ -10,5 +10,10 @@
     "d": "111"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70977,
+    "number": "334277"
+  }
 }

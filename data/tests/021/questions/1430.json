@@ -1,7 +1,7 @@
 {
   "number": 1430,
-  "questionId": 68028,
-  "questionNumber": "212250",
+  "questionId": "021-1430",
+  "questionNumber": "021-1430",
   "stemHtml": "Which of the following statements is correct?",
   "options": {
     "a": "Hydraulic fluids are considered incompressible and often cause irritation to the skin and eyes.",
@@ -10,5 +10,10 @@
     "d": "Hydraulic fluids have a high viscosity because one purpose is also to lubricate the pumps and actuators."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68028,
+    "number": "212250"
+  }
 }

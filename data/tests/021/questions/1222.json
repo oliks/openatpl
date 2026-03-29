@@ -1,7 +1,7 @@
 {
   "number": 1222,
-  "questionId": 68406,
-  "questionNumber": "218086",
+  "questionId": "021-1222",
+  "questionNumber": "021-1222",
   "stemHtml": "The nose-wheel steering system of a jet transport aeroplane can be controlled through the rudder pedals or a hand-wheel steering (tiller). Which statement is correct?",
   "options": {
     "a": "Rudder pedal nose-wheel steering offers the same maximum deflection of the nose wheel as hand-wheel steering (tiller).",
@@ -10,5 +10,10 @@
     "d": "When performing a rudder check during taxiing, an additional pilot action must be taken to avoid deflection of the nose wheel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68406,
+    "number": "218086"
+  }
 }

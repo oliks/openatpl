@@ -1,7 +1,7 @@
 {
   "number": 1767,
-  "questionId": 108724,
-  "questionNumber": "102816",
+  "questionId": "010-1767",
+  "questionNumber": "010-1767",
   "stemHtml": "<p>What is the purpose of intermediate holding position markings on taxiways?</p>",
   "options": {
     "a": "<p>To mark a point where all taxiing aircraft must stop, regardless of adjacent traffic.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To designate areas for aircraft parking between active taxiways.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108724,
+    "number": "102816"
+  }
 }

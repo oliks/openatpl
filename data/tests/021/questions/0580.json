@@ -1,7 +1,7 @@
 {
   "number": 580,
-  "questionId": 68049,
-  "questionNumber": "214164",
+  "questionId": "021-0580",
+  "questionNumber": "021-0580",
   "stemHtml": "<p>If detonation occurs in a normally aspirated piston engine during climb-out, the normal corrective action is to\u2026</p>",
   "options": {
     "a": "lean the mixture.",
@@ -10,5 +10,10 @@
     "d": "retard the throttle."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68049,
+    "number": "214164"
+  }
 }

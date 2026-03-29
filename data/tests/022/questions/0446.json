@@ -1,7 +1,7 @@
 {
   "number": 446,
-  "questionId": 81266,
-  "questionNumber": "222013",
+  "questionId": "022-0446",
+  "questionNumber": "022-0446",
   "stemHtml": "<p dir=\"ltr\">What does the turn indicator display?</p>",
   "options": {
     "a": "<p dir=\"ltr\">Rate of change of roll.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Balance of the turn.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81266,
+    "number": "222013"
+  }
 }

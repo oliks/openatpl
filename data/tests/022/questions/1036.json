@@ -1,7 +1,7 @@
 {
   "number": 1036,
-  "questionId": 69054,
-  "questionNumber": "228703",
+  "questionId": "022-1036",
+  "questionNumber": "022-1036",
   "stemHtml": "<p>Your aircraft and an intruder both are TCAS II equipped. If the transponder of the intruder is switched off or unserviceable\u2026</p>",
   "options": {
     "a": "<p>the intruder is invisible to your TCAS equipment.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the intruder remains visible to your TCAS equipment, but only TAs (Traffic Advisories) can be generated.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69054,
+    "number": "228703"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 134,
-  "questionId": 96524,
-  "questionNumber": "331779",
+  "questionId": "033-0134",
+  "questionNumber": "033-0134",
   "stemHtml": "<p>Given the following data, what is the TAS of the aeroplane?</p><p>FL390 <br>OAT: -40\u00b0C <br>Mach number : M 0.82 <br>Wind component : -42 kt</p>",
   "options": {
     "a": "488 kt",
@@ -10,5 +10,10 @@
     "d": "452 kt"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96524,
+    "number": "331779"
+  }
 }

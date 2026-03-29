@@ -1,7 +1,7 @@
 {
   "number": 1354,
-  "questionId": 67503,
-  "questionNumber": "214476",
+  "questionId": "021-1354",
+  "questionNumber": "021-1354",
   "stemHtml": "<p>A pressurised aeroplane is flying at FL370 and experiences a rapid decompression. Which of the following statements about the oxygen system is correct?</p>",
   "options": {
     "a": "In general manual override of the automatic presentation of passenger oxygen masks is not possible.",
@@ -10,5 +10,10 @@
     "d": "The oxygen masks are automatically presented to flight crew members."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67503,
+    "number": "214476"
+  }
 }

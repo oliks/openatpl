@@ -1,7 +1,7 @@
 {
   "number": 1155,
-  "questionId": 80795,
-  "questionNumber": "218448",
+  "questionId": "021-1155",
+  "questionNumber": "021-1155",
   "stemHtml": "When may more frequent washing of aircraft be scheduled?",
   "options": {
     "a": "When operating warm oceanic areas or after flying low level over the ocean.",
@@ -10,5 +10,10 @@
     "d": "When operating in hot desert areas."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80795,
+    "number": "218448"
+  }
 }

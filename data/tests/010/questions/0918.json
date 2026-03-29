@@ -1,7 +1,7 @@
 {
   "number": 918,
-  "questionId": 84602,
-  "questionNumber": "104594",
+  "questionId": "010-0918",
+  "questionNumber": "010-0918",
   "stemHtml": "<p>When ice, snow, etc. is encountered, how is this info provided in the snowtam?</p>",
   "options": {
     "a": "<p>Each third of runway.</p>",
@@ -10,5 +10,10 @@
     "d": "Each fourth."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84602,
+    "number": "104594"
+  }
 }

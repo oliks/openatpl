@@ -1,7 +1,7 @@
 {
   "number": 798,
-  "questionId": 101492,
-  "questionNumber": "337402",
+  "questionId": "033-0798",
+  "questionNumber": "033-0798",
   "stemHtml": "<p>Refer to figure or to STUTTGART (EDDS) chart 12-2 from the Jeppesen GSPRM 2017. <br /> You are following the RNP Rwy 25 approach and are capable and authorised to fly to the LNAV/VNAV minima. What restrictions, if any, apply to this procedure?</p>",
   "options": {
     "a": "<p>The temperature must be at or above -15\u00b0 C if the aircraft uses Baro-VNAV only. </p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/ae20a40c-c456-401a-97d1-49caad59bb2e.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/ae20a40c-c456-401a-97d1-49caad59bb2e.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101492,
+    "number": "337402"
+  }
 }

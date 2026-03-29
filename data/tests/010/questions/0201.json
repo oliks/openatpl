@@ -1,7 +1,7 @@
 {
   "number": 201,
-  "questionId": 102446,
-  "questionNumber": "104772",
+  "questionId": "010-0201",
+  "questionNumber": "010-0201",
   "stemHtml": "<p>The CMC (Crew Member Certificate) is issued...</p>",
   "options": {
     "a": "<p>to replace the crew member's licence.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>to permit access to the air side of an aerodrome for aircrew.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102446,
+    "number": "104772"
+  }
 }

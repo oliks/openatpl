@@ -1,7 +1,7 @@
 {
   "number": 1161,
-  "questionId": 67156,
-  "questionNumber": "105190",
+  "questionId": "010-1161",
+  "questionNumber": "010-1161",
   "stemHtml": "What is the standard colour code for a safety document when considering the aeronautical information circular (AIC)?",
   "options": {
     "a": "red",
@@ -10,5 +10,10 @@
     "d": "white"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67156,
+    "number": "105190"
+  }
 }

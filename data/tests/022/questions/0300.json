@@ -1,7 +1,7 @@
 {
   "number": 300,
-  "questionId": 69058,
-  "questionNumber": "222432",
+  "questionId": "022-0300",
+  "questionNumber": "022-0300",
   "stemHtml": "<p>The upper antenna of the TCAS II is\u2026</p>",
   "options": {
     "a": "<p>omnidirectional to improve the surveillance of intruders.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>omnidirectional because it is merged with the transponder antenna.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69058,
+    "number": "222432"
+  }
 }

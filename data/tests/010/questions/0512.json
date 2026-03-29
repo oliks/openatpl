@@ -1,7 +1,7 @@
 {
   "number": 512,
-  "questionId": 67149,
-  "questionNumber": "107958",
+  "questionId": "010-0512",
+  "questionNumber": "010-0512",
   "stemHtml": "<p>Describe where the outbound timing begins in a holding pattern.</p>",
   "options": {
     "a": "<p>abeam the fix only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>over or abeam the fix, whichever occurs earlier.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67149,
+    "number": "107958"
+  }
 }

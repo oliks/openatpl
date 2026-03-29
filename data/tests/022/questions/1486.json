@@ -1,7 +1,7 @@
 {
   "number": 1486,
-  "questionId": 68712,
-  "questionNumber": "221969",
+  "questionId": "022-1486",
+  "questionNumber": "022-1486",
   "stemHtml": "<p>The flight envelope protection function(s) consist(s) in:</p><p>1 \u2013 alerting the flight crew in case of dangerous proximity with the ground <br>2 \u2013 avoiding mid-air collision <br>3 \u2013 preventing the aircraft from exceeding some aerodynamic limits</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 3.",
@@ -10,5 +10,10 @@
     "d": "1."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68712,
+    "number": "221969"
+  }
 }

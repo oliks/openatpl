@@ -1,7 +1,7 @@
 {
   "number": 752,
-  "questionId": 82808,
-  "questionNumber": "216074",
+  "questionId": "021-0752",
+  "questionNumber": "021-0752",
   "stemHtml": "You lose fuel indication during a flight, what is the best course of action?",
   "options": {
     "a": "Open the cross-feed valve to make sure the aeroplane stays in balance.",
@@ -10,5 +10,10 @@
     "d": "Turn off fuel pumps for 10 min and then turn them back on hoping fuel indications come back."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82808,
+    "number": "216074"
+  }
 }

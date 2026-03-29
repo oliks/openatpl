@@ -1,7 +1,7 @@
 {
   "number": 1061,
-  "questionId": 70472,
-  "questionNumber": "337090",
+  "questionId": "033-1061",
+  "questionNumber": "033-1061",
   "stemHtml": "<p>Given the following data for the pre-flight calculations, determine the Contingency Fuel for a Commercial Air Transport flight with a Jet aeroplane. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Trip Fuel: 3420 kg<br>Alternate Fuel: 968 kg<br>Fuel flow at holding speed: 2376 kg/h<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "1188 kg",
@@ -10,5 +10,10 @@
     "d": "171 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70472,
+    "number": "337090"
+  }
 }

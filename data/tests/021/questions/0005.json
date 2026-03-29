@@ -1,7 +1,7 @@
 {
   "number": 5,
-  "questionId": 84625,
-  "questionNumber": "213482",
+  "questionId": "021-0005",
+  "questionNumber": "021-0005",
   "stemHtml": "<p>In a four-engine aircraft with a generator on each engine, how is the AC power usually distributed?</p>",
   "options": {
     "a": "<p>All four generators are connected in series for highest power generation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Each generator feeds its dedicated bus bar.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84625,
+    "number": "213482"
+  }
 }

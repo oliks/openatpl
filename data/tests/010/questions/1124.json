@@ -1,7 +1,7 @@
 {
   "number": 1124,
-  "questionId": 102969,
-  "questionNumber": "102215",
+  "questionId": "010-1124",
+  "questionNumber": "010-1124",
   "stemHtml": "<p>The ground signal 'T' used to provide runway in use should be (1) _____ by day, and where required for use at night it shall either be illuminated or outlined by (2) _____ lights.</p>",
   "options": {
     "a": "<p>(1) yellow or white; (2) white.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) white; (2) yellow.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102969,
+    "number": "102215"
+  }
 }

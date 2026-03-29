@@ -1,7 +1,7 @@
 {
   "number": 1117,
-  "questionId": 70066,
-  "questionNumber": "328217",
+  "questionId": "032-1117",
+  "questionNumber": "032-1117",
   "stemHtml": "<p>Refer to figure or CAP 698 Figure 3.1.\u00a0</p><p>Mass: 4200 lb\u00a0<br>Runway slope: +2\u00a0<br>Temperature: 14\u00b0C\u00a0<br>Elevation: 1000 ft\u00a0<br>Runway: 33\u00a0<br>Wind: 030/20\u00a0<br>Runway state: Wet paved</p><p>Determine the take-off distance of an MEP aircraft in the following conditions.</p>",
   "options": {
     "a": "<p>2024 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/d96bd62a-1925-4374-8e10-52469de27372.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/d96bd62a-1925-4374-8e10-52469de27372.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70066,
+    "number": "328217"
+  }
 }

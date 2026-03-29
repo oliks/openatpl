@@ -1,7 +1,7 @@
 {
   "number": 940,
-  "questionId": 81935,
-  "questionNumber": "334332",
+  "questionId": "033-0940",
+  "questionNumber": "033-0940",
   "stemHtml": "<p>Refer to figure. <br>(For this question use annex CAP 697 Figure 4.3.1a). Given the following data calculate the Trip Fuel.</p><p>Long Range Cruise <br>Temperature deviation: ISA -5\u00b0C <br>Trip distance: 500 NM <br>Wind: 25 kt tailwind <br>Pressure altitude: 37 000 ft <br>Landing weight: 40 000 kg</p>",
   "options": {
     "a": "2860 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/76C52FAF-F09A-459F-8D7F-2ABD7B24914F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/76C52FAF-F09A-459F-8D7F-2ABD7B24914F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81935,
+    "number": "334332"
+  }
 }

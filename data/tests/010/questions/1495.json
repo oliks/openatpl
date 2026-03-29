@@ -1,7 +1,7 @@
 {
   "number": 1495,
-  "questionId": 67081,
-  "questionNumber": "107771",
+  "questionId": "010-1495",
+  "questionNumber": "010-1495",
   "stemHtml": "Whenever an operational runway is contaminated by snow, slush, ice, or frost, the runway...",
   "options": {
     "a": "condition shall be assessed and reported.",
@@ -10,5 +10,10 @@
     "d": "shall be closed for departing aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67081,
+    "number": "107771"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 160,
-  "questionId": 68887,
-  "questionNumber": "229821",
+  "questionId": "022-0160",
+  "questionNumber": "022-0160",
   "stemHtml": "<p>Refer to figure. <br /> \rOn this Mode Control Panel, which switch is used to select the autothrottle OFF?</p>",
   "options": {
     "a": "<p>4</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/eac95753-7f6f-4fd5-950a-b823f96bbbd0.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/eac95753-7f6f-4fd5-950a-b823f96bbbd0.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68887,
+    "number": "229821"
+  }
 }

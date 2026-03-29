@@ -1,7 +1,7 @@
 {
   "number": 283,
-  "questionId": 82008,
-  "questionNumber": "226419",
+  "questionId": "022-0283",
+  "questionNumber": "022-0283",
   "stemHtml": "<p>Most modern transport aircraft have three Air Data Inertial Reference Units (ADIRUs). Each ADIRU combines an IRS with _____, which sends barometric altitude and TAS information to the IRS.</p>",
   "options": {
     "a": "an Attitude and Heading Reference System.",
@@ -10,5 +10,10 @@
     "d": "an Air Data Computer."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82008,
+    "number": "226419"
+  }
 }

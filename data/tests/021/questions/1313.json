@@ -1,7 +1,7 @@
 {
   "number": 1313,
-  "questionId": 110631,
-  "questionNumber": "215952",
+  "questionId": "021-1313",
+  "questionNumber": "021-1313",
   "stemHtml": "<p>Which of the following correctly describes the angular position of a propeller blade when the propeller is feathered?</p>",
   "options": {
     "a": "<p>Edge of the alpha range, in line with the airflow.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>In the middle of the beta range, perpendicular to the airflow.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110631,
+    "number": "215952"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 569,
-  "questionId": 84796,
-  "questionNumber": "226610",
+  "questionId": "022-0569",
+  "questionNumber": "022-0569",
   "stemHtml": "<p>What kind of data does the IRS provide to the FMS?</p>",
   "options": {
     "a": "<p>The IRS cannot provide the FMS with any data.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Engine data.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84796,
+    "number": "226610"
+  }
 }

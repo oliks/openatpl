@@ -1,7 +1,7 @@
 {
   "number": 585,
-  "questionId": 84631,
-  "questionNumber": "226665",
+  "questionId": "022-0585",
+  "questionNumber": "022-0585",
   "stemHtml": "The white arc of a conventional Airspeed Indicator (ASI) corresponds to the\u2026",
   "options": {
     "a": "Flap operating speed range.",
@@ -10,5 +10,10 @@
     "d": "Normal operating speed range."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84631,
+    "number": "226665"
+  }
 }

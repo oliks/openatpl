@@ -1,7 +1,7 @@
 {
   "number": 860,
-  "questionId": 77861,
-  "questionNumber": "223230",
+  "questionId": "022-0860",
+  "questionNumber": "022-0860",
   "stemHtml": "Which of the following values corresponds to the standard rate of the rate of turn indicator?",
   "options": {
     "a": "540\u00b0/sec",
@@ -10,5 +10,10 @@
     "d": "3\u00b0/sec"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77861,
+    "number": "223230"
+  }
 }

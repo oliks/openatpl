@@ -1,7 +1,7 @@
 {
   "number": 602,
-  "questionId": 70711,
-  "questionNumber": "335198",
+  "questionId": "033-0602",
+  "questionNumber": "033-0602",
   "stemHtml": "<p>For pre-flight planning purposes, what is the total fuel required for the Commercial Air Transport flight in a Medium Range Jet Transport MRJT aeroplane, with no destination alternate, given the following information? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Estimated taxi time: 15 minutes at both departure and destination aerodromes<br>APU fuel flow: 115 kg/h<br>Taxi fuel flow: 11 kg/min<br>Planned APU usage at the parking position: 15 minutes<br>Total trip distance: 315 NM<br>Average fuel flow: 2878 kg/h<br>TAS: 440 kt<br>Average headwind component: 16 kt<br>Contingency Fuel: 5 minutes Holding Fuel<br>Holding fuel flow: 2200 kg/h<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "4332 kg",
@@ -10,5 +10,10 @@
     "d": "3973 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70711,
+    "number": "335198"
+  }
 }

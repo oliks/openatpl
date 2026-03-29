@@ -1,7 +1,7 @@
 {
   "number": 1670,
-  "questionId": 106565,
-  "questionNumber": "101480",
+  "questionId": "010-1670",
+  "questionNumber": "010-1670",
   "stemHtml": "<p>The required navigation performance of RNP 4 operations is...</p>",
   "options": {
     "a": "<p>Plus or minus 4 NM on a 90 percent containment basis.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Plus or minus 4 NM on a 98 percent containment basis.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106565,
+    "number": "101480"
+  }
 }

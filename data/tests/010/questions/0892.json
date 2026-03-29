@@ -1,7 +1,7 @@
 {
   "number": 892,
-  "questionId": 67186,
-  "questionNumber": "103531",
+  "questionId": "010-0892",
+  "questionNumber": "010-0892",
   "stemHtml": "An aircraft making a radar approach should be directed to consider executing a missed approach if the aircraft is not visible on the radar display for any significant interval during the:",
   "options": {
     "a": "Last 5 NM of the approach",
@@ -10,5 +10,10 @@
     "d": "Last 4 NM of the approach"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67186,
+    "number": "103531"
+  }
 }

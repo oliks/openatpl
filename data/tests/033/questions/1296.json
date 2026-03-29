@@ -1,7 +1,7 @@
 {
   "number": 1296,
-  "questionId": 70537,
-  "questionNumber": "335246",
+  "questionId": "033-1296",
+  "questionNumber": "033-1296",
   "stemHtml": "<p>Refer to figure or CAP 697 Section 4 - MRJT1 Figure 4-1 and 4-2). <br>Find the OPTIMUM ALTITUDE for the twin jet aeroplane.<br>Given:</p><p>Cruise mass = 50 000 kg, 0.78 MACH</p>",
   "options": {
     "a": "<p>36 200 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/21874BCA-975E-4396-983D-2484D96BDF0F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/21874BCA-975E-4396-983D-2484D96BDF0F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70537,
+    "number": "335246"
+  }
 }

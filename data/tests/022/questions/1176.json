@@ -1,7 +1,7 @@
 {
   "number": 1176,
-  "questionId": 84793,
-  "questionNumber": "225282",
+  "questionId": "022-1176",
+  "questionNumber": "022-1176",
   "stemHtml": "<p>On a typical EFIS system, the failure of a VHF navigation (VOR) receiver will result in which of the following indications?</p>",
   "options": {
     "a": "<p>The pointer rotates around the display and a VOR 1 or 2 failure warning bar appears.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The pointer flashes and a VOR 1 or 2 failure warning bar appears.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84793,
+    "number": "225282"
+  }
 }

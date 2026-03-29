@@ -1,7 +1,7 @@
 {
   "number": 1252,
-  "questionId": 68161,
-  "questionNumber": "219689",
+  "questionId": "021-1252",
+  "questionNumber": "021-1252",
   "stemHtml": "<p>Aircraft fuel tanks should be checked for water\u2026</p>",
   "options": {
     "a": "<p>before the first flight of the day because condensation may arise overnight.</p>",
@@ -10,5 +10,10 @@
     "d": "before each flight."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68161,
+    "number": "219689"
+  }
 }

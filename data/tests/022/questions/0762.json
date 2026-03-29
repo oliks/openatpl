@@ -1,7 +1,7 @@
 {
   "number": 762,
-  "questionId": 68635,
-  "questionNumber": "221242",
+  "questionId": "022-0762",
+  "questionNumber": "022-0762",
   "stemHtml": "<p>Your aircraft and an intruder are both TCAS II equipped. The information available to your TCAS equipment is\u2026</p>",
   "options": {
     "a": "<p>two dimensional only: avoidance manoeuvres between both aircraft cannot be co-ordinated</p>",
@@ -10,5 +10,10 @@
     "d": "<p>three dimensional: your TCAS can generate both TAs (Traffic Advisories) and RAs (Resolution Advisories)</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68635,
+    "number": "221242"
+  }
 }

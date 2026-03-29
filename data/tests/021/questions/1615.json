@@ -1,7 +1,7 @@
 {
   "number": 1615,
-  "questionId": 105447,
-  "questionNumber": "218708",
+  "questionId": "021-1615",
+  "questionNumber": "021-1615",
   "stemHtml": "<p>The second external gearbox in an aircraft engine is driven by the (1)_____ pressure compressor shaft and operates efficiently at (2)_____ speeds.</p>",
   "options": {
     "a": "<p>(1) high; (2) high</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) low; (2) high</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105447,
+    "number": "218708"
+  }
 }

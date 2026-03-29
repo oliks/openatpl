@@ -1,7 +1,7 @@
 {
   "number": 429,
-  "questionId": 81880,
-  "questionNumber": "328051",
+  "questionId": "032-0429",
+  "questionNumber": "032-0429",
   "stemHtml": "Which of the following statements is correct in relation to a turbojet engine\u2019s Specific Fuel Consumption (SFC)?",
   "options": {
     "a": "Temperature has NO effect on SFC.",
@@ -10,5 +10,10 @@
     "d": "Altitude has NO effect on SFC."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81880,
+    "number": "328051"
+  }
 }

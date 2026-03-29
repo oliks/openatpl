@@ -1,7 +1,7 @@
 {
   "number": 689,
-  "questionId": 71035,
-  "questionNumber": "335116",
+  "questionId": "033-0689",
+  "questionNumber": "033-0689",
   "stemHtml": "<p>For pre-flight planning purposes what is the required block fuel for an IFR flight with a turbine engine jet aircraft? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><figure class=\"table\"><table><tbody><tr><td>Taxi fuel ( including APU usage):</td><td>150 kg</td></tr><tr><td>Fuel for the climb to cruise level:</td><td>1600 kg</td></tr><tr><td>Cruise distance to destination:</td><td>570 NAM</td></tr><tr><td>Cruise fuel consumption:</td><td>6 kg/NAM</td></tr><tr><td>Fuel for descent to the destination:</td><td>270 kg</td></tr><tr><td>Fuel for approach & landing destination:</td><td>450 kg</td></tr><tr><td>Contingency fuel:</td><td>5% of trip</td></tr><tr><td>Fuel for alternate:</td><td>2150 kg</td></tr><tr><td>Holding fuel flow at destination & alternate:</td><td>2200 kg/h</td></tr><tr><td>Missed approach fuel at alternate:<br>Extra Fuel:<br>Discretionary Fuel:</td><td>270 kg<br>0 kg<br>0 kg</td></tr></tbody></table></figure>",
   "options": {
     "a": "9427 kg",
@@ -10,5 +10,10 @@
     "d": "9547 kg"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71035,
+    "number": "335116"
+  }
 }

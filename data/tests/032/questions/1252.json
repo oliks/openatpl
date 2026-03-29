@@ -1,7 +1,7 @@
 {
   "number": 1252,
-  "questionId": 69649,
-  "questionNumber": "324742",
+  "questionId": "032-1252",
+  "questionNumber": "032-1252",
   "stemHtml": "<p>A pilot is calculating the Take-Off Distance for a Performance Class B multi-engined aeroplane. Specific factors must be applied to the AFM data to take into account variables that affect the take-off performance.</p>\n\n<p><span style=\"letter-spacing:0.7px\">These factors have NOT been provided in the AFM and other performance and operating manuals from the manufacturer. For which variables must the pilot apply a factor greater than 1.0?</span></p>",
   "options": {
     "a": "Surface type: paved or grass, Condition: wet.",
@@ -10,5 +10,10 @@
     "d": "Surface type: grass, Condition: wet or dry."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69649,
+    "number": "324742"
+  }
 }

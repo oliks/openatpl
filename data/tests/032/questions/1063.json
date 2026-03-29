@@ -1,7 +1,7 @@
 {
   "number": 1063,
-  "questionId": 69756,
-  "questionNumber": "321425",
+  "questionId": "032-1063",
+  "questionNumber": "032-1063",
   "stemHtml": "<p>The one engine out take-off run is the distance between the brake release point and\u2026</p>",
   "options": {
     "a": "the middle of the segment between V<sub>LOF</sub> point and 35 ft point.",
@@ -10,5 +10,10 @@
     "d": "the lift-off point."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69756,
+    "number": "321425"
+  }
 }

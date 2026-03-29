@@ -1,7 +1,7 @@
 {
   "number": 789,
-  "questionId": 109690,
-  "questionNumber": "212533",
+  "questionId": "021-0789",
+  "questionNumber": "021-0789",
   "stemHtml": "<p>Which of the following correctly lists the inputs to a gas-turbine aircraft FADEC (Full Authority Digital Engine Control) / EEC (Electronic Engine Control) unit?</p><p>1. Thrust lever angle (TLA) and EGT <br>2. Angle of attack and position of the horizontal stabiliser<br>3. Ambient and air temperature<br>4. IDG temperature</p>",
   "options": {
     "a": "<p>1 and 3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 4</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109690,
+    "number": "212533"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 329,
-  "questionId": 82017,
-  "questionNumber": "323170",
+  "questionId": "032-0329",
+  "questionNumber": "032-0329",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following graphs illustrate the movement of the total drag curve when the undercarriage is extended?</p>",
   "options": {
     "a": "<p>Figure 3</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/45E846B6-FF8A-4CA3-8EA5-810A0ABC2340.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/45E846B6-FF8A-4CA3-8EA5-810A0ABC2340.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82017,
+    "number": "323170"
+  }
 }

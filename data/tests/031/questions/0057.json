@@ -1,7 +1,7 @@
 {
   "number": 57,
-  "questionId": 84126,
-  "questionNumber": "311333",
+  "questionId": "031-0057",
+  "questionNumber": "031-0057",
   "stemHtml": "<p>What is the difference between the Take-Off Mass and the Block Fuel?</p>",
   "options": {
     "a": "<p>DOM + TL</p>",
@@ -10,5 +10,10 @@
     "d": "<p>BEM + TO Fuel</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84126,
+    "number": "311333"
+  }
 }

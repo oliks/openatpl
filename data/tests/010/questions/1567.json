@@ -1,7 +1,7 @@
 {
   "number": 1567,
-  "questionId": 67035,
-  "questionNumber": "107034",
+  "questionId": "010-1567",
+  "questionNumber": "010-1567",
   "stemHtml": "General provisions \u2013 change from IFR to VFR \u2013 A change from IFR to VFR is only acceptable when VFR is permitted in that airspace and when?",
   "options": {
     "a": "ATC invites the PIC to change from IFR to VFR.",
@@ -10,5 +10,10 @@
     "d": "the position of the change has been noted on the ATC flight plan. The cancellation of the flight under IFR will then be made automatically by ATC."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67035,
+    "number": "107034"
+  }
 }

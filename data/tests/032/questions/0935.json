@@ -1,7 +1,7 @@
 {
   "number": 935,
-  "questionId": 78130,
-  "questionNumber": "815439",
+  "questionId": "032-0935",
+  "questionNumber": "032-0935",
   "stemHtml": "What should the pilot do if he/she experiences dutch roll?",
   "options": {
     "a": "The pilot should damp it heavily with rudder.",
@@ -10,5 +10,10 @@
     "d": "The angle of attack should be increased."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78130,
+    "number": "815439"
+  }
 }

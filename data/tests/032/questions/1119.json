@@ -1,7 +1,7 @@
 {
   "number": 1119,
-  "questionId": 70189,
-  "questionNumber": "323743",
+  "questionId": "032-1119",
+  "questionNumber": "032-1119",
   "stemHtml": "The optimum altitude...",
   "options": {
     "a": "increases as mass decreases and is the altitude at which the specific range reaches its maximum.",
@@ -10,5 +10,10 @@
     "d": "decreases as mass decreases."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70189,
+    "number": "323743"
+  }
 }

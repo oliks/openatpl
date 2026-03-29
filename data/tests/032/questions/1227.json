@@ -1,7 +1,7 @@
 {
   "number": 1227,
-  "questionId": 84679,
-  "questionNumber": "329412",
+  "questionId": "032-1227",
+  "questionNumber": "032-1227",
   "stemHtml": "<p>Refer to figure or CAP698 fig. 4.31.</p><p>The flight crew of an MRJT plan to touchdown with the braking configuration: Autobrake 2, Normal Reverse #2 Detent. <br>However, on touchdown, the thrust reverser fail light illuminates and the Commander cancels the reverse thrust and selects Autobrake 3 instead, to gain some extra braking. From the runway the aeroplane has to taxi 1.5 miles to the assigned terminal gate. <br>Given the following performance data, how much energy has been absorbed per brake unit, and what is the minimum brake cooling time after this landing?</p><p>Estimated landing mass: 100 000 lb <br>V<strong><sub>REF</sub></strong>: 123 kt <br>Corrections to V<strong><sub>REF</sub></strong>: (V<strong><sub>REF</sub></strong> - 3kt) <br>Corrections to V<strong><sub>REF</sub></strong> for wind component: minus 50% of a headwind or plus 150% for a tailwind <br>Headwind component: 4 kt <br>Pressure Altitude: 5000 ft <br>OAT: -10\u00b0C <br>Add one million foot pounds for each taxi mile to obtain total brake energy.</p>",
   "options": {
     "a": "Approximately 18.5 million foot-pounds of energy has been absorbed per brake, with an advised cooling time of 62 minutes.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/E3B7BB06-8055-4483-B89F-497DD79B95AC.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/E3B7BB06-8055-4483-B89F-497DD79B95AC.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84679,
+    "number": "329412"
+  }
 }

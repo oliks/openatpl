@@ -1,7 +1,7 @@
 {
   "number": 89,
-  "questionId": 67945,
-  "questionNumber": "215194",
+  "questionId": "021-0089",
+  "questionNumber": "021-0089",
   "stemHtml": "<p>In an aircraft fitted with a constant frequency AC power supply, DC power is obtained from a\u2026</p>",
   "options": {
     "a": "transformer rectifier unit (TRU).",
@@ -10,5 +10,10 @@
     "d": "rotary converter."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67945,
+    "number": "215194"
+  }
 }

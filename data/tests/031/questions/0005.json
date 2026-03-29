@@ -1,7 +1,7 @@
 {
   "number": 5,
-  "questionId": 83187,
-  "questionNumber": "319448",
+  "questionId": "031-0005",
+  "questionNumber": "031-0005",
   "stemHtml": "<p>Given the following information, what is the Underload/Overload?</p><p>Allowed Take-off Mass: 4300 kg <br>Operating Mass: 3296 kg <br>Total Fuel Mass: 650 kg <br>Mass of the crew and their baggage: 187 kg <br>Traffic Load: 1014 kg</p>",
   "options": {
     "a": "An Overload of 660 kg.",
@@ -10,5 +10,10 @@
     "d": "An Overload of 197 kg."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83187,
+    "number": "319448"
+  }
 }

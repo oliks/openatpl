@@ -1,7 +1,7 @@
 {
   "number": 403,
-  "questionId": 70554,
-  "questionNumber": "334903",
+  "questionId": "033-0403",
+  "questionNumber": "033-0403",
   "stemHtml": "Refer to figure. <br /> What is the daily activation time for the temporarily established restricted area (ZRT)?",
   "options": {
     "a": "SR until SS",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D1A13797-B0F6-4ACB-9199-A231A2FDF47F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D1A13797-B0F6-4ACB-9199-A231A2FDF47F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70554,
+    "number": "334903"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1215,
-  "questionId": 80893,
-  "questionNumber": "226981",
+  "questionId": "022-1215",
+  "questionNumber": "022-1215",
   "stemHtml": "What can be displayed on a gyro-magnetic compass?",
   "options": {
     "a": "Only heading to fly a Rhumb line track.",
@@ -10,5 +10,10 @@
     "d": "Magnetic and true heading."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80893,
+    "number": "226981"
+  }
 }

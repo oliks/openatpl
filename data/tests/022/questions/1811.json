@@ -1,7 +1,7 @@
 {
   "number": 1811,
-  "questionId": 78746,
-  "questionNumber": "223056",
+  "questionId": "022-1811",
+  "questionNumber": "022-1811",
   "stemHtml": "What is correct about a stand-by-horizon or emergency attitude indicator?",
   "options": {
     "a": "It is fully independent of external energy resources in an emergency situation.",
@@ -10,5 +10,10 @@
     "d": "It contains its own separate gyro."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78746,
+    "number": "223056"
+  }
 }

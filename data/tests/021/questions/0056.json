@@ -1,7 +1,7 @@
 {
   "number": 56,
-  "questionId": 67864,
-  "questionNumber": "216067",
+  "questionId": "021-0056",
+  "questionNumber": "021-0056",
   "stemHtml": "<p>To ensure ignition in conditions of high altitude and low temperature, a gas turbine ignition system\u2026</p>",
   "options": {
     "a": "must be operated continuously.",
@@ -10,5 +10,10 @@
     "d": "uses multiple igniter plugs."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67864,
+    "number": "216067"
+  }
 }

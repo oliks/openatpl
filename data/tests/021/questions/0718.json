@@ -1,7 +1,7 @@
 {
   "number": 718,
-  "questionId": 67873,
-  "questionNumber": "214281",
+  "questionId": "021-0718",
+  "questionNumber": "021-0718",
   "stemHtml": "<p>When the auto-brakes are armed before landing, conditions for the system to start operating are\u2026</p>",
   "options": {
     "a": "landing flap selection or ground spoiler deployment.",
@@ -10,5 +10,10 @@
     "d": "nose wheel spin-up or all wheels spin up."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67873,
+    "number": "214281"
+  }
 }

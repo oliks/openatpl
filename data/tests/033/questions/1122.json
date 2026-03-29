@@ -1,7 +1,7 @@
 {
   "number": 1122,
-  "questionId": 102902,
-  "questionNumber": "336969",
+  "questionId": "033-1122",
+  "questionNumber": "033-1122",
   "stemHtml": "<p>Refer to figure or ALICANTE - chart 19-1 from Jeppesen GSPRM 2017. <br>How many visual procedures are published?</p>",
   "options": {
     "a": "<p>None</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0796cf6f-9f14-4207-80e2-2ec86f2e8226.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0796cf6f-9f14-4207-80e2-2ec86f2e8226.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102902,
+    "number": "336969"
+  }
 }

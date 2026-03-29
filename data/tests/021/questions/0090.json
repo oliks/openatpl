@@ -1,7 +1,7 @@
 {
   "number": 90,
-  "questionId": 110114,
-  "questionNumber": "211848",
+  "questionId": "021-0090",
+  "questionNumber": "021-0090",
   "stemHtml": "<p>In a three-phase AC generator, if the rpm increases, the output frequency... <br /> \r </p>",
   "options": {
     "a": "<p>increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>will peak before dropping back to normal.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110114,
+    "number": "211848"
+  }
 }

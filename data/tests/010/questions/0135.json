@@ -1,7 +1,7 @@
 {
   "number": 135,
-  "questionId": 66716,
-  "questionNumber": "106544",
+  "questionId": "010-0135",
+  "questionNumber": "010-0135",
   "stemHtml": "<p>In accordance with EASA Flight Crew Licence requirements, the credit for multi-pilot aeroplane co-pilot time is\u2026</p>",
   "options": {
     "a": "100% of the co-pilot flight time towards the total flight time required for a higher licence class.",
@@ -10,5 +10,10 @@
     "d": "50% of the co-pilot flight time towards the total flight time required for a higher licence class."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66716,
+    "number": "106544"
+  }
 }

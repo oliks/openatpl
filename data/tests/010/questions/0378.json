@@ -1,7 +1,7 @@
 {
   "number": 378,
-  "questionId": 102485,
-  "questionNumber": "104988",
+  "questionId": "010-0378",
+  "questionNumber": "010-0378",
   "stemHtml": "<p>The abbreviation MEHT refers to...</p>",
   "options": {
     "a": "<p>Maximum eye height over the threshold.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Minimum eye height over the threshold.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102485,
+    "number": "104988"
+  }
 }

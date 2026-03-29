@@ -1,7 +1,7 @@
 {
   "number": 9,
-  "questionId": 67912,
-  "questionNumber": "216352",
+  "questionId": "021-0009",
+  "questionNumber": "021-0009",
   "stemHtml": "<p>Refer to figure. <br>The hydraulic system that works correctly is shown in\u2026</p>",
   "options": {
     "a": "diagram 1",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/A0D97049-12D6-4C6F-84DA-4E321CCE8EB3.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/A0D97049-12D6-4C6F-84DA-4E321CCE8EB3.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67912,
+    "number": "216352"
+  }
 }

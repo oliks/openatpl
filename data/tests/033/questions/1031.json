@@ -1,7 +1,7 @@
 {
   "number": 1031,
-  "questionId": 100305,
-  "questionNumber": "334340",
+  "questionId": "033-1031",
+  "questionNumber": "033-1031",
   "stemHtml": "<p>Refer to figure or use CAP 697 Figure 3.4.<br>An aeroplane is flying at FL90 at the economy power setting. What is the TAS if the OAT is ISA +10\u00b0C?</p>",
   "options": {
     "a": "170 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/1ae1f5e4-3f9b-41cc-bbf5-e8f71abdc205.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1ae1f5e4-3f9b-41cc-bbf5-e8f71abdc205.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100305,
+    "number": "334340"
+  }
 }

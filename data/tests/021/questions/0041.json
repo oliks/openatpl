@@ -1,7 +1,7 @@
 {
   "number": 41,
-  "questionId": 68091,
-  "questionNumber": "211720",
+  "questionId": "021-0041",
+  "questionNumber": "021-0041",
   "stemHtml": "<p>Which one of the following situations might cause a higher-than-normal oil pressure indication?</p>",
   "options": {
     "a": "<p>A high outside air temperature.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The pressure relief valve stuck.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68091,
+    "number": "211720"
+  }
 }

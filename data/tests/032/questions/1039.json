@@ -1,7 +1,7 @@
 {
   "number": 1039,
-  "questionId": 108554,
-  "questionNumber": "325356",
+  "questionId": "032-1039",
+  "questionNumber": "032-1039",
   "stemHtml": "<p>How does runway slope affect the maximum landing mass, assuming other factors remain constant and not limiting?</p>",
   "options": {
     "a": "<p>A downhill slope increases landing mass</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An uphill slope does NOT affect maximum landing mass</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108554,
+    "number": "325356"
+  }
 }

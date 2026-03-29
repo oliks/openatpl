@@ -1,7 +1,7 @@
 {
   "number": 337,
-  "questionId": 84473,
-  "questionNumber": "229830",
+  "questionId": "022-0337",
+  "questionNumber": "022-0337",
   "stemHtml": "<p>Refer to figure. <br /> What is the control panel in the image used for?</p>",
   "options": {
     "a": "Traffic collision and avoidance system (TCAS).",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/010759A1-657E-4353-9721-94C725418DCB.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/010759A1-657E-4353-9721-94C725418DCB.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84473,
+    "number": "229830"
+  }
 }

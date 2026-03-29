@@ -1,7 +1,7 @@
 {
   "number": 751,
-  "questionId": 95963,
-  "questionNumber": "218512",
+  "questionId": "021-0751",
+  "questionNumber": "021-0751",
   "stemHtml": "What is stress corrosion?",
   "options": {
     "a": "A type of corrosion that occurs due to poor maintenance and lack of inspections.",
@@ -10,5 +10,10 @@
     "d": "A type of corrosion that occurs due to the use of improper cleaning materials."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95963,
+    "number": "218512"
+  }
 }

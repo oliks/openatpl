@@ -1,7 +1,7 @@
 {
   "number": 1380,
-  "questionId": 67648,
-  "questionNumber": "214957",
+  "questionId": "021-1380",
+  "questionNumber": "021-1380",
   "stemHtml": "<p>The function of an accumulator in a hydraulic brake system is to\u2026</p>",
   "options": {
     "a": "function as a buffer to assist the hydraulic system during heavy braking and act as a power source for emergency undercarriage lowering.",
@@ -10,5 +10,10 @@
     "d": "store the hydraulic energy recovered by the anti-skid system when preventing the wheels from locking."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67648,
+    "number": "214957"
+  }
 }

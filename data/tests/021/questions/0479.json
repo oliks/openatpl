@@ -1,7 +1,7 @@
 {
   "number": 479,
-  "questionId": 67644,
-  "questionNumber": "212229",
+  "questionId": "021-0479",
+  "questionNumber": "021-0479",
   "stemHtml": "<p>Parameters to monitor a hydraulic system in the cockpit are\u2026</p>",
   "options": {
     "a": "<p>pressure and fluid viscosity.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>pressure, fluid temperature and quantity.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67644,
+    "number": "212229"
+  }
 }

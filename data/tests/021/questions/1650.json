@@ -1,7 +1,7 @@
 {
   "number": 1650,
-  "questionId": 82807,
-  "questionNumber": "211498",
+  "questionId": "021-1650",
+  "questionNumber": "021-1650",
   "stemHtml": "In the event of a complete failure of all electrical generators, with battery backups taking over, which of the following should be a main concern?",
   "options": {
     "a": "Batteries will only last for a limited amount of time.",
@@ -10,5 +10,10 @@
     "d": "Batteries could begin thermal runaway under heavy load."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82807,
+    "number": "211498"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 53,
-  "questionId": 81906,
-  "questionNumber": "329968",
+  "questionId": "032-0053",
+  "questionNumber": "032-0053",
   "stemHtml": "A multi-engined performance class B aeroplane has a wingspan of less than 60 metres. What is the semi-width of the obstacle accountability area at a distance of D from the end of the TODA? A semi-width\u2026",
   "options": {
     "a": "of at least 2 x wingspan plus 90 m, plus D x0.125.",
@@ -10,5 +10,10 @@
     "d": "at the discretion of the pilot to ensure obstacle avoidance."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81906,
+    "number": "329968"
+  }
 }

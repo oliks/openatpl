@@ -1,7 +1,7 @@
 {
   "number": 1163,
-  "questionId": 85239,
-  "questionNumber": "218627",
+  "questionId": "021-1163",
+  "questionNumber": "021-1163",
   "stemHtml": "<p>One of the main systems using hydraulic system is\u2026</p>",
   "options": {
     "a": "IDG",
@@ -10,5 +10,10 @@
     "d": "<p>Constant speed drive (CSD)</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85239,
+    "number": "218627"
+  }
 }

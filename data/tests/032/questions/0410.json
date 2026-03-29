@@ -1,7 +1,7 @@
 {
   "number": 410,
-  "questionId": 79297,
-  "questionNumber": "327232",
+  "questionId": "032-0410",
+  "questionNumber": "032-0410",
   "stemHtml": "<p>In the landing roll, when can the pilot apply the brakes?</p><p>1) When both main gears touch the ground<br>2) When at least one main gear has contact with runway <br>3) When both main gears are on the ground and provided that the nose gear can be lowered in a controlled manner permitting it to touch down safely<br>4) When all wheels are on the ground</p>",
   "options": {
     "a": "1 and 2.",
@@ -10,5 +10,10 @@
     "d": "3 and 4."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79297,
+    "number": "327232"
+  }
 }

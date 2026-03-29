@@ -1,7 +1,7 @@
 {
   "number": 1336,
-  "questionId": 68274,
-  "questionNumber": "214302",
+  "questionId": "021-1336",
+  "questionNumber": "021-1336",
   "stemHtml": "<p>For internal cooling, reciprocating engines are especially dependent on\u2026</p>",
   "options": {
     "a": "a lean fuel/air mixture",
@@ -10,5 +10,10 @@
     "d": "the circulation of lubricating oil"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68274,
+    "number": "214302"
+  }
 }

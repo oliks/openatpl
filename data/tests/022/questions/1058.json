@@ -1,7 +1,7 @@
 {
   "number": 1058,
-  "questionId": 69279,
-  "questionNumber": "228184",
+  "questionId": "022-1058",
+  "questionNumber": "022-1058",
   "stemHtml": "<p>Considering an air-driven Artificial Horizon, when an aircraft accelerates during a take-off run the result is\u2026</p>",
   "options": {
     "a": "<div>Nothing happens, the AI can account for this</div>",
@@ -10,5 +10,10 @@
     "d": "<p>A False pitch up indication</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69279,
+    "number": "228184"
+  }
 }

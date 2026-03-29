@@ -1,7 +1,7 @@
 {
   "number": 1290,
-  "questionId": 85126,
-  "questionNumber": "223680",
+  "questionId": "022-1290",
+  "questionNumber": "022-1290",
   "stemHtml": "<p>An aircraft is equipped with a turn and slip indicator. If the needle is deflected and the ball is centered, the aircraft is\u2026</p>",
   "options": {
     "a": "Yawing",
@@ -10,5 +10,10 @@
     "d": "Drifting"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85126,
+    "number": "223680"
+  }
 }

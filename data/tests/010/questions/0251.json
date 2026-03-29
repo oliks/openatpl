@@ -1,7 +1,7 @@
 {
   "number": 251,
-  "questionId": 67133,
-  "questionNumber": "101333",
+  "questionId": "010-0251",
+  "questionNumber": "010-0251",
   "stemHtml": "<p>The surface before a runway threshold is paved and exceeds 60 m in length. It is NOT suitable for the normal movement of aircraft. What should the entire length before the threshold be marked with?</p>",
   "options": {
     "a": "<p>By a white X.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>By a yellow X.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67133,
+    "number": "101333"
+  }
 }

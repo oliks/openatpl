@@ -1,7 +1,7 @@
 {
   "number": 602,
-  "questionId": 66677,
-  "questionNumber": "108770",
+  "questionId": "010-0602",
+  "questionNumber": "010-0602",
   "stemHtml": "After landing, while taxiing the landing gear sinks into a hole. No person gets injured, but the aircraft sustains structural failure, which delays the departure. Which of the following correctly describes the situation and following action...",
   "options": {
     "a": "This is an accident. The crew must follow the procedure relevant to this case.",
@@ -10,5 +10,10 @@
     "d": "This is an irregularity in the operation. The crew must inform the operator of the aerodrome and establish a report."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66677,
+    "number": "108770"
+  }
 }

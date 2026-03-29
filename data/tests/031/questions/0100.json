@@ -1,7 +1,7 @@
 {
   "number": 100,
-  "questionId": 140459,
-  "questionNumber": "317228",
+  "questionId": "031-0100",
+  "questionNumber": "031-0100",
   "stemHtml": "<p>Based on the given data, calculate the actual Zero Fuel Mass.</p><p>Operating Mass: 45 430 kg <br>Actual Traffic Load: 14 730 kg <br>Take-off Fuel: 10 550 kg</p>",
   "options": {
     "a": "<p>49 610 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>54 310 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140459,
+    "number": "317228"
+  }
 }

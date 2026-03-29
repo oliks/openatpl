@@ -1,7 +1,7 @@
 {
   "number": 1010,
-  "questionId": 67893,
-  "questionNumber": "218138",
+  "questionId": "021-1010",
+  "questionNumber": "021-1010",
   "stemHtml": "<p>The two deformation modes that cause wing flutter are\u2026</p>",
   "options": {
     "a": "<p>bending and elongation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>torsion and bending.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67893,
+    "number": "218138"
+  }
 }

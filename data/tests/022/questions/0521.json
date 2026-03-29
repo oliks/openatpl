@@ -1,7 +1,7 @@
 {
   "number": 521,
-  "questionId": 81414,
-  "questionNumber": "226394",
+  "questionId": "022-0521",
+  "questionNumber": "022-0521",
   "stemHtml": "<p>A directional gyroscope may drift over time due to:</p>\r\r<p>1. Rotation of the Earth <br /> \r2. Attitude <br /> \r3. Aircraft manoeuvring <br /> \r4. Aircraft movement over the Earth's surface <br /> \r5. Magnetic dip <br /> \r6. Piloting errors <br /> \r7. Wind correction</p>",
   "options": {
     "a": "<p dir=\"ltr\">1, 2, 3, 4 and 7</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">2, 4 and 5</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81414,
+    "number": "226394"
+  }
 }

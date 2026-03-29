@@ -1,7 +1,7 @@
 {
   "number": 112,
-  "questionId": 83216,
-  "questionNumber": "319898",
+  "questionId": "031-0112",
+  "questionNumber": "031-0112",
   "stemHtml": "<p>When must an operator ensure an aircraft is weighed?</p>",
   "options": {
     "a": "<p>Every 9 years for individual aircraft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Every 4 years for individual aircraft.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83216,
+    "number": "319898"
+  }
 }

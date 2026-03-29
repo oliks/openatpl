@@ -1,7 +1,7 @@
 {
   "number": 209,
-  "questionId": 78458,
-  "questionNumber": "335855",
+  "questionId": "033-0209",
+  "questionNumber": "033-0209",
   "stemHtml": "Refer to figure. <br /> Actual Ground Speed (GS) on the leg waypoint 5 - 6 is 420 kt. Based on the planned and actual data shown in the flight log excerpt and provided that fuel consumption remains unchanged from previous leg, what remaining fuel should be expected at waypoint 6?",
   "options": {
     "a": "<p>7012 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/E79B07A7-BC8D-4A41-8DFC-8520EA9682E4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E79B07A7-BC8D-4A41-8DFC-8520EA9682E4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78458,
+    "number": "335855"
+  }
 }

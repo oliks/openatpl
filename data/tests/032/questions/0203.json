@@ -1,7 +1,7 @@
 {
   "number": 203,
-  "questionId": 69840,
-  "questionNumber": "329237",
+  "questionId": "032-0203",
+  "questionNumber": "032-0203",
   "stemHtml": "<p>The speed at which the pilot makes a control input with the intention of lifting the aeroplane out of contact with the runway is called\u2026</p>",
   "options": {
     "a": "V<sub>LO</sub>.",
@@ -10,5 +10,10 @@
     "d": "V<sub>LOF</sub>."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69840,
+    "number": "329237"
+  }
 }

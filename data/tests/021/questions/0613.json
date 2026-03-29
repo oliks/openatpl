@@ -1,7 +1,7 @@
 {
   "number": 613,
-  "questionId": 68182,
-  "questionNumber": "214547",
+  "questionId": "021-0613",
+  "questionNumber": "021-0613",
   "stemHtml": "<p>On a large transport aeroplane, the auto-slat system\u2026</p>",
   "options": {
     "a": "<p>ensures that the (part of) slats are always extended when the ground/flight system is in the \u201cground\u201d position\u201d.</p>",
@@ -10,5 +10,10 @@
     "d": "extends (part of) the slats automatically when a certain value of angle of attack is exceeded."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68182,
+    "number": "214547"
+  }
 }

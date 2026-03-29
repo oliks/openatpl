@@ -1,7 +1,7 @@
 {
   "number": 701,
-  "questionId": 79510,
-  "questionNumber": "103134",
+  "questionId": "010-0701",
+  "questionNumber": "010-0701",
   "stemHtml": "Which of the following statements is correct regarding ACAS?",
   "options": {
     "a": "It takes control of the flight controls when necessary to provide clearance between other traffic.",
@@ -10,5 +10,10 @@
     "d": "It alerts ATC if other traffic becomes a threat."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79510,
+    "number": "103134"
+  }
 }

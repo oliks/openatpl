@@ -1,7 +1,7 @@
 {
   "number": 941,
-  "questionId": 67084,
-  "questionNumber": "103806",
+  "questionId": "010-0941",
+  "questionNumber": "010-0941",
   "stemHtml": "<p>According to ICAO, the location of the runway threshold is\u2026</p>",
   "options": {
     "a": "variable, depending on the types of operations undertaken.",
@@ -10,5 +10,10 @@
     "d": "normally at the extremity of a runway, if there are no obstacles penetrating above the approach surface."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67084,
+    "number": "103806"
+  }
 }

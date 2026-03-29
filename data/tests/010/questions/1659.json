@@ -1,7 +1,7 @@
 {
   "number": 1659,
-  "questionId": 161592,
-  "questionNumber": "108109",
+  "questionId": "010-1659",
+  "questionNumber": "010-1659",
   "stemHtml": "<p>During an en-route flight phase the crew gets an ACAS RA (Resolution Advisory) and simultaneously receives a conflicting instruction from ATC. Which instruction should the crew follow?</p>",
   "options": {
     "a": "<p>ATC clearance to minimise the potential risk of flying into terrain.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>RA to minimise the potential risk of flying into terrain.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161592,
+    "number": "108109"
+  }
 }

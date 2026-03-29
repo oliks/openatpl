@@ -1,7 +1,7 @@
 {
   "number": 979,
-  "questionId": 107929,
-  "questionNumber": "325451",
+  "questionId": "032-0979",
+  "questionNumber": "032-0979",
   "stemHtml": "<p>An aircraft is in a descent with a constant angle and speed. Which of the following does the aircraft have?</p>",
   "options": {
     "a": "<p>Excess thrust</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Excess lift</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107929,
+    "number": "325451"
+  }
 }

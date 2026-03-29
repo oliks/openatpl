@@ -1,7 +1,7 @@
 {
   "number": 1731,
-  "questionId": 85523,
-  "questionNumber": "101433",
+  "questionId": "010-1731",
+  "questionNumber": "010-1731",
   "stemHtml": "Who is in charge of traffic separation during a VFR approach?",
   "options": {
     "a": "ATC",
@@ -10,5 +10,10 @@
     "d": "Nobody"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85523,
+    "number": "101433"
+  }
 }

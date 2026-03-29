@@ -1,7 +1,7 @@
 {
   "number": 344,
-  "questionId": 70572,
-  "questionNumber": "331931",
+  "questionId": "033-0344",
+  "questionNumber": "033-0344",
   "stemHtml": "<p>Excluding RVSM an appropriate flight level for IFR flight in accordance with semi-circular height rules on a magnetic course of 200\u00b0 is\u2026</p>",
   "options": {
     "a": "FL310",
@@ -10,5 +10,10 @@
     "d": "FL300"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70572,
+    "number": "331931"
+  }
 }

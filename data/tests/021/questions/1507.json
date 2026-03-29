@@ -1,7 +1,7 @@
 {
   "number": 1507,
-  "questionId": 80127,
-  "questionNumber": "213607",
+  "questionId": "021-1507",
+  "questionNumber": "021-1507",
   "stemHtml": "What does a modern small turbine engine, for example an APU, have?",
   "options": {
     "a": "<p>A mechanical starter motor that uses impulse-coupling starters.</p>",
@@ -10,5 +10,10 @@
     "d": "A pneumatic starter motor, using gas bottles."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80127,
+    "number": "213607"
+  }
 }

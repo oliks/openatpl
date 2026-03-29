@@ -1,7 +1,7 @@
 {
   "number": 411,
-  "questionId": 84715,
-  "questionNumber": "225970",
+  "questionId": "022-0411",
+  "questionNumber": "022-0411",
   "stemHtml": "<p>The autothrust is NOT used in severe turbulence. Why is that?</p>",
   "options": {
     "a": "The aircraft may exceed its never exceed speed due to autothrust inputs.",
@@ -10,5 +10,10 @@
     "d": "The aircraft may stall due to too low autothrust inputs."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84715,
+    "number": "225970"
+  }
 }

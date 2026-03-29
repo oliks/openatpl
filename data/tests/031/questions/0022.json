@@ -1,7 +1,7 @@
 {
   "number": 22,
-  "questionId": 69572,
-  "questionNumber": "314201",
+  "questionId": "031-0022",
+  "questionNumber": "031-0022",
   "stemHtml": "According to the Flight Manual, the Maximum Structural Mass of your aircraft is 3200 lb (for take-off or landing), which can be increased by 50 lb when taxiing. It is a hot day and the performance charts restrict the Maximum All Up Mass (MAUM) to 3100 lb. \r\n<div> </div>\r\n\r\n<div>What is the value of the Regulated Landing Mass (RLM)?</div>",
   "options": {
     "a": "3250 lb",
@@ -10,5 +10,10 @@
     "d": "3100 lb"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69572,
+    "number": "314201"
+  }
 }

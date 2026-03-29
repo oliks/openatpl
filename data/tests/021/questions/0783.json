@@ -1,7 +1,7 @@
 {
   "number": 783,
-  "questionId": 68188,
-  "questionNumber": "217559",
+  "questionId": "021-0783",
+  "questionNumber": "021-0783",
   "stemHtml": "<p>A FADEC on a gas turbine engine\u2026</p>",
   "options": {
     "a": "is a single channel system.",
@@ -10,5 +10,10 @@
     "d": "consists of two identical channels cross linked through an non engine related aircraft computer."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68188,
+    "number": "217559"
+  }
 }

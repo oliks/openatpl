@@ -1,7 +1,7 @@
 {
   "number": 661,
-  "questionId": 82288,
-  "questionNumber": "322400",
+  "questionId": "032-0661",
+  "questionNumber": "032-0661",
   "stemHtml": "According to CS-25, the final take-off speed V<strong><sub>FTO</sub></strong>\u2026",
   "options": {
     "a": "may not be less than 1.08 V<sub>S1 </sub>and must provide the manoeuvring capability.",
@@ -10,5 +10,10 @@
     "d": "may not be less than V<sub>2</sub> min and V<sub>R</sub> plus the speed increment to screen height."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82288,
+    "number": "322400"
+  }
 }

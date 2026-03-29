@@ -1,7 +1,7 @@
 {
   "number": 1548,
-  "questionId": 67544,
-  "questionNumber": "214760",
+  "questionId": "021-1548",
+  "questionNumber": "021-1548",
   "stemHtml": "<p>A primary ice detection system can be defined as a system that\u2026</p>",
   "options": {
     "a": "only detects ice accretion on the primary flight control surfaces.",
@@ -10,5 +10,10 @@
     "d": "cannot be used to activate the ice protection systems."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67544,
+    "number": "214760"
+  }
 }

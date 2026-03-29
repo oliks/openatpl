@@ -1,7 +1,7 @@
 {
   "number": 155,
-  "questionId": 80271,
-  "questionNumber": "313453",
+  "questionId": "031-0155",
+  "questionNumber": "031-0155",
   "stemHtml": "An aircraft has had modifications done to it that were known. 3 years have passed since it was last weighed. Does it need to be reweighed?",
   "options": {
     "a": "According to EU-OPS, it doesn't have to be reweighed.",
@@ -10,5 +10,10 @@
     "d": "It has to be reweighed in 6 years time."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80271,
+    "number": "313453"
+  }
 }

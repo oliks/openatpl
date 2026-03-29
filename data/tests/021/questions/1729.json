@@ -1,7 +1,7 @@
 {
   "number": 1729,
-  "questionId": 67313,
-  "questionNumber": "217664",
+  "questionId": "021-1729",
+  "questionNumber": "021-1729",
   "stemHtml": "<p>The use of igniters in a gas turbine engine is required:</p><p>1. In case of engine flame out\u00a0<br>2. During engine acceleration\u00a0<br>3. For in-flight relights</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2.",
@@ -10,5 +10,10 @@
     "d": "1, 2."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67313,
+    "number": "217664"
+  }
 }

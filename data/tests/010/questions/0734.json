@@ -1,7 +1,7 @@
 {
   "number": 734,
-  "questionId": 80061,
-  "questionNumber": "102266",
+  "questionId": "010-0734",
+  "questionNumber": "010-0734",
   "stemHtml": "The stopway is an area beyond the runway which can used from deceleration in the event of a rejected take-off. What is correct about a stopway?",
   "options": {
     "a": "The runway strip is included in the stopway.",
@@ -10,5 +10,10 @@
     "d": "It is as wide as the runway strip."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80061,
+    "number": "102266"
+  }
 }

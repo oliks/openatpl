@@ -1,7 +1,7 @@
 {
   "number": 1648,
-  "questionId": 127999,
-  "questionNumber": "101087",
+  "questionId": "010-1648",
+  "questionNumber": "010-1648",
   "stemHtml": "<p>When conducting a flight with a destination in another country, which section of the AIP should you consult to discover the transition altitude in the destination country?</p>",
   "options": {
     "a": "<p>GEN</p>",
@@ -10,5 +10,10 @@
     "d": "<p>SUP</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 127999,
+    "number": "101087"
+  }
 }

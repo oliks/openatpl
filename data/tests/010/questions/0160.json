@@ -1,7 +1,7 @@
 {
   "number": 160,
-  "questionId": 67159,
-  "questionNumber": "101460",
+  "questionId": "010-0160",
+  "questionNumber": "010-0160",
   "stemHtml": "Which of the following statements is true about the taxiway design?",
   "options": {
     "a": "Taxiways are designed so that the cockpit undershoots the taxiway centre line.",
@@ -10,5 +10,10 @@
     "d": "Taxiways are designed so that the cockpit remains over the taxiway centre line."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67159,
+    "number": "101460"
+  }
 }

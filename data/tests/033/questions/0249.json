@@ -1,7 +1,7 @@
 {
   "number": 249,
-  "questionId": 82670,
-  "questionNumber": "335839",
+  "questionId": "033-0249",
+  "questionNumber": "033-0249",
   "stemHtml": "The purpose of the Receiver Autonomous Integrity Monitoring (RAIM) is to ensure the (1) _____ of the GNSS navigation signals. For the RAIM function, at least one additional (2) _____ needs to be available to determine with precision its actual position and known potential error.",
   "options": {
     "a": "(1) integrity; (2) satellite",
@@ -10,5 +10,10 @@
     "d": "(1) availability; (2) receiver"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82670,
+    "number": "335839"
+  }
 }

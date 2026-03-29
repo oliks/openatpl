@@ -1,7 +1,7 @@
 {
   "number": 349,
-  "questionId": 70757,
-  "questionNumber": "339624",
+  "questionId": "033-0349",
+  "questionNumber": "033-0349",
   "stemHtml": "<p>\"Integrated range\" curves or tables are presented in the Aeroplane Operations Manuals. Their purpose is\u2026</p>",
   "options": {
     "a": "to determine the still air distance for a wind components varying with altitude.",
@@ -10,5 +10,10 @@
     "d": "to determine the optimum speed considering the fuel cost as well as the time related cost of the aeroplane."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70757,
+    "number": "339624"
+  }
 }

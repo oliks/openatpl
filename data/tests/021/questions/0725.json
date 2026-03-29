@@ -1,7 +1,7 @@
 {
   "number": 725,
-  "questionId": 67670,
-  "questionNumber": "214800",
+  "questionId": "021-0725",
+  "questionNumber": "021-0725",
   "stemHtml": "If air is tapped from the HP compressor of a gas turbine engine which has its N2 RPM controlled, what will be the effect on EPR and EGT?",
   "options": {
     "a": "EPR decreases and EGT increases.",
@@ -10,5 +10,10 @@
     "d": "EPR remains constant and EGT increases."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67670,
+    "number": "214800"
+  }
 }

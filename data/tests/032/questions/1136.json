@@ -1,7 +1,7 @@
 {
   "number": 1136,
-  "questionId": 70016,
-  "questionNumber": "324547",
+  "questionId": "032-1136",
+  "questionNumber": "032-1136",
   "stemHtml": "<p>What effect has a downhill slope on the take-off speeds? The slope\u2026</p>",
   "options": {
     "a": "has no effect on the take-off speed V<sub>1</sub>",
@@ -10,5 +10,10 @@
     "d": "increases the IAS for take-off."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70016,
+    "number": "324547"
+  }
 }

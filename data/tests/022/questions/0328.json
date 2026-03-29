@@ -1,7 +1,7 @@
 {
   "number": 328,
-  "questionId": 68596,
-  "questionNumber": "222901",
+  "questionId": "022-0328",
+  "questionNumber": "022-0328",
   "stemHtml": "Alarms are standardised and follow a code of colours. Those requiring action but not immediately, are characterised by the following colour:",
   "options": {
     "a": "red.",
@@ -10,5 +10,10 @@
     "d": "flashing red."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68596,
+    "number": "222901"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1214,
-  "questionId": 67703,
-  "questionNumber": "219599",
+  "questionId": "021-1214",
+  "questionNumber": "021-1214",
   "stemHtml": "<p>The reading on the engine oil pressure gauge is the\u2026</p>",
   "options": {
     "a": "difference between the pressure pump pressure and the scavenge pump pressure.",
@@ -10,5 +10,10 @@
     "d": "pressure in the oil tank."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67703,
+    "number": "219599"
+  }
 }

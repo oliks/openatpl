@@ -1,7 +1,7 @@
 {
   "number": 761,
-  "questionId": 70921,
-  "questionNumber": "334463",
+  "questionId": "033-0761",
+  "questionNumber": "033-0761",
   "stemHtml": "<p>Refer to figure or AMSTERDAM - Chart 10-2B from Jeppesen GSPRM 2017.\u00a0<br>You are flying from the waypoint MOLIX to SUGOL, with 330 kt TAS, 180\u00b0/25 kt wind, fuel flow 1800 kg/h. Your actual fuel over MOLIX is 3000 kg. ATC asks you to hold over SUGOL for 20 minutes. What is your fuel remaining after the holding?</p>",
   "options": {
     "a": "<p>2190 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/78A145B0-10D6-48C6-B6E2-494319575F57.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/78A145B0-10D6-48C6-B6E2-494319575F57.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70921,
+    "number": "334463"
+  }
 }

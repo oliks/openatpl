@@ -1,7 +1,7 @@
 {
   "number": 1205,
-  "questionId": 84402,
-  "questionNumber": "221499",
+  "questionId": "022-1205",
+  "questionNumber": "022-1205",
   "stemHtml": "<p>The purpose of the performance database in the FMC is\u2026</p>",
   "options": {
     "a": "<p>To record the performance of the aircraft over time and to adapt the flight routes accordingly.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To keep track of the performance of the flight crew.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84402,
+    "number": "221499"
+  }
 }

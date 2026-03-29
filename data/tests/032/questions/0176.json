@@ -1,7 +1,7 @@
 {
   "number": 176,
-  "questionId": 84640,
-  "questionNumber": "325490",
+  "questionId": "032-0176",
+  "questionNumber": "032-0176",
   "stemHtml": "Which of the following will happen if the pilot sets take-off thrust using the actual OAT instead of the FLEX temperature calculated for a reduced thrust take-off?",
   "options": {
     "a": "No change.",
@@ -10,5 +10,10 @@
     "d": "Decreased take-off performance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84640,
+    "number": "325490"
+  }
 }

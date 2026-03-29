@@ -1,7 +1,7 @@
 {
   "number": 250,
-  "questionId": 114269,
-  "questionNumber": "216811",
+  "questionId": "021-0250",
+  "questionNumber": "021-0250",
   "stemHtml": "<p>On final approach, your aircraft encounters a hydraulic failure on the system which powers the brakes. How does the pilot pressurise the brake accumulator to ensure braking capability?</p>",
   "options": {
     "a": "<p>By using a dedicated switch in the cockpit.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Nothing needs to be done as the accumulator is automatically pressurised when engines are running.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 114269,
+    "number": "216811"
+  }
 }

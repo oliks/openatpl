@@ -1,7 +1,7 @@
 {
   "number": 537,
-  "questionId": 66937,
-  "questionNumber": "101479",
+  "questionId": "010-0537",
+  "questionNumber": "010-0537",
   "stemHtml": "<p>In airspace Class F below (1) _____ AMSL the maximum speed for flights under VFR is (2) _____.</p>",
   "options": {
     "a": "<p>(1) 10 000 ft; (2) 250 kt IAS.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) 15 000 ft; (2) 240 kt TAS.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66937,
+    "number": "101479"
+  }
 }

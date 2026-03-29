@@ -1,7 +1,7 @@
 {
   "number": 1050,
-  "questionId": 84716,
-  "questionNumber": "226550",
+  "questionId": "022-1050",
+  "questionNumber": "022-1050",
   "stemHtml": "<p>A pilot would like to insert a waypoint into the FMS. How can this be achieved?</p>",
   "options": {
     "a": "<p> Using latitude/longitude coordinates, but also place, bearing, and distance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p> Using airline database waypoints.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84716,
+    "number": "226550"
+  }
 }

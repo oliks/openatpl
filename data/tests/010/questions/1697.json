@@ -1,7 +1,7 @@
 {
   "number": 1697,
-  "questionId": 67212,
-  "questionNumber": "105002",
+  "questionId": "010-1697",
+  "questionNumber": "010-1697",
   "stemHtml": "<p>A RESA\u2026</p>",
   "options": {
     "a": "starts at the end of the runway and is symmetrical about the runway centre line. Its minimum length is 90 m.",
@@ -10,5 +10,10 @@
     "d": "starts at the end of the runway strip and is symmetrical about the runway centre line. Its minimum length is 90 m."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67212,
+    "number": "105002"
+  }
 }

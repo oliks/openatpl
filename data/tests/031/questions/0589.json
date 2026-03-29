@@ -1,7 +1,7 @@
 {
   "number": 589,
-  "questionId": 79496,
-  "questionNumber": "316517",
+  "questionId": "031-0589",
+  "questionNumber": "031-0589",
   "stemHtml": "An aircraft performing line service between two airports within the same state is carrying 12 passengers on a given day. The total number of passenger seats is 19. What standard mass must be used for the passengers' baggage?",
   "options": {
     "a": "11 kg.",
@@ -10,5 +10,10 @@
     "d": "Standard masses must not be used."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79496,
+    "number": "316517"
+  }
 }

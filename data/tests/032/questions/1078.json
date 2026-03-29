@@ -1,7 +1,7 @@
 {
   "number": 1078,
-  "questionId": 107344,
-  "questionNumber": "324611",
+  "questionId": "032-1078",
+  "questionNumber": "032-1078",
   "stemHtml": "<p>You have the True Airspeed (TAS) and the Ground Speed (GS) of the aircraft and are calculating the distance covered in nautical miles. If due to headwinds, the TAS is 608 kt and the GS is 550 kt, how many nautical miles will the aircraft cover in one hour? Additionally, which speed relates to the aircraft\u2019s operation at its most efficient aerodynamic state?</p>",
   "options": {
     "a": "<p>550 NM, V<sub>MD</sub></p>",
@@ -10,5 +10,10 @@
     "d": "<p>550 NM, Best Endurance</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107344,
+    "number": "324611"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1680,
-  "questionId": 67817,
-  "questionNumber": "213054",
+  "questionId": "021-1680",
+  "questionNumber": "021-1680",
   "stemHtml": "<p>The continuous ignition mode of a gas turbine engine is a\u2026</p>",
   "options": {
     "a": "low-energy-level ignition used when there is an increased risk of a flame-out.",
@@ -10,5 +10,10 @@
     "d": "high-energy-level ignition used during all engine operating modes."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67817,
+    "number": "213054"
+  }
 }

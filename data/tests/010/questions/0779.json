@@ -1,7 +1,7 @@
 {
   "number": 779,
-  "questionId": 66972,
-  "questionNumber": "104601",
+  "questionId": "010-0779",
+  "questionNumber": "010-0779",
   "stemHtml": "Which element of a position report may be omitted when SSR Mode C information is used in a safe and efficient manner?",
   "options": {
     "a": "The time.",
@@ -10,5 +10,10 @@
     "d": "The flight level or altitude."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66972,
+    "number": "104601"
+  }
 }

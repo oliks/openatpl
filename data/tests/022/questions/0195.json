@@ -1,7 +1,7 @@
 {
   "number": 195,
-  "questionId": 117514,
-  "questionNumber": "222836",
+  "questionId": "022-0195",
+  "questionNumber": "022-0195",
   "stemHtml": "<p>Some tuboprop aircraft use a mechanical torquemeter system which uses a gearbox with helical gears. Regarding its measurement, torque is defined as the product of the applied force and...</p>",
   "options": {
     "a": "<p>the rate at which the force is applied.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the distance perpendicular from the axis of rotation to the line of action of the force.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117514,
+    "number": "222836"
+  }
 }

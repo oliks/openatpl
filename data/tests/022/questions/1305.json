@@ -1,7 +1,7 @@
 {
   "number": 1305,
-  "questionId": 86254,
-  "questionNumber": "229510",
+  "questionId": "022-1305",
+  "questionNumber": "022-1305",
   "stemHtml": "<p>Consider the following statements about the principle, features and limitations of an Enhanced Visual System (EVS). Which are correct or incorrect?</p><p>1. The imagery on the Primary Flight Display (PFD) or Head-Up Display (HUD) is based on actual sensory information coming from external sensors<br>2. An accurate aircraft position is needed for the EVS to provide the real-time imagery on the PFD or HUD</p>",
   "options": {
     "a": "Both 1 and 2 are correct",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86254,
+    "number": "229510"
+  }
 }

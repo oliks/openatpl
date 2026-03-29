@@ -1,7 +1,7 @@
 {
   "number": 1229,
-  "questionId": 67583,
-  "questionNumber": "216017",
+  "questionId": "021-1229",
+  "questionNumber": "021-1229",
   "stemHtml": "<p>The main purpose of a Constant Speed Drive unit is to\u2026</p>",
   "options": {
     "a": "mechanically protect the alternator drive shaft during coupling.",
@@ -10,5 +10,10 @@
     "d": "maintain a constant frequency."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67583,
+    "number": "216017"
+  }
 }

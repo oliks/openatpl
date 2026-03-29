@@ -1,7 +1,7 @@
 {
   "number": 853,
-  "questionId": 70083,
-  "questionNumber": "326118",
+  "questionId": "032-0853",
+  "questionNumber": "032-0853",
   "stemHtml": "The rate of climb...",
   "options": {
     "a": "is approximately climb gradient times true airspeed divided by 100",
@@ -10,5 +10,10 @@
     "d": "is the downhill component of the true airspeed"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70083,
+    "number": "326118"
+  }
 }

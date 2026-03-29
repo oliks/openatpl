@@ -1,7 +1,7 @@
 {
   "number": 1668,
-  "questionId": 80206,
-  "questionNumber": "228790",
+  "questionId": "022-1668",
+  "questionNumber": "022-1668",
   "stemHtml": "<p>What is drift in Inertial Navigation Systems?</p>",
   "options": {
     "a": "<p>It is caused by mass imbalance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It is the main error.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80206,
+    "number": "228790"
+  }
 }

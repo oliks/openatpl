@@ -1,7 +1,7 @@
 {
   "number": 791,
-  "questionId": 106273,
-  "questionNumber": "102449",
+  "questionId": "010-0791",
+  "questionNumber": "010-0791",
   "stemHtml": "<p>A pilot needed to extract a tooth and the dentist used local anaesthesia. Thirty minutes after the application of anaesthesia, the pilot is asked by the company to fly. Is that possible?</p>",
   "options": {
     "a": "<p>No, because the effects of anesthesia can impair your ability to fly safely.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No, but you can fly after an hour.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106273,
+    "number": "102449"
+  }
 }

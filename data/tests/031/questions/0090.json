@@ -1,7 +1,7 @@
 {
   "number": 90,
-  "questionId": 69486,
-  "questionNumber": "313661",
+  "questionId": "031-0090",
+  "questionNumber": "031-0090",
   "stemHtml": "<p>A box weighing 300 kg has dimensions of 1 m x 1.5 m x 0.6 m. It needs to be loaded in a cargo hold compartment with a maximum running load of 257.9 kg/m. Indicate the side of the box that should be placed on the floor along the longitudinal axis of the aircraft.</p>",
   "options": {
     "a": "<p>The side that is 0.6 m long.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The side that is 1 m long.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69486,
+    "number": "313661"
+  }
 }

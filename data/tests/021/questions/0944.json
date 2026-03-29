@@ -1,7 +1,7 @@
 {
   "number": 944,
-  "questionId": 106107,
-  "questionNumber": "215553",
+  "questionId": "021-0944",
+  "questionNumber": "021-0944",
   "stemHtml": "<p>What should the air/fuel ratio be during a take-off at sea level in a piston engine?</p>",
   "options": {
     "a": "<p>15:1</p>",
@@ -10,5 +10,10 @@
     "d": "<p>10:1</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106107,
+    "number": "215553"
+  }
 }

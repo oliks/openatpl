@@ -1,7 +1,7 @@
 {
   "number": 529,
-  "questionId": 68861,
-  "questionNumber": "225994",
+  "questionId": "022-0529",
+  "questionNumber": "022-0529",
   "stemHtml": "Some FMS have an autotuning function. Which parameters can be automatically tuned?",
   "options": {
     "a": "HF frequencies.",
@@ -10,5 +10,10 @@
     "d": "Radio navigation frequencies."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68861,
+    "number": "225994"
+  }
 }

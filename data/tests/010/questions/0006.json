@@ -1,7 +1,7 @@
 {
   "number": 6,
-  "questionId": 101837,
-  "questionNumber": "109020",
+  "questionId": "010-0006",
+  "questionNumber": "010-0006",
   "stemHtml": "<p>The markers used for high tension overhead cables or wires have a (i)_____ shape and a minimum width of (ii)_____ cm.</p>",
   "options": {
     "a": "<p>(i) spherical, (ii) 30</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(i) spherical, (ii) 60</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101837,
+    "number": "109020"
+  }
 }

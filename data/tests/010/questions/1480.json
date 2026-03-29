@@ -1,7 +1,7 @@
 {
   "number": 1480,
-  "questionId": 67122,
-  "questionNumber": "107132",
+  "questionId": "010-1480",
+  "questionNumber": "010-1480",
   "stemHtml": "<p>A NO ENTRY sign shall be located\u2026</p>",
   "options": {
     "a": "<p>at the beginning of the area to which entrance is prohibited on each side of the taxiway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>at the beginning of the area to which entrance is prohibited on the left side of the taxiway.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67122,
+    "number": "107132"
+  }
 }

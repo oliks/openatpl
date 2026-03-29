@@ -1,7 +1,7 @@
 {
   "number": 36,
-  "questionId": 69588,
-  "questionNumber": "314045",
+  "questionId": "031-0036",
+  "questionNumber": "031-0036",
   "stemHtml": "<p>An aeroplane has a Basic Empty Mass of 1000 kg, located at station 92. <br /> The pilot\u2019s mass is 80 kg, located at station 100. <br /> The fuel mass is 120 kg, located at station 130. <br /> The length of the MAC is 60 inches, 0% MAC is at station 80.</p><div><p>What is the centre of gravity location of the loaded aeroplane in % MAC?</p></div>",
   "options": {
     "a": "96.3% MAC",
@@ -10,5 +10,10 @@
     "d": "27.2% MAC"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69588,
+    "number": "314045"
+  }
 }

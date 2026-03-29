@@ -1,7 +1,7 @@
 {
   "number": 1453,
-  "questionId": 69133,
-  "questionNumber": "224758",
+  "questionId": "022-1453",
+  "questionNumber": "022-1453",
   "stemHtml": "<p>An overspeed warning is provided to\u2026</p>",
   "options": {
     "a": "<p>alert inadvertent excursions beyond limit speeds, V<sub>MO</sub>/M<sub>MO</sub> (Maximum Operating Limit Speed/Mach Number).</p>",
@@ -10,5 +10,10 @@
     "d": "prevent inadvertent excursions below limit speed V<sub>S</sub> (Stall Speed)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69133,
+    "number": "224758"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1632,
-  "questionId": 106043,
-  "questionNumber": "107698",
+  "questionId": "010-1632",
+  "questionNumber": "010-1632",
   "stemHtml": "<p>What are the privileges of a person that holds a class or type rating?</p>",
   "options": {
     "a": "<p>To act without remuneration as PIC or co-pilots of aeroplanes or TMGs engaged in non-commercial operations and to exercise all privileges of holders of an PPL.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To undertake aerobatic flights.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106043,
+    "number": "107698"
+  }
 }

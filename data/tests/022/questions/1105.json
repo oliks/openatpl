@@ -1,7 +1,7 @@
 {
   "number": 1105,
-  "questionId": 100124,
-  "questionNumber": "222291",
+  "questionId": "022-1105",
+  "questionNumber": "022-1105",
   "stemHtml": "<p>What is the primary function of a \"stick shaker\" device in an aircraft's cockpit?</p>",
   "options": {
     "a": "<p>To shake the control wheel to alert the pilot of a stall condition.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To provide visual indicators on the instrument panel for stall awareness.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100124,
+    "number": "222291"
+  }
 }

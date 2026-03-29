@@ -1,7 +1,7 @@
 {
   "number": 603,
-  "questionId": 70509,
-  "questionNumber": "334804",
+  "questionId": "033-0603",
+  "questionNumber": "033-0603",
   "stemHtml": "<p>Refer to figure. <br>In the ATS flight plan item 7, for a radio equipped aircraft, the identifier must always\u2026</p>",
   "options": {
     "a": "include the aircraft registration marking",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/992AC384-8576-463F-97BA-B60D8FFFE894.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/992AC384-8576-463F-97BA-B60D8FFFE894.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70509,
+    "number": "334804"
+  }
 }

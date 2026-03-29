@@ -1,7 +1,7 @@
 {
   "number": 893,
-  "questionId": 69255,
-  "questionNumber": "225299",
+  "questionId": "022-0893",
+  "questionNumber": "022-0893",
   "stemHtml": "<p>The aural alerts associated with the mode 3 altitude loss after take-off or go-around of the GPWS is/are:</p><p>1 -\u201cDON`T SINK\u201d <br>2 -\u201cSINKRATE \u201d <br>3 -\u201cTERRAIN\u201d <br>4 -\u201cPULL UP\u201d</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2.",
@@ -10,5 +10,10 @@
     "d": "3, 4."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69255,
+    "number": "225299"
+  }
 }

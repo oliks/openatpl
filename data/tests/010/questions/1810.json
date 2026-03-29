@@ -1,7 +1,7 @@
 {
   "number": 1810,
-  "questionId": 80248,
-  "questionNumber": "107537",
+  "questionId": "010-1810",
+  "questionNumber": "010-1810",
   "stemHtml": "<p>When a runway is required to have centre-line lights, the lights in the last 300 meters of the runway shall be showing\u2026</p>",
   "options": {
     "a": "Alternate red and variable white.",
@@ -10,5 +10,10 @@
     "d": "Red."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80248,
+    "number": "107537"
+  }
 }

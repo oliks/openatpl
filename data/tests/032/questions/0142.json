@@ -1,7 +1,7 @@
 {
   "number": 142,
-  "questionId": 69760,
-  "questionNumber": "324153",
+  "questionId": "032-0142",
+  "questionNumber": "032-0142",
   "stemHtml": "Which cruise system gives minimum fuel consumption during cruise between top of climb and top of descent? (still air, no turbulence)",
   "options": {
     "a": "Long range.",
@@ -10,5 +10,10 @@
     "d": "Maximum endurance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69760,
+    "number": "324153"
+  }
 }

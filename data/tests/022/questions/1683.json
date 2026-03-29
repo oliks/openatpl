@@ -1,7 +1,7 @@
 {
   "number": 1683,
-  "questionId": 111069,
-  "questionNumber": "229640",
+  "questionId": "022-1683",
+  "questionNumber": "022-1683",
   "stemHtml": "<p>Which of the following, in computer terminology, is an input peripheral?</p>",
   "options": {
     "a": "<p>Loudspeaker</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Central processing unit</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111069,
+    "number": "229640"
+  }
 }

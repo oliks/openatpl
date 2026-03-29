@@ -1,7 +1,7 @@
 {
   "number": 749,
-  "questionId": 70874,
-  "questionNumber": "338506",
+  "questionId": "033-0749",
+  "questionNumber": "033-0749",
   "stemHtml": "<p>Refer to figure ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017. <br>When approaching Alicante, what is the procedure if you experience a communication failure?</p>",
   "options": {
     "a": "Turn to the closest aerodrome without control zone, land there and inform ATC via phone call.",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/1F322404-9BC1-47A7-A271-B73D469FA7AF.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1F322404-9BC1-47A7-A271-B73D469FA7AF.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70874,
+    "number": "338506"
+  }
 }

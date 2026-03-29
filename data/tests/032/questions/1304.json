@@ -1,7 +1,7 @@
 {
   "number": 1304,
-  "questionId": 110156,
-  "questionNumber": "325190",
+  "questionId": "032-1304",
+  "questionNumber": "032-1304",
   "stemHtml": "<p>A propeller aircraft with a naturally aspirated piston engine is cruising at FL80. It then descends to FL60. What will be the effect on the max achievable IAS in straight and level flight?</p>",
   "options": {
     "a": "<p>It will increase.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It will increase and then decrease.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110156,
+    "number": "325190"
+  }
 }

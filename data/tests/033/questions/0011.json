@@ -1,7 +1,7 @@
 {
   "number": 11,
-  "questionId": 70875,
-  "questionNumber": "331263",
+  "questionId": "033-0011",
+  "questionNumber": "033-0011",
   "stemHtml": "<p>Refer to figure or chart \"E LO 1\" from Jeppesen GSPRM 2017.\u00a0<br>A section of a flight is carried out from SUMBURGH (SUM) to ABERDEEN (ADN) along airway Y905. What is the lowest continuous FL you can use?</p>",
   "options": {
     "a": "FL110",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2688B705-7FD1-4718-B2C8-3C7A1F0009F8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2688B705-7FD1-4718-B2C8-3C7A1F0009F8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70875,
+    "number": "331263"
+  }
 }

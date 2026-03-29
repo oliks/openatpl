@@ -1,7 +1,7 @@
 {
   "number": 1374,
-  "questionId": 103610,
-  "questionNumber": "105300",
+  "questionId": "010-1374",
+  "questionNumber": "010-1374",
   "stemHtml": "<p>A pilot sets 1013.2 on the altimeter. What should the pilot be reporting to ATC?</p>",
   "options": {
     "a": "<p>Flight altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Altimeter setting.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103610,
+    "number": "105300"
+  }
 }

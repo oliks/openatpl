@@ -1,7 +1,7 @@
 {
   "number": 893,
-  "questionId": 82663,
-  "questionNumber": "334563",
+  "questionId": "033-0893",
+  "questionNumber": "033-0893",
   "stemHtml": "<p>Refer to figure or ABERDEEN - Chart 10-IV from Jeppesen. <br>What is the correct frequency to contact with the Scottish Information Service when flying overhead the reporting point \"BANCHORY\", southwest of Aberdeen Airport?</p>",
   "options": {
     "a": "126.25",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/80929B53-86A9-48F3-9F77-9E9922068A80.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/80929B53-86A9-48F3-9F77-9E9922068A80.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82663,
+    "number": "334563"
+  }
 }

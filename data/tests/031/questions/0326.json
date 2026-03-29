@@ -1,7 +1,7 @@
 {
   "number": 326,
-  "questionId": 69478,
-  "questionNumber": "317204",
+  "questionId": "031-0326",
+  "questionNumber": "031-0326",
   "stemHtml": "<p>When does the Centre of Gravity position and Take-off Mass have to be calculated and checked against the limits?</p>",
   "options": {
     "a": "Before each flight.",
@@ -10,5 +10,10 @@
     "d": "If the load is different from the last flight."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69478,
+    "number": "317204"
+  }
 }

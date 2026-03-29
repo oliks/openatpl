@@ -1,7 +1,7 @@
 {
   "number": 1881,
-  "questionId": 78759,
-  "questionNumber": "218799",
+  "questionId": "021-1881",
+  "questionNumber": "021-1881",
   "stemHtml": "<p>How is the differential pressure ice detector (Smiths Ice Detector) activated?</p>",
   "options": {
     "a": "<p>By an increase in static pressure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>By a decrease in static pressure.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78759,
+    "number": "218799"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 685,
-  "questionId": 67604,
-  "questionNumber": "211944",
+  "questionId": "021-0685",
+  "questionNumber": "021-0685",
   "stemHtml": "A gaseous fire loop system is tested by checking the..",
   "options": {
     "a": "resistance of the wiring harness.",
@@ -10,5 +10,10 @@
     "d": "integrity of the sensing and warning circuits."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67604,
+    "number": "211944"
+  }
 }

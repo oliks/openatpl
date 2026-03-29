@@ -1,7 +1,7 @@
 {
   "number": 509,
-  "questionId": 83014,
-  "questionNumber": "102654",
+  "questionId": "010-0509",
+  "questionNumber": "010-0509",
   "stemHtml": "<p>An aircraft is on VOR track 332\u00b0 for a straight-in-approach. What runway direction could the pilot expect to have?</p>",
   "options": {
     "a": "<p>292\u00b0 to 312\u00b0</p>",
@@ -10,5 +10,10 @@
     "d": "312\u00b0 to 292\u00b0"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83014,
+    "number": "102654"
+  }
 }

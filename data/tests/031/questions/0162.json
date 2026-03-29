@@ -1,7 +1,7 @@
 {
   "number": 162,
-  "questionId": 69474,
-  "questionNumber": "318490",
+  "questionId": "031-0162",
+  "questionNumber": "031-0162",
   "stemHtml": "<p>Given:</p>\r\r<p>Zero Fuel Mass: 6660 kg <br /> \rTrip Fuel: 990 kg <br /> \rBlock Fuel: 1540 kg <br /> \rTaxi Fuel: 25 kg</p>\r\r<p>The actual Take-off Mass is equal to\u2026</p>",
   "options": {
     "a": "<p>7210 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>8110 kg</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69474,
+    "number": "318490"
+  }
 }

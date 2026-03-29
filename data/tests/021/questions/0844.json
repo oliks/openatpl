@@ -1,7 +1,7 @@
 {
   "number": 844,
-  "questionId": 109510,
-  "questionNumber": "217975",
+  "questionId": "021-0844",
+  "questionNumber": "021-0844",
   "stemHtml": "<p>When checking fuel for contaminants, the fuel should be checked (1) _____, the colour of the fuel (2) _____, and when water contamination is present (3) _____.</p>",
   "options": {
     "a": "<p>(1) 30 minutes after refuelling; (2) Jet A-1 is blue; (3) It turns cloudy</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Before the first flight of the day; (2) Avgas 100LL is clear or straw coloured; (3) Nothing happens</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109510,
+    "number": "217975"
+  }
 }

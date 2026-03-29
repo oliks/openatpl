@@ -1,7 +1,7 @@
 {
   "number": 233,
-  "questionId": 111978,
-  "questionNumber": "322589",
+  "questionId": "032-0233",
+  "questionNumber": "032-0233",
   "stemHtml": "<p>Which statements are correct regarding the best endurance speed for a propeller aircraft?</p>\r\r<p>1. V<strong><sub>MP</sub></strong> is the speed for best endurance <br /> \r2. V<strong><sub>MD</sub></strong> is the speed for best endurance <br /> \r3. Wind does not affect best endurance speed, but turbulence does <br /> \r4. You should fly at the highest possible angle of attack for the best endurance speed <br /> \r5. The best endurance speed should be flown at the lowest possible altitude to maximise endurance</p>",
   "options": {
     "a": "<p>1, 3 and 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p> </p>\r\n\r\n<p>2, 4 and 5</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111978,
+    "number": "322589"
+  }
 }

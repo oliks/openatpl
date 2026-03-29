@@ -1,7 +1,7 @@
 {
   "number": 906,
-  "questionId": 159818,
-  "questionNumber": "106127",
+  "questionId": "010-0906",
+  "questionNumber": "010-0906",
   "stemHtml": "<p>An aircraft experiences a radio communication failure while approaching a controlled aerodrome and is unable to establish contact on the appropriate frequency. What is the right course of action?</p>",
   "options": {
     "a": "<p>Fly by the control tower at 500 ft and rock the wings.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Continue the approach and land if the runway appears clear.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159818,
+    "number": "106127"
+  }
 }

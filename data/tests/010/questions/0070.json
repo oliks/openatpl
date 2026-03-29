@@ -1,7 +1,7 @@
 {
   "number": 70,
-  "questionId": 102692,
-  "questionNumber": "104146",
+  "questionId": "010-0070",
+  "questionNumber": "010-0070",
   "stemHtml": "<p>What are the documents that should be carried on board the aircraft?</p>",
   "options": {
     "a": "<p>Certificate of registration, certificate of airworthiness.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Certificate of registration, certificate of airworthiness, recognition of certificates and licences.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102692,
+    "number": "104146"
+  }
 }

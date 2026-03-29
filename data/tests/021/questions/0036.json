@@ -1,7 +1,7 @@
 {
   "number": 36,
-  "questionId": 67527,
-  "questionNumber": "218617",
+  "questionId": "021-0036",
+  "questionNumber": "021-0036",
   "stemHtml": "<p>The engine air intakes of large transport aircraft are usually protected against ice by\u2026</p>",
   "options": {
     "a": "<p>hot bleed air.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>inflatable boots.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67527,
+    "number": "218617"
+  }
 }

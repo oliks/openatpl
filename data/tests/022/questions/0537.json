@@ -1,7 +1,7 @@
 {
   "number": 537,
-  "questionId": 108889,
-  "questionNumber": "221985",
+  "questionId": "022-0537",
+  "questionNumber": "022-0537",
   "stemHtml": "<p>What flight envelope protections are specific to Fly-By-Wire (FBW) aircraft?</p>",
   "options": {
     "a": "<p>Over rotation on take-off</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Engine failure</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108889,
+    "number": "221985"
+  }
 }

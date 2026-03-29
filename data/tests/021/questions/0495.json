@@ -1,7 +1,7 @@
 {
   "number": 495,
-  "questionId": 68334,
-  "questionNumber": "214243",
+  "questionId": "021-0495",
+  "questionNumber": "021-0495",
   "stemHtml": "In a gas filled fire detection system, what would be the cause of an error warning?",
   "options": {
     "a": "High resistance",
@@ -10,5 +10,10 @@
     "d": "High pressure"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68334,
+    "number": "214243"
+  }
 }

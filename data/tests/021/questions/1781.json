@@ -1,7 +1,7 @@
 {
   "number": 1781,
-  "questionId": 67568,
-  "questionNumber": "214387",
+  "questionId": "021-1781",
+  "questionNumber": "021-1781",
   "stemHtml": "<p>If a gas-filled fire detector becomes broken, the result will be...</p>",
   "options": {
     "a": "a decrease in pressure, causing a fire warning.",
@@ -10,5 +10,10 @@
     "d": "a decrease in pressure, causing a loop fault indication."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67568,
+    "number": "214387"
+  }
 }

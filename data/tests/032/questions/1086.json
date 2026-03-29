@@ -1,7 +1,7 @@
 {
   "number": 1086,
-  "questionId": 69793,
-  "questionNumber": "327510",
+  "questionId": "032-1086",
+  "questionNumber": "032-1086",
   "stemHtml": "Which of the jet engine ratings below is not a certified rating?",
   "options": {
     "a": "Maximum Cruise Thrust",
@@ -10,5 +10,10 @@
     "d": "Go-Around Thrust"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69793,
+    "number": "327510"
+  }
 }

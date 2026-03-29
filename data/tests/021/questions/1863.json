@@ -1,7 +1,7 @@
 {
   "number": 1863,
-  "questionId": 68351,
-  "questionNumber": "219199",
+  "questionId": "021-1863",
+  "questionNumber": "021-1863",
   "stemHtml": "<p>The freezing/waxing point of JET A-1 fuel is\u2026<br> </p>",
   "options": {
     "a": "<p>-47\u00b0C.<br> </p>",
@@ -10,5 +10,10 @@
     "d": "<p>-40\u00b0C.<br> </p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68351,
+    "number": "219199"
+  }
 }

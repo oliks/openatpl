@@ -1,7 +1,7 @@
 {
   "number": 309,
-  "questionId": 69779,
-  "questionNumber": "323810",
+  "questionId": "032-0309",
+  "questionNumber": "032-0309",
   "stemHtml": "<p>During take-off the third segment begins\u2026</p>",
   "options": {
     "a": "when landing gear is fully retracted.",
@@ -10,5 +10,10 @@
     "d": "when acceleration to final take-off speed (V<sub>FTO</sub>) is started."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69779,
+    "number": "323810"
+  }
 }

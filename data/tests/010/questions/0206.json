@@ -1,7 +1,7 @@
 {
   "number": 206,
-  "questionId": 67134,
-  "questionNumber": "103089",
+  "questionId": "010-0206",
+  "questionNumber": "010-0206",
   "stemHtml": "An aircraft is moving on the apron. What marking is used to warn the pilot that the shoulders of the surface are non-load-bearing?",
   "options": {
     "a": "A pair of solid lines in the same colour as the taxiway centre line marking.",
@@ -10,5 +10,10 @@
     "d": "A pair of solid lines in the same colour as the runway centre line marking."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67134,
+    "number": "103089"
+  }
 }

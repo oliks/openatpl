@@ -1,7 +1,7 @@
 {
   "number": 1615,
-  "questionId": 69210,
-  "questionNumber": "229528",
+  "questionId": "022-1615",
+  "questionNumber": "022-1615",
   "stemHtml": "<p>The purpose of a flight director is to\u2026</p>",
   "options": {
     "a": "<p>convey air traffic control information to the pilot.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>reduce the pilots workload by presenting data in the form of control commands.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69210,
+    "number": "229528"
+  }
 }

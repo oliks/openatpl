@@ -1,7 +1,7 @@
 {
   "number": 1388,
-  "questionId": 110758,
-  "questionNumber": "101186",
+  "questionId": "010-1388",
+  "questionNumber": "010-1388",
   "stemHtml": "<p>An aircraft lands on a runway without clearance. Who is resposible for submitting the Mandatory Occurrence Report?</p>",
   "options": {
     "a": "<p>The aircraft will be held on the apron while the airport authorities decide whether ATC or PIC will file the report.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The Pilot-In-Command.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110758,
+    "number": "101186"
+  }
 }

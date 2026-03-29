@@ -1,7 +1,7 @@
 {
   "number": 701,
-  "questionId": 67314,
-  "questionNumber": "215123",
+  "questionId": "021-0701",
+  "questionNumber": "021-0701",
   "stemHtml": "What is the correct sequence during the start of a turbine engine on the ground?",
   "options": {
     "a": "Rotation, fuel, ignition.",
@@ -10,5 +10,10 @@
     "d": "Starter, ignition, rotation, fuel."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67314,
+    "number": "215123"
+  }
 }

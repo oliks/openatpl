@@ -1,7 +1,7 @@
 {
   "number": 276,
-  "questionId": 83339,
-  "questionNumber": "105178",
+  "questionId": "010-0276",
+  "questionNumber": "010-0276",
   "stemHtml": "A flight in controlled airspace is being subjected to unlawful interference, with a hostage situation. According to SERA, the pilot shall attempt to notify ATC of...",
   "options": {
     "a": "any significant circumstances associated with the interference.",
@@ -10,5 +10,10 @@
     "d": "the flight number, the flight time remaining, and any information about the type(s) of weapon being used."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83339,
+    "number": "105178"
+  }
 }

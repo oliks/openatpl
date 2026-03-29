@@ -1,7 +1,7 @@
 {
   "number": 1187,
-  "questionId": 67259,
-  "questionNumber": "108101",
+  "questionId": "010-1187",
+  "questionNumber": "010-1187",
   "stemHtml": "You depart from London Heathrow Airport. Shortly after departure in the climb-out, you realise, that you have to return to Heathrow but you have to dump fuel and advise ATC. Which of the following instructions may you expect from ATC?",
   "options": {
     "a": "Proceed to English Channel to make a right racetrack pattern, climb 5 000 ft and start dumping there.",
@@ -10,5 +10,10 @@
     "d": "Climb straight ahead an start dumping immediately."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67259,
+    "number": "108101"
+  }
 }

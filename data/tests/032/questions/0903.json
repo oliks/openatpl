@@ -1,7 +1,7 @@
 {
   "number": 903,
-  "questionId": 69967,
-  "questionNumber": "325106",
+  "questionId": "032-0903",
+  "questionNumber": "032-0903",
   "stemHtml": "Reduced take-off thrust...",
   "options": {
     "a": "has the benefit of improving engine life.",
@@ -10,5 +10,10 @@
     "d": "can be used if the actual take-off mass is higher than the performance limited take-off mass."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69967,
+    "number": "325106"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1354,
-  "questionId": 70971,
-  "questionNumber": "337575",
+  "questionId": "033-1354",
+  "questionNumber": "033-1354",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - Chart \"E LO 2\".\u00a0<br>On a flight on airway P600 you are passing TURNBERRY VOR (TRN, N55\u00b019' W004\u00b0 47') and intersections GIRVA, TUNSO and BLACA. What is the MOCA between GIRVA and TUNSO?</p>",
   "options": {
     "a": "FL70",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/9310F439-4A78-4DEB-8718-DDBFB4A75811.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9310F439-4A78-4DEB-8718-DDBFB4A75811.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70971,
+    "number": "337575"
+  }
 }

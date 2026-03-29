@@ -1,7 +1,7 @@
 {
   "number": 1127,
-  "questionId": 78331,
-  "questionNumber": "108153",
+  "questionId": "010-1127",
+  "questionNumber": "010-1127",
   "stemHtml": "<p>To which state shall the final report of an accident or serious incident be sent to with minimum delay?</p><ol><li>The State of Registry</li><li>The State of the Operator</li><li>The State of Design</li><li>The State of Manufacture</li><li>The ICAO, when the aircraft involved is of a maximum mass of over 2250 kg.</li></ol>",
   "options": {
     "a": "1, 2, 3, 4 is correct.",
@@ -10,5 +10,10 @@
     "d": "2, 3, 4, 5 is correct."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78331,
+    "number": "108153"
+  }
 }

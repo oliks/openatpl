@@ -1,7 +1,7 @@
 {
   "number": 906,
-  "questionId": 69174,
-  "questionNumber": "221029",
+  "questionId": "022-0906",
+  "questionNumber": "022-0906",
   "stemHtml": "Which of the following aircraft components are incorporated in an Autoland system?",
   "options": {
     "a": "Flight controls, hydraulics, and control columns.",
@@ -10,5 +10,10 @@
     "d": "Autopilot(s), autothrust, and radio altimeter(s)."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69174,
+    "number": "221029"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 928,
-  "questionId": 83652,
-  "questionNumber": "218563",
+  "questionId": "021-0928",
+  "questionNumber": "021-0928",
   "stemHtml": "<p>What is the primary reason for reducing the airflow axial velocity at the inlet of the combustion chamber in a gas turbine engine?</p>",
   "options": {
     "a": "<p>Decrease static pressure and prevent the flame from extinguishing.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Decrease static pressure and cool the combustion chamber.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83652,
+    "number": "218563"
+  }
 }

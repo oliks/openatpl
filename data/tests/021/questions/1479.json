@@ -1,7 +1,7 @@
 {
   "number": 1479,
-  "questionId": 67772,
-  "questionNumber": "219511",
+  "questionId": "021-1479",
+  "questionNumber": "021-1479",
   "stemHtml": "<p>Refer to figure. <br>The number in the annex that shows the bogie beam is\u2026</p>",
   "options": {
     "a": "number 3.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/44941E97-5007-47C2-9F66-1542716A60AE.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/44941E97-5007-47C2-9F66-1542716A60AE.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67772,
+    "number": "219511"
+  }
 }

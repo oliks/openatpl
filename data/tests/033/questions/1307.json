@@ -1,7 +1,7 @@
 {
   "number": 1307,
-  "questionId": 70957,
-  "questionNumber": "331362",
+  "questionId": "033-1307",
+  "questionNumber": "033-1307",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - Chart \"E LO 2\".\u00a0<br>The section of a routing is via airway T256 from NORBO to DEAN CROSS (DCS, N54\u00b043' W003\u00b020'). What is the first course after passing NORBO and what is the total distance from NORBO to DCS?</p>",
   "options": {
     "a": "<div>147\u00b0 (T), 71 NM</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/19A6472E-12A3-4018-9CB0-B1AF33C85D74.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/19A6472E-12A3-4018-9CB0-B1AF33C85D74.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70957,
+    "number": "331362"
+  }
 }

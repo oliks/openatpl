@@ -1,7 +1,7 @@
 {
   "number": 1345,
-  "questionId": 69901,
-  "questionNumber": "326450",
+  "questionId": "032-1345",
+  "questionNumber": "032-1345",
   "stemHtml": "The critical engine of a multi-engined, propeller-driven aeroplane is the one whose failure would result in the most adverse effect on the aeroplane\u2019s...",
   "options": {
     "a": "endurance.",
@@ -10,5 +10,10 @@
     "d": "maximum altitude."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69901,
+    "number": "326450"
+  }
 }

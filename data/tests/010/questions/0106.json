@@ -1,7 +1,7 @@
 {
   "number": 106,
-  "questionId": 103331,
-  "questionNumber": "109242",
+  "questionId": "010-0106",
+  "questionNumber": "010-0106",
   "stemHtml": "<p>A Special Air Report shall be made when\u2026</p>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>Heavy sandstorm is observed.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The ETA changes by more than 10 minutes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103331,
+    "number": "109242"
+  }
 }

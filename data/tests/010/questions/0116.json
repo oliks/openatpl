@@ -1,7 +1,7 @@
 {
   "number": 116,
-  "questionId": 66827,
-  "questionNumber": "104945",
+  "questionId": "010-0116",
+  "questionNumber": "010-0116",
   "stemHtml": "What does the abbreviation DER stand for?",
   "options": {
     "a": "Displaced End of Runway.",
@@ -10,5 +10,10 @@
     "d": "Direct Entry Route."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66827,
+    "number": "104945"
+  }
 }

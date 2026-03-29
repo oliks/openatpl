@@ -1,7 +1,7 @@
 {
   "number": 111,
-  "questionId": 67749,
-  "questionNumber": "217627",
+  "questionId": "021-0111",
+  "questionNumber": "021-0111",
   "stemHtml": "<p>Which of these statements about structural design principles are correct ?</p><p>1. Fail-safe implies multiple load paths<br>2. Safe life is the preferred design technique for aircraft</p>",
   "options": {
     "a": "<p>Both 1 and 2 are correct.</p>",
@@ -10,5 +10,10 @@
     "d": "1 is correct, 2 is incorrect."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67749,
+    "number": "217627"
+  }
 }

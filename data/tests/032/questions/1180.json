@@ -1,7 +1,7 @@
 {
   "number": 1180,
-  "questionId": 96372,
-  "questionNumber": "323003",
+  "questionId": "032-1180",
+  "questionNumber": "032-1180",
   "stemHtml": "What is the effect of a wet runway on V<strong><sub>1</sub></strong>?",
   "options": {
     "a": "V<sub>1</sub> decreases",
@@ -10,5 +10,10 @@
     "d": "V<sub>1</sub> increases"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96372,
+    "number": "323003"
+  }
 }

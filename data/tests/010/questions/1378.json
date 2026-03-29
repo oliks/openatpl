@@ -1,7 +1,7 @@
 {
   "number": 1378,
-  "questionId": 66837,
-  "questionNumber": "105454",
+  "questionId": "010-1378",
+  "questionNumber": "010-1378",
   "stemHtml": "Aircraft performance has a direct effect on the conduct of instrument approaches. \u2013 What is the most significant aircraft-performance factor?",
   "options": {
     "a": "Speed",
@@ -10,5 +10,10 @@
     "d": "Lift-to-drag ratio"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66837,
+    "number": "105454"
+  }
 }

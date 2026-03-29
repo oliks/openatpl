@@ -1,7 +1,7 @@
 {
   "number": 1690,
-  "questionId": 107963,
-  "questionNumber": "228877",
+  "questionId": "022-1690",
+  "questionNumber": "022-1690",
   "stemHtml": "<p>Which of the following navigational data is provided by an Inertial Navigation System (INS) ?</p>\r\r<p>1. Present position <br /> \r2. Ground speed <br /> \r3. Magnetic heading <br /> \r4. True heading <br /> \r5. Drift error <br /> \r6. Track error</p>",
   "options": {
     "a": "<p>1, 2, 4, 5, 6</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3, 4, 5, 6</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107963,
+    "number": "228877"
+  }
 }

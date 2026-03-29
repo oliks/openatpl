@@ -1,7 +1,7 @@
 {
   "number": 1185,
-  "questionId": 84707,
-  "questionNumber": "222564",
+  "questionId": "022-1185",
+  "questionNumber": "022-1185",
   "stemHtml": "<p>Which system is used to enter manual data for the IRS?</p>",
   "options": {
     "a": "Non-existent since data cannot be entered manually.",
@@ -10,5 +10,10 @@
     "d": "ND."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84707,
+    "number": "222564"
+  }
 }

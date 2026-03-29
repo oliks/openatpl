@@ -1,7 +1,7 @@
 {
   "number": 291,
-  "questionId": 69633,
-  "questionNumber": "323613",
+  "questionId": "032-0291",
+  "questionNumber": "032-0291",
   "stemHtml": "Refer to figure.  <br />  What performance can be achieved by a jet aircraft at 190 knots TAS?",
   "options": {
     "a": "Best range due to lowest thrust required.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/B306B3C5-6146-41CB-BA53-BEAB1C303C91.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/B306B3C5-6146-41CB-BA53-BEAB1C303C91.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69633,
+    "number": "323613"
+  }
 }

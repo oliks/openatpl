@@ -1,7 +1,7 @@
 {
   "number": 94,
-  "questionId": 82136,
-  "questionNumber": "314900",
+  "questionId": "031-0094",
+  "questionNumber": "031-0094",
   "stemHtml": "Refer to figure. <br /> Cross check the filled load sheet and look for any mistakes.",
   "options": {
     "a": "The total moment should be 35042 kg x m.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/ABD63C3B-E0C2-44D2-B74E-B43FB1156D91.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/ABD63C3B-E0C2-44D2-B74E-B43FB1156D91.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82136,
+    "number": "314900"
+  }
 }

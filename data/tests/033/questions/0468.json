@@ -1,7 +1,7 @@
 {
   "number": 468,
-  "questionId": 70443,
-  "questionNumber": "339564",
+  "questionId": "033-0468",
+  "questionNumber": "033-0468",
   "stemHtml": "<p>Refer to figure.  <br />  Given: Planned and actual data as shown in the Flight Log excerpt. Arriving overhead GAMMA you are cleared for direct routeing to MIKE. The flight time for direct flight GAMMA to MIKE will be 1 h 10 min.</p><p>Provided that flight conditions on the direct leg GAMMA to MIKE remain unchanged and fuel consumption remains unchanged, what fuel remaining should be expected at waypoint MIKE?</p>",
   "options": {
     "a": "1510 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2A2F2F81-F550-466C-AB48-114B808752A5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2A2F2F81-F550-466C-AB48-114B808752A5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70443,
+    "number": "339564"
+  }
 }

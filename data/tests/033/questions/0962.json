@@ -1,7 +1,7 @@
 {
   "number": 962,
-  "questionId": 70797,
-  "questionNumber": "333295",
+  "questionId": "033-0962",
+  "questionNumber": "033-0962",
   "stemHtml": "<p>Refer to figure. <br>Calculate the taxi fuel for a commercial flight if the APU is used at the parking position for 35 minutes and the planned taxi time is 15 minutes at both, the departure and the destination\u2026</p>",
   "options": {
     "a": "232 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/4855A18B-16FE-469C-B07A-6C122AF64921.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4855A18B-16FE-469C-B07A-6C122AF64921.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70797,
+    "number": "333295"
+  }
 }

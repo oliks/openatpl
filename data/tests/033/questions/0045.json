@@ -1,7 +1,7 @@
 {
   "number": 45,
-  "questionId": 83054,
-  "questionNumber": "334497",
+  "questionId": "033-0045",
+  "questionNumber": "033-0045",
   "stemHtml": "<p>Refer to figure or Nantes chart 19-1 from Jeppesen GSPRM. <br>An aeroplane is departing from Nantes to conduct VFR flight to the northwest and will cross waypoint (NW). What will be the best visual check point to check the position at waypoint (NW).</p>",
   "options": {
     "a": "The lighted mast next to NW.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/BAA8A442-14D3-40B4-8B8C-A3DB9B340F4F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/BAA8A442-14D3-40B4-8B8C-A3DB9B340F4F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83054,
+    "number": "334497"
+  }
 }

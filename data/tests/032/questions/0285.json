@@ -1,7 +1,7 @@
 {
   "number": 285,
-  "questionId": 81285,
-  "questionNumber": "328231",
+  "questionId": "032-0285",
+  "questionNumber": "032-0285",
   "stemHtml": "<p>Refer to figure or use CAP698 figure 4.5.<br>Determine the climb limited take-off mass, given:</p><p>Airport OAT: +35\u00b0C<br>Airport pressure altitude: 2000 ft<br>Flaps: 5\u00b0<br>A/C pack: OFF.<br>Anti-icing system: OFF<br>PMC: OFF</p>",
   "options": {
     "a": "<p>57 900 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/F6B9758E-5F0B-4567-A5E5-FD6AEAE72B72.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/F6B9758E-5F0B-4567-A5E5-FD6AEAE72B72.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81285,
+    "number": "328231"
+  }
 }

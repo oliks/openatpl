@@ -1,7 +1,7 @@
 {
   "number": 743,
-  "questionId": 67512,
-  "questionNumber": "218460",
+  "questionId": "021-0743",
+  "questionNumber": "021-0743",
   "stemHtml": "<p>How do the gas parameters change within the stator of a compressor stage? The temperature increases, the\u2026</p>",
   "options": {
     "a": "<p>Pressure increases and the speed increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pressure decreases and the speed increases.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67512,
+    "number": "218460"
+  }
 }

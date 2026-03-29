@@ -1,7 +1,7 @@
 {
   "number": 404,
-  "questionId": 67449,
-  "questionNumber": "214498",
+  "questionId": "021-0404",
+  "questionNumber": "021-0404",
   "stemHtml": "<p>Which of these statements about compressor stall in a gas turbine engine are correct or incorrect?</p><p>I. A compressor stall is most likely to occur in a compressor designed for a high pressure ratio operating at low RPM<br>II. A compressor stall is most likely to occur when the air flow stagnates in the rear stages of the compressor</p>",
   "options": {
     "a": "I is incorrect, II is correct.",
@@ -10,5 +10,10 @@
     "d": "I is incorrect, II is incorrect."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67449,
+    "number": "214498"
+  }
 }

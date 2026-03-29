@@ -1,7 +1,7 @@
 {
   "number": 349,
-  "questionId": 84091,
-  "questionNumber": "328883",
+  "questionId": "032-0349",
+  "questionNumber": "032-0349",
   "stemHtml": "<p>Define the speed V<strong><sub>S1g</sub></strong>.</p>",
   "options": {
     "a": "The reference stall speed.",
@@ -10,5 +10,10 @@
     "d": "The stall speed in the landing configuration."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84091,
+    "number": "328883"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 610,
-  "questionId": 69960,
-  "questionNumber": "323663",
+  "questionId": "032-0610",
+  "questionNumber": "032-0610",
   "stemHtml": "<p>The Quick Turnaround Limit Weight (QTLW) is the maximum landing weight for which\u2026</p>",
   "options": {
     "a": "the landing gear structure will resist between two successive landings.",
@@ -10,5 +10,10 @@
     "d": "there is no more guarantee for sufficient brake energy absorption in case of a short landing."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69960,
+    "number": "323663"
+  }
 }

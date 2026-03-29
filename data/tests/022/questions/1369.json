@@ -1,7 +1,7 @@
 {
   "number": 1369,
-  "questionId": 66524,
-  "questionNumber": "225963",
+  "questionId": "022-1369",
+  "questionNumber": "022-1369",
   "stemHtml": "<p>Refer to figure. <br>What is the deviation when flying on a heading of 088<strong>\u00b0</strong>(C).</p>",
   "options": {
     "a": "0\u00b0",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/4D90962E-DCA5-4DEC-B8FD-0FB2E8DD228F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/4D90962E-DCA5-4DEC-B8FD-0FB2E8DD228F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66524,
+    "number": "225963"
+  }
 }

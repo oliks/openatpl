@@ -1,7 +1,7 @@
 {
   "number": 208,
-  "questionId": 108659,
-  "questionNumber": "215578",
+  "questionId": "021-0208",
+  "questionNumber": "021-0208",
   "stemHtml": "<p>Which of the following is particularly dangerous in the vicinity of an oxygen bottle when there is a leak, and why?</p>",
   "options": {
     "a": "<p>Fuel, because it can cause spontaneous combustion.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Oil and grease, because they can cause spontaneous combustion.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108659,
+    "number": "215578"
+  }
 }

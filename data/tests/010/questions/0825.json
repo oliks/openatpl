@@ -1,7 +1,7 @@
 {
   "number": 825,
-  "questionId": 103308,
-  "questionNumber": "109975",
+  "questionId": "010-0825",
+  "questionNumber": "010-0825",
   "stemHtml": "<p>After the completition of a CDFA non-precision approach the pilot can land or _____.</p>",
   "options": {
     "a": "<p>execute a missed approach</p>",
@@ -10,5 +10,10 @@
     "d": "<p>enter a circling manoeuvre</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103308,
+    "number": "109975"
+  }
 }

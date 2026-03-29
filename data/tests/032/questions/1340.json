@@ -1,7 +1,7 @@
 {
   "number": 1340,
-  "questionId": 107348,
-  "questionNumber": "322862",
+  "questionId": "032-1340",
+  "questionNumber": "032-1340",
   "stemHtml": "<p>What is the best endurance speed on a propeller aircraft?</p>",
   "options": {
     "a": "<p>V<sub>MD</sub></p>",
@@ -10,5 +10,10 @@
     "d": "<p>V<sub>MP </sub>and it varies with the wind vector</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107348,
+    "number": "322862"
+  }
 }

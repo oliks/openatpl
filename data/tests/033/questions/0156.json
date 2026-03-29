@@ -1,7 +1,7 @@
 {
   "number": 156,
-  "questionId": 70533,
-  "questionNumber": "339761",
+  "questionId": "033-0156",
+  "questionNumber": "033-0156",
   "stemHtml": "Refer to figure. <br /> Finish the ENDURANCE/FUEL CALCULATION and determine ATC ENDURANCE for a twin jet aeroplane, with the help of the table provided. Contingency is 5 % of the planned trip fuel and fuel flow for extra fuel is 2400 kg/h.",
   "options": {
     "a": "ATC ENDURANCE: 03:52",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/C870487F-4184-4C4A-A183-E66780D06302.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C870487F-4184-4C4A-A183-E66780D06302.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70533,
+    "number": "339761"
+  }
 }

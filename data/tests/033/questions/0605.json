@@ -1,7 +1,7 @@
 {
   "number": 605,
-  "questionId": 159793,
-  "questionNumber": "332691",
+  "questionId": "033-0605",
+  "questionNumber": "033-0605",
   "stemHtml": "<p>Refer to figure. <br /> In an emergency situation, you are positioned 15 NM from the ALT VOR/DME on the 290\u00b0 radial. What Minimum Sector Altitude (MSA) applies?</p>",
   "options": {
     "a": "<p>5900 ft  <br />   </p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/f1a58d8c-c4ec-4831-8116-0952db9014ae.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f1a58d8c-c4ec-4831-8116-0952db9014ae.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159793,
+    "number": "332691"
+  }
 }

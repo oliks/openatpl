@@ -1,7 +1,7 @@
 {
   "number": 60,
-  "questionId": 67278,
-  "questionNumber": "108234",
+  "questionId": "010-0060",
+  "questionNumber": "010-0060",
   "stemHtml": "<p>During an approach the pilot notices the PAPI lights. The closest light to the runway is illuminated red, and the three lights furthest to the runway are illuminated white. The aircraft\u2026</p>",
   "options": {
     "a": "Is above the approach slope.",
@@ -10,5 +10,10 @@
     "d": "Is to the right of the localizer."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67278,
+    "number": "108234"
+  }
 }

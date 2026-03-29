@@ -1,7 +1,7 @@
 {
   "number": 1010,
-  "questionId": 79543,
-  "questionNumber": "321344",
+  "questionId": "032-1010",
+  "questionNumber": "032-1010",
   "stemHtml": "<p>Refer to figure or CAP 698 figure 3.9. <br>What is the required minimum landing distance available for MEP1 according to EU-OPS? <br><br>Landing surface: wet grass <br>Temp +30<strong>\u00b0</strong>C <br>Altitude: MSL <br>Weight: 4300 lb <br>Headwind component: 5 kts</p>",
   "options": {
     "a": "<p>3943 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/EAF2F94E-B77C-46AD-A6E2-6AE866E665B9.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/EAF2F94E-B77C-46AD-A6E2-6AE866E665B9.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79543,
+    "number": "321344"
+  }
 }

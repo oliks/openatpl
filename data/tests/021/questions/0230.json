@@ -1,7 +1,7 @@
 {
   "number": 230,
-  "questionId": 83119,
-  "questionNumber": "215274",
+  "questionId": "021-0230",
+  "questionNumber": "021-0230",
   "stemHtml": "<p>Which of the following statements is correct regarding rain repellents?</p>",
   "options": {
     "a": "<p>The rain droplets bond into large drops that get blown away more easily by the airflow.</p>",
@@ -10,5 +10,10 @@
     "d": "The chemical nature of the repellent evaporates the water."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83119,
+    "number": "215274"
+  }
 }

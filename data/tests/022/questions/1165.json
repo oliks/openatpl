@@ -1,7 +1,7 @@
 {
   "number": 1165,
-  "questionId": 66518,
-  "questionNumber": "226116",
+  "questionId": "022-1165",
+  "questionNumber": "022-1165",
   "stemHtml": "<p>Which of the following situations would initiate the requirement for a compass swing? After a\u2026</p>",
   "options": {
     "a": "<p>period of one year during which the aircraft has remained stationary.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>period of one year during which the aircraft was operated for cargo flights only.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66518,
+    "number": "226116"
+  }
 }

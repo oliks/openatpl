@@ -1,7 +1,7 @@
 {
   "number": 196,
-  "questionId": 153996,
-  "questionNumber": "323795",
+  "questionId": "032-0196",
+  "questionNumber": "032-0196",
   "stemHtml": "<p>A turbojet aeroplane is flying at its cruising altitude when the outside air temperature increases. What is the effect on the range?</p>",
   "options": {
     "a": "<p>Specific range increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Specific range depends only on the altitude and fuel. </p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153996,
+    "number": "323795"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 461,
-  "questionId": 82153,
-  "questionNumber": "314728",
+  "questionId": "031-0461",
+  "questionNumber": "031-0461",
   "stemHtml": "<p>Refer to figure. <br /> For take-off performance purposes, you need to establish a CG position at take-off at 798 inches aft of the datum. Given the following information, which one of the two boxes must be moved and into which hold?</p><p>Current CG position: 780 inches aft of the datum. <br /> Actual Take-off mass: 48 700 lb. <br /> Box X is located 1185 inches aft of the datum, in hold 5. <br /> Box Z is located 180 inches aft of the datum, in hold 1. <br /> Both boxes have the same mass of 880 lb.</p><p>Consider the fuel consumption from engine start to take-off negligible.</p>",
   "options": {
     "a": "Box Z must be moved to hold 5.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/CE7A31CE-3CB0-4401-BEA2-1D3AAA34BE55.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/CE7A31CE-3CB0-4401-BEA2-1D3AAA34BE55.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82153,
+    "number": "314728"
+  }
 }

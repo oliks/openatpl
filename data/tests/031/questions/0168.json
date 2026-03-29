@@ -1,7 +1,7 @@
 {
   "number": 168,
-  "questionId": 81301,
-  "questionNumber": "319697",
+  "questionId": "031-0168",
+  "questionNumber": "031-0168",
   "stemHtml": "<p>Just before closing the doors of the aircraft, you are asked if it is possible to accept a group of passengers re-booked from another flight. Knowing that your departure is take-off limited, determine the underload so that you can decide how many passengers to accept:</p><p>Allowed take off mass: 24 220 kg <br>Operating mass: 14 792 kg <br>Dry operating mas: 8693 kg <br>Actual traffic load: 2563 kg <br>Take off fuel: 6099 kg <br>Disregard changes in fuel due to increase in the total mass.</p>",
   "options": {
     "a": "<p dir=\"ltr\">12 964 kg</p>",
@@ -10,5 +10,10 @@
     "d": "766 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81301,
+    "number": "319697"
+  }
 }

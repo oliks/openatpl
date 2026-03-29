@@ -1,7 +1,7 @@
 {
   "number": 125,
-  "questionId": 100837,
-  "questionNumber": "335603",
+  "questionId": "033-0125",
+  "questionNumber": "033-0125",
   "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is departing following ANDIK 2F SID from Amsterdam with an aircraft with RNAV equipment fully operational. The aircraft should...</p>",
   "options": {
     "a": "<p>Turn as directed by ATC.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/4bad4c37-5877-492a-bd8a-1354e90faa70.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4bad4c37-5877-492a-bd8a-1354e90faa70.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100837,
+    "number": "335603"
+  }
 }

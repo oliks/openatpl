@@ -1,7 +1,7 @@
 {
   "number": 621,
-  "questionId": 96657,
-  "questionNumber": "334924",
+  "questionId": "033-0621",
+  "questionNumber": "033-0621",
   "stemHtml": "<p>Refer to figures and/or to chart E(LO)13 from the Jeppesen GSPRM 2017.<br>You are planning a flight from Ajaccio (LFKJ) to Marina di Campo (LIRJ), routing along airways A9 and L146. Extract the information from the chart and complete the navigation plan. What will be the total distance and estimated flight time?</p>",
   "options": {
     "a": "<p>118 NM and 55 minutes</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/68f893c3-6d44-416b-8d2e-b8d7839e5f98.jpeg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/68f893c3-6d44-416b-8d2e-b8d7839e5f98.jpeg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96657,
+    "number": "334924"
+  }
 }

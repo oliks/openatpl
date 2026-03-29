@@ -1,7 +1,7 @@
 {
   "number": 474,
-  "questionId": 140898,
-  "questionNumber": "103981",
+  "questionId": "010-0474",
+  "questionNumber": "010-0474",
   "stemHtml": "<p>Which of the following relationships is true?</p>",
   "options": {
     "a": "<p>DA = DH + THR elevation</p>",
@@ -10,5 +10,10 @@
     "d": "<p>DH = OCH + THR elevation</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140898,
+    "number": "103981"
+  }
 }

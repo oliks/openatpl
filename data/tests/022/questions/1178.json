@@ -1,7 +1,7 @@
 {
   "number": 1178,
-  "questionId": 84403,
-  "questionNumber": "225780",
+  "questionId": "022-1178",
+  "questionNumber": "022-1178",
   "stemHtml": "<p>The installed EFB has a malfunction. Which of the following may be inaccessible?</p>",
   "options": {
     "a": "<p>Systems display pages.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>EICAS data.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84403,
+    "number": "225780"
+  }
 }

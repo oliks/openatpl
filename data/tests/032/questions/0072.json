@@ -1,7 +1,7 @@
 {
   "number": 72,
-  "questionId": 70164,
-  "questionNumber": "327629",
+  "questionId": "032-0072",
+  "questionNumber": "032-0072",
   "stemHtml": "<p>Refer to figure or CAP698 file 3.9.<br />\r\nAerodrome Pressure Altitude: 2000 ft<br />\r\nOAT: 0\u00b0C Landing Mass: 4000 lb<br />\r\nHeadwind component: 5 kt<br />\r\nRunway condition: wet Runway slope: 1% down</p>\r\n\r\n<p>Given the following information for a Performance Class B aeroplane, what is the Landing Distance Required?</p>\r\n\r\n<div> </div>\r\n",
   "options": {
     "a": "4006 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/D1F46994-E8E4-440F-BF24-69CBDC5E8F54.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/D1F46994-E8E4-440F-BF24-69CBDC5E8F54.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70164,
+    "number": "327629"
+  }
 }

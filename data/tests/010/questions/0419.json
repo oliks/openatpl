@@ -1,7 +1,7 @@
 {
   "number": 419,
-  "questionId": 67106,
-  "questionNumber": "107476",
+  "questionId": "010-0419",
+  "questionNumber": "010-0419",
   "stemHtml": "<p>A runway centre line marking shall be provided for each\u2026</p>",
   "options": {
     "a": "paved runway.",
@@ -10,5 +10,10 @@
     "d": "runway used for commercial operations."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67106,
+    "number": "107476"
+  }
 }

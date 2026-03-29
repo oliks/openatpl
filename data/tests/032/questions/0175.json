@@ -1,7 +1,7 @@
 {
   "number": 175,
-  "questionId": 69996,
-  "questionNumber": "322162",
+  "questionId": "032-0175",
+  "questionNumber": "032-0175",
   "stemHtml": "For a jet transport aeroplane, which of the following is the reason for the use of &lsquo;maximum range speed&rsquo;?",
   "options": {
     "a": "Minimum drag.",
@@ -10,5 +10,10 @@
     "d": "Minimum specific fuel consumption."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69996,
+    "number": "322162"
+  }
 }

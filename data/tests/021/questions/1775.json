@@ -1,7 +1,7 @@
 {
   "number": 1775,
-  "questionId": 67959,
-  "questionNumber": "219364",
+  "questionId": "021-1775",
+  "questionNumber": "021-1775",
   "stemHtml": "<p>Regarding fire detection, ion detectors are used to detect\u2026</p>",
   "options": {
     "a": "smoke.",
@@ -10,5 +10,10 @@
     "d": "over temperature and fire."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67959,
+    "number": "219364"
+  }
 }

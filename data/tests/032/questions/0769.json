@@ -1,7 +1,7 @@
 {
   "number": 769,
-  "questionId": 84050,
-  "questionNumber": "325767",
+  "questionId": "032-0769",
+  "questionNumber": "032-0769",
   "stemHtml": "<p>A pilot performs two landings onto the same runway. Both are from 3\u00ba approaches, with the same conditions present.</p><p>Landing 1: The aeroplane passes the runway threshold at a height of almost 100 ft and the correct landing airspeed <br /> Landing 2: The aeroplane passes the runway threshold at 50 ft but with an airspeed 5 knots higher than the correct landing airspeed.</p><p>Choose the correct statement.</p>",
   "options": {
     "a": "Landing 1 has a greater landing distance due to excess energy while landing 2 achieves the planned landing distance since the aeroplane touches down at the optimum touchdown point.",
@@ -10,5 +10,10 @@
     "d": "Both landings result in a greater landing distance than expected, where landing 2 is less predictable as it depends on how excess energy is dissipated during the flare and subsequent ground roll."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84050,
+    "number": "325767"
+  }
 }

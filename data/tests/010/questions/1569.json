@@ -1,7 +1,7 @@
 {
   "number": 1569,
-  "questionId": 82745,
-  "questionNumber": "108700",
+  "questionId": "010-1569",
+  "questionNumber": "010-1569",
   "stemHtml": "<p>The Commission Implementation Regulation 2017/373 lies down common requiements for...</p>",
   "options": {
     "a": "<p>occurrence reporting in civil aviation.</p>",
@@ -10,5 +10,10 @@
     "d": "runway markings and physical characteristics."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82745,
+    "number": "108700"
+  }
 }

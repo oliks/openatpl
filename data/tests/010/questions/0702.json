@@ -1,7 +1,7 @@
 {
   "number": 702,
-  "questionId": 102361,
-  "questionNumber": "103149",
+  "questionId": "010-0702",
+  "questionNumber": "010-0702",
   "stemHtml": "<p>A recently established GNSS position has been permanently integrated, leading to its inclusion in the published AIP as a(n)...</p>",
   "options": {
     "a": "<p>amendment.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>NOTAM.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102361,
+    "number": "103149"
+  }
 }

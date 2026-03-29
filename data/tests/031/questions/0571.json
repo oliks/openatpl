@@ -1,7 +1,7 @@
 {
   "number": 571,
-  "questionId": 103100,
-  "questionNumber": "314958",
+  "questionId": "031-0571",
+  "questionNumber": "031-0571",
   "stemHtml": "<p>What is the result if the Center of Gravity (CG) of an aircraft is located beyond its forward CG limit?</p>",
   "options": {
     "a": "<p>The range will increase.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The lift will decrease.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103100,
+    "number": "314958"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1525,
-  "questionId": 79227,
-  "questionNumber": "215947",
+  "questionId": "021-1525",
+  "questionNumber": "021-1525",
   "stemHtml": "<p>Given the following data, electrical power is defined as:</p>\n\n<p>E = electrical energy (work)  <br />  \nI = current  <br />  \nt = time</p>",
   "options": {
     "a": "<p>(P = E / t)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(P = E x t)</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79227,
+    "number": "215947"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1031,
-  "questionId": 68425,
-  "questionNumber": "221448",
+  "questionId": "022-1031",
+  "questionNumber": "022-1031",
   "stemHtml": "<p>A servo-assisted altimeter is more accurate than a simple altimeter because the small movements of\u2026</p>",
   "options": {
     "a": "<p>the capsules are inhibited.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the capsules are detected by a very sensitive electro-magnetic pick-off.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68425,
+    "number": "221448"
+  }
 }

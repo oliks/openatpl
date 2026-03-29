@@ -1,7 +1,7 @@
 {
   "number": 55,
-  "questionId": 81378,
-  "questionNumber": "311304",
+  "questionId": "031-0055",
+  "questionNumber": "031-0055",
   "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> \rWhat is correct concerning the limit masses in the section 3 of the attached load sheet?</p>",
   "options": {
     "a": "<p dir=\"ltr\">The actual ZFM, actual TOM or actual LM could exceptionally exceed the respective limit mass.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/a7b3db97-c5be-46cb-a548-352942e71955.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/a7b3db97-c5be-46cb-a548-352942e71955.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81378,
+    "number": "311304"
+  }
 }

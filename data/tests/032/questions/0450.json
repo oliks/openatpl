@@ -1,7 +1,7 @@
 {
   "number": 450,
-  "questionId": 69805,
-  "questionNumber": "325223",
+  "questionId": "032-0450",
+  "questionNumber": "032-0450",
   "stemHtml": "<p>As long as an aeroplane is in a steady climb\u2026</p>",
   "options": {
     "a": "V<sub>X</sub> is always less than V<sub>Y</sub>.",
@@ -10,5 +10,10 @@
     "d": "V<sub>Y</sub> is always greater than V<sub>MO</sub>."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69805,
+    "number": "325223"
+  }
 }

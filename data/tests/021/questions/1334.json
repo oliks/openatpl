@@ -1,7 +1,7 @@
 {
   "number": 1334,
-  "questionId": 108950,
-  "questionNumber": "212487",
+  "questionId": "021-1334",
+  "questionNumber": "021-1334",
   "stemHtml": "<p>Which of the following statements is correct?</p>",
   "options": {
     "a": "<p>AC and DC are measured as RPM.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>AC and DC are measured as cycles.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108950,
+    "number": "212487"
+  }
 }

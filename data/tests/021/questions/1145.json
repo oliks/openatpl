@@ -1,7 +1,7 @@
 {
   "number": 1145,
-  "questionId": 82770,
-  "questionNumber": "214452",
+  "questionId": "021-1145",
+  "questionNumber": "021-1145",
   "stemHtml": "Consider an aircraft with hydraulically operated brakes and a pneumatically operated emergency braking system, which uses the normal hydraulic brake lines. The aircraft also has an anti-skid system to avoid loss of control and locked wheels during braking. Which of the following statements is correct?",
   "options": {
     "a": "The anti-skid system will allow for a lower brake temperature when braking hard.",
@@ -10,5 +10,10 @@
     "d": "The emergency braking system will be able to stop in a shorter distance, compared to normal braking."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82770,
+    "number": "214452"
+  }
 }

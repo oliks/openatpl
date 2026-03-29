@@ -1,7 +1,7 @@
 {
   "number": 231,
-  "questionId": 107889,
-  "questionNumber": "332612",
+  "questionId": "033-0231",
+  "questionNumber": "033-0231",
   "stemHtml": "<p>Refer to figure or CAP 697 figure 4.5.4b. An airplane is descending from FL350 to FL50 with the following descent speeds 0.70 M/280/250 KIAS. Additionally, the aircraft has a landing weight of 42 500 kg and is experiencing a headwind component of 21 knots. Based on this information, choose the correct statement.</p>",
   "options": {
     "a": "<p>True Airspeed (TAS) is 321 knots</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/dd64dbc9-b19f-4bed-8317-854d17a52ae9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/dd64dbc9-b19f-4bed-8317-854d17a52ae9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107889,
+    "number": "332612"
+  }
 }

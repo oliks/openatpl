@@ -1,7 +1,7 @@
 {
   "number": 128,
-  "questionId": 68229,
-  "questionNumber": "216588",
+  "questionId": "021-0128",
+  "questionNumber": "021-0128",
   "stemHtml": "<p>On a FADEC jet engine, the meaning of F.A.D.E.C. on a gas turbine engine is\u2026</p>",
   "options": {
     "a": "FAILURE ANALYSIS / DISPATCH EVALUATION COMPUTER.",
@@ -10,5 +10,10 @@
     "d": "FAILSAFE ADAPTER DIRECT EFFECT COMPUTATION."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68229,
+    "number": "216588"
+  }
 }

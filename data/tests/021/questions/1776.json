@@ -1,7 +1,7 @@
 {
   "number": 1776,
-  "questionId": 68238,
-  "questionNumber": "211573",
+  "questionId": "021-1776",
+  "questionNumber": "021-1776",
   "stemHtml": "Select the option that best describes a fail-safe designed structure.",
   "options": {
     "a": "Multiple load paths through a structure that is replaced after limited usage.",
@@ -10,5 +10,10 @@
     "d": "A single load path in a structure that can withstand 1.5 times the maximum design load."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68238,
+    "number": "211573"
+  }
 }

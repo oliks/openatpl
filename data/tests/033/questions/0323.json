@@ -1,7 +1,7 @@
 {
   "number": 323,
-  "questionId": 71021,
-  "questionNumber": "333995",
+  "questionId": "033-0323",
+  "questionNumber": "033-0323",
   "stemHtml": "<p>Refer to figure or Amsterdam (EHAM) chart 11-1 from GSPRM 2017.\u00a0<br>An aircraft in approaching category A is cleared for the procedural ILS approach to runway 06 via CH Locator. At what point should the base turn into localiser track of 058\u00b0 (M) be started?</p>",
   "options": {
     "a": "11.1 NM DME range from SPL DME.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/36AC99CF-B98B-4DBC-9618-49BB54A93459.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/36AC99CF-B98B-4DBC-9618-49BB54A93459.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71021,
+    "number": "333995"
+  }
 }

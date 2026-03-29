@@ -1,7 +1,7 @@
 {
   "number": 143,
-  "questionId": 84470,
-  "questionNumber": "225300",
+  "questionId": "022-0143",
+  "questionNumber": "022-0143",
   "stemHtml": "<p>When used at or close to the magnetic poles, a magnetic compass will be unreliable. Why is that? Due to\u2026</p>",
   "options": {
     "a": "An increase in both, the vertical and the horizontal magnetic field strength.",
@@ -10,5 +10,10 @@
     "d": "A decrease in the horizontal magnetic field strength."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84470,
+    "number": "225300"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 684,
-  "questionId": 81735,
-  "questionNumber": "222638",
+  "questionId": "022-0684",
+  "questionNumber": "022-0684",
   "stemHtml": "<p>Which of the following will trigger an advisory alert?</p><p>1. Information message  <br />  2. Maintenance message  <br />  3. Engine failure  <br />  4. Status message</p>",
   "options": {
     "a": "1, 3, and 4",
@@ -10,5 +10,10 @@
     "d": "1, 2, and 4"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81735,
+    "number": "222638"
+  }
 }

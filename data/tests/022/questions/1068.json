@@ -1,7 +1,7 @@
 {
   "number": 1068,
-  "questionId": 69186,
-  "questionNumber": "221687",
+  "questionId": "022-1068",
+  "questionNumber": "022-1068",
   "stemHtml": "<p>The display screen of the FMS CDU (Control Display Unit) shows\u2026</p>",
   "options": {
     "a": "an alphabetical performance and navigation database.",
@@ -10,5 +10,10 @@
     "d": "a combined weather radar, collision avoidance, and terrain indicator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69186,
+    "number": "221687"
+  }
 }

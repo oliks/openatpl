@@ -1,7 +1,7 @@
 {
   "number": 171,
-  "questionId": 127926,
-  "questionNumber": "319771",
+  "questionId": "031-0171",
+  "questionNumber": "031-0171",
   "stemHtml": "<p>Refer to figure or CAP696 file 3.5.<br>Extract the forward centre of gravity limit from the given diagram for a mass of 3900 lb.</p>",
   "options": {
     "a": "<p>84.8</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/cc885390-f745-44f4-975f-f40fc2ca6d5b.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/cc885390-f745-44f4-975f-f40fc2ca6d5b.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 127926,
+    "number": "319771"
+  }
 }

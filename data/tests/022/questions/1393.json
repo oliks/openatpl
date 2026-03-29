@@ -1,7 +1,7 @@
 {
   "number": 1393,
-  "questionId": 81745,
-  "questionNumber": "225648",
+  "questionId": "022-1393",
+  "questionNumber": "022-1393",
   "stemHtml": "<p>Which of the following are part of an FMS CDU (Control Display Unit)?</p><p>1. Printer <br>2. Display <br>3. Line select keys <br>4. Circuit breaker <br>5. Function and execute keys<br>6. Alphanumeric and miscellaneous keys</p>",
   "options": {
     "a": "3, 4, 5, and 6",
@@ -10,5 +10,10 @@
     "d": "1, 2, 4, 5, and 6"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81745,
+    "number": "225648"
+  }
 }

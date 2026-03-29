@@ -1,7 +1,7 @@
 {
   "number": 1771,
-  "questionId": 66912,
-  "questionNumber": "104580",
+  "questionId": "010-1771",
+  "questionNumber": "010-1771",
   "stemHtml": "<p>To acknowledge transponder mode and code setting instructions, pilots shall\u2026</p>",
   "options": {
     "a": "confirm by using the word ROGER.",
@@ -10,5 +10,10 @@
     "d": "use the word WILCO."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66912,
+    "number": "104580"
+  }
 }

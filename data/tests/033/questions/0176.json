@@ -1,7 +1,7 @@
 {
   "number": 176,
-  "questionId": 70802,
-  "questionNumber": "337779",
+  "questionId": "033-0176",
+  "questionNumber": "033-0176",
   "stemHtml": "<p>Given the following NOTAM information, at what times and on what frequency should outbound aircraft contact GLASGOW TOWER?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EGPF GLASGOW <<< SCHEDULE: MON-SAT 0700-2000 MOBILE CRANE OPR PSN 555434N 0042609W GLASGOW, MAX HGT 177FT AGL,197FT AMSL APRX. JIB WILL BE LOWERED IN LVP. SITE CONTACT STEFAN ERBES 07841 254052.: NOTAM EG/A0555/16 SCHEDULE: 0001-0500 GLASGOW RADAR AND TOWER MAY BE PROVIDED AS A COMBINED FUNCTION WITH COUPLED FREQUENCIES. INBOUND AND OVERFLYING AIRCRAFT SHOULD CONTACT GLASGOW RADAR ON 119.1 MHZ. OUTBOUND AIRCRAFT SHOULD CONTACT GLASGOW TOWER ON 118.8 MHZ.: NOTAM EG/A0313/16 >>> END OF BULLETIN <<<</span></p>\n\n<div> </div>",
   "options": {
     "a": "From 07:00 to 20:00 on the frequency 119.1 MHz.",
@@ -10,5 +10,10 @@
     "d": "From 00:01 to 05:00 on the frequency 118.8 MHz."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70802,
+    "number": "337779"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 879,
-  "questionId": 68522,
-  "questionNumber": "229073",
+  "questionId": "022-0879",
+  "questionNumber": "022-0879",
   "stemHtml": "<p>In an inertial navigation system, the input(s) required to obtain a wind direction and velocity readout is (are)\u2026</p>",
   "options": {
     "a": "IAS.",
@@ -10,5 +10,10 @@
     "d": "<p>Mach Number.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68522,
+    "number": "229073"
+  }
 }

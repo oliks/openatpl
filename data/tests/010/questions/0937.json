@@ -1,7 +1,7 @@
 {
   "number": 937,
-  "questionId": 110076,
-  "questionNumber": "109509",
+  "questionId": "010-0937",
+  "questionNumber": "010-0937",
   "stemHtml": "<p>Refer to figure.<br>The estimated surface friction for runway 09/27 is reported to be 5/5/3. What is the braking performance on the last third of the runway?</p>",
   "options": {
     "a": "<p>Medium.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/7f9ad1b9-7b21-4c17-894a-90c107ad0583.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/7f9ad1b9-7b21-4c17-894a-90c107ad0583.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110076,
+    "number": "109509"
+  }
 }

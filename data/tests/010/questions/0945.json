@@ -1,7 +1,7 @@
 {
   "number": 945,
-  "questionId": 100660,
-  "questionNumber": "108442",
+  "questionId": "010-0945",
+  "questionNumber": "010-0945",
   "stemHtml": "An aircraft flying at FL140 is going to enter a holding pattern at the same level. The outbound leg timing when entering the holding should be...",
   "options": {
     "a": "1 minute or less.",
@@ -10,5 +10,10 @@
     "d": "3 minutes or less."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100660,
+    "number": "108442"
+  }
 }

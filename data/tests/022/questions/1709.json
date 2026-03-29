@@ -1,7 +1,7 @@
 {
   "number": 1709,
-  "questionId": 84496,
-  "questionNumber": "225494",
+  "questionId": "022-1709",
+  "questionNumber": "022-1709",
   "stemHtml": "<p>A portable Electronic Flight Bag (EFB) is\u2026</p>",
   "options": {
     "a": "A storage device that holds navigation and performance database.",
@@ -10,5 +10,10 @@
     "d": "A data load device for updating FMS data."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84496,
+    "number": "225494"
+  }
 }

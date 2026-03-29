@@ -1,7 +1,7 @@
 {
   "number": 1434,
-  "questionId": 68244,
-  "questionNumber": "215273",
+  "questionId": "021-1434",
+  "questionNumber": "021-1434",
   "stemHtml": "<p>What is the function of a flap load limiting (relief) protection system?</p>",
   "options": {
     "a": "<p>To retract the flaps when exceeding the limiting speed of the currently selected flap position.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To increase the lift of the aeroplane.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68244,
+    "number": "215273"
+  }
 }

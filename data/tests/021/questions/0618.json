@@ -1,7 +1,7 @@
 {
   "number": 618,
-  "questionId": 110911,
-  "questionNumber": "218786",
+  "questionId": "021-0618",
+  "questionNumber": "021-0618",
   "stemHtml": "<p>If the ambient pressure outside the aeroplane is larger than the cabin pressure, the...</p>",
   "options": {
     "a": "<p>negative pressure relief valve will open.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>air cycle machine will stop.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110911,
+    "number": "218786"
+  }
 }

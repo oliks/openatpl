@@ -1,7 +1,7 @@
 {
   "number": 38,
-  "questionId": 96724,
-  "questionNumber": "109430",
+  "questionId": "010-0038",
+  "questionNumber": "010-0038",
   "stemHtml": "What is the accuracy of an NDB providing track guidance assumed to be when constructing an instrument approach?",
   "options": {
     "a": "\u00b1 2.4\u00b0",
@@ -10,5 +10,10 @@
     "d": "\u00b1 4.5\u00b0"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96724,
+    "number": "109430"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 63,
-  "questionId": 78791,
-  "questionNumber": "217405",
+  "questionId": "021-0063",
+  "questionNumber": "021-0063",
   "stemHtml": "<p>Aeroplanes designed for long distances cannot simply be used for short haul flights at higher frequencies, this is due to the fact that\u2026</p>",
   "options": {
     "a": "The procedures and checklists for this kind of aeroplanes will take too much time.",
@@ -10,5 +10,10 @@
     "d": "In that case some fuel tanks remain empty during the whole flight, which stresses the aeroplane's structure in an unacceptable way."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78791,
+    "number": "217405"
+  }
 }

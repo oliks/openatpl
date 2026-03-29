@@ -1,7 +1,7 @@
 {
   "number": 975,
-  "questionId": 70276,
-  "questionNumber": "329239",
+  "questionId": "032-0975",
+  "questionNumber": "032-0975",
   "stemHtml": "<p>V<strong><sub>2</sub></strong> has to be equal to or higher than\u2026</p>",
   "options": {
     "a": "1.1 V<sub>SO</sub>",
@@ -10,5 +10,10 @@
     "d": "1.1 V<sub>MCA</sub>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70276,
+    "number": "329239"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 947,
-  "questionId": 96326,
-  "questionNumber": "326065",
+  "questionId": "032-0947",
+  "questionNumber": "032-0947",
   "stemHtml": "A pilot is planning to fly a light aircraft to an airport with a short runway, but which is long enough to land safely. The pilot is accustomed to landing at airports with long or very long runways and a mixture of small and large aeroplanes, where ATC often asks small aircraft to maintain a high approach speed to facilitate traffic flow. If the pilot flies as per their regular habit (with a high approach speed) when landing on the short runway\u2026",
   "options": {
     "a": "the landing must be completed such that the aeroplane touches down before the normal touchdown point in order to allow for a greater braking distance after landing.",
@@ -10,5 +10,10 @@
     "d": "the landing is more likely to be successful since the safety factors account for any inaccuracies in speed and touchdown point and therefore assure a safe landing."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96326,
+    "number": "326065"
+  }
 }

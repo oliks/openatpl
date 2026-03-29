@@ -1,7 +1,7 @@
 {
   "number": 882,
-  "questionId": 67513,
-  "questionNumber": "215918",
+  "questionId": "021-0882",
+  "questionNumber": "021-0882",
   "stemHtml": "<p>The average stage compression ratio of a centrifugal compressor is approximately\u2026</p>",
   "options": {
     "a": "15:1",
@@ -10,5 +10,10 @@
     "d": "1.3:1"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67513,
+    "number": "215918"
+  }
 }

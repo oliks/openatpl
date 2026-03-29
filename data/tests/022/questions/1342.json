@@ -1,7 +1,7 @@
 {
   "number": 1342,
-  "questionId": 107650,
-  "questionNumber": "229288",
+  "questionId": "022-1342",
+  "questionNumber": "022-1342",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich HUD display would you see during the cruise phase of a flight?</p>",
   "options": {
     "a": "<p>1 only</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/3ee57c1f-527f-4d39-9f73-5782c9c32bb6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/3ee57c1f-527f-4d39-9f73-5782c9c32bb6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107650,
+    "number": "229288"
+  }
 }

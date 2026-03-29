@@ -1,7 +1,7 @@
 {
   "number": 1528,
-  "questionId": 69178,
-  "questionNumber": "225230",
+  "questionId": "022-1528",
+  "questionNumber": "022-1528",
   "stemHtml": "<p>FANS was developed by ICAO\u2026</p>",
   "options": {
     "a": "to provide a more efficient, safe, and cost-effective system for communication.",
@@ -10,5 +10,10 @@
     "d": "to effectively monitor aircraft systems` status information and fuel consumption."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69178,
+    "number": "225230"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 653,
-  "questionId": 159644,
-  "questionNumber": "214970",
+  "questionId": "021-0653",
+  "questionNumber": "021-0653",
   "stemHtml": "<p>Which techniques are commonly used to assemble and join structural components in aircraft construction?</p>",
   "options": {
     "a": "<p>Folding, gluing, stretching, sewing. <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only riveting and welding.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159644,
+    "number": "214970"
+  }
 }

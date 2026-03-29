@@ -1,7 +1,7 @@
 {
   "number": 860,
-  "questionId": 102837,
-  "questionNumber": "219098",
+  "questionId": "021-0860",
+  "questionNumber": "021-0860",
   "stemHtml": "<p>What is the symbol commonly used for voltage?</p>",
   "options": {
     "a": "<p>I and it is measured in amperes. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>I and it is measured in volts.   </p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102837,
+    "number": "219098"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1179,
-  "questionId": 67147,
-  "questionNumber": "108742",
+  "questionId": "010-1179",
+  "questionNumber": "010-1179",
   "stemHtml": "An applicant for a type rating, which has expired more than 3 years ago, has to undergo the following:",
   "options": {
     "a": "A minimum of three training sessions in which the most important malfunctions in the available systems are covered.",
@@ -10,5 +10,10 @@
     "d": "A minimum of two training sessions."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67147,
+    "number": "108742"
+  }
 }

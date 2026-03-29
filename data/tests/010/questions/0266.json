@@ -1,7 +1,7 @@
 {
   "number": 266,
-  "questionId": 80692,
-  "questionNumber": "101349",
+  "questionId": "010-0266",
+  "questionNumber": "010-0266",
   "stemHtml": "What is ICAO Annex 2 about?",
   "options": {
     "a": "Personnel Licensing.",
@@ -10,5 +10,10 @@
     "d": "Aircraft Nationality and Registration Marks."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80692,
+    "number": "101349"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 703,
-  "questionId": 108378,
-  "questionNumber": "108279",
+  "questionId": "010-0703",
+  "questionNumber": "010-0703",
   "stemHtml": "<p>An aircraft is cleared to cross runway 15 and stop at the runway holding position. At the holding position a red crossbar is lighted. The aircraft can proceed...</p>",
   "options": {
     "a": "<p>without clearance when the light switched off.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>after clearance when you see the green light.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108378,
+    "number": "108279"
+  }
 }

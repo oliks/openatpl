@@ -1,7 +1,7 @@
 {
   "number": 251,
-  "questionId": 68560,
-  "questionNumber": "227602",
+  "questionId": "022-0251",
+  "questionNumber": "022-0251",
   "stemHtml": "<p>The automatic trim is a component of the autopilot pitch channel. Its function is to\u2026</p>",
   "options": {
     "a": "set the attitude to an instantaneous value before engaging the autopilot.",
@@ -10,5 +10,10 @@
     "d": "automatically disengage the autopilot in the case of an excessive pitch up."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68560,
+    "number": "227602"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 351,
-  "questionId": 67312,
-  "questionNumber": "217069",
+  "questionId": "021-0351",
+  "questionNumber": "021-0351",
   "stemHtml": "The fuel-oil heat exchanger of a gas turbine engine:",
   "options": {
     "a": "cools both the oil and the fuel.",
@@ -10,5 +10,10 @@
     "d": "heats the fuel only."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67312,
+    "number": "217069"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1311,
-  "questionId": 81710,
-  "questionNumber": "338649",
+  "questionId": "033-1311",
+  "questionNumber": "033-1311",
   "stemHtml": "<p>Given the following information, the maximum attainable flight time is 1) _____ and the range is 2) _____.</p><p>Average fuel flow: 42 litres/hr<br>Available Fuel: 53 Litres<br>TAS: 95 kts<br>Wind component: 25 Kts tailwind<br>Do not consider final reserve / contingency or alternate fuel.</p>",
   "options": {
     "a": "1) 1 hour 26 min and 2) 172 NM",
@@ -10,5 +10,10 @@
     "d": "1) 1 hour 26 min and 2) 100 NM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81710,
+    "number": "338649"
+  }
 }

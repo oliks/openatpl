@@ -1,7 +1,7 @@
 {
   "number": 1342,
-  "questionId": 80989,
-  "questionNumber": "328631",
+  "questionId": "032-1342",
+  "questionNumber": "032-1342",
   "stemHtml": "An aircraft descends at M 0.78 instead of M 0.75. What effect will this have on its rate of descent (ROD)?",
   "options": {
     "a": "It stays constant, the speeds are almost the same.",
@@ -10,5 +10,10 @@
     "d": "It will increase."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80989,
+    "number": "328631"
+  }
 }

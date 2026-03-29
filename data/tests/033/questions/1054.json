@@ -1,7 +1,7 @@
 {
   "number": 1054,
-  "questionId": 70378,
-  "questionNumber": "339233",
+  "questionId": "033-1054",
+  "questionNumber": "033-1054",
   "stemHtml": "<p>On a VFR ATC flight plan, the total estimated time is\u2026</p>",
   "options": {
     "a": "the estimated time from take-off to landing at the alternate airport.",
@@ -10,5 +10,10 @@
     "d": "the estimated time required from take-off to arrive over the destination airport."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70378,
+    "number": "339233"
+  }
 }

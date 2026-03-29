@@ -1,7 +1,7 @@
 {
   "number": 909,
-  "questionId": 78615,
-  "questionNumber": "107131",
+  "questionId": "010-0909",
+  "questionNumber": "010-0909",
   "stemHtml": "Which of the following situations is an example of the Alert Phase (ALERFA)?",
   "options": {
     "a": "An aircraft fails to arrive within 30 minutes of the ETA which was last notified to ATC.",
@@ -10,5 +10,10 @@
     "d": "Information is received that the fuel on board is considered to be exhausted."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78615,
+    "number": "107131"
+  }
 }

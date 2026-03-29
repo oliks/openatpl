@@ -1,7 +1,7 @@
 {
   "number": 941,
-  "questionId": 67989,
-  "questionNumber": "218207",
+  "questionId": "021-0941",
+  "questionNumber": "021-0941",
   "stemHtml": "<p>Which statement is correct?</p><p>I. The freezing point for Jet A is at a lower temperature than that for Jet B<br>II. The flash point for Jet A is at about the same temperature as that for Jet B</p>",
   "options": {
     "a": "I is correct, II is incorrect.",
@@ -10,5 +10,10 @@
     "d": "I is correct, II is correct."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67989,
+    "number": "218207"
+  }
 }

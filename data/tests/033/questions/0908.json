@@ -1,7 +1,7 @@
 {
   "number": 908,
-  "questionId": 144608,
-  "questionNumber": "338538",
+  "questionId": "033-0908",
+  "questionNumber": "033-0908",
   "stemHtml": "<p>When should the GNSS satellites be available for an instrument approach procedure?</p>",
   "options": {
     "a": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(74, 74, 105);font-family:Poppins, sans-serif;font-size:13.0509px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin-bottom:1rem;margin-top:0px;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">At the approach time.   </p>",
@@ -10,5 +10,10 @@
     "d": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,105);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Poppins, sans-serif;font-size:13.0509px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">1.5 hours before the estimated landing time.</span></span></p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 144608,
+    "number": "338538"
+  }
 }

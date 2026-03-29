@@ -1,7 +1,7 @@
 {
   "number": 68,
-  "questionId": 83398,
-  "questionNumber": "109791",
+  "questionId": "010-0068",
+  "questionNumber": "010-0068",
   "stemHtml": "<p>Several aircraft are all entering the same region of controlled airspace at the same level, what can the controller do to provide separation?</p>",
   "options": {
     "a": "Track aircraft via an NDB on tracks which diverge by 10\u00b0.",
@@ -10,5 +10,10 @@
     "d": "Ask aircraft to fly different ATS routes."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83398,
+    "number": "109791"
+  }
 }

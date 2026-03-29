@@ -1,7 +1,7 @@
 {
   "number": 157,
-  "questionId": 71031,
-  "questionNumber": "337390",
+  "questionId": "033-0157",
+  "questionNumber": "033-0157",
   "stemHtml": "<p>Refer to figures Alicante - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017.\u00a0<br>What is the track and distance from reporting point N to NE?</p>",
   "options": {
     "a": "066\u00b0 - 7 NM",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/C2BA8A5D-9F6F-4777-85E0-9061BB00A06B.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C2BA8A5D-9F6F-4777-85E0-9061BB00A06B.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71031,
+    "number": "337390"
+  }
 }

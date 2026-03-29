@@ -1,7 +1,7 @@
 {
   "number": 1379,
-  "questionId": 80071,
-  "questionNumber": "104539",
+  "questionId": "010-1379",
+  "questionNumber": "010-1379",
   "stemHtml": "A turn is made away from a designated track followed by a turn in the opposite direction to permit the aircraft to intercept and proceed along the reciprocal of the designated track. <br /> How is the manoeuvre described called?",
   "options": {
     "a": "<p>Reversal procedure.</p>",
@@ -10,5 +10,10 @@
     "d": "Base turn."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80071,
+    "number": "104539"
+  }
 }

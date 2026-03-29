@@ -1,7 +1,7 @@
 {
   "number": 787,
-  "questionId": 134679,
-  "questionNumber": "228675",
+  "questionId": "022-0787",
+  "questionNumber": "022-0787",
   "stemHtml": "<p>Which statement completes the following sentence correctly. The ICAO CNS/ATM (Communication, Navigation, Surveillance / Air Traffic Management) concept\u2026</p>",
   "options": {
     "a": "<p>Includes the use of data link for communication, and GNSS to increase navigation accuracy.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Aims to improve voice communication procedures to minimise the clearance response time.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 134679,
+    "number": "228675"
+  }
 }

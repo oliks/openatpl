@@ -1,7 +1,7 @@
 {
   "number": 261,
-  "questionId": 83496,
-  "questionNumber": "326149",
+  "questionId": "032-0261",
+  "questionNumber": "032-0261",
   "stemHtml": "<p>According to OPS regulations, the runway condition complying with the definition of a \"wet runway\" is\u2026</p>",
   "options": {
     "a": "There is sufficient moisture on the runway surface to cause it to appear reflective, but without significant areas of standing water.",
@@ -10,5 +10,10 @@
     "d": "More than 25% of the runway surface area is covered by surface water which is more than 3 mm deep."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83496,
+    "number": "326149"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 888,
-  "questionId": 85897,
-  "questionNumber": "334554",
+  "questionId": "033-0888",
+  "questionNumber": "033-0888",
   "stemHtml": "<p>Refer to figure or E(LO)6 chart from the Jeppesen GSPRM 2017. A helicopter wants to join an airway via waypoint DOPEL (N38\u00b032' E008\u00b052') and fly at 178\u00b0 on FL70. What kind of airway is this?</p>",
   "options": {
     "a": "<p>Non RNAV-route</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3D2E1213-AFD6-408E-9447-5B78A7CE7CFE.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3D2E1213-AFD6-408E-9447-5B78A7CE7CFE.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85897,
+    "number": "334554"
+  }
 }

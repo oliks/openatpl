@@ -1,7 +1,7 @@
 {
   "number": 1518,
-  "questionId": 79666,
-  "questionNumber": "105526",
+  "questionId": "010-1518",
+  "questionNumber": "010-1518",
   "stemHtml": "<p>Track guidance is provided within _____ for turning departures.</p>",
   "options": {
     "a": "5 km.",
@@ -10,5 +10,10 @@
     "d": "<p>20 km.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79666,
+    "number": "105526"
+  }
 }

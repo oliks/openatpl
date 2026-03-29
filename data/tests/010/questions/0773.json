@@ -1,7 +1,7 @@
 {
   "number": 773,
-  "questionId": 66888,
-  "questionNumber": "102196",
+  "questionId": "010-0773",
+  "questionNumber": "010-0773",
   "stemHtml": "According to ICAO Doc 8168, PANS-OPS, Transition Altitudes shall be...",
   "options": {
     "a": "published in aeronautical information publications, and shown on the appropriate charts.",
@@ -10,5 +10,10 @@
     "d": "shown on the appropriate charts, and included in ATIS broadcasts."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66888,
+    "number": "102196"
+  }
 }

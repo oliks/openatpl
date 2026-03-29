@@ -1,7 +1,7 @@
 {
   "number": 555,
-  "questionId": 70865,
-  "questionNumber": "335307",
+  "questionId": "033-0555",
+  "questionNumber": "033-0555",
   "stemHtml": "<p>For a planned flight the calculated fuel is as listed below. How much fuel should be aboard, if the remaining flight time to destination is 1 hour 50 minutes?</p>\n\n<p>Trip Fuel: sufficient for a planned flight time of 5 hours 10 minutes  <br />  \nOperator\u2019s specified Reserve Fuel: 30% of the planned Trip Fuel  <br />  \nStart up and Taxi Fuel: 25 kg  <br />  \nBlock Fuel: 645 kg</p>",
   "options": {
     "a": "<div>220 kg</div>",
@@ -10,5 +10,10 @@
     "d": "312 kg"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70865,
+    "number": "335307"
+  }
 }

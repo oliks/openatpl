@@ -1,7 +1,7 @@
 {
   "number": 1361,
-  "questionId": 106674,
-  "questionNumber": "212469",
+  "questionId": "021-1361",
+  "questionNumber": "021-1361",
   "stemHtml": "With regard to Low Visibility Operations (LVO), which of the following items is of significant importance for the outcome of an approach and should be covered in the Operator`s procedures and instructions?",
   "options": {
     "a": "Both pilots looking for a visual reference when approaching the DH.",
@@ -10,5 +10,10 @@
     "d": "The use of the barometric altimeter for determining the DH."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106674,
+    "number": "212469"
+  }
 }

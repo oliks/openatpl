@@ -1,7 +1,7 @@
 {
   "number": 1578,
-  "questionId": 81605,
-  "questionNumber": "107168",
+  "questionId": "010-1578",
+  "questionNumber": "010-1578",
   "stemHtml": "<p>What should be done on a flight with a lawful person on board?</p>",
   "options": {
     "a": "<p>Inform PIC to ask the company.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Inform the PIC and the company.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81605,
+    "number": "107168"
+  }
 }

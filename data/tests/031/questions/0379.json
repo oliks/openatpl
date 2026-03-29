@@ -1,7 +1,7 @@
 {
   "number": 379,
-  "questionId": 84102,
-  "questionNumber": "316716",
+  "questionId": "031-0379",
+  "questionNumber": "031-0379",
   "stemHtml": "<p>Refer to figure. <br /> Given the figure's information, calculate the length of the Mean Aerodynamic Chord.</p><p> </p><p> </p>",
   "options": {
     "a": "4 metres",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/7F57A537-7489-4288-927C-7D6AD1D4E769.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/7F57A537-7489-4288-927C-7D6AD1D4E769.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84102,
+    "number": "316716"
+  }
 }

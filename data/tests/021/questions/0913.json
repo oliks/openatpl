@@ -1,7 +1,7 @@
 {
   "number": 913,
-  "questionId": 67859,
-  "questionNumber": "212997",
+  "questionId": "021-0913",
+  "questionNumber": "021-0913",
   "stemHtml": "What is the purpose of cowl flaps on an aeroplane?",
   "options": {
     "a": "Air flow across the engine is reduced when they are open, which decreases cooling efficiency.",
@@ -10,5 +10,10 @@
     "d": "Air flow into the engine air intake is increased when they are open, which increases engine performance."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67859,
+    "number": "212997"
+  }
 }

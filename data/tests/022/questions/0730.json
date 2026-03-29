@@ -1,7 +1,7 @@
 {
   "number": 730,
-  "questionId": 69025,
-  "questionNumber": "225346",
+  "questionId": "022-0730",
+  "questionNumber": "022-0730",
   "stemHtml": "<p>Mach Trim is a device to compensate for\u2026</p>",
   "options": {
     "a": "<p>the effects of fuel transfer between the main tanks and the tank located in the horizontal tail</p>",
@@ -10,5 +10,10 @@
     "d": "<p>weight reduction resulting from fuel consumption during the cruise</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69025,
+    "number": "225346"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1321,
-  "questionId": 83331,
-  "questionNumber": "108550",
+  "questionId": "010-1321",
+  "questionNumber": "010-1321",
   "stemHtml": "According to ICAO Annex 9 and in the case of customs clearance, when a passenger's baggage is delayed or mishandled, his/her unaccompanied baggage will...",
   "options": {
     "a": "<p>NOT be loaded in the cargo hold and returned to the owner because baggage must travel with his/her owner.</p>",
@@ -10,5 +10,10 @@
     "d": "be cleared if it weighs less than 12 kg."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83331,
+    "number": "108550"
+  }
 }

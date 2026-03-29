@@ -1,7 +1,7 @@
 {
   "number": 481,
-  "questionId": 82883,
-  "questionNumber": "339356",
+  "questionId": "033-0481",
+  "questionNumber": "033-0481",
   "stemHtml": "<p>Refer to figure. <br /> Due to trafffic on the leg between WPT B and WPT C, the FL150 is not available and the ATC has cleared you for FL210. What is the revised ETA at WPT C?</p>",
   "options": {
     "a": "12:46",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2A8D0EB0-D255-436C-B8FF-BDC1C1E67D2C.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2A8D0EB0-D255-436C-B8FF-BDC1C1E67D2C.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82883,
+    "number": "339356"
+  }
 }

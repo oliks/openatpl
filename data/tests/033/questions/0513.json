@@ -1,7 +1,7 @@
 {
   "number": 513,
-  "questionId": 70920,
-  "questionNumber": "335248",
+  "questionId": "033-0513",
+  "questionNumber": "033-0513",
   "stemHtml": "<p>For an ATC flight plan filed before the flight, the indicated time of departure is\u2026</p>",
   "options": {
     "a": "<div>The time overhead the first reporting point after take-off.</div>",
@@ -10,5 +10,10 @@
     "d": "<div>The estimated off-block time.</div>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70920,
+    "number": "335248"
+  }
 }

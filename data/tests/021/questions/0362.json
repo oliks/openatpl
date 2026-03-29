@@ -1,7 +1,7 @@
 {
   "number": 362,
-  "questionId": 68267,
-  "questionNumber": "217845",
+  "questionId": "021-0362",
+  "questionNumber": "021-0362",
   "stemHtml": "<p>In an aircraft equipped with a DC main power system, AC for instrument operation may be obtained from\u2026</p>",
   "options": {
     "a": "a TRU.",
@@ -10,5 +10,10 @@
     "d": "a rectifier."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68267,
+    "number": "217845"
+  }
 }

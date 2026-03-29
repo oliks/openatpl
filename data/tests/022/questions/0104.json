@@ -1,7 +1,7 @@
 {
   "number": 104,
-  "questionId": 69314,
-  "questionNumber": "222867",
+  "questionId": "022-0104",
+  "questionNumber": "022-0104",
   "stemHtml": "<p>Select the option which correctly completes the above statement. A stall warning system (1) _____ and the stall protection system (2) _____.</p>",
   "options": {
     "a": "(1) Alerts the pilot   <br />   (2) Prevents the stall",
@@ -10,5 +10,10 @@
     "d": "(1) Prevents the stall   <br />   (2) Prevents the stall"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69314,
+    "number": "222867"
+  }
 }

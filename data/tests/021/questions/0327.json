@@ -1,7 +1,7 @@
 {
   "number": 327,
-  "questionId": 110253,
-  "questionNumber": "217257",
+  "questionId": "021-0327",
+  "questionNumber": "021-0327",
   "stemHtml": "<p>Flying a large pressurised transport category aircraft, the cabin rate of descent indicates 0 ft/min when the aircraft is in a descent. What could be the reason?</p>",
   "options": {
     "a": "<p>The outflow valve is fully open.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The APU is inoperative.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110253,
+    "number": "217257"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 966,
-  "questionId": 108963,
-  "questionNumber": "338138",
+  "questionId": "033-0966",
+  "questionNumber": "033-0966",
   "stemHtml": "<p>When would the pilot become aware of an SBAS outage due to an unplanned inoperative condition?</p>",
   "options": {
     "a": "<p>When checking the NOTAMs and RAIM outages prior to a flight.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>During the flight where SBAS is planned to be used, and it may be necessary to use a backup source of navigation.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108963,
+    "number": "338138"
+  }
 }

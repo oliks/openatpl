@@ -1,7 +1,7 @@
 {
   "number": 992,
-  "questionId": 70343,
-  "questionNumber": "337865",
+  "questionId": "033-0992",
+  "questionNumber": "033-0992",
   "stemHtml": "<p>Given:</p><p>The take-off mass of an aircraft is 8470 kg.\u00a0<br>Total fuel on board is 1600 kg including 450 kg reserve fuel and 29 kg of unusable fuel.</p><p>The traffic load is 770 kg. What is the Zero Fuel Mass is\u2026</p>",
   "options": {
     "a": "6420 kg",
@@ -10,5 +10,10 @@
     "d": "6129 kg"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70343,
+    "number": "337865"
+  }
 }

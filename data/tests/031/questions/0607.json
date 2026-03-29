@@ -1,7 +1,7 @@
 {
   "number": 607,
-  "questionId": 84127,
-  "questionNumber": "317112",
+  "questionId": "031-0607",
+  "questionNumber": "031-0607",
   "stemHtml": "<p>Refer to figure or CAP 696 Figure 2.5. <br>What is the safe CG range for a single-engined piston aeroplane with a cruise mass of 2 600 lb?</p>",
   "options": {
     "a": "Forward limit: 74.0 in; aft limit: 87.7 in",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/F1CF5503-8C3E-4552-AA7B-41730CA67159.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/F1CF5503-8C3E-4552-AA7B-41730CA67159.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84127,
+    "number": "317112"
+  }
 }

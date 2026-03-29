@@ -1,7 +1,7 @@
 {
   "number": 1448,
-  "questionId": 159143,
-  "questionNumber": "333364",
+  "questionId": "033-1448",
+  "questionNumber": "033-1448",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - AMSTERDAM - Chart 16-2. <br>Which approach lighting system is installed for the ILS procedure serving Runway 18C?</p>",
   "options": {
     "a": "<p>PAPI lights.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/d43ac86d-6a50-4077-ab06-70ea6a9c3e15.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/d43ac86d-6a50-4077-ab06-70ea6a9c3e15.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159143,
+    "number": "333364"
+  }
 }

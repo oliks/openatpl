@@ -1,7 +1,7 @@
 {
   "number": 113,
-  "questionId": 69570,
-  "questionNumber": "319687",
+  "questionId": "031-0113",
+  "questionNumber": "031-0113",
   "stemHtml": "<p>Based on actual conditions, an aeroplane has the following performance take-off mass limitations:</p><figure class=\"table\"><table><tbody><tr><td style=\"vertical-align:top;width:112.7pt;\"><strong>FLAPS</strong></td><td style=\"vertical-align:top;width:112.7pt;\"><strong>0\u00b0</strong></td><td style=\"vertical-align:top;width:112.7pt;\"><strong>10\u00b0</strong></td><td style=\"vertical-align:top;width:112.7pt;\"><strong>15\u00b0</strong></td></tr><tr><td style=\"vertical-align:top;width:112.7pt;\"><strong>RUNWAY</strong></td><td style=\"vertical-align:top;width:112.7pt;\">4100 kg</td><td style=\"vertical-align:top;width:112.7pt;\">4400 kg</td><td style=\"vertical-align:top;width:112.7pt;\">4600 kg</td></tr><tr><td style=\"vertical-align:top;width:112.7pt;\"><strong>CLIMB</strong></td><td style=\"vertical-align:top;width:112.7pt;\">4700 kg</td><td style=\"vertical-align:top;width:112.7pt;\">4500 kg</td><td style=\"vertical-align:top;width:112.7pt;\">4200 kg</td></tr></tbody></table></figure><p>Structural limits: take-off/landing/zero fuel: 4300 kg</p><p>The Maximum Take-off Mass is\u2026</p>",
   "options": {
     "a": "<p>4300 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>4100 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69570,
+    "number": "319687"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 865,
-  "questionId": 81620,
-  "questionNumber": "102525",
+  "questionId": "010-0865",
+  "questionNumber": "010-0865",
   "stemHtml": "Refer to figure. <br /> What does this signal from the marshaller mean?",
   "options": {
     "a": "Set brakes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/0B1D0559-5C23-428C-B3F1-F8CB672D0DCA.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/0B1D0559-5C23-428C-B3F1-F8CB672D0DCA.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81620,
+    "number": "102525"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 549,
-  "questionId": 69353,
-  "questionNumber": "316193",
+  "questionId": "031-0549",
+  "questionNumber": "031-0549",
   "stemHtml": "<p>Refer to figure. <br /> \rUsing the annex, determine the moment at BEM.</p>",
   "options": {
     "a": "<p>362 850 in.lb</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/f645d6de-93c2-44bb-b9f6-ef9adabdfa0c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/f645d6de-93c2-44bb-b9f6-ef9adabdfa0c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69353,
+    "number": "316193"
+  }
 }

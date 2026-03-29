@@ -1,7 +1,7 @@
 {
   "number": 1057,
-  "questionId": 78647,
-  "questionNumber": "101301",
+  "questionId": "010-1057",
+  "questionNumber": "010-1057",
   "stemHtml": "An airport provides two parallel runways where one is used for approaches only and the other one is used for departures and approaches. What type of operation is being described?",
   "options": {
     "a": "Semi-mixed operation.",
@@ -10,5 +10,10 @@
     "d": "Simultaneous operation."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78647,
+    "number": "101301"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1318,
-  "questionId": 107416,
-  "questionNumber": "323715",
+  "questionId": "032-1318",
+  "questionNumber": "032-1318",
   "stemHtml": "<p>What is the effect of extending spoilers on rate of climb and V<strong><sub>Y</sub></strong>?</p>",
   "options": {
     "a": "<p>Increase, Increase</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Decrease, Increase</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107416,
+    "number": "323715"
+  }
 }

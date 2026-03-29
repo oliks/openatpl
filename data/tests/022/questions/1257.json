@@ -1,7 +1,7 @@
 {
   "number": 1257,
-  "questionId": 107271,
-  "questionNumber": "223339",
+  "questionId": "022-1257",
+  "questionNumber": "022-1257",
   "stemHtml": "<p>You have various aircraft nearby in the vicinity of your aircraft, the interrogation rate of the TCAS II switches to (1) _____ intervals and it prioritises alerts of the (2) _____ aircraft.</p>",
   "options": {
     "a": "<p>(1) shorter; (2) closest</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) shorter; (2) farthest</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107271,
+    "number": "223339"
+  }
 }

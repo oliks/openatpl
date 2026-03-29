@@ -1,7 +1,7 @@
 {
   "number": 637,
-  "questionId": 101751,
-  "questionNumber": "108230",
+  "questionId": "010-0637",
+  "questionNumber": "010-0637",
   "stemHtml": "<p>The cabin crew is informed by ground officers that unauthorized persons have entered the plane. What search should the cabin crew do?</p>",
   "options": {
     "a": "<p>Search for weapons.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Evacuate the aircraft immediately.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101751,
+    "number": "108230"
+  }
 }

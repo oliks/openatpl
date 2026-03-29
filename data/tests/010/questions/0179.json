@@ -1,7 +1,7 @@
 {
   "number": 179,
-  "questionId": 82854,
-  "questionNumber": "101650",
+  "questionId": "010-0179",
+  "questionNumber": "010-0179",
   "stemHtml": "<p>The use of a checklist is\u2026</p>",
   "options": {
     "a": "<p>Skill based and knowledge based behaviour.</p>",
@@ -10,5 +10,10 @@
     "d": "Skill based behaviour."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82854,
+    "number": "101650"
+  }
 }

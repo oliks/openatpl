@@ -1,7 +1,7 @@
 {
   "number": 835,
-  "questionId": 68669,
-  "questionNumber": "224255",
+  "questionId": "022-0835",
+  "questionNumber": "022-0835",
   "stemHtml": "The altimeter is subject to static pressure error. This error results from:",
   "options": {
     "a": "cabin pressure slightly lower than outside air pressure due to airflow over the fuselage.",
@@ -10,5 +10,10 @@
     "d": "imperfect elasticity of the aneroid capsules."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68669,
+    "number": "224255"
+  }
 }

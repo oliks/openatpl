@@ -1,7 +1,7 @@
 {
   "number": 1081,
-  "questionId": 70270,
-  "questionNumber": "328012",
+  "questionId": "032-1081",
+  "questionNumber": "032-1081",
   "stemHtml": "<p>Assuming all other factors unchanged, how will an increased mass affect the Speed for Best Angle of Climb (V<strong><sub>X</sub></strong>) and the Speed for Best Rate of Climb (V<strong><sub>Y</sub></strong>)?. The Speed for Best Angle of Climb...</p>",
   "options": {
     "a": "decreases, and the Speed for Best Rate of Climb increases.",
@@ -10,5 +10,10 @@
     "d": "increases, and the Speed for Best Rate of Climb decreases."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70270,
+    "number": "328012"
+  }
 }

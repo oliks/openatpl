@@ -1,7 +1,7 @@
 {
   "number": 813,
-  "questionId": 68457,
-  "questionNumber": "223990",
+  "questionId": "022-0813",
+  "questionNumber": "022-0813",
   "stemHtml": "<p>If OAT increases whilst maintaining a constant CAS and flight level\u2026</p>",
   "options": {
     "a": "Mach number remains constant.",
@@ -10,5 +10,10 @@
     "d": "TAS remains constant."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68457,
+    "number": "223990"
+  }
 }

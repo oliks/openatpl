@@ -1,7 +1,7 @@
 {
   "number": 163,
-  "questionId": 115757,
-  "questionNumber": "106411",
+  "questionId": "010-0163",
+  "questionNumber": "010-0163",
   "stemHtml": "<p>Which of the following accurately describes the legislation output from EASA?</p>",
   "options": {
     "a": "<p>Unique structure of soft law (regulations, delegated acts, implementing acts, implementing rules) and hard law (certification specifications, acceptable means of compliance and guidance material)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Special guidance materials and regulations that harmonize and facilitate the regulatory structure of the agency</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 115757,
+    "number": "106411"
+  }
 }

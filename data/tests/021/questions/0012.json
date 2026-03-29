@@ -1,7 +1,7 @@
 {
   "number": 12,
-  "questionId": 81853,
-  "questionNumber": "218763",
+  "questionId": "021-0012",
+  "questionNumber": "021-0012",
   "stemHtml": "What engine controls are usually available on the flight deck for a FADEC-controlled piston engine?",
   "options": {
     "a": "A FADEC computer and power levers providing digital inputs.",
@@ -10,5 +10,10 @@
     "d": "A FADEC computer and an autothrust/autothrottle system."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81853,
+    "number": "218763"
+  }
 }

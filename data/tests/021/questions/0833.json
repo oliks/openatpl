@@ -1,7 +1,7 @@
 {
   "number": 833,
-  "questionId": 96505,
-  "questionNumber": "214367",
+  "questionId": "021-0833",
+  "questionNumber": "021-0833",
   "stemHtml": "In a gas turbine engine, an ungeared fan has the same RPM as...",
   "options": {
     "a": "the high pressure compressor.",
@@ -10,5 +10,10 @@
     "d": "The HP turbine."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96505,
+    "number": "214367"
+  }
 }

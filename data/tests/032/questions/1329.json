@@ -1,7 +1,7 @@
 {
   "number": 1329,
-  "questionId": 70019,
-  "questionNumber": "321505",
+  "questionId": "032-1329",
+  "questionNumber": "032-1329",
   "stemHtml": "<p>The height below which turns are not permitted after take-off is\u2026</p>",
   "options": {
     "a": "<p>35 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>50 ft</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70019,
+    "number": "321505"
+  }
 }

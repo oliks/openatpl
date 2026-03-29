@@ -1,7 +1,7 @@
 {
   "number": 24,
-  "questionId": 81454,
-  "questionNumber": "328743",
+  "questionId": "032-0024",
+  "questionNumber": "032-0024",
   "stemHtml": "<p>To maximise the specific range of an aeroplane\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">True Airspeed must be low, and the fuel flow must be high.</p>",
@@ -10,5 +10,10 @@
     "d": "True Airspeed must be high, and the fuel flow must be low."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81454,
+    "number": "328743"
+  }
 }

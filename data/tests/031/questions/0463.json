@@ -1,7 +1,7 @@
 {
   "number": 463,
-  "questionId": 83633,
-  "questionNumber": "312053",
+  "questionId": "031-0463",
+  "questionNumber": "031-0463",
   "stemHtml": "Which one of the following options is an example of a moment index?",
   "options": {
     "a": "CG divided by 100.",
@@ -10,5 +10,10 @@
     "d": "Weight multiplied by CG."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83633,
+    "number": "312053"
+  }
 }

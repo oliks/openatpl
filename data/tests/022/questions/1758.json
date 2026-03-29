@@ -1,7 +1,7 @@
 {
   "number": 1758,
-  "questionId": 69222,
-  "questionNumber": "223582",
+  "questionId": "022-1758",
+  "questionNumber": "022-1758",
   "stemHtml": "<p>The altimeter indicates 10 000 ft with a subscale-setting of 1013.25 mb. OAT is +5\u00b0C. The pressure altitude of the aircraft is\u2026<br> </p>",
   "options": {
     "a": "9 600 ft<br>",
@@ -10,5 +10,10 @@
     "d": "10 400 ft<br>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69222,
+    "number": "223582"
+  }
 }

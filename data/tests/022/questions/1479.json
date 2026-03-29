@@ -1,7 +1,7 @@
 {
   "number": 1479,
-  "questionId": 109326,
-  "questionNumber": "227272",
+  "questionId": "022-1479",
+  "questionNumber": "022-1479",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat do the black and white horizontal lines represent?</p>",
   "options": {
     "a": "<p>Pitch angle up or down in 5\u00b0 increments</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/d10e58c0-45ea-4983-9321-37cf7aee2004.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/d10e58c0-45ea-4983-9321-37cf7aee2004.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109326,
+    "number": "227272"
+  }
 }

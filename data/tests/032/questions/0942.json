@@ -1,7 +1,7 @@
 {
   "number": 942,
-  "questionId": 82375,
-  "questionNumber": "322491",
+  "questionId": "032-0942",
+  "questionNumber": "032-0942",
   "stemHtml": "At what altitude does a propeller driven aeroplane reach its maximum endurance?",
   "options": {
     "a": "<p>A piston-engined aeroplane reaches its maximum endurance at about 10 000 ft.</p>",
@@ -10,5 +10,10 @@
     "d": "A turboprop aeroplane reaches its maximum endurance at about sea level."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82375,
+    "number": "322491"
+  }
 }

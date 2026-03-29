@@ -1,7 +1,7 @@
 {
   "number": 1657,
-  "questionId": 81183,
-  "questionNumber": "218798",
+  "questionId": "021-1657",
+  "questionNumber": "021-1657",
   "stemHtml": "<p>A general visual indicator of corrosion that a pilot could detect during a pre-flight inspection is/are\u2026</p>",
   "options": {
     "a": "Growth of fungus on the lower fuselage.",
@@ -10,5 +10,10 @@
     "d": "Cracks at attachment joints."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81183,
+    "number": "218798"
+  }
 }

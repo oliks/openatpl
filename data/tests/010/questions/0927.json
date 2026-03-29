@@ -1,7 +1,7 @@
 {
   "number": 927,
-  "questionId": 83912,
-  "questionNumber": "104644",
+  "questionId": "010-0927",
+  "questionNumber": "010-0927",
   "stemHtml": "<p>A flight crew is taxiing out at night for departure from runway 27 when they receive an update on the runway condition - It has been snowing and the conditions are now marginal. Runway 27 is the most suitable runway during night time for noise abatement purposes. However, considering the latest update on runway 27 conditions, it is safer to depart from runway 18, which is longer. The flight crew requests ATC a runway change to runway 18. The most probable response by ATC to that request is to issue a departure clearance for runway.</p>",
   "options": {
     "a": "<p>18 however, ATC needs to file an incident report.</p>",
@@ -10,5 +10,10 @@
     "d": "27 but instruct the crew to use maximum available thrust."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83912,
+    "number": "104644"
+  }
 }

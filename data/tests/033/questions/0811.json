@@ -1,7 +1,7 @@
 {
   "number": 811,
-  "questionId": 111014,
-  "questionNumber": "338222",
+  "questionId": "033-0811",
+  "questionNumber": "033-0811",
   "stemHtml": "<p>Calculate your expected fuel state at MALIV, after flying from NINTA to MALIV at FL80 with the following data given.</p><p>NINTA-MALIV: 189 NM <br>Usable fuel at NINTA: 560 kg <br>TAS at FL80: 155 kt <br>Wind component at FL80: +20 kt <br>Fuel flow: 195 kg/hr</p>",
   "options": {
     "a": "<p>322 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>349 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111014,
+    "number": "338222"
+  }
 }

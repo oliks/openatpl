@@ -1,7 +1,7 @@
 {
   "number": 381,
-  "questionId": 161983,
-  "questionNumber": "315804",
+  "questionId": "031-0381",
+  "questionNumber": "031-0381",
   "stemHtml": "<p>Use the following information to determine the Traffic Load in accordance with the standard passenger and baggage masses for a commercial flight within the European region in an aircraft with 20 seats, as defined in the annex.</p><p>Flight crew: 2 male & 1 female<br>Male passengers: 7<br>Female passengers: 6<br>Baggage: 14 items<br>Standard mass for a flight crew member: 85 kg</p>",
   "options": {
     "a": "<p>1218 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/6bbfb561-7733-4fd1-bee4-ae8ae27108f0.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/6bbfb561-7733-4fd1-bee4-ae8ae27108f0.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161983,
+    "number": "315804"
+  }
 }

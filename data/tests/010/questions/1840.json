@@ -1,7 +1,7 @@
 {
   "number": 1840,
-  "questionId": 66923,
-  "questionNumber": "107780",
+  "questionId": "010-1840",
+  "questionNumber": "010-1840",
   "stemHtml": "<p>Types of airspace \u2013 A controlled airspace extending upwards from the surface of the Earth to a specified upper limit is a\u2026</p>",
   "options": {
     "a": "Control Area.",
@@ -10,5 +10,10 @@
     "d": "Air Traffic Zone."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66923,
+    "number": "107780"
+  }
 }

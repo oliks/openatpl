@@ -1,7 +1,7 @@
 {
   "number": 1835,
-  "questionId": 69056,
-  "questionNumber": "227918",
+  "questionId": "022-1835",
+  "questionNumber": "022-1835",
   "stemHtml": "<p>Your aircraft and an intruder are both TCAS II equipped. Your TCAS\u2026</p>",
   "options": {
     "a": "can generate co-ordinated resolution advisories by activating the on-board radar system.",
@@ -10,5 +10,10 @@
     "d": "can generate co-ordinated resolution advisories by interrogating the radar ground station."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69056,
+    "number": "227918"
+  }
 }

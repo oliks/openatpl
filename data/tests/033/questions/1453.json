@@ -1,7 +1,7 @@
 {
   "number": 1453,
-  "questionId": 109465,
-  "questionNumber": "334889",
+  "questionId": "033-1453",
+  "questionNumber": "033-1453",
   "stemHtml": "<p>Refer to figure. <br>What is the correct arrival route when arriving via DISUN?</p>",
   "options": {
     "a": "<p>IRBIR 5A</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/962c86bc-e354-42b7-a847-af2be52bf024.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/962c86bc-e354-42b7-a847-af2be52bf024.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109465,
+    "number": "334889"
+  }
 }

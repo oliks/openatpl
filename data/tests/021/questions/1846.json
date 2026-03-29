@@ -1,7 +1,7 @@
 {
   "number": 1846,
-  "questionId": 68033,
-  "questionNumber": "216353",
+  "questionId": "021-1846",
+  "questionNumber": "021-1846",
   "stemHtml": "Which of these statements is correct about a flight crew oxygen mask?",
   "options": {
     "a": "<p>Below a certain altitude the oxygen mask switches automatically to \u201cconstant flow\u201d.</p>",
@@ -10,5 +10,10 @@
     "d": "In the position \u201cDILUTE\u201d oxygen supply is from a special bottle containing diluted oxygen."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68033,
+    "number": "216353"
+  }
 }

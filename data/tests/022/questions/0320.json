@@ -1,7 +1,7 @@
 {
   "number": 320,
-  "questionId": 112077,
-  "questionNumber": "222837",
+  "questionId": "022-0320",
+  "questionNumber": "022-0320",
   "stemHtml": "<p>With autopilot and autothrust engaged, if the autothrust system is of the static thrust lever type, what will happen to engine thrust when commencing a descent?</p>",
   "options": {
     "a": "<p>The thrust will automatically reduce.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The thrust remains constant throughout the descent.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112077,
+    "number": "222837"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 438,
-  "questionId": 81419,
-  "questionNumber": "226628",
+  "questionId": "022-0438",
+  "questionNumber": "022-0438",
   "stemHtml": "<p dir=\"ltr\">An aircraft is equipped with an FMS operating in dual mode. The Pilot Monitoring (PM) enters flight plan data through their Multifunction Control and Display Unit (MCDU). Soon after, the crew realises that those data are NOT shown on the cross-side MCDU, and the PM reads an alerting message concerning the operational mode of the FMS.</p>\r\n\r\n<p dir=\"ltr\">The FMS will now operate in (1) _____ mode, there is a problem with data transferring over the (2) _____ bus, and each CDU communicates only with the (3) _____ flight management computer.</p>",
   "options": {
     "a": "<p dir=\"ltr\">(1) dual; (2) performance data; (3) cross-side</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) independent; (2) cross-talk; (3) on-side</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81419,
+    "number": "226628"
+  }
 }

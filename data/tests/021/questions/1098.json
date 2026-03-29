@@ -1,7 +1,7 @@
 {
   "number": 1098,
-  "questionId": 67993,
-  "questionNumber": "213408",
+  "questionId": "021-1098",
+  "questionNumber": "021-1098",
   "stemHtml": "Assuming the jet pipe is not choked, the equation to calculate jet engine thrust T (with mass flow m, airspeed Vv and jet velocity Vj ) is:",
   "options": {
     "a": "T = m(Vv \u2013 Vj)",
@@ -10,5 +10,10 @@
     "d": "T = m(Vv + Vj)"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67993,
+    "number": "213408"
+  }
 }

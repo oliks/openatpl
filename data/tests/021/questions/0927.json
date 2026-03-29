@@ -1,7 +1,7 @@
 {
   "number": 927,
-  "questionId": 68037,
-  "questionNumber": "212220",
+  "questionId": "021-0927",
+  "questionNumber": "021-0927",
   "stemHtml": "<p>What type of loads are in the spar of a cantilever wing during straight and level flight?</p>",
   "options": {
     "a": "<p>The upper surface is in compression while the lower surface is in tension.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The upper surface is in torsion while the lower surface is in tension.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68037,
+    "number": "212220"
+  }
 }

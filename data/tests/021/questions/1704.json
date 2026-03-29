@@ -1,7 +1,7 @@
 {
   "number": 1704,
-  "questionId": 79498,
-  "questionNumber": "211640",
+  "questionId": "021-1704",
+  "questionNumber": "021-1704",
   "stemHtml": "<p>With regard to a jet aeroplane, specific range is the\u2026</p>",
   "options": {
     "a": "fuel flow per unit of thrust.",
@@ -10,5 +10,10 @@
     "d": "fuel flow divided by TAS."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79498,
+    "number": "211640"
+  }
 }

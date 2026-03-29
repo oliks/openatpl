@@ -1,7 +1,7 @@
 {
   "number": 1088,
-  "questionId": 66763,
-  "questionNumber": "101813",
+  "questionId": "010-1088",
+  "questionNumber": "010-1088",
   "stemHtml": "<p>A marshaller requests a pilot to engage the brakes with the signal\u2026</p>",
   "options": {
     "a": "horizontally moving hands fingers extended, palms towards the ground.",
@@ -10,5 +10,10 @@
     "d": "raised arm and hand with fingers extended horizontally in front of body, then fist clenched."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66763,
+    "number": "101813"
+  }
 }

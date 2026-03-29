@@ -1,7 +1,7 @@
 {
   "number": 447,
-  "questionId": 81577,
-  "questionNumber": "223309",
+  "questionId": "022-0447",
+  "questionNumber": "022-0447",
   "stemHtml": "<p>During pre-flight, while checking the route entered in the FMS by the pilot, it is noticed that the FMS navigation database is out-of-date. The decision is taken to change the FMS navigation database cycle to the current cycle. After changing the navigation database cycle...</p>",
   "options": {
     "a": "<p>The FMS will restart, deleting all entered information.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>All previously entered route data will be deleted.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81577,
+    "number": "223309"
+  }
 }

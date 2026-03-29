@@ -1,7 +1,7 @@
 {
   "number": 299,
-  "questionId": 70911,
-  "questionNumber": "333805",
+  "questionId": "033-0299",
+  "questionNumber": "033-0299",
   "stemHtml": "<p>Refer to figure or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017. <br>What is the maximum permissible altitude for reaching the compulsory reporting point NE?</p>",
   "options": {
     "a": "<p>2000 m AMSL</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/60C4E9E7-24CC-4AB0-9679-712870CE4BF3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/60C4E9E7-24CC-4AB0-9679-712870CE4BF3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70911,
+    "number": "333805"
+  }
 }

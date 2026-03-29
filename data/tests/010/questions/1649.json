@@ -1,7 +1,7 @@
 {
   "number": 1649,
-  "questionId": 82865,
-  "questionNumber": "106832",
+  "questionId": "010-1649",
+  "questionNumber": "010-1649",
   "stemHtml": "<p>A pilot is flying in an italian registered aircraft over the central Mediterranean Sea, within Tripoli FIR (Libya), approximately 100 NM from the nearest land. Which of the following sources should the pilot refer to to ensure their compliance with the applicable Rules of the Air?</p><p>1. Standardised European Rules of the Air (SERA)\u00a0<br>2. Rules of the Air published by Libya\u00a0<br>3. Rules of the Air for the High Seas<br>4. Rules of the Air published by Italy<br>5. ICAO Annex 2</p>",
   "options": {
     "a": "<p>2, 3 and 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 3 and 4.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82865,
+    "number": "106832"
+  }
 }

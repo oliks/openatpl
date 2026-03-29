@@ -1,7 +1,7 @@
 {
   "number": 1684,
-  "questionId": 68618,
-  "questionNumber": "228044",
+  "questionId": "022-1684",
+  "questionNumber": "022-1684",
   "stemHtml": "<p>Components of the FMS are:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 CDU (Control and Display Unit)</span> <br /> \n2 \u2013 Database <br /> \n3 \u2013 FMC (Flight Management Computer) <br /> \n4 \u2013 electronic check-lists. <br /> \n5 \u2013 GPWS mode controller.</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "1, 2, 4, 5.",
@@ -10,5 +10,10 @@
     "d": "3, 4."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68618,
+    "number": "228044"
+  }
 }

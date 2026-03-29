@@ -1,7 +1,7 @@
 {
   "number": 1108,
-  "questionId": 83514,
-  "questionNumber": "332758",
+  "questionId": "033-1108",
+  "questionNumber": "033-1108",
   "stemHtml": "<p>An aircraft at FL120, IAS 200 kt, OAT -5\u00b0C and wind component +30 kt, is required to reduce speed in order to cross a reporting point 5 MIN later than planned.</p><p>Assuming flight conditions do not change, when 100 NM from the reporting point IAS should be reduced to\u2026</p>",
   "options": {
     "a": "174 kt",
@@ -10,5 +10,10 @@
     "d": "165 kt"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83514,
+    "number": "332758"
+  }
 }

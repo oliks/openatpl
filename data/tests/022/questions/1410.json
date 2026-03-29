@@ -1,7 +1,7 @@
 {
   "number": 1410,
-  "questionId": 68793,
-  "questionNumber": "224452",
+  "questionId": "022-1410",
+  "questionNumber": "022-1410",
   "stemHtml": "<p>A pressure of 1 bar is equivalent to\u2026</p>",
   "options": {
     "a": "1000 Pascal.",
@@ -10,5 +10,10 @@
     "d": "100 Pascal."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68793,
+    "number": "224452"
+  }
 }

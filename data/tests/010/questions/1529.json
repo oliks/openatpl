@@ -1,7 +1,7 @@
 {
   "number": 1529,
-  "questionId": 115691,
-  "questionNumber": "102202",
+  "questionId": "010-1529",
+  "questionNumber": "010-1529",
   "stemHtml": "<p>What is true about the following events?</p><p>(1) An aircraft has a near miss with another aircraft that nearly led to a collision<br>(2) Another aircraft sustains damage to landing gear and fuselage</p>",
   "options": {
     "a": "<p>(1) is a serious incident because a collision nearly occurred. (2) is an accident because the fuselage was damaged.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) is a serious incident. (2) is a serious incident.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 115691,
+    "number": "102202"
+  }
 }

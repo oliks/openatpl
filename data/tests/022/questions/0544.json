@@ -1,7 +1,7 @@
 {
   "number": 544,
-  "questionId": 80221,
-  "questionNumber": "229577",
+  "questionId": "022-0544",
+  "questionNumber": "022-0544",
   "stemHtml": "<p>The outputs of an ADC can be used by\u2026</p>",
   "options": {
     "a": "RMI",
@@ -10,5 +10,10 @@
     "d": "ADI"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80221,
+    "number": "229577"
+  }
 }

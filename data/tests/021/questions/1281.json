@@ -1,7 +1,7 @@
 {
   "number": 1281,
-  "questionId": 67509,
-  "questionNumber": "213190",
+  "questionId": "021-1281",
+  "questionNumber": "021-1281",
   "stemHtml": "When applying precautionary carburettor heating on a reciprocating engine with a fixed pitch propeller:",
   "options": {
     "a": "the RPM decreases.",
@@ -10,5 +10,10 @@
     "d": "the mixture does not change."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67509,
+    "number": "213190"
+  }
 }

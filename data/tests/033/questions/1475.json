@@ -1,7 +1,7 @@
 {
   "number": 1475,
-  "questionId": 133070,
-  "questionNumber": "336885",
+  "questionId": "033-1475",
+  "questionNumber": "033-1475",
   "stemHtml": "<p>When reviewing the wind charts in the briefing room, you notice that the average wind in cruise will be 25 kt headwind. Given following data, what will be the flight time to destination?</p><p>Time to top of climb: 30 min <br>Cruise leg: 740 NAM <br>FL380 <br>TAS: 460 kt <br>ISA: -10\u00b0C <br>Time to from top of descent to landing: 22 minutes</p>",
   "options": {
     "a": "<p>2 h 34 mins</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 h 28 mins</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 133070,
+    "number": "336885"
+  }
 }

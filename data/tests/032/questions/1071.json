@@ -1,7 +1,7 @@
 {
   "number": 1071,
-  "questionId": 70153,
-  "questionNumber": "326971",
+  "questionId": "032-1071",
+  "questionNumber": "032-1071",
   "stemHtml": "When a landing is performed above the Maximum Quick Turnaround Mass, the pilot must...",
   "options": {
     "a": "wait for a specified time before the next take-off.",
@@ -10,5 +10,10 @@
     "d": "reduce the speed at touchdown in order to avoid a tailstrike."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70153,
+    "number": "326971"
+  }
 }

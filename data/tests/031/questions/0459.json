@@ -1,7 +1,7 @@
 {
   "number": 459,
-  "questionId": 84169,
-  "questionNumber": "319236",
+  "questionId": "031-0459",
+  "questionNumber": "031-0459",
   "stemHtml": "<p>If the CG of an aircraft is close to its forward limit, what will be achieved if fuel is transferred from the wing tanks to the aeroplane\u2019s fin or horizontal stabiliser tanks?</p>",
   "options": {
     "a": "<p>Efficient stability control, by repositioning the CG aft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Best range, by repositioning the CG forward.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84169,
+    "number": "319236"
+  }
 }

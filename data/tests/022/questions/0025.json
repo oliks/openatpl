@@ -1,7 +1,7 @@
 {
   "number": 25,
-  "questionId": 82247,
-  "questionNumber": "223572",
+  "questionId": "022-0025",
+  "questionNumber": "022-0025",
   "stemHtml": "In a dual FMS architecture, what happens if one of the FMS fails?",
   "options": {
     "a": "Pilots have to make an FMS reset as soon as possible.",
@@ -10,5 +10,10 @@
     "d": "Redundancy is lost, the operative FMS will fully take over."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82247,
+    "number": "223572"
+  }
 }

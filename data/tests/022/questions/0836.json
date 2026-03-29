@@ -1,7 +1,7 @@
 {
   "number": 836,
-  "questionId": 68911,
-  "questionNumber": "222826",
+  "questionId": "022-0836",
+  "questionNumber": "022-0836",
   "stemHtml": "<p>Concerning the directional gyro, the apparent drift rate due to the Earth's rotation is a function of\u2026</p>",
   "options": {
     "a": "longitude",
@@ -10,5 +10,10 @@
     "d": "latitude and longitude"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68911,
+    "number": "222826"
+  }
 }

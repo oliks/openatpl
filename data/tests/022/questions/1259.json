@@ -1,7 +1,7 @@
 {
   "number": 1259,
-  "questionId": 68693,
-  "questionNumber": "222813",
+  "questionId": "022-1259",
+  "questionNumber": "022-1259",
   "stemHtml": "The Mach meter is subject to position error. This error results from:",
   "options": {
     "a": "imperfect elasticity of the capsules.",
@@ -10,5 +10,10 @@
     "d": "incorrect altimeter setting."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68693,
+    "number": "222813"
+  }
 }

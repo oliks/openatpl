@@ -1,7 +1,7 @@
 {
   "number": 713,
-  "questionId": 112054,
-  "questionNumber": "214380",
+  "questionId": "021-0713",
+  "questionNumber": "021-0713",
   "stemHtml": "<p>The thermal anti-icing system used on the leading edges of wings and sometimes the tail of large jet aircraft is heated by...</p>",
   "options": {
     "a": "<p>hydraulic fluid.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>its own dedicated heated fluid.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112054,
+    "number": "214380"
+  }
 }

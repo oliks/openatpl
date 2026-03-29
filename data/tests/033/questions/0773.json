@@ -1,7 +1,7 @@
 {
   "number": 773,
-  "questionId": 84092,
-  "questionNumber": "339856",
+  "questionId": "033-0773",
+  "questionNumber": "033-0773",
   "stemHtml": "You want to plan a very accurate VFR route within a controlled airspace. Which of the following landmarks do you consider best suited for insertion into a GNSS flight plan using coordinates?",
   "options": {
     "a": "Large wooden areas",
@@ -10,5 +10,10 @@
     "d": "Major cities"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84092,
+    "number": "339856"
+  }
 }

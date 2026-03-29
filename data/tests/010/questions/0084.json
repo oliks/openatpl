@@ -1,7 +1,7 @@
 {
   "number": 84,
-  "questionId": 80497,
-  "questionNumber": "103300",
+  "questionId": "010-0084",
+  "questionNumber": "010-0084",
   "stemHtml": "According to ICAO Doc 4444, why must the movement of all persons, vehicles and towed aircrafts on the manoeuvring area be controlled by the aerodrome control tower?",
   "options": {
     "a": "<p>To reduce hazards between aircraft landing, taxiing, or taking off.</p>",
@@ -10,5 +10,10 @@
     "d": "To provide safe vehicular access to aprons."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80497,
+    "number": "103300"
+  }
 }

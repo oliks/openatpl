@@ -1,7 +1,7 @@
 {
   "number": 1878,
-  "questionId": 67325,
-  "questionNumber": "214592",
+  "questionId": "021-1878",
+  "questionNumber": "021-1878",
   "stemHtml": "<p>Assuming a constant speed drive (CSD) fault is indicated, the CSD should be disconnected\u2026</p>",
   "options": {
     "a": "provided the engine is running.",
@@ -10,5 +10,10 @@
     "d": "on the ground only."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67325,
+    "number": "214592"
+  }
 }

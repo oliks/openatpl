@@ -1,7 +1,7 @@
 {
   "number": 1857,
-  "questionId": 107861,
-  "questionNumber": "211483",
+  "questionId": "021-1857",
+  "questionNumber": "021-1857",
   "stemHtml": "<p>How is the speed of gases increased in a gas turbine assuming the flow is supersonic?</p>",
   "options": {
     "a": "<p>A convergent nozzle accelerates the gases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A divergent nozzle situated just behind the turbine.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107861,
+    "number": "211483"
+  }
 }

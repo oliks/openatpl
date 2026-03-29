@@ -1,7 +1,7 @@
 {
   "number": 96,
-  "questionId": 78468,
-  "questionNumber": "102431",
+  "questionId": "010-0096",
+  "questionNumber": "010-0096",
   "stemHtml": "<p>After refueling procedure, the pilot notices that the amount of fuel in the tanks is about 2900 kg over the amount considered for performance calculations. Which of the following statements is correct?</p>",
   "options": {
     "a": "<p>Check that the Zero fuel mass is still within limits and carry on with the operation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Performance calculations must be redone, and aircraft and runway conditions must be within limits in order for the flight to safely continue.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78468,
+    "number": "102431"
+  }
 }

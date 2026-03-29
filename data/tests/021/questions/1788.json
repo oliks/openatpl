@@ -1,7 +1,7 @@
 {
   "number": 1788,
-  "questionId": 66608,
-  "questionNumber": "212006",
+  "questionId": "021-1788",
+  "questionNumber": "021-1788",
   "stemHtml": "<p>Which one of the following liquids are considered highly corrosive?</p><p>(1) Anti-icing fluid<br>(2) De-icing fluid<br>(3) Window washer<br>(4) Hydraulic fluid<br>(5) Engine oil<br>(6) Jet fuel</p>",
   "options": {
     "a": "(4).",
@@ -10,5 +10,10 @@
     "d": "(1), (2) and (3)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66608,
+    "number": "212006"
+  }
 }

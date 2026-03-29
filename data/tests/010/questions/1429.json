@@ -1,7 +1,7 @@
 {
   "number": 1429,
-  "questionId": 108496,
-  "questionNumber": "103608",
+  "questionId": "010-1429",
+  "questionNumber": "010-1429",
   "stemHtml": "<p>The privileges of a holder of an MCC (Multi-Crew Cooperation) certificate are...</p>",
   "options": {
     "a": "<p>to act as a pilot-in-command of an aircraft requiring a co-pilot.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>not to act in any capacity without an ATPL, CPL or MPL license.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108496,
+    "number": "103608"
+  }
 }

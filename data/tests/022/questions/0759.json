@@ -1,7 +1,7 @@
 {
   "number": 759,
-  "questionId": 78740,
-  "questionNumber": "225347",
+  "questionId": "022-0759",
+  "questionNumber": "022-0759",
   "stemHtml": "<p>Select the option which groups all the correct statements regarding the Electronic Flight Instrument System (EFIS):</p><p>1) the Navigation Display (ND) displays Flight Director Bars<br>2) the altimeter setting is displayed on the PFD (Primary Flight Display)<br>3) the PFD is the main flying instrument<br>4) the FMA (Flight Mode Annunciator) is part of the ND</p>",
   "options": {
     "a": "1 and 2.",
@@ -10,5 +10,10 @@
     "d": "3 and 4."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78740,
+    "number": "225347"
+  }
 }

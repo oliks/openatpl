@@ -1,7 +1,7 @@
 {
   "number": 9,
-  "questionId": 82313,
-  "questionNumber": "221920",
+  "questionId": "022-0009",
+  "questionNumber": "022-0009",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat steps characterize the FLARE mode during an autoland?</p>\r\r<p>1. FMS mode freeze at 150 ft RA <br /> \r2. Vertical speed reduction at 100 ft RA <br /> \r3. Autothrust disengagement at 70 ft RA <br /> \r4. At 50 ft RA, disengagement of Glide Slope mode and engagement of the FLARE mode <br /> \r5. Autothrust change from SPD to THR IDLE mode <br /> \r6. Spoilers deployment</p>",
   "options": {
     "a": "<p>2, 4, 5</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/8AAB8882-03DD-4282-83C2-F4BF1B6376E6.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/8AAB8882-03DD-4282-83C2-F4BF1B6376E6.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82313,
+    "number": "221920"
+  }
 }

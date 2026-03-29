@@ -1,7 +1,7 @@
 {
   "number": 765,
-  "questionId": 86260,
-  "questionNumber": "229308",
+  "questionId": "022-0765",
+  "questionNumber": "022-0765",
   "stemHtml": "<p>An airplane is performing an ILS approach with both autopilots engaged with intentions to perform an autoland. The autoland capability is fail-operational. When passing 35 feet, the FLARE mode activates and one of the autopilots disengages. Considering the data given below, what could be the possible outcome?</p>\r\r<p>RVR: 75 m <br /> \rApproach minima: 0 ft <br /> \rAlert height: 100 ft</p>",
   "options": {
     "a": "<p>There is an announcement of the autopilot failure and a warning that the landing can no longer be completed automatically. Because the RVR is too short for a manual landing, the pilot must go around.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The landing capability downgrades to fail-passive, but there is no annunciation of this downgrade or the autopilot failure. The pilots need take no action because the system will still complete the automatic landing.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86260,
+    "number": "229308"
+  }
 }

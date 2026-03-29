@@ -1,7 +1,7 @@
 {
   "number": 945,
-  "questionId": 68166,
-  "questionNumber": "212633",
+  "questionId": "021-0945",
+  "questionNumber": "021-0945",
   "stemHtml": "A manifold pressure gauge of a piston engine measures:",
   "options": {
     "a": "absolute air pressure entering the carburettor.",
@@ -10,5 +10,10 @@
     "d": "absolute pressure in intake system behind the throttle valve."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68166,
+    "number": "212633"
+  }
 }

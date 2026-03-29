@@ -1,7 +1,7 @@
 {
   "number": 1512,
-  "questionId": 82973,
-  "questionNumber": "225947",
+  "questionId": "022-1512",
+  "questionNumber": "022-1512",
   "stemHtml": "<p>Refer to figure. <br>The aircraft has been refueled as shown in the annex. How much fuel is needed to fill the tank to 70% capacity?</p>",
   "options": {
     "a": "109 l",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/4EAA4B7A-72C0-4731-B1E1-1E5FCEDBCD02.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/4EAA4B7A-72C0-4731-B1E1-1E5FCEDBCD02.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82973,
+    "number": "225947"
+  }
 }

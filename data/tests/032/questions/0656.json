@@ -1,7 +1,7 @@
 {
   "number": 656,
-  "questionId": 69837,
-  "questionNumber": "325037",
+  "questionId": "032-0656",
+  "questionNumber": "032-0656",
   "stemHtml": "<p>The \"Density altitude\" is\u2026</p>",
   "options": {
     "a": "the altitude obtained by setting the subscale of an altimeter to QNH.",
@@ -10,5 +10,10 @@
     "d": "the altitude in the standard atmosphere at which the prevailing density occurs."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69837,
+    "number": "325037"
+  }
 }

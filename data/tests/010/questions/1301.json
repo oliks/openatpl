@@ -1,7 +1,7 @@
 {
   "number": 1301,
-  "questionId": 80477,
-  "questionNumber": "104770",
+  "questionId": "010-1301",
+  "questionNumber": "010-1301",
   "stemHtml": "When a passenger and his/her luggage arrive at an aerodrome, in ICAO Annex 9 provisions request the State to\u2026",
   "options": {
     "a": "Give passengers with first class tickets priority over other passengers for their inspections as well as their luggage.",
@@ -10,5 +10,10 @@
     "d": "Prevent any delays for passengers due to the increase of the border and luggage controls."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80477,
+    "number": "104770"
+  }
 }

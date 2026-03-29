@@ -1,7 +1,7 @@
 {
   "number": 738,
-  "questionId": 81801,
-  "questionNumber": "224803",
+  "questionId": "022-0738",
+  "questionNumber": "022-0738",
   "stemHtml": "<p>The Pilot Flying (PF) is manually flying using the Flight Director (FD) and on a heading ATC clears the aircraft to fly direct to \"POL\u201d which is on the flight planned route 20<strong>\u00b0</strong> right of the current heading and 50 NM away. The Pilot Monitoring (PM) makes the appropriate selections, which are verified by the PF. What should the PF do next?</p>",
   "options": {
     "a": "Check that the FCU NAV button is illuminated. The FD will command a turn towards POL, so follow the FD and wait until the turn is commanded. ATC will expect a delay so will NOT need to be told.",
@@ -10,5 +10,10 @@
     "d": "Turn towards POL, ignoring the FD. If the FD still commands any turn once the aircraft is tracking towards POL, ignore it, as this is common when flying direct to waypoints, and the FD roll command will eventually reduce."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81801,
+    "number": "224803"
+  }
 }

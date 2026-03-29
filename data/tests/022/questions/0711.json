@@ -1,7 +1,7 @@
 {
   "number": 711,
-  "questionId": 68417,
-  "questionNumber": "222449",
+  "questionId": "022-0711",
+  "questionNumber": "022-0711",
   "stemHtml": "<p>Newton metre (N m) is the SI unit of\u2026</p>",
   "options": {
     "a": "pressure.",
@@ -10,5 +10,10 @@
     "d": "torque."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68417,
+    "number": "222449"
+  }
 }

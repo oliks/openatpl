@@ -1,7 +1,7 @@
 {
   "number": 711,
-  "questionId": 70839,
-  "questionNumber": "333266",
+  "questionId": "033-0711",
+  "questionNumber": "033-0711",
   "stemHtml": "<p>Refer to figure.<br>Consider the European Regulations on Air Operations as applicable to Commercial Air Transport. What is the Final Reserve Fuel for a turbine-engined aircraft with a weight of 48 000 kg?</p>",
   "options": {
     "a": "925 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/E1C23AF1-BD59-406C-A66F-AB42C989CCB4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E1C23AF1-BD59-406C-A66F-AB42C989CCB4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70839,
+    "number": "333266"
+  }
 }

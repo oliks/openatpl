@@ -1,7 +1,7 @@
 {
   "number": 353,
-  "questionId": 66863,
-  "questionNumber": "104296",
+  "questionId": "010-0353",
+  "questionNumber": "010-0353",
   "stemHtml": "For visual manoeuvring, a sector in the circling area where a prominent obstacle exists may be ignored for OCA/H calculation if it is outside the final approach and missed approach areas. \u2013 When this option is exercised, the published procedure...",
   "options": {
     "a": "prohibits circling within the entire sector in which the obstacle is located.",
@@ -10,5 +10,10 @@
     "d": "prohibits the circling approach to the affected runway."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66863,
+    "number": "104296"
+  }
 }

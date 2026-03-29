@@ -1,7 +1,7 @@
 {
   "number": 1385,
-  "questionId": 66873,
-  "questionNumber": "107495",
+  "questionId": "010-1385",
+  "questionNumber": "010-1385",
   "stemHtml": "<p>When flying a holding pattern with the outbound leg length based on DME distance, the outbound leg terminates\u2026</p>",
   "options": {
     "a": "0.5 NM prior to reaching the limiting DME distance.",
@@ -10,5 +10,10 @@
     "d": "half a minute prior to reaching the limiting DME distance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66873,
+    "number": "107495"
+  }
 }

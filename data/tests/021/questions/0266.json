@@ -1,7 +1,7 @@
 {
   "number": 266,
-  "questionId": 110238,
-  "questionNumber": "216663",
+  "questionId": "021-0266",
+  "questionNumber": "021-0266",
   "stemHtml": "<p>What is the primary reason for suction in the carburetor?</p>",
   "options": {
     "a": "<p>The pressure difference between exhaust gas pressure and atmospheric pressure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The pressure difference between exhaust gas pressure and the pressure inside the engine's cylinder.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110238,
+    "number": "216663"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1705,
-  "questionId": 85572,
-  "questionNumber": "224891",
+  "questionId": "022-1705",
+  "questionNumber": "022-1705",
   "stemHtml": "In which of the following conditions are TAS and EAS equal?",
   "options": {
     "a": "<p>P: 1013.25 hPa and OAT: 273 K</p>",
@@ -10,5 +10,10 @@
     "d": "<p>P: 1013.25 hPa and OAT: 15\u00b0C</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85572,
+    "number": "224891"
+  }
 }

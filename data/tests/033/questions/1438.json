@@ -1,7 +1,7 @@
 {
   "number": 1438,
-  "questionId": 117763,
-  "questionNumber": "336418",
+  "questionId": "033-1438",
+  "questionNumber": "033-1438",
   "stemHtml": "<p>Refer to figure or Chart \"E LO 2\" from Jeppesen GSPRM 2017.\u00a0<br>During an IFR flight northbound on airway P1, between TULIP and MONIL, you are approximately 10 NM north of TULIP. Using the ELO 2 chart, which frequency should you contact?</p>",
   "options": {
     "a": "<p>DUTCH MIL 128.355 MHz</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/69985247-06ea-4c3a-9fcd-97d55bf7460b.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/69985247-06ea-4c3a-9fcd-97d55bf7460b.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117763,
+    "number": "336418"
+  }
 }

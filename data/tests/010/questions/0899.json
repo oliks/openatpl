@@ -1,7 +1,7 @@
 {
   "number": 899,
-  "questionId": 66707,
-  "questionNumber": "104883",
+  "questionId": "010-0899",
+  "questionNumber": "010-0899",
   "stemHtml": "<p>The flying training for an applicant of a CPL(A) integrated course shall comprise\u2026</p>",
   "options": {
     "a": "a total of at least 150 flying hours, of which up to 5 hours for the entire course may be instrument ground time.",
@@ -10,5 +10,10 @@
     "d": "a total of at least 200 flying hours, instrument ground time not provided."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66707,
+    "number": "104883"
+  }
 }

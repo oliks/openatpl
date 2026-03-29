@@ -1,7 +1,7 @@
 {
   "number": 775,
-  "questionId": 127810,
-  "questionNumber": "325002",
+  "questionId": "032-0775",
+  "questionNumber": "032-0775",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the maximum landing mass if either flap configuration can be used?</p>",
   "options": {
     "a": "<p>17 800 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/76eeb786-111b-457f-97d0-5d4442e5f8fb.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/76eeb786-111b-457f-97d0-5d4442e5f8fb.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 127810,
+    "number": "325002"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1762,
-  "questionId": 160009,
-  "questionNumber": "108429",
+  "questionId": "010-1762",
+  "questionNumber": "010-1762",
   "stemHtml": "<p>Refer to figure.<br>Is this configuration compliant with the international regulations?</p>",
   "options": {
     "a": "<p>Compliant with the regulations stated in ICAO Annex 14.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/2b3a03ec-83ee-4075-b1df-12ef7466e1d3.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/2b3a03ec-83ee-4075-b1df-12ef7466e1d3.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160009,
+    "number": "108429"
+  }
 }

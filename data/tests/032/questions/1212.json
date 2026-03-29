@@ -1,7 +1,7 @@
 {
   "number": 1212,
-  "questionId": 100194,
-  "questionNumber": "327988",
+  "questionId": "032-1212",
+  "questionNumber": "032-1212",
   "stemHtml": "<p>Which statements are true regarding the 4th segment of the net take-off flight path?</p><p>1. Flaps and slats are retracted<br>2. Flaps and slat are extended<br>3. Take-off thrust<br>4. Maximum continuous thrust<br>5. This segment is flown at the V<strong><sub>2</sub></strong> speed<br>6. Velocity is set to final climb speed</p>",
   "options": {
     "a": "1, 4 and 6.",
@@ -10,5 +10,10 @@
     "d": "2, 3 and 6."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100194,
+    "number": "327988"
+  }
 }

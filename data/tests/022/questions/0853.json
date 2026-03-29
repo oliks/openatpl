@@ -1,7 +1,7 @@
 {
   "number": 853,
-  "questionId": 69240,
-  "questionNumber": "227899",
+  "questionId": "022-0853",
+  "questionNumber": "022-0853",
   "stemHtml": "<p>Refer to figure. <br>The diagram which shows a 40<strong>\u00b0</strong> right bank and 8<strong>\u00b0</strong> nose down attitude is\u2026</p>",
   "options": {
     "a": "diagram 3.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/E8313E34-2705-4ECD-A10B-B0F6022FD952.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/E8313E34-2705-4ECD-A10B-B0F6022FD952.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69240,
+    "number": "227899"
+  }
 }

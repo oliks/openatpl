@@ -1,7 +1,7 @@
 {
   "number": 606,
-  "questionId": 82042,
-  "questionNumber": "222252",
+  "questionId": "022-0606",
+  "questionNumber": "022-0606",
   "stemHtml": "When flying through visible moisture, how can the TAT indication be useful?",
   "options": {
     "a": "To calculate TAS from CAS.",
@@ -10,5 +10,10 @@
     "d": "To correct for density altitude."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82042,
+    "number": "222252"
+  }
 }

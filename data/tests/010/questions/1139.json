@@ -1,7 +1,7 @@
 {
   "number": 1139,
-  "questionId": 108403,
-  "questionNumber": "102158",
+  "questionId": "010-1139",
+  "questionNumber": "010-1139",
   "stemHtml": "<p>According to ICAO Annex 17, the measures applied for the prevention of acts of unlawful interference take into account the...</p>",
   "options": {
     "a": "<p>Maximum Structural Landing Mass.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Actual Take-off Mass.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108403,
+    "number": "102158"
+  }
 }

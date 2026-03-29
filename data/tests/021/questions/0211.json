@@ -1,7 +1,7 @@
 {
   "number": 211,
-  "questionId": 83653,
-  "questionNumber": "213997",
+  "questionId": "021-0211",
+  "questionNumber": "021-0211",
   "stemHtml": "On an aircraft with two main generators, if one generator fails...",
   "options": {
     "a": "the components fed by that busbar will lose power and become unusable.",
@@ -10,5 +10,10 @@
     "d": "the busbar is isolated completely, but its output components are switched to another busbar."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83653,
+    "number": "213997"
+  }
 }

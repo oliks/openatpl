@@ -1,7 +1,7 @@
 {
   "number": 819,
-  "questionId": 161832,
-  "questionNumber": "322035",
+  "questionId": "032-0819",
+  "questionNumber": "032-0819",
   "stemHtml": "<p>Refer to figure or CAP698 figure 4.23.\u00a0<br>A Medium Range Jet Transport (MRJT) aircraft is enroute at a pressure altitude 17 000 ft when one engine fails. Given the following information, what will be the level-off pressure altitude?</p><p>Temperature: ISA\u00a0<br>Mass: 55 000 kg\u00a0<br>Engine anti-ice: ON\u00a0<br>A/C: Auto (High)</p>",
   "options": {
     "a": "<p>17 000 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/6057e074-bcf0-472f-b741-f3c2c885ccf3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6057e074-bcf0-472f-b741-f3c2c885ccf3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161832,
+    "number": "322035"
+  }
 }

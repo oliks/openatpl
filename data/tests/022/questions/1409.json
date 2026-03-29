@@ -1,7 +1,7 @@
 {
   "number": 1409,
-  "questionId": 110163,
-  "questionNumber": "225005",
+  "questionId": "022-1409",
+  "questionNumber": "022-1409",
   "stemHtml": "<p>What collision avoidance capability does your TCAS II device offer when monitoring 3 aircraft in close proximity?</p>",
   "options": {
     "a": "<p>It is capable of providing you with information on the 3 aircraft, but only an RA for one aircraft at a time.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It is capable of suggesting resolutions to avoid potential collisions with the 3 aircraft.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110163,
+    "number": "225005"
+  }
 }

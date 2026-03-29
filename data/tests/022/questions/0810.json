@@ -1,7 +1,7 @@
 {
   "number": 810,
-  "questionId": 68836,
-  "questionNumber": "225395",
+  "questionId": "022-0810",
+  "questionNumber": "022-0810",
   "stemHtml": "<p>If the speed exceeds VMO/MMO and according to the type of aeroplane, the overspeed protection function can:</p><p><span style=\"letter-spacing:0.7px\">1 \u2013 extend the speed brakes.</span>  <br />  2 \u2013 reduce thrust to idle.  <br />  3 \u2013 inhibit the pitch trim orders in the nose down direction.</p><p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "1, 2.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68836,
+    "number": "225395"
+  }
 }

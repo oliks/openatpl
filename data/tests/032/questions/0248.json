@@ -1,7 +1,7 @@
 {
   "number": 248,
-  "questionId": 80342,
-  "questionNumber": "325871",
+  "questionId": "032-0248",
+  "questionNumber": "032-0248",
   "stemHtml": "<p>Select the correct statement when comparing a level runway to one with a 2% downslope\u2026</p>",
   "options": {
     "a": "V<sub>MBE</sub> will be lower than V<sub>MBE</sub> on a level runway.",
@@ -10,5 +10,10 @@
     "d": "V<sub>1 </sub>will remain the same."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80342,
+    "number": "325871"
+  }
 }

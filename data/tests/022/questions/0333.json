@@ -1,7 +1,7 @@
 {
   "number": 333,
-  "questionId": 153885,
-  "questionNumber": "222615",
+  "questionId": "022-0333",
+  "questionNumber": "022-0333",
   "stemHtml": "<p>Which of the following are used for the purpose of identifying adverse safety trends and tailoring training programmes?</p>",
   "options": {
     "a": "<p>FDM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADS-C</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153885,
+    "number": "222615"
+  }
 }

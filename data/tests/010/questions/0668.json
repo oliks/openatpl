@@ -1,7 +1,7 @@
 {
   "number": 668,
-  "questionId": 101039,
-  "questionNumber": "103409",
+  "questionId": "010-0668",
+  "questionNumber": "010-0668",
   "stemHtml": "Regulation (EU) No 376/2014 of the European Parliament and of the Council on the reporting, analysis and follow-up of occurrences in civil aviation specifies the rules on the...",
   "options": {
     "a": "issuance of Acceptable Means of Compliance and Guidance Material for investigation reports.",
@@ -10,5 +10,10 @@
     "d": "occurrence reporting, analysis and dissemination of safety information."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101039,
+    "number": "103409"
+  }
 }

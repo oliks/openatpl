@@ -1,7 +1,7 @@
 {
   "number": 190,
-  "questionId": 107202,
-  "questionNumber": "336049",
+  "questionId": "033-0190",
+  "questionNumber": "033-0190",
   "stemHtml": "<p>A maintenance document states that 80% of the static wicks must be functional for a flight to be permitted. On a particular aircraft, 2 out of 7 static wicks on the port side and 1 out of 7 static wicks on the starboard side are inoperative. Is the crew allowed to proceed with the flight?</p>",
   "options": {
     "a": "<p>Yes, because the majority of the static wicks are operational.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No, because the total number of inoperative wicks does not meet the safety threshold.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107202,
+    "number": "336049"
+  }
 }

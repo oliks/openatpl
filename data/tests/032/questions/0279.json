@@ -1,7 +1,7 @@
 {
   "number": 279,
-  "questionId": 70175,
-  "questionNumber": "325058",
+  "questionId": "032-0279",
+  "questionNumber": "032-0279",
   "stemHtml": "If the thrust available exceeds the thrust required for level flight&hellip;",
   "options": {
     "a": "the aeroplane decelerates if the altitude is maintained.",
@@ -10,5 +10,10 @@
     "d": "the aeroplane descends if the airspeed is maintained."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70175,
+    "number": "325058"
+  }
 }

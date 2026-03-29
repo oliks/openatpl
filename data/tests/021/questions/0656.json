@@ -1,7 +1,7 @@
 {
   "number": 656,
-  "questionId": 67792,
-  "questionNumber": "213812",
+  "questionId": "021-0656",
+  "questionNumber": "021-0656",
   "stemHtml": "Refer to figure. <br /> On ground, APU GEN can be used to feed the AC BUS 2, when: (NB: all contractors not mentioned are assumed to remain open)",
   "options": {
     "a": "C2.1 and C2.2 are closed.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/E9B8D7E0-7B90-4F33-9097-BA287EA7B7F0.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/E9B8D7E0-7B90-4F33-9097-BA287EA7B7F0.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67792,
+    "number": "213812"
+  }
 }

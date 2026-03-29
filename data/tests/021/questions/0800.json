@@ -1,7 +1,7 @@
 {
   "number": 800,
-  "questionId": 106087,
-  "questionNumber": "218300",
+  "questionId": "021-0800",
+  "questionNumber": "021-0800",
   "stemHtml": "<p>Which of the following will be observed by the pilots in the event of a leak in the bleed air ducts?</p>",
   "options": {
     "a": "<p>The auditory configuration warning sound.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Illumination of the bleed duct leak indicator.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106087,
+    "number": "218300"
+  }
 }

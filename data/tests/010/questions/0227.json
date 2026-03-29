@@ -1,7 +1,7 @@
 {
   "number": 227,
-  "questionId": 80092,
-  "questionNumber": "108417",
+  "questionId": "010-0227",
+  "questionNumber": "010-0227",
   "stemHtml": "What does \u201cAcceptance Checklist\u201d stand for?",
   "options": {
     "a": "It is a document used to assist in carrying out a check on the external appearance of dangerous goods and their associated paperwork.",
@@ -10,5 +10,10 @@
     "d": "It allows maintenace personnel to accept an aircaft defect until the next scheduled maintenance event if it is not deemed detrimental to flight safety."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80092,
+    "number": "108417"
+  }
 }

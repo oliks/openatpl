@@ -1,7 +1,7 @@
 {
   "number": 208,
-  "questionId": 69344,
-  "questionNumber": "312993",
+  "questionId": "031-0208",
+  "questionNumber": "031-0208",
   "stemHtml": "<p>Which person is entitled to request the uplift of Discretionary Fuel?</p>",
   "options": {
     "a": "The operator.",
@@ -10,5 +10,10 @@
     "d": "The head of flight operations."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69344,
+    "number": "312993"
+  }
 }

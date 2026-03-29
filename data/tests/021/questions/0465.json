@@ -1,7 +1,7 @@
 {
   "number": 465,
-  "questionId": 68101,
-  "questionNumber": "211691",
+  "questionId": "021-0465",
+  "questionNumber": "021-0465",
   "stemHtml": "What are the main components of a turbine engine starting system?",
   "options": {
     "a": "A starter and an igniter to ignite the air/fuel mixture in the combustion system.",
@@ -10,5 +10,10 @@
     "d": "A combustion chamber, a starter, and bleed air to ignite the air/fuel mixture."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68101,
+    "number": "211691"
+  }
 }

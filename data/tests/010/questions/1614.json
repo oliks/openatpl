@@ -1,7 +1,7 @@
 {
   "number": 1614,
-  "questionId": 85352,
-  "questionNumber": "109767",
+  "questionId": "010-1614",
+  "questionNumber": "010-1614",
   "stemHtml": "<p>According to ICAO Annex 14, how will the addition of a stopway affect the four declared distances? It increases the...</p>",
   "options": {
     "a": "ASDA and TORA, while the TODA and LDA remain unchanged.",
@@ -10,5 +10,10 @@
     "d": "ASDA, TORA, and TODA, while the LDA remains unchanged."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85352,
+    "number": "109767"
+  }
 }

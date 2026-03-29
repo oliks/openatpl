@@ -1,7 +1,7 @@
 {
   "number": 421,
-  "questionId": 70321,
-  "questionNumber": "337424",
+  "questionId": "033-0421",
+  "questionNumber": "033-0421",
   "stemHtml": "<p>The navigation plan reads:</p><p>Trip fuel: 136 kg\u00a0<br>Flight time: 2 hours 45 minutes\u00a0<br>Calculated reserve fuel: 30% of trip fuel Fuel in tank is minimum (no extra fuel on board)\u00a0<br>Taxi fuel: 3 kg</p><p>The endurance on the ICAO flight plan should read\u2026</p>",
   "options": {
     "a": "3 hours 34 minutes",
@@ -10,5 +10,10 @@
     "d": "2 hours 49 minutes"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70321,
+    "number": "337424"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 157,
-  "questionId": 80154,
-  "questionNumber": "329834",
+  "questionId": "032-0157",
+  "questionNumber": "032-0157",
   "stemHtml": "What is the best combination of slats and flaps for climb performance?",
   "options": {
     "a": "Large slat angle, large flap angle.",
@@ -10,5 +10,10 @@
     "d": "Large slat angle, small flap angle."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80154,
+    "number": "329834"
+  }
 }

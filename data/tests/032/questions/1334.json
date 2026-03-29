@@ -1,7 +1,7 @@
 {
   "number": 1334,
-  "questionId": 109924,
-  "questionNumber": "321811",
+  "questionId": "032-1334",
+  "questionNumber": "032-1334",
   "stemHtml": "<p>Refer to figure. <br /> \rThe pilot used their EFB to make some calculations prior to their flight. These are the calculated V-speeds:</p>\r\r<p>V<strong><sub>1</sub></strong>: 142 kt <br /> \rV<strong><sub>R</sub></strong>: 150 kt <br /> \rV<strong><sub>2</sub></strong>: 153 kt</p>\r\r<p>If by error, the pilots enter a V<strong><sub>1</sub></strong> value of 124 kts accidentally, what would the consequences on take-off performance be?</p>",
   "options": {
     "a": "<p>If one engine fails before 142 kt, the take-off distance may be significantly longer and the aeroplane may fail to become airborne before the end of the runway.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/8c3f35af-eb83-42da-b8a4-961010d19f0c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/8c3f35af-eb83-42da-b8a4-961010d19f0c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109924,
+    "number": "321811"
+  }
 }

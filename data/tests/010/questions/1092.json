@@ -1,7 +1,7 @@
 {
   "number": 1092,
-  "questionId": 105994,
-  "questionNumber": "106234",
+  "questionId": "010-1092",
+  "questionNumber": "010-1092",
   "stemHtml": "<p>According to ICAO guidelines, what is the unit that can control the apron area?</p>",
   "options": {
     "a": "<p>Aerodrome Control Tower</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Flight Information Center</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105994,
+    "number": "106234"
+  }
 }

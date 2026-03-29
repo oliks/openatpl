@@ -1,7 +1,7 @@
 {
   "number": 48,
-  "questionId": 82576,
-  "questionNumber": "324336",
+  "questionId": "032-0048",
+  "questionNumber": "032-0048",
   "stemHtml": "<p>Refer to figure.<br>You are taking-off with a single engine aeroplane and field length limited take off mass from runway 27 in VMC, for a straight out departure. Given the following information, what will be the expected obstacle clearance over the water tank on the extended centerline?</p><p>Climb gradient: 8%<br>TAS: 111 kt<br>Wind component: 5 kt tailwind<br>1 NM = 6080 ft<br>Height Difference = ((GD x TAS)/GS) x Gradient/100</p>",
   "options": {
     "a": "215 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/DE6E4ED7-3AEE-4DA4-A431-0633AD06973D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/DE6E4ED7-3AEE-4DA4-A431-0633AD06973D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82576,
+    "number": "324336"
+  }
 }

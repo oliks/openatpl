@@ -1,7 +1,7 @@
 {
   "number": 1278,
-  "questionId": 68470,
-  "questionNumber": "228631",
+  "questionId": "022-1278",
+  "questionNumber": "022-1278",
   "stemHtml": "When flying in cold air (colder than standard atmosphere), indicated altitude is:",
   "options": {
     "a": "the same as the true altitude.",
@@ -10,5 +10,10 @@
     "d": "equal to the standard altitude."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68470,
+    "number": "228631"
+  }
 }

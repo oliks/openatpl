@@ -1,7 +1,7 @@
 {
   "number": 166,
-  "questionId": 68117,
-  "questionNumber": "212162",
+  "questionId": "021-0166",
+  "questionNumber": "021-0166",
   "stemHtml": "<p>Refer to figure. <br>Given the system in the annex with all tanks containing fuel, the APU can receive fuel from\u2026</p>",
   "options": {
     "a": "<p>right main tank only.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/709e4dbe-0e9e-4bae-b0ed-fecdaa728762.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/709e4dbe-0e9e-4bae-b0ed-fecdaa728762.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68117,
+    "number": "212162"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1052,
-  "questionId": 68549,
-  "questionNumber": "226944",
+  "questionId": "022-1052",
+  "questionNumber": "022-1052",
   "stemHtml": "<p>An aeroplane is equipped with an autopilot and an auto-throttle. When the altitude hold mode (ALT HOLD) is active\u2026</p>",
   "options": {
     "a": "<p>the IAS is maintained constant by the auto-throttle system.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the TAS is maintained constant by the autopilot by means of elevator.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68549,
+    "number": "226944"
+  }
 }

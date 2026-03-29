@@ -1,7 +1,7 @@
 {
   "number": 668,
-  "questionId": 160491,
-  "questionNumber": "222092",
+  "questionId": "022-0668",
+  "questionNumber": "022-0668",
   "stemHtml": "<p>Regarding Flight Envelope Protection (FEP) systems used by fly by wire (FBW) aircraft , which combination of the following statements is correct?</p><p>1. FEP will limit excessive bank and pitch attitudes in Normal Law<br>2. FEP cannot be overridden<br>3. FEP cannot prevent an overspeed<br>4. FEP provides load factor protection<br>5. FEP provides stall protection</p>",
   "options": {
     "a": "<p>1, 4 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3, 4 and 5</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160491,
+    "number": "222092"
+  }
 }

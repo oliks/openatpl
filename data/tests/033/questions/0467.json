@@ -1,7 +1,7 @@
 {
   "number": 467,
-  "questionId": 70360,
-  "questionNumber": "337238",
+  "questionId": "033-0467",
+  "questionNumber": "033-0467",
   "stemHtml": "<p>The fuel burn of an aircraft turbine engine is 220 l/h with a fuel density of 0.80 kg/l. If the density is 0.75 kg/l, the fuel burn will be\u2026</p>",
   "options": {
     "a": "176 l/h",
@@ -10,5 +10,10 @@
     "d": "206 l/h"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70360,
+    "number": "337238"
+  }
 }

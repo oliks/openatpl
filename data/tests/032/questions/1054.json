@@ -1,7 +1,7 @@
 {
   "number": 1054,
-  "questionId": 79539,
-  "questionNumber": "329965",
+  "questionId": "032-1054",
+  "questionNumber": "032-1054",
   "stemHtml": "What will happen if you fly with the maximum ratio between thrust available and thrust required during a climb?",
   "options": {
     "a": "You will fly with maximum rate of climb.",
@@ -10,5 +10,10 @@
     "d": "You will fly at a speed higher than V<sub>Y</sub>."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79539,
+    "number": "329965"
+  }
 }

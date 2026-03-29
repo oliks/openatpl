@@ -1,7 +1,7 @@
 {
   "number": 66,
-  "questionId": 106097,
-  "questionNumber": "101079",
+  "questionId": "010-0066",
+  "questionNumber": "010-0066",
   "stemHtml": "<p>During cruise, a climbing RA is triggered showing the instruction to climb at 1500 ft/min. The pilot realises that the other aircraft is climbing as well. How should the pilot respond?</p>",
   "options": {
     "a": "<p>Visually maneuver and avoid the traffic.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Climb according to RA, but at the maximum vertical speed.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106097,
+    "number": "101079"
+  }
 }

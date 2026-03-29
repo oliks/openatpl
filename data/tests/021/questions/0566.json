@@ -1,7 +1,7 @@
 {
   "number": 566,
-  "questionId": 96644,
-  "questionNumber": "215717",
+  "questionId": "021-0566",
+  "questionNumber": "021-0566",
   "stemHtml": "Aeroplanes operating in which of the following environments are most susceptible to corrosion?",
   "options": {
     "a": "Close to cold, fresh water surfaces.",
@@ -10,5 +10,10 @@
     "d": "At low altitudes over dry desert regions."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96644,
+    "number": "215717"
+  }
 }

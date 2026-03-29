@@ -1,7 +1,7 @@
 {
   "number": 92,
-  "questionId": 96536,
-  "questionNumber": "108803",
+  "questionId": "010-0092",
+  "questionNumber": "010-0092",
   "stemHtml": "When planning an IFR training flight, a student pilot must choose a suitable cruising level. The minimum cruising level is the level that corresponds to the minimum established...",
   "options": {
     "a": "Sector Altitude.",
@@ -10,5 +10,10 @@
     "d": "<p>Obstacle Clearance Altitude.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96536,
+    "number": "108803"
+  }
 }

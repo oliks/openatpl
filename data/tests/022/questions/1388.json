@@ -1,7 +1,7 @@
 {
   "number": 1388,
-  "questionId": 111381,
-  "questionNumber": "229622",
+  "questionId": "022-1388",
+  "questionNumber": "022-1388",
   "stemHtml": "<p>Regarding the navigation database of a flight management computer (FMC), a user-defined place/bearing/distance (PBD) waypoint is defined by\u2026</p>",
   "options": {
     "a": "<p>relative bearing and GNSS position information.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the distance information from two waypoints.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111381,
+    "number": "229622"
+  }
 }

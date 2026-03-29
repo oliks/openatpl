@@ -1,7 +1,7 @@
 {
   "number": 1082,
-  "questionId": 80864,
-  "questionNumber": "217733",
+  "questionId": "021-1082",
+  "questionNumber": "021-1082",
   "stemHtml": "<p>Which of the following statements is correct in the event of computer failure on a Fly-By-Wire (FBW) aircraft?</p>",
   "options": {
     "a": "Some form of back-up mode is required in the event of total computer failure.",
@@ -10,5 +10,10 @@
     "d": "Any form of computer failure will affect the aircraft handling."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80864,
+    "number": "217733"
+  }
 }

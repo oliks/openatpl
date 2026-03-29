@@ -1,7 +1,7 @@
 {
   "number": 199,
-  "questionId": 159788,
-  "questionNumber": "104323",
+  "questionId": "010-0199",
+  "questionNumber": "010-0199",
   "stemHtml": "<p>Refer to figure. <br /> Which of the given flags should be used when marking a mobile object inside the movement area of an airport?</p>",
   "options": {
     "a": "<p>Figure 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/292082e7-c1d7-4bf0-8bc6-28521fcb7046.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/292082e7-c1d7-4bf0-8bc6-28521fcb7046.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159788,
+    "number": "104323"
+  }
 }

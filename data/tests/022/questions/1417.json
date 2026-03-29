@@ -1,7 +1,7 @@
 {
   "number": 1417,
-  "questionId": 68572,
-  "questionNumber": "228544",
+  "questionId": "022-1417",
+  "questionNumber": "022-1417",
   "stemHtml": "<p>A TCAS II proximate traffic is displayed as\u2026</p>",
   "options": {
     "a": "<p>an amber solid circle.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a white or cyan solid lozenge.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68572,
+    "number": "228544"
+  }
 }

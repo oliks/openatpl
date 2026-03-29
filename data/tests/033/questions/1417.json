@@ -1,7 +1,7 @@
 {
   "number": 1417,
-  "questionId": 70528,
-  "questionNumber": "337189",
+  "questionId": "033-1417",
+  "questionNumber": "033-1417",
   "stemHtml": "<p>Refer to figures.<br>Given:</p><p>Take-off mass: 150 000 kg <br>Planned cruise at FL 350 <br>Long range MACH <br>Standard Atmosphere (ISA) <br>CG: 37%</p><p>You have to cover an air distance of 2000 NM. Your flight time will be\u2026</p>",
   "options": {
     "a": "298 minutes",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/619F164C-D289-40C3-AD43-73AEC89DC3FE.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/619F164C-D289-40C3-AD43-73AEC89DC3FE.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70528,
+    "number": "337189"
+  }
 }

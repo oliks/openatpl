@@ -1,7 +1,7 @@
 {
   "number": 317,
-  "questionId": 163323,
-  "questionNumber": "223128",
+  "questionId": "022-0317",
+  "questionNumber": "022-0317",
   "stemHtml": "<p>Regarding an aircraft data bus?</p>",
   "options": {
     "a": "<p>It's fed by computer DC current.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It feeds data around the aircraft structure.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163323,
+    "number": "223128"
+  }
 }

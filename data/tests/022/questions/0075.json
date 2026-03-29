@@ -1,7 +1,7 @@
 {
   "number": 75,
-  "questionId": 96384,
-  "questionNumber": "223279",
+  "questionId": "022-0075",
+  "questionNumber": "022-0075",
   "stemHtml": "Refer to figure. <br /> Which IRS mode should be used in flight?",
   "options": {
     "a": "NAV but not with ATT functions.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/82e915c6-e570-4d6e-8100-0c1cb789fff2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/82e915c6-e570-4d6e-8100-0c1cb789fff2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96384,
+    "number": "223279"
+  }
 }

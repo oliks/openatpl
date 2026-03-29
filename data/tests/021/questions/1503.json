@@ -1,7 +1,7 @@
 {
   "number": 1503,
-  "questionId": 102769,
-  "questionNumber": "211219",
+  "questionId": "021-1503",
+  "questionNumber": "021-1503",
   "stemHtml": "<p>Why are additives used for turbine engine fuels?</p>",
   "options": {
     "a": "<p>To decrease the flashpoint of the fuel for operation in high temperatures.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To prevent waxing of the fuel in low temperatures.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102769,
+    "number": "211219"
+  }
 }

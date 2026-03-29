@@ -1,7 +1,7 @@
 {
   "number": 1111,
-  "questionId": 78417,
-  "questionNumber": "337275",
+  "questionId": "033-1111",
+  "questionNumber": "033-1111",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017.<i> </i><br>What is the frequency of MUNICH ATIS?</p>",
   "options": {
     "a": "112.30 MHz",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/4CF30B18-E7B0-4C03-B5B2-314C6A393599.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4CF30B18-E7B0-4C03-B5B2-314C6A393599.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78417,
+    "number": "337275"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1518,
-  "questionId": 67849,
-  "questionNumber": "217853",
+  "questionId": "021-1518",
+  "questionNumber": "021-1518",
   "stemHtml": "<p>Consider a gas turbine engine. The diffuser of a centrifugal-flow compressor stage creates a\u2026</p>",
   "options": {
     "a": "convergent area at the impeller inlet to increase both the air velocity and the air pressure.",
@@ -10,5 +10,10 @@
     "d": "divergent area at the impeller exit to increase both the air velocity and the air pressure."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67849,
+    "number": "217853"
+  }
 }

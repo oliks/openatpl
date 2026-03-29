@@ -1,7 +1,7 @@
 {
   "number": 1019,
-  "questionId": 80760,
-  "questionNumber": "218185",
+  "questionId": "021-1019",
+  "questionNumber": "021-1019",
   "stemHtml": "What is the type of operation with the highest risk of corrosion?",
   "options": {
     "a": "Low-level flights over hot, sandy deserts.",
@@ -10,5 +10,10 @@
     "d": "High-level flights in volcanic ash."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80760,
+    "number": "218185"
+  }
 }

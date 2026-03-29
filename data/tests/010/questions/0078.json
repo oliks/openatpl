@@ -1,7 +1,7 @@
 {
   "number": 78,
-  "questionId": 67252,
-  "questionNumber": "107471",
+  "questionId": "010-0078",
+  "questionNumber": "010-0078",
   "stemHtml": "<p>You are flying in a holding pattern where you have to consider several criteria and maintain specific parameters like speed, altitude, time, distance and rate of turn. If you are descending below such altitude, there is a risk of...</p>",
   "options": {
     "a": "<p>descending below the obstacle clearance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>losing contact to ATC.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67252,
+    "number": "107471"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 603,
-  "questionId": 80870,
-  "questionNumber": "103568",
+  "questionId": "010-0603",
+  "questionNumber": "010-0603",
   "stemHtml": "<p>What is a \"precision approach\"? It is a direct instrument approach\u2026</p>",
   "options": {
     "a": "Which uses bearing, elevation and distance information, providing the pilot uses a flight director or an autopilot certified to a height below 200 ft.",
@@ -10,5 +10,10 @@
     "d": "Which uses azimuth, elevation and distance information."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80870,
+    "number": "103568"
+  }
 }

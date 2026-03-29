@@ -1,7 +1,7 @@
 {
   "number": 556,
-  "questionId": 67758,
-  "questionNumber": "219070",
+  "questionId": "021-0556",
+  "questionNumber": "021-0556",
   "stemHtml": "<p>A unit that converts DC into AC is\u2026</p>",
   "options": {
     "a": "an AC generator.",
@@ -10,5 +10,10 @@
     "d": "an inverter."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67758,
+    "number": "219070"
+  }
 }

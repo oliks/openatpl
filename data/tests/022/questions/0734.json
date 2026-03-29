@@ -1,7 +1,7 @@
 {
   "number": 734,
-  "questionId": 68720,
-  "questionNumber": "227426",
+  "questionId": "022-0734",
+  "questionNumber": "022-0734",
   "stemHtml": "<p>The aural alert associated with the mode 1 (excessive descent rate) of the GPWS is\u2026</p>",
   "options": {
     "a": "DON`T SINK",
@@ -10,5 +10,10 @@
     "d": "SINK RATE"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68720,
+    "number": "227426"
+  }
 }

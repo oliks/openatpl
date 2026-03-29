@@ -1,7 +1,7 @@
 {
   "number": 1272,
-  "questionId": 66680,
-  "questionNumber": "109741",
+  "questionId": "010-1272",
+  "questionNumber": "010-1272",
   "stemHtml": "<p>In the context of ICAO Annex 13, Aircraft Accident and Incident Investigation, the Maximum Mass is considered to be the\u2026</p>",
   "options": {
     "a": "Maximum Structural Landing Mass.",
@@ -10,5 +10,10 @@
     "d": "Maximum Certificated Take-Off Mass."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66680,
+    "number": "109741"
+  }
 }

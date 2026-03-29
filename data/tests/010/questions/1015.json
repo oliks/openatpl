@@ -1,7 +1,7 @@
 {
   "number": 1015,
-  "questionId": 109153,
-  "questionNumber": "102907",
+  "questionId": "010-1015",
+  "questionNumber": "010-1015",
   "stemHtml": "<p>What is given by ATC during radar vectoring?</p>",
   "options": {
     "a": "<p>Heading.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Squawk ident.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109153,
+    "number": "102907"
+  }
 }

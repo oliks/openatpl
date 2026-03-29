@@ -1,7 +1,7 @@
 {
   "number": 329,
-  "questionId": 82318,
-  "questionNumber": "315201",
+  "questionId": "031-0329",
+  "questionNumber": "031-0329",
   "stemHtml": "<p>Refer to figure or CAP696 file 4.12. <br>The ZFM index is 16 and ZFM = 51 000 kg. Is the ZFM CG within the limit?</p>",
   "options": {
     "a": "<p>No, it is outside of the forward limit.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/c22083dc-219e-4006-a524-e373dc1d6185.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/c22083dc-219e-4006-a524-e373dc1d6185.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82318,
+    "number": "315201"
+  }
 }

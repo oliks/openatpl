@@ -1,7 +1,7 @@
 {
   "number": 563,
-  "questionId": 70948,
-  "questionNumber": "331490",
+  "questionId": "033-0563",
+  "questionNumber": "033-0563",
   "stemHtml": "<p>You refuel with 150 US Gallons. What is the mass in lb with an specific gravity of 0.75?<br> </p>",
   "options": {
     "a": "937.5 lb",
@@ -10,5 +10,10 @@
     "d": "697 lb<br>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70948,
+    "number": "331490"
+  }
 }

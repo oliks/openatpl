@@ -1,7 +1,7 @@
 {
   "number": 456,
-  "questionId": 83039,
-  "questionNumber": "331593",
+  "questionId": "033-0456",
+  "questionNumber": "033-0456",
   "stemHtml": "<p>Refer to VFR Chart ED-4 from Jeppesen GSPRM 2017.\u00a0<br>Find the true track for a flight from FREISTADT (LOLF) in Austria (N48\u00b030.9' E14\u00b024.5') to F\u00dcRSTENZELL (EDMF) in Germany (N48\u00b031.1' E013\u00b020.8').</p>",
   "options": {
     "a": "<p>271\u00b0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/8F0D0946-D6F2-4D63-915A-089B62D1214F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8F0D0946-D6F2-4D63-915A-089B62D1214F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83039,
+    "number": "331593"
+  }
 }

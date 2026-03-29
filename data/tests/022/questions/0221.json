@@ -1,7 +1,7 @@
 {
   "number": 221,
-  "questionId": 108545,
-  "questionNumber": "224436",
+  "questionId": "022-0221",
+  "questionNumber": "022-0221",
   "stemHtml": "<p>What system helps to improve directional stability at high TAS?</p>",
   "options": {
     "a": "<p>Flight Envelope Protection System</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Stall Warning System</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108545,
+    "number": "224436"
+  }
 }

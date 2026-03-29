@@ -1,7 +1,7 @@
 {
   "number": 279,
-  "questionId": 69376,
-  "questionNumber": "316320",
+  "questionId": "031-0279",
+  "questionNumber": "031-0279",
   "stemHtml": "Refer to figure. <br /> From the data contained in the attached appendix, the maximum allowable take-off mass and traffic load is respectively:",
   "options": {
     "a": "68038 kg and 18588 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/C3621A43-25E2-46CB-9CAE-E776D372E5B4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/C3621A43-25E2-46CB-9CAE-E776D372E5B4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69376,
+    "number": "316320"
+  }
 }

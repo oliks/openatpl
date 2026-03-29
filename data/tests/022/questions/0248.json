@@ -1,7 +1,7 @@
 {
   "number": 248,
-  "questionId": 110962,
-  "questionNumber": "222965",
+  "questionId": "022-0248",
+  "questionNumber": "022-0248",
   "stemHtml": "<p>Refer to figure. <br /> \rRegarding the FMA indications, what stage of flight is this?</p>",
   "options": {
     "a": "<p>Cruise</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/5638c1ed-de13-438b-8b2a-24dcf860a4ab.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/5638c1ed-de13-438b-8b2a-24dcf860a4ab.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110962,
+    "number": "222965"
+  }
 }

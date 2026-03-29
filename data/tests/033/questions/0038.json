@@ -1,7 +1,7 @@
 {
   "number": 38,
-  "questionId": 142194,
-  "questionNumber": "337751",
+  "questionId": "033-0038",
+  "questionNumber": "033-0038",
   "stemHtml": "<p>An aircraft is flying at FL80 where the outside air temperature is ISA +15\u00b0C. The QNH at a nearby station with an elevation of 300 ft AMSL is 1020 hPa. Calculate the aircraft\u2019s true altitude. (Assume 30 ft/hpa)</p>",
   "options": {
     "a": "<p>8700 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>7750 ft</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 142194,
+    "number": "337751"
+  }
 }

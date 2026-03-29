@@ -1,7 +1,7 @@
 {
   "number": 284,
-  "questionId": 68674,
-  "questionNumber": "226199",
+  "questionId": "022-0284",
+  "questionNumber": "022-0284",
   "stemHtml": "<p>The FMC determines and update present aircraft position from the following systems:</p><p>1 \u2013 SATCOM <br />2 \u2013 GPS <br />3 \u2013 DME <br />4 \u2013 IRS</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2, 4.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 4."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68674,
+    "number": "226199"
+  }
 }

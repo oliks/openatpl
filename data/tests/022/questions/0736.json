@@ -1,7 +1,7 @@
 {
   "number": 736,
-  "questionId": 101113,
-  "questionNumber": "225480",
+  "questionId": "022-0736",
+  "questionNumber": "022-0736",
   "stemHtml": "<p>A portable EFB\u2026</p>",
   "options": {
     "a": "<p>Can be carried in the aircraft and is part of the same certificate of airworthiness.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Cannot be carried unless it is stowed in the pilot's flight bag.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101113,
+    "number": "225480"
+  }
 }

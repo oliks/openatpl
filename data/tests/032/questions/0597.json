@@ -1,7 +1,7 @@
 {
   "number": 597,
-  "questionId": 69625,
-  "questionNumber": "322170",
+  "questionId": "032-0597",
+  "questionNumber": "032-0597",
   "stemHtml": "<p>Refer to figure or CAP697 Figure 3.4. <br>Given the following information, what is the true airspeed?</p><p>Pressure altitude: 12 000 feet <br>Temperature: ISA <br>Power: 65%</p>",
   "options": {
     "a": "184 knots",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/124F5FC5-B767-4691-BB93-0FCCC1C9B3FB.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/124F5FC5-B767-4691-BB93-0FCCC1C9B3FB.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69625,
+    "number": "322170"
+  }
 }

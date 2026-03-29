@@ -1,7 +1,7 @@
 {
   "number": 390,
-  "questionId": 79100,
-  "questionNumber": "324587",
+  "questionId": "032-0390",
+  "questionNumber": "032-0390",
   "stemHtml": "<p>For an SEP in the utility category, taking-off on a dry paved runway, the minimum value of V<strong><sub>R</sub></strong> is\u2026</p>",
   "options": {
     "a": "V<sub>2</sub>",
@@ -10,5 +10,10 @@
     "d": "The higher of 1.1V<sub>MCA</sub> or 1.25V<sub>SR</sub>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79100,
+    "number": "324587"
+  }
 }

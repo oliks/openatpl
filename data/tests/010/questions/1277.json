@@ -1,7 +1,7 @@
 {
   "number": 1277,
-  "questionId": 95972,
-  "questionNumber": "102863",
+  "questionId": "010-1277",
+  "questionNumber": "010-1277",
   "stemHtml": "<p>According to ICAO Annex 14 Volume I, boundary markers must be installed at an aerodrome in cases where...</p>",
   "options": {
     "a": "<p>the runway surroundings CANNOT otherwise be distinguished from the runway itself.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the landing area has NO runway.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95972,
+    "number": "102863"
+  }
 }

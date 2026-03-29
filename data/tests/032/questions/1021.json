@@ -1,7 +1,7 @@
 {
   "number": 1021,
-  "questionId": 81094,
-  "questionNumber": "327093",
+  "questionId": "032-1021",
+  "questionNumber": "032-1021",
   "stemHtml": "How does the outside air temperature and pressure altitude affect the approach and landing-climb performance of an aeroplane?",
   "options": {
     "a": "The WORST performance will occur with a combination of high outside air temperature and high pressure altitude.",
@@ -10,5 +10,10 @@
     "d": "The BEST performance will occur when the outside air temperature is low and the pressure altitude is high."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81094,
+    "number": "327093"
+  }
 }

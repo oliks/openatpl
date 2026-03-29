@@ -1,7 +1,7 @@
 {
   "number": 1750,
-  "questionId": 68258,
-  "questionNumber": "213173",
+  "questionId": "021-1750",
+  "questionNumber": "021-1750",
   "stemHtml": "<p>The reason for using inverters in an electrical system is\u2026</p>",
   "options": {
     "a": "to change AC into DC.",
@@ -10,5 +10,10 @@
     "d": "to change DC into AC."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68258,
+    "number": "213173"
+  }
 }

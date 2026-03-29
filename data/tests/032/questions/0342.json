@@ -1,7 +1,7 @@
 {
   "number": 342,
-  "questionId": 69674,
-  "questionNumber": "329354",
+  "questionId": "032-0342",
+  "questionNumber": "032-0342",
   "stemHtml": "<p>For jet-propulsion aeroplanes in still air, the speed over drag ratio is maximised at the speed corresponding with the Maximum\u2026</p>",
   "options": {
     "a": "Rate of Climb Speed.",
@@ -10,5 +10,10 @@
     "d": "Endurance Speed."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69674,
+    "number": "329354"
+  }
 }

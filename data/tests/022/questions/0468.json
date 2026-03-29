@@ -1,7 +1,7 @@
 {
   "number": 468,
-  "questionId": 69268,
-  "questionNumber": "222541",
+  "questionId": "022-0468",
+  "questionNumber": "022-0468",
   "stemHtml": "<p>Due to the rotation of the Earth, the apparent drift of a horizontal free gyroscope at a latitude of 30<strong>\u00b0</strong>S is\u2026</p>",
   "options": {
     "a": "2\u00b0 per hour to the left.",
@@ -10,5 +10,10 @@
     "d": "11\u00b0 per hour to the right."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69268,
+    "number": "222541"
+  }
 }

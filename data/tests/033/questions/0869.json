@@ -1,7 +1,7 @@
 {
   "number": 869,
-  "questionId": 70841,
-  "questionNumber": "332765",
+  "questionId": "033-0869",
+  "questionNumber": "033-0869",
   "stemHtml": "<p>Refer to figure.\u00a0<br>The true course is 042\u00b0.The variation in the area is 6\u00b0W and the wind is calm. The deviation card is reproduced in the annex. In order to follow this course, the pilot must fly a compass heading of\u2026</p>",
   "options": {
     "a": "040\u00b0",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/86657926-DA4B-4DE9-8304-FB5170524035.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/86657926-DA4B-4DE9-8304-FB5170524035.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70841,
+    "number": "332765"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 867,
-  "questionId": 70452,
-  "questionNumber": "339721",
+  "questionId": "033-0867",
+  "questionNumber": "033-0867",
   "stemHtml": "<p>Refer to figure. <br /> Use the following information to determine what would be entered into ITEM 19 ENDURANCE of the ICAO Flight Plan form.</p><p>Flight rules: VFR <br /> Environment: Non-hostile <br /> Taxi Fuel: 20 kg <br /> Trip distance: 412 NM <br /> Average trip TAS: 140 kt <br /> Average Trip Fuel flow: 430 kg/h <br /> Average wind component: +15 kt <br /> Time to alternate: 25 minutes <br /> Final Reserve Fuel: 30 minutes holding T/O <br /> Fuel: minimum required</p>",
   "options": {
     "a": "0240",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/8B8D48F5-D1AB-4CA3-AA17-E8E574A0B453.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8B8D48F5-D1AB-4CA3-AA17-E8E574A0B453.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70452,
+    "number": "339721"
+  }
 }

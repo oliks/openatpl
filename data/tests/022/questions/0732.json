@@ -1,7 +1,7 @@
 {
   "number": 732,
-  "questionId": 69208,
-  "questionNumber": "224543",
+  "questionId": "022-0732",
+  "questionNumber": "022-0732",
   "stemHtml": "QNH is:",
   "options": {
     "a": "the setting that will give zero indication on the airfield.",
@@ -10,5 +10,10 @@
     "d": "the equivalent sea level pressure at the airfield."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69208,
+    "number": "224543"
+  }
 }

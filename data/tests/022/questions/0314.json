@@ -1,7 +1,7 @@
 {
   "number": 314,
-  "questionId": 84419,
-  "questionNumber": "221328",
+  "questionId": "022-0314",
+  "questionNumber": "022-0314",
   "stemHtml": "<p>At the beginning of a flight, the pilot initiates the FMS. He/she confirms the current aircraft type and model, and wants to go into the sub-menu of the performance database to change a few parameters. Which of the following statements is correct?</p>",
   "options": {
     "a": "An aircraft engineer must be present when the pilot is changing parameters, due to the safety critical data.",
@@ -10,5 +10,10 @@
     "d": "The performance database can only be changed by maintenance personnel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84419,
+    "number": "221328"
+  }
 }

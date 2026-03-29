@@ -1,7 +1,7 @@
 {
   "number": 1254,
-  "questionId": 66965,
-  "questionNumber": "102107",
+  "questionId": "010-1254",
+  "questionNumber": "010-1254",
   "stemHtml": "One condition to initiate the distress phase is...",
   "options": {
     "a": "the aircraft fails to arrive within 30 minutes of the ETA.",
@@ -10,5 +10,10 @@
     "d": "information has been received indicating that the operating efficiency of the aircraft has been impaired but not to the extent that a forced landing is likely."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66965,
+    "number": "102107"
+  }
 }

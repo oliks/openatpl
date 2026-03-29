@@ -1,7 +1,7 @@
 {
   "number": 658,
-  "questionId": 66857,
-  "questionNumber": "102352",
+  "questionId": "010-0658",
+  "questionNumber": "010-0658",
   "stemHtml": "<p>In an ILS approach, the Missed Approach Point (MAPt) may be defined by\u2026</p>",
   "options": {
     "a": "<p>a specified distance (DME) from the landing threshold.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the aerodrome-based beacon (VOR or NDB) or other navigation facility.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66857,
+    "number": "102352"
+  }
 }

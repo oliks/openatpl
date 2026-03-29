@@ -1,7 +1,7 @@
 {
   "number": 1414,
-  "questionId": 101046,
-  "questionNumber": "211785",
+  "questionId": "021-1414",
+  "questionNumber": "021-1414",
   "stemHtml": "<p>Refer to figure. <br /> \rConsider the fuel schematic of a two-engine aircraft. Where on the diagram is a fuel shut-off valve located?</p>",
   "options": {
     "a": "<p>Position 3</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/8933dd29-27e0-4376-a885-f3ff7fd85252.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/8933dd29-27e0-4376-a885-f3ff7fd85252.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101046,
+    "number": "211785"
+  }
 }

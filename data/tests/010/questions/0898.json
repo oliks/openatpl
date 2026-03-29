@@ -1,7 +1,7 @@
 {
   "number": 898,
-  "questionId": 66973,
-  "questionNumber": "106358",
+  "questionId": "010-0898",
+  "questionNumber": "010-0898",
   "stemHtml": "<p>A complete position report transmitted by radiotelephony shall contain the following elements of information in the order listed\u2026</p>",
   "options": {
     "a": "1) Aircraft identification, 2) position, 3) flight level or altitude, 4) time, 5) next position and time over, 6) ensuing significant point.",
@@ -10,5 +10,10 @@
     "d": "1) Aircraft identification, 2) position, 3) time, 4) flight level or altitude, 5) next position and time over, 6) ensuing significant point."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66973,
+    "number": "106358"
+  }
 }

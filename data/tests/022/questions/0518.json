@@ -1,7 +1,7 @@
 {
   "number": 518,
-  "questionId": 84743,
-  "questionNumber": "229036",
+  "questionId": "022-0518",
+  "questionNumber": "022-0518",
   "stemHtml": "<p>An ADC supplies the autopilot with false speed information. What happens to the precision and stability of this autopilot?</p>",
   "options": {
     "a": "It is affected because the AP computer uses this information to calculate control commands.",
@@ -10,5 +10,10 @@
     "d": "It is affected because the AP actuator is directly linked to the ADC speed sensor."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84743,
+    "number": "229036"
+  }
 }

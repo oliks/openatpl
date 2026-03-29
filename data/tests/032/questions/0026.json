@@ -1,7 +1,7 @@
 {
   "number": 26,
-  "questionId": 84086,
-  "questionNumber": "329433",
+  "questionId": "032-0026",
+  "questionNumber": "032-0026",
   "stemHtml": "<p>Calculate the TODA, given the following runway information.</p><p>TORA: 2380 ft <br>Stopway: 560 ft <br>Clearway: 1570 ft</p>",
   "options": {
     "a": "<p>3950 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2380 ft</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84086,
+    "number": "329433"
+  }
 }

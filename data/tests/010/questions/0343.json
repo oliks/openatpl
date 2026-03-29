@@ -1,7 +1,7 @@
 {
   "number": 343,
-  "questionId": 102712,
-  "questionNumber": "108311",
+  "questionId": "010-0343",
+  "questionNumber": "010-0343",
   "stemHtml": "<p>A voice ATIS is...</p>",
   "options": {
     "a": "<p>in English only, for departure and arrival traffic, lasting one minute.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>for arrival traffic only, preferably on the VOR frequency.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102712,
+    "number": "108311"
+  }
 }

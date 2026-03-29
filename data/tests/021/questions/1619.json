@@ -1,7 +1,7 @@
 {
   "number": 1619,
-  "questionId": 85613,
-  "questionNumber": "219372",
+  "questionId": "021-1619",
+  "questionNumber": "021-1619",
   "stemHtml": "An AC generator's frequency is measured using which unit, and can be described as what?",
   "options": {
     "a": "Volts (V), electricity produced per minute.",
@@ -10,5 +10,10 @@
     "d": "Cycles (C), the number of repetitions per minute."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85613,
+    "number": "219372"
+  }
 }

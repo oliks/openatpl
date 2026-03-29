@@ -1,7 +1,7 @@
 {
   "number": 1262,
-  "questionId": 68430,
-  "questionNumber": "225148",
+  "questionId": "022-1262",
+  "questionNumber": "022-1262",
   "stemHtml": "<p>Mach meter readings are subject to\u2026</p>",
   "options": {
     "a": "density error.",
@@ -10,5 +10,10 @@
     "d": "pressure error."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68430,
+    "number": "225148"
+  }
 }

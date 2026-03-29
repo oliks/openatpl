@@ -1,7 +1,7 @@
 {
   "number": 1726,
-  "questionId": 110034,
-  "questionNumber": "109828",
+  "questionId": "010-1726",
+  "questionNumber": "010-1726",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the colour of the given aerodrome signs?</p>",
   "options": {
     "a": "<p>Blue and white.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/996fd031-13fd-4567-8297-aaf12fd13545.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/996fd031-13fd-4567-8297-aaf12fd13545.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110034,
+    "number": "109828"
+  }
 }

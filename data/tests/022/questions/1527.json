@@ -1,7 +1,7 @@
 {
   "number": 1527,
-  "questionId": 106961,
-  "questionNumber": "228843",
+  "questionId": "022-1527",
+  "questionNumber": "022-1527",
   "stemHtml": "<p>A aircraft completes a turn of 235 degrees in 1 minute and 34 seconds. Which of the following statements correctly describes this turn?</p><p>1. This is a rate one turn<br>2. This is more than a rate one turn<br>3. This is less than a rate one turn<br>4. The turn rate is 3 degrees per second<br>5. The turn rate is 2.5 degrees per second</p>",
   "options": {
     "a": "<p>1 and 2</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106961,
+    "number": "228843"
+  }
 }

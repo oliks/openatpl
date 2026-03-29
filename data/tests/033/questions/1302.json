@@ -1,7 +1,7 @@
 {
   "number": 1302,
-  "questionId": 70899,
-  "questionNumber": "332863",
+  "questionId": "033-1302",
+  "questionNumber": "033-1302",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017. <br>Find the frequency of the navaid which is located approximately 11 NM south of Munich aerodrome? (Munich aerodrome: N48\u00b0 21.23' E011\u00b0 47.17')</p>",
   "options": {
     "a": "112.30 MHz",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5B60B632-B8D3-4561-AECA-6233868D8FCD.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5B60B632-B8D3-4561-AECA-6233868D8FCD.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70899,
+    "number": "332863"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 577,
-  "questionId": 66664,
-  "questionNumber": "104599",
+  "questionId": "010-0577",
+  "questionNumber": "010-0577",
   "stemHtml": "<p>Each Contracting State shall take appropriate measures for the safety of passengers and crew of an aircraft which is subjected to an act of unlawful interference, while on the ground in the territory of the Contracting State\u2026</p>",
   "options": {
     "a": "if this is requested by any individual passengers.",
@@ -10,5 +10,10 @@
     "d": "and must arrange for the passengers and crew to be returned to their country of origin."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66664,
+    "number": "104599"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 85,
-  "questionId": 101670,
-  "questionNumber": "103783",
+  "questionId": "010-0085",
+  "questionNumber": "010-0085",
   "stemHtml": "<p>In accordance with ICAO Doc 4444, what minimum lateral separation should be applied between two aircraft approaching on converging radials of the same navaid?</p>",
   "options": {
     "a": "<p>20\u00b0 and 5 nautical miles.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>10\u00b0 and 2 nautical miles.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101670,
+    "number": "103783"
+  }
 }

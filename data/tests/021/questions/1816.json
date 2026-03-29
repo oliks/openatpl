@@ -1,7 +1,7 @@
 {
   "number": 1816,
-  "questionId": 108467,
-  "questionNumber": "211103",
+  "questionId": "021-1816",
+  "questionNumber": "021-1816",
   "stemHtml": "<p>Refer to figure.  <br />  What is the usual position of the APU bleed valve during normal operations?</p>",
   "options": {
     "a": "<p>Open</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/4e80b863-937a-438b-a2e2-9b72872116d1.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/4e80b863-937a-438b-a2e2-9b72872116d1.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108467,
+    "number": "211103"
+  }
 }

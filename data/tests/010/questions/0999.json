@@ -1,7 +1,7 @@
 {
   "number": 999,
-  "questionId": 67082,
-  "questionNumber": "105230",
+  "questionId": "010-0999",
+  "questionNumber": "010-0999",
   "stemHtml": "The status of the aerodrome movement area and related facilities shall be provided to the AIS for transmittal to aircraft. \u2013 Which of the following matters shall in particular be reported to the AIS?",
   "options": {
     "a": "Failure of the aerodrome`s secondary power supply.",
@@ -10,5 +10,10 @@
     "d": "Maintenance work at the aerodrome`s fuel-storage facilities."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67082,
+    "number": "105230"
+  }
 }

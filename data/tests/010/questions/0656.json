@@ -1,7 +1,7 @@
 {
   "number": 656,
-  "questionId": 67006,
-  "questionNumber": "109948",
+  "questionId": "010-0656",
+  "questionNumber": "010-0656",
   "stemHtml": "According to international agreements, wind direction indications shall be adjusted for local variation and given in degrees magnetic..",
   "options": {
     "a": "when the local variation exceeds 10 degrees.",
@@ -10,5 +10,10 @@
     "d": "in a PIREP on request of a meteorological watch office (MWO) or at specified points."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67006,
+    "number": "109948"
+  }
 }

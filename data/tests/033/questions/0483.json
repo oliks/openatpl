@@ -1,7 +1,7 @@
 {
   "number": 483,
-  "questionId": 109322,
-  "questionNumber": "337560",
+  "questionId": "033-0483",
+  "questionNumber": "033-0483",
   "stemHtml": "<p>Which of the following types of fuel should be remaining at the destination alternate?</p>",
   "options": {
     "a": "<p>Final reserve and contingency</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Trip and alternate</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109322,
+    "number": "337560"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1361,
-  "questionId": 66882,
-  "questionNumber": "102187",
+  "questionId": "010-1361",
+  "questionNumber": "010-1361",
   "stemHtml": "<p>The transition layer is the airspace located\u2026</p>",
   "options": {
     "a": "<p>above the Transition Level.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>below the Transition Altitude.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66882,
+    "number": "102187"
+  }
 }

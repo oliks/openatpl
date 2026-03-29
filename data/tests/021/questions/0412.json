@@ -1,7 +1,7 @@
 {
   "number": 412,
-  "questionId": 67600,
-  "questionNumber": "218215",
+  "questionId": "021-0412",
+  "questionNumber": "021-0412",
   "stemHtml": "<p>Regarding a jet engine, which of the following statements is/are correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. The maximum thrust remains constant as the pressure altitude increases.</span> <br /> \n2. The specific fuel consumption increases slightly as the pressure altitude increases at constant TAS.</p>",
   "options": {
     "a": "Both 1 and 2 are incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67600,
+    "number": "218215"
+  }
 }

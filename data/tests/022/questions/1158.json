@@ -1,7 +1,7 @@
 {
   "number": 1158,
-  "questionId": 68691,
-  "questionNumber": "223598",
+  "questionId": "022-1158",
+  "questionNumber": "022-1158",
   "stemHtml": "<p>In a stabilised platform inertial system, the accelerations are measured in an axis co-ordinate system which is\u2026 <br>(NB: aircraft`s body axis co-ordinate system = pitch, roll and yaw axis)</p>",
   "options": {
     "a": "<p>merged with the aircraft`s body axis co-ordinate system.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>free from the aircraft`s body axis co-ordinate system.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68691,
+    "number": "223598"
+  }
 }

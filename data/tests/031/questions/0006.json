@@ -1,7 +1,7 @@
 {
   "number": 6,
-  "questionId": 80269,
-  "questionNumber": "312146",
+  "questionId": "031-0006",
+  "questionNumber": "031-0006",
   "stemHtml": "Where may an aircraft be weighed?",
   "options": {
     "a": "In a quiet parking area clear of the normal manoeuvring area.",
@@ -10,5 +10,10 @@
     "d": "<p>In an enclosed building.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80269,
+    "number": "312146"
+  }
 }

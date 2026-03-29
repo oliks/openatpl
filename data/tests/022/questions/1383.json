@@ -1,7 +1,7 @@
 {
   "number": 1383,
-  "questionId": 74641,
-  "questionNumber": "224823",
+  "questionId": "022-1383",
+  "questionNumber": "022-1383",
   "stemHtml": "<p>Refer to figure. <br>The diagram indicates that the aircraft is to the\u2026</p>",
   "options": {
     "a": "left of the localiser and above the glidepath.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/26ECF223-9490-4A8D-B0AA-EC1CD1C57ED9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/26ECF223-9490-4A8D-B0AA-EC1CD1C57ED9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74641,
+    "number": "224823"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 769,
-  "questionId": 67188,
-  "questionNumber": "102746",
+  "questionId": "010-0769",
+  "questionNumber": "010-0769",
   "stemHtml": "<p>Light signals: A red flare addressed to an aircraft in flight means.</p>",
   "options": {
     "a": "Slow down speed to minimum, give way to other aircraft in the circuit and continue circling.",
@@ -10,5 +10,10 @@
     "d": "Aerodrome unsafe, do not land."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67188,
+    "number": "102746"
+  }
 }

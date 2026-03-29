@@ -1,7 +1,7 @@
 {
   "number": 1039,
-  "questionId": 86341,
-  "questionNumber": "229409",
+  "questionId": "022-1039",
+  "questionNumber": "022-1039",
   "stemHtml": "If flying an aircraft not equipped with automatic temperature correction, to which altitudes should the PIC apply temperature correction?",
   "options": {
     "a": "at MDH/MDA or DH/DA and step-down fixes inside the final approach fix (FAF).",
@@ -10,5 +10,10 @@
     "d": "only at the step-down fixes inside the final approach fix (FAF)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86341,
+    "number": "229409"
+  }
 }

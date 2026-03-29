@@ -1,7 +1,7 @@
 {
   "number": 643,
-  "questionId": 107440,
-  "questionNumber": "332198",
+  "questionId": "033-0643",
+  "questionNumber": "033-0643",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from the Jeppesen GSPRM 2017. <br>An aircraft is north of Antersberg at N48\u00b000' E12\u00b000' when ATC requests the radial and distance from MUN VOR/DME (N48\u00b010.8' E11\u00b049.0'). Which of the following is correct?</p>",
   "options": {
     "a": "<p>142\u00b0; 13 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2faded52-80b9-411b-8084-a83c7950c642.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2faded52-80b9-411b-8084-a83c7950c642.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107440,
+    "number": "332198"
+  }
 }

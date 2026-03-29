@@ -1,7 +1,7 @@
 {
   "number": 270,
-  "questionId": 80228,
-  "questionNumber": "222026",
+  "questionId": "022-0270",
+  "questionNumber": "022-0270",
   "stemHtml": "<p>What does the automatic trim system consist of?</p>",
   "options": {
     "a": "<p>Servo-assisted pressure added to the flight controls by the autopilot.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Fuel being transferred forward or aft.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80228,
+    "number": "222026"
+  }
 }

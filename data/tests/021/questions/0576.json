@@ -1,7 +1,7 @@
 {
   "number": 576,
-  "questionId": 79417,
-  "questionNumber": "211385",
+  "questionId": "021-0576",
+  "questionNumber": "021-0576",
   "stemHtml": "<p>Which of the following statements is correct? <br><br>1. By increasing the load on an electric motor (i.e. increasing the resistance against rotation), the power output will increase as a result of an increased current flow<br>2. The torque of an electrical motor can be calculated by dividing the power by the motor RPM</p>",
   "options": {
     "a": "1 and 2 are both correct.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79417,
+    "number": "211385"
+  }
 }

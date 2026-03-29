@@ -1,7 +1,7 @@
 {
   "number": 690,
-  "questionId": 83636,
-  "questionNumber": "339841",
+  "questionId": "033-0690",
+  "questionNumber": "033-0690",
   "stemHtml": "Which statement is correct for an SID which is only RNAV?",
   "options": {
     "a": "The RNAV SID requires a reversionary navigation system to be carried on board.",
@@ -10,5 +10,10 @@
     "d": "The RNAV SID can be flown with approved ground-based radio navigation receivers only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83636,
+    "number": "339841"
+  }
 }

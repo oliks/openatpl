@@ -1,7 +1,7 @@
 {
   "number": 1151,
-  "questionId": 67998,
-  "questionNumber": "217893",
+  "questionId": "021-1151",
+  "questionNumber": "021-1151",
   "stemHtml": "<p>One of the purposes of compressor bleed valves in a gas turbine engine is to\u2026</p>",
   "options": {
     "a": "decrease the airflow across the rear compressor stages, whilst that across the early stages is increased.",
@@ -10,5 +10,10 @@
     "d": "increase the airflow across the rear compressor stages, whilst that across the early stages is decreased."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67998,
+    "number": "217893"
+  }
 }

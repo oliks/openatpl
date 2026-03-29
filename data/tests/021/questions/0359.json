@@ -1,7 +1,7 @@
 {
   "number": 359,
-  "questionId": 109610,
-  "questionNumber": "214034",
+  "questionId": "021-0359",
+  "questionNumber": "021-0359",
   "stemHtml": "<p>The Integrated Drive Generator (IDG) consists of a(n) (1) _____ coupled with a (2) _____.</p>",
   "options": {
     "a": "<p>(1) AC Generator; (2) Constant Speed Drive (CSD)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) DC Generator; (2) Transformer</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109610,
+    "number": "214034"
+  }
 }

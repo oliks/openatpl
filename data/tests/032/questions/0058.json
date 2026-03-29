@@ -1,7 +1,7 @@
 {
   "number": 58,
-  "questionId": 69792,
-  "questionNumber": "325753",
+  "questionId": "032-0058",
+  "questionNumber": "032-0058",
   "stemHtml": "<p>V<sub>1</sub> for a balanced-field is calculated when\u2026</p>",
   "options": {
     "a": "the take-off mass is field-length limited by the clearway to produce the maximum take-off mass.",
@@ -10,5 +10,10 @@
     "d": "the take-off mass is field-length limited by the stopway to produce the maximum take-off mass."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69792,
+    "number": "325753"
+  }
 }

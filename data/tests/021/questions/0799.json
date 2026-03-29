@@ -1,7 +1,7 @@
 {
   "number": 799,
-  "questionId": 68208,
-  "questionNumber": "211369",
+  "questionId": "021-0799",
+  "questionNumber": "021-0799",
   "stemHtml": "<p>In a fully manual flight control system, the pilot must exert sufficient force to...</p>",
   "options": {
     "a": "separate each pilot`s yaw control in the case of a jam.",
@@ -10,5 +10,10 @@
     "d": "allow pressure to build up in the flight control actuators."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68208,
+    "number": "211369"
+  }
 }

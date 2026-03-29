@@ -1,7 +1,7 @@
 {
   "number": 254,
-  "questionId": 69706,
-  "questionNumber": "321641",
+  "questionId": "032-0254",
+  "questionNumber": "032-0254",
   "stemHtml": "<p>The take-off runway performance requirements for transport category aeroplanes are based upon\u2026</p>",
   "options": {
     "a": "one engine inoperative only.",
@@ -10,5 +10,10 @@
     "d": "failure of the critical engine only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69706,
+    "number": "321641"
+  }
 }

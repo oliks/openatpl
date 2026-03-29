@@ -1,7 +1,7 @@
 {
   "number": 420,
-  "questionId": 102574,
-  "questionNumber": "316070",
+  "questionId": "031-0420",
+  "questionNumber": "031-0420",
   "stemHtml": "<p>The maximum structural take-off mass of an aircraft is 242 000 kg. Its maximum taxi mass is 252 000 kg. The taxi time is 32 minutes, while the aircraft consumes fuel at 1350 kg/h. Which of the following is the mass at take-off that should be taken into account?</p>",
   "options": {
     "a": "<p>242 000 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>253 350 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102574,
+    "number": "316070"
+  }
 }

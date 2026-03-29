@@ -1,7 +1,7 @@
 {
   "number": 869,
-  "questionId": 82777,
-  "questionNumber": "214279",
+  "questionId": "021-0869",
+  "questionNumber": "021-0869",
   "stemHtml": "<p>Consider the following situation, the rudder ratio limiter of an aircraft gets stuck in high speed/high altitude mode when decelerating for the approach. Which of the following statements is correct?</p>",
   "options": {
     "a": "<p>Increased maximum operating speed.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A greater flap setting will be required.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82777,
+    "number": "214279"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1123,
-  "questionId": 68900,
-  "questionNumber": "222736",
+  "questionId": "022-1123",
+  "questionNumber": "022-1123",
   "stemHtml": "<p>Which of the following uses a rate gyroscope?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. Directional gyroscope indicator</span>  <br />  \n2. Rate of turn indicator  <br />  \n3. Artificial horizon</p>",
   "options": {
     "a": "1 and 2 only",
@@ -10,5 +10,10 @@
     "d": "1, 2, and 3"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68900,
+    "number": "222736"
+  }
 }

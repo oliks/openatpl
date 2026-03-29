@@ -1,7 +1,7 @@
 {
   "number": 679,
-  "questionId": 80242,
-  "questionNumber": "104650",
+  "questionId": "010-0679",
+  "questionNumber": "010-0679",
   "stemHtml": "<p>For security reasons, what objects listed below shall NOT be introduced, by any means whatsoever, on board an aircraft that is engaged in international civil aviation according to ICAO Annex 17?</p><p>1. Weapons, the carriage of which is NOT authorised<br>2. Electronic devices with partially charged batteries<br>3. Explosives that may be used to commit an unlawful act<br>4. Liquids purchased outside of the airside zone of the aerodrome</p>",
   "options": {
     "a": "1 and 3.",
@@ -10,5 +10,10 @@
     "d": "1, 2 and 4."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80242,
+    "number": "104650"
+  }
 }

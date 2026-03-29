@@ -1,7 +1,7 @@
 {
   "number": 897,
-  "questionId": 107451,
-  "questionNumber": "109893",
+  "questionId": "010-0897",
+  "questionNumber": "010-0897",
   "stemHtml": "<p>The navigation light at the rear of the aircraft is (1) _____ and has a coverage of (2) _____.</p>",
   "options": {
     "a": "<p>(1) white, (2) 110\u00b0</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) white, (2) 140\u00b0</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107451,
+    "number": "109893"
+  }
 }

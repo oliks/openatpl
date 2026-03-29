@@ -1,7 +1,7 @@
 {
   "number": 755,
-  "questionId": 66726,
-  "questionNumber": "106513",
+  "questionId": "010-0755",
+  "questionNumber": "010-0755",
   "stemHtml": "<p>According to the relevant FCL requirements, the Single Pilot, Single-Engine Class Rating is valid for\u2026</p>",
   "options": {
     "a": "two years up to age 40 years, then one year thereafter.",
@@ -10,5 +10,10 @@
     "d": "one year."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66726,
+    "number": "106513"
+  }
 }

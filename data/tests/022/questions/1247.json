@@ -1,7 +1,7 @@
 {
   "number": 1247,
-  "questionId": 82775,
-  "questionNumber": "223669",
+  "questionId": "022-1247",
+  "questionNumber": "022-1247",
   "stemHtml": "<p>To ensure that, in case of autopilot failure, flight path deviations remain within safe limits, when the autopilot is engaged which of the following statements is correct?</p>",
   "options": {
     "a": "<p>a pitch-up trim load is always maintained by the autopilot, ensuring the deviation when the autopilot disconnects is predictable and consistent.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>trim is mechanically centred, ensuring that the full range of movement is available to the auto-trim system.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82775,
+    "number": "223669"
+  }
 }

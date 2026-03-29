@@ -1,7 +1,7 @@
 {
   "number": 322,
-  "questionId": 67032,
-  "questionNumber": "106062",
+  "questionId": "010-0322",
+  "questionNumber": "010-0322",
   "stemHtml": "<p>If an ATC clearance is not suitable to the pilot-in-command of an aircraft, the pilot\u2026</p>",
   "options": {
     "a": "has to accept the ATC clearance. The clearance is based on the ATC Flight Plan filed.",
@@ -10,5 +10,10 @@
     "d": "may request an amended clearance from ATC. Amended clearances will only be given when VMC prevail."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67032,
+    "number": "106062"
+  }
 }

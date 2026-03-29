@@ -1,7 +1,7 @@
 {
   "number": 494,
-  "questionId": 68065,
-  "questionNumber": "214605",
+  "questionId": "021-0494",
+  "questionNumber": "021-0494",
   "stemHtml": "The command to discharge a main engine fire extinguisher is activated...",
   "options": {
     "a": "automatically when a fire is detected.",
@@ -10,5 +10,10 @@
     "d": "automatically when an overheat is detected."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68065,
+    "number": "214605"
+  }
 }

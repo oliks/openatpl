@@ -1,7 +1,7 @@
 {
   "number": 38,
-  "questionId": 70217,
-  "questionNumber": "329827",
+  "questionId": "032-0038",
+  "questionNumber": "032-0038",
   "stemHtml": "<p>Refer to figure or Performance Manual MEP 1 Figure 3.1.</p><p>OAT: 24\u00b0C<br>Pressure Altitude: 3000 ft<br>RWY: 30R\u00a0<br>Wind: 060\u00b0/4 kt<br>Take-off Mass: 3800 lb<br>Other conditions are as associated in the header of the graph.</p><p>Given the following information, what is the take-off distance?</p>",
   "options": {
     "a": "2000 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/6c200e92-0fcb-4439-bd99-d80b9c6df345.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6c200e92-0fcb-4439-bd99-d80b9c6df345.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70217,
+    "number": "329827"
+  }
 }

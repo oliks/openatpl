@@ -1,7 +1,7 @@
 {
   "number": 1826,
-  "questionId": 164490,
-  "questionNumber": "108527",
+  "questionId": "010-1826",
+  "questionNumber": "010-1826",
   "stemHtml": "<p>Refer to figure.<br />A runway is 2700 feet long. If an aircraft departing needs to come to a full stop after aborting a take-off, what is the area marked in green called?</p>",
   "options": {
     "a": "<p>RESA</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/fe2a8150-2d6f-4fdd-8e72-5a06df63beb9.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/fe2a8150-2d6f-4fdd-8e72-5a06df63beb9.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164490,
+    "number": "108527"
+  }
 }

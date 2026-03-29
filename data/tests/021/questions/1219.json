@@ -1,7 +1,7 @@
 {
   "number": 1219,
-  "questionId": 68041,
-  "questionNumber": "214283",
+  "questionId": "021-1219",
+  "questionNumber": "021-1219",
   "stemHtml": "<p>A cabin pressure controller maintains a pre-set cabin altitude by regulating the\u2026</p>",
   "options": {
     "a": "position of the duct relief valve/valves.",
@@ -10,5 +10,10 @@
     "d": "position of the outflow valve/valves."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68041,
+    "number": "214283"
+  }
 }

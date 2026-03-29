@@ -1,7 +1,7 @@
 {
   "number": 708,
-  "questionId": 109114,
-  "questionNumber": "105745",
+  "questionId": "010-0708",
+  "questionNumber": "010-0708",
   "stemHtml": "<p>The boarding of an aircraft is completed and the aircraft doors are closed. There is an unruly and disruptive passenger on board. The aircraft commander...</p>",
   "options": {
     "a": "<p>can ask for that person to be restrained.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>does not have the right to impose any measures to such person.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109114,
+    "number": "105745"
+  }
 }

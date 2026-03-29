@@ -1,7 +1,7 @@
 {
   "number": 498,
-  "questionId": 83858,
-  "questionNumber": "102116",
+  "questionId": "010-0498",
+  "questionNumber": "010-0498",
   "stemHtml": "<p>A runway-holding position or positions shall be established.</p>",
   "options": {
     "a": "On the taxiway, at the intersection of a taxiway and a runway, or at an intersection of a runway with another runway when the former is being used for landings only from beyond the intersection.",
@@ -10,5 +10,10 @@
     "d": "At the intersection of a taxiway and the runway in use."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83858,
+    "number": "102116"
+  }
 }

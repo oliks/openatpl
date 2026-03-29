@@ -1,7 +1,7 @@
 {
   "number": 1339,
-  "questionId": 106606,
-  "questionNumber": "103953",
+  "questionId": "010-1339",
+  "questionNumber": "010-1339",
   "stemHtml": "<p>An aircraft is being radar vectored to Zurich airport and the flight crew is informed that VORs used for arrival are unserviceable. The aircraft is 10 miles south of Trasadingen VOR and is being radar vectored to 'SAFFIA' and then follows the WIL 3Z arrival for ILS RWY 14. What is the appropriate phraseology when radar vectoring terminates?</p>",
   "options": {
     "a": "<p>Resume own navigation and continue to SAFFIA, then follow the procedure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Radar vectoring terminated on to SAFFIA, then followed the procedure.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106606,
+    "number": "103953"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 695,
-  "questionId": 67866,
-  "questionNumber": "215282",
+  "questionId": "021-0695",
+  "questionNumber": "021-0695",
   "stemHtml": "<p>Consider a turbine engine. When bleed air is taken from the compressor, which of the following items are increased?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. Fuel Flow (FF)</span>  <br />  \n2. Gas generator speed (NG or N1)  <br />  \n3. Free turbine speed (NF or N2)  <br />  \n4. Rotor speed (NR)  <br />  \n5. Turbine Outlet Temperature (TOT)</p>",
   "options": {
     "a": "1, 2, and 3",
@@ -10,5 +10,10 @@
     "d": "1, 2, and 5"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67866,
+    "number": "215282"
+  }
 }

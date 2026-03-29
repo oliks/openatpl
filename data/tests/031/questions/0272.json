@@ -1,7 +1,7 @@
 {
   "number": 272,
-  "questionId": 101960,
-  "questionNumber": "319376",
+  "questionId": "031-0272",
+  "questionNumber": "031-0272",
   "stemHtml": "<p>Refer to figure.<br />\r\nThe trim sheet for a twin-engined jet airplane is finalized using the following data:</p>\r\n\r\n<p>CG for Zero Fuel Mass: 30%<br />\r\nMAC CG for Take-off Mass: 24%<br />\r\nMAC CG for Landing Mass: 26%</p>\r\n\r\n<p>If the crew opts for flaps 15 for take-off, what would be the corresponding stabilizer trim setting?</p>\r\n",
   "options": {
     "a": "<p>3.0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/d44593b8-fa3b-4f7d-b87d-3ca3a8c8af32.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/d44593b8-fa3b-4f7d-b87d-3ca3a8c8af32.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101960,
+    "number": "319376"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1384,
-  "questionId": 102307,
-  "questionNumber": "109695",
+  "questionId": "010-1384",
+  "questionNumber": "010-1384",
   "stemHtml": "<p>Which ICAO annex is focused on enhancing how to facilitate movement of passengers at aerodromes?</p>",
   "options": {
     "a": "<p>Annex 9</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Annex 8</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102307,
+    "number": "109695"
+  }
 }

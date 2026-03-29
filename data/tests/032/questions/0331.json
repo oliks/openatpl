@@ -1,7 +1,7 @@
 {
   "number": 331,
-  "questionId": 101868,
-  "questionNumber": "322888",
+  "questionId": "032-0331",
+  "questionNumber": "032-0331",
   "stemHtml": "<p>Which of the following correctly describes slush?</p>",
   "options": {
     "a": "<p>Water saturated with snow.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A mixture of water based contaminants that may result from various weather conditions.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101868,
+    "number": "322888"
+  }
 }

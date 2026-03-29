@@ -1,7 +1,7 @@
 {
   "number": 393,
-  "questionId": 68705,
-  "questionNumber": "226484",
+  "questionId": "022-0393",
+  "questionNumber": "022-0393",
   "stemHtml": "<p>The position error of a stand alone inertial system is\u2026</p>",
   "options": {
     "a": "small and constant along the flight.",
@@ -10,5 +10,10 @@
     "d": "constant along the flight with an accuracy depending on the accuracy of the accelerometers."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68705,
+    "number": "226484"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 114,
-  "questionId": 81708,
-  "questionNumber": "339320",
+  "questionId": "033-0114",
+  "questionNumber": "033-0114",
   "stemHtml": "<p>Except when necessary for take-off or landing, or except when specifically authorised by the competent authority, an IFR flight shall be flown over high terrain or in mountainous areas at a level which is at least (1) _____ above the highest obstacle located within (2) _____ of the estimated position of the aircraft.</p>",
   "options": {
     "a": "(1) 300 m (1000 ft); (2) 5 km",
@@ -10,5 +10,10 @@
     "d": "(1) 600 m (2000 ft); (2) 8 km"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81708,
+    "number": "339320"
+  }
 }

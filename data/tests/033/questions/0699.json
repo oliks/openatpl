@@ -1,7 +1,7 @@
 {
   "number": 699,
-  "questionId": 82760,
-  "questionNumber": "337871",
+  "questionId": "033-0699",
+  "questionNumber": "033-0699",
   "stemHtml": "Refer to figure. <br /> According to the extract from a typical flight plan produced by an airline flight planning tool, what is the total flight time from Skiathos (LGSK) to Kavala (LGKV)? In order to calculate this total flight time, find the EET to THESSALONIKI (TSL).",
   "options": {
     "a": "<p>31 minutes</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/7EC2A828-9945-450E-A1A0-5F1A9AC9F5F9.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7EC2A828-9945-450E-A1A0-5F1A9AC9F5F9.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82760,
+    "number": "337871"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 683,
-  "questionId": 101687,
-  "questionNumber": "228857",
+  "questionId": "022-0683",
+  "questionNumber": "022-0683",
   "stemHtml": "<p>How is V<strong><sub>MO</sub></strong>/M<strong><sub>MO</sub></strong> generally depicted on the speed tape of an EFIS aircraft?</p>",
   "options": {
     "a": "<p>A thick red line at the bottom of the speed tape.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A dashed green line at the top of the speed tape.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101687,
+    "number": "228857"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 386,
-  "questionId": 111281,
-  "questionNumber": "312689",
+  "questionId": "031-0386",
+  "questionNumber": "031-0386",
   "stemHtml": "<p>Refer to figure. <br /> \rAs part of your pre-flight calculations and given the following information for a commercial flight within the European region, calculate the Traffic Load in accordance with the standard passenger (use 88 kg for male and 70 kg for female) and baggage masses, as defined in the annex.</p>\r\r<p>Flight crew: 4 male & 3 female <br /> \rMale passengers: 55 <br /> \rFemale passengers: 44 <br /> \rChildren: 4 sat on their own seat <br /> \rInfants: 5 (2 sat with their parents / 3 on their own seat) <br /> \rBaggage: 52 items <br /> \rStandard mass for a flight crew member: 85 kg <br /> \rNon-revenue load: 540 kg <br /> \rCargo compartments: Forward hold 1800 kg, Aft hold 1200 kg <br /> \rAdditional bulk cargo: 525 kg</p>",
   "options": {
     "a": "<p>13 200 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/04f972b7-39ac-47d5-81e5-8695592e28f9.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/04f972b7-39ac-47d5-81e5-8695592e28f9.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111281,
+    "number": "312689"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 192,
-  "questionId": 77850,
-  "questionNumber": "323781",
+  "questionId": "032-0192",
+  "questionNumber": "032-0192",
   "stemHtml": "<p>For a class B performance twin-engined aircraft, V<sub>R</sub> must\u2026</p>",
   "options": {
     "a": "Not be less than the greater of 1.1 V<sub>MC</sub> or 1.2 V<sub>S</sub>.",
@@ -10,5 +10,10 @@
     "d": "Be equal to 1.2.V<sub>S1</sub>."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77850,
+    "number": "323781"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1414,
-  "questionId": 81955,
-  "questionNumber": "227902",
+  "questionId": "022-1414",
+  "questionNumber": "022-1414",
   "stemHtml": "<p>M<strong><sub>MO</sub></strong>, the maximum operating Mach Number...</p>",
   "options": {
     "a": "<p>is increased if the aircraft experiences headwinds.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>may be exceeded if speed remains below V<sub>MO</sub>.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81955,
+    "number": "227902"
+  }
 }

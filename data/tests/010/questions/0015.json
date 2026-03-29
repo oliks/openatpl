@@ -1,7 +1,7 @@
 {
   "number": 15,
-  "questionId": 80243,
-  "questionNumber": "108217",
+  "questionId": "010-0015",
+  "questionNumber": "010-0015",
   "stemHtml": "According to ICAO Doc 9433, which of the following is a circumstance under which interception of a civil aircraft may occur?",
   "options": {
     "a": "The time estimate for the next applicable reporting point changes by more than 2 minutes.",
@@ -10,5 +10,10 @@
     "d": "Requesting a change of the flight plan after departure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80243,
+    "number": "108217"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 699,
-  "questionId": 77875,
-  "questionNumber": "328860",
+  "questionId": "032-0699",
+  "questionNumber": "032-0699",
   "stemHtml": "Which propeller configuration results in the best handling characteristics if a light twin suffers a left hand engine failure after departure from runway 36? The reported wind is 270\u00b0/10 kts.",
   "options": {
     "a": "Counter rotating propellers.",
@@ -10,5 +10,10 @@
     "d": "All have the same control problems."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77875,
+    "number": "328860"
+  }
 }

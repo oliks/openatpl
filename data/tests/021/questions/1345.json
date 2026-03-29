@@ -1,7 +1,7 @@
 {
   "number": 1345,
-  "questionId": 85018,
-  "questionNumber": "218547",
+  "questionId": "021-1345",
+  "questionNumber": "021-1345",
   "stemHtml": "Which material has a high strength to weight ratio, but is the most susceptible to corrosion?",
   "options": {
     "a": "Composite",
@@ -10,5 +10,10 @@
     "d": "Metal"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85018,
+    "number": "218547"
+  }
 }

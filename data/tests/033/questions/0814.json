@@ -1,7 +1,7 @@
 {
   "number": 814,
-  "questionId": 162564,
-  "questionNumber": "337270",
+  "questionId": "033-0814",
+  "questionNumber": "033-0814",
   "stemHtml": "<p>During an IFR flight, who must ensure that altitude corrections for non-standard temperature are applied, and under which temperature conditions?</p>",
   "options": {
     "a": "<p>PIC is responsible for the temperature correction to be applied, when the temperature is colder than ISA.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>PIC is responsible for the temperature correction to be applied, when the temperature is warmer than ISA.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162564,
+    "number": "337270"
+  }
 }

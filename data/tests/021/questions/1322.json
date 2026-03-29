@@ -1,7 +1,7 @@
 {
   "number": 1322,
-  "questionId": 78757,
-  "questionNumber": "211885",
+  "questionId": "021-1322",
+  "questionNumber": "021-1322",
   "stemHtml": "<p>Which of the following statements is true regarding Fly-By-Wire systems?</p>",
   "options": {
     "a": "Digital signals are converted into analogue signals by the PCU.",
@@ -10,5 +10,10 @@
     "d": "Control wires feed pilot control movements into the PCUs."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78757,
+    "number": "211885"
+  }
 }

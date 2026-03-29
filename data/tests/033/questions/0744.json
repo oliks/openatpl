@@ -1,7 +1,7 @@
 {
   "number": 744,
-  "questionId": 70774,
-  "questionNumber": "334953",
+  "questionId": "033-0744",
+  "questionNumber": "033-0744",
   "stemHtml": "<p>Given the following NOTAM, is it possible to fly from EUAD on the 1st March?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q EGTT/QAZCD/IV/NBO/AE/000/022/5456N00249W002 A EUAD B FROM: 16/02/04 09:00C TO: 16/03/05 18:00 E AERODROME ATZ DEACTIVATED. ATS NOT AVBL. AD NOT AVBL TO ACFT EXCEPT WITH OUT OF HOURS PERMISSION. IAP NOT AVBL</span></p>",
   "options": {
     "a": "Yes, if permission is obtained to fly out of hours.",
@@ -10,5 +10,10 @@
     "d": "No, the trip must be delayed until after 18:00 on the 5th March."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70774,
+    "number": "334953"
+  }
 }

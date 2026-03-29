@@ -1,7 +1,7 @@
 {
   "number": 782,
-  "questionId": 110256,
-  "questionNumber": "217537",
+  "questionId": "021-0782",
+  "questionNumber": "021-0782",
   "stemHtml": "<p>During refuelling, an earthing cable is fitted to an aircraft even if the tyres are electrically conductive. Why is this done?</p>",
   "options": {
     "a": "<p>To equalise charge between the aircraft and earth using a low resistance cable.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To equalise charge between the negatively charged aircraft and the positively charged Earth using a low resistance cable.<br> </p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110256,
+    "number": "217537"
+  }
 }

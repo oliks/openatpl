@@ -1,7 +1,7 @@
 {
   "number": 530,
-  "questionId": 82789,
-  "questionNumber": "223595",
+  "questionId": "022-0530",
+  "questionNumber": "022-0530",
   "stemHtml": "<p>Given:</p>\r\r<p>Pt: total pressure <br /> \rPs: static pressure <br /> \rPd: dynamic pressure</p>\r\r<p>The altitude indicator measures.</p>",
   "options": {
     "a": "<p>Pt - Pd</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pd - Ps</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82789,
+    "number": "223595"
+  }
 }

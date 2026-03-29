@@ -1,7 +1,7 @@
 {
   "number": 889,
-  "questionId": 79727,
-  "questionNumber": "216523",
+  "questionId": "021-0889",
+  "questionNumber": "021-0889",
   "stemHtml": "<p>Refer to figure. <br>If TRU 1 fails, DC BUS 1 can be fed via\u2026</p>",
   "options": {
     "a": "The ESS TRU.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/50153E75-0E25-4526-A4B2-0779372BC97E.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/50153E75-0E25-4526-A4B2-0779372BC97E.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79727,
+    "number": "216523"
+  }
 }

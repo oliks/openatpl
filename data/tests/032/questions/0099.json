@@ -1,7 +1,7 @@
 {
   "number": 99,
-  "questionId": 111422,
-  "questionNumber": "324632",
+  "questionId": "032-0099",
+  "questionNumber": "032-0099",
   "stemHtml": "<p>How does V<strong><sub>MCL</sub></strong> change with an increase of density altitude?</p>",
   "options": {
     "a": "<p>It increases due to the increased rudder force.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It decreases due to the decreased engine thrust.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111422,
+    "number": "324632"
+  }
 }

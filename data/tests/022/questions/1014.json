@@ -1,7 +1,7 @@
 {
   "number": 1014,
-  "questionId": 80814,
-  "questionNumber": "221865",
+  "questionId": "022-1014",
+  "questionNumber": "022-1014",
   "stemHtml": "What is the principle of an EVS (Enhanced Vision System)?",
   "options": {
     "a": "To generate a real-time image on the PFD or on the ND using three-dimensional data.",
@@ -10,5 +10,10 @@
     "d": "To provide the crew with a real-time image of the engine nacelles."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80814,
+    "number": "221865"
+  }
 }

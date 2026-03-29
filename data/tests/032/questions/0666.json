@@ -1,7 +1,7 @@
 {
   "number": 666,
-  "questionId": 107328,
-  "questionNumber": "323763",
+  "questionId": "032-0666",
+  "questionNumber": "032-0666",
   "stemHtml": "<p>The crew of a large Commercial Air Transport twin-engined turbojet aeroplane are preparing to take-off on an icy runway. In case of an engine failure during the take-off run, when compared to a dry runway, the flight crew expects that controlling the aeroplane's yaw will be...</p>",
   "options": {
     "a": "<p>More or less difficult, depending on the thickness of ice on the runway. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Unchanged whatever the runway conditions. </p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107328,
+    "number": "323763"
+  }
 }

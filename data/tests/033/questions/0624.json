@@ -1,7 +1,7 @@
 {
   "number": 624,
-  "questionId": 107604,
-  "questionNumber": "335870",
+  "questionId": "033-0624",
+  "questionNumber": "033-0624",
   "stemHtml": "<p>When should a temperature correction be applied to the altitude at the IAF to provide adequate terrain clearance?</p>",
   "options": {
     "a": "<p>when the temperature at the airport is significantly lower than ISA</p>",
@@ -10,5 +10,10 @@
     "d": "<p>when the temperature at the runway surface is significantly higher than ISA</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107604,
+    "number": "335870"
+  }
 }

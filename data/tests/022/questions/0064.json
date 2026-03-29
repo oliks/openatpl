@@ -1,7 +1,7 @@
 {
   "number": 64,
-  "questionId": 81802,
-  "questionNumber": "223677",
+  "questionId": "022-0064",
+  "questionNumber": "022-0064",
   "stemHtml": "One FMS is in disagreement with another, what happens?",
   "options": {
     "a": "FMS will show an alert message.",
@@ -10,5 +10,10 @@
     "d": "Nothing, the FMS will continue as normal with frequent cross-checks."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81802,
+    "number": "223677"
+  }
 }

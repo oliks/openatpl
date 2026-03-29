@@ -1,7 +1,7 @@
 {
   "number": 1829,
-  "questionId": 80213,
-  "questionNumber": "222994",
+  "questionId": "022-1829",
+  "questionNumber": "022-1829",
   "stemHtml": "<p>Select the option which correctly describes real wander and apparent wander.</p>",
   "options": {
     "a": "<p>Real wander is the discernable movement of the spin axis due to the movement of the aircraft over the Earth's surface.</p>",
@@ -10,5 +10,10 @@
     "d": "Real wander is the discernable movement of the spin axis due to the reference frame in space."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80213,
+    "number": "222994"
+  }
 }

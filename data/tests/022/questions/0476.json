@@ -1,7 +1,7 @@
 {
   "number": 476,
-  "questionId": 69129,
-  "questionNumber": "222030",
+  "questionId": "022-0476",
+  "questionNumber": "022-0476",
   "stemHtml": "<p>During an automatic approach, the autothrottle\u2026</p>",
   "options": {
     "a": "is not available.",
@@ -10,5 +10,10 @@
     "d": "can be operated in the SPEED (holding of IAS) or N1 (holding of N1) modes."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69129,
+    "number": "222030"
+  }
 }

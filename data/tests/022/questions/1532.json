@@ -1,7 +1,7 @@
 {
   "number": 1532,
-  "questionId": 74787,
-  "questionNumber": "227375",
+  "questionId": "022-1532",
+  "questionNumber": "022-1532",
   "stemHtml": "<p>Refer to figure. <br>What is the selected heading (heading bug) on the figure?</p>",
   "options": {
     "a": "<p>260\u00b0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/D3B5E399-80A4-439D-8374-A62EC4FD5ECE.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/D3B5E399-80A4-439D-8374-A62EC4FD5ECE.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74787,
+    "number": "227375"
+  }
 }

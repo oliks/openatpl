@@ -1,7 +1,7 @@
 {
   "number": 344,
-  "questionId": 68966,
-  "questionNumber": "221705",
+  "questionId": "022-0344",
+  "questionNumber": "022-0344",
   "stemHtml": "<p>The purpose of the auto-trim function in an autopilot is to\u2026</p>",
   "options": {
     "a": "<p>tell the pilot when elevator trimming is required.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>trim the throttles to obtain smooth engine-power variation.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68966,
+    "number": "221705"
+  }
 }

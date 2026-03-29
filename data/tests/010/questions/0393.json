@@ -1,7 +1,7 @@
 {
   "number": 393,
-  "questionId": 164796,
-  "questionNumber": "107976",
+  "questionId": "010-0393",
+  "questionNumber": "010-0393",
   "stemHtml": "<p>With regard to the Centre of Gravity limits of an aircraft, which one of the following statements is true?</p>",
   "options": {
     "a": "<p>The aircraft operator\u2019s CG limitations can be more restrictive than the manufacturer\u2019s CG limitations.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The CG limitations of the operator always have to be the same as the manufacturer\u2019s limitations.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164796,
+    "number": "107976"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 500,
-  "questionId": 67060,
-  "questionNumber": "107161",
+  "questionId": "010-0500",
+  "questionNumber": "010-0500",
   "stemHtml": "<p>The ASHTAM provides information about the status of activity of a volcano by publishing a\u2026</p>",
   "options": {
     "a": "three digit priority number.",
@@ -10,5 +10,10 @@
     "d": "four letter code."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67060,
+    "number": "107161"
+  }
 }

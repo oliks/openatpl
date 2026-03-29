@@ -1,7 +1,7 @@
 {
   "number": 146,
-  "questionId": 70416,
-  "questionNumber": "336475",
+  "questionId": "033-0146",
+  "questionNumber": "033-0146",
   "stemHtml": "<p>Unless otherwise shown on charts for standard instrument departure the routes are given with\u2026</p>",
   "options": {
     "a": "magnetic course.",
@@ -10,5 +10,10 @@
     "d": "true course."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70416,
+    "number": "336475"
+  }
 }

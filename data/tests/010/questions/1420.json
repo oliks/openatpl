@@ -1,7 +1,7 @@
 {
   "number": 1420,
-  "questionId": 100529,
-  "questionNumber": "107561",
+  "questionId": "010-1420",
+  "questionNumber": "010-1420",
   "stemHtml": "When a pilot receives a traffic advisory (TA), he should NOT respond since...",
   "options": {
     "a": "<p>A TA is designed to provide situational awareness.</p>",
@@ -10,5 +10,10 @@
     "d": "It is forbidden to deviate from the trajectory without informing ATS first."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100529,
+    "number": "107561"
+  }
 }

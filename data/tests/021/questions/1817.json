@@ -1,7 +1,7 @@
 {
   "number": 1817,
-  "questionId": 67489,
-  "questionNumber": "218669",
+  "questionId": "021-1817",
+  "questionNumber": "021-1817",
   "stemHtml": "<p>What unit of measurement is used to express electrical current?</p>",
   "options": {
     "a": "<p>Ohm.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Ampere.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67489,
+    "number": "218669"
+  }
 }

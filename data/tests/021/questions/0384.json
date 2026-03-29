@@ -1,7 +1,7 @@
 {
   "number": 384,
-  "questionId": 67797,
-  "questionNumber": "215755",
+  "questionId": "021-0384",
+  "questionNumber": "021-0384",
   "stemHtml": "<p>Refer to figure. <br /> \rConsider the fuselage cross sections shown in the annex. Place these cross sections in order of decreasing structural suitability for a pressurised cabin.</p>",
   "options": {
     "a": "<p>4, 2, 3, 1.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/3cde088d-e76b-44ad-b850-b0ce38ad8d82.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/3cde088d-e76b-44ad-b850-b0ce38ad8d82.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67797,
+    "number": "215755"
+  }
 }

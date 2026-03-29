@@ -1,7 +1,7 @@
 {
   "number": 220,
-  "questionId": 107623,
-  "questionNumber": "334774",
+  "questionId": "033-0220",
+  "questionNumber": "033-0220",
   "stemHtml": "<p>An airway in mountainous terrain is designed so that the lowest level is above the Minimum Obstacle Clearance Altitude (MOCA). What is the approximate minimum clearance used in calculating the MOCA? </p>",
   "options": {
     "a": "<p>1000 ft for all mountainous terrain. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>1500 ft clearance over obstacles up to and including 5000 ft; and 2000 ft clearance for obstacles over 5000 ft in elevation.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107623,
+    "number": "334774"
+  }
 }

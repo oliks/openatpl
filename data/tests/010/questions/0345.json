@@ -1,7 +1,7 @@
 {
   "number": 345,
-  "questionId": 78649,
-  "questionNumber": "102350",
+  "questionId": "010-0345",
+  "questionNumber": "010-0345",
   "stemHtml": "What is the accuracy of a VOR providing track guidance assumed to be when constructing an instrument approach?",
   "options": {
     "a": "\u00b1 1.4\u00b0",
@@ -10,5 +10,10 @@
     "d": "\u00b1 6.9\u00b0"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78649,
+    "number": "102350"
+  }
 }

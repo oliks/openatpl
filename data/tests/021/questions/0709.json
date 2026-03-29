@@ -1,7 +1,7 @@
 {
   "number": 709,
-  "questionId": 68285,
-  "questionNumber": "212015",
+  "questionId": "021-0709",
+  "questionNumber": "021-0709",
   "stemHtml": "Which one of the following factors would be most likely to increase the possibility of detonation occurring within a piston engine?",
   "options": {
     "a": "Slightly retarding the ignition timing.",
@@ -10,5 +10,10 @@
     "d": "Using an engine with a low compression ratio."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68285,
+    "number": "212015"
+  }
 }

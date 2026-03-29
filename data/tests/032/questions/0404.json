@@ -1,7 +1,7 @@
 {
   "number": 404,
-  "questionId": 81217,
-  "questionNumber": "324694",
+  "questionId": "032-0404",
+  "questionNumber": "032-0404",
   "stemHtml": "<p dir=\"ltr\">Refer to figure.<br />\r\nDetermine the brake release weight, given:</p>\r\n\r\n<p dir=\"ltr\">V<sub>1</sub> = 148 kts<br />\r\nPressure altitude: 1487 ft<br />\r\nOAT: +19\u00b0C<br />\r\nSlope: 0.4% down<br />\r\nTailwind: 10 kt</p>\r\n",
   "options": {
     "a": "<p dir=\"ltr\">Excess of 68 000 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/814C4253-5D00-4FF9-9674-7622BBA6D86C.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/814C4253-5D00-4FF9-9674-7622BBA6D86C.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81217,
+    "number": "324694"
+  }
 }

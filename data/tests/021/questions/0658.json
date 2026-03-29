@@ -1,7 +1,7 @@
 {
   "number": 658,
-  "questionId": 67462,
-  "questionNumber": "212405",
+  "questionId": "021-0658",
+  "questionNumber": "021-0658",
   "stemHtml": "<p>Which of these statements about an reaction turbine are correct or incorrect?</p><p>I. The pressure rises across the nozzle guide vanes<br>II. The pressure remains constant across the rotor blades</p>",
   "options": {
     "a": "I is incorrect, II is correct.",
@@ -10,5 +10,10 @@
     "d": "I is correct, II is incorrect."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67462,
+    "number": "212405"
+  }
 }

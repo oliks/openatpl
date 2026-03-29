@@ -1,7 +1,7 @@
 {
   "number": 298,
-  "questionId": 66918,
-  "questionNumber": "103295",
+  "questionId": "010-0298",
+  "questionNumber": "010-0298",
   "stemHtml": "After a Resolution Advisory situation is resolved, the pilot shall...",
   "options": {
     "a": "continue the flight without further notification to ATC.",
@@ -10,5 +10,10 @@
     "d": "maintain the current flight level and notify ATC."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66918,
+    "number": "103295"
+  }
 }

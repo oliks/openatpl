@@ -1,7 +1,7 @@
 {
   "number": 974,
-  "questionId": 102116,
-  "questionNumber": "106476",
+  "questionId": "010-0974",
+  "questionNumber": "010-0974",
   "stemHtml": "<p>How should the term 'heavy' be reported for a heavy aircraft?</p>",
   "options": {
     "a": "<p>Before aircraft callsign and for each and every radio communication.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>After aircraft callsign and for initial radio communication.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102116,
+    "number": "106476"
+  }
 }

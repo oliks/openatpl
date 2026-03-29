@@ -1,7 +1,7 @@
 {
   "number": 715,
-  "questionId": 80407,
-  "questionNumber": "332867",
+  "questionId": "033-0715",
+  "questionNumber": "033-0715",
   "stemHtml": "<p>Refer to figure or SANTORINI - Chart 10-2A from Jeppesen GSPRM 2017. <br>What is a correct description of how a descent must be flown while following STAR PEXAN 1C at Santorini, Greece?</p>",
   "options": {
     "a": "You should proceed at or below 7 000 ft until reaching PEXAN.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/C1D05F1C-296E-4EFC-8B23-74679DED99D3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C1D05F1C-296E-4EFC-8B23-74679DED99D3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80407,
+    "number": "332867"
+  }
 }

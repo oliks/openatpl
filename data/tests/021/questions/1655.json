@@ -1,7 +1,7 @@
 {
   "number": 1655,
-  "questionId": 112915,
-  "questionNumber": "216701",
+  "questionId": "021-1655",
+  "questionNumber": "021-1655",
   "stemHtml": "<p>Which of the following statements is correct with regards to Integrated Drive Generators (IDGs)? An IDG is a...</p>",
   "options": {
     "a": "<p>constant frequency generator which combines the CSD and the generator itself in a combined unit.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>constant frequency generator with an integrated GCU; the GCU provides a stable frequency output.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112915,
+    "number": "216701"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 772,
-  "questionId": 84445,
-  "questionNumber": "326994",
+  "questionId": "032-0772",
+  "questionNumber": "032-0772",
   "stemHtml": "<p>Refer to the figure or CAP 698 file 4.4.<br>An MRJT aeroplane is scheduled to depart from an island airport and the crew is calculating the take-off performance with the following data:</p><p>Runway 03: TORA 7000 ft, slope 1% UP, 5 kt headwind component<br>Runway 21: TORA 7000 ft, slope 1 % DOWN, 5 kt tailwind component<br>Airport pressure altitude: 10 ft.<br>Temperature: +21\u00b0C.</p><p>To maintain terrain clearance, taking off from runway 03 requires the use of flap 5, whereas runway 21 departs over the ocean, so flap 15 may be used. The planned take-off mass with desired fuel is currently 59 100 kg. After calculating the runway 03 take-off performance, the crew finds that the Field-Length-Limited Take-Off Mass (FLLTOM) is under the planned take-off mass at 58 500 kg. Which of the following options is best from both an airmanship and commercial standpoint?</p>",
   "options": {
     "a": "A departure from runway 21 is preferred, with a down-slope and tailwind, as this will increase safety margins in the event of stopping.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/23AB99AE-F627-42F3-844E-3D477178132A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/23AB99AE-F627-42F3-844E-3D477178132A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84445,
+    "number": "326994"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 829,
-  "questionId": 84778,
-  "questionNumber": "227405",
+  "questionId": "022-0829",
+  "questionNumber": "022-0829",
   "stemHtml": "Which of the following is correct regarding the capture phase of the autopilot?",
   "options": {
     "a": "A given rate of change of trajectory is maintained to achieve a new parameter without undershooting.",
@@ -10,5 +10,10 @@
     "d": "The autopilot maintains the set parameter without any change."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84778,
+    "number": "227405"
+  }
 }

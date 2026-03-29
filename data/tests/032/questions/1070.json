@@ -1,7 +1,7 @@
 {
   "number": 1070,
-  "questionId": 109922,
-  "questionNumber": "326292",
+  "questionId": "032-1070",
+  "questionNumber": "032-1070",
   "stemHtml": "<p>During a cold day with high atmospheric pressure, a multi-engine piston pilot is climbing at the speed for minimum controllability, when it suffers an engine failure. The pilot should expect...</p>",
   "options": {
     "a": "<p>Better controllability due to high V<sub>MCA</sub></p>",
@@ -10,5 +10,10 @@
     "d": "<p>Reduced controllability due to low V<sub>MCA</sub></p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109922,
+    "number": "326292"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1387,
-  "questionId": 66682,
-  "questionNumber": "101714",
+  "questionId": "010-1387",
+  "questionNumber": "010-1387",
   "stemHtml": "Unless otherwise stated, the specifications in ICAO Annex 13 apply to activities following accidents and incidents in which geographical areas?",
   "options": {
     "a": "Over the territory of each Contracting State.",
@@ -10,5 +10,10 @@
     "d": "All geographical areas but not the high seas."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66682,
+    "number": "101714"
+  }
 }

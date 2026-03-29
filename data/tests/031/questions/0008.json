@@ -1,7 +1,7 @@
 {
   "number": 8,
-  "questionId": 69464,
-  "questionNumber": "312061",
+  "questionId": "031-0008",
+  "questionNumber": "031-0008",
   "stemHtml": "The floor of the main cargo hold is limited to 4 000 N/m\u00b2. It is planned to load a cubic container each side of which measures 0.5 m. It's maximum gross mass must not exceed: (assume g = 10 m/s\u00b2)",
   "options": {
     "a": "1 000 kg",
@@ -10,5 +10,10 @@
     "d": "5 000 kg"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69464,
+    "number": "312061"
+  }
 }

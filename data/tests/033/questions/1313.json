@@ -1,7 +1,7 @@
 {
   "number": 1313,
-  "questionId": 85184,
-  "questionNumber": "333818",
+  "questionId": "033-1313",
+  "questionNumber": "033-1313",
   "stemHtml": "<p>Refer to figures or ALICANTE charts 11-1, 11-2, 13-1, 13-2 from the Jeppesen GSPRM 2017.<br>You have followed Alicante arrival ASTRO 1L which leads to reporting point VILNA. Which approaches can you use from there?</p>",
   "options": {
     "a": "ILS Z and VOR Y.",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/DC0B8C87-E4B1-4FFC-B9C0-D3B46A1698DB.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/DC0B8C87-E4B1-4FFC-B9C0-D3B46A1698DB.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85184,
+    "number": "333818"
+  }
 }

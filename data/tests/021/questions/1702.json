@@ -1,7 +1,7 @@
 {
   "number": 1702,
-  "questionId": 80755,
-  "questionNumber": "217965",
+  "questionId": "021-1702",
+  "questionNumber": "021-1702",
   "stemHtml": "<p>In large aeroplanes, how is nose-wheel steering accomplished?</p><p>1. Aileron control wheel<br>2. Rudder pedals<br>3. Differential braking<br>4. Separate steering wheel</p>",
   "options": {
     "a": "1 and 2.",
@@ -10,5 +10,10 @@
     "d": "3 and 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80755,
+    "number": "217965"
+  }
 }

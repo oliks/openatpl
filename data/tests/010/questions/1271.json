@@ -1,7 +1,7 @@
 {
   "number": 1271,
-  "questionId": 80249,
-  "questionNumber": "107786",
+  "questionId": "010-1271",
+  "questionNumber": "010-1271",
   "stemHtml": "<p>According to ICAO Annex 8, a Certificate of Airworthiness shall be renewed or shall remain valid, provided that the State of Registry shall require that the continuing airworthiness of the aircraft has been determined by periodical inspection at appropriate intervals having regard to lapse of time and type of service or alternatively...</p>",
   "options": {
     "a": "By means of a system of inspection, approved by the State, that will produce at least an equivalent result.",
@@ -10,5 +10,10 @@
     "d": "Provided that the aircraft has NOT sustained any type of damage."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80249,
+    "number": "107786"
+  }
 }

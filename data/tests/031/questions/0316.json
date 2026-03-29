@@ -1,7 +1,7 @@
 {
   "number": 316,
-  "questionId": 82749,
-  "questionNumber": "316087",
+  "questionId": "031-0316",
+  "questionNumber": "031-0316",
   "stemHtml": "The chemical fluids used to charge the aircraft's toilets are counted as...",
   "options": {
     "a": "part of the variable load.",
@@ -10,5 +10,10 @@
     "d": "part of the basic empty mass."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82749,
+    "number": "316087"
+  }
 }

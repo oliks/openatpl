@@ -1,7 +1,7 @@
 {
   "number": 632,
-  "questionId": 67514,
-  "questionNumber": "217675",
+  "questionId": "021-0632",
+  "questionNumber": "021-0632",
   "stemHtml": "<p>In a single spool gas turbine engine, the compressor rpm is\u2026</p>",
   "options": {
     "a": "the same as turbine rpm.",
@@ -10,5 +10,10 @@
     "d": "greater than turbine rpm."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67514,
+    "number": "217675"
+  }
 }

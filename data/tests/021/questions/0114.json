@@ -1,7 +1,7 @@
 {
   "number": 114,
-  "questionId": 80123,
-  "questionNumber": "213576",
+  "questionId": "021-0114",
+  "questionNumber": "021-0114",
   "stemHtml": "What indication will alert the flight crew if the tube in a gas type fire detector is broken?",
   "options": {
     "a": "A fire warning because of low pressure.",
@@ -10,5 +10,10 @@
     "d": "A fault warning because of high pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80123,
+    "number": "213576"
+  }
 }

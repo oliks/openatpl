@@ -1,7 +1,7 @@
 {
   "number": 1330,
-  "questionId": 68638,
-  "questionNumber": "223971",
+  "questionId": "022-1330",
+  "questionNumber": "022-1330",
   "stemHtml": "<p>Your aircraft is TCAS II equipped. To be able to generate a Traffic Advisory (TA), the intruder must be at least equipped with\u2026</p>",
   "options": {
     "a": "a transponder mode S.",
@@ -10,5 +10,10 @@
     "d": "a TCAS II."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68638,
+    "number": "223971"
+  }
 }

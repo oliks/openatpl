@@ -1,7 +1,7 @@
 {
   "number": 473,
-  "questionId": 100045,
-  "questionNumber": "317932",
+  "questionId": "031-0473",
+  "questionNumber": "031-0473",
   "stemHtml": "<p>What is correct regarding methods for cargo loading?</p>",
   "options": {
     "a": "Containers need their own manifest, while pallets don\u2019t.",
@@ -10,5 +10,10 @@
     "d": "Containers can be used only in cargo aircraft, while pallets can also be used in passenger aircraft."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100045,
+    "number": "317932"
+  }
 }

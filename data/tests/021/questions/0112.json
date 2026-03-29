@@ -1,7 +1,7 @@
 {
   "number": 112,
-  "questionId": 68259,
-  "questionNumber": "214930",
+  "questionId": "021-0112",
+  "questionNumber": "021-0112",
   "stemHtml": "<p>The crank assembly of a piston engine comprises the\u2026</p>",
   "options": {
     "a": "crankcase, crankshaft, connecting rods and pistons.",
@@ -10,5 +10,10 @@
     "d": "propeller, crankshaft, pistons and connecting rods."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68259,
+    "number": "214930"
+  }
 }

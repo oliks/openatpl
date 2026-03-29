@@ -1,7 +1,7 @@
 {
   "number": 1811,
-  "questionId": 106018,
-  "questionNumber": "102839",
+  "questionId": "010-1811",
+  "questionNumber": "010-1811",
   "stemHtml": "<p>An aircraft is executing an approach on runway 22 followed by a visual manoeuvering (circling) on runway 04. During the circling, the crew loses visual references with runway 04. What are the steps to be followed?</p>",
   "options": {
     "a": "<p>(1) Climb toward runway 04, (2) reach the minimum circling altitude or higher, (3) initiate the missed approach procedure for runway 22.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Climb toward runway 22, (2) reach a lower altitude than the minimum circling altitude, (3) initiate the missed approach procedure for runway 04.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106018,
+    "number": "102839"
+  }
 }

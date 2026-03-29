@@ -1,7 +1,7 @@
 {
   "number": 1336,
-  "questionId": 82080,
-  "questionNumber": "102930",
+  "questionId": "010-1336",
+  "questionNumber": "010-1336",
   "stemHtml": "The crew has reason to believe that a passenger is about to conduct an act of illegal interference. What should the pilot-in-command do?",
   "options": {
     "a": "Take necessary actions to restrain or secure the passenger in question.",
@@ -10,5 +10,10 @@
     "d": "Squawk 7600 and contact ATC."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82080,
+    "number": "102930"
+  }
 }

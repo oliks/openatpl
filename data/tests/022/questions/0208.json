@@ -1,7 +1,7 @@
 {
   "number": 208,
-  "questionId": 68761,
-  "questionNumber": "227554",
+  "questionId": "022-0208",
+  "questionNumber": "022-0208",
   "stemHtml": "<p>The computer of the autopilot system uses, among others, input signals from the:</p>\r\r<p>1 \u2013 Attitude reference system <br /> \r2 \u2013 Mode annunciator panel (FMA) <br /> \r3 \u2013 ADC <br /> \r4 \u2013 Autopilot mode control panel</p>",
   "options": {
     "a": "<p>2, 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3, 4.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68761,
+    "number": "227554"
+  }
 }

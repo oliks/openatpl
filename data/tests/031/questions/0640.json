@@ -1,7 +1,7 @@
 {
   "number": 640,
-  "questionId": 69561,
-  "questionNumber": "318657",
+  "questionId": "031-0640",
+  "questionNumber": "031-0640",
   "stemHtml": "<p>The term \"Maximum Zero Fuel Mass\" (MZFM) consists of\u2026</p>",
   "options": {
     "a": "<p>the maximum mass for some aeroplanes including the Fuel Load and the Traffic Load.</p>",
@@ -10,5 +10,10 @@
     "d": "the maximum mass authorized for a certain aeroplane not including the fuel load and operational items."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69561,
+    "number": "318657"
+  }
 }

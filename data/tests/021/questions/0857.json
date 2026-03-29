@@ -1,7 +1,7 @@
 {
   "number": 857,
-  "questionId": 104958,
-  "questionNumber": "219428",
+  "questionId": "021-0857",
+  "questionNumber": "021-0857",
   "stemHtml": "<p>What are the consequences if the pilot neglects to remove the landing gear anti-retract security pin during the external inspections?</p>",
   "options": {
     "a": "<p>It will prevent to retract the landing gear</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The landing gear will retract normally, but the pin will be damaged.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104958,
+    "number": "219428"
+  }
 }

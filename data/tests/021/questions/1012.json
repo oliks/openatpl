@@ -1,7 +1,7 @@
 {
   "number": 1012,
-  "questionId": 67656,
-  "questionNumber": "217685",
+  "questionId": "021-1012",
+  "questionNumber": "021-1012",
   "stemHtml": "<p>The purpose of bonding the metallic parts of an aircraft is to:</p><p>1. prevent electrolytic corrosion between mating surfaces of similar metals<br>2. ensure zero voltage difference between aircraft components<br>3. isolate all components electrically<br>4. provide a single earth for electrical devices</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 3.",
@@ -10,5 +10,10 @@
     "d": "1, 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67656,
+    "number": "217685"
+  }
 }

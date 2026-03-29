@@ -1,7 +1,7 @@
 {
   "number": 910,
-  "questionId": 111163,
-  "questionNumber": "104043",
+  "questionId": "010-0910",
+  "questionNumber": "010-0910",
   "stemHtml": "<p>An aircraft is executing an LNAV/VNAV approach on runway 26L of an aerodrome where simultaneous parallel operations are taking place. The aerodrome has four parallel runways, and all runways are in operation. According to ICAO Doc 8168, in order to execute this approach the aircraft must...</p>",
   "options": {
     "a": "<p>meet the eligibility requirements for the particular navigation specification used in the design of the procedures.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>be equipped with a Head-Up Display.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111163,
+    "number": "104043"
+  }
 }

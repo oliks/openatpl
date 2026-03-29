@@ -1,7 +1,7 @@
 {
   "number": 1841,
-  "questionId": 112050,
-  "questionNumber": "217368",
+  "questionId": "021-1841",
+  "questionNumber": "021-1841",
   "stemHtml": "<p>Which of the following is a characteristic of a chemical oxygen system, when compared with a gaseous oxygen system?</p>",
   "options": {
     "a": "<p>A chemical oxygen system is heavier.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Chemical oxygen systems require continuous electrical power to function.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112050,
+    "number": "217368"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1024,
-  "questionId": 70420,
-  "questionNumber": "337493",
+  "questionId": "033-1024",
+  "questionNumber": "033-1024",
   "stemHtml": "<p>A jet aeroplane has a cruise fuel consumption of 4060 kg/h and a holding fuel consumption of 3690 kg/h. If the destination is an isolated airfield, the quantity of additional fuel must be\u2026</p>",
   "options": {
     "a": "1845 kg.",
@@ -10,5 +10,10 @@
     "d": "3045 kg."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70420,
+    "number": "337493"
+  }
 }

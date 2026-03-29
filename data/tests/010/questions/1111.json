@@ -1,7 +1,7 @@
 {
   "number": 1111,
-  "questionId": 83382,
-  "questionNumber": "103721",
+  "questionId": "010-1111",
+  "questionNumber": "010-1111",
   "stemHtml": "<p>A navigation fix is not always exact, but can still be used for navigation. The accuracy of the fix depends on:</p><p>1. airborne receiver tolerance<br>2. ATC tolerance<br>3. ground equipment tolerance<br>4. flight technical tolerance<br>5. weather tolerance</p>",
   "options": {
     "a": "1, 3 and 5",
@@ -10,5 +10,10 @@
     "d": "2, 3 and 4"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83382,
+    "number": "103721"
+  }
 }

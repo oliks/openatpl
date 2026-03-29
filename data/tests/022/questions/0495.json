@@ -1,7 +1,7 @@
 {
   "number": 495,
-  "questionId": 68873,
-  "questionNumber": "222922",
+  "questionId": "022-0495",
+  "questionNumber": "022-0495",
   "stemHtml": "<p>During engine start\u2026</p>",
   "options": {
     "a": "the Autothrottle uses ambient conditions to assist starting.",
@@ -10,5 +10,10 @@
     "d": "the Autothrottle protects against wet start."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68873,
+    "number": "222922"
+  }
 }

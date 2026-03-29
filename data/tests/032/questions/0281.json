@@ -1,7 +1,7 @@
 {
   "number": 281,
-  "questionId": 85681,
-  "questionNumber": "328972",
+  "questionId": "032-0281",
+  "questionNumber": "032-0281",
   "stemHtml": "Regarding the take-off path, the second segment...",
   "options": {
     "a": "ends when the landing gear is fully retracted.",
@@ -10,5 +10,10 @@
     "d": "flown with flaps/slats are retracted."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85681,
+    "number": "328972"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1635,
-  "questionId": 67367,
-  "questionNumber": "216821",
+  "questionId": "021-1635",
+  "questionNumber": "021-1635",
   "stemHtml": "<p>An abortive (hung) start is the term used to describe an attempt to start in which the engine\u2026</p>",
   "options": {
     "a": "lights up, but fails to accelerate sufficiently.",
@@ -10,5 +10,10 @@
     "d": "will not rotate."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67367,
+    "number": "216821"
+  }
 }

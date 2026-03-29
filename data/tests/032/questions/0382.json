@@ -1,7 +1,7 @@
 {
   "number": 382,
-  "questionId": 84063,
-  "questionNumber": "326889",
+  "questionId": "032-0382",
+  "questionNumber": "032-0382",
   "stemHtml": "For a jet aircraft, which of these statements is true regarding best range with altitude?",
   "options": {
     "a": "Best range increases steadily with altitude.",
@@ -10,5 +10,10 @@
     "d": "Best range is achieved at lower altitudes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84063,
+    "number": "326889"
+  }
 }

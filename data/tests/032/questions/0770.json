@@ -1,7 +1,7 @@
 {
   "number": 770,
-  "questionId": 70291,
-  "questionNumber": "327810",
+  "questionId": "032-0770",
+  "questionNumber": "032-0770",
   "stemHtml": "A pilot plans the take-off using a FLEX thrust setting. At the last moment when lining up the pilot decides to use TOGA thrust. What is the effect of using TOGA?",
   "options": {
     "a": "The use of TOGA is prohibited and the thrust setting as calculated must be used.",
@@ -10,5 +10,10 @@
     "d": "There is no change to performance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70291,
+    "number": "327810"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 676,
-  "questionId": 68392,
-  "questionNumber": "214787",
+  "questionId": "021-0676",
+  "questionNumber": "021-0676",
   "stemHtml": "Which statement below is correct with regard to the autobrake system in RTO mode?",
   "options": {
     "a": "With RTO not available, take-off might not be allowed because the minimum braking distance with manual braking is longer.",
@@ -10,5 +10,10 @@
     "d": "RTO has a fixed force with which the aircraft is decelerated."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68392,
+    "number": "214787"
+  }
 }

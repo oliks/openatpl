@@ -1,7 +1,7 @@
 {
   "number": 789,
-  "questionId": 80677,
-  "questionNumber": "321978",
+  "questionId": "032-0789",
+  "questionNumber": "032-0789",
   "stemHtml": "You are flying at your cruise altitude. Due to some restrictions, ATC instructs you to delay your arrival. At which speed will you choose to fly to minimize fuel consumption?",
   "options": {
     "a": "To slow down, extend flaps and hold at V<sub>S</sub>.",
@@ -10,5 +10,10 @@
     "d": "Speed for LRC."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80677,
+    "number": "321978"
+  }
 }

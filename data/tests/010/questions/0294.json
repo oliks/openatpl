@@ -1,7 +1,7 @@
 {
   "number": 294,
-  "questionId": 103612,
-  "questionNumber": "108737",
+  "questionId": "010-0294",
+  "questionNumber": "010-0294",
   "stemHtml": "<p>How can vertical separation be provided?</p>",
   "options": {
     "a": "<p>By issuing different QNH.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>By implementing RVSM restrictions.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103612,
+    "number": "108737"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 456,
-  "questionId": 82684,
-  "questionNumber": "223377",
+  "questionId": "022-0456",
+  "questionNumber": "022-0456",
   "stemHtml": "<p>Considering the following flight parameters, what is the value of deviation:</p><p>True heading: 212<strong>\u00b0</strong> <br>Magnetic heading: 220\u00b0<br>Compass deviation card reading \u201cFOR 220\u00b0 STEER 214\u201d</p>",
   "options": {
     "a": "8\u00b0W",
@@ -10,5 +10,10 @@
     "d": "6\u00b0W"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82684,
+    "number": "223377"
+  }
 }

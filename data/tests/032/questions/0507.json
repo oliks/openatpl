@@ -1,7 +1,7 @@
 {
   "number": 507,
-  "questionId": 70241,
-  "questionNumber": "323998",
+  "questionId": "032-0507",
+  "questionNumber": "032-0507",
   "stemHtml": "<p>Compared with still air, the effect a headwind has on the values of the maximum range speed and the maximum gradient climb speed respectively is that\u2026</p>",
   "options": {
     "a": "the maximum range speed decreases and the maximum gradient climb speed increases.",
@@ -10,5 +10,10 @@
     "d": "the maximum range speed increases and the maximum gradient climb speed is not affected."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70241,
+    "number": "323998"
+  }
 }

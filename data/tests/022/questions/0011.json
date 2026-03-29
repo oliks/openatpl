@@ -1,7 +1,7 @@
 {
   "number": 11,
-  "questionId": 86123,
-  "questionNumber": "222537",
+  "questionId": "022-0011",
+  "questionNumber": "022-0011",
   "stemHtml": "<p>What can be said regarding a light aircrafts Angle of Attack (AoA) sensor?</p>",
   "options": {
     "a": "<p>It is a small radar dish on top of the cockpit.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It is a small vane on the leading edge of the wing.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86123,
+    "number": "222537"
+  }
 }

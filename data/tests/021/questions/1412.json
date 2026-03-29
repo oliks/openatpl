@@ -1,7 +1,7 @@
 {
   "number": 1412,
-  "questionId": 110257,
-  "questionNumber": "211488",
+  "questionId": "021-1412",
+  "questionNumber": "021-1412",
   "stemHtml": "<p>What does a FADEC (Full Authority Digital Engine Control) system include?</p>\r\r<p>1. Engine Control Unit (ECU) <br /> \r2. Electrical peripherals (wiring, sensors, etc.) <br /> \r3. FADEC Computer in the avionics bay</p>",
   "options": {
     "a": "<p>1 and 2</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2 and 3</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110257,
+    "number": "211488"
+  }
 }

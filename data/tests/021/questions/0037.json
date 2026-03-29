@@ -1,7 +1,7 @@
 {
   "number": 37,
-  "questionId": 144137,
-  "questionNumber": "217284",
+  "questionId": "021-0037",
+  "questionNumber": "021-0037",
   "stemHtml": "<p>During a pre-flight inspection, what could indicate stress damage on an aircraft?</p><p>1. Wrinkle or stretched skin<br>2. Paint markings on the tire alignment<br>3. Loose or missing screw in the fairings<br>4. Missing head of the rivet</p>",
   "options": {
     "a": "<p>1 and 2.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 144137,
+    "number": "217284"
+  }
 }

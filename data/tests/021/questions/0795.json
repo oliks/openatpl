@@ -1,7 +1,7 @@
 {
   "number": 795,
-  "questionId": 83608,
-  "questionNumber": "219215",
+  "questionId": "021-0795",
+  "questionNumber": "021-0795",
   "stemHtml": "<p>What could be said about exhaust back pressure when using a supercharged (but not turbocharged) engine?</p>",
   "options": {
     "a": "<p>Exhaust back pressure is a result of increased humidity.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Exhaust back pressure reduces with altitude and increases engine power slightly.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83608,
+    "number": "219215"
+  }
 }

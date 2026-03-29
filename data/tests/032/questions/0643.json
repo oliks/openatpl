@@ -1,7 +1,7 @@
 {
   "number": 643,
-  "questionId": 81466,
-  "questionNumber": "328195",
+  "questionId": "032-0643",
+  "questionNumber": "032-0643",
   "stemHtml": "<p dir=\"ltr\">In level flight at a given speed, what happens to the drag if aeroplane mass is increased?</p>",
   "options": {
     "a": "<p dir=\"ltr\">It stays constant.</p>",
@@ -10,5 +10,10 @@
     "d": "It is NOT affected."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81466,
+    "number": "328195"
+  }
 }

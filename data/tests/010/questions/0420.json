@@ -1,7 +1,7 @@
 {
   "number": 420,
-  "questionId": 66909,
-  "questionNumber": "103609",
+  "questionId": "010-0420",
+  "questionNumber": "010-0420",
   "stemHtml": "<p>When an aircraft carries a serviceable transponder, the pilot shall operate the transponder\u2026</p>",
   "options": {
     "a": "only when directed by ATC.",
@@ -10,5 +10,10 @@
     "d": "at all times during flight, regardless of whether SSR is used for ATS purposes or not."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66909,
+    "number": "103609"
+  }
 }

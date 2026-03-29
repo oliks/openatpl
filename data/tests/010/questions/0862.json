@@ -1,7 +1,7 @@
 {
   "number": 862,
-  "questionId": 104059,
-  "questionNumber": "104375",
+  "questionId": "010-0862",
+  "questionNumber": "010-0862",
   "stemHtml": "<p>What is the flag height of a permanent obstacle?</p>",
   "options": {
     "a": "<p>10 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>15 m</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104059,
+    "number": "104375"
+  }
 }

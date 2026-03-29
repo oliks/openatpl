@@ -1,7 +1,7 @@
 {
   "number": 527,
-  "questionId": 78708,
-  "questionNumber": "317865",
+  "questionId": "031-0527",
+  "questionNumber": "031-0527",
   "stemHtml": "<p>5600 USG is equivalent to\u2026</p>",
   "options": {
     "a": "4366 Imp Gal",
@@ -10,5 +10,10 @@
     "d": "633 Imp Gal"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78708,
+    "number": "317865"
+  }
 }

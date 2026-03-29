@@ -1,7 +1,7 @@
 {
   "number": 212,
-  "questionId": 85730,
-  "questionNumber": "104781",
+  "questionId": "010-0212",
+  "questionNumber": "010-0212",
   "stemHtml": "An unidentified aircraft is one...",
   "options": {
     "a": "that does not show on a controller's radar display.",
@@ -10,5 +10,10 @@
     "d": "<p>that is unsure of its own position.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85730,
+    "number": "104781"
+  }
 }

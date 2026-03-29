@@ -1,7 +1,7 @@
 {
   "number": 755,
-  "questionId": 112638,
-  "questionNumber": "213146",
+  "questionId": "021-0755",
+  "questionNumber": "021-0755",
   "stemHtml": "<p>In a pneumatic system, what does the isolation valve do when it is in the CLOSED position?</p>",
   "options": {
     "a": "<p>It connects both left and right engine bleed systems.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It separates the left and right engine bleed systems.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112638,
+    "number": "213146"
+  }
 }

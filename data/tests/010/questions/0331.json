@@ -1,7 +1,7 @@
 {
   "number": 331,
-  "questionId": 66694,
-  "questionNumber": "109899",
+  "questionId": "010-0331",
+  "questionNumber": "010-0331",
   "stemHtml": "A certificate of airworthiness shall be issued on the basis of satisfactory evidence that the aircraft complies with the design aspects of the appropriate airworthiness requirements. Who issues the Certificate of Airworthiness?",
   "options": {
     "a": "<p>The authority of the State of Manufacture.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The operator.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66694,
+    "number": "109899"
+  }
 }

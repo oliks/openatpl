@@ -1,7 +1,7 @@
 {
   "number": 1384,
-  "questionId": 84548,
-  "questionNumber": "214410",
+  "questionId": "021-1384",
+  "questionNumber": "021-1384",
   "stemHtml": "<p>In a Fly-By-Wire flight control system, why do critical parameters require multiple sensors?</p>",
   "options": {
     "a": "To provide a separate input for each flight control computer.",
@@ -10,5 +10,10 @@
     "d": "To allow flight control to be maintained if inputs from the sensors are valid but have different values."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84548,
+    "number": "214410"
+  }
 }

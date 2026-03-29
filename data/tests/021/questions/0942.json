@@ -1,7 +1,7 @@
 {
   "number": 942,
-  "questionId": 135052,
-  "questionNumber": "216635",
+  "questionId": "021-0942",
+  "questionNumber": "021-0942",
   "stemHtml": "<p>Regarding the four phases of an engine: intake, compression, combustion, and exhaust, which statements regarding a gas turbine are correct or incorrect?</p>\r\r<p>1. The four phases take place simultaneously in separate sections of the engine <br /> \r2. Ideally, the volume stays unchanged during the combustion phase</p>",
   "options": {
     "a": "<p>1 is incorrect; 2 is correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 is correct; 2 is incorrect.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 135052,
+    "number": "216635"
+  }
 }

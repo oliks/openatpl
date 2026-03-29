@@ -1,7 +1,7 @@
 {
   "number": 1051,
-  "questionId": 81269,
-  "questionNumber": "228517",
+  "questionId": "022-1051",
+  "questionNumber": "022-1051",
   "stemHtml": "<p>The methods which may be used to operate the RPM indicator are?</p>",
   "options": {
     "a": "<p dir=\"ltr\">Electrical, magnetic, and hydraulic.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Electrical, mechanical, and magnetic.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81269,
+    "number": "228517"
+  }
 }

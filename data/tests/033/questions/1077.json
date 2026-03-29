@@ -1,7 +1,7 @@
 {
   "number": 1077,
-  "questionId": 81706,
-  "questionNumber": "333314",
+  "questionId": "033-1077",
+  "questionNumber": "033-1077",
   "stemHtml": "<p>Given the following data for the pre-flight calculations, determine the Contingency Fuel for a Commercial Air Transport flight with a Performance Class A aeroplane. Assume the Basic Fuel Scheme WITHOUT variations applies.</p>\r\n\r\n<p>Trip Fuel: 2300 lb<br />\r\nAlternate Fuel: 950 lb<br />\r\nTaxi Fuel: 180 lb<br />\r\nReserve Fuel: 480 lb<br />\r\nEn-route alternate: NOT applicable<br />\r\nFuel to fly 5 minutes at 1500 ft above destination: 80 lb<br />\r\nExtra Fuel: 0 lb<br />\r\nDiscretionary Fuel: 0 lb</p>\r\n",
   "options": {
     "a": "115 lb",
@@ -10,5 +10,10 @@
     "d": "230 lb"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81706,
+    "number": "333314"
+  }
 }

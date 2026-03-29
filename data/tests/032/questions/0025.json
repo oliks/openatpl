@@ -1,7 +1,7 @@
 {
   "number": 25,
-  "questionId": 80350,
-  "questionNumber": "322264",
+  "questionId": "032-0025",
+  "questionNumber": "032-0025",
   "stemHtml": "<p>For a multi-engine Class B aircraft, all engines operating, the take-off flight path is equal to the gross gradient of the actual flight path\u2026</p>",
   "options": {
     "a": "Flown up to a height of 400 ft.",
@@ -10,5 +10,10 @@
     "d": "Multiplied by 0.77."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80350,
+    "number": "322264"
+  }
 }

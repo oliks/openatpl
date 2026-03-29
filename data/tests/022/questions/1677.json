@@ -1,7 +1,7 @@
 {
   "number": 1677,
-  "questionId": 106965,
-  "questionNumber": "225646",
+  "questionId": "022-1677",
+  "questionNumber": "022-1677",
   "stemHtml": "<p>The apparent drift, due to the rotation of the Earth, of a directional gyro at a latitude of 45<strong>\u00b0</strong>N is\u2026</p>",
   "options": {
     "a": "<p>7\u00b0 per hour to the left.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>15\u00b0 per hour to the left.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106965,
+    "number": "225646"
+  }
 }

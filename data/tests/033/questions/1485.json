@@ -1,7 +1,7 @@
 {
   "number": 1485,
-  "questionId": 85481,
-  "questionNumber": "331008",
+  "questionId": "033-1485",
+  "questionNumber": "033-1485",
   "stemHtml": "What is the difference between an RNAV STAR and RNAV STAR overlay?",
   "options": {
     "a": "The RNAV STAR overlay is a longer route than the RNAV STAR.",
@@ -10,5 +10,10 @@
     "d": "The RNAV STAR overlay permits pilots to fly a conventional STAR procedure using GNSS equipment."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85481,
+    "number": "331008"
+  }
 }

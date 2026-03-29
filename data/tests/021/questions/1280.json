@@ -1,7 +1,7 @@
 {
   "number": 1280,
-  "questionId": 163089,
-  "questionNumber": "214847",
+  "questionId": "021-1280",
+  "questionNumber": "021-1280",
   "stemHtml": "<p>What is the normal operating mode of a dual-channel FADEC system?</p>",
   "options": {
     "a": "<p>Both channels operate simultaneously and share control equally.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Both channels operate independently without redundancy.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163089,
+    "number": "214847"
+  }
 }

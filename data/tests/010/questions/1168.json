@@ -1,7 +1,7 @@
 {
   "number": 1168,
-  "questionId": 67095,
-  "questionNumber": "101048",
+  "questionId": "010-1168",
+  "questionNumber": "010-1168",
   "stemHtml": "<p>How wide must a stopway be?</p>",
   "options": {
     "a": "<p>As wide as the associated runway strip.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Half as wide as the associated runway.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67095,
+    "number": "101048"
+  }
 }

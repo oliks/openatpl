@@ -1,7 +1,7 @@
 {
   "number": 1569,
-  "questionId": 101677,
-  "questionNumber": "216168",
+  "questionId": "021-1569",
+  "questionNumber": "021-1569",
   "stemHtml": "Which of the following can help to reduce the vertical bending moments experienced by an aircraft wing during flight?",
   "options": {
     "a": "Filling the tanks with fuel.",
@@ -10,5 +10,10 @@
     "d": "Increasing the size of the windows around the wings."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101677,
+    "number": "216168"
+  }
 }

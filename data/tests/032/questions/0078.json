@@ -1,7 +1,7 @@
 {
   "number": 78,
-  "questionId": 107670,
-  "questionNumber": "329611",
+  "questionId": "032-0078",
+  "questionNumber": "032-0078",
   "stemHtml": "<p>Which statement is correct regarding outside conditions in flight?</p>",
   "options": {
     "a": "<p>In cold air the true altitude will be greater than indicated.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>In hot air the true altitude will be lower than indicated.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107670,
+    "number": "329611"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 8,
-  "questionId": 70590,
-  "questionNumber": "337101",
+  "questionId": "033-0008",
+  "questionNumber": "033-0008",
   "stemHtml": "<p>When planning a Commercial Air Transport flight to an isolated aerodrome destination, the last possible point of diversion to any available En Route Alternate ERA aerodrome should be used as the\u2026</p>",
   "options": {
     "a": "Reduced Contingency Fuel RCF point.",
@@ -10,5 +10,10 @@
     "d": "Equal Time Point ETP."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70590,
+    "number": "337101"
+  }
 }

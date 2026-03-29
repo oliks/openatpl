@@ -1,7 +1,7 @@
 {
   "number": 540,
-  "questionId": 103062,
-  "questionNumber": "328588",
+  "questionId": "032-0540",
+  "questionNumber": "032-0540",
   "stemHtml": "<p>Which of the following statements accurately describes the Long Range Cruise (LRC) speed, when compared to the maximum range speed?</p>",
   "options": {
     "a": "<p>It corresponds to a higher Cost Index (CI).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It is more fuel-efficient.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103062,
+    "number": "328588"
+  }
 }

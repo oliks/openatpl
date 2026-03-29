@@ -1,7 +1,7 @@
 {
   "number": 540,
-  "questionId": 66895,
-  "questionNumber": "107652",
+  "questionId": "010-0540",
+  "questionNumber": "010-0540",
   "stemHtml": "According to ICAO Doc 8168 PANS-OPS, for aircraft approaching a controlled aerodrome for landing, the QNH altimeter setting shall be made available...",
   "options": {
     "a": "prior to leaving the en-route cruising level.",
@@ -10,5 +10,10 @@
     "d": "in approach clearances and in clearances to enter the traffic circuit."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66895,
+    "number": "107652"
+  }
 }

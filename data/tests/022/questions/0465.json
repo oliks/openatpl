@@ -1,7 +1,7 @@
 {
   "number": 465,
-  "questionId": 114263,
-  "questionNumber": "228436",
+  "questionId": "022-0465",
+  "questionNumber": "022-0465",
   "stemHtml": "<p>'Mach Tuck' is an aerodynamic phenomenon which causes an uncommanded pitch down at high subsonic speeds. Which system is designed to counteract this?</p>",
   "options": {
     "a": "<p>Mach Trim</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Mach limiter</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 114263,
+    "number": "228436"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 470,
-  "questionId": 69373,
-  "questionNumber": "315348",
+  "questionId": "031-0470",
+  "questionNumber": "031-0470",
   "stemHtml": "<p>Refer to figure.<br>The aeroplane has a mass of 61 000 kg in the cruise. The range of allowable CG positions, as determined from the graph, is\u2026</p>",
   "options": {
     "a": "<p>forward limit 7.6% aft limit 26.9% MAC.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/95152d37-b759-445d-85ca-d3a72721e126.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/95152d37-b759-445d-85ca-d3a72721e126.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69373,
+    "number": "315348"
+  }
 }

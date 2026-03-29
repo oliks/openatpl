@@ -1,7 +1,7 @@
 {
   "number": 936,
-  "questionId": 83404,
-  "questionNumber": "328417",
+  "questionId": "032-0936",
+  "questionNumber": "032-0936",
   "stemHtml": "<p>Refer to figure or CAP file 4.31.<br>The pilot of an MRJT aeroplane after recognizing a generator failure during the take-off roll, he/she decides to reject the take-off and taxi off the runway to hold on a taxiway. Resetting the generator after 10 minutes, he/she realizes that it functions properly, so the flight can resume. Given the following information, what is the minimum cooling time before the next take-off, assuming that the taxi distance is negligible?</p><p>Take-off mass: 57 500 kg<br>Speed when fault occurred: 90 kt<br>Speed when rejection commenced: 100 kt<br>Retardation: Maximum braking and reverse thrust<br>Wind: Light and variable<br>Elevation: 1400 ft<br>QNH: 1013.25 hPa<br>OAT: -10\u00b0C</p>",
   "options": {
     "a": "It is recommended to wait for approximately 50 minutes if some credit is given for using reverse thrust.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/FAA0B19F-F925-44C3-951A-E0894B11D399.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/FAA0B19F-F925-44C3-951A-E0894B11D399.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83404,
+    "number": "328417"
+  }
 }

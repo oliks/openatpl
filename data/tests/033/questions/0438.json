@@ -1,7 +1,7 @@
 {
   "number": 438,
-  "questionId": 70747,
-  "questionNumber": "333697",
+  "questionId": "033-0438",
+  "questionNumber": "033-0438",
   "stemHtml": "<p>If the Pre determined Point PDP procedure has to be applied for a Commercial Air Transport flight, the remaining fuel at the PDP must be sufficient for continuation to\u2026</p>",
   "options": {
     "a": "the destination and afterwards to the alternate.",
@@ -10,5 +10,10 @@
     "d": "either the destination or the departure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70747,
+    "number": "333697"
+  }
 }

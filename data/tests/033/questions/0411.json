@@ -1,7 +1,7 @@
 {
   "number": 411,
-  "questionId": 70421,
-  "questionNumber": "339249",
+  "questionId": "033-0411",
+  "questionNumber": "033-0411",
   "stemHtml": "<p>For pre-flight planning purposes, what is the minimum Ramp Fuel load for the Commercial Air Transport flight with a Jet aeroplane, given the following information? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Standard taxi fuel: 600 kg<br>Average cruise consumption: 10 000 kg/h<br>Holding fuel consumption at 1500 ft above alternate airfield elevation: 8000 kg/h<br>Flight time from departure to destination: 6 hours<br>Fuel for diversion to alternate: 10 200 kg<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "77 800 kg.",
@@ -10,5 +10,10 @@
     "d": "74 800 kg."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70421,
+    "number": "339249"
+  }
 }

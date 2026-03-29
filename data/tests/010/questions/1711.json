@@ -1,7 +1,7 @@
 {
   "number": 1711,
-  "questionId": 67033,
-  "questionNumber": "103521",
+  "questionId": "010-1711",
+  "questionNumber": "010-1711",
   "stemHtml": "While under radar control during an intermediate or final approach, ATC may require an adjustment to aircraft speed that will not exceed plus or minus...",
   "options": {
     "a": "25 kt IAS.",
@@ -10,5 +10,10 @@
     "d": "10 kt IAS."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67033,
+    "number": "103521"
+  }
 }

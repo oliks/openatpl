@@ -1,7 +1,7 @@
 {
   "number": 321,
-  "questionId": 69575,
-  "questionNumber": "315173",
+  "questionId": "031-0321",
+  "questionNumber": "031-0321",
   "stemHtml": "<p>Prior to departure the aircraft is loaded with maximum fuel of 20 100 litres at a fuel density (specific gravity) of 0.78. Using the following data:</p><figure class=\"table\"><table><tbody><tr><td>Performance Limited Take-off Mass:</td><td style=\"text-align:right;\">67 200</td><td>kg</td></tr><tr><td>Performance Limited Landing Mass:</td><td style=\"text-align:right;\">54 200</td><td>kg</td></tr><tr><td>Dry Operating Mass:</td><td style=\"text-align:right;\">34 930</td><td>kg</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>Taxi fuel:</td><td style=\"text-align:right;\">250</td><td>kg</td></tr><tr><td>Trip Fuel:</td><td style=\"text-align:right;\">9250</td><td>kg</td></tr><tr><td>Contingency and Holding Fuel:</td><td style=\"text-align:right;\">850</td><td>kg</td></tr><tr><td>Alternate Fuel:</td><td style=\"text-align:right;\">700</td><td>kg</td></tr></tbody></table></figure><p>The maximum permissible Traffic Load (TL) is:</p>",
   "options": {
     "a": "12 840 kg",
@@ -10,5 +10,10 @@
     "d": "18 040 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69575,
+    "number": "315173"
+  }
 }

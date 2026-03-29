@@ -1,7 +1,7 @@
 {
   "number": 786,
-  "questionId": 78843,
-  "questionNumber": "335108",
+  "questionId": "033-0786",
+  "questionNumber": "033-0786",
   "stemHtml": "What must be inserted in item 10 of the ATC flight plan for an aircraft equipped for MNPS and RVSM?",
   "options": {
     "a": "Y",
@@ -10,5 +10,10 @@
     "d": "X and W"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78843,
+    "number": "335108"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 61,
-  "questionId": 103916,
-  "questionNumber": "338430",
+  "questionId": "033-0061",
+  "questionNumber": "033-0061",
   "stemHtml": "<p>When filing a flight plan to ATC, what does the \"FF\" in the upper right corner on the flight plan mean?</p>",
   "options": {
     "a": "<p>Emergency message.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Flight regularity message.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103916,
+    "number": "338430"
+  }
 }

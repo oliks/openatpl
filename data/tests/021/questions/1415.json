@@ -1,7 +1,7 @@
 {
   "number": 1415,
-  "questionId": 84622,
-  "questionNumber": "211851",
+  "questionId": "021-1415",
+  "questionNumber": "021-1415",
   "stemHtml": "<p>During a normal aircraft service, an engineer notices an oily mist leaving the pressure release valve whilst draining the nitrogen from a horizontally mounted hydraulic accumulator. What does this indicate?</p>",
   "options": {
     "a": "<p>That the nitrogen is under higher pressure than the hydraulic fluid.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Normal functioning of the accumulator.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84622,
+    "number": "211851"
+  }
 }

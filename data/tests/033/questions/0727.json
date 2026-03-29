@@ -1,7 +1,7 @@
 {
   "number": 727,
-  "questionId": 82905,
-  "questionNumber": "333359",
+  "questionId": "033-0727",
+  "questionNumber": "033-0727",
   "stemHtml": "<p>For pre-flight planning purposes, what is the minimum Fuel required for the Commercial Air Transport flight in a Jet aircraft aeroplane, given the following information? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Trip Fuel: 3740 kg<br>Fuel to alternate: 936 kg<br>Taxi Fuel: 140 kg<br>Fuel flow at 1500 ft above destination aerodrome: 2132 kg/h<br>Fuel flow at 1500 ft above destination alternate: 2400 kg/h<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "<p>6069 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>6200 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82905,
+    "number": "333359"
+  }
 }

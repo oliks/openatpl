@@ -1,7 +1,7 @@
 {
   "number": 75,
-  "questionId": 70988,
-  "questionNumber": "335789",
+  "questionId": "033-0075",
+  "questionNumber": "033-0075",
   "stemHtml": "<p>Refer to figure or AMSTERDAM - Chart 10-2 from Jeppesen GSPRM 2017.<br>You are approaching AMSTERDAM via REKKEN 2A. Which of the following procedures should be followed in case of a radio communication failure?</p>",
   "options": {
     "a": "<div>Follow the procedures provided on the 10-1P pages of your route manual.</div>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/aa7af53c-b19c-4d2e-96ab-878e041100ae.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/aa7af53c-b19c-4d2e-96ab-878e041100ae.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70988,
+    "number": "335789"
+  }
 }

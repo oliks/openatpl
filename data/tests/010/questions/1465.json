@@ -1,7 +1,7 @@
 {
   "number": 1465,
-  "questionId": 80480,
-  "questionNumber": "106138",
+  "questionId": "010-1465",
+  "questionNumber": "010-1465",
   "stemHtml": "The Third Freedom of the Air is the right or privilege, in respect of scheduled international air services granted by one State to another State\u2026",
   "options": {
     "a": "to put down and to take on, in the territory of the first State, traffic coming from or destined to a third State.",
@@ -10,5 +10,10 @@
     "d": "<p>to put down, in the territory of the first State, traffic coming from the home State of the carrier.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80480,
+    "number": "106138"
+  }
 }

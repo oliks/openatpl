@@ -1,7 +1,7 @@
 {
   "number": 545,
-  "questionId": 69535,
-  "questionNumber": "312317",
+  "questionId": "031-0545",
+  "questionNumber": "031-0545",
   "stemHtml": "<p>To assess aircraft performance, the pilot must\u2026</p>",
   "options": {
     "a": "know the planned take-off, en-route and landing mass, and any subsequent changes from the load and trim documentation.",
@@ -10,5 +10,10 @@
     "d": "assess the actual zero fuel mass from the load and trim documentation and check that it does not exceed the certified limit."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69535,
+    "number": "312317"
+  }
 }

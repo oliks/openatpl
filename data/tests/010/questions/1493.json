@@ -1,7 +1,7 @@
 {
   "number": 1493,
-  "questionId": 83378,
-  "questionNumber": "109759",
+  "questionId": "010-1493",
+  "questionNumber": "010-1493",
   "stemHtml": "How far away from other aircraft and buildings should the pilot park the aircraft if a bomb threat is suspected?",
   "options": {
     "a": "100 m",
@@ -10,5 +10,10 @@
     "d": "500 m"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83378,
+    "number": "109759"
+  }
 }

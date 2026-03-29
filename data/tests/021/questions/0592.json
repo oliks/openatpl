@@ -1,7 +1,7 @@
 {
   "number": 592,
-  "questionId": 81855,
-  "questionNumber": "218731",
+  "questionId": "021-0592",
+  "questionNumber": "021-0592",
   "stemHtml": "How can FADEC systems on piston engines usually achieve a level of redundancy?",
   "options": {
     "a": "A piston engine FADEC is much more performant than a gas turbine one because of the lower operating costs.",
@@ -10,5 +10,10 @@
     "d": "The FADEC architecture is equipped with a reinforced wiring system."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81855,
+    "number": "218731"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 61,
-  "questionId": 69123,
-  "questionNumber": "223031",
+  "questionId": "022-0061",
+  "questionNumber": "022-0061",
   "stemHtml": "<p>During a descent at a constant Mach number below the tropopause in standard atmosphere:</p>",
   "options": {
     "a": "<p>IAS increases and TAS decreases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>IAS and TAS decrease.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69123,
+    "number": "223031"
+  }
 }

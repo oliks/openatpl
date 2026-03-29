@@ -1,7 +1,7 @@
 {
   "number": 183,
-  "questionId": 69081,
-  "questionNumber": "223925",
+  "questionId": "022-0183",
+  "questionNumber": "022-0183",
   "stemHtml": "<p>The autothrottle system\u2026</p>",
   "options": {
     "a": "can be engaged in the TAS mode \u2013 holding of constant TAS \u2013 during a final approach.",
@@ -10,5 +10,10 @@
     "d": "can be engaged in the GS mode \u2013 holding of constant Ground Speed \u2013 during a final approach."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69081,
+    "number": "223925"
+  }
 }

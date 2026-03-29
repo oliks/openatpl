@@ -1,7 +1,7 @@
 {
   "number": 529,
-  "questionId": 101733,
-  "questionNumber": "334165",
+  "questionId": "033-0529",
+  "questionNumber": "033-0529",
   "stemHtml": "<p>Refer to figures or Alicante (LEAL) charts 19-1 and 19-3 from the VFR section of the GSPRM Jeppesen.\u00a0<br>You are flying northbound along the coast and you have to transit the Alicante Air Traffic Zone (ATZ), which of the following is the correct route when crossing the ATZ?</p>",
   "options": {
     "a": "<p>Follow the coast line to Point SW, then to Point N, then to Point NE1.</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/548b0bf4-43bb-4e0b-8911-8c02a3222029.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/548b0bf4-43bb-4e0b-8911-8c02a3222029.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101733,
+    "number": "334165"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 505,
-  "questionId": 112912,
-  "questionNumber": "219915",
+  "questionId": "021-0505",
+  "questionNumber": "021-0505",
   "stemHtml": "<p>A pilot is performing a pre-flight inspection and notices areas of blisters and some worm-like trails on the paintwork, which of the following might have caused this?</p>",
   "options": {
     "a": "<p>Broken bonding wires</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Corrosion</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112912,
+    "number": "219915"
+  }
 }

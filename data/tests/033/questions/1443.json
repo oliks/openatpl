@@ -1,7 +1,7 @@
 {
   "number": 1443,
-  "questionId": 70949,
-  "questionNumber": "336377",
+  "questionId": "033-1443",
+  "questionNumber": "033-1443",
   "stemHtml": "<p>Refer to figure or GSPRM Jeppesen E(LO)2.\u00a0<br>You want to fly from POLE HILL POL 112.1 (N53 45 W002 06) to OTBED (N53 18 E000 02). Which route would you select?</p>",
   "options": {
     "a": "<div>POL Y70 GOLES Y70 OTBED</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/E8973273-5E30-4029-B283-ED346A0EEF83.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E8973273-5E30-4029-B283-ED346A0EEF83.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70949,
+    "number": "336377"
+  }
 }

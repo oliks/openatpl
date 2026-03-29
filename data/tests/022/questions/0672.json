@@ -1,7 +1,7 @@
 {
   "number": 672,
-  "questionId": 68762,
-  "questionNumber": "229310",
+  "questionId": "022-0672",
+  "questionNumber": "022-0672",
   "stemHtml": "<p>In an autopilot system, the basic stabilisation modes are:</p>\r\r<p>1 \u2013 Altitude hold <br /> \r2 \u2013 Pitch angle hold <br /> \r3 \u2013 Bank angle <br /> \r4 \u2013 IAS hold</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>1, 2, 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68762,
+    "number": "229310"
+  }
 }

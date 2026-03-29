@@ -1,7 +1,7 @@
 {
   "number": 638,
-  "questionId": 107155,
-  "questionNumber": "102119",
+  "questionId": "010-0638",
+  "questionNumber": "010-0638",
   "stemHtml": "<p>What is the medical class required for each license?</p>",
   "options": {
     "a": "<p>Class 2 for CPL and MPL, class 1 for PPL.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Class 1 for CPL and MPL, class 2 for PPL.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107155,
+    "number": "102119"
+  }
 }

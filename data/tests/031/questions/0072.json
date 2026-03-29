@@ -1,7 +1,7 @@
 {
   "number": 72,
-  "questionId": 69349,
-  "questionNumber": "317478",
+  "questionId": "031-0072",
+  "questionNumber": "031-0072",
   "stemHtml": "Refer to figure. <br /> Determine the change in DOI if the aft galley is loaded with 102 kg.",
   "options": {
     "a": "<p>The aft galley is already included in the DOI</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/bafb2167-986a-46b7-ad96-f83ef00a8ee8.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/bafb2167-986a-46b7-ad96-f83ef00a8ee8.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69349,
+    "number": "317478"
+  }
 }

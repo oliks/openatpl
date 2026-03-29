@@ -1,7 +1,7 @@
 {
   "number": 1234,
-  "questionId": 69729,
-  "questionNumber": "325311",
+  "questionId": "032-1234",
+  "questionNumber": "032-1234",
   "stemHtml": "<p>What is the advantage of balanced V<strong><sub>1</sub></strong>, even in the event of a climb limited take-off?</p>",
   "options": {
     "a": "The climb limited take-off mass is the highest.",
@@ -10,5 +10,10 @@
     "d": "The take-off distance required with one engine out at V<sub>1</sub> is the shortest."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69729,
+    "number": "325311"
+  }
 }

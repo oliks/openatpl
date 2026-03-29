@@ -1,7 +1,7 @@
 {
   "number": 641,
-  "questionId": 84090,
-  "questionNumber": "329919",
+  "questionId": "032-0641",
+  "questionNumber": "032-0641",
   "stemHtml": "A crew preparing their FMC for departure selects an assumed temperature of 45\u00b0C for their take-off thrust. The OAT is 20\u00b0C. What will this difference between actual temperature and assumed temperature mean for their take-off performance?",
   "options": {
     "a": "Taking off with a selected temperature of 45\u00b0C and an actual OAT of 20\u00b0C would result in improved performance than if a selected temperature of 20\u00b0C were to be selected.",
@@ -10,5 +10,10 @@
     "d": "Taking off with a selected temperature of 45\u00b0C and an actual OAT of 20\u00b0C would result in the same performance as if the OAT were 45\u00b0C."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84090,
+    "number": "329919"
+  }
 }

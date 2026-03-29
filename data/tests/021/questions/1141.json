@@ -1,7 +1,7 @@
 {
   "number": 1141,
-  "questionId": 67426,
-  "questionNumber": "216291",
+  "questionId": "021-1141",
+  "questionNumber": "021-1141",
   "stemHtml": "Ice formation on turbofan engine intakes is usually:",
   "options": {
     "a": "removed by using electrical heating.",
@@ -10,5 +10,10 @@
     "d": "removed by using pneumatic boots."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67426,
+    "number": "216291"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 649,
-  "questionId": 69528,
-  "questionNumber": "315458",
+  "questionId": "031-0649",
+  "questionNumber": "031-0649",
   "stemHtml": "Rush bags, late arrival bags, pilots\u2019 or cabin crew  baggage will be loaded as :",
   "options": {
     "a": "bulk cargo",
@@ -10,5 +10,10 @@
     "d": "palletised cargo"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69528,
+    "number": "315458"
+  }
 }

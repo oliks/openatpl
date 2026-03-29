@@ -1,7 +1,7 @@
 {
   "number": 859,
-  "questionId": 82245,
-  "questionNumber": "227640",
+  "questionId": "022-0859",
+  "questionNumber": "022-0859",
   "stemHtml": "<p>From the following list, which are autothrust modes?</p>\r\r<p>1. TOGA <br /> \r2. N1 <br /> \r3. THR IDLE <br /> \r4. FCU HOLD</p>",
   "options": {
     "a": "<p>1, 2</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82245,
+    "number": "227640"
+  }
 }

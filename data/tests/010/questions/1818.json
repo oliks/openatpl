@@ -1,7 +1,7 @@
 {
   "number": 1818,
-  "questionId": 66671,
-  "questionNumber": "108299",
+  "questionId": "010-1818",
+  "questionNumber": "010-1818",
   "stemHtml": "<p>An aircraft is being subjected to unlawful interference in non RVSM airspace. The pilot is forced to divert from the cleared track and/or cruising level without being able to communicate this to ATS. The pilot should attempt to...</p>",
   "options": {
     "a": "commence as soon as possible an emergency descent in order to minimise the difference between cabin pressure and outside pressure.",
@@ -10,5 +10,10 @@
     "d": "<p>proceed at a level which differs from the cruising level normally used for IFR flights in that area by 1000 ft above FL290, or 500 ft below FL290.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66671,
+    "number": "108299"
+  }
 }

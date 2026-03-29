@@ -1,7 +1,7 @@
 {
   "number": 39,
-  "questionId": 102437,
-  "questionNumber": "319836",
+  "questionId": "031-0039",
+  "questionNumber": "031-0039",
   "stemHtml": "<p>The maximum area load of the floor of the cargo bay of an aircraft is 400 kg/m<sup>2</sup>. There is a load of 245 kg that needs to be positioned in the cargo bay. What are the dimensions of the appropriate pallet for that load, to ensure that the maximum floor load limit is not violated?</p>",
   "options": {
     "a": "<p>0.43 m x 1.4 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>0.33 m x 2.0 m</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102437,
+    "number": "319836"
+  }
 }

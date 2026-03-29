@@ -1,7 +1,7 @@
 {
   "number": 1027,
-  "questionId": 101098,
-  "questionNumber": "105337",
+  "questionId": "010-1027",
+  "questionNumber": "010-1027",
   "stemHtml": "<p>Select the service provided by ATS unit at B, taking into account the following reports:</p><p>ATS unit A: \u201cG-CD, cleared to cross A1 at Wicken\u201d<br>ATS unit B: \u201cG-CD, suggest right heading 120 degrees\u201d</p>",
   "options": {
     "a": "<p>Air Traffic Control Service, with the same degree of safety as unit A.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Alerting Service, with reduced safety compared to unit A.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101098,
+    "number": "105337"
+  }
 }

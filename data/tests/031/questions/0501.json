@@ -1,7 +1,7 @@
 {
   "number": 501,
-  "questionId": 69470,
-  "questionNumber": "315761",
+  "questionId": "031-0501",
+  "questionNumber": "031-0501",
   "stemHtml": "<p>Given:</p><p>Dry Operating Mass: 5210 kg <br>Zero Fuel Mass: 6230 kg <br>Trip Fuel: 990 kg <br>Take-off Fuel: 1590 kg</p><p>The Traffic Load is\u2026</p>",
   "options": {
     "a": "1020 kg",
@@ -10,5 +10,10 @@
     "d": "3390 kg"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69470,
+    "number": "315761"
+  }
 }

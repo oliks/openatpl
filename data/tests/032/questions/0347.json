@@ -1,7 +1,7 @@
 {
   "number": 347,
-  "questionId": 96379,
-  "questionNumber": "325379",
+  "questionId": "032-0347",
+  "questionNumber": "032-0347",
   "stemHtml": "<p>The same manufacturer builds two airplanes with basically the same construction, with the main difference being that airplane (1) is single-engine and airplane (2) is multi-engine. Compare both airplanes in terms of performance, considering that airplane (1) is flying with its engine running and that airplane (2) is flying with a single engine.</p><p>The data for both aircraft is:</p><p>(1) single-engine airplane with 1 x 160 hp piston engine and a maximum mass of 1300 kg<br>(2) Multi-engine airplane with 2 x 160 hp piston engines and a maximum mass of 1990 kg</p>",
   "options": {
     "a": "If the airplanes are flown at their maximum masses, the performance of airplane (2) is significantly worse than that of airplane (1) because airplane (2) has a significantly lower power-to-weight ratio.",
@@ -10,5 +10,10 @@
     "d": "If the airplanes are operated at the same mass, e.g., 1250 kg, the performance of airplane (2) will be better than that of airplane (1) because one of the benefits of multi-engine airplanes is better performance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96379,
+    "number": "325379"
+  }
 }

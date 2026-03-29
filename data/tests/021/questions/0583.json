@@ -1,7 +1,7 @@
 {
   "number": 583,
-  "questionId": 108418,
-  "questionNumber": "214263",
+  "questionId": "021-0583",
+  "questionNumber": "021-0583",
   "stemHtml": "<p>You are flying in the winter and are advised by ATC that you are about to enter a possible icing conditions expected zone, what action should you take?</p>",
   "options": {
     "a": "<p>Increase the speed</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Reduce speed and maintain altitude</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108418,
+    "number": "214263"
+  }
 }

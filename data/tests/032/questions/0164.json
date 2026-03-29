@@ -1,7 +1,7 @@
 {
   "number": 164,
-  "questionId": 70035,
-  "questionNumber": "322918",
+  "questionId": "032-0164",
+  "questionNumber": "032-0164",
   "stemHtml": "<p>A two engine turbojet has to initiate a turn in the second segment of the take-off flight path. During the turn there is an obstacle that requires a net climb gradient of 2.0% in order to clear the obstacle. The bank angle during the turn is 15\u00b0 and the flight manual gives a decrement for the turn of 0.5%.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Taking into account both the regulation and obstacle clearance, what will be the minimum gross gradient required before commencing the turn?</span></p>",
   "options": {
     "a": "2.8%",
@@ -10,5 +10,10 @@
     "d": "2.9%"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70035,
+    "number": "322918"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1813,
-  "questionId": 83468,
-  "questionNumber": "214678",
+  "questionId": "021-1813",
+  "questionNumber": "021-1813",
   "stemHtml": "<p>What is a turbocharger used for in a piston aero-engine?</p>",
   "options": {
     "a": "<p>To compensate for the decrease in MAP with increasing altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To reduce the stress on all the engine components.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83468,
+    "number": "214678"
+  }
 }

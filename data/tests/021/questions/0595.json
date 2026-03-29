@@ -1,7 +1,7 @@
 {
   "number": 595,
-  "questionId": 79413,
-  "questionNumber": "218030",
+  "questionId": "021-0595",
+  "questionNumber": "021-0595",
   "stemHtml": "Which part of the fuselage carries loads imposed by pressurisation?",
   "options": {
     "a": "Skin.",
@@ -10,5 +10,10 @@
     "d": "Spars."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79413,
+    "number": "218030"
+  }
 }

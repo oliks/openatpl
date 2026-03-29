@@ -1,7 +1,7 @@
 {
   "number": 337,
-  "questionId": 163947,
-  "questionNumber": "337837",
+  "questionId": "033-0337",
+  "questionNumber": "033-0337",
   "stemHtml": "<p>During a planned flight, which of the following may be a valid reason to delay arrival at the Initial Approach Fix (IAF)?</p>",
   "options": {
     "a": "<p>Temporary loss of communications while en-route</p>",
@@ -10,5 +10,10 @@
     "d": "<p>There is no ATIS broadcast available</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163947,
+    "number": "337837"
+  }
 }

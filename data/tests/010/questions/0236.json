@@ -1,7 +1,7 @@
 {
   "number": 236,
-  "questionId": 66860,
-  "questionNumber": "103324",
+  "questionId": "010-0236",
+  "questionNumber": "010-0236",
   "stemHtml": "If a missed approach is initiated prior to reaching the MAPt, at what altitude/height shall the aircraft overfly the MAPt?",
   "options": {
     "a": "An any altitude/height equal to or greater than that required by the procedure.",
@@ -10,5 +10,10 @@
     "d": "Initiation of the missed approach before the MAPt is prohibited."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66860,
+    "number": "103324"
+  }
 }

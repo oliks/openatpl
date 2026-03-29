@@ -1,7 +1,7 @@
 {
   "number": 238,
-  "questionId": 67321,
-  "questionNumber": "219107",
+  "questionId": "021-0238",
+  "questionNumber": "021-0238",
   "stemHtml": "<p>A thermal circuit breaker\u2026</p>",
   "options": {
     "a": "protects the system in the event of any overheating.",
@@ -10,5 +10,10 @@
     "d": "protects the system in the event of any overcurrent."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67321,
+    "number": "219107"
+  }
 }

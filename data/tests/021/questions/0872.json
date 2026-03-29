@@ -1,7 +1,7 @@
 {
   "number": 872,
-  "questionId": 67722,
-  "questionNumber": "213299",
+  "questionId": "021-0872",
+  "questionNumber": "021-0872",
   "stemHtml": "<p>Cabin altitude is the\u2026</p>",
   "options": {
     "a": "flight level at which the aeroplane is flying.",
@@ -10,5 +10,10 @@
     "d": "altitude at maximum differential pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67722,
+    "number": "213299"
+  }
 }

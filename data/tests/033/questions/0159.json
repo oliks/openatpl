@@ -1,7 +1,7 @@
 {
   "number": 159,
-  "questionId": 84674,
-  "questionNumber": "332879",
+  "questionId": "033-0159",
+  "questionNumber": "033-0159",
   "stemHtml": "<p>Refer to figure. <br /> \rAfter the pre-flight preparation, the flight plan log shown in the annex was completed, taking into account the meteorological conditions for the scheduled Estimated Time of Departure at 07:30 UTC. Due to the passage of a cold front, a delay is expected for 3 hours. What will be the revised flight time between WPT B and WPT C because of the expected delay?</p>\r\r<p> </p>\r\r<p> </p>\r\r<p> </p>",
   "options": {
     "a": "<p>31 minutes</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/a14154b9-fa9d-433c-9567-71fe595f251d.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/a14154b9-fa9d-433c-9567-71fe595f251d.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84674,
+    "number": "332879"
+  }
 }

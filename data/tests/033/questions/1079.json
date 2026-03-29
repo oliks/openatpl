@@ -1,7 +1,7 @@
 {
   "number": 1079,
-  "questionId": 70408,
-  "questionNumber": "333793",
+  "questionId": "033-1079",
+  "questionNumber": "033-1079",
   "stemHtml": "The still air distance in the climb is 189 Nautical Air Miles (NAM) and time 30 minutes. What ground distance would be covered in a 30 kt head wind?",
   "options": {
     "a": "203 NM",
@@ -10,5 +10,10 @@
     "d": "193 NM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70408,
+    "number": "333793"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 883,
-  "questionId": 71051,
-  "questionNumber": "331028",
+  "questionId": "033-0883",
+  "questionNumber": "033-0883",
   "stemHtml": "Refer to figure.  <br />  Consider the given data from an ATS flight plan. Which statement about this flight is correct?",
   "options": {
     "a": "The wake turbulence category is medium.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/EAF5DACD-9A16-40A9-BFEC-A8E13FB073EA.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/EAF5DACD-9A16-40A9-BFEC-A8E13FB073EA.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71051,
+    "number": "331028"
+  }
 }

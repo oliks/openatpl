@@ -1,7 +1,7 @@
 {
   "number": 1716,
-  "questionId": 82769,
-  "questionNumber": "214518",
+  "questionId": "021-1716",
+  "questionNumber": "021-1716",
   "stemHtml": "How can a modern jet aircraft, in very rare cases, start an engine, if neither an APU or GPU is available?",
   "options": {
     "a": "Small engines started by the battery.",
@@ -10,5 +10,10 @@
     "d": "Small engines started by the ram air turbine (RAT)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82769,
+    "number": "214518"
+  }
 }

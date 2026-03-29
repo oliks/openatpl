@@ -1,7 +1,7 @@
 {
   "number": 247,
-  "questionId": 69336,
-  "questionNumber": "316536",
+  "questionId": "031-0247",
+  "questionNumber": "031-0247",
   "stemHtml": "An aeroplane has a MAC of 3.08 m and a Leading Edge MAC (LEMAC) of 14.72 m aft of datum. If the CG position of that aeroplane is located 16.13 m aft of datum, what is the CG position in % MAC?",
   "options": {
     "a": "52.03% MAC",
@@ -10,5 +10,10 @@
     "d": "32.16% MAC"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69336,
+    "number": "316536"
+  }
 }

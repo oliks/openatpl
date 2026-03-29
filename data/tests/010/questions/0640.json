@@ -1,7 +1,7 @@
 {
   "number": 640,
-  "questionId": 67017,
-  "questionNumber": "101607",
+  "questionId": "010-0640",
+  "questionNumber": "010-0640",
   "stemHtml": "Unless otherwise prescribed by the appropriate ATS authority, the horizontal radar separation minimum shall be",
   "options": {
     "a": "3 NM.",
@@ -10,5 +10,10 @@
     "d": "<p>4 NM.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67017,
+    "number": "101607"
+  }
 }

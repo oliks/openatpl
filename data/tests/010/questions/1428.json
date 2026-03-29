@@ -1,7 +1,7 @@
 {
   "number": 1428,
-  "questionId": 67080,
-  "questionNumber": "106014",
+  "questionId": "010-1428",
+  "questionNumber": "010-1428",
   "stemHtml": "<p>When more than 25 percent of the runway is covered by water more than 3 mm deep, the runway surface condition is reported as\u2026</p>",
   "options": {
     "a": "slippery.",
@@ -10,5 +10,10 @@
     "d": "standing water."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67080,
+    "number": "106014"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1633,
-  "questionId": 104822,
-  "questionNumber": "228827",
+  "questionId": "022-1633",
+  "questionNumber": "022-1633",
   "stemHtml": "<p>When a TA is produced, how far away is the other aircraft?</p>",
   "options": {
     "a": "<p>5 seconds followed by conflict conflict.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>35-40 seconds followed by traffic traffic.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104822,
+    "number": "228827"
+  }
 }

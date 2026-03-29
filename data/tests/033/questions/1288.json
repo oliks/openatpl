@@ -1,7 +1,7 @@
 {
   "number": 1288,
-  "questionId": 111104,
-  "questionNumber": "339871",
+  "questionId": "033-1288",
+  "questionNumber": "033-1288",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - Chart \"E(LO)2\". <br /> \rYou are flying back from the oil rig K2\u0392-A to Amsterdam via airway L74, when the weather worsens. Which frequency would you monitor to check the weather conditions?</p>",
   "options": {
     "a": "<p>126.60 MHz</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/a9cebc75-dafe-4459-ab42-1e0c29a81226.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/a9cebc75-dafe-4459-ab42-1e0c29a81226.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111104,
+    "number": "339871"
+  }
 }

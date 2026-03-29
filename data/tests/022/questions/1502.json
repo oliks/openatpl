@@ -1,7 +1,7 @@
 {
   "number": 1502,
-  "questionId": 84792,
-  "questionNumber": "224073",
+  "questionId": "022-1502",
+  "questionNumber": "022-1502",
   "stemHtml": "<p>The aircraft you are flying is fitted with EFIS including PFD, ND and ECAM. Where would you see a Flight Warning System advisory message?</p>",
   "options": {
     "a": "<p>Central warning panel.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ND.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84792,
+    "number": "224073"
+  }
 }

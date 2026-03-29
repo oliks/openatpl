@@ -1,7 +1,7 @@
 {
   "number": 994,
-  "questionId": 84436,
-  "questionNumber": "338543",
+  "questionId": "033-0994",
+  "questionNumber": "033-0994",
   "stemHtml": "<p>What does the message \u201cEGNOS IS NOT AVAILABLE FOR LPV\u201d of the following NOTAM indicate?</p><p>Q) LSAS/QGAAU/I/NBO/A/000/999/4729N00933E005 <br>A) LSZR B) 1401071300 C) 1401071458 <br>E) EGNOS IS NOT AVAILABLE FOR LPV</p>",
   "options": {
     "a": "SBAS is unavailable for RNAV approaches to LNAV minima.",
@@ -10,5 +10,10 @@
     "d": "ABAS is unavailable for all approaches."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84436,
+    "number": "338543"
+  }
 }

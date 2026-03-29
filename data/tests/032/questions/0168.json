@@ -1,7 +1,7 @@
 {
   "number": 168,
-  "questionId": 69943,
-  "questionNumber": "321750",
+  "questionId": "032-0168",
+  "questionNumber": "032-0168",
   "stemHtml": "<p>If, after experiencing an engine failure when cruising at the absolute ceiling, an aeroplane is unable to maintain its cruising altitude, the procedure that should be adopted is\u2026</p>",
   "options": {
     "a": "Long range cruise descent.",
@@ -10,5 +10,10 @@
     "d": "Emergency descent procedure."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69943,
+    "number": "321750"
+  }
 }

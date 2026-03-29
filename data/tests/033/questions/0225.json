@@ -1,7 +1,7 @@
 {
   "number": 225,
-  "questionId": 71055,
-  "questionNumber": "333264",
+  "questionId": "033-0225",
+  "questionNumber": "033-0225",
   "stemHtml": "<p>Refer to figure or E(LO)2 chart from Jeppesen GSPRM 2017. <br>You are flying a Commercial Air Transport operation close to LELYSTAD aerodrome (EHLE, N52\u00b028' E005\u00b032'). To get your distance from the aerodrome, you want to tune in to the radio navigation aid at the aerodrome. What value do you to tune into and what is the identifier of this aid?</p>",
   "options": {
     "a": "The frequency is 326 kHz, and the identifier is LLS",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D373FC0F-E391-45AF-B64B-24D28600CFCF.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D373FC0F-E391-45AF-B64B-24D28600CFCF.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71055,
+    "number": "333264"
+  }
 }

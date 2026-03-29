@@ -1,7 +1,7 @@
 {
   "number": 808,
-  "questionId": 103239,
-  "questionNumber": "103760",
+  "questionId": "010-0808",
+  "questionNumber": "010-0808",
   "stemHtml": "<p>Which of the following is the best definition of screening?</p>",
   "options": {
     "a": "<p>Placing suspicious baggage, cargo, or packages behind a screen in the passenger lounge for isolation purposes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Detecting weapons and explosives that could be used to commit acts of unlawful interference.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103239,
+    "number": "103760"
+  }
 }

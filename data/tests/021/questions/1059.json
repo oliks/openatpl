@@ -1,7 +1,7 @@
 {
   "number": 1059,
-  "questionId": 163382,
-  "questionNumber": "215149",
+  "questionId": "021-1059",
+  "questionNumber": "021-1059",
   "stemHtml": "<p>A crew disconnects the IDG (Integrated Drive Generator) in flight because the generator frequency has become too low. What is the correct statement regarding the reconnection of the IDG? <br />  </p>",
   "options": {
     "a": "<p>Once disconnected in flight, the IDG cannot be reconnected and can only be reset on the ground by maintenance personnel.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The IDG can be reconnected in flight by selecting the reset button.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163382,
+    "number": "215149"
+  }
 }

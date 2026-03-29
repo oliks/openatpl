@@ -1,7 +1,7 @@
 {
   "number": 160,
-  "questionId": 85702,
-  "questionNumber": "314332",
+  "questionId": "031-0160",
+  "questionNumber": "031-0160",
   "stemHtml": "<p>The Basic Empty Mass (BEM) and the Basic Empty Mass Centre of Gravity (CG) position are noted in\u2026</p>",
   "options": {
     "a": "The load and trim sheet.",
@@ -10,5 +10,10 @@
     "d": "The weighing report."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85702,
+    "number": "314332"
+  }
 }

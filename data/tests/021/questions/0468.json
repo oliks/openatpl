@@ -1,7 +1,7 @@
 {
   "number": 468,
-  "questionId": 96192,
-  "questionNumber": "211718",
+  "questionId": "021-0468",
+  "questionNumber": "021-0468",
   "stemHtml": "Which of the following gives the correct definition and SI unit for electrical power (P)?",
   "options": {
     "a": "Electrical power is voltage (V) divided by current (I) (P = V/I). It is measured in watts (W).",
@@ -10,5 +10,10 @@
     "d": "Electrical power is current (I) divided by voltage (V) (P = I/V). It is measured in amperes (A)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96192,
+    "number": "211718"
+  }
 }

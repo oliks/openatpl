@@ -1,7 +1,7 @@
 {
   "number": 1218,
-  "questionId": 69182,
-  "questionNumber": "227958",
+  "questionId": "022-1218",
+  "questionNumber": "022-1218",
   "stemHtml": "<p>One of the main functionalities of a Flight Management System is the\u2026</p>",
   "options": {
     "a": "graphical representation of all aircraft systems.",
@@ -10,5 +10,10 @@
     "d": "construction of the three-dimensional aircraft trajectory."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69182,
+    "number": "227958"
+  }
 }

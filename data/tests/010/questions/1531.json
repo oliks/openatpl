@@ -1,7 +1,7 @@
 {
   "number": 1531,
-  "questionId": 84074,
-  "questionNumber": "103354",
+  "questionId": "010-1531",
+  "questionNumber": "010-1531",
   "stemHtml": "<p>When a flight crew reports information after a flight, it must be submitted to the AIS when it refers to\u2026</p>",
   "options": {
     "a": "The state or operation of air navigation services or items to report to the Safety Investigation Authority (SIA).",
@@ -10,5 +10,10 @@
     "d": "The presence of birds or inaccuracies in the Airline Operational Manual (AOM)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84074,
+    "number": "103354"
+  }
 }

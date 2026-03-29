@@ -1,7 +1,7 @@
 {
   "number": 638,
-  "questionId": 108157,
-  "questionNumber": "227699",
+  "questionId": "022-0638",
+  "questionNumber": "022-0638",
   "stemHtml": "<p>What type of temperature sensor is typically used for temperature measurements up to 500\u00b0C?</p>",
   "options": {
     "a": "<p>Thermocouple.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Expansion-type system.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108157,
+    "number": "227699"
+  }
 }

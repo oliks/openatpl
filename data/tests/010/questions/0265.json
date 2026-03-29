@@ -1,7 +1,7 @@
 {
   "number": 265,
-  "questionId": 66846,
-  "questionNumber": "103667",
+  "questionId": "010-0265",
+  "questionNumber": "010-0265",
   "stemHtml": "<p>What is the purpose of the final approach segment?</p>",
   "options": {
     "a": "To transition from the en-route phase to the approach phase.",
@@ -10,5 +10,10 @@
     "d": "To join the airways system with the ILS procedure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66846,
+    "number": "103667"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1651,
-  "questionId": 66826,
-  "questionNumber": "107486",
+  "questionId": "010-1651",
+  "questionNumber": "010-1651",
   "stemHtml": "What does the abbreviation OIS mean?",
   "options": {
     "a": "Obstacle Identification Slope.",
@@ -10,5 +10,10 @@
     "d": "Obstruction In Surface."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66826,
+    "number": "107486"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 181,
-  "questionId": 162967,
-  "questionNumber": "102308",
+  "questionId": "010-0181",
+  "questionNumber": "010-0181",
   "stemHtml": "<p>A family decides to take a private flight sharing all the flight expenses equally to all the occupants. What is the minimum licence that the pilot should hold?</p>",
   "options": {
     "a": "<p>CPL</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ATPL</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162967,
+    "number": "102308"
+  }
 }

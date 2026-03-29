@@ -1,7 +1,7 @@
 {
   "number": 1264,
-  "questionId": 82165,
-  "questionNumber": "337058",
+  "questionId": "033-1264",
+  "questionNumber": "033-1264",
   "stemHtml": "Refer to figure. <br /> To avoid a turbulent area you request ATC for clearance to climb to FL210. When you reach over WPT B you are maintaining FL210 with CAS of 160. What is the revised ETA at WPT C?",
   "options": {
     "a": "12:30",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2ECA5BB8-66EB-41E0-9802-7873FD303C24.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2ECA5BB8-66EB-41E0-9802-7873FD303C24.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82165,
+    "number": "337058"
+  }
 }

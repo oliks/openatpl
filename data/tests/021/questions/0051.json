@@ -1,7 +1,7 @@
 {
   "number": 51,
-  "questionId": 81185,
-  "questionNumber": "212835",
+  "questionId": "021-0051",
+  "questionNumber": "021-0051",
   "stemHtml": "<p>Which of the following are features of the anti-skid system?</p><p>1. Prevents brake application on touchdown<br>2. Steadily increases brake pressure as the aircraft slows<br>3. Release brake pressure as the brakes approach maximum temperature<br>4. Release brake pressure on some wheels on a boogie to allow continued braking on other wheels<br>5. Reduces the runway length requirement for take-off</p><p style=\"margin-left:7px;\"> </p>",
   "options": {
     "a": "1, 2 and 4.",
@@ -10,5 +10,10 @@
     "d": "3, 4 and 5."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81185,
+    "number": "212835"
+  }
 }

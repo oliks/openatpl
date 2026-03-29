@@ -1,7 +1,7 @@
 {
   "number": 966,
-  "questionId": 85178,
-  "questionNumber": "325235",
+  "questionId": "032-0966",
+  "questionNumber": "032-0966",
   "stemHtml": "<p>Unless otherwise specified, when landing on a runway with a downslope of 2.5%, the landing distances required should be increased by\u2026</p>",
   "options": {
     "a": "10%",
@@ -10,5 +10,10 @@
     "d": "5%"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85178,
+    "number": "325235"
+  }
 }

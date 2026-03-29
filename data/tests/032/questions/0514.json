@@ -1,7 +1,7 @@
 {
   "number": 514,
-  "questionId": 69877,
-  "questionNumber": "327669",
+  "questionId": "032-0514",
+  "questionNumber": "032-0514",
   "stemHtml": "How do lift and drag change during the take-off roll?",
   "options": {
     "a": "Lift increases, and drag decreases.",
@@ -10,5 +10,10 @@
     "d": "Lift and drag increase."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69877,
+    "number": "327669"
+  }
 }

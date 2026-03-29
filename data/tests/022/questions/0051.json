@@ -1,7 +1,7 @@
 {
   "number": 51,
-  "questionId": 110993,
-  "questionNumber": "229064",
+  "questionId": "022-0051",
+  "questionNumber": "022-0051",
   "stemHtml": "<p>Which of the following provides the functionality for the majority of datalink communication between an aircraft and ground stations?</p>",
   "options": {
     "a": "<p>ACARS</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADS-S</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110993,
+    "number": "229064"
+  }
 }

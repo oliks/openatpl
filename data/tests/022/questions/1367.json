@@ -1,7 +1,7 @@
 {
   "number": 1367,
-  "questionId": 109353,
-  "questionNumber": "225609",
+  "questionId": "022-1367",
+  "questionNumber": "022-1367",
   "stemHtml": "<p>What can be considered hardware in a computer?</p>",
   "options": {
     "a": "<p>Software running applications.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>CPDLC.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109353,
+    "number": "225609"
+  }
 }

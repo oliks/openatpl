@@ -1,7 +1,7 @@
 {
   "number": 172,
-  "questionId": 108182,
-  "questionNumber": "228394",
+  "questionId": "022-0172",
+  "questionNumber": "022-0172",
   "stemHtml": "<p>In computer terminology, which of the following terms describes a component that describes an operating system that can calculate, transfer information, and access memory?</p>",
   "options": {
     "a": "<p>Working memory</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Cache</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108182,
+    "number": "228394"
+  }
 }

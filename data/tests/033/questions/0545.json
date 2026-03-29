@@ -1,7 +1,7 @@
 {
   "number": 545,
-  "questionId": 163907,
-  "questionNumber": "334364",
+  "questionId": "033-0545",
+  "questionNumber": "033-0545",
   "stemHtml": "<p>Among other fuel amounts, the trip fuel also includes\u2026</p>",
   "options": {
     "a": "<p>Fuel from top of climb to top of descent, including any step climb/descent.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Fuel required for holding at destination.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163907,
+    "number": "334364"
+  }
 }

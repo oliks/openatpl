@@ -1,7 +1,7 @@
 {
   "number": 931,
-  "questionId": 82494,
-  "questionNumber": "107116",
+  "questionId": "010-0931",
+  "questionNumber": "010-0931",
   "stemHtml": "<p>On entering and joining a hold you make only right hand turns. What are you performing? </p>",
   "options": {
     "a": "<p>A direct entry with turns to the right.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An offset entry with turns to the left.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82494,
+    "number": "107116"
+  }
 }

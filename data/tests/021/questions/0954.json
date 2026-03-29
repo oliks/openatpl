@@ -1,7 +1,7 @@
 {
   "number": 954,
-  "questionId": 83598,
-  "questionNumber": "213251",
+  "questionId": "021-0954",
+  "questionNumber": "021-0954",
   "stemHtml": "Modern Lithium batteries have high energy density cells. If these are exposed to mechanical or thermal abuse, this can result in strong...",
   "options": {
     "a": "electric fields, leading to arcing incidents.",
@@ -10,5 +10,10 @@
     "d": "magnetic fields, leading to compass errors."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83598,
+    "number": "213251"
+  }
 }

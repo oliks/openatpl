@@ -1,7 +1,7 @@
 {
   "number": 722,
-  "questionId": 66743,
-  "questionNumber": "101184",
+  "questionId": "010-0722",
+  "questionNumber": "010-0722",
   "stemHtml": "The final authority as to the disposition of the aircraft is with the...",
   "options": {
     "a": "ATC controller whenever the aircraft is flying in controlled airspace.",
@@ -10,5 +10,10 @@
     "d": "<p>Aircraft owner.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66743,
+    "number": "101184"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 18,
-  "questionId": 84512,
-  "questionNumber": "333514",
+  "questionId": "033-0018",
+  "questionNumber": "033-0018",
   "stemHtml": "What statement below is correct regarding the difference between an RNAV STAR and an RNAV STAR overlay?",
   "options": {
     "a": "An RNAV STAR overlay will have a shorter route distance than an RNAV STAR as it has less constraints.",
@@ -10,5 +10,10 @@
     "d": "An RNAV STAR overlay will have a longer route distance than an RNAV STAR as it has less constraints."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84512,
+    "number": "333514"
+  }
 }

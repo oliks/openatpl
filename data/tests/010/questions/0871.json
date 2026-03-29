@@ -1,7 +1,7 @@
 {
   "number": 871,
-  "questionId": 77721,
-  "questionNumber": "107207",
+  "questionId": "010-0871",
+  "questionNumber": "010-0871",
   "stemHtml": "<p>Refer to figure. <br>The basic holding position shown in the figure will be used\u2026</p>",
   "options": {
     "a": "at each taxiway intersection.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/BE64080C-54FF-4BEA-B93B-54D200D6BE65.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/BE64080C-54FF-4BEA-B93B-54D200D6BE65.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77721,
+    "number": "107207"
+  }
 }

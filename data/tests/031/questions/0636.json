@@ -1,7 +1,7 @@
 {
   "number": 636,
-  "questionId": 69328,
-  "questionNumber": "313651",
+  "questionId": "031-0636",
+  "questionNumber": "031-0636",
   "stemHtml": "If the Centre of Gravity of an aeroplane moves forward during flight, the elevator control will become:",
   "options": {
     "a": "heavier making the aeroplane more difficult to manoeuvre in pitch.",
@@ -10,5 +10,10 @@
     "d": "heavier making the aeroplane more easy to manoeuvre in pitch."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69328,
+    "number": "313651"
+  }
 }

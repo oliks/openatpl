@@ -1,7 +1,7 @@
 {
   "number": 535,
-  "questionId": 106047,
-  "questionNumber": "109490",
+  "questionId": "010-0535",
+  "questionNumber": "010-0535",
   "stemHtml": "<p>Aircraft 1 is flying in a mountainous area at an altitude of 5000 ft AGL. Aircraft 2 is flying in the same area at 1000 ft AGL. What are the ground features the pilots should choose as check points for their navigation?</p>",
   "options": {
     "a": "<p>1: large lake <br /> \r2: 200 ft high mast</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1: path <br /> \r2: large lake</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106047,
+    "number": "109490"
+  }
 }

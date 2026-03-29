@@ -1,7 +1,7 @@
 {
   "number": 896,
-  "questionId": 67087,
-  "questionNumber": "106534",
+  "questionId": "010-0896",
+  "questionNumber": "010-0896",
   "stemHtml": "ICAO Annex 14. The runway strip...",
   "options": {
     "a": "has the same length as the runway.",
@@ -10,5 +10,10 @@
     "d": "defines the dimensions of the ILS critical area."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67087,
+    "number": "106534"
+  }
 }

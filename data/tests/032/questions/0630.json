@@ -1,7 +1,7 @@
 {
   "number": 630,
-  "questionId": 70124,
-  "questionNumber": "326373",
+  "questionId": "032-0630",
+  "questionNumber": "032-0630",
   "stemHtml": "<p>During certification test flights for a turbojet aeroplane, the actual measured take-off runs from brake release to a point equidistant between the point at which V<strong><sub>LOF</sub></strong> is reached and the point at which the aeroplane is 35 feet above the take-off surface are:</p><p>1747 m, all engines operating <br>1950 m, with the critical engine failure recognised at V<strong><sub>1</sub>,</strong> the other factors remaining unchanged.</p><p>Considering both possibilities to determine the take-off run (TOR). The certificated value of the Take-off Run is\u2026</p>",
   "options": {
     "a": "2009 m.",
@@ -10,5 +10,10 @@
     "d": "1950 m."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70124,
+    "number": "326373"
+  }
 }

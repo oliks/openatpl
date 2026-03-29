@@ -1,7 +1,7 @@
 {
   "number": 616,
-  "questionId": 82244,
-  "questionNumber": "224063",
+  "questionId": "022-0616",
+  "questionNumber": "022-0616",
   "stemHtml": "<p>What device does a yaw damper require?</p>",
   "options": {
     "a": "rudder sensor.",
@@ -10,5 +10,10 @@
     "d": "flight augmentation generator."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82244,
+    "number": "224063"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1301,
-  "questionId": 68102,
-  "questionNumber": "213447",
+  "questionId": "021-1301",
+  "questionNumber": "021-1301",
   "stemHtml": "Which statement concerning oxygen on board of passenger transport aeroplanes is correct?",
   "options": {
     "a": "Portable oxygen bottles are primarily intended for use in case the chemical oxygen generators fail.",
@@ -10,5 +10,10 @@
     "d": "A chemical oxygen generator is able to provide oxygen for at least one hour."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68102,
+    "number": "213447"
+  }
 }

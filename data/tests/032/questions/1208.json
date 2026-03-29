@@ -1,7 +1,7 @@
 {
   "number": 1208,
-  "questionId": 110489,
-  "questionNumber": "324573",
+  "questionId": "032-1208",
+  "questionNumber": "032-1208",
   "stemHtml": "<p>Frost is...</p>",
   "options": {
     "a": "<p>Ice created from airborne moisture that freezes over the runway surface giving it a granular texture.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The direct freezing of snowflakes onto a surface.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110489,
+    "number": "324573"
+  }
 }

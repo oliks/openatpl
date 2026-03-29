@@ -1,7 +1,7 @@
 {
   "number": 990,
-  "questionId": 103276,
-  "questionNumber": "228384",
+  "questionId": "022-0990",
+  "questionNumber": "022-0990",
   "stemHtml": "<p>An autothrottle operating in SPEED mode (SPD) will\u2026</p>",
   "options": {
     "a": "<p>Hold a fixed thrust, and the pilot has to adjust the speed using the manual flight controls.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Hold a selected airspeed.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103276,
+    "number": "228384"
+  }
 }

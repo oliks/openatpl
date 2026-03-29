@@ -1,7 +1,7 @@
 {
   "number": 844,
-  "questionId": 70279,
-  "questionNumber": "321212",
+  "questionId": "032-0844",
+  "questionNumber": "032-0844",
   "stemHtml": "<p>Reduced take-off thrust should normally not be used when\u2026</p>",
   "options": {
     "a": "the OAT is ISA +10\u00b0C.",
@@ -10,5 +10,10 @@
     "d": "anti skid is not usable."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70279,
+    "number": "321212"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1868,
-  "questionId": 67548,
-  "questionNumber": "217489",
+  "questionId": "021-1868",
+  "questionNumber": "021-1868",
   "stemHtml": "When using magnetic-measuring-type dip sticks, the quantity of fuel in the aircraft is determined by using the measurements...",
   "options": {
     "a": "from the dip sticks and the current OAT.",
@@ -10,5 +10,10 @@
     "d": "directly from the dip sticks only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67548,
+    "number": "217489"
+  }
 }

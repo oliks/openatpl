@@ -1,7 +1,7 @@
 {
   "number": 1237,
-  "questionId": 83925,
-  "questionNumber": "104684",
+  "questionId": "010-1237",
+  "questionNumber": "010-1237",
   "stemHtml": "<p>A heavy aircraft is landing behind a light aircraft. ATC asks the heavy aircraft to reduce 20 kt. Why?</p>",
   "options": {
     "a": "<p>The pilot shall NOT receive a landing clearance and will be expected to land after the preceding aircraft vacates the runway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The pilot must NOT delay the approach and must maintain high speed until at least 4 NM to touchdown.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83925,
+    "number": "104684"
+  }
 }

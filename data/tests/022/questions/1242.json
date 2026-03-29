@@ -1,7 +1,7 @@
 {
   "number": 1242,
-  "questionId": 69157,
-  "questionNumber": "224601",
+  "questionId": "022-1242",
+  "questionNumber": "022-1242",
   "stemHtml": "<p>On a Fly-By-Wire aeroplane, what does the automatic pitch trim system do?</p>",
   "options": {
     "a": "If the PF changes pitch attitude and, at the desired attitude, releases control pressure, the system holds that new attitude.",
@@ -10,5 +10,10 @@
     "d": "It performs the rotation during take-off."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69157,
+    "number": "224601"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 16,
-  "questionId": 68708,
-  "questionNumber": "224769",
+  "questionId": "022-0016",
+  "questionNumber": "022-0016",
   "stemHtml": "<p>Given:</p><p>MH = magnetic heading of the aircraft       <br />      Omega = yawing rate of the aircraft</p><p>The yaw damper computer sends a motion order to the rudder if\u2026</p>",
   "options": {
     "a": "the derivative of MH with respect to time is not equal to zero.",
@@ -10,5 +10,10 @@
     "d": "the derivative of Omega with respect to time is not equal to zero."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68708,
+    "number": "224769"
+  }
 }

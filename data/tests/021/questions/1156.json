@@ -1,7 +1,7 @@
 {
   "number": 1156,
-  "questionId": 84539,
-  "questionNumber": "219631",
+  "questionId": "021-1156",
+  "questionNumber": "021-1156",
   "stemHtml": "<p>Which of these statements is correct/incorrect regarding fly by wire flight controls?</p><p>1. When two inputs in a fly by wire system are detected they are not mixed together. The commander's inputs are given the priority electronically<br>2. When two inputs are detected they are mixed together and if the combined inputs are a full deflection, the result will be not more than a full single stick deflection</p>",
   "options": {
     "a": "1 is correct; 2 is correct.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect; 2 is incorrect."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84539,
+    "number": "219631"
+  }
 }

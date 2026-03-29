@@ -1,7 +1,7 @@
 {
   "number": 398,
-  "questionId": 96648,
-  "questionNumber": "333440",
+  "questionId": "033-0398",
+  "questionNumber": "033-0398",
   "stemHtml": "<p>Refer to figure or CAP697 Figure 4.4.<br />\r\nDetermine the final reserve fuel and corresponding time for a twin jet aircraft under performance class A performing a Commercial Air Transport flight, given the following information:</p>\r\n\r\n<p>Arrival mass at alternate: 50 000 kg<br />\r\nArrival mass at destination: 52 550 kg<br />\r\nAlternate elevation: MSL<br />\r\nDestination elevation: 1500 ft</p>\r\n\r\n<p> </p>\r\n",
   "options": {
     "a": "1180 kg, 15 minutes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/be61d92f-2d8e-4847-b86a-6dc74c967e97.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/be61d92f-2d8e-4847-b86a-6dc74c967e97.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96648,
+    "number": "333440"
+  }
 }

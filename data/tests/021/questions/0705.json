@@ -1,7 +1,7 @@
 {
   "number": 705,
-  "questionId": 67614,
-  "questionNumber": "212602",
+  "questionId": "021-0705",
+  "questionNumber": "021-0705",
   "stemHtml": "<p>In a typical bootstrap cooling system, the supply air is\u2026</p>",
   "options": {
     "a": "<p>passed across an expansion turbine, then directly to the heat exchanger.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>compressed, passed through a secondary heat exchanger, and then across an expansion turbine.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67614,
+    "number": "212602"
+  }
 }

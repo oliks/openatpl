@@ -1,7 +1,7 @@
 {
   "number": 47,
-  "questionId": 70330,
-  "questionNumber": "338703",
+  "questionId": "033-0047",
+  "questionNumber": "033-0047",
   "stemHtml": "<p>The letter \"L\" shall be inserted into \"item 9\" of the ICAO FPL form (wake turbulence category) when the maximum certificated take-off mass of an aircraft is less or equal to\u2026</p>",
   "options": {
     "a": "30 000 kg.",
@@ -10,5 +10,10 @@
     "d": "14 000 kg."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70330,
+    "number": "338703"
+  }
 }

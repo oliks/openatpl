@@ -1,7 +1,7 @@
 {
   "number": 393,
-  "questionId": 163449,
-  "questionNumber": "214684",
+  "questionId": "021-0393",
+  "questionNumber": "021-0393",
   "stemHtml": "<p>What is the operating principle of pneumatic de-icing boots fitted to the leading edges of an aircraft?</p>",
   "options": {
     "a": "<p>Pushing bleed air through the boots to break away the ice.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pushing engine oil through the boots to melt the ice away.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163449,
+    "number": "214684"
+  }
 }

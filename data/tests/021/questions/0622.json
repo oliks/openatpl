@@ -1,7 +1,7 @@
 {
   "number": 622,
-  "questionId": 77986,
-  "questionNumber": "218242",
+  "questionId": "021-0622",
+  "questionNumber": "021-0622",
   "stemHtml": "What causes stress?",
   "options": {
     "a": "Aging.",
@@ -10,5 +10,10 @@
     "d": "Cycle loads."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77986,
+    "number": "218242"
+  }
 }

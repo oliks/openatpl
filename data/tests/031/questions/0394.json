@@ -1,7 +1,7 @@
 {
   "number": 394,
-  "questionId": 69584,
-  "questionNumber": "313387",
+  "questionId": "031-0394",
+  "questionNumber": "031-0394",
   "stemHtml": "<p>Refer to figures. <br>The company uses the standard passenger mass systems (see annex) allowed by regulations. The flight is not a holiday charter. In these conditions, the maximum cargo that may be loaded is\u2026</p><p>Maximum Allowed Take-Off Mass Limit: 37 200 kg <br>Dry Operating Mass: 21 600 kg <br>Take-Off Fuel: 8500 kg <br>Baggage: 880 kg <br>Passengers: 33 male, 32 female, 5 children</p>",
   "options": {
     "a": "901 kg",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/031/cbf94800-29d1-4bcd-b5cc-97f4fcb0f77e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/cbf94800-29d1-4bcd-b5cc-97f4fcb0f77e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69584,
+    "number": "313387"
+  }
 }

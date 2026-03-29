@@ -1,7 +1,7 @@
 {
   "number": 654,
-  "questionId": 140959,
-  "questionNumber": "224772",
+  "questionId": "022-0654",
+  "questionNumber": "022-0654",
   "stemHtml": "<p>When flying through narrow valleys or terrain funnels the Venturi effect can influence the indications of an airspeed indicator (ASI). Which of the following statements is correct?</p>",
   "options": {
     "a": "<p>The ASI indicates values that are too high.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The ASI shows increasingly lower values, the narrower the valley becomes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140959,
+    "number": "224772"
+  }
 }

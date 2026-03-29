@@ -1,7 +1,7 @@
 {
   "number": 617,
-  "questionId": 115301,
-  "questionNumber": "324838",
+  "questionId": "032-0617",
+  "questionNumber": "032-0617",
   "stemHtml": "<p>Refer to figure. <br /> \rGiven the following information, calculate the climb gradient after take-off</p>\r\r<p>Take-off Mass: 10 500 Ibs <br /> \rPressure Altitude: 3000 ft <br /> \rOAT: 10\u00b0C <br /> \rFlaps: Clean</p>",
   "options": {
     "a": "<p>7.5%</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/ad5cc3e4-2c9b-470b-9f54-f7f9fc28ba53.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/ad5cc3e4-2c9b-470b-9f54-f7f9fc28ba53.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 115301,
+    "number": "324838"
+  }
 }

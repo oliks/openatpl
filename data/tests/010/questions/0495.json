@@ -1,7 +1,7 @@
 {
   "number": 495,
-  "questionId": 66742,
-  "questionNumber": "108427",
+  "questionId": "010-0495",
+  "questionNumber": "010-0495",
   "stemHtml": "In which case may the pilot-in-command depart from the rules of the air?",
   "options": {
     "a": "In case of sick or injured persons aboard.",
@@ -10,5 +10,10 @@
     "d": "In circumstances that render such deviation necessary due to bad weather conditions."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66742,
+    "number": "108427"
+  }
 }

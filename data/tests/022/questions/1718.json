@@ -1,7 +1,7 @@
 {
   "number": 1718,
-  "questionId": 80186,
-  "questionNumber": "222771",
+  "questionId": "022-1718",
+  "questionNumber": "022-1718",
   "stemHtml": "<p>How is \u201cother traffic\" displayed on the display device of the TCAS 2 (Traffic Collision Avoidance System)?</p>",
   "options": {
     "a": "By a blue or white empty lozenge.",
@@ -10,5 +10,10 @@
     "d": "By a red full square."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80186,
+    "number": "222771"
+  }
 }

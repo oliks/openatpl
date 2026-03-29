@@ -1,7 +1,7 @@
 {
   "number": 1542,
-  "questionId": 66517,
-  "questionNumber": "225821",
+  "questionId": "022-1542",
+  "questionNumber": "022-1542",
   "stemHtml": "<p>The magnetic compass shows\u2026</p>",
   "options": {
     "a": "magnetic track.",
@@ -10,5 +10,10 @@
     "d": "magnetic heading."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66517,
+    "number": "225821"
+  }
 }

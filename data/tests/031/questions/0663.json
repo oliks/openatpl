@@ -1,7 +1,7 @@
 {
   "number": 663,
-  "questionId": 103180,
-  "questionNumber": "317227",
+  "questionId": "031-0663",
+  "questionNumber": "031-0663",
   "stemHtml": "<p>Refer to figure. <br /> \rThe maximum compartment running load in the aft cargo compartment at BA950 is _____ kg/in.</p>",
   "options": {
     "a": "<p>68</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/e59783b3-5cf5-4153-9bd1-cb62d7aa693a.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/e59783b3-5cf5-4153-9bd1-cb62d7aa693a.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103180,
+    "number": "317227"
+  }
 }

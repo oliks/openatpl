@@ -1,7 +1,7 @@
 {
   "number": 159,
-  "questionId": 67266,
-  "questionNumber": "102951",
+  "questionId": "010-0159",
+  "questionNumber": "010-0159",
   "stemHtml": "<p>A NOTAM shall be originated and issued concerning the following information:</p>\r\r<p>1. runway marking work, when the equipment used can be removed when necessary <br /> \r2. runway marking work, when aircraft operations can safely be conducted on other available runways <br /> \r3. routine maintenance work on aprons and taxiways which does not affect the safe movement of aircraft <br /> \r4. occurrence or correction of major defects or impediments in the manoeuvring area <br /> \r5. interruption of or return to operation of major components of aerodrome lighting systems <br /> \r6. presence of hazards which affect air navigation <br /> \r7. observations or forecasts of space weather phenomena</p>",
   "options": {
     "a": "<p>1, 3, 4, 5, 6, 7</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3, 4, 5, 6, 7</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67266,
+    "number": "102951"
+  }
 }

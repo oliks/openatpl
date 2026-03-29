@@ -1,7 +1,7 @@
 {
   "number": 1192,
-  "questionId": 112071,
-  "questionNumber": "335165",
+  "questionId": "033-1192",
+  "questionNumber": "033-1192",
   "stemHtml": "<p>Refer to figures or TROMSO - Charts 10-2B, 10-2C, 10-2D, and 10-2E from Jeppesen GSPRM 2017. Which STARs may be available, if the surface wind comes from 350\u00b0M?</p>",
   "options": {
     "a": "<p>AMIMO 4L; AMIMO 9X; AMIMO 1W</p>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/ddacf61a-dffd-4a02-a5b1-47e425813c95.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/ddacf61a-dffd-4a02-a5b1-47e425813c95.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112071,
+    "number": "335165"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 277,
-  "questionId": 66604,
-  "questionNumber": "219924",
+  "questionId": "021-0277",
+  "questionNumber": "021-0277",
   "stemHtml": "<div>\n<p>Organise the following environments from the highest to the lowest rates of corrosion:</p>\n\n<p>1. Desert <br /> \n2. Mediterranean <br /> \n3. Rainforest <br /> \n4. Arctic</p>\n</div>",
   "options": {
     "a": "2, 3, 1 and 4.",
@@ -10,5 +10,10 @@
     "d": "3, 2, 1 and 4."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66604,
+    "number": "219924"
+  }
 }

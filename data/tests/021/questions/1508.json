@@ -1,7 +1,7 @@
 {
   "number": 1508,
-  "questionId": 68095,
-  "questionNumber": "214449",
+  "questionId": "021-1508",
+  "questionNumber": "021-1508",
   "stemHtml": "<p>An impulse coupling is installed on a magneto of a piston engine to\u2026</p>",
   "options": {
     "a": "<p>facilitate the quick removal and installation of magnetos.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>absorb starting loads and ensure a dead cut on stopping.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68095,
+    "number": "214449"
+  }
 }

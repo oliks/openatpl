@@ -1,7 +1,7 @@
 {
   "number": 1643,
-  "questionId": 151478,
-  "questionNumber": "223171",
+  "questionId": "022-1643",
+  "questionNumber": "022-1643",
   "stemHtml": "<p>In an aircraft fitted with a Flight Management System (FMS) and Inertial Reference Units (IRU's), what sources of information does the FMS use to calculate its position?</p>",
   "options": {
     "a": "<p>GPS and VOR inputs</p>",
@@ -10,5 +10,10 @@
     "d": "<p>IRU, GPS, and VOR/DME inputs</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 151478,
+    "number": "223171"
+  }
 }

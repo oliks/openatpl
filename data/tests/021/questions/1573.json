@@ -1,7 +1,7 @@
 {
   "number": 1573,
-  "questionId": 109375,
-  "questionNumber": "216863",
+  "questionId": "021-1573",
+  "questionNumber": "021-1573",
   "stemHtml": "<p>In a split-bus electrical system during normal operations, each generator supplies power to...</p>",
   "options": {
     "a": "<p>each AC bus and their own DC bus.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>their own AC bus and each DC bus.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109375,
+    "number": "216863"
+  }
 }

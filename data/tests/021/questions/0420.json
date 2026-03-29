@@ -1,7 +1,7 @@
 {
   "number": 420,
-  "questionId": 109641,
-  "questionNumber": "217159",
+  "questionId": "021-0420",
+  "questionNumber": "021-0420",
   "stemHtml": "<p>How can the cabin altitude be checked in a pressurised aircraft?</p>",
   "options": {
     "a": "<p>A separate cabin altimeter</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Differential pressure gauge</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109641,
+    "number": "217159"
+  }
 }

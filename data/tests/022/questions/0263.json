@@ -1,7 +1,7 @@
 {
   "number": 263,
-  "questionId": 80209,
-  "questionNumber": "229313",
+  "questionId": "022-0263",
+  "questionNumber": "022-0263",
   "stemHtml": "<p>How can you describe a bar magnet?</p>\r\r<p>1. Opposite poles attract <br /> \r2. The North pole of a freely suspended bar magnet would turn towards North, which is a South magnetic pole <br /> \r3. Magnetic force is strongest in the centre of the magnet <br /> \r4. Magnetic force is strongest a short way in from the poles of the magnet <br /> \r5. Opposite poles repel <br /> \r6. A freely suspended magnet would dip down towards the near pole</p>",
   "options": {
     "a": "<p>1, 2, 4 and 6.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3, 4, 5 and 6.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80209,
+    "number": "229313"
+  }
 }

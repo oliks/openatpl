@@ -1,7 +1,7 @@
 {
   "number": 928,
-  "questionId": 70687,
-  "questionNumber": "331371",
+  "questionId": "033-0928",
+  "questionNumber": "033-0928",
   "stemHtml": "<p>Given the following NOTAM information, what changes apply to the missed approach procedure on RWY 24?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EDDK KOLN/BONN<<< DUE TO MAINT OF WYP VOR THE FLW CHANGES TO APCH AND MISSED APCH PROC OCCUR: RWY 14L: AMEND CONVENTIONAL MISSED APCH TO READ: CLIMB STRAIGHT AHEAD 3000, WHEN PASSING 2000 OR 2.8 DME KBO, WHICHEVER IS LATER, LT DIRECT TO WYP INT. RWY 24: AMEND CONVENTIONAL MISSED APCH TO READ: CLIMB STRAIGHT AHEAD TO 2100 FT MSL OR 3.5 DME KBO, WHICHEVER IS LATER, RT DIRECT TO WYP INT CLIMBING 5000FT MSL. REF AD 2 EDDK 4-2-1, 4-4-1, 4-2-2, 4-4-2, 4-6-2 AND 4-6-4 ALL DATED 10 DEC 2015.: NOTAM ED/A0709/16 ILS OUTER MARKER RWY 24: CHECK DME READING ADDITIONALLY &MARKER NOT REMOTE CONTROLLED.: NOTAM ED/A0699/16 >>> END OF BULLETIN <<<</span></p>\n\n<div> </div>",
   "options": {
     "a": "WHEN PASSING 2000 OR 2.8 DME KBO, WHICHEVER IS LATER, LT DIRECT TO WYP INT.",
@@ -10,5 +10,10 @@
     "d": "CHECK DME READING ADDITIONALLY MARKER NOT REMOTE CONTROLLED"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70687,
+    "number": "331371"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 182,
-  "questionId": 108727,
-  "questionNumber": "226066",
+  "questionId": "022-0182",
+  "questionNumber": "022-0182",
   "stemHtml": "<p>The most comprehensive definition of software includes using (1) _____ and (2) _____ to complete tasks in a computer.</p>",
   "options": {
     "a": "<p>(1) programming instructions; (2) data</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) binary data; (2) machine code</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108727,
+    "number": "226066"
+  }
 }

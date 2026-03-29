@@ -1,7 +1,7 @@
 {
   "number": 484,
-  "questionId": 95974,
-  "questionNumber": "109677",
+  "questionId": "010-0484",
+  "questionNumber": "010-0484",
   "stemHtml": "A pilot's license holder applies for an aerobatic rating. The holder must undergo a training course at an ATO or DTO, and must be aware that the privileges of the aerobatic rating...",
   "options": {
     "a": "may be exercised for the aircraft category in which the flight instruction was completed.",
@@ -10,5 +10,10 @@
     "d": "include banner-towing, and may be exercised on the aircraft category in which the flight instruction was completed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95974,
+    "number": "109677"
+  }
 }

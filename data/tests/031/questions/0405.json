@@ -1,7 +1,7 @@
 {
   "number": 405,
-  "questionId": 69360,
-  "questionNumber": "312650",
+  "questionId": "031-0405",
+  "questionNumber": "031-0405",
   "stemHtml": "Refer to figure.  <br />  Using the annex, determine what is the maximum floor loading in the aft cargo compartment between BA 940 and BA 997.",
   "options": {
     "a": "414 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/9B60952E-7748-40AA-89D4-7D7FC528AF74.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/9B60952E-7748-40AA-89D4-7D7FC528AF74.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69360,
+    "number": "312650"
+  }
 }

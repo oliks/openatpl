@@ -1,7 +1,7 @@
 {
   "number": 7,
-  "questionId": 80230,
-  "questionNumber": "222792",
+  "questionId": "022-0007",
+  "questionNumber": "022-0007",
   "stemHtml": "What is the principle of an INS?",
   "options": {
     "a": "Gyros and accelerometers on a single platform with at least two accelerometers.",
@@ -10,5 +10,10 @@
     "d": "Gyros and accelerometers on a separate platforms."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80230,
+    "number": "222792"
+  }
 }

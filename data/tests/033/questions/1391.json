@@ -1,7 +1,7 @@
 {
   "number": 1391,
-  "questionId": 100358,
-  "questionNumber": "336627",
+  "questionId": "033-1391",
+  "questionNumber": "033-1391",
   "stemHtml": "How can we use/insert a motorway intersection as a GNSS waypoint?",
   "options": {
     "a": "Add a motorway as a user waypoint using a bearing and distance from a GNSS waypoint.",
@@ -10,5 +10,10 @@
     "d": "You can choose the motorway intersection as a waypoint since all motorway intersections are already GNSS waypoints."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100358,
+    "number": "336627"
+  }
 }

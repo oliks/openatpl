@@ -1,7 +1,7 @@
 {
   "number": 1276,
-  "questionId": 82774,
-  "questionNumber": "213538",
+  "questionId": "021-1276",
+  "questionNumber": "021-1276",
   "stemHtml": "An anti-ice system\u2026",
   "options": {
     "a": "<p>prevents the formation of ice on engine inlets, wing leading edges, and pitot probes.</p>",
@@ -10,5 +10,10 @@
     "d": "removes ice that had formed on the engine inlets and fuselage."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82774,
+    "number": "213538"
+  }
 }

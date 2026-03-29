@@ -1,7 +1,7 @@
 {
   "number": 278,
-  "questionId": 84321,
-  "questionNumber": "327569",
+  "questionId": "032-0278",
+  "questionNumber": "032-0278",
   "stemHtml": "<p>With regards to the 4th segment of the net take-off flight path, which of the following statements are true?</p><p>1. Flaps are retracted<br>2. Flaps and slats are extended<br>3. Take off thrust is set on live engines<br>4. Max continuous thrust is set on live engines<br>5. It ends below 1500 ft<br>6. It ends at or above 1500 ft</p>",
   "options": {
     "a": "2, 4 and 6.",
@@ -10,5 +10,10 @@
     "d": "1, 3 and 6."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84321,
+    "number": "327569"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 755,
-  "questionId": 68735,
-  "questionNumber": "229496",
+  "questionId": "022-0755",
+  "questionNumber": "022-0755",
   "stemHtml": "A ring laser gyro is:",
   "options": {
     "a": "an optical accelerometer.",
@@ -10,5 +10,10 @@
     "d": "a device which measures the earth rate precession."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68735,
+    "number": "229496"
+  }
 }

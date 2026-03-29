@@ -1,7 +1,7 @@
 {
   "number": 1019,
-  "questionId": 67130,
-  "questionNumber": "109360",
+  "questionId": "010-1019",
+  "questionNumber": "010-1019",
   "stemHtml": "Lighting of objects \u2013 Low-intensity obstacle lights on vehicles other than those associated with emergency or security shall be..",
   "options": {
     "a": "fixed red.",
@@ -10,5 +10,10 @@
     "d": "flashing blue."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67130,
+    "number": "109360"
+  }
 }

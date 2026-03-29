@@ -1,7 +1,7 @@
 {
   "number": 480,
-  "questionId": 84424,
-  "questionNumber": "322974",
+  "questionId": "032-0480",
+  "questionNumber": "032-0480",
   "stemHtml": "<p>Refer to figure or CAP698 file 4.31.<br />\r\nAn MRJT aeroplane is landing on runway 25 at an airport which has a long, dry runway with no performance restrictions. The runway has been chosen because of its negligible taxi distance after landing. The planned turnaround time is 25 minutes. Given the following information, is this turnaround time achievable?</p>\r\n\r\n<p>Landing mass: 51 000 kg<br />\r\nV<strong><sub>REF</sub></strong>: 132 kt<br />\r\nSurface Wind: 070\u00b0/6 kt (use 50% of headwind component or 150% of tailwind component as applicable)<br />\r\nAirfield Elevation: 280 ft<br />\r\nQNH: 1013 hPa<br />\r\nOAT: +19\u00b0C</p>\r\n",
   "options": {
     "a": "No, reverse thrust cannot be used for credit during landing and most conservative braking must be accounted for, requiring an inspection of the fuse plugs after 30 minutes.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/D52A7D18-FF4B-491B-9A6E-F4879562E999.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/D52A7D18-FF4B-491B-9A6E-F4879562E999.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84424,
+    "number": "322974"
+  }
 }

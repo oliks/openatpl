@@ -1,7 +1,7 @@
 {
   "number": 167,
-  "questionId": 159419,
-  "questionNumber": "218476",
+  "questionId": "021-0167",
+  "questionNumber": "021-0167",
   "stemHtml": "<p>On a transport aircraft equipped with integrated drive generators (IDGs), how is the AC generator disconnected during normal operation?</p>",
   "options": {
     "a": "<p>By selecting the corresponding GEN switch OFF, which opens the generator line contractor. <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>By pulling a circuit breaker.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159419,
+    "number": "218476"
+  }
 }

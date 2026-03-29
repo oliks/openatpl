@@ -1,7 +1,7 @@
 {
   "number": 615,
-  "questionId": 106449,
-  "questionNumber": "315745",
+  "questionId": "031-0615",
+  "questionNumber": "031-0615",
   "stemHtml": "<p>The CG of an aircraft is on the forward limit. Which of the following is a probable outcome?</p>",
   "options": {
     "a": "<p>There may not be enough forward stick force to keep the aircraft level.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Deep stall caused by insufficient tail lift.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106449,
+    "number": "315745"
+  }
 }

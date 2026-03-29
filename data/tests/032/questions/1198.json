@@ -1,7 +1,7 @@
 {
   "number": 1198,
-  "questionId": 81107,
-  "questionNumber": "321494",
+  "questionId": "032-1198",
+  "questionNumber": "032-1198",
   "stemHtml": "<p>An Operator is considering Johannesburg international airport as a new cargo destination. The aerodrome is at approximately 5500 ft above mean sea level, and in summer the temperatures can reach 30\u00b0C. What effect should the operator consider these conditions might have on the maximum landing mass compared to standard atmosphere conditions at an aerodrome at mean sea level?</p>",
   "options": {
     "a": "There is NO effect on landing mass because standard atmosphere conditions are used when calculating the maximum landing mass.",
@@ -10,5 +10,10 @@
     "d": "Warmer ambient temperatures affect the landing distance but NOT the landing mass."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81107,
+    "number": "321494"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1132,
-  "questionId": 69711,
-  "questionNumber": "326126",
+  "questionId": "032-1132",
+  "questionNumber": "032-1132",
   "stemHtml": "<p>How does runway slope affect allowable take-off mass, assuming other factors remain constant and not limiting?</p>",
   "options": {
     "a": "<p>A downhill slope increases allowable take-off mass.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A downhill slope decreases allowable take-off mass.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69711,
+    "number": "326126"
+  }
 }

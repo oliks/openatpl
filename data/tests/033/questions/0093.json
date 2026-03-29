@@ -1,7 +1,7 @@
 {
   "number": 93,
-  "questionId": 108608,
-  "questionNumber": "331001",
+  "questionId": "033-0093",
+  "questionNumber": "033-0093",
   "stemHtml": "<p>What is the range calculation from CAP697 for class B multi-engine aircraft based on?</p>",
   "options": {
     "a": "<p>It is applicable for all temperatures</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It is based on the ground range</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108608,
+    "number": "331001"
+  }
 }

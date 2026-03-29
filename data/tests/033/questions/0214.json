@@ -1,7 +1,7 @@
 {
   "number": 214,
-  "questionId": 107211,
-  "questionNumber": "335158",
+  "questionId": "033-0214",
+  "questionNumber": "033-0214",
   "stemHtml": "<p>In the Flight Plan, which frequency corresponds to the UHF (Ultra High Frequency) emergency frequency?</p>",
   "options": {
     "a": "<p>121.5 MHz</p>",
@@ -10,5 +10,10 @@
     "d": "<p>118.0 MHz</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107211,
+    "number": "335158"
+  }
 }

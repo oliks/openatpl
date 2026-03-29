@@ -1,7 +1,7 @@
 {
   "number": 889,
-  "questionId": 81872,
-  "questionNumber": "328314",
+  "questionId": "032-0889",
+  "questionNumber": "032-0889",
   "stemHtml": "<p>From FL50 to 500 ft above the destination aerodrome, a multi-engined piston (MEP) aeroplane performs a steady descent, maintaining a constant speed of 120 kt IAS. During this descent, the \u2018\u2019Power Required vs. TAS\u2019\u2019 curve will move (1) _____ and the \u2018\u2019Power Available vs. TAS\u2019\u2019 curve will move (2) _____.</p>\r\n",
   "options": {
     "a": "(1) up and right; (2) down and right",
@@ -10,5 +10,10 @@
     "d": "(1) down and left; (2) up and left"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81872,
+    "number": "328314"
+  }
 }

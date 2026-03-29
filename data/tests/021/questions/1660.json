@@ -1,7 +1,7 @@
 {
   "number": 1660,
-  "questionId": 67985,
-  "questionNumber": "216383",
+  "questionId": "021-1660",
+  "questionNumber": "021-1660",
   "stemHtml": "<p>If the automatic control of an air conditioning system fails\u2026</p>",
   "options": {
     "a": "manual control can be selected but this is limited to `hot air` or `cold air` only.",
@@ -10,5 +10,10 @@
     "d": "the pilot can revert to manual control and set the control valve to the required setting."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67985,
+    "number": "216383"
+  }
 }

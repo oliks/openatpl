@@ -1,7 +1,7 @@
 {
   "number": 320,
-  "questionId": 82174,
-  "questionNumber": "316283",
+  "questionId": "031-0320",
+  "questionNumber": "031-0320",
   "stemHtml": "<p>The CG position of an aeroplane is 683.4 inches aft of the datum. Given the following characteristics of the aeroplane's wing, calculate the CG position as % MAC.</p>Leading edge of the wing root: 575 inches aft of the datum  <br />  Leading edge of the MAC: 598 inches aft of the datum  <br />  Leading edge of the wing tip: 680 inches aft of the datum  <br />  Length of the wing root chord: 183.82 inches  <br />  Length of MAC: 164.38 inches  <br />  Length of the wing tip chord: 60.13 inches",
   "options": {
     "a": "45.83% MAC",
@@ -10,5 +10,10 @@
     "d": "58.97% MAC"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82174,
+    "number": "316283"
+  }
 }

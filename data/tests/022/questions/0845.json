@@ -1,7 +1,7 @@
 {
   "number": 845,
-  "questionId": 111072,
-  "questionNumber": "228563",
+  "questionId": "022-0845",
+  "questionNumber": "022-0845",
   "stemHtml": "<p>What are the differences between a Remote Indicating Compass (RIC) and Direct Reading Magnetic Compass (DMRC)? Select the answer which correctly completes the following statements.</p><p>1. A RIC system is generally _____ than a DRMC<br>2. A RIC is _____ likely to be affected by local magnetic disturbances than a DRMC</p><p> </p>",
   "options": {
     "a": "<p>simpler / more</p>",
@@ -10,5 +10,10 @@
     "d": "<p>simpler / less</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111072,
+    "number": "228563"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1211,
-  "questionId": 82156,
-  "questionNumber": "326520",
+  "questionId": "032-1211",
+  "questionNumber": "032-1211",
   "stemHtml": "Which flight profile corresponds to the highest cost index?",
   "options": {
     "a": "Climb TAS = 280 kts/Mach 0.78 - Cruise TAS = 350 kts/Mach 0.8 - Descent TAS = 280 kts/Mach 0.75",
@@ -10,5 +10,10 @@
     "d": "Climb TAS = 245 kts/Mach 0.74 \u2013 Cruise TAS = 280 kts/Mach 0.78 - Descent TAS = 260 kts/Mach 0.78"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82156,
+    "number": "326520"
+  }
 }

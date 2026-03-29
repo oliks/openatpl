@@ -1,7 +1,7 @@
 {
   "number": 792,
-  "questionId": 80056,
-  "questionNumber": "229156",
+  "questionId": "022-0792",
+  "questionNumber": "022-0792",
   "stemHtml": "<p>Refer to figure. <br>The mode selected on the following Navigation Display (ND) is\u2026</p>",
   "options": {
     "a": "Expanded Rose ILS mode.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/1F4E81BF-F63C-4377-AD8E-D583C9A1F7B1.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/1F4E81BF-F63C-4377-AD8E-D583C9A1F7B1.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80056,
+    "number": "229156"
+  }
 }

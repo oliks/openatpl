@@ -1,7 +1,7 @@
 {
   "number": 1653,
-  "questionId": 67394,
-  "questionNumber": "212464",
+  "questionId": "021-1653",
+  "questionNumber": "021-1653",
   "stemHtml": "<p>In a gas turbine combustion chamber\u2026</p>",
   "options": {
     "a": "<p>secondary air is required for cooling of the inner casing.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the axial velocity of the gas stream is greatest behind the swirl vanes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67394,
+    "number": "212464"
+  }
 }

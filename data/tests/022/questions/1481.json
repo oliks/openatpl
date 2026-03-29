@@ -1,7 +1,7 @@
 {
   "number": 1481,
-  "questionId": 69172,
-  "questionNumber": "229056",
+  "questionId": "022-1481",
+  "questionNumber": "022-1481",
   "stemHtml": "The EVENT button of a Flight Data Recorder (FDR) is used to:",
   "options": {
     "a": "Switch to a second data storage.",
@@ -10,5 +10,10 @@
     "d": "Set a time mark on a data storage."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69172,
+    "number": "229056"
+  }
 }

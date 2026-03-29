@@ -1,7 +1,7 @@
 {
   "number": 38,
-  "questionId": 86125,
-  "questionNumber": "221622",
+  "questionId": "022-0038",
+  "questionNumber": "022-0038",
   "stemHtml": "<p>In an Attitude and Heading Reference System (AHRS) designed to replace conventional instruments, which sensors are combined together?</p>",
   "options": {
     "a": "<p>Flux valve and DGI.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Accelerometers, gyroscopes, and magnetometers.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86125,
+    "number": "221622"
+  }
 }

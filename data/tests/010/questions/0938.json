@@ -1,7 +1,7 @@
 {
   "number": 938,
-  "questionId": 66874,
-  "questionNumber": "106701",
+  "questionId": "010-0938",
+  "questionNumber": "010-0938",
   "stemHtml": "<p>The following characteristics are specific for a holding pattern established at a VOR: standard turns, 1 minute outbound, inbound magnetic track of 010 degrees. If an aircraft is approaching the VOR on a heading of 030 degrees, the appropriate entry procedure would be\u2026</p>",
   "options": {
     "a": "<p>teardrop.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>parallel.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66874,
+    "number": "106701"
+  }
 }

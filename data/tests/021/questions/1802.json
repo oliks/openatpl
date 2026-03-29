@@ -1,7 +1,7 @@
 {
   "number": 1802,
-  "questionId": 67695,
-  "questionNumber": "219913",
+  "questionId": "021-1802",
+  "questionNumber": "021-1802",
   "stemHtml": "<p>A piston engine's compression ratio is the ratio of\u2026</p>",
   "options": {
     "a": "<p>piston travel during the compression stroke to travel during the intake stroke.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>degrees of crankshaft rotation of compression stroke to power stroke.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67695,
+    "number": "219913"
+  }
 }

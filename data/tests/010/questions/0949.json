@@ -1,7 +1,7 @@
 {
   "number": 949,
-  "questionId": 110308,
-  "questionNumber": "103390",
+  "questionId": "010-0949",
+  "questionNumber": "010-0949",
   "stemHtml": "<p>When a controlled VFR flight transiting a Control Zone suffers a communications failure, what shall the pilot do?</p>\r\r<p>1. Continue to fly in either VMC or IMC as meteorological conditions dictate <br /> \r2. Continue to fly in VMC <br /> \r3. Leave the Control Zone by the shortest route taking into account the weather conditions, obstacles and known areas of high traffic density <br /> \r4. Land as soon as possible at the nearest controlled aerodrome in the Control Zone, watching for visual signals when in the aerodrome traffic circuit <br /> \r5. Land at the nearest suitable aerodrome <br /> \r6. Report the aircraft's arrival by the most expeditious means to the appropriate ATS Unit</p>",
   "options": {
     "a": "<p>2, 4 and 6</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 5 and 6</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110308,
+    "number": "103390"
+  }
 }

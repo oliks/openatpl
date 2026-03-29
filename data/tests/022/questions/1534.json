@@ -1,7 +1,7 @@
 {
   "number": 1534,
-  "questionId": 69252,
-  "questionNumber": "224327",
+  "questionId": "022-1534",
+  "questionNumber": "022-1534",
   "stemHtml": "<p>In a dual FMS architecture, when an incompatibility between the two FMC's occurs: NB: FMC = Flight Management Computer</p>",
   "options": {
     "a": "both FMC`s are automatically switched OFF.",
@@ -10,5 +10,10 @@
     "d": "the left FMC becomes the master FMC."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69252,
+    "number": "224327"
+  }
 }

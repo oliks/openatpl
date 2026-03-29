@@ -1,7 +1,7 @@
 {
   "number": 651,
-  "questionId": 101447,
-  "questionNumber": "315866",
+  "questionId": "031-0651",
+  "questionNumber": "031-0651",
   "stemHtml": "<p>What potential adverse aircraft condition might arise when baggage is placed in the forward cargo hold rather than further aft?</p>",
   "options": {
     "a": "<p>Nose down, affecting climb performance.</p>",
@@ -10,5 +10,10 @@
     "d": "Unwanted yaw."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101447,
+    "number": "315866"
+  }
 }

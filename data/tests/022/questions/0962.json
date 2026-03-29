@@ -1,7 +1,7 @@
 {
   "number": 962,
-  "questionId": 110095,
-  "questionNumber": "226058",
+  "questionId": "022-0962",
+  "questionNumber": "022-0962",
   "stemHtml": "<p>Regarding datalink communications, which statement correctly describes an aircraft downlink?</p>",
   "options": {
     "a": "<p>Data transmitted from the aircraft to the ground station.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Information transmitted from air traffic control to an aircraft.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110095,
+    "number": "226058"
+  }
 }

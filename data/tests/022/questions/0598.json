@@ -1,7 +1,7 @@
 {
   "number": 598,
-  "questionId": 69223,
-  "questionNumber": "228527",
+  "questionId": "022-0598",
+  "questionNumber": "022-0598",
   "stemHtml": "The altimeter indicates 12 000 ft with a subscale-setting of 1013,25 mb. QNH is 999 hPa. The pressure altitude of the aircraft is:<br>",
   "options": {
     "a": "12 420 ft<br>",
@@ -10,5 +10,10 @@
     "d": "11 580 ft<br>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69223,
+    "number": "228527"
+  }
 }

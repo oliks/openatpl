@@ -1,7 +1,7 @@
 {
   "number": 1094,
-  "questionId": 78744,
-  "questionNumber": "229916",
+  "questionId": "022-1094",
+  "questionNumber": "022-1094",
   "stemHtml": "<p>Select the option which correctly completes the following statement: <br /> The pressure altitude is the altitude corresponding...</p>",
   "options": {
     "a": "In ambient atmosphere, to the reference pressure PS.",
@@ -10,5 +10,10 @@
     "d": "In standard atmosphere, to the reference pressure PS."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78744,
+    "number": "229916"
+  }
 }

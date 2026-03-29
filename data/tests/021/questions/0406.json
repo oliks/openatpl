@@ -1,7 +1,7 @@
 {
   "number": 406,
-  "questionId": 80765,
-  "questionNumber": "214937",
+  "questionId": "021-0406",
+  "questionNumber": "021-0406",
   "stemHtml": "<p>The occasional application of 2g might be classified as\u2026</p>",
   "options": {
     "a": "A stress beyond the design limits for passenger carrying aircraft.",
@@ -10,5 +10,10 @@
     "d": "Static load."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80765,
+    "number": "214937"
+  }
 }

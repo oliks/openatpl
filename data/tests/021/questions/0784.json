@@ -1,7 +1,7 @@
 {
   "number": 784,
-  "questionId": 68214,
-  "questionNumber": "217610",
+  "questionId": "021-0784",
+  "questionNumber": "021-0784",
   "stemHtml": "<p>What is the function of the hydraulic control valves in a fully powered flight control system?</p>",
   "options": {
     "a": "The control valves control the movement of the hydraulic actuators.",
@@ -10,5 +10,10 @@
     "d": "Control valves convert hydraulic pressure into control column movement."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68214,
+    "number": "217610"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 51,
-  "questionId": 81715,
-  "questionNumber": "338940",
+  "questionId": "033-0051",
+  "questionNumber": "033-0051",
   "stemHtml": "<p>Refer to figure or chart \"E(LO) 5 from the Jeppesen GSPRM 2017.<br>A route connects the waypoints AMGAR (42\u00ba33'18.40\"N, 003\u00ba15'12.00\"W) and BUGIX (42\u00b021'29.00\"N, 003\u00b038'7.00\"W). What kind of route is this?</p>",
   "options": {
     "a": "ATS route used by non B-RNAV equipped aircraft.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/CD1CB842-B8F8-4B66-899C-2537BAAA77F0.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/CD1CB842-B8F8-4B66-899C-2537BAAA77F0.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81715,
+    "number": "338940"
+  }
 }

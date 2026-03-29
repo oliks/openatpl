@@ -1,7 +1,7 @@
 {
   "number": 534,
-  "questionId": 69591,
-  "questionNumber": "319314",
+  "questionId": "031-0534",
+  "questionNumber": "031-0534",
   "stemHtml": "Refer to figure. <br /> Using the loadsheet on the annex, determine the Underload and the difference between the Maximum Structural TOM and the Actual TOM. The Underload is..",
   "options": {
     "a": "4770 kg and the difference is 7170 kg.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/AB461827-864B-4E79-A34B-5F0A14510BDC.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/AB461827-864B-4E79-A34B-5F0A14510BDC.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69591,
+    "number": "319314"
+  }
 }

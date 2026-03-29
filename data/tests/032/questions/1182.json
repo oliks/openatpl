@@ -1,7 +1,7 @@
 {
   "number": 1182,
-  "questionId": 69890,
-  "questionNumber": "324036",
+  "questionId": "032-1182",
+  "questionNumber": "032-1182",
   "stemHtml": "<p>What is the minimum speed at 50 ft above the take-off surface for a single-engine aeroplane with a V<strong><sub>S1</sub></strong><sub> </sub>of 67 kt?</p>",
   "options": {
     "a": "74 kt",
@@ -10,5 +10,10 @@
     "d": "71 kt"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69890,
+    "number": "324036"
+  }
 }

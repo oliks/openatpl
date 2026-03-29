@@ -1,7 +1,7 @@
 {
   "number": 128,
-  "questionId": 70304,
-  "questionNumber": "329804",
+  "questionId": "032-0128",
+  "questionNumber": "032-0128",
   "stemHtml": "<p>Refer to figure.<br>Find the balked landing rate of climb if the temperature is 20\u00b0C and the pressure altitude of the airfield is 4000 ft\u2026</p>",
   "options": {
     "a": "800 ft/min",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/EA8B5886-7942-4506-8B81-CE1E8A7796D5.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/EA8B5886-7942-4506-8B81-CE1E8A7796D5.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70304,
+    "number": "329804"
+  }
 }

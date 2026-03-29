@@ -1,7 +1,7 @@
 {
   "number": 556,
-  "questionId": 127815,
-  "questionNumber": "101154",
+  "questionId": "010-0556",
+  "questionNumber": "010-0556",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat does the given marshaller signal indicate?</p>",
   "options": {
     "a": "<p>Turn left.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/7cb4b04a-7f24-4981-844c-6163dcda508d.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/7cb4b04a-7f24-4981-844c-6163dcda508d.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 127815,
+    "number": "101154"
+  }
 }

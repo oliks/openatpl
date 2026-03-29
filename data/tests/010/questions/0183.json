@@ -1,7 +1,7 @@
 {
   "number": 183,
-  "questionId": 110244,
-  "questionNumber": "103301",
+  "questionId": "010-0183",
+  "questionNumber": "010-0183",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the meaning of the marking shown on the annex?</p>",
   "options": {
     "a": "<p>Taxiway closed.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/1e86f0f8-9d9c-4ab1-b7f0-dea7658ce152.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/1e86f0f8-9d9c-4ab1-b7f0-dea7658ce152.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110244,
+    "number": "103301"
+  }
 }

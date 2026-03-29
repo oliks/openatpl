@@ -1,7 +1,7 @@
 {
   "number": 55,
-  "questionId": 66500,
-  "questionNumber": "227177",
+  "questionId": "022-0055",
+  "questionNumber": "022-0055",
   "stemHtml": "<p>Given the deviation table of a Direct Reading Compass. <br><br>To fly 000 030 060 090 120 150 180 210 240 270 300 330 <br>Steer 359 030 061 092 121 150 178 209 242 272 298 331 <br><br>The desired True Heading is 155<strong>\u00b0</strong>. The variation in the area is 10<strong>\u00b0</strong>W. What should be the indication of the Direct Reading Compass?</p>",
   "options": {
     "a": "164\u00b0",
@@ -10,5 +10,10 @@
     "d": "165\u00b0"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66500,
+    "number": "227177"
+  }
 }

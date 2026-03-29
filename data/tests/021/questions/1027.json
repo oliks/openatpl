@@ -1,7 +1,7 @@
 {
   "number": 1027,
-  "questionId": 68099,
-  "questionNumber": "217177",
+  "questionId": "021-1027",
+  "questionNumber": "021-1027",
   "stemHtml": "<p>The compressor blades in a rotating gas turbine engine are held in position by\u2026</p>",
   "options": {
     "a": "the mountings and thermal expansion only.",
@@ -10,5 +10,10 @@
     "d": "<p>the mountings, and centrifugal force.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68099,
+    "number": "217177"
+  }
 }

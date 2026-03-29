@@ -1,7 +1,7 @@
 {
   "number": 143,
-  "questionId": 162607,
-  "questionNumber": "319497",
+  "questionId": "031-0143",
+  "questionNumber": "031-0143",
   "stemHtml": "<p>The total mass limit of a light twin is equal to 3200 lb. The pilot weighs 200 lb and the combined mass of the pilot, passengers and their baggage is 850 lb. Assuming a Dry Operating Mass of 1742 lb, how much fuel can be loaded?</p>",
   "options": {
     "a": "<p>367 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>320 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162607,
+    "number": "319497"
+  }
 }

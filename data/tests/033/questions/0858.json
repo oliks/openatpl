@@ -1,7 +1,7 @@
 {
   "number": 858,
-  "questionId": 70707,
-  "questionNumber": "335011",
+  "questionId": "033-0858",
+  "questionNumber": "033-0858",
   "stemHtml": "<p>From which of the following would you expect to find the dates and times when temporary danger areas are active\u2026</p>",
   "options": {
     "a": "SIGMET.",
@@ -10,5 +10,10 @@
     "d": "RAD/NAV charts."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70707,
+    "number": "335011"
+  }
 }

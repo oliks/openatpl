@@ -1,7 +1,7 @@
 {
   "number": 153,
-  "questionId": 81766,
-  "questionNumber": "338858",
+  "questionId": "033-0153",
+  "questionNumber": "033-0153",
   "stemHtml": "<p>Refer to figure. <br /> The figure shows a typical fuel plan for a Commercial Air Transport flight with operational impact factors as produced by a flight planning tool. Since the aeroplane has arrived late, it is planned to fly the next flight at a higher speed. Use the data below to calculate the revised flight time.</p><p>Revised speed: M 0.80 <br /> Revised weight: 1500 Kg up <br /> Cruising Altitude: Planned Flight Level.</p>",
   "options": {
     "a": "4 hours 59 minutes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/EECF6006-A729-4E4B-BAA3-883DF002B8FC.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/EECF6006-A729-4E4B-BAA3-883DF002B8FC.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81766,
+    "number": "338858"
+  }
 }

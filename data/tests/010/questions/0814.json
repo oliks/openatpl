@@ -1,7 +1,7 @@
 {
   "number": 814,
-  "questionId": 67085,
-  "questionNumber": "107319",
+  "questionId": "010-0814",
+  "questionNumber": "010-0814",
   "stemHtml": "<p>The maximum recommended length of a runway clearway is\u2026</p>",
   "options": {
     "a": "<p>75 m.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>half of the Take-Off Run Available (TORA).</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67085,
+    "number": "107319"
+  }
 }

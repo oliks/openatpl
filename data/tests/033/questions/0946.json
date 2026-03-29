@@ -1,7 +1,7 @@
 {
   "number": 946,
-  "questionId": 70953,
-  "questionNumber": "339105",
+  "questionId": "033-0946",
+  "questionNumber": "033-0946",
   "stemHtml": "<p>Refer to figure or E(LO)2 chart from Jeppesen GSPRM 2017.\u00a0<br>On a flight through the Netherlands, you pass the TULIP intersection and follow airway Y12 to SPIJKERBOOR (SPY, N52\u00ba32' E004\u00ba51'). Which communication frequency for Amsterdam do you use when passing TULIP?</p><p>\u00a0</p>",
   "options": {
     "a": "123.705 MHz",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2141C271-18C5-4790-BB83-2A0C2C4F8C5C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2141C271-18C5-4790-BB83-2A0C2C4F8C5C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70953,
+    "number": "339105"
+  }
 }

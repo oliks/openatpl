@@ -1,7 +1,7 @@
 {
   "number": 876,
-  "questionId": 82210,
-  "questionNumber": "101979",
+  "questionId": "010-0876",
+  "questionNumber": "010-0876",
   "stemHtml": "<p>What does the ATS Route Designator \u201cUM-120-RNP\u201d mean?</p>",
   "options": {
     "a": "<p>Upper (airspace), regional ATS route network, RNAV.</p>",
@@ -10,5 +10,10 @@
     "d": "Upper (airspace), regional ATS route network, non-RNAV."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82210,
+    "number": "101979"
+  }
 }

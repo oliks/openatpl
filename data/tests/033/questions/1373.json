@@ -1,7 +1,7 @@
 {
   "number": 1373,
-  "questionId": 84290,
-  "questionNumber": "339528",
+  "questionId": "033-1373",
+  "questionNumber": "033-1373",
   "stemHtml": "<p>Refer to figure. <br>You experience a total RNAV system failure enroute to your destination, Amsterdam Schiphol aerodrome. During descent, Schiphol Arrival assigns you the NORKU 2A arrival. Can you accept this STAR?</p>",
   "options": {
     "a": "No, because it is an RNAV STAR.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/4DD31358-AFC0-4F3D-8682-3F4B77A4EA6C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4DD31358-AFC0-4F3D-8682-3F4B77A4EA6C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84290,
+    "number": "339528"
+  }
 }

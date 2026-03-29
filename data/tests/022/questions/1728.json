@@ -1,7 +1,7 @@
 {
   "number": 1728,
-  "questionId": 84988,
-  "questionNumber": "223190",
+  "questionId": "022-1728",
+  "questionNumber": "022-1728",
   "stemHtml": "<p>Refer to figure. <br>The figure represents an aircraft during a _____ turn.</p>",
   "options": {
     "a": "slipping",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/C7D79E5A-4137-4F19-9028-6C39DD48D57A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/C7D79E5A-4137-4F19-9028-6C39DD48D57A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84988,
+    "number": "223190"
+  }
 }

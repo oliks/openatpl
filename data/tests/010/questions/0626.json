@@ -1,7 +1,7 @@
 {
   "number": 626,
-  "questionId": 102919,
-  "questionNumber": "105727",
+  "questionId": "010-0626",
+  "questionNumber": "010-0626",
   "stemHtml": "<p>A pilot wants to establish communication with an AIS over Paris and transmits \"Paris Approach Bigjet 347 Heavy\" during initial contact. What is the call sign of the aircraft?</p>",
   "options": {
     "a": "<p>BIGJET</p>",
@@ -10,5 +10,10 @@
     "d": "<p>347 HEAVY</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102919,
+    "number": "105727"
+  }
 }

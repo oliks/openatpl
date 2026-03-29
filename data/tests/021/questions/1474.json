@@ -1,7 +1,7 @@
 {
   "number": 1474,
-  "questionId": 84544,
-  "questionNumber": "211726",
+  "questionId": "021-1474",
+  "questionNumber": "021-1474",
   "stemHtml": "<p>Which of these statements are correct or incorrect about the principle of operation of a reaction-type turbine stage?</p><p>1) Reaction turbine blades cause the turbine stage to rotate due to the aerodynamic action of the airstream directed to flow past the blade at a particular angle<br>2) In a reaction-type turbine stage, both the blades of the stator and the rotor are acting on the aerodynamic principle of an airfoil</p>",
   "options": {
     "a": "1) is correct; 2) is correct.",
@@ -10,5 +10,10 @@
     "d": "1) is incorrect; 2) is incorrect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84544,
+    "number": "211726"
+  }
 }

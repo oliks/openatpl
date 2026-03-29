@@ -1,7 +1,7 @@
 {
   "number": 1656,
-  "questionId": 163301,
-  "questionNumber": "225637",
+  "questionId": "022-1656",
+  "questionNumber": "022-1656",
   "stemHtml": "<p>Refer to figure.\u00a0<br>Regarding the FMS multifunction control display unit (MCDU) display shown in the annex. Which of the following statements is correct?</p>",
   "options": {
     "a": "<p>Rectangular boxes indicate compulsory information that must be filled before proceeding.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/498f5654-20f4-4b25-8949-446a7f052195.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/498f5654-20f4-4b25-8949-446a7f052195.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163301,
+    "number": "225637"
+  }
 }

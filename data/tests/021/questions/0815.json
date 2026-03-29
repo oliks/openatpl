@@ -1,7 +1,7 @@
 {
   "number": 815,
-  "questionId": 101682,
-  "questionNumber": "214730",
+  "questionId": "021-0815",
+  "questionNumber": "021-0815",
   "stemHtml": "<p>A pilot should check the wheels and tyres during their pre-flight check, which statement is correct?</p><p>1) Tread separation is easily detected by visual inspection<br>2) Small bulges or tread separation is acceptable as long as reported in flight log</p>",
   "options": {
     "a": "<p>1) correct; 2) correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1) incorrect; 2) correct.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101682,
+    "number": "214730"
+  }
 }

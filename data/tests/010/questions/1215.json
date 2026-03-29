@@ -1,7 +1,7 @@
 {
   "number": 1215,
-  "questionId": 105280,
-  "questionNumber": "102390",
+  "questionId": "010-1215",
+  "questionNumber": "010-1215",
   "stemHtml": "<p>Refer to figure. <br>What type of symbols are allowed on a location sign?</p>",
   "options": {
     "a": "<p>Numbers and letters.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/8507f858-e15c-43b4-825d-79b7095254ac.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/8507f858-e15c-43b4-825d-79b7095254ac.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105280,
+    "number": "102390"
+  }
 }

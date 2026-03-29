@@ -1,7 +1,7 @@
 {
   "number": 431,
-  "questionId": 68933,
-  "questionNumber": "224807",
+  "questionId": "022-0431",
+  "questionNumber": "022-0431",
   "stemHtml": "<p>On a compass deviation correction card, the\u2026</p>",
   "options": {
     "a": "deviation compensation is noted before the compass swing procedure.",
@@ -10,5 +10,10 @@
     "d": "residual deviation is noted before the compass swing procedure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68933,
+    "number": "224807"
+  }
 }

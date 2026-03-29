@@ -1,7 +1,7 @@
 {
   "number": 258,
-  "questionId": 68438,
-  "questionNumber": "223077",
+  "questionId": "022-0258",
+  "questionNumber": "022-0258",
   "stemHtml": "<p>The drift of the azimuth gyro in an inertial unit induces an error. If \"t\" is the elapsed time, the average total error is\u2026</p>",
   "options": {
     "a": "sinusoidal.",
@@ -10,5 +10,10 @@
     "d": "proportional to t<sup>2</sup> (t squared)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68438,
+    "number": "223077"
+  }
 }

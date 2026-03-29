@@ -1,7 +1,7 @@
 {
   "number": 444,
-  "questionId": 70203,
-  "questionNumber": "323900",
+  "questionId": "032-0444",
+  "questionNumber": "032-0444",
   "stemHtml": "Which is the correct sequence of speed during take-off?",
   "options": {
     "a": "V<sub>1</sub>, V<sub>MCG</sub>, V<sub>R</sub>, V<sub>2</sub>",
@@ -10,5 +10,10 @@
     "d": "V<sub>1</sub>, V<sub>R</sub>, V2 V<sub>MCA</sub>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70203,
+    "number": "323900"
+  }
 }

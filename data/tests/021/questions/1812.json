@@ -1,7 +1,7 @@
 {
   "number": 1812,
-  "questionId": 67655,
-  "questionNumber": "214342",
+  "questionId": "021-1812",
+  "questionNumber": "021-1812",
   "stemHtml": "<p>The ice protection system for the propellers of most turbo-prop aeroplanes operates\u2026</p>",
   "options": {
     "a": "<p>electrically.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>with anti-icing fluid.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67655,
+    "number": "214342"
+  }
 }

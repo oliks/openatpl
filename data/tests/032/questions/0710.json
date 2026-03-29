@@ -1,7 +1,7 @@
 {
   "number": 710,
-  "questionId": 69870,
-  "questionNumber": "326323",
+  "questionId": "032-0710",
+  "questionNumber": "032-0710",
   "stemHtml": "<p>The speed for maximum endurance\u2026</p>",
   "options": {
     "a": "can either be higher or lower than the speed for maximum specific range",
@@ -10,5 +10,10 @@
     "d": "is always higher than the speed for maximum specific range"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69870,
+    "number": "326323"
+  }
 }

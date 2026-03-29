@@ -1,7 +1,7 @@
 {
   "number": 1837,
-  "questionId": 108038,
-  "questionNumber": "226596",
+  "questionId": "022-1837",
+  "questionNumber": "022-1837",
   "stemHtml": "<p>On a large aeroplane, the input data of the stall warning system are:</p>\r\r<p>1 \u2013 angle of attack <br /> \r2 \u2013 weight <br /> \r3 \u2013 slats configuration <br /> \r4 \u2013 flaps configuration</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>2, 3, 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108038,
+    "number": "226596"
+  }
 }

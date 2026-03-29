@@ -1,7 +1,7 @@
 {
   "number": 748,
-  "questionId": 156305,
-  "questionNumber": "104048",
+  "questionId": "010-0748",
+  "questionNumber": "010-0748",
   "stemHtml": "<p>While the pilots of an aircraft are operating the landing gear system, a stowaway gets killed. How is that classified?</p>",
   "options": {
     "a": "<p>Accident</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Major incident</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 156305,
+    "number": "104048"
+  }
 }

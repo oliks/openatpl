@@ -1,7 +1,7 @@
 {
   "number": 682,
-  "questionId": 100762,
-  "questionNumber": "324700",
+  "questionId": "032-0682",
+  "questionNumber": "032-0682",
   "stemHtml": "Refer to figure. <br /> Which of the graphs correctly illustrates how the \"thrust available\" curve of a twin-engined aeroplane changes when it suffers an engine failure?",
   "options": {
     "a": "Figure A",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/07767416-2165-4fd0-8f10-69e6105117ff.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/07767416-2165-4fd0-8f10-69e6105117ff.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100762,
+    "number": "324700"
+  }
 }

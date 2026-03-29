@@ -1,7 +1,7 @@
 {
   "number": 426,
-  "questionId": 102350,
-  "questionNumber": "326727",
+  "questionId": "032-0426",
+  "questionNumber": "032-0426",
   "stemHtml": "<p>Which of the following statements accurately depicts the relationship between weight and maximum range for a turbojet airplane? At higher weights, the operating altitude...</p>\r\n",
   "options": {
     "a": "<p>Decreases, Specific fuel consumption (SFC) increases, and SR decreases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Increases, Specific fuel consumption (SFC) decreases, and SR increases.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102350,
+    "number": "326727"
+  }
 }

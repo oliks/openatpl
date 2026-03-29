@@ -1,7 +1,7 @@
 {
   "number": 621,
-  "questionId": 79553,
-  "questionNumber": "313292",
+  "questionId": "031-0621",
+  "questionNumber": "031-0621",
   "stemHtml": "Refer to figure. <br /> For the MRJT1 with a CG at 21% MAC, Flaps 5\u00b0, what is the stabiliser trim setting for take-off?",
   "options": {
     "a": "2.5 units",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/21ef6883-a5a5-44e2-9c4a-7604f7249bbe.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/21ef6883-a5a5-44e2-9c4a-7604f7249bbe.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79553,
+    "number": "313292"
+  }
 }

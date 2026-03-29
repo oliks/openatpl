@@ -1,7 +1,7 @@
 {
   "number": 165,
-  "questionId": 111480,
-  "questionNumber": "319374",
+  "questionId": "031-0165",
+  "questionNumber": "031-0165",
   "stemHtml": "<p>You are planning to complete a flight with landing fuel of 3000 lb remaining. Due to structural limitations, the centre tank fuel must be used before the wing tanks. Using the following information, calculate the location of the CG on landing in inches aft of the datum. <br /> \r <br /> \rMaximum Take-Off Mass: 152 000 lb <br /> \rActual Take-Off Mass: 85 000 lb <br /> \rTake-off CG location: 638.00 inches aft of the datum <br /> \rFuel in centre tank at take-off: 16 000 lb <br /> \rFuel in wing tanks at take-off: 18 000 lb <br /> \rCentre fuel tank centroid: 605.40 inches aft of the datum <br /> \rWing fuel tank centroid: 700.20 inches aft of the datum</p>",
   "options": {
     "a": "<p>625.11 inches</p>",
@@ -10,5 +10,10 @@
     "d": "<p>632.25 inches</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111480,
+    "number": "319374"
+  }
 }

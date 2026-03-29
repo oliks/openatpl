@@ -1,7 +1,7 @@
 {
   "number": 1248,
-  "questionId": 67001,
-  "questionNumber": "105464",
+  "questionId": "010-1248",
+  "questionNumber": "010-1248",
   "stemHtml": "<p>A change in the mean surface wind is reported to the pilot of an arriving aircraft when the mean tailwind component changes by more than\u2026</p>",
   "options": {
     "a": "4 kt.",
@@ -10,5 +10,10 @@
     "d": "3 kt."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67001,
+    "number": "105464"
+  }
 }

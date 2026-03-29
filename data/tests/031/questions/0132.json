@@ -1,7 +1,7 @@
 {
   "number": 132,
-  "questionId": 103850,
-  "questionNumber": "312759",
+  "questionId": "031-0132",
+  "questionNumber": "031-0132",
   "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> \rDetermine the Take-off Mass, given:</p>\r\r<p dir=\"ltr\">Basic Empty Mass: 3210 lb <br /> \rPilot and front passenger: 380 lb <br /> \rPassengers (centre seats): 330 lb <br /> \rBaggage zone 1: 100 lb <br /> \rBaggage zone 4: 100 lb <br /> \rFuel loading: 85 US gal <br /> \rFuel allowance for start, taxi and run up: 4 US gal <br /> \rEstimated fuel burn-off: 60 US gal <br /> \rFuel density: 6 lb/US gal</p>",
   "options": {
     "a": "<p>4606 lb</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/6ea8e223-7387-44f0-8f97-911c067bdeea.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/6ea8e223-7387-44f0-8f97-911c067bdeea.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103850,
+    "number": "312759"
+  }
 }

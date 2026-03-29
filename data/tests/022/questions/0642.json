@@ -1,7 +1,7 @@
 {
   "number": 642,
-  "questionId": 80232,
-  "questionNumber": "223079",
+  "questionId": "022-0642",
+  "questionNumber": "022-0642",
   "stemHtml": "<p>How is the indication of Mach number obtained? From\u2026</p>",
   "options": {
     "a": "<p>Indicated speed and altitude using a speed indicator equipped with an altimeter type aneroid.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A kind of echo sound comparing velocity of sound with indicated speed.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80232,
+    "number": "223079"
+  }
 }

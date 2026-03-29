@@ -1,7 +1,7 @@
 {
   "number": 483,
-  "questionId": 67030,
-  "questionNumber": "102549",
+  "questionId": "010-0483",
+  "questionNumber": "010-0483",
   "stemHtml": "Which are the main purposes of an ATC clearance?",
   "options": {
     "a": "To assure, under the air traffic controllers responsibility, the safety of flight operations.",
@@ -10,5 +10,10 @@
     "d": "To assure obstacle clearance and a minimum separation between aircraft."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67030,
+    "number": "102549"
+  }
 }

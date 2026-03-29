@@ -1,7 +1,7 @@
 {
   "number": 1648,
-  "questionId": 68108,
-  "questionNumber": "218768",
+  "questionId": "021-1648",
+  "questionNumber": "021-1648",
   "stemHtml": "<p>Large transport aeroplane hydraulic systems usually operate with a system pressure of approximately\u2026</p>",
   "options": {
     "a": "2000 psi.",
@@ -10,5 +10,10 @@
     "d": "3000 psi."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68108,
+    "number": "218768"
+  }
 }

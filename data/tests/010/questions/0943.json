@@ -1,7 +1,7 @@
 {
   "number": 943,
-  "questionId": 66862,
-  "questionNumber": "106837",
+  "questionId": "010-0943",
+  "questionNumber": "010-0943",
   "stemHtml": "<p>The procedure describing the visual phase following an instrument approach, bringing an aircraft into position for the landing on a runway different from the one for a straight-in approach, is called\u2026</p>",
   "options": {
     "a": "visual approach.",
@@ -10,5 +10,10 @@
     "d": "contact approach."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66862,
+    "number": "106837"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 16,
-  "questionId": 82605,
-  "questionNumber": "336607",
+  "questionId": "033-0016",
+  "questionNumber": "033-0016",
   "stemHtml": "<p>Refer to figure or Amsterdam Chart 10-3E from Jeppesen GSPRM 2017.\u00a0<br>On the departure chart, EH\u00d814\u2026</p>",
   "options": {
     "a": "<p>is a waypoint that requires a turn anticipation.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/c8805ffe-d7eb-48f9-ae92-ba5f5407ba35.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c8805ffe-d7eb-48f9-ae92-ba5f5407ba35.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82605,
+    "number": "336607"
+  }
 }

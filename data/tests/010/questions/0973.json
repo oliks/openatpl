@@ -1,7 +1,7 @@
 {
   "number": 973,
-  "questionId": 105274,
-  "questionNumber": "106553",
+  "questionId": "010-0973",
+  "questionNumber": "010-0973",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat does the marking on the given figure indicate?</p>",
   "options": {
     "a": "<p>Taxiway closed.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/bbcb1d8c-48a0-4a79-9060-19714154b0f9.jpeg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/bbcb1d8c-48a0-4a79-9060-19714154b0f9.jpeg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105274,
+    "number": "106553"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1500,
-  "questionId": 86088,
-  "questionNumber": "227257",
+  "questionId": "022-1500",
+  "questionNumber": "022-1500",
   "stemHtml": "While performing an ILS approach, what could be the danger of activating the approach mode (APP) if you are high above the glide path?",
   "options": {
     "a": "The autopilot might try to capture a false glide path.",
@@ -10,5 +10,10 @@
     "d": "The aircraft may enter an overspeed condition."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86088,
+    "number": "227257"
+  }
 }

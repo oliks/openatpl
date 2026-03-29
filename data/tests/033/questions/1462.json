@@ -1,7 +1,7 @@
 {
   "number": 1462,
-  "questionId": 135235,
-  "questionNumber": "333790",
+  "questionId": "033-1462",
+  "questionNumber": "033-1462",
   "stemHtml": "<p>Refer to figure or Nantes chart 19-1 from Jeppesen GSPRM. <br>An aircraft is departing from LFRS (Nantes Atlantique) to conduct a VFR flight to the northwest. The ATC clears the aircraft to leave the control zone (CTR) via waypoint NW. Why is waypoint NW a good feature for visual identification?</p>",
   "options": {
     "a": "<p>NW can be identified by inserting N47\u00b015.4' W001\u00b041.1' into the GNSS receiver for visual identification on the moving map.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/c96ea77e-5777-48f3-b01a-e17e6f0d6048.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c96ea77e-5777-48f3-b01a-e17e6f0d6048.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 135235,
+    "number": "333790"
+  }
 }

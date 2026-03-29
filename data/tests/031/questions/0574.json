@@ -1,7 +1,7 @@
 {
   "number": 574,
-  "questionId": 111477,
-  "questionNumber": "318942",
+  "questionId": "031-0574",
+  "questionNumber": "031-0574",
   "stemHtml": "<p>The loading of an aircraft uses the following data given below. If 250 kg of cargo is repositioned to the station arm 8.21 m, which option is correct about the new take-off CG position?</p>\r\r<p>Take-Off Mass: 17 800 kg <br /> \rCargo Mass: 420 kg (moment arm: 18.57 m) <br /> \rTake-off CG position: 13.41 m <br /> \rForward CG limit: 13.28 m <br /> \rAft CG limit: 15.65 m</p>",
   "options": {
     "a": "<p>The take-off CG will exceed the forward limit by 16 mm.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The take-off CG will move to a position 15 mm aft of the forward limit.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111477,
+    "number": "318942"
+  }
 }

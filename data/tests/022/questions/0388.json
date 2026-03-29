@@ -1,7 +1,7 @@
 {
   "number": 388,
-  "questionId": 81379,
-  "questionNumber": "224860",
+  "questionId": "022-0388",
+  "questionNumber": "022-0388",
   "stemHtml": "<p>An autothrottle system may provide the following flight envelope protection mode\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">Maximum and minimum altitude reversion.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">Roll rate reversion.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81379,
+    "number": "224860"
+  }
 }

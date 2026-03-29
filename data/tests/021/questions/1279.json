@@ -1,7 +1,7 @@
 {
   "number": 1279,
-  "questionId": 68036,
-  "questionNumber": "217707",
+  "questionId": "021-1279",
+  "questionNumber": "021-1279",
   "stemHtml": "<p>The ratio of the change in size of the deformed structure to the size of the non-deformed structure is called\u2026</p>",
   "options": {
     "a": "torsion.",
@@ -10,5 +10,10 @@
     "d": "traction."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68036,
+    "number": "217707"
+  }
 }

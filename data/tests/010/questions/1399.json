@@ -1,7 +1,7 @@
 {
   "number": 1399,
-  "questionId": 67247,
-  "questionNumber": "107125",
+  "questionId": "010-1399",
+  "questionNumber": "010-1399",
   "stemHtml": "When are you going to start your turn while flying on the outbound leg of a holding (leg specified by 1 NM DME per leg)?",
   "options": {
     "a": "15 seconds before reaching 1 NM DME.",
@@ -10,5 +10,10 @@
     "d": "as soon as DME states 1 NM."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67247,
+    "number": "107125"
+  }
 }

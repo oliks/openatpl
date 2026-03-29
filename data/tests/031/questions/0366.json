@@ -1,7 +1,7 @@
 {
   "number": 366,
-  "questionId": 69434,
-  "questionNumber": "317233",
+  "questionId": "031-0366",
+  "questionNumber": "031-0366",
   "stemHtml": "The total mass of the aeroplane including crew, crew baggage plus catering and removable passenger equipment plus potable water and lavatory chemicals but excluding usable fuel and traffic load, is referred to as: ",
   "options": {
     "a": "Aeroplane Prepared for Service (APS) Mass.",
@@ -10,5 +10,10 @@
     "d": "Dry Operating Mass."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69434,
+    "number": "317233"
+  }
 }

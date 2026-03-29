@@ -1,7 +1,7 @@
 {
   "number": 1179,
-  "questionId": 106907,
-  "questionNumber": "226755",
+  "questionId": "022-1179",
+  "questionNumber": "022-1179",
   "stemHtml": "<p>What frequency band does SATCOM use?</p>",
   "options": {
     "a": "<p>VHF</p>",
@@ -10,5 +10,10 @@
     "d": "<p>UHF</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106907,
+    "number": "226755"
+  }
 }

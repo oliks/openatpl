@@ -1,7 +1,7 @@
 {
   "number": 485,
-  "questionId": 110249,
-  "questionNumber": "214016",
+  "questionId": "021-0485",
+  "questionNumber": "021-0485",
   "stemHtml": "<p>Which of the following statements are true for a thermal circuit breaker? Circuit breakers...</p>\r\r<p>1. Can be reset once if tripped, if the captain deems it is necessary for the safe continuation of the flight <br /> \r2. Can be used to reset aircraft systems, if it is according to a described procedure <br /> \r3. Can be used to switch systems on and off on modern fly-by-wire aircraft without issue <br /> \r4. Can be reset twice to restore electrical power to a system provided an entry is made in the technical log</p>",
   "options": {
     "a": "<p>1 and 3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110249,
+    "number": "214016"
+  }
 }

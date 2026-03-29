@@ -1,7 +1,7 @@
 {
   "number": 552,
-  "questionId": 66487,
-  "questionNumber": "226059",
+  "questionId": "022-0552",
+  "questionNumber": "022-0552",
   "stemHtml": "<p>When is the magnetic compass most effective?</p>",
   "options": {
     "a": "<p>In the region of the magnetic North Pole.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>About midway between the magnetic poles.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66487,
+    "number": "226059"
+  }
 }

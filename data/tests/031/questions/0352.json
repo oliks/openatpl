@@ -1,7 +1,7 @@
 {
   "number": 352,
-  "questionId": 69396,
-  "questionNumber": "315663",
+  "questionId": "031-0352",
+  "questionNumber": "031-0352",
   "stemHtml": "<p>Refer to figure.\u00a0<br>Using the graph, and given the following parameters, what is the loaded centre of gravity of this aircraft?</p><p>BEM: 1100 kg\u00a0<br>BEM arm: 3.10\u00a0<br>Front pax: 150 kg\u00a0<br>Rear pax: 200 kg\u00a0<br>Fuel: 200 kg</p>",
   "options": {
     "a": "3.10 m",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/fc6f4374-f5d6-460c-9f8b-8229ab9899d3.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/fc6f4374-f5d6-460c-9f8b-8229ab9899d3.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69396,
+    "number": "315663"
+  }
 }

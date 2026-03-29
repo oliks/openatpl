@@ -1,7 +1,7 @@
 {
   "number": 651,
-  "questionId": 109966,
-  "questionNumber": "217598",
+  "questionId": "021-0651",
+  "questionNumber": "021-0651",
   "stemHtml": "<p>For a brushless three-phase AC generator, how is the output voltage controlled?</p>",
   "options": {
     "a": "<p>RPM of the drive shaft of the generator.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Current through the bridge circuit of diodes.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109966,
+    "number": "217598"
+  }
 }

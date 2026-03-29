@@ -1,7 +1,7 @@
 {
   "number": 588,
-  "questionId": 160264,
-  "questionNumber": "219362",
+  "questionId": "021-0588",
+  "questionNumber": "021-0588",
   "stemHtml": "<p>Refer to figure.   <br />   In a turbine engine compressor performance map, where is the most unstable operating region located, and how does the stability margin change as mass flow increases?</p>",
   "options": {
     "a": "<p>Below surge line; smaller</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/619007c9-e5b4-42b4-a1d3-159c00d54d9e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/619007c9-e5b4-42b4-a1d3-159c00d54d9e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160264,
+    "number": "219362"
+  }
 }

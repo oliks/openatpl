@@ -1,7 +1,7 @@
 {
   "number": 308,
-  "questionId": 67557,
-  "questionNumber": "213445",
+  "questionId": "021-0308",
+  "questionNumber": "021-0308",
   "stemHtml": "<p>Thermal plugs are installed in\u2026</p>",
   "options": {
     "a": "wheel hubs.",
@@ -10,5 +10,10 @@
     "d": "fire warning systems."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67557,
+    "number": "213445"
+  }
 }

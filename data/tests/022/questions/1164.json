@@ -1,7 +1,7 @@
 {
   "number": 1164,
-  "questionId": 69139,
-  "questionNumber": "227486",
+  "questionId": "022-1164",
+  "questionNumber": "022-1164",
   "stemHtml": "<p>Which statement is correct as regards the display of the attitude indicator?</p>",
   "options": {
     "a": "<p>The blue/brown background moves so that it remains parallel to the aircraft`s lateral axis.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The blue/brown background remains fixed to the aircraft`s lateral axis.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69139,
+    "number": "227486"
+  }
 }

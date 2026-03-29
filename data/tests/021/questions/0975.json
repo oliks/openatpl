@@ -1,7 +1,7 @@
 {
   "number": 975,
-  "questionId": 153743,
-  "questionNumber": "212968",
+  "questionId": "021-0975",
+  "questionNumber": "021-0975",
   "stemHtml": "<p>In a DC electric motor with stator and rotor coils in series, a seizure will cause the current in the armature to...</p>",
   "options": {
     "a": "<p>increase, but because the current in the stator coil decreases, the torque will stay the same.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>decrease, but because the current in the stator coil increases, the torque will stay the same.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153743,
+    "number": "212968"
+  }
 }

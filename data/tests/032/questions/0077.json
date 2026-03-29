@@ -1,7 +1,7 @@
 {
   "number": 77,
-  "questionId": 84447,
-  "questionNumber": "327186",
+  "questionId": "032-0077",
+  "questionNumber": "032-0077",
   "stemHtml": "<p>The latest model of an aircraft changed the long range performance climb speeds from 250 kt / 0.74 to 250kt / 0.78. Which of the following changes to operational limits would cause this?</p>",
   "options": {
     "a": "An increase of the V<sub>MO</sub>.",
@@ -10,5 +10,10 @@
     "d": "A decrease of the M<sub>MO</sub>."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84447,
+    "number": "327186"
+  }
 }

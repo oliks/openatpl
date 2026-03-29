@@ -1,7 +1,7 @@
 {
   "number": 516,
-  "questionId": 67518,
-  "questionNumber": "211404",
+  "questionId": "021-0516",
+  "questionNumber": "021-0516",
   "stemHtml": "<p>A pressurised aeroplane is flying at FL370 and experiences a rapid decompression. Which of the following statements about the oxygen system is correct?</p>",
   "options": {
     "a": "If the automatic mask presentation has been activated, the oxygen for the passengers will start to flow immediately.",
@@ -10,5 +10,10 @@
     "d": "The oxygen masks are automatically presented to flight crew members."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67518,
+    "number": "211404"
+  }
 }

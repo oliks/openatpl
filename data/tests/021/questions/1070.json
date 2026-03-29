@@ -1,7 +1,7 @@
 {
   "number": 1070,
-  "questionId": 67734,
-  "questionNumber": "217470",
+  "questionId": "021-1070",
+  "questionNumber": "021-1070",
   "stemHtml": "<p>The primary function of a constant speed drive in an AC generating system is to\u2026</p>",
   "options": {
     "a": "vary the engine RPM to compensate for various AC loads.",
@@ -10,5 +10,10 @@
     "d": "directly maintain a constant proportion between the RPM of engine and generator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67734,
+    "number": "217470"
+  }
 }

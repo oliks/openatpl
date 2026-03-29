@@ -1,7 +1,7 @@
 {
   "number": 1426,
-  "questionId": 70511,
-  "questionNumber": "334019",
+  "questionId": "033-1426",
+  "questionNumber": "033-1426",
   "stemHtml": "<p>Refer to figure.\u00a0<br>When completing Item 9 of the ATS flight plan, if there is no appropriate aircraft designator, the following should be entered.</p>",
   "options": {
     "a": "Insert \"ZZZZ\" and followed by an entry in ITEM 18 preceded by DEST/.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/8488D67A-5C79-49EF-8689-4FD28381538C.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8488D67A-5C79-49EF-8689-4FD28381538C.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70511,
+    "number": "334019"
+  }
 }

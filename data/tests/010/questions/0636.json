@@ -1,7 +1,7 @@
 {
   "number": 636,
-  "questionId": 85729,
-  "questionNumber": "108275",
+  "questionId": "010-0636",
+  "questionNumber": "010-0636",
   "stemHtml": "An aerodrome has parallel runways with independent parallel approaches and departures in progress. A pilot is departing on a SID which requires a turn for divergence. This turn must be made...",
   "options": {
     "a": "as soon as practicable.",
@@ -10,5 +10,10 @@
     "d": "only if prevailing meteorological conditions do not allow the pilot to remain visually separated from the other aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85729,
+    "number": "108275"
+  }
 }

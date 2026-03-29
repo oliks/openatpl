@@ -1,7 +1,7 @@
 {
   "number": 1456,
-  "questionId": 66745,
-  "questionNumber": "104697",
+  "questionId": "010-1456",
+  "questionNumber": "010-1456",
   "stemHtml": "<p>When complying with the rules of the air, the pilot-in-command of an aircraft\u2026</p>",
   "options": {
     "a": "may depart from air regulations for safety reasons only.",
@@ -10,5 +10,10 @@
     "d": "may depart from the rules of the air provided that he is willing to bear full responsibility."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66745,
+    "number": "104697"
+  }
 }

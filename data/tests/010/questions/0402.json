@@ -1,7 +1,7 @@
 {
   "number": 402,
-  "questionId": 109293,
-  "questionNumber": "106805",
+  "questionId": "010-0402",
+  "questionNumber": "010-0402",
   "stemHtml": "<p>The lower limit of a CTA is\u2026</p>",
   "options": {
     "a": "<p>5000 ft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>From the surface to a specified upper limit.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109293,
+    "number": "106805"
+  }
 }

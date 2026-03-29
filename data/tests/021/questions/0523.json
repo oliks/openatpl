@@ -1,7 +1,7 @@
 {
   "number": 523,
-  "questionId": 68159,
-  "questionNumber": "214911",
+  "questionId": "021-0523",
+  "questionNumber": "021-0523",
   "stemHtml": "<p>Significant torsion effects in a wing during flight can be caused by\u2026</p>",
   "options": {
     "a": "aileron deflection.",
@@ -10,5 +10,10 @@
     "d": "wing tip vortices."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68159,
+    "number": "214911"
+  }
 }

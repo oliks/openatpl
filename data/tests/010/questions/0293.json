@@ -1,7 +1,7 @@
 {
   "number": 293,
-  "questionId": 67277,
-  "questionNumber": "101609",
+  "questionId": "010-0293",
+  "questionNumber": "010-0293",
   "stemHtml": "<p>You are flying above Bristol and need to dump the fuel. What do you need to do?</p>",
   "options": {
     "a": "Climb to 4000 ft and dump fuel.",
@@ -10,5 +10,10 @@
     "d": "Climb to 3000 ft and dump fuel."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67277,
+    "number": "101609"
+  }
 }

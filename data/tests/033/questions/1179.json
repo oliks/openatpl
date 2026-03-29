@@ -1,7 +1,7 @@
 {
   "number": 1179,
-  "questionId": 101460,
-  "questionNumber": "331342",
+  "questionId": "033-1179",
+  "questionNumber": "033-1179",
   "stemHtml": "<p>During the dispatch planning of a Commercial Air Transport flight towards a busy aerodrome, the Commander observes that single runway operations will be underway upon arrival. To prepare for possible delays, the decision is made to include an extra 15 minutes of endurance fuel. This additional fuel should be incorporated as part of the\u2026</p>",
   "options": {
     "a": "<p>Contingency fuel.</p>",
@@ -10,5 +10,10 @@
     "d": "Trip fuel."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101460,
+    "number": "331342"
+  }
 }

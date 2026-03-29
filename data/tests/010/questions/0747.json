@@ -1,7 +1,7 @@
 {
   "number": 747,
-  "questionId": 67221,
-  "questionNumber": "102007",
+  "questionId": "010-0747",
+  "questionNumber": "010-0747",
   "stemHtml": "<p>Refer to figure.</p><p>The attached sign is a\u2026</p>",
   "options": {
     "a": "road-holding sign.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/e8a77198-3599-4ac5-ae79-da67e19f105a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/e8a77198-3599-4ac5-ae79-da67e19f105a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67221,
+    "number": "102007"
+  }
 }

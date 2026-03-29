@@ -1,7 +1,7 @@
 {
   "number": 903,
-  "questionId": 159782,
-  "questionNumber": "214465",
+  "questionId": "021-0903",
+  "questionNumber": "021-0903",
   "stemHtml": "<p>Which statement best describes the stoichiometric fuel\u2013air ratio in an aircraft engine?</p>",
   "options": {
     "a": "<p>The ratio for maximum power.<br>\u00a0</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The ratio where some fuel is left after burning to provide cooling for the engine.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159782,
+    "number": "214465"
+  }
 }

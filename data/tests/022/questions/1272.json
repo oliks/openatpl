@@ -1,7 +1,7 @@
 {
   "number": 1272,
-  "questionId": 69019,
-  "questionNumber": "221647",
+  "questionId": "022-1272",
+  "questionNumber": "022-1272",
   "stemHtml": "If, in flight, the needle of a turn and slip indicator is on the left and the ball on the right, the aircraft is:",
   "options": {
     "a": "turning left with too much left rudder deflection for a co-ordinated turn.",
@@ -10,5 +10,10 @@
     "d": "turning right with too much left rudder deflection for a co-ordinated turn."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69019,
+    "number": "221647"
+  }
 }

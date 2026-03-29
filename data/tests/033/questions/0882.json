@@ -1,7 +1,7 @@
 {
   "number": 882,
-  "questionId": 163490,
-  "questionNumber": "332172",
+  "questionId": "033-0882",
+  "questionNumber": "033-0882",
   "stemHtml": "<p>A Medium-Range Jet Aircraft is planned to perform a Commercial Air Transport flight to Sal International Airport, Cabo Verde (GVAC). For operational purposes, the Tenerife South International Airport (GCTS) is the nominated destination alternate, but for facilitation reasons, the commercial flight must follow the isolated aerodrome procedure requirements. Given the following information, calculate the required Additional Fuel (ADDFU) for the destination and destination alternate.</p><p>Average trip fuel flow: 2849 kg/h\u00a0<br>Holding fuel flow: 2400 kg/h</p><p>Taxi: 200 kg\u00a0<br>Trip Dep to GVAC: 16 239 kg\u00a0<br>Trip Dep to GCTS: 20 825 kg\u00a0<br>Contigency Dep to GVAC: 487 kg\u00a0<br>Contigency Dep to GCTS: 625 kg</p>",
   "options": {
     "a": "<p>2400 kg; 5698 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1424 kg; 5698 kg</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163490,
+    "number": "332172"
+  }
 }

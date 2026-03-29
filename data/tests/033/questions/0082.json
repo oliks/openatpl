@@ -1,7 +1,7 @@
 {
   "number": 82,
-  "questionId": 84344,
-  "questionNumber": "333207",
+  "questionId": "033-0082",
+  "questionNumber": "033-0082",
   "stemHtml": "An aircraft is flying under IFR using its FMS for area navigation. According to its FMS, the Estimated Time Over (ETO) a waypoint is 1443, but ATC has cleared the aircraft at 1446. After decreasing the groundspeed accordingly, what is the appropriate way of checking that the new speed is suitable to arrive overhead the waypoint at 1446?",
   "options": {
     "a": "The FMS will give a new ETO which can be compared against the ATC clearance.",
@@ -10,5 +10,10 @@
     "d": "<p>The FMS will give a new GS which can be compared against the ATC clearance.<br> </p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84344,
+    "number": "333207"
+  }
 }

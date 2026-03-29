@@ -1,7 +1,7 @@
 {
   "number": 1044,
-  "questionId": 83136,
-  "questionNumber": "218861",
+  "questionId": "021-1044",
+  "questionNumber": "021-1044",
   "stemHtml": "<p>With regards to a turbine engine, what does the term \u201cengine seizure\u201d mean?</p>",
   "options": {
     "a": "Engine seizure is a type of failure of a gas turbine engine in which a mechanical process physically stops an engine from turning and jams its rotating motion.",
@@ -10,5 +10,10 @@
     "d": "Engine seizure refers to the size of the engine and describes the outside dimensions of an engine."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83136,
+    "number": "218861"
+  }
 }

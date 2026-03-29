@@ -1,7 +1,7 @@
 {
   "number": 1293,
-  "questionId": 85577,
-  "questionNumber": "105393",
+  "questionId": "010-1293",
+  "questionNumber": "010-1293",
   "stemHtml": "When should the approach controller transfer an aircraft to the tower frequency?",
   "options": {
     "a": "When passing the Transition Altitude.",
@@ -10,5 +10,10 @@
     "d": "<p>Upon the outer limits of the control zone/area in IMC conditions.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85577,
+    "number": "105393"
+  }
 }

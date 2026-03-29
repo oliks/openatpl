@@ -1,7 +1,7 @@
 {
   "number": 586,
-  "questionId": 103869,
-  "questionNumber": "318648",
+  "questionId": "031-0586",
+  "questionNumber": "031-0586",
   "stemHtml": "<p>Refer to figure. <br /> \rAn Airbus A330 is preparing for a transatlantic flight from Paris to New York. The actual traffic load is 25 110 kg. Shortly before departure, 12 adult passengers and 3 children are embarked, along with 6 pieces of checked in baggage. Determine the new total traffic load.</p>\r\r<ul>\r</ul>",
   "options": {
     "a": "<p>26 313 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/aef8f79e-1188-4843-8682-8540f29644f9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/aef8f79e-1188-4843-8682-8540f29644f9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103869,
+    "number": "318648"
+  }
 }

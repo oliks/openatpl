@@ -1,7 +1,7 @@
 {
   "number": 1077,
-  "questionId": 80897,
-  "questionNumber": "221442",
+  "questionId": "022-1077",
+  "questionNumber": "022-1077",
   "stemHtml": "<p>Choose the option which correctly describes the difference between TAWS, HTAWS and GPWS\u2026</p>",
   "options": {
     "a": "TAWS, HTAWS and GPWS are the same system but the names are different depending on the manufacturer.",
@@ -10,5 +10,10 @@
     "d": "One is for aeroplanes and the other one is for helicopters."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80897,
+    "number": "221442"
+  }
 }

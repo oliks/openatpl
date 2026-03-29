@@ -1,7 +1,7 @@
 {
   "number": 883,
-  "questionId": 66780,
-  "questionNumber": "102254",
+  "questionId": "010-0883",
+  "questionNumber": "010-0883",
   "stemHtml": "<p>When two aircraft are approaching head-on or approximately so and there is a danger of collision, each aircraft shall\u2026</p>",
   "options": {
     "a": "turn, climb or descend as necessary to avoid a collision.",
@@ -10,5 +10,10 @@
     "d": "alter its heading to the right."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66780,
+    "number": "102254"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1473,
-  "questionId": 105973,
-  "questionNumber": "227457",
+  "questionId": "022-1473",
+  "questionNumber": "022-1473",
   "stemHtml": "<p>The captain's PFD LCD fails. The captain's PFD is...</p>",
   "options": {
     "a": "<p>automatically shown on the captain's ND.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>shown on the captain's ND if only manually selected.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105973,
+    "number": "227457"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1121,
-  "questionId": 106276,
-  "questionNumber": "109581",
+  "questionId": "010-1121",
+  "questionNumber": "010-1121",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the location of the aerodrome reference point (ARP)?</p>",
   "options": {
     "a": "<p>At the midpoint of the longest runway.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/2609f3c2-0ce1-474e-92f4-a6619bba4983.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/2609f3c2-0ce1-474e-92f4-a6619bba4983.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106276,
+    "number": "109581"
+  }
 }

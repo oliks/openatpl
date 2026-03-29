@@ -1,7 +1,7 @@
 {
   "number": 1526,
-  "questionId": 82069,
-  "questionNumber": "223717",
+  "questionId": "022-1526",
+  "questionNumber": "022-1526",
   "stemHtml": "<p>What is the use of the TCS (Touch Control Steering)?</p>",
   "options": {
     "a": "<p>temporary manual flying while the autopilot is still engaged.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>disengagement of the autopilot to make a flight path change, before reengaging it back.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82069,
+    "number": "223717"
+  }
 }

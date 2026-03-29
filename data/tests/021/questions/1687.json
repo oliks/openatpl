@@ -1,7 +1,7 @@
 {
   "number": 1687,
-  "questionId": 163396,
-  "questionNumber": "216511",
+  "questionId": "021-1687",
+  "questionNumber": "021-1687",
   "stemHtml": "<p>On a turboprop aircraft equipped with multiple engines, during which specific phase or phases of flight is the automatic propeller feathering may be used the most?</p>",
   "options": {
     "a": "<p>During cruise only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>All phases of flight.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163396,
+    "number": "216511"
+  }
 }

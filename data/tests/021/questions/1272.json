@@ -1,7 +1,7 @@
 {
   "number": 1272,
-  "questionId": 84551,
-  "questionNumber": "217415",
+  "questionId": "021-1272",
+  "questionNumber": "021-1272",
   "stemHtml": "<p>On a large jet transport aircraft, the flap/slat asymmetry protection system...</p>",
   "options": {
     "a": "uses the yaw damper actuators and assists the crew with trimming the aircraft in the case of a flap/slat asymmetry condition.",
@@ -10,5 +10,10 @@
     "d": "uses mechanical springs in combination with aerodynamic forces to automatically retract flap/slat surfaces if an asymmetric flap/slat condition occurs."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84551,
+    "number": "217415"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1199,
-  "questionId": 67299,
-  "questionNumber": "212208",
+  "questionId": "021-1199",
+  "questionNumber": "021-1199",
   "stemHtml": "On a normally aspirated aero-engine fitted with a fixed pitch propeller:",
   "options": {
     "a": "manifold pressure decreases as the aeroplane climbs at a fixed throttle setting.",
@@ -10,5 +10,10 @@
     "d": "the propeller setting is constant at all indicated airspeeds."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67299,
+    "number": "212208"
+  }
 }

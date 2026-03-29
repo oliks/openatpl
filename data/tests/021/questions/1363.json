@@ -1,7 +1,7 @@
 {
   "number": 1363,
-  "questionId": 80817,
-  "questionNumber": "218504",
+  "questionId": "021-1363",
+  "questionNumber": "021-1363",
   "stemHtml": "A FADEC piston engine has two _____ to achieve redundancy.",
   "options": {
     "a": "magnetos with impulse-coupling starters and dual sensors",
@@ -10,5 +10,10 @@
     "d": "starter motors and generators"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80817,
+    "number": "218504"
+  }
 }

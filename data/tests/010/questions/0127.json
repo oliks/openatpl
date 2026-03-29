@@ -1,7 +1,7 @@
 {
   "number": 127,
-  "questionId": 80140,
-  "questionNumber": "105728",
+  "questionId": "010-0127",
+  "questionNumber": "010-0127",
   "stemHtml": "<p>According to ICAO Doc 8168, in cases where NO track guidance is provided, a convenient and flexible method of ensuring obstacle clearance is to use the _____ method.</p>",
   "options": {
     "a": "<p>Omnidirectional</p>",
@@ -10,5 +10,10 @@
     "d": "Instrument departure"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80140,
+    "number": "105728"
+  }
 }

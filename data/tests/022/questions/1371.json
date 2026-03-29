@@ -1,7 +1,7 @@
 {
   "number": 1371,
-  "questionId": 69284,
-  "questionNumber": "222698",
+  "questionId": "022-1371",
+  "questionNumber": "022-1371",
   "stemHtml": "<p>The enhanced GPWS terrain display uses the following colors\u2026</p>",
   "options": {
     "a": "<div>Red, Magenta, Blue</div>",
@@ -10,5 +10,10 @@
     "d": "Cyan, Amber, Red, Blue"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69284,
+    "number": "222698"
+  }
 }

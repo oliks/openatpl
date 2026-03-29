@@ -1,7 +1,7 @@
 {
   "number": 738,
-  "questionId": 84417,
-  "questionNumber": "332171",
+  "questionId": "033-0738",
+  "questionNumber": "033-0738",
   "stemHtml": "<p>For the following information, calculate the maximum attainable flight time and range:</p><p>Average fuel flow: 9.2 USG/hr <br /> Available fuel: 42 USG <br /> TAS: 145 kt <br /> Wind component: 20 kt headwind</p>",
   "options": {
     "a": "<p>4 hours 34 minutes; 571 NM</p>",
@@ -10,5 +10,10 @@
     "d": "4 hours 34 minutes; 662 NM"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84417,
+    "number": "332171"
+  }
 }

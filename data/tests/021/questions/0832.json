@@ -1,7 +1,7 @@
 {
   "number": 832,
-  "questionId": 82729,
-  "questionNumber": "215517",
+  "questionId": "021-0832",
+  "questionNumber": "021-0832",
   "stemHtml": "In comparison with the use of a conventional bleed air pneumatic system, an aircraft fitted with an electrical pneumatic system has\u2026",
   "options": {
     "a": "a higher ceiling due to a higher maximum differential pressure.",
@@ -10,5 +10,10 @@
     "d": "<p>reduced de-icing capabilities due to reduced air available.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82729,
+    "number": "215517"
+  }
 }

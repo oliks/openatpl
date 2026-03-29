@@ -1,7 +1,7 @@
 {
   "number": 191,
-  "questionId": 68114,
-  "questionNumber": "216010",
+  "questionId": "021-0191",
+  "questionNumber": "021-0191",
   "stemHtml": "<p>To enhance brake life in relation to brake wear, it is recommended\u2026</p>",
   "options": {
     "a": "for steel brakes to use a single, firm brake application during taxi.",
@@ -10,5 +10,10 @@
     "d": "for both carbon and steel brakes to use differential braking to reduce brake temperatures."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68114,
+    "number": "216010"
+  }
 }

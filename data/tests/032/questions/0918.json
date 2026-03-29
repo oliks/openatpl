@@ -1,7 +1,7 @@
 {
   "number": 918,
-  "questionId": 70250,
-  "questionNumber": "322899",
+  "questionId": "032-0918",
+  "questionNumber": "032-0918",
   "stemHtml": "<p>For a multi-engine aircraft in Performance Class B the minimum gross gradient of climb after a balked landing is\u2026</p>",
   "options": {
     "a": "2.5%",
@@ -10,5 +10,10 @@
     "d": "3.2%"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70250,
+    "number": "322899"
+  }
 }

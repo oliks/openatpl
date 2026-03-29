@@ -1,7 +1,7 @@
 {
   "number": 1386,
-  "questionId": 70604,
-  "questionNumber": "336758",
+  "questionId": "033-1386",
+  "questionNumber": "033-1386",
   "stemHtml": "Refer to figure. <br /> Assuming no significant change in fuel consumption, what would be the planned remaining fuel at waypoint 40N 050W?",
   "options": {
     "a": "25.1 tonnes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/a5b1d142-9249-4aa3-a7ac-020238dd480f.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/a5b1d142-9249-4aa3-a7ac-020238dd480f.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70604,
+    "number": "336758"
+  }
 }

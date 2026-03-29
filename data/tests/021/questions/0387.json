@@ -1,7 +1,7 @@
 {
   "number": 387,
-  "questionId": 106114,
-  "questionNumber": "219768",
+  "questionId": "021-0387",
+  "questionNumber": "021-0387",
   "stemHtml": "<p>Three green lights in the flight deck indicate that the landing gear is...</p>",
   "options": {
     "a": "<p>travelling from the up position to the down position.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>fully down and locked.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106114,
+    "number": "219768"
+  }
 }

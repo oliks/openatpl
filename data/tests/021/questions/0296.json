@@ -1,7 +1,7 @@
 {
   "number": 296,
-  "questionId": 80124,
-  "questionNumber": "214428",
+  "questionId": "021-0296",
+  "questionNumber": "021-0296",
   "stemHtml": "<p>Fill-in the blank:</p><p>_____ fire extinguisher bottle(s) is/are required per engine.</p>",
   "options": {
     "a": "1",
@@ -10,5 +10,10 @@
     "d": "5"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80124,
+    "number": "214428"
+  }
 }

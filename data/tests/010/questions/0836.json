@@ -1,7 +1,7 @@
 {
   "number": 836,
-  "questionId": 106298,
-  "questionNumber": "101742",
+  "questionId": "010-0836",
+  "questionNumber": "010-0836",
   "stemHtml": "<p>An aircraft that took off from state A has landed to state B. After landing, the authority wishes to execute a search to the aircraft. Is this procedure legal?</p>",
   "options": {
     "a": "<p>Yes, if both countries have agreed on a bilateral agreement.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No, only state A can search the aircraft.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106298,
+    "number": "101742"
+  }
 }

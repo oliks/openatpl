@@ -1,7 +1,7 @@
 {
   "number": 124,
-  "questionId": 67672,
-  "questionNumber": "218313",
+  "questionId": "021-0124",
+  "questionNumber": "021-0124",
   "stemHtml": "<p>On a multi-engine aircraft, a fire detection system includes\u2026</p>",
   "options": {
     "a": "both a visual warning and an aural alert unique to each engine.",
@@ -10,5 +10,10 @@
     "d": "a visual warning for each engine and an aural alert common to all engines."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67672,
+    "number": "218313"
+  }
 }

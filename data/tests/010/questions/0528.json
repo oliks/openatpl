@@ -1,7 +1,7 @@
 {
   "number": 528,
-  "questionId": 82505,
-  "questionNumber": "102725",
+  "questionId": "010-0528",
+  "questionNumber": "010-0528",
   "stemHtml": "<p>What does the abbreviation TA stand for?</p>",
   "options": {
     "a": "<p>Terrain Avoidance and Traffic Advisory</p>",
@@ -10,5 +10,10 @@
     "d": "Terminal Altitude and Traffic Advisory"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82505,
+    "number": "102725"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1439,
-  "questionId": 68302,
-  "questionNumber": "213458",
+  "questionId": "021-1439",
+  "questionNumber": "021-1439",
   "stemHtml": "<p>The disadvantages of a chemical oxygen source compared with a gaseous one for the passenger cabin are:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. a flow which cannot be modulated.</span>  <br />  \n2. less capacity.  <br />  \n3. risk of fire and/or explosion.</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "1, 3",
@@ -10,5 +10,10 @@
     "d": "2, 3."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68302,
+    "number": "213458"
+  }
 }

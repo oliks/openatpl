@@ -1,7 +1,7 @@
 {
   "number": 437,
-  "questionId": 106557,
-  "questionNumber": "219813",
+  "questionId": "021-0437",
+  "questionNumber": "021-0437",
   "stemHtml": "<p>Which of the following statements is correct about an electrical fuse?</p>",
   "options": {
     "a": "<p>Upon reaching its nominal amperage, the fuse instantly melts.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The fuse provides protection against voltage exceedances.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106557,
+    "number": "219813"
+  }
 }

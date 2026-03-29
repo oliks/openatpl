@@ -1,7 +1,7 @@
 {
   "number": 1688,
-  "questionId": 68512,
-  "questionNumber": "222645",
+  "questionId": "022-1688",
+  "questionNumber": "022-1688",
   "stemHtml": "The Mach number is:",
   "options": {
     "a": "the ratio of the TAS to the speed of sound at the altitude considered.",
@@ -10,5 +10,10 @@
     "d": "the ratio of the IAS to speed of the sound at the altitude considered."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68512,
+    "number": "222645"
+  }
 }

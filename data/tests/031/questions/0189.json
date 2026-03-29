@@ -1,7 +1,7 @@
 {
   "number": 189,
-  "questionId": 69495,
-  "questionNumber": "311375",
+  "questionId": "031-0189",
+  "questionNumber": "031-0189",
   "stemHtml": "<p>Which CG position is used when determining minimum control speeds in performance? A CG\u2026</p>",
   "options": {
     "a": "at the aft limit.",
@@ -10,5 +10,10 @@
     "d": "at the average position."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69495,
+    "number": "311375"
+  }
 }

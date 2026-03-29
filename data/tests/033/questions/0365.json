@@ -1,7 +1,7 @@
 {
   "number": 365,
-  "questionId": 164257,
-  "questionNumber": "339394",
+  "questionId": "033-0365",
+  "questionNumber": "033-0365",
   "stemHtml": "<p>For the purposes of Item 9 (Wake turbulence category) of the ATC flight plan, an aircraft with a maximum certificated take-off mass of 6500 kg is\u2026</p>",
   "options": {
     "a": "<p>medium \u201cM\u201d.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>unclassified \u201cU\u201d.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164257,
+    "number": "339394"
+  }
 }

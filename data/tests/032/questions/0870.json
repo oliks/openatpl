@@ -1,7 +1,7 @@
 {
   "number": 870,
-  "questionId": 80349,
-  "questionNumber": "323494",
+  "questionId": "032-0870",
+  "questionNumber": "032-0870",
   "stemHtml": "<p>A twin-engine, class B aeroplane is flying straight and level when it loses one engine. Complete the following sentence:</p><p>The Thrust Required will (1) _____ and the Excess Thrust will (2) _____.</p>",
   "options": {
     "a": "(1) Decrease by 50%; (2) Decrease by more than 50%.",
@@ -10,5 +10,10 @@
     "d": "(1) Increase; (2) Decrease by 50%."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80349,
+    "number": "323494"
+  }
 }

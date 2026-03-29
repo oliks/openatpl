@@ -1,7 +1,7 @@
 {
   "number": 223,
-  "questionId": 81772,
-  "questionNumber": "225037",
+  "questionId": "022-0223",
+  "questionNumber": "022-0223",
   "stemHtml": "After refuelling at your destination, before the return trip, what should be checked on the FMS fuel pages?",
   "options": {
     "a": "That the volume/mass of the fuel on board is correct according to how much has been added.",
@@ -10,5 +10,10 @@
     "d": "That the fuel in the tanks is the correct type/grade."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81772,
+    "number": "225037"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 796,
-  "questionId": 81740,
-  "questionNumber": "215191",
+  "questionId": "021-0796",
+  "questionNumber": "021-0796",
   "stemHtml": "If the back-up system for landing gear extension is of the free-fall type, which of these might be moved with mechanical power?",
   "options": {
     "a": "The hydraulic cut-off valve",
@@ -10,5 +10,10 @@
     "d": "The landing gear actuators"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81740,
+    "number": "215191"
+  }
 }

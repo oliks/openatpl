@@ -1,7 +1,7 @@
 {
   "number": 1463,
-  "questionId": 67845,
-  "questionNumber": "211896",
+  "questionId": "021-1463",
+  "questionNumber": "021-1463",
   "stemHtml": "Consider a piston-engined aircraft. In which case is a separate engine-driven fuel pump always required?",
   "options": {
     "a": "For operating in sub-zero temperatures, to prevent fuel waxing.",
@@ -10,5 +10,10 @@
     "d": "To supply positive fuel pressure to a fuel injection system."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67845,
+    "number": "211896"
+  }
 }

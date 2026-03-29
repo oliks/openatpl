@@ -1,7 +1,7 @@
 {
   "number": 656,
-  "questionId": 68529,
-  "questionNumber": "221831",
+  "questionId": "022-0656",
+  "questionNumber": "022-0656",
   "stemHtml": "<p>A radio altimeter can be defined as a\u2026</p>",
   "options": {
     "a": "self-contained on-board aid used to measure the true height of the aircraft",
@@ -10,5 +10,10 @@
     "d": "ground radio aid used to measure the true altitude of the aircraft"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68529,
+    "number": "221831"
+  }
 }

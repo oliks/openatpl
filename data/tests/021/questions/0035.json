@@ -1,7 +1,7 @@
 {
   "number": 35,
-  "questionId": 67443,
-  "questionNumber": "217233",
+  "questionId": "021-0035",
+  "questionNumber": "021-0035",
   "stemHtml": "<p>Apart from flight into known icing conditions, the intake system of a diesel engine\u2026</p>",
   "options": {
     "a": "<p>is never heated because diesel engines operate at very high temperatures.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>is never heated because a diesel engine is a injection engine.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67443,
+    "number": "217233"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 416,
-  "questionId": 81222,
-  "questionNumber": "215915",
+  "questionId": "021-0416",
+  "questionNumber": "021-0416",
   "stemHtml": "<p>Circuit Breakers must be able to withstand the transient overcurrents that occur when switching on\u2026</p>",
   "options": {
     "a": "electric motors (inductive loads)",
@@ -10,5 +10,10 @@
     "d": "strobe lights (intermittent loads)"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81222,
+    "number": "215915"
+  }
 }

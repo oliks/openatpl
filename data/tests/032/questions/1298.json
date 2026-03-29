@@ -1,7 +1,7 @@
 {
   "number": 1298,
-  "questionId": 79278,
-  "questionNumber": "321368",
+  "questionId": "032-1298",
+  "questionNumber": "032-1298",
   "stemHtml": "You are on the downwind leg at Addison airport in Texas and you notice you have a significant tailwind. When the final turn/base leg is complete and you are on final, what would you expect to have to do?",
   "options": {
     "a": "You would expect to have to increase the engine thrust to stay on the correct flight path because with the headwind the ground path will tend to decrease.",
@@ -10,5 +10,10 @@
     "d": "You would expect to have to increase the engine thrust to stay on the correct flight path because with the headwind the ground path will tend to increase."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79278,
+    "number": "321368"
+  }
 }

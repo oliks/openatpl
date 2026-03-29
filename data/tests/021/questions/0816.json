@@ -1,7 +1,7 @@
 {
   "number": 816,
-  "questionId": 79221,
-  "questionNumber": "216558",
+  "questionId": "021-0816",
+  "questionNumber": "021-0816",
   "stemHtml": "<p>The metal box around a lithium battery is designed to contain.</p>",
   "options": {
     "a": "<p>Thermal runaway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Strong magnetic fields.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79221,
+    "number": "216558"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 194,
-  "questionId": 67709,
-  "questionNumber": "219611",
+  "questionId": "021-0194",
+  "questionNumber": "021-0194",
   "stemHtml": "<p>For a turbine engine, the self-sustaining speed relates to the minimum RPM at which the engine\u2026</p>",
   "options": {
     "a": "will enable the generators to supply bus-bar voltage.",
@@ -10,5 +10,10 @@
     "d": "is designed to idle after starting."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67709,
+    "number": "219611"
+  }
 }

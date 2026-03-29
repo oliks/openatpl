@@ -1,7 +1,7 @@
 {
   "number": 144,
-  "questionId": 69492,
-  "questionNumber": "315104",
+  "questionId": "031-0144",
+  "questionNumber": "031-0144",
   "stemHtml": "<p>During the pre-flight preparation, the pilot calculates an amount of 27.5 US gallons for refuelling, which equals\u2026</p>",
   "options": {
     "a": "7 litres.",
@@ -10,5 +10,10 @@
     "d": "104 litres."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69492,
+    "number": "315104"
+  }
 }

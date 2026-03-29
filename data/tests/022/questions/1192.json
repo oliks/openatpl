@@ -1,7 +1,7 @@
 {
   "number": 1192,
-  "questionId": 68568,
-  "questionNumber": "225816",
+  "questionId": "022-1192",
+  "questionNumber": "022-1192",
   "stemHtml": "<p>When a TCAS II generates a corrective resolution advisory\u2026</p>",
   "options": {
     "a": "no action is required: vertical speed, heading and IAS can remained unchanged.",
@@ -10,5 +10,10 @@
     "d": "the heading must be effectively modified without delay."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68568,
+    "number": "225816"
+  }
 }

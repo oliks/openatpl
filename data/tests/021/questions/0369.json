@@ -1,7 +1,7 @@
 {
   "number": 369,
-  "questionId": 108976,
-  "questionNumber": "218085",
+  "questionId": "021-0369",
+  "questionNumber": "021-0369",
   "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft with a cracked cockpit windshield and a standard cabin altitude in the cruise of 8 000 feet is limited to a pressure differential of 4.5 psi. What is the maximum pressure altitude the aircraft can operate at?</p>",
   "options": {
     "a": "<p>8 000 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/ea2a98a7-7ce2-4475-800e-8046f79cbbbc.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/ea2a98a7-7ce2-4475-800e-8046f79cbbbc.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108976,
+    "number": "218085"
+  }
 }

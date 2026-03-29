@@ -1,7 +1,7 @@
 {
   "number": 1702,
-  "questionId": 101803,
-  "questionNumber": "226154",
+  "questionId": "022-1702",
+  "questionNumber": "022-1702",
   "stemHtml": "<p>Which of the following options is correct regarding the Synthetic Vision System (SVS)?</p>",
   "options": {
     "a": "<p>The SVS uses data from a dynamic database fed by external sensors during flight to create a synthetic vision representation in a low visibility environment.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The SVS digitally improves the actual sensor data to provide an actual synthetic vision representation of the surroundings of the aircraft in a low visibility environment.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101803,
+    "number": "226154"
+  }
 }

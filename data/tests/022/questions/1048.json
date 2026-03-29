@@ -1,7 +1,7 @@
 {
   "number": 1048,
-  "questionId": 68547,
-  "questionNumber": "221674",
+  "questionId": "022-1048",
+  "questionNumber": "022-1048",
   "stemHtml": "<p>The positions of the mode selector of an inertial navigation unit are: OFF \u2013 STBY \u2013 ALIGN \u2013 NAV \u2013 ATT:</p><p>1 \u2013 in \"STBY\", the unit aligns on the local geographic co-ordinate system <br>2 \u2013 the \"ATT\" position is used during automatic landing (LAND mode) <br>3 \u2013 in \"NAV\" the co-ordinates of the start position can be entered <br>4 \u2013 the platform is levelled before azimuth alignment <br>5 \u2013 in cruise, the unit can only be used in \"NAV\" mode</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 4.",
@@ -10,5 +10,10 @@
     "d": "<p>4.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68547,
+    "number": "221674"
+  }
 }

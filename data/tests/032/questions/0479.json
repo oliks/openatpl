@@ -1,7 +1,7 @@
 {
   "number": 479,
-  "questionId": 69705,
-  "questionNumber": "324182",
+  "questionId": "032-0479",
+  "questionNumber": "032-0479",
   "stemHtml": "<p>Minimum control speed on the ground, V<strong><sub>MCG</sub></strong>, is based on directional control being maintained by\u2026</p>",
   "options": {
     "a": "primary aerodynamic control and nose wheel steering.",
@@ -10,5 +10,10 @@
     "d": "nose wheel steering only."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69705,
+    "number": "324182"
+  }
 }

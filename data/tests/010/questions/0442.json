@@ -1,7 +1,7 @@
 {
   "number": 442,
-  "questionId": 82506,
-  "questionNumber": "109839",
+  "questionId": "010-0442",
+  "questionNumber": "010-0442",
   "stemHtml": "<p>What should an aeroplane have to conduct parallel approaches?</p>",
   "options": {
     "a": "<p>Non-precision approach capabilities, or meet the eligibility of MLS capabilities.</p>",
@@ -10,5 +10,10 @@
     "d": "Precision approach capabilities, or meet the eligibility of VOR capabilities."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82506,
+    "number": "109839"
+  }
 }

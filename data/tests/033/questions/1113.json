@@ -1,7 +1,7 @@
 {
   "number": 1113,
-  "questionId": 105742,
-  "questionNumber": "337754",
+  "questionId": "033-1113",
+  "questionNumber": "033-1113",
   "stemHtml": "<p>Refer to figure or High_5_AT. Refer to Jeppesen GSPRM Training Route Manual - Chart \"AT HI 5\".\u00a0<br>Find the initial true course from KEFLAV\u00cdK (BIKF, N63\u00b059.1' W022\u00b036.3') to AMSTERDAM (EHAM, N52\u00b018.5\u2032 E004\u00b045.8\u2032)?</p>",
   "options": {
     "a": "<p>116\u00b0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/7932dd12-3230-4b07-8975-7b573d9df067.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7932dd12-3230-4b07-8975-7b573d9df067.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105742,
+    "number": "337754"
+  }
 }

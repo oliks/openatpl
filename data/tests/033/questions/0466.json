@@ -1,7 +1,7 @@
 {
   "number": 466,
-  "questionId": 163496,
-  "questionNumber": "339226",
+  "questionId": "033-0466",
+  "questionNumber": "033-0466",
   "stemHtml": "<p>Refer to figure or VFR chart ED-4 from the Jeppesen GSPRM 2017.\u00a0<br>The track between Regensburg Oberhub aerodrome (EDNR) (N49\u00b009' E012\u00b005') and Strunkovice aerodrome (LKSR) (N49\u00b005' E014\u00b005') is 092\u00b0(T). What is the magnetic track to LKSR and the distance to LKAA FIR boundary?</p>",
   "options": {
     "a": "<p>89\u00b0(M) and 57 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5225232a-cc73-41e4-adbd-749bf6124865.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5225232a-cc73-41e4-adbd-749bf6124865.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163496,
+    "number": "339226"
+  }
 }

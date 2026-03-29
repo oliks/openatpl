@@ -1,7 +1,7 @@
 {
   "number": 784,
-  "questionId": 81322,
-  "questionNumber": "102895",
+  "questionId": "010-0784",
+  "questionNumber": "010-0784",
   "stemHtml": "<p>According to ICAO Annex 14, aerodrome mandatory instruction signs are:</p>\r\r<p>1. Runway designation signs <br /> \r2. Runway exit signs <br /> \r3. Category I, II or III holding position signs <br /> \r4. Runway-holding position signs <br /> \r5. Road-holding position signs <br /> \r6. NO ENTRY signs <br /> \r7. Direction signs <br /> \r8. Location signs</p>",
   "options": {
     "a": "<p dir=\"ltr\">2, 3, 4, 5, 7, and 8.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 3, 4, 5, and 8.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81322,
+    "number": "102895"
+  }
 }

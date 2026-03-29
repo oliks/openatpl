@@ -1,7 +1,7 @@
 {
   "number": 760,
-  "questionId": 154226,
-  "questionNumber": "228138",
+  "questionId": "022-0760",
+  "questionNumber": "022-0760",
   "stemHtml": "<p>Refer to figure.    <br />    During normal operation, which selections should be made on the rotary rotary switches shown in the annex?</p>",
   "options": {
     "a": "<p>NAV, with the system providing navigation and position data only</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/b2317551-a835-48f7-ae0b-0d052c3cbd4f.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/b2317551-a835-48f7-ae0b-0d052c3cbd4f.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 154226,
+    "number": "228138"
+  }
 }

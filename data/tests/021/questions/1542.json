@@ -1,7 +1,7 @@
 {
   "number": 1542,
-  "questionId": 96510,
-  "questionNumber": "213021",
+  "questionId": "021-1542",
+  "questionNumber": "021-1542",
   "stemHtml": "<p>You are flying a FBW (Fly-By-Wire) aircraft in a 30-degree angle of bank turn when the bank angle protection system activates due to a failure. What will happen?</p>",
   "options": {
     "a": "<p>The auto-pilot engages in heading mode</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Increased stick force will be required to maintain or increase the bank angle</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96510,
+    "number": "213021"
+  }
 }

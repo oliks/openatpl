@@ -1,7 +1,7 @@
 {
   "number": 1018,
-  "questionId": 70830,
-  "questionNumber": "335052",
+  "questionId": "033-1018",
+  "questionNumber": "033-1018",
   "stemHtml": "<p>Given the following data for the pre-flight calculations, determine the Contingency Fuel for a Commercial Air Transport flight from Paris to Barcelona. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Trip Fuel: 4560 kg<br>Fuel flow at 1500 feet above destination aerodrome: 2304 kg/h<br>Fuel penalty when flying 2000 feet lower than optimum altitude: 232 kg<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "228 kg",
@@ -10,5 +10,10 @@
     "d": "115 kg"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70830,
+    "number": "335052"
+  }
 }

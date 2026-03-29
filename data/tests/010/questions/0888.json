@@ -1,7 +1,7 @@
 {
   "number": 888,
-  "questionId": 66656,
-  "questionNumber": "104628",
+  "questionId": "010-0888",
+  "questionNumber": "010-0888",
   "stemHtml": "<p>According to ICAO Annex 17, the primary objective of States as regards safeguarding civil aviation against acts of unlawful interference is the\u2026</p>",
   "options": {
     "a": "safety of aerodrome facilities, including landside and airside buildings.",
@@ -10,5 +10,10 @@
     "d": "safety of aircraft engaged in international civil operations."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66656,
+    "number": "104628"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 694,
-  "questionId": 85621,
-  "questionNumber": "215119",
+  "questionId": "021-0694",
+  "questionNumber": "021-0694",
   "stemHtml": "When performing a landing using autobrakes, what effect does the use of reverse thrust have?",
   "options": {
     "a": "Cancelling ground spoilers.",
@@ -10,5 +10,10 @@
     "d": "Increase stopping distance."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85621,
+    "number": "215119"
+  }
 }

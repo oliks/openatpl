@@ -1,7 +1,7 @@
 {
   "number": 507,
-  "questionId": 109426,
-  "questionNumber": "219065",
+  "questionId": "021-0507",
+  "questionNumber": "021-0507",
   "stemHtml": "<p>What is correct regarding a restrictor valve?</p>",
   "options": {
     "a": "<p>It allows full fuel flow on one side, while reducing it on the other side.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It is useless.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109426,
+    "number": "219065"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 705,
-  "questionId": 82502,
-  "questionNumber": "106154",
+  "questionId": "010-0705",
+  "questionNumber": "010-0705",
   "stemHtml": "<p>Complete the following phrase:</p><p>An aircraft that is operated in the EU must hold _____ that is issued or rendered valid by the State of Registry.</p>",
   "options": {
     "a": "<p>A Certificate of Airworthiness.</p>",
@@ -10,5 +10,10 @@
     "d": "A Journey Log."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82502,
+    "number": "106154"
+  }
 }

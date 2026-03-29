@@ -1,7 +1,7 @@
 {
   "number": 489,
-  "questionId": 68809,
-  "questionNumber": "221295",
+  "questionId": "022-0489",
+  "questionNumber": "022-0489",
   "stemHtml": "<p>The FANS concept includes\u2026</p>",
   "options": {
     "a": "an enhanced detection of the nearby terrain.",
@@ -10,5 +10,10 @@
     "d": "a datalink communication between the aircraft and the ATC centres to replace the voice communication."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68809,
+    "number": "221295"
+  }
 }

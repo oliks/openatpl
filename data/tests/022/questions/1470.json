@@ -1,7 +1,7 @@
 {
   "number": 1470,
-  "questionId": 106700,
-  "questionNumber": "221050",
+  "questionId": "022-1470",
+  "questionNumber": "022-1470",
   "stemHtml": "<p>Regarding the Go-Around mode on an aircraft\u2019s autopilot and autothrust system, which statement accurately describes its engagement criteria?</p>",
   "options": {
     "a": "<p>It will only engage if selected above the decision height.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It only engages when above the decision height and on an ILS approach.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106700,
+    "number": "221050"
+  }
 }

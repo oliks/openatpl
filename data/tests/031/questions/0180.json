@@ -1,7 +1,7 @@
 {
   "number": 180,
-  "questionId": 80281,
-  "questionNumber": "317821",
+  "questionId": "031-0180",
+  "questionNumber": "031-0180",
   "stemHtml": "An aircraft had a total mass of 5 430 kg with a CG of 5.43 m aft of the datum line. After calculations, to return the CG within limits, an additional ballast of 210 kg was loaded. The aircraft's new CG is 5.56 m aft of the datum. <br /> Determine where the additional ballast was loaded:",
   "options": {
     "a": "1.35 m aft of the datum line.",
@@ -10,5 +10,10 @@
     "d": "9.05 m aft of the datum line."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80281,
+    "number": "317821"
+  }
 }

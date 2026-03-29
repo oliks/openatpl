@@ -1,7 +1,7 @@
 {
   "number": 321,
-  "questionId": 109021,
-  "questionNumber": "227035",
+  "questionId": "022-0321",
+  "questionNumber": "022-0321",
   "stemHtml": "<p>Are heated temperature probes installed on aircraft and, if so, how are they corrected for temperature?</p>",
   "options": {
     "a": "<p>Rarely, because of air compressibility heating the probe.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Not installed, as air temperature is derived indirectly.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109021,
+    "number": "227035"
+  }
 }

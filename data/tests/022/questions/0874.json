@@ -1,7 +1,7 @@
 {
   "number": 874,
-  "questionId": 79280,
-  "questionNumber": "222364",
+  "questionId": "022-0874",
+  "questionNumber": "022-0874",
   "stemHtml": "Due to a drive failure, the slats of a transport category aircraft do not retract properly after take-off. How will this impact the FMS in terms of ETA and fuel predictions?",
   "options": {
     "a": "ETA will be calculated accurately but fuel prediction will no longer be accurate.",
@@ -10,5 +10,10 @@
     "d": "ETA or fuel prediction indications remain reliable."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79280,
+    "number": "222364"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 803,
-  "questionId": 70688,
-  "questionNumber": "333127",
+  "questionId": "033-0803",
+  "questionNumber": "033-0803",
   "stemHtml": "<p>What should be considered when using the following NOTAM information from the transmitter during the validity period?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q EDGG/QNVXX/IV/BO/AE/000/999/5116N00645E025 A EDDL B FROM: 14/07/11 15:02 C TO: PERM E DUSSELDORF VOR/DME DUS, 115.5 MHZ/CH 98Y, VOR PART MAY ONLY BE USED FOR THE RADIALS IN THE PUBLISHED EN ROUTE, APPROACH AND DEPARTURE PROCEDURES</span></p>",
   "options": {
     "a": "Use of the transmitter to fix the aircraft position outside of the published procedures is prohibited.",
@@ -10,5 +10,10 @@
     "d": "Only the radials are usable when following the published approaches."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70688,
+    "number": "333127"
+  }
 }

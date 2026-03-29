@@ -1,7 +1,7 @@
 {
   "number": 1225,
-  "questionId": 83244,
-  "questionNumber": "332370",
+  "questionId": "033-1225",
+  "questionNumber": "033-1225",
   "stemHtml": "<p>Refer to figure.\u00a0<br>For Mass and Balance and Aerodynamic purposes, a pilot decides to refuell only the inner and outer wing tanks on both sides, while the centre tank remains empty. How much fuel is available?</p>",
   "options": {
     "a": "15 608 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/EABE45BF-FD7B-401C-942A-1E64F6CDD373.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/EABE45BF-FD7B-401C-942A-1E64F6CDD373.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83244,
+    "number": "332370"
+  }
 }

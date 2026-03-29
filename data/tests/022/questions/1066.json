@@ -1,7 +1,7 @@
 {
   "number": 1066,
-  "questionId": 134564,
-  "questionNumber": "225899",
+  "questionId": "022-1066",
+  "questionNumber": "022-1066",
   "stemHtml": "<p>Which type of transponder must an intruder be fitted with for a TCAS II Resolution Advisory (RA) to be coordinated?</p>",
   "options": {
     "a": "<p>TCAS II does not need a transponder to issue a coordinated RA</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Mode C</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 134564,
+    "number": "225899"
+  }
 }

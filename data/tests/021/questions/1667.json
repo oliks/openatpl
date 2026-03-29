@@ -1,7 +1,7 @@
 {
   "number": 1667,
-  "questionId": 68211,
-  "questionNumber": "216638",
+  "questionId": "021-1667",
+  "questionNumber": "021-1667",
   "stemHtml": "What option describes an irreversible flight control system?",
   "options": {
     "a": "The flight controls can only be moved in one direction from the control lever in the cockpit.",
@@ -10,5 +10,10 @@
     "d": "There is a direct mechanical linkage connecting the control lever and the autopilot."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68211,
+    "number": "216638"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1249,
-  "questionId": 86113,
-  "questionNumber": "104106",
+  "questionId": "010-1249",
+  "questionNumber": "010-1249",
   "stemHtml": "Which of the following must the PIC consider before undertaking an IFR flight?",
   "options": {
     "a": "The fuel price at the destination.",
@@ -10,5 +10,10 @@
     "d": "A different course of action if the flight can not be continued as planned."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86113,
+    "number": "104106"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 71,
-  "questionId": 86198,
-  "questionNumber": "215799",
+  "questionId": "021-0071",
+  "questionNumber": "021-0071",
   "stemHtml": "<p>How does a pilot disconnect the autopilot in an aircraft equipped with a sidestick?</p><p>1- By pushing or pulling the sidestick hard<br>2- By pressing the A/P button on the glareshield<br>3- By pressing the takeover pushbutton<br>4- By moving the thrust levers</p>",
   "options": {
     "a": "1, 2, 3 and 4.",
@@ -10,5 +10,10 @@
     "d": "1 and 2."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86198,
+    "number": "215799"
+  }
 }

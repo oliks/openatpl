@@ -1,7 +1,7 @@
 {
   "number": 125,
-  "questionId": 70260,
-  "questionNumber": "323841",
+  "questionId": "032-0125",
+  "questionNumber": "032-0125",
   "stemHtml": "Which of the following statements is correct?",
   "options": {
     "a": "A clearway is an area beyond the runway which can be used for an aborted take-off.",
@@ -10,5 +10,10 @@
     "d": "An underrun is an area beyond the runway end which can be used for an aborted take-off."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70260,
+    "number": "323841"
+  }
 }

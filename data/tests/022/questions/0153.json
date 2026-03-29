@@ -1,7 +1,7 @@
 {
   "number": 153,
-  "questionId": 111554,
-  "questionNumber": "227020",
+  "questionId": "022-0153",
+  "questionNumber": "022-0153",
   "stemHtml": "<p>Refer to figure. <br /> \rRegarding the altimeter display shown in the annex, the input pressure source is...</p>",
   "options": {
     "a": "<p>calculated within the instrument, in analogue form, by subtracting static pressure from pitot pressure.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/cd830f59-9678-4273-80c9-578ffabdb7cd.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/cd830f59-9678-4273-80c9-578ffabdb7cd.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111554,
+    "number": "227020"
+  }
 }

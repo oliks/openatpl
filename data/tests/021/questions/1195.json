@@ -1,7 +1,7 @@
 {
   "number": 1195,
-  "questionId": 67511,
-  "questionNumber": "216703",
+  "questionId": "021-1195",
+  "questionNumber": "021-1195",
   "stemHtml": "<p>Which statement regarding the compressor stage of a gas turbine engine is correct?</p>",
   "options": {
     "a": "<p>Both the rotor and the stator increase only the speed of the airflow.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The rotor increases only the pressure of the airflow, the stator increases the pressure and the speed of the airflow.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67511,
+    "number": "216703"
+  }
 }

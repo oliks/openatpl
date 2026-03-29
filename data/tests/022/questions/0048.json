@@ -1,7 +1,7 @@
 {
   "number": 48,
-  "questionId": 68737,
-  "questionNumber": "221469",
+  "questionId": "022-0048",
+  "questionNumber": "022-0048",
   "stemHtml": "<p>The sideslip indication displayed on the PFD (Primary Flight Display) is a data derived from the\u2026</p>",
   "options": {
     "a": "<p>Yaw damper.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Stall protection system.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68737,
+    "number": "221469"
+  }
 }

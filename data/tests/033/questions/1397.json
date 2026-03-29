@@ -1,7 +1,7 @@
 {
   "number": 1397,
-  "questionId": 70980,
-  "questionNumber": "339547",
+  "questionId": "033-1397",
+  "questionNumber": "033-1397",
   "stemHtml": "<p>Refer to figure.  <br />  An aeroplane is performing a commercial air transport flight. Regular fuel checks performed approximately every 30 min as required by the operator. The flight follows the planned route and the flies at the mach number as planned. The fuel measurements are accurate within +/- 20 kg and the fuel flow indicators show a constant 1340 kg/h per engine throughout.</p><p>What is the reason for the creation of the position of PBD05 + 10 min?</p>",
   "options": {
     "a": "<div>The aeroplane has less fuel than required but the fuel flow is verified as correct enabling a reasonable conclusion that any discrepancy is due to the wind being different to planned.</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/09CBA358-3B1E-4373-A002-D13D33279685.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/09CBA358-3B1E-4373-A002-D13D33279685.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70980,
+    "number": "339547"
+  }
 }

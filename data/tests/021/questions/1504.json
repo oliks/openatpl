@@ -1,7 +1,7 @@
 {
   "number": 1504,
-  "questionId": 68300,
-  "questionNumber": "211810",
+  "questionId": "021-1504",
+  "questionNumber": "021-1504",
   "stemHtml": "<p>Modern pressurised transport aeroplanes are equipped with\u2026</p>",
   "options": {
     "a": "only one oxygen system supplying the whole aeroplane.",
@@ -10,5 +10,10 @@
     "d": "only portable oxygen bottles."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68300,
+    "number": "211810"
+  }
 }

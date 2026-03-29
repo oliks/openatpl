@@ -1,7 +1,7 @@
 {
   "number": 1021,
-  "questionId": 84536,
-  "questionNumber": "212071",
+  "questionId": "021-1021",
+  "questionNumber": "021-1021",
   "stemHtml": "<p>What should the pilot do if a piston engine aircraft experiences detonation during climb-out?</p>",
   "options": {
     "a": "Lean the mixture.",
@@ -10,5 +10,10 @@
     "d": "Partially close the cowl flaps."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84536,
+    "number": "212071"
+  }
 }

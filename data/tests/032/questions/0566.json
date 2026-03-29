@@ -1,7 +1,7 @@
 {
   "number": 566,
-  "questionId": 70127,
-  "questionNumber": "329101",
+  "questionId": "032-0566",
+  "questionNumber": "032-0566",
   "stemHtml": "<p>During descent with idle power and assuming all other parameters remaining the same, how will an increased mass change the Minimum Angle of Descent and the corresponding speed?</p>\n\n<p>The Minimum Angle of Descent...</p>",
   "options": {
     "a": "remains the same at an increased speed.",
@@ -10,5 +10,10 @@
     "d": "decreases at an increased speed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70127,
+    "number": "329101"
+  }
 }

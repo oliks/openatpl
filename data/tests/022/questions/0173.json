@@ -1,7 +1,7 @@
 {
   "number": 173,
-  "questionId": 68649,
-  "questionNumber": "229113",
+  "questionId": "022-0173",
+  "questionNumber": "022-0173",
   "stemHtml": "<p>EAS is obtained from CAS by correcting for:</p><p>1 \u2013 position error <br>2 \u2013 compressibility <br>3 \u2013 instrument error <br>4 \u2013 density</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68649,
+    "number": "229113"
+  }
 }

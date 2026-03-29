@@ -1,7 +1,7 @@
 {
   "number": 217,
-  "questionId": 164113,
-  "questionNumber": "106681",
+  "questionId": "010-0217",
+  "questionNumber": "010-0217",
   "stemHtml": "<p>What is true about the No Transgression Zone (NTZ) of independent parallel approaches?</p>",
   "options": {
     "a": "<p>Pilots cannot penetrate the NTZ and the NTZ area will be smaller than the combined TODA, TORA and LDA.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ATC allows aircraft to briefly penetrate the NTZ but not cross it to avoid collision with traffic on the parallel approach.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164113,
+    "number": "106681"
+  }
 }

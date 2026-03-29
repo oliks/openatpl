@@ -1,7 +1,7 @@
 {
   "number": 408,
-  "questionId": 70639,
-  "questionNumber": "338986",
+  "questionId": "033-0408",
+  "questionNumber": "033-0408",
   "stemHtml": "<p>In Commercial Air Transport operations, the purpose of Contingency Fuel is to\u2026</p>",
   "options": {
     "a": "include a second alternate aerodrome in the flight planning.",
@@ -10,5 +10,10 @@
     "d": "provide Additional Fuel when planning to an isolated airfield."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70639,
+    "number": "338986"
+  }
 }

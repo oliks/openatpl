@@ -1,7 +1,7 @@
 {
   "number": 768,
-  "questionId": 66627,
-  "questionNumber": "105128",
+  "questionId": "010-0768",
+  "questionNumber": "010-0768",
   "stemHtml": "What action can an aircraft commander take if they have reasonable grounds to believe that a person has committed, or is about to commit, an unlawful act on board the aircraft?",
   "options": {
     "a": "Require the assistance of other passengers.",
@@ -10,5 +10,10 @@
     "d": "Request such person to disembark."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66627,
+    "number": "105128"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1500,
-  "questionId": 159611,
-  "questionNumber": "103888",
+  "questionId": "010-1500",
+  "questionNumber": "010-1500",
   "stemHtml": "<p>If an aircraft registered in one state (State A) carries passengers to another state (State B), which freedom of the air is being exercised?</p>",
   "options": {
     "a": "<p>4th</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1st</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159611,
+    "number": "103888"
+  }
 }

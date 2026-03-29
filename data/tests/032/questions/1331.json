@@ -1,7 +1,7 @@
 {
   "number": 1331,
-  "questionId": 70184,
-  "questionNumber": "328257",
+  "questionId": "032-1331",
+  "questionNumber": "032-1331",
   "stemHtml": "The critical engine inoperative\u2026",
   "options": {
     "a": "increases the power required and the total drag due to the additional drag of the windmilling engine and the compensation of the yaw moment.",
@@ -10,5 +10,10 @@
     "d": "decreases the power required and increases the total drag due to the additional drag of the windmilling engine and the compensation of the yaw moment."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70184,
+    "number": "328257"
+  }
 }

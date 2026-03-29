@@ -1,7 +1,7 @@
 {
   "number": 545,
-  "questionId": 66520,
-  "questionNumber": "223712",
+  "questionId": "022-0545",
+  "questionNumber": "022-0545",
   "stemHtml": "What indication is shown on a direct reading compass?",
   "options": {
     "a": "Compass heading.",
@@ -10,5 +10,10 @@
     "d": "Compass course."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66520,
+    "number": "223712"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 137,
-  "questionId": 100047,
-  "questionNumber": "311212",
+  "questionId": "031-0137",
+  "questionNumber": "031-0137",
   "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is loaded as indicated in the annex. What is the Gross Mass and the Centre of Gravity, WITHOUT the Aft Passengers?</p>",
   "options": {
     "a": "<p>2590 kg and 4370 mm</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/07897c6c-de87-41c7-bae8-e293b418d9dd.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/07897c6c-de87-41c7-bae8-e293b418d9dd.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100047,
+    "number": "311212"
+  }
 }

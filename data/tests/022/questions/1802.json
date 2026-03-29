@@ -1,7 +1,7 @@
 {
   "number": 1802,
-  "questionId": 108392,
-  "questionNumber": "229519",
+  "questionId": "022-1802",
+  "questionNumber": "022-1802",
   "stemHtml": "<p>When capturing the localiser on an ILS approach what happens to the lateral mode annunciation on the FMA during and after interception?</p>",
   "options": {
     "a": "<p>Turns green</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It flashes amber then disappears</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108392,
+    "number": "229519"
+  }
 }

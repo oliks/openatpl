@@ -1,7 +1,7 @@
 {
   "number": 850,
-  "questionId": 69880,
-  "questionNumber": "328640",
+  "questionId": "032-0850",
+  "questionNumber": "032-0850",
   "stemHtml": "All other criteria being equal, what factor can reduce the landing distance?",
   "options": {
     "a": "Landing on an airfield at a higher altitude.",
@@ -10,5 +10,10 @@
     "d": "A wet runway."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69880,
+    "number": "328640"
+  }
 }

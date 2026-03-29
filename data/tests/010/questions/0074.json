@@ -1,7 +1,7 @@
 {
   "number": 74,
-  "questionId": 85916,
-  "questionNumber": "103853",
+  "questionId": "010-0074",
+  "questionNumber": "010-0074",
   "stemHtml": "With respect to ICAO Annex 9 - Facilitation, who is responsible for producing an air waybill?",
   "options": {
     "a": "The operator.",
@@ -10,5 +10,10 @@
     "d": "The operator or an authorised agent on the behalf of the operator."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85916,
+    "number": "103853"
+  }
 }

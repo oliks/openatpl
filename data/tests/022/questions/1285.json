@@ -1,7 +1,7 @@
 {
   "number": 1285,
-  "questionId": 108728,
-  "questionNumber": "225583",
+  "questionId": "022-1285",
+  "questionNumber": "022-1285",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich figure correctly represents the rotation axis of a Ring Laser Gyro (RLG)?</p>",
   "options": {
     "a": "<p>A</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/602531ca-158e-453d-8c6f-d74dab012e72.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/602531ca-158e-453d-8c6f-d74dab012e72.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108728,
+    "number": "225583"
+  }
 }

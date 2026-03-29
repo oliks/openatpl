@@ -1,7 +1,7 @@
 {
   "number": 31,
-  "questionId": 96646,
-  "questionNumber": "332146",
+  "questionId": "033-0031",
+  "questionNumber": "033-0031",
   "stemHtml": "<p>The following information is taken from the operational flight plan of a Medium Range Jet Transport (MRJT) Aeroplane. Calculate the minimum required fuel for take-off if the operator has nominated a suitable En-Route Alternate:</p><p>Flight time: 03:15 <br /> Flight time from destination to alternate: 00:25 <br /> Cruise fuel flow: 2490 kg/h <br /> Holding fuel flow: 1950 kg/h</p>",
   "options": {
     "a": "<p>9373 kg</p>",
@@ -10,5 +10,10 @@
     "d": "11 320 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96646,
+    "number": "332146"
+  }
 }

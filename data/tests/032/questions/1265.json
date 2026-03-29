@@ -1,7 +1,7 @@
 {
   "number": 1265,
-  "questionId": 70161,
-  "questionNumber": "323428",
+  "questionId": "032-1265",
+  "questionNumber": "032-1265",
   "stemHtml": "A multi-engine jet aeroplane is flying at its optimum cruise altitude when an engine fails. To minimise the angle of descent, the crew should descend at...",
   "options": {
     "a": "the speed for minimum power required, extending flaps to further increase the lift.",
@@ -10,5 +10,10 @@
     "d": "the speed for L/DMAX maximum lift to drag ratio and reduce weight by jettisoning fuel if possible and required."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70161,
+    "number": "323428"
+  }
 }

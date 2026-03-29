@@ -1,7 +1,7 @@
 {
   "number": 297,
-  "questionId": 84469,
-  "questionNumber": "224129",
+  "questionId": "022-0297",
+  "questionNumber": "022-0297",
   "stemHtml": "<p>The airspeed indicator of an aircraft is provided with a moving red and white hatched pointer. What does this pointer indicate?</p>",
   "options": {
     "a": "The speed indicated on the autothrottle control box versus temperature.",
@@ -10,5 +10,10 @@
     "d": "The maximum speed in V<sub>MO</sub> operation versus altitude. <strong> </strong><strong> </strong>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84469,
+    "number": "224129"
+  }
 }

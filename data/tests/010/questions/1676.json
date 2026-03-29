@@ -1,7 +1,7 @@
 {
   "number": 1676,
-  "questionId": 82087,
-  "questionNumber": "103843",
+  "questionId": "010-1676",
+  "questionNumber": "010-1676",
   "stemHtml": "What is meant by the OCA of a precision approach?",
   "options": {
     "a": "The lowest altitude, below which an aircraft must initiate a missed approach if visual references cannot be established.",
@@ -10,5 +10,10 @@
     "d": "The lowest altitude at which a missed approach must be initiated to ensure compliance with the appropriate obstacle clearance criteria."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82087,
+    "number": "103843"
+  }
 }

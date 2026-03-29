@@ -1,7 +1,7 @@
 {
   "number": 1005,
-  "questionId": 70500,
-  "questionNumber": "339319",
+  "questionId": "033-1005",
+  "questionNumber": "033-1005",
   "stemHtml": "<p>For pre-flight planning purposes what is the total fuel required for a Commercial Air Transport flight in a Long-Range Jet Transport (LRJT) aeroplane? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Taxi Fuel: 235 kg<br>Trip Fuel: 52 319 kg<br>Additional Fuel: 2700 kg<br>Contingency Fuel: 5% of the Trip Fuel<br>Destination Alternate Fuel: 1550 kg<br>Final Reserve Fuel: 1850 kg<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "<p>61 270 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>58 570 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70500,
+    "number": "339319"
+  }
 }

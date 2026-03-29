@@ -1,7 +1,7 @@
 {
   "number": 80,
-  "questionId": 70808,
-  "questionNumber": "332480",
+  "questionId": "033-0080",
+  "questionNumber": "033-0080",
   "stemHtml": "<p>Given the following NOTAM information, what changes apply to the BREMEN RADAR frequency?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EDDW BREMEN <<< OBSTACLE CLEARANCE SURFACE PENETRATED BY CRANE. PSN 1275M BEFORE THR 27 ON EXTD RCL. WORKING RADIUS 31M. PSN 530250N 0084926E. ELEV 96FT / 79FT AGL. DAY AND NIGHT MARKED. CRANE ALSO IN DEPARTURE SECTOR RWY 09.: NOTAM ED/B0117/16 BREMEN RADAR FREQ 125.650 CHANGED TO READ 124.800 INSTEAD. : NOTAM ED/B0031/16 >>> END&OF&BULLETIN <<<</span></p>",
   "options": {
     "a": "Changed to 125.650 MHz, according to document 124.800.",
@@ -10,5 +10,10 @@
     "d": "Changed from 125.650 MHz to 124.800 MHz."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70808,
+    "number": "332480"
+  }
 }

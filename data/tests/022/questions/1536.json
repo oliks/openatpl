@@ -1,7 +1,7 @@
 {
   "number": 1536,
-  "questionId": 69039,
-  "questionNumber": "226789",
+  "questionId": "022-1536",
+  "questionNumber": "022-1536",
   "stemHtml": "When descending at a constant CAS through an isothermal layer, the Mach number:",
   "options": {
     "a": "decreases.",
@@ -10,5 +10,10 @@
     "d": "increases if OAT is lower than the standard temperature, decreases if higher."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69039,
+    "number": "226789"
+  }
 }

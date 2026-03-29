@@ -1,7 +1,7 @@
 {
   "number": 1583,
-  "questionId": 68150,
-  "questionNumber": "211004",
+  "questionId": "021-1583",
+  "questionNumber": "021-1583",
   "stemHtml": "What are the basic functionalities of a smoke hood?",
   "options": {
     "a": "To protect the entire body of the user against toxic fumes, smoke, and heat.",
@@ -10,5 +10,10 @@
     "d": "To protect the user from flames and smoke irritating the eyes by providing goggles that are integrated in the smoke hood."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68150,
+    "number": "211004"
+  }
 }

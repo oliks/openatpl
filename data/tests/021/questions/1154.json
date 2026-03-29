@@ -1,7 +1,7 @@
 {
   "number": 1154,
-  "questionId": 80818,
-  "questionNumber": "218856",
+  "questionId": "021-1154",
+  "questionNumber": "021-1154",
   "stemHtml": "<p>Some aircraft have maximum speeds for the deployment of speed brakes to\u2026</p>",
   "options": {
     "a": "Prevent longitudinal pitch instability at high speeds caused by speed brake operation.",
@@ -10,5 +10,10 @@
     "d": "Prevent damage to the speed brakes due to excessive aerodynamic forces."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80818,
+    "number": "218856"
+  }
 }

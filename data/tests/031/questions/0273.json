@@ -1,7 +1,7 @@
 {
   "number": 273,
-  "questionId": 85704,
-  "questionNumber": "316364",
+  "questionId": "031-0273",
+  "questionNumber": "031-0273",
   "stemHtml": "<p>When preparing for the flight, you note that the take-off CG is 8 cm beyond the CG limit. The aircraft weight is 7 132 kg. A 320 kg container in the hold is moved to bring the CG within limits. What is the minimum value of this load shift to the aircraft?</p>",
   "options": {
     "a": "<p>1.783 m</p>",
@@ -10,5 +10,10 @@
     "d": "186.3 cm"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85704,
+    "number": "316364"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1206,
-  "questionId": 100156,
-  "questionNumber": "338436",
+  "questionId": "033-1206",
+  "questionNumber": "033-1206",
   "stemHtml": "<p>Refer to figure or to chart E(LO) 2 from the GSPRM 2017.<br>An aircraft position is (53\u00b040'N, 1\u00b015'W). Determine the aircraft's radials from Manchester (MCT) VOR and Trent (TNT) VOR.</p>",
   "options": {
     "a": "MCT: 061, TNT: 020",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/fbbaab5b-d0aa-488e-b7ed-a2c462420408.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/fbbaab5b-d0aa-488e-b7ed-a2c462420408.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100156,
+    "number": "338436"
+  }
 }

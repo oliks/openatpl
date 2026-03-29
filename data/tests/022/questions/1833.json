@@ -1,7 +1,7 @@
 {
   "number": 1833,
-  "questionId": 81356,
-  "questionNumber": "221506",
+  "questionId": "022-1833",
+  "questionNumber": "022-1833",
   "stemHtml": "<p>The flight director computer continuously\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">Compares the current attitude with the computed attitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Compares the computed attitude with the EGPWS signals.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81356,
+    "number": "221506"
+  }
 }

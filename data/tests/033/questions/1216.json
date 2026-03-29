@@ -1,7 +1,7 @@
 {
   "number": 1216,
-  "questionId": 109589,
-  "questionNumber": "339806",
+  "questionId": "033-1216",
+  "questionNumber": "033-1216",
   "stemHtml": "<p>Refer to figures or Stuttgart approach charts 11-1, 11-1A, 11-2, 11-2A from Jeppesen GSPRM 2017. <br>An aircraft departed from Stuttgart airport on Runway 07, but due to a passenger's serious illness, the pilot decided to turn back and land at Stuttgart airport following the ILS CAT III Rwy 07 approach procedure. Which approach chart should the pilot use?</p>",
   "options": {
     "a": "<p>11-1</p>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/845475fc-4162-46fc-9652-32d5cc17a9cd.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/845475fc-4162-46fc-9652-32d5cc17a9cd.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109589,
+    "number": "339806"
+  }
 }

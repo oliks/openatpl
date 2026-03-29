@@ -1,7 +1,7 @@
 {
   "number": 1139,
-  "questionId": 74410,
-  "questionNumber": "221201",
+  "questionId": "022-1139",
+  "questionNumber": "022-1139",
   "stemHtml": "<p>The FMS navigation data base usually contains:</p>\r\r<p>1. Airport reference data <br /> \r2. ATC frequencies <br /> \r3. Company routes <br /> \r4. Nav. Aid. frequencies <br /> \r5. Taxiways</p>\r\r<p>The combination regrouping all the correct statements is\u2026</p>",
   "options": {
     "a": "<p>1, 2, 3 and 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 3 and 5.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74410,
+    "number": "221201"
+  }
 }

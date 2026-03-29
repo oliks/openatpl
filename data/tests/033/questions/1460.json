@@ -1,7 +1,7 @@
 {
   "number": 1460,
-  "questionId": 70373,
-  "questionNumber": "335922",
+  "questionId": "033-1460",
+  "questionNumber": "033-1460",
   "stemHtml": "When a pilot fills in an ATC flight plan, he/she must indicate the wake turbulence category. This category is a function of which mass?",
   "options": {
     "a": "Estimated take-off mass",
@@ -10,5 +10,10 @@
     "d": "Actual take-off mass"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70373,
+    "number": "335922"
+  }
 }

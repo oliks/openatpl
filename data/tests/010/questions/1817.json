@@ -1,7 +1,7 @@
 {
   "number": 1817,
-  "questionId": 104543,
-  "questionNumber": "102731",
+  "questionId": "010-1817",
+  "questionNumber": "010-1817",
   "stemHtml": "<p>An aircraft is taxiing towards its parking stand following a yellow line. Just before the aircraft reaches its gate, there is a line of a different color that crosses the yellow line and separates the taxiing area from the apron. What does this line indicate?</p>",
   "options": {
     "a": "<p>Apron safety area.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Fueling area boundary.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104543,
+    "number": "102731"
+  }
 }

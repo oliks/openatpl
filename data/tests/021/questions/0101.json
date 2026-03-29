@@ -1,7 +1,7 @@
 {
   "number": 101,
-  "questionId": 68183,
-  "questionNumber": "216304",
+  "questionId": "021-0101",
+  "questionNumber": "021-0101",
   "stemHtml": "<p>The expression \"primary flight control\" applies to the:</p>\r\r<p>1: stabiliser <br /> \r2: rudder <br /> \r3: speed brake <br /> \r4: aileron</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>2, 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 4.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68183,
+    "number": "216304"
+  }
 }

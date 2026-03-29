@@ -1,7 +1,7 @@
 {
   "number": 1258,
-  "questionId": 83179,
-  "questionNumber": "212380",
+  "questionId": "021-1258",
+  "questionNumber": "021-1258",
   "stemHtml": "<p>The following conditions would result in tyres needing to be replaced before the next flight:</p><p>1. Uneven tread wear <br>2.  A bulge in the sidewall  <br>3. Detachment of tread, exposing the tyre carcass <br>4. Small cuts in the tread surface <br>5. Oil contamination on the tyre surface</p>",
   "options": {
     "a": "<p>1 and 5.</p>",
@@ -10,5 +10,10 @@
     "d": "2, 3 and 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83179,
+    "number": "212380"
+  }
 }

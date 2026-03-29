@@ -1,7 +1,7 @@
 {
   "number": 246,
-  "questionId": 102927,
-  "questionNumber": "326147",
+  "questionId": "032-0246",
+  "questionNumber": "032-0246",
   "stemHtml": "<p>Refer to figure. <br>A pilot operating on the single engine fleet for European Airlines is calculating landing performance. Given the following information, what distance should the pilot use to enter the landing distance graph, to obtain the maximum permissible landing mass?</p><p>Landing distance available: 3150 ft <br>Runway surface: Paved <br>Runway condition: Wet <br>Runway slope: 1.4% downslope</p>",
   "options": {
     "a": "<p>1746 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/5d12d2d3-64dd-46a3-ad2a-b7291746917a.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/5d12d2d3-64dd-46a3-ad2a-b7291746917a.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102927,
+    "number": "326147"
+  }
 }

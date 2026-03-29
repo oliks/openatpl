@@ -1,7 +1,7 @@
 {
   "number": 1373,
-  "questionId": 67715,
-  "questionNumber": "216841",
+  "questionId": "021-1373",
+  "questionNumber": "021-1373",
   "stemHtml": "<p>The purposes of an accumulator in a hydraulic system are to\u2026</p>",
   "options": {
     "a": "<p>damp pressure fluctuations and serve as a limited alternate source of pressure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>damp pressure fluctuations and serve as a main pressure source for normal operation.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67715,
+    "number": "216841"
+  }
 }

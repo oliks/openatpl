@@ -1,7 +1,7 @@
 {
   "number": 1187,
-  "questionId": 68109,
-  "questionNumber": "211525",
+  "questionId": "021-1187",
+  "questionNumber": "021-1187",
   "stemHtml": "Refer to figure.  <br />  Which part of the main landing gear is shown by the number 6?",
   "options": {
     "a": "Bogie beam.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/0CD82CB2-BEE9-432D-9EA7-7E3F0C95016A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/0CD82CB2-BEE9-432D-9EA7-7E3F0C95016A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68109,
+    "number": "211525"
+  }
 }

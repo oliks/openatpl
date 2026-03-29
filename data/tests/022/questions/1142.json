@@ -1,7 +1,7 @@
 {
   "number": 1142,
-  "questionId": 86136,
-  "questionNumber": "223810",
+  "questionId": "022-1142",
+  "questionNumber": "022-1142",
   "stemHtml": "<p>Which of the following functions might not be available if the installed EFB malfunctions?</p>",
   "options": {
     "a": "<p>Reception and transmission of CPDLC messages.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Display of ECAM or EICAS alerts.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86136,
+    "number": "223810"
+  }
 }

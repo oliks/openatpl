@@ -1,7 +1,7 @@
 {
   "number": 993,
-  "questionId": 70892,
-  "questionNumber": "338163",
+  "questionId": "033-0993",
+  "questionNumber": "033-0993",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 13-1, 13-2, 11-1, 11-2 from Jeppesen GSPRM 2017.\u00a0<br>You intend to approach Alicante but your ADF is unserviceable. Which of the following approaches are you allowed to use?</p>",
   "options": {
     "a": "<div>VOR Y and VOR Z</div>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/6A9DFFA6-4C5F-465D-84E1-54434AB42D1C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/6A9DFFA6-4C5F-465D-84E1-54434AB42D1C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70892,
+    "number": "338163"
+  }
 }

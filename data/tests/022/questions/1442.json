@@ -1,7 +1,7 @@
 {
   "number": 1442,
-  "questionId": 82330,
-  "questionNumber": "221799",
+  "questionId": "022-1442",
+  "questionNumber": "022-1442",
   "stemHtml": "<p>An aircraft's compass heading is 004<strong>\u00b0</strong>. The deviation card indicates 1\u00b0W on northerly headings and the variation is 5\u00b0W. What is the aircraft's true heading?</p>",
   "options": {
     "a": "010\u00b0",
@@ -10,5 +10,10 @@
     "d": "008\u00b0"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82330,
+    "number": "221799"
+  }
 }

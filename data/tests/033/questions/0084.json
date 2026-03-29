@@ -1,7 +1,7 @@
 {
   "number": 84,
-  "questionId": 101467,
-  "questionNumber": "336565",
+  "questionId": "033-0084",
+  "questionNumber": "033-0084",
   "stemHtml": "<p>During the pre-flight preparation on 19<strong><sup>th</sup> </strong>April 2021, the crew discuss NANU messages. The only currently applicable message is shown below.</p><p>GPS SATELLITE SVN65 (PRN24) WILL BE UNUSABLE ON JDAY 102 (12 APR 2021) BEGINNING 1545 ZULU UNTIL JDAY 116 (26 APR 2021) ENDING 1545 ZULU.</p><p>What impact does this message have on the flight?</p>",
   "options": {
     "a": "<p>There is a major outage of GPS, greatly reducing GNSS achievability and therefore significantly impacting the flight.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A new satellite will be added to the GPS constellation, but this has NO impact on the flight.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101467,
+    "number": "336565"
+  }
 }

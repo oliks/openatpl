@@ -1,7 +1,7 @@
 {
   "number": 254,
-  "questionId": 108093,
-  "questionNumber": "102089",
+  "questionId": "010-0254",
+  "questionNumber": "010-0254",
   "stemHtml": "<p>When segregated operations apply on two parallel runways, how will the two runways be used?</p>",
   "options": {
     "a": "<p>One runway will be used only for takeoffs, and the other runway will be used only for landings.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Both runways will be used exclusively for arrivals.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108093,
+    "number": "102089"
+  }
 }

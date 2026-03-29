@@ -1,7 +1,7 @@
 {
   "number": 444,
-  "questionId": 74625,
-  "questionNumber": "226924",
+  "questionId": "022-0444",
+  "questionNumber": "022-0444",
   "stemHtml": "<p>The Flight Management System (FMS) is organised in such a way that the\u2026</p>",
   "options": {
     "a": "navigation database in the FMC is created by the pilot.",
@@ -10,5 +10,10 @@
     "d": "navigation database in the FMC is &ldquo;read only&rdquo;, but the pilot is able to add other navigational data."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74625,
+    "number": "226924"
+  }
 }

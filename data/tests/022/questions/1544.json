@@ -1,7 +1,7 @@
 {
   "number": 1544,
-  "questionId": 68601,
-  "questionNumber": "222825",
+  "questionId": "022-1544",
+  "questionNumber": "022-1544",
   "stemHtml": "Assuming the flight level and Mach number remain constant, when the OAT increases:",
   "options": {
     "a": "CAS and TAS both increases.",
@@ -10,5 +10,10 @@
     "d": "CAS remains constant and TAS increases."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68601,
+    "number": "222825"
+  }
 }

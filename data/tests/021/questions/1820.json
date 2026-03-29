@@ -1,7 +1,7 @@
 {
   "number": 1820,
-  "questionId": 67957,
-  "questionNumber": "215852",
+  "questionId": "021-1820",
+  "questionNumber": "021-1820",
   "stemHtml": "<p>A hung (abortive) start of a gas turbine engine may be caused by\u2026</p>",
   "options": {
     "a": "compressor surging.",
@@ -10,5 +10,10 @@
     "d": "failure of the fuel to ignite in the starting sequence after the engine has been accelerated to the required rpm by the starter."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67957,
+    "number": "215852"
+  }
 }

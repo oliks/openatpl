@@ -1,7 +1,7 @@
 {
   "number": 1051,
-  "questionId": 68079,
-  "questionNumber": "211533",
+  "questionId": "021-1051",
+  "questionNumber": "021-1051",
   "stemHtml": "<p>The APU of a large passenger jet airliner has its own AC generator that\u2026</p>",
   "options": {
     "a": "<p>is driven at constant speed through a constant speed drive (CSD), in the same way as the main AC generator.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>supplies the aircraft with three-phase 115 V, 400 Hz AC.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68079,
+    "number": "211533"
+  }
 }

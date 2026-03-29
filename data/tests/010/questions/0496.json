@@ -1,7 +1,7 @@
 {
   "number": 496,
-  "questionId": 83895,
-  "questionNumber": "109373",
+  "questionId": "010-0496",
+  "questionNumber": "010-0496",
   "stemHtml": "<p>The Pilot-in-Command of a Commercial Air Transport multi-pilot aircraft is challenged by the Co-Pilot and the Cabin Crew member. According to SERA (Standardised European Rules of the Air), with regards to the disposition of the aircraft, the PIC\u2026</p>",
   "options": {
     "a": "Must ensure that consensus is reached between him/her, the Co-Pilot, and the Cabin Crew member.",
@@ -10,5 +10,10 @@
     "d": "Has the final authority."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83895,
+    "number": "109373"
+  }
 }

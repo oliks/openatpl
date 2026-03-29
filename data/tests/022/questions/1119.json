@@ -1,7 +1,7 @@
 {
   "number": 1119,
-  "questionId": 69158,
-  "questionNumber": "226358",
+  "questionId": "022-1119",
+  "questionNumber": "022-1119",
   "stemHtml": "Which channels are currently used for datalink transmissions by Air Traffic Services?",
   "options": {
     "a": "SATCOM, HF and UHF.",
@@ -10,5 +10,10 @@
     "d": "VHF, SATCOM and HF."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69158,
+    "number": "226358"
+  }
 }

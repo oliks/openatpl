@@ -1,7 +1,7 @@
 {
   "number": 431,
-  "questionId": 84123,
-  "questionNumber": "311563",
+  "questionId": "031-0431",
+  "questionNumber": "031-0431",
   "stemHtml": "<p>Which one of the following statements below best describes the Centre of Gravity (CG) of an aircraft?</p>",
   "options": {
     "a": "<p>The CG is the point at which the sum of the balance arms is nil.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The CG is the point at which the total weight is applied and acts in the longitudinal direction.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84123,
+    "number": "311563"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1791,
-  "questionId": 103719,
-  "questionNumber": "213171",
+  "questionId": "021-1791",
+  "questionNumber": "021-1791",
   "stemHtml": "<p>On an aircraft equipped with a Fly-By-Wire control system, the pilot\u2026</p>",
   "options": {
     "a": "<p>never override soft and hard protections.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>can override soft and hard protections.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103719,
+    "number": "213171"
+  }
 }

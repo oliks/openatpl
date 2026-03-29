@@ -1,7 +1,7 @@
 {
   "number": 289,
-  "questionId": 103318,
-  "questionNumber": "105018",
+  "questionId": "010-0289",
+  "questionNumber": "010-0289",
   "stemHtml": "<p>Which of the following will be used by ATC to establish LONGITUDINAL separation?</p>",
   "options": {
     "a": "<p>provides aircraft to hold over a geographical location until a specified time.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>provides aircraft with a 2 nm longitudinal separation.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103318,
+    "number": "105018"
+  }
 }

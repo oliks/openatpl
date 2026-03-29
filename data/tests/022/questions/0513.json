@@ -1,7 +1,7 @@
 {
   "number": 513,
-  "questionId": 110894,
-  "questionNumber": "225562",
+  "questionId": "022-0513",
+  "questionNumber": "022-0513",
   "stemHtml": "<p>Which of the following digital components of the ICAO CNS/ATM concept improve the efficiency of aircraft position reporting?</p>",
   "options": {
     "a": "<p>Enhanced voice communication</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Performance based navigation (PBN)</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110894,
+    "number": "225562"
+  }
 }

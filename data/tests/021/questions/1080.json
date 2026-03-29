@@ -1,7 +1,7 @@
 {
   "number": 1080,
-  "questionId": 96481,
-  "questionNumber": "214924",
+  "questionId": "021-1080",
+  "questionNumber": "021-1080",
   "stemHtml": "Which of the following may be controlled by FADEC in a piston engine?",
   "options": {
     "a": "The mixture ratio and ignition timing.",
@@ -10,5 +10,10 @@
     "d": "Magneto operation and the impulse coupling starter."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96481,
+    "number": "214924"
+  }
 }

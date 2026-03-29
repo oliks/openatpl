@@ -1,7 +1,7 @@
 {
   "number": 1203,
-  "questionId": 70655,
-  "questionNumber": "334128",
+  "questionId": "033-1203",
+  "questionNumber": "033-1203",
   "stemHtml": "<p>Refer to figure.<br />\r\nIn the ATS flight plan Item 10, &quot;standard equipment&quot; is considered to be: VHF RTF,...</p>\r\n",
   "options": {
     "a": "<p>VOR, and ILS.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/7D9C0542-DD29-4EF6-A615-20B2918A0FE3.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7D9C0542-DD29-4EF6-A615-20B2918A0FE3.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70655,
+    "number": "334128"
+  }
 }

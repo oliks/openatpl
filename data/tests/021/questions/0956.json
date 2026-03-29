@@ -1,7 +1,7 @@
 {
   "number": 956,
-  "questionId": 67291,
-  "questionNumber": "213994",
+  "questionId": "021-0956",
+  "questionNumber": "021-0956",
   "stemHtml": "<p>Rudder trim adjustment in an aeroplane with irreversible flight controls is\u2026</p>",
   "options": {
     "a": "unnecessary because this aeroplane does not need rudder trim.",
@@ -10,5 +10,10 @@
     "d": "an adjustment of the rudder trim tab."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67291,
+    "number": "213994"
+  }
 }

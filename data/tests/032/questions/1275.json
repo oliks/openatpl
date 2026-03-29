@@ -1,7 +1,7 @@
 {
   "number": 1275,
-  "questionId": 70018,
-  "questionNumber": "322289",
+  "questionId": "032-1275",
+  "questionNumber": "032-1275",
   "stemHtml": "<p>Maximum endurance\u2026</p>",
   "options": {
     "a": "is achieved in unaccelerated level flight with minimum fuel flow.",
@@ -10,5 +10,10 @@
     "d": "is the same as maximum specific range with wind correction."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70018,
+    "number": "322289"
+  }
 }

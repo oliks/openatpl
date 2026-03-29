@@ -1,7 +1,7 @@
 {
   "number": 193,
-  "questionId": 107407,
-  "questionNumber": "322340",
+  "questionId": "032-0193",
+  "questionNumber": "032-0193",
   "stemHtml": "<p>Which of the following options is the correct description for wet snow?</p>",
   "options": {
     "a": "<p>Snow that can be compacted into a snowball and does NOT release water when squeezed.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Water-saturated snow which splatters when hit in a heel-to-toe slap-down manner.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107407,
+    "number": "322340"
+  }
 }

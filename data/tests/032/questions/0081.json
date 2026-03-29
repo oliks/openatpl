@@ -1,7 +1,7 @@
 {
   "number": 81,
-  "questionId": 83396,
-  "questionNumber": "328063",
+  "questionId": "032-0081",
+  "questionNumber": "032-0081",
   "stemHtml": "Which speed represents the maximum endurance speed for a propeller driven aeroplane?",
   "options": {
     "a": "<p>V<sub>MD</sub></p>",
@@ -10,5 +10,10 @@
     "d": "1.32 V<sub>MD</sub>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83396,
+    "number": "328063"
+  }
 }

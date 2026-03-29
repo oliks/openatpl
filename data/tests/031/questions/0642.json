@@ -1,7 +1,7 @@
 {
   "number": 642,
-  "questionId": 69364,
-  "questionNumber": "317135",
+  "questionId": "031-0642",
+  "questionNumber": "031-0642",
   "stemHtml": "<p>Refer to figure or CAP696 file 4.9. To solve this task consider the data published in the annex. Assume that 12 inches equals 1 foot. The maximum mass that can be loaded on a pallet measuring 55 inches by 40 inches in the aft section of the forward cargo compartment (station 343 to 500) is\u2026</p>",
   "options": {
     "a": "<p>2.059 kg.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/8e31c8d2-ec78-4469-b539-67ddefc2ac0e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/8e31c8d2-ec78-4469-b539-67ddefc2ac0e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69364,
+    "number": "317135"
+  }
 }

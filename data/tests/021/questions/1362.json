@@ -1,7 +1,7 @@
 {
   "number": 1362,
-  "questionId": 67402,
-  "questionNumber": "214691",
+  "questionId": "021-1362",
+  "questionNumber": "021-1362",
   "stemHtml": "<p>Labyrinth seals in the lubrication system of a gas turbine engine are designed to provide a seal that is\u2026</p>",
   "options": {
     "a": "<p>not completely tight, allowing some movement between rotating and static parts.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>not completely tight, allowing only some radial movement between rotating and static parts.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67402,
+    "number": "214691"
+  }
 }

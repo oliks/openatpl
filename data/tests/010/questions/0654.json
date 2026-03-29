@@ -1,7 +1,7 @@
 {
   "number": 654,
-  "questionId": 164594,
-  "questionNumber": "101075",
+  "questionId": "010-0654",
+  "questionNumber": "010-0654",
   "stemHtml": "<p>Aircraft A is at FL170 and requests descent to FL160. ATC informs that FL160 is occupied by Aircraft B. 3 minutes later, Aircraft B requests descent to FL120 and reports vacating FL160. Under which condition may ATC delay the clearance for Aircraft A to descend to FL160?</p>",
   "options": {
     "a": "<p>If Aircraft A has a significantly higher rate of descent than Aircraft B.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>If Aircraft A has an inoperative SSR transponder.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164594,
+    "number": "101075"
+  }
 }

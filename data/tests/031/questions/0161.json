@@ -1,7 +1,7 @@
 {
   "number": 161,
-  "questionId": 81368,
-  "questionNumber": "319056",
+  "questionId": "031-0161",
+  "questionNumber": "031-0161",
   "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> \rWhat is the length of the MAC of this aeroplane?</p>",
   "options": {
     "a": "<p dir=\"ltr\">278.5 in</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/f81ae736-8b01-4c0b-a974-67e03cd935ba.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/f81ae736-8b01-4c0b-a974-67e03cd935ba.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81368,
+    "number": "319056"
+  }
 }

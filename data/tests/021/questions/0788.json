@@ -1,7 +1,7 @@
 {
   "number": 788,
-  "questionId": 80796,
-  "questionNumber": "213938",
+  "questionId": "021-0788",
+  "questionNumber": "021-0788",
   "stemHtml": "How may corrosion in aluminium be identified?",
   "options": {
     "a": "By the formation of a yellow powder.",
@@ -10,5 +10,10 @@
     "d": "By blue/green patina."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80796,
+    "number": "213938"
+  }
 }

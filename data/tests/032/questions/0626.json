@@ -1,7 +1,7 @@
 {
   "number": 626,
-  "questionId": 69929,
-  "questionNumber": "324821",
+  "questionId": "032-0626",
+  "questionNumber": "032-0626",
   "stemHtml": "<p>An aircraft is descending in a standard atmosphere above the tropopause at a constant Mach number\u2026</p>",
   "options": {
     "a": "TAS is not related to Mach number.",
@@ -10,5 +10,10 @@
     "d": "TAS decreases."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69929,
+    "number": "324821"
+  }
 }

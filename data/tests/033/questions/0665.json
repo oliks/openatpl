@@ -1,7 +1,7 @@
 {
   "number": 665,
-  "questionId": 70765,
-  "questionNumber": "338810",
+  "questionId": "033-0665",
+  "questionNumber": "033-0665",
   "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from departure to destination: 220 NM</span>  <br />  \nTrue track: 175\u00b0  <br />  \nW/V: 220/10  <br />  \nTAS: 135 kt</p>\n\n<p>What is the distance of the PET from the departure point?</p>\n\n<div> </div>",
   "options": {
     "a": "136 NM",
@@ -10,5 +10,10 @@
     "d": "110 NM"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70765,
+    "number": "338810"
+  }
 }

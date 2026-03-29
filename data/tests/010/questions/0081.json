@@ -1,7 +1,7 @@
 {
   "number": 81,
-  "questionId": 78328,
-  "questionNumber": "102690",
+  "questionId": "010-0081",
+  "questionNumber": "010-0081",
   "stemHtml": "<p>You are a passenger travelling internationally for a holiday in an ICAO contracting state. You have a valid passport and a visa recognized by the state you seek to enter. Upon arrival, according to Annex 9\u2026</p>",
   "options": {
     "a": "If your passport should expire and you are found inadmissible the state is required to remove you and fly you to your state of residence.",
@@ -10,5 +10,10 @@
     "d": "The state may require you to hold a CMC before granting you access into the state."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78328,
+    "number": "102690"
+  }
 }

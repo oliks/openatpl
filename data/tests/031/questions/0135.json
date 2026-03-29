@@ -1,7 +1,7 @@
 {
   "number": 135,
-  "questionId": 79083,
-  "questionNumber": "318425",
+  "questionId": "031-0135",
+  "questionNumber": "031-0135",
   "stemHtml": "Refer to figure. <br /> Determine the zero fuel mass CG, given the data from the annex.",
   "options": {
     "a": "28.5% MAC.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/7b8447b5-a237-4cbb-b99d-034490735d26.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/7b8447b5-a237-4cbb-b99d-034490735d26.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79083,
+    "number": "318425"
+  }
 }

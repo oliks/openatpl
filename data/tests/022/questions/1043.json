@@ -1,7 +1,7 @@
 {
   "number": 1043,
-  "questionId": 108304,
-  "questionNumber": "225104",
+  "questionId": "022-1043",
+  "questionNumber": "022-1043",
   "stemHtml": "<p>In most aircraft's basic \u201cT\u201d configuration, where is the airspeed indicator located?</p>",
   "options": {
     "a": "<p>In the top position.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>In the bottom position.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108304,
+    "number": "225104"
+  }
 }

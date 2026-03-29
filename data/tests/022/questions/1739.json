@@ -1,7 +1,7 @@
 {
   "number": 1739,
-  "questionId": 81759,
-  "questionNumber": "226923",
+  "questionId": "022-1739",
+  "questionNumber": "022-1739",
   "stemHtml": "<p>The crew of an aircraft on approach hears an automatically-generated warning of \u201cwind shear, wind shear, wind shear\u201d. This is the aural alert from the\u2026</p>",
   "options": {
     "a": "<p>GPWS mode 7</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Weather radar</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81759,
+    "number": "226923"
+  }
 }

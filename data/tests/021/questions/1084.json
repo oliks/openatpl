@@ -1,7 +1,7 @@
 {
   "number": 1084,
-  "questionId": 96469,
-  "questionNumber": "212342",
+  "questionId": "021-1084",
+  "questionNumber": "021-1084",
   "stemHtml": "After landing, with the autobrake system set to a constant deceleration rate, the use of thrust reversers will...",
   "options": {
     "a": "decrease the brake pressure.",
@@ -10,5 +10,10 @@
     "d": "increase the brake pressure."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96469,
+    "number": "212342"
+  }
 }

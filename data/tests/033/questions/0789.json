@@ -1,7 +1,7 @@
 {
   "number": 789,
-  "questionId": 78460,
-  "questionNumber": "331520",
+  "questionId": "033-0789",
+  "questionNumber": "033-0789",
   "stemHtml": "<p>Refer to figure. <br>If the actual time overhead waypoint 5 was 1240 UTC, determine ETA at waypoint 7\u2026</p>",
   "options": {
     "a": "1255",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/BFD5DB5A-6680-4402-A79C-EBF9AF911857.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/BFD5DB5A-6680-4402-A79C-EBF9AF911857.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78460,
+    "number": "331520"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 71,
-  "questionId": 102756,
-  "questionNumber": "334809",
+  "questionId": "033-0071",
+  "questionNumber": "033-0071",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following is the frequency of Ibiza NDB?</p>",
   "options": {
     "a": "<p>IZA 394 kHz</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/cc5233c2-9e95-4373-bebd-1b0891adfc97.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/cc5233c2-9e95-4373-bebd-1b0891adfc97.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102756,
+    "number": "334809"
+  }
 }

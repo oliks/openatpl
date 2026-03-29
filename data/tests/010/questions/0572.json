@@ -1,7 +1,7 @@
 {
   "number": 572,
-  "questionId": 67232,
-  "questionNumber": "105800",
+  "questionId": "010-0572",
+  "questionNumber": "010-0572",
   "stemHtml": "Your medical class 1 will expire in 10 days. If you are going to an AMC (aeromedical centre) now, you will do a medical class 1...",
   "options": {
     "a": "renewal",
@@ -10,5 +10,10 @@
     "d": "initial examination"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67232,
+    "number": "105800"
+  }
 }

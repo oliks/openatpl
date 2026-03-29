@@ -1,7 +1,7 @@
 {
   "number": 1429,
-  "questionId": 82109,
-  "questionNumber": "228599",
+  "questionId": "022-1429",
+  "questionNumber": "022-1429",
   "stemHtml": "<p>Is it possible for the flight crew to change data in the performance database?</p>",
   "options": {
     "a": "<p>Yes, it can only change the fuel consumption.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes, it can only change engine thrust rating.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82109,
+    "number": "228599"
+  }
 }

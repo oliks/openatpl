@@ -1,7 +1,7 @@
 {
   "number": 565,
-  "questionId": 85708,
-  "questionNumber": "228268",
+  "questionId": "022-0565",
+  "questionNumber": "022-0565",
   "stemHtml": "Which of the following is correct regarding the compass swing procedure?",
   "options": {
     "a": "Deviation noted after the swing procedure is noted on the compass deviation card and placed in the tech log.",
@@ -10,5 +10,10 @@
     "d": "Residual deviation is noted before the compass swing procedure."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85708,
+    "number": "228268"
+  }
 }

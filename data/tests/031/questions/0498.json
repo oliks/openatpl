@@ -1,7 +1,7 @@
 {
   "number": 498,
-  "questionId": 79089,
-  "questionNumber": "315935",
+  "questionId": "031-0498",
+  "questionNumber": "031-0498",
   "stemHtml": "Refer to figure.  <br />  Determine the useful load, given the attached Load and Trim Sheet.",
   "options": {
     "a": "22 000 kg.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/21428374-544F-4D55-A873-90C27987FA44.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/21428374-544F-4D55-A873-90C27987FA44.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79089,
+    "number": "315935"
+  }
 }

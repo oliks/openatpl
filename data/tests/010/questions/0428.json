@@ -1,7 +1,7 @@
 {
   "number": 428,
-  "questionId": 102937,
-  "questionNumber": "102878",
+  "questionId": "010-0428",
+  "questionNumber": "010-0428",
   "stemHtml": "<p>The pilot is a holder of a valid license by the provisions on flight crew licensing in the EU Regulation on Air Operations. Where should the pilot send his application to add a new rating to his license?</p>",
   "options": {
     "a": "<p>to any Competent Authority.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The Competent Authority but only in a State which adopted ICAO regulations and procedures.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102937,
+    "number": "102878"
+  }
 }

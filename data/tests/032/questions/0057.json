@@ -1,7 +1,7 @@
 {
   "number": 57,
-  "questionId": 70168,
-  "questionNumber": "321358",
+  "questionId": "032-0057",
+  "questionNumber": "032-0057",
   "stemHtml": "<p>If the airworthiness documents do not specify a correction for landing on a wet runway, the landing distance must be increased by\u2026</p>",
   "options": {
     "a": "5%",
@@ -10,5 +10,10 @@
     "d": "10%"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70168,
+    "number": "321358"
+  }
 }

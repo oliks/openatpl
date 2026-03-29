@@ -1,7 +1,7 @@
 {
   "number": 644,
-  "questionId": 68048,
-  "questionNumber": "216705",
+  "questionId": "021-0644",
+  "questionNumber": "021-0644",
   "stemHtml": "<p>When the AC generators are connected in parallel, the reactive loads are balanced by means of the\u2026</p>",
   "options": {
     "a": "load controller.",
@@ -10,5 +10,10 @@
     "d": "excitation current."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68048,
+    "number": "216705"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 169,
-  "questionId": 163034,
-  "questionNumber": "109524",
+  "questionId": "010-0169",
+  "questionNumber": "010-0169",
   "stemHtml": "<p>If an aircraft was cleared to land and expected 5 minutes ago, but no communication has been received since and it has not yet arrived, which of the following correctly describes the emergency phase that applies?</p>",
   "options": {
     "a": "<p>Uncertainty phase (INCERFA)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No phase applies yet</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163034,
+    "number": "109524"
+  }
 }

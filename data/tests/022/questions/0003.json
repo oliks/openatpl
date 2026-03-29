@@ -1,7 +1,7 @@
 {
   "number": 3,
-  "questionId": 68799,
-  "questionNumber": "222666",
+  "questionId": "022-0003",
+  "questionNumber": "022-0003",
   "stemHtml": "<p>By integrating a flow with respect to time we obtain\u2026</p>",
   "options": {
     "a": "the diameter of the line.",
@@ -10,5 +10,10 @@
     "d": "a volume or a mass."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68799,
+    "number": "222666"
+  }
 }

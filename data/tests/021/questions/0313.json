@@ -1,7 +1,7 @@
 {
   "number": 313,
-  "questionId": 153752,
-  "questionNumber": "217418",
+  "questionId": "021-0313",
+  "questionNumber": "021-0313",
   "stemHtml": "<p>With regards to a gas turbine engine combustion chamber, which of the following statements are correct/incorrect? </p><p>1. Within the combustion chamber, the air/fuel mixture coming from the diffuser section of the engine is ignited and burned<br>2. The combustion process in the combustion chamber of a turbine engine is continuous. Under normal operation, the ignition system is only required during engine start, though in certain conditions it may be necessary to re-energise the ignition sparks to ensure the combustion continues</p>",
   "options": {
     "a": "<p>1 is incorrect, 2 is correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 and 2 are incorrect.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153752,
+    "number": "217418"
+  }
 }

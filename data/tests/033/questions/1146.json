@@ -1,7 +1,7 @@
 {
   "number": 1146,
-  "questionId": 70891,
-  "questionNumber": "336406",
+  "questionId": "033-1146",
+  "questionNumber": "033-1146",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017.\u00a0<br>What is the maximum altitude following the Tabarca route?</p>",
   "options": {
     "a": "<p>FL070</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/69910D5F-2FF6-440A-986E-D080C64A0345.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/69910D5F-2FF6-440A-986E-D080C64A0345.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70891,
+    "number": "336406"
+  }
 }

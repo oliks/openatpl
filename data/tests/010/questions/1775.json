@@ -1,7 +1,7 @@
 {
   "number": 1775,
-  "questionId": 81344,
-  "questionNumber": "106849",
+  "questionId": "010-1775",
+  "questionNumber": "010-1775",
   "stemHtml": "<p dir=\"ltr\">Consider EU Regulations on accidents, incidents, and occurrences in aviation. Which of the following options is correct?</p>",
   "options": {
     "a": "<p dir=\"ltr\">Reg.(EU) 996/2010 addresses safety investigations but excludes, amongst others, incident investigation involving military aircraft; Reg. (EU) 376/2014 adresses occurrence reporting and use of safety information in order to improve aviation safety.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">Reg.(EU) 996/2010 addresses accident and incident investigations for aircraft with an MTOM > 5700 kg; Reg.(EU) 376/2014 regulates accident and incident investigations for aircraft with an MTOM =< 5700 kg.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81344,
+    "number": "106849"
+  }
 }

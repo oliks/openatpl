@@ -1,7 +1,7 @@
 {
   "number": 1826,
-  "questionId": 81795,
-  "questionNumber": "229896",
+  "questionId": "022-1826",
+  "questionNumber": "022-1826",
   "stemHtml": "<p>According to CS-25, in case of an EFIS failure, standby instruments must normally be\u2026</p>",
   "options": {
     "a": "<p>available without additional flight crew action.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>available upon activation by the Commander or Co-pilot.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81795,
+    "number": "229896"
+  }
 }

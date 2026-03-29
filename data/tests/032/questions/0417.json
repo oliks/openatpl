@@ -1,7 +1,7 @@
 {
   "number": 417,
-  "questionId": 111490,
-  "questionNumber": "322876",
+  "questionId": "032-0417",
+  "questionNumber": "032-0417",
   "stemHtml": "<p>What is a disadvantage of flying a holding pattern maintaining the speed for maximum endurance in a propeller aircraft?</p>",
   "options": {
     "a": "<p>Fuel consumption is higher than V<sub>MD</sub>.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Maximum L/D ratio is not achieved due to decreased angle of attack.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111490,
+    "number": "322876"
+  }
 }

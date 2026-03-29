@@ -1,7 +1,7 @@
 {
   "number": 1446,
-  "questionId": 82701,
-  "questionNumber": "212320",
+  "questionId": "021-1446",
+  "questionNumber": "021-1446",
   "stemHtml": "What is the purpose of redundancy in aircraft design?",
   "options": {
     "a": "Save weight by getting rid of unnecessary structure.",
@@ -10,5 +10,10 @@
     "d": "Save weight by getting rid of unnecessary components."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82701,
+    "number": "212320"
+  }
 }

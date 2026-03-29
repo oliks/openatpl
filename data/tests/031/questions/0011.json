@@ -1,7 +1,7 @@
 {
   "number": 11,
-  "questionId": 81300,
-  "questionNumber": "313580",
+  "questionId": "031-0011",
+  "questionNumber": "031-0011",
   "stemHtml": "<p>Determine the maximum traffic load that can be carried, given:</p><p>Maximum structural take-off mass: 5200 kg <br>Dry operating mass: 2840 kg <br>Crew and operational equipment: 360 kg <br>Take-off fuel: 950 kg</p>",
   "options": {
     "a": "<p>1160 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1050 kg</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81300,
+    "number": "313580"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 187,
-  "questionId": 78763,
-  "questionNumber": "211099",
+  "questionId": "021-0187",
+  "questionNumber": "021-0187",
   "stemHtml": "<p>In regards to CS-25 for airplanes and CS-29 for helicopters, what is meant by the term unusable fuel?</p>\r\n",
   "options": {
     "a": "It is the fuel which is drained from the aircraft due to water contamination.",
@@ -10,5 +10,10 @@
     "d": "Fuel which can be drained during taxi."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78763,
+    "number": "211099"
+  }
 }

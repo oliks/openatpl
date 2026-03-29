@@ -1,7 +1,7 @@
 {
   "number": 1249,
-  "questionId": 67432,
-  "questionNumber": "213533",
+  "questionId": "021-1249",
+  "questionNumber": "021-1249",
   "stemHtml": "<p>A free turbine in a gas turbine engine is a turbine\u2026</p>",
   "options": {
     "a": "<p>that drives the high pressure compressor of a twin-spool engine.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>that does not drive a compressor.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67432,
+    "number": "213533"
+  }
 }

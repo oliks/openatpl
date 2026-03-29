@@ -1,7 +1,7 @@
 {
   "number": 343,
-  "questionId": 69238,
-  "questionNumber": "228684",
+  "questionId": "022-0343",
+  "questionNumber": "022-0343",
   "stemHtml": "Refer to figure.  <br />  The diagram which shows a 40\u00b0 left bank and 15\u00b0 nose up attitude is:",
   "options": {
     "a": "diagram 4.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/5B1B307F-6BA8-4CA0-8C06-2EA267E8E5DF.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/5B1B307F-6BA8-4CA0-8C06-2EA267E8E5DF.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69238,
+    "number": "228684"
+  }
 }

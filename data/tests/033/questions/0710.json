@@ -1,7 +1,7 @@
 {
   "number": 710,
-  "questionId": 107231,
-  "questionNumber": "333819",
+  "questionId": "033-0710",
+  "questionNumber": "033-0710",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017. <br>You are approaching Alicante from the southwest to follow the south route. Which path should be followed in case of a radio communication failure?</p>",
   "options": {
     "a": "<p>east of the south corridor/route</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/1576507c-0997-41a8-bdb7-06770db21100.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1576507c-0997-41a8-bdb7-06770db21100.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107231,
+    "number": "333819"
+  }
 }

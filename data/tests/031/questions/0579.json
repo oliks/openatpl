@@ -1,7 +1,7 @@
 {
   "number": 579,
-  "questionId": 163201,
-  "questionNumber": "316826",
+  "questionId": "031-0579",
+  "questionNumber": "031-0579",
   "stemHtml": "<p>Before flight, the cargo handler informs you that the CG is close to the forward limit. Later, on the approach to the destination, the First Officer reports that the aircraft feels very nose-heavy. What is the most likely explanation?</p>",
   "options": {
     "a": "<p>Assume there is a technical defect.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The aircraft is tail-heavy, resulting in reduced control forces.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163201,
+    "number": "316826"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 807,
-  "questionId": 83401,
-  "questionNumber": "102274",
+  "questionId": "010-0807",
+  "questionNumber": "010-0807",
   "stemHtml": "<p>Two aircraft are flying at the same level, one on radial 010<strong>\u00b0</strong> outbound and another on radial 030<strong>\u00b0</strong> outbound are at 15 NM from the nav-aid. What nav-aid must it be, if the aircraft are sufficiently separated?</p>",
   "options": {
     "a": "A VOR.",
@@ -10,5 +10,10 @@
     "d": "A DME."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83401,
+    "number": "102274"
+  }
 }

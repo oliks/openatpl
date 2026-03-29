@@ -1,7 +1,7 @@
 {
   "number": 901,
-  "questionId": 100295,
-  "questionNumber": "211180",
+  "questionId": "021-0901",
+  "questionNumber": "021-0901",
   "stemHtml": "If the flow speed through an axial turbofan compressor is too high, what effect will that have on the compressor?",
   "options": {
     "a": "The stall margins will decrease.",
@@ -10,5 +10,10 @@
     "d": "The compressor will generate less thrust."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100295,
+    "number": "211180"
+  }
 }

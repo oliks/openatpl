@@ -1,7 +1,7 @@
 {
   "number": 1121,
-  "questionId": 68411,
-  "questionNumber": "225992",
+  "questionId": "022-1121",
+  "questionNumber": "022-1121",
   "stemHtml": "<p>The EFIS Flight Path Vector (FPV) may show\u2026</p>",
   "options": {
     "a": "excessive vertical speed of an intruding aircraft.",
@@ -10,5 +10,10 @@
     "d": "the airspeed trend arrow."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68411,
+    "number": "225992"
+  }
 }

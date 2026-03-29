@@ -1,7 +1,7 @@
 {
   "number": 787,
-  "questionId": 85664,
-  "questionNumber": "324589",
+  "questionId": "032-0787",
+  "questionNumber": "032-0787",
   "stemHtml": "When on final approach to a contaminated runway, you experience a crosswind of 30 kt from the right and a headwind of 25 kt. Which of the following statements is correct?",
   "options": {
     "a": "Information regarding the headwind limitations can be found in part A of the operations manual.",
@@ -10,5 +10,10 @@
     "d": "Information regarding the crosswind limitations can be found in part B of the operations manual."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85664,
+    "number": "324589"
+  }
 }

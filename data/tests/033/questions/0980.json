@@ -1,7 +1,7 @@
 {
   "number": 980,
-  "questionId": 70846,
-  "questionNumber": "337437",
+  "questionId": "033-0980",
+  "questionNumber": "033-0980",
   "stemHtml": "<p>Given the following planning data, calculate the maximum possible extra fuel in kg, including any fuel penalty that can be uplifted:</p><p>Maximum Ramp Mass: 77 500kg\u00a0<br>Maximum Take Off Mass: 77 000kg\u00a0<br>Maximum Landing Mass: 66 360kg\u00a0<br>Maximum Zero Fuel Mass: 62 720kg\u00a0<br>Dry Operating Mass: 42 845kg\u00a0<br>Traffic Load: 17 460kg\u00a0<br>Planned Take Off Fuel: 10 365kg\u00a0<br>Trip Fuel: 7890kg\u00a0<br>Taxi Fuel: 195kg\u00a0<br>Fuel Penalty: 135kg/1000kg of extra fuel\u00a0<br>Max Fuel Tank Capacity: 14 000kg</p>",
   "options": {
     "a": "4139 kg",
@@ -10,5 +10,10 @@
     "d": "6635 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70846,
+    "number": "337437"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 453,
-  "questionId": 83393,
-  "questionNumber": "323126",
+  "questionId": "032-0453",
+  "questionNumber": "032-0453",
   "stemHtml": "<p>Refer to figure or to CAP 698 Figure 3.6.<br>Given the following information, calculate the all-engines obstacle clearance of a multi-engined aeroplane commencing from the end of the take-off with the aircraft at reference zero.</p><p>Take-Off Mass: 4000 lb<br>Airport elevation: 6000 ft<br>OAT: +16\u00b0C<br>Ground speed: 121 kt<br>Obstacle height: 2000 ft AGL<br>Obstacle distance: 15 200 ft from reference zero<br>Other conditions as per the graph</p>",
   "options": {
     "a": "312 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/62043754-02B1-4CF4-8FE0-DAA33B30B2D4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/62043754-02B1-4CF4-8FE0-DAA33B30B2D4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83393,
+    "number": "323126"
+  }
 }

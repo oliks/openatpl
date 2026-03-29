@@ -1,7 +1,7 @@
 {
   "number": 824,
-  "questionId": 111947,
-  "questionNumber": "336253",
+  "questionId": "033-0824",
+  "questionNumber": "033-0824",
   "stemHtml": "<p>Refer to figure. <br /> \rIf BUBOK is the Initial Approach Fix (IAF), which Standard Arrival Route (STAR) to BUBOK has the greatest distance?</p>",
   "options": {
     "a": "<p>DESDI4T</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/fe5405e0-4652-487c-b142-239d11ef2fb8.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/fe5405e0-4652-487c-b142-239d11ef2fb8.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111947,
+    "number": "336253"
+  }
 }

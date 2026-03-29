@@ -1,7 +1,7 @@
 {
   "number": 506,
-  "questionId": 83467,
-  "questionNumber": "324442",
+  "questionId": "032-0506",
+  "questionNumber": "032-0506",
   "stemHtml": "What can cause a nose heavy aircraft and a slow pitch attitude response?",
   "options": {
     "a": "Icing on the wing deteriorates the lift capacity.",
@@ -10,5 +10,10 @@
     "d": "Ice being injected by the engine intakes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83467,
+    "number": "324442"
+  }
 }

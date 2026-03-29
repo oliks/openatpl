@@ -1,7 +1,7 @@
 {
   "number": 1269,
-  "questionId": 158974,
-  "questionNumber": "337914",
+  "questionId": "033-1269",
+  "questionNumber": "033-1269",
   "stemHtml": "<p>Refer to figure.  <br />  We are departing Valence (LFLU, N44\u00b055' E004\u00b058\u2032) and intend to join airway B16 southbound. What frequency will be used when overflying the MTL VOR to join B16?</p>",
   "options": {
     "a": "<p>We initially contact Marseille on 123.9, and when over the VOR we switch to Marseille on 128.32.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/8e3a7ec0-3fd4-42e7-a426-65acca2e0d1c.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8e3a7ec0-3fd4-42e7-a426-65acca2e0d1c.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 158974,
+    "number": "337914"
+  }
 }

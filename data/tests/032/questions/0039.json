@@ -1,7 +1,7 @@
 {
   "number": 39,
-  "questionId": 81106,
-  "questionNumber": "329997",
+  "questionId": "032-0039",
+  "questionNumber": "032-0039",
   "stemHtml": "<p>When performing an increased V<strong><sub>2</sub></strong> take-off, our V<strong><sub>1</sub></strong> speed will be increased. What related hazards shoud we pay most attention to?</p>",
   "options": {
     "a": "The climb gradient is reduced, and we may not clear distant obstacles.",
@@ -10,5 +10,10 @@
     "d": "The stop distance may be compromised."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81106,
+    "number": "329997"
+  }
 }

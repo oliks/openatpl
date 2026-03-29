@@ -1,7 +1,7 @@
 {
   "number": 1768,
-  "questionId": 83383,
-  "questionNumber": "109704",
+  "questionId": "010-1768",
+  "questionNumber": "010-1768",
   "stemHtml": "A license holder may excercise certain privileges that depend on their...",
   "options": {
     "a": "ratings.",
@@ -10,5 +10,10 @@
     "d": "academic qualifications."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83383,
+    "number": "109704"
+  }
 }

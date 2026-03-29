@@ -1,7 +1,7 @@
 {
   "number": 1645,
-  "questionId": 66981,
-  "questionNumber": "106779",
+  "questionId": "010-1645",
+  "questionNumber": "010-1645",
   "stemHtml": "<p>A pilot requesting to pass through the level of another aircraft on the same track shall expect instructions\u2026</p>",
   "options": {
     "a": "<p>to carry out a procedure turn.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>to carry out a base turn.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66981,
+    "number": "106779"
+  }
 }

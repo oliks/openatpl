@@ -1,7 +1,7 @@
 {
   "number": 1744,
-  "questionId": 111865,
-  "questionNumber": "103735",
+  "questionId": "010-1744",
+  "questionNumber": "010-1744",
   "stemHtml": "<p>According to ICAO 8168, regarding omni-directional departures, you would expect NO\u2026</p>",
   "options": {
     "a": "<p>navigation aids but sectors to be avoided.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ATC but sectors to be avoided.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111865,
+    "number": "103735"
+  }
 }

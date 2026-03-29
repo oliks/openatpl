@@ -1,7 +1,7 @@
 {
   "number": 1209,
-  "questionId": 82492,
-  "questionNumber": "103332",
+  "questionId": "010-1209",
+  "questionNumber": "010-1209",
   "stemHtml": "<p>According to ICAO Doc 8168 (PANS-OPS), which of the following avionics are required to conduct a parallel instrument approach?</p>",
   "options": {
     "a": "<p>IFR avionics with LCD displays on the Commander's and Co-Pilot's sides.</p>",
@@ -10,5 +10,10 @@
     "d": "Normal IFR avionics including full ILS or MLS capability."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82492,
+    "number": "103332"
+  }
 }

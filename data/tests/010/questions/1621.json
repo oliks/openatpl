@@ -1,7 +1,7 @@
 {
   "number": 1621,
-  "questionId": 78621,
-  "questionNumber": "103684",
+  "questionId": "010-1621",
+  "questionNumber": "010-1621",
   "stemHtml": "What does the abbreviation \"IATA\" stand for?",
   "options": {
     "a": "International Air Transport Association.",
@@ -10,5 +10,10 @@
     "d": "International Aviation Transportation Association."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78621,
+    "number": "103684"
+  }
 }

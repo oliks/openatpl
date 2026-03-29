@@ -1,7 +1,7 @@
 {
   "number": 634,
-  "questionId": 69780,
-  "questionNumber": "324470",
+  "questionId": "032-0634",
+  "questionNumber": "032-0634",
   "stemHtml": "<p>The long range cruise speed in relation to the speed for maximum range cruise is\u2026</p>",
   "options": {
     "a": "Lower.",
@@ -10,5 +10,10 @@
     "d": "Depending on the OAT and net mass."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69780,
+    "number": "324470"
+  }
 }

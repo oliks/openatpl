@@ -1,7 +1,7 @@
 {
   "number": 306,
-  "questionId": 69843,
-  "questionNumber": "325508",
+  "questionId": "032-0306",
+  "questionNumber": "032-0306",
   "stemHtml": "What does the abbreviation &quot;AEO&quot; mean?",
   "options": {
     "a": "All engines &ldquo;off&rdquo;",
@@ -10,5 +10,10 @@
     "d": "All engines operating"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69843,
+    "number": "325508"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 358,
-  "questionId": 70733,
-  "questionNumber": "334825",
+  "questionId": "033-0358",
+  "questionNumber": "033-0358",
   "stemHtml": "<p>Which selection best describes a Point of Equal Time PET, or Critical Point, between the departure aerodrome and the destination where one destination alternate has been nominated? The PET is a track position from which it takes the same time to fly\u2026</p>",
   "options": {
     "a": "onward to the destination as it would to return to the departure point.",
@@ -10,5 +10,10 @@
     "d": "to the destination as the flight planned time to the destination alternate."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70733,
+    "number": "334825"
+  }
 }

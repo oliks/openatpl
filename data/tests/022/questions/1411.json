@@ -1,7 +1,7 @@
 {
   "number": 1411,
-  "questionId": 80227,
-  "questionNumber": "229728",
+  "questionId": "022-1411",
+  "questionNumber": "022-1411",
   "stemHtml": "<p>The strapdown IRS\u2026</p>",
   "options": {
     "a": "Is most reliable with a low frequency laser beam.",
@@ -10,5 +10,10 @@
     "d": "Consists of gyros and accelerometers. The gyros keep the platform level and the accelerometers calculate acceleration."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80227,
+    "number": "229728"
+  }
 }

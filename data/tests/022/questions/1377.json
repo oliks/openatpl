@@ -1,7 +1,7 @@
 {
   "number": 1377,
-  "questionId": 109485,
-  "questionNumber": "229968",
+  "questionId": "022-1377",
+  "questionNumber": "022-1377",
   "stemHtml": "<p>Turning and acceleration errors in a remote reading compass (RRC) are (1) _____ than in a direct reading compass (DRC) and its output is (2) _____ useable by other instruments.</p>",
   "options": {
     "a": "<p>(1) more; (2) less</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) less; (2) more</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109485,
+    "number": "229968"
+  }
 }

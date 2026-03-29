@@ -1,7 +1,7 @@
 {
   "number": 861,
-  "questionId": 66672,
-  "questionNumber": "101056",
+  "questionId": "010-0861",
+  "questionNumber": "010-0861",
   "stemHtml": "In passenger-carrying aeroplanes equipped with a flight crew compartment door designed to resist penetration by small arms fire, when shall this door be closed and locked?",
   "options": {
     "a": "From the commencement of pushback until top-of-climb, and again from top-of-descent to vacating the runway upon landing.",
@@ -10,5 +10,10 @@
     "d": "From the time all external doors are closed following embarkation until opening such doors for disembarkation, except to permit entry and egress of authorised persons."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66672,
+    "number": "101056"
+  }
 }

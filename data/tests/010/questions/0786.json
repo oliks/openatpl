@@ -1,7 +1,7 @@
 {
   "number": 786,
-  "questionId": 84697,
-  "questionNumber": "108749",
+  "questionId": "010-0786",
+  "questionNumber": "010-0786",
   "stemHtml": "An aerodrome meteorologist measures the QNH as 1006.6 hPa. What QNH value will be reported on the METAR or in the ATIS?",
   "options": {
     "a": "1007 hPa",
@@ -10,5 +10,10 @@
     "d": "1010 hPa"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84697,
+    "number": "108749"
+  }
 }

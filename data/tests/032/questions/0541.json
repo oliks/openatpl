@@ -1,7 +1,7 @@
 {
   "number": 541,
-  "questionId": 80341,
-  "questionNumber": "322309",
+  "questionId": "032-0541",
+  "questionNumber": "032-0541",
   "stemHtml": "Can the autobrake be used if the anti-skid is inoperative?",
   "options": {
     "a": "Yes but only if selected to minimum and the reverse thrust is used.",
@@ -10,5 +10,10 @@
     "d": "No."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80341,
+    "number": "322309"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 505,
-  "questionId": 69714,
-  "questionNumber": "327097",
+  "questionId": "032-0505",
+  "questionNumber": "032-0505",
   "stemHtml": "Which of the following sets of factors will increase the climb-limited TOM (every factor considered independently)?",
   "options": {
     "a": "Low flap setting, low PA, low OAT.",
@@ -10,5 +10,10 @@
     "d": "Low flap setting, high PA, high OAT."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69714,
+    "number": "327097"
+  }
 }

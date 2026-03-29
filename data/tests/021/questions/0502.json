@@ -1,7 +1,7 @@
 {
   "number": 502,
-  "questionId": 159656,
-  "questionNumber": "219335",
+  "questionId": "021-0502",
+  "questionNumber": "021-0502",
   "stemHtml": "<p>What is the normal source of air used to pressurise an aircraft fuel tank?</p>",
   "options": {
     "a": "<p>Ram air. <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Electrical cabin fan air.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159656,
+    "number": "219335"
+  }
 }

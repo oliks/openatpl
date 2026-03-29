@@ -1,7 +1,7 @@
 {
   "number": 77,
-  "questionId": 81422,
-  "questionNumber": "224099",
+  "questionId": "022-0077",
+  "questionNumber": "022-0077",
   "stemHtml": "<p>A pilot checks the position error of a stand-alone INS against a known position fix, having completed one hour of flying. The error is approximately 2 NM. This error varies and depends on:</p>\r\r<p>1. Gyro drift rate <br /> \r2. Wind drift <br /> \r3. Accelerometer bias <br /> \r4. Initial misalignment <br /> \r5. Computational errors <br /> \r6. Pilot handling skills</p>",
   "options": {
     "a": "<p dir=\"ltr\">1, 2, 3 and 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3, 4 and 6.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81422,
+    "number": "224099"
+  }
 }

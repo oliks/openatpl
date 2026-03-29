@@ -1,7 +1,7 @@
 {
   "number": 1211,
-  "questionId": 105719,
-  "questionNumber": "339367",
+  "questionId": "033-1211",
+  "questionNumber": "033-1211",
   "stemHtml": "<p>The captain decided to load an extra 120 kg of fuel before the take-off:</p><p>Take-off fuel: 910 Kg <br>Trip fuel: 730 Kg <br>Zero Fuel Weight (ZFW): 3230 kg <br>Maximum Landing Weight (MLW): 3500 kg <br>Maximum Take-off Weight (MTOW): 4290 kg</p>",
   "options": {
     "a": "<p>Proceed to a hold to lose 30 kg to be able to complete the landing.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Proceed to a hold to lose 120 kg to be able to complete the landing.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105719,
+    "number": "339367"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1197,
-  "questionId": 109011,
-  "questionNumber": "109290",
+  "questionId": "010-1197",
+  "questionNumber": "010-1197",
   "stemHtml": "<p>An aeroplane has just departed from Sydney, Australia. Suddenly, one of the engines fails and falls on the ground. The pilots decide to dump fuel. How can this decision be characterized?</p>",
   "options": {
     "a": "<p>It is a procedural error.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It was done to improve fuel efficiency during the flight.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109011,
+    "number": "109290"
+  }
 }

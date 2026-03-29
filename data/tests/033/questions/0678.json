@@ -1,7 +1,7 @@
 {
   "number": 678,
-  "questionId": 106777,
-  "questionNumber": "339829",
+  "questionId": "033-0678",
+  "questionNumber": "033-0678",
   "stemHtml": "<p>Refer to figure. <br /> \rThe figure above shows an extract from a partially completed OFP (operational flight plan). What is the actual fuel flow, compared to the planned fuel flow, between TOC and RKN?</p>",
   "options": {
     "a": "<p>31 kg/hour more than planned.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0f45686c-17a5-48fc-bbd3-7c5b79954848.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0f45686c-17a5-48fc-bbd3-7c5b79954848.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106777,
+    "number": "339829"
+  }
 }

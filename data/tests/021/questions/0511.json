@@ -1,7 +1,7 @@
 {
   "number": 511,
-  "questionId": 105459,
-  "questionNumber": "212009",
+  "questionId": "021-0511",
+  "questionNumber": "021-0511",
   "stemHtml": "<p>What is \"load shedding\"?</p>",
   "options": {
     "a": "<p>The process of increasing electrical load to ensure system stability.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The process of starting an extra generator to balance the load.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105459,
+    "number": "212009"
+  }
 }

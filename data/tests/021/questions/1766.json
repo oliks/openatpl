@@ -1,7 +1,7 @@
 {
   "number": 1766,
-  "questionId": 112027,
-  "questionNumber": "217346",
+  "questionId": "021-1766",
+  "questionNumber": "021-1766",
   "stemHtml": "<p>The braking system on large aircraft can be (1) _____ or (2) _____ actuated?</p>",
   "options": {
     "a": "<p>(1) Hydraulically, (2) Manually</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Hydraulically, (2) Electrically</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112027,
+    "number": "217346"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1001,
-  "questionId": 85826,
-  "questionNumber": "105689",
+  "questionId": "010-1001",
+  "questionNumber": "010-1001",
   "stemHtml": "<p>If a discrete frequency is used for distress traffic, who is allowed to communicate on this frequency?</p>",
   "options": {
     "a": "The air traffic controller, the officer responsible for the rescue and firefighting services and the dispatcher of the company of the aircraft in distress.",
@@ -10,5 +10,10 @@
     "d": "The air traffic controller and the officer of the emergency operation."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85826,
+    "number": "105689"
+  }
 }

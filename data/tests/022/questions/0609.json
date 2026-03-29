@@ -1,7 +1,7 @@
 {
   "number": 609,
-  "questionId": 66519,
-  "questionNumber": "228007",
+  "questionId": "022-0609",
+  "questionNumber": "022-0609",
   "stemHtml": "<p>During pre-flight check, serviceability of a direct reading standby compass indication can be compared preferably with:<br><br>1) runway direction during line-up<br>2) main compass indication<br>3) test VOR indication<br>4) an ADF bearing<br>5) an Airborne Weather Radar bearing<br><br>The combination regrouping all the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 3, 4, 5",
@@ -10,5 +10,10 @@
     "d": "1, 2"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66519,
+    "number": "228007"
+  }
 }

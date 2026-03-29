@@ -1,7 +1,7 @@
 {
   "number": 391,
-  "questionId": 101675,
-  "questionNumber": "215398",
+  "questionId": "021-0391",
+  "questionNumber": "021-0391",
   "stemHtml": "<p>Which of the following factors contribute to the process of combustion within a piston engine?</p>",
   "options": {
     "a": "<p>Spark plug temperature and oil viscosity.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Fuel viscosity and exhaust gas temperature.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101675,
+    "number": "215398"
+  }
 }

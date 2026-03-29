@@ -1,7 +1,7 @@
 {
   "number": 344,
-  "questionId": 107442,
-  "questionNumber": "315904",
+  "questionId": "031-0344",
+  "questionNumber": "031-0344",
   "stemHtml": "<p>An aircraft has the following weight limitations:</p><p>Maximum Take-Off Mass (MTOM): 61 200 kg\u00a0<br>Maximum Zero Fuel Mass (MZFM): 55 000 kg\u00a0<br>Maximum Landing Mass (MLM): 56 500 kg</p><p>The following fuel quantities have been planned:</p><p>Dry Operating Mass (DOM): 29 900 kg\u00a0<br>Taxi fuel: 800 kg\u00a0<br>Trip fuel: 2800 kg\u00a0<br>Alternate fuel: 1600 kg\u00a0<br>Captain\u2019s discretionary fuel: 500 kg\u00a0<br>Reserve fuel: 120 kg\u00a0<br>Extra fuel (for long taxi): 550 kg</p><p>After adding the extra fuel, it is determined that the aircraft is 550 kg overweight. What should be done to ensure compliance with weight limitations?</p>",
   "options": {
     "a": "<p>The aircraft has a 550 kg overload and the captain must reduce the traffic load by 550 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The aircraft cannot depart because the MTOM, MLM, or MZFM limits are exceeded.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107442,
+    "number": "315904"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 515,
-  "questionId": 67495,
-  "questionNumber": "214789",
+  "questionId": "021-0515",
+  "questionNumber": "021-0515",
   "stemHtml": "<p>Which statement is correct for a gas turbine engine with constant speed propeller and free power turbine, when the power setting is decreased?</p><p>I. The propeller blade angle decreases<br>II. The free power turbine speed increases</p>",
   "options": {
     "a": "I is correct, II is incorrect.",
@@ -10,5 +10,10 @@
     "d": "I is correct, II is correct."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67495,
+    "number": "214789"
+  }
 }

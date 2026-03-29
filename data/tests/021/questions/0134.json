@@ -1,7 +1,7 @@
 {
   "number": 134,
-  "questionId": 80099,
-  "questionNumber": "218054",
+  "questionId": "021-0134",
+  "questionNumber": "021-0134",
   "stemHtml": "<p>Select the correct/incorrect statements regarding cockpit windows:</p><p>1. On some aeroplanes the cockpit windows have an additional speed restriction, related to bird impact, when window heating is inoperative<br>2. Cockpit side windows are always provided with a de-icing system</p>",
   "options": {
     "a": "1. correct, 2. incorrect.",
@@ -10,5 +10,10 @@
     "d": "1. incorrect, 2. correct."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80099,
+    "number": "218054"
+  }
 }

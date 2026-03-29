@@ -1,7 +1,7 @@
 {
   "number": 75,
-  "questionId": 69618,
-  "questionNumber": "325713",
+  "questionId": "032-0075",
+  "questionNumber": "032-0075",
   "stemHtml": "<p>A pilot is flying a twin-engine piston aeroplane with all engines operating. Given the following information, what will be the vertical clearance over the obstacle listed below?</p>\n\n<p><span style=\"letter-spacing:0.7px\">MTOM: 4750 kg</span> <br /> \nAirport elevation: 500 ft <br /> \nObstacle elevation: 644 ft <br /> \nDistance of the obstacle from the end of the TOD: 2000 m <br /> \nTemperature: ISA QNH: 1018 hPa <br /> \nSID: straight departure, no specific climb requirements published</p>",
   "options": {
     "a": "168 ft",
@@ -10,5 +10,10 @@
     "d": "70 ft"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69618,
+    "number": "325713"
+  }
 }

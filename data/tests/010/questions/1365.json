@@ -1,7 +1,7 @@
 {
   "number": 1365,
-  "questionId": 105999,
-  "questionNumber": "101510",
+  "questionId": "010-1365",
+  "questionNumber": "010-1365",
   "stemHtml": "<p>Beside general aviation aircraft, which other of the following types of aircraft would be subject to the applicability of EU Regulation 923/2012?</p>",
   "options": {
     "a": "<p>Any aircraft registered with an ICAO member state or based in their engine manufacturer state.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Aircraft based in their engine manufacturer state.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105999,
+    "number": "101510"
+  }
 }

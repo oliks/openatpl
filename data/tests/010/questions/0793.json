@@ -1,7 +1,7 @@
 {
   "number": 793,
-  "questionId": 102290,
-  "questionNumber": "109797",
+  "questionId": "010-0793",
+  "questionNumber": "010-0793",
   "stemHtml": "<p>What is the correct statement about right of way?</p>",
   "options": {
     "a": "<p>Power-driven heavier-than-air aircraft shall give way to airships, gliders and balloons.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>All aircraft shall give way to aircraft which are seen to be towing other aircraft.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102290,
+    "number": "109797"
+  }
 }

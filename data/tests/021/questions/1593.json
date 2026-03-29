@@ -1,7 +1,7 @@
 {
   "number": 1593,
-  "questionId": 100512,
-  "questionNumber": "212548",
+  "questionId": "021-1593",
+  "questionNumber": "021-1593",
   "stemHtml": "<p>Anti-ice systems in turbine type engines, in commercial aviation, uses (1) _____ to (2) _____ ice formation.</p>",
   "options": {
     "a": "(1) engine bleed air; (2) remove.",
@@ -10,5 +10,10 @@
     "d": "(1) engine bleed air; (2) prevent."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100512,
+    "number": "212548"
+  }
 }

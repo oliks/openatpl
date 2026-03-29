@@ -1,7 +1,7 @@
 {
   "number": 166,
-  "questionId": 82061,
-  "questionNumber": "106468",
+  "questionId": "010-0166",
+  "questionNumber": "010-0166",
   "stemHtml": "<p>In the case of a heavier-than-air aircraft, where on the fuselage structure are the registration marks?</p>",
   "options": {
     "a": "<p>On each side of the fuselage between the fuselage and wings, or on the upper tail surface.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Any place that is visible.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82061,
+    "number": "106468"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1057,
-  "questionId": 70520,
-  "questionNumber": "335746",
+  "questionId": "033-1057",
+  "questionNumber": "033-1057",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.3.1c.<br>For a flight of 2000 ground nautical miles, cruising at 30 000 ft, within the limits of the data given, a headwind component of 25 kt will affect the trip time by approximately\u2026</p>",
   "options": {
     "a": "+14.5%",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/EBF0D677-FA8D-4867-BBEE-9F127BA5859A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/EBF0D677-FA8D-4867-BBEE-9F127BA5859A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70520,
+    "number": "335746"
+  }
 }

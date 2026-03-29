@@ -1,7 +1,7 @@
 {
   "number": 383,
-  "questionId": 67055,
-  "questionNumber": "102677",
+  "questionId": "010-0383",
+  "questionNumber": "010-0383",
   "stemHtml": "<p>Information on holding, approach, and departure procedures can be found in the AIP part\u2026</p>",
   "options": {
     "a": "<p>GEN.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ENR.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67055,
+    "number": "102677"
+  }
 }

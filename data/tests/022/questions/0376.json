@@ -1,7 +1,7 @@
 {
   "number": 376,
-  "questionId": 80235,
-  "questionNumber": "229893",
+  "questionId": "022-0376",
+  "questionNumber": "022-0376",
   "stemHtml": "Refer to figure. <br /> What does the \u2018O\u2019 followed by the letters \u2018KABC\u2019 indicate?",
   "options": {
     "a": "A designated alternate airport.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/1D29BD33-6C47-46BF-80A6-B555BACEC164.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/1D29BD33-6C47-46BF-80A6-B555BACEC164.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80235,
+    "number": "229893"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 971,
-  "questionId": 163506,
-  "questionNumber": "211613",
+  "questionId": "021-0971",
+  "questionNumber": "021-0971",
   "stemHtml": "<p>Refer to figure.\u00a0<br>The image displays a propeller blade. What is this component protruding from near its tip?</p>",
   "options": {
     "a": "<p>A static wick used to discharge accumulated static electricity.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/5ea4b1f4-cb6c-4540-ba1c-f12ee5a5bd76.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/5ea4b1f4-cb6c-4540-ba1c-f12ee5a5bd76.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163506,
+    "number": "211613"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 645,
-  "questionId": 164779,
-  "questionNumber": "219751",
+  "questionId": "021-0645",
+  "questionNumber": "021-0645",
   "stemHtml": "<p>When comparing the braking performance of an anti-skid system on and off during a Rejected Take-Off, which statement is correct?</p>",
   "options": {
     "a": "<p>With anti-skid on, stopping distance is the same on dry runways but shorter on wet runways</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Anti-skid reduces stopping distance regardless of whether the runway surface is dry or wet</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164779,
+    "number": "219751"
+  }
 }

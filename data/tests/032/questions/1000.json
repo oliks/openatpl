@@ -1,7 +1,7 @@
 {
   "number": 1000,
-  "questionId": 77881,
-  "questionNumber": "329767",
+  "questionId": "032-1000",
+  "questionNumber": "032-1000",
   "stemHtml": "Is the use of TOGA still possible when the FMS has been set-up for a reduced thrust take-off?",
   "options": {
     "a": "Yes, TOGA is always possible during a reduced thrust take-off.",
@@ -10,5 +10,10 @@
     "d": "TOGA can only be selected above 100 kt once positive directional control has been established."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77881,
+    "number": "329767"
+  }
 }

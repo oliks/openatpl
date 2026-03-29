@@ -1,7 +1,7 @@
 {
   "number": 355,
-  "questionId": 67996,
-  "questionNumber": "218678",
+  "questionId": "021-0355",
+  "questionNumber": "021-0355",
   "stemHtml": "<p>In a gas turbine engine, the maximum gas temperature is attained\u2026</p>",
   "options": {
     "a": "at the turbine entrance.",
@@ -10,5 +10,10 @@
     "d": "at the entry to the exhaust unit."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67996,
+    "number": "218678"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 466,
-  "questionId": 102595,
-  "questionNumber": "106924",
+  "questionId": "010-0466",
+  "questionNumber": "010-0466",
   "stemHtml": "<p>What are the characteristics of the pre-threshold centerline lighting of a typical full CAT I approach lighting system?</p>",
   "options": {
     "a": "<p>A length of at least 150 m and a distance of 30 m between the crossbars.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A length of at least 900 m and a distance of 150 m between the crossbars.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102595,
+    "number": "106924"
+  }
 }

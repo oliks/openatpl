@@ -1,7 +1,7 @@
 {
   "number": 631,
-  "questionId": 104053,
-  "questionNumber": "226634",
+  "questionId": "022-0631",
+  "questionNumber": "022-0631",
   "stemHtml": "<p>Complete the following statement:</p>\r\n\r\n<p>The capacitance type fuel gauging system indicates the fuel quantity by measuring...</p>",
   "options": {
     "a": "<p>The density variation of the fuel.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The resistivity variation of the fuel.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104053,
+    "number": "226634"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 432,
-  "questionId": 70192,
-  "questionNumber": "326471",
+  "questionId": "032-0432",
+  "questionNumber": "032-0432",
   "stemHtml": "<p>During take-off, what are the consequences of mistakenly using a dry V<strong><sub>1</sub></strong> on a wet runway. The actual accelerate stop distance required...</p>",
   "options": {
     "a": "remains the same, because V<sub>1</sub> does not change.",
@@ -10,5 +10,10 @@
     "d": "will be shorter, since a dry V<sub>1</sub> is more conservative."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70192,
+    "number": "326471"
+  }
 }

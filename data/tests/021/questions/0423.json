@@ -1,7 +1,7 @@
 {
   "number": 423,
-  "questionId": 67293,
-  "questionNumber": "214966",
+  "questionId": "021-0423",
+  "questionNumber": "021-0423",
   "stemHtml": "The power output of a piston engine is directly proportional to:",
   "options": {
     "a": "torque and RPM.",
@@ -10,5 +10,10 @@
     "d": "force and distance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67293,
+    "number": "214966"
+  }
 }

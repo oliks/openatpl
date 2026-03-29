@@ -1,7 +1,7 @@
 {
   "number": 49,
-  "questionId": 69689,
-  "questionNumber": "322269",
+  "questionId": "032-0049",
+  "questionNumber": "032-0049",
   "stemHtml": "If there is a tail wind, the climb limited TOM will...",
   "options": {
     "a": "decrease.",
@@ -10,5 +10,10 @@
     "d": "be unaffected."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69689,
+    "number": "322269"
+  }
 }

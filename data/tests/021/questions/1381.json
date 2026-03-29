@@ -1,7 +1,7 @@
 {
   "number": 1381,
-  "questionId": 67932,
-  "questionNumber": "216980",
+  "questionId": "021-1381",
+  "questionNumber": "021-1381",
   "stemHtml": "<p>Engine bleed air used for air conditioning and pressurisation in turbo-jet aeroplanes is usually taken from the...</p>",
   "options": {
     "a": "<p>compressor section.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>turbine section.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67932,
+    "number": "216980"
+  }
 }

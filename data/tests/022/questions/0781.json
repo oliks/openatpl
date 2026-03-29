@@ -1,7 +1,7 @@
 {
   "number": 781,
-  "questionId": 69075,
-  "questionNumber": "227074",
+  "questionId": "022-0781",
+  "questionNumber": "022-0781",
   "stemHtml": "<p>The alignment of a gyro stabilised inertial platform consists in positioning the platform relative to\u2026</p>",
   "options": {
     "a": "the roll axis only.",
@@ -10,5 +10,10 @@
     "d": "the pitch and roll axis."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69075,
+    "number": "227074"
+  }
 }

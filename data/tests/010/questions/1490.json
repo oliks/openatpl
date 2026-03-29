@@ -1,7 +1,7 @@
 {
   "number": 1490,
-  "questionId": 105977,
-  "questionNumber": "103220",
+  "questionId": "010-1490",
+  "questionNumber": "010-1490",
   "stemHtml": "<p>How does lateral separation for aircraft at the same flight level need to be provided?</p>",
   "options": {
     "a": "<p>by use of different routes or geographical locations.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>by use of airspeed.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105977,
+    "number": "103220"
+  }
 }

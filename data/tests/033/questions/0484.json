@@ -1,7 +1,7 @@
 {
   "number": 484,
-  "questionId": 131655,
-  "questionNumber": "336851",
+  "questionId": "033-0484",
+  "questionNumber": "033-0484",
   "stemHtml": "<p>Refer to figure or ALICANTE 10-2C chart from Jeppesen GSPRM 2017. <br>What is the distance to the IAF when performing GERVU 1M STAR procedure, provided the aircraft is RNAV equipped?</p>",
   "options": {
     "a": "<p>59.7 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/f2d6a503-3d11-47bd-b7d0-86d8a0d9541d.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f2d6a503-3d11-47bd-b7d0-86d8a0d9541d.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 131655,
+    "number": "336851"
+  }
 }

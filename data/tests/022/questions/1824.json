@@ -1,7 +1,7 @@
 {
   "number": 1824,
-  "questionId": 80177,
-  "questionNumber": "227818",
+  "questionId": "022-1824",
+  "questionNumber": "022-1824",
   "stemHtml": "<p>When a TCAS Resolution Advisory (RA) requires an immediate descent, and, at the same time, ATC requests an immediate climb, the crew shall\u2026</p>",
   "options": {
     "a": "Consider both requests and remain at the same level.",
@@ -10,5 +10,10 @@
     "d": "Comply with the ATC request."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80177,
+    "number": "227818"
+  }
 }

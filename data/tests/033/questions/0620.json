@@ -1,7 +1,7 @@
 {
   "number": 620,
-  "questionId": 159160,
-  "questionNumber": "332772",
+  "questionId": "033-0620",
+  "questionNumber": "033-0620",
   "stemHtml": "<p>Given the following information for a planned flight from MIKE to GAMMA, how much has the fuel flow increased?</p><p>Planned fuel consumption: 1125 kg/hr   <br />  Planned fuel remaining at GAMMA: 1010 kg   <br />  Actual fuel remaining at GAMMA: 960 kg   <br />  Flight time from MIKE to fly to GAMMA: 5 minutes</p>",
   "options": {
     "a": "<p>600 kg/hr</p>",
@@ -10,5 +10,10 @@
     "d": "<p>500 kg/hr</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159160,
+    "number": "332772"
+  }
 }

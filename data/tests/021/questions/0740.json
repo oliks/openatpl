@@ -1,7 +1,7 @@
 {
   "number": 740,
-  "questionId": 68357,
-  "questionNumber": "214038",
+  "questionId": "021-0740",
+  "questionNumber": "021-0740",
   "stemHtml": "Why do large jet engines need a spool-up time?",
   "options": {
     "a": "Because the engines are controlled by an electronic engine control unit, the calculations required to meter the correct amount of fuel produce a delay in the accelaration of the engine.",
@@ -10,5 +10,10 @@
     "d": "<p>A request for a rapid acceleration may cause a flameout due to the overly rich mixture.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68357,
+    "number": "214038"
+  }
 }

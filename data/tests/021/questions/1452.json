@@ -1,7 +1,7 @@
 {
   "number": 1452,
-  "questionId": 67732,
-  "questionNumber": "218254",
+  "questionId": "021-1452",
+  "questionNumber": "021-1452",
   "stemHtml": "<p>Circuit breakers are used to protect\u2026</p>",
   "options": {
     "a": "<p>only DC circuits.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>only series-connected circuits.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67732,
+    "number": "218254"
+  }
 }

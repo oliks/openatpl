@@ -1,7 +1,7 @@
 {
   "number": 1885,
-  "questionId": 67669,
-  "questionNumber": "213044",
+  "questionId": "021-1885",
+  "questionNumber": "021-1885",
   "stemHtml": "<p>The purpose of a compressor bleed valve in a gas turbine engine is to\u2026</p>",
   "options": {
     "a": "prevent surging of the intermediate compressor only.",
@@ -10,5 +10,10 @@
     "d": "prevent surging at low compressor rpm."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67669,
+    "number": "213044"
+  }
 }

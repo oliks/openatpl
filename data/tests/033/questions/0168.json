@@ -1,7 +1,7 @@
 {
   "number": 168,
-  "questionId": 70721,
-  "questionNumber": "339653",
+  "questionId": "033-0168",
+  "questionNumber": "033-0168",
   "stemHtml": "<p>Refer to figures or CAP 697 Figure 4.4, and CAP 697 Figure 4.5.3.2 for Pressure Altitude 37 000 ft.<br>Using the following information as required, what is the minimum Additional Fuel required for a Commercial Air Transport flight in the Medium Range Jet Transport MRJT aeroplane, to an isolated destination aerodrome?</p><p>Cruise level: FL370<br>Cruise speed: Mach 0.74<br>Total trip distance: 2143 NM<br>Average headwind component: 8 kt<br>Average OAT: ISA +10\u00b0C<br>Contingency Fuel: 5% Trip Fuel<br>Estimated weight at destination: 45 000 kg<br>Destination elevation: MSL</p>",
   "options": {
     "a": "3818 kg",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/31182b9d-9758-47d1-a079-cd6914989803.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/31182b9d-9758-47d1-a079-cd6914989803.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70721,
+    "number": "339653"
+  }
 }

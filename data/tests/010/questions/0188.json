@@ -1,7 +1,7 @@
 {
   "number": 188,
-  "questionId": 108299,
-  "questionNumber": "107796",
+  "questionId": "010-0188",
+  "questionNumber": "010-0188",
   "stemHtml": "<p>What should be given in a SNOWTAM?</p>",
   "options": {
     "a": "<p>Details about volcanic ash and contamination on the runway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Details about general weather conditions and visibility at the airport.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108299,
+    "number": "107796"
+  }
 }

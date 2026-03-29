@@ -1,7 +1,7 @@
 {
   "number": 1696,
-  "questionId": 68967,
-  "questionNumber": "228163",
+  "questionId": "022-1696",
+  "questionNumber": "022-1696",
   "stemHtml": "<p>Which of the following statements is/are correct as regards a synchroscope on a multi-engine aircraft? A synchroscope is used to\u2026</p><p>1. reduce structural vibration and noise <br>2. achieve symmetrical thrust and fuel consumption</p>",
   "options": {
     "a": "Both 1 and 2 are incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68967,
+    "number": "228163"
+  }
 }

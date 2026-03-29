@@ -1,7 +1,7 @@
 {
   "number": 897,
-  "questionId": 68284,
-  "questionNumber": "219258",
+  "questionId": "021-0897",
+  "questionNumber": "021-0897",
   "stemHtml": "<p>A turbocharger in a reciprocating engine consists of a\u2026</p>",
   "options": {
     "a": "<p>compressor and turbine on individual shafts.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>compressor and turbine mounted on a common shaft.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68284,
+    "number": "219258"
+  }
 }

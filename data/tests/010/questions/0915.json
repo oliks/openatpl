@@ -1,7 +1,7 @@
 {
   "number": 915,
-  "questionId": 83908,
-  "questionNumber": "107531",
+  "questionId": "010-0915",
+  "questionNumber": "010-0915",
   "stemHtml": "<p>According to SERA, what must the PIC do if an ATC clearance CANNOT be complied with?</p>",
   "options": {
     "a": "Disregard the clearance and proceed in accordance with the flight plan.",
@@ -10,5 +10,10 @@
     "d": "Perform a change of flight rules."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83908,
+    "number": "107531"
+  }
 }

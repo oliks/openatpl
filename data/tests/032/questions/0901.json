@@ -1,7 +1,7 @@
 {
   "number": 901,
-  "questionId": 82291,
-  "questionNumber": "326426",
+  "questionId": "032-0901",
+  "questionNumber": "032-0901",
   "stemHtml": "In case of performance Class A aeroplane, why would you consider performing a derated thrust take-off on a contaminated runway?",
   "options": {
     "a": "<p>There will be an additional safety margin, and maximum take-off power (TOGA) can be selected at any time during take-off.</p>",
@@ -10,5 +10,10 @@
     "d": "V<sub>1</sub> can be lowered below V<sub>MCG</sub>, leading to better take-off performance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82291,
+    "number": "326426"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1494,
-  "questionId": 108131,
-  "questionNumber": "334559",
+  "questionId": "033-1494",
+  "questionNumber": "033-1494",
   "stemHtml": "<p>You are planning a flight which passes through LIMM (Milan FIR). There are no reports of CB activity on the significant weather charts or SIGMETs, however you notice significant thunderstorm activity on a specialised weather website for an area close to your intended routing. How should you proceed?</p>",
   "options": {
     "a": "<p>You can use any piece of available information, including the website, during the planning phase of flight.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>You must postpone the flight until official sources confirm the presence or absence of thunderstorms along the route.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108131,
+    "number": "334559"
+  }
 }

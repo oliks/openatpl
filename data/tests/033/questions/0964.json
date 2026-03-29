@@ -1,7 +1,7 @@
 {
   "number": 964,
-  "questionId": 82034,
-  "questionNumber": "338575",
+  "questionId": "033-0964",
+  "questionNumber": "033-0964",
   "stemHtml": "<p>A flight crew is operating a Commercial Air Transport flight and arriving in VMC overhead the holding fix on the approach towards the destination airport A when ATC tells the Commander to take up the hold and expect 17 minutes delay. Use the data below for available fuel on board when commencing the hold and find the LEGAL and preferred COMMERCIAL solution.</p><p>Alternate Fuel: 40 minutes<br>Final Reserve Fuel: 30 minutes<br>Extra Fuel: 10 minutes</p>",
   "options": {
     "a": "Immediately divert to the destination alternate since there is NOT sufficient fuel to hold for the estimated 17 minutes, thereby having extra fuel when landing at the destination alternate.",
@@ -10,5 +10,10 @@
     "d": "<p>Declare minimum fuel to ATC as that will guarantee priority and ATC will ensure that the aeroplane will only hold for the available time to land with alternate fuel plus final reserve fuel.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82034,
+    "number": "338575"
+  }
 }

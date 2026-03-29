@@ -1,7 +1,7 @@
 {
   "number": 590,
-  "questionId": 109588,
-  "questionNumber": "211526",
+  "questionId": "021-0590",
+  "questionNumber": "021-0590",
   "stemHtml": "<p>A constant delivery hydraulic pump provides (1) _____ and (2) _____. A demand pump works by supplying (3) _____ and (4) _____.</p>\r\n\r\n<ul>\r\n</ul>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>(1) constant pressure; (2) fixed volume; (3) constant pressure; (4) constant volume.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) constant pressure; (2) varying volume; (3) variable volume; (4) variable pressure.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109588,
+    "number": "211526"
+  }
 }

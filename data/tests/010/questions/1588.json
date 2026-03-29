@@ -1,7 +1,7 @@
 {
   "number": 1588,
-  "questionId": 108144,
-  "questionNumber": "103671",
+  "questionId": "010-1588",
+  "questionNumber": "010-1588",
   "stemHtml": "<p>An aircraft is flying over a point that has the symbol of a bold triangle. When over the point, what should the pilot report to the ATC?</p>",
   "options": {
     "a": "<p>As a minimum, the aircraft identification, position, time, and level.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Speed, and level.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108144,
+    "number": "103671"
+  }
 }

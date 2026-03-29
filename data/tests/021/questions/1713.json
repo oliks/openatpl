@@ -1,7 +1,7 @@
 {
   "number": 1713,
-  "questionId": 108416,
-  "questionNumber": "211605",
+  "questionId": "021-1713",
+  "questionNumber": "021-1713",
   "stemHtml": "<p>Refer to figure. <br /> \rYou see a fire warning for the right engine and press the left discharge button to refer to that warning. What will happen?</p>",
   "options": {
     "a": "<p>Fire on engine 2 and discharge bottle 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/18ee6789-00ef-4078-ae60-99104dc30b92.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/18ee6789-00ef-4078-ae60-99104dc30b92.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108416,
+    "number": "211605"
+  }
 }

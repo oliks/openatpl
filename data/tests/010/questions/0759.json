@@ -1,7 +1,7 @@
 {
   "number": 759,
-  "questionId": 67196,
-  "questionNumber": "101932",
+  "questionId": "010-0759",
+  "questionNumber": "010-0759",
   "stemHtml": "What is the class of airspace where IFR and VFR flights are permitted, all participating IFR flights receive an air traffic advisory service and all flights receive flight information service if requested?",
   "options": {
     "a": "Class F.",
@@ -10,5 +10,10 @@
     "d": "Class G."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67196,
+    "number": "101932"
+  }
 }

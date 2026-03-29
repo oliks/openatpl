@@ -1,7 +1,7 @@
 {
   "number": 237,
-  "questionId": 83386,
-  "questionNumber": "329415",
+  "questionId": "032-0237",
+  "questionNumber": "032-0237",
   "stemHtml": "<p>A Medium-Range Jet Transport (MRJT) aeroplane descending with a Continuous Descent Final Approach (CDFA) technique to an airport, maintains a rate of descent of 1200 fpm and an airspeed of 180 kt CAS, using the autopilot and autothrust systems. Turning onto the final approach course, the wind switches from 30 kt crosswind to 30 kt headwind. Ignoring any other factors, what will be the effect of the wind change on the aeroplane during the turning manoeuvre?</p>",
   "options": {
     "a": "<p>The thrust will reduce in order to maintain 180 kt CAS and the vertical speed should be reduced to maintain trajectory as groundspeed decreases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>More flaps should be extended to arrest the increasing airspeed and the rate of descent must be increased to maintain the optimum trajectory.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83386,
+    "number": "329415"
+  }
 }

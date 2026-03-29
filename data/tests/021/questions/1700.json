@@ -1,7 +1,7 @@
 {
   "number": 1700,
-  "questionId": 68325,
-  "questionNumber": "211328",
+  "questionId": "021-1700",
+  "questionNumber": "021-1700",
   "stemHtml": "<p>The so-called \"hot buses\" or \"direct buses\" are\u2026</p>",
   "options": {
     "a": "providing an alternative current.",
@@ -10,5 +10,10 @@
     "d": "kept in operating conditions by an electrical resistance in the case of energy failure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68325,
+    "number": "211328"
+  }
 }

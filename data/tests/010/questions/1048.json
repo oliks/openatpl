@@ -1,7 +1,7 @@
 {
   "number": 1048,
-  "questionId": 80329,
-  "questionNumber": "107035",
+  "questionId": "010-1048",
+  "questionNumber": "010-1048",
   "stemHtml": "Why is fuel dumped during an emergency after take-off?",
   "options": {
     "a": "Lower risk of fire during landing.",
@@ -10,5 +10,10 @@
     "d": "To have a better airplane manoeuvrability and get back to the airport quickly for landing."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80329,
+    "number": "107035"
+  }
 }

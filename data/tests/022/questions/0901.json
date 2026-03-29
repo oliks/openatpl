@@ -1,7 +1,7 @@
 {
   "number": 901,
-  "questionId": 109993,
-  "questionNumber": "229163",
+  "questionId": "022-0901",
+  "questionNumber": "022-0901",
   "stemHtml": "<p>What happens when the HDG lateral mode button is pressed?</p>",
   "options": {
     "a": "<p>Follows a track (TRK) with wind compensation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Follows the true heading set in the HDG window.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109993,
+    "number": "229163"
+  }
 }

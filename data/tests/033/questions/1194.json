@@ -1,7 +1,7 @@
 {
   "number": 1194,
-  "questionId": 111953,
-  "questionNumber": "334836",
+  "questionId": "033-1194",
+  "questionNumber": "033-1194",
   "stemHtml": "<p>Refer to figure. <br /> \rIf LADVI is the Initial Approach Fix (IAF), which Standard Arrival Route (STAR) to LADVI has the shortest distance?</p>",
   "options": {
     "a": "<p>DESDI4T</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/06d9ccb0-26d7-4c6f-a09d-1b698c058f3b.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/06d9ccb0-26d7-4c6f-a09d-1b698c058f3b.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111953,
+    "number": "334836"
+  }
 }

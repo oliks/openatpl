@@ -1,7 +1,7 @@
 {
   "number": 1765,
-  "questionId": 164396,
-  "questionNumber": "213662",
+  "questionId": "021-1765",
+  "questionNumber": "021-1765",
   "stemHtml": "<p>An aircraft is maintaining FL380 and the cabin vertical speed indicator remains fixed at zero. Which of the following failures best explains this indication?</p>",
   "options": {
     "a": "<p>Cabin pressure controller inoperative.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A door is open.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164396,
+    "number": "213662"
+  }
 }

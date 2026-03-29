@@ -1,7 +1,7 @@
 {
   "number": 1822,
-  "questionId": 67160,
-  "questionNumber": "107918",
+  "questionId": "010-1822",
+  "questionNumber": "010-1822",
   "stemHtml": "<p>Low-intensity obstacle lights, Type C, displayed on vehicles associated with emergency shall be\u2026</p>",
   "options": {
     "a": "flashing blue or red.",
@@ -10,5 +10,10 @@
     "d": "flashing blue."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67160,
+    "number": "107918"
+  }
 }

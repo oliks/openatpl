@@ -1,7 +1,7 @@
 {
   "number": 1288,
-  "questionId": 109544,
-  "questionNumber": "228182",
+  "questionId": "022-1288",
+  "questionNumber": "022-1288",
   "stemHtml": "<p>In a 3 axis autopilot, what controls the aircraft in pitch?</p>",
   "options": {
     "a": "<p>Ailerons</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Autothrust</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109544,
+    "number": "228182"
+  }
 }

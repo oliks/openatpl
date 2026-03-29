@@ -1,7 +1,7 @@
 {
   "number": 67,
-  "questionId": 68217,
-  "questionNumber": "219159",
+  "questionId": "021-0067",
+  "questionNumber": "021-0067",
   "stemHtml": "<p>One design method to avoid control surface flutter is\u2026</p>",
   "options": {
     "a": "through the correct use of trim tabs.",
@@ -10,5 +10,10 @@
     "d": "ensuring correct mass distribution within the control surface."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68217,
+    "number": "219159"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 851,
-  "questionId": 70983,
-  "questionNumber": "334748",
+  "questionId": "033-0851",
+  "questionNumber": "033-0851",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual ALICANTE 11-2. <br>You are arriving to the airport, but when you are about to land, the tailwind changes above limits. What do you do?</p>",
   "options": {
     "a": "<div>Land with no flap</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/58FEBCF4-CE6C-4F42-AA5A-ABF0BD94A9F5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/58FEBCF4-CE6C-4F42-AA5A-ABF0BD94A9F5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70983,
+    "number": "334748"
+  }
 }

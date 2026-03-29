@@ -1,7 +1,7 @@
 {
   "number": 893,
-  "questionId": 80702,
-  "questionNumber": "211228",
+  "questionId": "021-0893",
+  "questionNumber": "021-0893",
   "stemHtml": "In a turn flight, which scenario will cause the most bending moment at the wing root?",
   "options": {
     "a": "Low ZFM, High fuel.",
@@ -10,5 +10,10 @@
     "d": "High ZFM, low fuel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80702,
+    "number": "211228"
+  }
 }

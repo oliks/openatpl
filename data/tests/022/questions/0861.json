@@ -1,7 +1,7 @@
 {
   "number": 861,
-  "questionId": 69110,
-  "questionNumber": "227672",
+  "questionId": "022-0861",
+  "questionNumber": "022-0861",
   "stemHtml": "<p>To warn the flight crew, an overspeed warning system can use:</p><p>1 \u2013 an aural warning<br>2 \u2013 a stick shaker connected to the control column<br>3 \u2013 a vibration device connected to the autothrottle</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 3.",
@@ -10,5 +10,10 @@
     "d": "1, 2."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69110,
+    "number": "227672"
+  }
 }

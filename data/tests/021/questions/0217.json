@@ -1,7 +1,7 @@
 {
   "number": 217,
-  "questionId": 161929,
-  "questionNumber": "215565",
+  "questionId": "021-0217",
+  "questionNumber": "021-0217",
   "stemHtml": "<p>During external AC power supply what constraint must be respected?</p>",
   "options": {
     "a": "<p>The internal busbars are disconnected.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The synchronising unit will ensure that no frequency difference exists between the aircraft generators and the external supply.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161929,
+    "number": "215565"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 359,
-  "questionId": 68923,
-  "questionNumber": "229134",
+  "questionId": "022-0359",
+  "questionNumber": "022-0359",
   "stemHtml": "<p>The input data to the GPWS originate from the:</p><p><span style=\"letter-spacing:0.7px\">1 \u2013 transponder</span>  <br />  2 \u2013 angle of attack sensor  <br />  3 \u2013 auto throttle system  <br />  4 \u2013 ADC</p><p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "4.",
@@ -10,5 +10,10 @@
     "d": "3, 4."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68923,
+    "number": "229134"
+  }
 }

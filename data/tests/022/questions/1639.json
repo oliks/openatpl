@@ -1,7 +1,7 @@
 {
   "number": 1639,
-  "questionId": 163897,
-  "questionNumber": "228108",
+  "questionId": "022-1639",
+  "questionNumber": "022-1639",
   "stemHtml": "<p>An aircraft is being flown manually in the cruise with the Flight Director (FD) selected ON. The FD command bars are displaced slightly to the left and up. What should the pilot do?</p>",
   "options": {
     "a": "<p>Ignore the Flight Director indications.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Turn off the Flight Director.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163897,
+    "number": "228108"
+  }
 }

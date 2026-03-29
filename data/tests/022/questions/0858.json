@@ -1,7 +1,7 @@
 {
   "number": 858,
-  "questionId": 110182,
-  "questionNumber": "222492",
+  "questionId": "022-0858",
+  "questionNumber": "022-0858",
   "stemHtml": "<p>During take-off, the EPR indication of an engine decreases. If no anomalies are detected what is the correct course of action?</p>",
   "options": {
     "a": "<p>Continue the take-off.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Confirm that N1 is satisfactory and continue the take-off.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110182,
+    "number": "222492"
+  }
 }

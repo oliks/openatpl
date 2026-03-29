@@ -1,7 +1,7 @@
 {
   "number": 715,
-  "questionId": 79338,
-  "questionNumber": "102591",
+  "questionId": "010-0715",
+  "questionNumber": "010-0715",
   "stemHtml": "<p>An aircraft lands at the destination with less than 30 minutes fuel. This is reported as\u2026</p>",
   "options": {
     "a": "Incident.",
@@ -10,5 +10,10 @@
     "d": "As long as the aircraft land safely, there is no need to report."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79338,
+    "number": "102591"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 681,
-  "questionId": 69716,
-  "questionNumber": "321611",
+  "questionId": "032-0681",
+  "questionNumber": "032-0681",
   "stemHtml": "<p>An operator shall ensure that the net take-off flight path clears all obstacles. The half-width of the obstacle-corridor at the distance D from the end of the TODA is at least\u2026</p>",
   "options": {
     "a": "0.125D",
@@ -10,5 +10,10 @@
     "d": "90 m + D/0.125"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69716,
+    "number": "321611"
+  }
 }

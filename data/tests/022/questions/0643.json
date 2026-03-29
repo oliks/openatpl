@@ -1,7 +1,7 @@
 {
   "number": 643,
-  "questionId": 86028,
-  "questionNumber": "227927",
+  "questionId": "022-0643",
+  "questionNumber": "022-0643",
   "stemHtml": "<p>You are flying an aircraft with autopilot engaged and flight director ON with a heading of 160<strong>\u00b0</strong>. If you select a new heading of 180<strong>\u00b0</strong>, what would the vertical line on the FD show?</p>",
   "options": {
     "a": "<p>FD is centred if current bank angle is as per bank angle calculated from the flight firector computer</p>",
@@ -10,5 +10,10 @@
     "d": "FD is centred if there is a 20\u00b0 right drift"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86028,
+    "number": "227927"
+  }
 }

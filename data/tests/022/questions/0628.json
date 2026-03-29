@@ -1,7 +1,7 @@
 {
   "number": 628,
-  "questionId": 69114,
-  "questionNumber": "221402",
+  "questionId": "022-0628",
+  "questionNumber": "022-0628",
   "stemHtml": "<p>The GPWS receives data from the following systems:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 landing gear and flaps systems</span> <br /> \n2 \u2013 engine control computer (FADEC or ECU) <br /> \n3 \u2013 radio altimeter <br /> \n4 \u2013 TCAS</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "1, 3.",
@@ -10,5 +10,10 @@
     "d": "3, 4."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69114,
+    "number": "221402"
+  }
 }

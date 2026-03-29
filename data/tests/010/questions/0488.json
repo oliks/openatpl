@@ -1,7 +1,7 @@
 {
   "number": 488,
-  "questionId": 77720,
-  "questionNumber": "101686",
+  "questionId": "010-0488",
+  "questionNumber": "010-0488",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich one describes correctly the primary and secondary areas?</p>",
   "options": {
     "a": "<p>Figure A</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/C4C02116-0822-47E6-AF4C-EF1733FF53E8.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/C4C02116-0822-47E6-AF4C-EF1733FF53E8.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77720,
+    "number": "101686"
+  }
 }

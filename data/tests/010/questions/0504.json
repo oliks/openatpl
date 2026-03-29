@@ -1,7 +1,7 @@
 {
   "number": 504,
-  "questionId": 103598,
-  "questionNumber": "101763",
+  "questionId": "010-0504",
+  "questionNumber": "010-0504",
   "stemHtml": "<p>Why is the movement of individuals and aircraft being towed managed by tower controllers?</p>",
   "options": {
     "a": "<p>To regulate fuel consumption for aircraft operations.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To facilitate efficient loading and unloading of cargo and passengers onto aircraft.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103598,
+    "number": "101763"
+  }
 }

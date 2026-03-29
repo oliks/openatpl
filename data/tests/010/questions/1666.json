@@ -1,7 +1,7 @@
 {
   "number": 1666,
-  "questionId": 67058,
-  "questionNumber": "103649",
+  "questionId": "010-1666",
+  "questionNumber": "010-1666",
   "stemHtml": "<p>A pilot intends to fly to another country and, during pre-flight briefing, wants to check \"location indicators\". In which part of the AIP can these be found?\u00a0</p>",
   "options": {
     "a": "GEN.",
@@ -10,5 +10,10 @@
     "d": "ENR."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67058,
+    "number": "103649"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1257,
-  "questionId": 83363,
-  "questionNumber": "326035",
+  "questionId": "032-1257",
+  "questionNumber": "032-1257",
   "stemHtml": "<p>What information could you get from SNOWTAM?</p>\r\n\r\n<p>1. Snow<br />\r\n2. Windshear<br />\r\n3. Water on the runway<br />\r\n4. Oil contamination<br />\r\n5. Thunderstorm</p>\r\n",
   "options": {
     "a": "1 and 3",
@@ -10,5 +10,10 @@
     "d": "3 and 5"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83363,
+    "number": "326035"
+  }
 }

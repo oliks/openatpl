@@ -1,7 +1,7 @@
 {
   "number": 995,
-  "questionId": 82323,
-  "questionNumber": "326657",
+  "questionId": "032-0995",
+  "questionNumber": "032-0995",
   "stemHtml": "<p>Refer to figure. <br /> Which of the following graphs illustrate the power change with decreasing altitude?</p>",
   "options": {
     "a": "Figure 1",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/9D919A38-04B8-4BCC-921E-28EBE03E37F3.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/9D919A38-04B8-4BCC-921E-28EBE03E37F3.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82323,
+    "number": "326657"
+  }
 }

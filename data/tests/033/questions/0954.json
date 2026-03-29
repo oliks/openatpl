@@ -1,7 +1,7 @@
 {
   "number": 954,
-  "questionId": 96674,
-  "questionNumber": "339421",
+  "questionId": "033-0954",
+  "questionNumber": "033-0954",
   "stemHtml": "What is a non-precision approach?",
   "options": {
     "a": "A PBN approach procedure.",
@@ -10,5 +10,10 @@
     "d": "An instrument procedure with 3D guidance, type A."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96674,
+    "number": "339421"
+  }
 }

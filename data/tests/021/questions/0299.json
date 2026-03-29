@@ -1,7 +1,7 @@
 {
   "number": 299,
-  "questionId": 85630,
-  "questionNumber": "214076",
+  "questionId": "021-0299",
+  "questionNumber": "021-0299",
   "stemHtml": "A turbofan engine with an inlet air mass flow of 320 kg/s and a HP compressor mass flow of 40 kg/s has a bypass ratio of...",
   "options": {
     "a": "8",
@@ -10,5 +10,10 @@
     "d": "12"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85630,
+    "number": "214076"
+  }
 }

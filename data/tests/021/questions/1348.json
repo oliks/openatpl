@@ -1,7 +1,7 @@
 {
   "number": 1348,
-  "questionId": 107597,
-  "questionNumber": "211410",
+  "questionId": "021-1348",
+  "questionNumber": "021-1348",
   "stemHtml": "<p>Which of the following sequences correctly describes the order to start a gas turbine engine in flight?</p>",
   "options": {
     "a": "<p>Compressor acceleration, ignition on, fuel injection.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Fuel injection, ignition on, compressor acceleration.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107597,
+    "number": "211410"
+  }
 }

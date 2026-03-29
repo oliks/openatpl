@@ -1,7 +1,7 @@
 {
   "number": 234,
-  "questionId": 106015,
-  "questionNumber": "221172",
+  "questionId": "022-0234",
+  "questionNumber": "022-0234",
   "stemHtml": "<p>Your Mach Number is 0.7, and you are flying at constant CAS. After considerable time passed, all other variables remained the same, but the temperature SAT of -35<strong>\u00b0</strong>C increased to -30<strong>\u00b0</strong>C.</p>",
   "options": {
     "a": "Mach will increase because it is a function of temperature.",
@@ -10,5 +10,10 @@
     "d": "Mach will decrease because LSS will increase with increases in temperature."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106015,
+    "number": "221172"
+  }
 }

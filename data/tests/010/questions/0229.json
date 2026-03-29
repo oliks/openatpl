@@ -1,7 +1,7 @@
 {
   "number": 229,
-  "questionId": 67250,
-  "questionNumber": "105295",
+  "questionId": "010-0229",
+  "questionNumber": "010-0229",
   "stemHtml": "A pilot is instructed to leave a holding pattern. When clearance is received specifying the time of departure from the holding point...",
   "options": {
     "a": "the pilot should adjust the pattern within the limits of the established holding procedure in order to leave the holding point at the time specified, +/- 1 minute.",
@@ -10,5 +10,10 @@
     "d": "the pilot should adjust the pattern within the limits of the established holding procedure in order to leave the holding point before or at the time specified."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67250,
+    "number": "105295"
+  }
 }

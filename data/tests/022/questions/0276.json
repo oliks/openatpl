@@ -1,7 +1,7 @@
 {
   "number": 276,
-  "questionId": 86114,
-  "questionNumber": "221007",
+  "questionId": "022-0276",
+  "questionNumber": "022-0276",
   "stemHtml": "In a trim runaway situation, what can be the anticipated outcome in terms of altitude?",
   "options": {
     "a": "Altitude loss can be substantial, and recovery may be difficult.",
@@ -10,5 +10,10 @@
     "d": "Altitude will not be affected."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86114,
+    "number": "221007"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 477,
-  "questionId": 109287,
-  "questionNumber": "339171",
+  "questionId": "033-0477",
+  "questionNumber": "033-0477",
   "stemHtml": "<p>An IFR flight is planned across terrain where the maximum elevation is 4600 ft. The forecast temperature is ISA +12\u00b0C, and the Minimum Obstacle Clearance required is 1500 ft. A nearby aerodrome elevation 875 ft reports a QNH of 1025 hPa. What is the minimum flight level that could be planned for the cruise?</p>",
   "options": {
     "a": "<p>FL80</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL60</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109287,
+    "number": "339171"
+  }
 }

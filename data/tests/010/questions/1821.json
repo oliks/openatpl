@@ -1,7 +1,7 @@
 {
   "number": 1821,
-  "questionId": 162676,
-  "questionNumber": "101864",
+  "questionId": "010-1821",
+  "questionNumber": "010-1821",
   "stemHtml": "<p>When an aircraft is equipped with a serviceable SSR transponder, which mode should be used?</p>",
   "options": {
     "a": "<p>Mode A only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Mode A and Mode C but only during night flights.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162676,
+    "number": "101864"
+  }
 }

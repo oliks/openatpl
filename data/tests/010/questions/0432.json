@@ -1,7 +1,7 @@
 {
   "number": 432,
-  "questionId": 110023,
-  "questionNumber": "104584",
+  "questionId": "010-0432",
+  "questionNumber": "010-0432",
   "stemHtml": "<p>In accordance with ICAO Doc 8168, the intermediate segment should be...</p>",
   "options": {
     "a": "<p>as shallow as possible, to comply with obstacle separation criteria.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>at least 3\u00b0 steep, to allow for aircraft configuration before landing.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110023,
+    "number": "104584"
+  }
 }

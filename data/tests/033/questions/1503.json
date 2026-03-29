@@ -1,7 +1,7 @@
 {
   "number": 1503,
-  "questionId": 111636,
-  "questionNumber": "335785",
+  "questionId": "033-1503",
+  "questionNumber": "033-1503",
   "stemHtml": "<p>Which statement is correct for an aircraft conducting an approach into Stuttgart if its VNAV capability is unavailable and only LNAV can be used?</p>",
   "options": {
     "a": "<p>It will follow a 3D non-precision flight with guidance by ground augmentation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It will follow a 2D non-precision flight with guidance by ground augmentation.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111636,
+    "number": "335785"
+  }
 }

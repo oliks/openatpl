@@ -1,7 +1,7 @@
 {
   "number": 439,
-  "questionId": 70159,
-  "questionNumber": "328914",
+  "questionId": "032-0439",
+  "questionNumber": "032-0439",
   "stemHtml": "<p>A FLAT RATED jet engine will give\u2026</p>",
   "options": {
     "a": "decreasing thrust as temperature decreases below a cut-off value",
@@ -10,5 +10,10 @@
     "d": "a constant thrust for temperatures below a cut-off value"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70159,
+    "number": "328914"
+  }
 }

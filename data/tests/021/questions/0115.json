@@ -1,7 +1,7 @@
 {
   "number": 115,
-  "questionId": 83651,
-  "questionNumber": "218452",
+  "questionId": "021-0115",
+  "questionNumber": "021-0115",
   "stemHtml": "In a gas turbine engine, a diffuser is used to reduce the velocity of gas entering the combustion chamber, to...",
   "options": {
     "a": "reduce the gas pressure and ensure that the combustion does not stop.",
@@ -10,5 +10,10 @@
     "d": "reduce gas temperatures and decrease the risk of overheating the combustion chamber."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83651,
+    "number": "218452"
+  }
 }

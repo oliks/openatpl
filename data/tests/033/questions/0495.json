@@ -1,7 +1,7 @@
 {
   "number": 495,
-  "questionId": 162443,
-  "questionNumber": "336269",
+  "questionId": "033-0495",
+  "questionNumber": "033-0495",
   "stemHtml": "<p>You intend to execute a departure procedure utilizing VOR/DME navigation aids. Which procedure type will you be flying?</p>",
   "options": {
     "a": "<p>RNAV SID <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>RNAV SID overlay</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162443,
+    "number": "336269"
+  }
 }

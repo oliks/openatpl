@@ -1,7 +1,7 @@
 {
   "number": 288,
-  "questionId": 66795,
-  "questionNumber": "102030",
+  "questionId": "010-0288",
+  "questionNumber": "010-0288",
   "stemHtml": "An aircraft operating under VFR, at altitudes between 4500 ft and 9000 ft AMSL, and outside controlled airspace, shall maintain a distance from clouds and a flight visibility of at least..",
   "options": {
     "a": "1500 m horizontally and 1000 ft vertically, and a flight visibility of 5 km.",
@@ -10,5 +10,10 @@
     "d": "600 m horizontally and 1000 ft vertically, and a flight visibility of 5 km."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66795,
+    "number": "102030"
+  }
 }

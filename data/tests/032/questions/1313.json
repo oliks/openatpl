@@ -1,7 +1,7 @@
 {
   "number": 1313,
-  "questionId": 83175,
-  "questionNumber": "321175",
+  "questionId": "032-1313",
+  "questionNumber": "032-1313",
   "stemHtml": "Refer to figure. <br /> The annex shows an example of an RTOM chart for a medium jet aeroplane at a particular runway. In each chart box, the following information is provided for a given wind component, and a given outside air temperature: MTOM / limitation code / V<sub>1</sub>-V<sub>R</sub>-V<sub>2</sub>. What are the limitations for a departure with MTOM of 67 500 kg and 10 kt tailwind?",
   "options": {
     "a": "2nd segment climb and obstacles.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/B3E420BD-F843-4E66-97C1-512E926E4917.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/B3E420BD-F843-4E66-97C1-512E926E4917.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83175,
+    "number": "321175"
+  }
 }

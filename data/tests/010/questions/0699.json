@@ -1,7 +1,7 @@
 {
   "number": 699,
-  "questionId": 66861,
-  "questionNumber": "105080",
+  "questionId": "010-0699",
+  "questionNumber": "010-0699",
   "stemHtml": "What condition allows descent below the MDA on a circling approach?",
   "options": {
     "a": "The required visual references have been established and can be maintained.",
@@ -10,5 +10,10 @@
     "d": "<p>The horizontal visibility is at least 5 NM and the ceiling is 1500 ft or higher.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66861,
+    "number": "105080"
+  }
 }

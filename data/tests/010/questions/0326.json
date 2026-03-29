@@ -1,7 +1,7 @@
 {
   "number": 326,
-  "questionId": 83894,
-  "questionNumber": "104655",
+  "questionId": "010-0326",
+  "questionNumber": "010-0326",
   "stemHtml": "<p>According to ICAO Doc 8168, where track guidance is provided in the design of a procedure, each segment comprises a specified volume of airspace, the vertical cross-section of which is an area located symmetrically about the centre line of each segment. The name of the area where full obstacle clearances are applied is\u2026</p>",
   "options": {
     "a": "The Intermediate area",
@@ -10,5 +10,10 @@
     "d": "The initial area"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83894,
+    "number": "104655"
+  }
 }

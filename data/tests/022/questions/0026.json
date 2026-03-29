@@ -1,7 +1,7 @@
 {
   "number": 26,
-  "questionId": 109312,
-  "questionNumber": "228804",
+  "questionId": "022-0026",
+  "questionNumber": "022-0026",
   "stemHtml": "<p>In a cruise, the altitude is controlled by the (1) _____ and the speed by the (2) _____.</p>",
   "options": {
     "a": "<p>(1) autopilot; (2) autopilot.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) autothrottle; (2) autopilot.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109312,
+    "number": "228804"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1178,
-  "questionId": 69807,
-  "questionNumber": "324438",
+  "questionId": "032-1178",
+  "questionNumber": "032-1178",
   "stemHtml": "<p>On a long distance flight the gross mass decreases continuously as a consequence of the fuel consumption. The result is\u2026</p>",
   "options": {
     "a": "The speed must be increased to compensate the lower mass.",
@@ -10,5 +10,10 @@
     "d": "The specific range increases and the optimum altitude decreases."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69807,
+    "number": "324438"
+  }
 }

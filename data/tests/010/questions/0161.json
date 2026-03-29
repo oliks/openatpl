@@ -1,7 +1,7 @@
 {
   "number": 161,
-  "questionId": 66970,
-  "questionNumber": "105386",
+  "questionId": "010-0161",
+  "questionNumber": "010-0161",
   "stemHtml": "When does a clearance issued by an ATC unit include the prevention of collision with terrain?",
   "options": {
     "a": "When an aircraft is within a control zone.",
@@ -10,5 +10,10 @@
     "d": "When an aircraft is entering a holding area."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66970,
+    "number": "105386"
+  }
 }

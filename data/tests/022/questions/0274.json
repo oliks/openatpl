@@ -1,7 +1,7 @@
 {
   "number": 274,
-  "questionId": 80200,
-  "questionNumber": "227277",
+  "questionId": "022-0274",
+  "questionNumber": "022-0274",
   "stemHtml": "The TAWS/HTAWS must be connected to a precise position sensor. Why?",
   "options": {
     "a": "Positional accuracy plus digital terrain model gives forward looking terrain avoidance.",
@@ -10,5 +10,10 @@
     "d": "GPS alone is not considered accurate enough."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80200,
+    "number": "227277"
+  }
 }

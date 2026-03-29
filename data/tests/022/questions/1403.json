@@ -1,7 +1,7 @@
 {
   "number": 1403,
-  "questionId": 103334,
-  "questionNumber": "221186",
+  "questionId": "022-1403",
+  "questionNumber": "022-1403",
   "stemHtml": "<p>Which of the following statements are correct about different failures of ADIRU parts?</p>\r\r<p>1. When ADC is accidentally turned off during flight, that\u2019s not a problem as it is possible turn it back on <br /> \r2. When ADC is accidentally turned off during flight, it is a major problem as it cannot be turned on <br /> \r3. When IRS is accidentally turned off during flight, it is a major problem as it cannot be realigned during flight <br /> \r4. When IRS is accidentally turned off during flight, it is not a problem as it can be realigned</p>",
   "options": {
     "a": "<p>1 and 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 4.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103334,
+    "number": "221186"
+  }
 }

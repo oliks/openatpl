@@ -1,7 +1,7 @@
 {
   "number": 680,
-  "questionId": 124516,
-  "questionNumber": "102707",
+  "questionId": "010-0680",
+  "questionNumber": "010-0680",
   "stemHtml": "<p>An unidentified baggage arrives at a destination airport other than the airport it was supposed to arrive. What should the destination airport do?</p>",
   "options": {
     "a": "<p>The destination must retain/restrain the baggage until the passenger claims it.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The destination may forward the baggage without any clearance.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 124516,
+    "number": "102707"
+  }
 }

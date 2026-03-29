@@ -1,7 +1,7 @@
 {
   "number": 1490,
-  "questionId": 80110,
-  "questionNumber": "215639",
+  "questionId": "021-1490",
+  "questionNumber": "021-1490",
   "stemHtml": "<p>The term \u201cply rating\u201d stands for\u2026</p>",
   "options": {
     "a": "The flexibility (pliability) of a laminate component.",
@@ -10,5 +10,10 @@
     "d": "The strength or load rating of a tyre."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80110,
+    "number": "215639"
+  }
 }

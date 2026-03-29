@@ -1,7 +1,7 @@
 {
   "number": 351,
-  "questionId": 108675,
-  "questionNumber": "311714",
+  "questionId": "031-0351",
+  "questionNumber": "031-0351",
   "stemHtml": "<p>The mass of an aircraft landing at the destination alternate is the Zero Fuel Mass plus...\u00a0</p>",
   "options": {
     "a": "<p>Block Fuel - Taxi Fuel - Trip Fuel</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Final Reserve Fuel + Contingency Fuel + Extra Fuel</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108675,
+    "number": "311714"
+  }
 }

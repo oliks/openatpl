@@ -1,7 +1,7 @@
 {
   "number": 597,
-  "questionId": 67842,
-  "questionNumber": "219923",
+  "questionId": "021-0597",
+  "questionNumber": "021-0597",
   "stemHtml": "<p>Redundancy in flight controls can be achieved by\u2026</p>",
   "options": {
     "a": "fixing dual control runs to each other combined with one actuator per control surface with a separate power supply.",
@@ -10,5 +10,10 @@
     "d": "proper rigging of the flight control surfaces during maintenance."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67842,
+    "number": "219923"
+  }
 }

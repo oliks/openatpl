@@ -1,7 +1,7 @@
 {
   "number": 571,
-  "questionId": 95966,
-  "questionNumber": "218333",
+  "questionId": "021-0571",
+  "questionNumber": "021-0571",
   "stemHtml": "What is the purpose of fuel tank vents?",
   "options": {
     "a": "To allow for fuel tank drainage and fuel sampling.",
@@ -10,5 +10,10 @@
     "d": "To prevent fuel freezing during flight at low temperatures."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95966,
+    "number": "218333"
+  }
 }

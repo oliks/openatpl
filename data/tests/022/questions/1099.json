@@ -1,7 +1,7 @@
 {
   "number": 1099,
-  "questionId": 82678,
-  "questionNumber": "229363",
+  "questionId": "022-1099",
+  "questionNumber": "022-1099",
   "stemHtml": "<p>The captain's ASI reads slightly different from the co-pilot\u2019s ASI. What additional action can the pilots perform?</p>",
   "options": {
     "a": "The groundspeed can be verified from the INS/GNSS.",
@@ -10,5 +10,10 @@
     "d": "They should divert as soon as possible."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82678,
+    "number": "229363"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 404,
-  "questionId": 82556,
-  "questionNumber": "335096",
+  "questionId": "033-0404",
+  "questionNumber": "033-0404",
   "stemHtml": "<p>Refer to figure or Chart E(LO)6 from the Jeppesen GSPRM 2017.<br>While following airways, select the shortest distance route to fly from Mallorca VOR (MJV) (N39\u00b026' E002\u00b045') to Barcelona VOR (BCN) (N41\u00b018', E002\u00b006').</p>",
   "options": {
     "a": "MJV - B31 - BCN",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/182E3D4E-27E7-4D95-99FB-08AD2DCC8B8D.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/182E3D4E-27E7-4D95-99FB-08AD2DCC8B8D.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82556,
+    "number": "335096"
+  }
 }

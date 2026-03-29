@@ -1,7 +1,7 @@
 {
   "number": 1009,
-  "questionId": 82082,
-  "questionNumber": "105204",
+  "questionId": "010-1009",
+  "questionNumber": "010-1009",
   "stemHtml": "What are EASA basic regulations made up of?",
   "options": {
     "a": "Binding legal obligations and non-binding specifications.",
@@ -10,5 +10,10 @@
     "d": "Soft law binding obligations."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82082,
+    "number": "105204"
+  }
 }

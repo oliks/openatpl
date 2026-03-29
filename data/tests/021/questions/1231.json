@@ -1,7 +1,7 @@
 {
   "number": 1231,
-  "questionId": 67718,
-  "questionNumber": "219570",
+  "questionId": "021-1231",
+  "questionNumber": "021-1231",
   "stemHtml": "<p>If the cabin altitude of an aeroplane in level flight rises, the differential pressure\u2026</p>",
   "options": {
     "a": "will exceed the maximum permitted differential pressure unless immediate action is taken.",
@@ -10,5 +10,10 @@
     "d": "decreases."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67718,
+    "number": "219570"
+  }
 }

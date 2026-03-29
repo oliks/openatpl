@@ -1,7 +1,7 @@
 {
   "number": 595,
-  "questionId": 57778,
-  "questionNumber": "317577",
+  "questionId": "031-0595",
+  "questionNumber": "031-0595",
   "stemHtml": "An aircraft with a two wheel nose gear and four main wheels rests on the ground with a single nose wheel load of 7250 N and a single main wheel load of 60 000 N. The distance between the nose wheels and the main wheels is 10 metres. How far is the Centre of Gravity in front of the main wheels?",
   "options": {
     "a": "57 cm.",
@@ -10,5 +10,10 @@
     "d": "176 cm."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 57778,
+    "number": "317577"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 70,
-  "questionId": 113294,
-  "questionNumber": "335220",
+  "questionId": "033-0070",
+  "questionNumber": "033-0070",
   "stemHtml": "<p>Refer to figure. <br /> \rA pilot is preparing a flight from Vilshofen (EDMV, N48\u00b038.1\u2032 E13\u00b011.7\u2032) to Regensburg (EDNR, N49\u00b008.5' E012\u00b004.9'), with no access to radio navigation aids. Weather conditions are suboptimal, hazy visibility is reported along the planned path, and the sun is positioned low, potentially impairing forward vision. Given these limitations, what would be the most appropriate routing choice?</p>",
   "options": {
     "a": "<p>Straight from EDMV to Roding VOR, then to EDNR.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/21d92767-cbda-4904-b4a6-96d89235dd0a.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/21d92767-cbda-4904-b4a6-96d89235dd0a.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 113294,
+    "number": "335220"
+  }
 }

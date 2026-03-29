@@ -1,7 +1,7 @@
 {
   "number": 231,
-  "questionId": 161547,
-  "questionNumber": "223107",
+  "questionId": "022-0231",
+  "questionNumber": "022-0231",
   "stemHtml": "<p>Automation (autoflight) is aimed to aid and protect the flight of aircraft. Select the correct statement.</p>",
   "options": {
     "a": "<p>Automation can reduce crew workload and protect from exceeding aircraft limitations, especially in an emergency or unexpected condition. For this reason automation concepts always ensure that the flight computers have ultimate control authority, to correct for pilot error.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>In a fly-by-wire aircraft, computer-controlled flight modes are used to control surface movements and prevent the aircraft from exceeding operational limits; in such aircraft, the pilot has full control authority and therefore is the last operator.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161547,
+    "number": "223107"
+  }
 }

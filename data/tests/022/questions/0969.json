@@ -1,7 +1,7 @@
 {
   "number": 969,
-  "questionId": 81387,
-  "questionNumber": "223003",
+  "questionId": "022-0969",
+  "questionNumber": "022-0969",
   "stemHtml": "<p dir=\"ltr\">GPS indications (without augmentation) may sometimes provide an inaccurate representation of altitude. Why is that?</p>",
   "options": {
     "a": "<p dir=\"ltr\">If there is an insufficient number of satellites in view, this can result in missing information and inconsistencies with the ephemeris data.</p>",
@@ -10,5 +10,10 @@
     "d": "The mathematical model used by the GPS is a very close approximation to, rather than a complete match with, the actual shape of the Earth."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81387,
+    "number": "223003"
+  }
 }

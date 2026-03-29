@@ -1,7 +1,7 @@
 {
   "number": 1127,
-  "questionId": 77983,
-  "questionNumber": "213939",
+  "questionId": "021-1127",
+  "questionNumber": "021-1127",
   "stemHtml": "What is the main purpose of a hydraulic system in an aircraft?",
   "options": {
     "a": "To move large control surfaces.",
@@ -10,5 +10,10 @@
     "d": "Use for lubrication."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77983,
+    "number": "213939"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 869,
-  "questionId": 78692,
-  "questionNumber": "324489",
+  "questionId": "032-0869",
+  "questionNumber": "032-0869",
   "stemHtml": "<p>Refer to figure.<br>Determine the exact maximum take-off mass, given:</p><p>ASDA: 3600 ft<br>TODA: 3300 ft<br>TORA: 3000 ft<br>Flaps: 0<br>Temperature: -20\u00b0C<br>Altitude: 23 ft</p>",
   "options": {
     "a": "<p>9170 lbs</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/7F4C1895-240D-4312-BF16-253402146E92.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/7F4C1895-240D-4312-BF16-253402146E92.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78692,
+    "number": "324489"
+  }
 }

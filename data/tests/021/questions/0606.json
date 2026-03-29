@@ -1,7 +1,7 @@
 {
   "number": 606,
-  "questionId": 67935,
-  "questionNumber": "217951",
+  "questionId": "021-0606",
+  "questionNumber": "021-0606",
   "stemHtml": "<p>If the pressure in the cabin tends to become lower than the outside ambient air pressure the...</p>",
   "options": {
     "a": "negative pressure relief valve will open.",
@@ -10,5 +10,10 @@
     "d": "air cycle machine will stop."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67935,
+    "number": "217951"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1797,
-  "questionId": 111571,
-  "questionNumber": "105563",
+  "questionId": "010-1797",
+  "questionNumber": "010-1797",
   "stemHtml": "<p>Refer to figure. <br /> \rThe figure provides different patterns of runway designators. What is the type of each pattern from A to D?</p>",
   "options": {
     "a": "<p>Non-compliant pattern, optional pattern, parallel pattern, general pattern.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/2d4e75cc-3b42-4cc1-9242-a3c729345d51.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/2d4e75cc-3b42-4cc1-9242-a3c729345d51.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111571,
+    "number": "105563"
+  }
 }

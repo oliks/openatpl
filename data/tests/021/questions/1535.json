@@ -1,7 +1,7 @@
 {
   "number": 1535,
-  "questionId": 67940,
-  "questionNumber": "212683",
+  "questionId": "021-1535",
+  "questionNumber": "021-1535",
   "stemHtml": "<p>One indication of inadequate bonding of aircraft components may be\u2026</p>",
   "options": {
     "a": "interference on the VOR receiver.",
@@ -10,5 +10,10 @@
     "d": "static noise on the radio."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67940,
+    "number": "212683"
+  }
 }

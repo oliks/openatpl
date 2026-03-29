@@ -1,7 +1,7 @@
 {
   "number": 790,
-  "questionId": 79115,
-  "questionNumber": "323376",
+  "questionId": "032-0790",
+  "questionNumber": "032-0790",
   "stemHtml": "<p>For a propeller aircraft, the speed for maximum endurance which gives the greatest endurance time is\u2026</p>",
   "options": {
     "a": "Found at a low altitude.",
@@ -10,5 +10,10 @@
     "d": "Found at a high altitude."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79115,
+    "number": "323376"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1759,
-  "questionId": 82758,
-  "questionNumber": "228768",
+  "questionId": "022-1759",
+  "questionNumber": "022-1759",
   "stemHtml": "<p>Refer to figure. <br>Considering the fuel indication given, how much fuel must be added in order to obtain full fuel tanks?</p>",
   "options": {
     "a": "<p>172 litres</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/f615cee2-bff1-488e-b1ab-d074da2d8620.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/f615cee2-bff1-488e-b1ab-d074da2d8620.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82758,
+    "number": "228768"
+  }
 }

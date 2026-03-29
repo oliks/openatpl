@@ -1,7 +1,7 @@
 {
   "number": 673,
-  "questionId": 67692,
-  "questionNumber": "217185",
+  "questionId": "021-0673",
+  "questionNumber": "021-0673",
   "stemHtml": "Refer to figure. <br /> Given the system in the annex which of these statements about cross feeding is correct?",
   "options": {
     "a": "Fuel supply is possible from any tank to any main engine.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/74398FDA-BDA7-454B-81E0-F00F5D38AC24.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/74398FDA-BDA7-454B-81E0-F00F5D38AC24.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67692,
+    "number": "217185"
+  }
 }

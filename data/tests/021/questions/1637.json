@@ -1,7 +1,7 @@
 {
   "number": 1637,
-  "questionId": 67899,
-  "questionNumber": "211654",
+  "questionId": "021-1637",
+  "questionNumber": "021-1637",
   "stemHtml": "<p>Loads on the cylindrical part of the fuselage during pressurisation are mainly carried by the\u2026</p>",
   "options": {
     "a": "ribs.",
@@ -10,5 +10,10 @@
     "d": "skin."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67899,
+    "number": "211654"
+  }
 }

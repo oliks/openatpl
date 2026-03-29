@@ -1,7 +1,7 @@
 {
   "number": 594,
-  "questionId": 83408,
-  "questionNumber": "329838",
+  "questionId": "032-0594",
+  "questionNumber": "032-0594",
   "stemHtml": "<p>Refer to figure. <br>The annex shows a Regulated Take-Off Weight (RTOW) table for runway 23L from take-off position VB. Use the data below and determine the appropriate assumed/FLEX temperature and V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong>, and V<strong><sub>2</sub></strong><sub> </sub>speeds. For this question do NOT interpolate. Choose the most conservative figures at all times.</p><p>W/V: 230\u00b0/16 kt <br>OAT: +10\u00b0C <br>QNH: 1008 hPa <br>Engine anti-ice: OFF <br>Packs: OFF <br>Take-off mass: 71 840 kg<br>Quick line up</p>",
   "options": {
     "a": "<p>57\u00b0C and V<sub>1</sub> 139 kt, V<sub>R</sub> 139 kt, and V<sub>2</sub> 145 kt</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/33F31A1F-1F13-481B-8B24-30B48D0D24D7.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/33F31A1F-1F13-481B-8B24-30B48D0D24D7.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83408,
+    "number": "329838"
+  }
 }

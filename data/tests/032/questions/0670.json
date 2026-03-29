@@ -1,7 +1,7 @@
 {
   "number": 670,
-  "questionId": 162749,
-  "questionNumber": "328251",
+  "questionId": "032-0670",
+  "questionNumber": "032-0670",
   "stemHtml": "<p>The rotation speed (V<strong><sub>R</sub></strong>) of a twin-engined aircraft certified under CS-23 must not be less than\u2026</p>",
   "options": {
     "a": "<p>the greater of 1.10 x V<sub>MC</sub> or 1.20 x V<sub>S1</sub>.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1.20 x V<sub>S1</sub>.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162749,
+    "number": "328251"
+  }
 }

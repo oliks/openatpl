@@ -1,7 +1,7 @@
 {
   "number": 623,
-  "questionId": 81532,
-  "questionNumber": "319023",
+  "questionId": "031-0623",
+  "questionNumber": "031-0623",
   "stemHtml": "<p dir=\"ltr\">Refer to figure or CAP696 file 4.12. According to the Allowable Take-Off Mass section of the load sheet of a Commercial Air Transport aeroplane. Concerning the determination of values a, b and c, which of the following statements is correct?</p>\r\r<p dir=\"ltr\">1. a = Actual ZFM + Take-Off Fuel <br /> \r2. a = MZFM + Take-Off Fuel <br /> \r3. b= the lower mass of Performance-Limited TOM and Maximum Structural TOM <br /> \r4. b= the higher mass of Performance-Limited TOM and Maximum Structural TOM <br /> \r5. c= the lower mass of Performance-Limited LM and Maximum Structural LM + Trip Fuel <br /> \r6. c= the higher mass of Performance-Limited LM and Maximum Structural LM + Trip Fuel.</p>",
   "options": {
     "a": "<p>1, 3 and 6</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/BFEC60B1-2F2E-4FFC-BCEB-2EF01E91FE11.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/BFEC60B1-2F2E-4FFC-BCEB-2EF01E91FE11.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81532,
+    "number": "319023"
+  }
 }

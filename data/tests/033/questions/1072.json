@@ -1,7 +1,7 @@
 {
   "number": 1072,
-  "questionId": 78436,
-  "questionNumber": "338741",
+  "questionId": "033-1072",
+  "questionNumber": "033-1072",
   "stemHtml": "<p>Given the following data for the pre-flight calculations, determine the minimum taxi fuel (kg) required for a Commercial Air Transport flight with a Performance Class A aeroplane. Assume the Basic Fuel Scheme WITHOUT variations applies.</p>\r\r<p>Fuel for engine start: 150 kg <br /> \rTaxi time at departure aerodrome: 10 min <br /> \rTaxi time at destination aerodrome: 12 min <br /> \rTaxi fuel consumption: 60 kg/min <br /> \rAPU time at departure aerodrome: 20 min <br /> \rAPU time at destination aerodrome: 15 min <br /> \rAPU fuel consumption: 840 kg/h <br /> \rMinimum taxi fuel by company regulation: 900 kg</p>",
   "options": {
     "a": "<p>900 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1030 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78436,
+    "number": "338741"
+  }
 }

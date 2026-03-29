@@ -1,7 +1,7 @@
 {
   "number": 842,
-  "questionId": 67255,
-  "questionNumber": "104060",
+  "questionId": "010-0842",
+  "questionNumber": "010-0842",
   "stemHtml": "<p>The published holding procedure is:</p><ul><li>all turns to the right</li><li>1-minute outbound</li><li>inbound Magnetic Track 030\u00b0</li></ul><p>You are approaching the fix from 010\u00b0 and the wind is calm. Select the appropriate entry procedure.</p>",
   "options": {
     "a": "<p>either offset or parallel</p>",
@@ -10,5 +10,10 @@
     "d": "<p>offset</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67255,
+    "number": "104060"
+  }
 }

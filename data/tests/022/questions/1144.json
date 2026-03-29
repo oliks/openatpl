@@ -1,7 +1,7 @@
 {
   "number": 1144,
-  "questionId": 84131,
-  "questionNumber": "228401",
+  "questionId": "022-1144",
+  "questionNumber": "022-1144",
   "stemHtml": "During an automated en-route flight, the autotrim fails. What are the implications of such failure?",
   "options": {
     "a": "The autopilot will automatically switch to the backup autotrim.",
@@ -10,5 +10,10 @@
     "d": "The pilot flying should pay close attention to the CG, and be prepared for the aircraft to be out of trim in case the autopilot is disengaged."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84131,
+    "number": "228401"
+  }
 }

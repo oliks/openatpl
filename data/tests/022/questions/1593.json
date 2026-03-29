@@ -1,7 +1,7 @@
 {
   "number": 1593,
-  "questionId": 96490,
-  "questionNumber": "222630",
+  "questionId": "022-1593",
+  "questionNumber": "022-1593",
   "stemHtml": "<p>How does the Flight Warning Computer assist the flight crew regarding engine parameters?</p>",
   "options": {
     "a": "<p>Analysation and trend prediction will prevent any values from exceeding certain threshold values.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Exceedance of certain thresholds can trigger main and subsequent events and programmed actions.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96490,
+    "number": "222630"
+  }
 }

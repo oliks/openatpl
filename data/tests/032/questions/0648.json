@@ -1,7 +1,7 @@
 {
   "number": 648,
-  "questionId": 78104,
-  "questionNumber": "324748",
+  "questionId": "032-0648",
+  "questionNumber": "032-0648",
   "stemHtml": "<p>Refer to figure. <br>Given the following information, determine the gradient and vertical speed after take-off:</p><p>OAT: 0\u00b0C <br>Pressure altitude: 1000 ft <br>Take-off mass: 11 500 lbs <br>Flaps: Clean</p>",
   "options": {
     "a": "6.3% and 750 ft/min.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/2DD9C12B-29FF-4F88-AAD0-355C07DD9EEE.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/2DD9C12B-29FF-4F88-AAD0-355C07DD9EEE.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78104,
+    "number": "324748"
+  }
 }

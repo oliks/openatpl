@@ -1,7 +1,7 @@
 {
   "number": 1359,
-  "questionId": 83896,
-  "questionNumber": "105426",
+  "questionId": "010-1359",
+  "questionNumber": "010-1359",
   "stemHtml": "<p>What is the meaning of \u201cExpected Approach Time\u201d? It is the time when an aircraft\u2026</p>",
   "options": {
     "a": "In the hold can expect to be Issued with the clearance to leave the holding.",
@@ -10,5 +10,10 @@
     "d": "Can expect to commence the descent."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83896,
+    "number": "105426"
+  }
 }

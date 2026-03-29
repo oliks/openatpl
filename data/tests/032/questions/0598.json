@@ -1,7 +1,7 @@
 {
   "number": 598,
-  "questionId": 96425,
-  "questionNumber": "326955",
+  "questionId": "032-0598",
+  "questionNumber": "032-0598",
   "stemHtml": "If ATC asks you to descend using the steep approach technique, what happens to the speed buffet?",
   "options": {
     "a": "High speed increases due to altitude reduction.",
@@ -10,5 +10,10 @@
     "d": "Low speed increases due to altitude reduction."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96425,
+    "number": "326955"
+  }
 }

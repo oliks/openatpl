@@ -1,7 +1,7 @@
 {
   "number": 284,
-  "questionId": 104971,
-  "questionNumber": "212341",
+  "questionId": "021-0284",
+  "questionNumber": "021-0284",
   "stemHtml": "<p>What is the maximum speed for gear extension/retraction?</p>",
   "options": {
     "a": "<p>V<sub>LO</sub></p>",
@@ -10,5 +10,10 @@
     "d": "<p>V<sub>SO</sub></p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104971,
+    "number": "212341"
+  }
 }

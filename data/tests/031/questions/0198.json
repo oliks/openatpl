@@ -1,7 +1,7 @@
 {
   "number": 198,
-  "questionId": 82746,
-  "questionNumber": "312493",
+  "questionId": "031-0198",
+  "questionNumber": "031-0198",
   "stemHtml": "Some aircraft are equipped with fuel trim tanks located in the aeroplane\u2019s fin or horizontal stabiliser to actively manage CG position. Which of the following is an advantage of having a trim tank in the horizontal stabiliser?",
   "options": {
     "a": "It increases the structural mass.",
@@ -10,5 +10,10 @@
     "d": "It increases the efficiency of the elevator during slow flight."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82746,
+    "number": "312493"
+  }
 }

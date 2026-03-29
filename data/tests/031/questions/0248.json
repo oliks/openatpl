@@ -1,7 +1,7 @@
 {
   "number": 248,
-  "questionId": 69345,
-  "questionNumber": "314750",
+  "questionId": "031-0248",
+  "questionNumber": "031-0248",
   "stemHtml": "<p>Calculate the Basic Empty Mass and the Centre of Gravity.</p>\r\n\r\n<table border=\"1\" cellpadding=\"3\" cellspacing=\"1\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\"><strong>ITEM</strong></td>\r\n\t\t\t<td style=\"text-align:center\">WEIGHT (N)</td>\r\n\t\t\t<td style=\"text-align:center\">ARM (cm)</td>\r\n\t\t\t<td style=\"text-align:center\">MOMENT</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\">Nose wheel</td>\r\n\t\t\t<td style=\"text-align:center\">1200</td>\r\n\t\t\t<td style=\"text-align:center\">-30</td>\r\n\t\t\t<td style=\"text-align:center\"> </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\">Left main wheel</td>\r\n\t\t\t<td style=\"text-align:center\">4100</td>\r\n\t\t\t<td style=\"text-align:center\">210</td>\r\n\t\t\t<td style=\"text-align:center\"> </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\">Right main wheel</td>\r\n\t\t\t<td style=\"text-align:center\">4200</td>\r\n\t\t\t<td style=\"text-align:center\">210</td>\r\n\t\t\t<td style=\"text-align:center\"> </td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
   "options": {
     "a": "<p>9500 kg and 1 707 000 N.cm</p>",
@@ -10,5 +10,10 @@
     "d": "<p>9500 kg and 179.7 cm</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69345,
+    "number": "314750"
+  }
 }

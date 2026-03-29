@@ -1,7 +1,7 @@
 {
   "number": 1746,
-  "questionId": 67316,
-  "questionNumber": "215407",
+  "questionId": "021-1746",
+  "questionNumber": "021-1746",
   "stemHtml": "The thrust reversers of jet engines may use clamshell doors in order to:",
   "options": {
     "a": "stop the flow of the exhaust gas stream.",
@@ -10,5 +10,10 @@
     "d": "reduce the pressure of the exhaust gas stream by diffusing it to atmosphere."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67316,
+    "number": "215407"
+  }
 }

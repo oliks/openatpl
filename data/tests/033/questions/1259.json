@@ -1,7 +1,7 @@
 {
   "number": 1259,
-  "questionId": 70762,
-  "questionNumber": "332569",
+  "questionId": "033-1259",
+  "questionNumber": "033-1259",
   "stemHtml": "<p>Given the following NOTAM information, what Standard Instrument Departure procedure is affected by the mentioned changes?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EDDF FRANKFURT MAIN <<< NEW TODAY TWY P1 BTN TWY P AND TWY DP1 CLSD.: NOTAM ED/A0714/16 RWY 25L TDZ SLIPPERY WHEN WET.: NOTAM ED/A0588/16 BIBTI 1H: INITIAL DEPARTURE DESCRIPTION SHOULD READ AS FOLLOWS: ON RWY TRACK TO 5.1 DME FFM/2.1 DME FRD, LT MAX IAS 185 KT UNTIL ESTABLISHED INBOUND VFM DIRECT VFM, ON TRACK 195DEG TO 10.1 DME FFM. GPS/FMS RNAV: DF235 A800+, L DF171 K185 DF172 A2500+, R PABVI R & SIVDO-R KUPIP R MASIR-R RAVKI DITAML OBOKA BIBTI. WAYPOINT DF235 STILL REMAINS FLY OVER WAYPOINT. >>> END OF BULLETIN <<<</span></p>\n\n<div> </div>",
   "options": {
     "a": "RWY 25L TDZ",
@@ -10,5 +10,10 @@
     "d": "WAYPOINT DF235"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70762,
+    "number": "332569"
+  }
 }

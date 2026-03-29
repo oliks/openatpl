@@ -1,7 +1,7 @@
 {
   "number": 271,
-  "questionId": 84391,
-  "questionNumber": "339540",
+  "questionId": "033-0271",
+  "questionNumber": "033-0271",
   "stemHtml": "<p>Refer to figure or Aberdeen (EGPD) 11-1 Chart from the Jeppesen GSPRM 2017.<br>What is the Minimum Holding Altitude (MHA) overhead the IAF ABERDEEN (ADN) VOR?</p>",
   "options": {
     "a": "<p>2500 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/158C8475-5D80-4E37-A559-32E086181DBB.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/158C8475-5D80-4E37-A559-32E086181DBB.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84391,
+    "number": "339540"
+  }
 }

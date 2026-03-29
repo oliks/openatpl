@@ -1,7 +1,7 @@
 {
   "number": 1140,
-  "questionId": 66917,
-  "questionNumber": "105836",
+  "questionId": "010-1140",
+  "questionNumber": "010-1140",
   "stemHtml": "When may the pilot disregard a Resolution Advisory (RA) issued by ACAS?",
   "options": {
     "a": "When following the RA would jeopardize the safety of the aircraft.",
@@ -10,5 +10,10 @@
     "d": "When visually acquired information indicate that the RA is erroneous."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66917,
+    "number": "105836"
+  }
 }

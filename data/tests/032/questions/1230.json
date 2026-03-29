@@ -1,7 +1,7 @@
 {
   "number": 1230,
-  "questionId": 70122,
-  "questionNumber": "322860",
+  "questionId": "032-1230",
+  "questionNumber": "032-1230",
   "stemHtml": "<p>The One-Engine-Inoperative Level-Off Altitude is affected by the aircraft mass and which of the following parameters?</p><p>1. Temperature <br>2. Headwind component <br>3. Flight director mode <br>4. Power setting of the remaining engine</p>",
   "options": {
     "a": "1 and 4",
@@ -10,5 +10,10 @@
     "d": "2 and 3"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70122,
+    "number": "322860"
+  }
 }

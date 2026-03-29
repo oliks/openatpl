@@ -1,7 +1,7 @@
 {
   "number": 559,
-  "questionId": 68313,
-  "questionNumber": "212643",
+  "questionId": "021-0559",
+  "questionNumber": "021-0559",
   "stemHtml": "In a turbo-jet, the purpose of the turbine is to ..",
   "options": {
     "a": "drive the compressor by using part of the energy from the exhaust gases",
@@ -10,5 +10,10 @@
     "d": "compress the air in order to provide a better charge of the combustion chamber"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68313,
+    "number": "212643"
+  }
 }

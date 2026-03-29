@@ -1,7 +1,7 @@
 {
   "number": 688,
-  "questionId": 77920,
-  "questionNumber": "106852",
+  "questionId": "010-0688",
+  "questionNumber": "010-0688",
   "stemHtml": "The MOC of a MSA is...",
   "options": {
     "a": "<p>1000 m</p>",
@@ -10,5 +10,10 @@
     "d": "500 ft"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77920,
+    "number": "106852"
+  }
 }

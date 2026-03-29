@@ -1,7 +1,7 @@
 {
   "number": 158,
-  "questionId": 81033,
-  "questionNumber": "105102",
+  "questionId": "010-0158",
+  "questionNumber": "010-0158",
   "stemHtml": "How is \"Solo flight time\" defined in Part FCL?",
   "options": {
     "a": "Flight time during which the student pilot is the sole manipulator of the flight controls from start-up to shut-down.",
@@ -10,5 +10,10 @@
     "d": "That time when the pilot is acting in command of the aircraft."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81033,
+    "number": "105102"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1720,
-  "questionId": 109980,
-  "questionNumber": "104265",
+  "questionId": "010-1720",
+  "questionNumber": "010-1720",
   "stemHtml": "<p>Which of the following relationships is true about MDA (Minimum Descent Altitude)?</p>",
   "options": {
     "a": "<p>MDA = OCA + threshold elevation</p>",
@@ -10,5 +10,10 @@
     "d": "<p>OCA = MDA + threshold elevation</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109980,
+    "number": "104265"
+  }
 }

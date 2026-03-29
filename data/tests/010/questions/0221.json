@@ -1,7 +1,7 @@
 {
   "number": 221,
-  "questionId": 66772,
-  "questionNumber": "105796",
+  "questionId": "010-0221",
+  "questionNumber": "010-0221",
   "stemHtml": "Which of the following signal means that an aircraft wishes to give notice of difficulties which compel it to land without requiring immediate assistance?",
   "options": {
     "a": "The switching on and off three times of the navigation lights.",
@@ -10,5 +10,10 @@
     "d": "The switching on and off of the landing lights in a sequence to indicate the Morse code letters SOS."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66772,
+    "number": "105796"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 551,
-  "questionId": 106774,
-  "questionNumber": "226313",
+  "questionId": "022-0551",
+  "questionNumber": "022-0551",
   "stemHtml": "<p>The FMS navigation database includes the following data:</p>\r\r<p>1 \u2013 Company routes <br /> \r2 \u2013 Radio aids ident <br /> \r3 \u2013 Runway length <br /> \r4 \u2013 Taxiways <br /> \r5 \u2013 Waypoints ident</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>2, 3, and 5.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3 and 5.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106774,
+    "number": "226313"
+  }
 }

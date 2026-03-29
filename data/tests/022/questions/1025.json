@@ -1,7 +1,7 @@
 {
   "number": 1025,
-  "questionId": 68507,
-  "questionNumber": "221390",
+  "questionId": "022-1025",
+  "questionNumber": "022-1025",
   "stemHtml": "<p>The altimeter consists of one or several aneroid capsules located in a sealed casing. The pressures in the aneroid capsule (i) and casing (ii) are respectively\u2026</p>",
   "options": {
     "a": "(i) static pressure at time t (ii) static pressure at time t \u2013 dt",
@@ -10,5 +10,10 @@
     "d": "(i) static pressure (ii) total pressure"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68507,
+    "number": "221390"
+  }
 }

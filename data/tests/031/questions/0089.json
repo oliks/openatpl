@@ -1,7 +1,7 @@
 {
   "number": 89,
-  "questionId": 69321,
-  "questionNumber": "318479",
+  "questionId": "031-0089",
+  "questionNumber": "031-0089",
   "stemHtml": "<p>The Maximum Structural Landing Mass means the maximum permissible\u2026</p>",
   "options": {
     "a": "zero fuel mass on landing with a specific crosswind component defined in the Operations Manual.",
@@ -10,5 +10,10 @@
     "d": "total aeroplane mass on landing with a specific crosswind component defined in the Operations Manual."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69321,
+    "number": "318479"
+  }
 }

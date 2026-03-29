@@ -1,7 +1,7 @@
 {
   "number": 363,
-  "questionId": 81353,
-  "questionNumber": "223722",
+  "questionId": "022-0363",
+  "questionNumber": "022-0363",
   "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> Four scenarios of VOR axis interception are represented in the appended annex. Which one corresponds to the optimal interception path calculated by a flight director?</p>",
   "options": {
     "a": "<p dir=\"ltr\">2</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/75F7E6F6-4078-41DE-BD3B-EDCD25296E6C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/75F7E6F6-4078-41DE-BD3B-EDCD25296E6C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81353,
+    "number": "223722"
+  }
 }

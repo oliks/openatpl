@@ -1,7 +1,7 @@
 {
   "number": 1378,
-  "questionId": 82093,
-  "questionNumber": "335322",
+  "questionId": "033-1378",
+  "questionNumber": "033-1378",
   "stemHtml": "<p>Given the following information, what is the fuel volume?</p><p><span style=\"letter-spacing:0.7px\">Fuel Mass: 865 Ib</span> <br /> <span style=\"letter-spacing:0.7px\">Specific Gravity: 0.81</span></p>",
   "options": {
     "a": "87 Imperial gallons.",
@@ -10,5 +10,10 @@
     "d": "107 Imperial gallons."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82093,
+    "number": "335322"
+  }
 }

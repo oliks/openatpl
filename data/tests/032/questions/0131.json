@@ -1,7 +1,7 @@
 {
   "number": 131,
-  "questionId": 84119,
-  "questionNumber": "323946",
+  "questionId": "032-0131",
+  "questionNumber": "032-0131",
   "stemHtml": "A crew is planning their departure from Mykonos (Greece), expecting a take-off towards the sea, from a short field runway. Which of these is most likely to be the limiting take-off mass?",
   "options": {
     "a": "Climb limited take-off mass.",
@@ -10,5 +10,10 @@
     "d": "Obstacle limited take-off mass."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84119,
+    "number": "323946"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1237,
-  "questionId": 78089,
-  "questionNumber": "322804",
+  "questionId": "032-1237",
+  "questionNumber": "032-1237",
   "stemHtml": "<p>One of the advantages of a higher V<strong><sub>2</sub></strong> is...</p>",
   "options": {
     "a": "The longer take-off distance and the ability to pass close in obstacles.",
@@ -10,5 +10,10 @@
     "d": "The improved climb capability."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78089,
+    "number": "322804"
+  }
 }

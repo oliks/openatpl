@@ -1,7 +1,7 @@
 {
   "number": 700,
-  "questionId": 69910,
-  "questionNumber": "325636",
+  "questionId": "032-0700",
+  "questionNumber": "032-0700",
   "stemHtml": "<p>The 2 seconds time interval during take-off between V<strong><sub>EF</sub></strong> and V<strong><sub>1</sub></strong> is used for\u2026</p>",
   "options": {
     "a": "informing the cabin.",
@@ -10,5 +10,10 @@
     "d": "deciding (continue or abort)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69910,
+    "number": "325636"
+  }
 }

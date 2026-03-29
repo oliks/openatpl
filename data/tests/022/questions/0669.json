@@ -1,7 +1,7 @@
 {
   "number": 669,
-  "questionId": 78734,
-  "questionNumber": "229211",
+  "questionId": "022-0669",
+  "questionNumber": "022-0669",
   "stemHtml": "<p>An EGPWS caution alert is heard in the cockpit. The time left for the pilot to respond before hitting terrain is\u2026</p>",
   "options": {
     "a": "10 to 20 seconds.",
@@ -10,5 +10,10 @@
     "d": "40 to 60 seconds."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78734,
+    "number": "229211"
+  }
 }

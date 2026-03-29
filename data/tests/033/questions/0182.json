@@ -1,7 +1,7 @@
 {
   "number": 182,
-  "questionId": 82922,
-  "questionNumber": "338380",
+  "questionId": "033-0182",
+  "questionNumber": "033-0182",
   "stemHtml": "<p>Refer to figure or ALICANTE 10-2C chart from Jeppesen GSPRM 2017.<br>What is the minimum equipment required to fly the GERVU 1M STAR procedure, referring to the BRNAV requirement?</p>",
   "options": {
     "a": "DME; NDB",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D2C6B834-D308-47E0-81AF-93DD16D39BB7.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D2C6B834-D308-47E0-81AF-93DD16D39BB7.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82922,
+    "number": "338380"
+  }
 }

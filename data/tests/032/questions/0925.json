@@ -1,7 +1,7 @@
 {
   "number": 925,
-  "questionId": 160192,
-  "questionNumber": "328038",
+  "questionId": "032-0925",
+  "questionNumber": "032-0925",
   "stemHtml": "<p>You are arriving at an airport with steep terrain on the approach path. There is a steep approach to the chosen runway to clear the terrain with a glideslope of 4.5\u00b0. What is the minimum screen height?</p>",
   "options": {
     "a": "<p>10 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>60 ft</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160192,
+    "number": "328038"
+  }
 }

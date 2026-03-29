@@ -1,7 +1,7 @@
 {
   "number": 1483,
-  "questionId": 80494,
-  "questionNumber": "104328",
+  "questionId": "010-1483",
+  "questionNumber": "010-1483",
   "stemHtml": "According to the Montreal Convention of 1999 (ICAO Doc 9740), a carrier is liable for damage sustained in case of destruction or loss of, or of damage to, baggage upon condition only that the event which caused the destruction, loss or damage took place\u2026",
   "options": {
     "a": "Before check-in, while the baggage is within the perimeter of the aerodrome.",
@@ -10,5 +10,10 @@
     "d": "Whether in the possession of the passenger or the baggage handling service."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80494,
+    "number": "104328"
+  }
 }

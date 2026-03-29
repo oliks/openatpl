@@ -1,7 +1,7 @@
 {
   "number": 1103,
-  "questionId": 68358,
-  "questionNumber": "211957",
+  "questionId": "021-1103",
+  "questionNumber": "021-1103",
   "stemHtml": "<p>The turboprop beta-range power level is the\u2026</p>",
   "options": {
     "a": "<p>range of power-lever positions between flight idle and maximum power.    </p>",
@@ -10,5 +10,10 @@
     "d": "<p>power-lever positions where maximum fuel efficiency is obtained.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68358,
+    "number": "211957"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 60,
-  "questionId": 70831,
-  "questionNumber": "336808",
+  "questionId": "033-0060",
+  "questionNumber": "033-0060",
   "stemHtml": "<p>According to the following NOTAM, when can you expect the HENTON DVOR to come back into service?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q EUAD/QNVAS/IV/BO/E/000/999/5221N00140W025 B FROM: 16/02/09 11:30 C TO: 16/02/09 15:30 E HENTON DVOR/DME HEN FREQ 113.65 MHZ/CH 083Y, DVOR U/S</span></p>",
   "options": {
     "a": "11:30 on the 2nd September 2016.",
@@ -10,5 +10,10 @@
     "d": "15:30 on the 2nd September 2016."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70831,
+    "number": "336808"
+  }
 }

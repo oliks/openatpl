@@ -1,7 +1,7 @@
 {
   "number": 1639,
-  "questionId": 96483,
-  "questionNumber": "219220",
+  "questionId": "021-1639",
+  "questionNumber": "021-1639",
   "stemHtml": "During their pre-flight inspection, the pilot notices that the top of the wing is ridged in a wavy pattern near the wing root and that many of the screw on the underside of the wing are loose, damaged or destroyed. Which of the following could have caused this damage?",
   "options": {
     "a": "Natural ageing of the aircraft.",
@@ -10,5 +10,10 @@
     "d": "Solar radiation."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96483,
+    "number": "219220"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 235,
-  "questionId": 69461,
-  "questionNumber": "311090",
+  "questionId": "031-0235",
+  "questionNumber": "031-0235",
   "stemHtml": "The operator of an aircraft equipped with 50 seats uses standard masses for passengers and baggage. During the preparation of a scheduled flight a group of passengers present themselves at the check-in desk, it is apparent that even the lightest of these exceeds the value of the declared standard mass.",
   "options": {
     "a": "The operator may use the standard masses for the balance but must correct these for the load calculation.",
@@ -10,5 +10,10 @@
     "d": "The operator must determine the actual mass of such passengers by weighing or by adding an adequate increment."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69461,
+    "number": "311090"
+  }
 }

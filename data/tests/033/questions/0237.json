@@ -1,7 +1,7 @@
 {
   "number": 237,
-  "questionId": 101775,
-  "questionNumber": "334668",
+  "questionId": "033-0237",
+  "questionNumber": "033-0237",
   "stemHtml": "<p>Refer to figure or STUTTGART (EDDS) chart 11-1 from Jeppesen GSPRM 2017. <br>A pilot is under radar vectors in order to position for an ILS approach to runway 07. ATC clears the aircraft to descend to 4000 ft on a heading of 105\u00b0 to establish on and follow the ILS. Suddenly a complete electrical failure occurs and all navigation instruments are lost except for the standby compass. If the aircraft is in cloud, what is a safe altitude for the pilot to maintain while trying to restore the navigation instruments?</p>",
   "options": {
     "a": "<p>1467 ft as this is the minima for the CAT I ILS being flown.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/eebf721f-e94d-47b9-b5f3-33eefcf33ce4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/eebf721f-e94d-47b9-b5f3-33eefcf33ce4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101775,
+    "number": "334668"
+  }
 }

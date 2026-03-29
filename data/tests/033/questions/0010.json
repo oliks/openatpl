@@ -1,7 +1,7 @@
 {
   "number": 10,
-  "questionId": 71006,
-  "questionNumber": "331684",
+  "questionId": "033-0010",
+  "questionNumber": "033-0010",
   "stemHtml": "The following NOTAM is given: MADRID APPROACH FRQ CHNG FROM 118.400 TO CH 118.405 READ INSTEAD. What does it mean?",
   "options": {
     "a": "Madrid changed frequency from 118.405 MHz to 118.400 MHz.",
@@ -10,5 +10,10 @@
     "d": "In order to read frequency 118.400 MHz you have to set 118.405 MHz."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71006,
+    "number": "331684"
+  }
 }

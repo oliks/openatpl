@@ -1,7 +1,7 @@
 {
   "number": 66,
-  "questionId": 69457,
-  "questionNumber": "318833",
+  "questionId": "031-0066",
+  "questionNumber": "031-0066",
   "stemHtml": "<p>Given:</p><p>Dry Operating Mass = 38 000 kg <br>Maximum Structural Take-off Mass = 72 000 kg <br>Maximum Landing Mass = 65 000 kg <br>Maximum Zero Fuel Mass = 61 000 kg <br>Trip Fuel = 8000 kg <br>Take-off Fuel = 10 300 kg</p><p>The maximum allowed take-off mass and traffic load are respectively\u2026</p>",
   "options": {
     "a": "71 300 kg and 23 000 kg",
@@ -10,5 +10,10 @@
     "d": "73 000 kg and 27 000 kg"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69457,
+    "number": "318833"
+  }
 }

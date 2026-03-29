@@ -1,7 +1,7 @@
 {
   "number": 786,
-  "questionId": 68197,
-  "questionNumber": "211475",
+  "questionId": "021-0786",
+  "questionNumber": "021-0786",
   "stemHtml": "<p>A hydraulic accumulator is pre-charged with nitrogen to 1000 psi. The hydraulic system is then pressurised to its operating pressure of 3000 psi. What is the indicated pressure on the nitrogen side of the accumulator?</p>",
   "options": {
     "a": "<p>2000 psi</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1000 psi</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68197,
+    "number": "211475"
+  }
 }

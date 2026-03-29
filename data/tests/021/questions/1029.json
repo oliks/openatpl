@@ -1,7 +1,7 @@
 {
   "number": 1029,
-  "questionId": 110909,
-  "questionNumber": "212781",
+  "questionId": "021-1029",
+  "questionNumber": "021-1029",
   "stemHtml": "<p>Which combination of statements is correct if all fuel booster pumps fail for a particular fuel tank?</p><p>1. Cavitation is likely at high altitudes<br>2. Cavitation is likely at low altitudes<br>3. Cruise airspeed restriction due to reduced fuel flow<br>4. The venturi jet pumps are inoperative</p>",
   "options": {
     "a": "<p>1 and 3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110909,
+    "number": "212781"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 482,
-  "questionId": 68811,
-  "questionNumber": "224610",
+  "questionId": "022-0482",
+  "questionNumber": "022-0482",
   "stemHtml": "The uplink datalink message \"AT [position] CLIMB TO [altitude] AND MAINTAIN\" is part of the:",
   "options": {
     "a": "ADS application.",
@@ -10,5 +10,10 @@
     "d": "TAWS application."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68811,
+    "number": "224610"
+  }
 }

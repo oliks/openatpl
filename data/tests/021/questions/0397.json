@@ -1,7 +1,7 @@
 {
   "number": 397,
-  "questionId": 67616,
-  "questionNumber": "216115",
+  "questionId": "021-0397",
+  "questionNumber": "021-0397",
   "stemHtml": "<p>Alternating current can be derived from direct current by\u2026</p>",
   "options": {
     "a": "a transformer.",
@@ -10,5 +10,10 @@
     "d": "an alternating current motor."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67616,
+    "number": "216115"
+  }
 }

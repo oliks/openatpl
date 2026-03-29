@@ -1,7 +1,7 @@
 {
   "number": 508,
-  "questionId": 161732,
-  "questionNumber": "317442",
+  "questionId": "031-0508",
+  "questionNumber": "031-0508",
   "stemHtml": "<p>Refer to figure.\u00a0<br>Use the figure and the following data to compute the Traffic Load for an aircraft operating commercially in the European Union using standard masses. The aircraft has 20 passenger seats and is currently carrying 5 male and 6 female passengers, but no children nor infants. The crew comprises 2 male and 1 female members. There are 14 pieces of baggage, and the block fuel is 2500 kg.</p>",
   "options": {
     "a": "<p>1042 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/a15367f2-2f65-4bf6-b479-819baf5e73eb.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/a15367f2-2f65-4bf6-b479-819baf5e73eb.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161732,
+    "number": "317442"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 492,
-  "questionId": 67646,
-  "questionNumber": "211444",
+  "questionId": "021-0492",
+  "questionNumber": "021-0492",
   "stemHtml": "<p>Landing gear torsion links are used to\u2026</p>",
   "options": {
     "a": "<p>control the rate of oleo strut recoil.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>prevent extension of the oleo strut when the gear is retracted.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67646,
+    "number": "211444"
+  }
 }

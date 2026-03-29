@@ -1,7 +1,7 @@
 {
   "number": 520,
-  "questionId": 68574,
-  "questionNumber": "229515",
+  "questionId": "022-0520",
+  "questionNumber": "022-0520",
   "stemHtml": "<p>The engine instrument utilising a bellows type sensor is\u2026</p>",
   "options": {
     "a": "a manifold pressure gauge.",
@@ -10,5 +10,10 @@
     "d": "an oil pressure gauge."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68574,
+    "number": "229515"
+  }
 }

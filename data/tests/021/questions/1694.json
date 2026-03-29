@@ -1,7 +1,7 @@
 {
   "number": 1694,
-  "questionId": 68264,
-  "questionNumber": "216873",
+  "questionId": "021-1694",
+  "questionNumber": "021-1694",
   "stemHtml": "<p>During a climb in a standard atmosphere with constant MAP and RPM indications and at a constant mixture setting, the power output of a piston engine\u2026</p>",
   "options": {
     "a": "decreases.",
@@ -10,5 +10,10 @@
     "d": "only stays constant if the propeller lever is pushed."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68264,
+    "number": "216873"
+  }
 }

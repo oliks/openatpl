@@ -1,7 +1,7 @@
 {
   "number": 1830,
-  "questionId": 69059,
-  "questionNumber": "222483",
+  "questionId": "022-1830",
+  "questionNumber": "022-1830",
   "stemHtml": "<p>The sensor(s) feeding the EPR-indicator is(are)\u2026</p>",
   "options": {
     "a": "<p>temperature probes, one located upstream from the compressor inlet, and an other downstream from the turbine outlet.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>pressure probes, one located upstream from the compressor inlet, and the other downstream from the turbine outlet.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69059,
+    "number": "222483"
+  }
 }

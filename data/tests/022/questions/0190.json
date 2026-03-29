@@ -1,7 +1,7 @@
 {
   "number": 190,
-  "questionId": 82255,
-  "questionNumber": "228723",
+  "questionId": "022-0190",
+  "questionNumber": "022-0190",
   "stemHtml": "What can be expected when there's a complete loss of GPS signal?",
   "options": {
     "a": "Loss of radio navigation signals.",
@@ -10,5 +10,10 @@
     "d": "Calculated position deviation."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82255,
+    "number": "228723"
+  }
 }

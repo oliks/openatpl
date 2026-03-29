@@ -1,7 +1,7 @@
 {
   "number": 416,
-  "questionId": 79075,
-  "questionNumber": "316426",
+  "questionId": "031-0416",
+  "questionNumber": "031-0416",
   "stemHtml": "<p>Determine the Traffic Load (TL) of a twin-engine piston aircraft, given:</p><p>Dry Operating Mass: 4830 kg <br>Take-off Mass: 5980 kg <br>Trip Fuel: 617 l <br>Take-off Fuel: 770 l <br>Specific gravity: 0.782020</p>",
   "options": {
     "a": "380 kg.",
@@ -10,5 +10,10 @@
     "d": "668 kg."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79075,
+    "number": "316426"
+  }
 }

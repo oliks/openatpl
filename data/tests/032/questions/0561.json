@@ -1,7 +1,7 @@
 {
   "number": 561,
-  "questionId": 83448,
-  "questionNumber": "327138",
+  "questionId": "032-0561",
+  "questionNumber": "032-0561",
   "stemHtml": "<p>Refer to figure or CAP files Figure 4.24.<br>Consider the following information and assume a driftdown procedure after an engine failure during the cruise phase. What is the flight time travelled, the ground distance covered and fuel burned during the driftdown?</p><p>Driftdown from pressure altitude: 37 000 ft<br>Driftdown to pressure altitude: 21 000 ft<br>Gross Mass at engine failure: 50 000 kg<br>OAT: ISA +20\u00b0C<br>Headwind: 50 kt<br>Bleed configuration: Eng and Wing anti-ice OFF<br>A/C: Auto (High)</p>",
   "options": {
     "a": "35 min, 163 NM and 1100 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/6EB09C85-9FDF-4DAA-A274-C90582AF82C7.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6EB09C85-9FDF-4DAA-A274-C90582AF82C7.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83448,
+    "number": "327138"
+  }
 }

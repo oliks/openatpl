@@ -1,7 +1,7 @@
 {
   "number": 1792,
-  "questionId": 66659,
-  "questionNumber": "109113",
+  "questionId": "010-1792",
+  "questionNumber": "010-1792",
   "stemHtml": "According to ICAO Annex 17, each Contracting State shall ensure that commercial air transport operators do not transport the baggage of persons who are not on board the aircraft unless that baggage is identified as unaccompanied",
   "options": {
     "a": "and subjected to quarantine for 7 days.",
@@ -10,5 +10,10 @@
     "d": "and subjected to appropriate screening."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66659,
+    "number": "109113"
+  }
 }

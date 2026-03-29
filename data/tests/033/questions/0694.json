@@ -1,7 +1,7 @@
 {
   "number": 694,
-  "questionId": 161558,
-  "questionNumber": "337836",
+  "questionId": "033-0694",
+  "questionNumber": "033-0694",
   "stemHtml": "<p>Refer to figure or NANTES - Chart 19-2 from Jeppesen GSPRM 2017.\u00a0<br>An aircraft with a mass of 3600 kg is cleared by the ATC to depart from RWY 03 for a VFR flight. At which holding point on the taxiway should the pilot perform engine power (run-up) checks?</p>",
   "options": {
     "a": "<p>B</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0950fc47-cc6d-4798-9ca5-61afad4fd946.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0950fc47-cc6d-4798-9ca5-61afad4fd946.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161558,
+    "number": "337836"
+  }
 }

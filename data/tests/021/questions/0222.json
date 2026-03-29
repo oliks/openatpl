@@ -1,7 +1,7 @@
 {
   "number": 222,
-  "questionId": 68152,
-  "questionNumber": "219218",
+  "questionId": "021-0222",
+  "questionNumber": "021-0222",
   "stemHtml": "Which of these statements about an auto-brake system (ABS) is correct?",
   "options": {
     "a": "For a given touchdown speed (GS) on a dry runway without use of reverse thrust the stopping distance is solely dependent on the selected ABS setting and independent of weight.",
@@ -10,5 +10,10 @@
     "d": "An armed auto-brake system will always try to achieve the selected deceleration level directly after main wheel touchdown."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68152,
+    "number": "219218"
+  }
 }

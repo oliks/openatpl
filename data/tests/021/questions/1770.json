@@ -1,7 +1,7 @@
 {
   "number": 1770,
-  "questionId": 81347,
-  "questionNumber": "211981",
+  "questionId": "021-1770",
+  "questionNumber": "021-1770",
   "stemHtml": "<p dir=\"ltr\">Refer to figure.  <br />  \rUsing the fuel schematic of a two-engined aeroplane, where is the fuel cross-feed valve located?</p>",
   "options": {
     "a": "<p dir=\"ltr\">Position 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/a7fc749c-45e1-417b-a8aa-2fec8cf2233b.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/a7fc749c-45e1-417b-a8aa-2fec8cf2233b.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81347,
+    "number": "211981"
+  }
 }

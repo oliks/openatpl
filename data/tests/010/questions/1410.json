@@ -1,7 +1,7 @@
 {
   "number": 1410,
-  "questionId": 82703,
-  "questionNumber": "109124",
+  "questionId": "010-1410",
+  "questionNumber": "010-1410",
   "stemHtml": "What must a pilot do if an RA is triggered in the cockpit?",
   "options": {
     "a": "Pull back to achieve a normal radius.",
@@ -10,5 +10,10 @@
     "d": "Keep maximum deflection of the control column and pull back for an even tighter radius."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82703,
+    "number": "109124"
+  }
 }

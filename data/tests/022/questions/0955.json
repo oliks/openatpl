@@ -1,7 +1,7 @@
 {
   "number": 955,
-  "questionId": 69280,
-  "questionNumber": "229940",
+  "questionId": "022-0955",
+  "questionNumber": "022-0955",
   "stemHtml": "<p>On a typical mechanical ADI the following information is shown\u2026</p>",
   "options": {
     "a": "<div>Roll attitude 2. Pitch attitude 3. Flight directors 4. Glideslope</div>",
@@ -10,5 +10,10 @@
     "d": "<p>Flight directors 2. Altitude 3. Airspeed 4. Glideslope</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69280,
+    "number": "229940"
+  }
 }

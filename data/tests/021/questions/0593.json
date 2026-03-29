@@ -1,7 +1,7 @@
 {
   "number": 593,
-  "questionId": 68130,
-  "questionNumber": "215077",
+  "questionId": "021-0593",
+  "questionNumber": "021-0593",
   "stemHtml": "<p>Refer to figure. <br>The engine type represented in the annex is\u2026</p>",
   "options": {
     "a": "twin spool turbofan.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/a48ae304-c6ba-4323-96fd-02063f652d13.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/a48ae304-c6ba-4323-96fd-02063f652d13.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68130,
+    "number": "215077"
+  }
 }

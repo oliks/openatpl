@@ -1,7 +1,7 @@
 {
   "number": 625,
-  "questionId": 109141,
-  "questionNumber": "328750",
+  "questionId": "032-0625",
+  "questionNumber": "032-0625",
   "stemHtml": "<p>V<strong><sub>SR0</sub></strong><sub> </sub>is the\u2026</p>",
   "options": {
     "a": "<p>Reference stall speed in the landing configuration.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Stall speed or the minimum steady flight speed obtained in a specified configuration.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109141,
+    "number": "328750"
+  }
 }

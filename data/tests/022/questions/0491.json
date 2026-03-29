@@ -1,7 +1,7 @@
 {
   "number": 491,
-  "questionId": 68551,
-  "questionNumber": "226159",
+  "questionId": "022-0491",
+  "questionNumber": "022-0491",
   "stemHtml": "<p>When an aircraft, operating in the VOR coupled mode, enters the \"cone of confusion\" over a VOR station, the roll channel of the autopilot\u2026</p>",
   "options": {
     "a": "is temporarily disconnected.",
@@ -10,5 +10,10 @@
     "d": "is damped by a trim input signal from the lateral trim system."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68551,
+    "number": "226159"
+  }
 }

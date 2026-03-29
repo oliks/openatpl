@@ -1,7 +1,7 @@
 {
   "number": 450,
-  "questionId": 67324,
-  "questionNumber": "212836",
+  "questionId": "021-0450",
+  "questionNumber": "021-0450",
   "stemHtml": "<p>An AC generator driven by a constant speed drive (CSD)\u2026</p>",
   "options": {
     "a": "requires a voltage controller to maintain constant frequency.",
@@ -10,5 +10,10 @@
     "d": "does not need a voltage controller since the CSD will ensure constant voltage."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67324,
+    "number": "212836"
+  }
 }

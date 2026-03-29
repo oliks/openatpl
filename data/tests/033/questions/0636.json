@@ -1,7 +1,7 @@
 {
   "number": 636,
-  "questionId": 79144,
-  "questionNumber": "338033",
+  "questionId": "033-0636",
+  "questionNumber": "033-0636",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - Chart \"E LO 1\"\u00a0<br>An aircraft is flying from ABERDEEN (ADN, N57\u00b019', W0002\u00b016 ') to SUMBURGH (N59\u00b053\u2032, W001\u00b018\u2032). Given the following data, the estimated remaining fuel when passing waypoint GAVEL is:</p><p>Ground speed: 162 kt\u00a0<br>Fuel flow: 420 kg/h\u00a0<br>Estimated remaining fuel when passing ABERDEEN: 1295 kg.</p>",
   "options": {
     "a": "875 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/1ABE3E94-A8B6-43AB-99AE-C8D5C8A00625.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1ABE3E94-A8B6-43AB-99AE-C8D5C8A00625.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79144,
+    "number": "338033"
+  }
 }

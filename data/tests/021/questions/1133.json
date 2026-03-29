@@ -1,7 +1,7 @@
 {
   "number": 1133,
-  "questionId": 67804,
-  "questionNumber": "215812",
+  "questionId": "021-1133",
+  "questionNumber": "021-1133",
   "stemHtml": "<p>Refer to figure. <br>Given the system in the annex, the main purpose of the DC fuel pump in the left main tank is to\u2026</p>",
   "options": {
     "a": "supply fuel to both engines in case of total loss of AC power.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/FF69F1DB-011A-4D0B-BF6D-6B9A97CB9C5A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/FF69F1DB-011A-4D0B-BF6D-6B9A97CB9C5A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67804,
+    "number": "215812"
+  }
 }

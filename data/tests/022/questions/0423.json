@@ -1,7 +1,7 @@
 {
   "number": 423,
-  "questionId": 82043,
-  "questionNumber": "228342",
+  "questionId": "022-0423",
+  "questionNumber": "022-0423",
   "stemHtml": "<p>About an altimeter experiencing time lag, which statement is correct?</p>",
   "options": {
     "a": "<p>It under-reads in a descent.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It under-reads in a climb.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82043,
+    "number": "228342"
+  }
 }

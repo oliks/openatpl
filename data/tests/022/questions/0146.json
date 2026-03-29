@@ -1,7 +1,7 @@
 {
   "number": 146,
-  "questionId": 68608,
-  "questionNumber": "229142",
+  "questionId": "022-0146",
+  "questionNumber": "022-0146",
   "stemHtml": "<p>If immediate crew awareness is required and subsequent crew action will be required, the flight warning system (FWS) generates\u2026</p>",
   "options": {
     "a": "an advisory message.",
@@ -10,5 +10,10 @@
     "d": "an urgency message."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68608,
+    "number": "229142"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1082,
-  "questionId": 82013,
-  "questionNumber": "321541",
+  "questionId": "032-1082",
+  "questionNumber": "032-1082",
   "stemHtml": "<p>Given the following information, determine the minimum landing distance that must be available for a multi-engined Performance Class B aeroplane operated for Commercial Air Transport.</p><p>Defactored landing distance: 3240 ft<br>Runway Surface: Paved asphalt<br>Runway condition: Wet (factor 1.15)<br>Runway slope: 1% downslope<br>The landing distance should be increased by 5% for each 1% downslope</p>",
   "options": {
     "a": "5595 ft",
@@ -10,5 +10,10 @@
     "d": "1962 ft"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82013,
+    "number": "321541"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 328,
-  "questionId": 69662,
-  "questionNumber": "323427",
+  "questionId": "032-0328",
+  "questionNumber": "032-0328",
   "stemHtml": "When determining the Take-Off Distance for Performance Class A aeroplanes, assuming an engine failure on a wet or contaminated runway, the screen height is...",
   "options": {
     "a": "35 ft.",
@@ -10,5 +10,10 @@
     "d": "50 ft."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69662,
+    "number": "323427"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 627,
-  "questionId": 110654,
-  "questionNumber": "323729",
+  "questionId": "032-0627",
+  "questionNumber": "032-0627",
   "stemHtml": "<p>Given the following information, what is the minimum vertical clearance of the obstacle by the Performance Class B aeroplane?</p><p>Cloud base: 400 ft above reference zero <br>TAS: 101 kt <br>Nil wind <br>Obstacle at 15 000 ft from the end of TODR with a height of 600 ft above reference zero <br>All Engines Rate of Climb (RoC) at Take-off Power: 1630 ft/min <br>Single Engine Rate of Climb (RoC) at Take-off Power: 300 ft/min<br>Gross to Net conversion factor: 1.3<br>Take-off Power can be used throughout the whole climb segment</p><p>Still air distance = (height difference / net gradient) x 100<br>Ground distance = Still air distance x (GS / TAS)</p>",
   "options": {
     "a": "<p>275 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>156 ft</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110654,
+    "number": "323729"
+  }
 }

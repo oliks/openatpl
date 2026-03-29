@@ -1,7 +1,7 @@
 {
   "number": 284,
-  "questionId": 70014,
-  "questionNumber": "321034",
+  "questionId": "032-0284",
+  "questionNumber": "032-0284",
   "stemHtml": "Refer to figure or CAP698 file 4.22.<br />\r\nDuring a flight with all engines operating at FL350 with M.74, and a gross mass of 55000 kg in ISA conditions, one engine suddenly becomes inoperative. The Level Off Altitude will be\u2026",
   "options": {
     "a": "19800 ft.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/1E77C74F-93E7-4BE1-9786-2B7E97552C51.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/1E77C74F-93E7-4BE1-9786-2B7E97552C51.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70014,
+    "number": "321034"
+  }
 }

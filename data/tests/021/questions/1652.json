@@ -1,7 +1,7 @@
 {
   "number": 1652,
-  "questionId": 83560,
-  "questionNumber": "214480",
+  "questionId": "021-1652",
+  "questionNumber": "021-1652",
   "stemHtml": "Which of these checks of the landing gear are usually part of the Pilot's walk around?",
   "options": {
     "a": "Check the depth of the groves with a meassuring instrument.",
@@ -10,5 +10,10 @@
     "d": "<p>Check for the correct ply rating and type.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83560,
+    "number": "214480"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1344,
-  "questionId": 67628,
-  "questionNumber": "216272",
+  "questionId": "021-1344",
+  "questionNumber": "021-1344",
   "stemHtml": "<p>Which of the following statements is correct about the flow in a divergent (subsonic) gas turbine engine intake?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. The dynamic pressure increases in flow direction.</span> <br /> \n2. The static temperature decreases in flow direction.</p>",
   "options": {
     "a": "Both 1 and 2 are incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67628,
+    "number": "216272"
+  }
 }

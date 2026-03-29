@@ -1,7 +1,7 @@
 {
   "number": 1004,
-  "questionId": 80207,
-  "questionNumber": "228274",
+  "questionId": "022-1004",
+  "questionNumber": "022-1004",
   "stemHtml": "What effect could the loss of GPS signal have on the FMS?",
   "options": {
     "a": "The aircraft position could be different from what is calculated.",
@@ -10,5 +10,10 @@
     "d": "No effect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80207,
+    "number": "228274"
+  }
 }

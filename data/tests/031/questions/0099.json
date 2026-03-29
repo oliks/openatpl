@@ -1,7 +1,7 @@
 {
   "number": 99,
-  "questionId": 158952,
-  "questionNumber": "315570",
+  "questionId": "031-0099",
+  "questionNumber": "031-0099",
   "stemHtml": "<p>An aircraft with tricycle landing gear is weighed on jacks. Given the following information, determine the BEM and CG position.</p><p>Nose jack located at 161 in aft of datum reads: 6484 kg <br>Each main wheel jack located at 727 in aft of datum reads: 17 338 kg</p>",
   "options": {
     "a": "<p>23 822 kg and the CG position is 634.6 in.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>41 160 kg and the CG position is 637.8 in.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 158952,
+    "number": "315570"
+  }
 }

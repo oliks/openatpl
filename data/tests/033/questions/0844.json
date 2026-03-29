@@ -1,7 +1,7 @@
 {
   "number": 844,
-  "questionId": 110045,
-  "questionNumber": "332180",
+  "questionId": "033-0844",
+  "questionNumber": "033-0844",
   "stemHtml": "<p>How can RNAV 1, RNAV 2 SID or STAR, RNP 1 and RNP 2 routes be modified by pilots?</p>",
   "options": {
     "a": "<p>By inserting or deleting waypoints in the database and/or obtaining a Rho-Theta Fix.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Manually, by inserting or deleting waypoints, in response to an ATC clearance.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110045,
+    "number": "332180"
+  }
 }

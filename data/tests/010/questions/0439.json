@@ -1,7 +1,7 @@
 {
   "number": 439,
-  "questionId": 67142,
-  "questionNumber": "102275",
+  "questionId": "010-0439",
+  "questionNumber": "010-0439",
   "stemHtml": "<p>According to ICAO annex 14, a simple approach lighting system should consist of a row of lights along the centre line extending from threshold and also a row of lights forming a crossbar. What is the minimum distance along the centerline that must be fitted with lights?</p>",
   "options": {
     "a": "300 m",
@@ -10,5 +10,10 @@
     "d": "420 m"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67142,
+    "number": "102275"
+  }
 }

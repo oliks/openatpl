@@ -1,7 +1,7 @@
 {
   "number": 730,
-  "questionId": 67461,
-  "questionNumber": "219647",
+  "questionId": "021-0730",
+  "questionNumber": "021-0730",
   "stemHtml": "<p>Which of these statements about a reaction turbine are correct or incorrect?</p><p>I. The pressure drops across the nozzle guide vanes<br>II. The pressure rises across the rotor blades</p>",
   "options": {
     "a": "I is incorrect, II is incorrect.",
@@ -10,5 +10,10 @@
     "d": "I is correct, II is incorrect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67461,
+    "number": "219647"
+  }
 }

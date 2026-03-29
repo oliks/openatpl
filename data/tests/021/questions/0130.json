@@ -1,7 +1,7 @@
 {
   "number": 130,
-  "questionId": 67336,
-  "questionNumber": "212022",
+  "questionId": "021-0130",
+  "questionNumber": "021-0130",
   "stemHtml": "<p>When applying carburettor heating\u2026</p>",
   "options": {
     "a": "<p>the mixture becomes richer.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>RPM increases immediately.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67336,
+    "number": "212022"
+  }
 }

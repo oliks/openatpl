@@ -1,7 +1,7 @@
 {
   "number": 316,
-  "questionId": 113764,
-  "questionNumber": "102644",
+  "questionId": "010-0316",
+  "questionNumber": "010-0316",
   "stemHtml": "<p>If in receipt of a TA, why should a pilot not alter the vertical position of the aircraft?</p>",
   "options": {
     "a": "<p>Because any movement in the horizontal plane would trigger TA\u2019s in other aircraft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Because TA\u2019s only exist to enhance awareness</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 113764,
+    "number": "102644"
+  }
 }

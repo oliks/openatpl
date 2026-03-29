@@ -1,7 +1,7 @@
 {
   "number": 484,
-  "questionId": 69315,
-  "questionNumber": "221539",
+  "questionId": "022-0484",
+  "questionNumber": "022-0484",
   "stemHtml": "<p>An aircraft is climbing at 800 ft/min, what is the equivalent rate in metres per second (m/s)?</p>",
   "options": {
     "a": "<p>4.1 m/s</p>",
@@ -10,5 +10,10 @@
     "d": "<p>43.2 m/sec</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69315,
+    "number": "221539"
+  }
 }

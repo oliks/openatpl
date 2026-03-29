@@ -1,7 +1,7 @@
 {
   "number": 535,
-  "questionId": 84125,
-  "questionNumber": "315618",
+  "questionId": "031-0535",
+  "questionNumber": "031-0535",
   "stemHtml": "<p>Refer to figure or CAP 696 file 4.12.\u00a0<br>Given the following information, determine the CG % MAC at the Zero Fuel Mass (ZFM).</p><p>Take off Mass: 55 080 kg\u00a0<br>Zero Fuel Mass: 45 000 kg\u00a0<br>Take off Fuel: 10 080 kg\u00a0<br>Take-off Index: 23.3\u00a0<br>Zero fuel Index: 25.4</p>",
   "options": {
     "a": "11.0 % MAC",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/CDC63BB8-7CFF-499D-9859-A566616015E7.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/CDC63BB8-7CFF-499D-9859-A566616015E7.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84125,
+    "number": "315618"
+  }
 }

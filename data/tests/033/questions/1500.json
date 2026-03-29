@@ -1,7 +1,7 @@
 {
   "number": 1500,
-  "questionId": 70579,
-  "questionNumber": "331174",
+  "questionId": "033-1500",
+  "questionNumber": "033-1500",
   "stemHtml": "Refer to figures. <br /> What does an entry of G mean in ITEM 10 EQUIPMENT of the ICAO Flight Plan form?",
   "options": {
     "a": "A GPS receiver that can be augmented by Galileo is fitted.",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/1293D975-CDFB-4524-9E53-E452666AF264.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1293D975-CDFB-4524-9E53-E452666AF264.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70579,
+    "number": "331174"
+  }
 }

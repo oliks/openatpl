@@ -1,7 +1,7 @@
 {
   "number": 1216,
-  "questionId": 68068,
-  "questionNumber": "215577",
+  "questionId": "021-1216",
+  "questionNumber": "021-1216",
   "stemHtml": "<p>The bleed-air pressure gauge on the flight deck shows the bleed-air pressure relative to\u2026</p>",
   "options": {
     "a": "cabin pressure.",
@@ -10,5 +10,10 @@
     "d": "<p>atmospheric static pressure.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68068,
+    "number": "215577"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 683,
-  "questionId": 70229,
-  "questionNumber": "321525",
+  "questionId": "032-0683",
+  "questionNumber": "032-0683",
   "stemHtml": "If the air temperature decreases, the take-off distance / ground-roll distance will&hellip;",
   "options": {
     "a": "decrease / decrease.",
@@ -10,5 +10,10 @@
     "d": "increase / decrease."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70229,
+    "number": "321525"
+  }
 }

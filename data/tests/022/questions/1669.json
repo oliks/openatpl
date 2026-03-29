@@ -1,7 +1,7 @@
 {
   "number": 1669,
-  "questionId": 81413,
-  "questionNumber": "229341",
+  "questionId": "022-1669",
+  "questionNumber": "022-1669",
   "stemHtml": "<p dir=\"ltr\">What is the purpose of the autothrust system?</p>",
   "options": {
     "a": "<p dir=\"ltr\">To maintain a specific engine thrust for the relevant flight regime.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">To keep the engine thrust within operating limits.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81413,
+    "number": "229341"
+  }
 }

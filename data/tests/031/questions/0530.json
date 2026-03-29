@@ -1,7 +1,7 @@
 {
   "number": 530,
-  "questionId": 69562,
-  "questionNumber": "311414",
+  "questionId": "031-0530",
+  "questionNumber": "031-0530",
   "stemHtml": "<p>The actual Zero Fuel Mass (ZFM) is equal to the\u2026</p>",
   "options": {
     "a": "Operating Mass plus all the Traffic Load.",
@@ -10,5 +10,10 @@
     "d": "<p>Actual Landing Mass plus Trip Fuel.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69562,
+    "number": "311414"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1618,
-  "questionId": 67409,
-  "questionNumber": "218391",
+  "questionId": "021-1618",
+  "questionNumber": "021-1618",
   "stemHtml": "If an abortive start (hung start) occurs when starting a gas turbine engine, the correct action is to:",
   "options": {
     "a": "select the other igniter system.",
@@ -10,5 +10,10 @@
     "d": "activate both igniter systems."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67409,
+    "number": "218391"
+  }
 }

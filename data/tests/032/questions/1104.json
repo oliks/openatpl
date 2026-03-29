@@ -1,7 +1,7 @@
 {
   "number": 1104,
-  "questionId": 84527,
-  "questionNumber": "325839",
+  "questionId": "032-1104",
+  "questionNumber": "032-1104",
   "stemHtml": "<p>For departure, the APU is on, and is supplying the bleed air for all onboard systems. What effect will this have on the take-off distance?</p>",
   "options": {
     "a": "<p>The take-off distance will be increased as less thrust is available from the engines.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Decreased take-off distance as there will be increased fuel flow to the engines.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84527,
+    "number": "325839"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 868,
-  "questionId": 84442,
-  "questionNumber": "325958",
+  "questionId": "032-0868",
+  "questionNumber": "032-0868",
   "stemHtml": "<p>Refer to figure or CAP 698 file 3.6.<br>Given the following information, determine the one engine inoperative flight-path gradient.</p><p>Take-Off Mass: 4375 lb<br>Airport elevation: 4000 ft<br>OAT: +22\u00b0C<br>Tailwind: 10 kt<br>Climb speed: 92 KIAS, (99 KTAS)<br>Flaps: Up<br>Gear: Up<br>Power: Take-off<br>Inoperative Engine Feathered</p>",
   "options": {
     "a": "1.9%",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/6EDC2F4A-A7C9-4224-B23C-DEBC6E419F0D.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6EDC2F4A-A7C9-4224-B23C-DEBC6E419F0D.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84442,
+    "number": "325958"
+  }
 }

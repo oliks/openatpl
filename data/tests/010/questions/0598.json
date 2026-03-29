@@ -1,7 +1,7 @@
 {
   "number": 598,
-  "questionId": 139292,
-  "questionNumber": "109470",
+  "questionId": "010-0598",
+  "questionNumber": "010-0598",
   "stemHtml": "<p>Refer to figure. <br /> \rThe holding pattern shown in the annex has an outbound magnetic track of (1) _____ and the limiting radial of the outbound track is BTO radial (2) _____.</p>",
   "options": {
     "a": "<p>(1) 010<strong>\u00b0</strong>; (2) 010<strong>\u00b0</strong></p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/f26c7581-25bc-4fd2-93d5-1fda42339e48.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/f26c7581-25bc-4fd2-93d5-1fda42339e48.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 139292,
+    "number": "109470"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 442,
-  "questionId": 100316,
-  "questionNumber": "328180",
+  "questionId": "032-0442",
+  "questionNumber": "032-0442",
   "stemHtml": "<p>Which of the following statements are correct with regards to the approach climb, in accordance with \"CS 25.121 Climb: One-engine-inoperative\"?</p><p>1. Up to 2 or 3 degrees of bank angle towards the operating engine may be used<br>2. The airspeed may not be less than 1.5 V<strong><sub>SR</sub></strong><br>3. The minimum climb gradient is 2.4% for four-engine aircraft<br>4. The minimum gradient is 2.1% for two-engine aircraft<br>5. The airspeed may not be greater than 1.4 V<strong><sub>SR</sub></strong><br>6. The bank angle is limited to 5 degrees towards the operating engine</p>",
   "options": {
     "a": "1, 4 and 5.",
@@ -10,5 +10,10 @@
     "d": "2, 3 and 6."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100316,
+    "number": "328180"
+  }
 }

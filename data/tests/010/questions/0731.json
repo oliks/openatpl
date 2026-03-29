@@ -1,7 +1,7 @@
 {
   "number": 731,
-  "questionId": 66775,
-  "questionNumber": "106768",
+  "questionId": "010-0731",
+  "questionNumber": "010-0731",
   "stemHtml": "<p>After experiencing a two-way communication failure during a flight under IFR in VMC, the correct procedure is\u2026</p>",
   "options": {
     "a": "maintain the assigned level and route and land at the nearest aerodrome where VMC conditions prevail.",
@@ -10,5 +10,10 @@
     "d": "continue to fly in VMC, land at the nearest suitable aerodrome, report the arrival by the most expeditious means to the appropriate Air Traffic Control unit."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66775,
+    "number": "106768"
+  }
 }

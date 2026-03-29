@@ -1,7 +1,7 @@
 {
   "number": 1063,
-  "questionId": 71072,
-  "questionNumber": "333614",
+  "questionId": "033-1063",
+  "questionNumber": "033-1063",
   "stemHtml": "<p>Refer to figure or CAP 697, Figure 4.5.3.2 Mach 0.74 Cruise PA 35 000 ft. <br>An aeroplane is flying at FL350, where the OAT is -40\u00b0C. What is the TAS if the aeroplane\u2019s gross weight is 60 200 kg?</p>",
   "options": {
     "a": "441 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/7990C034-2B20-4CE9-9D6A-E019A3F764FA.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7990C034-2B20-4CE9-9D6A-E019A3F764FA.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71072,
+    "number": "333614"
+  }
 }

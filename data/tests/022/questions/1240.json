@@ -1,7 +1,7 @@
 {
   "number": 1240,
-  "questionId": 68478,
-  "questionNumber": "222548",
+  "questionId": "022-1240",
+  "questionNumber": "022-1240",
   "stemHtml": "The reading of a Mach indicator is independent of:",
   "options": {
     "a": "the outside temperature",
@@ -10,5 +10,10 @@
     "d": "the static pressure"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68478,
+    "number": "222548"
+  }
 }

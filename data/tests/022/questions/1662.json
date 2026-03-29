@@ -1,7 +1,7 @@
 {
   "number": 1662,
-  "questionId": 68497,
-  "questionNumber": "225717",
+  "questionId": "022-1662",
+  "questionNumber": "022-1662",
   "stemHtml": "For a given bank angle, turning errors on a direct reading compass are:",
   "options": {
     "a": "greatest on east/west headings, and are least at high latitudes.",
@@ -10,5 +10,10 @@
     "d": "greatest on east/west headings and at high latitudes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68497,
+    "number": "225717"
+  }
 }

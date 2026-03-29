@@ -1,7 +1,7 @@
 {
   "number": 67,
-  "questionId": 69555,
-  "questionNumber": "316488",
+  "questionId": "031-0067",
+  "questionNumber": "031-0067",
   "stemHtml": "<p>Given:</p><p>Fuel volume: 3800 US Gallons <br>Fuel density: 0.79 kg/l</p><p>The Fuel Mass is\u2026</p>",
   "options": {
     "a": "<p>14 383 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>13 647 kg.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69555,
+    "number": "316488"
+  }
 }

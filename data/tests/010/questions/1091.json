@@ -1,7 +1,7 @@
 {
   "number": 1091,
-  "questionId": 66801,
-  "questionNumber": "104168",
+  "questionId": "010-1091",
+  "questionNumber": "010-1091",
   "stemHtml": "<p>When flying on an airway with an easterly magnetic heading, the correct flight level will be\u2026</p>",
   "options": {
     "a": "usually even (FL120, FL140, etc.), unless stated by the authorities.",
@@ -10,5 +10,10 @@
     "d": "always even."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66801,
+    "number": "104168"
+  }
 }

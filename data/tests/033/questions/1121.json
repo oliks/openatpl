@@ -1,7 +1,7 @@
 {
   "number": 1121,
-  "questionId": 71033,
-  "questionNumber": "337267",
+  "questionId": "033-1121",
+  "questionNumber": "033-1121",
   "stemHtml": "<p>Refer to figures. <br>An aircraft travels an air distance of 1100 NAM at M.82. What is the approximate ground distance in NM?</p>",
   "options": {
     "a": "<p>In a tailwind of 70 kt, 1000 NM.</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/4495AFAD-C9FA-44C2-BE5C-0C682CC75AE7.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4495AFAD-C9FA-44C2-BE5C-0C682CC75AE7.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71033,
+    "number": "337267"
+  }
 }

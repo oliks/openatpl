@@ -1,7 +1,7 @@
 {
   "number": 1229,
-  "questionId": 80070,
-  "questionNumber": "109291",
+  "questionId": "010-1229",
+  "questionNumber": "010-1229",
   "stemHtml": "<p>The first aircraft to arrive at the holding pattern should be assigned.</p>",
   "options": {
     "a": "A level in accordance with the aircraft wake-turbulence category.",
@@ -10,5 +10,10 @@
     "d": "The lowest level in the holding."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80070,
+    "number": "109291"
+  }
 }

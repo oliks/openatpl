@@ -1,7 +1,7 @@
 {
   "number": 1115,
-  "questionId": 163356,
-  "questionNumber": "333228",
+  "questionId": "033-1115",
+  "questionNumber": "033-1115",
   "stemHtml": "<p>Refer to figures or to Stuttgart charts 10-3P and 10-3C from the Jeppesen GSPRM 2017.\u00a0<br>The pilot is advised by ATC to expect either DKB 9B RNAV SID (OVERLAY) or DKB 9B SID. Which of the following is correct?</p>",
   "options": {
     "a": "<p>Chart 10-3C: It uses GPS, but the pilot has to monitor the VOR/DME data.</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/7ee37dc7-4933-4848-9cb7-4fdabad0c342.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7ee37dc7-4933-4848-9cb7-4fdabad0c342.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163356,
+    "number": "333228"
+  }
 }

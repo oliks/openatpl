@@ -1,7 +1,7 @@
 {
   "number": 832,
-  "questionId": 74785,
-  "questionNumber": "223863",
+  "questionId": "022-0832",
+  "questionNumber": "022-0832",
   "stemHtml": "Refer to figure. <br /> What wind velocity is indicated?",
   "options": {
     "a": "285\u00b0M /20 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/9DAFB701-342D-482B-8CE1-9650B19FD517.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/9DAFB701-342D-482B-8CE1-9650B19FD517.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74785,
+    "number": "223863"
+  }
 }

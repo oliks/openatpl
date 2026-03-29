@@ -1,7 +1,7 @@
 {
   "number": 1502,
-  "questionId": 70352,
-  "questionNumber": "331781",
+  "questionId": "033-1502",
+  "questionNumber": "033-1502",
   "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from departure to destination: 500 NM</span> <br /> \nSafe Endurance: 4 h <br /> \nTAS: 140 kt <br /> \nGround Speed Out: 150 kt <br /> \nGround Speed Home: 130 kt</p>\n\n<p>What is the distance and time of the PSR from the departure point?</p>",
   "options": {
     "a": "Distance: 221 NM Time: 89 min",
@@ -10,5 +10,10 @@
     "d": "Distance: 139 NM Time: 60 min"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70352,
+    "number": "331781"
+  }
 }

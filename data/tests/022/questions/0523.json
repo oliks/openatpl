@@ -1,7 +1,7 @@
 {
   "number": 523,
-  "questionId": 74612,
-  "questionNumber": "229995",
+  "questionId": "022-0523",
+  "questionNumber": "022-0523",
   "stemHtml": "<p>According to certification specifications colour standardisations, features displayed in amber/yellow on an EFIS indicate\u2026</p>",
   "options": {
     "a": "engaged modes.",
@@ -10,5 +10,10 @@
     "d": "abnormal sources."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74612,
+    "number": "229995"
+  }
 }

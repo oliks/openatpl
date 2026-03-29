@@ -1,7 +1,7 @@
 {
   "number": 1606,
-  "questionId": 106265,
-  "questionNumber": "101614",
+  "questionId": "010-1606",
+  "questionNumber": "010-1606",
   "stemHtml": "<p>Which of the given factors is mandatory when flying a precision approach?</p>",
   "options": {
     "a": "<p>DH (Decision Height)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>RVR (Runway Visual Range)</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106265,
+    "number": "101614"
+  }
 }

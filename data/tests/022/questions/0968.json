@@ -1,7 +1,7 @@
 {
   "number": 968,
-  "questionId": 84901,
-  "questionNumber": "226314",
+  "questionId": "022-0968",
+  "questionNumber": "022-0968",
   "stemHtml": "<p>Why may the artificial horizon indicate a climb during acceleration on the take-off roll?</p>",
   "options": {
     "a": "The aircraft symbol\u2019s position on the instrument is only correct in straight and level flight and it is displaced during accelerations.",
@@ -10,5 +10,10 @@
     "d": "The artificial horizon is only calibrated for straight, level, accelerated flight."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84901,
+    "number": "226314"
+  }
 }

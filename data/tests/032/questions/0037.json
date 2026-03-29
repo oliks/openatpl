@@ -1,7 +1,7 @@
 {
   "number": 37,
-  "questionId": 84443,
-  "questionNumber": "324541",
+  "questionId": "032-0037",
+  "questionNumber": "032-0037",
   "stemHtml": "<p>Refer to figure or CAP698 file 4.23.<br />\r\nThe Medium Range Jet Transport aircraft is planned to operate a flight from Cyprus to central Europe. The highest MSA en-route is 12100 ft. Given the following conditions and assuming net performance, what would be the highest aircraft mass to sustain MSA following an engine failure?</p>\r\n\r\n<p>OAT: ISA +14\u00b0C.<br />\r\nEngine Anti-ice: OFF<br />\r\nWing Anti-ice: OFF<br />\r\nA/C: AUTO (HIGH)</p>\r\n",
   "options": {
     "a": "<p>58 000 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/EDCDABB5-E008-4484-A567-597984848301.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/EDCDABB5-E008-4484-A567-597984848301.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84443,
+    "number": "324541"
+  }
 }

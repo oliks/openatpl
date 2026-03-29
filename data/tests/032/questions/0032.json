@@ -1,7 +1,7 @@
 {
   "number": 32,
-  "questionId": 82566,
-  "questionNumber": "327759",
+  "questionId": "032-0032",
+  "questionNumber": "032-0032",
   "stemHtml": "<p>Refer to figure. <br /> The annex shows an example of an RTOM chart for a medium jet aeroplane at a particular runway. In each chart box, the following information is provided for a given wind component, and a given outside air temperature: MTOM / limitation code / V<strong><sub>1</sub></strong>-V<strong><sub>R</sub></strong>-V<strong><sub>2</sub></strong>. What is the meaning of the code 4/4?</p>",
   "options": {
     "a": "2nd segment climb and obstacles.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/e4d78c83-858b-463e-9b60-cccb735001b4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/e4d78c83-858b-463e-9b60-cccb735001b4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82566,
+    "number": "327759"
+  }
 }

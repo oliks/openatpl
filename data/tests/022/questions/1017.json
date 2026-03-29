@@ -1,7 +1,7 @@
 {
   "number": 1017,
-  "questionId": 68627,
-  "questionNumber": "226258",
+  "questionId": "022-1017",
+  "questionNumber": "022-1017",
   "stemHtml": "Concerning the flight warning system (FWS), warning messages:",
   "options": {
     "a": "are inhibited by caution messages.",
@@ -10,5 +10,10 @@
     "d": "indicate that subsequent crew action may be required."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68627,
+    "number": "226258"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 30,
-  "questionId": 82532,
-  "questionNumber": "226925",
+  "questionId": "022-0030",
+  "questionNumber": "022-0030",
   "stemHtml": "<p>Which of the following statements about the properties of a simple bar magnet are correct?</p><p>1. North or South Poles can exist separately<br>2. Magnetism is concentrated at the extremities of the bar</p>",
   "options": {
     "a": "1 is incorrect, 2 is correct.",
@@ -10,5 +10,10 @@
     "d": "Both 1 and 2 are incorrect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82532,
+    "number": "226925"
+  }
 }

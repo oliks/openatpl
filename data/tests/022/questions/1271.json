@@ -1,7 +1,7 @@
 {
   "number": 1271,
-  "questionId": 69140,
-  "questionNumber": "226701",
+  "questionId": "022-1271",
+  "questionNumber": "022-1271",
   "stemHtml": "<p>The FMS provides the following functions:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 vertical flight plan management</span>  <br />  \n2 \u2013 aid for fuel management  <br />  \n3 \u2013 lateral flight plan management  <br />  \n4 \u2013 terrain awareness and warning</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "2, 3, 4.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69140,
+    "number": "226701"
+  }
 }

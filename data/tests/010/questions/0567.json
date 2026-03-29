@@ -1,7 +1,7 @@
 {
   "number": 567,
-  "questionId": 66852,
-  "questionNumber": "105895",
+  "questionId": "010-0567",
+  "questionNumber": "010-0567",
   "stemHtml": "<p>You are flying an ILS approach in IMC conditions when the Glide Path (GP) signal is lost. What will you do?</p>",
   "options": {
     "a": "Maintain the current vertical speed, and continue descending until the ILS minima.",
@@ -10,5 +10,10 @@
     "d": "It is mandatory to perform a missed approach if the GP signal fails."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66852,
+    "number": "105895"
+  }
 }

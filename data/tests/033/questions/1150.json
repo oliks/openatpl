@@ -1,7 +1,7 @@
 {
   "number": 1150,
-  "questionId": 96362,
-  "questionNumber": "339110",
+  "questionId": "033-1150",
+  "questionNumber": "033-1150",
   "stemHtml": "<p>During an IFR flight at an altitude of 3300 ft and a transition altitude at 3000 ft. Given that the current QNH is 991 hPa, the OAT at an aerodrome with an elevation of 179 ft is +8\u00b0C, the magnetic track is 182\u00b0 and the variation is 4\u00b0W, what is the minimum flight level the aircraft can be flown at?</p>",
   "options": {
     "a": "<p>FL60</p>",
@@ -10,5 +10,10 @@
     "d": "FL45"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96362,
+    "number": "339110"
+  }
 }

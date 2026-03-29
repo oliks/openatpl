@@ -1,7 +1,7 @@
 {
   "number": 26,
-  "questionId": 83863,
-  "questionNumber": "106466",
+  "questionId": "010-0026",
+  "questionNumber": "010-0026",
   "stemHtml": "<p>In accordance with ICAO Annex 14, what should a signalling lamp in the aerodrome control tower be capable of?</p>",
   "options": {
     "a": "Producing different coloured lights and warning noises.",
@@ -10,5 +10,10 @@
     "d": "Producing red, green, and white signals."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83863,
+    "number": "106466"
+  }
 }

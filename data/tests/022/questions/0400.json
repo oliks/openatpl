@@ -1,7 +1,7 @@
 {
   "number": 400,
-  "questionId": 109603,
-  "questionNumber": "227686",
+  "questionId": "022-0400",
+  "questionNumber": "022-0400",
   "stemHtml": "<p>An aircraft is fitted with 2 radio altimeters (RA) one of which has failed, which of the following statements is correct?</p>",
   "options": {
     "a": "<p>Autoland can still be used.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Using barometric altitude, you can select a new decision altitude.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109603,
+    "number": "227686"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1682,
-  "questionId": 78023,
-  "questionNumber": "227065",
+  "questionId": "022-1682",
+  "questionNumber": "022-1682",
   "stemHtml": "<p>The telecommunication technique used by FANS is the...</p>",
   "options": {
     "a": "HF",
@@ -10,5 +10,10 @@
     "d": "SATCOM"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78023,
+    "number": "227065"
+  }
 }

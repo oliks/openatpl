@@ -1,7 +1,7 @@
 {
   "number": 1850,
-  "questionId": 84203,
-  "questionNumber": "108302",
+  "questionId": "010-1850",
+  "questionNumber": "010-1850",
   "stemHtml": "<p>What type of contaminant can be found on a SNOWTAM?</p>",
   "options": {
     "a": "<p>Compacted snow.</p>",
@@ -10,5 +10,10 @@
     "d": "Dust."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84203,
+    "number": "108302"
+  }
 }

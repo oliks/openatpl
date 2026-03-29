@@ -1,7 +1,7 @@
 {
   "number": 806,
-  "questionId": 67028,
-  "questionNumber": "103334",
+  "questionId": "010-0806",
+  "questionNumber": "010-0806",
   "stemHtml": "What is the meaning of the code word \"AIRPROX\"?",
   "options": {
     "a": "Air Professional Report",
@@ -10,5 +10,10 @@
     "d": "Aircraft Proximity"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67028,
+    "number": "103334"
+  }
 }

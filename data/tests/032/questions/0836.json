@@ -1,7 +1,7 @@
 {
   "number": 836,
-  "questionId": 70113,
-  "questionNumber": "325431",
+  "questionId": "032-0836",
+  "questionNumber": "032-0836",
   "stemHtml": "<p>Refer to figure or Performance Manual MEP 1 Figure 3.2).</p><p>OAT: 20\u00b0C<br>Pressure Altitude: 2000 ft<br>RWY: 07R<br>Wind: 120\u00b0/ 15 kt<br>Take-Off Mass: 4500 lb<br>Heavy Duty Brakes installed.<br>Other conditions are as associated in the header of the graph.</p><p>Given the following information, what is the Accelerate Stop Distance?</p>",
   "options": {
     "a": "3650 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/74DC4A0F-3093-4B23-AB89-3551382C4254.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/74DC4A0F-3093-4B23-AB89-3551382C4254.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70113,
+    "number": "325431"
+  }
 }

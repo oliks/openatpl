@@ -1,7 +1,7 @@
 {
   "number": 381,
-  "questionId": 68689,
-  "questionNumber": "229084",
+  "questionId": "022-0381",
+  "questionNumber": "022-0381",
   "stemHtml": "<p>Considering a stabilised platform inertial system, the principle of operation requires the use of at least\u2026</p>",
   "options": {
     "a": "2 rate gyros and 2 accelerometers.",
@@ -10,5 +10,10 @@
     "d": "3 rate gyros and 4 accelerometers."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68689,
+    "number": "229084"
+  }
 }

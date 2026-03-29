@@ -1,7 +1,7 @@
 {
   "number": 660,
-  "questionId": 106053,
-  "questionNumber": "108026",
+  "questionId": "010-0660",
+  "questionNumber": "010-0660",
   "stemHtml": "<p>What is true about the variations in outside air temperature?</p>",
   "options": {
     "a": "<p>In hot air the glide path/descent path will be shallower.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>In cold air the glide path / descent path will be shallower.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106053,
+    "number": "108026"
+  }
 }

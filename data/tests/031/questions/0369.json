@@ -1,7 +1,7 @@
 {
   "number": 369,
-  "questionId": 79559,
-  "questionNumber": "314281",
+  "questionId": "031-0369",
+  "questionNumber": "031-0369",
   "stemHtml": "<p>Refer to figure or CAP 696, Section 4 MRJT, 2.5 (MAC & MAC Leading Edge). <br>The CG at take-off is 21% MAC. If the TOM is 60 000 kg, what is the mass moment in kg-inch?</p>",
   "options": {
     "a": "<p>37 536 000 kg-inch</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/CEE1CBF8-E1F2-4362-BBF3-3E801FFD7749.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/CEE1CBF8-E1F2-4362-BBF3-3E801FFD7749.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79559,
+    "number": "314281"
+  }
 }

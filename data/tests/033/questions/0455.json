@@ -1,7 +1,7 @@
 {
   "number": 455,
-  "questionId": 82607,
-  "questionNumber": "335338",
+  "questionId": "033-0455",
+  "questionNumber": "033-0455",
   "stemHtml": "<p>Refer to figure.<br />\r\nWhat does the inscription highlighted in red, that is related to section 16 of an ATC Flightplan, mean?</p>\r\n",
   "options": {
     "a": "Destination, 06:05 flight time, alternate.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/07838031-3841-4398-B82A-E38E9790235A.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/07838031-3841-4398-B82A-E38E9790235A.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82607,
+    "number": "335338"
+  }
 }

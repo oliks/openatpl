@@ -1,7 +1,7 @@
 {
   "number": 428,
-  "questionId": 107343,
-  "questionNumber": "327494",
+  "questionId": "032-0428",
+  "questionNumber": "032-0428",
   "stemHtml": "<p>A flight crew erroneously calculates a V<strong><sub>1</sub></strong> speed that is equal to the V<strong><sub>MCG</sub></strong> (118 knots) and less than the V<strong><sub>MCA</sub></strong> (120 knots). During take-off, they experience an engine failure just before reaching V<strong><sub>1</sub></strong> but decide to continue the takeoff. What is the most likely outcome given these circumstances?</p>",
   "options": {
     "a": "<p>The aircraft will continue straight ahead, achieving lift-off without lateral deviation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The aircraft will exceed its designed tire speed ratings but maintain directional control.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107343,
+    "number": "327494"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1794,
-  "questionId": 67036,
-  "questionNumber": "108006",
+  "questionId": "010-1794",
+  "questionNumber": "010-1794",
   "stemHtml": "<p>What is the minimum separation between a light or medium aircraft and a heavy aircraft, when the heavier aircraft is making a low or missed approach and the lighter aircraft is utilising an opposite-direction runway for take-off?</p>",
   "options": {
     "a": "<p>1 minute.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 minutes.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67036,
+    "number": "108006"
+  }
 }

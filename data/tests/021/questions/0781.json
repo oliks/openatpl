@@ -1,7 +1,7 @@
 {
   "number": 781,
-  "questionId": 109969,
-  "questionNumber": "212301",
+  "questionId": "021-0781",
+  "questionNumber": "021-0781",
   "stemHtml": "<p>Which of the following statements is correct regarding the functions of the passenger oxygen system?</p>",
   "options": {
     "a": "<p>You can start or stop the flow of oxygen to individual masks from the passenger oxygen system.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The system enables you to mix oxygen with cabin air for better temperature control.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109969,
+    "number": "212301"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 237,
-  "questionId": 68451,
-  "questionNumber": "225776",
+  "questionId": "022-0237",
+  "questionNumber": "022-0237",
   "stemHtml": "<p>The QNH is by definition the value of the\u2026</p>",
   "options": {
     "a": "atmospheric pressure at the sea level of the location for which it is given.",
@@ -10,5 +10,10 @@
     "d": "altimeter setting so that the altimeter, on the apron of the aerodrome for which it is given, reads zero."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68451,
+    "number": "225776"
+  }
 }

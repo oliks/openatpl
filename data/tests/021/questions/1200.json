@@ -1,7 +1,7 @@
 {
   "number": 1200,
-  "questionId": 67529,
-  "questionNumber": "217832",
+  "questionId": "021-1200",
+  "questionNumber": "021-1200",
   "stemHtml": "<p>Which areas of an aircraft need to be protected against ice accretion?</p>",
   "options": {
     "a": "<p>Aircraft nose, AoA vane, and APU inlet.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Wing leading edges, engine intakes, and pitot probes.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67529,
+    "number": "217832"
+  }
 }

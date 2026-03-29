@@ -1,7 +1,7 @@
 {
   "number": 375,
-  "questionId": 67456,
-  "questionNumber": "215163",
+  "questionId": "021-0375",
+  "questionNumber": "021-0375",
   "stemHtml": "<p>Which of these statements about an impulse turbine are correct or incorrect?</p><p>I. The pressure remains constant across the nozzle guide vanes<br>II. The pressure remains constant across the rotor blades</p>",
   "options": {
     "a": "I is correct, II is correct.",
@@ -10,5 +10,10 @@
     "d": "I is correct, II is incorrect."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67456,
+    "number": "215163"
+  }
 }

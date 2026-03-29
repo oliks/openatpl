@@ -1,7 +1,7 @@
 {
   "number": 628,
-  "questionId": 66935,
-  "questionNumber": "106965",
+  "questionId": "010-0628",
+  "questionNumber": "010-0628",
   "stemHtml": "<p>The lower limit of a TMA shall be established at a height above the ground or water of not less than\u2026</p>",
   "options": {
     "a": "700 ft / 200 m.",
@@ -10,5 +10,10 @@
     "d": "2000 ft / 600 m."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66935,
+    "number": "106965"
+  }
 }

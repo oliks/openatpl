@@ -1,7 +1,7 @@
 {
   "number": 170,
-  "questionId": 66757,
-  "questionNumber": "108868",
+  "questionId": "010-0170",
+  "questionNumber": "010-0170",
   "stemHtml": "An aeroplane and a glider are approaching to land at an aerodrome. Which one of them shall give way to the other...",
   "options": {
     "a": "The aeroplane, if it is able to carry out a missed approach procedure.",
@@ -10,5 +10,10 @@
     "d": "The glider, if the aeroplane is flying at a lower altitude."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66757,
+    "number": "108868"
+  }
 }

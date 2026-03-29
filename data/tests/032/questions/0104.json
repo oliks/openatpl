@@ -1,7 +1,7 @@
 {
   "number": 104,
-  "questionId": 70227,
-  "questionNumber": "329553",
+  "questionId": "032-0104",
+  "questionNumber": "032-0104",
   "stemHtml": "A higher pressure altitude at ISA temperature...",
   "options": {
     "a": "decreases the field length limited take-off mass.",
@@ -10,5 +10,10 @@
     "d": "increases the climb limited take-off mass."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70227,
+    "number": "329553"
+  }
 }

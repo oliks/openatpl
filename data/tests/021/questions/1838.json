@@ -1,7 +1,7 @@
 {
   "number": 1838,
-  "questionId": 85620,
-  "questionNumber": "212553",
+  "questionId": "021-1838",
+  "questionNumber": "021-1838",
   "stemHtml": "The pilot of a turbocharged MEP aircraft is climbing with Maximum Continuous Power set until reaching the cruising altitude of 10 000 ft. The pilot levels off and initially maintains power to accelerate to cruise speed. Which of the following actions are required to reduce fuel consumption?",
   "options": {
     "a": "Decrease power by reducing manifold pressure and decrease the propeller blade angle using the RPM lever.",
@@ -10,5 +10,10 @@
     "d": "Maintain the same power and reduce the propeller RPM by increasing the blade angle."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85620,
+    "number": "212553"
+  }
 }

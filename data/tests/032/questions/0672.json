@@ -1,7 +1,7 @@
 {
   "number": 672,
-  "questionId": 83348,
-  "questionNumber": "325047",
+  "questionId": "032-0672",
+  "questionNumber": "032-0672",
   "stemHtml": "<p>You have reached the top of descent and you are cleared to start descending down to FL100. How will your descent profile be affected, if you fly at constant descent speed of Mach 0.78 and forget to switch over from Mach to IAS at the appropriate crossover altitude?</p>\r\n\r\n<p>A descent with a constant speed of Mach 0.78 will result in (1) _____ IAS and (2) _____ rate of descent.</p>",
   "options": {
     "a": "(1) a decreasing; (2) a decreasing",
@@ -10,5 +10,10 @@
     "d": "(1) an increasing; (2) a decreasing"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83348,
+    "number": "325047"
+  }
 }

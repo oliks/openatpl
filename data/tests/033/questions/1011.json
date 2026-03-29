@@ -1,7 +1,7 @@
 {
   "number": 1011,
-  "questionId": 70530,
-  "questionNumber": "336404",
+  "questionId": "033-1011",
+  "questionNumber": "033-1011",
   "stemHtml": "<p>Refer to figure.<br>A turbojet aeroplane, weighing 200 000 kg, initiates its cruise at the optimum level at M 0.84 (ISA, CG = 37%, Total Anti Ice ON).</p><p>A head wind of 30 kt is experienced and, after a distance of 500 NM, severe icing is encountered and this requires an immediate descent. The aeroplane mass at start of descent is\u2026</p>",
   "options": {
     "a": "192 500 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/05EC1F47-564B-47CD-9C5A-6BD997B51E5E.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/05EC1F47-564B-47CD-9C5A-6BD997B51E5E.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70530,
+    "number": "336404"
+  }
 }

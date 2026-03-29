@@ -1,7 +1,7 @@
 {
   "number": 437,
-  "questionId": 68619,
-  "questionNumber": "229800",
+  "questionId": "022-0437",
+  "questionNumber": "022-0437",
   "stemHtml": "<p>The FMS enables to fly an optimum flight profile. For this, the FMC (Flight Management Computer) uses:</p><p>1 \u2013 flight-crew entered flight plan data <br>2 \u2013 data from ADC <br>3 \u2013 aircraft position <br>4 \u2013 a memorised relief world data base <br>5 \u2013 data from the FMC navigation data base</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 5.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3, 5."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68619,
+    "number": "229800"
+  }
 }

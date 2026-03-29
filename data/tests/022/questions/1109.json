@@ -1,7 +1,7 @@
 {
   "number": 1109,
-  "questionId": 66492,
-  "questionNumber": "228847",
+  "questionId": "022-1109",
+  "questionNumber": "022-1109",
   "stemHtml": "<p>The horizontal component of the Earth's magnetic field\u2026</p>",
   "options": {
     "a": "<p>weakens with increasing distance from the magnetic poles.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>weakens with increasing distance from the nearer magnetic pole.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66492,
+    "number": "228847"
+  }
 }

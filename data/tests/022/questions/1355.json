@@ -1,7 +1,7 @@
 {
   "number": 1355,
-  "questionId": 68544,
-  "questionNumber": "229702",
+  "questionId": "022-1355",
+  "questionNumber": "022-1355",
   "stemHtml": "<p>At flight level and Mach number constant, if OAT decreases, the CAS\u2026</p>",
   "options": {
     "a": "<p>increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>remains constant.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68544,
+    "number": "229702"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 351,
-  "questionId": 82649,
-  "questionNumber": "223914",
+  "questionId": "022-0351",
+  "questionNumber": "022-0351",
   "stemHtml": "<p>Before the INS alignment the pilot accidentally provides the system with an INCORRECT value of latitude. What is the consequence of this action?</p>",
   "options": {
     "a": "<p>The system will start up in ATT REF mode, providing attitude data, but NOT navigation data.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The system will gradually lose its alignment, as the calculated drift due to Earth rotation will be wrong.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82649,
+    "number": "223914"
+  }
 }

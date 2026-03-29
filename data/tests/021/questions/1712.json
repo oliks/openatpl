@@ -1,7 +1,7 @@
 {
   "number": 1712,
-  "questionId": 78783,
-  "questionNumber": "213660",
+  "questionId": "021-1712",
+  "questionNumber": "021-1712",
   "stemHtml": "What is correct about an air-cooled engine?",
   "options": {
     "a": "Air is ducted through the oil cooler first and then passes through the engine, cooling it.",
@@ -10,5 +10,10 @@
     "d": "The air cooler matrix is water cooled."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78783,
+    "number": "213660"
+  }
 }

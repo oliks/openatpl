@@ -1,7 +1,7 @@
 {
   "number": 1397,
-  "questionId": 85354,
-  "questionNumber": "103318",
+  "questionId": "010-1397",
+  "questionNumber": "010-1397",
   "stemHtml": "Annex V to EU Regulation No 965/2012 (Regulation on Air Operations), Part-SPA, details...",
   "options": {
     "a": "the operator's application, privileges, changes, and continued validity of special approvals.",
@@ -10,5 +10,10 @@
     "d": "any specialised operation where the aircraft is used for specialised activities."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85354,
+    "number": "103318"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 297,
-  "questionId": 70962,
-  "questionNumber": "335975",
+  "questionId": "033-0297",
+  "questionNumber": "033-0297",
   "stemHtml": "<p>Refer to figure or Chart \"E LO 1\" from Jeppesen GSPRM 2017.\u00a0<br>Which of the following is a correctly specified navaid name and frequency from which you can get a bearing at KIRKWALL (EGPA, N58\u00b058' W002\u00b054')?</p>",
   "options": {
     "a": "VOR KW, 108.6 MHz",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/49467AF9-8B24-48AB-847C-8FC83AADA915.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/49467AF9-8B24-48AB-847C-8FC83AADA915.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70962,
+    "number": "335975"
+  }
 }

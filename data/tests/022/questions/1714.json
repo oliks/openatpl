@@ -1,7 +1,7 @@
 {
   "number": 1714,
-  "questionId": 84836,
-  "questionNumber": "226822",
+  "questionId": "022-1714",
+  "questionNumber": "022-1714",
   "stemHtml": "<p>You are manually flying the aircraft using the FD, when suddenly the command bars disappear from the ADI. What should you do?</p>",
   "options": {
     "a": "Wait for a caution on the FMA before reverting to manual control.",
@@ -10,5 +10,10 @@
     "d": "Manually fly the aircraft because this indicates that the autopilot is not available."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84836,
+    "number": "226822"
+  }
 }

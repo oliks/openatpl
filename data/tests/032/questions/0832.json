@@ -1,7 +1,7 @@
 {
   "number": 832,
-  "questionId": 83391,
-  "questionNumber": "322236",
+  "questionId": "032-0832",
+  "questionNumber": "032-0832",
   "stemHtml": "What is the definition of \"wet ice\", regarding contaminated runways?",
   "options": {
     "a": "Ice with a layer of water on top of it more than 3 mm.",
@@ -10,5 +10,10 @@
     "d": "Ice with a layer of water (more than 3 mm) on top of it<strong> </strong>or ice that is melting."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83391,
+    "number": "322236"
+  }
 }

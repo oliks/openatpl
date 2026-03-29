@@ -1,7 +1,7 @@
 {
   "number": 1174,
-  "questionId": 68324,
-  "questionNumber": "218571",
+  "questionId": "021-1174",
+  "questionNumber": "021-1174",
   "stemHtml": "<p>A gaseous fire loop system is tested by\u2026</p>",
   "options": {
     "a": "checking the sensor with external pressurised gas.",
@@ -10,5 +10,10 @@
     "d": "checking the continuity of the system."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68324,
+    "number": "218571"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1130,
-  "questionId": 69073,
-  "questionNumber": "222089",
+  "questionId": "022-1130",
+  "questionNumber": "022-1130",
   "stemHtml": "In an inertial navigation system, integrating once the speed with time gives:",
   "options": {
     "a": "an instantaneous acceleration.",
@@ -10,5 +10,10 @@
     "d": "an average acceleration."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69073,
+    "number": "222089"
+  }
 }

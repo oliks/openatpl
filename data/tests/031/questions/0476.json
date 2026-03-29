@@ -1,7 +1,7 @@
 {
   "number": 476,
-  "questionId": 69350,
-  "questionNumber": "315221",
+  "questionId": "031-0476",
+  "questionNumber": "031-0476",
   "stemHtml": "<p>Refer to figure. <br /> \rUsing the annex, determine the maximum allowable mass and running load of the middle compartment of the forward cargo hold.</p>",
   "options": {
     "a": "<p>483 kg and 68.0 kg/sq ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/FEF57858-A83C-4C46-88D1-F0B3EFFF65C8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/FEF57858-A83C-4C46-88D1-F0B3EFFF65C8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69350,
+    "number": "315221"
+  }
 }

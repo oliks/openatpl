@@ -1,7 +1,7 @@
 {
   "number": 916,
-  "questionId": 71045,
-  "questionNumber": "332978",
+  "questionId": "033-0916",
+  "questionNumber": "033-0916",
   "stemHtml": "Refer to figure. <br /> Referring to the given ATC flight plan, who is the operator of the filed flight?",
   "options": {
     "a": "TETAVIA",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/B786B8EE-A28F-40E2-8117-A99C566E9B9F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/B786B8EE-A28F-40E2-8117-A99C566E9B9F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71045,
+    "number": "332978"
+  }
 }

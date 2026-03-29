@@ -1,7 +1,7 @@
 {
   "number": 426,
-  "questionId": 79136,
-  "questionNumber": "331228",
+  "questionId": "033-0426",
+  "questionNumber": "033-0426",
   "stemHtml": "<p>For pre-flight planning purposes what is the block fuel required? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Taxi fuel: 350 kg<br>Trip fuel: 85 000 kg<br>Contingency fuel: 5% of the Trip fuel<br>Final reserve fuel: 3000 kg<br>Alternate fuel: 5500 kg<br>Discretionary fuel: 1500 kg<br>Extra fuel: 0 kg</p>",
   "options": {
     "a": "95 350 kg",
@@ -10,5 +10,10 @@
     "d": "99 600 kg"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79136,
+    "number": "331228"
+  }
 }

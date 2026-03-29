@@ -1,7 +1,7 @@
 {
   "number": 1515,
-  "questionId": 82570,
-  "questionNumber": "225611",
+  "questionId": "022-1515",
+  "questionNumber": "022-1515",
   "stemHtml": "An Inertial Reference System (IRS) has...",
   "options": {
     "a": "mechanical rate-integrating gyroscopes, and it uses a mechanically stabilised platform.",
@@ -10,5 +10,10 @@
     "d": "mechanical rate-integrating gyroscopes, and it receives data from the Flight Management Computer (FMC)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82570,
+    "number": "225611"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 919,
-  "questionId": 66599,
-  "questionNumber": "211768",
+  "questionId": "021-0919",
+  "questionNumber": "021-0919",
   "stemHtml": "<p>How can specific fuel consumption (SFC) for a turboshaft engine be expressed?</p>",
   "options": {
     "a": "<p>Lb per hour of thrust.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Kg per km.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66599,
+    "number": "211768"
+  }
 }

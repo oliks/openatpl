@@ -1,7 +1,7 @@
 {
   "number": 275,
-  "questionId": 81893,
-  "questionNumber": "228098",
+  "questionId": "022-0275",
+  "questionNumber": "022-0275",
   "stemHtml": "<p>Which statement about the Flight Mode Annunciator (FMA) is correct?</p>",
   "options": {
     "a": "<p>Every mode change is accompanied by a recognisable aural indication.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>If the mode changes, a caption on the Primary Flight Display (PFD) will change colour or appearance.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81893,
+    "number": "228098"
+  }
 }

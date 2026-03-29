@@ -1,7 +1,7 @@
 {
   "number": 1471,
-  "questionId": 70947,
-  "questionNumber": "334031",
+  "questionId": "033-1471",
+  "questionNumber": "033-1471",
   "stemHtml": "<p>You refuel with 220 IMP Gallons. What is the mass in Kg with a specific gravity of 0.82?</p>",
   "options": {
     "a": "840 kg",
@@ -10,5 +10,10 @@
     "d": "820 kg"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70947,
+    "number": "334031"
+  }
 }

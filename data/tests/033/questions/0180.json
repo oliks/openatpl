@@ -1,7 +1,7 @@
 {
   "number": 180,
-  "questionId": 153909,
-  "questionNumber": "333464",
+  "questionId": "033-0180",
+  "questionNumber": "033-0180",
   "stemHtml": "<p>A turbojet aircraft, while in cruise and approaching the top of descent, it loses GNSS capability. Which action by the pilot is the most correct ?</p>",
   "options": {
     "a": "<p>Begin descent and continue the planned RNAV arrival using dead-reckoning.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Continue the planned arrival; no action is needed until the approach.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153909,
+    "number": "333464"
+  }
 }

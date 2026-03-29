@@ -1,7 +1,7 @@
 {
   "number": 1673,
-  "questionId": 81273,
-  "questionNumber": "222160",
+  "questionId": "022-1673",
+  "questionNumber": "022-1673",
   "stemHtml": "<p>To get an accurate indication during the flight the directional gyro must be aligned with:</p>",
   "options": {
     "a": "<p dir=\"ltr\">Correct compass heading.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">Correct latitude.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81273,
+    "number": "222160"
+  }
 }

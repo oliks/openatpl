@@ -1,7 +1,7 @@
 {
   "number": 387,
-  "questionId": 82248,
-  "questionNumber": "223658",
+  "questionId": "022-0387",
+  "questionNumber": "022-0387",
   "stemHtml": "<p>Which statement is correct regarding following the failure of a FMC/FMGC in a dual system?</p>",
   "options": {
     "a": "<p>Data must be recovered using the quick recovery procedure for the failed FMC/FMGC in the QRH.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The associated CDU/MCDU is not usable anymore for the remainder of the flight.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82248,
+    "number": "223658"
+  }
 }

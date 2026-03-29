@@ -1,7 +1,7 @@
 {
   "number": 257,
-  "questionId": 80334,
-  "questionNumber": "325290",
+  "questionId": "032-0257",
+  "questionNumber": "032-0257",
   "stemHtml": "<p>Complete the following sentence:</p><p>Following an engine failure on a twin-engined aircraft the thrust available is (1) _____ and the excess of thrust over drag is (2) _____.</p>",
   "options": {
     "a": "(1) Reduced by 50%; (2) Reduced by more than 50%.",
@@ -10,5 +10,10 @@
     "d": "(1) Reduced by 50 %; (2) Reduced by 50%."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80334,
+    "number": "325290"
+  }
 }

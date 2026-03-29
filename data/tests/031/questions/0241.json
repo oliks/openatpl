@@ -1,7 +1,7 @@
 {
   "number": 241,
-  "questionId": 109130,
-  "questionNumber": "319412",
+  "questionId": "031-0241",
+  "questionNumber": "031-0241",
   "stemHtml": "<p>In the formula to calculate the CG position as a percentage of the mean aerodynamic chord, ((L - LEMAC)/MAC) x 100, what does the 'L' represent?</p>",
   "options": {
     "a": "<p>CG distance from datum</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The distance of the mean aerodynamic chord trailing edge from the datum</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109130,
+    "number": "319412"
+  }
 }

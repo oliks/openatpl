@@ -1,7 +1,7 @@
 {
   "number": 1097,
-  "questionId": 108561,
-  "questionNumber": "215874",
+  "questionId": "021-1097",
+  "questionNumber": "021-1097",
   "stemHtml": "<p>How does the parking brake work?</p>",
   "options": {
     "a": "<p>A shut-off valve blocks hydraulic pressure inside the line.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The parking brake engages automatically when the aircraft is stationary.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108561,
+    "number": "215874"
+  }
 }

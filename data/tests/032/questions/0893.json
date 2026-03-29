@@ -1,7 +1,7 @@
 {
   "number": 893,
-  "questionId": 69791,
-  "questionNumber": "328294",
+  "questionId": "032-0893",
+  "questionNumber": "032-0893",
   "stemHtml": "<p>Can the length of a stopway be added to the runway length to determine the take-off distance available?</p>",
   "options": {
     "a": "<p>No, unless its centreline is on the extended centreline of the runway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes, but the stopway must be able to carry the weight of the aeroplane.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69791,
+    "number": "328294"
+  }
 }

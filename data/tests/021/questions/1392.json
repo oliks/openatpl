@@ -1,7 +1,7 @@
 {
   "number": 1392,
-  "questionId": 68335,
-  "questionNumber": "216000",
+  "questionId": "021-1392",
+  "questionNumber": "021-1392",
   "stemHtml": "<p>The correct formula to express mechanical stress is\u2026</p>",
   "options": {
     "a": "force divided by unit pressure (Force / Pressure).",
@@ -10,5 +10,10 @@
     "d": "force multiplied by area (Force x Area)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68335,
+    "number": "216000"
+  }
 }

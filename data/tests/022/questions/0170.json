@@ -1,7 +1,7 @@
 {
   "number": 170,
-  "questionId": 84493,
-  "questionNumber": "227343",
+  "questionId": "022-0170",
+  "questionNumber": "022-0170",
   "stemHtml": "<p>During flight, the ball of a slip indicator is central. What does this indicate? That the\u2026</p>",
   "options": {
     "a": "Aircraft rate of change of heading is equivalent to 3 degrees per second.",
@@ -10,5 +10,10 @@
     "d": "Sum of all forces is acting in the vertical gravitational plane."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84493,
+    "number": "227343"
+  }
 }

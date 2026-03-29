@@ -1,7 +1,7 @@
 {
   "number": 1750,
-  "questionId": 82044,
-  "questionNumber": "225635",
+  "questionId": "022-1750",
+  "questionNumber": "022-1750",
   "stemHtml": "<p>If an \u201cairspeed disagree\u201d alert occurs, how would it be displayed to the pilots?</p>",
   "options": {
     "a": "ND map shift.",
@@ -10,5 +10,10 @@
     "d": "Airspeed disagreement between both PFDs."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82044,
+    "number": "225635"
+  }
 }

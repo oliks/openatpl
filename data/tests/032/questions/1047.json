@@ -1,7 +1,7 @@
 {
   "number": 1047,
-  "questionId": 69745,
-  "questionNumber": "323996",
+  "questionId": "032-1047",
+  "questionNumber": "032-1047",
   "stemHtml": "For a take-off from a contaminated runway, which of the following statements is correct?",
   "options": {
     "a": "The greater the depth of contamination at constant take-off mass, the more V<sub>1</sub> has to be decreased to compensate for decreasing friction.",
@@ -10,5 +10,10 @@
     "d": "The take-off performance data is generally determined by the manufacturers by calculation, only a few values are verified by flight tests."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69745,
+    "number": "323996"
+  }
 }

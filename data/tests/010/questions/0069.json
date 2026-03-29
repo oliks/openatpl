@@ -1,7 +1,7 @@
 {
   "number": 69,
-  "questionId": 81591,
-  "questionNumber": "109940",
+  "questionId": "010-0069",
+  "questionNumber": "010-0069",
   "stemHtml": "<p>According to ICAO Annex 17, to what does the following definition correspond to?</p><p>\"An inspection of the interior of an aircraft to which passengers may have had access and an inspection of the hold for the purposes of discovering suspicious objects, weapons, explosives or other dangerous devices, articles and substances.\"</p>",
   "options": {
     "a": "Aircraft security check.",
@@ -10,5 +10,10 @@
     "d": "Aircraft pre-flight check."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81591,
+    "number": "109940"
+  }
 }

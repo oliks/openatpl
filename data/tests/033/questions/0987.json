@@ -1,7 +1,7 @@
 {
   "number": 987,
-  "questionId": 79128,
-  "questionNumber": "339747",
+  "questionId": "033-0987",
+  "questionNumber": "033-0987",
   "stemHtml": "<p>An aircraft is flying at FL80. The ISA deviation is -20\u00b0C. The elevation of the ground is 2500 ft and the QNH equals 1040 hPa. The True Altitude is\u2026</p>",
   "options": {
     "a": "<p>6815 ft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>9290 ft.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79128,
+    "number": "339747"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1125,
-  "questionId": 69763,
-  "questionNumber": "325125",
+  "questionId": "032-1125",
+  "questionNumber": "032-1125",
   "stemHtml": "What happens when flying at the &quot;backside of the power curve&quot;?",
   "options": {
     "a": "The altitude cannot be maintained.",
@@ -10,5 +10,10 @@
     "d": "The speed is unstable."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69763,
+    "number": "325125"
+  }
 }

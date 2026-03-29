@@ -1,7 +1,7 @@
 {
   "number": 1074,
-  "questionId": 80040,
-  "questionNumber": "107269",
+  "questionId": "010-1074",
+  "questionNumber": "010-1074",
   "stemHtml": "<p>Refer to figure. <br>A marshaller abruptly extends arms and wands to top of head, crossing wands. What does this mean?</p>",
   "options": {
     "a": "Parking area is clear.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/97A7E7FD-13C7-4F34-A7B7-CFBD7D7FA539.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/97A7E7FD-13C7-4F34-A7B7-CFBD7D7FA539.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80040,
+    "number": "107269"
+  }
 }

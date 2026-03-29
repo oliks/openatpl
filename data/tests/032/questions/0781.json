@@ -1,7 +1,7 @@
 {
   "number": 781,
-  "questionId": 79708,
-  "questionNumber": "323609",
+  "questionId": "032-0781",
+  "questionNumber": "032-0781",
   "stemHtml": "<p>Regarding an engine failure on take-off, the net take-off flight path is\u2026</p>",
   "options": {
     "a": "The minimum height that will be attained by an aircraft flown in accordance with the Aircraft Flight Manual (AFM) after failure of the critical power unit and taking into account exceptional pilot skill.",
@@ -10,5 +10,10 @@
     "d": "The maximum height that will be attained by an aircraft flown in accordance with the Aircraft Flight Manual (AFM) after failure of the critical power unit."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79708,
+    "number": "323609"
+  }
 }

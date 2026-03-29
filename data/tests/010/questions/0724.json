@@ -1,7 +1,7 @@
 {
   "number": 724,
-  "questionId": 115853,
-  "questionNumber": "107822",
+  "questionId": "010-0724",
+  "questionNumber": "010-0724",
   "stemHtml": "<p>By what means is information distributed when it does not qualify for the origination of a NOTAM or for an AIP amendment and it is related to flight safety, air navigation, technical, administration or legislative matters?</p>",
   "options": {
     "a": "<p>Aeronautical Information Circular (AIC)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Supplement</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 115853,
+    "number": "107822"
+  }
 }

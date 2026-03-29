@@ -1,7 +1,7 @@
 {
   "number": 1048,
-  "questionId": 96467,
-  "questionNumber": "328955",
+  "questionId": "032-1048",
+  "questionNumber": "032-1048",
   "stemHtml": "What is the effect of a lower gross weight on a jet aircraft's optimum altitude, specific fuel consumption and specific range?",
   "options": {
     "a": "An increased optimum altitude, decreased specific fuel consumption and increased specific range.",
@@ -10,5 +10,10 @@
     "d": "A decreased optimum altitude, increased specific fuel consumption and decreased specific range."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96467,
+    "number": "328955"
+  }
 }

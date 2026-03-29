@@ -1,7 +1,7 @@
 {
   "number": 68,
-  "questionId": 67576,
-  "questionNumber": "212317",
+  "questionId": "021-0068",
+  "questionNumber": "021-0068",
   "stemHtml": "<p>The damping element in a landing gear shock absorber used on large aircraft is\u2026</p>",
   "options": {
     "a": "<p>springs.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>hydraulic fluid.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67576,
+    "number": "212317"
+  }
 }

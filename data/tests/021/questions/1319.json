@@ -1,7 +1,7 @@
 {
   "number": 1319,
-  "questionId": 78315,
-  "questionNumber": "212528",
+  "questionId": "021-1319",
+  "questionNumber": "021-1319",
   "stemHtml": "<p>The shear neck is a device fitted to prevent\u2026</p>",
   "options": {
     "a": "Oil leaks, in case of mechanical failure of the gearbox.",
@@ -10,5 +10,10 @@
     "d": "Engine failure, in case of mechanical failure of the gearbox."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78315,
+    "number": "212528"
+  }
 }

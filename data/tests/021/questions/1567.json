@@ -1,7 +1,7 @@
 {
   "number": 1567,
-  "questionId": 67987,
-  "questionNumber": "214694",
+  "questionId": "021-1567",
+  "questionNumber": "021-1567",
   "stemHtml": "<p>Engine oil reservoirs are sometimes located at the front of the engine\u2026</p>",
   "options": {
     "a": "to allow the hot oil to heat the air intake.",
@@ -10,5 +10,10 @@
     "d": "because it is the most distant position from the exhaust."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67987,
+    "number": "214694"
+  }
 }

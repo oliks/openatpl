@@ -1,7 +1,7 @@
 {
   "number": 576,
-  "questionId": 66488,
-  "questionNumber": "223432",
+  "questionId": "022-0576",
+  "questionNumber": "022-0576",
   "stemHtml": "The Directive Force\u2026",
   "options": {
     "a": "is about twice as strong on 60\u00b0N/S as on the Equator.",
@@ -10,5 +10,10 @@
     "d": "equals the vertical component of the Earth\u2019s magnetic field."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66488,
+    "number": "223432"
+  }
 }

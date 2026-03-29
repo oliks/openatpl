@@ -1,7 +1,7 @@
 {
   "number": 1149,
-  "questionId": 70916,
-  "questionNumber": "332520",
+  "questionId": "033-1149",
+  "questionNumber": "033-1149",
   "stemHtml": "<p>Refer to figure or ALICANTE - charts10-3A from Jeppesen GSPRM 2017.<br>What is the correct procedure for the SID CATON 2C?</p>",
   "options": {
     "a": "3100 feet or higher at D9.5 ALT, FL 110 or higher at VILNA, FL110 or higher at NARGO, not above FL 230 at CATON",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0C491D96-BC22-41CA-98A7-D2A8EF895E0A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0C491D96-BC22-41CA-98A7-D2A8EF895E0A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70916,
+    "number": "332520"
+  }
 }

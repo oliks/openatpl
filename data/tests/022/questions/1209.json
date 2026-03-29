@@ -1,7 +1,7 @@
 {
   "number": 1209,
-  "questionId": 69286,
-  "questionNumber": "224720",
+  "questionId": "022-1209",
+  "questionNumber": "022-1209",
   "stemHtml": "<p>Which of the following are factors that determine the type and number of parameters to be recorded by a FDR (Flight Data Recorder)?</p>",
   "options": {
     "a": "<p>Applicable operational requirements.</p>",
@@ -10,5 +10,10 @@
     "d": "Recording duration and reliability of the FDR."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69286,
+    "number": "224720"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1532,
-  "questionId": 68361,
-  "questionNumber": "212928",
+  "questionId": "021-1532",
+  "questionNumber": "021-1532",
   "stemHtml": "Which of these statements concerning oxygen on board of passenger transport aeroplanes is correct?<br>",
   "options": {
     "a": "Portable oxygen bottles are primarily intended for use in case the chemical oxygen generators fail.<br>",
@@ -10,5 +10,10 @@
     "d": "After being activated a chemical oxygen generator does not produce any heat.<br>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68361,
+    "number": "212928"
+  }
 }

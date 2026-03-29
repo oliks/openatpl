@@ -1,7 +1,7 @@
 {
   "number": 53,
-  "questionId": 86200,
-  "questionNumber": "105034",
+  "questionId": "010-0053",
+  "questionNumber": "010-0053",
   "stemHtml": "After landing, when should the pilot report \"runway vacated\"?",
   "options": {
     "a": "When the entire aircraft is beyond the runway-holding position.",
@@ -10,5 +10,10 @@
     "d": "As soon as the aircraft has crossed the runway-edge line."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86200,
+    "number": "105034"
+  }
 }

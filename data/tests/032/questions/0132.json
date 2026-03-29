@@ -1,7 +1,7 @@
 {
   "number": 132,
-  "questionId": 69986,
-  "questionNumber": "322976",
+  "questionId": "032-0132",
+  "questionNumber": "032-0132",
   "stemHtml": "<p>Refer to figure. <br /> \rThe annex shows take-off rejected take-off distance for an aeroplane in given conditions. The balanced field is shown at distance...</p>",
   "options": {
     "a": "<p>D</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/a0ec438d-3a40-4365-8d09-c332de37e388.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/a0ec438d-3a40-4365-8d09-c332de37e388.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69986,
+    "number": "322976"
+  }
 }

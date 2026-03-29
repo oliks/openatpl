@@ -1,7 +1,7 @@
 {
   "number": 226,
-  "questionId": 108557,
-  "questionNumber": "214679",
+  "questionId": "021-0226",
+  "questionNumber": "021-0226",
   "stemHtml": "<p>You are flying a Fly-By-Wire aircraft which is operating using direct law. What are the possible implications of this on the flight envelope protections?</p>",
   "options": {
     "a": "<p>You will be degraded to audio and visual warnings only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No degradation of flight envelope protections but loss of all warnings.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108557,
+    "number": "214679"
+  }
 }

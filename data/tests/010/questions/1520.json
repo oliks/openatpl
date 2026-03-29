@@ -1,7 +1,7 @@
 {
   "number": 1520,
-  "questionId": 67107,
-  "questionNumber": "101990",
+  "questionId": "010-1520",
+  "questionNumber": "010-1520",
   "stemHtml": "<p>Taxiway centre line lights, except on an exit taxiway, are fixed lights showing\u2026</p>",
   "options": {
     "a": "yellow",
@@ -10,5 +10,10 @@
     "d": "white"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67107,
+    "number": "101990"
+  }
 }

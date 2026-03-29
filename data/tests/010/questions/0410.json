@@ -1,7 +1,7 @@
 {
   "number": 410,
-  "questionId": 86305,
-  "questionNumber": "102188",
+  "questionId": "010-0410",
+  "questionNumber": "010-0410",
   "stemHtml": "Which of the following is the correct definition of \"commercial air transport operation\" according to ICAO Annex 6, Part I?",
   "options": {
     "a": "<p>An aircraft operation involving the transport of passengers, cargo, mail or the promotion of aerial sport and leisure aviation for remuneration or hire.</p>",
@@ -10,5 +10,10 @@
     "d": "An aircraft operation by a commercial operator for or without remuneration or hire."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86305,
+    "number": "102188"
+  }
 }

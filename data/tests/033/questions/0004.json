@@ -1,7 +1,7 @@
 {
   "number": 4,
-  "questionId": 70409,
-  "questionNumber": "331252",
+  "questionId": "033-0004",
+  "questionNumber": "033-0004",
   "stemHtml": "A sector distance is 450 NM long. The TAS is 460 kt. The wind component is 50 kt tailwind. What is the still air distance?",
   "options": {
     "a": "499 Nautical Air Miles (NAM)",
@@ -10,5 +10,10 @@
     "d": "406 Nautical Air Miles (NAM)"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70409,
+    "number": "331252"
+  }
 }

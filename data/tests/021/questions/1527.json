@@ -1,7 +1,7 @@
 {
   "number": 1527,
-  "questionId": 67931,
-  "questionNumber": "215223",
+  "questionId": "021-1527",
+  "questionNumber": "021-1527",
   "stemHtml": "<p>The main function of an air cycle machine is to...</p>",
   "options": {
     "a": "<p>cool the bleed air.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>pump the conditioned air into the cabin.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67931,
+    "number": "215223"
+  }
 }

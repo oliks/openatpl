@@ -1,7 +1,7 @@
 {
   "number": 219,
-  "questionId": 80183,
-  "questionNumber": "229171",
+  "questionId": "022-0219",
+  "questionNumber": "022-0219",
   "stemHtml": "What is the main purpose of the autothrottle on take-off?",
   "options": {
     "a": "To constantly adjust the thrust on the take off roll.",
@@ -10,5 +10,10 @@
     "d": "To hold a speed once airborne."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80183,
+    "number": "229171"
+  }
 }

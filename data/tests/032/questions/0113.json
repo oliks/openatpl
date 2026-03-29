@@ -1,7 +1,7 @@
 {
   "number": 113,
-  "questionId": 70206,
-  "questionNumber": "321643",
+  "questionId": "032-0113",
+  "questionNumber": "032-0113",
   "stemHtml": "<p>How does an approach and landing with full flaps compare to one with zero flaps? The full flap approach and landing will have a...</p>",
   "options": {
     "a": "<p>slower approach speed and shorter ground roll distance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>faster approach speed and larger ground roll distance.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70206,
+    "number": "321643"
+  }
 }

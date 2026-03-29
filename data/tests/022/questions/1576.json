@@ -1,7 +1,7 @@
 {
   "number": 1576,
-  "questionId": 109311,
-  "questionNumber": "226469",
+  "questionId": "022-1576",
+  "questionNumber": "022-1576",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat attitude is shown on the attitude indicator?</p>",
   "options": {
     "a": "<p>20\u00b0 bank to the right</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/782caea6-8f4d-45cf-aedc-7f6d99cb8d1a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/782caea6-8f4d-45cf-aedc-7f6d99cb8d1a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109311,
+    "number": "226469"
+  }
 }

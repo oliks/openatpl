@@ -1,7 +1,7 @@
 {
   "number": 1356,
-  "questionId": 68215,
-  "questionNumber": "219366",
+  "questionId": "021-1356",
+  "questionNumber": "021-1356",
   "stemHtml": "What is the function of an auto-slat system?",
   "options": {
     "a": "It provides improved handling qualities by retracting the slats at high angles of attack.",
@@ -10,5 +10,10 @@
     "d": "It provides for increased endurance during holding operations in icing conditions."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68215,
+    "number": "219366"
+  }
 }

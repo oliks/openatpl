@@ -1,7 +1,7 @@
 {
   "number": 1372,
-  "questionId": 68806,
-  "questionNumber": "221796",
+  "questionId": "022-1372",
+  "questionNumber": "022-1372",
   "stemHtml": "<p>In a vibration monitoring system, a filter:</p><p>1. erases any output which is normal to the engine<br>2. allows through to the amplifier any frequency that is considered to be harmful to the engine</p>",
   "options": {
     "a": "1 is correct, 2 is incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68806,
+    "number": "221796"
+  }
 }

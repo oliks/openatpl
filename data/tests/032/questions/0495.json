@@ -1,7 +1,7 @@
 {
   "number": 495,
-  "questionId": 107666,
-  "questionNumber": "328124",
+  "questionId": "032-0495",
+  "questionNumber": "032-0495",
   "stemHtml": "<p>Climbing at a constant IAS in standard atmospheric conditions, which of the following is correct?</p>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>EAS increases, TAS and Mach number decrease.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>EAS remains constant, TAS and Mach number decrease.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107666,
+    "number": "328124"
+  }
 }

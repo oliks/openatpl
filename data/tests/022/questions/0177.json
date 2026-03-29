@@ -1,7 +1,7 @@
 {
   "number": 177,
-  "questionId": 81743,
-  "questionNumber": "228796",
+  "questionId": "022-0177",
+  "questionNumber": "022-0177",
   "stemHtml": "<p>The advantages of a servo altimeter over a sensitive altimeter include\u2026</p>",
   "options": {
     "a": "<p>much reduced lag.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>being independent of the aircraft power supply.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81743,
+    "number": "228796"
+  }
 }

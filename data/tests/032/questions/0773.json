@@ -1,7 +1,7 @@
 {
   "number": 773,
-  "questionId": 111410,
-  "questionNumber": "321159",
+  "questionId": "032-0773",
+  "questionNumber": "032-0773",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the maximum landing mass permitted if landing with flaps 25?</p>",
   "options": {
     "a": "<p>15 000 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/5429fbf7-d406-49ec-bab4-0cc948997938.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/5429fbf7-d406-49ec-bab4-0cc948997938.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111410,
+    "number": "321159"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 706,
-  "questionId": 81546,
-  "questionNumber": "331669",
+  "questionId": "033-0706",
+  "questionNumber": "033-0706",
   "stemHtml": "<p>Refer to figure or AMSTERDAM (EHAM) SID Chart 10-3J from the Jeppesen GSPRM2017.<br>What is the Minimum Sector Altitude (MSA)?</p>",
   "options": {
     "a": "<p>1700 m between the 177\u00b0 and 130\u00b0 radials from SPL</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/EA0BE415-F29D-4137-984E-6F88F324DD2E.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/EA0BE415-F29D-4137-984E-6F88F324DD2E.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81546,
+    "number": "331669"
+  }
 }

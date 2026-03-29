@@ -1,7 +1,7 @@
 {
   "number": 1667,
-  "questionId": 68825,
-  "questionNumber": "226494",
+  "questionId": "022-1667",
+  "questionNumber": "022-1667",
   "stemHtml": "<p>The principle of the compass swinging procedure is to\u2026</p>",
   "options": {
     "a": "correct for deviation due to hard iron magnetism only.",
@@ -10,5 +10,10 @@
     "d": "correct for deviation due to soft iron magnetism only."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68825,
+    "number": "226494"
+  }
 }

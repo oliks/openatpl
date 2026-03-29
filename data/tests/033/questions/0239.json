@@ -1,7 +1,7 @@
 {
   "number": 239,
-  "questionId": 80417,
-  "questionNumber": "333308",
+  "questionId": "033-0239",
+  "questionNumber": "033-0239",
   "stemHtml": "<p>Refer to figures or DUBROVNIK - Charts 10-1P, 13-2 from Jeppesen GSPRM 2017.\u00a0<br>A flight from Tromso airport (ENTC) to Dubrovnik airport (LDDU), what is correct statement for your arrival in to LDDU?</p>",
   "options": {
     "a": "<p>Should intercept radial 128 from DBK and look for visual reference.</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/7955A19E-D7DA-4B51-8DC7-86FA9E0B0FB2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7955A19E-D7DA-4B51-8DC7-86FA9E0B0FB2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80417,
+    "number": "333308"
+  }
 }

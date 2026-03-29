@@ -1,7 +1,7 @@
 {
   "number": 306,
-  "questionId": 68329,
-  "questionNumber": "214056",
+  "questionId": "021-0306",
+  "questionNumber": "021-0306",
   "stemHtml": "<p>When a part of a continuous loop fire detection system is heated:</p><p>1. its resistance decreases<br>2. its resistance increases<br>3. the current increases<br>4. the current decreases</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2, 4",
@@ -10,5 +10,10 @@
     "d": "2, 3"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68329,
+    "number": "214056"
+  }
 }

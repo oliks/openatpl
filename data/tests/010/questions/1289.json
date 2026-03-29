@@ -1,7 +1,7 @@
 {
   "number": 1289,
-  "questionId": 67021,
-  "questionNumber": "104336",
+  "questionId": "010-1289",
+  "questionNumber": "010-1289",
   "stemHtml": "<p>A strayed aircraft is an aircraft\u2026</p>",
   "options": {
     "a": "which has deviated significantly from its intended track or which reports that it is lost.",
@@ -10,5 +10,10 @@
     "d": "flying in a given area but whose identity has not been established."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67021,
+    "number": "104336"
+  }
 }

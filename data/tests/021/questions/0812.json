@@ -1,7 +1,7 @@
 {
   "number": 812,
-  "questionId": 83611,
-  "questionNumber": "218304",
+  "questionId": "021-0812",
+  "questionNumber": "021-0812",
   "stemHtml": "<p>Under which of the following circumstances would continuous ignition be automatically triggered in a turbine engine without the requirement for crew input?</p><p>1. Engine anti-ice selected on<br>2. Airframe anti ice selected on<br>3. Stick shaker activation<br>4. Throttle at idle<br>5. Speed at or above Mach 0.8<br>6. When the aircraft is climbing</p>",
   "options": {
     "a": "1, 3 and 5.",
@@ -10,5 +10,10 @@
     "d": "1, 3 and 4."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83611,
+    "number": "218304"
+  }
 }

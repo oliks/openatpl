@@ -1,7 +1,7 @@
 {
   "number": 1842,
-  "questionId": 66798,
-  "questionNumber": "107897",
+  "questionId": "010-1842",
+  "questionNumber": "010-1842",
   "stemHtml": "A pilot intends to change from VFR to IFR in the middle of a flight. A flight plan has already been submitted. What action is the pilot required to take?",
   "options": {
     "a": "Cancel the current VFR flight plan and adjust to the table of cruising levels for IFR flights.",
@@ -10,5 +10,10 @@
     "d": "<p>Cancel her/his VFR flight and submit a new flight plan.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66798,
+    "number": "107897"
+  }
 }

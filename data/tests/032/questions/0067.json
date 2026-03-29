@@ -1,7 +1,7 @@
 {
   "number": 67,
-  "questionId": 107349,
-  "questionNumber": "328641",
+  "questionId": "032-0067",
+  "questionNumber": "032-0067",
   "stemHtml": "<p>During the descent phase of a flight in a MRJT, effective energy management is crucial to ensure a safe and efficient approach. Various aircraft configurations and systems can be adjusted to manage the aircraft's energy. Select the option that groups all the correct statements below:</p><p>1. Extending the landing gear increases drag, which can help reduce speed quickly while maintaining the same rate of descent <br>2. Deploying speed brakes reduces the lift-to-drag ratio, allowing for a steeper descent path without a corresponding increase in airspeed <br>3. Extending the landing gear at low altitude will decrease the rate of descent <br>4. Deploying speed brakes at lower altitude can help manage the aircraft's descent profile by increasing drag and allowing for a steady descent at a higher rate without gaining unwanted speed <br>5. Minimising the use of speedbrakes during the descent is more fuel efficienct than intermittent speedbrake use throughout the descent <br>6. Increasing thrust during descent can increase the rate of descent</p>",
   "options": {
     "a": "<p>2, 3, 4, 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3, 4</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107349,
+    "number": "328641"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 254,
-  "questionId": 102845,
-  "questionNumber": "211138",
+  "questionId": "021-0254",
+  "questionNumber": "021-0254",
   "stemHtml": "<p>When operating a turbine engine in flight, if you observe fluctuations in RPM, elevated temperatures between turbine stages, and hear clicking sounds, the most probable scenario is\u2026</p>",
   "options": {
     "a": "<p>A compressor turbulence.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Compressor surge.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102845,
+    "number": "211138"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 982,
-  "questionId": 70384,
-  "questionNumber": "338651",
+  "questionId": "033-0982",
+  "questionNumber": "033-0982",
   "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance A to B: 3060 NM</span> <br /> \nMean groundspeed \"out\": 440 kt <br /> \nMean groundspeed \"back\": 540 kt <br /> \nSafe Endurance: 10 hours</p>\n\n<p>The time to the Point of Safe Return (PSR) is:</p>",
   "options": {
     "a": "5 hours 31 minutes",
@@ -10,5 +10,10 @@
     "d": "3 hours 55 minutes"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70384,
+    "number": "338651"
+  }
 }

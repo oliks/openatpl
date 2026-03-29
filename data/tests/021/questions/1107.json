@@ -1,7 +1,7 @@
 {
   "number": 1107,
-  "questionId": 106572,
-  "questionNumber": "218665",
+  "questionId": "021-1107",
+  "questionNumber": "021-1107",
   "stemHtml": "<p>The retraction mechanism of the landing gear is...</p>",
   "options": {
     "a": "<p>an active system and operated with the engine pump.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a passive system and operated with the pressure pump.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106572,
+    "number": "218665"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 670,
-  "questionId": 79081,
-  "questionNumber": "313405",
+  "questionId": "031-0670",
+  "questionNumber": "031-0670",
   "stemHtml": "<p>A twin-engine aeroplane has an actual mass of 6 063 kg. Its CG is located at 2.7 m aft of the datum. How much mass must be transferred from a cargo compartment 1.2 m aft of the datum to compartment 4.1 m aft of the datum to establish a CG 2.8 aft of the datum?</p>",
   "options": {
     "a": "<p>10 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>510 kg.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79081,
+    "number": "313405"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1879,
-  "questionId": 67506,
-  "questionNumber": "212219",
+  "questionId": "021-1879",
+  "questionNumber": "021-1879",
   "stemHtml": "What is the basic principle of a fully manual flight control system?",
   "options": {
     "a": "The flight control surfaces are connected to the flight deck controls by means of mechanical links only.",
@@ -10,5 +10,10 @@
     "d": "A fully manual flight control system is manually operated by the pilot by means of the flight control elements and is powered by a hydraulic system."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67506,
+    "number": "212219"
+  }
 }

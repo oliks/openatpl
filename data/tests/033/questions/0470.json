@@ -1,7 +1,7 @@
 {
   "number": 470,
-  "questionId": 82655,
-  "questionNumber": "339442",
+  "questionId": "033-0470",
+  "questionNumber": "033-0470",
   "stemHtml": "Refer to figure. <br /> Due to in-flight conditions, what will be the impact on the flight time, if the EFOU airport is considered as an alternate instead of the ESNU airport?",
   "options": {
     "a": "<p>+10 min</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/98BF665D-3225-4BFC-AC9A-BF3B4086EB17.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/98BF665D-3225-4BFC-AC9A-BF3B4086EB17.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82655,
+    "number": "339442"
+  }
 }

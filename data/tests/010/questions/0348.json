@@ -1,7 +1,7 @@
 {
   "number": 348,
-  "questionId": 103836,
-  "questionNumber": "109039",
+  "questionId": "010-0348",
+  "questionNumber": "010-0348",
   "stemHtml": "Can the approach and landing be continued below the MDA/H, if during a VOR/DME approach the flight crew can distinctly see and identify only the approach lights?",
   "options": {
     "a": "The approach may be continued and the landing may be completed provided the established visual reference is maintained.",
@@ -10,5 +10,10 @@
     "d": "The approach may be continued. The landing, however, may be completed provided an element of the threshold (markings or lights) can be identified prior to 100 feet AGL."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103836,
+    "number": "109039"
+  }
 }

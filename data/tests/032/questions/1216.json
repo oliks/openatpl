@@ -1,7 +1,7 @@
 {
   "number": 1216,
-  "questionId": 96325,
-  "questionNumber": "328543",
+  "questionId": "032-1216",
+  "questionNumber": "032-1216",
   "stemHtml": "<p>A Medium-Range Jet Transport aeroplane is planned to depart from a sufficiently long runway and the correct V-speeds have been calculated. The pilot has not flown this variant of the aircraft before, and it has a longer fuselage than the variant they have flown before. As the tail clearance during rotation is reduced on this longer aircraft, the pilot performs their rotation at a slightly slower (but still acceptable) rate than they would normally. What will this change?</p>",
   "options": {
     "a": "It will increase the take-off run, but the take-off distance will be reduced since the aeroplane will attain a climb speed that is slightly faster.",
@@ -10,5 +10,10 @@
     "d": "It will reduce the climb performance of the aeroplane since the speed will be above V<sub>2</sub>, which is the speed tor maximum climb angle."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96325,
+    "number": "328543"
+  }
 }

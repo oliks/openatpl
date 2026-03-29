@@ -1,7 +1,7 @@
 {
   "number": 516,
-  "questionId": 102777,
-  "questionNumber": "311045",
+  "questionId": "031-0516",
+  "questionNumber": "031-0516",
   "stemHtml": "<p>You are departing for a flight with a planned landing fuel of 3000 kg. According to aircraft limitations, the centre tank fuel must be used prior to the wing tank fuel.</p>\r\n\r\n<p>Given the following information, the location of the CG on landing will be how many metres aft of the datum?</p>\r\n\r\n<p>Maximum Take-Off mass: 99 800 kg<br />\r\nActual Take-Off Mass: 59 500 kg<br />\r\nTake-off CG location: 16.26 m aft of the datum<br />\r\nFuel in centre tank at take-off: 16 &nbsp;000 kg<br />\r\nFuel wing tanks at take-off: 18000 kg<br />\r\nCentre fuel tank centroid: 15.38 m aft of the datum<br />\r\nWing fuel tank centroid: 17,79 m aft of the datum</p>\r\n",
   "options": {
     "a": "<p>15.95</p>",
@@ -10,5 +10,10 @@
     "d": "<p>15.88</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102777,
+    "number": "311045"
+  }
 }

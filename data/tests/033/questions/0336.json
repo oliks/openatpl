@@ -1,7 +1,7 @@
 {
   "number": 336,
-  "questionId": 70939,
-  "questionNumber": "335631",
+  "questionId": "033-0336",
+  "questionNumber": "033-0336",
   "stemHtml": "<p>Refer to figure or AMSTERDAM - Chart 10-2A from Jeppesen GSPRM 2017. <br>You are cleared to hold at RIVER via PESER 2A arrival. When passing PESER, a fuel check reveals 5 000 kg of fuel on board. You decide to divert at 3 600 kg of fuel remaining. How long can you hold before you need to divert? Average TAS 260 kt, fuel flow 2 400 kg/h, wind 310\u00b0 / 20 kt.</p>",
   "options": {
     "a": "29 minutes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/16CC8988-B971-45B9-B081-1581CE1395CE.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/16CC8988-B971-45B9-B081-1581CE1395CE.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70939,
+    "number": "335631"
+  }
 }

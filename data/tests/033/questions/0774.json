@@ -1,7 +1,7 @@
 {
   "number": 774,
-  "questionId": 70824,
-  "questionNumber": "339379",
+  "questionId": "033-0774",
+  "questionNumber": "033-0774",
   "stemHtml": "<p>The Point of Equal Time PET is the point along a planned route from the departure A to the destination B where, under certain conditions, it\u2026</p>",
   "options": {
     "a": "is not possible to return to A without using reserves.",
@@ -10,5 +10,10 @@
     "d": "takes equal time to proceed to B or to return to A."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70824,
+    "number": "339379"
+  }
 }

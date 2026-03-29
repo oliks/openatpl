@@ -1,7 +1,7 @@
 {
   "number": 1439,
-  "questionId": 80495,
-  "questionNumber": "109736",
+  "questionId": "010-1439",
+  "questionNumber": "010-1439",
   "stemHtml": "Refer to figure. <br /> What is the name of the marking?",
   "options": {
     "a": "Taxiway-holding position marking.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/8CBB4979-59C5-40E2-BC0C-B699158D621E.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/8CBB4979-59C5-40E2-BC0C-B699158D621E.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80495,
+    "number": "109736"
+  }
 }

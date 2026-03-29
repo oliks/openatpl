@@ -1,7 +1,7 @@
 {
   "number": 186,
-  "questionId": 83172,
-  "questionNumber": "312209",
+  "questionId": "031-0186",
+  "questionNumber": "031-0186",
   "stemHtml": "Which section of the Aircraft Flight Manual describes the Centre of Gravity limits of the aircraft?",
   "options": {
     "a": "None \u2013 they have to be individually computed for every flight.",
@@ -10,5 +10,10 @@
     "d": "<p>The performance section.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83172,
+    "number": "312209"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 113,
-  "questionId": 70499,
-  "questionNumber": "337562",
+  "questionId": "033-0113",
+  "questionNumber": "033-0113",
   "stemHtml": "<p>According to the following NOTAM, what is the safe distance for a civilian aircraft?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q) EUAD/QSPLT/IV/BO/AE/000/021/5212N00011E003 A) EUAD B) FROM: 16/02/09 08:30C) TO: 16/02/09 14:30 E) E BAND HIGH INTENSITY RADAR TRANSMISSION AREA (HIRTA) IN D304 RADIUS 1NM. MAX HEIGHT 472FT AGL. SAFE DISTANCES CIVILIAN ACFT 0.011NM 11FT AGL MIL ACFT VERY LOW 0.011NM 11FT AGL LOW 0.053NM 157FT AGL MEDIUM 0.077NM 242FT AGL HIGH 0.143NM 472FT AGL</span></p>\n\n<div> </div>",
   "options": {
     "a": "1 NM",
@@ -10,5 +10,10 @@
     "d": "472 ft"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70499,
+    "number": "337562"
+  }
 }

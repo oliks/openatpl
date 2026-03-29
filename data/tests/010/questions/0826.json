@@ -1,7 +1,7 @@
 {
   "number": 826,
-  "questionId": 80046,
-  "questionNumber": "105697",
+  "questionId": "010-0826",
+  "questionNumber": "010-0826",
   "stemHtml": "Refer to figure. <br /> What does the marshaling signal \"arms and wands fully extended above head, moving wands outward in a 'jabbing' motion\u201d mean?",
   "options": {
     "a": "Chocks removed.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/D1D6B3C8-E64A-4156-B513-ED256881856F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/D1D6B3C8-E64A-4156-B513-ED256881856F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80046,
+    "number": "105697"
+  }
 }

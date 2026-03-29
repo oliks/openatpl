@@ -1,7 +1,7 @@
 {
   "number": 410,
-  "questionId": 71005,
-  "questionNumber": "339616",
+  "questionId": "033-0410",
+  "questionNumber": "033-0410",
   "stemHtml": "<p>Refer to figure or GSPRM Jeppesen Chart E(LO)2. <br>You are flying at FL 360, heading NW and ATC tell you you have to be at FL 200 over ELVOS. How far from TRENT (N53 03 W001 40) should you start your descent?</p><p>TAS 420 <br>ROD 2000 Ft / Min</p>",
   "options": {
     "a": "81 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/FEBB20CA-AD52-484B-A61A-109989ED04DA.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/FEBB20CA-AD52-484B-A61A-109989ED04DA.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71005,
+    "number": "339616"
+  }
 }

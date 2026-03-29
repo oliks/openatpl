@@ -1,7 +1,7 @@
 {
   "number": 866,
-  "questionId": 110841,
-  "questionNumber": "226851",
+  "questionId": "022-0866",
+  "questionNumber": "022-0866",
   "stemHtml": "<p>What might autothrust do in turbulent or windshear conditions?</p>",
   "options": {
     "a": "<p>It could apply maximum thrust to maintain speed</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It could automatically maintain the airspeed by maintaining a constant thrust</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110841,
+    "number": "226851"
+  }
 }

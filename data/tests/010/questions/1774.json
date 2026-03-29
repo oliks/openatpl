@@ -1,7 +1,7 @@
 {
   "number": 1774,
-  "questionId": 162855,
-  "questionNumber": "101074",
+  "questionId": "010-1774",
+  "questionNumber": "010-1774",
   "stemHtml": "<p>An aircraft is executing a VFR flight in Class B airspace. The controller\u2026</p>",
   "options": {
     "a": "<p>applies separation to other VFR aircraft only if the altitude is below 3000 m AMSL.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>applies vertical and horizontal separation to other VFR aircraft.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162855,
+    "number": "101074"
+  }
 }

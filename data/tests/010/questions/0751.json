@@ -1,7 +1,7 @@
 {
   "number": 751,
-  "questionId": 83325,
-  "questionNumber": "104480",
+  "questionId": "010-0751",
+  "questionNumber": "010-0751",
   "stemHtml": "A TA is triggered. Why shall the aircraft not manoeuvre?",
   "options": {
     "a": "TAs are used to increase situational awareness, intended to prompt visual acquisition.",
@@ -10,5 +10,10 @@
     "d": "Because TAs are very often erraneous."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83325,
+    "number": "104480"
+  }
 }

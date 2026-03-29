@@ -1,7 +1,7 @@
 {
   "number": 1873,
-  "questionId": 66605,
-  "questionNumber": "218197",
+  "questionId": "021-1873",
+  "questionNumber": "021-1873",
   "stemHtml": "Which of the following statements is correct?",
   "options": {
     "a": "Short term overcurrent is normal.",
@@ -10,5 +10,10 @@
     "d": "Protective devices must trip as soon as a overcurrent is detected."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66605,
+    "number": "218197"
+  }
 }

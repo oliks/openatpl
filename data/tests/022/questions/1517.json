@@ -1,7 +1,7 @@
 {
   "number": 1517,
-  "questionId": 81350,
-  "questionNumber": "224885",
+  "questionId": "022-1517",
+  "questionNumber": "022-1517",
   "stemHtml": "<p dir=\"ltr\">Refer to figure.  <br />  What does the TCAS symbol represent?</p>",
   "options": {
     "a": "<p>Proximate traffic, inside 6 NM and 1200 ft, 800 ft above, descending.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/30B2E9D0-E25C-4FAB-9576-C529E5C502BB.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/30B2E9D0-E25C-4FAB-9576-C529E5C502BB.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81350,
+    "number": "224885"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 625,
-  "questionId": 70794,
-  "questionNumber": "339565",
+  "questionId": "033-0625",
+  "questionNumber": "033-0625",
   "stemHtml": "<p>After flying for 16 min at 100 kt TAS with a 20 kt tail wind component, you have to return to the airfield of departure. Assuming a turn rate of 3\u00b0/s, you will arrive overhead the airfield after\u2026</p>",
   "options": {
     "a": "21 min.",
@@ -10,5 +10,10 @@
     "d": "25 min."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70794,
+    "number": "339565"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 10,
-  "questionId": 82697,
-  "questionNumber": "319246",
+  "questionId": "031-0010",
+  "questionNumber": "031-0010",
   "stemHtml": "What are the possible consequences when loading an aircraft incorrectly so that its CG is positioned behind the aft limit?",
   "options": {
     "a": "There may be insufficient forward pitch control available to keep the aircraft level in straight flight.",
@@ -10,5 +10,10 @@
     "d": "There may be an inability to flare the aircraft on landing."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82697,
+    "number": "319246"
+  }
 }

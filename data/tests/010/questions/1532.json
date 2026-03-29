@@ -1,7 +1,7 @@
 {
   "number": 1532,
-  "questionId": 78635,
-  "questionNumber": "105768",
+  "questionId": "010-1532",
+  "questionNumber": "010-1532",
   "stemHtml": "<p>You are approaching a compulsory reporting point. You are required to report your position\u2026</p>",
   "options": {
     "a": "Before the position point.",
@@ -10,5 +10,10 @@
     "d": "5 min prior to overflying the position point."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78635,
+    "number": "105768"
+  }
 }

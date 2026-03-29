@@ -1,7 +1,7 @@
 {
   "number": 406,
-  "questionId": 161774,
-  "questionNumber": "335772",
+  "questionId": "033-0406",
+  "questionNumber": "033-0406",
   "stemHtml": "<p>Refer to figure or E(LO)5 chart from Jeppesen GSPRM 2017.\u00a0<br>Given the following magnetic variations, which combination of true tracks is correct for the flight legs MTL - ROMAM, ROMAM - LUXAN, LUXAN - LSE?</p><p>MTL: +1\u00b0\u00a0<br>ROMAM: +1\u00b0\u00a0<br>LUXAN: +0\u00b0</p>",
   "options": {
     "a": "<p>027\u00b0T; 356\u00b0T; 355\u00b0T</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3a61ef13-e279-495e-8646-062ae3eced2e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3a61ef13-e279-495e-8646-062ae3eced2e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161774,
+    "number": "335772"
+  }
 }

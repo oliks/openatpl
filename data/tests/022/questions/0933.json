@@ -1,7 +1,7 @@
 {
   "number": 933,
-  "questionId": 82053,
-  "questionNumber": "223988",
+  "questionId": "022-0933",
+  "questionNumber": "022-0933",
   "stemHtml": "<p>An aircraft experiences a failure of the inertial system in flight, resulting in loss of alignment with subsequent loss of (1) _____ data. However, (2) _____ information may still be available, The crew (3) _____ perform in-flight realignment.</p>",
   "options": {
     "a": "(1) navigation, (2) attitude, (3) CAN",
@@ -10,5 +10,10 @@
     "d": "(1) altitude, (2) navigation, (3) CAN"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82053,
+    "number": "223988"
+  }
 }

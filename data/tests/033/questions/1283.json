@@ -1,7 +1,7 @@
 {
   "number": 1283,
-  "questionId": 162734,
-  "questionNumber": "336581",
+  "questionId": "033-1283",
+  "questionNumber": "033-1283",
   "stemHtml": "<p>An operator is scheduled to operate a commercial flight from EGBB to LCPH using a medium jet transport aeroplane. An en-route alternate for contingency fuel has been nominated. Using the operational flight plan extracts below, calculate the minimum required take-off fuel.</p><p>Route dist: 1879 NM<br>Air dist: 1766 NM<br>Great circle dist: 1805 NM\u00a0<br>Estimated flight time: 4 hr 07 min<br>Estimated flight time to alternate: 23 min<br>Avg fuel flow: 3109 kg/h\u00a0<br>Holding fuel flow: 2694 kg/h</p>",
   "options": {
     "a": "<p>15 320 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>14 990 kg</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162734,
+    "number": "336581"
+  }
 }

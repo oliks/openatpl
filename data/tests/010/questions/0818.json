@@ -1,7 +1,7 @@
 {
   "number": 818,
-  "questionId": 67166,
-  "questionNumber": "108389",
+  "questionId": "010-0818",
+  "questionNumber": "010-0818",
   "stemHtml": "<p>Aerodromes signs should be in the following configuration.</p>",
   "options": {
     "a": "information signs; yellow or black background with black or yellow inscriptions.",
@@ -10,5 +10,10 @@
     "d": "mandatory instruction signs; black background with red inscriptions."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67166,
+    "number": "108389"
+  }
 }

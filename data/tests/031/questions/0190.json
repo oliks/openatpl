@@ -1,7 +1,7 @@
 {
   "number": 190,
-  "questionId": 111463,
-  "questionNumber": "314907",
+  "questionId": "031-0190",
+  "questionNumber": "031-0190",
   "stemHtml": "<p>Using the information below, what is the Allowed Take-Off Mass?</p><p>Maximum Structural Take-Off Mass (MSTOM): 232 000 kg <br>Maximum Structural Landing Mass (MSLM): 182 000 kg <br>Maximum Zero Fuel Mass (MZFM): 169 000 kg <br>Performance-Limited Take-Off Mass (PLTOM): 232 600 kg <br>Performance-Limited Landing Mass (PLLM): 179 200 kg <br>Trip Fuel: 52 000 kg <br>Start and Taxi Fuel: 300 kg <br>Reserve Fuel (Contingency + Final + Alternate): 8800 kg <br>Extra Fuel: 1000 kg due to anticipated holding at the destination <br>No discretionary fuel is planned</p>",
   "options": {
     "a": "<p>232 000 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>230 800 kg</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111463,
+    "number": "314907"
+  }
 }

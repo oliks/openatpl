@@ -1,7 +1,7 @@
 {
   "number": 236,
-  "questionId": 128259,
-  "questionNumber": "339744",
+  "questionId": "033-0236",
+  "questionNumber": "033-0236",
   "stemHtml": "<p>Refer to figure or Chart E(LO)5 from the Jeppesen GSPRM 2017. <br /> \rWhat is the distance of the route segments defined by the waypoints LUKUM, ROMAM, LUXAN and the LSE VOR/DME?</p>",
   "options": {
     "a": "<p>11 NM \u2013 16 NM \u2013 22 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/e37c8548-bfdc-478b-b083-c669e275d521.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/e37c8548-bfdc-478b-b083-c669e275d521.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 128259,
+    "number": "339744"
+  }
 }

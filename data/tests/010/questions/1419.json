@@ -1,7 +1,7 @@
 {
   "number": 1419,
-  "questionId": 80148,
-  "questionNumber": "109467",
+  "questionId": "010-1419",
+  "questionNumber": "010-1419",
   "stemHtml": "<p>The sequence of flashing lights are measured from\u2026</p>",
   "options": {
     "a": "The designation marking.",
@@ -10,5 +10,10 @@
     "d": "The threshold."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80148,
+    "number": "109467"
+  }
 }

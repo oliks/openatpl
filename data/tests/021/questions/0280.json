@@ -1,7 +1,7 @@
 {
   "number": 280,
-  "questionId": 109613,
-  "questionNumber": "212297",
+  "questionId": "021-0280",
+  "questionNumber": "021-0280",
   "stemHtml": "<p>Which element of the air conditioning system is used on the ground and at low airspeeds, when the ram-air flow is not sufficient to supply air to the primary and secondary heat exchangers of an air-cycle machine?</p>",
   "options": {
     "a": "<p>Mixing valve</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Ram air valve</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109613,
+    "number": "212297"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1430,
-  "questionId": 81325,
-  "questionNumber": "103465",
+  "questionId": "010-1430",
+  "questionNumber": "010-1430",
   "stemHtml": "<p dir=\"ltr\">An aircraft is hijacked and is NOT in contact with ATC. No applicable regional procedures have been established.<br />\r\nAccording to ICAO Annex 2. The pilot should try to climb or descend by (1) _____ in an area where a vertical separation minimum of (2) _____ is applied.</p>\r\n",
   "options": {
     "a": "<p>(1) 1000 ft; (2) 1000 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) 500 ft; (2) 2000 ft</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81325,
+    "number": "103465"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1303,
-  "questionId": 82786,
-  "questionNumber": "228509",
+  "questionId": "022-1303",
+  "questionNumber": "022-1303",
   "stemHtml": "On an EFB, Type A software applications\u2026",
   "options": {
     "a": "must be able to detect misuse or malfunctions.",
@@ -10,5 +10,10 @@
     "d": "must have No adverse effect on flight safety."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82786,
+    "number": "228509"
+  }
 }

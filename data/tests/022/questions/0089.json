@@ -1,7 +1,7 @@
 {
   "number": 89,
-  "questionId": 69221,
-  "questionNumber": "226123",
+  "questionId": "022-0089",
+  "questionNumber": "022-0089",
   "stemHtml": "<p>The altimeter is subject to the position error. This error varies substantially with the\u2026<br> </p>",
   "options": {
     "a": "flight time at high altitude.<br>",
@@ -10,5 +10,10 @@
     "d": "outside air temperature.<br>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69221,
+    "number": "226123"
+  }
 }

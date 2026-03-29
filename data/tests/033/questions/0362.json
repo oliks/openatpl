@@ -1,7 +1,7 @@
 {
   "number": 362,
-  "questionId": 105684,
-  "questionNumber": "336853",
+  "questionId": "033-0362",
+  "questionNumber": "033-0362",
   "stemHtml": "<p>How to convert nautical ground miles (NGM) into nautical air miles (NAM)?</p>",
   "options": {
     "a": "<p>NGM is multiplied by TAS and then divided by GS.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>NGM cannot be converted into NAM.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105684,
+    "number": "336853"
+  }
 }

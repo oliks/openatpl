@@ -1,7 +1,7 @@
 {
   "number": 384,
-  "questionId": 70469,
-  "questionNumber": "339348",
+  "questionId": "033-0384",
+  "questionNumber": "033-0384",
   "stemHtml": "Refer to figure. <br /> A VFR flight arrives at LDLO (elevation 154 ft). What is the height of the traffic circuit?",
   "options": {
     "a": "1200 ft AGL",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/77921A0C-0F17-461B-99E2-C9A6B668EAB8.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/77921A0C-0F17-461B-99E2-C9A6B668EAB8.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70469,
+    "number": "339348"
+  }
 }

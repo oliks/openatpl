@@ -1,7 +1,7 @@
 {
   "number": 73,
-  "questionId": 109765,
-  "questionNumber": "326855",
+  "questionId": "032-0073",
+  "questionNumber": "032-0073",
   "stemHtml": "<p>You forget to change the MACH setting to the IAS setting while descending at a constant Mach number. What will be the consequence?</p>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>The rate of descent decreases, and the pitch angle decreases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The rate of descent increases, and the IAS increases.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109765,
+    "number": "326855"
+  }
 }

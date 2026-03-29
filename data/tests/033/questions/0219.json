@@ -1,7 +1,7 @@
 {
   "number": 219,
-  "questionId": 84701,
-  "questionNumber": "335081",
+  "questionId": "033-0219",
+  "questionNumber": "033-0219",
   "stemHtml": "What is the best landmark for a pilot flying a VFR flight to get distance and bearing?",
   "options": {
     "a": "Large cities and towns.",
@@ -10,5 +10,10 @@
     "d": "A large forest."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84701,
+    "number": "335081"
+  }
 }

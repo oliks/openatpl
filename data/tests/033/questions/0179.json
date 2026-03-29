@@ -1,7 +1,7 @@
 {
   "number": 179,
-  "questionId": 70767,
-  "questionNumber": "332539",
+  "questionId": "033-0179",
+  "questionNumber": "033-0179",
   "stemHtml": "<p>Refer to figure.<br>According to NOTAM A7408/14, the approach frequency for\u2026</p>",
   "options": {
     "a": "LIRA airport has changed permanently to 131.250 MHz.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/59C268CD-7C82-4363-9324-1E7820CD6534.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/59C268CD-7C82-4363-9324-1E7820CD6534.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70767,
+    "number": "332539"
+  }
 }

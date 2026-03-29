@@ -1,7 +1,7 @@
 {
   "number": 1828,
-  "questionId": 81268,
-  "questionNumber": "224435",
+  "questionId": "022-1828",
+  "questionNumber": "022-1828",
   "stemHtml": "<p dir=\"ltr\">What happens if, during an automatic approach and landing, the radio altimeter fails? </p>",
   "options": {
     "a": "<p dir=\"ltr\">The automatic landing system will NOT be able to perform the flare phase.</p>",
@@ -10,5 +10,10 @@
     "d": "The Glide Slope mode will NOT be operational."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81268,
+    "number": "224435"
+  }
 }

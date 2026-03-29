@@ -1,7 +1,7 @@
 {
   "number": 279,
-  "questionId": 69093,
-  "questionNumber": "226259",
+  "questionId": "022-0279",
+  "questionNumber": "022-0279",
   "stemHtml": "<p>An aeroplane is flying at FL300 with a TAS of 470 kt in standard conditions. The Mach number is\u2026</p>",
   "options": {
     "a": "0.80",
@@ -10,5 +10,10 @@
     "d": "0.53"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69093,
+    "number": "226259"
+  }
 }

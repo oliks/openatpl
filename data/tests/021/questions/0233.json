@@ -1,7 +1,7 @@
 {
   "number": 233,
-  "questionId": 83118,
-  "questionNumber": "219048",
+  "questionId": "021-0233",
+  "questionNumber": "021-0233",
   "stemHtml": "<p>What is the duration of a typical chemical oxygen system?</p>",
   "options": {
     "a": "<p>60 to 120 minutes, and it is controlled by a valve control mechanism, depending on the settings in the cockpit.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>12 to 20 minutes, and it cannot be turned off once activated.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83118,
+    "number": "219048"
+  }
 }

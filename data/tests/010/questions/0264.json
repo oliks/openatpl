@@ -1,7 +1,7 @@
 {
   "number": 264,
-  "questionId": 83335,
-  "questionNumber": "107572",
+  "questionId": "010-0264",
+  "questionNumber": "010-0264",
   "stemHtml": "<p>You are on an IFR flight in airspace where radar is NOT used in the provision of air traffic control. You are experiencing a complete radio failure and were unable to report your position at the last compulsory reporting point. You shall maintain the last assigned speed and level, or minimum flight altitude if higher, for a period of how long after failing to report your position over the compulsory reporting point?</p>",
   "options": {
     "a": "<p>25 minutes</p>",
@@ -10,5 +10,10 @@
     "d": "<p>20 minutes</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83335,
+    "number": "107572"
+  }
 }

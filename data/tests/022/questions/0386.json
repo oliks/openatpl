@@ -1,7 +1,7 @@
 {
   "number": 386,
-  "questionId": 95877,
-  "questionNumber": "227239",
+  "questionId": "022-0386",
+  "questionNumber": "022-0386",
   "stemHtml": "<p>From the options below, which is the most complete regarding navigation inputs for FMC position updates?</p>",
   "options": {
     "a": "<p>GPS, INS, VOR/DME, GS</p>",
@@ -10,5 +10,10 @@
     "d": "<p>GPS, INS, VOR/DME, NDB, LOC</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95877,
+    "number": "227239"
+  }
 }

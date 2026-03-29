@@ -1,7 +1,7 @@
 {
   "number": 534,
-  "questionId": 82759,
-  "questionNumber": "222754",
+  "questionId": "022-0534",
+  "questionNumber": "022-0534",
   "stemHtml": "<p>On an automatic flight guidance system, which of the following modes are thrust modes of the autothrust?</p>\r\r<p>1. SPEED <br /> \r2. N1 <br /> \r3. THR IDLE <br /> \r4. TOGA <br /> \r5. V/S</p>",
   "options": {
     "a": "<p>2, 3, and 4 only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4 only.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82759,
+    "number": "222754"
+  }
 }

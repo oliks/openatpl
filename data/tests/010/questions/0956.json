@@ -1,7 +1,7 @@
 {
   "number": 956,
-  "questionId": 66631,
-  "questionNumber": "105786",
+  "questionId": "010-0956",
+  "questionNumber": "010-0956",
   "stemHtml": "<p>ICAO Annex 9 Facilitation \u2013 A General Declaration for entry or departure of aircraft\u2026</p>",
   "options": {
     "a": "lists the names of passengers and their embarkation point.",
@@ -10,5 +10,10 @@
     "d": "may be required by a Contracting State."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66631,
+    "number": "105786"
+  }
 }

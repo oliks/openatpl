@@ -1,7 +1,7 @@
 {
   "number": 1787,
-  "questionId": 101569,
-  "questionNumber": "216123",
+  "questionId": "021-1787",
+  "questionNumber": "021-1787",
   "stemHtml": "<p>On modern jet aeroplanes, (1) _____ engines can be started using the (2) _____ for a very limited amount of times.</p>",
   "options": {
     "a": "(1) small; (2) battery",
@@ -10,5 +10,10 @@
     "d": "(1) large; (2) RAT"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101569,
+    "number": "216123"
+  }
 }

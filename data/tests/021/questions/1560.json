@@ -1,7 +1,7 @@
 {
   "number": 1560,
-  "questionId": 106586,
-  "questionNumber": "211708",
+  "questionId": "021-1560",
+  "questionNumber": "021-1560",
   "stemHtml": "<p>Which of these may be caused by an EGT exceedance due to excessive fuel flow in a turbine engine?</p>",
   "options": {
     "a": "<p>A sudden increase in N2 RPM, causing an engine overspeed.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The turbine engine will continue to operate within normal range, since excessive fuel is drained by drain holes in the combustion chamber.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106586,
+    "number": "211708"
+  }
 }

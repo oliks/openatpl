@@ -1,7 +1,7 @@
 {
   "number": 976,
-  "questionId": 85089,
-  "questionNumber": "109664",
+  "questionId": "010-0976",
+  "questionNumber": "010-0976",
   "stemHtml": "Refer to figure. <br /> What does the marshalling signal indicate?",
   "options": {
     "a": "Identify Gate",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/7185688C-0EB5-42B9-934E-E549A250FF51.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/7185688C-0EB5-42B9-934E-E549A250FF51.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85089,
+    "number": "109664"
+  }
 }

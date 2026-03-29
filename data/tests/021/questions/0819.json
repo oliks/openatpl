@@ -1,7 +1,7 @@
 {
   "number": 819,
-  "questionId": 68016,
-  "questionNumber": "211084",
+  "questionId": "021-0819",
+  "questionNumber": "021-0819",
   "stemHtml": "To enable proper functioning of a piston engine during rapid throttle advance a carburettor is fitted with:",
   "options": {
     "a": "a mixture control.",
@@ -10,5 +10,10 @@
     "d": "an accelerator pump."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68016,
+    "number": "211084"
+  }
 }

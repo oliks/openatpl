@@ -1,7 +1,7 @@
 {
   "number": 486,
-  "questionId": 82528,
-  "questionNumber": "327292",
+  "questionId": "032-0486",
+  "questionNumber": "032-0486",
   "stemHtml": "Consider a constant speed propeller aeroplane in the take-off configuration with full throttle position and forward RPM lever. How does thrust change when the aeroplane accelerates from the brake-release point to V<strong><sub>LOF</sub></strong>? As speed builds up, the thrust\u2026",
   "options": {
     "a": "Remains constant.",
@@ -10,5 +10,10 @@
     "d": "Decreases."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82528,
+    "number": "327292"
+  }
 }

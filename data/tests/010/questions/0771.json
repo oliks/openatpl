@@ -1,7 +1,7 @@
 {
   "number": 771,
-  "questionId": 67161,
-  "questionNumber": "102432",
+  "questionId": "010-0771",
+  "questionNumber": "010-0771",
   "stemHtml": "<p>A minimum radar separation shall be provided until aircraft are established inbound on the ILS localizer course and/or MLS final approach track. This minimum is, when independent parallel approaches are being conducted\u2026</p>",
   "options": {
     "a": "3.0 NM",
@@ -10,5 +10,10 @@
     "d": "1.0 NM"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67161,
+    "number": "102432"
+  }
 }

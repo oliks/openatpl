@@ -1,7 +1,7 @@
 {
   "number": 955,
-  "questionId": 108900,
-  "questionNumber": "322833",
+  "questionId": "032-0955",
+  "questionNumber": "032-0955",
   "stemHtml": "<p>What happens to the take-off distance and take-off ground roll, if the brakes are released before full thrust is set when pushing TOGA during line-up?</p>",
   "options": {
     "a": "<p>Both increase.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Take-off ground roll increases; take-off distance decreases.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108900,
+    "number": "322833"
+  }
 }

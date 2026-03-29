@@ -1,7 +1,7 @@
 {
   "number": 1375,
-  "questionId": 96405,
-  "questionNumber": "102230",
+  "questionId": "010-1375",
+  "questionNumber": "010-1375",
   "stemHtml": "At what age does a child need to have a passport?",
   "options": {
     "a": "From Birth.",
@@ -10,5 +10,10 @@
     "d": "From 5 years old."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96405,
+    "number": "102230"
+  }
 }

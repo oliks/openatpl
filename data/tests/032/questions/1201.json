@@ -1,7 +1,7 @@
 {
   "number": 1201,
-  "questionId": 81291,
-  "questionNumber": "324802",
+  "questionId": "032-1201",
+  "questionNumber": "032-1201",
   "stemHtml": "<p>Refer to figure or use Cap 698 figure 3.9.<br>Determine the field \u2013 length limited landing mass and 50 ft barrier speed, given:</p><p>OAT: 0\u00b0C<br>Pressure Altitude: 2000 ft<br>Tailwind component: 5 kt<br>Defactored landing distance: 2600 ft<br>Normal landing technique</p>",
   "options": {
     "a": "<p>4150 lb; 86 kt</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/515D35D5-C5DA-44CE-9C73-AA95DF31AC71.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/515D35D5-C5DA-44CE-9C73-AA95DF31AC71.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81291,
+    "number": "324802"
+  }
 }

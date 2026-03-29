@@ -1,7 +1,7 @@
 {
   "number": 212,
-  "questionId": 101378,
-  "questionNumber": "311526",
+  "questionId": "031-0212",
+  "questionNumber": "031-0212",
   "stemHtml": "<p>The Maximum Structural Landing Mass is\u2026</p>",
   "options": {
     "a": "a fixed value which is listed in the Flight Manual.",
@@ -10,5 +10,10 @@
     "d": "a value which is only affected by the outside air temperature."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101378,
+    "number": "311526"
+  }
 }

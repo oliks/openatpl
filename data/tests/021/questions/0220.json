@@ -1,7 +1,7 @@
 {
   "number": 220,
-  "questionId": 103679,
-  "questionNumber": "213274",
+  "questionId": "021-0220",
+  "questionNumber": "021-0220",
   "stemHtml": "<p>Which of the following statements about tire conditions are correct or incorrect?</p><p>1. It is safe to take off even if there are small cuts in the tread surface<br>2. You can fly if there is a bulge in the sidewall, as long as it has been reported in the technical log book</p>",
   "options": {
     "a": "<p>1. correct; 2. correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1. incorrect; 2. correct.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103679,
+    "number": "213274"
+  }
 }

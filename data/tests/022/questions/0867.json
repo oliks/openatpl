@@ -1,7 +1,7 @@
 {
   "number": 867,
-  "questionId": 69086,
-  "questionNumber": "225682",
+  "questionId": "022-0867",
+  "questionNumber": "022-0867",
   "stemHtml": "<p>For most FMS the fuel prediction function, which computes the remaining fuel along the flight plan, takes into account the following parameters:</p><p>1 \u2013 the additional drag in case the landing gear can not be retracted <br>2 \u2013 the cruise flight level <br>3 \u2013 the additional drag in case the flaps are blocked and partly extended <br>4 \u2013 the current wind computed or the resulting ground speed</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 2, 4.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3, 4."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69086,
+    "number": "225682"
+  }
 }

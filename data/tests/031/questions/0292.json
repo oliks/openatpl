@@ -1,7 +1,7 @@
 {
   "number": 292,
-  "questionId": 69380,
-  "questionNumber": "319048",
+  "questionId": "031-0292",
+  "questionNumber": "031-0292",
   "stemHtml": "<p>Refer to figure. <br /> \rFrom the data given at the appendix and assuming a fuel index shift of \u2013 5.7 from the ZFM loaded index, determine which of the following is the correct value (percentage MAC) for the position of the centre of gravity at Take Off Mass.</p>",
   "options": {
     "a": "<p>14%</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/B9B16FC4-B85A-4203-9BA4-F8DCAD5F7D78.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/B9B16FC4-B85A-4203-9BA4-F8DCAD5F7D78.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69380,
+    "number": "319048"
+  }
 }

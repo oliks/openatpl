@@ -1,7 +1,7 @@
 {
   "number": 1717,
-  "questionId": 115624,
-  "questionNumber": "107544",
+  "questionId": "010-1717",
+  "questionNumber": "010-1717",
   "stemHtml": "<p>What is the location of the radio altimeter operating area of a runway with precision approach capability?</p>",
   "options": {
     "a": "<p>Before the approach lighting system.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Through the glideslope aerial.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 115624,
+    "number": "107544"
+  }
 }

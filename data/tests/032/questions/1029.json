@@ -1,7 +1,7 @@
 {
   "number": 1029,
-  "questionId": 70044,
-  "questionNumber": "327589",
+  "questionId": "032-1029",
+  "questionNumber": "032-1029",
   "stemHtml": "<p>Refer to figure or CAP697 file 2.1.<br />\r\nGiven the following information, what is the required fuel to climb?</p>\r\n\r\n<p>Airport Pressure Altitude: 4000 ft<br />\r\nAirport OAT: +10\u00b0C<br />\r\nClimb to: FL100<br />\r\nOAT at FL100: -5\u00b0C T<br />\r\nTake-Off Mass: 3400 lb<br />\r\nGear: up</p>\r\n\r\n<div> </div>\r\n",
   "options": {
     "a": "4.2 gal",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/A13D695C-007A-4CA4-BEF0-4C724AD05016.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/A13D695C-007A-4CA4-BEF0-4C724AD05016.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70044,
+    "number": "327589"
+  }
 }

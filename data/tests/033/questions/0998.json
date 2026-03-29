@@ -1,7 +1,7 @@
 {
   "number": 998,
-  "questionId": 117487,
-  "questionNumber": "332469",
+  "questionId": "033-0998",
+  "questionNumber": "033-0998",
   "stemHtml": "<p>An aircraft is flying with a TAS of 90 kt and a GS of 80 kt on a track of 330\u00b0. The initial wind is from 340\u00b0 at 15 kt. The wind then shifts to 190\u00b0 at 10 kt.</p>\r\n\r\n<p>Based on this change in wind, complete the following statements:</p>\r\n\r\n<ol>\r\n\t<li>Your groundspeed is going to _____.</li>\r\n\t<li>You will need to apply a wind correction to the _____.</li>\r\n</ol>",
   "options": {
     "a": "<p>increase; left.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>decrease; left.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117487,
+    "number": "332469"
+  }
 }

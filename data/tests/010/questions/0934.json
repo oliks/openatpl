@@ -1,7 +1,7 @@
 {
   "number": 934,
-  "questionId": 66668,
-  "questionNumber": "107327",
+  "questionId": "010-0934",
+  "questionNumber": "010-0934",
   "stemHtml": "A Contracting State shall ensure that commercial air transport operators providing services from its State have established, implemented and maintained a...",
   "options": {
     "a": "verbal operator security programme.",
@@ -10,5 +10,10 @@
     "d": "written operator security programme."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66668,
+    "number": "107327"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 407,
-  "questionId": 103823,
-  "questionNumber": "317721",
+  "questionId": "031-0407",
+  "questionNumber": "031-0407",
   "stemHtml": "<p>What is the minimum width of a clearway?</p>",
   "options": {
     "a": "<p>750 feet</p>",
@@ -10,5 +10,10 @@
     "d": "<p>500 feet</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103823,
+    "number": "317721"
+  }
 }

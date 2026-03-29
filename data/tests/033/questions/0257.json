@@ -1,7 +1,7 @@
 {
   "number": 257,
-  "questionId": 70968,
-  "questionNumber": "331549",
+  "questionId": "033-0257",
+  "questionNumber": "033-0257",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017. <br>Find the magnetic course from WALDA 112.80 (WLD, N48\u00ba35\u2019 E011\u00ba08\u2019) to MUNICH 112.30 (MUN, N48\u00b011\u2019 E011\u00ba49\u2019)</p>",
   "options": {
     "a": "<div>131\u00b0</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/B8A4F7D6-DE6B-4AA7-9E87-46B479DA0CE6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/B8A4F7D6-DE6B-4AA7-9E87-46B479DA0CE6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70968,
+    "number": "331549"
+  }
 }

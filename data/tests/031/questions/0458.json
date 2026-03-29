@@ -1,7 +1,7 @@
 {
   "number": 458,
-  "questionId": 69357,
-  "questionNumber": "318921",
+  "questionId": "031-0458",
+  "questionNumber": "031-0458",
   "stemHtml": "Refer to figure. <br /> Which mass has to be used for a female passenger in an aircraft with 8 passenger seats when standard masses are applied?",
   "options": {
     "a": "86 kg.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/B8E4D505-D0FB-4585-82EA-DC5DE37D4025.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/B8E4D505-D0FB-4585-82EA-DC5DE37D4025.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69357,
+    "number": "318921"
+  }
 }

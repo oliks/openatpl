@@ -1,7 +1,7 @@
 {
   "number": 13,
-  "questionId": 69018,
-  "questionNumber": "228889",
+  "questionId": "022-0013",
+  "questionNumber": "022-0013",
   "stemHtml": "<p>The properties of a gyroscope are:</p><p>1 \u2013 rigidity in space <br>2 \u2013 rigidity on earth <br>3 \u2013 precession <br>4 \u2013 schuler oscillations</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 4.",
@@ -10,5 +10,10 @@
     "d": "2, 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69018,
+    "number": "228889"
+  }
 }

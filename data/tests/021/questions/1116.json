@@ -1,7 +1,7 @@
 {
   "number": 1116,
-  "questionId": 67539,
-  "questionNumber": "219275",
+  "questionId": "021-1116",
+  "questionNumber": "021-1116",
   "stemHtml": "<p>The removal of items from service at a specified time period regardless of their condition is called\u2026</p>",
   "options": {
     "a": "corrective maintenance.",
@@ -10,5 +10,10 @@
     "d": "on-condition maintenance."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67539,
+    "number": "219275"
+  }
 }

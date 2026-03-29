@@ -1,7 +1,7 @@
 {
   "number": 406,
-  "questionId": 67151,
-  "questionNumber": "105003",
+  "questionId": "010-0406",
+  "questionNumber": "010-0406",
   "stemHtml": "When should the communication normally be passed from the approach control service to the tower?",
   "options": {
     "a": "As soon as the aircraft is located within a radius of 10 NM to the tower.",
@@ -10,5 +10,10 @@
     "d": "As soon as the aircraft is in the vicinity of the aerodrome."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67151,
+    "number": "105003"
+  }
 }

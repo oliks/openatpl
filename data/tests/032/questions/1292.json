@@ -1,7 +1,7 @@
 {
   "number": 1292,
-  "questionId": 69789,
-  "questionNumber": "324781",
+  "questionId": "032-1292",
+  "questionNumber": "032-1292",
   "stemHtml": "<p>At a higher gross mass on a piston-engined aeroplane, in order to maintain a given angle of attack, configuration and altitude\u2026</p>",
   "options": {
     "a": "the airspeed must be decreased and the drag will increase.",
@@ -10,5 +10,10 @@
     "d": "the lift/drag ratio must be increased."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69789,
+    "number": "324781"
+  }
 }

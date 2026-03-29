@@ -1,7 +1,7 @@
 {
   "number": 557,
-  "questionId": 81790,
-  "questionNumber": "339725",
+  "questionId": "033-0557",
+  "questionNumber": "033-0557",
   "stemHtml": "<p>An aircraft on a track of 140\u00b0(M) has to overfly an obstacle of 8400 ft with a clearance of 2000 ft. The QNH is 1005 hPa and the OAT is ISA -15\u00b0C. What is the minimum flight level (FL) at which the aircraft may fly in non-RVSM airspace?</p><p>Assume 1 hPa = 30 ft</p>",
   "options": {
     "a": "<p>FL120</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL130</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81790,
+    "number": "339725"
+  }
 }

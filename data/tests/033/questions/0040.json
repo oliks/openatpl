@@ -1,7 +1,7 @@
 {
   "number": 40,
-  "questionId": 81917,
-  "questionNumber": "335074",
+  "questionId": "033-0040",
+  "questionNumber": "033-0040",
   "stemHtml": "Some procedures are designated as RNP AR APCH. Which of the following is an example of how to identify, on an instrument approach chart, a procedure which necessitates this designation?",
   "options": {
     "a": "A procedure using a GNSS Landing System (GLS) with CAT minima.",
@@ -10,5 +10,10 @@
     "d": "Any procedure with LNAV/VNAV minima."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81917,
+    "number": "335074"
+  }
 }

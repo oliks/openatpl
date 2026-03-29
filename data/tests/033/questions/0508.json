@@ -1,7 +1,7 @@
 {
   "number": 508,
-  "questionId": 79454,
-  "questionNumber": "339629",
+  "questionId": "033-0508",
+  "questionNumber": "033-0508",
   "stemHtml": "Refer to figure. <br /> Which frequency should you tune to listen to the Automatic Terminal Information Service valid for Nantes/Atlantique airport?",
   "options": {
     "a": "124,25 MHz",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/16A84A19-C650-4243-B88E-3B61D5369058.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/16A84A19-C650-4243-B88E-3B61D5369058.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79454,
+    "number": "339629"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1578,
-  "questionId": 68367,
-  "questionNumber": "214872",
+  "questionId": "021-1578",
+  "questionNumber": "021-1578",
   "stemHtml": "Which of these statements is correct about a flight crew oxygen mask?<br>",
   "options": {
     "a": "In the position \u201cDILUTE\u201d oxygen supply is from a special bottle containing diluted oxygen.<br>",
@@ -10,5 +10,10 @@
     "d": "When switched to the position 100% oxygen is always supplied with some overpressure.<br>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68367,
+    "number": "214872"
+  }
 }

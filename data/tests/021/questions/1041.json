@@ -1,7 +1,7 @@
 {
   "number": 1041,
-  "questionId": 67808,
-  "questionNumber": "216953",
+  "questionId": "021-1041",
+  "questionNumber": "021-1041",
   "stemHtml": "<p>Refer to figure. <br>On the diagram showing the power output of a piston engine as a function of mixture ratio, theoretical best economy is shown at\u2026</p>",
   "options": {
     "a": "point 2.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/3737CBEF-27DB-4D29-A968-E0C16A4F3282.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/3737CBEF-27DB-4D29-A968-E0C16A4F3282.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67808,
+    "number": "216953"
+  }
 }

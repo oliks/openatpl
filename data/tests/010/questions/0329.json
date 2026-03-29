@@ -1,7 +1,7 @@
 {
   "number": 329,
-  "questionId": 66697,
-  "questionNumber": "105101",
+  "questionId": "010-0329",
+  "questionNumber": "010-0329",
   "stemHtml": "Consider the following: Helicopter, Glider, and Airship. \u2013 All of them can be classified as...",
   "options": {
     "a": "lighter-than-air aircraft.",
@@ -10,5 +10,10 @@
     "d": "ornithopters."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66697,
+    "number": "105101"
+  }
 }

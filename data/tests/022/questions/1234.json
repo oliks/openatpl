@@ -1,7 +1,7 @@
 {
   "number": 1234,
-  "questionId": 69045,
-  "questionNumber": "221490",
+  "questionId": "022-1234",
+  "questionNumber": "022-1234",
   "stemHtml": "<p>Autopilot engagement status can be checked on the\u2026</p>",
   "options": {
     "a": "<p>ND of the pilot in command.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ND.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69045,
+    "number": "221490"
+  }
 }

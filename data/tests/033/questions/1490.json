@@ -1,7 +1,7 @@
 {
   "number": 1490,
-  "questionId": 159077,
-  "questionNumber": "335273",
+  "questionId": "033-1490",
+  "questionNumber": "033-1490",
   "stemHtml": "<p>Refer to figure or Chart E(LO)3 from the Jeppesen GSPRM 2017.   <br />   Determine the magnetic bearing and distance from DOVER (DVR) VOR/DME (51\u00b009'N 001\u00b021'E) to LYDD (LYD) VOR/DME (50\u00b057'N 000\u00b056'E).</p>",
   "options": {
     "a": "<p>242\u00b0M; 20 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/aed5794b-2c57-48bf-b8e2-63d0b0dc4d56.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/aed5794b-2c57-48bf-b8e2-63d0b0dc4d56.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159077,
+    "number": "335273"
+  }
 }

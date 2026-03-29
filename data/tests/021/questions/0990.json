@@ -1,7 +1,7 @@
 {
   "number": 990,
-  "questionId": 78299,
-  "questionNumber": "215745",
+  "questionId": "021-0990",
+  "questionNumber": "021-0990",
   "stemHtml": "<p>A NRV valve can also be called\u2026</p>",
   "options": {
     "a": "<p>Check valve</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Relief bypass valve</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78299,
+    "number": "215745"
+  }
 }

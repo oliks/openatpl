@@ -1,7 +1,7 @@
 {
   "number": 1260,
-  "questionId": 80807,
-  "questionNumber": "325391",
+  "questionId": "032-1260",
+  "questionNumber": "032-1260",
   "stemHtml": "<p>Refer to the figure or CAP 698 Figure 4.31.<br>Due to a predictive wind shear warning, a take-off at Madrid airport is rejected. Using the data below, when can another take-off be attempted?<br><br>Take-off mass: 61 300 kg<br>Aerodrome elevation: 2000 ft<br>OAT: +34\u00b0C<br>Wind: calm<br>Speed at rejection: 80 kt</p>",
   "options": {
     "a": "Cooling is recommended and it requires approximately 30 minutes when giving credit for reverse.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/DFD902A2-1EFF-49B9-99A9-576B65046874.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/DFD902A2-1EFF-49B9-99A9-576B65046874.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80807,
+    "number": "325391"
+  }
 }

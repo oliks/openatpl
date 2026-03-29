@@ -1,7 +1,7 @@
 {
   "number": 854,
-  "questionId": 82458,
-  "questionNumber": "325804",
+  "questionId": "032-0854",
+  "questionNumber": "032-0854",
   "stemHtml": "Which of the following options best describes the relationship between fuel flow and TAS, for propeller-driven aeroplanes?",
   "options": {
     "a": "With increasing TAS, fuel flow will increase, when flying below the minimum power speed.",
@@ -10,5 +10,10 @@
     "d": "With decreasing TAS, fuel flow will decrease, when flying below the minimum power speed."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82458,
+    "number": "325804"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 367,
-  "questionId": 79433,
-  "questionNumber": "229412",
+  "questionId": "022-0367",
+  "questionNumber": "022-0367",
   "stemHtml": "<p>After an approach at your destination, the weather is found to be below limits, and you decide to divert to your alternate aerodrome. During initial climb you notice that the leading-edge devices are not completely retracted. After completing all necessary actions to deal with this abnormal condition, you check the FMS for ETA and fuel remaining at the diversion aerodrome. Based on the above, you can\u2026</p>",
   "options": {
     "a": "Use the FMS time predictions, but you can NOT use the fuel predictions.",
@@ -10,5 +10,10 @@
     "d": "Use both the FMS time and fuel predictions."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79433,
+    "number": "229412"
+  }
 }

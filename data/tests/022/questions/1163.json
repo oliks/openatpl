@@ -1,7 +1,7 @@
 {
   "number": 1163,
-  "questionId": 86144,
-  "questionNumber": "224797",
+  "questionId": "022-1163",
+  "questionNumber": "022-1163",
   "stemHtml": "Which of the following statements best describes the FANS concept?",
   "options": {
     "a": "An EASA concept for European aircraft certified to comply with radio frequency distribution.",
@@ -10,5 +10,10 @@
     "d": "A system used to enhance HF communication range and quality in FANS airspace."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86144,
+    "number": "224797"
+  }
 }

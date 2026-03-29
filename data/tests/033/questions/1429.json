@@ -1,7 +1,7 @@
 {
   "number": 1429,
-  "questionId": 70880,
-  "questionNumber": "338977",
+  "questionId": "033-1429",
+  "questionNumber": "033-1429",
   "stemHtml": "<p>Refer to figure or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017. <br>You are approaching from the southeast via reporting point SE to land and cleared via Tabarca route, then via South route. What is your maximum allowed altitude?</p>",
   "options": {
     "a": "FL 75",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/34130D51-88C0-4EB9-ACD9-EDFEC9ED96F9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/34130D51-88C0-4EB9-ACD9-EDFEC9ED96F9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70880,
+    "number": "338977"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1291,
-  "questionId": 70362,
-  "questionNumber": "333508",
+  "questionId": "033-1291",
+  "questionNumber": "033-1291",
   "stemHtml": "<p>In an ATC flight plan, Item 15 (route), a cruising pressure altitude of 32 000 feet would be entered as\u2026</p>",
   "options": {
     "a": "S3200",
@@ -10,5 +10,10 @@
     "d": "F320"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70362,
+    "number": "333508"
+  }
 }

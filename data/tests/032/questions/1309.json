@@ -1,7 +1,7 @@
 {
   "number": 1309,
-  "questionId": 81085,
-  "questionNumber": "323323",
+  "questionId": "032-1309",
+  "questionNumber": "032-1309",
   "stemHtml": "Which of the following would be considered to be a high cost index?",
   "options": {
     "a": "278/0.74/274",
@@ -10,5 +10,10 @@
     "d": "256/0.68/260"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81085,
+    "number": "323323"
+  }
 }

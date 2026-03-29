@@ -1,7 +1,7 @@
 {
   "number": 1784,
-  "questionId": 68662,
-  "questionNumber": "225257",
+  "questionId": "022-1784",
+  "questionNumber": "022-1784",
   "stemHtml": "<p>An automatic ILS approach can be flown only\u2026</p>",
   "options": {
     "a": "within a range of crosswinds and no limit for turbulence.",
@@ -10,5 +10,10 @@
     "d": "within a range of crosswinds and levels of turbulence."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68662,
+    "number": "225257"
+  }
 }

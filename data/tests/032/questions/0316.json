@@ -1,7 +1,7 @@
 {
   "number": 316,
-  "questionId": 69944,
-  "questionNumber": "321349",
+  "questionId": "032-0316",
+  "questionNumber": "032-0316",
   "stemHtml": "<p>At the destination aerodrome the landing distance available is 3000 m. The appropriate weather forecast indicates that the runway at the estimated time of arrival will be wet. For a commercial flight the mass of a turbojet aeroplane at landing must be such that the aeroplane can be landed within\u2026</p>",
   "options": {
     "a": "<p>2070 m.</p>",
@@ -10,5 +10,10 @@
     "d": "1800 m."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69944,
+    "number": "321349"
+  }
 }

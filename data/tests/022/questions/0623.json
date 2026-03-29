@@ -1,7 +1,7 @@
 {
   "number": 623,
-  "questionId": 103295,
-  "questionNumber": "227563",
+  "questionId": "022-0623",
+  "questionNumber": "022-0623",
   "stemHtml": "<p>The airspeed indicator of a twin-engine aircraft comprises different sectors and colour marks. What does the blue line correspond to?</p>",
   "options": {
     "a": "<p>The optimum climbing speed with one engine inoperative, or V<sub>YSE</sub>.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The minimum control speed, or V<sub>MC</sub>.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103295,
+    "number": "227563"
+  }
 }

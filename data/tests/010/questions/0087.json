@@ -1,7 +1,7 @@
 {
   "number": 87,
-  "questionId": 110145,
-  "questionNumber": "107074",
+  "questionId": "010-0087",
+  "questionNumber": "010-0087",
   "stemHtml": "<p>When in a climb or descent, an aircraft is considered to have crossed a level when ATC can see from transponder derived level information that it has passed the level in the required direction by which distance?</p>",
   "options": {
     "a": "<p>More than 200 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>300 ft</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110145,
+    "number": "107074"
+  }
 }

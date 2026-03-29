@@ -1,7 +1,7 @@
 {
   "number": 588,
-  "questionId": 111062,
-  "questionNumber": "223083",
+  "questionId": "022-0588",
+  "questionNumber": "022-0588",
   "stemHtml": "<p>For a Fly-By-Wire (FBW) aircraft equipped with Flight Envelope Protection (FEP), which of the following statements is correct?</p>",
   "options": {
     "a": "<p>It cannot avoid or exit high-speed flight.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It disables the autopilot when approaching bank angle limits.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111062,
+    "number": "223083"
+  }
 }

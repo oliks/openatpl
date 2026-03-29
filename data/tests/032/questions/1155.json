@@ -1,7 +1,7 @@
 {
   "number": 1155,
-  "questionId": 125263,
-  "questionNumber": "322911",
+  "questionId": "032-1155",
+  "questionNumber": "032-1155",
   "stemHtml": "<p>Which of the following quantities can be used to calculate the rate of climb that would be indicated on a vertical speed indicator (VSI)?</p>",
   "options": {
     "a": "<p>power available and power required.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>thrust available and power required.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 125263,
+    "number": "322911"
+  }
 }

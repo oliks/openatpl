@@ -1,7 +1,7 @@
 {
   "number": 935,
-  "questionId": 110064,
-  "questionNumber": "104147",
+  "questionId": "010-0935",
+  "questionNumber": "010-0935",
   "stemHtml": "<p>Refer to figure.     <br />     \rWhat type of sign is shown on the figure?</p>",
   "options": {
     "a": "<p>A non-precision runway holding position.</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/010/c4945642-ecb5-46ea-bce6-d7f7823e632e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/c4945642-ecb5-46ea-bce6-d7f7823e632e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110064,
+    "number": "104147"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1055,
-  "questionId": 66669,
-  "questionNumber": "104786",
+  "questionId": "010-1055",
+  "questionNumber": "010-1055",
   "stemHtml": "<p>The pilot-in-command of an aircraft subjected to unlawful interference, which must depart from its assigned track or flight level without being able to contact ATS, should whenever possible\u2026</p>",
   "options": {
     "a": "change the transponder code to the present code plus 5.",
@@ -10,5 +10,10 @@
     "d": "once established on the new track, change the track every 5 minutes by 5 degrees."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66669,
+    "number": "104786"
+  }
 }

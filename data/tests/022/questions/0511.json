@@ -1,7 +1,7 @@
 {
   "number": 511,
-  "questionId": 82667,
-  "questionNumber": "225440",
+  "questionId": "022-0511",
+  "questionNumber": "022-0511",
   "stemHtml": "When talking about an engaged autopilot mode, the initial phase is where the...",
   "options": {
     "a": "attitude is changed to obtain a new trajectory.",
@@ -10,5 +10,10 @@
     "d": "aircraft is waiting for a certain set of parameters to engage the mode in question."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82667,
+    "number": "225440"
+  }
 }

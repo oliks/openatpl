@@ -1,7 +1,7 @@
 {
   "number": 1449,
-  "questionId": 101029,
-  "questionNumber": "102800",
+  "questionId": "010-1449",
+  "questionNumber": "010-1449",
   "stemHtml": "A pilot plans to renew his/her single-pilot single-engine class rating. If there are NO specific requirements set by the Operational Suitability Data, after how long should he/she renew that rating?",
   "options": {
     "a": "2 years.",
@@ -10,5 +10,10 @@
     "d": "6 years."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101029,
+    "number": "102800"
+  }
 }

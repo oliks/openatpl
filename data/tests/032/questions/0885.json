@@ -1,7 +1,7 @@
 {
   "number": 885,
-  "questionId": 84439,
-  "questionNumber": "328423",
+  "questionId": "032-0885",
+  "questionNumber": "032-0885",
   "stemHtml": "In the CS-25 specifications V<sub><strong>REF</strong></sub> must not be lower than the greater of 1.23 V<sub><strong>SR0</strong></sub>, V<sub><strong>MCL</strong></sub> or any other speed that provides a minimum level of controllability. In this context, V<sub><strong>SR0</strong></sub> is a speed NOT less than...",
   "options": {
     "a": "the stall speed in a specific configuration where the aeroplane remains controllable and possible to recover.",
@@ -10,5 +10,10 @@
     "d": "the speed when the aeroplane, in landing configuration, reaches CLMAX and the load factor is equal to or greater than 1."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84439,
+    "number": "328423"
+  }
 }

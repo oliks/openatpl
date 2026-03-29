@@ -1,7 +1,7 @@
 {
   "number": 605,
-  "questionId": 103866,
-  "questionNumber": "101872",
+  "questionId": "010-0605",
+  "questionNumber": "010-0605",
   "stemHtml": "<p>Aircraft operating under VFR over routes navigated by reference to visual landmarks require radio-communication equipment that, under normal radio-propagation conditions, allows communication with\u2026</p>",
   "options": {
     "a": "<p>rescue and other services likely to be required in the case of an emergency.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>appropriate ATC stations from all points outside controlled airspace.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103866,
+    "number": "101872"
+  }
 }

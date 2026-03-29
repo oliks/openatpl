@@ -1,7 +1,7 @@
 {
   "number": 153,
-  "questionId": 67803,
-  "questionNumber": "218353",
+  "questionId": "021-0153",
+  "questionNumber": "021-0153",
   "stemHtml": "<p>On a piston engine aircraft, the vent lines in the fuel system are installed to\u2026</p>",
   "options": {
     "a": "allow a person to take a sample of the fuel and to empty the fuel tank for maintenance.",
@@ -10,5 +10,10 @@
     "d": "allow atmospheric pressure to enter the fuel tank in order to avoid a vacuum."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67803,
+    "number": "218353"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 718,
-  "questionId": 100096,
-  "questionNumber": "225968",
+  "questionId": "022-0718",
+  "questionNumber": "022-0718",
   "stemHtml": "<p>The rotary mode-selector knob of the EFIS ND allows the crew to select\u2026</p>",
   "options": {
     "a": "MAP-EXP-ARC-WX",
@@ -10,5 +10,10 @@
     "d": "MAP-EXP-WPT-WX"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100096,
+    "number": "225968"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 515,
-  "questionId": 100882,
-  "questionNumber": "105452",
+  "questionId": "010-0515",
+  "questionNumber": "010-0515",
   "stemHtml": "<p>The ACAS system of an aircraft in cruise indicates a Resolution Advisory (RA). The initial RA instuction is to descent at 2000 ft/min, and an instruction to climb at 2000 ft/min is given later. What is the correct course of action?</p>",
   "options": {
     "a": "<p>The pilot should immediately comply with the RA, ensuring the minimum deviation required from the flight profile while still complying with the RA.</p>",
@@ -10,5 +10,10 @@
     "d": "The pilot should disregard the RA and continue the current flight profile."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100882,
+    "number": "105452"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1622,
-  "questionId": 79370,
-  "questionNumber": "103736",
+  "questionId": "010-1622",
+  "questionNumber": "010-1622",
   "stemHtml": "<p>A passenger is found inadmissible. How long shall the removing state allow the operating carrier to effect that passenger's removel via its own services?</p>",
   "options": {
     "a": "<p>12 hours.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>48 hours.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79370,
+    "number": "103736"
+  }
 }

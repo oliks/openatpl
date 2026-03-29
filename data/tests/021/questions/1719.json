@@ -1,7 +1,7 @@
 {
   "number": 1719,
-  "questionId": 67603,
-  "questionNumber": "219186",
+  "questionId": "021-1719",
+  "questionNumber": "021-1719",
   "stemHtml": "Select the correct option regarding smoke detectors used in modern transport aeroplanes.",
   "options": {
     "a": "In a labyrinth optical smoke detector, the light source is refracted away from the sensor by the smoke particles.",
@@ -10,5 +10,10 @@
     "d": "In a light attenuation optical smoke detector, the light source is shielded from the photoelectric sensor."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67603,
+    "number": "219186"
+  }
 }

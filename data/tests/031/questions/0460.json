@@ -1,7 +1,7 @@
 {
   "number": 460,
-  "questionId": 69319,
-  "questionNumber": "314966",
+  "questionId": "031-0460",
+  "questionNumber": "031-0460",
   "stemHtml": "<p>Refer to figure. <br>Flight time: 2 hours <br>Estimated fuel flow: 1050 litres per hour <br>Fuel density: 0.79 kg/l <br>The \"Freight 2\" will be dropped during flight within the scope of a rescue action. Calculate the CG position at landing.</p>",
   "options": {
     "a": "27 cm aft of datum.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/AEDD8647-6B7B-4508-980C-55ADB0AFCD13.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/AEDD8647-6B7B-4508-980C-55ADB0AFCD13.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69319,
+    "number": "314966"
+  }
 }

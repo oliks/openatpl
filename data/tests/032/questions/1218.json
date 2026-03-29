@@ -1,7 +1,7 @@
 {
   "number": 1218,
-  "questionId": 70129,
-  "questionNumber": "328316",
+  "questionId": "032-1218",
+  "questionNumber": "032-1218",
   "stemHtml": "The point where Drag coefficient/Lift coefficient is a minimum is...",
   "options": {
     "a": "<p>the point on the total drag curve where the parasite drag doubled induced drag</p>",
@@ -10,5 +10,10 @@
     "d": "<p>on the \u201cback side\u201d of the drag curve</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70129,
+    "number": "328316"
+  }
 }

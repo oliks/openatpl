@@ -1,7 +1,7 @@
 {
   "number": 660,
-  "questionId": 69177,
-  "questionNumber": "222001",
+  "questionId": "022-0660",
+  "questionNumber": "022-0660",
   "stemHtml": "<p>The FANS concept makes use of\u2026</p>",
   "options": {
     "a": "VOR-DME position updating for air navigation.",
@@ -10,5 +10,10 @@
     "d": "satellite communication and satellite navigation."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69177,
+    "number": "222001"
+  }
 }

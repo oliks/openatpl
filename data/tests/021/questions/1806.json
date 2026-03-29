@@ -1,7 +1,7 @@
 {
   "number": 1806,
-  "questionId": 161906,
-  "questionNumber": "213424",
+  "questionId": "021-1806",
+  "questionNumber": "021-1806",
   "stemHtml": "<p>The rotational speed of a synchronous motor is determined by the supply of\u2026</p>",
   "options": {
     "a": "<p>Voltage.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Reactance.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161906,
+    "number": "213424"
+  }
 }

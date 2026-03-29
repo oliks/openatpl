@@ -1,7 +1,7 @@
 {
   "number": 1253,
-  "questionId": 107396,
-  "questionNumber": "334445",
+  "questionId": "033-1253",
+  "questionNumber": "033-1253",
   "stemHtml": "<p>The Mach Number of an aircraft is calculated with\u2026</p>",
   "options": {
     "a": "<p>OAT (Outside Air Temp.)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pressure Altitude</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107396,
+    "number": "334445"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1706,
-  "questionId": 81457,
-  "questionNumber": "212919",
+  "questionId": "021-1706",
+  "questionNumber": "021-1706",
   "stemHtml": "<p>In flight, if the Constant Speed Drive (CSD) temperature indicator is in the red arc the\u2026</p>",
   "options": {
     "a": "pilot must disconnect it, and the generator is not available for the rest of flight.",
@@ -10,5 +10,10 @@
     "d": "pilot can disconnect it to allow it to cool and use it again."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81457,
+    "number": "212919"
+  }
 }

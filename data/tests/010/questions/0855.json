@@ -1,7 +1,7 @@
 {
   "number": 855,
-  "questionId": 102546,
-  "questionNumber": "101615",
+  "questionId": "010-0855",
+  "questionNumber": "010-0855",
   "stemHtml": "<p>A pilot that has a medical class one that has expired for more than 5 years visits an AMC (aeromedical centre). The AMC will execute a medical class 1...</p>",
   "options": {
     "a": "<p>initial examination.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>extension.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102546,
+    "number": "101615"
+  }
 }

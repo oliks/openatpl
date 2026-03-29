@@ -1,7 +1,7 @@
 {
   "number": 781,
-  "questionId": 70640,
-  "questionNumber": "331743",
+  "questionId": "033-0781",
+  "questionNumber": "033-0781",
   "stemHtml": "<p>Given the following NOTAM information, what changes apply to the missed approach procedure on RWY 26L?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EDDT BERLIN TEGEL RWY 08RL/26LR <<< DUE TO MAINT OF TGL DME THE FLW CHANGES TO MISSED APCH PROC OCCUR: CONVENTIONAL MISSED APPROACH PROCEDURE CHANGED AS FOLLOWS: RWY 08 L/R: CLIMB INBOUND GL NDB FREQ. 321.0 TO MAX. 3000. AT GL NDB CONTINUE CLIMB TO 5000 AND LT VIA LWB DVOR TO LANUM. RWY 26 L/R: CLIMB INBOUND RW NDB FREQ. 392.0 TO MAX. 3000. AT RW NDB CONTINUE CLIMB TO 4000 AND RT VIA LWB DVOR TO NASAT. REF AD 2 EDDT 4-2-1 THRU 4-2-3 AND 4-4-1 THRU 4-6-3 ALL DATED 22 AUG 2013, 4-2-4 DATED 21 AUG 2014, 4-6-4 EFF 3 JUN 2010. : NOTAM ED/A0610/16 >>> END OF BULLETIN <<<</span></p>\n\n<div> </div>",
   "options": {
     "a": "CLIMB INBOUND GL NDB FREQ. 321.0 TO MAX. 3000.",
@@ -10,5 +10,10 @@
     "d": "CLIMB INBOUND RW NDB FREQ. 392.0 TO MAX. 3000."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70640,
+    "number": "331743"
+  }
 }

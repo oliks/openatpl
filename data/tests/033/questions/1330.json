@@ -1,7 +1,7 @@
 {
   "number": 1330,
-  "questionId": 71069,
-  "questionNumber": "337816",
+  "questionId": "033-1330",
+  "questionNumber": "033-1330",
   "stemHtml": "<p>Refer to figure.  <br />  \nDue to a hydraulic failure, the landing gear of a transport category aircraft stays extended after take-off.  <br />  \nBased on the flight planning data given below, calculate the time penalty in percentage for the flight, based on (standard) endurance.</p>\n\n<p>Usable fuel: 6 metric tons  <br />  \nFuel consumption: 2400 kg/h</p>",
   "options": {
     "a": "65%",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D79AB1BE-42B5-48EB-907F-60B517F42E72.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D79AB1BE-42B5-48EB-907F-60B517F42E72.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71069,
+    "number": "337816"
+  }
 }

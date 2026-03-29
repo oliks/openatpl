@@ -1,7 +1,7 @@
 {
   "number": 1623,
-  "questionId": 105251,
-  "questionNumber": "211898",
+  "questionId": "021-1623",
+  "questionNumber": "021-1623",
   "stemHtml": "<p>What are the disadvantages of bladder tanks in comparison to drum tanks?</p>",
   "options": {
     "a": "<p>They are easily punctured.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>They are not accessible for maintenance as they are part of the airframe.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105251,
+    "number": "211898"
+  }
 }

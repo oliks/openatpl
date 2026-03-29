@@ -1,7 +1,7 @@
 {
   "number": 488,
-  "questionId": 70032,
-  "questionNumber": "326647",
+  "questionId": "032-0488",
+  "questionNumber": "032-0488",
   "stemHtml": "<p>Given the following information, what is the all engine climb gradient for a two engine aeroplane?</p><p>Thrust per engine: 118 000 Newtons <br>Mass: 67 000 kg <br>Lift to drag ratio: 9:1 <br>Assume g = 10 m/s?</p>",
   "options": {
     "a": "<p>11.1%</p>",
@@ -10,5 +10,10 @@
     "d": "<p>20.1%</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70032,
+    "number": "326647"
+  }
 }

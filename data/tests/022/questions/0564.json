@@ -1,7 +1,7 @@
 {
   "number": 564,
-  "questionId": 101695,
-  "questionNumber": "227786",
+  "questionId": "022-0564",
+  "questionNumber": "022-0564",
   "stemHtml": "<p>On a Fly-By-Wire aircraft equipped with side-sticks, how will the aircraft respond to an impending stall?</p>",
   "options": {
     "a": "<p>The side-sticks will shake to warn the pilots.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The system will revert to direct law to allow the pilot to take full control.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101695,
+    "number": "227786"
+  }
 }

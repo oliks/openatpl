@@ -1,7 +1,7 @@
 {
   "number": 350,
-  "questionId": 81892,
-  "questionNumber": "223653",
+  "questionId": "022-0350",
+  "questionNumber": "022-0350",
   "stemHtml": "<p>During climb with a rate of 500 feet per minute the static ports of the aircraft become blocked. For the rest of the flight, the vertical speed indications will\u2026</p>",
   "options": {
     "a": "<p>constantly indicates a 500 feet per minute climb.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>be over-reading during climbs.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81892,
+    "number": "223653"
+  }
 }

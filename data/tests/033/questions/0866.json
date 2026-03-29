@@ -1,7 +1,7 @@
 {
   "number": 866,
-  "questionId": 70909,
-  "questionNumber": "337535",
+  "questionId": "033-0866",
+  "questionNumber": "033-0866",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 10-3A, 10-3B, 10-3C, 10-3D from Jeppesen GSPRM 2017. <br>An aircraft departs from runway 10. Which of the following SIDs will be used?</p>",
   "options": {
     "a": "RESTU 1B",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/AD968804-ABBC-4A38-9D80-33CF2E7CB774.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/AD968804-ABBC-4A38-9D80-33CF2E7CB774.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70909,
+    "number": "337535"
+  }
 }

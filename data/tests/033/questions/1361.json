@@ -1,7 +1,7 @@
 {
   "number": 1361,
-  "questionId": 70462,
-  "questionNumber": "339377",
+  "questionId": "033-1361",
+  "questionNumber": "033-1361",
   "stemHtml": "<p>Which of the following circumstances would be considered suitable for fuel tankering?</p><p>1. The fuel price at the destination aerodrome is higher than that at the departure<br>2. The fuel price at the departure aerodrome is higher than that at the destination<br>3. The fuel price ratio, departure to destination, is greater than 1<br>4. There is no fuel available at the destination aerodrome</p>",
   "options": {
     "a": "2 and 3",
@@ -10,5 +10,10 @@
     "d": "1 and 4"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70462,
+    "number": "339377"
+  }
 }

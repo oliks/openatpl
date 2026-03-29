@@ -1,7 +1,7 @@
 {
   "number": 1554,
-  "questionId": 66871,
-  "questionNumber": "108280",
+  "questionId": "010-1554",
+  "questionNumber": "010-1554",
   "stemHtml": "<p>The outbound time in a holding pattern at 14 000 ft or below, in still air conditions, is\u2026</p>",
   "options": {
     "a": "1 minute.",
@@ -10,5 +10,10 @@
     "d": "2 minutes."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66871,
+    "number": "108280"
+  }
 }

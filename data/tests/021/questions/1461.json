@@ -1,7 +1,7 @@
 {
   "number": 1461,
-  "questionId": 81761,
-  "questionNumber": "211901",
+  "questionId": "021-1461",
+  "questionNumber": "021-1461",
   "stemHtml": "On an aircraft with a sidestick, how does one pilot take over manual control from the other?",
   "options": {
     "a": "Override happens automatically.",
@@ -10,5 +10,10 @@
     "d": "Overrides happen automatically via the CPDLC system."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81761,
+    "number": "211901"
+  }
 }

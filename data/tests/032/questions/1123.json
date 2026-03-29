@@ -1,7 +1,7 @@
 {
   "number": 1123,
-  "questionId": 70226,
-  "questionNumber": "324028",
+  "questionId": "032-1123",
+  "questionNumber": "032-1123",
   "stemHtml": "<p>Which of the following limitations apply to the Take-Off Distance (TOD) for Performance Class B aeroplanes operating from a dry runway?</p><p>1. Without a stopway nor a clearway available, when multiplied by a factor of 1.25, it should NOT exceed the Take-Off Run Available (TORA)<br>2. When a stopway and/or clearway is available, it should NOT exceed the Take-Off Run Available (TORA)<br>3. With a stopway and/or clearway available, when multiplied by a factor of 1.15, it should NOT exceed the Take-Off Distance Available (TODA)<br>4. With a stopway and/or clearway available, when multiplied by a factor of 1.15, it should NOT exceed the Accelerate-Stop Distance Available (ASDA)</p>",
   "options": {
     "a": "1, 2, and 3.",
@@ -10,5 +10,10 @@
     "d": "1, 2, and 4."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70226,
+    "number": "324028"
+  }
 }

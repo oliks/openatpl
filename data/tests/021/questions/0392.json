@@ -1,7 +1,7 @@
 {
   "number": 392,
-  "questionId": 67919,
-  "questionNumber": "212809",
+  "questionId": "021-0392",
+  "questionNumber": "021-0392",
   "stemHtml": "Which statement about the auto-brake and anti-skid system is correct?",
   "options": {
     "a": "The auto-brake system prevents yaw movements due to asymmetric braking.",
@@ -10,5 +10,10 @@
     "d": "The anti-skid system can not operate without a properly operating auto-brake system."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67919,
+    "number": "212809"
+  }
 }

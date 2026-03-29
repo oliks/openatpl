@@ -1,7 +1,7 @@
 {
   "number": 392,
-  "questionId": 161819,
-  "questionNumber": "227802",
+  "questionId": "022-0392",
+  "questionNumber": "022-0392",
   "stemHtml": "<p>When engaged, which of the following is a potential threat or limitation of an autothrust system?</p>",
   "options": {
     "a": "<p>In turbulence, engine limits may be exceeded due to rapid thrust variations.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Autothrust always guarantees the selected speed regardless of aircraft mass or altitude.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161819,
+    "number": "227802"
+  }
 }

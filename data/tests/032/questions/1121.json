@@ -1,7 +1,7 @@
 {
   "number": 1121,
-  "questionId": 77869,
-  "questionNumber": "325643",
+  "questionId": "032-1121",
+  "questionNumber": "032-1121",
   "stemHtml": "One of the benefits of using reduced thrust setting for take off is the...",
   "options": {
     "a": "decreased wear of the engine and maintenance costs.",
@@ -10,5 +10,10 @@
     "d": "decreased risk of bird strike."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77869,
+    "number": "325643"
+  }
 }

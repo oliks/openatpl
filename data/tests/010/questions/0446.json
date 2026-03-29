@@ -1,7 +1,7 @@
 {
   "number": 446,
-  "questionId": 80868,
-  "questionNumber": "102027",
+  "questionId": "010-0446",
+  "questionNumber": "010-0446",
   "stemHtml": "<p>\"Certification specifications\u201d are\u2026</p>",
   "options": {
     "a": "<p>Non-binding technical standards, adopted by EASA, to meet the essential requirements of the basic regulation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Binding special detailed technical specifications determined by the NAA for an aerodrome.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80868,
+    "number": "102027"
+  }
 }

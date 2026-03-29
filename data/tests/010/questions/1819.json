@@ -1,7 +1,7 @@
 {
   "number": 1819,
-  "questionId": 163446,
-  "questionNumber": "109400",
+  "questionId": "010-1819",
+  "questionNumber": "010-1819",
   "stemHtml": "<p>RVSM airspace is subject to a lower limit of (1) _____ and an upper limit of (2) _____. Select the option that correctly lists the lower and upper limits of RVSM.</p>",
   "options": {
     "a": "<p>(1) FL310; (2) FL430</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) FL290; (2) FL410</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163446,
+    "number": "109400"
+  }
 }

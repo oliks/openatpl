@@ -1,7 +1,7 @@
 {
   "number": 1253,
-  "questionId": 153732,
-  "questionNumber": "222101",
+  "questionId": "022-1253",
+  "questionNumber": "022-1253",
   "stemHtml": "<p>The integrated avionic suite in an aircraft is unserviceable, what option is available to the pilot to replace the lost functionality?</p>",
   "options": {
     "a": "<p>Continue using standby digital displays.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Wait for the system to automatically restart before continuing the flight.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153732,
+    "number": "222101"
+  }
 }

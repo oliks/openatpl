@@ -1,7 +1,7 @@
 {
   "number": 453,
-  "questionId": 69352,
-  "questionNumber": "314436",
+  "questionId": "031-0453",
+  "questionNumber": "031-0453",
   "stemHtml": "<p>Refer to figure. <br /> \rUsing the annex, determine the BEM of the aircraft.</p>",
   "options": {
     "a": "<p>1855 lb</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/DC7B56A8-4AAE-4A48-8B6B-4EC4E30E5979.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/DC7B56A8-4AAE-4A48-8B6B-4EC4E30E5979.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69352,
+    "number": "314436"
+  }
 }

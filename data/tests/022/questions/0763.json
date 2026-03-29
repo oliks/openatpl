@@ -1,7 +1,7 @@
 {
   "number": 763,
-  "questionId": 107351,
-  "questionNumber": "226306",
+  "questionId": "022-0763",
+  "questionNumber": "022-0763",
   "stemHtml": "<p>Which of the following can be shown on a Head-Up Display (HUD)?</p>",
   "options": {
     "a": "<p>Primary Flight Display (PFD) indications.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>PFD, ND in ROSE mode, EFIS Engine parameter indications, and Hydraulics and Landing Gear status.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107351,
+    "number": "226306"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1130,
-  "questionId": 83188,
-  "questionNumber": "216653",
+  "questionId": "021-1130",
+  "questionNumber": "021-1130",
   "stemHtml": "<p>Complete the following sentence:</p>\r\n\r\n<p>An inverter converts (1) _____ to (2) _____.</p>",
   "options": {
     "a": "<p>(1) 24 V DC; (2) 115 V AC</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) 115 V AC; (2) 24 V DC</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83188,
+    "number": "216653"
+  }
 }

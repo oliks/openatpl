@@ -1,7 +1,7 @@
 {
   "number": 505,
-  "questionId": 101533,
-  "questionNumber": "339116",
+  "questionId": "033-0505",
+  "questionNumber": "033-0505",
   "stemHtml": "<p>Refer to figure. <br /> Determine aircraft's safe endurance overhead CHARLIE if the minimum landing fuel is 350 lb, assuming NO change in actual fuel flow:</p>",
   "options": {
     "a": "<p>3 hours 44 minutes</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/e768c28c-e39d-4779-8c9f-3c87adaa9bbe.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/e768c28c-e39d-4779-8c9f-3c87adaa9bbe.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101533,
+    "number": "339116"
+  }
 }

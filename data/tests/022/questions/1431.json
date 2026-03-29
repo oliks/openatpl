@@ -1,7 +1,7 @@
 {
   "number": 1431,
-  "questionId": 69002,
-  "questionNumber": "221990",
+  "questionId": "022-1431",
+  "questionNumber": "022-1431",
   "stemHtml": "<p>The limits of the white scale of an airspeed indicator are\u2026</p>",
   "options": {
     "a": "V<sub>S0</sub> for the lower limit and V<sub>FE</sub> for the upper limit",
@@ -10,5 +10,10 @@
     "d": "V<sub>S0</sub> for the lower limit and V<sub>LE</sub> for the upper limit"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69002,
+    "number": "221990"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 380,
-  "questionId": 106213,
-  "questionNumber": "316907",
+  "questionId": "031-0380",
+  "questionNumber": "031-0380",
   "stemHtml": "<p>Refer to figure. <br /> \rCalculate the Basic Empty Mass of the aircraft.</p>",
   "options": {
     "a": "<p>1 127 lb</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/cd071743-1835-4b5c-95e9-288196bbcbb9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/cd071743-1835-4b5c-95e9-288196bbcbb9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106213,
+    "number": "316907"
+  }
 }

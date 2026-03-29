@@ -1,7 +1,7 @@
 {
   "number": 1670,
-  "questionId": 82326,
-  "questionNumber": "222597",
+  "questionId": "022-1670",
+  "questionNumber": "022-1670",
   "stemHtml": "<p>The purpose of GPWS is\u2026</p>",
   "options": {
     "a": "<p>to alert the pilots of hazardous terrain in front of and below the aircraft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>to avoid the aircraft having a CFIT.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82326,
+    "number": "222597"
+  }
 }

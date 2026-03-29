@@ -1,7 +1,7 @@
 {
   "number": 1301,
-  "questionId": 84581,
-  "questionNumber": "227549",
+  "questionId": "022-1301",
+  "questionNumber": "022-1301",
   "stemHtml": "<p>What is the most likely indication, to pilots of a modern civil air transport aircraft, that airspeed indications are unreliable?</p>",
   "options": {
     "a": "<p>From the horizontal stabiliser, the pilots will receive some kind of vibration through flight controls.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FMA indication of unreliable airspeed.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84581,
+    "number": "227549"
+  }
 }

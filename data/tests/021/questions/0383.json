@@ -1,7 +1,7 @@
 {
   "number": 383,
-  "questionId": 108035,
-  "questionNumber": "216340",
+  "questionId": "021-0383",
+  "questionNumber": "021-0383",
   "stemHtml": "<p>As the airspeed increases, the air mass at the turbine engine inlet _____ and the specific thrust _____?</p>",
   "options": {
     "a": "<p>increases; increases</p>",
@@ -10,5 +10,10 @@
     "d": "<p>decreases; decreases</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108035,
+    "number": "216340"
+  }
 }

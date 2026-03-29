@@ -1,7 +1,7 @@
 {
   "number": 958,
-  "questionId": 69312,
-  "questionNumber": "222465",
+  "questionId": "022-0958",
+  "questionNumber": "022-0958",
   "stemHtml": "<p>A computer memory can consist of\u2026</p>",
   "options": {
     "a": "capacitors",
@@ -10,5 +10,10 @@
     "d": "resistors"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69312,
+    "number": "222465"
+  }
 }

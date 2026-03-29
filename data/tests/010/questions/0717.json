@@ -1,7 +1,7 @@
 {
   "number": 717,
-  "questionId": 67075,
-  "questionNumber": "102834",
+  "questionId": "010-0717",
+  "questionNumber": "010-0717",
   "stemHtml": "<p>Regarding pavement strength, you are at the apron prior to taxi-out and assess your aircraft ACN to be 45. \u2013 According to the aerodrome chart, the reported PCN for the taxiway you have to take is 50. \u2013 Are you allowed to taxi on that taxiway?</p>",
   "options": {
     "a": "<p>Yes, but this will result in an overload pavement operation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes, use of the taxiway is allowed.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67075,
+    "number": "102834"
+  }
 }

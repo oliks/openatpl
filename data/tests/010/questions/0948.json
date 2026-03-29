@@ -1,7 +1,7 @@
 {
   "number": 948,
-  "questionId": 67010,
-  "questionNumber": "103678",
+  "questionId": "010-0948",
+  "questionNumber": "010-0948",
   "stemHtml": "<p>When radar identification of an aircraft has been achieved, the radar controller shall...</p>",
   "options": {
     "a": "<p>communicate with the pilot only when work load permits.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>request the pilot to squawk ident.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67010,
+    "number": "103678"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1684,
-  "questionId": 110311,
-  "questionNumber": "215654",
+  "questionId": "021-1684",
+  "questionNumber": "021-1684",
   "stemHtml": "<p>How does a vibrating rod system detect ice accumulation on modern aircraft?</p>",
   "options": {
     "a": "<p>By measuring changes in air pressure around the rod.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Through changes in the rod\u2019s electrical resistance.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110311,
+    "number": "215654"
+  }
 }

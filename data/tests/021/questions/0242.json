@@ -1,7 +1,7 @@
 {
   "number": 242,
-  "questionId": 116225,
-  "questionNumber": "213045",
+  "questionId": "021-0242",
+  "questionNumber": "021-0242",
   "stemHtml": "<p>Complete the following statement:</p><p>A CSD monitors\u2026</p>",
   "options": {
     "a": "<p>the RPM of the AC generator and the RPM of the DC generator, and adjusts any differences in their rotational speeds accordingly to make them compatible.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>engine N1 and engine N2 rotational speeds, and adjusts the speeds accordingly for most efficient operation.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 116225,
+    "number": "213045"
+  }
 }

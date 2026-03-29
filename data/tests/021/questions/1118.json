@@ -1,7 +1,7 @@
 {
   "number": 1118,
-  "questionId": 81196,
-  "questionNumber": "214207",
+  "questionId": "021-1118",
+  "questionNumber": "021-1118",
   "stemHtml": "<p style=\"margin-right:29px\">During a reduced thrust take-off, the assumed OAT is higher than the actual OAT. Which of the following statements is correct?</p>",
   "options": {
     "a": "The Air Data Computer limits the internal temperature of the engine to prevent from exceeding the temperature limit.",
@@ -10,5 +10,10 @@
     "d": "The assumed temperature is entered in the Flight Management System."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81196,
+    "number": "214207"
+  }
 }

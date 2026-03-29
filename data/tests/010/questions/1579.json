@@ -1,7 +1,7 @@
 {
   "number": 1579,
-  "questionId": 67045,
-  "questionNumber": "108900",
+  "questionId": "010-1579",
+  "questionNumber": "010-1579",
   "stemHtml": "The identification of Prohibited (P), Restricted (R) and Danger (D) areas shall be composed of the...",
   "options": {
     "a": "letters (P), (R) or (D) for the area concerned followed by identification figures.",
@@ -10,5 +10,10 @@
     "d": "letters (P), (R) and (D), followed by identification figures."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67045,
+    "number": "108900"
+  }
 }

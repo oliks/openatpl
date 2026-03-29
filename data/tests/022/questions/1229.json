@@ -1,7 +1,7 @@
 {
   "number": 1229,
-  "questionId": 107948,
-  "questionNumber": "228055",
+  "questionId": "022-1229",
+  "questionNumber": "022-1229",
   "stemHtml": "<p>The ram inlet of a Pitot Tube is clogged by ice. Which instrument doesn\u2019t work?</p>",
   "options": {
     "a": "<p>Altimeter.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Vertical Speed Indicator.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107948,
+    "number": "228055"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1409,
-  "questionId": 103476,
-  "questionNumber": "105780",
+  "questionId": "010-1409",
+  "questionNumber": "010-1409",
   "stemHtml": "<p>Who has the authority to initially issue and renew a medical certificate Class 1 and Class 2?</p>",
   "options": {
     "a": "<p>Aviation Medical Examiner (AME)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Flight Training School</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103476,
+    "number": "105780"
+  }
 }

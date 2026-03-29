@@ -1,7 +1,7 @@
 {
   "number": 1692,
-  "questionId": 67086,
-  "questionNumber": "109075",
+  "questionId": "010-1692",
+  "questionNumber": "010-1692",
   "stemHtml": "<p>A \"runway strip\" is defined as an area including the runway and\u2026</p>",
   "options": {
     "a": "a taxiway intended to protect an aircraft operating on the runway and to reduce the risk of damage to an aircraft running off the taxiway.",
@@ -10,5 +10,10 @@
     "d": "a taxiway intended to protect an aircraft operating on the taxiway and to reduce the risk of damage to an aircraft running off the runway."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67086,
+    "number": "109075"
+  }
 }

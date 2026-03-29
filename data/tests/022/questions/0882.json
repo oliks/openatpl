@@ -1,7 +1,7 @@
 {
   "number": 882,
-  "questionId": 80188,
-  "questionNumber": "229046",
+  "questionId": "022-0882",
+  "questionNumber": "022-0882",
   "stemHtml": "<p>On a modern jet aircraft, the engine speed is indicated by\u2026</p>",
   "options": {
     "a": "The Engine Pressure Ratio (EPR).",
@@ -10,5 +10,10 @@
     "d": "% of maximum torque."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80188,
+    "number": "229046"
+  }
 }

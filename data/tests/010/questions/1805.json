@@ -1,7 +1,7 @@
 {
   "number": 1805,
-  "questionId": 108112,
-  "questionNumber": "107484",
+  "questionId": "010-1805",
+  "questionNumber": "010-1805",
   "stemHtml": "<p>Regarding the tolerance of navigation aids on which a fix is based, the correct order of tolerance, from the lowest to the highest, is...</p>",
   "options": {
     "a": "<p>ILS, VOR, NDB.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>VOR, ILS, NDB.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108112,
+    "number": "107484"
+  }
 }

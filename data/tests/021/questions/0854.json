@@ -1,7 +1,7 @@
 {
   "number": 854,
-  "questionId": 101058,
-  "questionNumber": "216859",
+  "questionId": "021-0854",
+  "questionNumber": "021-0854",
   "stemHtml": "What are the potential air sources for engine start in a turbine aircraft?",
   "options": {
     "a": "<p>Fuel or hydraulic systems.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Engine oil or navigation systems.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101058,
+    "number": "216859"
+  }
 }

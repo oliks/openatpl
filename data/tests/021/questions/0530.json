@@ -1,7 +1,7 @@
 {
   "number": 530,
-  "questionId": 81986,
-  "questionNumber": "212477",
+  "questionId": "021-0530",
+  "questionNumber": "021-0530",
   "stemHtml": "<p>Which of the following are used to limit rudder deflection?</p><p>1. Gust lock <br /> 2. Variable stops <br /> 3. Ratio changer <br /> 4. Control locks <br /> 5. Blow-back</p>",
   "options": {
     "a": "1, 2 and 4",
@@ -10,5 +10,10 @@
     "d": "3, 4 and 5"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81986,
+    "number": "212477"
+  }
 }

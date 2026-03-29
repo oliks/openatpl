@@ -1,7 +1,7 @@
 {
   "number": 843,
-  "questionId": 68104,
-  "questionNumber": "212662",
+  "questionId": "021-0843",
+  "questionNumber": "021-0843",
   "stemHtml": "What type of aircraft oxygen system is primarily intended for passenger use?",
   "options": {
     "a": "A portable equipment only.",
@@ -10,5 +10,10 @@
     "d": "A continuous flow system."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68104,
+    "number": "212662"
+  }
 }

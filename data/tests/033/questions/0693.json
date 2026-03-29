@@ -1,7 +1,7 @@
 {
   "number": 693,
-  "questionId": 81831,
-  "questionNumber": "337406",
+  "questionId": "033-0693",
+  "questionNumber": "033-0693",
   "stemHtml": "An aircraft is scheduled to fly from Brussels (EBBR) to Malaga (LEMG) and the crew intend to use the GBAS Landing System (GLS) approach onto Runway 13 at LEMG. What is the appropriate source of information on the availability of GBAS augmentation at the estimated time of arrival?",
   "options": {
     "a": "AIC",
@@ -10,5 +10,10 @@
     "d": "NOTAM"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81831,
+    "number": "337406"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 741,
-  "questionId": 70503,
-  "questionNumber": "336662",
+  "questionId": "033-0741",
+  "questionNumber": "033-0741",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.7.2. <br>Using the above table, in ISA conditions and at a speed of M.70/280KIAS, in an elapsed time of 90 minutes an aircraft with mass at point of diversion 48 000 kg could divert a distance of\u2026</p>",
   "options": {
     "a": "563 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/F1C48EC3-74E3-4453-9DF6-4B3D5A041C15.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F1C48EC3-74E3-4453-9DF6-4B3D5A041C15.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70503,
+    "number": "336662"
+  }
 }

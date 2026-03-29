@@ -1,7 +1,7 @@
 {
   "number": 892,
-  "questionId": 69946,
-  "questionNumber": "325263",
+  "questionId": "032-0892",
+  "questionNumber": "032-0892",
   "stemHtml": "<p>Which of the following statements is correct regarding the obstacle limited take-off mass for a Performance Class A aeroplane?</p>",
   "options": {
     "a": "<p>It should be calculated in such a way that it ensures a obstacle clearance margin of 50 ft with respect to the net take-off flight path.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It allows for turns of up to 30\u00b0 angle of bank in the take-off path.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69946,
+    "number": "325263"
+  }
 }

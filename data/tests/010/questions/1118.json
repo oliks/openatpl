@@ -1,7 +1,7 @@
 {
   "number": 1118,
-  "questionId": 110752,
-  "questionNumber": "109614",
+  "questionId": "010-1118",
+  "questionNumber": "010-1118",
   "stemHtml": "<p>Which of the following ICAO Annexes covers Rules of the Air?</p>",
   "options": {
     "a": "<p>8</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110752,
+    "number": "109614"
+  }
 }

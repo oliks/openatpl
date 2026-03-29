@@ -1,7 +1,7 @@
 {
   "number": 568,
-  "questionId": 160527,
-  "questionNumber": "229256",
+  "questionId": "022-0568",
+  "questionNumber": "022-0568",
   "stemHtml": "<p>An aircraft has just been refuelled. The aircraft Operations Manual states that the allowable difference between loaded fuel and indicated fuel is \u00b15% of the total tank capacity.<br>Given:</p><p>Total fuel tank capacity: 1100 kg\u00a0<br>Fuel on board before refuelling: 260 kg\u00a0<br>Fuel indication after refuelling: 980 kg\u00a0<br>Fuel added (fuel receipt): 900 L\u00a0<br>Fuel density: 0.772 kg/L</p><p>Which statement regarding the indicated fuel quantity is correct?</p>",
   "options": {
     "a": "<p>Fuel indication is within tolerance but needs to be reported for trend monitoring.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Outside tolerance and tank needs to be emptied.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160527,
+    "number": "229256"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 468,
-  "questionId": 70119,
-  "questionNumber": "329130",
+  "questionId": "032-0468",
+  "questionNumber": "032-0468",
   "stemHtml": "<p>The Accelerate Stop Distance on a dry runway considers both the all engine case and the engine failure case. The latter is calculated by adding the sum of the distance necessary to accelerate to V<strong><sub>EF</sub></strong>, the distance to accelerate to the highest speed reached during the rejected take-off...</p>",
   "options": {
     "a": "the distance to come to a full stop, and a distance equivalent to 2 seconds at V<sub>1</sub>.",
@@ -10,5 +10,10 @@
     "d": "150% of the distance to come to a full stop, and a distance equivalent to 2 seconds at V<sub>EF</sub>."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70119,
+    "number": "329130"
+  }
 }

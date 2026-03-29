@@ -1,7 +1,7 @@
 {
   "number": 70,
-  "questionId": 81362,
-  "questionNumber": "226120",
+  "questionId": "022-0070",
+  "questionNumber": "022-0070",
   "stemHtml": "<p>The following \u2018\u2019The transmission of a digital message from a station on Earth to an aircraft in flight\u2019\u2019 is a definition of a\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">2-way VHF radio-communication message.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>message/data downlink.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81362,
+    "number": "226120"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 615,
-  "questionId": 67726,
-  "questionNumber": "216027",
+  "questionId": "021-0615",
+  "questionNumber": "021-0615",
   "stemHtml": "<p>In a large transport aeroplane the main temperature reduction of the conditioned air is achieved in\u2026</p>",
   "options": {
     "a": "<p>the heat exchangers.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a condenser.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67726,
+    "number": "216027"
+  }
 }

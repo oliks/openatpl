@@ -1,7 +1,7 @@
 {
   "number": 209,
-  "questionId": 104037,
-  "questionNumber": "218662",
+  "questionId": "021-0209",
+  "questionNumber": "021-0209",
   "stemHtml": "<p>You have a hydraulic landing gear extension system, but the hydraulic system doesn't work. What could make the risk of the landing gear not locking when down minimal?</p>",
   "options": {
     "a": "<p>Overcentre mechanism.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Transfer mechanism.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104037,
+    "number": "218662"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1421,
-  "questionId": 103951,
-  "questionNumber": "333079",
+  "questionId": "033-1421",
+  "questionNumber": "033-1421",
   "stemHtml": "<p>What is the minimum taxi fuel required for a flight considering 10 minutes of APU usage and 10 minutes of taxi at the departure and arrival airports?</p><p>APU 120 kg/h <br>5 kg/ min taxi <br>+5 kg for start-up</p>",
   "options": {
     "a": "<p>55 kg </p>",
@@ -10,5 +10,10 @@
     "d": "<p>75 kg </p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103951,
+    "number": "333079"
+  }
 }

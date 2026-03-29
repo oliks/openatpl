@@ -1,7 +1,7 @@
 {
   "number": 20,
-  "questionId": 102143,
-  "questionNumber": "326385",
+  "questionId": "032-0020",
+  "questionNumber": "032-0020",
   "stemHtml": "<p>In aircraft performance calculations, which of the following correctly describes \"gross\", \"calculated\" and \"net\" climb gradients with respect to safety margins?</p>",
   "options": {
     "a": "<p>The \"gross\" climb gradient already includes a safety margin, while the \"calculated climb gradient\" and \"actual climb gradient\" do not include a safety margin.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The \"gross\" climb gradient, \"calculated climb gradient,\" and \"actual climb gradient\" are all different terms for the same value, and none of them include a safety margin.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102143,
+    "number": "326385"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 871,
-  "questionId": 83562,
-  "questionNumber": "218520",
+  "questionId": "021-0871",
+  "questionNumber": "021-0871",
   "stemHtml": "<p>Some large aeroplanes make use of main-wheel steering as well as their nose-wheel steering...</p>",
   "options": {
     "a": "to assist the pilot to automatically control the straight ground roll path during takeoffs and landings.",
@@ -10,5 +10,10 @@
     "d": "for manoeuvring the aircraft during towing operations only, and it is deactivated when the aircraft moves under its own power."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83562,
+    "number": "218520"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 100,
-  "questionId": 102174,
-  "questionNumber": "103542",
+  "questionId": "010-0100",
+  "questionNumber": "010-0100",
   "stemHtml": "<p>When is vertical separation applied?</p>",
   "options": {
     "a": "<p>Under radar control.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>When maintaining visual flight rules.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102174,
+    "number": "103542"
+  }
 }

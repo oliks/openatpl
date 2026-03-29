@@ -1,7 +1,7 @@
 {
   "number": 1686,
-  "questionId": 107147,
-  "questionNumber": "228205",
+  "questionId": "022-1686",
+  "questionNumber": "022-1686",
   "stemHtml": "<p>During flight, a 'fuel lateral imbalance' caution is displayed and the pilots notice that the left wing tank contents are 2000 kg wheras the right wing contents are 3500 kg. The electronic checklist for dealing with a fuel imbalance is automatically displayed. The pilots are working through the checklist and have reached the item FUEL X FEED - ON, which will pump fuel from one wing to the other. Which option is correct about actioning this item?</p>",
   "options": {
     "a": "<p>This item should be followed when prompted by the electronic checklist since the computer monitors all the required parameters to ensure its use is safe and appropriate. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>The pilots should be very careful since there is a significant risk of pumping fuel overboard if the fuel imbalance is caused by a fuel leak. </p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107147,
+    "number": "228205"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 904,
-  "questionId": 107885,
-  "questionNumber": "339224",
+  "questionId": "033-0904",
+  "questionNumber": "033-0904",
   "stemHtml": "<p>Extra fuel is carried to account for foreseen situations that may require more fuel than originally planned. Which of the following scenarios justifies the addition of extra fuel?</p>",
   "options": {
     "a": "<p>Unforeseen weather phenomena en route</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Unexpected air traffic delays at the alternate airport</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107885,
+    "number": "339224"
+  }
 }

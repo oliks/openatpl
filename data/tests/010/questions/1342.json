@@ -1,7 +1,7 @@
 {
   "number": 1342,
-  "questionId": 162962,
-  "questionNumber": "107656",
+  "questionId": "010-1342",
+  "questionNumber": "010-1342",
   "stemHtml": "<p>What is true about simultaneous independent approaches?</p>",
   "options": {
     "a": "<p>All approaches, regardless of the weather conditions, need to be monitored by ATS.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Crew members ensure separation, radar monitoring is madatory when ceiling is below 5000 ft.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162962,
+    "number": "107656"
+  }
 }

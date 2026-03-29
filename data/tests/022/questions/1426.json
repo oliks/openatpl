@@ -1,7 +1,7 @@
 {
   "number": 1426,
-  "questionId": 68874,
-  "questionNumber": "224678",
+  "questionId": "022-1426",
+  "questionNumber": "022-1426",
   "stemHtml": "<p>An autothrottle is a system that automatically\u2026</p>",
   "options": {
     "a": "moves the aeroplane`s control surfaces.",
@@ -10,5 +10,10 @@
     "d": "controls the overpressure relief valve."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68874,
+    "number": "224678"
+  }
 }

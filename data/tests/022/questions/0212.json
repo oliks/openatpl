@@ -1,7 +1,7 @@
 {
   "number": 212,
-  "questionId": 79282,
-  "questionNumber": "223654",
+  "questionId": "022-0212",
+  "questionNumber": "022-0212",
   "stemHtml": "<p>The capacitance-type quantity measurement system gives an indication based on\u2026</p>",
   "options": {
     "a": "<p>The permeability of a capacitor.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The mass of fuel.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79282,
+    "number": "223654"
+  }
 }

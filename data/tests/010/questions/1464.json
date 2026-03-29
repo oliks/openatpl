@@ -1,7 +1,7 @@
 {
   "number": 1464,
-  "questionId": 95827,
-  "questionNumber": "109608",
+  "questionId": "010-1464",
+  "questionNumber": "010-1464",
   "stemHtml": "<p>An aircraft flies over YESTE VOR/DME (YES) (N38<strong>\u00b0</strong>21', W002\u00b021') and then follows the airway B28 with a north-east heading. The pilot is required to make a position report\u2026</p>",
   "options": {
     "a": "<p>when over POBOS.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/6e6819a3-d481-4d20-9d69-efd975c17a89.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/6e6819a3-d481-4d20-9d69-efd975c17a89.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95827,
+    "number": "109608"
+  }
 }

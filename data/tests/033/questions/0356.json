@@ -1,7 +1,7 @@
 {
   "number": 356,
-  "questionId": 81813,
-  "questionNumber": "339266",
+  "questionId": "033-0356",
+  "questionNumber": "033-0356",
   "stemHtml": "<p>Refer to figure or Chart E(LO)6 from the Jeppesen GSPRM 2017. <br>You are planning to fly from CARBONARA VOR (N39\u00b007' E009\u00b030') to AJACCIO VOR (N41\u00b046' E008\u00b046') using an RNAV ATS route, which is the shortest route to fly?</p>",
   "options": {
     "a": "CAR - M732 - ALG- L5 - POZZO - J19 - AJO",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/529E325C-1251-4E87-9B4E-2E9020D4490C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/529E325C-1251-4E87-9B4E-2E9020D4490C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81813,
+    "number": "339266"
+  }
 }

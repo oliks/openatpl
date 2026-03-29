@@ -1,7 +1,7 @@
 {
   "number": 1061,
-  "questionId": 118517,
-  "questionNumber": "107741",
+  "questionId": "010-1061",
+  "questionNumber": "010-1061",
   "stemHtml": "<p>On a cold winter day with OAT of -8\u00b0C you are being radar vectored. You (1) _____ within the coverage of a navigation aid to cross-check your position. The given altitude by ATC (2) _____.</p>",
   "options": {
     "a": "<p>(1) not expect to be (2) is not temperature corrected</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) expect to be (2) is temperature corrected</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 118517,
+    "number": "107741"
+  }
 }

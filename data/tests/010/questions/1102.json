@@ -1,7 +1,7 @@
 {
   "number": 1102,
-  "questionId": 78333,
-  "questionNumber": "103341",
+  "questionId": "010-1102",
+  "questionNumber": "010-1102",
   "stemHtml": "You are instructed to enter a standard holding, inbound track 010 degrees.You are presently tracking 030 degrees. What is the appropriate holding entry?",
   "options": {
     "a": "Direct.",
@@ -10,5 +10,10 @@
     "d": "Direct or Offset."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78333,
+    "number": "103341"
+  }
 }

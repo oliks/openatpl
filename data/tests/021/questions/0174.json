@@ -1,7 +1,7 @@
 {
   "number": 174,
-  "questionId": 67802,
-  "questionNumber": "214840",
+  "questionId": "021-0174",
+  "questionNumber": "021-0174",
   "stemHtml": "<p>On a piston engine aircraft, a filter is installed in the fuel system to\u2026</p>",
   "options": {
     "a": "remove particles and impurities from the fuel that could damage the engine.",
@@ -10,5 +10,10 @@
     "d": "allow a person to take a sample of the fuel and to empty the fuel tank for maintenance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67802,
+    "number": "214840"
+  }
 }

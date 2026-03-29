@@ -1,7 +1,7 @@
 {
   "number": 480,
-  "questionId": 67077,
-  "questionNumber": "105043",
+  "questionId": "010-0480",
+  "questionNumber": "010-0480",
   "stemHtml": "<p>According to ICAO Annex 14, the bearing strength of a pavement intended for aircraft of apron (ramp) mass equal to or less than 5700 kg shall be made available by reporting which information?</p>",
   "options": {
     "a": "<p>A reference category of the aircraft is transmitted.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The maximum allowable tire pressure category or value and evaluation method.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67077,
+    "number": "105043"
+  }
 }

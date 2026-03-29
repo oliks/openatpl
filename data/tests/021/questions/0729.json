@@ -1,7 +1,7 @@
 {
   "number": 729,
-  "questionId": 67946,
-  "questionNumber": "216950",
+  "questionId": "021-0729",
+  "questionNumber": "021-0729",
   "stemHtml": "<p>The input and output of a static inverter are respectively\u2026</p>",
   "options": {
     "a": "AC and AC.",
@@ -10,5 +10,10 @@
     "d": "DC and AC."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67946,
+    "number": "216950"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 481,
-  "questionId": 70259,
-  "questionNumber": "322085",
+  "questionId": "032-0481",
+  "questionNumber": "032-0481",
   "stemHtml": "<p>The induced drag of an aeroplane\u2026</p>",
   "options": {
     "a": "is independent of the airspeed.",
@@ -10,5 +10,10 @@
     "d": "decreases with increasing airspeed."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70259,
+    "number": "322085"
+  }
 }

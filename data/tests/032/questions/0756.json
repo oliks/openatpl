@@ -1,7 +1,7 @@
 {
   "number": 756,
-  "questionId": 80769,
-  "questionNumber": "321110",
+  "questionId": "032-0756",
+  "questionNumber": "032-0756",
   "stemHtml": "What is the ratio of Nautical Air Miles (NAM) of flying distance versus the amount of fuel consumed?",
   "options": {
     "a": "specific endurance",
@@ -10,5 +10,10 @@
     "d": "cost index"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80769,
+    "number": "321110"
+  }
 }

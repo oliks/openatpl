@@ -1,7 +1,7 @@
 {
   "number": 1758,
-  "questionId": 67738,
-  "questionNumber": "211199",
+  "questionId": "021-1758",
+  "questionNumber": "021-1758",
   "stemHtml": "<p>In a piston engine, turbocharger boost pressure can be monitored by\u2026</p>",
   "options": {
     "a": "a cylinder head temperature gauge, a manifold pressure gauge and engine RPM readings.",
@@ -10,5 +10,10 @@
     "d": "a cylinder head temperature gauge and manifold pressure gauge."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67738,
+    "number": "211199"
+  }
 }

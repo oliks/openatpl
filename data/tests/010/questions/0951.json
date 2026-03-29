@@ -1,7 +1,7 @@
 {
   "number": 951,
-  "questionId": 77927,
-  "questionNumber": "103323",
+  "questionId": "010-0951",
+  "questionNumber": "010-0951",
   "stemHtml": "<p>An AIRAC is a\u2026</p>",
   "options": {
     "a": "Document that is released at certain notification intervals.",
@@ -10,5 +10,10 @@
     "d": "Document detailing information not adequate for a NOTAM."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77927,
+    "number": "103323"
+  }
 }

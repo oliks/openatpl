@@ -1,7 +1,7 @@
 {
   "number": 1314,
-  "questionId": 101810,
-  "questionNumber": "108048",
+  "questionId": "010-1314",
+  "questionNumber": "010-1314",
   "stemHtml": "<p>Which of the following documents deals with air navigation and air traffic management?</p>",
   "options": {
     "a": "<p>EU Regulation 965/2012.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>EU Regulation 373/2017.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101810,
+    "number": "108048"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 795,
-  "questionId": 80888,
-  "questionNumber": "229695",
+  "questionId": "022-0795",
+  "questionNumber": "022-0795",
   "stemHtml": "Which statement describes an occasion for carrying out a compass swing on a direct reading compass?",
   "options": {
     "a": "After an aircraft has passed through a severe electrical storm or has been struck by lightning.",
@@ -10,5 +10,10 @@
     "d": "Whenever an aircraft carries a large freight load regardless of its content."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80888,
+    "number": "229695"
+  }
 }

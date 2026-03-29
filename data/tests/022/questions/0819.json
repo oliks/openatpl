@@ -1,7 +1,7 @@
 {
   "number": 819,
-  "questionId": 108181,
-  "questionNumber": "222611",
+  "questionId": "022-0819",
+  "questionNumber": "022-0819",
   "stemHtml": "<p>The INS of an aircraft in flight calculates its present latitude by doing a (1) _____ integration of accelerations in (2) _____ direction.</p>",
   "options": {
     "a": "<p>(1) double; (2) north-south</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) single; (2) west-east</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108181,
+    "number": "222611"
+  }
 }

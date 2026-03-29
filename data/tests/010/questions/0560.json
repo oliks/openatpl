@@ -1,7 +1,7 @@
 {
   "number": 560,
-  "questionId": 66987,
-  "questionNumber": "101293",
+  "questionId": "010-0560",
+  "questionNumber": "010-0560",
   "stemHtml": "<p>An Expected Approach Time (EAT) is transmitted to an aircraft by the most expeditious means when it is expected that it has to hold for\u2026</p>",
   "options": {
     "a": "30 minutes or more.",
@@ -10,5 +10,10 @@
     "d": "15 minutes or more."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66987,
+    "number": "101293"
+  }
 }

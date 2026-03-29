@@ -1,7 +1,7 @@
 {
   "number": 562,
-  "questionId": 100472,
-  "questionNumber": "109803",
+  "questionId": "010-0562",
+  "questionNumber": "010-0562",
   "stemHtml": "Commission Implementing Regulation (EU) No 2017/373 lays down common requirements for providers of...",
   "options": {
     "a": "the common rules of the air.",
@@ -10,5 +10,10 @@
     "d": "administrative procedures related to civil aviation aircrew."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100472,
+    "number": "109803"
+  }
 }

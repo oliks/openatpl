@@ -1,7 +1,7 @@
 {
   "number": 1105,
-  "questionId": 84067,
-  "questionNumber": "324890",
+  "questionId": "032-1105",
+  "questionNumber": "032-1105",
   "stemHtml": "Which of these combinations would provide the lowest specific fuel consumption (SFC)?",
   "options": {
     "a": "Low altitude, low temperature",
@@ -10,5 +10,10 @@
     "d": "High altitude, low temperature"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84067,
+    "number": "324890"
+  }
 }

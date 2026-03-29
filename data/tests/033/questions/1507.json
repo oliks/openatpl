@@ -1,7 +1,7 @@
 {
   "number": 1507,
-  "questionId": 70562,
-  "questionNumber": "333588",
+  "questionId": "033-1507",
+  "questionNumber": "033-1507",
   "stemHtml": "<p>Given the following information, what is the expected leg time?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Leg track : 090\u00b0</span>  <br />  \nDistance : 100 NM  <br />  \nTAS : 350 kt  <br />  \nWind : 030\u00b0/100 kt</p>",
   "options": {
     "a": "17 minutes",
@@ -10,5 +10,10 @@
     "d": "23 minutes"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70562,
+    "number": "333588"
+  }
 }

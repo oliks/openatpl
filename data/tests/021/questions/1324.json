@@ -1,7 +1,7 @@
 {
   "number": 1324,
-  "questionId": 79733,
-  "questionNumber": "211450",
+  "questionId": "021-1324",
+  "questionNumber": "021-1324",
   "stemHtml": "<p>What is the input data of the Anti-skid system?</p><p>1. Wheel speed<br>2. Groundspeed<br>3. Wheel speed of all the wheels on the boogie<br>4. Tire pressure<br>5. Brake temperature</p>",
   "options": {
     "a": "1, 3 and 4.",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3, and 4.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79733,
+    "number": "211450"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1757,
-  "questionId": 163064,
-  "questionNumber": "105695",
+  "questionId": "010-1757",
+  "questionNumber": "010-1757",
   "stemHtml": "<p>Select the correct statements regarding the revalidation of an A320 type rating:</p><p>1. Revalidation may be completed after flying on line for 10 sectors on the A320\u00a0<br>2. Revalidation may be completed after flying on line for 12 sectors on the A320\u00a0<br>3. Revalidation may be completed within 3 months preceding the expiry date\u00a0<br>4. Revalidation may be completed within 6 months preceding the expiry date</p>",
   "options": {
     "a": "<p>1 and 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 3</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163064,
+    "number": "105695"
+  }
 }

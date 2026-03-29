@@ -1,7 +1,7 @@
 {
   "number": 1427,
-  "questionId": 96504,
-  "questionNumber": "218386",
+  "questionId": "021-1427",
+  "questionNumber": "021-1427",
   "stemHtml": "<p>Which of the following is an advantage of Fly-By-Wire systems and their redundancy?</p>",
   "options": {
     "a": "Better precision.",
@@ -10,5 +10,10 @@
     "d": "<p>Require more maintenance.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96504,
+    "number": "218386"
+  }
 }

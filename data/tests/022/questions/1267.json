@@ -1,7 +1,7 @@
 {
   "number": 1267,
-  "questionId": 86141,
-  "questionNumber": "221206",
+  "questionId": "022-1267",
+  "questionNumber": "022-1267",
   "stemHtml": "<p>What feature makes the IVSI a better instrument?</p>",
   "options": {
     "a": "<p>It uses accelerometers to make the reaction time quicker.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Accelerometers change the pressure in the capsule.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86141,
+    "number": "221206"
+  }
 }

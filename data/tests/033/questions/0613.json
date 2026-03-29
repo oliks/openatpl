@@ -1,7 +1,7 @@
 {
   "number": 613,
-  "questionId": 78839,
-  "questionNumber": "339242",
+  "questionId": "033-0613",
+  "questionNumber": "033-0613",
   "stemHtml": "Refer to figures.<br />\r\nWhich STARs should the pilot choose when approaching AMSTERDAM SCHIPHOL (EHAM) from the South?",
   "options": {
     "a": "DENUT 1A, HELEN 1A, PESER 2A, PUTTY 1A.",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/F6B4117C-C55B-4D67-9BC3-7A4EB7D4739B.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F6B4117C-C55B-4D67-9BC3-7A4EB7D4739B.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78839,
+    "number": "339242"
+  }
 }

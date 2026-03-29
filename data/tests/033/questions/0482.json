@@ -1,7 +1,7 @@
 {
   "number": 482,
-  "questionId": 81817,
-  "questionNumber": "332053",
+  "questionId": "033-0482",
+  "questionNumber": "033-0482",
   "stemHtml": "Who is responsible for terrain separation during an IFR flight on an ATS route?",
   "options": {
     "a": "The aircraft owner.",
@@ -10,5 +10,10 @@
     "d": "Air Traffic Control service."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81817,
+    "number": "332053"
+  }
 }

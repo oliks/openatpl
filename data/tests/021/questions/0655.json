@@ -1,7 +1,7 @@
 {
   "number": 655,
-  "questionId": 103789,
-  "questionNumber": "211283",
+  "questionId": "021-0655",
+  "questionNumber": "021-0655",
   "stemHtml": "<p>Assuming that the APU is unserviceable, after a failure of both AC generators, a RAT (Ram Air Turbine), if fitted, will be able to provide power for...</p>",
   "options": {
     "a": "<p>the batteries.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>essential AC services.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103789,
+    "number": "211283"
+  }
 }

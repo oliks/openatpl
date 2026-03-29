@@ -1,7 +1,7 @@
 {
   "number": 527,
-  "questionId": 83352,
-  "questionNumber": "103120",
+  "questionId": "010-0527",
+  "questionNumber": "010-0527",
   "stemHtml": "While passing through the transition layer, an aircraft's vertical position shall be expressed in terms of flight levels when (1) _____ and altitude when (2) _____.",
   "options": {
     "a": "(1) en-route; (2) landing",
@@ -10,5 +10,10 @@
     "d": "(1) landing; (2) enroute"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83352,
+    "number": "103120"
+  }
 }

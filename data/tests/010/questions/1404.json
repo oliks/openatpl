@@ -1,7 +1,7 @@
 {
   "number": 1404,
-  "questionId": 67216,
-  "questionNumber": "105955",
+  "questionId": "010-1404",
+  "questionNumber": "010-1404",
   "stemHtml": "Air navigation services over high seas are provided..",
   "options": {
     "a": "by delegation, US over Atlantic, Russia over Arctic, Australia over Pacific.",
@@ -10,5 +10,10 @@
     "d": "by a contracting state who has accepted the responsibility of provision of such services."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67216,
+    "number": "105955"
+  }
 }

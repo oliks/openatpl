@@ -1,7 +1,7 @@
 {
   "number": 100,
-  "questionId": 68930,
-  "questionNumber": "223835",
+  "questionId": "022-0100",
+  "questionNumber": "022-0100",
   "stemHtml": "<p>Refer to figure.  <br /> On the ND, the TCAS generates the intruder aircraft symbol represented in the annex. The correct intruder vertical information is\u2026</p>",
   "options": {
     "a": "300 ft below, descending.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/331D4B57-A499-4909-88C4-0C94771198A6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/331D4B57-A499-4909-88C4-0C94771198A6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68930,
+    "number": "223835"
+  }
 }

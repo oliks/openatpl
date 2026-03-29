@@ -1,7 +1,7 @@
 {
   "number": 1326,
-  "questionId": 67860,
-  "questionNumber": "219455",
+  "questionId": "021-1326",
+  "questionNumber": "021-1326",
   "stemHtml": "<p>Consider a piston-engine aircraft with a constant speed propeller. Upon reaching cruising altitude when less power is required, engine power is\u2026</p>",
   "options": {
     "a": "reduced by lowering the manifold pressure and increasing the blade angle, to decrease RPM.",
@@ -10,5 +10,10 @@
     "d": "maintained but the blade angle is decreased, to decrease RPM."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67860,
+    "number": "219455"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1370,
-  "questionId": 102815,
-  "questionNumber": "333570",
+  "questionId": "033-1370",
+  "questionNumber": "033-1370",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from the Jeppesen GSPRM 2017. <br>For an aircraft flying VFR from Straubing (EDMS) aerodrome (N48\u00b054.0\u2019 E012\u00b031.1\u2019) to Linz International (LOWL) aerodrome (N48\u00b014.1\u2019 E014\u00b011.3\u2019), what is the ideal cruise level between the following options?</p>",
   "options": {
     "a": "<p>FL070</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/f37d5fd7-5cbc-4897-a588-a0f74effe2be.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f37d5fd7-5cbc-4897-a588-a0f74effe2be.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102815,
+    "number": "333570"
+  }
 }

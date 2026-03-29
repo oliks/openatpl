@@ -1,7 +1,7 @@
 {
   "number": 1447,
-  "questionId": 102990,
-  "questionNumber": "226761",
+  "questionId": "022-1447",
+  "questionNumber": "022-1447",
   "stemHtml": "<p>When does auto trim start to work on Fly-By-Wire aircraft?</p>",
   "options": {
     "a": "<p>when autopilot is engaged.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>after first engine start.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102990,
+    "number": "226761"
+  }
 }

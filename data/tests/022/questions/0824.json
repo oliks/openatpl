@@ -1,7 +1,7 @@
 {
   "number": 824,
-  "questionId": 109062,
-  "questionNumber": "223035",
+  "questionId": "022-0824",
+  "questionNumber": "022-0824",
   "stemHtml": "<p>In a remote reading compass, what is the function of the Selsyn unit?</p>",
   "options": {
     "a": "<p>To compute directional information using input from the flux valve and the directional gyroscope.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To compute navigation data by interpreting flux and torque inputs.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109062,
+    "number": "223035"
+  }
 }

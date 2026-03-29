@@ -1,7 +1,7 @@
 {
   "number": 863,
-  "questionId": 106113,
-  "questionNumber": "214466",
+  "questionId": "021-0863",
+  "questionNumber": "021-0863",
   "stemHtml": "<p>What is the primary purpose of a flight control lock?</p>",
   "options": {
     "a": "<p>To lock the flight controls on the ground when the engines are off.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Reducing the magnitude of movement of the control surfaces.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106113,
+    "number": "214466"
+  }
 }

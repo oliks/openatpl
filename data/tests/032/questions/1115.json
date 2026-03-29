@@ -1,7 +1,7 @@
 {
   "number": 1115,
-  "questionId": 160540,
-  "questionNumber": "327878",
+  "questionId": "032-1115",
+  "questionNumber": "032-1115",
   "stemHtml": "<p>Given the following information, what is the distance from the end of the TODR to 1500 ft above reference zero for the purpose of obstacle clearance for a performance class B aeroplane?</p><p>Cloud base: 400 ft above reference zero\u00a0<br>TAS: 97 kt\u00a0<br>Headwind component: 12 kt\u00a0<br>All engines rate of climb at take-off power: 1720 ft/min\u00a0<br>Single engine rate of climb at take-off power: 325 ft /min</p>",
   "options": {
     "a": "<p>5.31 NM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>5.53 NM</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160540,
+    "number": "327878"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 419,
-  "questionId": 67575,
-  "questionNumber": "219560",
+  "questionId": "021-0419",
+  "questionNumber": "021-0419",
   "stemHtml": "<p>Refer to figure. <br>In the diagram (not to scale), the balancing force required on the right hand side is\u2026</p>",
   "options": {
     "a": "100 N",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/018EBB19-D472-47C2-A01E-8CCDAD523550.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/018EBB19-D472-47C2-A01E-8CCDAD523550.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67575,
+    "number": "219560"
+  }
 }

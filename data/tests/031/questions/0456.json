@@ -1,7 +1,7 @@
 {
   "number": 456,
-  "questionId": 69527,
-  "questionNumber": "315860",
+  "questionId": "031-0456",
+  "questionNumber": "031-0456",
   "stemHtml": "Refer to figure. <br /> Calculate the CG position and moment for the BASIC EMPTY MASS by using the data given from the attached table:",
   "options": {
     "a": "113.6 in aft of datum and the moment is 430 998 in.lb",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/da5c46c6-15bc-44d2-a51c-ae4d6e12dfc9.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/da5c46c6-15bc-44d2-a51c-ae4d6e12dfc9.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69527,
+    "number": "315860"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1173,
-  "questionId": 100779,
-  "questionNumber": "101377",
+  "questionId": "010-1173",
+  "questionNumber": "010-1173",
   "stemHtml": "<p>A MPL (Multi-Crew Pilot License) gives you the right to\u2026</p>",
   "options": {
     "a": "Act as co-pilot in an aircraft which requires a co-pilot.",
@@ -10,5 +10,10 @@
     "d": "Act as PIC of any aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100779,
+    "number": "101377"
+  }
 }

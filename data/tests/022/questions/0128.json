@@ -1,7 +1,7 @@
 {
   "number": 128,
-  "questionId": 108662,
-  "questionNumber": "227185",
+  "questionId": "022-0128",
+  "questionNumber": "022-0128",
   "stemHtml": "<p>What units does a torquemeter use?</p>",
   "options": {
     "a": "<p>RPM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Celcius</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108662,
+    "number": "227185"
+  }
 }

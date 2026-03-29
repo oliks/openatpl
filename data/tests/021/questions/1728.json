@@ -1,7 +1,7 @@
 {
   "number": 1728,
-  "questionId": 82022,
-  "questionNumber": "219707",
+  "questionId": "021-1728",
+  "questionNumber": "021-1728",
   "stemHtml": "<p>Inside a reciprocating engine, the connecting rods and the crankshaft convert the (1) _____ motion of the (2) _____ into a (3) _____ motion.</p>",
   "options": {
     "a": "<p>(1) linear; (2) piston; (3) rotary</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) rotary; (2) camshaft; (3) linear</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82022,
+    "number": "219707"
+  }
 }

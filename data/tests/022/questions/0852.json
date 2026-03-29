@@ -1,7 +1,7 @@
 {
   "number": 852,
-  "questionId": 82065,
-  "questionNumber": "229487",
+  "questionId": "022-0852",
+  "questionNumber": "022-0852",
   "stemHtml": "<p>What input(s) does the ADC use to obtain CAS?</p>",
   "options": {
     "a": "<p>TAS</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pitot pressure</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82065,
+    "number": "229487"
+  }
 }

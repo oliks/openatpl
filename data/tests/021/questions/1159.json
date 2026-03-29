@@ -1,7 +1,7 @@
 {
   "number": 1159,
-  "questionId": 78761,
-  "questionNumber": "219390",
+  "questionId": "021-1159",
+  "questionNumber": "021-1159",
   "stemHtml": "<p>In a differential pressure ice accretion detector...</p>",
   "options": {
     "a": "<p>Small holes are heated first.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A temperature and a moisture detector are always included.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78761,
+    "number": "219390"
+  }
 }

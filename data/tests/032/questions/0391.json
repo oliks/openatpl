@@ -1,7 +1,7 @@
 {
   "number": 391,
-  "questionId": 69749,
-  "questionNumber": "326724",
+  "questionId": "032-0391",
+  "questionNumber": "032-0391",
   "stemHtml": "<p>The tangent from the origin to the power required against true airspeed curve, for a jet aeroplane, determines the speed for\u2026</p>",
   "options": {
     "a": "maximum specific range.",
@@ -10,5 +10,10 @@
     "d": "minimum power."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69749,
+    "number": "326724"
+  }
 }

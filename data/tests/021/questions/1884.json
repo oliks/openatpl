@@ -1,7 +1,7 @@
 {
   "number": 1884,
-  "questionId": 67875,
-  "questionNumber": "212023",
+  "questionId": "021-1884",
+  "questionNumber": "021-1884",
   "stemHtml": "Which option is a desired characteristic for piston-engine fuel?",
   "options": {
     "a": "Good anti-knock properties.",
@@ -10,5 +10,10 @@
     "d": "High flash point."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67875,
+    "number": "212023"
+  }
 }

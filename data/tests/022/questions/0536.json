@@ -1,7 +1,7 @@
 {
   "number": 536,
-  "questionId": 68663,
-  "questionNumber": "227013",
+  "questionId": "022-0536",
+  "questionNumber": "022-0536",
   "stemHtml": "The yaw damper affects:",
   "options": {
     "a": "ailerons and rudder.",
@@ -10,5 +10,10 @@
     "d": "rudder only."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68663,
+    "number": "227013"
+  }
 }

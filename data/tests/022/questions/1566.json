@@ -1,7 +1,7 @@
 {
   "number": 1566,
-  "questionId": 68991,
-  "questionNumber": "226818",
+  "questionId": "022-1566",
+  "questionNumber": "022-1566",
   "stemHtml": "<p>A tachometer measures\u2026</p>",
   "options": {
     "a": "engine vibration.",
@@ -10,5 +10,10 @@
     "d": "engine operating hours."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68991,
+    "number": "226818"
+  }
 }

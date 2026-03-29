@@ -1,7 +1,7 @@
 {
   "number": 1861,
-  "questionId": 110066,
-  "questionNumber": "214870",
+  "questionId": "021-1861",
+  "questionNumber": "021-1861",
   "stemHtml": "<p>Regarding various types of switches used to control aircraft electrical systems, select the three correct statements...</p><p>1.  Rocker switches can operate on one circuit, switching it on or off, depending on its position.  <br />  2. Rotary switches perform the function of 4 guarded switches.  <br />  3. Toggle switches, when pulled upwards and towards the pilot, will be in the \u2018on\u2019 position.  <br />  4. Toggle switches can operate on one circuit, switching it on or off, depending on its position.  <br />  5. Push switches are sprung and can be used to active or de-activate one circuit.</p>",
   "options": {
     "a": "<p>1, 3 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 4 and 5</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110066,
+    "number": "214870"
+  }
 }

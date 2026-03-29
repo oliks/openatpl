@@ -1,7 +1,7 @@
 {
   "number": 1190,
-  "questionId": 78322,
-  "questionNumber": "101473",
+  "questionId": "010-1190",
+  "questionNumber": "010-1190",
   "stemHtml": "<p>A MPL (Multi-Crew Pilot License) gives you the right to\u2026</p>",
   "options": {
     "a": "Act as PIC in both single and multi engine aircraft.",
@@ -10,5 +10,10 @@
     "d": "Act as a PIC in non commercial air travel and Co-pilot in cross-atlantic flights."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78322,
+    "number": "101473"
+  }
 }

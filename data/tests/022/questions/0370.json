@@ -1,7 +1,7 @@
 {
   "number": 370,
-  "questionId": 80825,
-  "questionNumber": "222893",
+  "questionId": "022-0370",
+  "questionNumber": "022-0370",
   "stemHtml": "<p>The aircraft\u2019s RNAV computer receives a TAS input and a heading input\u2026</p>",
   "options": {
     "a": "To calculate the time to go (TTG) to the TO-waypoint.",
@@ -10,5 +10,10 @@
     "d": "To calculate the cross track error."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80825,
+    "number": "222893"
+  }
 }

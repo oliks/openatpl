@@ -1,7 +1,7 @@
 {
   "number": 1106,
-  "questionId": 68461,
-  "questionNumber": "229947",
+  "questionId": "022-1106",
+  "questionNumber": "022-1106",
   "stemHtml": "<p>The full alignment of a stabilised platform inertial system can be carried out\u2026</p>",
   "options": {
     "a": "on the ground or when in straight and levelled flight.",
@@ -10,5 +10,10 @@
     "d": "on the ground only and when the aircraft is at a full stop."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68461,
+    "number": "229947"
+  }
 }

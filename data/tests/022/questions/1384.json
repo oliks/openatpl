@@ -1,7 +1,7 @@
 {
   "number": 1384,
-  "questionId": 80838,
-  "questionNumber": "228322",
+  "questionId": "022-1384",
+  "questionNumber": "022-1384",
   "stemHtml": "What is correct for aircraft equipment which operates to RNP 1 and better?",
   "options": {
     "a": "The equipment should be able to compute an estimated value of the aircraft\u2019s position error.",
@@ -10,5 +10,10 @@
     "d": "The equipment should be able to correct for the exact value of the aircraft\u2019s position error."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80838,
+    "number": "228322"
+  }
 }

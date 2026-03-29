@@ -1,7 +1,7 @@
 {
   "number": 352,
-  "questionId": 70544,
-  "questionNumber": "338946",
+  "questionId": "033-0352",
+  "questionNumber": "033-0352",
   "stemHtml": "<p>(For this question use annex 033-036 and 033-038 rev. 05.11.2004).  <br />  \nAssuming the following data below, what is the time needed to carry out such a flight?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Ground distance to be covered: 2000 NM</span>  <br />  \nCruise flight level: FL330  <br />  \nCruising speed: Mach 0.82 (true airspeed: 470 kt)  <br />  \nHead wind component: 30 kt  <br />  \nPlanned destination landing mass: 160 000 kg  <br />  \nTemperature: ISA  <br />  \nCG: 37%  <br />  \nTotal anti-ice: ON  <br />  \nPack flow: HI</p>",
   "options": {
     "a": "4 hours 43 minutes",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/5BEFCBB2-4AB6-44FF-A046-FE4A94597E12.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5BEFCBB2-4AB6-44FF-A046-FE4A94597E12.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70544,
+    "number": "338946"
+  }
 }

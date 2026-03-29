@@ -1,7 +1,7 @@
 {
   "number": 31,
-  "questionId": 100282,
-  "questionNumber": "215897",
+  "questionId": "021-0031",
+  "questionNumber": "021-0031",
   "stemHtml": "A piston engine has failed to stop with the magneto switch in the OFF position, what may have caused this?",
   "options": {
     "a": "Excessive carbon build-ups in the cylinder head.",
@@ -10,5 +10,10 @@
     "d": "A fully grounded switch wire."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100282,
+    "number": "215897"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 291,
-  "questionId": 68495,
-  "questionNumber": "222204",
+  "questionId": "022-0291",
+  "questionNumber": "022-0291",
   "stemHtml": "<p>In a compensated capacitance type quantity indicating system, the contents gauge of a half-full fuel tank indicates a fuel mass of 8000 kg. If a temperature rise increased the volume of fuel by 5%, the indicated fuel mass would\u2026</p>",
   "options": {
     "a": "remain the same.",
@@ -10,5 +10,10 @@
     "d": "increase by 10%."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68495,
+    "number": "222204"
+  }
 }

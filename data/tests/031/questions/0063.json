@@ -1,7 +1,7 @@
 {
   "number": 63,
-  "questionId": 69414,
-  "questionNumber": "316871",
+  "questionId": "031-0063",
+  "questionNumber": "031-0063",
   "stemHtml": "<p>The Operating Mass of an aircraft is\u2026</p>",
   "options": {
     "a": "<p>Basic Empty Mass plus the special operational equipment.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Dry Operating Mass plus the trip fuel mass.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69414,
+    "number": "316871"
+  }
 }

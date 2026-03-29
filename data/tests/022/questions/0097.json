@@ -1,7 +1,7 @@
 {
   "number": 97,
-  "questionId": 163088,
-  "questionNumber": "223937",
+  "questionId": "022-0097",
+  "questionNumber": "022-0097",
   "stemHtml": "<p>Refer to figure.            <br />            What type of Machmeter display is shown on the airspeed display shown in the annex?</p>",
   "options": {
     "a": "<p>Point Machmeter</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/720bd73f-7716-4d61-a1d8-b9a834031ee2.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/720bd73f-7716-4d61-a1d8-b9a834031ee2.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163088,
+    "number": "223937"
+  }
 }

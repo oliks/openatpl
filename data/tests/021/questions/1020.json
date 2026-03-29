@@ -1,7 +1,7 @@
 {
   "number": 1020,
-  "questionId": 68189,
-  "questionNumber": "215018",
+  "questionId": "021-1020",
+  "questionNumber": "021-1020",
   "stemHtml": "<p>The Throttle Lever Angle (TLA) information of a FADEC controlled gas turbine engine is provided\u2026</p>",
   "options": {
     "a": "to the hydro mechanical main engine control.",
@@ -10,5 +10,10 @@
     "d": "via cables and pulleys."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68189,
+    "number": "215018"
+  }
 }

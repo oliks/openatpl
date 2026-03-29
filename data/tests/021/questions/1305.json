@@ -1,7 +1,7 @@
 {
   "number": 1305,
-  "questionId": 67295,
-  "questionNumber": "218479",
+  "questionId": "021-1305",
+  "questionNumber": "021-1305",
   "stemHtml": "<p>A piston engine may use a fuel of a different grade than the recommended\u2026</p>",
   "options": {
     "a": "never",
@@ -10,5 +10,10 @@
     "d": "provided that the grade is higher"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67295,
+    "number": "218479"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 447,
-  "questionId": 111466,
-  "questionNumber": "103350",
+  "questionId": "010-0447",
+  "questionNumber": "010-0447",
   "stemHtml": "<p>ACN appears in which of the following formats according to ICAO definitions?</p>",
   "options": {
     "a": "<p>An identifier</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A symbol</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111466,
+    "number": "103350"
+  }
 }

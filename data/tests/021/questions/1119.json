@@ -1,7 +1,7 @@
 {
   "number": 1119,
-  "questionId": 67418,
-  "questionNumber": "219834",
+  "questionId": "021-1119",
+  "questionNumber": "021-1119",
   "stemHtml": "<p>A twin-spool engine with an inlet air mass flow of 500 kg/s and a bypass mass flow of 250 kg/s has a bypass ratio (BPR) of\u2026</p>",
   "options": {
     "a": "3",
@@ -10,5 +10,10 @@
     "d": "1"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67418,
+    "number": "219834"
+  }
 }

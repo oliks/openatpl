@@ -1,7 +1,7 @@
 {
   "number": 1866,
-  "questionId": 164402,
-  "questionNumber": "219790",
+  "questionId": "021-1866",
+  "questionNumber": "021-1866",
   "stemHtml": "<p>Which of the following statements accurately defines the concept of material fatigue as it applies to aircraft structures and engineering materials?</p>",
   "options": {
     "a": "<p>If a material is continually loaded and unloaded, it will eventually break even though the load remains the same.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The material suffers progressively more permanent damage each time that it is loaded and unloaded.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164402,
+    "number": "219790"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 340,
-  "questionId": 102542,
-  "questionNumber": "105121",
+  "questionId": "010-0340",
+  "questionNumber": "010-0340",
   "stemHtml": "<p>What factor is not taken into account in establishing the Aerodrome Operating Minima?</p>",
   "options": {
     "a": "<p>The competence and experience of flight crews.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Dimensions and characteristics of runways.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102542,
+    "number": "105121"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 288,
-  "questionId": 108549,
-  "questionNumber": "311353",
+  "questionId": "031-0288",
+  "questionNumber": "031-0288",
   "stemHtml": "<p>Take-off Mass (TOM): 6670 kg <br /> \rTake-off CG position: 3.84 m <br /> \rLast-minute additional load: 200 kg <br /> \rIn case the new CG postion is required to be at 3.95 m, the additional load should be placed at which station?</p>",
   "options": {
     "a": "<p>3.78 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>7.51 m</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108549,
+    "number": "311353"
+  }
 }

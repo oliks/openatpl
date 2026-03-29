@@ -1,7 +1,7 @@
 {
   "number": 799,
-  "questionId": 110641,
-  "questionNumber": "227075",
+  "questionId": "022-0799",
+  "questionNumber": "022-0799",
   "stemHtml": "<p>How is TCAS II horizontal and vertical display range normally adjusted?</p>",
   "options": {
     "a": "<p>Automatically horizontally and vertically.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Manually horizontally and automatically vertically.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110641,
+    "number": "227075"
+  }
 }

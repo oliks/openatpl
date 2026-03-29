@@ -1,7 +1,7 @@
 {
   "number": 1001,
-  "questionId": 68240,
-  "questionNumber": "219788",
+  "questionId": "021-1001",
+  "questionNumber": "021-1001",
   "stemHtml": "<p>After start of a piston engine, correct operation of the pitch adjustment system of a constant speed propeller can be confirmed by altering the propeller control lever and checking indications on the\u2026</p>",
   "options": {
     "a": "<p>manifold pressure gauge.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>tachometer.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68240,
+    "number": "219788"
+  }
 }

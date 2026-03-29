@@ -1,7 +1,7 @@
 {
   "number": 1275,
-  "questionId": 82699,
-  "questionNumber": "215813",
+  "questionId": "021-1275",
+  "questionNumber": "021-1275",
   "stemHtml": "<p>Consider a fuel injection system. Which is the central point from where fuel is distributed to the individual cylinders?</p>",
   "options": {
     "a": "<p>Manifold valve</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Injection valve</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82699,
+    "number": "215813"
+  }
 }

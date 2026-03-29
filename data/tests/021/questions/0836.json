@@ -1,7 +1,7 @@
 {
   "number": 836,
-  "questionId": 80754,
-  "questionNumber": "211660",
+  "questionId": "021-0836",
+  "questionNumber": "021-0836",
   "stemHtml": "What is likely to cause a short circuit?",
   "options": {
     "a": "Corrosion of the aircraft's metal skin.",
@@ -10,5 +10,10 @@
     "d": "Missing static dischargers."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80754,
+    "number": "211660"
+  }
 }

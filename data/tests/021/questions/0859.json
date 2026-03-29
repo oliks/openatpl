@@ -1,7 +1,7 @@
 {
   "number": 859,
-  "questionId": 78765,
-  "questionNumber": "218591",
+  "questionId": "021-0859",
+  "questionNumber": "021-0859",
   "stemHtml": "<p>The dry sump oil system for a piston engine incorporates an oil tank with normally two stack pipes installed. Stack pipes can be found...</p>",
   "options": {
     "a": "<p>At the top and in the bottom of the tank.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Both in the bottom of the tank.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78765,
+    "number": "218591"
+  }
 }

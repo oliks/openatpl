@@ -1,7 +1,7 @@
 {
   "number": 275,
-  "questionId": 81752,
-  "questionNumber": "337652",
+  "questionId": "033-0275",
+  "questionNumber": "033-0275",
   "stemHtml": "<p style=\"\">Refer to figure. <br /> The figure shows a partially completed navigation plan from Ajaccio aerodrome (LFKJ) in Corsica with elevation 17 ft. If your rate of climb is 1000 ft/min, at what distance from AJO will you reach FL130?</p>",
   "options": {
     "a": "30 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/A9A6B169-77F9-49E1-8BC5-16CCCF36773E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/A9A6B169-77F9-49E1-8BC5-16CCCF36773E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81752,
+    "number": "337652"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1291,
-  "questionId": 80811,
-  "questionNumber": "228178",
+  "questionId": "022-1291",
+  "questionNumber": "022-1291",
   "stemHtml": "In an autopilot system, What does the Flight Mode Annunciator (FMA) indicate?",
   "options": {
     "a": "Flight Warning System (FWS) modes.",
@@ -10,5 +10,10 @@
     "d": "EGPWS modes."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80811,
+    "number": "228178"
+  }
 }

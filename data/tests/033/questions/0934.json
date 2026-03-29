@@ -1,7 +1,7 @@
 {
   "number": 934,
-  "questionId": 70807,
-  "questionNumber": "339723",
+  "questionId": "033-0934",
+  "questionNumber": "033-0934",
   "stemHtml": "<p>Refer to figure or CAP 697 Figure 2.2, Table 2.2.1. <br>Given the following information, what is the fuel flow?</p><p>Power setting: Full throttle / 2500 RPM <br>Altitude: 11 000 ft <br>OAT: -7\u00b0C</p>",
   "options": {
     "a": "70.55 lb/h",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/57adc012-a8b9-4902-a492-4a6c56a2f9df.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/57adc012-a8b9-4902-a492-4a6c56a2f9df.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70807,
+    "number": "339723"
+  }
 }

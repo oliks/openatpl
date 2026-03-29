@@ -1,7 +1,7 @@
 {
   "number": 551,
-  "questionId": 103203,
-  "questionNumber": "211232",
+  "questionId": "021-0551",
+  "questionNumber": "021-0551",
   "stemHtml": "<p>Shimmy occurs on the nose-wheel landing gear during taxiing when the wheels:</p>\r\r<p>1. tend to describe a sinusoidal motion on the ground <br /> \r2. no longer respond to the pilot's actions</p>\r\r<p>This effect is countered by:</p>\r\r<p>3. the torque link <br /> \r4. an accumulator associated with the steering cylinder</p>",
   "options": {
     "a": "<p>1, 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 4.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103203,
+    "number": "211232"
+  }
 }

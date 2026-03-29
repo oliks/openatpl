@@ -1,7 +1,7 @@
 {
   "number": 506,
-  "questionId": 161752,
-  "questionNumber": "218890",
+  "questionId": "021-0506",
+  "questionNumber": "021-0506",
   "stemHtml": "<p>An aircraft is parked at the gate with engines shut down during passenger boarding operations. What is the primary source of electrical power?</p>",
   "options": {
     "a": "<p>APU <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>DC generator</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161752,
+    "number": "218890"
+  }
 }

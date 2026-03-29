@@ -1,7 +1,7 @@
 {
   "number": 1213,
-  "questionId": 83665,
-  "questionNumber": "332064",
+  "questionId": "033-1213",
+  "questionNumber": "033-1213",
   "stemHtml": "An aircraft is flying under IFR using its FMS for area navigation and intends to enter a controlled airspace via waypoint OSLEL. The aircraft is cleared to approach OSLEL at 1346Z. The current Estimated Time Overhead (ETO) OSLEL is 1343Z and the pilot decreases the groundspeed accordingly. What is the appropriate way of checking that the new speed is suitable to arrive overhead OSLEL at 1346Z?",
   "options": {
     "a": "The FMS will give the crew a time to run to OSLEL, from which they can confirm the ETO is correct.",
@@ -10,5 +10,10 @@
     "d": "The FMS will give the crew groundspeed, and the change in groundspeed can be used to adjust the ETO at OSLEL."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83665,
+    "number": "332064"
+  }
 }

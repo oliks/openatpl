@@ -1,7 +1,7 @@
 {
   "number": 451,
-  "questionId": 82829,
-  "questionNumber": "213570",
+  "questionId": "021-0451",
+  "questionNumber": "021-0451",
   "stemHtml": "<p>How is the landing gear usually locked in the down position after an emergency extension?</p>",
   "options": {
     "a": "<p>A lower over-centre lock.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>They are not locked down.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82829,
+    "number": "213570"
+  }
 }

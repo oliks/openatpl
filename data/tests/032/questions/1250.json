@@ -1,7 +1,7 @@
 {
   "number": 1250,
-  "questionId": 69645,
-  "questionNumber": "322798",
+  "questionId": "032-1250",
+  "questionNumber": "032-1250",
   "stemHtml": "Where on the power-required/power-available graph can you find the speed for best range?",
   "options": {
     "a": "At the point where the power-required curve intersects the power-available curve.",
@@ -10,5 +10,10 @@
     "d": "By drawing a tangent from the origin of the graph up to the power-required curve."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69645,
+    "number": "322798"
+  }
 }

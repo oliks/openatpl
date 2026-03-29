@@ -1,7 +1,7 @@
 {
   "number": 384,
-  "questionId": 70284,
-  "questionNumber": "325254",
+  "questionId": "032-0384",
+  "questionNumber": "032-0384",
   "stemHtml": "<p>The landing field length required for jet aeroplanes at the alternate (wet condition) is the demonstrated landing distance plus\u2026</p>",
   "options": {
     "a": "67%",
@@ -10,5 +10,10 @@
     "d": "70%"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70284,
+    "number": "325254"
+  }
 }

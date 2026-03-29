@@ -1,7 +1,7 @@
 {
   "number": 812,
-  "questionId": 108433,
-  "questionNumber": "103528",
+  "questionId": "010-0812",
+  "questionNumber": "010-0812",
   "stemHtml": "<p>Refer to figure. <br /> \rYou vacate the runway to the right and see this marking, what does it mean?</p>",
   "options": {
     "a": "<p>Runway vacated.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/85df7a72-6c0a-496c-8e61-f8a9daabd713.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/85df7a72-6c0a-496c-8e61-f8a9daabd713.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108433,
+    "number": "103528"
+  }
 }

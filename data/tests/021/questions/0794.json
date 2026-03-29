@@ -1,7 +1,7 @@
 {
   "number": 794,
-  "questionId": 78300,
-  "questionNumber": "218158",
+  "questionId": "021-0794",
+  "questionNumber": "021-0794",
   "stemHtml": "<p>What may happen if a mineral based hydraulic oil is used in a system designed for synthetic hydraulic oil?</p>",
   "options": {
     "a": "The jacks will not move.",
@@ -10,5 +10,10 @@
     "d": "The pumps will not work."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78300,
+    "number": "218158"
+  }
 }

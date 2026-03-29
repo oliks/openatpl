@@ -1,7 +1,7 @@
 {
   "number": 1013,
-  "questionId": 70406,
-  "questionNumber": "339279",
+  "questionId": "033-1013",
+  "questionNumber": "033-1013",
   "stemHtml": "<p>Refer to figure.\u00a0<br>In the ATC flight plan Item 15, a cruising speed of 470 knots will be entered as\u2026</p>",
   "options": {
     "a": "KN470",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/B305BBBC-6AB3-4C2A-A222-AB022DE5EE2F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/B305BBBC-6AB3-4C2A-A222-AB022DE5EE2F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70406,
+    "number": "339279"
+  }
 }

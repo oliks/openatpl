@@ -1,7 +1,7 @@
 {
   "number": 681,
-  "questionId": 70848,
-  "questionNumber": "333423",
+  "questionId": "033-0681",
+  "questionNumber": "033-0681",
   "stemHtml": "<p>VFR flights shall not be flown over the congested areas of cities at a height less than\u2026</p>",
   "options": {
     "a": "<p>2000 ft above the highest obstacle within a radius of 600 ft from the aircraft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1000 ft above the highest obstacle within a radius of 600 m from the aircraft.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70848,
+    "number": "333423"
+  }
 }

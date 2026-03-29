@@ -1,7 +1,7 @@
 {
   "number": 516,
-  "questionId": 70232,
-  "questionNumber": "328267",
+  "questionId": "032-0516",
+  "questionNumber": "032-0516",
   "stemHtml": "<p>The stopway is included in the...</p>",
   "options": {
     "a": "<p>accelerate stop distance available.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>take-off run required.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70232,
+    "number": "328267"
+  }
 }

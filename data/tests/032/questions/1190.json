@@ -1,7 +1,7 @@
 {
   "number": 1190,
-  "questionId": 69950,
-  "questionNumber": "327991",
+  "questionId": "032-1190",
+  "questionNumber": "032-1190",
   "stemHtml": "What will increase the &quot;Landing-Field Length-Limited landing mass&quot; when operating with the anti-skid inoperative?",
   "options": {
     "a": "a headwind.",
@@ -10,5 +10,10 @@
     "d": "an increase in pressure altitude."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69950,
+    "number": "327991"
+  }
 }

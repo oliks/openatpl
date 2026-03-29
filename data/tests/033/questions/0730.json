@@ -1,7 +1,7 @@
 {
   "number": 730,
-  "questionId": 70857,
-  "questionNumber": "338849",
+  "questionId": "033-0730",
+  "questionNumber": "033-0730",
   "stemHtml": "<p>Given:</p>\r\n\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\" style=\"letter-spacing:0.7px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Distance from departure to destination:</td>\r\n\t\t\t<td style=\"text-align:right\">190 NM</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Safe Endurance:</td>\r\n\t\t\t<td style=\"text-align:right\">2.4 hrs</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>True Track:</td>\r\n\t\t\t<td style=\"text-align:right\">120\u00b0</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>W/V:</td>\r\n\t\t\t<td style=\"text-align:right\">030/40</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>TAS:</td>\r\n\t\t\t<td style=\"text-align:right\">130 kts</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>What is the distance of the PSR from the departure point?</p>",
   "options": {
     "a": "<p>149 NM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>73 NM</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70857,
+    "number": "338849"
+  }
 }

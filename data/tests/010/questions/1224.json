@@ -1,7 +1,7 @@
 {
   "number": 1224,
-  "questionId": 108833,
-  "questionNumber": "102450",
+  "questionId": "010-1224",
+  "questionNumber": "010-1224",
   "stemHtml": "<p>An aircraft is about to taxi to reach the refueling station. The aircraft will conduct a VFR flight later that day. What are the rules it should follow while taxiing?</p>",
   "options": {
     "a": "<p>Local aerodrome rules, general rules of the air and Visual Flight Rules (VFR).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>General rules of the air and Visual Flight Rules (VFR) only.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108833,
+    "number": "102450"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1598,
-  "questionId": 103790,
-  "questionNumber": "227396",
+  "questionId": "022-1598",
+  "questionNumber": "022-1598",
   "stemHtml": "<p>Which of the following are typical inputs to a Flight Management System (FMS)?</p>\r\r<p>1. AFCS <br /> \r2. INS <br /> \r3. ADC</p>\r\r<ul>\r</ul>",
   "options": {
     "a": "<p>1.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 and 3. </p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103790,
+    "number": "227396"
+  }
 }

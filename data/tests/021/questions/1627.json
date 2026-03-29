@@ -1,7 +1,7 @@
 {
   "number": 1627,
-  "questionId": 68343,
-  "questionNumber": "214538",
+  "questionId": "021-1627",
+  "questionNumber": "021-1627",
   "stemHtml": "Which of these statements about an auto-brake system during RTO (Rejected Take Off) is correct?",
   "options": {
     "a": "Manual braking is always the best stopping technique for a rejected take-off.",
@@ -10,5 +10,10 @@
     "d": "When the RTO mode is armed, the system will operate at any speed when the take-off is aborted."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68343,
+    "number": "214538"
+  }
 }

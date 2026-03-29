@@ -1,7 +1,7 @@
 {
   "number": 948,
-  "questionId": 70527,
-  "questionNumber": "335432",
+  "questionId": "033-0948",
+  "questionNumber": "033-0948",
   "stemHtml": "<p>Refer to figures.<br>A turbojet aeroplane is prepared for a 1300 NM flight at FL 350, with a true airspeed of 460 kt and a head wind of 160 kt. The take-off runway limitation is 174 000 kg, the planned departure mass is 160 000 kg.</p><p>The departure fuel price is equal to 0.92 times the arrival fuel price (fuel price ratio = 0.92). In order for the airline to optimise its savings, the additional fuel quantity that must be loaded on board is\u2026</p>",
   "options": {
     "a": "30 000 kg",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/a4a2804c-7f12-4ad4-825c-1c594968980d.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/a4a2804c-7f12-4ad4-825c-1c594968980d.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70527,
+    "number": "335432"
+  }
 }

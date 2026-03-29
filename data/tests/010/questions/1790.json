@@ -1,7 +1,7 @@
 {
   "number": 1790,
-  "questionId": 107035,
-  "questionNumber": "103431",
+  "questionId": "010-1790",
+  "questionNumber": "010-1790",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat does the sign in the annex indicate?</p>",
   "options": {
     "a": "<p>A parking information sign.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/4ffa952b-3a41-43fa-b07b-1c921d26accd.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/4ffa952b-3a41-43fa-b07b-1c921d26accd.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107035,
+    "number": "103431"
+  }
 }

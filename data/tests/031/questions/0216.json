@@ -1,7 +1,7 @@
 {
   "number": 216,
-  "questionId": 83558,
-  "questionNumber": "316913",
+  "questionId": "031-0216",
+  "questionNumber": "031-0216",
   "stemHtml": "<p>The aircraft's fuel gauge is calibrated into litres and the required fuel that must be loaded is 1250 lb for the next flight. If the fuel truck supplies fuel in litres, how many litres are required, with a specific gravity of 0.79 according to the operations manual?</p>",
   "options": {
     "a": "448 litres",
@@ -10,5 +10,10 @@
     "d": "<p>1582 litres</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83558,
+    "number": "316913"
+  }
 }

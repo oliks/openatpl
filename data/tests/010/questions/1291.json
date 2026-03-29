@@ -1,7 +1,7 @@
 {
   "number": 1291,
-  "questionId": 105763,
-  "questionNumber": "106465",
+  "questionId": "010-1291",
+  "questionNumber": "010-1291",
   "stemHtml": "<p>How often should crew members undergo security training?</p>",
   "options": {
     "a": "<p>On initial basis and recurrently.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only initially.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105763,
+    "number": "106465"
+  }
 }

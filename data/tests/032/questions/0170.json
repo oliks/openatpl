@@ -1,7 +1,7 @@
 {
   "number": 170,
-  "questionId": 84857,
-  "questionNumber": "321345",
+  "questionId": "032-0170",
+  "questionNumber": "032-0170",
   "stemHtml": "An air traffic controller clears an aeroplane to climb to FL250 with a minimum required vertical speed of 1500 fpm. The pilot is maintaining a constant CAS of 288 kt, which gives a vertical speed of 1700 fpm whilst climbing through FL100. If the pilot maintains the current settings, what will happen to the vertical speed as the altitude increases?",
   "options": {
     "a": "The <span style=\"letter-spacing:0.7px\">rate of climb will increase as TAS and Mach number increase.</span>",
@@ -10,5 +10,10 @@
     "d": "The rate of climb will gradually increase up to the cruising altitude."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84857,
+    "number": "321345"
+  }
 }

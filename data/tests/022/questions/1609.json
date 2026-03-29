@@ -1,7 +1,7 @@
 {
   "number": 1609,
-  "questionId": 69050,
-  "questionNumber": "225975",
+  "questionId": "022-1609",
+  "questionNumber": "022-1609",
   "stemHtml": "<p>Concerning the FMS, entering a high cost index results in\u2026</p>",
   "options": {
     "a": "minimum trip fuel.",
@@ -10,5 +10,10 @@
     "d": "maximum range airspeed."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69050,
+    "number": "225975"
+  }
 }

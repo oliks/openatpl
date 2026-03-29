@@ -1,7 +1,7 @@
 {
   "number": 1006,
-  "questionId": 83876,
-  "questionNumber": "334890",
+  "questionId": "033-1006",
+  "questionNumber": "033-1006",
   "stemHtml": "<p>Refer to figure Aberdeen Chart 10-1R from the Jeppesen GSPRM 2017.\u00a0<br>What is the Radar Minimum Altitude for an aircraft on a magnetic bearing of 100\u00b0 from the Aberdeen aerodrome (EGPD) and at a distance of 13 NM from the aerodrome?</p>",
   "options": {
     "a": "<p>2300 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5411ACBF-556F-45C6-B75A-BA2EDB7940C3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5411ACBF-556F-45C6-B75A-BA2EDB7940C3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83876,
+    "number": "334890"
+  }
 }

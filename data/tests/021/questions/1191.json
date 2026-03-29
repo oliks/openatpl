@@ -1,7 +1,7 @@
 {
   "number": 1191,
-  "questionId": 67769,
-  "questionNumber": "218255",
+  "questionId": "021-1191",
+  "questionNumber": "021-1191",
   "stemHtml": "<p>In a fire protection system, a continuous loop detector is used in\u2026</p>",
   "options": {
     "a": "a carbon dioxide warning system.",
@@ -10,5 +10,10 @@
     "d": "an overheat detection system."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67769,
+    "number": "218255"
+  }
 }

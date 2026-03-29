@@ -1,7 +1,7 @@
 {
   "number": 777,
-  "questionId": 84565,
-  "questionNumber": "106295",
+  "questionId": "010-0777",
+  "questionNumber": "010-0777",
   "stemHtml": "During the approach aircrafts descend down to an OCA with additional clearance added. For precision approaches this is _____ and for non-precision approaches it is _____.",
   "options": {
     "a": "MDA/DA",
@@ -10,5 +10,10 @@
     "d": "DH/MDH"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84565,
+    "number": "106295"
+  }
 }

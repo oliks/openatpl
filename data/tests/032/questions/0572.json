@@ -1,7 +1,7 @@
 {
   "number": 572,
-  "questionId": 69867,
-  "questionNumber": "325351",
+  "questionId": "032-0572",
+  "questionNumber": "032-0572",
   "stemHtml": "<p>Reduced take-off thrust should normally not be used when\u2026</p>",
   "options": {
     "a": "windshear is reported on the take-off path.",
@@ -10,5 +10,10 @@
     "d": "the runway is wet."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69867,
+    "number": "325351"
+  }
 }

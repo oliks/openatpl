@@ -1,7 +1,7 @@
 {
   "number": 43,
-  "questionId": 83233,
-  "questionNumber": "326028",
+  "questionId": "032-0043",
+  "questionNumber": "032-0043",
   "stemHtml": "<p>Refer to figure. <br /> A pilot is considering the possibility of having to land on a flooded runway and is evaluating the aircraft configuration and the selection of the landing speeds. Given the following information, choose the lowest possible flap setting that would avoid dynamic hydroplaning on landing.</p><p>Landing Mass: 45 000 kg <br /> Tyre pressure: 200 psi</p>",
   "options": {
     "a": "Flaps 15",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/E9F51437-D2C8-485E-9AA3-5982DE407763.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/E9F51437-D2C8-485E-9AA3-5982DE407763.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83233,
+    "number": "326028"
+  }
 }

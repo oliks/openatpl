@@ -1,7 +1,7 @@
 {
   "number": 973,
-  "questionId": 69723,
-  "questionNumber": "328425",
+  "questionId": "032-0973",
+  "questionNumber": "032-0973",
   "stemHtml": "<p>The speed for maximum lift/drag ratio will result in\u2026</p>",
   "options": {
     "a": "The maximum range for a propeller driven aeroplane.",
@@ -10,5 +10,10 @@
     "d": "The maximum range for a jet aeroplane."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69723,
+    "number": "328425"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1394,
-  "questionId": 70457,
-  "questionNumber": "338435",
+  "questionId": "033-1394",
+  "questionNumber": "033-1394",
   "stemHtml": "Refer to figure. <br /> Assuming the same average fuel consumption as from OBEDI to PODET, what would be the planned remaining fuel at waypoint DIMSI?",
   "options": {
     "a": "5640 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/f1a54aae-0168-40b8-9b86-ced2a5742789.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f1a54aae-0168-40b8-9b86-ced2a5742789.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70457,
+    "number": "338435"
+  }
 }

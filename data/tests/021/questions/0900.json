@@ -1,7 +1,7 @@
 {
   "number": 900,
-  "questionId": 68031,
-  "questionNumber": "217520",
+  "questionId": "021-0900",
+  "questionNumber": "021-0900",
   "stemHtml": "<p>The source of air to pressurise the reservoir of an aircraft`s hydraulic system is normally\u2026</p>",
   "options": {
     "a": "<p>the cabin pressurisation system.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the aircraft`s ram air system.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68031,
+    "number": "217520"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1623,
-  "questionId": 68719,
-  "questionNumber": "225669",
+  "questionId": "022-1623",
+  "questionNumber": "022-1623",
   "stemHtml": "The FMS Required Time of Arrival (RTA) function can provide:",
   "options": {
     "a": "a speed target to satisfy a time constraint entered at a flight plan waypoint.",
@@ -10,5 +10,10 @@
     "d": "a time prediction at the flight plan waypoints based on the current speed and speed constraints along the flight plan."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68719,
+    "number": "225669"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1476,
-  "questionId": 66921,
-  "questionNumber": "108564",
+  "questionId": "010-1476",
+  "questionNumber": "010-1476",
   "stemHtml": "Name the information issued by a Meteorological Watch Office concerning the occurrence or expected occurrence of specified en-route weather phenomena, which may affect the safety of low-level aircraft operations and which was not already included in the forecast issued for low level flights in the Flight Information Region concerned or sub-area.",
   "options": {
     "a": "AIRMET information.",
@@ -10,5 +10,10 @@
     "d": "NOTAM information."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66921,
+    "number": "108564"
+  }
 }

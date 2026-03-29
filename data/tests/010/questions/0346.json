@@ -1,7 +1,7 @@
 {
   "number": 346,
-  "questionId": 82092,
-  "questionNumber": "102205",
+  "questionId": "010-0346",
+  "questionNumber": "010-0346",
   "stemHtml": "What aircraft equipment is required to perform dependent parallel approaches onto parallel runways?",
   "options": {
     "a": "Standard IFR navigation equipment.",
@@ -10,5 +10,10 @@
     "d": "RNAV/RNP certified equipment."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82092,
+    "number": "102205"
+  }
 }

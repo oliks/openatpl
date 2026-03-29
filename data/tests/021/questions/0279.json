@@ -1,7 +1,7 @@
 {
   "number": 279,
-  "questionId": 159583,
-  "questionNumber": "213234",
+  "questionId": "021-0279",
+  "questionNumber": "021-0279",
   "stemHtml": "<p>When an aircraft experiences electrical load shedding, what action takes place at the bus bar level?</p><p> </p>",
   "options": {
     "a": "<p>Non-essential consumers are automatically disconnected from the bus bar to reduce electrical load.  <br />   </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Electric charges are redistributed equally between all bus bars to balance the load.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159583,
+    "number": "213234"
+  }
 }

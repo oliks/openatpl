@@ -1,7 +1,7 @@
 {
   "number": 281,
-  "questionId": 69489,
-  "questionNumber": "318931",
+  "questionId": "031-0281",
+  "questionNumber": "031-0281",
   "stemHtml": "Which of the following calculations would be equal to the amount of trip fuel?",
   "options": {
     "a": "Trip Fuel = TOM &ndash; DOM &ndash; Traffic Load &ndash; Taxi Fuel &ndash; Contingency Fuel &ndash; Alternate Fuel &ndash; Final Reserve Fuel &ndash; Extra Fuel",
@@ -10,5 +10,10 @@
     "d": "Trip Fuel = TOM &ndash; DOM &ndash; Contingency Fuel &ndash; Alternate Fuel &ndash; Final Reserve Fuel &ndash; Extra Fuel"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69489,
+    "number": "318931"
+  }
 }

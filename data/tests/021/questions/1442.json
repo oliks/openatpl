@@ -1,7 +1,7 @@
 {
   "number": 1442,
-  "questionId": 68303,
-  "questionNumber": "215214",
+  "questionId": "021-1442",
+  "questionNumber": "021-1442",
   "stemHtml": "<p>The advantages of a gaseous oxygen source compared with a chemical source for the passenger cabin are:</p><p>1. no risk of fire and/or explosion<br>2. possibility to regulate flow<br>3. more capacity</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>2, 3</p>",
@@ -10,5 +10,10 @@
     "d": "2"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68303,
+    "number": "215214"
+  }
 }

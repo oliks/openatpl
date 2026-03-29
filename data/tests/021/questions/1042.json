@@ -1,7 +1,7 @@
 {
   "number": 1042,
-  "questionId": 83128,
-  "questionNumber": "213335",
+  "questionId": "021-1042",
+  "questionNumber": "021-1042",
   "stemHtml": "<p>What is commonly used to gauge the amount of thrust?</p>",
   "options": {
     "a": "<p>The rotation speed of the fan.   </p>",
@@ -10,5 +10,10 @@
     "d": "The oil pressure."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83128,
+    "number": "213335"
+  }
 }

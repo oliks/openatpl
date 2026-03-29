@@ -1,7 +1,7 @@
 {
   "number": 1320,
-  "questionId": 107940,
-  "questionNumber": "225971",
+  "questionId": "022-1320",
+  "questionNumber": "022-1320",
   "stemHtml": "<p>Which of the following statements about a yaw damper system are correct? Select the correct combination.</p>\r\r<p>1. The yaw damper is part of an autopilot yaw channel <br /> \r2. The yaw damper is controlled upstream of the rudder pedals <br /> \r3. The yaw damper helps prevent Dutch roll oscillations <br /> \r4. The yaw damper operates independently of pilot rudder input <br /> \r5. The yaw damper engages automatically when the autopilot is turned on</p>",
   "options": {
     "a": "<p>1, 2, 3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 3, 4</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107940,
+    "number": "225971"
+  }
 }

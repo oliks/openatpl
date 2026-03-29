@@ -1,7 +1,7 @@
 {
   "number": 122,
-  "questionId": 69467,
-  "questionNumber": "314790",
+  "questionId": "031-0122",
+  "questionNumber": "031-0122",
   "stemHtml": "<p>Given:</p><p>Basic Empty Mass = 5300 kg <br>Dry Operating Mass = 5500 kg <br>Zero Fuel Mass = 5980 kg <br>Take-off Mass = 7980 kg</p><p>What is the Traffic Load?</p>",
   "options": {
     "a": "2680 kg",
@@ -10,5 +10,10 @@
     "d": "480 kg"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69467,
+    "number": "314790"
+  }
 }

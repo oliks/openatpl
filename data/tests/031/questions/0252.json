@@ -1,7 +1,7 @@
 {
   "number": 252,
-  "questionId": 69502,
-  "questionNumber": "316831",
+  "questionId": "031-0252",
+  "questionNumber": "031-0252",
   "stemHtml": "<p>If the Centre of Gravity is outside the forward limit in level and forward flight, the drag\u2026</p>",
   "options": {
     "a": "decreases, and the range decreases.",
@@ -10,5 +10,10 @@
     "d": "increases, and endurance decreases."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69502,
+    "number": "316831"
+  }
 }

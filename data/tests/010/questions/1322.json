@@ -1,7 +1,7 @@
 {
   "number": 1322,
-  "questionId": 67258,
-  "questionNumber": "106294",
+  "questionId": "010-1322",
+  "questionNumber": "010-1322",
   "stemHtml": "Name the three basic types of air traffic services:",
   "options": {
     "a": "air traffic control service, flight information service, alerting service",
@@ -10,5 +10,10 @@
     "d": "air traffic control service, flight information service, advisory service"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67258,
+    "number": "106294"
+  }
 }

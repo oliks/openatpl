@@ -1,7 +1,7 @@
 {
   "number": 370,
-  "questionId": 106846,
-  "questionNumber": "109996",
+  "questionId": "010-0370",
+  "questionNumber": "010-0370",
   "stemHtml": "<p>The aerodrome reference code 4E represents the...</p>",
   "options": {
     "a": "<p>wingspan and reference field length.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>reference field length.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106846,
+    "number": "109996"
+  }
 }

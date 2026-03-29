@@ -1,7 +1,7 @@
 {
   "number": 1032,
-  "questionId": 108438,
-  "questionNumber": "224131",
+  "questionId": "022-1032",
+  "questionNumber": "022-1032",
   "stemHtml": "<p>What is the purpose of the balance (slip) indicator's indication?</p>",
   "options": {
     "a": "<p>The angle of bank corresponds to the rate of turn and TAS being flown.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Rate of turn is equal to the rate stated in the Operational Manual.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108438,
+    "number": "224131"
+  }
 }

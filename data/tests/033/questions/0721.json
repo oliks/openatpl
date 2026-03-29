@@ -1,7 +1,7 @@
 {
   "number": 721,
-  "questionId": 81811,
-  "questionNumber": "332387",
+  "questionId": "033-0721",
+  "questionNumber": "033-0721",
   "stemHtml": "<p>Given the following information, calculate the maximum attainable flight time and range.</p><p>Average fuel flow: 9.6 US gal/h <br /> Available fuel: 50 US gal <br /> TAS: 100 kt <br /> Wind component: 15 kt tailwind</p><p>The flight time is (1) _____ and the range is (2) _____.</p>",
   "options": {
     "a": "(1) 5 hours 20 minutes: (2) 599 NM",
@@ -10,5 +10,10 @@
     "d": "(1) 5 hours 13 minutes; (2) 521 NM"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81811,
+    "number": "332387"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 244,
-  "questionId": 106959,
-  "questionNumber": "314012",
+  "questionId": "031-0244",
+  "questionNumber": "031-0244",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the correct statement for the aircraft of the annex?</p>",
   "options": {
     "a": "<p>The longitudinal arms for the 11-seat layout are the same as for the 12-seat layout.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/68fbe74d-baeb-47cd-9c93-2e19f75f45f8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/68fbe74d-baeb-47cd-9c93-2e19f75f45f8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106959,
+    "number": "314012"
+  }
 }

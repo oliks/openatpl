@@ -1,7 +1,7 @@
 {
   "number": 561,
-  "questionId": 162543,
-  "questionNumber": "223287",
+  "questionId": "022-0561",
+  "questionNumber": "022-0561",
   "stemHtml": "<p>Which of the following statements about V<strong><sub>MO</sub></strong><sub> </sub>and V<strong><sub>NE</sub></strong><sub> </sub>are correct?</p><p>1. V<strong><sub>NE</sub></strong> is the never exceed speed which can only be exceeded in still air conditions       <br />       2. V<strong><sub>MO</sub></strong> is the maximum operating speed which can only be exceeded in still air</p>",
   "options": {
     "a": "<p>Both statements are correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 is incorrect; 2 is correct.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162543,
+    "number": "223287"
+  }
 }

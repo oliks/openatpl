@@ -1,7 +1,7 @@
 {
   "number": 177,
-  "questionId": 70889,
-  "questionNumber": "332893",
+  "questionId": "033-0177",
+  "questionNumber": "033-0177",
   "stemHtml": "<p>Refer to figures or DUBROVNIK - charts 19-1 and 19-2 from Jeppesen GSPRM 2017. <br>What is the elevation of the highest obstacle on the chart?</p>",
   "options": {
     "a": "<p>4000 ft AGL</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/B863A738-4B4E-4542-BF1A-8E8443AD82E6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/B863A738-4B4E-4542-BF1A-8E8443AD82E6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70889,
+    "number": "332893"
+  }
 }

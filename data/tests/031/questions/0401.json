@@ -1,7 +1,7 @@
 {
   "number": 401,
-  "questionId": 69324,
-  "questionNumber": "311423",
+  "questionId": "031-0401",
+  "questionNumber": "031-0401",
   "stemHtml": "<p>Given the following information for an aircraft, what is its maximum Traffic Load available?</p><p>Dry Operating Mass: 3000 kg<br>Maximum Take-off, Landing, and Zero-fuel Mass: 5200 kg<br>Ramp Fuel: 650 kg<br>Taxi Fuel: 50 kg</p>",
   "options": {
     "a": "<p>2200 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2150 kg.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69324,
+    "number": "311423"
+  }
 }

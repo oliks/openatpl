@@ -1,7 +1,7 @@
 {
   "number": 239,
-  "questionId": 69799,
-  "questionNumber": "327981",
+  "questionId": "032-0239",
+  "questionNumber": "032-0239",
   "stemHtml": "<p>Is there any difference between the vertical speed versus forward speed curves for two identical aeroplanes having different masses? (assume glide with zero thrust and wind)</p>",
   "options": {
     "a": "Yes, the difference is that for a given angle of attack both the vertical and forward speeds of the heavier aeroplane will be larger.",
@@ -10,5 +10,10 @@
     "d": "No difference."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69799,
+    "number": "327981"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1611,
-  "questionId": 101857,
-  "questionNumber": "107711",
+  "questionId": "010-1611",
+  "questionNumber": "010-1611",
   "stemHtml": "<p>In which area would you expect full obstacle clearance?</p>",
   "options": {
     "a": "<p>Primary.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Intermediate.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101857,
+    "number": "107711"
+  }
 }

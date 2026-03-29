@@ -1,7 +1,7 @@
 {
   "number": 172,
-  "questionId": 131647,
-  "questionNumber": "213470",
+  "questionId": "021-0172",
+  "questionNumber": "021-0172",
   "stemHtml": "<p>Which of the following statements are correct/incorrect?</p><p>1. A magnetic circuit breaker uses a bimetallic strip that bends due to heat from excessive current flow, typically causing a delayed trip, depending on the severity of the overcurrent  <br />  2. A thermal circuit breaker trips almost immediately when excessive current flows through it, due to a magnetic field created by the current, without any delay mechanism</p>",
   "options": {
     "a": "<p>1. Correct; 2. Correct</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1. Correct; 2. Incorrect</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 131647,
+    "number": "213470"
+  }
 }

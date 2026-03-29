@@ -1,7 +1,7 @@
 {
   "number": 481,
-  "questionId": 67770,
-  "questionNumber": "211013",
+  "questionId": "021-0481",
+  "questionNumber": "021-0481",
   "stemHtml": "When selected to normal, the oxygen/air ratio of the mixture supplied by the cockpit oxygen system regulator..",
   "options": {
     "a": "decreases when the altitude increases.",
@@ -10,5 +10,10 @@
     "d": "is 100:1."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67770,
+    "number": "211013"
+  }
 }

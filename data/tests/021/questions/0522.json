@@ -1,7 +1,7 @@
 {
   "number": 522,
-  "questionId": 68410,
-  "questionNumber": "218021",
+  "questionId": "021-0522",
+  "questionNumber": "021-0522",
   "stemHtml": "A Power Transfer Unit (PTU) is powered by...",
   "options": {
     "a": "a hydraulic motor.",
@@ -10,5 +10,10 @@
     "d": "a mechanical gearbox."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68410,
+    "number": "218021"
+  }
 }

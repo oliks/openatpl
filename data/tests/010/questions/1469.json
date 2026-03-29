@@ -1,7 +1,7 @@
 {
   "number": 1469,
-  "questionId": 67284,
-  "questionNumber": "102036",
+  "questionId": "010-1469",
+  "questionNumber": "010-1469",
   "stemHtml": "According to ICAO Annex 2, what should the pilot in command do under a state of unlawful interference?",
   "options": {
     "a": "Set mode A code 7600.",
@@ -10,5 +10,10 @@
     "d": "Land as soon as practicable."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67284,
+    "number": "102036"
+  }
 }

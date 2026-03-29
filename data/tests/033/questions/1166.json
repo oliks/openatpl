@@ -1,7 +1,7 @@
 {
   "number": 1166,
-  "questionId": 83688,
-  "questionNumber": "338605",
+  "questionId": "033-1166",
+  "questionNumber": "033-1166",
   "stemHtml": "<p>Refer to figure or ALICANTE 10-2C chart from Jeppesen GSPRM 2017. <br>What is correct regarding the GERVU 1M STAR procedure?</p>",
   "options": {
     "a": "<p>It can be flown using conventional navigation and RNAV.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/756B1849-700F-4422-B921-1D6860984007.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/756B1849-700F-4422-B921-1D6860984007.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83688,
+    "number": "338605"
+  }
 }

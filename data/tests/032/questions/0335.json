@@ -1,7 +1,7 @@
 {
   "number": 335,
-  "questionId": 108348,
-  "questionNumber": "324595",
+  "questionId": "032-0335",
+  "questionNumber": "032-0335",
   "stemHtml": "<p>A Class A aircraft is planning to take off with no deviations in its flight path. What is the minimum height by which the aircraft must clear any obstacles within its flight path?</p>",
   "options": {
     "a": "<p>35 feet</p>",
@@ -10,5 +10,10 @@
     "d": "<p>60 m + 0.125D</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108348,
+    "number": "324595"
+  }
 }

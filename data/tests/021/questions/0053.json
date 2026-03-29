@@ -1,7 +1,7 @@
 {
   "number": 53,
-  "questionId": 81863,
-  "questionNumber": "217869",
+  "questionId": "021-0053",
+  "questionNumber": "021-0053",
   "stemHtml": "<p>Some aircraft are equipped with fuel tanks for trimming purpose, where are these tanks usually positioned and what are they used for?</p>",
   "options": {
     "a": "<p>In the rear part of the aircraft, near the tail and used to regulate CG.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>On the wing tip and used for forward CG.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81863,
+    "number": "217869"
+  }
 }

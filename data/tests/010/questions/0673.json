@@ -1,7 +1,7 @@
 {
   "number": 673,
-  "questionId": 81619,
-  "questionNumber": "105582",
+  "questionId": "010-0673",
+  "questionNumber": "010-0673",
   "stemHtml": "Refer to figure. <br /> What does this signal from the marshaller mean?",
   "options": {
     "a": "Lights off",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/47485351-D3B4-4A28-9118-9479F03AB3FE.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/47485351-D3B4-4A28-9118-9479F03AB3FE.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81619,
+    "number": "105582"
+  }
 }

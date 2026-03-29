@@ -1,7 +1,7 @@
 {
   "number": 958,
-  "questionId": 80982,
-  "questionNumber": "322824",
+  "questionId": "032-0958",
+  "questionNumber": "032-0958",
   "stemHtml": "<p>Refer to figure or CAP698 file 2.1.<br>What is the maximum value for the stall speed at 3400 lbs?</p>",
   "options": {
     "a": "59 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/FF892A81-33D9-41AA-A6A3-00BD5C307DE3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/FF892A81-33D9-41AA-A6A3-00BD5C307DE3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80982,
+    "number": "322824"
+  }
 }

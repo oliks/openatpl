@@ -1,7 +1,7 @@
 {
   "number": 112,
-  "questionId": 68979,
-  "questionNumber": "227633",
+  "questionId": "022-0112",
+  "questionNumber": "022-0112",
   "stemHtml": "<p>In a typical aircraft EFIS display, the glideslope deviation indication consists of a\u2026</p>",
   "options": {
     "a": "dial and pointer display.",
@@ -10,5 +10,10 @@
     "d": "moving pointer on a scale."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68979,
+    "number": "227633"
+  }
 }

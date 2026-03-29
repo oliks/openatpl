@@ -1,7 +1,7 @@
 {
   "number": 1704,
-  "questionId": 66813,
-  "questionNumber": "106582",
+  "questionId": "010-1704",
+  "questionNumber": "010-1704",
   "stemHtml": "<p>Minimum level for flights under IFR \u2013 When not flying over high terrain or mountainous areas and where no minimum flight altitude has been established, flights under IFR shall be flown at a level that is at least\u2026</p>",
   "options": {
     "a": "1000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft.",
@@ -10,5 +10,10 @@
     "d": "2000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66813,
+    "number": "106582"
+  }
 }

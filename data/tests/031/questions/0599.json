@@ -1,7 +1,7 @@
 {
   "number": 599,
-  "questionId": 69499,
-  "questionNumber": "311561",
+  "questionId": "031-0599",
+  "questionNumber": "031-0599",
   "stemHtml": "What is the principle of the Index method?",
   "options": {
     "a": "To compute the CG position and stabiliser trim setting without completing a load sheet.",
@@ -10,5 +10,10 @@
     "d": "To divide high-magnitude moments by a constant and make them more user-friendly."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69499,
+    "number": "311561"
+  }
 }

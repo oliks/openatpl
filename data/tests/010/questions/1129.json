@@ -1,7 +1,7 @@
 {
   "number": 1129,
-  "questionId": 103625,
-  "questionNumber": "106580",
+  "questionId": "010-1129",
+  "questionNumber": "010-1129",
   "stemHtml": "<p>Refer to figure. <br /> \rWhen barricades are used to indicate closure of a taxiway or other airport areas, what is the location of the flags and what is the interval between each flag?</p>",
   "options": {
     "a": "<p>Around the entire barricade.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/f62a1e04-5427-464d-889a-ce31d70eed5a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/f62a1e04-5427-464d-889a-ce31d70eed5a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103625,
+    "number": "106580"
+  }
 }

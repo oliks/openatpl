@@ -1,7 +1,7 @@
 {
   "number": 824,
-  "questionId": 68275,
-  "questionNumber": "216059",
+  "questionId": "021-0824",
+  "questionNumber": "021-0824",
   "stemHtml": "<p>If the ground wire between the magnetos and the ignition switch of a piston engine becomes disconnected the most noticeable result will be that\u2026</p>",
   "options": {
     "a": "the power developed by the engine will be greatly reduced.",
@@ -10,5 +10,10 @@
     "d": "a still operating engine will run down."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68275,
+    "number": "216059"
+  }
 }

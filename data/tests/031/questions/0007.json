@@ -1,7 +1,7 @@
 {
   "number": 7,
-  "questionId": 69578,
-  "questionNumber": "316145",
+  "questionId": "031-0007",
+  "questionNumber": "031-0007",
   "stemHtml": "<p>An aircraft is to depart from an airfield where the Performance Limited Take-off Mass is 89 200 kg. Certificated maximum masses are as follows:</p><figure class=\"table\"><table><tbody><tr><td>Maximum Ramp (Taxi) Mass:</td><td style=\"text-align:right;\">89 930</td><td>kg</td></tr><tr><td>Maximum Take-off Mass:</td><td style=\"text-align:right;\">89 430</td><td>kg</td></tr><tr><td>Maximum Landing Mass:</td><td style=\"text-align:right;\">71 520</td><td>kg</td></tr><tr><td>Maximum Zero Fuel Mass:</td><td style=\"text-align:right;\">62 050</td><td>kg</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td><p> </p><p>Fuel on board at the parking ramp:</p></td><td> </td><td> </td></tr><tr><td>Taxi fuel:</td><td style=\"text-align:right;\">600</td><td>kg</td></tr><tr><td>Trip Fuel:</td><td style=\"text-align:right;\">17 830</td><td>kg</td></tr><tr><td>Contingency, final reserve and alternate:</td><td style=\"text-align:right;\">9030</td><td>kg</td></tr></tbody></table></figure><p>If the Dry Operating Mass is 40 970 kg the maximum Traffic Load (TL) that can be carried on this flight is\u2026</p>",
   "options": {
     "a": "20 870 kg",
@@ -10,5 +10,10 @@
     "d": "21 220 kg"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69578,
+    "number": "316145"
+  }
 }

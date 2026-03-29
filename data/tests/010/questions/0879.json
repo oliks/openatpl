@@ -1,7 +1,7 @@
 {
   "number": 879,
-  "questionId": 83872,
-  "questionNumber": "101916",
+  "questionId": "010-0879",
+  "questionNumber": "010-0879",
   "stemHtml": "<p>According to ICAO Annex 12 air-to-ground signals, if survivors see an aircraft rocking its wings during the hours of\u2026</p>",
   "options": {
     "a": "<p>Darkness, this means that ground signals have NOT been understood.</p>",
@@ -10,5 +10,10 @@
     "d": "Daylight, this means that ground signals have been understood."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83872,
+    "number": "101916"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1769,
-  "questionId": 67243,
-  "questionNumber": "109028",
+  "questionId": "010-1769",
+  "questionNumber": "010-1769",
   "stemHtml": "In the event of an ATC controller giving instructions which violate SERA, who is responsible for maintaining compliance with SERA?",
   "options": {
     "a": "ATC",
@@ -10,5 +10,10 @@
     "d": "Dispatcher"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67243,
+    "number": "109028"
+  }
 }

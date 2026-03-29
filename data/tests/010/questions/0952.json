@@ -1,7 +1,7 @@
 {
   "number": 952,
-  "questionId": 109440,
-  "questionNumber": "108755",
+  "questionId": "010-0952",
+  "questionNumber": "010-0952",
   "stemHtml": "<p>An aircraft subject to unlawful interference lands in state A. Which of the following options is correct?</p>",
   "options": {
     "a": "<p>State A will provide fuel to leave if deemed necessary</p>",
@@ -10,5 +10,10 @@
     "d": "<p>State A will allow everyone to enter the country</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109440,
+    "number": "108755"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1164,
-  "questionId": 70806,
-  "questionNumber": "331508",
+  "questionId": "033-1164",
+  "questionNumber": "033-1164",
   "stemHtml": "<p>Considering the following NOTAM, which of the following statements is correct?</p>\r\n\r\n<p>Q EGTT/QNMAS/IV/BO/E/000/999/5129N00113W025 B FROM: 16/04/29 09:59 C TO: 16/05/27 18:00 E COMPTON DVOR \u2018CPT\u2019 FREQ 114.35 MHZ/COMPTON DME \u2018CPT\u2019 CHANNEL 090Y BOTH U/S. PLEASE NOTE BETWEEN 03 MAY AND 12 MAY DUE TO TEST ACTIVITIES TAKING PLACE AT COMPTON, DVOR TEST VOICE MESSAGES MAY BE TRANSMITTED FOR SHORT PERIODS ON THE CPT DVOR FREQUENCY 114.35 MHZ. IF SUCH TRANSMISSIONS ARE INTERCEPTED BY AIRSPACE USERS THE CONTENT OF THESE MESSAGES SHOULD BE IGNORED</p>",
   "options": {
     "a": "The range information from the DME is still usable during the stated period.",
@@ -10,5 +10,10 @@
     "d": "The voice test messages can be heard on VHF RT equipment."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70806,
+    "number": "331508"
+  }
 }

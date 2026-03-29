@@ -1,7 +1,7 @@
 {
   "number": 644,
-  "questionId": 114864,
-  "questionNumber": "323916",
+  "questionId": "032-0644",
+  "questionNumber": "032-0644",
   "stemHtml": "<p>Refer to figure or CAP 698 Fig 4.7 <br>Given the following information, determine V<strong><sub>MBE</sub></strong>.</p><p>TOM: 65 000 kg <br>Pressure Altitude: 7000 ft <br>OAT: +30\u00b0C <br>Slope: 2% up <br>Wind Component: 5 kts Tailwind <br>PMC: OFF</p>",
   "options": {
     "a": "<p>130 kt</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/95c6fc1a-e2a2-4b5e-bc2d-1892cc1ae4fb.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/95c6fc1a-e2a2-4b5e-bc2d-1892cc1ae4fb.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 114864,
+    "number": "323916"
+  }
 }

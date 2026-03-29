@@ -1,7 +1,7 @@
 {
   "number": 846,
-  "questionId": 84907,
-  "questionNumber": "221254",
+  "questionId": "022-0846",
+  "questionNumber": "022-0846",
   "stemHtml": "<p>What happens to TAS and ROC if an aircraft climbs at constant CAS of 300 kt and a vertical speed of 2000 ft/min?</p>",
   "options": {
     "a": "<p>TAS decreases, ROC increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>TAS increases, ROC decreases.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84907,
+    "number": "221254"
+  }
 }

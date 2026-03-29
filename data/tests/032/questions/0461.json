@@ -1,7 +1,7 @@
 {
   "number": 461,
-  "questionId": 70263,
-  "questionNumber": "324813",
+  "questionId": "032-0461",
+  "questionNumber": "032-0461",
   "stemHtml": "A headwind component increasing with altitude, as compared to zero wind condition, (assuming IAS is constant)...",
   "options": {
     "a": "has no effect on rate of climb.",
@@ -10,5 +10,10 @@
     "d": "<div>improves angle and rate of climb.</div>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70263,
+    "number": "324813"
+  }
 }

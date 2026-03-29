@@ -1,7 +1,7 @@
 {
   "number": 1148,
-  "questionId": 67061,
-  "questionNumber": "104620",
+  "questionId": "010-1148",
+  "questionNumber": "010-1148",
   "stemHtml": "<p>A special NOTAM series notifying a possible important change for the aircraft operation due to volcano activity, eruption, or ash cloud by means of a specific format is called\u2026</p>",
   "options": {
     "a": "ASHTAM.",
@@ -10,5 +10,10 @@
     "d": "GVATAM."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67061,
+    "number": "104620"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1192,
-  "questionId": 68382,
-  "questionNumber": "217417",
+  "questionId": "021-1192",
+  "questionNumber": "021-1192",
   "stemHtml": "Which one is the best description of hydraulic movement?",
   "options": {
     "a": "Hydraulic systems generate a large power output for a small power input.",
@@ -10,5 +10,10 @@
     "d": "Incompressible fluid under pressure is used to transmit forces."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68382,
+    "number": "217417"
+  }
 }

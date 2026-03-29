@@ -1,7 +1,7 @@
 {
   "number": 1765,
-  "questionId": 68928,
-  "questionNumber": "224620",
+  "questionId": "022-1765",
+  "questionNumber": "022-1765",
   "stemHtml": "<p>Refer to figure.          <br />         Diagram 2 in the annex represents\u2026</p>",
   "options": {
     "a": "a right turn with insufficient rudder.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/67908443-1DB1-4997-B5F3-77D29E32BB27.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/67908443-1DB1-4997-B5F3-77D29E32BB27.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68928,
+    "number": "224620"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 666,
-  "questionId": 70778,
-  "questionNumber": "338937",
+  "questionId": "033-0666",
+  "questionNumber": "033-0666",
   "stemHtml": "<p>(For this question use annex 033-012 rev. 05.11.2004 or Flight Planning Manual MRJT 1 Figure 4.5.1).\u00a0<br>Given:</p><p>Brake release mass 57 500 kg,\u00a0<br>Temperature ISA -10\u00b0C,\u00a0<br>Average headwind component 16 kt,\u00a0<br>Initial FL280</p><p>Find: Climb fuel for enroute climb 280/.74</p>",
   "options": {
     "a": "1138 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/DDA135D7-3035-4903-85C0-94151B96CF7B.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/DDA135D7-3035-4903-85C0-94151B96CF7B.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70778,
+    "number": "338937"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 319,
-  "questionId": 80250,
-  "questionNumber": "101618",
+  "questionId": "010-0319",
+  "questionNumber": "010-0319",
   "stemHtml": "According to ICAO Annex 6 and considering passenger-carrying aeroplanes that must be equipped with an approved flight crew compartment door designed to resist penetration by small arms fire and intrusions unauthorised persons, this door must be capable of being locked and unlocked from...",
   "options": {
     "a": "The pilot's seats and by maintenance personnel on the ground.",
@@ -10,5 +10,10 @@
     "d": "Either pilot's seat."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80250,
+    "number": "101618"
+  }
 }

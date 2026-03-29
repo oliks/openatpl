@@ -1,7 +1,7 @@
 {
   "number": 1525,
-  "questionId": 96656,
-  "questionNumber": "106907",
+  "questionId": "010-1525",
+  "questionNumber": "010-1525",
   "stemHtml": "<p>For a precision approach category II and III lighting system, a row of lights on the extended centre line of the runway shall extend over a distance of (1) _____ from the threshold and the crossbar should be (2) _____ wide.</p>",
   "options": {
     "a": "<p>(1) 900 m, (2) 15 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) 900 m, (2) 30 m</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96656,
+    "number": "106907"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 330,
-  "questionId": 68089,
-  "questionNumber": "216108",
+  "questionId": "021-0330",
+  "questionNumber": "021-0330",
   "stemHtml": "<p>As altitude increases, the mixture ratio of a piston engine should be adjusted to\u2026</p>",
   "options": {
     "a": "reduce the fuel flow in order to compensate for the decreasing air density.",
@@ -10,5 +10,10 @@
     "d": "reduce the fuel flow in order to compensate for the increasing air density."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68089,
+    "number": "216108"
+  }
 }

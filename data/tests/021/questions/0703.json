@@ -1,7 +1,7 @@
 {
   "number": 703,
-  "questionId": 67907,
-  "questionNumber": "217110",
+  "questionId": "021-0703",
+  "questionNumber": "021-0703",
   "stemHtml": "<p>In a hydraulic system, the reservoir is pressurised in order to\u2026</p>",
   "options": {
     "a": "<p>seal the system</p>",
@@ -10,5 +10,10 @@
     "d": "<p>keep the hydraulic fluid at optimum temperature</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67907,
+    "number": "217110"
+  }
 }

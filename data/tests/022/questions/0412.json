@@ -1,7 +1,7 @@
 {
   "number": 412,
-  "questionId": 82029,
-  "questionNumber": "221071",
+  "questionId": "022-0412",
+  "questionNumber": "022-0412",
   "stemHtml": "Is there, by convention, a difference between an INS and an IRS?",
   "options": {
     "a": "Yes, the INS requires electrical power for its operation, while the IRS is completely independent of the electrical power.",
@@ -10,5 +10,10 @@
     "d": "There is NO actual difference between an INS and an IRS, they are just different abbreviations used by different system manufacturers."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82029,
+    "number": "221071"
+  }
 }

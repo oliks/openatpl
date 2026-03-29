@@ -1,7 +1,7 @@
 {
   "number": 17,
-  "questionId": 99993,
-  "questionNumber": "315496",
+  "questionId": "031-0017",
+  "questionNumber": "031-0017",
   "stemHtml": "Among the masses calculated for mass and balance calculations is also the Regulated Landing Mass. Which of the following statements best describes the regulated Landing mass?",
   "options": {
     "a": "<p>The Highest of the Performance Limited Landing Mass and the Maximum Structural Landing Mass.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Maximum Structural Landing Mass Minus the Trip Fuel.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 99993,
+    "number": "315496"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1194,
-  "questionId": 81982,
-  "questionNumber": "325816",
+  "questionId": "032-1194",
+  "questionNumber": "032-1194",
   "stemHtml": "<p>Refer to figure. <br /> Find the flex temp and V-speeds given the following, interpolating as required: TOM: 71 000 kg, QNH 1013, wind 230/5 kt, OAT 12\u00b0C, visibility 500 m, ACS Packs ON, Runway condition WET.</p>",
   "options": {
     "a": "59\u00b0C, V<sub>1</sub> 137 kt, V<sub>R</sub> 137 kt, V<sub>2</sub> 141 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/15195794-D71B-4977-B7D6-93766770723F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/15195794-D71B-4977-B7D6-93766770723F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81982,
+    "number": "325816"
+  }
 }

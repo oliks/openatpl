@@ -1,7 +1,7 @@
 {
   "number": 1710,
-  "questionId": 68245,
-  "questionNumber": "217030",
+  "questionId": "021-1710",
+  "questionNumber": "021-1710",
   "stemHtml": "<p>The primary element necessary for automatic ground spoiler deployment during landing is\u2026</p>",
   "options": {
     "a": "selecting reverse thrust.",
@@ -10,5 +10,10 @@
     "d": "applying brake pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68245,
+    "number": "217030"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 933,
-  "questionId": 84205,
-  "questionNumber": "101997",
+  "questionId": "010-0933",
+  "questionNumber": "010-0933",
   "stemHtml": "<p>Refer to figure. <br /> \rThe inbound leg of the holding pattern is on the track (1) _____ and the outbound end is located at the (2) _____ end of the holding pattern.</p>",
   "options": {
     "a": "<p>(1) 010 degrees; (2) northern.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/1C35FC8A-1B61-4E10-89FD-9A7F1CDE46A1.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/1C35FC8A-1B61-4E10-89FD-9A7F1CDE46A1.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84205,
+    "number": "101997"
+  }
 }

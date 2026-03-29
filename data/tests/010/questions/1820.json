@@ -1,7 +1,7 @@
 {
   "number": 1820,
-  "questionId": 79322,
-  "questionNumber": "109211",
+  "questionId": "010-1820",
+  "questionNumber": "010-1820",
   "stemHtml": "An aircraft is expected to land at 22:30 UTC. The airport has little traffic. When must ground lights be brought into operation?",
   "options": {
     "a": "21:00 - 23:00 UTC",
@@ -10,5 +10,10 @@
     "d": "20:00 - 23:30 UTC"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79322,
+    "number": "109211"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1827,
-  "questionId": 116755,
-  "questionNumber": "225259",
+  "questionId": "022-1827",
+  "questionNumber": "022-1827",
   "stemHtml": "<p>Refer to figure. <br /> \rBased on the Flight Mode Annunciator (FMA) and Flight Director indications shown on the PFD, what is the required control input to follow the Flight Director demand, and which flight modes are currently engaged?</p>\r\r<p> </p>\r\r<p> </p>\r\r<p> </p>\r\r<p> </p>",
   "options": {
     "a": "<p>The Flight Director is commanding a pitch-up; engaged modes are HDG and ALT.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/f4c90e90-f07b-4b88-a72f-9fc51e1f5727.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/f4c90e90-f07b-4b88-a72f-9fc51e1f5727.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 116755,
+    "number": "225259"
+  }
 }

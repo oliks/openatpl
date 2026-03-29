@@ -1,7 +1,7 @@
 {
   "number": 1138,
-  "questionId": 107616,
-  "questionNumber": "333400",
+  "questionId": "033-1138",
+  "questionNumber": "033-1138",
   "stemHtml": "<p>A Commercial Air Transport Piston Engine aircraft is performing a VFR flight. Given the following information what is the minimum take-off fuel? Assume the Basic Fuel Scheme WITHOUT variations applies.</p>\r\r<p>Flight time: 2 hours <br /> \rFuel Flow: 30 USG/h <br /> \rTaxi Fuel: 2 USG <br /> \rNo Destination Alternate</p>",
   "options": {
     "a": "<p>90 USG</p>",
@@ -10,5 +10,10 @@
     "d": "<p>63 USG</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107616,
+    "number": "333400"
+  }
 }

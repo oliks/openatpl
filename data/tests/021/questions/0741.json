@@ -1,7 +1,7 @@
 {
   "number": 741,
-  "questionId": 164544,
-  "questionNumber": "215462",
+  "questionId": "021-0741",
+  "questionNumber": "021-0741",
   "stemHtml": "<p>The development of a faulty attachment can be detected during the pre-flight inspection by looking for:</p><p>1. Partially detached airframe skin panel<br>2. Traces of oil on engine<br>3. Bolts missing<br>4. Looseness at compressor blades identified by a clicking noise<br>5. Headless rivets</p>",
   "options": {
     "a": "<p>1, 2 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 5</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164544,
+    "number": "215462"
+  }
 }

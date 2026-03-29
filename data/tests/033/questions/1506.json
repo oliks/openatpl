@@ -1,7 +1,7 @@
 {
   "number": 1506,
-  "questionId": 77900,
-  "questionNumber": "339259",
+  "questionId": "033-1506",
+  "questionNumber": "033-1506",
   "stemHtml": "<p>Refer to figure. <br /> Given:</p><p>Pressure altitude: 35 000 ft <br /> Cruise: FL350 <br /> Mach number: 0.74 <br /> Mass at the beginning of the sector: 50 000 kg <br /> OAT in cruise: -55\u00b0C <br /> Wind component in cruise: -25 kt</p><p>Calculate the change in range, in NGM, if the aircraft was 1000 kg lighter and the temperature increased 10\u00b0C.</p>",
   "options": {
     "a": "65 NGM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D5F4A705-90F1-4105-8AB8-B30CCA4F5B12.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D5F4A705-90F1-4105-8AB8-B30CCA4F5B12.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77900,
+    "number": "339259"
+  }
 }

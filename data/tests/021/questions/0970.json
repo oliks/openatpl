@@ -1,7 +1,7 @@
 {
   "number": 970,
-  "questionId": 68379,
-  "questionNumber": "217431",
+  "questionId": "021-0970",
+  "questionNumber": "021-0970",
   "stemHtml": "<p>The autobrake system is deactivated:</p><p>1) below a preset minimum speed<br>2) when reverse thrust is activated</p>",
   "options": {
     "a": "1) is incorrect, 2) is correct",
@@ -10,5 +10,10 @@
     "d": "1) is incorrect, 2) is incorrect"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68379,
+    "number": "217431"
+  }
 }

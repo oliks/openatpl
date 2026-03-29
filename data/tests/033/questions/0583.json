@@ -1,7 +1,7 @@
 {
   "number": 583,
-  "questionId": 70713,
-  "questionNumber": "338711",
+  "questionId": "033-0583",
+  "questionNumber": "033-0583",
   "stemHtml": "<p>A flight is planned over a distance of 360 NM. The TAS is 210 kt, the heading is 090\u00b0 T, and the wind velocity is 090\u00b0/30 kt. What is the distance to the Point of Equal Time PET and how long will it take to get there?</p>",
   "options": {
     "a": "206 NM and 69 minutes.",
@@ -10,5 +10,10 @@
     "d": "210 NM and 70 minutes."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70713,
+    "number": "338711"
+  }
 }

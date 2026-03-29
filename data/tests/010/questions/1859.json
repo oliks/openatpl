@@ -1,7 +1,7 @@
 {
   "number": 1859,
-  "questionId": 81602,
-  "questionNumber": "105400",
+  "questionId": "010-1859",
+  "questionNumber": "010-1859",
   "stemHtml": "<p>After a suspected two-way communication failure, what is the correct order of actions to try to regain communication?</p><p>1. Try to call another aircraft<br>2. Call on the company frequency<br>3. Contact previous frequency<br>4. Try a frequency that is usual for this route<br>5. Call another station nearby</p>",
   "options": {
     "a": "2, 5, 4, 1, 3.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3, 4, 5."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81602,
+    "number": "105400"
+  }
 }

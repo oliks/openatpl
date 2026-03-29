@@ -1,7 +1,7 @@
 {
   "number": 375,
-  "questionId": 69858,
-  "questionNumber": "327137",
+  "questionId": "032-0375",
+  "questionNumber": "032-0375",
   "stemHtml": "<p>For a given aeroplane mass, a more aft CG position will...</p>",
   "options": {
     "a": "<p>decrease the take-off distance and improve the take-off climb performance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>decrease the take-off distance and reduce the take-off climb performance.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69858,
+    "number": "327137"
+  }
 }

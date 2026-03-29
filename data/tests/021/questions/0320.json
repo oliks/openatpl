@@ -1,7 +1,7 @@
 {
   "number": 320,
-  "questionId": 68149,
-  "questionNumber": "218246",
+  "questionId": "021-0320",
+  "questionNumber": "021-0320",
   "stemHtml": "<p>The turboprop alpha-range power level is the range of power lever positions between\u2026</p>",
   "options": {
     "a": "flight idle and maximum power.",
@@ -10,5 +10,10 @@
     "d": "flight idle and maximum reverse."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68149,
+    "number": "218246"
+  }
 }

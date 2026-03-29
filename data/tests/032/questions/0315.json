@@ -1,7 +1,7 @@
 {
   "number": 315,
-  "questionId": 70300,
-  "questionNumber": "326034",
+  "questionId": "032-0315",
+  "questionNumber": "032-0315",
   "stemHtml": "Refer to figure.  <br />  Wind direction is 180\u00b0(M), the runway direction is 060\u00b0(M). With a maximum allowable tailwind component of 10 kt, determine the maximum wind speed for take-off.",
   "options": {
     "a": "10 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/36BB4FC1-580B-4583-80C3-C21C4F3C03C4.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/36BB4FC1-580B-4583-80C3-C21C4F3C03C4.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70300,
+    "number": "326034"
+  }
 }

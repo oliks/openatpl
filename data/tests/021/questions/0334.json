@@ -1,7 +1,7 @@
 {
   "number": 334,
-  "questionId": 67984,
-  "questionNumber": "214627",
+  "questionId": "021-0334",
+  "questionNumber": "021-0334",
   "stemHtml": "<p>An under-inflated tyre will\u2026</p>",
   "options": {
     "a": "<p>experience increased wear at the shoulders.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>be more subject to viscous aquaplaning.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67984,
+    "number": "214627"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 425,
-  "questionId": 78329,
-  "questionNumber": "102446",
+  "questionId": "010-0425",
+  "questionNumber": "010-0425",
   "stemHtml": "<p>On departure, how many copies are required of the following documents:</p>\r\n\r\n<ol>\r\n\t<li>General Declaration</li>\r\n\t<li>Stores List</li>\r\n\t<li>Cargo Manifest</li>\r\n</ol>",
   "options": {
     "a": "1 of 1; 1 of 2; 2 of 3",
@@ -10,5 +10,10 @@
     "d": "3 of each"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78329,
+    "number": "102446"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 811,
-  "questionId": 67612,
-  "questionNumber": "216615",
+  "questionId": "021-0811",
+  "questionNumber": "021-0811",
   "stemHtml": "<p>Which of these statements about a gust lock system are correct?</p><p>1. There should be suitable design precautions to prevent flight with the gust lock engaged<br>2. There is no need for a gust lock on reversible flight controls</p>",
   "options": {
     "a": "Both 1 and 2 are correct.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67612,
+    "number": "216615"
+  }
 }

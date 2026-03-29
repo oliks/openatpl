@@ -1,7 +1,7 @@
 {
   "number": 1511,
-  "questionId": 106441,
-  "questionNumber": "222622",
+  "questionId": "022-1511",
+  "questionNumber": "022-1511",
   "stemHtml": "<p>A light aircraft equipped with a torque meter is preparing for takeoff. What is the appropriate torque meter setting for take-off?</p>",
   "options": {
     "a": "<p>95%</p>",
@@ -10,5 +10,10 @@
     "d": "<p>35 Newton</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106441,
+    "number": "222622"
+  }
 }

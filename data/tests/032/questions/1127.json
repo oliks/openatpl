@@ -1,7 +1,7 @@
 {
   "number": 1127,
-  "questionId": 81467,
-  "questionNumber": "328094",
+  "questionId": "032-1127",
+  "questionNumber": "032-1127",
   "stemHtml": "<p dir=\"ltr\">Determine the one-engine-out climb gradient of a four-engined aeroplane, given:</p>\r\n\r\n<p dir=\"ltr\">Aeroplane mass: 315 000 kg<br />\r\nThrust per engine: 245 000 N<br />\r\nDrag: 435 000 N<br />\r\n(Assume the acceleration due to gravity is 10 m/s<strong><sup>2</sup></strong>)</p>\r\n",
   "options": {
     "a": "<p>13.8%</p>",
@@ -10,5 +10,10 @@
     "d": "<p>9%</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81467,
+    "number": "328094"
+  }
 }

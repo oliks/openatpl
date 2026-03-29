@@ -1,7 +1,7 @@
 {
   "number": 503,
-  "questionId": 79316,
-  "questionNumber": "103191",
+  "questionId": "010-0503",
+  "questionNumber": "010-0503",
   "stemHtml": "According to ICAO, what is correct about the Fatigue Risk Management System (FRMS)?",
   "options": {
     "a": "<p>FRMS is a data-driven means of continuously monitoring and managing fatigue-related safety risks and can be different for every employer.</p>",
@@ -10,5 +10,10 @@
     "d": "Operators from ICAO member states are obliged to install a FRMS, based upon scientific principles and knowledge as well as their individual operational experience."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79316,
+    "number": "103191"
+  }
 }

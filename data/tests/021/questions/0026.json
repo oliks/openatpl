@@ -1,7 +1,7 @@
 {
   "number": 26,
-  "questionId": 83939,
-  "questionNumber": "214860",
+  "questionId": "021-0026",
+  "questionNumber": "021-0026",
   "stemHtml": "<p>What happens to the flight envelope protection if your aircraft system turns to the Alternate mode?</p>",
   "options": {
     "a": "<p>degraded.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>upgraded.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83939,
+    "number": "214860"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 105,
-  "questionId": 69586,
-  "questionNumber": "314829",
+  "questionId": "031-0105",
+  "questionNumber": "031-0105",
   "stemHtml": "<p>The Basic Empty Mass of an aircraft is recorded in\u2026</p>",
   "options": {
     "a": "<p>the loading manifest. It differs from Dry Operating Mass by the value of the traffic load.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the weighing schedule. If changes occur, due to modifications, the aircraft must be re-weighed always.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69586,
+    "number": "314829"
+  }
 }

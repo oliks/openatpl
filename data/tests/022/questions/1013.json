@@ -1,7 +1,7 @@
 {
   "number": 1013,
-  "questionId": 86101,
-  "questionNumber": "229179",
+  "questionId": "022-1013",
+  "questionNumber": "022-1013",
   "stemHtml": "What are the consequences of a single autopilot failure during an autoland approach below the alert height?",
   "options": {
     "a": "\u200bThe aircraft will execute a missed approach automatically.",
@@ -10,5 +10,10 @@
     "d": "An aural warning will sound immediately."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86101,
+    "number": "229179"
+  }
 }

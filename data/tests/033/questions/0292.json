@@ -1,7 +1,7 @@
 {
   "number": 292,
-  "questionId": 97906,
-  "questionNumber": "333160",
+  "questionId": "033-0292",
+  "questionNumber": "033-0292",
   "stemHtml": "Refer to figure.   <br /> The annex shows an extract of an ATC flight plan as presented in a briefing pack for a flight. Of the ITEM 18 text codes, which of the following options is a correct decode of any of the red items?",
   "options": {
     "a": "The registration of the aircraft is D-EASA.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/41649283-1f16-4ea3-9655-c384498020f2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/41649283-1f16-4ea3-9655-c384498020f2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 97906,
+    "number": "333160"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 932,
-  "questionId": 78320,
-  "questionNumber": "105867",
+  "questionId": "010-0932",
+  "questionNumber": "010-0932",
   "stemHtml": "Refer to figure. <br /> What does the marshalling signal indicate?",
   "options": {
     "a": "Slow down",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/063BC729-EFF5-4F6E-952B-5078F9AB1B21.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/063BC729-EFF5-4F6E-952B-5078F9AB1B21.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78320,
+    "number": "105867"
+  }
 }

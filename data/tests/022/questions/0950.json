@@ -1,7 +1,7 @@
 {
   "number": 950,
-  "questionId": 84729,
-  "questionNumber": "226498",
+  "questionId": "022-0950",
+  "questionNumber": "022-0950",
   "stemHtml": "<p>During flight the Commander would like to check whether the actual wind matches what the forecast says. The Commander turns the mode selector knob on the INS CDU to \"WIND\". The actual wind is displayed on the INS CDU. To calculate the wind, the system uses\u2026</p>",
   "options": {
     "a": "<p>Wind information downloaded by data link.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>GPS data only.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84729,
+    "number": "226498"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1170,
-  "questionId": 71054,
-  "questionNumber": "334433",
+  "questionId": "033-1170",
+  "questionNumber": "033-1170",
   "stemHtml": "<p>Given the following information, calculate the revised estimated Landing Mass at destination aerodrome.</p>\n\n<p>DOM: 9825 lb  <br />  \nTraffic load: 2950 lb  <br />  \nRemaining Usable Fuel: 1950 lb  <br />  \nRemaining Trip Fuel to the destination: 900 lb  <br />  \nAlternate Fuel: 475 lb  <br />  \nFinal Reserve Fuel: 400 lb</p>",
   "options": {
     "a": "<p>14 700 lb</p>",
@@ -10,5 +10,10 @@
     "d": "<p>13 675 lb</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71054,
+    "number": "334433"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 336,
-  "questionId": 81742,
-  "questionNumber": "218062",
+  "questionId": "021-0336",
+  "questionNumber": "021-0336",
   "stemHtml": "A pilot should check the wheels and tyres during their pre-flight check, which statement is correct?",
   "options": {
     "a": "If tread separation is left undetected, the tyre could burst during take-off or landing.",
@@ -10,5 +10,10 @@
     "d": "Tread separation is easy to detect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81742,
+    "number": "218062"
+  }
 }

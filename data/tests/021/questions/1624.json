@@ -1,7 +1,7 @@
 {
   "number": 1624,
-  "questionId": 106085,
-  "questionNumber": "216400",
+  "questionId": "021-1624",
+  "questionNumber": "021-1624",
   "stemHtml": "<p>Which statement is correct regarding the requirements for fire extinguisher discharges on aeroplanes certified under CS-25?</p>",
   "options": {
     "a": "<p>2 discharges per engine nacelle.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 discharges per designated fire zone per engine nacelle.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106085,
+    "number": "216400"
+  }
 }

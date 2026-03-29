@@ -1,7 +1,7 @@
 {
   "number": 1350,
-  "questionId": 104968,
-  "questionNumber": "222344",
+  "questionId": "022-1350",
+  "questionNumber": "022-1350",
   "stemHtml": "<p>Which probe would be blocked for the EPR system to show a higher value and what indication pilots could check to see real thrust?</p>",
   "options": {
     "a": "<p>Front, N1.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Back, EGT.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104968,
+    "number": "222344"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 421,
-  "questionId": 109131,
-  "questionNumber": "321944",
+  "questionId": "032-0421",
+  "questionNumber": "032-0421",
   "stemHtml": "<p>Refer to figures or CAP 698 files 4.8 and 4.9. <br>Given the following information, find V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong> and V<strong><sub>2</sub></strong> speeds for a MRJT aeroplane:</p><p>Airport Elevation: 1000 ft <br>RWY 24 <br>Slope: 1% UP <br>QNH: 1013 hPa <br>OAT: +15\u00b0C <br>W/V: 240\u00b0/35 kt <br>TOM: 60 700 kg <br>Flaps: 5\u00b0</p>",
   "options": {
     "a": "<p>V<sub>1</sub>: 147 KT, V<sub>R</sub>: 150 KT, V<sub>2</sub>: 157 KT</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/032/8eed1a0c-9c19-4e9f-a258-0b0616f238e9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/8eed1a0c-9c19-4e9f-a258-0b0616f238e9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109131,
+    "number": "321944"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 442,
-  "questionId": 80219,
-  "questionNumber": "222039",
+  "questionId": "022-0442",
+  "questionNumber": "022-0442",
   "stemHtml": "<p>During a deceleration phase at constant attitude, the control system of an air driven artificial horizon causes the horizon bar to indicate a\u2026</p>",
   "options": {
     "a": "<p>Nose up followed by a nose down attitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Nose up attitude.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80219,
+    "number": "222039"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 186,
-  "questionId": 103802,
-  "questionNumber": "104316",
+  "questionId": "010-0186",
+  "questionNumber": "010-0186",
   "stemHtml": "<p>Refer to figure. <br /> \rThe signal shown is applicable to...</p>",
   "options": {
     "a": "<p>aircraft, before entering the runway.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/02b37f7c-ffe0-471e-a905-3caa63bf13ad.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/02b37f7c-ffe0-471e-a905-3caa63bf13ad.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103802,
+    "number": "104316"
+  }
 }

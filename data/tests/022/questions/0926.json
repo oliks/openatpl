@@ -1,7 +1,7 @@
 {
   "number": 926,
-  "questionId": 84769,
-  "questionNumber": "226731",
+  "questionId": "022-0926",
+  "questionNumber": "022-0926",
   "stemHtml": "<p>In case of radio altimeter failure, the following system(s) is/are affected\u2026</p>",
   "options": {
     "a": "Autothrust and EGPWS.",
@@ -10,5 +10,10 @@
     "d": "TCAS."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84769,
+    "number": "226731"
+  }
 }

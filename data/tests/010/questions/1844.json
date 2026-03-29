@@ -1,7 +1,7 @@
 {
   "number": 1844,
-  "questionId": 82211,
-  "questionNumber": "103643",
+  "questionId": "010-1844",
+  "questionNumber": "010-1844",
   "stemHtml": "<p>Under which circumstances may the pilot land with a tailwind?</p>",
   "options": {
     "a": "<p>For safety reasons only.</p>",
@@ -10,5 +10,10 @@
     "d": "When ATC allows only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82211,
+    "number": "103643"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 369,
-  "questionId": 66689,
-  "questionNumber": "105414",
+  "questionId": "010-0369",
+  "questionNumber": "010-0369",
   "stemHtml": "<p>Which of the areas listed below fall within the scope of the Basic Regulation (Reg. (EC) No 216/2008) on common rules in the field of civil aviation and establishing the European Aviation Safety Agency?</p><p>1. Commercial Air Transport operations<br>2. Aerodrome operations<br>3. Unmanned aircraft with an operating mass 150 kg<br>4. Air Traffic Management organisations</p>",
   "options": {
     "a": "2, 3 and 4",
@@ -10,5 +10,10 @@
     "d": "1, 3 and 4"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66689,
+    "number": "105414"
+  }
 }

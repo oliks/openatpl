@@ -1,7 +1,7 @@
 {
   "number": 1401,
-  "questionId": 69291,
-  "questionNumber": "228173",
+  "questionId": "022-1401",
+  "questionNumber": "022-1401",
   "stemHtml": "Which of the following statements shows how the total fuel consumption can be calculated?",
   "options": {
     "a": "The total fuel consumption can be calculated by dividing the total distance which is flown by the volume of fuel which has been used.",
@@ -10,5 +10,10 @@
     "d": "The total fuel consumption can be calculated by subtracting the volume of the remaining fuel on board from the initial total fuel on board."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69291,
+    "number": "228173"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1003,
-  "questionId": 108830,
-  "questionNumber": "323917",
+  "questionId": "032-1003",
+  "questionNumber": "032-1003",
   "stemHtml": "<p>Which of the following options is true regarding the gliding characteristics of the following aircraft?</p>\r\r<p>Aircraft 1: 900 kg <br /> \rAircraft 2: 1200 kg</p>",
   "options": {
     "a": "<p>Both aircraft have the same gliding distance but aircraft 2 has a higher speed</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Both aircraft have the same speed but aircraft 1 has a longer gliding distance</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108830,
+    "number": "323917"
+  }
 }

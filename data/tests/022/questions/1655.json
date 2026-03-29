@@ -1,7 +1,7 @@
 {
   "number": 1655,
-  "questionId": 78750,
-  "questionNumber": "225755",
+  "questionId": "022-1655",
+  "questionNumber": "022-1655",
   "stemHtml": "An aeroplane is in steady climb. The autothrottle maintains a constant calibrated airspeed and the total temperature remains constant. What happens to the Mach Number?",
   "options": {
     "a": "It decreases if the static temperature is lower than the standard temperature.",
@@ -10,5 +10,10 @@
     "d": "It remains constant."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78750,
+    "number": "225755"
+  }
 }

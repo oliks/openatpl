@@ -1,7 +1,7 @@
 {
   "number": 1530,
-  "questionId": 83032,
-  "questionNumber": "104380",
+  "questionId": "010-1530",
+  "questionNumber": "010-1530",
   "stemHtml": "<p>Which type of airspace is included in a FIR?</p>",
   "options": {
     "a": "<p>Most types of controlled airspace excluding control zones.</p>",
@@ -10,5 +10,10 @@
     "d": "All types of controlled airspace."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83032,
+    "number": "104380"
+  }
 }

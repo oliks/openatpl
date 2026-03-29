@@ -1,7 +1,7 @@
 {
   "number": 1332,
-  "questionId": 68786,
-  "questionNumber": "226182",
+  "questionId": "022-1332",
+  "questionNumber": "022-1332",
   "stemHtml": "<p>An EFIS includes the following components\u2026</p>",
   "options": {
     "a": "ADC, inertial navigation computer, display unit(s).",
@@ -10,5 +10,10 @@
     "d": "FMS, symbol generator, display unit(s)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68786,
+    "number": "226182"
+  }
 }

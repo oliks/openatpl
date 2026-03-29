@@ -1,7 +1,7 @@
 {
   "number": 1034,
-  "questionId": 85482,
-  "questionNumber": "108784",
+  "questionId": "010-1034",
+  "questionNumber": "010-1034",
   "stemHtml": "An ATIS is broadcast\u2026",
   "options": {
     "a": "For departing and arriving aircraft, lasting one minute, in English only.",
@@ -10,5 +10,10 @@
     "d": "For arriving and departing aircraft, preferably on a VOR frequency."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85482,
+    "number": "108784"
+  }
 }

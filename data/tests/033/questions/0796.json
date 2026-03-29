@@ -1,7 +1,7 @@
 {
   "number": 796,
-  "questionId": 81816,
-  "questionNumber": "339737",
+  "questionId": "033-0796",
+  "questionNumber": "033-0796",
   "stemHtml": "<p>Given the following information, what is the fuel mass?</p><p>Fuel volume: 670 Imperial gallons <br /> Specific gravity: 0.78</p>",
   "options": {
     "a": "6700 lb",
@@ -10,5 +10,10 @@
     "d": "5226 lb"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81816,
+    "number": "339737"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1853,
-  "questionId": 66636,
-  "questionNumber": "103028",
+  "questionId": "010-1853",
+  "questionNumber": "010-1853",
   "stemHtml": "Facilitation \u2013 Entry and departure of persons \u2013 Which of the following documents shall be considered in all Contracting States as a valid and acceptable identity document?",
   "options": {
     "a": "A valid passport with valid visas where appropriate.",
@@ -10,5 +10,10 @@
     "d": "A seafarers` identity document."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66636,
+    "number": "103028"
+  }
 }

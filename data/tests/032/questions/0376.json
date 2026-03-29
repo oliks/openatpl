@@ -1,7 +1,7 @@
 {
   "number": 376,
-  "questionId": 70051,
-  "questionNumber": "325803",
+  "questionId": "032-0376",
+  "questionNumber": "032-0376",
   "stemHtml": "<p>An aeroplane with reciprocating engines is flying at a constant angle of attack, mass and configuration. With increasing altitude the drag\u2026</p>",
   "options": {
     "a": "<p>decreases and the CAS decreases too because of the lower air density.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>remains unchanged but the TAS increases.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70051,
+    "number": "325803"
+  }
 }

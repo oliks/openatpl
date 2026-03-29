@@ -1,7 +1,7 @@
 {
   "number": 361,
-  "questionId": 68743,
-  "questionNumber": "226926",
+  "questionId": "022-0361",
+  "questionNumber": "022-0361",
   "stemHtml": "<p>In the event of a failure, a fail-operational flight control system will operate as a\u2026</p>",
   "options": {
     "a": "fail-passive system.",
@@ -10,5 +10,10 @@
     "d": "fail-redundant system."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68743,
+    "number": "226926"
+  }
 }

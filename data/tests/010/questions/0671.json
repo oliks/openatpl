@@ -1,7 +1,7 @@
 {
   "number": 671,
-  "questionId": 153936,
-  "questionNumber": "105708",
+  "questionId": "010-0671",
+  "questionNumber": "010-0671",
   "stemHtml": "<p>On which of the following circumstances is flight above a congested area allowed?</p><p>1. When 1000 ft clearance within 8 km of highest terrain applies<br>2. In order to land at a certified landing area<br>3. With authorization from competent authority<br>4. During take-off<br>5. At a altitude that would allow a safe landing without undue hazard to persons or property on the surface<br>6. With 8 km visibility and 1000 ft distance from the clouds<br>7. Immediately after take-off</p>",
   "options": {
     "a": "<p>2, 3, 4, 5 and 7</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 3, 4, 6 and 7</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153936,
+    "number": "105708"
+  }
 }

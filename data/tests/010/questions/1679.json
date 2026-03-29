@@ -1,7 +1,7 @@
 {
   "number": 1679,
-  "questionId": 66778,
-  "questionNumber": "107740",
+  "questionId": "010-1679",
+  "questionNumber": "010-1679",
   "stemHtml": "<p>A series of red flashes from aerodrome control directed towards an aircraft on the ground means..</p>",
   "options": {
     "a": "<p>give way to other aircraft that are taxiing.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the aircraft is on the wrong taxiway and must stop and taxi back.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66778,
+    "number": "107740"
+  }
 }

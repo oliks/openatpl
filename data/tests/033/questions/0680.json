@@ -1,7 +1,7 @@
 {
   "number": 680,
-  "questionId": 70704,
-  "questionNumber": "331999",
+  "questionId": "033-0680",
+  "questionNumber": "033-0680",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual SEP1 Figure 2.2 Table 2.2.3. <br>A flight has to be made with the single engine sample aeroplane. For the fuel calculation allow 10 lb fuel for start up and taxi, 3 minutes and 6 lb of additional fuel to allow for the climb, 10 minutes and no fuel correction for the descent.</p><p>Planned flight time overhead to overhead is 02 hours and 37 minutes. <br>Reserve fuel 30% of the trip fuel. Power setting is 23 in.HG or full throttle, 2300 RPM, 20\u00b0C lean. <br>Flight level is 50 and Standard Day ISA.</p><p>The minimum block fuel is\u2026</p>",
   "options": {
     "a": "281 lb",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0C3650F4-5ED5-415C-A3A2-C849D6EE3989.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0C3650F4-5ED5-415C-A3A2-C849D6EE3989.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70704,
+    "number": "331999"
+  }
 }

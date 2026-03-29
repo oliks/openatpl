@@ -1,7 +1,7 @@
 {
   "number": 579,
-  "questionId": 68866,
-  "questionNumber": "221479",
+  "questionId": "022-0579",
+  "questionNumber": "022-0579",
   "stemHtml": "<p>A Navigation Display\u2026</p>",
   "options": {
     "a": "is a full-colour aircraft systems navigation display.",
@@ -10,5 +10,10 @@
     "d": "provides a mode-selectable flight progress display."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68866,
+    "number": "221479"
+  }
 }

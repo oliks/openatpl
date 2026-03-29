@@ -1,7 +1,7 @@
 {
   "number": 1270,
-  "questionId": 101487,
-  "questionNumber": "335456",
+  "questionId": "033-1270",
+  "questionNumber": "033-1270",
   "stemHtml": "<p>Refer to figure or to STUTTGART (EDDS) SID 10-3D from the Jeppesen GSPRM 2017. <br>B-RNAV equipment required to follow ETASA 4B\u2026</p>",
   "options": {
     "a": "<p>To comply with the minimum climb gradient of 4%.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/195840f0-6417-4445-96cb-5c5bf6765d83.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/195840f0-6417-4445-96cb-5c5bf6765d83.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101487,
+    "number": "335456"
+  }
 }

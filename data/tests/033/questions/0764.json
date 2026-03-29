@@ -1,7 +1,7 @@
 {
   "number": 764,
-  "questionId": 100304,
-  "questionNumber": "334155",
+  "questionId": "033-0764",
+  "questionNumber": "033-0764",
   "stemHtml": "The ICAO PBN Manual (Doc. 9613) defines a set of navigation specifications for different airspace concepts. Where may a pilot encounter the specification RNP AR APCH?",
   "options": {
     "a": "En-route and approach segments requiring augmented navigation capability.",
@@ -10,5 +10,10 @@
     "d": "A route or part of a route that is airway-regulated."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100304,
+    "number": "334155"
+  }
 }

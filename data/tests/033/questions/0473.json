@@ -1,7 +1,7 @@
 {
   "number": 473,
-  "questionId": 70376,
-  "questionNumber": "331019",
+  "questionId": "033-0473",
+  "questionNumber": "033-0473",
   "stemHtml": "<p>On an ATS flight plan, to indicate that you will overfly the way-point TANGO at 350 kt at flight level 280, the entry at Item 15 should be\u2026</p>",
   "options": {
     "a": "TANGO/K0350FL280",
@@ -10,5 +10,10 @@
     "d": "TANGO/FL280N0350"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70376,
+    "number": "331019"
+  }
 }

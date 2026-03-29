@@ -1,7 +1,7 @@
 {
   "number": 240,
-  "questionId": 82553,
-  "questionNumber": "216686",
+  "questionId": "021-0240",
+  "questionNumber": "021-0240",
   "stemHtml": "<p>Computer life expectancy is affected by temperature. If a computer has a life expectancy of 40 000 hours running at 30\u00b0C, what would be the life expectancy if running at 40\u00b0C?</p>",
   "options": {
     "a": "20 000 hours",
@@ -10,5 +10,10 @@
     "d": "10 000 hours"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82553,
+    "number": "216686"
+  }
 }

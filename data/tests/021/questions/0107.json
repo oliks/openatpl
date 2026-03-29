@@ -1,7 +1,7 @@
 {
   "number": 107,
-  "questionId": 67584,
-  "questionNumber": "217773",
+  "questionId": "021-0107",
+  "questionNumber": "021-0107",
   "stemHtml": "<p>In a single stage of a gas turbine axial compressor the sequence of blades is\u2026</p>",
   "options": {
     "a": "stator \u2013 rotor.",
@@ -10,5 +10,10 @@
     "d": "rotor \u2013 rotor \u2013 stator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67584,
+    "number": "217773"
+  }
 }

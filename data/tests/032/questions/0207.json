@@ -1,7 +1,7 @@
 {
   "number": 207,
-  "questionId": 69687,
-  "questionNumber": "327755",
+  "questionId": "032-0207",
+  "questionNumber": "032-0207",
   "stemHtml": "The speed used to determine the \"maximum tyre-speed limit\" is the...",
   "options": {
     "a": "GS",
@@ -10,5 +10,10 @@
     "d": "IAS"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69687,
+    "number": "327755"
+  }
 }

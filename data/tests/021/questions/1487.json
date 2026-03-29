@@ -1,7 +1,7 @@
 {
   "number": 1487,
-  "questionId": 68290,
-  "questionNumber": "216500",
+  "questionId": "021-1487",
+  "questionNumber": "021-1487",
   "stemHtml": "<p>Continuous loop fire detector systems operate on the principle that an increase in temperature produces\u2026</p>",
   "options": {
     "a": "a decrease in resistance",
@@ -10,5 +10,10 @@
     "d": "a decrease in the reference current"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68290,
+    "number": "216500"
+  }
 }

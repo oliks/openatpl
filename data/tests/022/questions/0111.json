@@ -1,7 +1,7 @@
 {
   "number": 111,
-  "questionId": 84738,
-  "questionNumber": "223687",
+  "questionId": "022-0111",
+  "questionNumber": "022-0111",
   "stemHtml": "<p>A pilot wants the aeroplane to climb at 500 ft/min up to 6000 ft. How does he/she program the autopilot?</p>",
   "options": {
     "a": "<p>V/S engaged mode, ALT armed mode.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>V/S armed mode, ALT armed mode.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84738,
+    "number": "223687"
+  }
 }

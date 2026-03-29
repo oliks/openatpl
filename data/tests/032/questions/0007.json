@@ -1,7 +1,7 @@
 {
   "number": 7,
-  "questionId": 82457,
-  "questionNumber": "329647",
+  "questionId": "032-0007",
+  "questionNumber": "032-0007",
   "stemHtml": "An aircraft is climbing at a maximum climb angle with constant speed and thrust. Consider for theoretical purposes that the weight of the aircraft suddenly decreases but the flight otherwise continues as normal. For the pilot to maintain the same speed, all factors remaining the same, the angle of climb must be\u2026",
   "options": {
     "a": "Reduced, to increase the backward component of weight in order to exceed the excess thrust.",
@@ -10,5 +10,10 @@
     "d": "Increased, to reduce the backward component of weight in order to be less than the excess thrust."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82457,
+    "number": "329647"
+  }
 }

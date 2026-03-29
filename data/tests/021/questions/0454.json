@@ -1,7 +1,7 @@
 {
   "number": 454,
-  "questionId": 105441,
-  "questionNumber": "218857",
+  "questionId": "021-0454",
+  "questionNumber": "021-0454",
   "stemHtml": "<p>What is the correct range for the specific gravity of Jet A1 fuel at 15\u00b0C?</p>",
   "options": {
     "a": "<p>0.76 - 0.83</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1.01 - 1.3</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105441,
+    "number": "218857"
+  }
 }

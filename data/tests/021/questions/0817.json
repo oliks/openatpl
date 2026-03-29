@@ -1,7 +1,7 @@
 {
   "number": 817,
-  "questionId": 67341,
-  "questionNumber": "216506",
+  "questionId": "021-0817",
+  "questionNumber": "021-0817",
   "stemHtml": "<p>Which of the following is true with respect to heating of pitot and static sensors\u2026</p>",
   "options": {
     "a": "<p>Combined pitot/static tubes are always heated but static ports are never heated.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pitot tube and static port heating are switched on automatically when icing conditions are met.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67341,
+    "number": "216506"
+  }
 }

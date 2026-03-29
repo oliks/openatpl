@@ -1,7 +1,7 @@
 {
   "number": 549,
-  "questionId": 101496,
-  "questionNumber": "109892",
+  "questionId": "010-0549",
+  "questionNumber": "010-0549",
   "stemHtml": "What is the main focus of Annex 15 to the Chicago Convention?",
   "options": {
     "a": "Rules of air.",
@@ -10,5 +10,10 @@
     "d": "Licensing."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101496,
+    "number": "109892"
+  }
 }

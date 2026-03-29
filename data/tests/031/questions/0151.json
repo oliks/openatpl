@@ -1,7 +1,7 @@
 {
   "number": 151,
-  "questionId": 106986,
-  "questionNumber": "312062",
+  "questionId": "031-0151",
+  "questionNumber": "031-0151",
   "stemHtml": "<p>An aircraft's Operating Mass is equal to the...</p>",
   "options": {
     "a": "<p>BEM + Variable Load + Traffic Load.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>BEM + Variable Load + Take-Off Fuel.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106986,
+    "number": "312062"
+  }
 }

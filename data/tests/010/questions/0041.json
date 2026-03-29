@@ -1,7 +1,7 @@
 {
   "number": 41,
-  "questionId": 81326,
-  "questionNumber": "103474",
+  "questionId": "010-0041",
+  "questionNumber": "010-0041",
   "stemHtml": "<p>An aircraft accident takes place in the sea, in the territory of State A. The aircraft is registered in State B. The conduct of the investigation is the responsibility of (1) _____ and shall normally include, if possible, the determination of the causes and/or (2) _____.</p>",
   "options": {
     "a": "<p dir=\"ltr\">(1) State A; (2) faults to apportion blame</p>",
@@ -10,5 +10,10 @@
     "d": "(1) State B; (2) faults to apportion blame"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81326,
+    "number": "103474"
+  }
 }

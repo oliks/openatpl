@@ -1,7 +1,7 @@
 {
   "number": 347,
-  "questionId": 78617,
-  "questionNumber": "106467",
+  "questionId": "010-0347",
+  "questionNumber": "010-0347",
   "stemHtml": "<p>An ATS airspace where IFR and VFR flights are permitted, all flights are subject to air traffic control service and IFR flights are separated from other IFR flights and from VFR flights, VFR flights are separated from IFR flights and receive traffic information in respect of other VFR flights, is classified as\u2026</p>",
   "options": {
     "a": "Airspace Class B.",
@@ -10,5 +10,10 @@
     "d": "Airspace Class E."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78617,
+    "number": "106467"
+  }
 }

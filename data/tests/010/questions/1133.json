@@ -1,7 +1,7 @@
 {
   "number": 1133,
-  "questionId": 100119,
-  "questionNumber": "101231",
+  "questionId": "010-1133",
+  "questionNumber": "010-1133",
   "stemHtml": "An aircraft is being radar vectored. What instructions will the controller give to the pilot when vectoring is terminated?",
   "options": {
     "a": "D-CC resume own navigation, direct XX VOR, 25 miles from YYYY.",
@@ -10,5 +10,10 @@
     "d": "Radar service terminated."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100119,
+    "number": "101231"
+  }
 }

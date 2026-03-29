@@ -1,7 +1,7 @@
 {
   "number": 428,
-  "questionId": 67861,
-  "questionNumber": "212212",
+  "questionId": "021-0428",
+  "questionNumber": "021-0428",
   "stemHtml": "<p>The function of an exhaust-propelling nozzle is to\u2026</p>",
   "options": {
     "a": "<p>drive the engine propeller through a geared reduction shaft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>mix bypass air with turbine exhaust to increase the mixture`s velocity.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67861,
+    "number": "212212"
+  }
 }

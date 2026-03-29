@@ -1,7 +1,7 @@
 {
   "number": 1261,
-  "questionId": 81314,
-  "questionNumber": "216066",
+  "questionId": "021-1261",
+  "questionNumber": "021-1261",
   "stemHtml": "<p>How can you disengage autopilot?</p><p>1) disengage FBW<br>2) press and hold priority button<br>3) disengage on MCP<br>4) forcefully move the control column</p>",
   "options": {
     "a": "<p dir=\"ltr\">1, 2 and 3.</p>",
@@ -10,5 +10,10 @@
     "d": "1, 2 and 4."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81314,
+    "number": "216066"
+  }
 }

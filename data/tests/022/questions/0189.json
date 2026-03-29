@@ -1,7 +1,7 @@
 {
   "number": 189,
-  "questionId": 106962,
-  "questionNumber": "224398",
+  "questionId": "022-0189",
+  "questionNumber": "022-0189",
   "stemHtml": "<p>How many traffic can TCAS II display?</p>",
   "options": {
     "a": "<p>30 within 10 NM.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>30 and can provide commands in the horizontal plane only.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106962,
+    "number": "224398"
+  }
 }

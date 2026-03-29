@@ -1,7 +1,7 @@
 {
   "number": 620,
-  "questionId": 141429,
-  "questionNumber": "105241",
+  "questionId": "010-0620",
+  "questionNumber": "010-0620",
   "stemHtml": "<p>Who holds responsibility for the cargo?</p>",
   "options": {
     "a": "<p>PIC, Ramp Agent and Operator.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Cargo Owner.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 141429,
+    "number": "105241"
+  }
 }

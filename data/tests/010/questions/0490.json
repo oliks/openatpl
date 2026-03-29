@@ -1,7 +1,7 @@
 {
   "number": 490,
-  "questionId": 66811,
-  "questionNumber": "107367",
+  "questionId": "010-0490",
+  "questionNumber": "010-0490",
   "stemHtml": "<p>An aircraft is operating under IFR outside of controlled airspace. It is in the cruise phase of the flight, and shall be flown at a cruising level appropriate to its\u2026</p>",
   "options": {
     "a": "true heading.",
@@ -10,5 +10,10 @@
     "d": "true track."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66811,
+    "number": "107367"
+  }
 }

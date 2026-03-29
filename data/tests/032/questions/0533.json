@@ -1,7 +1,7 @@
 {
   "number": 533,
-  "questionId": 107868,
-  "questionNumber": "329754",
+  "questionId": "032-0533",
+  "questionNumber": "032-0533",
   "stemHtml": "<p>What is the effect on ASD, if two of the multiple brakes on each wheels are not working?</p>",
   "options": {
     "a": "<p>ASD will increase</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It is impossible to determine whether ASD will increase or decrease</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107868,
+    "number": "329754"
+  }
 }

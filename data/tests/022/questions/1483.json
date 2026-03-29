@@ -1,7 +1,7 @@
 {
   "number": 1483,
-  "questionId": 68428,
-  "questionNumber": "221635",
+  "questionId": "022-1483",
+  "questionNumber": "022-1483",
   "stemHtml": "<p>A leak in the total pressure line of an aircraft to an airspeed indicator would cause it to\u2026</p>",
   "options": {
     "a": "overread in a climb and under-read in a descent.",
@@ -10,5 +10,10 @@
     "d": "underread in a climb and over-read in a descent."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68428,
+    "number": "221635"
+  }
 }

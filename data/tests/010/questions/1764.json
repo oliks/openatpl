@@ -1,7 +1,7 @@
 {
   "number": 1764,
-  "questionId": 102359,
-  "questionNumber": "108346",
+  "questionId": "010-1764",
+  "questionNumber": "010-1764",
   "stemHtml": "<p>In a CALVERT CAT I approach light system, the center line lights include a single light row, a two-light row, and a three-light row. What is the maximum distance from the threshold when transitioning from two lights to single lights during an approach?</p>",
   "options": {
     "a": "<p>600 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>300 m</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102359,
+    "number": "108346"
+  }
 }

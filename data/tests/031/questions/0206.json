@@ -1,7 +1,7 @@
 {
   "number": 206,
-  "questionId": 69508,
-  "questionNumber": "311532",
+  "questionId": "031-0206",
+  "questionNumber": "031-0206",
   "stemHtml": "In which of the following situations must a pilot calculate the take-off mass and the centre of gravity and check the values against the limits?",
   "options": {
     "a": "As soon as the load is different to the load from the last flight.",
@@ -10,5 +10,10 @@
     "d": "In predetermined intervals."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69508,
+    "number": "311532"
+  }
 }

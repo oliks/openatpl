@@ -1,7 +1,7 @@
 {
   "number": 1290,
-  "questionId": 107327,
-  "questionNumber": "322688",
+  "questionId": "032-1290",
+  "questionNumber": "032-1290",
   "stemHtml": "<p>In a naturally aspirated engine, what happens to engine performance as you increase altitude?</p>",
   "options": {
     "a": "<p>Power output increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Power output fluctuates.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107327,
+    "number": "322688"
+  }
 }

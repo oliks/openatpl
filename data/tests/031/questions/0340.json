@@ -1,7 +1,7 @@
 {
   "number": 340,
-  "questionId": 69446,
-  "questionNumber": "319647",
+  "questionId": "031-0340",
+  "questionNumber": "031-0340",
   "stemHtml": "<p>The maximum mass to which an aeroplane may be loaded, prior to engine start, is\u2026</p>",
   "options": {
     "a": "<p>maximum certificated taxi (ramp) mass.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>maximum certificated take-off mass.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69446,
+    "number": "319647"
+  }
 }

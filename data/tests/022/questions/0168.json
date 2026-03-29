@@ -1,7 +1,7 @@
 {
   "number": 168,
-  "questionId": 100082,
-  "questionNumber": "224121",
+  "questionId": "022-0168",
+  "questionNumber": "022-0168",
   "stemHtml": "<p>At the end of a flight, the pilot may assess the accuracy of an IRU\u2026</p>",
   "options": {
     "a": "<p>By comparing the position after landing with the one on the IRS.</p>",
@@ -10,5 +10,10 @@
     "d": "By checking the air speed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100082,
+    "number": "224121"
+  }
 }

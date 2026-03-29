@@ -1,7 +1,7 @@
 {
   "number": 697,
-  "questionId": 67228,
-  "questionNumber": "104511",
+  "questionId": "010-0697",
+  "questionNumber": "010-0697",
   "stemHtml": "On approach to landing the wind is reported 040/20 kt. Which runways below is the approach controller most likely to clear you for landing?",
   "options": {
     "a": "09",
@@ -10,5 +10,10 @@
     "d": "36"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67228,
+    "number": "104511"
+  }
 }

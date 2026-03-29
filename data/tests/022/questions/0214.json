@@ -1,7 +1,7 @@
 {
   "number": 214,
-  "questionId": 84490,
-  "questionNumber": "226677",
+  "questionId": "022-0214",
+  "questionNumber": "022-0214",
   "stemHtml": "<p>According to CS-25, the Master Warning and Master Caution annunciators, if installed, shall be located\u2026</p>",
   "options": {
     "a": "Master Warning/Caution annunciators are no longer used, as they may distract the flight crew in an emergency.",
@@ -10,5 +10,10 @@
     "d": "In the overhead panel."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84490,
+    "number": "226677"
+  }
 }

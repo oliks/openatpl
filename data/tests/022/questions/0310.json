@@ -1,7 +1,7 @@
 {
   "number": 310,
-  "questionId": 95954,
-  "questionNumber": "229138",
+  "questionId": "022-0310",
+  "questionNumber": "022-0310",
   "stemHtml": "<p>Refer to figure.       <br />      An example of a typical Multifunction Display (MFD) with AFCS controls and Flight Mode Annunciators (FMAs) is shown in the annex. The pilot intends to use Flight Director (FD) guidance while manually flying an ILS approach. The guidance from the raw data localizer (LOC) and glideslope (GS) indications shows that the aircraft is established on the ILS. Which of the following statements about the FD's indications is true?</p>",
   "options": {
     "a": "<p>The FD is showing a pitch-down command to indicate the descent along the glideslope since both LOC and GS modes are active.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/f2c238d7-18a3-4fdc-975a-cab3f893d703.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/f2c238d7-18a3-4fdc-975a-cab3f893d703.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95954,
+    "number": "229138"
+  }
 }

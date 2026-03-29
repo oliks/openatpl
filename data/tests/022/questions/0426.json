@@ -1,7 +1,7 @@
 {
   "number": 426,
-  "questionId": 81412,
-  "questionNumber": "224961",
+  "questionId": "022-0426",
+  "questionNumber": "022-0426",
   "stemHtml": "<p>Which of the following are used as input(s) for the ADC to calculate TAS?</p>",
   "options": {
     "a": "<p dir=\"ltr\">Total pressure and SAT only.</p>",
@@ -10,5 +10,10 @@
     "d": "Total pressure only."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81412,
+    "number": "224961"
+  }
 }

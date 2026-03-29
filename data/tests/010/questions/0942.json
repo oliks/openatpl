@@ -1,7 +1,7 @@
 {
   "number": 942,
-  "questionId": 109835,
-  "questionNumber": "107264",
+  "questionId": "010-0942",
+  "questionNumber": "010-0942",
   "stemHtml": "<p>A pilot is experiencing a fuel emergency due to incorrect flight planning and needs to divert to the nearest suitable airport. However, the shortest route to the airport requires entering a restricted area. Is the pilot permitted to enter the restricted airspace in this situation?</p>",
   "options": {
     "a": "<p>Yes, in an emergency a pilot may enter a restricted area and inform ATC to clear the airspace.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes, the pilot may enter the restricted area and does NOT need to inform ATC.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109835,
+    "number": "107264"
+  }
 }

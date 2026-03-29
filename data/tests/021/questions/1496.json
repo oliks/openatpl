@@ -1,7 +1,7 @@
 {
   "number": 1496,
-  "questionId": 84554,
-  "questionNumber": "211879",
+  "questionId": "021-1496",
+  "questionNumber": "021-1496",
   "stemHtml": "Which of the following correctly describes the construction of flight deck windshields for commercial jet aircraft?",
   "options": {
     "a": "A single sheet of toughened glass, to give the pilots the best view outwards.",
@@ -10,5 +10,10 @@
     "d": "Layers of toughened glass and vinyl, to aid impact resistance from bird strike."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84554,
+    "number": "211879"
+  }
 }

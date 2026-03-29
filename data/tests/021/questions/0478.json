@@ -1,7 +1,7 @@
 {
   "number": 478,
-  "questionId": 96237,
-  "questionNumber": "217647",
+  "questionId": "021-0478",
+  "questionNumber": "021-0478",
   "stemHtml": "<p>During a pre-flight inspection, the pilot observes rippling of the upper wing skin and loose rivets on the underside of the wing. Which of the following is the most likely cause of this damage?</p>",
   "options": {
     "a": "Solar radiation.",
@@ -10,5 +10,10 @@
     "d": "Natural ageing of the airframe."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96237,
+    "number": "217647"
+  }
 }

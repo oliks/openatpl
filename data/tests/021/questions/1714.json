@@ -1,7 +1,7 @@
 {
   "number": 1714,
-  "questionId": 67556,
-  "questionNumber": "211689",
+  "questionId": "021-1714",
+  "questionNumber": "021-1714",
   "stemHtml": "The reason for fitting thermal plugs to aeroplane wheels is that they..",
   "options": {
     "a": "release air from the tyre in the event of overpressure due to over-inflation.",
@@ -10,5 +10,10 @@
     "d": "allow a controlled deflation of the tyre in the event of overheating."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67556,
+    "number": "211689"
+  }
 }

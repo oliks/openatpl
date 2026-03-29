@@ -1,7 +1,7 @@
 {
   "number": 113,
-  "questionId": 80896,
-  "questionNumber": "221671",
+  "questionId": "022-0113",
+  "questionNumber": "022-0113",
   "stemHtml": "<p>You are flying an EGPWS equipped aircraft, performing a visual approach to a runway with a functioning ILS and non-standard gear and flap configuration. To prevent false warnings during the approach, you should\u2026</p>",
   "options": {
     "a": "Disable the Glideslope functionality of the EGPWS.",
@@ -10,5 +10,10 @@
     "d": "Turn off the ADIRU."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80896,
+    "number": "221671"
+  }
 }

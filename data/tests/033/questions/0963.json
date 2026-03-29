@@ -1,7 +1,7 @@
 {
   "number": 963,
-  "questionId": 70873,
-  "questionNumber": "336750",
+  "questionId": "033-0963",
+  "questionNumber": "033-0963",
   "stemHtml": "<p>Refer to figure or DUBROVNIK - charts 19-1 and 19-2 from Jeppesen GSPRM 2017. How many VFR arrivals to Dubrovnik are published?</p>",
   "options": {
     "a": "8",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/44217091-6F3F-41BF-8EF4-E1CF08D2F1FD.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/44217091-6F3F-41BF-8EF4-E1CF08D2F1FD.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70873,
+    "number": "336750"
+  }
 }

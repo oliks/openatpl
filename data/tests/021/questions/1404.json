@@ -1,7 +1,7 @@
 {
   "number": 1404,
-  "questionId": 80136,
-  "questionNumber": "216002",
+  "questionId": "021-1404",
+  "questionNumber": "021-1404",
   "stemHtml": "<p>A constant speed propeller is attached to a free turbine engine, what happens when the power is reduced?</p>",
   "options": {
     "a": "<p>The CSU adjusts the propeller to maintain a constant RPM. The turbine RPM increases before the CSU responds.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The fuel flow will reduce, the CSU adjusts the propeller towards a lower pitch. The propeller and turbine RPM decrease before the CSU responds.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80136,
+    "number": "216002"
+  }
 }

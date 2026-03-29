@@ -1,7 +1,7 @@
 {
   "number": 1474,
-  "questionId": 68585,
-  "questionNumber": "221772",
+  "questionId": "022-1474",
+  "questionNumber": "022-1474",
   "stemHtml": "<p>The maximum TAS is obtained at\u2026</p>",
   "options": {
     "a": "the maximum Flight Level.",
@@ -10,5 +10,10 @@
     "d": "<p>all the Flight Level(s) where CAS = V<sub>MO</sub>.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68585,
+    "number": "221772"
+  }
 }

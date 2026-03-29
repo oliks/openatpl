@@ -1,7 +1,7 @@
 {
   "number": 603,
-  "questionId": 69524,
-  "questionNumber": "313132",
+  "questionId": "031-0603",
+  "questionNumber": "031-0603",
   "stemHtml": "<p>Information about CG limits can be found\u2026</p>",
   "options": {
     "a": "in the Aircraft Flight Manual.",
@@ -10,5 +10,10 @@
     "d": "in the aircraft&rsquo;s Certificate of Registration."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69524,
+    "number": "313132"
+  }
 }

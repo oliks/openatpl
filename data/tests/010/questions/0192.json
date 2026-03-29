@@ -1,7 +1,7 @@
 {
   "number": 192,
-  "questionId": 107374,
-  "questionNumber": "102795",
+  "questionId": "010-0192",
+  "questionNumber": "010-0192",
   "stemHtml": "<p>The Fourth Freedom of the Air defined in the International Air Transport Agreement is the...</p>",
   "options": {
     "a": "<p>right to carry passengers from an other State to the State in which the aircraft is registered.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>right to carry passengers from one State to another, while en-route to or from the State in which the aircraft is registered.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107374,
+    "number": "102795"
+  }
 }

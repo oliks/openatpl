@@ -1,7 +1,7 @@
 {
   "number": 1818,
-  "questionId": 68318,
-  "questionNumber": "217128",
+  "questionId": "021-1818",
+  "questionNumber": "021-1818",
   "stemHtml": "<p>Axial piston pumps are often used in hydraulic systems due to\u2026</p>",
   "options": {
     "a": "<p>the safety feature of the quill drive shearing due to pump seizure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>their ability to produce variable pressure combined with constant high flow rate.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68318,
+    "number": "217128"
+  }
 }

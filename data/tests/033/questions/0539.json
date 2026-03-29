@@ -1,7 +1,7 @@
 {
   "number": 539,
-  "questionId": 70906,
-  "questionNumber": "336563",
+  "questionId": "033-0539",
+  "questionNumber": "033-0539",
   "stemHtml": "<div>Refer to ALICANTE - chart 13-2 from Jeppesen GSPRM 2017.<br />\r\nYou are following VOR Y RWY 10 procedure but because of a very strong tailwind you are not able to complete the approach. What are you going to do?</div>\r\n",
   "options": {
     "a": "<p>You will circle to the north or south and land on runway 28.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/BF59FD66-9FF5-481E-BB82-180516CB2ACB.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/BF59FD66-9FF5-481E-BB82-180516CB2ACB.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70906,
+    "number": "336563"
+  }
 }

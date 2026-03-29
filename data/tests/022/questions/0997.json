@@ -1,7 +1,7 @@
 {
   "number": 997,
-  "questionId": 107011,
-  "questionNumber": "228457",
+  "questionId": "022-0997",
+  "questionNumber": "022-0997",
   "stemHtml": "<p>Alignment of the INS (Inertial Navigation System) is in progress when the dispatcher asks for pushback. What should the pilot do?</p>",
   "options": {
     "a": "<p>Agree for pushback.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>INS alignment is not important, so they can commence pushback.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107011,
+    "number": "228457"
+  }
 }

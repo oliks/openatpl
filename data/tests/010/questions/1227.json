@@ -1,7 +1,7 @@
 {
   "number": 1227,
-  "questionId": 102716,
-  "questionNumber": "103397",
+  "questionId": "010-1227",
+  "questionNumber": "010-1227",
   "stemHtml": "<p>Provided it is practicable, the distribution of NOTAMs is done via...</p>",
   "options": {
     "a": "<p>fax.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>AFTN.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102716,
+    "number": "103397"
+  }
 }

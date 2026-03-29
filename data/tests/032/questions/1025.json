@@ -1,7 +1,7 @@
 {
   "number": 1025,
-  "questionId": 69847,
-  "questionNumber": "328236",
+  "questionId": "032-1025",
+  "questionNumber": "032-1025",
   "stemHtml": "What effect does temperature have on the performance limited take-off mass?",
   "options": {
     "a": "Falling temperatures will require a lower performance limited take-off mass.",
@@ -10,5 +10,10 @@
     "d": "Rising temperatures will permit a higher performance limited take-off-mass."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69847,
+    "number": "328236"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 174,
-  "questionId": 67127,
-  "questionNumber": "102618",
+  "questionId": "010-0174",
+  "questionNumber": "010-0174",
   "stemHtml": "According to ICAO Annex 14, when mobile objects are marked by colour, which colours should be used for emergency vehicles?",
   "options": {
     "a": "Blue or red.",
@@ -10,5 +10,10 @@
     "d": "Red or yellowish green."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67127,
+    "number": "102618"
+  }
 }

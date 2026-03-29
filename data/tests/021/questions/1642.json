@@ -1,7 +1,7 @@
 {
   "number": 1642,
-  "questionId": 67647,
-  "questionNumber": "213200",
+  "questionId": "021-1642",
+  "questionNumber": "021-1642",
   "stemHtml": "<p>Select the option that best describes \u201cnose-wheel shimmy\u201d.</p>",
   "options": {
     "a": "An oscillatory longitudinal movement of the nose-wheel about the lateral axis of the aircraft caused by the landing gear being lowered prior to landing or retracted after take-off.",
@@ -10,5 +10,10 @@
     "d": "An oscillatory longitudinal movement of the nose-wheel about the lateral axis of the aircraft when the nose wheel is in contact with the runway during the take-off or landing run."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67647,
+    "number": "213200"
+  }
 }

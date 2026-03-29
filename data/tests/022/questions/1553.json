@@ -1,7 +1,7 @@
 {
   "number": 1553,
-  "questionId": 74460,
-  "questionNumber": "225627",
+  "questionId": "022-1553",
+  "questionNumber": "022-1553",
   "stemHtml": "Which statement is true about the navigational database of a FMS?",
   "options": {
     "a": "Crew created navigational data may be saved in additional space in the database.",
@@ -10,5 +10,10 @@
     "d": "The crew can overwrite existing database-data in the navigational database."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74460,
+    "number": "225627"
+  }
 }

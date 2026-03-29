@@ -1,7 +1,7 @@
 {
   "number": 1573,
-  "questionId": 74411,
-  "questionNumber": "222958",
+  "questionId": "022-1573",
+  "questionNumber": "022-1573",
   "stemHtml": "<p>On modern passenger aircraft, the navigation data base usually contains\u2026</p>",
   "options": {
     "a": "<p>Airport reference data.</p>",
@@ -10,5 +10,10 @@
     "d": "ATC frequencies."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74411,
+    "number": "222958"
+  }
 }

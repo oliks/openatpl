@@ -1,7 +1,7 @@
 {
   "number": 696,
-  "questionId": 106797,
-  "questionNumber": "103856",
+  "questionId": "010-0696",
+  "questionNumber": "010-0696",
   "stemHtml": "<p>When should a stand identification sign be clearly visible from the cockpit?</p>",
   "options": {
     "a": "<p>After the aircraft has entered the parking stand.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>When the aircraft is parked on the stand.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106797,
+    "number": "103856"
+  }
 }

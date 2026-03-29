@@ -1,7 +1,7 @@
 {
   "number": 1388,
-  "questionId": 77976,
-  "questionNumber": "213019",
+  "questionId": "021-1388",
+  "questionNumber": "021-1388",
   "stemHtml": "<p>Which of the following statements is/are correct concerning Engine fire detectors?</p><p>1. An engine fire detector needs to be protected against nuisance warnings as well as undetected malfunction<br>2. It is safe to depart with one fire detector failed</p>",
   "options": {
     "a": "1 is incorrect, 2 is incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77976,
+    "number": "213019"
+  }
 }

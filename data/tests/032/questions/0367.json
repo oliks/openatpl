@@ -1,7 +1,7 @@
 {
   "number": 367,
-  "questionId": 80324,
-  "questionNumber": "328803",
+  "questionId": "032-0367",
+  "questionNumber": "032-0367",
   "stemHtml": "<p>According to CS-25, the pilot may apply maximum braking after landing\u2026</p>",
   "options": {
     "a": "Once the main gear has touched down provided you can lower the nose gear safely.",
@@ -10,5 +10,10 @@
     "d": "When deploying thrust reversers with the nose gear firmly on the ground."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80324,
+    "number": "328803"
+  }
 }

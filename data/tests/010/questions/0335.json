@@ -1,7 +1,7 @@
 {
   "number": 335,
-  "questionId": 66617,
-  "questionNumber": "105943",
+  "questionId": "010-0335",
+  "questionNumber": "010-0335",
   "stemHtml": "<p>Information concerning snow, ice and standing water associated with snow on aerodrome pavement areas is to be reported by\u2026</p>",
   "options": {
     "a": "NOTAM Class I",
@@ -10,5 +10,10 @@
     "d": "SNOWTAM"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66617,
+    "number": "105943"
+  }
 }

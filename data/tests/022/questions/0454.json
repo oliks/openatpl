@@ -1,7 +1,7 @@
 {
   "number": 454,
-  "questionId": 81952,
-  "questionNumber": "225012",
+  "questionId": "022-0454",
+  "questionNumber": "022-0454",
   "stemHtml": "<p>Assuming the autopilot is in heading hold mode, what would happen to the autopilot if the flux valve started drifting in an aircraft equipped with a single flux valve?</p>",
   "options": {
     "a": "The autopilot would start drifting off too.",
@@ -10,5 +10,10 @@
     "d": "Nothing. The autopilot is independent from the flux valve."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81952,
+    "number": "225012"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1327,
-  "questionId": 86017,
-  "questionNumber": "103304",
+  "questionId": "010-1327",
+  "questionNumber": "010-1327",
   "stemHtml": "<p>The visual phase of an Instrument Approach to bring an aircraft into position for landing on a runway/FATO that is not suitably located for a \"straight-in approach\" is the definition of...</p>",
   "options": {
     "a": "Visual approach (circling)",
@@ -10,5 +10,10 @@
     "d": "Aerodrome traffic circuit (circling)"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86017,
+    "number": "103304"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1573,
-  "questionId": 66783,
-  "questionNumber": "104982",
+  "questionId": "010-1573",
+  "questionNumber": "010-1573",
   "stemHtml": "According to ICAO Annex 2, in the event that a controlled flight inadvertently deviates from its current flight plan, the appropriate ATS unit has to be informed?",
   "options": {
     "a": "about any deviation in TAS.",
@@ -10,5 +10,10 @@
     "d": "<p>if the average true air speed varies by plus or minus 5% of the true air speed given in the flight plan.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66783,
+    "number": "104982"
+  }
 }

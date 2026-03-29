@@ -1,7 +1,7 @@
 {
   "number": 1015,
-  "questionId": 70460,
-  "questionNumber": "334706",
+  "questionId": "033-1015",
+  "questionNumber": "033-1015",
   "stemHtml": "<p>Refer to figure or CAP 697 Figure 4.5.3.2 for Pressure Altitude 37 000 ft.<br>Given the following information, how much Trip Fuel is required for a Commercial Air Transport flight?</p><p>Ramp mass: 52500 kg<br>Taxi Fuel: 150 kg<br>Take-off and Climb Fuel: 1650 kg<br>Cruise distance: 378 NAM<br>Average wind component in cruise: +20 kt<br>OAT: ISA<br>Descent Fuel: 275 kg<br>Approach and Landing Fuel: 80 kg<br>Contingency Fuel: 5% of Trip Fuel<br>Alternate Fuel: 250 kg<br>Holding fuel consumption: 2400 kg per hour</p>",
   "options": {
     "a": "3640 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/48C61B9E-96BD-40FF-8DED-AE72CBD2AD91.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/48C61B9E-96BD-40FF-8DED-AE72CBD2AD91.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70460,
+    "number": "334706"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 373,
-  "questionId": 84422,
-  "questionNumber": "221849",
+  "questionId": "022-0373",
+  "questionNumber": "022-0373",
   "stemHtml": "<p>You are flying in and out of clouds in an area with clouds of extended vertical development that cause significant turbulence. Due to sudden turbulence, the autopilot disengages without any pilot command (no pressing of buttons, no application of pressure to the flight controls). How will you be notified of the autopilot disengagement?</p>",
   "options": {
     "a": "<p>A continuous unique aural warning and a visual warning that the autopilot is not controlling the aeroplane.</p>",
@@ -10,5 +10,10 @@
     "d": "An aural and visual master warning to ensure the pilot(s) monitor the flight path until the autopilot automatically reengages."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84422,
+    "number": "221849"
+  }
 }

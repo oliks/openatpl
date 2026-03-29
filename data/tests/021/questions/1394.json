@@ -1,7 +1,7 @@
 {
   "number": 1394,
-  "questionId": 81184,
-  "questionNumber": "213611",
+  "questionId": "021-1394",
+  "questionNumber": "021-1394",
   "stemHtml": "<p>On aircraft with (1) _____ generators as the primary source of electrical power, Transformer Rectifier Units (TRUs) are used to obtain (2) _____ electrical power.</p>",
   "options": {
     "a": "(1) 28 V AC; (2) 28 V DC.",
@@ -10,5 +10,10 @@
     "d": "(1) 28 V DC; (2) 28 V AC."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81184,
+    "number": "213611"
+  }
 }

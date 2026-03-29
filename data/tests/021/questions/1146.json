@@ -1,7 +1,7 @@
 {
   "number": 1146,
-  "questionId": 108458,
-  "questionNumber": "212198",
+  "questionId": "021-1146",
+  "questionNumber": "021-1146",
   "stemHtml": "<p>In terms of electrical circuits, fuses are rated by which of the following?</p>\r\r<p>1. The maximum voltage which can be passed through a circuit without the current arcing over a blown fuse <br /> \r2. The maximum steady voltage that the consumers in the circuit can take before damage occurs <br /> \r3. The steady current, above which the fuse will melt <br /> \r4. The maximum current which a fuse can withstand continuously without melting <br /> \r5. The maximum temperature and speed of flow that can be withstood</p>\r\r<p> </p>",
   "options": {
     "a": "<p>1, 2 and 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3 and 4.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108458,
+    "number": "212198"
+  }
 }

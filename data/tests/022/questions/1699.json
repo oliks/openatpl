@@ -1,7 +1,7 @@
 {
   "number": 1699,
-  "questionId": 84736,
-  "questionNumber": "211667",
+  "questionId": "022-1699",
+  "questionNumber": "022-1699",
   "stemHtml": "<p>During the flight one CDU fails, what happens to the associated FMS?</p>",
   "options": {
     "a": "Cannot be used and must be shut off for the remaining part of the flight.",
@@ -10,5 +10,10 @@
     "d": "Can be used by inserting data via datalink."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84736,
+    "number": "211667"
+  }
 }

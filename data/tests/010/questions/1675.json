@@ -1,7 +1,7 @@
 {
   "number": 1675,
-  "questionId": 102355,
-  "questionNumber": "108010",
+  "questionId": "010-1675",
+  "questionNumber": "010-1675",
   "stemHtml": "<p>What is the method of ensuring vertical separation?</p>",
   "options": {
     "a": "<p>Vertical separation is obtained by requiring aircraft using prescribed altimeter setting procedures or GNSS input parameters to operate at different levels expressed in terms of flight levels or altitudes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Vertical separation is obtained by requiring aircraft using prescribed altimeter setting procedures to operate at different levels expressed in terms of flight levels or altitudes.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102355,
+    "number": "108010"
+  }
 }

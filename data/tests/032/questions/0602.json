@@ -1,7 +1,7 @@
 {
   "number": 602,
-  "questionId": 78111,
-  "questionNumber": "321588",
+  "questionId": "032-0602",
+  "questionNumber": "032-0602",
   "stemHtml": "<p>Choose the correct statement concerning a take-off planning with the following limiting masses established:</p>\n\n<p>FL limit: 170 000 kg <br /> \nClimb limit: 150 000 kg <br /> \nTyre limit: 190 000 kg <br /> \nObstacle limit: 192 000 kg <br /> \nCG limit: 185 000 kg</p>",
   "options": {
     "a": "The MTOM can be increased beyond 185 000 kg.",
@@ -10,5 +10,10 @@
     "d": "The MTOM is 192 000 kg."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78111,
+    "number": "321588"
+  }
 }

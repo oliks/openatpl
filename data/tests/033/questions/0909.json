@@ -1,7 +1,7 @@
 {
   "number": 909,
-  "questionId": 81547,
-  "questionNumber": "338064",
+  "questionId": "033-0909",
+  "questionNumber": "033-0909",
   "stemHtml": "<p>Refer to figure. <br /> The annex shows an extract of the route info page on a typical operational flight produced by a flight planning tool.You are flying from GVAC to EGCC and notice there are three different distances shown on the flight plan. What is the significance of the difference between GND DIST and AIR DIST?</p>",
   "options": {
     "a": "AIR DIST is the longest distance because it considers the altitude in addition to the route distance and shows the distance in three dimensions.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/DF39359F-6923-40B9-A53D-F1E6EF7C394F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/DF39359F-6923-40B9-A53D-F1E6EF7C394F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81547,
+    "number": "338064"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 532,
-  "questionId": 104546,
-  "questionNumber": "102340",
+  "questionId": "010-0532",
+  "questionNumber": "010-0532",
   "stemHtml": "<p>A malfunctioning overhead bin is to be reported as...</p>",
   "options": {
     "a": "<p>Mandatory Reporting.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Incident Reporting.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104546,
+    "number": "102340"
+  }
 }

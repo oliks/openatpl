@@ -1,7 +1,7 @@
 {
   "number": 946,
-  "questionId": 106296,
-  "questionNumber": "105281",
+  "questionId": "010-0946",
+  "questionNumber": "010-0946",
   "stemHtml": "<p>A pilot that is planning an IFR flight is reviewing the data needed through the NOTAMs and the AIPs. What are the FIRs of concern?</p><p>1. FIR affecting the aerodrome of departure<br>2. FIR of the whole state<br>3. FIR of adjacent states<br>4. FIR of the whole continent where the departure aerodrome is<br>5. FIR affecting the route flown</p>",
   "options": {
     "a": "<p>1, 3 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 only</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106296,
+    "number": "105281"
+  }
 }

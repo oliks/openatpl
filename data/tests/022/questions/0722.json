@@ -1,7 +1,7 @@
 {
   "number": 722,
-  "questionId": 82548,
-  "questionNumber": "228332",
+  "questionId": "022-0722",
+  "questionNumber": "022-0722",
   "stemHtml": "How is a peripheral device like a printer or a supplemental hard drive directly connected to a computer?",
   "options": {
     "a": "Via the read-only memory.",
@@ -10,5 +10,10 @@
     "d": "Via the central processing unit."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82548,
+    "number": "228332"
+  }
 }

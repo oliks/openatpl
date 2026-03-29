@@ -1,7 +1,7 @@
 {
   "number": 106,
-  "questionId": 84730,
-  "questionNumber": "229658",
+  "questionId": "022-0106",
+  "questionNumber": "022-0106",
   "stemHtml": "<p>Refer to figure. <br>The subsequent FMA modes until landing following those indicated in picture 1 are\u2026</p>",
   "options": {
     "a": "<p>1, 2 and 3.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/3E380000-F408-4B05-BA77-2ACB1A1915B3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/3E380000-F408-4B05-BA77-2ACB1A1915B3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84730,
+    "number": "229658"
+  }
 }

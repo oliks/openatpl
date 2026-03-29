@@ -1,7 +1,7 @@
 {
   "number": 1718,
-  "questionId": 101376,
-  "questionNumber": "216100",
+  "questionId": "021-1718",
+  "questionNumber": "021-1718",
   "stemHtml": "<p>If you increase the load on an electric motor, i.e. increase the resistance against rotation (within its working limits), what will happen to the:</p>\r\r<p>(1) Current flow <br /> \r(2) Power consumption</p>",
   "options": {
     "a": "<p>(1) increases; (2) decreases</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) decreases; (2) decreases</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101376,
+    "number": "216100"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 525,
-  "questionId": 68348,
-  "questionNumber": "218227",
+  "questionId": "021-0525",
+  "questionNumber": "021-0525",
   "stemHtml": "<p>A Fly-By-Wire system is always irreversible because\u2026</p>",
   "options": {
     "a": "there is a mechanical linkage between the flight control surfaces and the pilot controls. The pilot inputs move the control surfaces directly.",
@@ -10,5 +10,10 @@
     "d": "the pilot can reverse the inputs of the autopilot system as he/she also has a direct link to the hydraulic commands of the control surfaces."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68348,
+    "number": "218227"
+  }
 }

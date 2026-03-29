@@ -1,7 +1,7 @@
 {
   "number": 623,
-  "questionId": 67502,
-  "questionNumber": "215260",
+  "questionId": "021-0623",
+  "questionNumber": "021-0623",
   "stemHtml": "<p>Concerning passenger oxygen mask presentation, the oxygen flow starts\u2026</p>",
   "options": {
     "a": "after pulling the oxygen mask towards the face.",
@@ -10,5 +10,10 @@
     "d": "only after automatic activation of the system."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67502,
+    "number": "215260"
+  }
 }

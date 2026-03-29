@@ -1,7 +1,7 @@
 {
   "number": 924,
-  "questionId": 85625,
-  "questionNumber": "211364",
+  "questionId": "021-0924",
+  "questionNumber": "021-0924",
   "stemHtml": "Cyclic loads are loads of similar amplitude that occur regularly during normal operation. If loading and unloading the aircraft is classed as a dynamic load, which of these statements is correct about pressurisation?",
   "options": {
     "a": "Pressurisation is a cyclic load.",
@@ -10,5 +10,10 @@
     "d": "Light turbulence would NOT create extra loads when the aircraft is pressurised."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85625,
+    "number": "211364"
+  }
 }

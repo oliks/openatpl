@@ -1,7 +1,7 @@
 {
   "number": 1108,
-  "questionId": 82773,
-  "questionNumber": "225016",
+  "questionId": "022-1108",
+  "questionNumber": "022-1108",
   "stemHtml": "During an auto coupled approach, where can the pilots verify the landing capability of the aircraft?",
   "options": {
     "a": "FMA that is located on the MCP or FCU.",
@@ -10,5 +10,10 @@
     "d": "FMA that is located on each pilot's PFD."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82773,
+    "number": "225016"
+  }
 }

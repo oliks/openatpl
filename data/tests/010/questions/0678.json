@@ -1,7 +1,7 @@
 {
   "number": 678,
-  "questionId": 66902,
-  "questionNumber": "101873",
+  "questionId": "010-0678",
+  "questionNumber": "010-0678",
   "stemHtml": "What is the correct definition of the no transgression zone (NTZ) used in the context of independent parallel approaches?",
   "options": {
     "a": "A corridor of airspace, maximum 610 m wide, located centrally between the two extended runway centre lines. It extends from the nearer runway threshold to the point where 1000 ft vertical separation is reduced.",
@@ -10,5 +10,10 @@
     "d": "A corridor of airspace at least 500 m wide located centrally between the two extended runway centre lines. It extends from the farthest runway threshold to the point where 1500 ft vertical separation is reduced."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66902,
+    "number": "101873"
+  }
 }

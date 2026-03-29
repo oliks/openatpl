@@ -1,7 +1,7 @@
 {
   "number": 87,
-  "questionId": 81741,
-  "questionNumber": "219977",
+  "questionId": "021-0087",
+  "questionNumber": "021-0087",
   "stemHtml": "Some aeroplanes have main landing gear that have steering capability on the ground. What is the main purpose for this?",
   "options": {
     "a": "In order to allow for a larger turning radius.",
@@ -10,5 +10,10 @@
     "d": "To simulate narrow body aircraft steering capabilities."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81741,
+    "number": "219977"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1401,
-  "questionId": 81544,
-  "questionNumber": "331854",
+  "questionId": "033-1401",
+  "questionNumber": "033-1401",
   "stemHtml": "<p>A VFR flight is planned from aerodrome A to aerodrome B on a 085<strong>\u00b0 </strong>track. What would be an appropriate Flight Level for this route?</p>",
   "options": {
     "a": "<p>FL50</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL65</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81544,
+    "number": "331854"
+  }
 }

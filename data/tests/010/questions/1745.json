@@ -1,7 +1,7 @@
 {
   "number": 1745,
-  "questionId": 159898,
-  "questionNumber": "108416",
+  "questionId": "010-1745",
+  "questionNumber": "010-1745",
   "stemHtml": "<p>How does the centerline look on a grass runway?</p>",
   "options": {
     "a": "<p>2 lines</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 line with gaps</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159898,
+    "number": "108416"
+  }
 }

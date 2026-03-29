@@ -1,7 +1,7 @@
 {
   "number": 1358,
-  "questionId": 70749,
-  "questionNumber": "337210",
+  "questionId": "033-1358",
+  "questionNumber": "033-1358",
   "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from departure to destination: 210 NM</span>  <br />  \nSafe Endurance: 2.5 h  <br />  \nTrue Track: 035\u00b0  <br />  \nW/V: 250/20  <br />  \nTAS: 105 kt</p>\n\n<p>What is the distance of the PSR from the departure point?</p>\n\n<div> </div>",
   "options": {
     "a": "64 NM",
@@ -10,5 +10,10 @@
     "d": "88 NM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70749,
+    "number": "337210"
+  }
 }

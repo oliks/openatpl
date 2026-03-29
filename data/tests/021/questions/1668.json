@@ -1,7 +1,7 @@
 {
   "number": 1668,
-  "questionId": 82415,
-  "questionNumber": "212672",
+  "questionId": "021-1668",
+  "questionNumber": "021-1668",
   "stemHtml": "A modern computer makes use of different internal buses to\u2026",
   "options": {
     "a": "supply electrical power to different devices.",
@@ -10,5 +10,10 @@
     "d": "send and receive analogue and digital data."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82415,
+    "number": "212672"
+  }
 }

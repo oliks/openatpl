@@ -1,7 +1,7 @@
 {
   "number": 766,
-  "questionId": 68096,
-  "questionNumber": "216205",
+  "questionId": "021-0766",
+  "questionNumber": "021-0766",
   "stemHtml": "With regard to a piston engine, the main purpose of the mixture control is to..",
   "options": {
     "a": "decrease the oxygen supplied to the engine.",
@@ -10,5 +10,10 @@
     "d": "increase the oxygen supplied to the engine."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68096,
+    "number": "216205"
+  }
 }

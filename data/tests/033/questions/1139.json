@@ -1,7 +1,7 @@
 {
   "number": 1139,
-  "questionId": 103685,
-  "questionNumber": "338795",
+  "questionId": "033-1139",
+  "questionNumber": "033-1139",
   "stemHtml": "<p>Consider a commercial flight. Given the following information, determine the maximum possible discretionary fuel (formerly called extra fuel) to be uplifted if the captain wants to climb directly to the optimum altitude of 37 000 ft:</p><p>Mass restriction at 37 000 ft: 68 000 kg <br>Maximum Zero Fuel Mass (MZFM): 62 731 kg <br>Actual Zero Fuel Mass (AZFM): 55 031 kg <br>Regulated Take-off Mass (RTOM): 76 000 kg <br>Maximum Landing Mass (MLM): 66 360 kg <br>Fuel Tank Capacity: 20 000 kg <br>Taxi Fuel: 240 kg <br>Trip Fuel: 7931 kg <br>Minimum Block Fuel: 11 249 kg</p>",
   "options": {
     "a": "<p>Not able to carry any discretionary fuel</p>",
@@ -10,5 +10,10 @@
     "d": "<p>8751 kg</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103685,
+    "number": "338795"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1742,
-  "questionId": 84495,
-  "questionNumber": "226264",
+  "questionId": "022-1742",
+  "questionNumber": "022-1742",
   "stemHtml": "<p>Some mode change indications on the Flight Mode Annunciator (FMA) are accompanied by an aural notification or additional visual indications. These addititional cues are used when?</p>",
   "options": {
     "a": "<p>A common mode reverts to a lateral mode and a vertical mode, for example when TOGA is disengaged by a change to LNAV and VNAV or CLB and NAV.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A mode changes from a managed mode to a selected mode, or from a selected mode to a managed mode.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84495,
+    "number": "226264"
+  }
 }

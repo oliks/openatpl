@@ -1,7 +1,7 @@
 {
   "number": 132,
-  "questionId": 68976,
-  "questionNumber": "222363",
+  "questionId": "022-0132",
+  "questionNumber": "022-0132",
   "stemHtml": "On a conventional aeroplane, what does the automatic pitch trim system do?",
   "options": {
     "a": "It is an autopilot mode to ensure the correct rotation rate is maintained during take-off.",
@@ -10,5 +10,10 @@
     "d": "When force on the elevator control is detected, the system moves the trim to relieve the load."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68976,
+    "number": "222363"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 925,
-  "questionId": 161959,
-  "questionNumber": "211630",
+  "questionId": "021-0925",
+  "questionNumber": "021-0925",
   "stemHtml": "<p>An amber IDG (Integrated Drive Generator) caution indication activates. What is the appropriate response?</p>",
   "options": {
     "a": "<p>Disconnect the generator.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Ignore the indication and monitor only.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161959,
+    "number": "211630"
+  }
 }

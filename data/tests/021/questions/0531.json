@@ -1,7 +1,7 @@
 {
   "number": 531,
-  "questionId": 67433,
-  "questionNumber": "214505",
+  "questionId": "021-0531",
+  "questionNumber": "021-0531",
   "stemHtml": "<p>A gas turbine engine is run at ground idle for a period of time prior to shutdown to\u2026</p>",
   "options": {
     "a": "prevent vapour lock in the fuel control and/or fuel lines.",
@@ -10,5 +10,10 @@
     "d": "allow the core to cool down."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67433,
+    "number": "214505"
+  }
 }

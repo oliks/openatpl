@@ -1,7 +1,7 @@
 {
   "number": 1046,
-  "questionId": 80117,
-  "questionNumber": "212582",
+  "questionId": "021-1046",
+  "questionNumber": "021-1046",
   "stemHtml": "What is the component that converts hydraulic pressure into linear motion?",
   "options": {
     "a": "A pressure regulator.",
@@ -10,5 +10,10 @@
     "d": "An accumulator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80117,
+    "number": "212582"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 536,
-  "questionId": 70061,
-  "questionNumber": "328031",
+  "questionId": "032-0536",
+  "questionNumber": "032-0536",
   "stemHtml": "<p>The best rate of climb at a constant gross mass...</p>",
   "options": {
     "a": "<p>increases with increasing altitude since the drag decreases due to the lower air density.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>decreases with increasing altitude since the thrust available decreases due to the lower air density.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70061,
+    "number": "328031"
+  }
 }

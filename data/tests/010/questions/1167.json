@@ -1,7 +1,7 @@
 {
   "number": 1167,
-  "questionId": 66839,
-  "questionNumber": "108967",
+  "questionId": "010-1167",
+  "questionNumber": "010-1167",
   "stemHtml": "PANS-OPS \u2013 Definitions \u2013 An OCA is referenced to...",
   "options": {
     "a": "an Aerodrome Elevation.",
@@ -10,5 +10,10 @@
     "d": "Mean Sea Level."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66839,
+    "number": "108967"
+  }
 }

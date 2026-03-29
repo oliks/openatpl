@@ -1,7 +1,7 @@
 {
   "number": 715,
-  "questionId": 69759,
-  "questionNumber": "322397",
+  "questionId": "032-0715",
+  "questionNumber": "032-0715",
   "stemHtml": "<p>A jet aeroplane is climbing at constant Mach number below the tropopause. Which of the following statements is correct? (Assume standard atmospheric conditions)</p>",
   "options": {
     "a": "<p>IAS decreases and TAS increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>IAS increases and TAS decreases.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69759,
+    "number": "322397"
+  }
 }

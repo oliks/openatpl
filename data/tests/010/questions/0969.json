@@ -1,7 +1,7 @@
 {
   "number": 969,
-  "questionId": 129017,
-  "questionNumber": "108046",
+  "questionId": "010-0969",
+  "questionNumber": "010-0969",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich of the given signs indicates a location sign?</p>",
   "options": {
     "a": "<p>Figure 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/67038026-a0f0-4890-b449-ed5acc50308a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/67038026-a0f0-4890-b449-ed5acc50308a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 129017,
+    "number": "108046"
+  }
 }

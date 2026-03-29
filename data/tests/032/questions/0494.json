@@ -1,7 +1,7 @@
 {
   "number": 494,
-  "questionId": 70106,
-  "questionNumber": "322231",
+  "questionId": "032-0494",
+  "questionNumber": "032-0494",
   "stemHtml": "<p>Refer to figure.<br>Airport elevation: 3000 ft<br>Temperature: ISA +10\u00b0C<br>QNH: 1030 hPa<br>Landing mass: 8400 lb</p><p>Find the available Rate Of Climb of a twin piston engine aeroplane in case of Balked Landing, for the given conditions.</p>",
   "options": {
     "a": "1430 ft/min",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/C9A7542A-DF78-468D-900A-1F8F733E5D52.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/C9A7542A-DF78-468D-900A-1F8F733E5D52.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70106,
+    "number": "322231"
+  }
 }

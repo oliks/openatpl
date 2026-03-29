@@ -1,7 +1,7 @@
 {
   "number": 530,
-  "questionId": 66620,
-  "questionNumber": "106915",
+  "questionId": "010-0530",
+  "questionNumber": "010-0530",
   "stemHtml": "<p>Chicago Convention \u2013 Cabotage refers to\u2026</p>",
   "options": {
     "a": "security matters.",
@@ -10,5 +10,10 @@
     "d": "international air services."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66620,
+    "number": "106915"
+  }
 }

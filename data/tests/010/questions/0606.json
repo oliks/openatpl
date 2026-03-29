@@ -1,7 +1,7 @@
 {
   "number": 606,
-  "questionId": 82097,
-  "questionNumber": "107716",
+  "questionId": "010-0606",
+  "questionNumber": "010-0606",
   "stemHtml": "In which language shall NOTAMs be published?",
   "options": {
     "a": "French only.",
@@ -10,5 +10,10 @@
     "d": "English only."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82097,
+    "number": "107716"
+  }
 }

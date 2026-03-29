@@ -1,7 +1,7 @@
 {
   "number": 810,
-  "questionId": 70392,
-  "questionNumber": "331879",
+  "questionId": "033-0810",
+  "questionNumber": "033-0810",
   "stemHtml": "<p>In the ATS flight plan Item 10 (equipment), the letter to indicate the carriage of a serviceable transponder \u2013 mode A (4 digits \u2013 4096 codes) and mode C, is\u2026</p>",
   "options": {
     "a": "A",
@@ -10,5 +10,10 @@
     "d": "C"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70392,
+    "number": "331879"
+  }
 }

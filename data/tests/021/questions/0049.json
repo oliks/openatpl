@@ -1,7 +1,7 @@
 {
   "number": 49,
-  "questionId": 108910,
-  "questionNumber": "218496",
+  "questionId": "021-0049",
+  "questionNumber": "021-0049",
   "stemHtml": "<p>Which of these statements is correct/incorrect regarding fuel feeding systems.</p><p>1. Turbine engines must have a pressure-fed fuel system, whereas piston engines must have a gravity-fed fuel system<br>2. A pressure-fed fuel system must be located below the engine, and a gravity-fed fuel system must be located above the engine</p>",
   "options": {
     "a": "<p>Correct; Correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Incorrect; Correct.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108910,
+    "number": "218496"
+  }
 }

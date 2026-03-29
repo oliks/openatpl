@@ -1,7 +1,7 @@
 {
   "number": 585,
-  "questionId": 109612,
-  "questionNumber": "213324",
+  "questionId": "021-0585",
+  "questionNumber": "021-0585",
   "stemHtml": "<p>Which of the following units represents a Specific Fuel Consumtpion (SFC) of a piston engine?</p>",
   "options": {
     "a": "<p>lbs per horsepower</p>",
@@ -10,5 +10,10 @@
     "d": "<p>kg per hour per horsepower</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109612,
+    "number": "213324"
+  }
 }

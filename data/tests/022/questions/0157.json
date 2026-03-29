@@ -1,7 +1,7 @@
 {
   "number": 157,
-  "questionId": 68480,
-  "questionNumber": "226061",
+  "questionId": "022-0157",
+  "questionNumber": "022-0157",
   "stemHtml": "The Mach number is the:",
   "options": {
     "a": "EAS divided by the local speed of sound.",
@@ -10,5 +10,10 @@
     "d": "TAS divided by the local speed of sound."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68480,
+    "number": "226061"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1263,
-  "questionId": 83341,
-  "questionNumber": "321578",
+  "questionId": "032-1263",
+  "questionNumber": "032-1263",
   "stemHtml": "<p>What will be the effect on the take-off distance required, if both the aerodrome pressure altitude and the aerodrome temperature increase?</p>",
   "options": {
     "a": "Take-off distance required will increase.",
@@ -10,5 +10,10 @@
     "d": "Take-off distance required remains almost the same because the increase in temperature cancels out the effects of the increase in pressure altitude."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83341,
+    "number": "321578"
+  }
 }

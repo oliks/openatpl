@@ -1,7 +1,7 @@
 {
   "number": 1079,
-  "questionId": 78306,
-  "questionNumber": "218171",
+  "questionId": "021-1079",
+  "questionNumber": "021-1079",
   "stemHtml": "<p>When does the pressurization start during the flight?</p>\r\n",
   "options": {
     "a": "When the pressure controller senses that the aircraft is airborne.",
@@ -10,5 +10,10 @@
     "d": "During climbout."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78306,
+    "number": "218171"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1641,
-  "questionId": 81865,
-  "questionNumber": "102389",
+  "questionId": "010-1641",
+  "questionNumber": "010-1641",
   "stemHtml": "Refer to figure. <br /> This lighting system is made for the following approach...",
   "options": {
     "a": "CAT I",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/3E19A556-54A9-4FCB-98FB-BD003C2727A4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/3E19A556-54A9-4FCB-98FB-BD003C2727A4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81865,
+    "number": "102389"
+  }
 }

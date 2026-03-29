@@ -1,7 +1,7 @@
 {
   "number": 1508,
-  "questionId": 71012,
-  "questionNumber": "333976",
+  "questionId": "033-1508",
+  "questionNumber": "033-1508",
   "stemHtml": "<p>For pre-flight planning purposes what is the required fuel for take-off for an IFR flight with a turbine engine jet aircraft? </p><p>Taxi fuel (with APU usage included) : 50 lb<br>Climb fuel : 300 lb<br>Cruise distance : 847 NAM<br>Cruise fuel consumption : 6 lb/NAM<br>Descent fuel : 200 lb<br>Approach and Landing fuel : 250 lb<br>Alternate fuel : 650 lb<br>Contingency fuel : 5% Trip fuel<br>Final reserve fuel : 2150 lb/h<br>Fuel for missed approach at alternate : 450 lb<br>Extra Fuel: 0 lb<br>Discretionary Fuel: 0 lb</p>",
   "options": {
     "a": "7849 lb",
@@ -10,5 +10,10 @@
     "d": "5832 lb"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71012,
+    "number": "333976"
+  }
 }

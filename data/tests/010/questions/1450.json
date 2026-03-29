@@ -1,7 +1,7 @@
 {
   "number": 1450,
-  "questionId": 66770,
-  "questionNumber": "102284",
+  "questionId": "010-1450",
+  "questionNumber": "010-1450",
   "stemHtml": "<p>An overtaking aircraft is an aircraft that approaches another aircraft from the rear on a line forming an angle of less than\u2026</p>",
   "options": {
     "a": "<p>80 degrees with the plane of symmetry of the latter.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>50 degrees with the plane of symmetry of the latter.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66770,
+    "number": "102284"
+  }
 }

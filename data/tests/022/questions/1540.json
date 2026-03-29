@@ -1,7 +1,7 @@
 {
   "number": 1540,
-  "questionId": 108218,
-  "questionNumber": "221024",
+  "questionId": "022-1540",
+  "questionNumber": "022-1540",
   "stemHtml": "<p>On an EFIS navigation display (ND) which statement correctly describes the indications for a TCAS RA and the colours used by the weather radar to indicate precipitation.</p>",
   "options": {
     "a": "<p>Red square with green indicating light precipitation</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Green circle<em> </em>with green indicating heavy precipitation</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108218,
+    "number": "221024"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1080,
-  "questionId": 86121,
-  "questionNumber": "227156",
+  "questionId": "022-1080",
+  "questionNumber": "022-1080",
   "stemHtml": "<p>What are some of the features on the EFIS control panel that can be used to aid pilots in maintaining situational awareness?</p><p>1. Display surrounding targets Traffic Collision Avoidance System (TCAS)                 <br />                 2. Indication of the aircraft's position in relation to terrain                 <br />                 3. Selection of avoidance routes for bad weather                 <br />                 4. Real-time display of the cabin crew's activities and movements                 <br />                 5. Selection of preferred cabin lighting and temperature settings</p>",
   "options": {
     "a": "1, 2, 3, 4, and 5",
@@ -10,5 +10,10 @@
     "d": "2, 3, and 4"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86121,
+    "number": "227156"
+  }
 }

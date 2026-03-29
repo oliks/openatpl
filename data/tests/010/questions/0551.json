@@ -1,7 +1,7 @@
 {
   "number": 551,
-  "questionId": 83379,
-  "questionNumber": "105320",
+  "questionId": "010-0551",
+  "questionNumber": "010-0551",
   "stemHtml": "An aeroplane has disappeared during flight and is now missing. This would be classified as an...",
   "options": {
     "a": "incident",
@@ -10,5 +10,10 @@
     "d": "offence"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83379,
+    "number": "105320"
+  }
 }

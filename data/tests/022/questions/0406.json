@@ -1,7 +1,7 @@
 {
   "number": 406,
-  "questionId": 69149,
-  "questionNumber": "228144",
+  "questionId": "022-0406",
+  "questionNumber": "022-0406",
   "stemHtml": "<p>Artificial feel systems are installed in\u2026</p>",
   "options": {
     "a": "<p>Partially-powered flight control systems.</p>",
@@ -10,5 +10,10 @@
     "d": "Fly-By-Wire flight control systems."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69149,
+    "number": "228144"
+  }
 }

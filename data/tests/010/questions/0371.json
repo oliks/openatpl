@@ -1,7 +1,7 @@
 {
   "number": 371,
-  "questionId": 83394,
-  "questionNumber": "102873",
+  "questionId": "010-0371",
+  "questionNumber": "010-0371",
   "stemHtml": "Which of the following occurences during the Approach and Landing phases of flight must be reported to ATC?",
   "options": {
     "a": "Any ice built up on the airframe during final approach.",
@@ -10,5 +10,10 @@
     "d": "RVR seems to be worse than reported."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83394,
+    "number": "102873"
+  }
 }

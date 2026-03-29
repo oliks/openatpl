@@ -1,7 +1,7 @@
 {
   "number": 658,
-  "questionId": 109228,
-  "questionNumber": "226115",
+  "questionId": "022-0658",
+  "questionNumber": "022-0658",
   "stemHtml": "<p>You are on an autoland approach with a fail operational system. As you descend below 100 feet, your glide slope indication disappears from your PFD. What action should you take?</p>",
   "options": {
     "a": "<p>Continue the approach as normal.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The autopilot will execute a go-around automatically.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109228,
+    "number": "226115"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 790,
-  "questionId": 68679,
-  "questionNumber": "223441",
+  "questionId": "022-0790",
+  "questionNumber": "022-0790",
   "stemHtml": "<p>The FMS cross track (XTK) is\u2026</p>",
   "options": {
     "a": "the abeam distance error, to the left or right from the desired flight plan leg to the aircraft position.",
@@ -10,5 +10,10 @@
     "d": "the distance error between the FMS computed position and the IRS computed position."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68679,
+    "number": "223441"
+  }
 }

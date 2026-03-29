@@ -1,7 +1,7 @@
 {
   "number": 1297,
-  "questionId": 85547,
-  "questionNumber": "225107",
+  "questionId": "022-1297",
+  "questionNumber": "022-1297",
   "stemHtml": "An aeroplane is approaching the runway for landing. During the flare, it stalls without warning and experiences a hard landing. What factor could explain this?",
   "options": {
     "a": "The pitot tube was blocked, resulting in false airspeed indications.",
@@ -10,5 +10,10 @@
     "d": "The stick shaker motor was burnt out."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85547,
+    "number": "225107"
+  }
 }

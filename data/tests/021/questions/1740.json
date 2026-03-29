@@ -1,7 +1,7 @@
 {
   "number": 1740,
-  "questionId": 67731,
-  "questionNumber": "216498",
+  "questionId": "021-1740",
+  "questionNumber": "021-1740",
   "stemHtml": "<p>A current limiter fuse in a DC system is used to\u2026</p>",
   "options": {
     "a": "limit the current in the armature.",
@@ -10,5 +10,10 @@
     "d": "limit the current in the field circuit."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67731,
+    "number": "216498"
+  }
 }

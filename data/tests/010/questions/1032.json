@@ -1,7 +1,7 @@
 {
   "number": 1032,
-  "questionId": 107142,
-  "questionNumber": "106322",
+  "questionId": "010-1032",
+  "questionNumber": "010-1032",
   "stemHtml": "<p>Calculate LDA given the following.</p><p>TORA: 2100 m <br>Stopway: 200 m <br>Displaced Threshold: 100 m</p>",
   "options": {
     "a": "<p>2000 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2100 m</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107142,
+    "number": "106322"
+  }
 }

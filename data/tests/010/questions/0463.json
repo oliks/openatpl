@@ -1,7 +1,7 @@
 {
   "number": 463,
-  "questionId": 109567,
-  "questionNumber": "103339",
+  "questionId": "010-0463",
+  "questionNumber": "010-0463",
   "stemHtml": "<p>You are in a controlled airspace under VFR, your minimal IAS is 150 kt. Visibility dropped below 5000 m. Which of the following are your actions?</p><p>1. Continue VFR as long as visibility does not drop below 1500 m, additional clearance is not required <br /> 2. Proceed IFR, additional clearance is not required <br /> 3. Proceed to alternate in VMC <br /> 4. Request special VFR if airspeed can be reduced</p>",
   "options": {
     "a": "<p>1 and 2.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109567,
+    "number": "103339"
+  }
 }

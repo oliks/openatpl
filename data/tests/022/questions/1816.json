@@ -1,7 +1,7 @@
 {
   "number": 1816,
-  "questionId": 68646,
-  "questionNumber": "226385",
+  "questionId": "022-1816",
+  "questionNumber": "022-1816",
   "stemHtml": "<p>TAS is obtained from the CAS by correcting for:</p>\r\r<p>1 \u2013 instrument error <br /> \r2 \u2013 compressibility error <br /> \r3 \u2013 position error <br /> \r4 \u2013 density error</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>1, 2, 3, 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 4</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68646,
+    "number": "226385"
+  }
 }

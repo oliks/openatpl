@@ -1,7 +1,7 @@
 {
   "number": 1257,
-  "questionId": 70602,
-  "questionNumber": "335786",
+  "questionId": "033-1257",
+  "questionNumber": "033-1257",
   "stemHtml": "<p>According to the following NOTAM, how high can you expect the obstruction to be?</p>\n\n<p><span style=\"letter-spacing:0.7px\">CRANE OPR PSN 571146N 0021216W, 210 DEG MAG, 710M FM ABERDEEN/DYCE ARP, UP TO HGT 375FT AMSL/115FT AGL</span></p>",
   "options": {
     "a": "115 ft AMSL",
@@ -10,5 +10,10 @@
     "d": "71.0 m AMSL"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70602,
+    "number": "335786"
+  }
 }

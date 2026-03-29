@@ -1,7 +1,7 @@
 {
   "number": 997,
-  "questionId": 84432,
-  "questionNumber": "339273",
+  "questionId": "033-0997",
+  "questionNumber": "033-0997",
   "stemHtml": "<p>Refer to figure or Aberdeen (EGPD) 10-1V chart from the Jeppesen GSPRM 2017.\u00a0<br>What is the elevation of the highest obstacle within the Aberdeen Control Area?</p>",
   "options": {
     "a": "<p>2122 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/1F84634E-0ECD-42EB-8164-703B72E90428.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1F84634E-0ECD-42EB-8164-703B72E90428.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84432,
+    "number": "339273"
+  }
 }

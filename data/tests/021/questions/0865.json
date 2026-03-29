@@ -1,7 +1,7 @@
 {
   "number": 865,
-  "questionId": 67342,
-  "questionNumber": "213965",
+  "questionId": "021-0865",
+  "questionNumber": "021-0865",
   "stemHtml": "<p>Windscreen heating systems usually\u2026</p>",
   "options": {
     "a": "cycle on/off to maintain a windscreen temperature within a specified range.",
@@ -10,5 +10,10 @@
     "d": "consist of warm air from the cabin conditioning system blown across the inner surface of the windscreen."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67342,
+    "number": "213965"
+  }
 }

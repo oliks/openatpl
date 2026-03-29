@@ -1,7 +1,7 @@
 {
   "number": 632,
-  "questionId": 66665,
-  "questionNumber": "102057",
+  "questionId": "010-0632",
+  "questionNumber": "010-0632",
   "stemHtml": "<p>Security \u2013 Assistance to an aircraft following an act of unlawful seizure \u2013 A State shall provide assistance to an aircraft subjected to an act of unlawful seizure. This assistance shall include\u2026</p>",
   "options": {
     "a": "<p>permission to land and catering for passengers.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>provision of navigation aids, air traffic services, permission to land and refuelling.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66665,
+    "number": "102057"
+  }
 }

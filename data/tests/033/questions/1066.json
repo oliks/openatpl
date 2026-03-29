@@ -1,7 +1,7 @@
 {
   "number": 1066,
-  "questionId": 78497,
-  "questionNumber": "338679",
+  "questionId": "033-1066",
+  "questionNumber": "033-1066",
   "stemHtml": "<p>Determine the fuel mass, given:</p>\n\n<p>Volume of the fuel: 590 US GAL <br /> \nSpecific gravity: 0.75</p>",
   "options": {
     "a": "1675 lb",
@@ -10,5 +10,10 @@
     "d": "975 lb"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78497,
+    "number": "338679"
+  }
 }

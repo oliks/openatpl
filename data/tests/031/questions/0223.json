@@ -1,7 +1,7 @@
 {
   "number": 223,
-  "questionId": 82360,
-  "questionNumber": "314232",
+  "questionId": "031-0223",
+  "questionNumber": "031-0223",
   "stemHtml": "<p>According to the flight Manual, the Maximum Structural Mass of your aircraft is 3720 lb, which may be increased by 20 lb for taxiing.</p>\r\n\r\n<p>It is a hot day and the performance charts restrict the Maximum All up Mass (MAUM) to 3640 lb. What is the value of the regulated Take-Off mass (RTOM)?</p>",
   "options": {
     "a": "<p>3660 lb</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3720 lb</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82360,
+    "number": "314232"
+  }
 }

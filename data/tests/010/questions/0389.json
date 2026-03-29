@@ -1,7 +1,7 @@
 {
   "number": 389,
-  "questionId": 110501,
-  "questionNumber": "102890",
+  "questionId": "010-0389",
+  "questionNumber": "010-0389",
   "stemHtml": "<p>Refer to figure. <br /> \rThe yellow lights of the figure are used as...</p>",
   "options": {
     "a": "<p>runway holding lights.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/2ef6c859-1d44-4158-a359-ba2092a3511d.jpeg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/2ef6c859-1d44-4158-a359-ba2092a3511d.jpeg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110501,
+    "number": "102890"
+  }
 }

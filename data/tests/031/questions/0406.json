@@ -1,7 +1,7 @@
 {
   "number": 406,
-  "questionId": 79549,
-  "questionNumber": "318766",
+  "questionId": "031-0406",
+  "questionNumber": "031-0406",
   "stemHtml": "<p>A container with a base area of 5 x 5 ft is loaded into a cargo compartment. The maximum running load of the compartment is 85 lb/foot. The maximum possible weight of the container is:</p>",
   "options": {
     "a": "85 lb",
@@ -10,5 +10,10 @@
     "d": "2125 lb"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79549,
+    "number": "318766"
+  }
 }

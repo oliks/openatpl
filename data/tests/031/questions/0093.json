@@ -1,7 +1,7 @@
 {
   "number": 93,
-  "questionId": 84101,
-  "questionNumber": "313249",
+  "questionId": "031-0093",
+  "questionNumber": "031-0093",
   "stemHtml": "Refer to figure. <br /> Determine the moment of Basic Empty Mass of the aeroplane.",
   "options": {
     "a": "161 070 lb.in",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/B9F2FA35-283B-40F3-AE15-37D4DBD03293.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/B9F2FA35-283B-40F3-AE15-37D4DBD03293.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84101,
+    "number": "313249"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 238,
-  "questionId": 107610,
-  "questionNumber": "104649",
+  "questionId": "010-0238",
+  "questionNumber": "010-0238",
   "stemHtml": "<p>Refer to figure.    <br />    \rWhat is the appropriate way to mark a fixed object that cannot be painted?</p>",
   "options": {
     "a": "<p>Figure A.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/03198afc-476b-4f87-98b4-936136ae69dd.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/03198afc-476b-4f87-98b4-936136ae69dd.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107610,
+    "number": "104649"
+  }
 }

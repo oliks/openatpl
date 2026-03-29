@@ -1,7 +1,7 @@
 {
   "number": 700,
-  "questionId": 84684,
-  "questionNumber": "216561",
+  "questionId": "021-0700",
+  "questionNumber": "021-0700",
   "stemHtml": "<p>Which structural element of the fuselage helps most to endure twisting and torsional loads?</p>",
   "options": {
     "a": "<p>Empennage</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Wing Struts</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84684,
+    "number": "216561"
+  }
 }

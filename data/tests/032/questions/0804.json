@@ -1,7 +1,7 @@
 {
   "number": 804,
-  "questionId": 70103,
-  "questionNumber": "328502",
+  "questionId": "032-0804",
+  "questionNumber": "032-0804",
   "stemHtml": "<p>The maximum range for a piston /propeller aircraft is obtained at\u2026</p>",
   "options": {
     "a": "V<sub>IMP</sub> at the lowest practical altitude at low RPM",
@@ -10,5 +10,10 @@
     "d": "V<sub>IMD</sub> at the lowest practical altitude at low RPM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70103,
+    "number": "328502"
+  }
 }

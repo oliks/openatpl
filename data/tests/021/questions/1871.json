@@ -1,7 +1,7 @@
 {
   "number": 1871,
-  "questionId": 102393,
-  "questionNumber": "218165",
+  "questionId": "021-1871",
+  "questionNumber": "021-1871",
   "stemHtml": "<p>Refer to figure.<br />\r\nGiven the system in the annex, if the left fuel tank has less fuel than the right fuel tank, what should the pilots do?</p>\r\n",
   "options": {
     "a": "<p>Force intercross and wait for the tanks to balance.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/146d7d95-4e57-4eed-8c77-0f8b8891cfd0.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/146d7d95-4e57-4eed-8c77-0f8b8891cfd0.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102393,
+    "number": "218165"
+  }
 }

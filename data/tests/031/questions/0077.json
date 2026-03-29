@@ -1,7 +1,7 @@
 {
   "number": 77,
-  "questionId": 69494,
-  "questionNumber": "318617",
+  "questionId": "031-0077",
+  "questionNumber": "031-0077",
   "stemHtml": "<p>What are the effects of a CG in front of the forward limit? Range\u2026</p>",
   "options": {
     "a": "increases and absolute ceiling decreases.",
@@ -10,5 +10,10 @@
     "d": "and absolute ceiling decrease."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69494,
+    "number": "318617"
+  }
 }

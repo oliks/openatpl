@@ -1,7 +1,7 @@
 {
   "number": 571,
-  "questionId": 103880,
-  "questionNumber": "108521",
+  "questionId": "010-0571",
+  "questionNumber": "010-0571",
   "stemHtml": "<p>Which of the following statements are correct about the pilots and the cabin crew?</p>\r\n\r\n<ol>\r\n\t<li>On-deck seat belts must be worn at all times when the seat is occupied</li>\r\n\t<li>At least one pilot must be available at all times with the seat belt on</li>\r\n\t<li>Cabin crew must always use seat belts on their station during take-off and landing</li>\r\n\t<li>Out of two, one pilot must wear the seat belt, and the other may remove it during take-off and landing</li>\r\n\t<li>One aircrew may be available when the other has gone away for physiological reasons</li>\r\n</ol>",
   "options": {
     "a": "<p>4 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 5</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103880,
+    "number": "108521"
+  }
 }

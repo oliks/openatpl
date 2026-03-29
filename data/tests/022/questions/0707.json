@@ -1,7 +1,7 @@
 {
   "number": 707,
-  "questionId": 86243,
-  "questionNumber": "221030",
+  "questionId": "022-0707",
+  "questionNumber": "022-0707",
   "stemHtml": "<p>Refer to figure. <br /> \rFigures depicting a pilot's perspective of a Head-Up Display (HUD) are shown in the annex. Which illustration(s) provides the data that would be displayed on a HUD during cruise flight with the autopilot engaged?</p>",
   "options": {
     "a": "<p>Figures 1 and 4</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/13387464-8827-430d-80d9-34f4e2444c90.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/13387464-8827-430d-80d9-34f4e2444c90.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86243,
+    "number": "221030"
+  }
 }

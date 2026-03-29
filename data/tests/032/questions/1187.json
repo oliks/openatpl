@@ -1,7 +1,7 @@
 {
   "number": 1187,
-  "questionId": 84406,
-  "questionNumber": "329757",
+  "questionId": "032-1187",
+  "questionNumber": "032-1187",
   "stemHtml": "Which of the following statements best describes the effect of altitude on the high and low speed buffet margins?",
   "options": {
     "a": "An increase in altitude leads to an increase in the low speed buffet margin and a decrease in the high speed buffet margin.",
@@ -10,5 +10,10 @@
     "d": "A decrease in altitude leads to a decrease in the low speed and high speed buffet margins."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84406,
+    "number": "329757"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 27,
-  "questionId": 85639,
-  "questionNumber": "325010",
+  "questionId": "032-0027",
+  "questionNumber": "032-0027",
   "stemHtml": "Refer to figure. <br /> Find the time taken (I), the fuel used (II) and distance travelled (III) to stabilising height for an aircraft that experiences an engine failure at 41 000 ft with an all-up weight at the point of failure of 35 000 lb...",
   "options": {
     "a": "(I) 35 minutes; (II) 155 lb; (III) 805 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/10A2BDFD-6CFF-4A87-9BEA-84046B3B8E57.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/10A2BDFD-6CFF-4A87-9BEA-84046B3B8E57.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85639,
+    "number": "325010"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 188,
-  "questionId": 81197,
-  "questionNumber": "216412",
+  "questionId": "021-0188",
+  "questionNumber": "021-0188",
   "stemHtml": "<p>Consider a turbine engine aeroplane, with two underwing engines, fitted with two wing tanks and one centre tank. If all centre tank fuel booster pumps fail\u2026</p>",
   "options": {
     "a": "Fuel starvation may occur, which could lead to engine flame-out.",
@@ -10,5 +10,10 @@
     "d": "Thrust deterioration may occur at high altitudes."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81197,
+    "number": "216412"
+  }
 }

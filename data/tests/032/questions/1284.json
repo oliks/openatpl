@@ -1,7 +1,7 @@
 {
   "number": 1284,
-  "questionId": 70157,
-  "questionNumber": "329699",
+  "questionId": "032-1284",
+  "questionNumber": "032-1284",
   "stemHtml": "The length of any available clearway is included in the...",
   "options": {
     "a": "accelerate stop distance available.",
@@ -10,5 +10,10 @@
     "d": "take-off distance available."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70157,
+    "number": "329699"
+  }
 }

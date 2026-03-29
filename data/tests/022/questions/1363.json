@@ -1,7 +1,7 @@
 {
   "number": 1363,
-  "questionId": 74901,
-  "questionNumber": "223903",
+  "questionId": "022-1363",
+  "questionNumber": "022-1363",
   "stemHtml": "<p>According to certification specifications colour standardisations, features displayed in green on an EFIS indicate...</p>",
   "options": {
     "a": "<div>cautions and abnormal sources.</div>",
@@ -10,5 +10,10 @@
     "d": "the Earth.<br>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74901,
+    "number": "223903"
+  }
 }

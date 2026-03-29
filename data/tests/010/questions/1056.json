@@ -1,7 +1,7 @@
 {
   "number": 1056,
-  "questionId": 85575,
-  "questionNumber": "102453",
+  "questionId": "010-1056",
+  "questionNumber": "010-1056",
   "stemHtml": "<p>A pilot visits a psychiatrist who prescribes him an antidepressant drug containing psychoactive substances. The pilot hasn\u2019t notified their AME of this. According to SERA (the Standardised European Rules of the Air), the pilot...</p>",
   "options": {
     "a": "<p>may fly, because their AME is unaware of the substances.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>may fly, because the psychiatrist has prescribed them the substances.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85575,
+    "number": "102453"
+  }
 }

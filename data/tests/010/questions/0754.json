@@ -1,7 +1,7 @@
 {
   "number": 754,
-  "questionId": 85349,
-  "questionNumber": "101156",
+  "questionId": "010-0754",
+  "questionNumber": "010-0754",
   "stemHtml": "<p>During an IFR flight, a pilot wants to proceed under Visual Flight Rules (VFR). Which of the following transmissions should the pilot make to initiate this change?</p>",
   "options": {
     "a": "\"I would like to change to VFR\"",
@@ -10,5 +10,10 @@
     "d": "\"Cancelling my IFR flight\""
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85349,
+    "number": "101156"
+  }
 }

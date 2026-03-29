@@ -1,7 +1,7 @@
 {
   "number": 1083,
-  "questionId": 110036,
-  "questionNumber": "223579",
+  "questionId": "022-1083",
+  "questionNumber": "022-1083",
   "stemHtml": "<p>Which of the following indications would you expect to see on an aircraft torquemeter during take off?</p>",
   "options": {
     "a": "<p>93%</p>",
@@ -10,5 +10,10 @@
     "d": "<p>35 Newtons</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110036,
+    "number": "223579"
+  }
 }

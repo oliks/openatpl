@@ -1,7 +1,7 @@
 {
   "number": 679,
-  "questionId": 66607,
-  "questionNumber": "216577",
+  "questionId": "021-0679",
+  "questionNumber": "021-0679",
   "stemHtml": "During a Pre-Flight Inspection, what should a pilot pay particular attention to?",
   "options": {
     "a": "The lack of groves in the tires.",
@@ -10,5 +10,10 @@
     "d": "A bent antenna."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66607,
+    "number": "216577"
+  }
 }

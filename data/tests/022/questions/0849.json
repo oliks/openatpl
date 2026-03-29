@@ -1,7 +1,7 @@
 {
   "number": 849,
-  "questionId": 68983,
-  "questionNumber": "221362",
+  "questionId": "022-0849",
+  "questionNumber": "022-0849",
   "stemHtml": "<p>One of the disadvantages of an electronic tachometer is the...</p>",
   "options": {
     "a": "<p>influence of temperature on the indication.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>high influence of line resistance on the indication.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68983,
+    "number": "221362"
+  }
 }

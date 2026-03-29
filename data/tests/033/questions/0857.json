@@ -1,7 +1,7 @@
 {
   "number": 857,
-  "questionId": 70535,
-  "questionNumber": "334275",
+  "questionId": "033-0857",
+  "questionNumber": "033-0857",
   "stemHtml": "<p>Refer to figure or Flight planning Manual SEP 1 Figure 2.4. <br>Using the Range Profile Diagram, for the single engine aeroplane, determine the range in the following conditions: Given:</p><p>O.A.T: ISA <br>Pressure altitude: 4000 ft <br>Power: Full throttle / 25.0 in/Hg./ 2100 RPM</p>",
   "options": {
     "a": "851 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/DED5D48B-FC42-4AC7-B1A1-631C08E9DA1B.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/DED5D48B-FC42-4AC7-B1A1-631C08E9DA1B.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70535,
+    "number": "334275"
+  }
 }

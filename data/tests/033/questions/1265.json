@@ -1,7 +1,7 @@
 {
   "number": 1265,
-  "questionId": 96692,
-  "questionNumber": "332404",
+  "questionId": "033-1265",
+  "questionNumber": "033-1265",
   "stemHtml": "<p>Refer to figure.\u00a0<br>For pre-flight planning purposes, calculate the total fuel required for a Commercial Air Transport flight with a Performance Class A aeroplane, given the following information. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>The weather at the destination aerodrome is forecast to be below the applicable minima, but two alternates with suitable weather have been chosen. The flight's payload means that minimum block fuel will be taken.</p><p>Taxi Fuel: 230 kg\u00a0<br>Trip distance: 250 NGM\u00a0<br>Average Wind Component: 50 kt headwind\u00a0<br>Holding fuel flow: 2400 kg/h\u00a0<br>Expected Landing Mass: 65 000 kg\u00a0<br>Destination Alternate 1 Fuel: 1230 kg\u00a0<br>Destination Alternate 2 Fuel: 1950 kg\u00a0<br>Additional Fuel: 0 kg\u00a0<br>Extra Fuel: 0 kg\u00a0<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "<p>5550 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/96075450-4e69-4b8b-9d94-2881799cb005.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/96075450-4e69-4b8b-9d94-2881799cb005.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96692,
+    "number": "332404"
+  }
 }

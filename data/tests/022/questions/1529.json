@@ -1,7 +1,7 @@
 {
   "number": 1529,
-  "questionId": 85123,
-  "questionNumber": "228881",
+  "questionId": "022-1529",
+  "questionNumber": "022-1529",
   "stemHtml": "Which of the following is correct regarding the stall warning system?",
   "options": {
     "a": "It prevents the aircraft from entering a deep stall.",
@@ -10,5 +10,10 @@
     "d": "It prevents the aircraft from stalling."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85123,
+    "number": "228881"
+  }
 }

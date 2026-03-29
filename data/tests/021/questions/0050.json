@@ -1,7 +1,7 @@
 {
   "number": 50,
-  "questionId": 67533,
-  "questionNumber": "211561",
+  "questionId": "021-0050",
+  "questionNumber": "021-0050",
   "stemHtml": "AVGAS grade 100 can be identified by which colour code?",
   "options": {
     "a": "Blue",
@@ -10,5 +10,10 @@
     "d": "Red"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67533,
+    "number": "211561"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 860,
-  "questionId": 109097,
-  "questionNumber": "333725",
+  "questionId": "033-0860",
+  "questionNumber": "033-0860",
   "stemHtml": "<p>Refer to figure. <br>You are cruising at FL380 with a twin-engined jet aeroplane. However, due to turbulence, you descend from FL380 to FL360. Determine the fuel consumed at FL360 until the top of descent (TOD). The distance travelled at FL360 is 295 NM with a headwind of 25 kt, the TAT is -17\u00b0C and the aeroplane mass is 65 000 kg.</p>",
   "options": {
     "a": "<p>1542 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/8c33a097-01ec-4f3c-ae42-14ed0519f338.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8c33a097-01ec-4f3c-ae42-14ed0519f338.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109097,
+    "number": "333725"
+  }
 }

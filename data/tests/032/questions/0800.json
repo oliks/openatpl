@@ -1,7 +1,7 @@
 {
   "number": 800,
-  "questionId": 107411,
-  "questionNumber": "329823",
+  "questionId": "032-0800",
+  "questionNumber": "032-0800",
   "stemHtml": "<p>An airplane is on a powered descent. What is the equation for the force that is parallel to its flight path vector?</p>",
   "options": {
     "a": "<p>L = Wcos\u03b3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>D = T + Wsin\u03b3</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107411,
+    "number": "329823"
+  }
 }

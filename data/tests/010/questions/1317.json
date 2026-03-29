@@ -1,7 +1,7 @@
 {
   "number": 1317,
-  "questionId": 102714,
-  "questionNumber": "106702",
+  "questionId": "010-1317",
+  "questionNumber": "010-1317",
   "stemHtml": "<p>A speed restriction of 120 knots is given to the pilot. What is the effect on the compulsory position reports?</p>",
   "options": {
     "a": "<p>It is mandatory to report your speed. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>You have to report the 120 knots restriction when changing ATC frequency.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102714,
+    "number": "106702"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 265,
-  "questionId": 164339,
-  "questionNumber": "228817",
+  "questionId": "022-0265",
+  "questionNumber": "022-0265",
   "stemHtml": "<p>Which statement correctly defines density altitude?</p>",
   "options": {
     "a": "<p>The pressure altitude corrected for the density of air at this point.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The altitude in the standard atmosphere at which the air density is equal to the actual density of the atmosphere.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164339,
+    "number": "228817"
+  }
 }

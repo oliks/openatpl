@@ -1,7 +1,7 @@
 {
   "number": 652,
-  "questionId": 105966,
-  "questionNumber": "211375",
+  "questionId": "021-0652",
+  "questionNumber": "021-0652",
   "stemHtml": "<p>Regarding gravity-fed fuel systems, which statement correctly describes one of the design criteria for the installation of such a system?</p>",
   "options": {
     "a": "<p>A fuel pressure gauge is required in order to measure the pressure between the tanks and the engines.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It needs an electric pump to operate.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105966,
+    "number": "211375"
+  }
 }

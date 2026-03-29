@@ -1,7 +1,7 @@
 {
   "number": 103,
-  "questionId": 67921,
-  "questionNumber": "212024",
+  "questionId": "021-0103",
+  "questionNumber": "021-0103",
   "stemHtml": "Which of these statements about an auto-brake system during RTO (Rejected Take Off) is correct?",
   "options": {
     "a": "In the RTO mode the auto-brake system provides a fixed level of deceleration.",
@@ -10,5 +10,10 @@
     "d": "Without pilot interference an auto-brake system continues to operate until standstill."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67921,
+    "number": "212024"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 137,
-  "questionId": 67555,
-  "questionNumber": "212474",
+  "questionId": "021-0137",
+  "questionNumber": "021-0137",
   "stemHtml": "A torsion link assembly is installed on the landing gear to:",
   "options": {
     "a": "absorb the spring energy.",
@@ -10,5 +10,10 @@
     "d": "avoid rotation of the piston rod relative to the fixed part of the oleo strut."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67555,
+    "number": "212474"
+  }
 }

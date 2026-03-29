@@ -1,7 +1,7 @@
 {
   "number": 1239,
-  "questionId": 68312,
-  "questionNumber": "219886",
+  "questionId": "021-1239",
+  "questionNumber": "021-1239",
   "stemHtml": "<p>The thermal efficiency of a piston engine is about\u2026</p>",
   "options": {
     "a": "50%",
@@ -10,5 +10,10 @@
     "d": "30%"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68312,
+    "number": "219886"
+  }
 }

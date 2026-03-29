@@ -1,7 +1,7 @@
 {
   "number": 1807,
-  "questionId": 101056,
-  "questionNumber": "215073",
+  "questionId": "021-1807",
+  "questionNumber": "021-1807",
   "stemHtml": "<p>What does the Electronic Engine Computer (EEC) primarily control in an aircraft?</p>",
   "options": {
     "a": "Aircraft systems",
@@ -10,5 +10,10 @@
     "d": "Communication and navigation systems"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101056,
+    "number": "215073"
+  }
 }

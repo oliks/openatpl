@@ -1,7 +1,7 @@
 {
   "number": 198,
-  "questionId": 161791,
-  "questionNumber": "105532",
+  "questionId": "010-0198",
+  "questionNumber": "010-0198",
   "stemHtml": "<p>Refer to figure.  <br />  Select the colours which should be used if the power transmission tower in the figure is to be painted.</p>",
   "options": {
     "a": "<p>Black and yellow</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/ae6534b8-e726-4b44-8257-9b853946660a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/ae6534b8-e726-4b44-8257-9b853946660a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161791,
+    "number": "105532"
+  }
 }

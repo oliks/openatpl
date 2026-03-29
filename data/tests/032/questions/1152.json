@@ -1,7 +1,7 @@
 {
   "number": 1152,
-  "questionId": 107350,
-  "questionNumber": "326012",
+  "questionId": "032-1152",
+  "questionNumber": "032-1152",
   "stemHtml": "<p>Compared to high air density, in a low air density environment...</p>",
   "options": {
     "a": "<p>V<sub>2</sub> may decrease</p>",
@@ -10,5 +10,10 @@
     "d": "<p>V<sub>2</sub> increases</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107350,
+    "number": "326012"
+  }
 }

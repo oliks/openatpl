@@ -1,7 +1,7 @@
 {
   "number": 276,
-  "questionId": 84864,
-  "questionNumber": "324229",
+  "questionId": "032-0276",
+  "questionNumber": "032-0276",
   "stemHtml": "<p>Which of the following runway contaminants are indicated by a SNOWTAM, according to ICAO Annex 15?</p><p>1. damp / wet <br /> 2. hail / showers / haze <br /> 3. frozen ruts or ridges <br /> 4. rime covered / ice <br /> 5. dry / wet snow <br /> 6. iced / powdered snow</p>",
   "options": {
     "a": "1, 2, 3 and 5",
@@ -10,5 +10,10 @@
     "d": "2, 3, 5 and 6"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84864,
+    "number": "324229"
+  }
 }

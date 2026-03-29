@@ -1,7 +1,7 @@
 {
   "number": 1467,
-  "questionId": 107951,
-  "questionNumber": "225592",
+  "questionId": "022-1467",
+  "questionNumber": "022-1467",
   "stemHtml": "<p>Why does an air driven attitude indicator give false pitch-up indications when the aircraft is accelerating?</p>",
   "options": {
     "a": "<p>The height of the pilot\u2019s eyes relative to the instrument causes an apparent shift when the aircraft accelerates.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The lateral pendulous vanes swing back.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107951,
+    "number": "225592"
+  }
 }

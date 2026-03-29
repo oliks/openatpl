@@ -1,7 +1,7 @@
 {
   "number": 732,
-  "questionId": 69917,
-  "questionNumber": "326607",
+  "questionId": "032-0732",
+  "questionNumber": "032-0732",
   "stemHtml": "Assume a normal approach and landing with a class A aeroplane. Which of the following values shows the corresponding screen height?",
   "options": {
     "a": "100 ft",
@@ -10,5 +10,10 @@
     "d": "60 ft"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69917,
+    "number": "326607"
+  }
 }

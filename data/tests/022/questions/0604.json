@@ -1,7 +1,7 @@
 {
   "number": 604,
-  "questionId": 81887,
-  "questionNumber": "228116",
+  "questionId": "022-0604",
+  "questionNumber": "022-0604",
   "stemHtml": "What is the purpose of the trim system?",
   "options": {
     "a": "To relieve forces on the controls while maintaining aircraft attitude.",
@@ -10,5 +10,10 @@
     "d": "To allow the pilot to make small attitude adjustments WITHOUT moving the main fight controls."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81887,
+    "number": "228116"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 550,
-  "questionId": 106066,
-  "questionNumber": "213697",
+  "questionId": "021-0550",
+  "questionNumber": "021-0550",
   "stemHtml": "<p>Which type of engine will be affected by high humidity more?</p>",
   "options": {
     "a": "<p>Turbine engines are affected more than piston engines.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Humidity does not affect engine's performance.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106066,
+    "number": "213697"
+  }
 }

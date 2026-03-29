@@ -1,7 +1,7 @@
 {
   "number": 1377,
-  "questionId": 110025,
-  "questionNumber": "106448",
+  "questionId": "010-1377",
+  "questionNumber": "010-1377",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat does the given sign indicate?</p>",
   "options": {
     "a": "<p>Runway vacated.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/eab45248-da11-4736-962c-ce10fdcb78c6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/eab45248-da11-4736-962c-ce10fdcb78c6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110025,
+    "number": "106448"
+  }
 }

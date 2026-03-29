@@ -1,7 +1,7 @@
 {
   "number": 1570,
-  "questionId": 103605,
-  "questionNumber": "105529",
+  "questionId": "010-1570",
+  "questionNumber": "010-1570",
   "stemHtml": "<p>ICAO Annex 12 defines the State of Registry as the State\u2026</p>",
   "options": {
     "a": "<p>where the aircraft is based.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>on whose the certificate of registry of the aircraft is entered.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103605,
+    "number": "105529"
+  }
 }

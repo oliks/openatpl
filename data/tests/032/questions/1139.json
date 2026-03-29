@@ -1,7 +1,7 @@
 {
   "number": 1139,
-  "questionId": 69628,
-  "questionNumber": "322357",
+  "questionId": "032-1139",
+  "questionNumber": "032-1139",
   "stemHtml": "<p>Refer to figure or Performance Manual MRJT 1 Figure 4.5. <br>Consider the take-off performance for the twin jet aeroplane climb limit chart. Why has the wind been omitted from the chart?</p>",
   "options": {
     "a": "There is a built-in safety measure.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/00B57141-4121-4AA3-9CBC-556FE9803AE6.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/00B57141-4121-4AA3-9CBC-556FE9803AE6.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69628,
+    "number": "322357"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1221,
-  "questionId": 102928,
-  "questionNumber": "103442",
+  "questionId": "010-1221",
+  "questionNumber": "010-1221",
   "stemHtml": "<p>During a runway inspection, what is considered a contaminant among the following options?</p>",
   "options": {
     "a": "<p>Compacted Ice.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Sand.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102928,
+    "number": "103442"
+  }
 }

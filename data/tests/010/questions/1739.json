@@ -1,7 +1,7 @@
 {
   "number": 1739,
-  "questionId": 158946,
-  "questionNumber": "107504",
+  "questionId": "010-1739",
+  "questionNumber": "010-1739",
   "stemHtml": "<p>Refer to figure.    <br />    What does this signal to an aircraft from a marshaller mean?</p>",
   "options": {
     "a": "<p>Slow down</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/08bd3bf4-66f9-4641-a06c-7fad0f5515e1.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/08bd3bf4-66f9-4641-a06c-7fad0f5515e1.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 158946,
+    "number": "107504"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1271,
-  "questionId": 105443,
-  "questionNumber": "213813",
+  "questionId": "021-1271",
+  "questionNumber": "021-1271",
   "stemHtml": "<p>In the armature of an electric motor, torque is (1)_____ to current and (2)_____ to magnetic field strength.</p>",
   "options": {
     "a": "<p>(1) proportional; (2) proportional</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) unrelated; (2) unrelated</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105443,
+    "number": "213813"
+  }
 }

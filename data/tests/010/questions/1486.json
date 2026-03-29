@@ -1,7 +1,7 @@
 {
   "number": 1486,
-  "questionId": 66670,
-  "questionNumber": "106542",
+  "questionId": "010-1486",
+  "questionNumber": "010-1486",
   "stemHtml": "When an aircraft subjected to an act of unlawful interference must depart from its assigned track or its assigned cruising level without being able to make radiotelephony contact with ATS, what should the pilot-in-command do, whenever possible?",
   "options": {
     "a": "<p>Proceed in accordance with procedures that have been established and promulgated in the Regional Supplementary Procedures (Doc 7030).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Squawk 7700.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66670,
+    "number": "106542"
+  }
 }

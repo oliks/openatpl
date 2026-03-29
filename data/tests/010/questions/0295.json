@@ -1,7 +1,7 @@
 {
   "number": 295,
-  "questionId": 103024,
-  "questionNumber": "103381",
+  "questionId": "010-0295",
+  "questionNumber": "010-0295",
   "stemHtml": "<p>Refer to figure. <br /> \rIn accordance with ICAO Annex 14 Volume I, which of the following types of approach can be performed with the installation of the lighting system specified in the annex?</p>",
   "options": {
     "a": "<p>CAT I.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/99647dcc-6424-4691-a66d-dd3a63b04757.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/99647dcc-6424-4691-a66d-dd3a63b04757.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103024,
+    "number": "103381"
+  }
 }

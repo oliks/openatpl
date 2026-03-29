@@ -1,7 +1,7 @@
 {
   "number": 543,
-  "questionId": 84238,
-  "questionNumber": "311205",
+  "questionId": "031-0543",
+  "questionNumber": "031-0543",
   "stemHtml": "<p>The Variable Load of an aircraft consists of the following\u2026</p>",
   "options": {
     "a": "The mass of all persons and items of load, including fuel and other consumable fluids.",
@@ -10,5 +10,10 @@
     "d": "The mass of passengers, crew and their baggage, plus removable equipment and consumable fuel and fluids."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84238,
+    "number": "311205"
+  }
 }

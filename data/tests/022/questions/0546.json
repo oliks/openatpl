@@ -1,7 +1,7 @@
 {
   "number": 546,
-  "questionId": 68774,
-  "questionNumber": "224011",
+  "questionId": "022-0546",
+  "questionNumber": "022-0546",
   "stemHtml": "<p>On most aeroplanes, the stall warning is inhibited:</p><p><span style=\"letter-spacing:0.7px\">1 \u2013 when the flaps are retracted</span> <br /> 2 \u2013 when the aeroplane is on the ground <br /> 3 \u2013 when encountering a windshear <br /> 4 \u2013 upon receiving a GPWS alert</p><p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "1, 2.",
@@ -10,5 +10,10 @@
     "d": "2, 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68774,
+    "number": "224011"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 768,
-  "questionId": 84472,
-  "questionNumber": "226863",
+  "questionId": "022-0768",
+  "questionNumber": "022-0768",
   "stemHtml": "<p>Refer to figure. <br /> \rIn flight, under normal conditions, what should each one of the three IRU mode selector switches be set to?</p>",
   "options": {
     "a": "<p>ATT during steep turns, thus providing increased accuracy for pitch and roll.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/E40E3BEF-4B56-4E94-B92D-60771108DF4A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/E40E3BEF-4B56-4E94-B92D-60771108DF4A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84472,
+    "number": "226863"
+  }
 }

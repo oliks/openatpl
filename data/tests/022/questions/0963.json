@@ -1,7 +1,7 @@
 {
   "number": 963,
-  "questionId": 102964,
-  "questionNumber": "221907",
+  "questionId": "022-0963",
+  "questionNumber": "022-0963",
   "stemHtml": "<p>A MRJT fleet which consists of different model planes will be operated by one pilot. What crucial details about the FMS does the pilot need to check?</p>",
   "options": {
     "a": "<p>Check performance data matches the correct aircraft type and model.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Check the arrival gate for each destination.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102964,
+    "number": "221907"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 311,
-  "questionId": 69161,
-  "questionNumber": "227330",
+  "questionId": "022-0311",
+  "questionNumber": "022-0311",
   "stemHtml": "<p>A Cockpit Voice Recorder must record\u2026</p>",
   "options": {
     "a": "flight data, voice or audio signals identifying navigation or approach aids introduced into a headset or speaker and voice communications: transmitted from or received in the aeroplane by radio, and of flight-crew members on the flight deck.",
@@ -10,5 +10,10 @@
     "d": "voice or audio signals identifying navigation or approach aids introduced into a headset or speaker and data recording flight and engine parameters."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69161,
+    "number": "227330"
+  }
 }

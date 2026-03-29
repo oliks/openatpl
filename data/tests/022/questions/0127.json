@@ -1,7 +1,7 @@
 {
   "number": 127,
-  "questionId": 68659,
-  "questionNumber": "227514",
+  "questionId": "022-0127",
+  "questionNumber": "022-0127",
   "stemHtml": "<p>When descending at a constant CAS in a standard atmosphere:</p><p>1 \u2013 TAS increases <br>2 \u2013 TAS decreases <br>3 \u2013 Mach number increases <br>4 \u2013 Mach number decreases</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2, 3.",
@@ -10,5 +10,10 @@
     "d": "2, 4."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68659,
+    "number": "227514"
+  }
 }

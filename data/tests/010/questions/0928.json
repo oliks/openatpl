@@ -1,7 +1,7 @@
 {
   "number": 928,
-  "questionId": 96095,
-  "questionNumber": "109636",
+  "questionId": "010-0928",
+  "questionNumber": "010-0928",
   "stemHtml": "<p>During a non-precision approach procedure, descending below the published Obstacle Clearance Height (OCH) is not allowed unless required visual reference has been established and can be maintained. The OCH is the lowest height above (1) _____ infringing the (2) _____.</p>",
   "options": {
     "a": "<p>(1) terrain elevation or the elevation of any relevant obstacles, at your current position; (2) threshold crossing height.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) terrain elevation or the elevation of any relevant obstacles, at your current position; (2) published approach gradient.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96095,
+    "number": "109636"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1786,
-  "questionId": 108970,
-  "questionNumber": "217089",
+  "questionId": "021-1786",
+  "questionNumber": "021-1786",
   "stemHtml": "<p>What is the purpose of the X-feed valve in a pneumatic system?</p>",
   "options": {
     "a": "<p>It connects hydraulic systems 1 and 2 together.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/69cd00f4-b586-4a36-89a7-ce966476e3fc.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/69cd00f4-b586-4a36-89a7-ce966476e3fc.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108970,
+    "number": "217089"
+  }
 }

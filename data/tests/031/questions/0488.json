@@ -1,7 +1,7 @@
 {
   "number": 488,
-  "questionId": 69348,
-  "questionNumber": "315722",
+  "questionId": "031-0488",
+  "questionNumber": "031-0488",
   "stemHtml": "<p>Refer to figure. <br /> \rDetermine what would be the change in DOI if a cockpit crew with the standard mass occupies Observer Seat 1.</p>",
   "options": {
     "a": "<p>-1.343</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/0d00ae33-219a-426d-ad28-245d4c665a59.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/0d00ae33-219a-426d-ad28-245d4c665a59.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69348,
+    "number": "315722"
+  }
 }

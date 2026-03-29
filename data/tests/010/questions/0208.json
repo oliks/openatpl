@@ -1,7 +1,7 @@
 {
   "number": 208,
-  "questionId": 67048,
-  "questionNumber": "108477",
+  "questionId": "010-0208",
+  "questionNumber": "010-0208",
   "stemHtml": "Aeronautical Information Service \u2013 The publication containing information about flight safety, air navigation, technical, administration or legislative matters, published by the AIS of a state is called..",
   "options": {
     "a": "Aeronautical Information Circular (AIC).",
@@ -10,5 +10,10 @@
     "d": "AIRAC."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67048,
+    "number": "108477"
+  }
 }

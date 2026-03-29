@@ -1,7 +1,7 @@
 {
   "number": 856,
-  "questionId": 95976,
-  "questionNumber": "105075",
+  "questionId": "010-0856",
+  "questionNumber": "010-0856",
   "stemHtml": "The basic procedures the ATC should follow in order to identify an aircraft using radar are...",
   "options": {
     "a": "Switch the aircraft frequency, assign or change the transponder code, and request the aircraft to climb or descend.",
@@ -10,5 +10,10 @@
     "d": "Assign the transponder code 7400, or squawk POSITION, or request the aircraft to make a right turn of 90\u00b0."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95976,
+    "number": "105075"
+  }
 }

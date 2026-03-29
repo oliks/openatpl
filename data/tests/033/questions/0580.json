@@ -1,7 +1,7 @@
 {
   "number": 580,
-  "questionId": 70685,
-  "questionNumber": "339398",
+  "questionId": "033-0580",
+  "questionNumber": "033-0580",
   "stemHtml": "<p>Refer to figure or 033-038 rev. 05.11.2004).<br>Assuming the following data:<br><br>Ground distance to be covered: 2500 NM\u00a0<br>Cruise flight level: FL 350\u00a0<br>Cruising speed: Mach 0.82 (true airspeed: 470 kt)\u00a0<br>Tailwind component: 40 kt\u00a0<br>Planned destination landing mass: 150 000 kg\u00a0<br>Temperature: ISA\u00a0<br>CG: 37 %\u00a0<br>Total anti-ice: OFF\u00a0<br>Air conditioning: normal</p><p>Fuel consumption for such a flight is:</p>",
   "options": {
     "a": "27 000 kg",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/0FCBBD11-6539-4DE2-882C-9A882C096EEC.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0FCBBD11-6539-4DE2-882C-9A882C096EEC.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70685,
+    "number": "339398"
+  }
 }

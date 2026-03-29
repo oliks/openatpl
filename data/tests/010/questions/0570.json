@@ -1,7 +1,7 @@
 {
   "number": 570,
-  "questionId": 66628,
-  "questionNumber": "107072",
+  "questionId": "010-0570",
+  "questionNumber": "010-0570",
   "stemHtml": "Which one of the following statements applies to the general organisation and objectives of the IATA? \u2013 The IATA is...",
   "options": {
     "a": "an international trade body which represents, leads and serves airline business in general.",
@@ -10,5 +10,10 @@
     "d": "a multi-national organisation for developing trade agreements in international aviation (scheduled and non-scheduled services)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66628,
+    "number": "107072"
+  }
 }

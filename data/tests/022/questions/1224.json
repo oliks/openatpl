@@ -1,7 +1,7 @@
 {
   "number": 1224,
-  "questionId": 84400,
-  "questionNumber": "224815",
+  "questionId": "022-1224",
+  "questionNumber": "022-1224",
   "stemHtml": "<p>How long does an INS/IRS take to align?</p>",
   "options": {
     "a": "Up to 30 min.",
@@ -10,5 +10,10 @@
     "d": "Up to 5 min."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84400,
+    "number": "224815"
+  }
 }

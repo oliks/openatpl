@@ -1,7 +1,7 @@
 {
   "number": 217,
-  "questionId": 81363,
-  "questionNumber": "229191",
+  "questionId": "022-0217",
+  "questionNumber": "022-0217",
   "stemHtml": "<p>Considering vertical modes of the flight guidance system. What is the appropriate description of the following two vertical modes?</p><ul><li>Vertical Speed (V/S)</li><li>Flight-Path Angle (FPA)</li></ul>",
   "options": {
     "a": "<p dir=\"ltr\">V/S will maintain a rate of climb or descent as set by the pilot while FPA will maintain a flight-path angle as coded in the FMS.</p>",
@@ -10,5 +10,10 @@
     "d": "V/S will maintain a selected airspeed during the climb or descent and FPA will maintain a selected geometric flight-path angle during climb or descent."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81363,
+    "number": "229191"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1728,
-  "questionId": 67052,
-  "questionNumber": "101421",
+  "questionId": "010-1728",
+  "questionNumber": "010-1728",
   "stemHtml": "What part of the AIP contains information about existing prohibited, restricted, and danger areas?",
   "options": {
     "a": "GEN",
@@ -10,5 +10,10 @@
     "d": "AD"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67052,
+    "number": "101421"
+  }
 }

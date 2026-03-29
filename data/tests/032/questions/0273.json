@@ -1,7 +1,7 @@
 {
   "number": 273,
-  "questionId": 70211,
-  "questionNumber": "327884",
+  "questionId": "032-0273",
+  "questionNumber": "032-0273",
   "stemHtml": "The first segment of the take-off flight path ends\u2026",
   "options": {
     "a": "at completion of flap retraction.",
@@ -10,5 +10,10 @@
     "d": "at completion of gear retraction."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70211,
+    "number": "327884"
+  }
 }

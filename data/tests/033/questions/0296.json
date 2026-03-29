@@ -1,7 +1,7 @@
 {
   "number": 296,
-  "questionId": 70986,
-  "questionNumber": "336573",
+  "questionId": "033-0296",
+  "questionNumber": "033-0296",
   "stemHtml": "<div>Explain the basic idea of the predetermined point procedure (PDP).</div>\r\n",
   "options": {
     "a": "<p>The predetermined point procedure (PDP) provides an option to select an aerodrome as destination alternate which is at a distance from the planned destination that it cannot be reached after first flying to the destination. It therefore increases maximum range by reduction of mandatory fuel reserves.</p>",
@@ -10,5 +10,10 @@
     "d": "<div>The predetermined point procedure (PDP) permits planning of a flight to a destination where no alternate is available. When the aircraft reaches the predetermined point, the probability to land at the destination must be almost certain, or the aircraft has to return to its departure.</div>\r\n\r\n<div> </div>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70986,
+    "number": "336573"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1762,
-  "questionId": 68768,
-  "questionNumber": "222068",
+  "questionId": "022-1762",
+  "questionNumber": "022-1762",
   "stemHtml": "With regard to ADS:",
   "options": {
     "a": "a notification phase is only required for the emergency mode.",
@@ -10,5 +10,10 @@
     "d": "the set of data to downlink is defined automatically, without any crew action."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68768,
+    "number": "222068"
+  }
 }

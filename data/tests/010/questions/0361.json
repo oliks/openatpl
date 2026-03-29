@@ -1,7 +1,7 @@
 {
   "number": 361,
-  "questionId": 100344,
-  "questionNumber": "108486",
+  "questionId": "010-0361",
+  "questionNumber": "010-0361",
   "stemHtml": "<p>ATC service provided is provided in...</p>\r\r<p>1. Control Areas <br /> \r2. Control Zones <br /> \r3. FIR</p>",
   "options": {
     "a": "<p>Only 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only 1.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100344,
+    "number": "108486"
+  }
 }

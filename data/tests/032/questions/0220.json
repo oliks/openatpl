@@ -1,7 +1,7 @@
 {
   "number": 220,
-  "questionId": 104504,
-  "questionNumber": "321819",
+  "questionId": "032-0220",
+  "questionNumber": "032-0220",
   "stemHtml": "<p>When the OAT at an airfield is +8\u00b0C, your aircraft's V<strong><sub>MC</sub></strong> is 80 kt. What will happen to the V<strong><sub>MC</sub></strong> if OAT increases to +20\u00b0C?</p>",
   "options": {
     "a": "<p>It will increase because the engines will produce more thrust and thus create a larger yawing moment.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It will increase because the aircraft will have more lift and less drag.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104504,
+    "number": "321819"
+  }
 }

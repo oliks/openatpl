@@ -1,7 +1,7 @@
 {
   "number": 1634,
-  "questionId": 69289,
-  "questionNumber": "229202",
+  "questionId": "022-1634",
+  "questionNumber": "022-1634",
   "stemHtml": "<p>The annunciator of a remote reading compass system is used when\u2026</p>",
   "options": {
     "a": "<p>compensating for deviation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>synchronizing the magnetic and gyro compass elements.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69289,
+    "number": "229202"
+  }
 }

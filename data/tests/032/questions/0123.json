@@ -1,7 +1,7 @@
 {
   "number": 123,
-  "questionId": 84441,
-  "questionNumber": "328363",
+  "questionId": "032-0123",
+  "questionNumber": "032-0123",
   "stemHtml": "A large jet transport aeroplane is cruising at the Long Range Cruise speed (LRC). A deviation of +/- 1000 ft from the LRC optimum altitude leads to 2.5% change in specific range. The specific range will change by (1) _____ if flying 1000 ft above the optimum altitude, and by (2) _____ if flying 2000 ft below the optimum altitude.",
   "options": {
     "a": "(1) -2.5%; (2) - 5%",
@@ -10,5 +10,10 @@
     "d": "(1) +2.5%; (2) -5%"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84441,
+    "number": "328363"
+  }
 }

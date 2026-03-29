@@ -1,7 +1,7 @@
 {
   "number": 1416,
-  "questionId": 68452,
-  "questionNumber": "227532",
+  "questionId": "022-1416",
+  "questionNumber": "022-1416",
   "stemHtml": "<p>When flying in cold air (colder than standard atmosphere), the altimeter will\u2026</p>",
   "options": {
     "a": "<p>underread.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>show the actual height above ground.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68452,
+    "number": "227532"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1539,
-  "questionId": 120934,
-  "questionNumber": "226549",
+  "questionId": "022-1539",
+  "questionNumber": "022-1539",
   "stemHtml": "<p>The AHRS supplies...</p>",
   "options": {
     "a": "<p>Aircraft position, track, and groundspeed</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Air data</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 120934,
+    "number": "226549"
+  }
 }

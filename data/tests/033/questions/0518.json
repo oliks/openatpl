@@ -1,7 +1,7 @@
 {
   "number": 518,
-  "questionId": 84699,
-  "questionNumber": "333886",
+  "questionId": "033-0518",
+  "questionNumber": "033-0518",
   "stemHtml": "<p>Refer to figure. <br /> \rA pilot requests ATC clearance to climb to FL210 to avoid a turbulent area when approaching waypoint B. When you reach overhead waypoint B, the pilot maintains FL210 with CAS of 160 kt. What will be the revised ETA at WPT C?</p>",
   "options": {
     "a": "<p>12:30</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/dee01b0f-5a2f-4370-91a7-deec5db5504d.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/dee01b0f-5a2f-4370-91a7-deec5db5504d.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84699,
+    "number": "333886"
+  }
 }

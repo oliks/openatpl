@@ -1,7 +1,7 @@
 {
   "number": 1572,
-  "questionId": 108233,
-  "questionNumber": "212664",
+  "questionId": "021-1572",
+  "questionNumber": "021-1572",
   "stemHtml": "<p>Which type of fuel tank systems are commonly fit in the wings of a light airplane?</p>",
   "options": {
     "a": "<p>Integral; Drum; Bladder</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Integral; Drum</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108233,
+    "number": "212664"
+  }
 }

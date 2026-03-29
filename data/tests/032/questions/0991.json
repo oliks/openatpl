@@ -1,7 +1,7 @@
 {
   "number": 991,
-  "questionId": 69734,
-  "questionNumber": "329796",
+  "questionId": "032-0991",
+  "questionNumber": "032-0991",
   "stemHtml": "Why should the temperature of the wheel brakes be checked prior to take off?",
   "options": {
     "a": "To ensure that the thermal blow-out plugs are not melted.",
@@ -10,5 +10,10 @@
     "d": "To ensure that the wheels have warmed up evenly."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69734,
+    "number": "329796"
+  }
 }

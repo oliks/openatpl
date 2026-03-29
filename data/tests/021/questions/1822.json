@@ -1,7 +1,7 @@
 {
   "number": 1822,
-  "questionId": 101027,
-  "questionNumber": "215734",
+  "questionId": "021-1822",
+  "questionNumber": "021-1822",
   "stemHtml": "In flight, the flight crew receive a notification of engine fire. The first step is to...",
   "options": {
     "a": "immediately turn off the engine.",
@@ -10,5 +10,10 @@
     "d": "check for additional evidence of engine fire."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101027,
+    "number": "215734"
+  }
 }

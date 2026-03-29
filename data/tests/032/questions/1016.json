@@ -1,7 +1,7 @@
 {
   "number": 1016,
-  "questionId": 101956,
-  "questionNumber": "329839",
+  "questionId": "032-1016",
+  "questionNumber": "032-1016",
   "stemHtml": "<p>Refer to figure or to CAP 698 figure 2.2.<br>Calculate the take-off distance required for a performance class B single engine piston aircraft, engaging in Commercial Air Transport operations, using the following information.</p><p>Aerodrome pressure altitude: 1000 ft<br>OAT: +25\u00b0C<br>Take off mass: 3600 lb<br>Wind component: 10 kt headwind<br>Runway surface: 5 cm grass, dry (correction factor 1.2)<br>Aerodrome field lengths unbalanced<br>Regulatory factor (CAT): 1.15</p>",
   "options": {
     "a": "<p>2700 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/b9a088ba-c6b7-4c19-8aa1-0d26f1d9ed9c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/b9a088ba-c6b7-4c19-8aa1-0d26f1d9ed9c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101956,
+    "number": "329839"
+  }
 }

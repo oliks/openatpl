@@ -1,7 +1,7 @@
 {
   "number": 601,
-  "questionId": 67504,
-  "questionNumber": "216232",
+  "questionId": "021-0601",
+  "questionNumber": "021-0601",
   "stemHtml": "<p>The \"EMERGENCY\" position of a cockpit oxygen mask\u2026</p>",
   "options": {
     "a": "should be used when there is smoke on the flight deck.",
@@ -10,5 +10,10 @@
     "d": "must be used during an emergency descent."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67504,
+    "number": "216232"
+  }
 }

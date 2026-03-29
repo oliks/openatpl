@@ -1,7 +1,7 @@
 {
   "number": 1833,
-  "questionId": 159454,
-  "questionNumber": "212900",
+  "questionId": "021-1833",
+  "questionNumber": "021-1833",
   "stemHtml": "<p>Refer to figure.  <br />  Which figure represents an OR logic gate?</p>",
   "options": {
     "a": "<p>Figure 1  <br />   </p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/16270f78-74de-446c-84e7-1f5309c27edd.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/16270f78-74de-446c-84e7-1f5309c27edd.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159454,
+    "number": "212900"
+  }
 }

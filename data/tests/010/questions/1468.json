@@ -1,7 +1,7 @@
 {
   "number": 1468,
-  "questionId": 66629,
-  "questionNumber": "103058",
+  "questionId": "010-1468",
+  "questionNumber": "010-1468",
   "stemHtml": "What is the role and objective of EASA?",
   "options": {
     "a": "EASA proposes guidelines to the aviation industry and promotes the highest common standards of safety and environmental protection in civil aviation.",
@@ -10,5 +10,10 @@
     "d": "EASA proposes implementing rules to the European Commission and promotes the highest common standards of safety and environmental protection in civil aviation."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66629,
+    "number": "103058"
+  }
 }

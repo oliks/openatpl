@@ -1,7 +1,7 @@
 {
   "number": 1262,
-  "questionId": 84319,
-  "questionNumber": "338144",
+  "questionId": "033-1262",
+  "questionNumber": "033-1262",
   "stemHtml": "<p>LPV gives (1) _____ guidance with the performance of a localiser, and the protected area is (2) _____ than the LNAV & LNAV/VNAV protection area.</p>",
   "options": {
     "a": "<p>(1) Lateral; (2) Greater</p>",
@@ -10,5 +10,10 @@
     "d": "(1) Vertical; (2) Smaller"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84319,
+    "number": "338144"
+  }
 }

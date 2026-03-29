@@ -1,7 +1,7 @@
 {
   "number": 1008,
-  "questionId": 67319,
-  "questionNumber": "216379",
+  "questionId": "021-1008",
+  "questionNumber": "021-1008",
   "stemHtml": "<p>The passenger oxygen mask will supply\u2026</p>",
   "options": {
     "a": "<p>a mixture of compressed air and oxygen or 100% oxygen.</p>",
@@ -10,5 +10,10 @@
     "d": "a mixture of cabin air and oxygen."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67319,
+    "number": "216379"
+  }
 }

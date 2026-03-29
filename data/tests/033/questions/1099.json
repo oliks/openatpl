@@ -1,7 +1,7 @@
 {
   "number": 1099,
-  "questionId": 107209,
-  "questionNumber": "336881",
+  "questionId": "033-1099",
+  "questionNumber": "033-1099",
   "stemHtml": "<p>Refer to figure.<br>An aircraft is doing some aerial work while flying VFR in the vicinity of LOGI (N47\u00b029.7' E014\u00b029.9'). Which flight level is most suitable for the activity?</p><p>Weather data recorded at LOXZ:<br>Temperature = ISA -15<strong>\u00b0</strong>C<br>QNH = 1018 hPa</p>",
   "options": {
     "a": "<p>FL120</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/eef8d21c-b4d8-45ea-a050-cf722e58c1e2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/eef8d21c-b4d8-45ea-a050-cf722e58c1e2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107209,
+    "number": "336881"
+  }
 }

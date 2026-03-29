@@ -1,7 +1,7 @@
 {
   "number": 482,
-  "questionId": 111208,
-  "questionNumber": "106823",
+  "questionId": "010-0482",
+  "questionNumber": "010-0482",
   "stemHtml": "<p>The Second Freedom of the Air is demonstrated in which of the following examples?</p>",
   "options": {
     "a": "<p>A flight from State A to State C with an intermediate stop in State B where some of the passengers disembark but NO new passengers or cargo board the aircraft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A flight from State A to State C, which overflies State B on the way WITHOUT any intermediate stop.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111208,
+    "number": "106823"
+  }
 }

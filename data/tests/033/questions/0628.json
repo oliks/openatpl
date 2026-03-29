@@ -1,7 +1,7 @@
 {
   "number": 628,
-  "questionId": 70746,
-  "questionNumber": "331940",
+  "questionId": "033-0628",
+  "questionNumber": "033-0628",
   "stemHtml": "Refer to figures. <br /> What equipment does the letter S indicate is being carried and is serviceable, when entered into ITEM 10 of the ICAO Flight Plan form?",
   "options": {
     "a": "ADF, VOR, and ILS.",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/70A4BDCD-63F2-4973-9ED2-A70E8B5ED619.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/70A4BDCD-63F2-4973-9ED2-A70E8B5ED619.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70746,
+    "number": "331940"
+  }
 }

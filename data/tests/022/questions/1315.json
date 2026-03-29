@@ -1,7 +1,7 @@
 {
   "number": 1315,
-  "questionId": 107335,
-  "questionNumber": "223936",
+  "questionId": "022-1315",
+  "questionNumber": "022-1315",
   "stemHtml": "<p>What factor do you need to account for to calculate True Airspeed (TAS) from Equivalent Airspeed (EAS)?</p>",
   "options": {
     "a": "<p>Compressibility.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Instrument error.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107335,
+    "number": "223936"
+  }
 }

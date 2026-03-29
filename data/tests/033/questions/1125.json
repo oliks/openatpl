@@ -1,7 +1,7 @@
 {
   "number": 1125,
-  "questionId": 71020,
-  "questionNumber": "331821",
+  "questionId": "033-1125",
+  "questionNumber": "033-1125",
   "stemHtml": "A NOTAM shall be originated and issued concerning which of the following info?",
   "options": {
     "a": "The occurence or correction of major defects or impediements in the maneuvering area.",
@@ -10,5 +10,10 @@
     "d": "The unserviceability of location, destination or other instruction signs on the aerodrome movement area."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71020,
+    "number": "331821"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1654,
-  "questionId": 102844,
-  "questionNumber": "212925",
+  "questionId": "021-1654",
+  "questionNumber": "021-1654",
   "stemHtml": "<p>If one of the 12 cells of a Lead-acid battery has a broken connection rendering it inoperable, the battery\u2026</p>",
   "options": {
     "a": "<p>Has 1/12 less voltage and less capacity but can still be used. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Is unserviceable. </p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102844,
+    "number": "212925"
+  }
 }

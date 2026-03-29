@@ -1,7 +1,7 @@
 {
   "number": 1202,
-  "questionId": 106692,
-  "questionNumber": "105318",
+  "questionId": "010-1202",
+  "questionNumber": "010-1202",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat should be the colours of the markings of the fixed obstacle shown in the annex?</p>",
   "options": {
     "a": "<p>red and white</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/78dc2855-071e-407b-94b1-1855c4bcf814.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/78dc2855-071e-407b-94b1-1855c4bcf814.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106692,
+    "number": "105318"
+  }
 }

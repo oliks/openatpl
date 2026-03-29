@@ -1,7 +1,7 @@
 {
   "number": 35,
-  "questionId": 78079,
-  "questionNumber": "311494",
+  "questionId": "031-0035",
+  "questionNumber": "031-0035",
   "stemHtml": "<p>Is it allowed to fly under otherwise identical conditions if a pilot is weighing 10 kg more as given? <em>Assume that the datum is located in front of the aircraft.</em></p>\n\n<table align=\"center\" cellspacing=\"0\" class=\"MsoTableGrid\" style=\"border-collapse:collapse; border:undefined\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\"><em><strong>Item</strong></em></td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\"><em><strong>Mass (kg)</strong></em></td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\"><em><strong>Distance aft of the datum (m)</strong></em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\">Empty Mass</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">1 050</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">3.2</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\">Pilot and Copilot or Front PAX</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">140</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">1.44</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\">Rear PAX</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">220</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">2.29</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\">Cargo (PAX floor)</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">-</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">2.31</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\">Cargo (PAX foot rest)</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">-</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">1.70</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\">Hold</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">-</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">3.04</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151pt\">Fuel (Mean centering)</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">276</td>\n\t\t\t<td style=\"text-align:center; vertical-align:top; width:151.05pt\">3.12</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<em>(Forward limit: 2.80 m aft of datum; aft limit: 3.15 m aft of datum)</em>",
   "options": {
     "a": "Yes, the new centre of gravity is now located more forward within the allowable range.",
@@ -10,5 +10,10 @@
     "d": "No, the new centre of gravity is now located 1 cm aft of the aft limit, thus outside the allowable range."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78079,
+    "number": "311494"
+  }
 }

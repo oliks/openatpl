@@ -1,7 +1,7 @@
 {
   "number": 1165,
-  "questionId": 67823,
-  "questionNumber": "213525",
+  "questionId": "021-1165",
+  "questionNumber": "021-1165",
   "stemHtml": "<p>The type of fuel tank used on most large aeroplanes is a(n)\u2026</p>",
   "options": {
     "a": "<p>combined bladder/metal drum tank.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>metal drum tank.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67823,
+    "number": "213525"
+  }
 }

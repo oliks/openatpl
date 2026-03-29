@@ -1,7 +1,7 @@
 {
   "number": 536,
-  "questionId": 82051,
-  "questionNumber": "213564",
+  "questionId": "021-0536",
+  "questionNumber": "021-0536",
   "stemHtml": "In flight, windshield icing occurs, within the view line of both pilots, what adjustments should the flight crew do?",
   "options": {
     "a": "Both flight crew members should adjust to see properly.",
@@ -10,5 +10,10 @@
     "d": "The flight crew should not do anything since icing does not have any effect on their view."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82051,
+    "number": "213564"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 983,
-  "questionId": 103241,
-  "questionNumber": "218458",
+  "questionId": "021-0983",
+  "questionNumber": "021-0983",
   "stemHtml": "<p>What does a fully powered system require compared to a partially-powered system?</p>",
   "options": {
     "a": "<p>Hydraulic servos.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Artificial feel system.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103241,
+    "number": "218458"
+  }
 }

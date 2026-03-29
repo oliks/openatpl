@@ -1,7 +1,7 @@
 {
   "number": 1316,
-  "questionId": 67041,
-  "questionNumber": "106172",
+  "questionId": "010-1316",
+  "questionNumber": "010-1316",
   "stemHtml": "<p>The transition level shall be provided to the flight crew\u2026</p>",
   "options": {
     "a": "when changing the altimeter setting from QNH to QFE.",
@@ -10,5 +10,10 @@
     "d": "during climb, before reaching the transition altitude."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67041,
+    "number": "106172"
+  }
 }

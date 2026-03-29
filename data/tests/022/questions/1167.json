@@ -1,7 +1,7 @@
 {
   "number": 1167,
-  "questionId": 74630,
-  "questionNumber": "224166",
+  "questionId": "022-1167",
+  "questionNumber": "022-1167",
   "stemHtml": "Refer to figure.    <br />    Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in Expanded (EXP) VOR/ILS mode with an VOR frequency selected?",
   "options": {
     "a": "Figure 1",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/a2785a0b-d6f8-4136-b4df-6d962a152c75.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/a2785a0b-d6f8-4136-b4df-6d962a152c75.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74630,
+    "number": "224166"
+  }
 }

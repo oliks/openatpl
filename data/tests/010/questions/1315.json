@@ -1,7 +1,7 @@
 {
   "number": 1315,
-  "questionId": 77719,
-  "questionNumber": "101461",
+  "questionId": "010-1315",
+  "questionNumber": "010-1315",
   "stemHtml": "Refer to figure. <br /> What is the name of the sign?",
   "options": {
     "a": "Yield sign.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/2102F520-9387-4125-BAE5-49830A89D425.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/2102F520-9387-4125-BAE5-49830A89D425.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77719,
+    "number": "101461"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 163,
-  "questionId": 83171,
-  "questionNumber": "315549",
+  "questionId": "031-0163",
+  "questionNumber": "031-0163",
   "stemHtml": "Which of the following loading methods is recommended for the transport of unconventional cargo?",
   "options": {
     "a": "Large and irregularly shaped cargo should be loaded as palletised cargo.",
@@ -10,5 +10,10 @@
     "d": "Large and irregularly shaped cargo is ideally stored as bulk cargo."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83171,
+    "number": "315549"
+  }
 }

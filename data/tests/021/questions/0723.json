@@ -1,7 +1,7 @@
 {
   "number": 723,
-  "questionId": 67782,
-  "questionNumber": "215184",
+  "questionId": "021-0723",
+  "questionNumber": "021-0723",
   "stemHtml": "Refer to figure.  <br />  In case of failure of the TRU 1: (NB: all contactors not mentioned are assumed to remain open)",
   "options": {
     "a": "DC BUS 1 cannot be fed via DC BAT BUS.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/C459F701-ACCB-433E-939B-02CDFE3BACE9.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/C459F701-ACCB-433E-939B-02CDFE3BACE9.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67782,
+    "number": "215184"
+  }
 }

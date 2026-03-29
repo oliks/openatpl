@@ -1,7 +1,7 @@
 {
   "number": 1318,
-  "questionId": 68561,
-  "questionNumber": "229358",
+  "questionId": "022-1318",
+  "questionNumber": "022-1318",
   "stemHtml": "<p>When using the autopilot, the function(s) of the automatic pitch trim is (are) to:</p><p>1 \u2013 off-load any steady state elevator deflection <br>2 \u2013 ease the steady state load of the rudder as much as possible <br>3 \u2013 cancel out of trim force during autopilot disengagement</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1.",
@@ -10,5 +10,10 @@
     "d": "1, 2."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68561,
+    "number": "229358"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1094,
-  "questionId": 82992,
-  "questionNumber": "336037",
+  "questionId": "033-1094",
+  "questionNumber": "033-1094",
   "stemHtml": "<p>Refer to figure or Stuttgart chart 11-2 from Jeppesen GSPRM 2017. What is the MSA for an aircraft approaching from radial 260\u00ba when it is 14 NM away from the VOR station ?</p>",
   "options": {
     "a": "3400 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/66A55FAE-E435-4023-A60F-969213B4698F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/66A55FAE-E435-4023-A60F-969213B4698F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82992,
+    "number": "336037"
+  }
 }

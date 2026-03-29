@@ -1,7 +1,7 @@
 {
   "number": 1047,
-  "questionId": 70904,
-  "questionNumber": "337348",
+  "questionId": "033-1047",
+  "questionNumber": "033-1047",
   "stemHtml": "<p>Refer to figure DUBROVNIK - charts 19-1 and 19-2 from Jeppesen GSPRM 2017. <br>What is the specified altitude following the arrival route from Sv. Andrija Island?</p>",
   "options": {
     "a": "<p>1500 ft AMSL</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/C20E7A6F-C84A-469D-B7B6-4DFE9990072A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C20E7A6F-C84A-469D-B7B6-4DFE9990072A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70904,
+    "number": "337348"
+  }
 }

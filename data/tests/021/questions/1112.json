@@ -1,7 +1,7 @@
 {
   "number": 1112,
-  "questionId": 68373,
-  "questionNumber": "211329",
+  "questionId": "021-1112",
+  "questionNumber": "021-1112",
   "stemHtml": "<div>What is a disadvantage of MOGAS in relation to AVGAS?</div>",
   "options": {
     "a": "<div>Higher risk of becoming wax like and clogging up fuel lines</div>",
@@ -10,5 +10,10 @@
     "d": "<p>Higher risk of ice in carburettor</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68373,
+    "number": "211329"
+  }
 }

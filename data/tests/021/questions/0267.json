@@ -1,7 +1,7 @@
 {
   "number": 267,
-  "questionId": 67928,
-  "questionNumber": "214252",
+  "questionId": "021-0267",
+  "questionNumber": "021-0267",
   "stemHtml": "<p>The purpose of an air conditioning pack inlet flow valve (pack valve) is to...</p>",
   "options": {
     "a": "<p>maintain a constant and sufficient air mass flow to ventilate the cabin.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>discharge cabin air to atmosphere if cabin pressure rises above the selected altitude.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67928,
+    "number": "214252"
+  }
 }

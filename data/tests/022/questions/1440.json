@@ -1,7 +1,7 @@
 {
   "number": 1440,
-  "questionId": 69283,
-  "questionNumber": "227252",
+  "questionId": "022-1440",
+  "questionNumber": "022-1440",
   "stemHtml": "<p>The EGPWS may propose the Terrain Look-Ahead Alerting function, this function uses\u2026</p>",
   "options": {
     "a": "the same caution and warning envelopes than the mode 2 GPWS (excessive terrain closure rate).",
@@ -10,5 +10,10 @@
     "d": "an electronic map of the world giving ground elevation."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69283,
+    "number": "227252"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1333,
-  "questionId": 159500,
-  "questionNumber": "215447",
+  "questionId": "021-1333",
+  "questionNumber": "021-1333",
   "stemHtml": "<p>Which statements correctly describe operational considerations of steel brakes ?</p><p>1. Brake wear is primarily a function of the energy absorbed during braking\u00a0<br>2. Brake wear depends mainly on the number of brake applications\u00a0<br>3. It is generally preferred to minimise use of the brake applications during taxi\u00a0<br>4. Steel brakes can absorb less heat energy than carbon brakes.\u00a0<br>5. Steel brakes have a higher friction coefficient than carbon brakes</p>",
   "options": {
     "a": "<p>1, 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3 and 5</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159500,
+    "number": "215447"
+  }
 }

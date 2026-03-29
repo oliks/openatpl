@@ -1,7 +1,7 @@
 {
   "number": 1682,
-  "questionId": 66825,
-  "questionNumber": "103973",
+  "questionId": "010-1682",
+  "questionNumber": "010-1682",
   "stemHtml": "<p>What is the turn made by an aircraft during the initial approach to the runway between the end of the outbound track and the beginning of the intermediate or final approach track, where the tracks are not reciprocal?</p>",
   "options": {
     "a": "<p>Reversal orbit</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Procedure turn</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66825,
+    "number": "103973"
+  }
 }

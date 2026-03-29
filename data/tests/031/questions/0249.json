@@ -1,7 +1,7 @@
 {
   "number": 249,
-  "questionId": 69475,
-  "questionNumber": "311247",
+  "questionId": "031-0249",
+  "questionNumber": "031-0249",
   "stemHtml": "<p>Take-off Mass minus Trip Fuel Mass results in the\u2026</p>",
   "options": {
     "a": "Reserve Fuel Mass.",
@@ -10,5 +10,10 @@
     "d": "Zero Fuel Mass."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69475,
+    "number": "311247"
+  }
 }

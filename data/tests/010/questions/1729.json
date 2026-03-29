@@ -1,7 +1,7 @@
 {
   "number": 1729,
-  "questionId": 140084,
-  "questionNumber": "107843",
+  "questionId": "010-1729",
+  "questionNumber": "010-1729",
   "stemHtml": "<p>The DH for a given approach is 200 ft. If a Missed Approach is initiated prior to reaching the MAPt, at what altitude shall the aircraft overfly the MAPt?</p>",
   "options": {
     "a": "<p>200 ft or higher</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Any height above ground elevation</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140084,
+    "number": "107843"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 282,
-  "questionId": 86343,
-  "questionNumber": "103075",
+  "questionId": "010-0282",
+  "questionNumber": "010-0282",
   "stemHtml": "<p>The crew of an aeroplane are performing a turning departure. In this type of departure, straight flight is assumed until reaching a height of at least\u2026</p>",
   "options": {
     "a": "295 ft",
@@ -10,5 +10,10 @@
     "d": "120 ft"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86343,
+    "number": "103075"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 936,
-  "questionId": 70853,
-  "questionNumber": "332608",
+  "questionId": "033-0936",
+  "questionNumber": "033-0936",
   "stemHtml": "<div>Which person is entitled to require the uplift of Extra Fuel?</div>\r\n",
   "options": {
     "a": "<p>The pilot monitoring.</p>",
@@ -10,5 +10,10 @@
     "d": "The operator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70853,
+    "number": "332608"
+  }
 }

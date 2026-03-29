@@ -1,7 +1,7 @@
 {
   "number": 139,
-  "questionId": 69587,
-  "questionNumber": "316586",
+  "questionId": "031-0139",
+  "questionNumber": "031-0139",
   "stemHtml": "Refer to figure.  <br />  Using the annex, determine the CG position and the moment at Basic Empty Mass. The CG position is...",
   "options": {
     "a": "116.2 in aft of datum and the moment is 362 876 in.lb.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/85B531D2-AF4E-40A8-AB19-8597254E3569.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/85B531D2-AF4E-40A8-AB19-8597254E3569.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69587,
+    "number": "316586"
+  }
 }

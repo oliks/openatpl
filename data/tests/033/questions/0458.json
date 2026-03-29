@@ -1,7 +1,7 @@
 {
   "number": 458,
-  "questionId": 70862,
-  "questionNumber": "334335",
+  "questionId": "033-0458",
+  "questionNumber": "033-0458",
   "stemHtml": "<p>The Block fuel for an IFR flight with a single engine aircraft was 200 lb. <br>Alternate fuel = 40 lb <br>Final reserve fuel = 50 lb <br>Taxi fuel = 10 lb <br>After a flight time of 36 minutes the remaining fuel is 110 lb.</p><p>Considering a constant fuel flow, the remaining flight time to fly to the destination, landing with the required reserve fuel is\u2026</p>",
   "options": {
     "a": "<div>14 min.</div>",
@@ -10,5 +10,10 @@
     "d": "9 min."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70862,
+    "number": "334335"
+  }
 }

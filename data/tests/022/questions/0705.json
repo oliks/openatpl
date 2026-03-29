@@ -1,7 +1,7 @@
 {
   "number": 705,
-  "questionId": 68586,
-  "questionNumber": "224500",
+  "questionId": "022-0705",
+  "questionNumber": "022-0705",
   "stemHtml": "<p>The purpose of a magnetic compass calibration is to\u2026</p>",
   "options": {
     "a": "correct for magnetic variation.",
@@ -10,5 +10,10 @@
     "d": "correct for deviations."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68586,
+    "number": "224500"
+  }
 }

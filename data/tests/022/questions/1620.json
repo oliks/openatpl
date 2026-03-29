@@ -1,7 +1,7 @@
 {
   "number": 1620,
-  "questionId": 84608,
-  "questionNumber": "223222",
+  "questionId": "022-1620",
+  "questionNumber": "022-1620",
   "stemHtml": "<p>What is a hazard when operating the auto thrust in SPEED mode?</p>",
   "options": {
     "a": "The autothrust may exceed operational limitations of the engine(s) if the selected speeds are outside of the normal flight envelope.",
@@ -10,5 +10,10 @@
     "d": "When operating outside of limits, the autothrottle may disconnect without any warning."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84608,
+    "number": "223222"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 234,
-  "questionId": 70048,
-  "questionNumber": "323075",
+  "questionId": "032-0234",
+  "questionNumber": "032-0234",
   "stemHtml": "The screen height is the minimum height at which an aircraft should...",
   "options": {
     "a": "perform a go-around.",
@@ -10,5 +10,10 @@
     "d": "descend on an ILS path without visual references."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70048,
+    "number": "323075"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1722,
-  "questionId": 101535,
-  "questionNumber": "221312",
+  "questionId": "022-1722",
+  "questionNumber": "022-1722",
   "stemHtml": "<p>Which of the following correctly describes the behaviour of an Inertial Navigation System (INS)?</p>",
   "options": {
     "a": "<p>The INS will move freely and point to the North.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The INS operates independently of any reference.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101535,
+    "number": "221312"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1440,
-  "questionId": 67662,
-  "questionNumber": "216870",
+  "questionId": "021-1440",
+  "questionNumber": "021-1440",
   "stemHtml": "<p>In a normally aspirated piston engine, when altitude increases, the mixture must be adjusted because there is\u2026</p>",
   "options": {
     "a": "<p>an increase of air density resulting in too rich a mixture.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a decrease of air density resulting in too lean a mixture.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67662,
+    "number": "216870"
+  }
 }

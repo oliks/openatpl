@@ -1,7 +1,7 @@
 {
   "number": 1303,
-  "questionId": 81705,
-  "questionNumber": "337707",
+  "questionId": "033-1303",
+  "questionNumber": "033-1303",
   "stemHtml": "<div>You are flying a heading of 120\u00b0 with a TAS of 110 kt. If the wind is from 260\u00b0 at 30 kt, what will be your drift angle and ground speed?</div>",
   "options": {
     "a": "<p>10\u00b0 left and 132 kt</p>",
@@ -10,5 +10,10 @@
     "d": "<p>7\u00b0 right and 136 kt</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81705,
+    "number": "337707"
+  }
 }

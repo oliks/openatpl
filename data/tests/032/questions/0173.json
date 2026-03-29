@@ -1,7 +1,7 @@
 {
   "number": 173,
-  "questionId": 69966,
-  "questionNumber": "323350",
+  "questionId": "032-0173",
+  "questionNumber": "032-0173",
   "stemHtml": "The take-off distance required increases...",
   "options": {
     "a": "due to head wind because of the drag augmentation.",
@@ -10,5 +10,10 @@
     "d": "due to slush on the runway."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69966,
+    "number": "323350"
+  }
 }

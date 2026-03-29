@@ -1,7 +1,7 @@
 {
   "number": 1108,
-  "questionId": 96738,
-  "questionNumber": "216660",
+  "questionId": "021-1108",
+  "questionNumber": "021-1108",
   "stemHtml": "A large jet transport aeroplane has an inoperative anti-skid system. Which performance calculations must the flight crew redo and how will they change?",
   "options": {
     "a": "The take-off and landing distances required will be increased.",
@@ -10,5 +10,10 @@
     "d": "The take-off distance required will decrease and landing distance required will be increased."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96738,
+    "number": "216660"
+  }
 }

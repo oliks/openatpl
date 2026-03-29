@@ -1,7 +1,7 @@
 {
   "number": 107,
-  "questionId": 81373,
-  "questionNumber": "317638",
+  "questionId": "031-0107",
+  "questionNumber": "031-0107",
   "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> A Single Engine Piston aeroplane prepares to land at a mass of 2 500 lb. What is the forward limit CG position of this landing mass?</p>",
   "options": {
     "a": "<p dir=\"ltr\">87.7 in</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/331BADCD-AB37-4746-B746-04995571F090.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/331BADCD-AB37-4746-B746-04995571F090.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81373,
+    "number": "317638"
+  }
 }

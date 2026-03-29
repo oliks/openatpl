@@ -1,7 +1,7 @@
 {
   "number": 1563,
-  "questionId": 66802,
-  "questionNumber": "109153",
+  "questionId": "010-1563",
+  "questionNumber": "010-1563",
   "stemHtml": "<p>What is the minimum flight altitude for an IFR flight over mountainous area?</p>",
   "options": {
     "a": "A level that is at least 600 m (2000 ft) above the highest obstacle located within 8 km of the aircraft`s estimated position.",
@@ -10,5 +10,10 @@
     "d": "A level that is at least 300 m (1000) ft above the highest obstacle located within 8 km of the aircraft\u2019s estimated position."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66802,
+    "number": "109153"
+  }
 }

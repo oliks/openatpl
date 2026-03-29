@@ -1,7 +1,7 @@
 {
   "number": 353,
-  "questionId": 67903,
-  "questionNumber": "214382",
+  "questionId": "021-0353",
+  "questionNumber": "021-0353",
   "stemHtml": "<p>To protect against excessive system pressure, a hydraulic system usually incorporates...</p>",
   "options": {
     "a": "a standby hydraulic pump.",
@@ -10,5 +10,10 @@
     "d": "<p>an automatic cut out valve.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67903,
+    "number": "214382"
+  }
 }

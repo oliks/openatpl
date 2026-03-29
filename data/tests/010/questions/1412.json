@@ -1,7 +1,7 @@
 {
   "number": 1412,
-  "questionId": 96407,
-  "questionNumber": "109479",
+  "questionId": "010-1412",
+  "questionNumber": "010-1412",
   "stemHtml": "Slush is defined as...",
   "options": {
     "a": "Snow that is so water-saturated that water will drain from it when a handful is picked up or will splatter if stepped on forcefully.",
@@ -10,5 +10,10 @@
     "d": "Snow which, if compacted by hand, will stick together and tend to or form a snowball; specific gravity: 0.35 up to but not including 0.5."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96407,
+    "number": "109479"
+  }
 }

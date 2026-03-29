@@ -1,7 +1,7 @@
 {
   "number": 1434,
-  "questionId": 162205,
-  "questionNumber": "332503",
+  "questionId": "033-1434",
+  "questionNumber": "033-1434",
   "stemHtml": "<p>Refer to figure or use CAP 697 Figure 3.4.  <br />  An aeroplane is flying at FL90 at the long range power setting. What is the TAS if the OAT is ISA -10\u00b0C?</p>",
   "options": {
     "a": "<p>138 kt</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0aece68a-5d9e-42d9-8527-5e5a122ab07a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0aece68a-5d9e-42d9-8527-5e5a122ab07a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162205,
+    "number": "332503"
+  }
 }

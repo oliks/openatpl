@@ -1,7 +1,7 @@
 {
   "number": 514,
-  "questionId": 105045,
-  "questionNumber": "106071",
+  "questionId": "010-0514",
+  "questionNumber": "010-0514",
   "stemHtml": "<p>An object needs obstacle lighting, this lighting is supposed...</p>",
   "options": {
     "a": "<p>to be as close as feasible to the top of the object, to be seen from every angle in azimuth.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>to be seen from approach.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105045,
+    "number": "106071"
+  }
 }

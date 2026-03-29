@@ -1,7 +1,7 @@
 {
   "number": 138,
-  "questionId": 69423,
-  "questionNumber": "317263",
+  "questionId": "031-0138",
+  "questionNumber": "031-0138",
   "stemHtml": "As for the Mass and Balance calculations, the \"Index\" is:",
   "options": {
     "a": "a figure without unit of measurement which represents a moment.",
@@ -10,5 +10,10 @@
     "d": "an imaginary vertical plane or line from which all measurements are taken."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69423,
+    "number": "317263"
+  }
 }

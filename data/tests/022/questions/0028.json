@@ -1,7 +1,7 @@
 {
   "number": 28,
-  "questionId": 68969,
-  "questionNumber": "222677",
+  "questionId": "022-0028",
+  "questionNumber": "022-0028",
   "stemHtml": "<p>What is a magnetic meridian of the Earth's magnetic field?</p>",
   "options": {
     "a": "The vertical component of magnetic force lines.",
@@ -10,5 +10,10 @@
     "d": "The horizontal component of magnetic force lines."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68969,
+    "number": "222677"
+  }
 }

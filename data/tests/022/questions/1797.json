@@ -1,7 +1,7 @@
 {
   "number": 1797,
-  "questionId": 69296,
-  "questionNumber": "228741",
+  "questionId": "022-1797",
+  "questionNumber": "022-1797",
   "stemHtml": "<p>Ice has built up on the pitot probe, static port and AoA indicator. Which indications may be affected?</p>\n\n<p>1- Airspeed <br /> \n2- TAT <br /> \n3- Angle of Attack <br /> \n4- Altitude <br /> \n5- Attitude</p>",
   "options": {
     "a": "1, 2, 5",
@@ -10,5 +10,10 @@
     "d": "2, 3, 4"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69296,
+    "number": "228741"
+  }
 }

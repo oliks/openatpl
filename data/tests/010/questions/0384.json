@@ -1,7 +1,7 @@
 {
   "number": 384,
-  "questionId": 101498,
-  "questionNumber": "108615",
+  "questionId": "010-0384",
+  "questionNumber": "010-0384",
   "stemHtml": "Regarding independent parallel departures, when should departing aircraft begin their turn to ensure safe separation as their tracks diverge?",
   "options": {
     "a": "At 1000 ft.",
@@ -10,5 +10,10 @@
     "d": "At Obstacle Clearance Height (OCH)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101498,
+    "number": "108615"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 32,
-  "questionId": 80052,
-  "questionNumber": "316858",
+  "questionId": "031-0032",
+  "questionNumber": "031-0032",
   "stemHtml": "<p>Refer to figure. <br /> Determine the mass which must be added at a point 5 m left of the pivot to balance the moments.</p>",
   "options": {
     "a": "<p>232 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/F55A4F76-E1D8-4585-A3C0-2026F964BA79.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/F55A4F76-E1D8-4585-A3C0-2026F964BA79.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80052,
+    "number": "316858"
+  }
 }

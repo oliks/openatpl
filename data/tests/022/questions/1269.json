@@ -1,7 +1,7 @@
 {
   "number": 1269,
-  "questionId": 81558,
-  "questionNumber": "221017",
+  "questionId": "022-1269",
+  "questionNumber": "022-1269",
   "stemHtml": "The master caution and audible warning are triggered during the cruise segment of a flight with an inexperienced crew. The crew are distracted by dealing with the situation and allow the speed of the aircraft to reduce towards the stall. The audible alert of the stall warning system...",
   "options": {
     "a": "is unique so the crew can differentiate it from warnings relating to other emergencies.",
@@ -10,5 +10,10 @@
     "d": "is quieter than other audible alerts because it has a lower priority."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81558,
+    "number": "221017"
+  }
 }

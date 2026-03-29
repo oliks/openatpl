@@ -1,7 +1,7 @@
 {
   "number": 719,
-  "questionId": 107971,
-  "questionNumber": "226852",
+  "questionId": "022-0719",
+  "questionNumber": "022-0719",
   "stemHtml": "<p>Complete the sentence correctly. When turning right from 330\u00b0 to 040\u00b0 in the Northern Hemisphere, the direct reading magnetic compass will?</p>",
   "options": {
     "a": "<p>under-indicate the turn and liquid swirl will decrease the effect.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>over-indicate the turn and liquid swirl will increase the effect.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107971,
+    "number": "226852"
+  }
 }

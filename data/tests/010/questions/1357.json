@@ -1,7 +1,7 @@
 {
   "number": 1357,
-  "questionId": 66944,
-  "questionNumber": "101950",
+  "questionId": "010-1357",
+  "questionNumber": "010-1357",
   "stemHtml": "What is the class of airspace where IFR and VFR flights are permitted, an air traffic control service is available for all flights, separation is provided between IFR flights, IFR flights receive traffic information for VFR fights, and VFR flights receive traffic information for all other flights?",
   "options": {
     "a": "Class B.",
@@ -10,5 +10,10 @@
     "d": "Class D."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66944,
+    "number": "101950"
+  }
 }

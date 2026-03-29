@@ -1,7 +1,7 @@
 {
   "number": 1015,
-  "questionId": 103202,
-  "questionNumber": "216499",
+  "questionId": "021-1015",
+  "questionNumber": "021-1015",
   "stemHtml": "<p>What are the advantages of Fly-By-Wire control?</p><p>1. Reduction of the electric and hydraulic power required to operate the control surfaces<br>2. Lesser sensitivity to lightning strike<br>3. Direct and indirect weight saving through simplification of systems<br>4. Immunity to different interfering signals<br>5. Improvement of piloting quality throughout the flight envelope</p>",
   "options": {
     "a": "<p>1, 2.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3, 5.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103202,
+    "number": "216499"
+  }
 }

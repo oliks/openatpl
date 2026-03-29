@@ -1,7 +1,7 @@
 {
   "number": 1265,
-  "questionId": 106595,
-  "questionNumber": "103768",
+  "questionId": "010-1265",
+  "questionNumber": "010-1265",
   "stemHtml": "<p>According to ICAO Doc 4444, what is the correct statement regarding the provisions for the separation of controlled traffic?</p>",
   "options": {
     "a": "<p>Clearances shall only be given for horizontal separation during the en-route phase.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No clearance shall be given to execute any manoeuvre that would reduce the spacing between two aircraft to less than the separation minimum applicable in the circumstances.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106595,
+    "number": "103768"
+  }
 }

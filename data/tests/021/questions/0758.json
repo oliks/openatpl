@@ -1,7 +1,7 @@
 {
   "number": 758,
-  "questionId": 100361,
-  "questionNumber": "214067",
+  "questionId": "021-0758",
+  "questionNumber": "021-0758",
   "stemHtml": "<p>Why is there redundancy in a FADEC system?</p>",
   "options": {
     "a": "To avoid loss of all thrust if one channel fails.",
@@ -10,5 +10,10 @@
     "d": "To ensure the engine parameter recording for post-flight maintenance purposes."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100361,
+    "number": "214067"
+  }
 }

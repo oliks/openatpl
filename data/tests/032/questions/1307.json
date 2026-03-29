@@ -1,7 +1,7 @@
 {
   "number": 1307,
-  "questionId": 69845,
-  "questionNumber": "324723",
+  "questionId": "032-1307",
+  "questionNumber": "032-1307",
   "stemHtml": "<p>Density altitude is\u2026</p>",
   "options": {
     "a": "altitude referenced to the standard datum.",
@@ -10,5 +10,10 @@
     "d": "height above the surface."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69845,
+    "number": "324723"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 482,
-  "questionId": 159440,
-  "questionNumber": "215773",
+  "questionId": "021-0482",
+  "questionNumber": "021-0482",
   "stemHtml": "<p>When designing the cockpit layout, which principle is preferred for the arrangement of flight instruments?</p>",
   "options": {
     "a": "<p>Arrange instruments to minimise horizontal and vertical head movement. <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Arrange instruments based solely on airline-specific preferences.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159440,
+    "number": "215773"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 529,
-  "questionId": 68304,
-  "questionNumber": "212673",
+  "questionId": "021-0529",
+  "questionNumber": "021-0529",
   "stemHtml": "<p>An oxygen supply system must be kept absolutely free of oil or grease as\u2026</p>",
   "options": {
     "a": "these substances could block the oxygen mask filters.",
@@ -10,5 +10,10 @@
     "d": "these substances mixed with oxygen could catch fire in the presence of a spark."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68304,
+    "number": "212673"
+  }
 }

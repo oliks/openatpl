@@ -1,7 +1,7 @@
 {
   "number": 1298,
-  "questionId": 80826,
-  "questionNumber": "227627",
+  "questionId": "022-1298",
+  "questionNumber": "022-1298",
   "stemHtml": "What does the FMS compute during normal LNAV mode?",
   "options": {
     "a": "The lateral flight path with regard to the theoretical performance of the aircraft from the performance database.",
@@ -10,5 +10,10 @@
     "d": "The altitude restrictions of the airspace above, and the minimum crossing altitude of a waypoint."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80826,
+    "number": "227627"
+  }
 }

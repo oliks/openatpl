@@ -1,7 +1,7 @@
 {
   "number": 308,
-  "questionId": 67271,
-  "questionNumber": "109359",
+  "questionId": "010-0308",
+  "questionNumber": "010-0308",
   "stemHtml": "What is the purpose of a red spherical sign, 60 cm wide, giving the impression that it is floating near an obstacle?",
   "options": {
     "a": "Indicating high-tension lines or cables.",
@@ -10,5 +10,10 @@
     "d": "Indicate a high object with a small surface area."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67271,
+    "number": "109359"
+  }
 }

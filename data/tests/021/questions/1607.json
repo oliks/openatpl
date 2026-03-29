@@ -1,7 +1,7 @@
 {
   "number": 1607,
-  "questionId": 68173,
-  "questionNumber": "211632",
+  "questionId": "021-1607",
+  "questionNumber": "021-1607",
   "stemHtml": "<p>To maintain a constant mixture in a piston engine at low and high power settings, a carburettor is fitted with\u2026</p>",
   "options": {
     "a": "a power jet.",
@@ -10,5 +10,10 @@
     "d": "a diffuser (compensating jet)."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68173,
+    "number": "211632"
+  }
 }

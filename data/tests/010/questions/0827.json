@@ -1,7 +1,7 @@
 {
   "number": 827,
-  "questionId": 85918,
-  "questionNumber": "108685",
+  "questionId": "010-0827",
+  "questionNumber": "010-0827",
   "stemHtml": "Refer to figure. <br /> Which of the options correctly identifies the different runway designation markings?",
   "options": {
     "a": "I) General design; II) Optional design; III) Parallel design; IV) Non-compliant design.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/D1352DB6-DE8B-459F-B663-13D87E1EC055.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/D1352DB6-DE8B-459F-B663-13D87E1EC055.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85918,
+    "number": "108685"
+  }
 }

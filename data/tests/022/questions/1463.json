@@ -1,7 +1,7 @@
 {
   "number": 1463,
-  "questionId": 80211,
-  "questionNumber": "227495",
+  "questionId": "022-1463",
+  "questionNumber": "022-1463",
   "stemHtml": "<p>An AHRS (Attitude and Heading Reference System) has _____ gyros.</p>",
   "options": {
     "a": "2",
@@ -10,5 +10,10 @@
     "d": "6"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80211,
+    "number": "227495"
+  }
 }

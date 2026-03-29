@@ -1,7 +1,7 @@
 {
   "number": 1276,
-  "questionId": 66920,
-  "questionNumber": "106808",
+  "questionId": "010-1276",
+  "questionNumber": "010-1276",
   "stemHtml": "<p>Aerodrome traffic is all traffic\u2026</p>",
   "options": {
     "a": "<p>in the aerodrome circuit, having established contact with the aerodrome traffic control.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>on the manoeuvring area.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66920,
+    "number": "106808"
+  }
 }

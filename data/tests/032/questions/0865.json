@@ -1,7 +1,7 @@
 {
   "number": 865,
-  "questionId": 159824,
-  "questionNumber": "324690",
+  "questionId": "032-0865",
+  "questionNumber": "032-0865",
   "stemHtml": "<p>The take-off decision speed V<strong><sub>1</sub></strong> is the _____ for rejecting the take-off.</p>",
   "options": {
     "a": "<p>maximum true airspeed</p>",
@@ -10,5 +10,10 @@
     "d": "<p>maximum calibrated airspeed</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159824,
+    "number": "324690"
+  }
 }

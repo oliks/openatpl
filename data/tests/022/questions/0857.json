@@ -1,7 +1,7 @@
 {
   "number": 857,
-  "questionId": 107793,
-  "questionNumber": "228417",
+  "questionId": "022-0857",
+  "questionNumber": "022-0857",
   "stemHtml": "<p>Refer to figure. <br /> \rHow does a Ring Laser Gyro sense rotational movements?</p>",
   "options": {
     "a": "<p>By detecting the phase shift between two laser beams traveling in opposite directions.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/5d13f8e5-9cb8-4527-b59e-64646a74aa6a.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/5d13f8e5-9cb8-4527-b59e-64646a74aa6a.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107793,
+    "number": "228417"
+  }
 }

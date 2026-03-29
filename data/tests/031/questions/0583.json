@@ -1,7 +1,7 @@
 {
   "number": 583,
-  "questionId": 69327,
-  "questionNumber": "319421",
+  "questionId": "031-0583",
+  "questionNumber": "031-0583",
   "stemHtml": "<p>The mass of an aircraft is 2000 kg and 400 kg of freight is added to a hold 2 m aft of the present CG position, the movement of the CG is:</p>",
   "options": {
     "a": "<p>0.4 m aft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>0.4 m forward.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69327,
+    "number": "319421"
+  }
 }

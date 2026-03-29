@@ -1,7 +1,7 @@
 {
   "number": 431,
-  "questionId": 70439,
-  "questionNumber": "336364",
+  "questionId": "033-0431",
+  "questionNumber": "033-0431",
   "stemHtml": "<p>During a flight the fuel indicators show that the remaining amount of fuel is 100 lb after 38 minutes.The total amount of fuel at take off was 160 lb. For the alternate fuel, 30 lb is necessary. The planned fuel for taxi is 13 lb. Final reserve fuel is estimated at 50 lb.</p>\n\n<p><span style=\"letter-spacing:0.7px\">If the fuel flow remains the same, how many minutes can be flown to the destination with the remaining fuel?</span></p>",
   "options": {
     "a": "44 minutes.",
@@ -10,5 +10,10 @@
     "d": "63 minutes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70439,
+    "number": "336364"
+  }
 }

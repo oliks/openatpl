@@ -1,7 +1,7 @@
 {
   "number": 1600,
-  "questionId": 67723,
-  "questionNumber": "215055",
+  "questionId": "021-1600",
+  "questionNumber": "021-1600",
   "stemHtml": "<p>A turbo compressor bootstrap air conditioning system includes two heat exchangers, the primary exchanger and the secondary exchanger. What are the functions of these two heat exchangers?</p>",
   "options": {
     "a": "<p>The primary heat exchanger precools the engine bleed air and the secondary heat exchanger cools air behind the pack`s compressor.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The primary heat exchanger warms up engine bleed air and the secondary heat exchanger increases the temperature of air originating from the compressor of the pack.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67723,
+    "number": "215055"
+  }
 }

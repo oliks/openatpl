@@ -1,7 +1,7 @@
 {
   "number": 365,
-  "questionId": 67099,
-  "questionNumber": "103776",
+  "questionId": "010-0365",
+  "questionNumber": "010-0365",
   "stemHtml": "<p>For the aeroplane for which the taxiway is intended, the taxiway designer assumes that on a taxiway curve the\u2026</p>",
   "options": {
     "a": "width of the taxiway is decreased on the inner curve.",
@@ -10,5 +10,10 @@
     "d": "pilot will oversteer and the cockpit will NOT follow the centre-line markings."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67099,
+    "number": "103776"
+  }
 }

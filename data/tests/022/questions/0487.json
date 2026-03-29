@@ -1,7 +1,7 @@
 {
   "number": 487,
-  "questionId": 121581,
-  "questionNumber": "222156",
+  "questionId": "022-0487",
+  "questionNumber": "022-0487",
   "stemHtml": "<p>When climbing at a constant Mach No, above the tropopause, what happens to TAS and CAS?</p>",
   "options": {
     "a": "<p>TAS and CAS decrease.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>CAS remains constant and TAS decreases.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 121581,
+    "number": "222156"
+  }
 }

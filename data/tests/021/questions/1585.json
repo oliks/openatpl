@@ -1,7 +1,7 @@
 {
   "number": 1585,
-  "questionId": 67768,
-  "questionNumber": "211797",
+  "questionId": "021-1585",
+  "questionNumber": "021-1585",
   "stemHtml": "<p>A magnetic plug in an engine`s oil system can be used to\u2026</p>",
   "options": {
     "a": "collect carbon found in the oil.",
@@ -10,5 +10,10 @@
     "d": "prevent metallic particles from entering the oil system."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67768,
+    "number": "211797"
+  }
 }

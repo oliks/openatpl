@@ -1,7 +1,7 @@
 {
   "number": 1105,
-  "questionId": 105516,
-  "questionNumber": "103168",
+  "questionId": "010-1105",
+  "questionNumber": "010-1105",
   "stemHtml": "<p>What is the convention that established the Rules of the Air?</p>",
   "options": {
     "a": "<p>Rules of the Air (Chicago Convention).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Rules of Fly (Tokyo Convention).</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105516,
+    "number": "103168"
+  }
 }

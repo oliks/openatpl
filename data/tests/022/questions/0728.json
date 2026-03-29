@@ -1,7 +1,7 @@
 {
   "number": 728,
-  "questionId": 69254,
-  "questionNumber": "223542",
+  "questionId": "022-0728",
+  "questionNumber": "022-0728",
   "stemHtml": "<p>A radio altimeter operates in the following frequency band\u2026 <br />  </p>",
   "options": {
     "a": "VHF (Very High Frequency).",
@@ -10,5 +10,10 @@
     "d": "HF (High Frequency)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69254,
+    "number": "223542"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 264,
-  "questionId": 70929,
-  "questionNumber": "333560",
+  "questionId": "033-0264",
+  "questionNumber": "033-0264",
   "stemHtml": "<p>Refer to figure or ALICANTE - Chart 10-3A from Jeppesen GSPRM 2017. <br>Your departure is via CATON 3A and you are cleared to FL80. Due to a restriction you have to remain at 2000 ft until passing VOR/DME ALT. QNH is 1040 hPa, ROC is 800 ft/min and GS is 133 kts. When are you going to reach the top of climb (ToC)?</p>",
   "options": {
     "a": "<p>4 NM after VILNA</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/C1A8D9E6-812E-41A3-9C85-7E74C1A46C7F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C1A8D9E6-812E-41A3-9C85-7E74C1A46C7F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70929,
+    "number": "333560"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 590,
-  "questionId": 69629,
-  "questionNumber": "324113",
+  "questionId": "032-0590",
+  "questionNumber": "032-0590",
   "stemHtml": "Refer to figure or CAP file 4.24.<br />\r\nWith regard to the drift down performance of the twin jet aeroplane, why does the curve representing 35 000 kg gross mass in the chart for drift down net profiles start at approximately 4 minutes at FL370?",
   "options": {
     "a": "All the curves start at the same point, which is situated outside the chart.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/68161D60-C245-4AD4-8400-D6AB8F9D1115.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/68161D60-C245-4AD4-8400-D6AB8F9D1115.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69629,
+    "number": "324113"
+  }
 }

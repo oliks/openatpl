@@ -1,7 +1,7 @@
 {
   "number": 224,
-  "questionId": 77915,
-  "questionNumber": "104025",
+  "questionId": "010-0224",
+  "questionNumber": "010-0224",
   "stemHtml": "<p>Select the correct option regarding the shape and location of a clearway.</p>",
   "options": {
     "a": "It is rectangular, found at the end of TORA.",
@@ -10,5 +10,10 @@
     "d": "It is semi-circular, found at the end of the TORA."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77915,
+    "number": "104025"
+  }
 }

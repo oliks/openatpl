@@ -1,7 +1,7 @@
 {
   "number": 1029,
-  "questionId": 95838,
-  "questionNumber": "103624",
+  "questionId": "010-1029",
+  "questionNumber": "010-1029",
   "stemHtml": "<p>The approach lighting system of a runway extends up to 420 m, with a crossbar at 300 m. Which of the following approaches is the pilot able to execute?</p><p>1. LOC <br>2. Cat I <br>3. Cat II</p>",
   "options": {
     "a": "<p>1</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2 and 3</p>\r\n\r\n<p> </p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95838,
+    "number": "103624"
+  }
 }

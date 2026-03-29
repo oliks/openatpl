@@ -1,7 +1,7 @@
 {
   "number": 303,
-  "questionId": 67117,
-  "questionNumber": "102648",
+  "questionId": "010-0303",
+  "questionNumber": "010-0303",
   "stemHtml": "<p>Visual aids for navigation \u2013 Runway End Lights \u2013 The colour of the fixed, unidirectional Runway End Lights shall be\u2026</p>",
   "options": {
     "a": "white.",
@@ -10,5 +10,10 @@
     "d": "red."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67117,
+    "number": "102648"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 617,
-  "questionId": 69337,
-  "questionNumber": "318293",
+  "questionId": "031-0617",
+  "questionNumber": "031-0617",
   "stemHtml": "<p>Refer to figure. <br /> \rDetermine what the CG limits are at the maximum take-off mass.</p>",
   "options": {
     "a": "<p>7.7% and 27.3%.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/8426a970-da4b-426c-9137-2c7b346dcd7a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/8426a970-da4b-426c-9137-2c7b346dcd7a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69337,
+    "number": "318293"
+  }
 }

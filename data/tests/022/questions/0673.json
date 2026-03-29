@@ -1,7 +1,7 @@
 {
   "number": 673,
-  "questionId": 68790,
-  "questionNumber": "223481",
+  "questionId": "022-0673",
+  "questionNumber": "022-0673",
   "stemHtml": "A pressure is defined as a:",
   "options": {
     "a": "force per unit area.",
@@ -10,5 +10,10 @@
     "d": "force per unit volume."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68790,
+    "number": "223481"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1282,
-  "questionId": 106698,
-  "questionNumber": "229747",
+  "questionId": "022-1282",
+  "questionNumber": "022-1282",
   "stemHtml": "<p>During an acceleration in level flight, what would be the indicated effects on an artificial horizon?</p>",
   "options": {
     "a": "<p>Climb, left bank.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Descent, left bank.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106698,
+    "number": "229747"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1338,
-  "questionId": 84500,
-  "questionNumber": "225695",
+  "questionId": "022-1338",
+  "questionNumber": "022-1338",
   "stemHtml": "<p>The navigation database of an FMS is stored as read-only and the pilot\u2026</p>",
   "options": {
     "a": "Can only read the navigation data for 28 days. Afterwards, the memory is erased automatically.",
@@ -10,5 +10,10 @@
     "d": "Can NOT change or overwrite any of the navigation data."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84500,
+    "number": "225695"
+  }
 }

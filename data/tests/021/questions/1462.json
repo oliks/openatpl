@@ -1,7 +1,7 @@
 {
   "number": 1462,
-  "questionId": 79409,
-  "questionNumber": "213331",
+  "questionId": "021-1462",
+  "questionNumber": "021-1462",
   "stemHtml": "<p>You were flying an Airbus A320 when the aircraft changed into Alternate Law. What feature is lost?</p>",
   "options": {
     "a": "Automatic pitch protection.",
@@ -10,5 +10,10 @@
     "d": "Overspeed protection."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79409,
+    "number": "213331"
+  }
 }

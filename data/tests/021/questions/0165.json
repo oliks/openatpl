@@ -1,7 +1,7 @@
 {
   "number": 165,
-  "questionId": 78754,
-  "questionNumber": "218322",
+  "questionId": "021-0165",
+  "questionNumber": "021-0165",
   "stemHtml": "<p>In order that DC generators will achieve equal load sharing when operating in parallel, it is necessary to ensure that\u2026</p>",
   "options": {
     "a": "equal loads are connected to each generator busbar before paralleling.",
@@ -10,5 +10,10 @@
     "d": "the synchronising bus-bar is disconnected from the busbar system."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78754,
+    "number": "218322"
+  }
 }

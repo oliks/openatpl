@@ -1,7 +1,7 @@
 {
   "number": 300,
-  "questionId": 153737,
-  "questionNumber": "212974",
+  "questionId": "021-0300",
+  "questionNumber": "021-0300",
   "stemHtml": "<p>Which of the following correctly describes unusable fuel?</p>",
   "options": {
     "a": "<p>Fuel which is only able to be used on the ground.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The amount of fuel not available for use but still included on the fuel contents gauge.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153737,
+    "number": "212974"
+  }
 }

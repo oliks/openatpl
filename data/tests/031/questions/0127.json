@@ -1,7 +1,7 @@
 {
   "number": 127,
-  "questionId": 82351,
-  "questionNumber": "316957",
+  "questionId": "031-0127",
+  "questionNumber": "031-0127",
   "stemHtml": "<p>An aircraft should have been loaded so as to give a TOM of 57 600 kg and a CG located 646 inches aft of datum (CG limits are from 640 inches to 661 inches aft of datum). However, the ground crew incorrectly loaded 900 kg of baggage into the rear cargo hold instead of the front.</p><p>If the distance between the front cargo hold and the rear cargo hold is 517 inches, is the new CG still within limits?</p>",
   "options": {
     "a": "Yes, it is within limits.",
@@ -10,5 +10,10 @@
     "d": "Yes, it has moved forward and is within limits."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82351,
+    "number": "316957"
+  }
 }

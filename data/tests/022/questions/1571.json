@@ -1,7 +1,7 @@
 {
   "number": 1571,
-  "questionId": 96282,
-  "questionNumber": "228593",
+  "questionId": "022-1571",
+  "questionNumber": "022-1571",
   "stemHtml": "<p>During a CAT III approach with NO decision height, you have passed the Alert Height, at this point there is a failure of one autopilot. All systems are working normally. As Co-Pilot and Pilot Monitoring (PM), you should\u2026</p>",
   "options": {
     "a": "<p>Inform the captain with a call like \u201cautopilot failure\u201d.</p>",
@@ -10,5 +10,10 @@
     "d": "Wait for the Commander to decide whether to continue or Go-Around."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96282,
+    "number": "228593"
+  }
 }

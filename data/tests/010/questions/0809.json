@@ -1,7 +1,7 @@
 {
   "number": 809,
-  "questionId": 83041,
-  "questionNumber": "104789",
+  "questionId": "010-0809",
+  "questionNumber": "010-0809",
   "stemHtml": "<p>Refer to figure. <br /> Which of the following runway layout descriptions in the annex is correct?</p>",
   "options": {
     "a": "<p>Non-compliant layout</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/53ED3983-91E3-4E18-A304-B207C628EB6A.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/53ED3983-91E3-4E18-A304-B207C628EB6A.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83041,
+    "number": "104789"
+  }
 }

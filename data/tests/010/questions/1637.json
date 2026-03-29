@@ -1,7 +1,7 @@
 {
   "number": 1637,
-  "questionId": 80873,
-  "questionNumber": "107839",
+  "questionId": "010-1637",
+  "questionNumber": "010-1637",
   "stemHtml": "<p>A/an _____ is defined as an area of specified dimensions enclosing a runway or taxiway to provide for the safety of aircraft operations.</p>",
   "options": {
     "a": "<p>Strip</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Obstacle free zone</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80873,
+    "number": "107839"
+  }
 }

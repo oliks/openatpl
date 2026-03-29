@@ -1,7 +1,7 @@
 {
   "number": 407,
-  "questionId": 75136,
-  "questionNumber": "321197",
+  "questionId": "032-0407",
+  "questionNumber": "032-0407",
   "stemHtml": "<p>In the OPS regulations, a runway is considered wet when:</p><p>1. it is covered with a quantity of water or loose or slushy snow less than or equal to the equivalent of 3 mm of water<br>2. the amount of surface moisture is sufficient to modify its colour but does not give it a shiny appearance<br>3. the amount of surface moisture is sufficient to make it reflective, but does not create large stagnant sheets of water<br>4. it bears stagnant sheets of water</p><p>The combination regrouping all the correct statements is\u2026</p>",
   "options": {
     "a": "4",
@@ -10,5 +10,10 @@
     "d": "1, 3"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 75136,
+    "number": "321197"
+  }
 }

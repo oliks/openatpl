@@ -1,7 +1,7 @@
 {
   "number": 291,
-  "questionId": 67352,
-  "questionNumber": "211678",
+  "questionId": "021-0291",
+  "questionNumber": "021-0291",
   "stemHtml": "The effect of ram air on the operation of a gas turbine engine is:",
   "options": {
     "a": "a lower efficiency of the engine with an increase in aeroplane speed.",
@@ -10,5 +10,10 @@
     "d": "an increase in the engine rpm for take-off."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67352,
+    "number": "211678"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 917,
-  "questionId": 154475,
-  "questionNumber": "108610",
+  "questionId": "010-0917",
+  "questionNumber": "010-0917",
   "stemHtml": "<p>When an aircraft is subjected to unlawful interference, what should the ATC do?</p>",
   "options": {
     "a": "<p>Allow the aircraft to land as soon as possible.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Put the aircraft in a holding pattern.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 154475,
+    "number": "108610"
+  }
 }

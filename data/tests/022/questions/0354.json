@@ -1,7 +1,7 @@
 {
   "number": 354,
-  "questionId": 68925,
-  "questionNumber": "228349",
+  "questionId": "022-0354",
+  "questionNumber": "022-0354",
   "stemHtml": "<p>Parameters recorded by a Flight Data Recorder include\u2026</p>",
   "options": {
     "a": "attitude, heading, and thrust/power on each engine.",
@@ -10,5 +10,10 @@
     "d": "time or relative time count, aural cockpit warnings, and airspeed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68925,
+    "number": "228349"
+  }
 }

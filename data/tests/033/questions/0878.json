@@ -1,7 +1,7 @@
 {
   "number": 878,
-  "questionId": 70944,
-  "questionNumber": "335405",
+  "questionId": "033-0878",
+  "questionNumber": "033-0878",
   "stemHtml": "<p>Refer to figures or ALICANTE - Charts 10-2A, 10-2B, 10-2C, 10-2D from Jeppesen GSPRM 2017.\u00a0<br>You are preparing for a fight from MANCHESTER to ALICANTE, along the route:</p><p>EGCC/23R SANBA1R SANBA N859 HON UN859 BALAN UL152 MAKOX UN860 VLC LEAL/10.</p><p>Which of the following charts will you consider when choosing an arrival route to decide which STAR to load into your FMS route?</p>",
   "options": {
     "a": "10-2C",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/AC2AC574-93A6-44DD-A4C4-CDE30622CAC9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/AC2AC574-93A6-44DD-A4C4-CDE30622CAC9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70944,
+    "number": "335405"
+  }
 }

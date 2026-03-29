@@ -1,7 +1,7 @@
 {
   "number": 977,
-  "questionId": 84717,
-  "questionNumber": "224908",
+  "questionId": "022-0977",
+  "questionNumber": "022-0977",
   "stemHtml": "<p>With respect to aural alerts, what is correct regarding the alert when approaching an impending stall?     </p>",
   "options": {
     "a": "The sound is the same but quieter than the master alert, since it has less priority than other alerts.",
@@ -10,5 +10,10 @@
     "d": "The sound is the same as the master alert."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84717,
+    "number": "224908"
+  }
 }

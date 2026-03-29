@@ -1,7 +1,7 @@
 {
   "number": 1245,
-  "questionId": 81748,
-  "questionNumber": "332866",
+  "questionId": "033-1245",
+  "questionNumber": "033-1245",
   "stemHtml": "<p>The MSA is 2500 ft and the ATC instructs the pilot to turn to heading 180\u00b0 and descend to 2300 ft to be vectored for the ILS. What does the pilot have to do?</p>",
   "options": {
     "a": "Maintain current heading and call ATC because 2300 ft is below MSA.",
@@ -10,5 +10,10 @@
     "d": "<p>Turn to heading 180\u00b0, descend to 2500 ft and call ATC because 2300 ft is below MSA.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81748,
+    "number": "332866"
+  }
 }

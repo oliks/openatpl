@@ -1,7 +1,7 @@
 {
   "number": 115,
-  "questionId": 77924,
-  "questionNumber": "106802",
+  "questionId": "010-0115",
+  "questionNumber": "010-0115",
   "stemHtml": "When should the ATIS be updated when suddenly thunderstorms are expected at an airport?",
   "options": {
     "a": "Immediately.",
@@ -10,5 +10,10 @@
     "d": "Within 30 minutes from the last update."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77924,
+    "number": "106802"
+  }
 }

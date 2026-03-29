@@ -1,7 +1,7 @@
 {
   "number": 1033,
-  "questionId": 81383,
-  "questionNumber": "227695",
+  "questionId": "022-1033",
+  "questionNumber": "022-1033",
   "stemHtml": "<p dir=\"ltr\">A Flight Mode Annunciator (FMA) is normally shown on each pilot\u2019s Primary Flight Display (PFD). Which of the following is correct?</p>",
   "options": {
     "a": "<p dir=\"ltr\">It is used to verify vertical flight director modes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">It annunciates autothrust ratings.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81383,
+    "number": "227695"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1282,
-  "questionId": 66805,
-  "questionNumber": "101126",
+  "questionId": "010-1282",
+  "questionNumber": "010-1282",
   "stemHtml": "The vertical separation minimum between opposite direction aircraft flying under IFR below flight level 290 is...",
   "options": {
     "a": "2000 feet (600 m).",
@@ -10,5 +10,10 @@
     "d": "1500 feet (450 m)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66805,
+    "number": "101126"
+  }
 }

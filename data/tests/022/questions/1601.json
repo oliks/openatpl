@@ -1,7 +1,7 @@
 {
   "number": 1601,
-  "questionId": 79435,
-  "questionNumber": "224044",
+  "questionId": "022-1601",
+  "questionNumber": "022-1601",
   "stemHtml": "Which statement is true about the IVSI?",
   "options": {
     "a": "The use of the IVSI reduces turning errors.",
@@ -10,5 +10,10 @@
     "d": "The IVSI can give erroneous readings while initiating or ending turns at bank angles of more than around 40\u00b0."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79435,
+    "number": "224044"
+  }
 }

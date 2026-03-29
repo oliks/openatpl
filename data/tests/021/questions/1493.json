@@ -1,7 +1,7 @@
 {
   "number": 1493,
-  "questionId": 67309,
-  "questionNumber": "217570",
+  "questionId": "021-1493",
+  "questionNumber": "021-1493",
   "stemHtml": "<p>When a gas turbine engine is fitted with can-type combustion chambers\u2026</p>",
   "options": {
     "a": "<p>each chamber is fitted with one igniter and one glow plug.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>each chamber has its own igniter.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67309,
+    "number": "217570"
+  }
 }

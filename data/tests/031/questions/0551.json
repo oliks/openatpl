@@ -1,7 +1,7 @@
 {
   "number": 551,
-  "questionId": 102545,
-  "questionNumber": "317493",
+  "questionId": "031-0551",
+  "questionNumber": "031-0551",
   "stemHtml": "<p>An aircraft has a total mass of 1 508 kg with a CG of 3.68 m aft of the datum line. Before departure, the ground crew discovers that they overlooked loading some additional cargo onto the aircraft, at 4.82 m aft of datum. To ensure the aircraft stays within the aft CG limit of 3.79 m, what is the maximum weight, in kilograms, of extra cargo that can be safely loaded?</p>",
   "options": {
     "a": "<p>161 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>82 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102545,
+    "number": "317493"
+  }
 }

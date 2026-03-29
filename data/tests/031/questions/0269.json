@@ -1,7 +1,7 @@
 {
   "number": 269,
-  "questionId": 80287,
-  "questionNumber": "313213",
+  "questionId": "031-0269",
+  "questionNumber": "031-0269",
   "stemHtml": "<p>Select 3 factors which affect the STAB TRIM for take-off:</p>\r\n",
   "options": {
     "a": "OAT, TOM, and flap setting.",
@@ -10,5 +10,10 @@
     "d": "OAT, TOM and CG."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80287,
+    "number": "313213"
+  }
 }

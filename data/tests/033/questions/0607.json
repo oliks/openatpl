@@ -1,7 +1,7 @@
 {
   "number": 607,
-  "questionId": 83664,
-  "questionNumber": "332904",
+  "questionId": "033-0607",
+  "questionNumber": "033-0607",
   "stemHtml": "<p>Refer to figure or STUTTGART (EDDS) charts 11-1 and 11-1A from the Jeppesen GSPRM 2017. An aircraft of approach category 'C' and approach capability LNAV/VNAV and CAT IIIB, expects to perform one of the two ILS approach procedures given onto Rwy 07 at Stuttgart airport (EDDS). What is the lowest RVR or minimum meteorological visibility required to commence any of the two approaches given?</p>",
   "options": {
     "a": "A meteorological visibility of 550 m",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/853BF2AD-BA44-4718-9F26-5453173D23AD.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/853BF2AD-BA44-4718-9F26-5453173D23AD.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83664,
+    "number": "332904"
+  }
 }

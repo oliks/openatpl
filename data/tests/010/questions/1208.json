@@ -1,7 +1,7 @@
 {
   "number": 1208,
-  "questionId": 106616,
-  "questionNumber": "102410",
+  "questionId": "010-1208",
+  "questionNumber": "010-1208",
   "stemHtml": "<p>What is the distance from the runway threshold that a CAT II/III approach lighting system extends?</p>",
   "options": {
     "a": "<p>900 m</p>",
@@ -10,5 +10,10 @@
     "d": "<p>300 m</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106616,
+    "number": "102410"
+  }
 }

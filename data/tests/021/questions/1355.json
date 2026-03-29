@@ -1,7 +1,7 @@
 {
   "number": 1355,
-  "questionId": 163121,
-  "questionNumber": "219020",
+  "questionId": "021-1355",
+  "questionNumber": "021-1355",
   "stemHtml": "<p>Refer to figure.<br>Based on the attached photo, which aircraft component is shown?</p>",
   "options": {
     "a": "<p>Static wick</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/2faa21d1-2ab8-485b-8409-d4bb452926c9.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/2faa21d1-2ab8-485b-8409-d4bb452926c9.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163121,
+    "number": "219020"
+  }
 }

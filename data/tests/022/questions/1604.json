@@ -1,7 +1,7 @@
 {
   "number": 1604,
-  "questionId": 68650,
-  "questionNumber": "228328",
+  "questionId": "022-1604",
+  "questionNumber": "022-1604",
   "stemHtml": "<p>With EAS and air density, the following can be determined\u2026</p>",
   "options": {
     "a": "TAS.",
@@ -10,5 +10,10 @@
     "d": "CAS."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68650,
+    "number": "228328"
+  }
 }

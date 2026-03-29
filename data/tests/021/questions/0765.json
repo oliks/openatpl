@@ -1,7 +1,7 @@
 {
   "number": 765,
-  "questionId": 67479,
-  "questionNumber": "214819",
+  "questionId": "021-0765",
+  "questionNumber": "021-0765",
   "stemHtml": "<p>The failure of an anti-skid system\u2026</p>",
   "options": {
     "a": "does not increase the braking distance during a rejected take-off, provided the pilot applies maximum braking.",
@@ -10,5 +10,10 @@
     "d": "always increases the minimum braking distance irrespective of runway condition."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67479,
+    "number": "214819"
+  }
 }

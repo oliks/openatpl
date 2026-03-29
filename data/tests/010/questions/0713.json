@@ -1,7 +1,7 @@
 {
   "number": 713,
-  "questionId": 80257,
-  "questionNumber": "108764",
+  "questionId": "010-0713",
+  "questionNumber": "010-0713",
   "stemHtml": "<p>If the average True Airspeed (TAS) at cruising level between reporting points varies by _____ from that given in the flight plan, the appropriate Air Traffic Services unit shall be so informed.</p>",
   "options": {
     "a": "<p>Plus or minus 5% of the TAS, deviation in time by more than 2 min.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>At least 5 kt.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80257,
+    "number": "108764"
+  }
 }

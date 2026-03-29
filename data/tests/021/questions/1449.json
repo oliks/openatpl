@@ -1,7 +1,7 @@
 {
   "number": 1449,
-  "questionId": 67658,
-  "questionNumber": "216900",
+  "questionId": "021-1449",
+  "questionNumber": "021-1449",
   "stemHtml": "<p>A magnetic circuit-breaker\u2026</p>",
   "options": {
     "a": "permits an overcurrent limited in time.",
@@ -10,5 +10,10 @@
     "d": "is a protection system with a slow trip response time."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67658,
+    "number": "216900"
+  }
 }

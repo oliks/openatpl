@@ -1,7 +1,7 @@
 {
   "number": 178,
-  "questionId": 83409,
-  "questionNumber": "328076",
+  "questionId": "032-0178",
+  "questionNumber": "032-0178",
   "stemHtml": "<p>Which statement below describes a situation where the obstacle-limited take off mass is more restrictive than the climb-limited take off mass?</p>",
   "options": {
     "a": "There are obstacles close to the end of the runway requiring use of more flaps to reduce the take off distance.",
@@ -10,5 +10,10 @@
     "d": "The climb gradient to clear obstacles by the required margin is greater than the minimum take off climb gradient."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83409,
+    "number": "328076"
+  }
 }

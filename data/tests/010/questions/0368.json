@@ -1,7 +1,7 @@
 {
   "number": 368,
-  "questionId": 80245,
-  "questionNumber": "109697",
+  "questionId": "010-0368",
+  "questionNumber": "010-0368",
   "stemHtml": "The French Safety Board (BEA) published a preliminary report of a serious incident involving an Airbus A330 being operated as a commercial air transport flight at Sydney, Australia. The Report states: \"During take-off, a section of engine cowling from the NO. 1 engine separated from the aircraft. The crew conducted a fuel dump and returned the aircraft to Sydney.\" The incident did NOT involve an engine fire. What is the most appropriate explanation for why the crew dumped fuel after take-off?\u200b",
   "options": {
     "a": "They made a mistake: According to normal procedures, the aircraft should have landed with all the remaining usable fuel.",
@@ -10,5 +10,10 @@
     "d": "After take-off, it is a normal procedure to dump some fuel in order to reduce pollution."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80245,
+    "number": "109697"
+  }
 }

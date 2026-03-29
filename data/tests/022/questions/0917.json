@@ -1,7 +1,7 @@
 {
   "number": 917,
-  "questionId": 109067,
-  "questionNumber": "222366",
+  "questionId": "022-0917",
+  "questionNumber": "022-0917",
   "stemHtml": "<p>Where does the information provided to the selsyn in a remote indicating compass come from?</p>",
   "options": {
     "a": "<p>A magnetic heading is provided by the flux valve, and information is obtained from the direct reading compass.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Electro Magnetic Field (EMF) from the flux valve and the directional gyroscope.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109067,
+    "number": "222366"
+  }
 }

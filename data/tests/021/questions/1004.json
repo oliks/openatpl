@@ -1,7 +1,7 @@
 {
   "number": 1004,
-  "questionId": 84559,
-  "questionNumber": "212484",
+  "questionId": "021-1004",
+  "questionNumber": "021-1004",
   "stemHtml": "<p>Which statement is correct with regards to ice accretion in piston engine induction systems?</p>",
   "options": {
     "a": "<p>Induction system icing affects only engines equipped with carburettors.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Ice accretion affects both fuel injection systems and engines equipped with carburettors.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84559,
+    "number": "212484"
+  }
 }

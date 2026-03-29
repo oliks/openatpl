@@ -1,7 +1,7 @@
 {
   "number": 292,
-  "questionId": 102771,
-  "questionNumber": "215506",
+  "questionId": "021-0292",
+  "questionNumber": "021-0292",
   "stemHtml": "<p>Fuel quantity can be measured by:</p><p>1. Measuring volume by varying a resistance by a float <br>2. Measuring mass or weight by varying capacitance</p>",
   "options": {
     "a": "<p>1) is incorrect, 2) is correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1) is incorrect, 2) is incorrect.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102771,
+    "number": "215506"
+  }
 }

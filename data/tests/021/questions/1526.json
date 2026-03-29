@@ -1,7 +1,7 @@
 {
   "number": 1526,
-  "questionId": 67337,
-  "questionNumber": "213778",
+  "questionId": "021-1526",
+  "questionNumber": "021-1526",
   "stemHtml": "<p>In a gas turbine engine, compressor surge during engine acceleration is prevented by\u2026</p>",
   "options": {
     "a": "variable setting type nozzle guide vanes.",
@@ -10,5 +10,10 @@
     "d": "anti-ice bleed valves."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67337,
+    "number": "213778"
+  }
 }

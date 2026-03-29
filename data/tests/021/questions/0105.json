@@ -1,7 +1,7 @@
 {
   "number": 105,
-  "questionId": 78301,
-  "questionNumber": "215816",
+  "questionId": "021-0105",
+  "questionNumber": "021-0105",
   "stemHtml": "<p>A significant increase in battery temperature during charge is an indication of\u2026</p>",
   "options": {
     "a": "Voltage regulator failure.",
@@ -10,5 +10,10 @@
     "d": "Alternator failure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78301,
+    "number": "215816"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1120,
-  "questionId": 68702,
-  "questionNumber": "224256",
+  "questionId": "022-1120",
+  "questionNumber": "022-1120",
   "stemHtml": "In an inertial navigation system, to know the distance travelled:",
   "options": {
     "a": "integrating once the speed with respect to time is sufficient.",
@@ -10,5 +10,10 @@
     "d": "It is necessary to integrate once the speed in time, and to know the initial position only."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68702,
+    "number": "224256"
+  }
 }

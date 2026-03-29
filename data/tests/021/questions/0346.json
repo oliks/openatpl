@@ -1,7 +1,7 @@
 {
   "number": 346,
-  "questionId": 67424,
-  "questionNumber": "217076",
+  "questionId": "021-0346",
+  "questionNumber": "021-0346",
   "stemHtml": "<p>In a theoretical gas turbine cycle, combustion takes place at constant\u2026</p>",
   "options": {
     "a": "volume",
@@ -10,5 +10,10 @@
     "d": "pressure"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67424,
+    "number": "217076"
+  }
 }

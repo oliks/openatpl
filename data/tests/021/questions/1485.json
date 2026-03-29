@@ -1,7 +1,7 @@
 {
   "number": 1485,
-  "questionId": 159431,
-  "questionNumber": "213845",
+  "questionId": "021-1485",
+  "questionNumber": "021-1485",
   "stemHtml": "<p>During the climb, a piston-engine aircraft is operated with a high power setting and a fuel\u2013air mixture ratio of 19:1. Compared with operating at a 12:1 mixture, how is the risk of detonation affected?</p>",
   "options": {
     "a": "<p>Higher, because of a leaner mixture. <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Lower, because of a richer mixture.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159431,
+    "number": "213845"
+  }
 }

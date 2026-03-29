@@ -1,7 +1,7 @@
 {
   "number": 149,
-  "questionId": 164539,
-  "questionNumber": "107181",
+  "questionId": "010-0149",
+  "questionNumber": "010-0149",
   "stemHtml": "<p>You are a pilot. Where is the runway holding position sign located in taxiway and how is it oriented?</p>",
   "options": {
     "a": "<p>On the left, facing towards you.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>On each side, facing opposite to you.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164539,
+    "number": "107181"
+  }
 }

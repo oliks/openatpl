@@ -1,7 +1,7 @@
 {
   "number": 1269,
-  "questionId": 108149,
-  "questionNumber": "219387",
+  "questionId": "021-1269",
+  "questionNumber": "021-1269",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich logic gate is shown in Figure 3?</p>",
   "options": {
     "a": "<p>NAND</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/9009fb1a-1ad9-4800-a4a5-2387c4ea7de6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/9009fb1a-1ad9-4800-a4a5-2387c4ea7de6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108149,
+    "number": "219387"
+  }
 }

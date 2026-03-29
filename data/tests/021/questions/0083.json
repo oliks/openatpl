@@ -1,7 +1,7 @@
 {
   "number": 83,
-  "questionId": 103493,
-  "questionNumber": "212017",
+  "questionId": "021-0083",
+  "questionNumber": "021-0083",
   "stemHtml": "<p>Which material(s) is/are the brake discs usually made from?</p><ol><li>Steel</li><li>Iron</li><li>Aluminum</li><li>Carbon</li></ol>",
   "options": {
     "a": "<p>1 ; 3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 ; 4</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103493,
+    "number": "212017"
+  }
 }

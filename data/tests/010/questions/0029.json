@@ -1,7 +1,7 @@
 {
   "number": 29,
-  "questionId": 79324,
-  "questionNumber": "106718",
+  "questionId": "010-0029",
+  "questionNumber": "010-0029",
   "stemHtml": "<p>The abbreviation \"AFS\" stands for\u2026</p>",
   "options": {
     "a": "Aeronautical Fixed Service.",
@@ -10,5 +10,10 @@
     "d": "Aeronautical Forecast Service."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79324,
+    "number": "106718"
+  }
 }

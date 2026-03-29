@@ -1,7 +1,7 @@
 {
   "number": 1343,
-  "questionId": 69958,
-  "questionNumber": "324448",
+  "questionId": "032-1343",
+  "questionNumber": "032-1343",
   "stemHtml": "For an Aeroplane Category B, at maximum landing mass, the structure of the aircraft is designed for a rate of descent of:",
   "options": {
     "a": "600 ft/min.",
@@ -10,5 +10,10 @@
     "d": "200 ft/min."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69958,
+    "number": "324448"
+  }
 }

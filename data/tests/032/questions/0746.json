@@ -1,7 +1,7 @@
 {
   "number": 746,
-  "questionId": 82058,
-  "questionNumber": "329540",
+  "questionId": "032-0746",
+  "questionNumber": "032-0746",
   "stemHtml": "What speed will be limiting with a descent at constant mach?",
   "options": {
     "a": "M<sub><span style=\"font-size:10.5px\">MO</span></sub>",
@@ -10,5 +10,10 @@
     "d": "V<sub>NE</sub>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82058,
+    "number": "329540"
+  }
 }

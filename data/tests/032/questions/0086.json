@@ -1,7 +1,7 @@
 {
   "number": 86,
-  "questionId": 83426,
-  "questionNumber": "321733",
+  "questionId": "032-0086",
+  "questionNumber": "032-0086",
   "stemHtml": "<p>Refer to figure or CAP 698 file 4.23.<br>Given the information provided below, the pilot of a jet-engine aircraft must determine which of following en-route alternate airports are the most appropriate diversion airports in case of an engine failure during the cruise phase.</p><p>Temperature: ISA +10\u00b0C or below<br>ANTI-ICE: ENG ANTI-ICE ON<br>Aircraft cruise mass: 43 000 kg<br>Required airport clearance for:</p><p>Airport 1: 21 000 ft<br>Airport 2: 23 000 ft<br>Airport 3: 24 500 ft<br>Airport 4: 19 500 ft</p>",
   "options": {
     "a": "1 and 4",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/B5248B9D-8C3E-49C5-9045-45C76A42CF92.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/B5248B9D-8C3E-49C5-9045-45C76A42CF92.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83426,
+    "number": "321733"
+  }
 }

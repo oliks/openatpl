@@ -1,7 +1,7 @@
 {
   "number": 664,
-  "questionId": 106009,
-  "questionNumber": "105927",
+  "questionId": "010-0664",
+  "questionNumber": "010-0664",
   "stemHtml": "<p>According to SERA regulations, departing from the rules is allowed in the interests of...</p>",
   "options": {
     "a": "<p>money.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>safety.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106009,
+    "number": "105927"
+  }
 }

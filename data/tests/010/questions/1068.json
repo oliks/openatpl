@@ -1,7 +1,7 @@
 {
   "number": 1068,
-  "questionId": 113771,
-  "questionNumber": "108892",
+  "questionId": "010-1068",
+  "questionNumber": "010-1068",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat could be the missing part of this sign on a runway holding position for runway 20? <br /> \r </p>",
   "options": {
     "a": "<p>A sign with the designator '20'.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/82a11e2f-9953-4559-84fd-2df2bb514bc4.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/82a11e2f-9953-4559-84fd-2df2bb514bc4.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 113771,
+    "number": "108892"
+  }
 }

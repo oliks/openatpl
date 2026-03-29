@@ -1,7 +1,7 @@
 {
   "number": 1567,
-  "questionId": 80182,
-  "questionNumber": "225129",
+  "questionId": "022-1567",
+  "questionNumber": "022-1567",
   "stemHtml": "<p>What does the FMS overfly function consist of?</p>",
   "options": {
     "a": "Manually selecting a flight plan waypoint to fly over when sequencing it instead of flying by at the transition.",
@@ -10,5 +10,10 @@
     "d": "Selecting the secondary flight plan making it active to fly over the legs."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80182,
+    "number": "225129"
+  }
 }

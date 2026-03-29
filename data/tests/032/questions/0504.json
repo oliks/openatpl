@@ -1,7 +1,7 @@
 {
   "number": 504,
-  "questionId": 80370,
-  "questionNumber": "329931",
+  "questionId": "032-0504",
+  "questionNumber": "032-0504",
   "stemHtml": "What does the aircraft manual \u201ccorrected\u201d performance factor as entered into the FMS depend on?",
   "options": {
     "a": "The sector distance and optimum altitude.",
@@ -10,5 +10,10 @@
     "d": "The aircraft weight."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80370,
+    "number": "329931"
+  }
 }

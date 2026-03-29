@@ -1,7 +1,7 @@
 {
   "number": 168,
-  "questionId": 68301,
-  "questionNumber": "213567",
+  "questionId": "021-0168",
+  "questionNumber": "021-0168",
   "stemHtml": "<p>The chemical oxygen generator supplies oxygen for about\u2026</p>",
   "options": {
     "a": "2 hours.",
@@ -10,5 +10,10 @@
     "d": "5 minutes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68301,
+    "number": "213567"
+  }
 }

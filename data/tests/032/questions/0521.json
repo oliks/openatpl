@@ -1,7 +1,7 @@
 {
   "number": 521,
-  "questionId": 159874,
-  "questionNumber": "328501",
+  "questionId": "032-0521",
+  "questionNumber": "032-0521",
   "stemHtml": "<p>Refer to figure or CAP 698 figure 3.2. <br /> Given the following data for a multi-engined piston aeroplane, what is the Accelerate-Stop Distance?</p><p>Outside Air Temperature: +26\u00b0C <br /> Pressure Altitude: 2000 ft <br /> Take-Off Mass: 4250 lb <br /> Wind: 5 kt headwind</p>",
   "options": {
     "a": "<p>4000 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/17515948-6bcc-4370-b8b2-d6ed1fbda8b2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/17515948-6bcc-4370-b8b2-d6ed1fbda8b2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159874,
+    "number": "328501"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 392,
-  "questionId": 102316,
-  "questionNumber": "105910",
+  "questionId": "010-0392",
+  "questionNumber": "010-0392",
   "stemHtml": "<p>Which of the following should be filled in the general declaration form?</p>",
   "options": {
     "a": "<p>the nature of goods embarked on the aircraft (e.g. dangerous goods).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a complete description of payload (passengers, cargo, mail).</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102316,
+    "number": "105910"
+  }
 }

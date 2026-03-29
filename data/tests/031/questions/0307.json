@@ -1,7 +1,7 @@
 {
   "number": 307,
-  "questionId": 103333,
-  "questionNumber": "314636",
+  "questionId": "031-0307",
+  "questionNumber": "031-0307",
   "stemHtml": "<p>Given the following information, determine the take-off fuel mass CG...</p><p>Basic Empty Mass: 2635 lb and its associated moment: 204 379.5 in.lb  <br /> Forward seat passenger: 93 lb and the balance arm: 79 in  <br /> Aft seat passenger : 180 lb and the balance arm: 119 in  <br /> Block fuel : 830 lb  <br /> Taxi fuel: 230 lb  <br /> Fuel tank balance arm: 86 in</p>",
   "options": {
     "a": "<p>81.17 in</p>",
@@ -10,5 +10,10 @@
     "d": "<p>81.47 in</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103333,
+    "number": "314636"
+  }
 }

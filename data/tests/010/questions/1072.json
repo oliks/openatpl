@@ -1,7 +1,7 @@
 {
   "number": 1072,
-  "questionId": 108051,
-  "questionNumber": "103050",
+  "questionId": "010-1072",
+  "questionNumber": "010-1072",
   "stemHtml": "<p>Refer to figure. <br>An aircraft is executing the ILSz approach on Runway 03. What is the minimum height at which a missed approach must be initiated if the required visual reference to continue the approach has not been established?</p>",
   "options": {
     "a": "<p>200 ft DH.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/bcab662c-8407-44d0-a720-8ffe56363132.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/bcab662c-8407-44d0-a720-8ffe56363132.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108051,
+    "number": "103050"
+  }
 }

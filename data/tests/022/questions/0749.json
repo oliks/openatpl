@@ -1,7 +1,7 @@
 {
   "number": 749,
-  "questionId": 69035,
-  "questionNumber": "228075",
+  "questionId": "022-0749",
+  "questionNumber": "022-0749",
   "stemHtml": "<p>An aneroid capsule:</p><p>1 \u2013 measures differential pressure <br>2 \u2013 measures absolute pressure <br>3 \u2013 is used for low pressure measurement <br>4 \u2013 is used for very high pressure measurement</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2, 3.",
@@ -10,5 +10,10 @@
     "d": "2, 4."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69035,
+    "number": "228075"
+  }
 }

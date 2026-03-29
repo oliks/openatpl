@@ -1,7 +1,7 @@
 {
   "number": 124,
-  "questionId": 78629,
-  "questionNumber": "105058",
+  "questionId": "010-0124",
+  "questionNumber": "010-0124",
   "stemHtml": "What does the term \"DANGER AREA\" describe?",
   "options": {
     "a": "An airspace of defined dimensions, above the land areas or territorial waters of a State, within which the flight of aircraft is restricted.",
@@ -10,5 +10,10 @@
     "d": "An airspace of defined dimensions within which air traffic control service is provided to IFR flights and to VFR flights in accordance with the airspace classification."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78629,
+    "number": "105058"
+  }
 }

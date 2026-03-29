@@ -1,7 +1,7 @@
 {
   "number": 1311,
-  "questionId": 68609,
-  "questionNumber": "226600",
+  "questionId": "022-1311",
+  "questionNumber": "022-1311",
   "stemHtml": "If crew awareness is required and subsequent crew action may be required, the flight warning system (FWS) generates:",
   "options": {
     "a": "an advisory message.",
@@ -10,5 +10,10 @@
     "d": "a call message."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68609,
+    "number": "226600"
+  }
 }

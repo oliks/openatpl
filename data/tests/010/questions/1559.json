@@ -1,7 +1,7 @@
 {
   "number": 1559,
-  "questionId": 159858,
-  "questionNumber": "108465",
+  "questionId": "010-1559",
+  "questionNumber": "010-1559",
   "stemHtml": "<p>An aircraft is executing an IFR flight in controlled airspace and special restrictions do not apply. What is the appropriate combination of track and cruising level?</p>",
   "options": {
     "a": "<p>Track 000\u00b0; FL150</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Track 180\u00b0; FL150</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159858,
+    "number": "108465"
+  }
 }

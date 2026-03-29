@@ -1,7 +1,7 @@
 {
   "number": 646,
-  "questionId": 68937,
-  "questionNumber": "222049",
+  "questionId": "022-0646",
+  "questionNumber": "022-0646",
   "stemHtml": "<p>Selection of the lateral NAV button allows the autoflight system to navigate along a selected</p>",
   "options": {
     "a": "<p>DME arc.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>VOR radial.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68937,
+    "number": "222049"
+  }
 }

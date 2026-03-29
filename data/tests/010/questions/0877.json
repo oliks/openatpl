@@ -1,7 +1,7 @@
 {
   "number": 877,
-  "questionId": 67213,
-  "questionNumber": "104374",
+  "questionId": "010-0877",
+  "questionNumber": "010-0877",
   "stemHtml": "In which of the following cases will ASDA, LDA, TODA and TORA have the same length?",
   "options": {
     "a": "Stopway and clearway are equal but no displaced threshold.",
@@ -10,5 +10,10 @@
     "d": "No stopway but a clearway and a displaced threshold are available."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67213,
+    "number": "104374"
+  }
 }

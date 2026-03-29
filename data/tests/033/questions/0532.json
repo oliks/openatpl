@@ -1,7 +1,7 @@
 {
   "number": 532,
-  "questionId": 70463,
-  "questionNumber": "332135",
+  "questionId": "033-0532",
+  "questionNumber": "033-0532",
   "stemHtml": "<p>Which of the following circumstances would be considered suitable for fuel tankering?</p><p>1. The estimated landing mass is equal to the maximum landing mass<br>2. The weather at the destination is below landing minima<br>3. Unable to climb to the Minimum Obstacle Clearance Altitude (MOCA) should an engine fail<br>4. There is no fuel available at the destination aerodrome</p>",
   "options": {
     "a": "1 and 4",
@@ -10,5 +10,10 @@
     "d": "2 and 3"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70463,
+    "number": "332135"
+  }
 }

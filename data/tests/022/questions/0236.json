@@ -1,7 +1,7 @@
 {
   "number": 236,
-  "questionId": 69151,
-  "questionNumber": "222658",
+  "questionId": "022-0236",
+  "questionNumber": "022-0236",
   "stemHtml": "Why is an engine vibration monitoring system installed on jet engines?",
   "options": {
     "a": "It monitors for changes in an engine`s vibration level, to indicate a possible engine failure.",
@@ -10,5 +10,10 @@
     "d": "It monitors the vibration at the engine pylon, to indicate an impending engine separation."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69151,
+    "number": "222658"
+  }
 }

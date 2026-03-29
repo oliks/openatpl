@@ -1,7 +1,7 @@
 {
   "number": 1053,
-  "questionId": 66760,
-  "questionNumber": "109840",
+  "questionId": "010-1053",
+  "questionNumber": "010-1053",
   "stemHtml": "A series of red flashes from aerodrome control directed towards an aircraft in flight means...",
   "options": {
     "a": "continue circling and wait for further instruction.",
@@ -10,5 +10,10 @@
     "d": "give way to an aircraft in an emergency situation."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66760,
+    "number": "109840"
+  }
 }

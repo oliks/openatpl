@@ -1,7 +1,7 @@
 {
   "number": 513,
-  "questionId": 109060,
-  "questionNumber": "323297",
+  "questionId": "032-0513",
+  "questionNumber": "032-0513",
   "stemHtml": "<p>Regarding hydroplaning speeds, the most restrictive speed is related to (1) _____, which is (2) _____.</p>",
   "options": {
     "a": "<p>(1) Non-rotating tyres; 2) Lower</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Rotating tyres; 2) Higher</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109060,
+    "number": "323297"
+  }
 }

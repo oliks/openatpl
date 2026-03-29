@@ -1,7 +1,7 @@
 {
   "number": 1611,
-  "questionId": 68744,
-  "questionNumber": "228682",
+  "questionId": "022-1611",
+  "questionNumber": "022-1611",
   "stemHtml": "<p>When the yaw damper system sends motion orders to the rudder\u2026</p>",
   "options": {
     "a": "a feedback is provided on the roll trim only.",
@@ -10,5 +10,10 @@
     "d": "a feedback is provided on the rudder pedals only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68744,
+    "number": "228682"
+  }
 }

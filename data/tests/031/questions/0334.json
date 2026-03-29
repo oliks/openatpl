@@ -1,7 +1,7 @@
 {
   "number": 334,
-  "questionId": 69358,
-  "questionNumber": "313435",
+  "questionId": "031-0334",
+  "questionNumber": "031-0334",
   "stemHtml": "Refer to figure or CAP696 file 3.5. Extract the forward and aft centre of gravity limit from the given diagram for a mass of 4300 lb.",
   "options": {
     "a": "Forward CG limit 88.0 in. Aft CG limit 94.0 in.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/155053A7-8C14-4AEF-B4A5-F6D0972EEC07.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/155053A7-8C14-4AEF-B4A5-F6D0972EEC07.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69358,
+    "number": "313435"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 287,
-  "questionId": 106056,
-  "questionNumber": "211604",
+  "questionId": "021-0287",
+  "questionNumber": "021-0287",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat does the following symbol in an electronic circuit represent?</p>",
   "options": {
     "a": "<p>An OR gate.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/1ee1e853-8675-49c3-97e2-f45ef3b6fb22.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/1ee1e853-8675-49c3-97e2-f45ef3b6fb22.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106056,
+    "number": "211604"
+  }
 }

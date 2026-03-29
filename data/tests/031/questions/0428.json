@@ -1,7 +1,7 @@
 {
   "number": 428,
-  "questionId": 96292,
-  "questionNumber": "319394",
+  "questionId": "031-0428",
+  "questionNumber": "031-0428",
   "stemHtml": "Refer to figure. <br /> For Mass and Balance and Aerodynamic purposes, a pilot decides to refuell only the inner and outer wing tanks on both sides, while the centre tank remains empty. Provided that the fuel density is 0.8, how much fuel is available?",
   "options": {
     "a": "12 486 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/f59279df-ed44-4577-81db-dcec1a9c6846.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/f59279df-ed44-4577-81db-dcec1a9c6846.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96292,
+    "number": "319394"
+  }
 }

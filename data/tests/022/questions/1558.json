@@ -1,7 +1,7 @@
 {
   "number": 1558,
-  "questionId": 69301,
-  "questionNumber": "227216",
+  "questionId": "022-1558",
+  "questionNumber": "022-1558",
   "stemHtml": "You are flying in the mountains. Which error will occur with your altimeter due to the Venturi effect?",
   "options": {
     "a": "The altimeter overreads. The wider the valley, the greater the error.",
@@ -10,5 +10,10 @@
     "d": "If you are flying with a tailwind, the altimeter underreads; if you are flying with a headwind, it overreads."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69301,
+    "number": "227216"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1656,
-  "questionId": 106575,
-  "questionNumber": "212677",
+  "questionId": "021-1656",
+  "questionNumber": "021-1656",
   "stemHtml": "<p>Which of these is the primary purpose of an aircraft anti-icing system?</p>",
   "options": {
     "a": "<p>To prevent fuel from waxing due to low temperatures.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To remove ice that has already formed on the associated surfaces.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106575,
+    "number": "212677"
+  }
 }

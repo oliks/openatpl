@@ -1,7 +1,7 @@
 {
   "number": 1236,
-  "questionId": 66822,
-  "questionNumber": "106268",
+  "questionId": "010-1236",
+  "questionNumber": "010-1236",
   "stemHtml": "<p>An intercepting aircraft communicates to the intercepted aircraft \"YOU MAY PROCEED\" by\u2026</p>",
   "options": {
     "a": "<p>rocking the wings twice in front of the intercepted aircraft, with a slow level turn (normally to the left) after acknowledgement by the intercepted aircraft .</p>",
@@ -10,5 +10,10 @@
     "d": "<p>rocking the wings and flashing navigational lights at regular intervals.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66822,
+    "number": "106268"
+  }
 }

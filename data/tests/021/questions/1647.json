@@ -1,7 +1,7 @@
 {
   "number": 1647,
-  "questionId": 68222,
-  "questionNumber": "214645",
+  "questionId": "021-1647",
+  "questionNumber": "021-1647",
   "stemHtml": "A red or an amber light on an undercarriage position indicator signifies ..",
   "options": {
     "a": "all wheels are up and locked.",
@@ -10,5 +10,10 @@
     "d": "all wheels are down and locked."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68222,
+    "number": "214645"
+  }
 }

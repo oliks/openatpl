@@ -1,7 +1,7 @@
 {
   "number": 1153,
-  "questionId": 69232,
-  "questionNumber": "222443",
+  "questionId": "022-1153",
+  "questionNumber": "022-1153",
   "stemHtml": "<p>The alternate static source of a light non-pressurized aeroplane is located in the flight deck. When used\u2026<br> </p>",
   "options": {
     "a": "the airspeed indicator tends to under-read.<br>",
@@ -10,5 +10,10 @@
     "d": "it has no influence on airspeed indicator reading.<br>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69232,
+    "number": "222443"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1347,
-  "questionId": 79109,
-  "questionNumber": "321913",
+  "questionId": "032-1347",
+  "questionNumber": "032-1347",
   "stemHtml": "<p>Refer to figures or CAP698 files 4.8 and Density Sub Graph.<br>Find the take-off speeds for a jet. Given:</p><p>MTOM: 59 800 kg<br>TOM: 50 850 kg<br>Pressure Altitude: 1980 ft<br>Temperature: +38\u00b0C<br>Headwind: 10 kt<br>Flaps: 5\u00b0<br>PMC: ON<br>Slope: 0.1% downslope</p>",
   "options": {
     "a": "132, 135, 143.",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/032/73FB6849-70BE-416E-8197-B9CA224B4B81.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/73FB6849-70BE-416E-8197-B9CA224B4B81.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79109,
+    "number": "321913"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 249,
-  "questionId": 68934,
-  "questionNumber": "226563",
+  "questionId": "022-0249",
+  "questionNumber": "022-0249",
   "stemHtml": "Refer to figure. <br /> The diagram representing a left turn with insufficient rudder is:",
   "options": {
     "a": "diagram 4.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/4F85A790-A933-4CB3-AB36-DC4EFCCC5819.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/4F85A790-A933-4CB3-AB36-DC4EFCCC5819.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68934,
+    "number": "226563"
+  }
 }

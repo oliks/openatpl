@@ -1,7 +1,7 @@
 {
   "number": 993,
-  "questionId": 101018,
-  "questionNumber": "226668",
+  "questionId": "022-0993",
+  "questionNumber": "022-0993",
   "stemHtml": "<p>Compared with an aircraft with conventional controls, in an aircraft with Fly-By-Wire...</p>",
   "options": {
     "a": "The pilot is responsible for manually trimming the horizontal stabiliser when the airspeed is within the flying limits, and this does not bring any reduction in pilot workload.",
@@ -10,5 +10,10 @@
     "d": "The auto-trim system will automatically trim the horizontal stabiliser when the airspeed is within the flying limits and the flaps and slats are extended, meaning less workload for the pilot."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101018,
+    "number": "226668"
+  }
 }

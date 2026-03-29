@@ -1,7 +1,7 @@
 {
   "number": 543,
-  "questionId": 108331,
-  "questionNumber": "218770",
+  "questionId": "021-0543",
+  "questionNumber": "021-0543",
   "stemHtml": "<p>What's the advantage of delivering oxygen to passengers using a gaseous oxygen source?</p>",
   "options": {
     "a": "<p>it can be turned off and regulated.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>maintenance of the gaseous oxygen system is easier</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108331,
+    "number": "218770"
+  }
 }

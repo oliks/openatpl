@@ -1,7 +1,7 @@
 {
   "number": 521,
-  "questionId": 78449,
-  "questionNumber": "334656",
+  "questionId": "033-0521",
+  "questionNumber": "033-0521",
   "stemHtml": "<p>Refer to figure.\u00a0<br>During a flight, the actual wind is 20 kt stronger than forecasted, as specified below. Based on the parameters listed and on the attached performance table, what will be the change in air distance per 1000 kg of fuel?</p><p>Weight: 150 000 kg\u00a0<br>TAS: 369 kt\u00a0<br>Forecast wind: 45 kt (HWC)\u00a0<br>Actual wind: 65 kt (HWC)</p>",
   "options": {
     "a": "0 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/941349B4-29DF-4C21-BBDA-28F2ACC27A5E.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/941349B4-29DF-4C21-BBDA-28F2ACC27A5E.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78449,
+    "number": "334656"
+  }
 }

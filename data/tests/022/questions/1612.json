@@ -1,7 +1,7 @@
 {
   "number": 1612,
-  "questionId": 106978,
-  "questionNumber": "221630",
+  "questionId": "022-1612",
+  "questionNumber": "022-1612",
   "stemHtml": "<p>On your altimeter, there is window displaying black and white stripes that can be partially or fully seen. Which statement correctly describes the occasion when you will see the FULL band?</p>",
   "options": {
     "a": "<p>When you fly below an altitude of 10 000 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>When the altimeter is set to the incorrect pressure setting</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106978,
+    "number": "221630"
+  }
 }

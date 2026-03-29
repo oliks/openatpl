@@ -1,7 +1,7 @@
 {
   "number": 1405,
-  "questionId": 67560,
-  "questionNumber": "214417",
+  "questionId": "021-1405",
+  "questionNumber": "021-1405",
   "stemHtml": "<p>Where installed, airborne fluid anti-icing systems are mainly used on\u2026</p>",
   "options": {
     "a": "<p>pitot probes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>engine intakes.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67560,
+    "number": "214417"
+  }
 }

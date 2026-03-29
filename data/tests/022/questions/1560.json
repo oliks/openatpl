@@ -1,7 +1,7 @@
 {
   "number": 1560,
-  "questionId": 110847,
-  "questionNumber": "224579",
+  "questionId": "022-1560",
+  "questionNumber": "022-1560",
   "stemHtml": "<p>Refer to figure.  <br />  \rOn a TCAS II display, you see a yellow/amber disc. What does this represent?</p>",
   "options": {
     "a": "<p>A Traffic Advisory (TA) with a climb, climb aural instruction.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/5954395b-f1e5-4763-94da-81176c0c4a63.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/5954395b-f1e5-4763-94da-81176c0c4a63.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110847,
+    "number": "224579"
+  }
 }

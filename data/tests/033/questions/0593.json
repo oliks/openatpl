@@ -1,7 +1,7 @@
 {
   "number": 593,
-  "questionId": 70825,
-  "questionNumber": "338594",
+  "questionId": "033-0593",
+  "questionNumber": "033-0593",
   "stemHtml": "<p>Refer to figure.<br />\r\nGiven the following data, determine the required Alternate Fuel.</p>\r\n\r\n<p>Distance: 130 NM<br />\r\nWind: 20 kt Headwind<br />\r\nLanding weight: 55 tons</p>\r\n",
   "options": {
     "a": "1240 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D8E99CBC-138E-4B2E-859C-B1D9B6EFB8C0.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D8E99CBC-138E-4B2E-859C-B1D9B6EFB8C0.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70825,
+    "number": "338594"
+  }
 }

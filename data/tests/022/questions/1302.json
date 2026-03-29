@@ -1,7 +1,7 @@
 {
   "number": 1302,
-  "questionId": 81756,
-  "questionNumber": "223745",
+  "questionId": "022-1302",
+  "questionNumber": "022-1302",
   "stemHtml": "When can more than one autopilot be engaged at the same time in an aircraft?",
   "options": {
     "a": "At any time.",
@@ -10,5 +10,10 @@
     "d": "Never."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81756,
+    "number": "223745"
+  }
 }

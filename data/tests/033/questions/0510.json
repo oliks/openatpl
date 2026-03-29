@@ -1,7 +1,7 @@
 {
   "number": 510,
-  "questionId": 84249,
-  "questionNumber": "331224",
+  "questionId": "033-0510",
+  "questionNumber": "033-0510",
   "stemHtml": "<p>Refer to figure. <br>What is the minimum radar altitude at the section where ADN VOR/DME is located?</p>",
   "options": {
     "a": "<p>1700 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/527C090C-819A-4B25-B846-30F586533DB5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/527C090C-819A-4B25-B846-30F586533DB5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84249,
+    "number": "331224"
+  }
 }

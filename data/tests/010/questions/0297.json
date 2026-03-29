@@ -1,7 +1,7 @@
 {
   "number": 297,
-  "questionId": 80254,
-  "questionNumber": "106629",
+  "questionId": "010-0297",
+  "questionNumber": "010-0297",
   "stemHtml": "According to ICAO Annex 14, what is the purpose of taxiway widening on curved segments?",
   "options": {
     "a": "To be an area adjacent to the edge of a pavement, so prepared as to provide a transition between the pavement and the adjacent surface.",
@@ -10,5 +10,10 @@
     "d": "To provide a surface able to resist erosion and the ingestion of the surface."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80254,
+    "number": "106629"
+  }
 }

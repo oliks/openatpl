@@ -1,7 +1,7 @@
 {
   "number": 840,
-  "questionId": 82071,
-  "questionNumber": "229791",
+  "questionId": "022-0840",
+  "questionNumber": "022-0840",
   "stemHtml": "What are the main advantages of the HUD?",
   "options": {
     "a": "It reduces errors caused by the transition from instrument to visual flight, decreases the minimas for both take-off and landing, and reduces the risk of aircraft upsets.",
@@ -10,5 +10,10 @@
     "d": "It is very compact."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82071,
+    "number": "229791"
+  }
 }

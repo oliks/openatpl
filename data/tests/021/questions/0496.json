@@ -1,7 +1,7 @@
 {
   "number": 496,
-  "questionId": 67532,
-  "questionNumber": "214103",
+  "questionId": "021-0496",
+  "questionNumber": "021-0496",
   "stemHtml": "<p>A Hot Rod Ice Detection System indicates aircraft ice accretion by\u2026</p>",
   "options": {
     "a": "the ice build-up on the probe, which is visible via a cockpit instrument.",
@@ -10,5 +10,10 @@
     "d": "the automatic activation of the aircraft de-icing system."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67532,
+    "number": "214103"
+  }
 }

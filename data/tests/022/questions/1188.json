@@ -1,7 +1,7 @@
 {
   "number": 1188,
-  "questionId": 84712,
-  "questionNumber": "225026",
+  "questionId": "022-1188",
+  "questionNumber": "022-1188",
   "stemHtml": "<p>What does \u201capparent wander\u201d refer to?</p>",
   "options": {
     "a": "The movement of the gyroscopic position about the vertical axis as observed by a person standing on the surface.<strong> </strong><strong> </strong>",
@@ -10,5 +10,10 @@
     "d": "The wander caused by movement of the aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84712,
+    "number": "225026"
+  }
 }

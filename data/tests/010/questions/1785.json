@@ -1,7 +1,7 @@
 {
   "number": 1785,
-  "questionId": 77918,
-  "questionNumber": "109690",
+  "questionId": "010-1785",
+  "questionNumber": "010-1785",
   "stemHtml": "<p>When flying on a VFR flight, ATC clearance is required.</p>",
   "options": {
     "a": "When flying VFR in an advisory zone.",
@@ -10,5 +10,10 @@
     "d": "Before entering a dangerous area."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77918,
+    "number": "109690"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 136,
-  "questionId": 83024,
-  "questionNumber": "108715",
+  "questionId": "010-0136",
+  "questionNumber": "010-0136",
   "stemHtml": "<p>Which one of the following is not an emergency frequency?</p>",
   "options": {
     "a": "<p>123.45 MHz</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2182 kHz</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83024,
+    "number": "108715"
+  }
 }

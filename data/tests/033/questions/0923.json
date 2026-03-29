@@ -1,7 +1,7 @@
 {
   "number": 923,
-  "questionId": 107605,
-  "questionNumber": "337498",
+  "questionId": "033-0923",
+  "questionNumber": "033-0923",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 10-2B, 13-2, 13-3, 13-4, 13-5 from Jeppesen GSPRM 2017. <br>Which approaches can be made from a CALLES 2N / VALENCIA 2N STAR?</p>",
   "options": {
     "a": "<p>VOR Z RWY 28; VOR X RWY 28</p>",
@@ -56,5 +56,10 @@
       "publicUrl": "/attachments/033/57dc9334-79c6-48cd-afa2-bb13567c8f01.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/57dc9334-79c6-48cd-afa2-bb13567c8f01.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107605,
+    "number": "337498"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 37,
-  "questionId": 69333,
-  "questionNumber": "318322",
+  "questionId": "031-0037",
+  "questionNumber": "031-0037",
   "stemHtml": "Which of the following corresponds to Zero Fuel Mass?",
   "options": {
     "a": "Operating mass plus luggage of passengers and cargo.",
@@ -10,5 +10,10 @@
     "d": "The take-off mass of an aeroplane minus all usable fuel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69333,
+    "number": "318322"
+  }
 }

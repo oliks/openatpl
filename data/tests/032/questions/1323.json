@@ -1,7 +1,7 @@
 {
   "number": 1323,
-  "questionId": 69994,
-  "questionNumber": "321190",
+  "questionId": "032-1323",
+  "questionNumber": "032-1323",
   "stemHtml": "<p>Refer to figure or CAP 698 Figure 2.4.</p><p>Mass: 3400 lb<br>Pressure altitude: 2000 ft<br>Temperature: 32\u00b0C runway<br>LDA: 1750 ft<br>Runway slope: +2% upslope</p><p>Given the following information, determine the minimum or maximum wind component for the SEP aircraft to land.</p>",
   "options": {
     "a": "Minimum 22 kt headwind.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/6a58bbf0-e633-4194-a093-e5f5835b01f2.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6a58bbf0-e633-4194-a093-e5f5835b01f2.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69994,
+    "number": "321190"
+  }
 }

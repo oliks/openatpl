@@ -1,7 +1,7 @@
 {
   "number": 661,
-  "questionId": 160078,
-  "questionNumber": "227796",
+  "questionId": "022-0661",
+  "questionNumber": "022-0661",
   "stemHtml": "<p>Refer to figure.      <br />      What is the fuel pressure of the No 2 Engine?</p>",
   "options": {
     "a": "<p>0.5 Bar</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/9aa36435-7d3b-4373-a643-c868fdd8bb1d.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/9aa36435-7d3b-4373-a643-c868fdd8bb1d.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160078,
+    "number": "227796"
+  }
 }

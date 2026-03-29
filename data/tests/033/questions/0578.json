@@ -1,7 +1,7 @@
 {
   "number": 578,
-  "questionId": 134515,
-  "questionNumber": "333887",
+  "questionId": "033-0578",
+  "questionNumber": "033-0578",
   "stemHtml": "<p>Refer to figure or chart E(LO)6 from the Jeppesen GSPRM 2017. <br /> \rAn aircraft takes off from FARO (VFA) VOR/DME (N37\u00b000'49\" W007\u00b058'30\") to SEVILLE (SVL) VOR/DME (N37\u00b025'40\" W005\u00b045'44\"). What is the true track that must be followed?</p>",
   "options": {
     "a": "<p>077\u00b0T</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/db5ef186-8e70-4dec-88f8-79f9aa33570a.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/db5ef186-8e70-4dec-88f8-79f9aa33570a.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 134515,
+    "number": "333887"
+  }
 }

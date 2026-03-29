@@ -1,7 +1,7 @@
 {
   "number": 601,
-  "questionId": 102420,
-  "questionNumber": "313388",
+  "questionId": "031-0601",
+  "questionNumber": "031-0601",
   "stemHtml": "<p>The following planning data are given for a Commercial Air Transport flight. Determine the underload/overload of this flight:</p>\r\r<p>Maximum Structural Take-Off Mass: 5660 kg  <br /> \rPerformance Limited Take-Off Mass: 5450 kg  <br /> \rDry Operating Mass (DOM): 2890 kg  <br /> \rTake-Off Fuel: 970 kg  <br /> \rPassengers and baggage mass: 235 kg  <br /> \rTraffic Load: 1420 kg </p>",
   "options": {
     "a": "<p>An Underload of 380 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An Underload of 170 kg.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102420,
+    "number": "313388"
+  }
 }

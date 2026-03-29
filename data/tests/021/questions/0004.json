@@ -1,7 +1,7 @@
 {
   "number": 4,
-  "questionId": 108466,
-  "questionNumber": "216049",
+  "questionId": "021-0004",
+  "questionNumber": "021-0004",
   "stemHtml": "<p>Choose the correct statement in reference to the following windshield rain protection systems.</p>\r\r<p>1. Chemical rain repellent <br /> \r2. Pneumatic moisture clearance <br /> \r3. Windshield wipers</p>",
   "options": {
     "a": "<p>1 and 3 are commonly fitted to aircraft and can be used together or separately.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 and 3 can be used together simultaneously, but 1 and 3 cannot, as it would result in rubber damage of the wiper.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108466,
+    "number": "216049"
+  }
 }

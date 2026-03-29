@@ -1,7 +1,7 @@
 {
   "number": 1110,
-  "questionId": 78501,
-  "questionNumber": "333487",
+  "questionId": "033-1110",
+  "questionNumber": "033-1110",
   "stemHtml": "<p>In order to follow the planned track, a pilot flies a True Heading of 040\u00b0, which was calculated for the forecast wind of 160\u00b0/40kt. The actual wind encountered at his/her altitude is 100\u00b0/40kt.</p><p>What will the in-flight track be?</p>",
   "options": {
     "a": "On the planned course.",
@@ -10,5 +10,10 @@
     "d": "There is not enough information to answer this question."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78501,
+    "number": "333487"
+  }
 }

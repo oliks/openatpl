@@ -1,7 +1,7 @@
 {
   "number": 1497,
-  "questionId": 66650,
-  "questionNumber": "109928",
+  "questionId": "010-1497",
+  "questionNumber": "010-1497",
   "stemHtml": "In accordance with Annex 12, what does the ground-air visual signal code ++ used by rescue units mean?",
   "options": {
     "a": "Require medical assistance.",
@@ -10,5 +10,10 @@
     "d": "We have found all personnel."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66650,
+    "number": "109928"
+  }
 }

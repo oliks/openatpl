@@ -1,7 +1,7 @@
 {
   "number": 1431,
-  "questionId": 70635,
-  "questionNumber": "334785",
+  "questionId": "033-1431",
+  "questionNumber": "033-1431",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.3.1C). <br>For a flight of 2400 ground nautical miles the following apply:</p><p>Temperature: ISA -10\u00b0C <br>Cruise altitude: 29 000 ft <br>Landing mass: 45 000 kg <br>Trip fuel available: 16 000 kg</p><p>What is the maximum headwind component which may be accepted?</p>",
   "options": {
     "a": "35 kt",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/16B4B129-5338-4F4A-9A3A-A491CFE1B6B6.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/16B4B129-5338-4F4A-9A3A-A491CFE1B6B6.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70635,
+    "number": "334785"
+  }
 }

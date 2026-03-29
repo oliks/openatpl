@@ -1,7 +1,7 @@
 {
   "number": 1662,
-  "questionId": 163403,
-  "questionNumber": "218729",
+  "questionId": "021-1662",
+  "questionNumber": "021-1662",
   "stemHtml": "<p>What is the primary consequence for the engine when the Exhaust Gas Temperature rises beyond its certified upper limit?</p>",
   "options": {
     "a": "<p>Compressor blade cracking <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Increased compressor efficiency</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163403,
+    "number": "218729"
+  }
 }

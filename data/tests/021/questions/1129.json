@@ -1,7 +1,7 @@
 {
   "number": 1129,
-  "questionId": 67904,
-  "questionNumber": "216138",
+  "questionId": "021-1129",
+  "questionNumber": "021-1129",
   "stemHtml": "<p>A hydraulic low pressure alert is the first indication of...</p>",
   "options": {
     "a": "the pump output pressure being insufficient.",
@@ -10,5 +10,10 @@
     "d": "the reservoir level being at a minimum acceptable level."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67904,
+    "number": "216138"
+  }
 }

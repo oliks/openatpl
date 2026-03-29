@@ -1,7 +1,7 @@
 {
   "number": 749,
-  "questionId": 69905,
-  "questionNumber": "323692",
+  "questionId": "032-0749",
+  "questionNumber": "032-0749",
   "stemHtml": "Explain the effect of a stopway/clearway on the allowed take-off mass and appropriate V<sub>1</sub> when using an unbalanced field.",
   "options": {
     "a": "If there is a clearway and no stopway the take-off mass must be lower than the balanced field take-off mass, and the appropriate V<sub>1</sub> needs to be higher than V<sub>1 </sub>balanced.",
@@ -10,5 +10,10 @@
     "d": "If there is a stopway and no clearway the take-off mass must be lower than the balanced field take-off mass, and the appropriate V<sub>1</sub> needs to be lower than V<sub>1</sub> balanced."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69905,
+    "number": "323692"
+  }
 }

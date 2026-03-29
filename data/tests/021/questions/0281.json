@@ -1,7 +1,7 @@
 {
   "number": 281,
-  "questionId": 102830,
-  "questionNumber": "219287",
+  "questionId": "021-0281",
+  "questionNumber": "021-0281",
   "stemHtml": "<p>What substance must never be used in the vicinity or on parts of an oxygen installation?</p>",
   "options": {
     "a": "<p>Nitrogen.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Halon.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102830,
+    "number": "219287"
+  }
 }

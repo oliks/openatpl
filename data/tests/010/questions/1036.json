@@ -1,7 +1,7 @@
 {
   "number": 1036,
-  "questionId": 159844,
-  "questionNumber": "107325",
+  "questionId": "010-1036",
+  "questionNumber": "010-1036",
   "stemHtml": "<p>Which flights are separated in airspace Class E?</p>",
   "options": {
     "a": "<p>VFR flights only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>All flights.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159844,
+    "number": "107325"
+  }
 }

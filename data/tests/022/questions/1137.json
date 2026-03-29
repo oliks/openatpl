@@ -1,7 +1,7 @@
 {
   "number": 1137,
-  "questionId": 107593,
-  "questionNumber": "226174",
+  "questionId": "022-1137",
+  "questionNumber": "022-1137",
   "stemHtml": "<p>The FMS will be updated every 28 days for\u2026</p>",
   "options": {
     "a": "<p>FMS software.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>IRS information.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107593,
+    "number": "226174"
+  }
 }

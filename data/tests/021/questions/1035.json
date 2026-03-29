@@ -1,7 +1,7 @@
 {
   "number": 1035,
-  "questionId": 85066,
-  "questionNumber": "218546",
+  "questionId": "021-1035",
+  "questionNumber": "021-1035",
   "stemHtml": "In a modern aircraft with 3 AC generators (two turbine engines and an APU), the generators all fail, and only battery power remains. How would the essential AC bus be powered?",
   "options": {
     "a": "It would not be powered as there are no AC sources remaining.",
@@ -10,5 +10,10 @@
     "d": "<p>It is powered by the transformer rectifier unit.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85066,
+    "number": "218546"
+  }
 }

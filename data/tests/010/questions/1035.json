@@ -1,7 +1,7 @@
 {
   "number": 1035,
-  "questionId": 66703,
-  "questionNumber": "102155",
+  "questionId": "010-1035",
+  "questionNumber": "010-1035",
   "stemHtml": "<p>\"The administrative action taken within the period of validity of a rating or certificate which allows the holder to continue to exercise the privileges of a rating or certificate for a further specified period consequent upon the fulfilment of specified requirements\" is the definition for the term\u2026</p>",
   "options": {
     "a": "revalidation.",
@@ -10,5 +10,10 @@
     "d": "extension"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66703,
+    "number": "102155"
+  }
 }

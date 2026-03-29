@@ -1,7 +1,7 @@
 {
   "number": 611,
-  "questionId": 81784,
-  "questionNumber": "109096",
+  "questionId": "010-0611",
+  "questionNumber": "010-0611",
   "stemHtml": "<p>What segment can you find at the end of the STAR?</p>",
   "options": {
     "a": "<p>Initial Approach Segment</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Missed Approach Segment</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81784,
+    "number": "109096"
+  }
 }

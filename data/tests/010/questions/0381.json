@@ -1,7 +1,7 @@
 {
   "number": 381,
-  "questionId": 159028,
-  "questionNumber": "104857",
+  "questionId": "010-0381",
+  "questionNumber": "010-0381",
   "stemHtml": "<p>Which of the following needs to be taken into account when the operator establishes operating minima?</p>",
   "options": {
     "a": "<p>1) The expected weather on arrival; 2) The experience of the commander.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1) Maximum length of flight duty period available per crew member; 2) Handling characteristics of the aircraft.</p><p> </p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159028,
+    "number": "104857"
+  }
 }

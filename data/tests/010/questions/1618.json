@@ -1,7 +1,7 @@
 {
   "number": 1618,
-  "questionId": 81034,
-  "questionNumber": "107697",
+  "questionId": "010-1618",
+  "questionNumber": "010-1618",
   "stemHtml": "What does \"Proficiency Check\" mean?",
   "options": {
     "a": "The demonstration of skill to revalidate or renew ratings or privileges, and including such oral examination as may be required.",
@@ -10,5 +10,10 @@
     "d": "The initial flight test conducted for the issue of a flying license."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81034,
+    "number": "107697"
+  }
 }

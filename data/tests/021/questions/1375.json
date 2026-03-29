@@ -1,7 +1,7 @@
 {
   "number": 1375,
-  "questionId": 67373,
-  "questionNumber": "214063",
+  "questionId": "021-1375",
+  "questionNumber": "021-1375",
   "stemHtml": "<p>The axial compressor of a gas turbine engine usually has more stages than its driving turbine because\u2026</p>",
   "options": {
     "a": "the power output of a turbine stage is higher than the power consumption of a compressor stage.",
@@ -10,5 +10,10 @@
     "d": "the compressor consumes much more power than the turbine."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67373,
+    "number": "214063"
+  }
 }

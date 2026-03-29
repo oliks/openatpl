@@ -1,7 +1,7 @@
 {
   "number": 1843,
-  "questionId": 81764,
-  "questionNumber": "214322",
+  "questionId": "021-1843",
+  "questionNumber": "021-1843",
   "stemHtml": "<p>Refer to figure. <br>If GEN 1 fails, DC BUS 1\u2026</p>",
   "options": {
     "a": "Can be fed via GEN 2, GB 2, BTB 2, BTB 1, TB1, and TRU1.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/96086A9B-38FB-40B1-ABD6-B37B144F4BED.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/96086A9B-38FB-40B1-ABD6-B37B144F4BED.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81764,
+    "number": "214322"
+  }
 }

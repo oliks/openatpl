@@ -1,7 +1,7 @@
 {
   "number": 146,
-  "questionId": 67806,
-  "questionNumber": "211967",
+  "questionId": "021-0146",
+  "questionNumber": "021-0146",
   "stemHtml": "<p>Electric motors on aircraft can be\u2026</p>",
   "options": {
     "a": "DC 60 Hz.",
@@ -10,5 +10,10 @@
     "d": "DC 115 Hz."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67806,
+    "number": "211967"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 748,
-  "questionId": 160096,
-  "questionNumber": "216084",
+  "questionId": "021-0748",
+  "questionNumber": "021-0748",
   "stemHtml": "<p>A warning displays 'HIGH OIL PRESS'. Which instrument reading combination is most probably linked with this situation?</p>",
   "options": {
     "a": "<p>High RPM; High Oil Pressure</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Low Oil Pressure; High Oil Temperature</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160096,
+    "number": "216084"
+  }
 }

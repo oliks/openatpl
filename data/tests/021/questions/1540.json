@@ -1,7 +1,7 @@
 {
   "number": 1540,
-  "questionId": 106064,
-  "questionNumber": "214716",
+  "questionId": "021-1540",
+  "questionNumber": "021-1540",
   "stemHtml": "<p>Altitude-boosted turbochargers can be fitted in piston engines as a power-augmentation device, and are used to...</p>",
   "options": {
     "a": "<p>Increase the engine power output with increasing altitude, as compared to the power output at sea level.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Increase the engine power output until reaching the critical altitude, as compared to the power output at sea level.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106064,
+    "number": "214716"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1008,
-  "questionId": 81469,
-  "questionNumber": "324403",
+  "questionId": "032-1008",
+  "questionNumber": "032-1008",
   "stemHtml": "<p>CS 25.121 (d)(1) paragraphs (i) to (iv) states the pre-requisite conditions for an aeroplane, during certification, demonstrating its one-engine-inoperative gradient of climb in the approach phase. Which of the following options states the correct description of ONE of these prerequisites?</p>",
   "options": {
     "a": "<p dir=\"ltr\">The climb speed is established in connection with normal landing procedures but not more than the stall speed.</p>",
@@ -10,5 +10,10 @@
     "d": "The aeroplane is at its expected landing weight."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81469,
+    "number": "324403"
+  }
 }

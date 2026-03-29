@@ -1,7 +1,7 @@
 {
   "number": 1720,
-  "questionId": 79714,
-  "questionNumber": "222253",
+  "questionId": "022-1720",
+  "questionNumber": "022-1720",
   "stemHtml": "Which method is used by the pilot to insert RNAV waypoints into an aircraft\u2019s FMS?",
   "options": {
     "a": "Manually by selecting the CRS/DISTANCE on an HSI.",
@@ -10,5 +10,10 @@
     "d": "Automatically loaded into the FMS using a company route registration/airport pairing from the navigation database."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79714,
+    "number": "222253"
+  }
 }

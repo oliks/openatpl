@@ -1,7 +1,7 @@
 {
   "number": 476,
-  "questionId": 84311,
-  "questionNumber": "324073",
+  "questionId": "032-0476",
+  "questionNumber": "032-0476",
   "stemHtml": "With regard to a large jet transport aeroplane, which of the following is a suitable definition of Specific Range over the Ground (SGR)?",
   "options": {
     "a": "The number of nautical ground miles per unit of fuel.",
@@ -10,5 +10,10 @@
     "d": "The air distance travelled per unit of power."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84311,
+    "number": "324073"
+  }
 }

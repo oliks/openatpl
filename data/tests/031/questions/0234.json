@@ -1,7 +1,7 @@
 {
   "number": 234,
-  "questionId": 69514,
-  "questionNumber": "311218",
+  "questionId": "031-0234",
+  "questionNumber": "031-0234",
   "stemHtml": "<p>The maximum quantity of fuel that can be loaded into an aircraft's tanks is given as 2200 l. If the fuel density (specific gravity) is given as 0.79 the mass of fuel which may be loaded is\u2026</p>",
   "options": {
     "a": "1798 kg",
@@ -10,5 +10,10 @@
     "d": "2098 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69514,
+    "number": "311218"
+  }
 }

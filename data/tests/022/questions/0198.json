@@ -1,7 +1,7 @@
 {
   "number": 198,
-  "questionId": 84739,
-  "questionNumber": "226720",
+  "questionId": "022-0198",
+  "questionNumber": "022-0198",
   "stemHtml": "<p>If the ADC fails, which of the following instruments related to the pitot-static instruments are affected?</p>\r\r<p>1. Air Speed Indicator <br /> \r2. Vertical Speed Indicator <br /> \r3. Attitude Indicator <br /> \r4. Magnetic Deviation <br /> \r5. Altimeter</p>",
   "options": {
     "a": "<p>1, 2, 3 and 5.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only 1.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84739,
+    "number": "226720"
+  }
 }

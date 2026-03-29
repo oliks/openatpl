@@ -1,7 +1,7 @@
 {
   "number": 1283,
-  "questionId": 152464,
-  "questionNumber": "101633",
+  "questionId": "010-1283",
+  "questionNumber": "010-1283",
   "stemHtml": "<p>Two aircraft are following the same route at different levels one behind the other. Aircraft A is flying at a higher level than aircraft B. Both aircraft request descent due to heavy weather above. ATC gives aircraft A an instruction to (1) _____ and aircraft B an instruction to (2) _____.</p>",
   "options": {
     "a": "<p>(1) descend with an average descent rate; (2) descend with the maximum descend rate</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) descend with the maximum descent rate; (2) descend with the minimum descent rate necessary to remain below the heavy weather</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 152464,
+    "number": "101633"
+  }
 }

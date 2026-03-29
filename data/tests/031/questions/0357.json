@@ -1,7 +1,7 @@
 {
   "number": 357,
-  "questionId": 83490,
-  "questionNumber": "318043",
+  "questionId": "031-0357",
+  "questionNumber": "031-0357",
   "stemHtml": "Refer to figure. <br /> Using the annex, determine what is the maximum running load in the aft cargo compartment between BA 940 and BA 997.",
   "options": {
     "a": "68 kg/sq ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/AEEB58EA-71B4-4A48-BB67-4C059042338C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/AEEB58EA-71B4-4A48-BB67-4C059042338C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83490,
+    "number": "318043"
+  }
 }

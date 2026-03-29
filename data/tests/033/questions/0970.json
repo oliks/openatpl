@@ -1,7 +1,7 @@
 {
   "number": 970,
-  "questionId": 79739,
-  "questionNumber": "336237",
+  "questionId": "033-0970",
+  "questionNumber": "033-0970",
   "stemHtml": "What is an ILS CAT I approach with a DH of 240 ft?",
   "options": {
     "a": "Type A 2D approach.",
@@ -10,5 +10,10 @@
     "d": "Type B 3D approach."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79739,
+    "number": "336237"
+  }
 }

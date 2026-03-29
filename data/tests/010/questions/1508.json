@@ -1,7 +1,7 @@
 {
   "number": 1508,
-  "questionId": 86209,
-  "questionNumber": "106998",
+  "questionId": "010-1508",
+  "questionNumber": "010-1508",
   "stemHtml": "<p>Refer to figure. <br>For the attached approach lighting system, \u200b\u200b\u200b\u200b\u200b\u200bthe lights forming the centre line shall be placed at longitudinal intervals of\u2026</p>",
   "options": {
     "a": "30 m",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/04733bb5-56ee-465c-8ca3-57078c3f4dec.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/04733bb5-56ee-465c-8ca3-57078c3f4dec.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86209,
+    "number": "106998"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 688,
-  "questionId": 86112,
-  "questionNumber": "221182",
+  "questionId": "022-0688",
+  "questionNumber": "022-0688",
   "stemHtml": "In an Inertial Reference System (IRS), what is one of the primary functions of the Inertial Reference Unit (IRU)?",
   "options": {
     "a": "To measure angular acceleration.",
@@ -10,5 +10,10 @@
     "d": "To measure both angular acceleration and angular rate."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86112,
+    "number": "221182"
+  }
 }

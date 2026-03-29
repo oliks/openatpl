@@ -1,7 +1,7 @@
 {
   "number": 205,
-  "questionId": 69441,
-  "questionNumber": "319461",
+  "questionId": "031-0205",
+  "questionNumber": "031-0205",
   "stemHtml": "At a given mass the CG position is at 15% MAC. If the leading edge of MAC is at a position 625.6 inches aft of the datum and the MAC is given as 134.5 inches, determine the position of the CG in relation to the datum.",
   "options": {
     "a": "605.43 inches aft of the datum",
@@ -10,5 +10,10 @@
     "d": "645.78 inches aft of the datum"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69441,
+    "number": "319461"
+  }
 }

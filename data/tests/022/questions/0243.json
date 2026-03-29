@@ -1,7 +1,7 @@
 {
   "number": 243,
-  "questionId": 121287,
-  "questionNumber": "224358",
+  "questionId": "022-0243",
+  "questionNumber": "022-0243",
   "stemHtml": "<p>What action should a pilot take in response to a TCAS RA?</p>",
   "options": {
     "a": "<p>Set THR CLB and keep the airspeed in the green area on the ASI</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Maintain level flight</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 121287,
+    "number": "224358"
+  }
 }

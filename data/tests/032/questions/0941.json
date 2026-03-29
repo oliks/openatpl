@@ -1,7 +1,7 @@
 {
   "number": 941,
-  "questionId": 79545,
-  "questionNumber": "323654",
+  "questionId": "032-0941",
+  "questionNumber": "032-0941",
   "stemHtml": "For which hydroplaning speed do you use a factor of 9?",
   "options": {
     "a": "Dynamic.",
@@ -10,5 +10,10 @@
     "d": "Used only when Anti/Skid is inoperative."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79545,
+    "number": "323654"
+  }
 }

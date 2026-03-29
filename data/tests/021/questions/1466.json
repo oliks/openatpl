@@ -1,7 +1,7 @@
 {
   "number": 1466,
-  "questionId": 80759,
-  "questionNumber": "216296",
+  "questionId": "021-1466",
+  "questionNumber": "021-1466",
   "stemHtml": "Electric current is defined as...",
   "options": {
     "a": "<p>An electromotive force that moves the electrons in an electrical flow.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The charge capacity of a battery. </p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80759,
+    "number": "216296"
+  }
 }

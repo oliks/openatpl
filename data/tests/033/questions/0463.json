@@ -1,7 +1,7 @@
 {
   "number": 463,
-  "questionId": 70382,
-  "questionNumber": "335138",
+  "questionId": "033-0463",
+  "questionNumber": "033-0463",
   "stemHtml": "<p>On an instrument approach chart, a minimum sector altitude (MSA) is defined in relation to a radio navigation facility. Without any particular specification on distance, this altitude is valid to\u2026</p>",
   "options": {
     "a": "20 NM",
@@ -10,5 +10,10 @@
     "d": "10 NM"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70382,
+    "number": "335138"
+  }
 }

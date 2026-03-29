@@ -1,7 +1,7 @@
 {
   "number": 95,
-  "questionId": 82549,
-  "questionNumber": "224313",
+  "questionId": "022-0095",
+  "questionNumber": "022-0095",
   "stemHtml": "In-flight, the Total Air Temperature (TAT) is the sum of the Static Air Temperature (SAT) and the...",
   "options": {
     "a": "kinetic heating; TAT is equal to or higher than OAT.",
@@ -10,5 +10,10 @@
     "d": "adiabatic heating; TAT is equal to or lower than OAT."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82549,
+    "number": "224313"
+  }
 }

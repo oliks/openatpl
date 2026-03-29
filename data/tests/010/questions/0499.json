@@ -1,7 +1,7 @@
 {
   "number": 499,
-  "questionId": 110177,
-  "questionNumber": "106394",
+  "questionId": "010-0499",
+  "questionNumber": "010-0499",
   "stemHtml": "<p>Refer to figure.  <br />  \rThe annex shows the threshold lights of a runway that does not have a displaced threshold. What is the side from which the aircraft will reach the threshold to begin its take-off run?</p>",
   "options": {
     "a": "<p>From the left or right side. Both sides are possible depending on the setup.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/69e77787-8054-4a1e-9767-5c12cafd43d8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/69e77787-8054-4a1e-9767-5c12cafd43d8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110177,
+    "number": "106394"
+  }
 }

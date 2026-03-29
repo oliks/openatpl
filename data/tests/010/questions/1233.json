@@ -1,7 +1,7 @@
 {
   "number": 1233,
-  "questionId": 77922,
-  "questionNumber": "108904",
+  "questionId": "010-1233",
+  "questionNumber": "010-1233",
   "stemHtml": "What should a pilot do if he/she is unable to contact ATC in the case of an unlawful interference at FL290 in RVSM airspace?",
   "options": {
     "a": "<p>Climb 1000 ft or descend 500 ft.</p>",
@@ -10,5 +10,10 @@
     "d": "Descend to 10 000 ft.<strong>  </strong>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77922,
+    "number": "108904"
+  }
 }

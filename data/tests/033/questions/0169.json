@@ -1,7 +1,7 @@
 {
   "number": 169,
-  "questionId": 82671,
-  "questionNumber": "334729",
+  "questionId": "033-0169",
+  "questionNumber": "033-0169",
   "stemHtml": "<p>An incident with respect to safe terrain separation occurs during night VMC in Class G airspace. The aircraft involved in the incident is operating on an IFR flight plan. Considering this scenario, which of the statements below is correct with respect to terrain separation?</p>",
   "options": {
     "a": "For all IFR flights, irrespective of the airspace class, maintaining safe terrain separation is the combined responsibility of the Pilot in Command and the Air Traffic Controller.",
@@ -10,5 +10,10 @@
     "d": "When operating at night in class G airspace, safe terrain separation is the responsibility of the Air Traffic Controller issuing radar vectors."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82671,
+    "number": "334729"
+  }
 }

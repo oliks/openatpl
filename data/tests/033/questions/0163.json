@@ -1,7 +1,7 @@
 {
   "number": 163,
-  "questionId": 70785,
-  "questionNumber": "336366",
+  "questionId": "033-0163",
+  "questionNumber": "033-0163",
   "stemHtml": "<p>Refer to figure.<br />\r\nGiven the following informationfrom Item 15 of an ATS Flight Plan, what information is shown for position ZFP?</p>\r\n\r\n<p>N0476F340 MODRU Z717 GOBNO UZ717 MAS UM617 SOGRI UL608 DENUT UL610 GILDA UL620 SAM/N0472F360 UN20 GAPLI/M081F360 DCT BEDRA/M081F380 DCT 48N020W 46N030W 44N040W 40N050W 36N060W/M081F400 DCT BALOO DCT ANTIG M328 SLEMA DCT ZFP/N0466F400 BR70V TURBO AR10 DHP J79 EYW DCT CANOA UB646 VINKA UB879 CUN DCT</p>\r\n\r\n<div> </div>\r\n",
   "options": {
     "a": "The planned level changes from FL380 to FL400.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3350C1D7-40E2-46E9-8D9D-33E296A2B7DC.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3350C1D7-40E2-46E9-8D9D-33E296A2B7DC.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70785,
+    "number": "336366"
+  }
 }

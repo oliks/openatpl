@@ -1,7 +1,7 @@
 {
   "number": 1435,
-  "questionId": 68446,
-  "questionNumber": "221291",
+  "questionId": "022-1435",
+  "questionNumber": "022-1435",
   "stemHtml": "<p>The Primary Flight Display (PFD) displays information dedicated to\u2026</p>",
   "options": {
     "a": "weather situation.",
@@ -10,5 +10,10 @@
     "d": "engines and alarms."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68446,
+    "number": "221291"
+  }
 }

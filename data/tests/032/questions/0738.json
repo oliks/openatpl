@@ -1,7 +1,7 @@
 {
   "number": 738,
-  "questionId": 84046,
-  "questionNumber": "323398",
+  "questionId": "032-0738",
+  "questionNumber": "032-0738",
   "stemHtml": "<p>Consider a multi-engine aeroplane with an MTOW < 5700 kg. The aeroplane is flying at 2000 ft with an engine failed, maintaining maximum power and the minimum control speed (V<strong><sub>MC</sub></strong>) for this altitude.</p><p>If the pilot descends, maintaining the same speed and power setting, the directional control of the aeroplane will be (1) _____, because V<strong><sub>MC</sub></strong> (2) _____ as altitude decreases.</p>",
   "options": {
     "a": "(1) maintained; (2) decreases",
@@ -10,5 +10,10 @@
     "d": "(1) lost; (2) increases"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84046,
+    "number": "323398"
+  }
 }

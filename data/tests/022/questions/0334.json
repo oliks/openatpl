@@ -1,7 +1,7 @@
 {
   "number": 334,
-  "questionId": 84713,
-  "questionNumber": "223629",
+  "questionId": "022-0334",
+  "questionNumber": "022-0334",
   "stemHtml": "<p>The purpose of a performance database is\u2026</p>",
   "options": {
     "a": "To provide information for the FMS regarding the performance characteristics of a given aircraft.",
@@ -10,5 +10,10 @@
     "d": "To monitor the performance of the crew."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84713,
+    "number": "223629"
+  }
 }

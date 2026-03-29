@@ -1,7 +1,7 @@
 {
   "number": 1218,
-  "questionId": 67227,
-  "questionNumber": "106794",
+  "questionId": "010-1218",
+  "questionNumber": "010-1218",
   "stemHtml": "Why would a pilot not manoeuvre in response to a TA?",
   "options": {
     "a": "Not all aircraft have TCAS ability",
@@ -10,5 +10,10 @@
     "d": "The statement above is incorrect, all aircraft should respond to a TA"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67227,
+    "number": "106794"
+  }
 }

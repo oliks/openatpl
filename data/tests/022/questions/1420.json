@@ -1,7 +1,7 @@
 {
   "number": 1420,
-  "questionId": 69105,
-  "questionNumber": "223188",
+  "questionId": "022-1420",
+  "questionNumber": "022-1420",
   "stemHtml": "<p>The characteristics of the SATCOM transmissions, used for datalink communications are\u2026</p>",
   "options": {
     "a": "<p>no line of sight limitation, variable quality of signals depending on ionospheric conditions.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>no line of sight limitation, no variable quality of signals disturbed by ionospheric conditions.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69105,
+    "number": "223188"
+  }
 }

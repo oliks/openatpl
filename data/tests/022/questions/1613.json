@@ -1,7 +1,7 @@
 {
   "number": 1613,
-  "questionId": 68598,
-  "questionNumber": "223326",
+  "questionId": "022-1613",
+  "questionNumber": "022-1613",
   "stemHtml": "<p>In case of excessive descent rate, the GPWS generates the following aural warnings\u2026</p>",
   "options": {
     "a": "<p>\u201cDON`T SINK, DON`T SINK\u201d.</p>",
@@ -10,5 +10,10 @@
     "d": "\u201cTOO LOW, TERRAIN\u201d (twice) followed by \u201cTOO LOW GEAR\u201d (twice)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68598,
+    "number": "223326"
+  }
 }

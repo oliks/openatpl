@@ -1,7 +1,7 @@
 {
   "number": 1180,
-  "questionId": 86364,
-  "questionNumber": "222874",
+  "questionId": "022-1180",
+  "questionNumber": "022-1180",
   "stemHtml": "<p>Following an engine failure in a light twin piston engined aircraft, to expedite a climb to a safe altitude what airspeed should be flown?</p>",
   "options": {
     "a": "<p>Best RATE of climb speed. Blue line.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Best angle of climb speed. White arc.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86364,
+    "number": "222874"
+  }
 }

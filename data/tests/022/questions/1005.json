@@ -1,7 +1,7 @@
 {
   "number": 1005,
-  "questionId": 103299,
-  "questionNumber": "223086",
+  "questionId": "022-1005",
+  "questionNumber": "022-1005",
   "stemHtml": "<p>What are the benefits of having a HUD?</p><p>1. Increased situational awareness<br>2. No need to use autothrottle<br>3. Lower take-off and landing minima<br>4. Improved accuracy of flying</p>",
   "options": {
     "a": "<p dir=\"ltr\">2 and 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 3 and 4.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103299,
+    "number": "223086"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1667,
-  "questionId": 118459,
-  "questionNumber": "108936",
+  "questionId": "010-1667",
+  "questionNumber": "010-1667",
   "stemHtml": "<p>A pilot is on final approach and has just acquired visual contact with the runway centre line marking. Which of the following best describes the pattern of the runway centre line marking? <br /> \r </p>",
   "options": {
     "a": "<p>Two parallel continuous white lines and stripes</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A continuous white line separated by gaps where necessary for conspicuity with the runway environment</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 118459,
+    "number": "108936"
+  }
 }

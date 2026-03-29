@@ -1,7 +1,7 @@
 {
   "number": 975,
-  "questionId": 66781,
-  "questionNumber": "108712",
+  "questionId": "010-0975",
+  "questionNumber": "010-0975",
   "stemHtml": "In flight the pilot of an aircraft observes a series of projectiles discharged from the ground at intervals of 10 seconds, each showing, on bursting, red and green lights or stars. \u2013 The meaning of this signal is the...",
   "options": {
     "a": "aircraft is flying in or about to enter a restricted, prohibited or danger area. The aircraft shall take such remedial action as may be necessary.",
@@ -10,5 +10,10 @@
     "d": "aerodrome nearby you have chosen for landing is unsafe, do not attempt to land. Proceed to your alternate."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66781,
+    "number": "108712"
+  }
 }

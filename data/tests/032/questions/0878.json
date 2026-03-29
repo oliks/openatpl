@@ -1,7 +1,7 @@
 {
   "number": 878,
-  "questionId": 69978,
-  "questionNumber": "325547",
+  "questionId": "032-0878",
+  "questionNumber": "032-0878",
   "stemHtml": "<p>Refer to figure or CAP698 file 2.4.</p><p>Given the following information, what is the Ground Roll?</p><p>Airport Pressure Altitude: 4000 ft<br>OAT: +20\u00b0C<br>Headwind component: 15 kt<br>Landing Mass: 3300 lb</p>",
   "options": {
     "a": "700 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/87D4B68F-2647-48BA-89D8-D6185E6F0415.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/87D4B68F-2647-48BA-89D8-D6185E6F0415.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69978,
+    "number": "325547"
+  }
 }

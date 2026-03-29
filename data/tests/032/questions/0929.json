@@ -1,7 +1,7 @@
 {
   "number": 929,
-  "questionId": 70058,
-  "questionNumber": "322761",
+  "questionId": "032-0929",
+  "questionNumber": "032-0929",
   "stemHtml": "<p>The Accelerate Stop Distance Available ASDA is the length of the take off run available plus the length...</p>",
   "options": {
     "a": "<p>of the stopway, if provided.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>necessary to stop the aircraft.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70058,
+    "number": "322761"
+  }
 }

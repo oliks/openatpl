@@ -1,7 +1,7 @@
 {
   "number": 686,
-  "questionId": 67007,
-  "questionNumber": "107407",
+  "questionId": "010-0686",
+  "questionNumber": "010-0686",
   "stemHtml": "<p>An aircraft approaches an aerodrome located in controlled airspace. \u2013 When the pilot reports that he has the aerodrome in sight, a clearance for a visual approach may be given provided that the\u2026</p>",
   "options": {
     "a": "air traffic controller is able to separate this aircraft from other controlled traffic.",
@@ -10,5 +10,10 @@
     "d": "aircraft has passed the FAF."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67007,
+    "number": "107407"
+  }
 }

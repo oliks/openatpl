@@ -1,7 +1,7 @@
 {
   "number": 1084,
-  "questionId": 66858,
-  "questionNumber": "104109",
+  "questionId": "010-1084",
+  "questionNumber": "010-1084",
   "stemHtml": "<p>You are flying an instrument approach, and upon reaching the MAPt, you have no visual contact with the runway. \u2013 What should you do?</p>",
   "options": {
     "a": "Level off and continue looking for visual references.",
@@ -10,5 +10,10 @@
     "d": "If CAT II minima are published on the chart, continue down to the CAT II minima."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66858,
+    "number": "104109"
+  }
 }

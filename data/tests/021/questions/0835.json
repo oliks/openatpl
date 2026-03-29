@@ -1,7 +1,7 @@
 {
   "number": 835,
-  "questionId": 68154,
-  "questionNumber": "215204",
+  "questionId": "021-0835",
+  "questionNumber": "021-0835",
   "stemHtml": "<p>A cabin rate of descent\u2026</p>",
   "options": {
     "a": "<p>is not possible at constant aeroplane altitudes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>is always the same as the aeroplane`s rate of descent.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68154,
+    "number": "215204"
+  }
 }

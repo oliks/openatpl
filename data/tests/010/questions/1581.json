@@ -1,7 +1,7 @@
 {
   "number": 1581,
-  "questionId": 102309,
-  "questionNumber": "101484",
+  "questionId": "010-1581",
+  "questionNumber": "010-1581",
   "stemHtml": "<p>In order to determine DA/DH, the factors taken into account are...</p>",
   "options": {
     "a": "<p>the OCA/H based on the highest obstacle in the approach or missed approach paths including an allowance for aircraft speed and height loss on any go-around, plus a margin for operational factors.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the OCA/H based on the highest obstacle in the missed approach path only plus an allowance for height loss on any go-around.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102309,
+    "number": "101484"
+  }
 }

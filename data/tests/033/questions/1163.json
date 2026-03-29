@@ -1,7 +1,7 @@
 {
   "number": 1163,
-  "questionId": 70945,
-  "questionNumber": "338918",
+  "questionId": "033-1163",
+  "questionNumber": "033-1163",
   "stemHtml": "<p>If your destination airport has no ICAO indicator, in the appropriate box of your ATC flight plan, you write\u2026<br> </p>",
   "options": {
     "a": "<div>ZZZZ</div>",
@@ -10,5 +10,10 @@
     "d": "<div>AAAA</div>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70945,
+    "number": "338918"
+  }
 }

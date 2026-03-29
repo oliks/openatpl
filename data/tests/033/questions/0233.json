@@ -1,7 +1,7 @@
 {
   "number": 233,
-  "questionId": 81834,
-  "questionNumber": "334492",
+  "questionId": "033-0233",
+  "questionNumber": "033-0233",
   "stemHtml": "<p>How much is the clearance passing the highest obstacle in the following scenario? An aircraft is flying at FL170 in mountainous terrain on the northern side of the alps and the charted minimum grid-area altitude is 16 200 feet.</p><p>The outside air temperature at FL170 is -29\u00b0C\u00a0<br>The QNH is 1000.25 hPa given by a meteorological station with elevation 13 500 feet.\u00a0<br>Assume 1hPa = 30 feet</p>",
   "options": {
     "a": "2120 ft",
@@ -10,5 +10,10 @@
     "d": "2676 ft"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81834,
+    "number": "334492"
+  }
 }

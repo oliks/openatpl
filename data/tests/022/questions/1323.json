@@ -1,7 +1,7 @@
 {
   "number": 1323,
-  "questionId": 82771,
-  "questionNumber": "223679",
+  "questionId": "022-1323",
+  "questionNumber": "022-1323",
   "stemHtml": "What is one of the main purposes of a CDU?",
   "options": {
     "a": "To monitor the engine(s) of an aircraft.",
@@ -10,5 +10,10 @@
     "d": "To control the electrical system of an aircraft."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82771,
+    "number": "223679"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 343,
-  "questionId": 70676,
-  "questionNumber": "334727",
+  "questionId": "033-0343",
+  "questionNumber": "033-0343",
   "stemHtml": "<p>Refer to figure or or Flight Planning Manual MRJT 1 Figure 4.5.1).\u00a0<br>Given:</p><p>Brake release mass 57 500 kg,\u00a0<br>Temperature ISA -10\u00b0C,\u00a0<br>Headwind component 16 kt,\u00a0<br>Initial FL280</p><p>Find: Still air distance NAM and ground distance NM for the enroute climb 280/.74</p>",
   "options": {
     "a": "71 NAM, 67 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/43FB82DF-E6BF-491F-B710-AFB350542129.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/43FB82DF-E6BF-491F-B710-AFB350542129.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70676,
+    "number": "334727"
+  }
 }

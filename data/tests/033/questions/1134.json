@@ -1,7 +1,7 @@
 {
   "number": 1134,
-  "questionId": 70928,
-  "questionNumber": "333462",
+  "questionId": "033-1134",
+  "questionNumber": "033-1134",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017.\u00a0<br>What is the distance and true course from RODING VOR (RDG, N49\u00b002.5' E012\u00b031.5') to THALM\u00c4SSING-WAIZENHOFEN (EDPW, N49\u00b0 03.85' E011\u00b0 12.57') airfield?</p>",
   "options": {
     "a": "092\u00b0, 39 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/68E330BE-9637-4EDB-AE10-7E3CBA1D9408.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/68E330BE-9637-4EDB-AE10-7E3CBA1D9408.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70928,
+    "number": "333462"
+  }
 }

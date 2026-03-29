@@ -1,7 +1,7 @@
 {
   "number": 285,
-  "questionId": 102251,
-  "questionNumber": "101036",
+  "questionId": "010-0285",
+  "questionNumber": "010-0285",
   "stemHtml": "<p>The missed approach point (MAPt) of a non-precision approach might be...</p>",
   "options": {
     "a": "<p>a navigation facility, a fix, or a specified distance from the final approach fix (FAF).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>not available since it is used only for precision approaches.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102251,
+    "number": "101036"
+  }
 }

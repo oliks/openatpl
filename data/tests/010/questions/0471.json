@@ -1,7 +1,7 @@
 {
   "number": 471,
-  "questionId": 101094,
-  "questionNumber": "108143",
+  "questionId": "010-0471",
+  "questionNumber": "010-0471",
   "stemHtml": "<p>In accordance with ICAO Annex 15, NOTAM distribution should be done...</p>",
   "options": {
     "a": "<p>on the basis of a request.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>to flight crews at intervals of NOT more than one month.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101094,
+    "number": "108143"
+  }
 }

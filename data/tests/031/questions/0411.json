@@ -1,7 +1,7 @@
 {
   "number": 411,
-  "questionId": 69482,
-  "questionNumber": "319932",
+  "questionId": "031-0411",
+  "questionNumber": "031-0411",
   "stemHtml": "<p>The following data for a flight of a twin engine jet aircraft are provided for the calculation:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Maximum landing mass = 51 300 kg</span> <br /> \nMaximum allowable take off mass = 56 300 kg <br /> \nDry operating mass = 29 100 kg <br /> \nLoad = 11 700 kg <br /> \nTrip fuel = 3000 kg <br /> \nCont. fuel = 215 kg <br /> \nFinal reserve fuel = 1250 kg <br /> \nAlternate fuel = 1300 kg <br /> \nTaxi fuel = 200 kg</p>\n\n<p>Determine the maximum possible extra fuel that can be uplifted for this flight.</p>",
   "options": {
     "a": "5765 kg.",
@@ -10,5 +10,10 @@
     "d": "7735 kg."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69482,
+    "number": "319932"
+  }
 }

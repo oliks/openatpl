@@ -1,7 +1,7 @@
 {
   "number": 530,
-  "questionId": 83625,
-  "questionNumber": "334602",
+  "questionId": "033-0530",
+  "questionNumber": "033-0530",
   "stemHtml": "Refer to VFR chart ED-4 from the Jeppesen GSPRM 2017. You are planning a VFR flight from Landshut aerodrome (EDML, 48\u00b030.7'N 012\u00b002.0\"E) to Deggendorf aerodrome (EDMW, 48\u00b049.8'N 012\u00b052.8\"E) following the A92 highway. What is the height of the highest man-made obstacle in the vicinity of your route?",
   "options": {
     "a": "2 094 ft AMSL",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/03CC4D90-0E1F-441E-BA6E-F1DD82CE4DD9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/03CC4D90-0E1F-441E-BA6E-F1DD82CE4DD9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83625,
+    "number": "334602"
+  }
 }

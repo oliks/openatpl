@@ -1,7 +1,7 @@
 {
   "number": 1284,
-  "questionId": 82830,
-  "questionNumber": "212475",
+  "questionId": "021-1284",
+  "questionNumber": "021-1284",
   "stemHtml": "<p>An aeroplane extends its flaps asymmetrically. The aircraft will roll towards the side with...</p>",
   "options": {
     "a": "<p>LEAST flaps extended and have a yawing moment to the same side.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>LEAST flaps extended and have a yawing moment to the opposite side.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82830,
+    "number": "212475"
+  }
 }

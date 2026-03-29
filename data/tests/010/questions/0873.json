@@ -1,7 +1,7 @@
 {
   "number": 873,
-  "questionId": 81604,
-  "questionNumber": "101690",
+  "questionId": "010-0873",
+  "questionNumber": "010-0873",
   "stemHtml": "How should the Search and Rescue (SAR) regions be defined by the contracting states?",
   "options": {
     "a": "SAR regions can overlap if the extent of the overlaping area has been agreed between States.",
@@ -10,5 +10,10 @@
     "d": "SAR regions shall be next to each other but NOT overlap, and follow the delineation of the boundaries between states."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81604,
+    "number": "101690"
+  }
 }

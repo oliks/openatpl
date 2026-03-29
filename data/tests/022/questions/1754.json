@@ -1,7 +1,7 @@
 {
   "number": 1754,
-  "questionId": 103337,
-  "questionNumber": "226029",
+  "questionId": "022-1754",
+  "questionNumber": "022-1754",
   "stemHtml": "<p>What is most likely to happen when the aircraft's speed indication becomes unreliable?</p>",
   "options": {
     "a": "<p>From the horizontal stabiliser, the pilots will receive some kind of vibration through flight controls.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Nose pitch up.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103337,
+    "number": "226029"
+  }
 }

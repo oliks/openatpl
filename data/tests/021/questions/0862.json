@@ -1,7 +1,7 @@
 {
   "number": 862,
-  "questionId": 67357,
-  "questionNumber": "211865",
+  "questionId": "021-0862",
+  "questionNumber": "021-0862",
   "stemHtml": "<p>By-pass ratio in a turbine engine is the ratio of the\u2026</p>",
   "options": {
     "a": "intake air pressure to the turbine delivery air pressure.",
@@ -10,5 +10,10 @@
     "d": "cold air mass flow to the hot air mass flow."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67357,
+    "number": "211865"
+  }
 }

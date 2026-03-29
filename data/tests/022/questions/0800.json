@@ -1,7 +1,7 @@
 {
   "number": 800,
-  "questionId": 84610,
-  "questionNumber": "223374",
+  "questionId": "022-0800",
+  "questionNumber": "022-0800",
   "stemHtml": "<p>Consider a fail-passive autoland system similar to those found on modern transport aircrafts. In the event of a failure of an autopilot:</p><p>1 - No out of trim condition<br>2 - Landing completed automatically<br>3 - Landing completed manually<br>4 - The pilots should prepare for an out of trim condition</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1 and 3.",
@@ -10,5 +10,10 @@
     "d": "3 and 4."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84610,
+    "number": "223374"
+  }
 }

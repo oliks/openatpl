@@ -1,7 +1,7 @@
 {
   "number": 1882,
-  "questionId": 68219,
-  "questionNumber": "218375",
+  "questionId": "021-1882",
+  "questionNumber": "021-1882",
   "stemHtml": "<p>To achieve control surface flutter damping the balance mass must be located\u2026</p>",
   "options": {
     "a": "<p>behind the control surface hinge line.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>in front of the control surface hinge line.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68219,
+    "number": "218375"
+  }
 }

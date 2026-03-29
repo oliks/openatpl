@@ -1,7 +1,7 @@
 {
   "number": 732,
-  "questionId": 81767,
-  "questionNumber": "339109",
+  "questionId": "033-0732",
+  "questionNumber": "033-0732",
   "stemHtml": "An aircraft is making a 2D (LNAV) approach under IMC, to an aerodrome where the temperature is significantly different from ISA. Which of the following is correct regarding temperature corrections to the MDA?",
   "options": {
     "a": "The Controller will pass on a correction when the temperature is much lower than ISA.",
@@ -10,5 +10,10 @@
     "d": "The Pilot-In-Command is responsible for making a correction if the temperature is much lower than ISA."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81767,
+    "number": "339109"
+  }
 }

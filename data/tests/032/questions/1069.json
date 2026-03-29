@@ -1,7 +1,7 @@
 {
   "number": 1069,
-  "questionId": 96459,
-  "questionNumber": "324277",
+  "questionId": "032-1069",
+  "questionNumber": "032-1069",
   "stemHtml": "<p>A flight crew is trying to minimise a delay. After having fully lined up on the runway, they release the brakes before setting take-off thrust. What will happen to the TOD and ASD?</p>",
   "options": {
     "a": "Both TOD and ASD will increase.",
@@ -10,5 +10,10 @@
     "d": "TOD will decrease and ASD will increase."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96459,
+    "number": "324277"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 319,
-  "questionId": 68642,
-  "questionNumber": "227671",
+  "questionId": "022-0319",
+  "questionNumber": "022-0319",
   "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Pt = total pressure</span>  <br />  \nPs = static pressure  <br />  \nPd = dynamic pressure</p>\n\n<div> </div>",
   "options": {
     "a": "Pd = Pt + Ps",
@@ -10,5 +10,10 @@
     "d": "Pd = Pt / Ps"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68642,
+    "number": "227671"
+  }
 }

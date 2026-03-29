@@ -1,7 +1,7 @@
 {
   "number": 677,
-  "questionId": 69795,
-  "questionNumber": "322024",
+  "questionId": "032-0677",
+  "questionNumber": "032-0677",
   "stemHtml": "<p>Assuming the gross mass, altitude and airspeed remain unchanged, moving the Centre of Gravity from the forward safe limit to the aft safe limit\u2026</p>",
   "options": {
     "a": "affects neither drag nor power required.",
@@ -10,5 +10,10 @@
     "d": "increases the induced drag."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69795,
+    "number": "322024"
+  }
 }

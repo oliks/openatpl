@@ -1,7 +1,7 @@
 {
   "number": 121,
-  "questionId": 81862,
-  "questionNumber": "212642",
+  "questionId": "021-0121",
+  "questionNumber": "021-0121",
   "stemHtml": "When would a gas turbine engine's igniters be used continuously and at what intensity?",
   "options": {
     "a": "High intensity and they are used during engine start-up.",
@@ -10,5 +10,10 @@
     "d": "Low intensity and they are used in situations where there's a risk of engine flameout."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81862,
+    "number": "212642"
+  }
 }

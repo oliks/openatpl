@@ -1,7 +1,7 @@
 {
   "number": 348,
-  "questionId": 67730,
-  "questionNumber": "214742",
+  "questionId": "021-0348",
+  "questionNumber": "021-0348",
   "stemHtml": "<p>Fuel tank air pressure is maintained at ambient by the fuel\u2026</p>",
   "options": {
     "a": "vent system.",
@@ -10,5 +10,10 @@
     "d": "tank drains."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67730,
+    "number": "214742"
+  }
 }

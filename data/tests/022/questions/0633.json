@@ -1,7 +1,7 @@
 {
   "number": 633,
-  "questionId": 81794,
-  "questionNumber": "225068",
+  "questionId": "022-0633",
+  "questionNumber": "022-0633",
   "stemHtml": "The stall warning speed is different from the actual stalling speed of the aeroplane because the\u2026",
   "options": {
     "a": "crew must be warned just after the actual stall to allow stall recovery.",
@@ -10,5 +10,10 @@
     "d": "crew must be warned just before the actual stall to allow stall prevention."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81794,
+    "number": "225068"
+  }
 }

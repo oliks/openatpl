@@ -1,7 +1,7 @@
 {
   "number": 612,
-  "questionId": 68026,
-  "questionNumber": "213035",
+  "questionId": "021-0612",
+  "questionNumber": "021-0612",
   "stemHtml": "<p>In the context of aviation and loadings on an aircraft`s structure\u2026</p>",
   "options": {
     "a": "stress of a material is often known as the Young`s modulus of elasticity.",
@@ -10,5 +10,10 @@
     "d": "the definitions of stress and strain are interchangeable."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68026,
+    "number": "213035"
+  }
 }

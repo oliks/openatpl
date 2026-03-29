@@ -1,7 +1,7 @@
 {
   "number": 364,
-  "questionId": 69272,
-  "questionNumber": "224484",
+  "questionId": "022-0364",
+  "questionNumber": "022-0364",
   "stemHtml": "\nIn a steep turn, the northerly turning error on a direct reading magnetic compass on the northern hemisphere is:\n\n\n\n\n\n",
   "options": {
     "a": "none on a 090\u00b0 heading in a right turn.",
@@ -10,5 +10,10 @@
     "d": "equal to 180\u00b0 on a 270\u00b0 heading in a right turn."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69272,
+    "number": "224484"
+  }
 }

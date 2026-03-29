@@ -1,7 +1,7 @@
 {
   "number": 349,
-  "questionId": 159556,
-  "questionNumber": "215115",
+  "questionId": "021-0349",
+  "questionNumber": "021-0349",
   "stemHtml": "<p>How can a large turbofan engine using an electrical starter generator be started?</p>",
   "options": {
     "a": "<p>From batteries or an APU.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>From two external power sources only.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159556,
+    "number": "215115"
+  }
 }

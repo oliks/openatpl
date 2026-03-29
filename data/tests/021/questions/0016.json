@@ -1,7 +1,7 @@
 {
   "number": 16,
-  "questionId": 67386,
-  "questionNumber": "219706",
+  "questionId": "021-0016",
+  "questionNumber": "021-0016",
   "stemHtml": "<p>The heat for the anti-icing system of a turbofan engine intake is provided by\u2026</p>",
   "options": {
     "a": "bleed air from the HP compressor.",
@@ -10,5 +10,10 @@
     "d": "the electrical system of the aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67386,
+    "number": "219706"
+  }
 }

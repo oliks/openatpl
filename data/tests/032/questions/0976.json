@@ -1,7 +1,7 @@
 {
   "number": 976,
-  "questionId": 112253,
-  "questionNumber": "322596",
+  "questionId": "032-0976",
+  "questionNumber": "032-0976",
   "stemHtml": "<p>On the airspeed indicator of a multi-engine piston light aeroplane, the blue line corresponds to the\u2026</p>",
   "options": {
     "a": "<p>minimum air control speed.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>single-engine holding speed.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112253,
+    "number": "322596"
+  }
 }

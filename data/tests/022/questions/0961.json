@@ -1,7 +1,7 @@
 {
   "number": 961,
-  "questionId": 68570,
-  "questionNumber": "225031",
+  "questionId": "022-0961",
+  "questionNumber": "022-0961",
   "stemHtml": "<p>A TCAS II traffic advisory is displayed as\u2026</p>",
   "options": {
     "a": "<p>an amber solid circle.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a white or cyan empty lozenge.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68570,
+    "number": "225031"
+  }
 }

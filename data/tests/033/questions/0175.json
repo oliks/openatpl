@@ -1,7 +1,7 @@
 {
   "number": 175,
-  "questionId": 84510,
-  "questionNumber": "338619",
+  "questionId": "033-0175",
+  "questionNumber": "033-0175",
   "stemHtml": "What is the difference between an LNAV and an LP approach to the same runway?",
   "options": {
     "a": "There is no significant difference as both use GNSS as reference, so the pilot may choose the one with lowest minima.",
@@ -10,5 +10,10 @@
     "d": "LP follows the Localiser Performance standards, which requires additional equipment on board the aircraft, beyond the standard GNSS."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84510,
+    "number": "338619"
+  }
 }

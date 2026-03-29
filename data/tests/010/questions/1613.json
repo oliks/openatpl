@@ -1,7 +1,7 @@
 {
   "number": 1613,
-  "questionId": 108175,
-  "questionNumber": "103062",
+  "questionId": "010-1613",
+  "questionNumber": "010-1613",
   "stemHtml": "<p>Refer to figure. <br /> \rThe taxiway edge lights should be...</p>",
   "options": {
     "a": "<p>flashing green.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/5c05a045-fa00-4c99-b089-2117803379c8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/5c05a045-fa00-4c99-b089-2117803379c8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108175,
+    "number": "103062"
+  }
 }

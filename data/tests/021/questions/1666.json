@@ -1,7 +1,7 @@
 {
   "number": 1666,
-  "questionId": 81729,
-  "questionNumber": "213314",
+  "questionId": "021-1666",
+  "questionNumber": "021-1666",
   "stemHtml": "Why is it important to clean up any hydraulic fluid spilled on the aircraft fuselage?",
   "options": {
     "a": "Excessive manoeuvrability.",
@@ -10,5 +10,10 @@
     "d": "Risk of corrosion."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81729,
+    "number": "213314"
+  }
 }

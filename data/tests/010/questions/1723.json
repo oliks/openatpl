@@ -1,7 +1,7 @@
 {
   "number": 1723,
-  "questionId": 82867,
-  "questionNumber": "107623",
+  "questionId": "010-1723",
+  "questionNumber": "010-1723",
   "stemHtml": "<p>Who endorses a new type rating? </p>",
   "options": {
     "a": "<p>Competent authority</p>",
@@ -10,5 +10,10 @@
     "d": "The airline company"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82867,
+    "number": "107623"
+  }
 }

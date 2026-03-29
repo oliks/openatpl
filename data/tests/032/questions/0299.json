@@ -1,7 +1,7 @@
 {
   "number": 299,
-  "questionId": 82272,
-  "questionNumber": "329110",
+  "questionId": "032-0299",
+  "questionNumber": "032-0299",
   "stemHtml": "<p>Which of the following statements is true for a turbo-engined aircraft descending in standard conditions?</p>",
   "options": {
     "a": "EAS decreases, TAS and Mach increase.",
@@ -10,5 +10,10 @@
     "d": "EAS, TAS and Mach remain constant and IAS increases."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82272,
+    "number": "329110"
+  }
 }

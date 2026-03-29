@@ -1,7 +1,7 @@
 {
   "number": 397,
-  "questionId": 69864,
-  "questionNumber": "324379",
+  "questionId": "032-0397",
+  "questionNumber": "032-0397",
   "stemHtml": "<p>Performance Class A, Take-Off. The selected V<sub>1</sub> is the balanced V<sub>1</sub>. As a consequence of this the\u2026</p>",
   "options": {
     "a": "All engine take-off distance is equal to the take-off distance available.",
@@ -10,5 +10,10 @@
     "d": "Accelerate stop distance is equal to the engine failure take-off distance."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69864,
+    "number": "324379"
+  }
 }

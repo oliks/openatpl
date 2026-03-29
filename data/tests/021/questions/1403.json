@@ -1,7 +1,7 @@
 {
   "number": 1403,
-  "questionId": 68408,
-  "questionNumber": "214218",
+  "questionId": "021-1403",
+  "questionNumber": "021-1403",
   "stemHtml": "Most old aircraft hydraulic systems operate at _____ PSI and modern aircrafts are typically _____ in value.",
   "options": {
     "a": "<div style=\"\">3000; higher</div>",
@@ -10,5 +10,10 @@
     "d": "2000; lower"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68408,
+    "number": "214218"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 648,
-  "questionId": 67559,
-  "questionNumber": "212661",
+  "questionId": "021-0648",
+  "questionNumber": "021-0648",
   "stemHtml": "<p>The manual mode of a typical aeroplane`s pressurisation control system\u2026</p>",
   "options": {
     "a": "<p>uses a separate circuit to control the operation of the outflow valve(s).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>is only used to fully open or close the outflow valve(s).</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67559,
+    "number": "212661"
+  }
 }

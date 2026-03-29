@@ -1,7 +1,7 @@
 {
   "number": 772,
-  "questionId": 67867,
-  "questionNumber": "217038",
+  "questionId": "021-0772",
+  "questionNumber": "021-0772",
   "stemHtml": "Which of the following will start the APU from the flight deck / cockpit?",
   "options": {
     "a": "Dedicated start switch",
@@ -10,5 +10,10 @@
     "d": "APU bleed switch"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67867,
+    "number": "217038"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1067,
-  "questionId": 81351,
-  "questionNumber": "225830",
+  "questionId": "022-1067",
+  "questionNumber": "022-1067",
   "stemHtml": "<p dir=\"ltr\">Refer to figure.  <br />  What does the TCAS symbol represent?</p>",
   "options": {
     "a": "<p>A Resolution Advisory, inside 6 NM and 1200 ft, 100 ft above me, descending.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/D82B4457-CA82-497E-8C7B-40E29C23EBB6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/D82B4457-CA82-497E-8C7B-40E29C23EBB6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81351,
+    "number": "225830"
+  }
 }

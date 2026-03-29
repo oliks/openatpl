@@ -1,7 +1,7 @@
 {
   "number": 1717,
-  "questionId": 85615,
-  "questionNumber": "214524",
+  "questionId": "021-1717",
+  "questionNumber": "021-1717",
   "stemHtml": "A pilot using a diluter-demand cockpit oxygen mask receives undiluted oxygen on demand. Which of the following selections is this?",
   "options": {
     "a": "Emergency",
@@ -10,5 +10,10 @@
     "d": "Diluter-demand"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85615,
+    "number": "214524"
+  }
 }

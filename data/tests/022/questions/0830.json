@@ -1,7 +1,7 @@
 {
   "number": 830,
-  "questionId": 74640,
-  "questionNumber": "223067",
+  "questionId": "022-0830",
+  "questionNumber": "022-0830",
   "stemHtml": "Refer to figure.   <br />   What is the value of the track from TBX to YTB?",
   "options": {
     "a": "280\u00b0 (T)",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/336C595A-35BD-4AA0-8851-D4E8A5BE837F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/336C595A-35BD-4AA0-8851-D4E8A5BE837F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74640,
+    "number": "223067"
+  }
 }

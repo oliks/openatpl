@@ -1,7 +1,7 @@
 {
   "number": 987,
-  "questionId": 75574,
-  "questionNumber": "329813",
+  "questionId": "032-0987",
+  "questionNumber": "032-0987",
   "stemHtml": "<p>Landing Mass: 35 000 kg<br>Flaps: V<strong><sub>REF</sub></strong><br>15 140 kt<br>30 135 kt<br>45 130 kt</p><p>An airplane is planned to land with a landing mass of 35 000 kg and it is fitted with 200 psi tyres. What is the minimum recommended flap setting on a wet runway usable in order to minimize the risk of hydroplaning?</p>",
   "options": {
     "a": "30",
@@ -10,5 +10,10 @@
     "d": "45"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 75574,
+    "number": "329813"
+  }
 }

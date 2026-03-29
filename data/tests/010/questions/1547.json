@@ -1,7 +1,7 @@
 {
   "number": 1547,
-  "questionId": 78653,
-  "questionNumber": "104185",
+  "questionId": "010-1547",
+  "questionNumber": "010-1547",
   "stemHtml": "<p>Select the option which corresponds to a non-mandatory instruction sign\u2026</p>",
   "options": {
     "a": "Runway-holding position sign.",
@@ -10,5 +10,10 @@
     "d": "No entry sign."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78653,
+    "number": "104185"
+  }
 }

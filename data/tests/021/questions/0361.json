@@ -1,7 +1,7 @@
 {
   "number": 361,
-  "questionId": 67844,
-  "questionNumber": "219138",
+  "questionId": "021-0361",
+  "questionNumber": "021-0361",
   "stemHtml": "<p>The fuel system has many tasks. Its main task is to\u2026</p>",
   "options": {
     "a": "ensure a steady flow of fuel at a rate and pressure to keep the engine functioning.",
@@ -10,5 +10,10 @@
     "d": "balance the aircraft during flight when fuel is being used."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67844,
+    "number": "219138"
+  }
 }

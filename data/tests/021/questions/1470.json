@@ -1,7 +1,7 @@
 {
   "number": 1470,
-  "questionId": 67642,
-  "questionNumber": "217715",
+  "questionId": "021-1470",
+  "questionNumber": "021-1470",
   "stemHtml": "<p>The bending moment on a cantilever wing with a torsion box is carried by the\u2026</p>",
   "options": {
     "a": "<p>upper skin and stringers, the wing root fairing and the spar or spars.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>lower skin and stringers, and the wing root fairing.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67642,
+    "number": "217715"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1605,
-  "questionId": 108908,
-  "questionNumber": "215603",
+  "questionId": "021-1605",
+  "questionNumber": "021-1605",
   "stemHtml": "<p>Which of the following power supplies can be used with a load that can withstand non-constant and unregulated power?</p>",
   "options": {
     "a": "<p>Batteries.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Frequency wild generator.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108908,
+    "number": "215603"
+  }
 }

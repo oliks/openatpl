@@ -1,7 +1,7 @@
 {
   "number": 693,
-  "questionId": 78639,
-  "questionNumber": "106983",
+  "questionId": "010-0693",
+  "questionNumber": "010-0693",
   "stemHtml": "<p>Select the option which correctly completes the following statement.<br><br>The transfer of an aircraft from one ATC unit to another is done\u2026</p>",
   "options": {
     "a": "Automatically before the control zone boundary.",
@@ -10,5 +10,10 @@
     "d": "With the pilot's consent."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78639,
+    "number": "106983"
+  }
 }

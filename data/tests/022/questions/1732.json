@@ -1,7 +1,7 @@
 {
   "number": 1732,
-  "questionId": 102176,
-  "questionNumber": "226376",
+  "questionId": "022-1732",
+  "questionNumber": "022-1732",
   "stemHtml": "<p>How can a pilot steer the correct compass heading while flying?</p>",
   "options": {
     "a": "<p>Contact the ATS or the tower.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Tune in to the VOR station for accurate heading information.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102176,
+    "number": "226376"
+  }
 }

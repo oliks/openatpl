@@ -1,7 +1,7 @@
 {
   "number": 483,
-  "questionId": 69335,
-  "questionNumber": "314780",
+  "questionId": "031-0483",
+  "questionNumber": "031-0483",
   "stemHtml": "<p>If the CG is located at 670 inches, what would be its position as a percentage of the MAC, given the following characteristics of an aircraft?</p><p>Leading Edge MAC: 627.1 inches  <br />  Length of MAC: 155.8 inches</p>",
   "options": {
     "a": "82%",
@@ -10,5 +10,10 @@
     "d": "93.6%"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69335,
+    "number": "314780"
+  }
 }

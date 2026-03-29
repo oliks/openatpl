@@ -1,7 +1,7 @@
 {
   "number": 624,
-  "questionId": 86252,
-  "questionNumber": "228479",
+  "questionId": "022-0624",
+  "questionNumber": "022-0624",
   "stemHtml": "What should pilots watch out for when executing ECAM/EICAS procedures during a flight?",
   "options": {
     "a": "Some actions are irreversible and can cause damage to the aircraft.",
@@ -10,5 +10,10 @@
     "d": "Not having enough time to complete all procedures before landing."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86252,
+    "number": "228479"
+  }
 }

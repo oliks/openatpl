@@ -1,7 +1,7 @@
 {
   "number": 619,
-  "questionId": 101954,
-  "questionNumber": "329746",
+  "questionId": "032-0619",
+  "questionNumber": "032-0619",
   "stemHtml": "<p>A large jet transport aeroplane's speed schedule is usually 250 kt (below FL100) / 300 kt / M.80 in climb, cruise and descent. If a lower cost index than normal was used, which of the following speeds might be used instead?</p>",
   "options": {
     "a": "<p>240 kt (below FL100) / 320 kt / M.82</p>",
@@ -10,5 +10,10 @@
     "d": "<p>280 kt (below FL100) / 310 kt / M.81</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101954,
+    "number": "329746"
+  }
 }

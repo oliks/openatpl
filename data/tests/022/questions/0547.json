@@ -1,7 +1,7 @@
 {
   "number": 547,
-  "questionId": 86018,
-  "questionNumber": "221890",
+  "questionId": "022-0547",
+  "questionNumber": "022-0547",
   "stemHtml": "There are two types of software certifications for EFB systems. These are...",
   "options": {
     "a": "A and B.",
@@ -10,5 +10,10 @@
     "d": "Laptop or tablet."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86018,
+    "number": "221890"
+  }
 }

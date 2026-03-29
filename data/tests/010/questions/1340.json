@@ -1,7 +1,7 @@
 {
   "number": 1340,
-  "questionId": 66719,
-  "questionNumber": "106827",
+  "questionId": "010-1340",
+  "questionNumber": "010-1340",
   "stemHtml": "<p>According to FCL requirements for the issue of the ATPL(A), of the required 1500 hours of total flight time, the minimum instrument time shall be\u2026</p>",
   "options": {
     "a": "100 hours, of which not more than 30 hours may be instrument ground time.",
@@ -10,5 +10,10 @@
     "d": "75 hours, of which not more than 20 hours may be instrument ground time."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66719,
+    "number": "106827"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 790,
-  "questionId": 96479,
-  "questionNumber": "216637",
+  "questionId": "021-0790",
+  "questionNumber": "021-0790",
   "stemHtml": "Which of these properties is desirable in the materials used for constructing an airframe.",
   "options": {
     "a": "High susceptibility to corrosion.",
@@ -10,5 +10,10 @@
     "d": "High strength-to-weight ratio."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96479,
+    "number": "216637"
+  }
 }

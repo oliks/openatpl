@@ -1,7 +1,7 @@
 {
   "number": 607,
-  "questionId": 79346,
-  "questionNumber": "104397",
+  "questionId": "010-0607",
+  "questionNumber": "010-0607",
   "stemHtml": "The first-officer and the flight attendant disagree with a PIC decision. What is correct?",
   "options": {
     "a": "The PIC has the last word as to the disposition of the aircraft.",
@@ -10,5 +10,10 @@
     "d": "The decision must be made by the first-officer and the flight attendant because they are a majority."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79346,
+    "number": "104397"
+  }
 }

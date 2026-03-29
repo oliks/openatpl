@@ -1,7 +1,7 @@
 {
   "number": 796,
-  "questionId": 83927,
-  "questionNumber": "108077",
+  "questionId": "010-0796",
+  "questionNumber": "010-0796",
   "stemHtml": "<p>When is an aircraft likely to be intercepted?</p>",
   "options": {
     "a": "When deviating from the route without evidence/without a valid reason.",
@@ -10,5 +10,10 @@
     "d": "When deviating TAS for 3%."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83927,
+    "number": "108077"
+  }
 }

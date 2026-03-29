@@ -1,7 +1,7 @@
 {
   "number": 197,
-  "questionId": 70955,
-  "questionNumber": "333619",
+  "questionId": "033-0197",
+  "questionNumber": "033-0197",
   "stemHtml": "<p>Refer to figure Enroute_ED-4_VFR from GSPRM Training Route Manual 2017.\u00a0<br>For a planned and authorized landing on a grassland 5 NM east of RODING VOR (RDG, N49\u00b002', E012\u00b032'), a frequency of 120.65 MHz is used to request the latest QNH for the nearby Straubing airfield. Which of the following is the corresponding call sign?</p>",
   "options": {
     "a": "<div>Straubing Radar</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/5C57A005-5008-4287-BB74-305FF1509917.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5C57A005-5008-4287-BB74-305FF1509917.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70955,
+    "number": "333619"
+  }
 }

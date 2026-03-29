@@ -1,7 +1,7 @@
 {
   "number": 1608,
-  "questionId": 80215,
-  "questionNumber": "224410",
+  "questionId": "022-1608",
+  "questionNumber": "022-1608",
   "stemHtml": "<p>When flying an approach in low visibility using Head-Up Displays (HUD), the crew finds that some of their view of the outside world is obscured by HUD data. How shall they do?</p>",
   "options": {
     "a": "Activate the \"declutter\" function to remove all but essential flight data.",
@@ -10,5 +10,10 @@
     "d": "Turn off the HUD and fly visually."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80215,
+    "number": "224410"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 148,
-  "questionId": 69030,
-  "questionNumber": "222296",
+  "questionId": "022-0148",
+  "questionNumber": "022-0148",
   "stemHtml": "<p>The signal transmitted by a radio altimeter is\u2026</p>",
   "options": {
     "a": "a frequency modulated carrier wave.",
@@ -10,5 +10,10 @@
     "d": "a pulse modulated carrier wave."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69030,
+    "number": "222296"
+  }
 }

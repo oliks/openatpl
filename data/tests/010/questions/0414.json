@@ -1,7 +1,7 @@
 {
   "number": 414,
-  "questionId": 66996,
-  "questionNumber": "109978",
+  "questionId": "010-0414",
+  "questionNumber": "010-0414",
   "stemHtml": "<p>Wake turbulence separation between arriving aircraft \u2013 The minimum wake turbulence separation for landing to be applied between a MEDIUM aircraft and an HEAVY aircraft is...</p>",
   "options": {
     "a": "<p>2 minutes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>4 minutes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66996,
+    "number": "109978"
+  }
 }

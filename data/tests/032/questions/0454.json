@@ -1,7 +1,7 @@
 {
   "number": 454,
-  "questionId": 69879,
-  "questionNumber": "322183",
+  "questionId": "032-0454",
+  "questionNumber": "032-0454",
   "stemHtml": "For jet-propulsion aeroplanes, the maximum endurance speed corresponds with the...",
   "options": {
     "a": "<p>mach long-range.</p>",
@@ -10,5 +10,10 @@
     "d": "maximum rate-of-climb speed."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69879,
+    "number": "322183"
+  }
 }

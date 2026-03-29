@@ -1,7 +1,7 @@
 {
   "number": 793,
-  "questionId": 96190,
-  "questionNumber": "219422",
+  "questionId": "021-0793",
+  "questionNumber": "021-0793",
   "stemHtml": "Which of the following components would NOT be found as part of the wet-sump oil system of a piston engine?",
   "options": {
     "a": "A separate oil reservoir.",
@@ -10,5 +10,10 @@
     "d": "A pump to provide oil flow to the engine."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96190,
+    "number": "219422"
+  }
 }

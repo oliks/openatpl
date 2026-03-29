@@ -1,7 +1,7 @@
 {
   "number": 1432,
-  "questionId": 80100,
-  "questionNumber": "217189",
+  "questionId": "021-1432",
+  "questionNumber": "021-1432",
   "stemHtml": "<p>Select the correct/incorrect statements regarding cockpit windows:</p><p>1. Cockpit windows never have an additional speed restriction, related to bird impact, when window heating is inoperative<br>2. Cockpit side windows are usually defogged only</p>",
   "options": {
     "a": "<p>1. correct, 2. correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1. incorrect, 2. incorrect.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80100,
+    "number": "217189"
+  }
 }

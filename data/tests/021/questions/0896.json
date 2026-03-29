@@ -1,7 +1,7 @@
 {
   "number": 896,
-  "questionId": 68142,
-  "questionNumber": "214546",
+  "questionId": "021-0896",
+  "questionNumber": "021-0896",
   "stemHtml": "For aircraft equipped with a landing gear anti retract latch, which of these statements is correct?",
   "options": {
     "a": "This system can be overridden under specified conditions.",
@@ -10,5 +10,10 @@
     "d": "This system blocks gear retraction at too high IAS."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68142,
+    "number": "214546"
+  }
 }

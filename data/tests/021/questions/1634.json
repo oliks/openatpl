@@ -1,7 +1,7 @@
 {
   "number": 1634,
-  "questionId": 68203,
-  "questionNumber": "216932",
+  "questionId": "021-1634",
+  "questionNumber": "021-1634",
   "stemHtml": "<p>The function of the flap load relief system is to\u2026</p>",
   "options": {
     "a": "<p>Automatically retract the flaps when in landing configuration.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Extend flaps at the correct operational speeds.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68203,
+    "number": "216932"
+  }
 }

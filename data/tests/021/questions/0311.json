@@ -1,7 +1,7 @@
 {
   "number": 311,
-  "questionId": 78036,
-  "questionNumber": "216994",
+  "questionId": "021-0311",
+  "questionNumber": "021-0311",
   "stemHtml": "<p>Refer to figure. <br>GEN 1 suffers from a voltage overload and as a result the internal exciter breaker opens. The flight crew are instructed to switch off the generator using the overhead push button. The new configuration will be\u2026</p>",
   "options": {
     "a": "Generator breaker 1 (C 1-1) opens and both bus-tie-breakers close.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/B847B667-ADF5-4A8E-883B-0D6AB571BC29.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/B847B667-ADF5-4A8E-883B-0D6AB571BC29.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78036,
+    "number": "216994"
+  }
 }

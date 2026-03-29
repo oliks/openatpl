@@ -1,7 +1,7 @@
 {
   "number": 117,
-  "questionId": 100109,
-  "questionNumber": "214460",
+  "questionId": "021-0117",
+  "questionNumber": "021-0117",
   "stemHtml": "<p>On most transport aircraft, flight deck windows are heated to\u2026</p>",
   "options": {
     "a": "Increase resistance.",
@@ -10,5 +10,10 @@
     "d": "Serve as a rain repellent."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100109,
+    "number": "214460"
+  }
 }

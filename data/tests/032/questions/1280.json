@@ -1,7 +1,7 @@
 {
   "number": 1280,
-  "questionId": 69681,
-  "questionNumber": "325811",
+  "questionId": "032-1280",
+  "questionNumber": "032-1280",
   "stemHtml": "Which of the following factors leads to the maximum flight time of a glide?",
   "options": {
     "a": "Headwind.",
@@ -10,5 +10,10 @@
     "d": "Tailwind."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69681,
+    "number": "325811"
+  }
 }

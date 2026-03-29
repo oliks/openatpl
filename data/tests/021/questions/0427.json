@@ -1,7 +1,7 @@
 {
   "number": 427,
-  "questionId": 101812,
-  "questionNumber": "213743",
+  "questionId": "021-0427",
+  "questionNumber": "021-0427",
   "stemHtml": "<p>What is the main purpose of flight-deck windshield heating?</p>",
   "options": {
     "a": "<p>To increase impact resistance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>There is no purpose.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101812,
+    "number": "213743"
+  }
 }

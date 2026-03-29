@@ -1,7 +1,7 @@
 {
   "number": 398,
-  "questionId": 83303,
-  "questionNumber": "229970",
+  "questionId": "022-0398",
+  "questionNumber": "022-0398",
   "stemHtml": "What input does the ADC need to obtain TAS from CAS?",
   "options": {
     "a": "<p>SAT</p>",
@@ -10,5 +10,10 @@
     "d": "Dynamic pressure"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83303,
+    "number": "229970"
+  }
 }

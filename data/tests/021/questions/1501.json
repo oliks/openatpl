@@ -1,7 +1,7 @@
 {
   "number": 1501,
-  "questionId": 106567,
-  "questionNumber": "212577",
+  "questionId": "021-1501",
+  "questionNumber": "021-1501",
   "stemHtml": "<p>What is the function of the boots as a leading edge device?</p>",
   "options": {
     "a": "<p>De-icing only</p>",
@@ -10,5 +10,10 @@
     "d": "<p>None of the above</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106567,
+    "number": "212577"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1738,
-  "questionId": 80496,
-  "questionNumber": "109567",
+  "questionId": "010-1738",
+  "questionNumber": "010-1738",
   "stemHtml": "<p>Which option is correct as regards to Air Traffic Advisory Services or Air Traffic Control Services? Air Traffic\u2026</p>",
   "options": {
     "a": "<p>Advisory Services deliver \u201cclearances\u201d and \u201cadvisory information\u201d and do NOT use the word \u201csuggest\u201d....</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Advisory Services do NOT deliver \u201cclearances\u201d but only \u201cadvisory information\u201d and can use the word \u201csuggest\u201d....</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80496,
+    "number": "109567"
+  }
 }

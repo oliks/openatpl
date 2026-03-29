@@ -1,7 +1,7 @@
 {
   "number": 517,
-  "questionId": 80285,
-  "questionNumber": "319393",
+  "questionId": "031-0517",
+  "questionNumber": "031-0517",
   "stemHtml": "Some aircraft are equipped with fuel trim tanks located in the aeroplane\u2019s fin or horizontal stabiliser to actively manage CG position. What is a potential disadvantage of such a system?",
   "options": {
     "a": "If fuel becomes trapped in this location then an out of CG limit situation may develop.",
@@ -10,5 +10,10 @@
     "d": "A much increased work load for the flight crew."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80285,
+    "number": "319393"
+  }
 }

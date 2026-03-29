@@ -1,7 +1,7 @@
 {
   "number": 669,
-  "questionId": 164247,
-  "questionNumber": "313980",
+  "questionId": "031-0669",
+  "questionNumber": "031-0669",
   "stemHtml": "<p>The Centre of Gravity (CG) as a % of MAC is 100 multiplied by?\u00a0</p>",
   "options": {
     "a": "<p>(Lemac - Mac) / L</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(L-Lemac) / Mac</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164247,
+    "number": "313980"
+  }
 }

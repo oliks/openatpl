@@ -1,7 +1,7 @@
 {
   "number": 66,
-  "questionId": 82076,
-  "questionNumber": "213519",
+  "questionId": "021-0066",
+  "questionNumber": "021-0066",
   "stemHtml": "<p>In reference to piston engines, what is meant by the term 'swept volume'?</p>",
   "options": {
     "a": "<p>The volume displaced by the piston during a single stroke.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The volume displaced by the piston during a full cycle.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82076,
+    "number": "213519"
+  }
 }

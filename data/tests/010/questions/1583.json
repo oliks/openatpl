@@ -1,7 +1,7 @@
 {
   "number": 1583,
-  "questionId": 67231,
-  "questionNumber": "106159",
+  "questionId": "010-1583",
+  "questionNumber": "010-1583",
   "stemHtml": "Which of the following refers to the state of design?",
   "options": {
     "a": "It shall ensure that there exists a continuing structural integrity program to ensure the airworthiness of aeroplanes above 5 700 kg.",
@@ -10,5 +10,10 @@
     "d": "It performs the investigation if an accident occurs in the territory of a contracting state."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67231,
+    "number": "106159"
+  }
 }

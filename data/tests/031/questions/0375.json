@@ -1,7 +1,7 @@
 {
   "number": 375,
-  "questionId": 106341,
-  "questionNumber": "312313",
+  "questionId": "031-0375",
+  "questionNumber": "031-0375",
   "stemHtml": "<p>Refer to figure. <br /> \rAccording to the diagrams indicating the CG position %MAC of four different aircraft, what is the most stable aircraft?</p>",
   "options": {
     "a": "<p>Aircraft B.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/63f0b187-a783-4bfd-879a-ba60f40bb0b5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/63f0b187-a783-4bfd-879a-ba60f40bb0b5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106341,
+    "number": "312313"
+  }
 }

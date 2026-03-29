@@ -1,7 +1,7 @@
 {
   "number": 1299,
-  "questionId": 70760,
-  "questionNumber": "333353",
+  "questionId": "033-1299",
+  "questionNumber": "033-1299",
   "stemHtml": "<p>Refer to figure or CAP 697 Figure 4.5.3.2 for Pressure Altitude 35 000 ft.<br>What will be the approximate change in ground distance available from 1000 kg of fuel for the following situation if the headwind increases from 25 kt to 35 kt?</p><p>Aircraft mass at start of cruise leg: 65 000 kg <br>Cruise level: FL350 <br>Cruise speed: Mach 0.74 <br>Forecast OAT at FL350: -65\u00b0C <br>Headwind at FL350: 25 kt</p>",
   "options": {
     "a": "An increase of 10 NM.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/70837df8-cdda-47e4-8dd5-189094170328.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/70837df8-cdda-47e4-8dd5-189094170328.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70760,
+    "number": "333353"
+  }
 }

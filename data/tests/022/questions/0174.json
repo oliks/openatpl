@@ -1,7 +1,7 @@
 {
   "number": 174,
-  "questionId": 160257,
-  "questionNumber": "222114",
+  "questionId": "022-0174",
+  "questionNumber": "022-0174",
   "stemHtml": "<p>What supplies an aeroplane condition monitoring system (ACMS) with its input data?</p>",
   "options": {
     "a": "<p>DFDAU</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADC</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160257,
+    "number": "222114"
+  }
 }

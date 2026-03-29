@@ -1,7 +1,7 @@
 {
   "number": 1102,
-  "questionId": 107212,
-  "questionNumber": "223642",
+  "questionId": "022-1102",
+  "questionNumber": "022-1102",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat happens if you press the SPEED button on the MCP when the autothrottle is armed?  </p>",
   "options": {
     "a": "<p>The MCP selected speed will be held</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/4a44a794-a92d-456c-a4e6-899f3efa0ab8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/4a44a794-a92d-456c-a4e6-899f3efa0ab8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107212,
+    "number": "223642"
+  }
 }

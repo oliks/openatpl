@@ -1,7 +1,7 @@
 {
   "number": 1461,
-  "questionId": 81770,
-  "questionNumber": "229981",
+  "questionId": "022-1461",
+  "questionNumber": "022-1461",
   "stemHtml": "What type of drift would instrument error cause in a conventional gyroscope?",
   "options": {
     "a": "Transport wander.",
@@ -10,5 +10,10 @@
     "d": "Earth rotation error."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81770,
+    "number": "229981"
+  }
 }

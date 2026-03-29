@@ -1,7 +1,7 @@
 {
   "number": 475,
-  "questionId": 106955,
-  "questionNumber": "317580",
+  "questionId": "031-0475",
+  "questionNumber": "031-0475",
   "stemHtml": "<p>Refer to figure. <br /> \rA Boeing 737-900 with 160 seats is carrying out a domestic commercial air transport flight, with a scheduled traffic load of 18 230 kg. However, a connecting flight is delayed and so 6 adults and 2 children will miss the flight along with 110 kg of their baggage. What will be the final Traffic Load now, if the Operator uses \"all adult\" standard masses?</p>",
   "options": {
     "a": "<p>17 616 kg.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/b1dacc2f-6da9-47cf-b87e-9b757964b15f.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/b1dacc2f-6da9-47cf-b87e-9b757964b15f.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106955,
+    "number": "317580"
+  }
 }

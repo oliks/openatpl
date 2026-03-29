@@ -1,7 +1,7 @@
 {
   "number": 597,
-  "questionId": 82704,
-  "questionNumber": "109941",
+  "questionId": "010-0597",
+  "questionNumber": "010-0597",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich option below has the correct order to fit the PAPIs showing?</p>",
   "options": {
     "a": "<p>(I.) On or close to the approach slope; (II.) above the approach slope.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/d5216dcd-733a-4ab1-a80e-54d1801708b8.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/d5216dcd-733a-4ab1-a80e-54d1801708b8.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82704,
+    "number": "109941"
+  }
 }

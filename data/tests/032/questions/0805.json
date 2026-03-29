@@ -1,7 +1,7 @@
 {
   "number": 805,
-  "questionId": 81449,
-  "questionNumber": "326584",
+  "questionId": "032-0805",
+  "questionNumber": "032-0805",
   "stemHtml": "<p dir=\"ltr\">Aircraft-type-specific procedures for take-off and landing on contaminated runways can be found in the Operations Manual _____, under Normal procedures.</p>",
   "options": {
     "a": "<p dir=\"ltr\">Part B</p>",
@@ -10,5 +10,10 @@
     "d": "Part A"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81449,
+    "number": "326584"
+  }
 }

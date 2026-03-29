@@ -1,7 +1,7 @@
 {
   "number": 1251,
-  "questionId": 104792,
-  "questionNumber": "326929",
+  "questionId": "032-1251",
+  "questionNumber": "032-1251",
   "stemHtml": "<p>Refer to figure. <br /> \rSelect the graph that correctly illustrates the change to the power required curve with increasing altitude.</p>",
   "options": {
     "a": "<p>Figure 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/590af786-5b0e-4914-8c0f-17c204e54ef5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/590af786-5b0e-4914-8c0f-17c204e54ef5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104792,
+    "number": "326929"
+  }
 }

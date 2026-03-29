@@ -1,7 +1,7 @@
 {
   "number": 464,
-  "questionId": 70281,
-  "questionNumber": "324725",
+  "questionId": "032-0464",
+  "questionNumber": "032-0464",
   "stemHtml": "<p>Uphill slope\u2026</p>",
   "options": {
     "a": "increases the allowed take-off mass.",
@@ -10,5 +10,10 @@
     "d": "decreases the take-off distance only."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70281,
+    "number": "324725"
+  }
 }

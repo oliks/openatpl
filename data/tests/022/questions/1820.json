@@ -1,7 +1,7 @@
 {
   "number": 1820,
-  "questionId": 82025,
-  "questionNumber": "222446",
+  "questionId": "022-1820",
+  "questionNumber": "022-1820",
   "stemHtml": "In the navigation database, waypoint 'EASAT' is defined by the intersection of 'HSBJ' VOR radial 320 and radial 263 from 'HSBM' VOR. This waypoint is a...",
   "options": {
     "a": "place/distance (PD) waypoint.",
@@ -10,5 +10,10 @@
     "d": "latitude/longitude coordinates waypoint."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82025,
+    "number": "222446"
+  }
 }

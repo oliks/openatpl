@@ -1,7 +1,7 @@
 {
   "number": 368,
-  "questionId": 69664,
-  "questionNumber": "322642",
+  "questionId": "032-0368",
+  "questionNumber": "032-0368",
   "stemHtml": "The Cost Index (CI) can be defined as the...",
   "options": {
     "a": "fuel flow, expressed as kg/min.",
@@ -10,5 +10,10 @@
     "d": "ratio of the actual cost of the fuel to the average price at a reference airport."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69664,
+    "number": "322642"
+  }
 }

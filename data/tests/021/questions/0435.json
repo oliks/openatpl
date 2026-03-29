@@ -1,7 +1,7 @@
 {
   "number": 435,
-  "questionId": 67517,
-  "questionNumber": "218647",
+  "questionId": "021-0435",
+  "questionNumber": "021-0435",
   "stemHtml": "What is the name of the mode in which 100% oxygen is inhaled on demand?",
   "options": {
     "a": "Diluter-demand.",
@@ -10,5 +10,10 @@
     "d": "100%."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67517,
+    "number": "218647"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 109,
-  "questionId": 107453,
-  "questionNumber": "109925",
+  "questionId": "010-0109",
+  "questionNumber": "010-0109",
   "stemHtml": "<p>Choose the correct options. Alerting service should be provided to aircraft:</p><p>1. under air traffic control<br>2. that did not arrive after more than 15 minutes of the estimated time of arrival<br>3. whose last radio contact was more than 15 minutes ago<br>4. that have filed a flight plan<br>5. that are known to the ATS<br>6. that are known or believed to be subject to an act of unlawful interference</p>",
   "options": {
     "a": "<p>1, 2, 4 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3, 4 and 5</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107453,
+    "number": "109925"
+  }
 }

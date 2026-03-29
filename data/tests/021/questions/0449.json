@@ -1,7 +1,7 @@
 {
   "number": 449,
-  "questionId": 101869,
-  "questionNumber": "214601",
+  "questionId": "021-0449",
+  "questionNumber": "021-0449",
   "stemHtml": "<p>The source of air to pressurise the reservoir of an aircraft&#39;s hydraulic system is normally...</p>\r\n",
   "options": {
     "a": "<p>Bleed air tapped from the compressor.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The aircraft`s ram air system.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101869,
+    "number": "214601"
+  }
 }

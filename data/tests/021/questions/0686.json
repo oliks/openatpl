@@ -1,7 +1,7 @@
 {
   "number": 686,
-  "questionId": 68401,
-  "questionNumber": "216510",
+  "questionId": "021-0686",
+  "questionNumber": "021-0686",
   "stemHtml": "Which of the following statements regarding loads and stresses is correct?",
   "options": {
     "a": "Possible loads on an object are bending and torsion.",
@@ -10,5 +10,10 @@
     "d": "Strain is a measure of deformation of the fuselage."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68401,
+    "number": "216510"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 197,
-  "questionId": 82167,
-  "questionNumber": "315232",
+  "questionId": "031-0197",
+  "questionNumber": "031-0197",
   "stemHtml": "<p>Before departure for a flight, the load controller presents to you cargo documents for boxes containing spare parts. These boxes have a total mass of 4500 kg. If you accept all the boxes, given the following information, what will be the Underload/Overload?</p><p>Allowed Take-Off Mass: 76 720 kg <br>Maximum Zero Fuel Mass: 62 731 kg <br>Operating Mass: 58 799 kg <br>Actual Zero Fuel Mass: 55 063 kg <br>Actual Traffic Load (without the boxes): 12 563 kg <br>Take-off fuel: 16 299 kg</p><p>Disregard changes in fuel due to the increase in Total Mass. <br>Consider no restrictions on structural limits and Allowed Landing Mass.</p>",
   "options": {
     "a": "<p>An Overload of 3168 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An Underload of 858 kg.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82167,
+    "number": "315232"
+  }
 }

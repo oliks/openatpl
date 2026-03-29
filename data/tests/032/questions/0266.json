@@ -1,7 +1,7 @@
 {
   "number": 266,
-  "questionId": 79520,
-  "questionNumber": "328287",
+  "questionId": "032-0266",
+  "questionNumber": "032-0266",
   "stemHtml": "<p>The minimum available gross climb gradient for a twin-engine aeroplane in performance Class A in the third segment of the net take-off flight path is\u2026</p>",
   "options": {
     "a": "Only level acceleration is required.",
@@ -10,5 +10,10 @@
     "d": "2.7%"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79520,
+    "number": "328287"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1707,
-  "questionId": 108329,
-  "questionNumber": "221156",
+  "questionId": "022-1707",
+  "questionNumber": "022-1707",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat action should a pilot take when referring to the annexed image of an EVSI in a Resolution Advisory (RA) situation?</p>",
   "options": {
     "a": "<p>Descend at a rate within the green band while avoiding the red zones.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/89dedd65-a5b0-4f1b-9b05-b88cfb7bef37.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/89dedd65-a5b0-4f1b-9b05-b88cfb7bef37.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108329,
+    "number": "221156"
+  }
 }

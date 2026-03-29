@@ -1,7 +1,7 @@
 {
   "number": 1114,
-  "questionId": 111567,
-  "questionNumber": "102940",
+  "questionId": "010-1114",
+  "questionNumber": "010-1114",
   "stemHtml": "<p>Refer to figure. <br /> \rIn the attached figure, B1 and B5 refer to which of the following lengths for a CAT I precision approach?</p>",
   "options": {
     "a": "<p>15 m / 450 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/4f3d59ee-732e-486d-bf76-194f4151f918.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/4f3d59ee-732e-486d-bf76-194f4151f918.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111567,
+    "number": "102940"
+  }
 }

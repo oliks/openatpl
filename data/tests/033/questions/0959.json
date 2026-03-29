@@ -1,7 +1,7 @@
 {
   "number": 959,
-  "questionId": 81462,
-  "questionNumber": "332297",
+  "questionId": "033-0959",
+  "questionNumber": "033-0959",
   "stemHtml": "<p>PBN 3D approaches are:</p><p>1. GNSS + VNAV <br /> 2. GLS <br /> 3. PAR <br /> 4. RNP 1 <br /> 5. ILS <br /> 6. SBAS</p>",
   "options": {
     "a": "1, 2, 3, 4 and 6.",
@@ -10,5 +10,10 @@
     "d": "1 and 6."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81462,
+    "number": "332297"
+  }
 }

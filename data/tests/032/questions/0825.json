@@ -1,7 +1,7 @@
 {
   "number": 825,
-  "questionId": 79531,
-  "questionNumber": "326146",
+  "questionId": "032-0825",
+  "questionNumber": "032-0825",
   "stemHtml": "<p>Landing with a tailwind will increase the landing distance required because\u2026</p>",
   "options": {
     "a": "The braking efficiency is decreased.",
@@ -10,5 +10,10 @@
     "d": "The indicated threshold speed must be increased."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79531,
+    "number": "326146"
+  }
 }

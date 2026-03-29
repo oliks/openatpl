@@ -1,7 +1,7 @@
 {
   "number": 509,
-  "questionId": 100535,
-  "questionNumber": "327089",
+  "questionId": "032-0509",
+  "questionNumber": "032-0509",
   "stemHtml": "<p>Refer to figure or to CAP 698 Figure 3.10.<br>Given the following information, calculate the field-length limited landing mass and 50 ft barrier speed for a performance class b aeroplane.</p><p>OAT: +15\u00b0C <br>Aerodrome pressure altitude: 6000 ft <br>10 kt headwind component <br>Defactored landing distance: 2075 ft <br>Short field landing technique</p>",
   "options": {
     "a": "3200 lb, 70 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/bbb9919d-4f74-4cb1-94aa-2b05126b2439.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/bbb9919d-4f74-4cb1-94aa-2b05126b2439.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100535,
+    "number": "327089"
+  }
 }

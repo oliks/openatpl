@@ -1,7 +1,7 @@
 {
   "number": 558,
-  "questionId": 81345,
-  "questionNumber": "102164",
+  "questionId": "010-0558",
+  "questionNumber": "010-0558",
   "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> In accordance with ICAO Annex 14, what does the attached sign mean?</p>",
   "options": {
     "a": "<p dir=\"ltr\">Runway-holding position sign</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/CFD40EDB-38A4-44F1-B875-2D14E855751E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/CFD40EDB-38A4-44F1-B875-2D14E855751E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81345,
+    "number": "102164"
+  }
 }

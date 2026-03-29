@@ -1,7 +1,7 @@
 {
   "number": 1139,
-  "questionId": 80128,
-  "questionNumber": "219411",
+  "questionId": "021-1139",
+  "questionNumber": "021-1139",
   "stemHtml": "How does the rain repellent coating on a windscreen work?",
   "options": {
     "a": "It reduces the size of the droplets to form a film over the screen.",
@@ -10,5 +10,10 @@
     "d": "The water forms beads which roll off the screen."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80128,
+    "number": "219411"
+  }
 }

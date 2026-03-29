@@ -1,7 +1,7 @@
 {
   "number": 37,
-  "questionId": 70964,
-  "questionNumber": "339488",
+  "questionId": "033-0037",
+  "questionNumber": "033-0037",
   "stemHtml": "<p>Refer to figure or AMSTERDAM - Chart 10-2 from Jeppesen GSPRM 2017.\u00a0<br>What is the clearance limit of the given STAR chart?</p>",
   "options": {
     "a": "ARTIP",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3AC345E6-784E-47D3-8D84-363F717F69D6.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3AC345E6-784E-47D3-8D84-363F717F69D6.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70964,
+    "number": "339488"
+  }
 }

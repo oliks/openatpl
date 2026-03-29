@@ -1,7 +1,7 @@
 {
   "number": 1630,
-  "questionId": 161624,
-  "questionNumber": "216806",
+  "questionId": "021-1630",
+  "questionNumber": "021-1630",
   "stemHtml": "<p>What is the working principle of a Smith detector system?</p>",
   "options": {
     "a": "<p>Detects a pressure change when ice builds on the probe.   <br />    </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Is based on pressure readings at the static ports.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161624,
+    "number": "216806"
+  }
 }

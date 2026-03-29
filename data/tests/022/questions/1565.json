@@ -1,7 +1,7 @@
 {
   "number": 1565,
-  "questionId": 109420,
-  "questionNumber": "222469",
+  "questionId": "022-1565",
+  "questionNumber": "022-1565",
   "stemHtml": "<p>During descent, the VSI shows 0. What is the cause?</p>",
   "options": {
     "a": "<p>Outflow Valve completely open.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>This is normal.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109420,
+    "number": "222469"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 732,
-  "questionId": 108417,
-  "questionNumber": "212694",
+  "questionId": "021-0732",
+  "questionNumber": "021-0732",
   "stemHtml": "<p>Which of the following options is true regarding steel brakes in comparison to carbon brakes?</p>",
   "options": {
     "a": "<p>Their wear is proportional to brake pressure rather than number of applications.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Steel brakes have a longer service life than carbon brakes.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108417,
+    "number": "212694"
+  }
 }

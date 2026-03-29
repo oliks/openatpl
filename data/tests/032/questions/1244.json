@@ -1,7 +1,7 @@
 {
   "number": 1244,
-  "questionId": 85203,
-  "questionNumber": "328198",
+  "questionId": "032-1244",
+  "questionNumber": "032-1244",
   "stemHtml": "What is on the lowest point of the power-required/power-available graph on a propeller aircraft?",
   "options": {
     "a": "Speed for best endurance.",
@@ -10,5 +10,10 @@
     "d": "Speed for lowest range."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85203,
+    "number": "328198"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1087,
-  "questionId": 81186,
-  "questionNumber": "216858",
+  "questionId": "021-1087",
+  "questionNumber": "021-1087",
   "stemHtml": "<p>The bypass ratio of a turbofan engine is a comparison between the\u2026</p>",
   "options": {
     "a": "Total air mass drawn into the engine with the air mass that goes through the engine core.",
@@ -10,5 +10,10 @@
     "d": "Air mass that bypasses the engine core with the total air mass that exits the engine."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81186,
+    "number": "216858"
+  }
 }

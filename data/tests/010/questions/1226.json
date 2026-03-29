@@ -1,7 +1,7 @@
 {
   "number": 1226,
-  "questionId": 100190,
-  "questionNumber": "101729",
+  "questionId": "010-1226",
+  "questionNumber": "010-1226",
   "stemHtml": "An aircraft is executing a VFR departure in a Class C airspace. What type of traffic should the crew be monitoring for?",
   "options": {
     "a": "VFR as separation is not provided between VFR traffics.",
@@ -10,5 +10,10 @@
     "d": "Both VFR and IFR."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100190,
+    "number": "101729"
+  }
 }

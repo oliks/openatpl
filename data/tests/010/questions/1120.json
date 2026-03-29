@@ -1,7 +1,7 @@
 {
   "number": 1120,
-  "questionId": 67269,
-  "questionNumber": "103789",
+  "questionId": "010-1120",
+  "questionNumber": "010-1120",
   "stemHtml": "To minimize damage to aircraft, airfield signs shall be...",
   "options": {
     "a": "rigid",
@@ -10,5 +10,10 @@
     "d": "frangible"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67269,
+    "number": "103789"
+  }
 }

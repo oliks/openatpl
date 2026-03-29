@@ -1,7 +1,7 @@
 {
   "number": 1226,
-  "questionId": 67375,
-  "questionNumber": "213278",
+  "questionId": "021-1226",
+  "questionNumber": "021-1226",
   "stemHtml": "Consider a flat rated twin-spool turbofan with conventional hydro-mechanical fuel control. When using maximum take-off thrust at an outside air temperature OAT that is below the flat rated temperature:",
   "options": {
     "a": "thrust depends on fuel density.",
@@ -10,5 +10,10 @@
     "d": "the thrust lever is not positioned at the maximum stop."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67375,
+    "number": "213278"
+  }
 }

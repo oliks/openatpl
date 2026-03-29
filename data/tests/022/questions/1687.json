@@ -1,7 +1,7 @@
 {
   "number": 1687,
-  "questionId": 68469,
-  "questionNumber": "226875",
+  "questionId": "022-1687",
+  "questionNumber": "022-1687",
   "stemHtml": "<p>Total Air Temperature (TAT) is\u2026</p>",
   "options": {
     "a": "<p>Higher or equal to Static Air Temperature (SAT).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Lower than Static Air Temperature (SAT).</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68469,
+    "number": "226875"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1192,
-  "questionId": 69874,
-  "questionNumber": "326697",
+  "questionId": "032-1192",
+  "questionNumber": "032-1192",
   "stemHtml": "All other things being equal, if a take-off is performed with a headwind component, the take-off distance is...",
   "options": {
     "a": "reduced, because the lift-off speed is reached earlier.",
@@ -10,5 +10,10 @@
     "d": "the same, because it only depends on the air density."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69874,
+    "number": "326697"
+  }
 }

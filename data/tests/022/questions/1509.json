@@ -1,7 +1,7 @@
 {
   "number": 1509,
-  "questionId": 68883,
-  "questionNumber": "227878",
+  "questionId": "022-1509",
+  "questionNumber": "022-1509",
   "stemHtml": "<p>An Aeroplane Condition Monitoring System (ACMS) makes use of aircraft input data and also\u2026</p>",
   "options": {
     "a": "a headset jack, a data management unit, and outputs (e.g. a printer or ACARS).",
@@ -10,5 +10,10 @@
     "d": "a data management unit, a recording unit, and outputs (e.g. a printer or ACARS)."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68883,
+    "number": "227878"
+  }
 }

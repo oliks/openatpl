@@ -1,7 +1,7 @@
 {
   "number": 390,
-  "questionId": 69290,
-  "questionNumber": "226477",
+  "questionId": "022-0390",
+  "questionNumber": "022-0390",
   "stemHtml": "An aeroplane is flying at FL300 and Mach number 0.36. The indicated total air temperature is -19\u00b0C. Considering that the probe recovery coefficient is 0.84, the present weather conditions (OAT) compared with the standard atmosphere are:",
   "options": {
     "a": "standard conditions.",
@@ -10,5 +10,10 @@
     "d": "standard -21\u00b0C."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69290,
+    "number": "226477"
+  }
 }

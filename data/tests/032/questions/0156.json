@@ -1,7 +1,7 @@
 {
   "number": 156,
-  "questionId": 82525,
-  "questionNumber": "323391",
+  "questionId": "032-0156",
+  "questionNumber": "032-0156",
   "stemHtml": "Which of the following speed schedules, applicable to the same aeroplane, represents the highest cost index?",
   "options": {
     "a": "Climb: 340 kt / M 0.80, Cruise: M 0.80, Descent: M 0.80/340 kt",
@@ -10,5 +10,10 @@
     "d": "<p>Climb: 255 kt / M 0.80, Cruise: M 0.80, Descent: M 0.80/245 Kt</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82525,
+    "number": "323391"
+  }
 }

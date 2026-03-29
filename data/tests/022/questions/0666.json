@@ -1,7 +1,7 @@
 {
   "number": 666,
-  "questionId": 84606,
-  "questionNumber": "224888",
+  "questionId": "022-0666",
+  "questionNumber": "022-0666",
   "stemHtml": "<p>A single element of the autoland system fails. Is it still possible to safely use the autoland function but without the flare mode?</p>",
   "options": {
     "a": "Yes, as PF is always ready to fly manually and land the plane but only after passing the alert height.",
@@ -10,5 +10,10 @@
     "d": "No, because the rollout mode is frozen at 50 ft."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84606,
+    "number": "224888"
+  }
 }

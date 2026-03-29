@@ -1,7 +1,7 @@
 {
   "number": 1527,
-  "questionId": 108138,
-  "questionNumber": "109613",
+  "questionId": "010-1527",
+  "questionNumber": "010-1527",
   "stemHtml": "<p>What is the AIP part that contains details about the anti-collision lights?</p>",
   "options": {
     "a": "<p>AD.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>AIP Supplement.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108138,
+    "number": "109613"
+  }
 }

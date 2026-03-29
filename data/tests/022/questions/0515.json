@@ -1,7 +1,7 @@
 {
   "number": 515,
-  "questionId": 68488,
-  "questionNumber": "222518",
+  "questionId": "022-0515",
+  "questionNumber": "022-0515",
   "stemHtml": "<p>The pendulous vane can be found on\u2026</p>",
   "options": {
     "a": "a strap down inertial system.",
@@ -10,5 +10,10 @@
     "d": "a directional gyro indicator."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68488,
+    "number": "222518"
+  }
 }

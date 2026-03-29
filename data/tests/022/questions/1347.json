@@ -1,7 +1,7 @@
 {
   "number": 1347,
-  "questionId": 79715,
-  "questionNumber": "223358",
+  "questionId": "022-1347",
+  "questionNumber": "022-1347",
   "stemHtml": "A manifold pressure gauge is consistently registering atmospheric pressure. What may be the cause?",
   "options": {
     "a": "Too high float level.",
@@ -10,5 +10,10 @@
     "d": "Leak in pressure gauge line."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79715,
+    "number": "223358"
+  }
 }

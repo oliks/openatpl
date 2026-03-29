@@ -1,7 +1,7 @@
 {
   "number": 1037,
-  "questionId": 70112,
-  "questionNumber": "323674",
+  "questionId": "032-1037",
+  "questionNumber": "032-1037",
   "stemHtml": "Refer to figure.<br />\r\nA twin engine aeroplane with data provided in the annex is flying for Long Range Cruise LRC at FL340 and in ISA +20\u00b0C conditions. Find the N1 Mach number and fuel consumption if the aeroplane mass is 71000 kg and the CG is at 33% MAC.",
   "options": {
     "a": "88.9 , M 0.775 and 166.7 NM/1000 kg.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/BF08ADE0-A3E7-4363-BD07-90D8699CBC01.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/BF08ADE0-A3E7-4363-BD07-90D8699CBC01.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70112,
+    "number": "323674"
+  }
 }

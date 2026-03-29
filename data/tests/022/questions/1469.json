@@ -1,7 +1,7 @@
 {
   "number": 1469,
-  "questionId": 81221,
-  "questionNumber": "224334",
+  "questionId": "022-1469",
+  "questionNumber": "022-1469",
   "stemHtml": "<p dir=\"ltr\">You are pilot monitoring on a CAT IIIB approach in LVO descending below alert height, when suddenly you get an ILS signal failure. Choose the correct action.</p>",
   "options": {
     "a": "<p dir=\"ltr\">Provided that visual references have been established, the approach may be continued manually.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">Call \u00abCheck FMA\u00bb.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81221,
+    "number": "224334"
+  }
 }

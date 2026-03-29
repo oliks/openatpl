@@ -1,7 +1,7 @@
 {
   "number": 1447,
-  "questionId": 66898,
-  "questionNumber": "103923",
+  "questionId": "010-1447",
+  "questionNumber": "010-1447",
   "stemHtml": "When should the latest QNH altimeter setting for the aerodrome be obtained?",
   "options": {
     "a": "When descending below the transition level.",
@@ -10,5 +10,10 @@
     "d": "When descending through the transition layer."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66898,
+    "number": "103923"
+  }
 }

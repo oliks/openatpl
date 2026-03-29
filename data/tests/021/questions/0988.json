@@ -1,7 +1,7 @@
 {
   "number": 988,
-  "questionId": 68112,
-  "questionNumber": "212497",
+  "questionId": "021-0988",
+  "questionNumber": "021-0988",
   "stemHtml": "Refer to figure.  <br />  Which part of the main landing gear is shown by the number 4?",
   "options": {
     "a": "Side stay/strut.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/553EF9F2-BF17-4752-8F85-FCB976CDE88C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/553EF9F2-BF17-4752-8F85-FCB976CDE88C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68112,
+    "number": "212497"
+  }
 }

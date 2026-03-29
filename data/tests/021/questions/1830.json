@@ -1,7 +1,7 @@
 {
   "number": 1830,
-  "questionId": 84582,
-  "questionNumber": "213194",
+  "questionId": "021-1830",
+  "questionNumber": "021-1830",
   "stemHtml": "<p>The flight crew must be notified if a large amount of lithium batteries are being carried in cargo compartments, as these batteries...</p>",
   "options": {
     "a": "explode when the cabin altitude is too high because of the differential pressure.",
@@ -10,5 +10,10 @@
     "d": "have the potential to start an uncontrolled chain reaction when an individual cell is damaged."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84582,
+    "number": "213194"
+  }
 }

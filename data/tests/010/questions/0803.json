@@ -1,7 +1,7 @@
 {
   "number": 803,
-  "questionId": 85488,
-  "questionNumber": "103282",
+  "questionId": "010-0803",
+  "questionNumber": "010-0803",
   "stemHtml": "<p>A flight is passing a compulsory reporting point, flying with a serviceable transponder mode C. The pilot monitoring makes the position report, \"Bigjet 337, MAVEK 47, FL280, ATTEK 57\". Which of the following would be an acceptable alternative way of making that position report?</p>",
   "options": {
     "a": "Bigjet 337, MAVEK 47, ATTEK 57",
@@ -10,5 +10,10 @@
     "d": "Bigjet 337, FL280, ATTEK 57"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85488,
+    "number": "103282"
+  }
 }

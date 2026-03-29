@@ -1,7 +1,7 @@
 {
   "number": 1062,
-  "questionId": 77982,
-  "questionNumber": "215244",
+  "questionId": "021-1062",
+  "questionNumber": "021-1062",
   "stemHtml": "The aircraft system which requires the highest amount of hydraulic flow is the...",
   "options": {
     "a": "Horizontal trimmable stabiliser.",
@@ -10,5 +10,10 @@
     "d": "Constant speed drive (CSD)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77982,
+    "number": "215244"
+  }
 }

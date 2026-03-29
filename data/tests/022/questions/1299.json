@@ -1,7 +1,7 @@
 {
   "number": 1299,
-  "questionId": 68536,
-  "questionNumber": "226503",
+  "questionId": "022-1299",
+  "questionNumber": "022-1299",
   "stemHtml": "The float type fuel quantity measurement system is calibrated in:",
   "options": {
     "a": "mass units and the result that the indication does not vary with the temperature of the fuel.",
@@ -10,5 +10,10 @@
     "d": "volume units and the indication does not vary with the temperature of the fuel."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68536,
+    "number": "226503"
+  }
 }

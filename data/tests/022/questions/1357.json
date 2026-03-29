@@ -1,7 +1,7 @@
 {
   "number": 1357,
-  "questionId": 111544,
-  "questionNumber": "224655",
+  "questionId": "022-1357",
+  "questionNumber": "022-1357",
   "stemHtml": "<p>Which of the following statements is correct if an aircraft is maintaining a constant altitude with the autopilot and autothrust engaged?</p>",
   "options": {
     "a": "<p>The autothrust maintains the altitude (ALT HOLD) and the autopilot maintains the IAS (SPD).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The autothrust maintains the TAS (SPD) and the autopilot maintains the altitude (ALT HOLD).</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111544,
+    "number": "224655"
+  }
 }

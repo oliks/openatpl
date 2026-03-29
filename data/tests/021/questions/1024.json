@@ -1,7 +1,7 @@
 {
   "number": 1024,
-  "questionId": 68397,
-  "questionNumber": "216551",
+  "questionId": "021-1024",
+  "questionNumber": "021-1024",
   "stemHtml": "<p>When the battery ammeter shows \"+24\" the battery\u2026</p>",
   "options": {
     "a": "is being discharged with 24 A.",
@@ -10,5 +10,10 @@
     "d": "is being charged with 24 A."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68397,
+    "number": "216551"
+  }
 }

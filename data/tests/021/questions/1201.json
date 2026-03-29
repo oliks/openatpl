@@ -1,7 +1,7 @@
 {
   "number": 1201,
-  "questionId": 105442,
-  "questionNumber": "216069",
+  "questionId": "021-1201",
+  "questionNumber": "021-1201",
   "stemHtml": "<p>What is the safest method to prime a piston engine aircraft before starting?</p>",
   "options": {
     "a": "<p>By injecting neat fuel into the inlet manifold.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Rotate the propeller with the throttle fully open.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105442,
+    "number": "216069"
+  }
 }

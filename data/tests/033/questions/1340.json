@@ -1,7 +1,7 @@
 {
   "number": 1340,
-  "questionId": 163167,
-  "questionNumber": "331344",
+  "questionId": "033-1340",
+  "questionNumber": "033-1340",
   "stemHtml": "<p>Refer to figure.\u00a0<br>What is the total fuel capacity for an aeroplane fitted with the tanks listed below?</p><p>Left Wing Tank\u00a0<br>Right Wing Tank\u00a0<br>Centre Tank\u00a0<br>1 Additional Centre Tank</p>",
   "options": {
     "a": "<p>7932 USG</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/f2542574-d9f6-4e5c-9f5f-850d10a8c4ae.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f2542574-d9f6-4e5c-9f5f-850d10a8c4ae.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163167,
+    "number": "331344"
+  }
 }

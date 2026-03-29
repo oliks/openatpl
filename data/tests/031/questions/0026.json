@@ -1,7 +1,7 @@
 {
   "number": 26,
-  "questionId": 69397,
-  "questionNumber": "317419",
+  "questionId": "031-0026",
+  "questionNumber": "031-0026",
   "stemHtml": "<p>Given the following information, calculate the Zero Fuel Mass.</p><p>Take-Off Mass: 9000 kg<br>Total fuel on board: 1900 kg<br>Reserve fuel: 300 kg<br>Unusable fuel: 20 kg<br>Traffic load: 1000 kg</p>",
   "options": {
     "a": "7120 kg",
@@ -10,5 +10,10 @@
     "d": "7100 kg"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69397,
+    "number": "317419"
+  }
 }

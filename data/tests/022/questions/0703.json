@@ -1,7 +1,7 @@
 {
   "number": 703,
-  "questionId": 68593,
-  "questionNumber": "227415",
+  "questionId": "022-0703",
+  "questionNumber": "022-0703",
   "stemHtml": "<p>In a gyromagnetic compass, the gyro axis:</p><p>1 \u2013 is maintained vertical<br>2 \u2013 is maintained horizontal<br>3 \u2013 is servo-controlled in azimuth<br>4 \u2013 is free in azimuth</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>1, 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 4.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68593,
+    "number": "227415"
+  }
 }

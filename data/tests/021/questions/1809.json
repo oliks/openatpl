@@ -1,7 +1,7 @@
 {
   "number": 1809,
-  "questionId": 67487,
-  "questionNumber": "215156",
+  "questionId": "021-1809",
+  "questionNumber": "021-1809",
   "stemHtml": "<p>A warning will be given if the cabin altitude exceeds.</p>",
   "options": {
     "a": "<p>10 000 ft.</p>",
@@ -10,5 +10,10 @@
     "d": "8000 ft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67487,
+    "number": "215156"
+  }
 }

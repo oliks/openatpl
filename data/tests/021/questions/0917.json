@@ -1,7 +1,7 @@
 {
   "number": 917,
-  "questionId": 79763,
-  "questionNumber": "219608",
+  "questionId": "021-0917",
+  "questionNumber": "021-0917",
   "stemHtml": "Which of these statements concerning oxygen on board of passenger transport aeroplanes is correct?",
   "options": {
     "a": "Since lavatories are not fitted with an oxygen system, they should be evacuated quickly in case of decompression.",
@@ -10,5 +10,10 @@
     "d": "Lavatories are equipped with oxygen masks in case of a decompression."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79763,
+    "number": "219608"
+  }
 }

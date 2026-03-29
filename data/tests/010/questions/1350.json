@@ -1,7 +1,7 @@
 {
   "number": 1350,
-  "questionId": 163431,
-  "questionNumber": "109852",
+  "questionId": "010-1350",
+  "questionNumber": "010-1350",
   "stemHtml": "<p>Which of the following correctly describes the end of the initial go-around segment?</p>",
   "options": {
     "a": "<p>The point where obstacle clearance of 164 ft can be guaranteed.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The point of achieving a positive ROC.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163431,
+    "number": "109852"
+  }
 }

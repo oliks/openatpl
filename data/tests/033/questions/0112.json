@@ -1,7 +1,7 @@
 {
   "number": 112,
-  "questionId": 70759,
-  "questionNumber": "331597",
+  "questionId": "033-0112",
+  "questionNumber": "033-0112",
   "stemHtml": "When can the commander of a Commercial Air Transport flight plan on using the Final Reserve Fuel?",
   "options": {
     "a": "This is prohibited as such fuel is for emergency use only.",
@@ -10,5 +10,10 @@
     "d": "In case of an unexpected diversion."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70759,
+    "number": "331597"
+  }
 }

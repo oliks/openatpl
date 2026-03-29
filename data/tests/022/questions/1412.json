@@ -1,7 +1,7 @@
 {
   "number": 1412,
-  "questionId": 68474,
-  "questionNumber": "222361",
+  "questionId": "022-1412",
+  "questionNumber": "022-1412",
   "stemHtml": "<p>During a climb, the total pressure probe of the airspeed indicator becomes blocked; if the pilot tries to maintain a constant IAS, the TAS\u2026</p>",
   "options": {
     "a": "decreases by 1% per 600 FT.",
@@ -10,5 +10,10 @@
     "d": "decreases until reaching the stall speed."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68474,
+    "number": "222361"
+  }
 }

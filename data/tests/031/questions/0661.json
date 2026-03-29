@@ -1,7 +1,7 @@
 {
   "number": 661,
-  "questionId": 108111,
-  "questionNumber": "313566",
+  "questionId": "031-0661",
+  "questionNumber": "031-0661",
   "stemHtml": "<p>Refer to figure or CAP 696 file 4.12. <br>Given the following information, determine the CG % MAC at Take-Off Mass (TOM);</p><p>Take-off Mass (TOM): 55 080 kg <br>Zero Fuel Mass (ZFM): 45 000 kg <br>Take-off Fuel: 10 080 kg <br>Take-off Index: 23.3 <br>Zero Fuel Index: 25.4 <br>Passenger Distribution: <br>0a = 5 <br>0c = 5 <br>0f = 7\u2003 <br>Fuel Index: -4 <br>Dry Operating Index: 24</p>",
   "options": {
     "a": "<p>10 % MAC</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/d869fb3e-ab89-4d20-9929-55f0189503d6.jpeg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/d869fb3e-ab89-4d20-9929-55f0189503d6.jpeg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108111,
+    "number": "313566"
+  }
 }

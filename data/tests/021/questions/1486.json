@@ -1,7 +1,7 @@
 {
   "number": 1486,
-  "questionId": 67753,
-  "questionNumber": "217126",
+  "questionId": "021-1486",
+  "questionNumber": "021-1486",
   "stemHtml": "<p>What is the purpose of the oil and the nitrogen in an oleo-pneumatic strut?</p>",
   "options": {
     "a": "<p>The oil supplies the spring function and the nitrogen supplies the damping function.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The oil supplies the damping and lubrication function, and the nitrogen supplies the heat-dissipation function.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67753,
+    "number": "217126"
+  }
 }

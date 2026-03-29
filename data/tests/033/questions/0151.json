@@ -1,7 +1,7 @@
 {
   "number": 151,
-  "questionId": 70938,
-  "questionNumber": "333649",
+  "questionId": "033-0151",
+  "questionNumber": "033-0151",
   "stemHtml": "<p>Refer to figure or Chart \"E(LO)2\" from Jeppesen GSPRM 2017.<br>You are flying on M90 from BERGI to LONAM (page 8 sectors C & D). Which of the following special use airspaces will you be passing through?</p>",
   "options": {
     "a": "EH(D)-09",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3E562655-6B6D-4A93-92F5-98BC35AA0F60.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3E562655-6B6D-4A93-92F5-98BC35AA0F60.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70938,
+    "number": "333649"
+  }
 }

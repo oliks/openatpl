@@ -1,7 +1,7 @@
 {
   "number": 1044,
-  "questionId": 107368,
-  "questionNumber": "339218",
+  "questionId": "033-1044",
+  "questionNumber": "033-1044",
   "stemHtml": "<p>The ATC instructs the pilot of an aircraft flying in IMC and over mountainous terrain to descend from FL100 to FL70. The temperature is ISA +15<strong>\u00b0</strong>C and the QNH, reported from a nearby airfield with an elevation of 300 ft, is 975 hPa. What is the true altitude at FL70 that the pilot must use to confirm a safe terrain clearance before descending to the new flight level?</p><p>Use 1 hPa = 30 ft</p>",
   "options": {
     "a": "<p>5860 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>6195 ft</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107368,
+    "number": "339218"
+  }
 }

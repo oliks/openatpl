@@ -1,7 +1,7 @@
 {
   "number": 542,
-  "questionId": 109503,
-  "questionNumber": "332847",
+  "questionId": "033-0542",
+  "questionNumber": "033-0542",
   "stemHtml": "<p>Consider a Commercial Air Transport aeroplane flight. Which of the items listed below are the reasons given in the European Regulations on Air Operations for conducting and recording fuel checks at regular intervals?</p><p>1. To compare actual consumption with planned consumption<br>2. To check the effect of operational impacts and ensure that at least the final reserve fuel will remain upon arrival at the destination<br>3. To ensure fuel consumption remains as economical as possible</p>",
   "options": {
     "a": "<p>1 only</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2 and 3</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109503,
+    "number": "332847"
+  }
 }

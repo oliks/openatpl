@@ -1,7 +1,7 @@
 {
   "number": 891,
-  "questionId": 85087,
-  "questionNumber": "216626",
+  "questionId": "021-0891",
+  "questionNumber": "021-0891",
   "stemHtml": "Which of the following is the best way to prevent lithium ion batteries from becoming a fire hazard?",
   "options": {
     "a": "<p>Completely cover the battery in a metal vented casing.</p>",
@@ -10,5 +10,10 @@
     "d": "Make sure the battery is being continuously charged during flight."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85087,
+    "number": "216626"
+  }
 }

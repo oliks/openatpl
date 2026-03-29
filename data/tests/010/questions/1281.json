@@ -1,7 +1,7 @@
 {
   "number": 1281,
-  "questionId": 66615,
-  "questionNumber": "109616",
+  "questionId": "010-1281",
+  "questionNumber": "010-1281",
   "stemHtml": "Search and Rescue \u2013 During the hours of darkness, which of the following signals made by aircraft mean that the ground signals have been understood?",
   "options": {
     "a": "Flashing on and off twice the aircraft`s landing lights or, if not so equipped, its navigation lights.",
@@ -10,5 +10,10 @@
     "d": "Overflying the ground signals twice on a North-South heading."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66615,
+    "number": "109616"
+  }
 }

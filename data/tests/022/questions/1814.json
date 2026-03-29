@@ -1,7 +1,7 @@
 {
   "number": 1814,
-  "questionId": 79294,
-  "questionNumber": "223794",
+  "questionId": "022-1814",
+  "questionNumber": "022-1814",
   "stemHtml": "<p>Which of the following will be affected by a radio altimeter failure?</p><p>1. Air Data Computer <br>2. Autothrust<br>3. GPWS<br>4. Altitude alert system</p>",
   "options": {
     "a": "2 and 3.",
@@ -10,5 +10,10 @@
     "d": "1 and 3."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79294,
+    "number": "223794"
+  }
 }

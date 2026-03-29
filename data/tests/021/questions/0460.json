@@ -1,7 +1,7 @@
 {
   "number": 460,
-  "questionId": 67785,
-  "questionNumber": "211454",
+  "questionId": "021-0460",
+  "questionNumber": "021-0460",
   "stemHtml": "Refer to figure. <br /> GEN 2 can be used to feed the AC BUS 1, when: (NB: all contactors not mentioned are assumed to remain open)",
   "options": {
     "a": "C1.4, C2.2 and C2.1 are closed.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/B3D1BB0B-EA01-40DC-A63A-4FDE477DEE1D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/B3D1BB0B-EA01-40DC-A63A-4FDE477DEE1D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67785,
+    "number": "211454"
+  }
 }

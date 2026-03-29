@@ -1,7 +1,7 @@
 {
   "number": 511,
-  "questionId": 70076,
-  "questionNumber": "322418",
+  "questionId": "032-0511",
+  "questionNumber": "032-0511",
   "stemHtml": "<p>Given:</p><p>BRP: 3420 ft AMSL <br>Runway slope: 1.3% Downhill <br>TODR: 2760 m <br>Obstacle elevation: 3785 ft</p><p>Calculate the obstacle height above reference zero for the MRJT.</p><p> </p>",
   "options": {
     "a": "247.3 ft",
@@ -10,5 +10,10 @@
     "d": "482.7 ft"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70076,
+    "number": "322418"
+  }
 }

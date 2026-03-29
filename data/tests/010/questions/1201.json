@@ -1,7 +1,7 @@
 {
   "number": 1201,
-  "questionId": 66971,
-  "questionNumber": "102845",
+  "questionId": "010-1201",
+  "questionNumber": "010-1201",
   "stemHtml": "On routes defined by designated significant points, when shall position reports be made by the aircraft?",
   "options": {
     "a": "Only when requested by the ATS unit serving the airspace.",
@@ -10,5 +10,10 @@
     "d": "Five minutes before reaching each compulsory reporting point."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66971,
+    "number": "102845"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1286,
-  "questionId": 96780,
-  "questionNumber": "102659",
+  "questionId": "010-1286",
+  "questionNumber": "010-1286",
   "stemHtml": "The pilot of an aircraft flying IMC on an airway is uncertain about maintaining the required lateral separation from another aircraft. How can ATC verify if the necessary lateral separation between the aircraft is maintained?",
   "options": {
     "a": "Check that their tracks are more than 15\u00b0 divergent using NDB, at a distance of at least 10 NM.",
@@ -10,5 +10,10 @@
     "d": "Check that their tracks are more than 30\u00b0 divergent using VOR, at a distance of at least 15 NM."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96780,
+    "number": "102659"
+  }
 }

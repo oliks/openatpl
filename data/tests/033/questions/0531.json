@@ -1,7 +1,7 @@
 {
   "number": 531,
-  "questionId": 107750,
-  "questionNumber": "333260",
+  "questionId": "033-0531",
+  "questionNumber": "033-0531",
   "stemHtml": "<p>An IFR flight has been given descent instructions below the Minimum Safe Altitude (MSA) but above the Minimum Vectoring Altitude (MVA). The temperature is ISA -10\u00b0C. Who is responsible for terrain separation?</p>",
   "options": {
     "a": "<p>The PIC and the routing should not be accepted.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The Controller and the PIC should accept the routing.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107750,
+    "number": "333260"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 593,
-  "questionId": 80184,
-  "questionNumber": "228983",
+  "questionId": "022-0593",
+  "questionNumber": "022-0593",
   "stemHtml": "<p>What are the main parameters recorded on the FDR?</p><p>(i) time or relative time count  <br />  (ii) pitch and roll attitude  <br />  (iii) yaw attitude  <br />  (iv) airspeed  <br />  (v) pressure altitude  <br />  (vi) heading  <br />  (vii) normal acceleration  <br />  (viii) propulsive/thrust power on each engine  <br />  (ix) cockpit thrust/power lever position  <br />  (x) flaps/slats configuration or cockpit selection  <br />  (xi) ground spoilers and/or speed brake selection</p>",
   "options": {
     "a": "All, except (i).",
@@ -10,5 +10,10 @@
     "d": "All, except (xi)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80184,
+    "number": "228983"
+  }
 }

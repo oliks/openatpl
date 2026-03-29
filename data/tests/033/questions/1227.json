@@ -1,7 +1,7 @@
 {
   "number": 1227,
-  "questionId": 83000,
-  "questionNumber": "338109",
+  "questionId": "033-1227",
+  "questionNumber": "033-1227",
   "stemHtml": "Refer to figure.   <br />   The figure depicts a fuel plan as created by a flight planning tool for a return flight LFPG-EIDW-LFPG. During the pre-flight preparations, the Operations Department calls the pilot and advises him/her to refuel at LFPG, due to some fuel-supply issues at EIDW. In order to reduce the environmental impact, the pilot will consider the least possible fuel tankering. What is the MINIMUM amount of fuel tankering to ensure the target fuel for EIDW-LFPG remains on board after landing at EIDW?",
   "options": {
     "a": "5506 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/66CBA4AA-159E-4DEF-BDF9-6892A5C3337F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/66CBA4AA-159E-4DEF-BDF9-6892A5C3337F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83000,
+    "number": "338109"
+  }
 }

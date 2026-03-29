@@ -1,7 +1,7 @@
 {
   "number": 1297,
-  "questionId": 67211,
-  "questionNumber": "108580",
+  "questionId": "010-1297",
+  "questionNumber": "010-1297",
   "stemHtml": "<p>Above FL290 the vertical separation between aircraft on reciprocal tracks will be\u2026</p>",
   "options": {
     "a": "<p>1000 ft within RVSM airspace, 2000 ft within all other airspace.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2000 ft.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67211,
+    "number": "108580"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 155,
-  "questionId": 82547,
-  "questionNumber": "109812",
+  "questionId": "010-0155",
+  "questionNumber": "010-0155",
   "stemHtml": "An aircraft is conducting an approach to an aerodrome when there is a runway lighting failure, which eventually requires a diversion to be made. What type of report should be made?",
   "options": {
     "a": "Maintenance report.",
@@ -10,5 +10,10 @@
     "d": "Special Air report."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82547,
+    "number": "109812"
+  }
 }

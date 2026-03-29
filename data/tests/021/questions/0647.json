@@ -1,7 +1,7 @@
 {
   "number": 647,
-  "questionId": 111614,
-  "questionNumber": "211855",
+  "questionId": "021-0647",
+  "questionNumber": "021-0647",
   "stemHtml": "<p>Which of the following can be used to monitor the operation of an aircraft turbine engine?</p>\r\r<p>1. Chip detector caution light <br /> \r2. Fuel filter bypass caution light <br /> \r3. Fuel flow meter <br /> \r4. Hydraulic pressure gauge <br /> \r5. Oil pressure gauge <br /> \r6. Oil temperature gauge <br /> \r7. Outside air temperature gauge</p>",
   "options": {
     "a": "<p>1, 2, 3, 4 and 5</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3, 5, 6 and 7</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111614,
+    "number": "211855"
+  }
 }

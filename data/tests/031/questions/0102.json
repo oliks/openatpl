@@ -1,7 +1,7 @@
 {
   "number": 102,
-  "questionId": 82170,
-  "questionNumber": "316146",
+  "questionId": "031-0102",
+  "questionNumber": "031-0102",
   "stemHtml": "Following the acceptance of the Load Sheet and the Operational Flight Plan, the Commander decides to refuel his/her aircraft with 1618 US gallons at a specific gravity of 0.8. The fuel mass loaded on board is...",
   "options": {
     "a": "2222 lb",
@@ -10,5 +10,10 @@
     "d": "<p>10 801 lb</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82170,
+    "number": "316146"
+  }
 }

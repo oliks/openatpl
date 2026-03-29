@@ -1,7 +1,7 @@
 {
   "number": 252,
-  "questionId": 67526,
-  "questionNumber": "216860",
+  "questionId": "021-0252",
+  "questionNumber": "021-0252",
   "stemHtml": "What is an advantage of a fly-by-wire system compared with a conventional flight control system?",
   "options": {
     "a": "Weight saving",
@@ -10,5 +10,10 @@
     "d": "Profile drag reduction"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67526,
+    "number": "216860"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 150,
-  "questionId": 69370,
-  "questionNumber": "319078",
+  "questionId": "031-0150",
+  "questionNumber": "031-0150",
   "stemHtml": "<p>Refer to figure. <br>At the Maximum Landing Mass the range of safe CG positions, as determined from the appropriate graph in the loading manual, is\u2026</p>",
   "options": {
     "a": "<p>Forward limit 8.0% MAC aft limit 27.2% MAC</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/1e04bb60-6221-436f-bdc8-14e70d7521ef.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/1e04bb60-6221-436f-bdc8-14e70d7521ef.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69370,
+    "number": "319078"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 301,
-  "questionId": 81611,
-  "questionNumber": "108681",
+  "questionId": "010-0301",
+  "questionNumber": "010-0301",
   "stemHtml": "According to the collection and storage policy of EU regulation No. 376/2014, the operator should designate one or more persons that collects all the reports\u2026",
   "options": {
     "a": "And will conduct the investigation of accidents and serious incidents with a third-party member state. But mainly the voluntary reporting occurrences.",
@@ -10,5 +10,10 @@
     "d": "And will evaluate, process, analyze and store them."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81611,
+    "number": "108681"
+  }
 }

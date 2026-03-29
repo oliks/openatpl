@@ -1,7 +1,7 @@
 {
   "number": 983,
-  "questionId": 70777,
-  "questionNumber": "335424",
+  "questionId": "033-0983",
+  "questionNumber": "033-0983",
   "stemHtml": "<p>An airway is marked 3500T 2100 a. This indicates that\u2026</p>",
   "options": {
     "a": "the airway is a low level link route 2100 ft 3500 ft MSL.",
@@ -10,5 +10,10 @@
     "d": "the minimum enroute altitude MEA is 3500 ft."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70777,
+    "number": "335424"
+  }
 }

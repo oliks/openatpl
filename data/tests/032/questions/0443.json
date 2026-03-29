@@ -1,7 +1,7 @@
 {
   "number": 443,
-  "questionId": 96404,
-  "questionNumber": "324644",
+  "questionId": "032-0443",
+  "questionNumber": "032-0443",
   "stemHtml": "You are flying an airplane during descent with a constant Mach number. From the following speeds, which one would be the first to be exceeded if no action was taken?",
   "options": {
     "a": "V<sub>NO</sub>",
@@ -10,5 +10,10 @@
     "d": "V<sub>LE</sub>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96404,
+    "number": "324644"
+  }
 }

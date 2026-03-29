@@ -1,7 +1,7 @@
 {
   "number": 1639,
-  "questionId": 84844,
-  "questionNumber": "103151",
+  "questionId": "010-1639",
+  "questionNumber": "010-1639",
   "stemHtml": "<p>How would the condition of a runway be described, if there was enough water present to cause a change in surface colour?</p>",
   "options": {
     "a": "Humid",
@@ -10,5 +10,10 @@
     "d": "Damp"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84844,
+    "number": "103151"
+  }
 }

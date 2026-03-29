@@ -1,7 +1,7 @@
 {
   "number": 1141,
-  "questionId": 69099,
-  "questionNumber": "228203",
+  "questionId": "022-1141",
+  "questionNumber": "022-1141",
   "stemHtml": "<p>The sideslip indication displayed on the PFD can derive its information from the\u2026</p>",
   "options": {
     "a": "ADC.",
@@ -10,5 +10,10 @@
     "d": "inertial system."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69099,
+    "number": "228203"
+  }
 }

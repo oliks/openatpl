@@ -1,7 +1,7 @@
 {
   "number": 784,
-  "questionId": 78726,
-  "questionNumber": "229729",
+  "questionId": "022-0784",
+  "questionNumber": "022-0784",
   "stemHtml": "<p>In an attitude indicator, the gyroscope used has a spin axis which is\u2026</p>",
   "options": {
     "a": "<p>Vertical.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Horizontal, perpendicular to the longitudinal axis.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78726,
+    "number": "229729"
+  }
 }

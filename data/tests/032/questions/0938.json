@@ -1,7 +1,7 @@
 {
   "number": 938,
-  "questionId": 80374,
-  "questionNumber": "324444",
+  "questionId": "032-0938",
+  "questionNumber": "032-0938",
   "stemHtml": "Following a decompression at 37 000 ft and with no structural integrity issues, what initial speed and configuration must be flown in the descent?",
   "options": {
     "a": "M<sub>MO</sub>/V<sub>MO</sub> with flaps and speed brakes deployed.",
@@ -10,5 +10,10 @@
     "d": "V<sub>MO</sub> with speed brakes deployed."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80374,
+    "number": "324444"
+  }
 }

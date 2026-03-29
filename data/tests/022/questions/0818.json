@@ -1,7 +1,7 @@
 {
   "number": 818,
-  "questionId": 103275,
-  "questionNumber": "225875",
+  "questionId": "022-0818",
+  "questionNumber": "022-0818",
   "stemHtml": "<p>What actions will TCAS take when using radar altitude below a specific threshold?</p>",
   "options": {
     "a": "<p>Inhibit RA at a certain height.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Coordinate TA.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103275,
+    "number": "225875"
+  }
 }

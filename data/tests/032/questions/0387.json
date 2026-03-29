@@ -1,7 +1,7 @@
 {
   "number": 387,
-  "questionId": 80352,
-  "questionNumber": "322892",
+  "questionId": "032-0387",
+  "questionNumber": "032-0387",
   "stemHtml": "<p>A single-engine class B aeroplane has the following wind limitations:</p><p>Crosswind: 17 kt <br>Headwind: 30 kt <br>Tailwind: 10 kt <br>Consider a take-off from runway 20 with wind from 265\u00b0. <br><br>Using trigonometry, determine the wind speed which allows to stay below the crosswind limit of 17 kt and take-off: <br>(2 decimal places for the calculations)</p>",
   "options": {
     "a": "19 kt",
@@ -10,5 +10,10 @@
     "d": "<p>40 kt</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80352,
+    "number": "322892"
+  }
 }

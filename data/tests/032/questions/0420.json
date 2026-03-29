@@ -1,7 +1,7 @@
 {
   "number": 420,
-  "questionId": 85662,
-  "questionNumber": "328175",
+  "questionId": "032-0420",
+  "questionNumber": "032-0420",
   "stemHtml": "<p>You are about to take-off at Mykonos airport in Greece on a short runway 1905 m facing the sea in a large jet transport aircraft. For this take-off, you are not limited by the climb gradient, which of the following allowable take-off configurations is best to obtain the maximum runway length limited TOM?</p><p>Configuration 1: 1 stage of slats and flaps <br /> Configuration 2: 2 stages of slats and flaps <br /> Configuration 3: 2 stages of slats and 3 stages of flaps</p>",
   "options": {
     "a": "Configuration 1 because it results in greater take-off speeds and lower take-off distance than using configuration 2 or 3.",
@@ -10,5 +10,10 @@
     "d": "<p>Configuration 1 because it results in lower take-off distance and a higher climb gradient than using configuration 2 or 3.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85662,
+    "number": "328175"
+  }
 }

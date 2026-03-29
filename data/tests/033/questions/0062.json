@@ -1,7 +1,7 @@
 {
   "number": 62,
-  "questionId": 81713,
-  "questionNumber": "334797",
+  "questionId": "033-0062",
+  "questionNumber": "033-0062",
   "stemHtml": "What is an LPV approach?",
   "options": {
     "a": "<p>An SBAS-augmented GNSS approach providing localizer performance with vertical guidance.</p>",
@@ -10,5 +10,10 @@
     "d": "An approach with LNAV/VNAV minima in reference with ground based facility."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81713,
+    "number": "334797"
+  }
 }

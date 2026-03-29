@@ -1,7 +1,7 @@
 {
   "number": 467,
-  "questionId": 153724,
-  "questionNumber": "228422",
+  "questionId": "022-0467",
+  "questionNumber": "022-0467",
   "stemHtml": "<p>Refer to figure. <br>What is the exhaust gas temperature of No 1 engine?</p>",
   "options": {
     "a": "<p>52.1\u00b0C</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/f91f8583-3e64-462a-8437-2dfcf6fa0ee6.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/f91f8583-3e64-462a-8437-2dfcf6fa0ee6.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153724,
+    "number": "228422"
+  }
 }

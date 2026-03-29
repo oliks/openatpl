@@ -1,7 +1,7 @@
 {
   "number": 572,
-  "questionId": 69491,
-  "questionNumber": "319118",
+  "questionId": "031-0572",
+  "questionNumber": "031-0572",
   "stemHtml": "<p>Calculate the maximum mass that can be loaded on a pallet sized 1.2 m x 1.2 m, to comply with a maximum running load of 1915 kg/m.</p>",
   "options": {
     "a": "<p>2298 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2757 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69491,
+    "number": "319118"
+  }
 }

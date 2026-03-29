@@ -1,7 +1,7 @@
 {
   "number": 785,
-  "questionId": 68135,
-  "questionNumber": "219561",
+  "questionId": "021-0785",
+  "questionNumber": "021-0785",
   "stemHtml": "<p>A cantilever wing is\u2026</p>",
   "options": {
     "a": "<p>a high wing configuration.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a wing planform other than rectangular.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68135,
+    "number": "219561"
+  }
 }

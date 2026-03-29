@@ -1,7 +1,7 @@
 {
   "number": 180,
-  "questionId": 84179,
-  "questionNumber": "108998",
+  "questionId": "010-0180",
+  "questionNumber": "010-0180",
   "stemHtml": "An aircraft carries a serviceable Mode C transponder. When shall the pilot operate this mode?",
   "options": {
     "a": "Continuously.",
@@ -10,5 +10,10 @@
     "d": "Only when in an emergency."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84179,
+    "number": "108998"
+  }
 }

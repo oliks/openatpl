@@ -1,7 +1,7 @@
 {
   "number": 1584,
-  "questionId": 105920,
-  "questionNumber": "224408",
+  "questionId": "022-1584",
+  "questionNumber": "022-1584",
   "stemHtml": "<p>Fuel flow information for gas turbine engines is measured\u2026</p>",
   "options": {
     "a": "<p>in the line between the booster pump and the engine.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>at the outlet of the high pressure fuel pump.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105920,
+    "number": "224408"
+  }
 }

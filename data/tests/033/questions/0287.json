@@ -1,7 +1,7 @@
 {
   "number": 287,
-  "questionId": 108024,
-  "questionNumber": "331948",
+  "questionId": "033-0287",
+  "questionNumber": "033-0287",
   "stemHtml": "<p>Given an LNAV/VNAV approach with a temperature deviation of ISA -15, a charted Decision Altitude (DA) of 530 ft, and a Decision Height (DH) of approximately 432 ft, calculate the new Decision Altitude.</p>",
   "options": {
     "a": "<p>Higher than 550 ft</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Around 430 ft</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108024,
+    "number": "331948"
+  }
 }

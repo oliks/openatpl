@@ -1,7 +1,7 @@
 {
   "number": 903,
-  "questionId": 83907,
-  "questionNumber": "101138",
+  "questionId": "010-0903",
+  "questionNumber": "010-0903",
   "stemHtml": "<p>An AIP is produced and made available in more than one volume. According to ICAO Annex 15, which part is reserved for aerodrome radio navigation and landing aids?</p>",
   "options": {
     "a": "<p>Aerodrome Index (AI)</p>",
@@ -10,5 +10,10 @@
     "d": "General (GEN)"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83907,
+    "number": "101138"
+  }
 }

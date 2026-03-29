@@ -1,7 +1,7 @@
 {
   "number": 429,
-  "questionId": 121594,
-  "questionNumber": "225666",
+  "questionId": "022-0429",
+  "questionNumber": "022-0429",
   "stemHtml": "<p>Which type of FANS 1/A communication is used between controller and pilot in oceanic areas?</p>",
   "options": {
     "a": "<p>VHF</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ADS - C</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 121594,
+    "number": "225666"
+  }
 }

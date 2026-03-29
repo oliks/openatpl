@@ -1,7 +1,7 @@
 {
   "number": 1344,
-  "questionId": 67004,
-  "questionNumber": "106435",
+  "questionId": "010-1344",
+  "questionNumber": "010-1344",
   "stemHtml": "<p>When an aircraft enters the traffic circuit without proper authorisation, it shall\u2026</p>",
   "options": {
     "a": "<p>not be permitted to land unless it becomes evident that the aircraft is in a state of emergency.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>not be permitted to land.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67004,
+    "number": "106435"
+  }
 }

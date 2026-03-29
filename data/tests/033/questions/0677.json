@@ -1,7 +1,7 @@
 {
   "number": 677,
-  "questionId": 70925,
-  "questionNumber": "337192",
+  "questionId": "033-0677",
+  "questionNumber": "033-0677",
   "stemHtml": "<p>Refer to figure AMSTERDAM - Charts 10-3C, 10-3D from Jeppesen GSPRM 2017. <br>Which SID do you use for runway 04?</p>",
   "options": {
     "a": "<div>ANDIK 2G</div>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/8DE35A0D-1542-4ACD-8D1E-EB079A744094.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8DE35A0D-1542-4ACD-8D1E-EB079A744094.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70925,
+    "number": "337192"
+  }
 }

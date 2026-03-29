@@ -1,7 +1,7 @@
 {
   "number": 80,
-  "questionId": 67737,
-  "questionNumber": "218441",
+  "questionId": "021-0080",
+  "questionNumber": "021-0080",
   "stemHtml": "<p>The primary function of the lubrication system of an air-cooled piston engine is to\u2026</p>",
   "options": {
     "a": "reduce internal friction and keep the engine warm.",
@@ -10,5 +10,10 @@
     "d": "reduce internal friction and provide cooling."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67737,
+    "number": "218441"
+  }
 }

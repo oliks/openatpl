@@ -1,7 +1,7 @@
 {
   "number": 1239,
-  "questionId": 70624,
-  "questionNumber": "336601",
+  "questionId": "033-1239",
+  "questionNumber": "033-1239",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.2.2 and Figure 4.5.3.2.<br>Given:</p><p>Estimated take-off mass: 57 000 kg\u00a0<br>Ground distance: 150 NM\u00a0<br>Temperature: ISA -10\u00b0C\u00a0<br>Cruise at 0.74 Mach</p><p>Find: Cruise altitude and expected true air speed\u2026</p>",
   "options": {
     "a": "<p>24 000 ft, 445 kt</p>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/16373009-BA96-4F84-A573-0C80C4871DC1.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/16373009-BA96-4F84-A573-0C80C4871DC1.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70624,
+    "number": "336601"
+  }
 }

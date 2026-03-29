@@ -1,7 +1,7 @@
 {
   "number": 739,
-  "questionId": 81749,
-  "questionNumber": "229232",
+  "questionId": "022-0739",
+  "questionNumber": "022-0739",
   "stemHtml": "<p>Which option correctly completes the statement on Angle of Attack sensors? Null-seeking (slotted) probe and vane-detector Angle of Attack sensors are connected to a (1) _____ and both types are subject to (2) _____ error, which can be corrected in the ADC.</p>",
   "options": {
     "a": "<p>(1) piezoelectric contact; (2) deviation</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) capacitor contact; (2) scale</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81749,
+    "number": "229232"
+  }
 }

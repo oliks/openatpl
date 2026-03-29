@@ -1,7 +1,7 @@
 {
   "number": 155,
-  "questionId": 163500,
-  "questionNumber": "212727",
+  "questionId": "021-0155",
+  "questionNumber": "021-0155",
   "stemHtml": "<p>What is the internal cell configuration of a 12-volt lead-acid battery used in aircraft?</p>",
   "options": {
     "a": "<p>Two 6-V batteries in series</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Ten 1.2-V cells</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163500,
+    "number": "212727"
+  }
 }

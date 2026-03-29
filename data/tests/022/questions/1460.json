@@ -1,7 +1,7 @@
 {
   "number": 1460,
-  "questionId": 69141,
-  "questionNumber": "225229",
+  "questionId": "022-1460",
+  "questionNumber": "022-1460",
   "stemHtml": "<p>The FMS provides the following functions:</p><p>1 \u2013 aid for fuel management <br>2 \u2013 lateral flight plan management <br>3 \u2013 check-list completion <br>4 \u2013 aircraft position computation</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "3, 4.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 4."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69141,
+    "number": "225229"
+  }
 }

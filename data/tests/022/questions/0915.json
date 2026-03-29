@@ -1,7 +1,7 @@
 {
   "number": 915,
-  "questionId": 84795,
-  "questionNumber": "225697",
+  "questionId": "022-0915",
+  "questionNumber": "022-0915",
   "stemHtml": "Consider a barometric VSI with a non-linear scale. What does this mean?",
   "options": {
     "a": "The increments between zero and the maximum value are equally spaced.",
@@ -10,5 +10,10 @@
     "d": "The ROD scale is more accurate than the ROC scale."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84795,
+    "number": "225697"
+  }
 }

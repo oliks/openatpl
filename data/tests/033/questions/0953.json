@@ -1,7 +1,7 @@
 {
   "number": 953,
-  "questionId": 70894,
-  "questionNumber": "337378",
+  "questionId": "033-0953",
+  "questionNumber": "033-0953",
   "stemHtml": "<p>Refer to figure or Amsterdam- chart 11-1 from Jeppesen GSPRM 2017. <br>Which of the following approach lights are provided for Amsterdam ILS 06 approach?</p>",
   "options": {
     "a": "PAPI lights.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3A03DE56-D047-47DF-8594-7D2DB406D0BE.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3A03DE56-D047-47DF-8594-7D2DB406D0BE.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70894,
+    "number": "337378"
+  }
 }

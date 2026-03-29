@@ -1,7 +1,7 @@
 {
   "number": 1087,
-  "questionId": 70111,
-  "questionNumber": "326215",
+  "questionId": "032-1087",
+  "questionNumber": "032-1087",
   "stemHtml": "<p>Refer to figure or CAP698 file 3.1.</p><p>TORA: 2250 ft<br>Runway surface: grass<br>Runway condition: dry<br>No clearway and no stopway available<br>Airfield pressure altitude: 2000 ft<br>Airfield temperature: +11\u00b0C<br>Headwind component: 5 kt</p><p>Given the following information, what is the Field Length Limited Take-Off Mass?</p>",
   "options": {
     "a": "3350 lb",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/5E17CBBB-3169-4DAF-A804-CAF25571B1F5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/5E17CBBB-3169-4DAF-A804-CAF25571B1F5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70111,
+    "number": "326215"
+  }
 }

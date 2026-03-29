@@ -1,7 +1,7 @@
 {
   "number": 1770,
-  "questionId": 82681,
-  "questionNumber": "229858",
+  "questionId": "022-1770",
+  "questionNumber": "022-1770",
   "stemHtml": "<p>During cruise with autothrottle/autothrust engaged to maintain M 0.70, you cross a cold front and the SAT drops by a few degrees. As a consequence, the IAS\u2026</p>",
   "options": {
     "a": "<p>and the TAS will both increase.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>and the TAS will both remain constant.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82681,
+    "number": "229858"
+  }
 }

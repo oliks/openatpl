@@ -1,7 +1,7 @@
 {
   "number": 919,
-  "questionId": 84051,
-  "questionNumber": "325409",
+  "questionId": "032-0919",
+  "questionNumber": "032-0919",
   "stemHtml": "<p>Refer to figure. <br /> The crew of a large jet transport aircraft is planning their departure from Gran Canaria on either runway 21L or 21R, shown in the figure above. After running their performance software, their Maximum Allowed Take-Off Masses are summarised as below.</p><p>RWY 21L: 91.4 Tonnes <br /> RWY 21R: 90.9 Tonnes</p><p>Assuming that the runways have the same slope, what might be the reason for the two different Maximum Allowed Take-Off Masses?</p>",
   "options": {
     "a": "The runways are field-length-limited as each runway will have its own individual Field-Length-Limiting Take-Off Mass.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/14C3AC37-8EAF-4D2F-BB63-8059ED34CA5D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/14C3AC37-8EAF-4D2F-BB63-8059ED34CA5D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84051,
+    "number": "325409"
+  }
 }

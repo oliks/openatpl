@@ -1,7 +1,7 @@
 {
   "number": 448,
-  "questionId": 162686,
-  "questionNumber": "224557",
+  "questionId": "022-0448",
+  "questionNumber": "022-0448",
   "stemHtml": "<p>Refer to figure.\u00a0<br>The screen on the right in the figure is an example of a (1) _____ it is configured to always show (2) _____. If the right screen fails, the left screen will automatically adapt to show (3) _____.</p>",
   "options": {
     "a": "<p>(1) Electronic Flight Instrument System (EFIS); (2) Navigation data; (3) Flight controls synoptic</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/e5702dff-d3c9-444e-b39b-45e26c2a5adc.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/e5702dff-d3c9-444e-b39b-45e26c2a5adc.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 162686,
+    "number": "224557"
+  }
 }

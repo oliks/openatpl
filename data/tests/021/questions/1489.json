@@ -1,7 +1,7 @@
 {
   "number": 1489,
-  "questionId": 78789,
-  "questionNumber": "217073",
+  "questionId": "021-1489",
+  "questionNumber": "021-1489",
   "stemHtml": "<p>In transport aircraft, the pressure of the hydraulic fluid can be indicated by\u2026</p>",
   "options": {
     "a": "A Bourdon tube and gearing.",
@@ -10,5 +10,10 @@
     "d": "A capacitance-based device."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78789,
+    "number": "217073"
+  }
 }

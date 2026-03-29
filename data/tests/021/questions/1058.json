@@ -1,7 +1,7 @@
 {
   "number": 1058,
-  "questionId": 67811,
-  "questionNumber": "217924",
+  "questionId": "021-1058",
+  "questionNumber": "021-1058",
   "stemHtml": "<p>Refer to figure. <br>On the diagram showing the power output of a piston engine as a function of mixture ratio, best power is shown at\u2026</p>",
   "options": {
     "a": "point 4.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/16A6B569-361C-46AF-9745-FCEA53CFEE05.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/16A6B569-361C-46AF-9745-FCEA53CFEE05.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67811,
+    "number": "217924"
+  }
 }

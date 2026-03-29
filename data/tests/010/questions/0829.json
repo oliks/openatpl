@@ -1,7 +1,7 @@
 {
   "number": 829,
-  "questionId": 84566,
-  "questionNumber": "105268",
+  "questionId": "010-0829",
+  "questionNumber": "010-0829",
   "stemHtml": "<p>An approach clearance is given to an aircraft to hold at VILNA at FL80. Forecast reports, for the holding area, indicate that embedded CB cumulonimbus clouds with thunderstorms are expected at FL70 and above. The aircraft's weather radar is not working. What shall the pilot do?</p>",
   "options": {
     "a": "<p>Enter the hold at FL80.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Enter the hold at a higher level.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84566,
+    "number": "105268"
+  }
 }

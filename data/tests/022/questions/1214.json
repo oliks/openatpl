@@ -1,7 +1,7 @@
 {
   "number": 1214,
-  "questionId": 68686,
-  "questionNumber": "228113",
+  "questionId": "022-1214",
+  "questionNumber": "022-1214",
   "stemHtml": "<p>Which of these statements about fuel quantity measurement are correct or incorrect?</p><p>1. The quantity of fuel can be measured by volume<br>2. The quantity of fuel can be measured by mass</p>",
   "options": {
     "a": "1 is incorrect, 2 is correct.",
@@ -10,5 +10,10 @@
     "d": "1 is correct, 2 is correct."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68686,
+    "number": "228113"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 372,
-  "questionId": 70453,
-  "questionNumber": "332478",
+  "questionId": "033-0372",
+  "questionNumber": "033-0372",
   "stemHtml": "<p>Refer to figure.  <br />  What is a possible entry for ITEM 15 CRUISING SPEED for the following flight?</p><p>Flight rules: VFR  <br />  Cruise level: FL80  <br />  Temperature: ISA  <br />  Cruise speed: 90 kt IAS  <br />  Wind component: -12 kt  <br />  Holding speed: 62 kt IAS</p><div> </div>",
   "options": {
     "a": "N0090",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3743F78C-998D-444E-8BE5-FA73B7CEE20F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3743F78C-998D-444E-8BE5-FA73B7CEE20F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70453,
+    "number": "332478"
+  }
 }

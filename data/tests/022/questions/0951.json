@@ -1,7 +1,7 @@
 {
   "number": 951,
-  "questionId": 68414,
-  "questionNumber": "228720",
+  "questionId": "022-0951",
+  "questionNumber": "022-0951",
   "stemHtml": "How is the reading of the Airspeed Indicator (ASI) affected when ice blocks the static air ports?",
   "options": {
     "a": "The Airspeed Indicator shows an increase in speed with a decrease in altitude.",
@@ -10,5 +10,10 @@
     "d": "The Airspeed Indicator no longer indicates any change in speed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68414,
+    "number": "228720"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1132,
-  "questionId": 70399,
-  "questionNumber": "335579",
+  "questionId": "033-1132",
+  "questionNumber": "033-1132",
   "stemHtml": "From which of the following would you expect to find facilitation information regarding customs and health formalities?",
   "options": {
     "a": "ATCC",
@@ -10,5 +10,10 @@
     "d": "NOTAM"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70399,
+    "number": "335579"
+  }
 }

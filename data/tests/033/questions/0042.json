@@ -1,7 +1,7 @@
 {
   "number": 42,
-  "questionId": 108620,
-  "questionNumber": "335449",
+  "questionId": "033-0042",
+  "questionNumber": "033-0042",
   "stemHtml": "<p>Refer to figure. <br /> \rWhat is the minimum radar altitude at the section where ATF NDB is located?</p>",
   "options": {
     "a": "<p>1700 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/63349aeb-764d-4a78-88bf-7106705c6ecc.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/63349aeb-764d-4a78-88bf-7106705c6ecc.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108620,
+    "number": "335449"
+  }
 }

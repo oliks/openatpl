@@ -1,7 +1,7 @@
 {
   "number": 53,
-  "questionId": 70559,
-  "questionNumber": "331360",
+  "questionId": "033-0053",
+  "questionNumber": "033-0053",
   "stemHtml": "<p>What does the following text of a NOTAM indicate?</p>\n\n<p><span style=\"letter-spacing:0.7px\">SVC TEMPO TWR LOCAL CTL/CLEARANCE DELIVERY 121.0 FRI SAT 1400-2100 1311041400-1311052100EST</span></p>",
   "options": {
     "a": "Services for a temporary tower are available Friday 4th November and Saturday 5th November 2013, between 14:00 and 21:00, and frequency 121.0 will be used to control arriving and departing aircraft and for issuing clearances.",
@@ -10,5 +10,10 @@
     "d": "An additional frequency of 121.0 is temporarily available for a tower to control arriving and departing aircraft for designed runway(s) and for issuing clearances on Friday 4th November and Saturday 5th November 2013, between 14:00 and 21:00."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70559,
+    "number": "331360"
+  }
 }

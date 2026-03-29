@@ -1,7 +1,7 @@
 {
   "number": 439,
-  "questionId": 108476,
-  "questionNumber": "227213",
+  "questionId": "022-0439",
+  "questionNumber": "022-0439",
   "stemHtml": "<p>When climbing at constant Mach No, what happens to your calibrated airspeed (CAS)?</p>",
   "options": {
     "a": "<p>It remains the same, but TAS increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It increases, and TAS remains constant.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108476,
+    "number": "227213"
+  }
 }

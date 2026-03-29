@@ -1,7 +1,7 @@
 {
   "number": 914,
-  "questionId": 84415,
-  "questionNumber": "334498",
+  "questionId": "033-0914",
+  "questionNumber": "033-0914",
   "stemHtml": "<p>Refer to figure or Alicante (LEAL) chart 13-4 from the Jeppesen GSPRM 2017.<br>An aircraft is approaching aerodrome Alicante (LEAL) following the 243\u00b0 radial onto the ALT VOR/DME and receives clearance for the VOR Y Rwy 28 procedure. What is the Minimum Safe (Sector) Altitude (MSA)?</p>",
   "options": {
     "a": "<p>3000 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/F0795E6B-F04E-4591-AAF6-FEA64F91B277.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F0795E6B-F04E-4591-AAF6-FEA64F91B277.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84415,
+    "number": "334498"
+  }
 }

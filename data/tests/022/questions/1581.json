@@ -1,7 +1,7 @@
 {
   "number": 1581,
-  "questionId": 68668,
-  "questionNumber": "222499",
+  "questionId": "022-1581",
+  "questionNumber": "022-1581",
   "stemHtml": "<p>The alternate static source of a light non-pressurized aircraft is located in the flight deck. As the alternate static source is opened, the vertical speed indicator may\u2026</p>",
   "options": {
     "a": "be blocked.",
@@ -10,5 +10,10 @@
     "d": "indicate a slight momentary descent."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68668,
+    "number": "222499"
+  }
 }

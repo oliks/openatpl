@@ -1,7 +1,7 @@
 {
   "number": 205,
-  "questionId": 67951,
-  "questionNumber": "217137",
+  "questionId": "021-0205",
+  "questionNumber": "021-0205",
   "stemHtml": "<p>When the pilot moves the mixture lever of a piston engine towards a leaner position the\u2026</p>",
   "options": {
     "a": "amount of fuel entering the cylinders is increased.",
@@ -10,5 +10,10 @@
     "d": "volume of air entering the carburettor is reduced."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67951,
+    "number": "217137"
+  }
 }

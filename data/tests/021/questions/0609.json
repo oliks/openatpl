@@ -1,7 +1,7 @@
 {
   "number": 609,
-  "questionId": 67361,
-  "questionNumber": "214593",
+  "questionId": "021-0609",
+  "questionNumber": "021-0609",
   "stemHtml": "<p>Compressor surge in a gas turbine engine may be prevented by means of\u2026</p>",
   "options": {
     "a": "fixed inlet guide vanes.",
@@ -10,5 +10,10 @@
     "d": "bleed valves."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67361,
+    "number": "214593"
+  }
 }

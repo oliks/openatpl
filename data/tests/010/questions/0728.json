@@ -1,7 +1,7 @@
 {
   "number": 728,
-  "questionId": 96506,
-  "questionNumber": "109319",
+  "questionId": "010-0728",
+  "questionNumber": "010-0728",
   "stemHtml": "Based on the regulations established on ICAO Annex 2 and SERA, is it permissible to conduct IFR flights at an altitude of 2600 ft AGL?",
   "options": {
     "a": "NO, IFR flight in uncontrolled airspace is prohibited.",
@@ -10,5 +10,10 @@
     "d": "<p>YES, since the flight levels are used from 3000 m and above.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96506,
+    "number": "109319"
+  }
 }

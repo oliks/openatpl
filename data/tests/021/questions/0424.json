@@ -1,7 +1,7 @@
 {
   "number": 424,
-  "questionId": 68254,
-  "questionNumber": "214459",
+  "questionId": "021-0424",
+  "questionNumber": "021-0424",
   "stemHtml": "<p>A rectifier is used to\u2026</p>",
   "options": {
     "a": "change AC to DC.",
@@ -10,5 +10,10 @@
     "d": "increase voltage."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68254,
+    "number": "214459"
+  }
 }

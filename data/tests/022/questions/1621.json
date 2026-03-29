@@ -1,7 +1,7 @@
 {
   "number": 1621,
-  "questionId": 108180,
-  "questionNumber": "223308",
+  "questionId": "022-1621",
+  "questionNumber": "022-1621",
   "stemHtml": "<p>When there is a high density of traffic, how can TCAS limit the number of monitored targets?</p>",
   "options": {
     "a": "<p>The pilot can set TCAS to \u201cBLW\u201d to inhibit inputs from aircraft flying higher than the current altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Can automatically detect 30 aircraft within 10 NM, refusing other aircraft outside this range.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108180,
+    "number": "223308"
+  }
 }

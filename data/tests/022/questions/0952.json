@@ -1,7 +1,7 @@
 {
   "number": 952,
-  "questionId": 80231,
-  "questionNumber": "225779",
+  "questionId": "022-0952",
+  "questionNumber": "022-0952",
   "stemHtml": "What does a stable platform inertial navigation system use?",
   "options": {
     "a": "Two separate platforms with two accelerometers.",
@@ -10,5 +10,10 @@
     "d": "A single platform with two gyroscopes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80231,
+    "number": "225779"
+  }
 }

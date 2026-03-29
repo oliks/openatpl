@@ -1,7 +1,7 @@
 {
   "number": 685,
-  "questionId": 70782,
-  "questionNumber": "331882",
+  "questionId": "033-0685",
+  "questionNumber": "033-0685",
   "stemHtml": "<p>In the ATS flight plan Item 15, a cruising speed of 90 kts will be entered as\u2026</p>",
   "options": {
     "a": "N0090",
@@ -10,5 +10,10 @@
     "d": "N090"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70782,
+    "number": "331882"
+  }
 }

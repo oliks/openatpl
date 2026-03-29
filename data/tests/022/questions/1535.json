@@ -1,7 +1,7 @@
 {
   "number": 1535,
-  "questionId": 80891,
-  "questionNumber": "225223",
+  "questionId": "022-1535",
+  "questionNumber": "022-1535",
   "stemHtml": "What can be displayed on a directional gyro?",
   "options": {
     "a": "Only heading to fly a Rhumb line track.",
@@ -10,5 +10,10 @@
     "d": "Magnetic and True heading."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80891,
+    "number": "225223"
+  }
 }

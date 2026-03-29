@@ -1,7 +1,7 @@
 {
   "number": 586,
-  "questionId": 68084,
-  "questionNumber": "211624",
+  "questionId": "021-0586",
+  "questionNumber": "021-0586",
   "stemHtml": "<p>The octane rating of a fuel indicates its\u2026</p>",
   "options": {
     "a": "<p>resistance to detonation.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>capability for pre-ignition.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68084,
+    "number": "211624"
+  }
 }

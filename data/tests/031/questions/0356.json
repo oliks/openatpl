@@ -1,7 +1,7 @@
 {
   "number": 356,
-  "questionId": 81299,
-  "questionNumber": "314759",
+  "questionId": "031-0356",
+  "questionNumber": "031-0356",
   "stemHtml": "<p>Determine the Dry operating index (DOI) of the aircraft, given:</p><p>BEM: 3 208 kg <br>CG at BEM: 129.7 inches aft of datum <br>2 crew members: 160 kg both<br>Crew seats: 47.5 inches aft of datum</p><p>DOI= ( mass (kg) x CG (inches) / 5000) - 30</p>",
   "options": {
     "a": "<p dir=\"ltr\">56.26</p>",
@@ -10,5 +10,10 @@
     "d": "54.74"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81299,
+    "number": "314759"
+  }
 }

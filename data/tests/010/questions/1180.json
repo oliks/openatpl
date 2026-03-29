@@ -1,7 +1,7 @@
 {
   "number": 1180,
-  "questionId": 124086,
-  "questionNumber": "103955",
+  "questionId": "010-1180",
+  "questionNumber": "010-1180",
   "stemHtml": "<p>An aircraft departs from State A, overflies State C without landing, and arrives in State B for non-commercial purposes. Which freedoms of the air are being exercised in this operation?</p>",
   "options": {
     "a": "<p>First and Third</p>",
@@ -10,5 +10,10 @@
     "d": "<p>First and Second</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 124086,
+    "number": "103955"
+  }
 }

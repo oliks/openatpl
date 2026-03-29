@@ -1,7 +1,7 @@
 {
   "number": 397,
-  "questionId": 66911,
-  "questionNumber": "107122",
+  "questionId": "010-0397",
+  "questionNumber": "010-0397",
   "stemHtml": "<p>When an aircraft is subjected to unlawful interference, the pilot-in-command shall attempt to indicate the situation to ATC by setting the transponder to Mode A, code\u2026</p>",
   "options": {
     "a": "7000.",
@@ -10,5 +10,10 @@
     "d": "7600."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66911,
+    "number": "107122"
+  }
 }

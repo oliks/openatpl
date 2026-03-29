@@ -1,7 +1,7 @@
 {
   "number": 159,
-  "questionId": 101432,
-  "questionNumber": "216479",
+  "questionId": "021-0159",
+  "questionNumber": "021-0159",
   "stemHtml": "The pressure in a hydraulic system is measured relative to which of the following?",
   "options": {
     "a": "A vacuum",
@@ -10,5 +10,10 @@
     "d": "Oil pressure"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101432,
+    "number": "216479"
+  }
 }

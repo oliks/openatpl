@@ -1,7 +1,7 @@
 {
   "number": 731,
-  "questionId": 79284,
-  "questionNumber": "227716",
+  "questionId": "022-0731",
+  "questionNumber": "022-0731",
   "stemHtml": "<p>The position shown on FMS is\u2026</p>",
   "options": {
     "a": "<p>INS.</p>",
@@ -10,5 +10,10 @@
     "d": "ADC position."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79284,
+    "number": "227716"
+  }
 }

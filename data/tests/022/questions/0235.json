@@ -1,7 +1,7 @@
 {
   "number": 235,
-  "questionId": 68603,
-  "questionNumber": "222041",
+  "questionId": "022-0235",
+  "questionNumber": "022-0235",
   "stemHtml": "During an automatic landing, the guidance signals in the vertical plane under 50 ft are computed according to the:",
   "options": {
     "a": "barometric altitude with the altimeter set to the 1013,25.",
@@ -10,5 +10,10 @@
     "d": "barometric altitude with the altimeter set to the QNH."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68603,
+    "number": "222041"
+  }
 }

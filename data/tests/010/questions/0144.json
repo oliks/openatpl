@@ -1,7 +1,7 @@
 {
   "number": 144,
-  "questionId": 66624,
-  "questionNumber": "109643",
+  "questionId": "010-0144",
+  "questionNumber": "010-0144",
   "stemHtml": "<p>The second freedom of the air as defined in the International Air Services Transit Agreement is the right for non-scheduled flights to...</p>",
   "options": {
     "a": "overfly another State without landing.",
@@ -10,5 +10,10 @@
     "d": "operate as \u201ccabotage\u201d traffic."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66624,
+    "number": "109643"
+  }
 }

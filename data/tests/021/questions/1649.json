@@ -1,7 +1,7 @@
 {
   "number": 1649,
-  "questionId": 67962,
-  "questionNumber": "211337",
+  "questionId": "021-1649",
+  "questionNumber": "021-1649",
   "stemHtml": "<p>A diluter demand oxygen regulator selected to \"100%\"\u2026</p>",
   "options": {
     "a": "delivers oxygen flow when inhaling.",
@@ -10,5 +10,10 @@
     "d": "is only recommended for use with smoke in the flight deck."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67962,
+    "number": "211337"
+  }
 }

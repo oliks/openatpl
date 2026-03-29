@@ -1,7 +1,7 @@
 {
   "number": 235,
-  "questionId": 66899,
-  "questionNumber": "101665",
+  "questionId": "010-0235",
+  "questionNumber": "010-0235",
   "stemHtml": "<p>When shall the number of the transition level be obtained by the crew of a flight intending to land?</p>",
   "options": {
     "a": "<p>Start of the arrival procedure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Before the final approach segment.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66899,
+    "number": "101665"
+  }
 }

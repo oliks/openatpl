@@ -1,7 +1,7 @@
 {
   "number": 274,
-  "questionId": 69673,
-  "questionNumber": "324084",
+  "questionId": "032-0274",
+  "questionNumber": "032-0274",
   "stemHtml": "Refer to figure. <br /> For single-engined piston Performance Class B aeroplanes, which option provides the correct labels for the points on the power curve?",
   "options": {
     "a": "(1) Take-off/Climb, (2) Max. Range (Cruise), and (3) Max. Endurance (Cruise).",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/75703AB9-1758-4F41-87EE-AB078228A124.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/75703AB9-1758-4F41-87EE-AB078228A124.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69673,
+    "number": "324084"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 857,
-  "questionId": 106454,
-  "questionNumber": "107793",
+  "questionId": "010-0857",
+  "questionNumber": "010-0857",
   "stemHtml": "<p>A particular METAR states 4000 m of visibility. This can refer to the visibility of a light on an unlit background. The intesity of this light is how many candelas?</p>",
   "options": {
     "a": "4 000 000",
@@ -10,5 +10,10 @@
     "d": "1 000 000"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106454,
+    "number": "107793"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 842,
-  "questionId": 160086,
-  "questionNumber": "216657",
+  "questionId": "021-0842",
+  "questionNumber": "021-0842",
   "stemHtml": "<p>While airborne, a fire alert activates for the right engine. The pilot activates the right discharge control and releases bottle. Which actions did the pilot execute?</p><p>1. Arm the fire system for engine 1\u00a0<br>2. Arm the fire system for engine 2\u00a0<br>3. Discharge bottle 1 into engine 2\u00a0<br>4. Discharge bottle 1 into engine 1</p>",
   "options": {
     "a": "<p>1 and 3 <br />  </p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 and 2</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160086,
+    "number": "216657"
+  }
 }

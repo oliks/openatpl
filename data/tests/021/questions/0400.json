@@ -1,7 +1,7 @@
 {
   "number": 400,
-  "questionId": 99995,
-  "questionNumber": "219852",
+  "questionId": "021-0400",
+  "questionNumber": "021-0400",
   "stemHtml": "<p>Refer to figure. <br /> \rAssuming suction feeding is not possible, which engine(s) can be fed if the right hand fuel pump fails?</p>",
   "options": {
     "a": "<p>The left fuel pump can feed Engine 2 provided the crossfeed valve (6) is opened.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/464fec09-dd50-42a4-8c3c-a50c55bb5d1f.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/464fec09-dd50-42a4-8c3c-a50c55bb5d1f.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 99995,
+    "number": "219852"
+  }
 }

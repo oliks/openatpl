@@ -1,7 +1,7 @@
 {
   "number": 1402,
-  "questionId": 66585,
-  "questionNumber": "103565",
+  "questionId": "010-1402",
+  "questionNumber": "010-1402",
   "stemHtml": "<p>According to ICAO 8168, regarding omnidirectional departures, you would expect:</p>",
   "options": {
     "a": "<p>No ATC service and sectors to fly.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No navigation aids, with special requirements.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66585,
+    "number": "103565"
+  }
 }

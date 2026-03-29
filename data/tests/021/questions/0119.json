@@ -1,7 +1,7 @@
 {
   "number": 119,
-  "questionId": 83600,
-  "questionNumber": "211128",
+  "questionId": "021-0119",
+  "questionNumber": "021-0119",
   "stemHtml": "<p>Which of the following statements is correct regarding aircraft engine turbochargers?</p>",
   "options": {
     "a": "<p>The waste-gate is situated in the inlet manifold.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The waste-gate diverts exhaust gas to drive the turbine.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83600,
+    "number": "211128"
+  }
 }

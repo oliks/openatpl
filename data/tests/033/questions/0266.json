@@ -1,7 +1,7 @@
 {
   "number": 266,
-  "questionId": 70898,
-  "questionNumber": "331107",
+  "questionId": "033-0266",
+  "questionNumber": "033-0266",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017.\u00a0<br>When approaching from the southwest, what is the last compulsory reporting point?</p>",
   "options": {
     "a": "VOR/DME ALT",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/E6E99271-BEC6-4F6E-984C-4AE1F5E0EBF0.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E6E99271-BEC6-4F6E-984C-4AE1F5E0EBF0.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70898,
+    "number": "331107"
+  }
 }

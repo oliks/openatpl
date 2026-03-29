@@ -1,7 +1,7 @@
 {
   "number": 493,
-  "questionId": 82206,
-  "questionNumber": "321834",
+  "questionId": "032-0493",
+  "questionNumber": "032-0493",
   "stemHtml": "<p>Complete the following phrase:</p><p>Any part of the (1) _____ take-off flight path in which a performance Class A aircraft is banked by more than 15\u00b0 shall clear all obstacles by a vertical distance of at least (2) _____.</p>",
   "options": {
     "a": "(1) gross; (2) 35 ft.",
@@ -10,5 +10,10 @@
     "d": "(1) net; (2) 50 ft."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82206,
+    "number": "321834"
+  }
 }

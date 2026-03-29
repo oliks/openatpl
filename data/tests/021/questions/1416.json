@@ -1,7 +1,7 @@
 {
   "number": 1416,
-  "questionId": 67617,
-  "questionNumber": "213574",
+  "questionId": "021-1416",
+  "questionNumber": "021-1416",
   "stemHtml": "<p>The formula to calculate the total displacement of a multi-cylinder piston engine is\u2026</p>",
   "options": {
     "a": "piston area x piston stroke.",
@@ -10,5 +10,10 @@
     "d": "cylinder volume x number of cylinders."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67617,
+    "number": "213574"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1384,
-  "questionId": 81714,
-  "questionNumber": "332038",
+  "questionId": "033-1384",
+  "questionNumber": "033-1384",
   "stemHtml": "<div>Refer to figure or ALICANTE 10-2B chart from the Jeppesen GSPRM 2017. <br /> \rWhich arrival route would you expect, due to a sea breeze in Alicante?</div>",
   "options": {
     "a": "<p>CLS 1L and VLC 2L</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/FCB77D2C-48A3-443C-97E4-CD8949B9F1CB.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/FCB77D2C-48A3-443C-97E4-CD8949B9F1CB.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81714,
+    "number": "332038"
+  }
 }

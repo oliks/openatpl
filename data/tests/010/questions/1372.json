@@ -1,7 +1,7 @@
 {
   "number": 1372,
-  "questionId": 66854,
-  "questionNumber": "105110",
+  "questionId": "010-1372",
+  "questionNumber": "010-1372",
   "stemHtml": "<p>Approach procedures \u2013 Final approach segment \u2013 In a precision approach (ILS), the final approach segment begins at the\u2026</p>",
   "options": {
     "a": "<p>FAF.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FAP.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66854,
+    "number": "105110"
+  }
 }

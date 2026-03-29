@@ -1,7 +1,7 @@
 {
   "number": 419,
-  "questionId": 68670,
-  "questionNumber": "221714",
+  "questionId": "022-0419",
+  "questionNumber": "022-0419",
   "stemHtml": "The altimeter is subject to static pressure error. This error varies according to:",
   "options": {
     "a": "TAS and altimeter setting.",
@@ -10,5 +10,10 @@
     "d": "angle of attack and OAT."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68670,
+    "number": "221714"
+  }
 }

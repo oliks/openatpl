@@ -1,7 +1,7 @@
 {
   "number": 1039,
-  "questionId": 78334,
-  "questionNumber": "108027",
+  "questionId": "010-1039",
+  "questionNumber": "010-1039",
   "stemHtml": "Which statement is correct regarding parallel approaches?",
   "options": {
     "a": "In dependant parallel approaches radar separation is not applied. Instead there is a NOZ established between the localizer centre lines.",
@@ -10,5 +10,10 @@
     "d": "<p>In independant parallel approaches radar separation is applied and the minimum distance between aircraft on adjacent localizers is 2 NM.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78334,
+    "number": "108027"
+  }
 }

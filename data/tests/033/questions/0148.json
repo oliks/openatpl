@@ -1,7 +1,7 @@
 {
   "number": 148,
-  "questionId": 77910,
-  "questionNumber": "339003",
+  "questionId": "033-0148",
+  "questionNumber": "033-0148",
   "stemHtml": "<p>Refer to figures or AMSTERDAM - Charts 10-2, 10-2A, 10-2B, 10-2C from Jeppesen GSPRM 2017. <br>You are flying from PARIS to AMSTERDAM, which set of STAR is available for you?</p>",
   "options": {
     "a": "<p>DENUT 1A, HELEN 1A, PUTTY 1A, PESER 2A</p>",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/D044E0C3-484B-4BC2-A7F7-8637FCED0441.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D044E0C3-484B-4BC2-A7F7-8637FCED0441.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77910,
+    "number": "339003"
+  }
 }

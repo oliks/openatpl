@@ -1,7 +1,7 @@
 {
   "number": 77,
-  "questionId": 67763,
-  "questionNumber": "214555",
+  "questionId": "021-0077",
+  "questionNumber": "021-0077",
   "stemHtml": "What may happen to a piston engine during a continuous climb with a mixture setting fully rich?",
   "options": {
     "a": "Increase of the power available.",
@@ -10,5 +10,10 @@
     "d": "Fouling of spark-plugs."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67763,
+    "number": "214555"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1564,
-  "questionId": 100500,
-  "questionNumber": "105482",
+  "questionId": "010-1564",
+  "questionNumber": "010-1564",
   "stemHtml": "In specific weather conditions, the safety of independent parallel approaches to closely spaced parallel runways can be compromised, leading to their suspension. Why is safety more jeopardized in such approaches when compared to single runway approaches?",
   "options": {
     "a": "There is a greater probability that pilots must execute a missed approach.",
@@ -10,5 +10,10 @@
     "d": "The conditions can lead to dangerous deviations from the final approach course or track."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100500,
+    "number": "105482"
+  }
 }

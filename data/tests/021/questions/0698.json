@@ -1,7 +1,7 @@
 {
   "number": 698,
-  "questionId": 101050,
-  "questionNumber": "211109",
+  "questionId": "021-0698",
+  "questionNumber": "021-0698",
   "stemHtml": "<p>Refer to figure. <br /> \rConsider the fuel schematic of a two-engine aircraft. Where on the diagram is a jettison valve located?</p>",
   "options": {
     "a": "<p>Position 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/370c3726-aeaf-40f2-b201-e276198b6d63.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/370c3726-aeaf-40f2-b201-e276198b6d63.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101050,
+    "number": "211109"
+  }
 }

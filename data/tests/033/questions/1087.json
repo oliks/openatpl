@@ -1,7 +1,7 @@
 {
   "number": 1087,
-  "questionId": 83005,
-  "questionNumber": "339639",
+  "questionId": "033-1087",
+  "questionNumber": "033-1087",
   "stemHtml": "<p>Refer to figures or AMSTERDAM - Charts 10-2, 10-2A, 10-2B, 10-2C from Jeppesen GSPRM 2017.<br>You are approaching AMSTERDAM SCHIPHOL (EHAM) from the East. Which routes should you use?</p>",
   "options": {
     "a": "REKKEN 2A, REKKEN 2B, NORKU 2A, NORKU 2B",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/D704A964-C822-4D1E-91A5-228DC7F11D86.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D704A964-C822-4D1E-91A5-228DC7F11D86.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83005,
+    "number": "339639"
+  }
 }

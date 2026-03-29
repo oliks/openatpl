@@ -1,7 +1,7 @@
 {
   "number": 615,
-  "questionId": 80361,
-  "questionNumber": "322570",
+  "questionId": "032-0615",
+  "questionNumber": "032-0615",
   "stemHtml": "<p>On landing an aircraft crosses the threshold at a correct screen height of 50 ft but 10 kt faster than the correct V<strong><sub>REF</sub></strong>. Select the correct statement\u2026</p>",
   "options": {
     "a": "Landing distance decreases and the ground roll increases.",
@@ -10,5 +10,10 @@
     "d": "Landing distance increases."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80361,
+    "number": "322570"
+  }
 }

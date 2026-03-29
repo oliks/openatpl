@@ -1,7 +1,7 @@
 {
   "number": 1284,
-  "questionId": 68897,
-  "questionNumber": "225778",
+  "questionId": "022-1284",
+  "questionNumber": "022-1284",
   "stemHtml": "<p>Considering an air driven artificial horizon, when an aircraft decelerates on ground during the landing, the result is a\u2026</p>",
   "options": {
     "a": "<p>false nose-down indication.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>right or left wing down indication depending on the runway direction.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68897,
+    "number": "225778"
+  }
 }

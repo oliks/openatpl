@@ -1,7 +1,7 @@
 {
   "number": 927,
-  "questionId": 68413,
-  "questionNumber": "222262",
+  "questionId": "022-0927",
+  "questionNumber": "022-0927",
   "stemHtml": "<p>On an twin-engine aeroplane, the synchroscope can consists of\u2026</p>",
   "options": {
     "a": "<p>a stator feed by the tachometer driven by the master engine, and a rotor fed by the tachometer driven by the engine to be synchronised.</p>",
@@ -10,5 +10,10 @@
     "d": "a rotor fed by the alternator driven by the master engine, and a stator fed by the alternator driven by the engine to be synchronised."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68413,
+    "number": "222262"
+  }
 }

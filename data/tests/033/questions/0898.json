@@ -1,7 +1,7 @@
 {
   "number": 898,
-  "questionId": 82610,
-  "questionNumber": "331398",
+  "questionId": "033-0898",
+  "questionNumber": "033-0898",
   "stemHtml": "<p>Given the following information, what is the ground speed?</p><p>TAS: 150 kt\u00a0<br>Track: 090\u00b0<br>Wind: 050\u00b0/46 kt</p>",
   "options": {
     "a": "112 kt",
@@ -10,5 +10,10 @@
     "d": "160 kt"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82610,
+    "number": "331398"
+  }
 }

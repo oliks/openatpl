@@ -1,7 +1,7 @@
 {
   "number": 1789,
-  "questionId": 68639,
-  "questionNumber": "221429",
+  "questionId": "022-1789",
+  "questionNumber": "022-1789",
   "stemHtml": "<p>When the TCAS II generates a Resolution Advisory (RA), the associated intruder appears on TCAS display as a\u2026</p>",
   "options": {
     "a": "<p>solid red square.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>solid red circle.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68639,
+    "number": "221429"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1065,
-  "questionId": 106138,
-  "questionNumber": "219087",
+  "questionId": "021-1065",
+  "questionNumber": "021-1065",
   "stemHtml": "<p>Refer to figure. <br /> \rThe symbol below represents which logic gate?</p>",
   "options": {
     "a": "<p>NOT</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/198e8d03-6188-4f74-86ec-756678337db4.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/198e8d03-6188-4f74-86ec-756678337db4.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106138,
+    "number": "219087"
+  }
 }

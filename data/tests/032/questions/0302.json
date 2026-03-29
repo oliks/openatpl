@@ -1,7 +1,7 @@
 {
   "number": 302,
-  "questionId": 70255,
-  "questionNumber": "329141",
+  "questionId": "032-0302",
+  "questionNumber": "032-0302",
   "stemHtml": "<p>Refer to figure or Performance Manual MRJT 1 Figure 4.24. <br>With regard to the drift down performance of the twin jet aeroplane, what is meant by \"equivalent gross weight at engine failure\"?</p>",
   "options": {
     "a": "This gross weight accounts for the lower Mach number at higher temperatures.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/4092C303-0998-407D-AC6D-9D83DFEDC653.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/4092C303-0998-407D-AC6D-9D83DFEDC653.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70255,
+    "number": "329141"
+  }
 }

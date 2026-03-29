@@ -1,7 +1,7 @@
 {
   "number": 713,
-  "questionId": 83648,
-  "questionNumber": "334661",
+  "questionId": "033-0713",
+  "questionNumber": "033-0713",
   "stemHtml": "The approach plate of a 3D RNAV approach procedure to RWY 23 at Cambridge airport has a Decision Height of 360 ft. What Category and Type of approach is this?",
   "options": {
     "a": "Category I & Type A",
@@ -10,5 +10,10 @@
     "d": "No Category & Type A"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83648,
+    "number": "334661"
+  }
 }

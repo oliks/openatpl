@@ -1,7 +1,7 @@
 {
   "number": 213,
-  "questionId": 81349,
-  "questionNumber": "315938",
+  "questionId": "031-0213",
+  "questionNumber": "031-0213",
   "stemHtml": "<p>Refer to figure.<br>At a given take-off mass of a transport aeroplane, 13% MAC corresponds to a balance arm of 32.25 m aft of the datum. Using the information in the annex, calculate the length of the MAC of this aeroplane.</p>",
   "options": {
     "a": "<p dir=\"ltr\">31.30 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/004b9646-637c-47ac-9308-d694eb7ac185.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/004b9646-637c-47ac-9308-d694eb7ac185.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81349,
+    "number": "315938"
+  }
 }

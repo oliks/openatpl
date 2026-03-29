@@ -1,7 +1,7 @@
 {
   "number": 133,
-  "questionId": 84553,
-  "questionNumber": "218168",
+  "questionId": "021-0133",
+  "questionNumber": "021-0133",
   "stemHtml": "<p>Which of the following must be considered if all generators fail in flight, and only battery power remains?</p>",
   "options": {
     "a": "Most of the electrical driven systems will fail after a complete generator failure due to a significant drop in voltage when the battery takes over.",
@@ -10,5 +10,10 @@
     "d": "<p>Since the only remaining source of electrical power is the aircraft battery the consumption of electrical power is time-limited.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84553,
+    "number": "218168"
+  }
 }

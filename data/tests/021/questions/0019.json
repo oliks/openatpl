@@ -1,7 +1,7 @@
 {
   "number": 19,
-  "questionId": 68118,
-  "questionNumber": "218619",
+  "questionId": "021-0019",
+  "questionNumber": "021-0019",
   "stemHtml": "The fuel supply system on a jet engine includes a fuel heating device upstream of the main fuel filter so as to..",
   "options": {
     "a": "improve calorific content.",
@@ -10,5 +10,10 @@
     "d": "condition the fuel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68118,
+    "number": "218619"
+  }
 }

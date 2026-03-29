@@ -1,7 +1,7 @@
 {
   "number": 756,
-  "questionId": 102342,
-  "questionNumber": "217013",
+  "questionId": "021-0756",
+  "questionNumber": "021-0756",
   "stemHtml": "<p>Which of the following actions can be taken to reduce the chance of a tail strike during take-off?</p>",
   "options": {
     "a": "<p>Reduce rotation rate.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Maintain a steep take-off angle after rotation.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102342,
+    "number": "217013"
+  }
 }

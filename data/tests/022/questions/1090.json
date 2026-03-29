@@ -1,7 +1,7 @@
 {
   "number": 1090,
-  "questionId": 68906,
-  "questionNumber": "223207",
+  "questionId": "022-1090",
+  "questionNumber": "022-1090",
   "stemHtml": "<p>Which statement is correct concerning the gyroscope in the rate of turn indicator?</p>",
   "options": {
     "a": "<p>It has its rotor spin axis parallel to the roll axis and with one degree of freedom.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>It has its rotor spin axis parallel to the yaw axis.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68906,
+    "number": "223207"
+  }
 }

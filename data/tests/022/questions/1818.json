@@ -1,7 +1,7 @@
 {
   "number": 1818,
-  "questionId": 66490,
-  "questionNumber": "226251",
+  "questionId": "022-1818",
+  "questionNumber": "022-1818",
   "stemHtml": "The north and south magnetic poles are the only positions on the Earth\u2019s surface where\u2026",
   "options": {
     "a": "a freely suspended compass needle will stand vertical.",
@@ -10,5 +10,10 @@
     "d": "a freely suspended compass needle will stand horizontal."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66490,
+    "number": "226251"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 592,
-  "questionId": 82852,
-  "questionNumber": "108095",
+  "questionId": "010-0592",
+  "questionNumber": "010-0592",
   "stemHtml": "<p>An alerting service shall be provided for (1) _____ and aircraft(s) (2) _____. Complete the sentence with correct statements.</p>",
   "options": {
     "a": "<p>(1) uncontrolled flights; (2) with sick or unwell passengers onboard</p>",
@@ -10,5 +10,10 @@
     "d": "(1) controlled flights; (2) with sick or unwell passengers onboard"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82852,
+    "number": "108095"
+  }
 }

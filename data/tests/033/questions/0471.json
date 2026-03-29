@@ -1,7 +1,7 @@
 {
   "number": 471,
-  "questionId": 107034,
-  "questionNumber": "334767",
+  "questionId": "033-0471",
+  "questionNumber": "033-0471",
   "stemHtml": "<p>Refer to figures or ALICANTE charts 10-3C, 10-3E from the Jeppesen GSPRM 2017. <br>An aircraft with RNAV equipped is departing from Alicante (LEAL) towards the north-east. What is a suitable SID if departing from Runway 28?</p>",
   "options": {
     "a": "<p>MITOS 1C</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/eeb36db0-a780-4575-a263-23534dc8f75f.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/eeb36db0-a780-4575-a263-23534dc8f75f.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107034,
+    "number": "334767"
+  }
 }

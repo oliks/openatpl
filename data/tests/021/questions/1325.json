@@ -1,7 +1,7 @@
 {
   "number": 1325,
-  "questionId": 67534,
-  "questionNumber": "213318",
+  "questionId": "021-1325",
+  "questionNumber": "021-1325",
   "stemHtml": "Which of these statements concerning oxygen on board of passenger transport aeroplanes is correct?",
   "options": {
     "a": "Since lavatories are not fitted with an oxygen system, they should be evacuated quickly in case of decompression.",
@@ -10,5 +10,10 @@
     "d": "After being activated a chemical oxygen generator does not produce any heat."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67534,
+    "number": "213318"
+  }
 }

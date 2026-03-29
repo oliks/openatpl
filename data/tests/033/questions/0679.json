@@ -1,7 +1,7 @@
 {
   "number": 679,
-  "questionId": 81833,
-  "questionNumber": "331092",
+  "questionId": "033-0679",
+  "questionNumber": "033-0679",
   "stemHtml": "<p>At 14:58 ATC instructs you to fly directly to OAL VOR/DME and reduce speed to M 0.76, for traffic separation purposes. Given the following information, what is the Revised ETA at OAL?</p><p>Distance to OAL via the flight-planned route: 120 NM <br /> Direct distance to OAL: 90 NM <br /> Magnetic Track to OAL from present position: 053\u00b0 <br /> Variation: 2\u00b0E <br /> Pre-flight planned Mach: 0.80 <br /> Forecast Wind: 350\u00b0/40 kt <br /> Actual Wind: 045\u00b0/65 kt <br /> OAT: -35\u00b0C <br /> ETA at OAL: 15:08</p>",
   "options": {
     "a": "15:12",
@@ -10,5 +10,10 @@
     "d": "15:16"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81833,
+    "number": "331092"
+  }
 }

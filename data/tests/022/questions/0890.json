@@ -1,7 +1,7 @@
 {
   "number": 890,
-  "questionId": 69070,
-  "questionNumber": "221117",
+  "questionId": "022-0890",
+  "questionNumber": "022-0890",
   "stemHtml": "The alternate static source is used:",
   "options": {
     "a": "to compensate the static pressure error.",
@@ -10,5 +10,10 @@
     "d": "when the drain holes freeze."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69070,
+    "number": "221117"
+  }
 }

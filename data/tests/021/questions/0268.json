@@ -1,7 +1,7 @@
 {
   "number": 268,
-  "questionId": 67934,
-  "questionNumber": "211494",
+  "questionId": "021-0268",
+  "questionNumber": "021-0268",
   "stemHtml": "<p>Assuming cabin pressure decreases, the cabin rate of climb indicator should indicate\u2026</p>",
   "options": {
     "a": "<p>zero.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a rate of climb.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67934,
+    "number": "211494"
+  }
 }

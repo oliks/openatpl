@@ -1,7 +1,7 @@
 {
   "number": 318,
-  "questionId": 80780,
-  "questionNumber": "321814",
+  "questionId": "032-0318",
+  "questionNumber": "032-0318",
   "stemHtml": "<p>Consider a Class A Medium Range Jet Transport aeroplane that is approved to be operated with increased bank angle limits. The maximum permitted bank angle for the portion of the net take-off flight path between 200 ft and 400 ft is\u2026</p>",
   "options": {
     "a": "15\u00b0",
@@ -10,5 +10,10 @@
     "d": "none"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80780,
+    "number": "321814"
+  }
 }

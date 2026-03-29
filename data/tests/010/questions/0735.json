@@ -1,7 +1,7 @@
 {
   "number": 735,
-  "questionId": 67039,
-  "questionNumber": "101735",
+  "questionId": "010-0735",
+  "questionNumber": "010-0735",
   "stemHtml": "<p>Altimeter settings provided to aircraft shall be\u2026</p>",
   "options": {
     "a": "rounded up to the nearest higher half of hectopascal.",
@@ -10,5 +10,10 @@
     "d": "rounded up to the nearest higher whole hectopascal."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67039,
+    "number": "101735"
+  }
 }

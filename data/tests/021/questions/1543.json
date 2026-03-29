@@ -1,7 +1,7 @@
 {
   "number": 1543,
-  "questionId": 82555,
-  "questionNumber": "211599",
+  "questionId": "021-1543",
+  "questionNumber": "021-1543",
   "stemHtml": "On landing gear, most stress is carried by a torsion link...",
   "options": {
     "a": "on the inner cylinder of the main oleo leg during a small radius turn.",
@@ -10,5 +10,10 @@
     "d": "between the inner and outer cylinder of the main oleo leg during a small radius turn."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82555,
+    "number": "211599"
+  }
 }

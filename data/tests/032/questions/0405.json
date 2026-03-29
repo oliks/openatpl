@@ -1,7 +1,7 @@
 {
   "number": 405,
-  "questionId": 69885,
-  "questionNumber": "325321",
+  "questionId": "032-0405",
+  "questionNumber": "032-0405",
   "stemHtml": "<p>To determine the Runway Length Limited Take-Off Mass (RLTOM) for an unbalanced field, what is the TODA to be used given the following data?</p><p>TORA: 2380 m <br>Stopway: 1470 m <br>Clearway: 560 m</p>",
   "options": {
     "a": "3850 m",
@@ -10,5 +10,10 @@
     "d": "2940 m"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69885,
+    "number": "325321"
+  }
 }

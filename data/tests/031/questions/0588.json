@@ -1,7 +1,7 @@
 {
   "number": 588,
-  "questionId": 83613,
-  "questionNumber": "315661",
+  "questionId": "031-0588",
+  "questionNumber": "031-0588",
   "stemHtml": "<p>Which section of the Aircraft Flight Manual describes the Centre of Gravity limitations?</p>",
   "options": {
     "a": "Limitations",
@@ -10,5 +10,10 @@
     "d": "Emergency Procedures"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83613,
+    "number": "315661"
+  }
 }

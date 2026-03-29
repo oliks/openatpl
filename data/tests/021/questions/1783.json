@@ -1,7 +1,7 @@
 {
   "number": 1783,
-  "questionId": 67852,
-  "questionNumber": "218825",
+  "questionId": "021-1783",
+  "questionNumber": "021-1783",
   "stemHtml": "<p>In subsonic airflows, the convergent exhaust unit is designed to convert\u2026</p>",
   "options": {
     "a": "speed into pressure.",
@@ -10,5 +10,10 @@
     "d": "temperature into speed."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67852,
+    "number": "218825"
+  }
 }

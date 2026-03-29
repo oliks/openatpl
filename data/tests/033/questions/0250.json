@@ -1,7 +1,7 @@
 {
   "number": 250,
-  "questionId": 70979,
-  "questionNumber": "337790",
+  "questionId": "033-0250",
+  "questionNumber": "033-0250",
   "stemHtml": "<p>Refer to figure.<br>The engines always feed from each individual inner tank (left engine from left tank and right engine From right tank). When the inner tanks each have 4000 kg fuel in them, the trim tank evenly transfers all its contents to the two inner tanks. When the inner tanks each have less than 3500 kg, the outer tanks transfer all their contents into their respective inner tank via transfer valves.</p><p>During flight, when the total fuel quantity reach 12 730 kg, the left hand transfer valve between the left outer and inner tanks fail to open. What is the remaining endurance for the right engine if the fuel flow of each engine is 5420 kg/h?</p>",
   "options": {
     "a": "<div>1H 20</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/1B766B7F-8687-4392-A32F-08486FA99F5D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1B766B7F-8687-4392-A32F-08486FA99F5D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70979,
+    "number": "337790"
+  }
 }

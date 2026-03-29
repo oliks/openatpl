@@ -1,7 +1,7 @@
 {
   "number": 1373,
-  "questionId": 68535,
-  "questionNumber": "225531",
+  "questionId": "022-1373",
+  "questionNumber": "022-1373",
   "stemHtml": "<p>When an intruder is equipped with a transponder without altitude reporting capability, the TCAS II may issue a\u2026</p>",
   "options": {
     "a": "<p>\u201ctraffic advisory\u201d, vertical and horizontal \u201cresolution advisory\u201d</p>",
@@ -10,5 +10,10 @@
     "d": "<p>\u201ctraffic advisory\u201d and horizontal \u201cresolution advisory\u201d</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68535,
+    "number": "225531"
+  }
 }

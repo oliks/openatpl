@@ -1,7 +1,7 @@
 {
   "number": 370,
-  "questionId": 108083,
-  "questionNumber": "218739",
+  "questionId": "021-0370",
+  "questionNumber": "021-0370",
   "stemHtml": "<p>Which of these statements is correct/incorrect about parking brakes?</p>\r\r<p>1. The shut-off valve locks in the hydraulic fluid, preventing it from returning to the reservoir <br /> \r2. The parking brake can be used in an emergency to slow down the aircraft if there was a hydraulic failure</p>",
   "options": {
     "a": "<p>(1) incorrect; (2) incorrect</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) correct; (2) correct</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108083,
+    "number": "218739"
+  }
 }

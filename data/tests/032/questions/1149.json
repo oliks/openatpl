@@ -1,7 +1,7 @@
 {
   "number": 1149,
-  "questionId": 70244,
-  "questionNumber": "326726",
+  "questionId": "032-1149",
+  "questionNumber": "032-1149",
   "stemHtml": "<p>A light twin has right hand propellers. In which situation would controllability be most challenging in the initial climb? Failure of the\u2026</p>",
   "options": {
     "a": "left engine and a quartering wind from the left.",
@@ -10,5 +10,10 @@
     "d": "right engine and a quartering wind from the right."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70244,
+    "number": "326726"
+  }
 }

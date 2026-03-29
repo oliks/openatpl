@@ -1,7 +1,7 @@
 {
   "number": 369,
-  "questionId": 79643,
-  "questionNumber": "226915",
+  "questionId": "022-0369",
+  "questionNumber": "022-0369",
   "stemHtml": "Can GPS position be supplied to FMS?",
   "options": {
     "a": "Yes, it\u2019s one of the primary position information sources.",
@@ -10,5 +10,10 @@
     "d": "No, only IRS or INS position information is used."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79643,
+    "number": "226915"
+  }
 }

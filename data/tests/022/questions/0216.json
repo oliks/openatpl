@@ -1,7 +1,7 @@
 {
   "number": 216,
-  "questionId": 69302,
-  "questionNumber": "226202",
+  "questionId": "022-0216",
+  "questionNumber": "022-0216",
   "stemHtml": "The yaw damper is installed to reduce the roll ratio in&hellip;",
   "options": {
     "a": "Steep turns.",
@@ -10,5 +10,10 @@
     "d": "Dutch roll conditions."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69302,
+    "number": "226202"
+  }
 }

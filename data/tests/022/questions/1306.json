@@ -1,7 +1,7 @@
 {
   "number": 1306,
-  "questionId": 81731,
-  "questionNumber": "225880",
+  "questionId": "022-1306",
+  "questionNumber": "022-1306",
   "stemHtml": "<p>The data stored in the performance database of an FMS is mainly used\u2026</p>",
   "options": {
     "a": "<p>to validate GNSS position and satellite data.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>to calculate IRS positions.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81731,
+    "number": "225880"
+  }
 }

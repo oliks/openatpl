@@ -1,7 +1,7 @@
 {
   "number": 1262,
-  "questionId": 67022,
-  "questionNumber": "106092",
+  "questionId": "010-1262",
+  "questionNumber": "010-1262",
   "stemHtml": "An air traffic control unit...",
   "options": {
     "a": "may require an aircraft to change its call sign for safety reasons when there is a risk of confusion between two or more similar call signs, providing the aircraft is on a repetitive flight plan.",
@@ -10,5 +10,10 @@
     "d": "may ask an aircraft to change its call sign temporarily in the interest of safety when there is a risk of confusion with two or more similar call signs."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67022,
+    "number": "106092"
+  }
 }

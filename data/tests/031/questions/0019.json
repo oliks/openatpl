@@ -1,7 +1,7 @@
 {
   "number": 19,
-  "questionId": 84646,
-  "questionNumber": "315009",
+  "questionId": "031-0019",
+  "questionNumber": "031-0019",
   "stemHtml": "The maximum load specified in the loading sheet is exceeded by 10%. Which action should be taken?",
   "options": {
     "a": "Take-off carefully.",
@@ -10,5 +10,10 @@
     "d": "<p>None, since a 10% greater load is still within the specified safety margin.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84646,
+    "number": "315009"
+  }
 }

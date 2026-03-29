@@ -1,7 +1,7 @@
 {
   "number": 1246,
-  "questionId": 69868,
-  "questionNumber": "327107",
+  "questionId": "032-1246",
+  "questionNumber": "032-1246",
   "stemHtml": "<p>Performance Class A, take-off. In comparison to a conventional take-off, the improved climb take-off results in a\u2026</p>",
   "options": {
     "a": "Reduced V<sub>1</sub> to get an earlier lift-off which leads to more obstacle clearance.",
@@ -10,5 +10,10 @@
     "d": "Higher V<sub>1</sub> and more take-off distance required."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69868,
+    "number": "327107"
+  }
 }

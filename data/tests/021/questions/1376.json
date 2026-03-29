@@ -1,7 +1,7 @@
 {
   "number": 1376,
-  "questionId": 68047,
-  "questionNumber": "214949",
+  "questionId": "021-1376",
+  "questionNumber": "021-1376",
   "stemHtml": "<p>DC generators in a multi-engine aircraft are connected in\u2026</p>",
   "options": {
     "a": "parallel to provide maximum voltage.",
@@ -10,5 +10,10 @@
     "d": "series to provide maximum power."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68047,
+    "number": "214949"
+  }
 }

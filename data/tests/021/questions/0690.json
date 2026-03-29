@@ -1,7 +1,7 @@
 {
   "number": 690,
-  "questionId": 66601,
-  "questionNumber": "211543",
+  "questionId": "021-0690",
+  "questionNumber": "021-0690",
   "stemHtml": "<p>Which of the following aircraft categories fall under CS-23?</p><p>(1) Normal<br>(2) Utility<br>(3) Ultralights<br>(4) Aerobatic<br>(5) Commuter Aeroplanes<br>(6) Small Helicopters</p>",
   "options": {
     "a": "(1), (2), (3), (4), and (5).",
@@ -10,5 +10,10 @@
     "d": "(2) and (6)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66601,
+    "number": "211543"
+  }
 }

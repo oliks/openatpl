@@ -1,7 +1,7 @@
 {
   "number": 387,
-  "questionId": 66967,
-  "questionNumber": "101323",
+  "questionId": "010-0387",
+  "questionNumber": "010-0387",
   "stemHtml": "Required Navigation Performance (RNP) is a statement of the navigation performance necessary for...",
   "options": {
     "a": "the clearance of obstacles in the approach sector.",
@@ -10,5 +10,10 @@
     "d": "operation within a defined airspace."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66967,
+    "number": "101323"
+  }
 }

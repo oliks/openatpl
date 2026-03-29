@@ -1,7 +1,7 @@
 {
   "number": 1270,
-  "questionId": 107867,
-  "questionNumber": "324429",
+  "questionId": "032-1270",
+  "questionNumber": "032-1270",
   "stemHtml": "<p>A flight plan has been issued by dispatch with a CI of 82. The crew enter a CI of 35. What will happen to the climb and descent speeds?</p>",
   "options": {
     "a": "<p>higher, lower</p>",
@@ -10,5 +10,10 @@
     "d": "<p>lower, also lower</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107867,
+    "number": "324429"
+  }
 }

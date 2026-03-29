@@ -1,7 +1,7 @@
 {
   "number": 1382,
-  "questionId": 81750,
-  "questionNumber": "228324",
+  "questionId": "022-1382",
+  "questionNumber": "022-1382",
   "stemHtml": "What is the minimum number of accelerometers required on an INS platform?",
   "options": {
     "a": "Two",
@@ -10,5 +10,10 @@
     "d": "One"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81750,
+    "number": "228324"
+  }
 }

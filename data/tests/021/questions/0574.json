@@ -1,7 +1,7 @@
 {
   "number": 574,
-  "questionId": 68008,
-  "questionNumber": "215322",
+  "questionId": "021-0574",
+  "questionNumber": "021-0574",
   "stemHtml": "<p>Power plant fire extinguishers are operated by\u2026</p>",
   "options": {
     "a": "manual remote control opening a discharge valve.",
@@ -10,5 +10,10 @@
     "d": "an electrically fired cartridge rupturing a seal in the head of the bottle."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68008,
+    "number": "215322"
+  }
 }

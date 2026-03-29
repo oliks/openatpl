@@ -1,7 +1,7 @@
 {
   "number": 222,
-  "questionId": 68422,
-  "questionNumber": "225177",
+  "questionId": "022-0222",
+  "questionNumber": "022-0222",
   "stemHtml": "<p>If the pilot increases the reference pressure using the sub-scale setting knob, the altitude indicated by the altimeter\u2026</p>",
   "options": {
     "a": "<p>decreases if QNH < 1013 hPa.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>increases.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68422,
+    "number": "225177"
+  }
 }

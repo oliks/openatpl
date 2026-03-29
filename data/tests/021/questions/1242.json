@@ -1,7 +1,7 @@
 {
   "number": 1242,
-  "questionId": 84556,
-  "questionNumber": "217320",
+  "questionId": "021-1242",
+  "questionNumber": "021-1242",
   "stemHtml": "<p>Amongst other, out of the following areas of the aircraft that are prone to stress, which should the pilot pay close attention to during the pre-flight inspection?</p>",
   "options": {
     "a": "<p>The aft pressure bulkhead area (tail skid).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The forward pressure bulkhead (nose cone).</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84556,
+    "number": "217320"
+  }
 }

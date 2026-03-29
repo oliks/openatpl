@@ -1,7 +1,7 @@
 {
   "number": 865,
-  "questionId": 81278,
-  "questionNumber": "227884",
+  "questionId": "022-0865",
+  "questionNumber": "022-0865",
   "stemHtml": "<p dir=\"ltr\">What are factors used by the Air data Computer for its calculations when going from IAS to TAS?</p><p dir=\"ltr\">1. Compressibility errors     <br />     2. Density errors     <br />     3. Instrument errors     <br />     4. Pitot errors     <br />     5. Position errors     <br />     6. Temperature errors     <br />     7. Yaw errors</p>",
   "options": {
     "a": "<p dir=\"ltr\">1, 2, 5 and 6.</p>",
@@ -10,5 +10,10 @@
     "d": "1, 3, 4 and 5."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81278,
+    "number": "227884"
+  }
 }

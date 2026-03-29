@@ -1,7 +1,7 @@
 {
   "number": 759,
-  "questionId": 80756,
-  "questionNumber": "215066",
+  "questionId": "021-0759",
+  "questionNumber": "021-0759",
   "stemHtml": "<p>What are the components which give the fuselage its cross-sectional shape?</p>",
   "options": {
     "a": "<p>Bulkheads and floor beams.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Frames and stringers.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80756,
+    "number": "215066"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 261,
-  "questionId": 135015,
-  "questionNumber": "319828",
+  "questionId": "031-0261",
+  "questionNumber": "031-0261",
   "stemHtml": "<p>A flight is scheduled with the following information. BEM is 4420 kg, with 2 pilots weighing 85 kg each, 1 cabin crew weighing 75 kg, 2 male passengers weighing 92 kg each, 2 female passengers weighing 74 kg each, 3 children weighing 35 kg each, cargo weighing 240 kg, Block Fuel at 1100 kg, Taxi Fuel at 68 kg, and RLM set at 6000 kg. What is the Trip Fuel, given that it is expected that the Landing Mass (LM) will equal the Regulated Landing Mass (RLM)?</p>",
   "options": {
     "a": "<p>129 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>134 kg</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 135015,
+    "number": "319828"
+  }
 }

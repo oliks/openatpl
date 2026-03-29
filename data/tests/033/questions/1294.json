@@ -1,7 +1,7 @@
 {
   "number": 1294,
-  "questionId": 70410,
-  "questionNumber": "333008",
+  "questionId": "033-1294",
+  "questionNumber": "033-1294",
   "stemHtml": "<p>For a planned flight the calculated fuel is as follows:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Trip fuel: sufficient for a planned flight time o 4 h 24 min</span> <br /> \nReserve fuel: 30% of the planned trip fuel <br /> \nStart up and Taxi fuel: 15 kg <br /> \nBlock fuel: 138 kg</p>\n\n<p>How much fuel should remain after a flight time of 3 h 18 min?</p>",
   "options": {
     "a": "53 kg",
@@ -10,5 +10,10 @@
     "d": "68 kg"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70410,
+    "number": "333008"
+  }
 }

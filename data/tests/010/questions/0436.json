@@ -1,7 +1,7 @@
 {
   "number": 436,
-  "questionId": 110280,
-  "questionNumber": "102789",
+  "questionId": "010-0436",
+  "questionNumber": "010-0436",
   "stemHtml": "<p>Refer to figure.  <br />  \rWhat is the type of the given sign?</p>",
   "options": {
     "a": "<p>Location/runway vacated sign for a non-precision runway.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/069bc245-6e23-45b3-8fc7-ff663c5cf5f1.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/069bc245-6e23-45b3-8fc7-ff663c5cf5f1.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110280,
+    "number": "102789"
+  }
 }

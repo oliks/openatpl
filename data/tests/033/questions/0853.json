@@ -1,7 +1,7 @@
 {
   "number": 853,
-  "questionId": 82606,
-  "questionNumber": "333526",
+  "questionId": "033-0853",
+  "questionNumber": "033-0853",
   "stemHtml": "<p>Refer to figure. <br>A reciprocating engine aeroplane is flying in ISA conditions. Which altitude should a pilot choose to fly: 4000 ft or 10 000 ft?</p>",
   "options": {
     "a": "10 000 ft because it is fuel efficient.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/F9C2B183-A18B-4567-BB8A-AACB1D7ADA08.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F9C2B183-A18B-4567-BB8A-AACB1D7ADA08.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82606,
+    "number": "333526"
+  }
 }

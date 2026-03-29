@@ -1,7 +1,7 @@
 {
   "number": 1215,
-  "questionId": 70000,
-  "questionNumber": "326362",
+  "questionId": "032-1215",
+  "questionNumber": "032-1215",
   "stemHtml": "Most jet aircraft cruise at _____ of their maximum RPM.",
   "options": {
     "a": "75% to 85%",
@@ -10,5 +10,10 @@
     "d": "85% to 90%"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70000,
+    "number": "326362"
+  }
 }

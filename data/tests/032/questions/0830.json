@@ -1,7 +1,7 @@
 {
   "number": 830,
-  "questionId": 69995,
-  "questionNumber": "329404",
+  "questionId": "032-0830",
+  "questionNumber": "032-0830",
   "stemHtml": "<p>For a contaminant to be considered significant its depth must be\u2026</p>",
   "options": {
     "a": "<p>equal to 10 mm of Dry Snow</p>",
@@ -10,5 +10,10 @@
     "d": "<p>equal to 3mm of Water</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69995,
+    "number": "329404"
+  }
 }

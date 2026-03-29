@@ -1,7 +1,7 @@
 {
   "number": 833,
-  "questionId": 78467,
-  "questionNumber": "338305",
+  "questionId": "033-0833",
+  "questionNumber": "033-0833",
   "stemHtml": "<p>A flight has been planned based on a forecast true wind of 120\u00b0/40 kt. The actual wind experienced in-flight was 240\u00b0/40 kt. Assuming a true track of 090\u00b0, what will happen?</p>",
   "options": {
     "a": "The new track will be right of the original track.",
@@ -10,5 +10,10 @@
     "d": "The new compass indication will decrease."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78467,
+    "number": "338305"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 40,
-  "questionId": 99987,
-  "questionNumber": "315453",
+  "questionId": "031-0040",
+  "questionNumber": "031-0040",
   "stemHtml": "<p>The crew of an aircraft calculates that the Take-Off Mass is 16 800 kg, and the CG is found at station 260, which is out of limits. What is the mass of baggage that needs to be moved from the rear cargo bay (located at station 302) to the forward cargo bay (station 40), in order to bring the take-off CG to station 258?</p>",
   "options": {
     "a": "<p>65 kg </p>",
@@ -10,5 +10,10 @@
     "d": "320 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 99987,
+    "number": "315453"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 989,
-  "questionId": 83641,
-  "questionNumber": "214813",
+  "questionId": "021-0989",
+  "questionNumber": "021-0989",
   "stemHtml": "A starter-generator is an electrical generator that\u2026",
   "options": {
     "a": "creates a high energy impulse for the igniters during engine start.",
@@ -10,5 +10,10 @@
     "d": "<p>operates as an electric motor during engine start.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83641,
+    "number": "214813"
+  }
 }

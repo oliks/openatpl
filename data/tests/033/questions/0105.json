@@ -1,7 +1,7 @@
 {
   "number": 105,
-  "questionId": 144107,
-  "questionNumber": "336661",
+  "questionId": "033-0105",
+  "questionNumber": "033-0105",
   "stemHtml": "<p>Refer to figure or AMSTERDAM - Chart 10-2 from Jeppesen GSPRM 2017. <br /> \rWhich standard arrival route is correct when arriving via ROBIS?</p>",
   "options": {
     "a": "<p>EELDE 1A</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/824e6b28-5da2-4f40-aafb-bdc20f60b1c2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/824e6b28-5da2-4f40-aafb-bdc20f60b1c2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 144107,
+    "number": "336661"
+  }
 }

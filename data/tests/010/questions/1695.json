@@ -1,7 +1,7 @@
 {
   "number": 1695,
-  "questionId": 66897,
-  "questionNumber": "102166",
+  "questionId": "010-1695",
+  "questionNumber": "010-1695",
   "stemHtml": "<p>The aircraft is above the transition level and descending. When can the flight crew change the altimeter setting from 1013.2 hPa to QNH during the descent to land?</p>",
   "options": {
     "a": "When the atmospheric pressure is significantly different from the standard pressure and level flight above the transition altitude is not anticipated.",
@@ -10,5 +10,10 @@
     "d": "Only if it has been specified in Item 18, \u201cOther Information\u201d, of the flight plan."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66897,
+    "number": "102166"
+  }
 }

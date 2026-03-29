@@ -1,7 +1,7 @@
 {
   "number": 1782,
-  "questionId": 69061,
-  "questionNumber": "227752",
+  "questionId": "022-1782",
+  "questionNumber": "022-1782",
   "stemHtml": "<p>When the static ports are completely blocked, what does the Vertical Speed Indicator show?</p>",
   "options": {
     "a": "an increasing rate of climb if the ambient static pressure decreases.",
@@ -10,5 +10,10 @@
     "d": "a descent if the ambient static pressure is less than the pressure in the instrument."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69061,
+    "number": "227752"
+  }
 }

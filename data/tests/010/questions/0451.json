@@ -1,7 +1,7 @@
 {
   "number": 451,
-  "questionId": 108824,
-  "questionNumber": "101699",
+  "questionId": "010-0451",
+  "questionNumber": "010-0451",
   "stemHtml": "<p>An aircraft is on final approach with a landing clearance and all the information received according to ICAO Doc 4444. What additional data could the ATC provide?</p>",
   "options": {
     "a": "<p>Significant changes in air temperature.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The exit taxiway to use after landing.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108824,
+    "number": "101699"
+  }
 }

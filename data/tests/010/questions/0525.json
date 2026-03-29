@@ -1,7 +1,7 @@
 {
   "number": 525,
-  "questionId": 108531,
-  "questionNumber": "106668",
+  "questionId": "010-0525",
+  "questionNumber": "010-0525",
   "stemHtml": "<p>Is it possible to initiate a missed approach before reaching the Missed Approach Point (MAPt)?</p>",
   "options": {
     "a": "<p>Yes, and the pilot must stay above DH until MAPt and follow the lateral track of the procedure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No, as the lateral track of the missed approach cannot be joined early.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108531,
+    "number": "106668"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 610,
-  "questionId": 102449,
-  "questionNumber": "103763",
+  "questionId": "010-0610",
+  "questionNumber": "010-0610",
   "stemHtml": "<p>The CMC (Crew Member Certificate) is used for identification of the aircrew...</p>",
   "options": {
     "a": "<p>together with a valid flight crew license.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>none of the above.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102449,
+    "number": "103763"
+  }
 }

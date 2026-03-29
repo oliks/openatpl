@@ -1,7 +1,7 @@
 {
   "number": 947,
-  "questionId": 67264,
-  "questionNumber": "107658",
+  "questionId": "010-0947",
+  "questionNumber": "010-0947",
   "stemHtml": "<p>What may trigger a NOTAM to be emitted ?</p>\n\n<p>1. Long duration work on the aerodrome  <br />  \n2. Work or reparation on the fuel feeding area  <br />  \n3. High safety level that increases the time at the security checks  <br />  \n4. Strong solar radiations  <br />  \n5. Epidemics outbreak that requires the passengers for new vaccine  <br />  \n6. Withdrawal, change or new lights on the aerodrome  <br />  \n7. Work on the manoeuvring area that does not impede the aircraft movements  <br />  \n8. Changes in aerodrome designation signs</p>",
   "options": {
     "a": "1, 2, 4, 5, 8",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3, 4, 8"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67264,
+    "number": "107658"
+  }
 }

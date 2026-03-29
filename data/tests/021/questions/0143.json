@@ -1,7 +1,7 @@
 {
   "number": 143,
-  "questionId": 68402,
-  "questionNumber": "219148",
+  "questionId": "021-0143",
+  "questionNumber": "021-0143",
   "stemHtml": "Choose the correct statement about auto-brake systems (ABS)...",
   "options": {
     "a": "For a given touchdown ground speed on a dry runway without the use of reverse thrust, the stopping distance solely dependents on the selected ABS setting and weight of the airplane.",
@@ -10,5 +10,10 @@
     "d": "An armed auto-brake system will always try to achieve the selected deceleration level directly after main wheel touchdown."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68402,
+    "number": "219148"
+  }
 }

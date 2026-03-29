@@ -1,7 +1,7 @@
 {
   "number": 959,
-  "questionId": 154139,
-  "questionNumber": "229564",
+  "questionId": "022-0959",
+  "questionNumber": "022-0959",
   "stemHtml": "<p>Refer to figure.   <br />   Which of the following situations do the indications on the PFD in the annex represent?</p>",
   "options": {
     "a": "<p>A TCAS Resolution Advisory (RA) commanding a descent. The pilot must adjust the vertical speed to remain within the green area.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/8e912e0b-48d1-4581-ad0b-9310272cdc19.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/8e912e0b-48d1-4581-ad0b-9310272cdc19.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 154139,
+    "number": "229564"
+  }
 }

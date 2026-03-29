@@ -1,7 +1,7 @@
 {
   "number": 692,
-  "questionId": 68558,
-  "questionNumber": "226630",
+  "questionId": "022-0692",
+  "questionNumber": "022-0692",
   "stemHtml": "<p>When intercepting a selected radial, the flight director indicates the\u2026</p>",
   "options": {
     "a": "<p>bank angle 45.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>bank angle to reach the selected radial in minimum time.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68558,
+    "number": "226630"
+  }
 }

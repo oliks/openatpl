@@ -1,7 +1,7 @@
 {
   "number": 212,
-  "questionId": 160253,
-  "questionNumber": "218146",
+  "questionId": "021-0212",
+  "questionNumber": "021-0212",
   "stemHtml": "<p>What may be the cause of a \"Low Fuel Pressure\" indication light on during flight?</p>",
   "options": {
     "a": "<p>Vapour lock.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Change in centre of gravity.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160253,
+    "number": "218146"
+  }
 }

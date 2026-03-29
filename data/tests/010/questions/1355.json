@@ -1,7 +1,7 @@
 {
   "number": 1355,
-  "questionId": 111693,
-  "questionNumber": "106845",
+  "questionId": "010-1355",
+  "questionNumber": "010-1355",
   "stemHtml": "<p>An unidentified aircraft with no entry clearance strays into an FIR and is intercepted. The intercepting aircraft hears the phrase \"AM LOST\" which has been transmitted by the intercepted aircraft. What does this transmission?</p>",
   "options": {
     "a": "<p>The position of the aircraft is unknown.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The aircraft is in an emergency and needs directions.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111693,
+    "number": "106845"
+  }
 }

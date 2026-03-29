@@ -1,7 +1,7 @@
 {
   "number": 311,
-  "questionId": 69969,
-  "questionNumber": "328619",
+  "questionId": "032-0311",
+  "questionNumber": "032-0311",
   "stemHtml": "How does the thrust of a propeller vary during take-off run, assuming unstalled flow conditions at the propeller blades? The thrust...",
   "options": {
     "a": "increases while the aeroplane speed builds up.",
@@ -10,5 +10,10 @@
     "d": "decreases while the aeroplane speed builds up."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69969,
+    "number": "328619"
+  }
 }

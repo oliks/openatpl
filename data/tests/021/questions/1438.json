@@ -1,7 +1,7 @@
 {
   "number": 1438,
-  "questionId": 67825,
-  "questionNumber": "212740",
+  "questionId": "021-1438",
+  "questionNumber": "021-1438",
   "stemHtml": "<p>Fuel tanks are fitted with baffles to\u2026</p>",
   "options": {
     "a": "prevent spanwise fuel motion during constant sideslip.",
@@ -10,5 +10,10 @@
     "d": "remove air bubbles from the fuel."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67825,
+    "number": "212740"
+  }
 }

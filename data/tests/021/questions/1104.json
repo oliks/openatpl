@@ -1,7 +1,7 @@
 {
   "number": 1104,
-  "questionId": 82078,
-  "questionNumber": "213609",
+  "questionId": "021-1104",
+  "questionNumber": "021-1104",
   "stemHtml": "A turbine engine with a dual channel FADEC has a single channel fault. Which of these actions should the crew take?",
   "options": {
     "a": "Continue the flight, since the healthy channel automatically assumes full engine control.",
@@ -10,5 +10,10 @@
     "d": "Avoid a high-power setting on the affected engine, due to single-channel limitations."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82078,
+    "number": "213609"
+  }
 }

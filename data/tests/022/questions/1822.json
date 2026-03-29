@@ -1,7 +1,7 @@
 {
   "number": 1822,
-  "questionId": 82287,
-  "questionNumber": "225952",
+  "questionId": "022-1822",
+  "questionNumber": "022-1822",
   "stemHtml": "If incorrect data was entered into the EFB, would performance calculations be affected?",
   "options": {
     "a": "Yes, the take-off speeds may be incorrect.",
@@ -10,5 +10,10 @@
     "d": "No, the take-off speeds will be automatically corrected as the whole purpose of the EFB is to assist the flight crew and provide a safety barrier."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82287,
+    "number": "225952"
+  }
 }

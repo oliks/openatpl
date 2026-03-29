@@ -1,7 +1,7 @@
 {
   "number": 442,
-  "questionId": 67980,
-  "questionNumber": "215478",
+  "questionId": "021-0442",
+  "questionNumber": "021-0442",
   "stemHtml": "<p>When a cabin oxygen mask is pulled downwards, the passenger breathes\u2026</p>",
   "options": {
     "a": "cabin air under pressure.",
@@ -10,5 +10,10 @@
     "d": "pure oxygen at the ambient pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67980,
+    "number": "215478"
+  }
 }

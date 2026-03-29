@@ -1,7 +1,7 @@
 {
   "number": 83,
-  "questionId": 102544,
-  "questionNumber": "311895",
+  "questionId": "031-0083",
+  "questionNumber": "031-0083",
   "stemHtml": "<p>During the planning of a flight, the flight crew decides to start with a Block Fuel of 3130 lb in order to take-off with the Maximum Structural Take-Off Mass. On shut down from the previous flight, the fuel of the aircraft was 850 lb. The bowser calibrates fuel in litres. If the specific gravity of the fuel is 0.82, how many litres of fuel should the flight crew add?</p>",
   "options": {
     "a": "<p>1732 l</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1261 I</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102544,
+    "number": "311895"
+  }
 }

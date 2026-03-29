@@ -1,7 +1,7 @@
 {
   "number": 1285,
-  "questionId": 96743,
-  "questionNumber": "327546",
+  "questionId": "032-1285",
+  "questionNumber": "032-1285",
   "stemHtml": "<p>You are flying an aircraft just after take-off with a rate of climb of 500 ft/min, a TAS of 110 kt and no wind. You are at the 50 ft screen height, and there is a crane located 372 m ahead with a height of 9 m (over the runway elevation). What will be the obstacle clearance over the crane?</p>",
   "options": {
     "a": "7.6 m",
@@ -10,5 +10,10 @@
     "d": "<p>22.94 m</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96743,
+    "number": "327546"
+  }
 }

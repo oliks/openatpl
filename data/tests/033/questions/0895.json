@@ -1,7 +1,7 @@
 {
   "number": 895,
-  "questionId": 82991,
-  "questionNumber": "333275",
+  "questionId": "033-0895",
+  "questionNumber": "033-0895",
   "stemHtml": "<p>Refer to figure or Stuttgart charts 10-3C, 10-3D, 10-3F and 10-3L from the Jeppesen GSPRM.<br>Which SID procedures would be suitable for a flight of a jet aircraft from Stuttgart aerodrome (EDDS) N48\u00b041'24 E009\u00b013'19 to Saarbrucken aerodrome (EDDR) N49\u00b012'52 E007\u00b006'34?</p>",
   "options": {
     "a": "ETASA FOUR BRAVO, ETASA TWO HOTEL, SULZ THREE BRAVO, or SULZ THREE HOTEL",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/485B211F-E6A8-4FC6-9FD5-70FEDED956D6.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/485B211F-E6A8-4FC6-9FD5-70FEDED956D6.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82991,
+    "number": "333275"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1269,
-  "questionId": 70285,
-  "questionNumber": "327011",
+  "questionId": "032-1269",
+  "questionNumber": "032-1269",
   "stemHtml": "<p>Which statement regarding the influence of a runway down-slope is correct for a balanced take-off? Down-slope\u2026</p>",
   "options": {
     "a": "reduces V<sub>1</sub> and reduces take-off distance required (TODR).",
@@ -10,5 +10,10 @@
     "d": "reduces V<sub>1</sub> and increases the accelerate stop distance required (ASDR)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70285,
+    "number": "327011"
+  }
 }

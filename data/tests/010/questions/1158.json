@@ -1,7 +1,7 @@
 {
   "number": 1158,
-  "questionId": 107527,
-  "questionNumber": "103084",
+  "questionId": "010-1158",
+  "questionNumber": "010-1158",
   "stemHtml": "<p>Which of the following statements is correct about two heavy aircraft taking off from two parallel runways (08L and 08R)?</p>",
   "options": {
     "a": "<p>Two heavy aircraft are not allowed to take off at the same time.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>There is no separation required between the two aircraft after takeoff.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107527,
+    "number": "103084"
+  }
 }

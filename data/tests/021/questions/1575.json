@@ -1,7 +1,7 @@
 {
   "number": 1575,
-  "questionId": 68094,
-  "questionNumber": "216990",
+  "questionId": "021-1575",
+  "questionNumber": "021-1575",
   "stemHtml": "<p>The magneto in a piston engine ignition system is switched off by\u2026</p>",
   "options": {
     "a": "<p>opening the primary circuit and grounding the secondary circuit.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>grounding the primary circuit and opening the secondary circuit.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68094,
+    "number": "216990"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 30,
-  "questionId": 70876,
-  "questionNumber": "337721",
+  "questionId": "033-0030",
+  "questionNumber": "033-0030",
   "stemHtml": "<p>Refer to figure or ALICANTE - chart 11-1 from Jeppesen GSPRM 2017.<br>What is the elevation of the highest obstacle - natural or man-made on the chart?</p>",
   "options": {
     "a": "<p>1228 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/62375474-0D4C-4EF5-8DEE-553584462E98.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/62375474-0D4C-4EF5-8DEE-553584462E98.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70876,
+    "number": "337721"
+  }
 }

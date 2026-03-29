@@ -1,7 +1,7 @@
 {
   "number": 827,
-  "questionId": 109628,
-  "questionNumber": "213984",
+  "questionId": "021-0827",
+  "questionNumber": "021-0827",
   "stemHtml": "<p>Considering pressurisation and air conditioning systems, which of the following elements are directly related to pressurisation?</p><ol><li>Outflow valve</li><li>Mixing valve</li><li>Pressurisation controller</li><li>Water separator</li><li>Heat exchanger</li><li>Pressure relief valve</li></ol>",
   "options": {
     "a": "<p>1, 2 and 4.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 5 and 6.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109628,
+    "number": "213984"
+  }
 }

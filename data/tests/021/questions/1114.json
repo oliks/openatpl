@@ -1,7 +1,7 @@
 {
   "number": 1114,
-  "questionId": 68243,
-  "questionNumber": "213517",
+  "questionId": "021-1114",
+  "questionNumber": "021-1114",
   "stemHtml": "Describe the design principle of a horizontal stabiliser trim system in a fully powered flight control system.",
   "options": {
     "a": "The elevators are positioned in response to the trim system to stabilise the aircraft in the pitch axis.",
@@ -10,5 +10,10 @@
     "d": "The ailerons are positioned to a new neutral position in response to the trim system to stabilise the aircraft in the roll axis."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68243,
+    "number": "213517"
+  }
 }

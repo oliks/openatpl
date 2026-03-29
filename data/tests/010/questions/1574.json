@@ -1,7 +1,7 @@
 {
   "number": 1574,
-  "questionId": 85919,
-  "questionNumber": "105918",
+  "questionId": "010-1574",
+  "questionNumber": "010-1574",
   "stemHtml": "What ground-air visual signal can survivors use to tell an aircraft they are going in a particular direction?",
   "options": {
     "a": "A letter \"V\".",
@@ -10,5 +10,10 @@
     "d": "An arrow pointing in that direction."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85919,
+    "number": "105918"
+  }
 }

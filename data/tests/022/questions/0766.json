@@ -1,7 +1,7 @@
 {
   "number": 766,
-  "questionId": 68518,
-  "questionNumber": "224589",
+  "questionId": "022-0766",
+  "questionNumber": "022-0766",
   "stemHtml": "<p>In an ADC, the altitude is computed from the\u2026</p>",
   "options": {
     "a": "IRS.",
@@ -10,5 +10,10 @@
     "d": "OAT."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68518,
+    "number": "224589"
+  }
 }

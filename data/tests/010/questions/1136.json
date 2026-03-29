@@ -1,7 +1,7 @@
 {
   "number": 1136,
-  "questionId": 103221,
-  "questionNumber": "101642",
+  "questionId": "010-1136",
+  "questionNumber": "010-1136",
   "stemHtml": "<p>The regulatory conditions to be met for issue and continued validity of an AOC are\u2026</p>",
   "options": {
     "a": "<p>The original certificate must be surrendered and re-issued within 28 days following an inspection by the Authority.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Any findings for non-compliance will revoke the AOC.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103221,
+    "number": "101642"
+  }
 }

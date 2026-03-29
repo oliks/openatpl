@@ -1,7 +1,7 @@
 {
   "number": 185,
-  "questionId": 69274,
-  "questionNumber": "227997",
+  "questionId": "022-0185",
+  "questionNumber": "022-0185",
   "stemHtml": "The limits of the yellow scale of an airspeed indicator are:",
   "options": {
     "a": "V<sub>LO</sub> for the lower limit and V<sub>NE </sub>for the upper limit.",
@@ -10,5 +10,10 @@
     "d": "V<sub>NO</sub> for the lower limit and V<sub>NE</sub> for the upper limit."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69274,
+    "number": "227997"
+  }
 }

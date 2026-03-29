@@ -1,7 +1,7 @@
 {
   "number": 637,
-  "questionId": 69365,
-  "questionNumber": "318891",
+  "questionId": "031-0637",
+  "questionNumber": "031-0637",
   "stemHtml": "<p>Refer to figure. <br /> Determine the block fuel moment in the following conditions:</p><p>Basic empty mass: 3 210 lb <br /> One pilot: 160 lb <br /> Front seat passenger: 200 lb <br /> Centre seat passengers: 290 lb (total) <br /> One passenger rear seat: 110 lb <br /> Baggage in zone 1: 100 lb <br /> Baggage in zone 4: 50 lb <br /> Block fuel: 100 US Gal. <br /> Trip fuel: 55 US Gal. <br /> Fuel for start up and taxi: 3 US Gal. <br /> Fuel density: 6 lb/US Gal</p>",
   "options": {
     "a": "9 360 lb in",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/9CE2C428-0C64-4C9F-AAD1-53637E310455.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/9CE2C428-0C64-4C9F-AAD1-53637E310455.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69365,
+    "number": "318891"
+  }
 }

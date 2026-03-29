@@ -1,7 +1,7 @@
 {
   "number": 374,
-  "questionId": 96443,
-  "questionNumber": "225840",
+  "questionId": "022-0374",
+  "questionNumber": "022-0374",
   "stemHtml": "<p>Master Cautions are displayed in\u2026</p>",
   "options": {
     "a": "<p>Red</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Green</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96443,
+    "number": "225840"
+  }
 }

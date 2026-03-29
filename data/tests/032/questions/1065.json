@@ -1,7 +1,7 @@
 {
   "number": 1065,
-  "questionId": 111425,
-  "questionNumber": "327157",
+  "questionId": "032-1065",
+  "questionNumber": "032-1065",
   "stemHtml": "<p>Refer to figure or CAP 698 figure 3.9. <br /> \rCalculate the maximum value for the stall speed for a multi-engine piston Performance Class B aircraft with a landing mass of 3650 lb.</p>",
   "options": {
     "a": "<p>82 kt</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/ffb16d24-568c-4ffd-8d1c-53f0e85cf842.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/ffb16d24-568c-4ffd-8d1c-53f0e85cf842.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111425,
+    "number": "327157"
+  }
 }

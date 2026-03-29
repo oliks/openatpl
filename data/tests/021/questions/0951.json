@@ -1,7 +1,7 @@
 {
   "number": 951,
-  "questionId": 84545,
-  "questionNumber": "217146",
+  "questionId": "021-0951",
+  "questionNumber": "021-0951",
   "stemHtml": "Which of these correctly describes a flap/slat asymmetry protection system?",
   "options": {
     "a": "<p>A system which detects flaps and slats position in real time and which prevents any further extension if asymmetry is detected.</p>",
@@ -10,5 +10,10 @@
     "d": "Automatic selection of full flap extension for landing upon detection of an asymmetric condition."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84545,
+    "number": "217146"
+  }
 }

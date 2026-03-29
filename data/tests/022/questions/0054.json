@@ -1,7 +1,7 @@
 {
   "number": 54,
-  "questionId": 68975,
-  "questionNumber": "224904",
+  "questionId": "022-0054",
+  "questionNumber": "022-0054",
   "stemHtml": "<p>A Mach trim system\u2026</p>",
   "options": {
     "a": "<p>is activated by the pilot when reaching the limiting Mach number to trim attitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>compensates for the forward movement of the centre of pressure, due to the forward movement of the shock wave, as speed increases.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68975,
+    "number": "224904"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 464,
-  "questionId": 69205,
-  "questionNumber": "229057",
+  "questionId": "022-0464",
+  "questionNumber": "022-0464",
   "stemHtml": "<p>The operating frequency range of a low altitude radio altimeter is\u2026</p>",
   "options": {
     "a": "420 MHz to 440 MHz.",
@@ -10,5 +10,10 @@
     "d": "4.6 GHz to 4.8 GHz."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69205,
+    "number": "229057"
+  }
 }

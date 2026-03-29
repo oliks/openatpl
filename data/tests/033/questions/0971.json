@@ -1,7 +1,7 @@
 {
   "number": 971,
-  "questionId": 70715,
-  "questionNumber": "334197",
+  "questionId": "033-0971",
+  "questionNumber": "033-0971",
   "stemHtml": "<p>Refer to figure.<br>According to NOTAM B1144/14, on Monday 23rd February 2015, LGKV airport was operational from\u2026</p>",
   "options": {
     "a": "05:00 to 17:30 continuously.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/4AE8C93C-6B53-4CC8-BE39-38C4A85FE292.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4AE8C93C-6B53-4CC8-BE39-38C4A85FE292.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70715,
+    "number": "334197"
+  }
 }

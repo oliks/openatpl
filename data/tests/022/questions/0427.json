@@ -1,7 +1,7 @@
 {
   "number": 427,
-  "questionId": 100110,
-  "questionNumber": "227694",
+  "questionId": "022-0427",
+  "questionNumber": "022-0427",
   "stemHtml": "<p>The airspeed, altitude, and angle of attack are fed to the ADIRU by the _____.</p>",
   "options": {
     "a": "<p>MCP</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FCU</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100110,
+    "number": "227694"
+  }
 }

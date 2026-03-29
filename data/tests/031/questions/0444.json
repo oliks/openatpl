@@ -1,7 +1,7 @@
 {
   "number": 444,
-  "questionId": 69323,
-  "questionNumber": "312208",
+  "questionId": "031-0444",
+  "questionNumber": "031-0444",
   "stemHtml": "Overloading has the following effects on performance:",
   "options": {
     "a": "Increased take off and landing distance, increased rate of climb and increased fuel consumption",
@@ -10,5 +10,10 @@
     "d": "Increased take off and landing distance, reduced rate of climb and increased fuel consumption"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69323,
+    "number": "312208"
+  }
 }

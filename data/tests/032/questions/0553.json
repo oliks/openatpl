@@ -1,7 +1,7 @@
 {
   "number": 553,
-  "questionId": 81084,
-  "questionNumber": "326575",
+  "questionId": "032-0553",
+  "questionNumber": "032-0553",
   "stemHtml": "You are close to your 1.3 G buffet boundary when ATC instructs you to climb due to possible traffic, what should your response be?",
   "options": {
     "a": "\"Roger, we will have to refer to our SOP\u2019s before we are able to do so.\"",
@@ -10,5 +10,10 @@
     "d": "\"Roger, climbing to FLXXX.\""
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81084,
+    "number": "326575"
+  }
 }

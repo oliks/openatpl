@@ -1,7 +1,7 @@
 {
   "number": 1077,
-  "questionId": 83441,
-  "questionNumber": "103606",
+  "questionId": "010-1077",
+  "questionNumber": "010-1077",
   "stemHtml": "<p>When are runway edge markers used, in accordance with ICAO annex 14?</p>",
   "options": {
     "a": "<p>If runway length is less than 1800 m.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>If a non-paved runway is used.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83441,
+    "number": "103606"
+  }
 }

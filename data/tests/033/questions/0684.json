@@ -1,7 +1,7 @@
 {
   "number": 684,
-  "questionId": 70689,
-  "questionNumber": "334884",
+  "questionId": "033-0684",
+  "questionNumber": "033-0684",
   "stemHtml": "<p>Refer to figure.<br>For a long distance flight at FL 370, \"Long Range\" regime, divided into four flight legs with the following specifications:</p><p>segment AB \u2013 Ground distance: 2000 NM, headwind component: 50 kt\u00a0<br>segment BC \u2013 Ground distance: 1000 NM, headwind component: 30 kt\u00a0<br>segment CD \u2013 Ground distance: 500 NM, tailwind component: 70 kt\u00a0<br>segment DE \u2013 Ground distance: 1000 NM, headwind component: 20 kt</p><p>The total air distance is approximately\u2026</p>",
   "options": {
     "a": "<p>4800 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/6D93D831-E254-40D8-8512-9E8FECDB43BC.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/6D93D831-E254-40D8-8512-9E8FECDB43BC.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70689,
+    "number": "334884"
+  }
 }

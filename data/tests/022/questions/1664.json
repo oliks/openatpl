@@ -1,7 +1,7 @@
 {
   "number": 1664,
-  "questionId": 66523,
-  "questionNumber": "225325",
+  "questionId": "022-1664",
+  "questionNumber": "022-1664",
   "stemHtml": "According to the Certification Specifications for Large Aeroplanes CS-25, for standby compass instruments, the accuracy of the magnetic heading indications after correction should be better than or equal to\u2026",
   "options": {
     "a": "3\u00b0",
@@ -10,5 +10,10 @@
     "d": "10\u00b0"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66523,
+    "number": "225325"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 245,
-  "questionId": 157882,
-  "questionNumber": "311076",
+  "questionId": "031-0245",
+  "questionNumber": "031-0245",
   "stemHtml": "<p>Convert 32 pounds per square foot (lb/ft<strong><sup>2</sup></strong>) into kilograms per square metre (kg/m<strong><sup>2</sup></strong>).</p>",
   "options": {
     "a": "<p>114.5 kg/m<sup>2</sup></p>",
@@ -10,5 +10,10 @@
     "d": "<p>15.6 kg/m<sup>2</sup></p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 157882,
+    "number": "311076"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 765,
-  "questionId": 69818,
-  "questionNumber": "321867",
+  "questionId": "032-0765",
+  "questionNumber": "032-0765",
   "stemHtml": "<p>The take-off mass of an aeroplane is restricted by the climb limit. The effect a headwind has on the value of this limit is\u2026</p>",
   "options": {
     "a": "that the climb-limited take-off mass will increase.",
@@ -10,5 +10,10 @@
     "d": "None."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69818,
+    "number": "321867"
+  }
 }

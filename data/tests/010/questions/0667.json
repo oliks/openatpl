@@ -1,7 +1,7 @@
 {
   "number": 667,
-  "questionId": 102285,
-  "questionNumber": "101576",
+  "questionId": "010-0667",
+  "questionNumber": "010-0667",
   "stemHtml": "<p>According to ICAO Annex 9 - inadmissible persons, if a state does not accept a person the operator must...</p>",
   "options": {
     "a": "<p>take the person back to the aircraft and commence the flight to the next planned destination.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>take the person to any country that can accept him/her.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102285,
+    "number": "101576"
+  }
 }

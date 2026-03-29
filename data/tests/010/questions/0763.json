@@ -1,7 +1,7 @@
 {
   "number": 763,
-  "questionId": 80261,
-  "questionNumber": "105170",
+  "questionId": "010-0763",
+  "questionNumber": "010-0763",
   "stemHtml": "Guidance material related to simultaneous operations on parallel or near-parallel instrument runways may be found\u2026",
   "options": {
     "a": "Attached to the Certificate of airworthiness.",
@@ -10,5 +10,10 @@
     "d": "In Part-FCL."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80261,
+    "number": "105170"
+  }
 }

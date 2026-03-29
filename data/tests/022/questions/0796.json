@@ -1,7 +1,7 @@
 {
   "number": 796,
-  "questionId": 80236,
-  "questionNumber": "229803",
+  "questionId": "022-0796",
+  "questionNumber": "022-0796",
   "stemHtml": "<p>Determine the Mach Number at FL130 and a CAS of 230 KT.</p>",
   "options": {
     "a": "M 0.245",
@@ -10,5 +10,10 @@
     "d": "M 0.545"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80236,
+    "number": "229803"
+  }
 }

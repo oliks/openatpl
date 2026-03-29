@@ -1,7 +1,7 @@
 {
   "number": 214,
-  "questionId": 83380,
-  "questionNumber": "109929",
+  "questionId": "010-0214",
+  "questionNumber": "010-0214",
   "stemHtml": "Which of these is a primary function of IATA?",
   "options": {
     "a": "To give individual airlines policy guidelines.",
@@ -10,5 +10,10 @@
     "d": "To perform the job of a lawyer in order to represent an Airline when they are being sued."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83380,
+    "number": "109929"
+  }
 }

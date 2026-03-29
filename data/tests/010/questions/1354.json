@@ -1,7 +1,7 @@
 {
   "number": 1354,
-  "questionId": 112420,
-  "questionNumber": "108641",
+  "questionId": "010-1354",
+  "questionNumber": "010-1354",
   "stemHtml": "<p>Two aircraft are flying in the same area. Aircraft A is aware that it is being overtaken. The pilot of aircraft A checks at two o'clock for aircraft B and notices a red light, and after a while a white light. Where is aircraft B in relation to aircraft A?</p>",
   "options": {
     "a": "<p>Aircraft B is to the right of aircraft A.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Aircraft B is either to the left or to the right of aircraft A.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 112420,
+    "number": "108641"
+  }
 }

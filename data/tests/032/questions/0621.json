@@ -1,7 +1,7 @@
 {
   "number": 621,
-  "questionId": 79541,
-  "questionNumber": "325482",
+  "questionId": "032-0621",
+  "questionNumber": "032-0621",
   "stemHtml": "<p>Refer to figure or CAP 698 figure 4.28. <br>What is the field length limiting mass for the below conditions? <br><br>Flap: 15\u00b0 <br>Wind: 20kt headwind <br>Runway condition: Dry <br>PA: 3000 ft <br>Field length available: 6155 ft <br>Anti-Skid operative, manual spoilers</p>",
   "options": {
     "a": "48 000 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/5260F39E-B63C-401D-A0C3-212B5721F48D.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/5260F39E-B63C-401D-A0C3-212B5721F48D.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79541,
+    "number": "325482"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 851,
-  "questionId": 164120,
-  "questionNumber": "105317",
+  "questionId": "010-0851",
+  "questionNumber": "010-0851",
   "stemHtml": "<p>When a pattern \u201cB\u201d runway-holding position marking is used at an intersection of a taxiway and a precision approach runway, it shall be accompanied by a CAT (1) _____ position sign. This includes (2) _____ text on a (3) _____ background.</p>",
   "options": {
     "a": "<p>(1) CAT II or CAT III; (2) black; (3) yellow</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) CAT I, CAT II, CAT III or CAT IV; (2) red; (3) white</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164120,
+    "number": "105317"
+  }
 }

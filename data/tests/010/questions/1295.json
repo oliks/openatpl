@@ -1,7 +1,7 @@
 {
   "number": 1295,
-  "questionId": 66815,
-  "questionNumber": "101096",
+  "questionId": "010-1295",
+  "questionNumber": "010-1295",
   "stemHtml": "If radio contact with the intercepting aircraft is established but communication in a common language is not possible, which phrase should be pronounced by the intercepted aircraft to communicate that the position is unknown?",
   "options": {
     "a": "<p>POSITION UNCERTAIN (POSITION UNCERTAIN)</p>",
@@ -10,5 +10,10 @@
     "d": "AM LOST (AM LOST)"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66815,
+    "number": "101096"
+  }
 }

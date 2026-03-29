@@ -1,7 +1,7 @@
 {
   "number": 443,
-  "questionId": 101531,
-  "questionNumber": "335040",
+  "questionId": "033-0443",
+  "questionNumber": "033-0443",
   "stemHtml": "<p>Refer to figure.<br>Determine the TAS if the aeroplane's weight is 67 500 kg and it is flying at FL370 with an OAT of -36\u00b0C\u2026</p>",
   "options": {
     "a": "<p>469 kt</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/a0959d97-810a-4c2c-adc9-87e8b0be5a69.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/a0959d97-810a-4c2c-adc9-87e8b0be5a69.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101531,
+    "number": "335040"
+  }
 }

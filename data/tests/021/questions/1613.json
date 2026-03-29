@@ -1,7 +1,7 @@
 {
   "number": 1613,
-  "questionId": 67863,
-  "questionNumber": "215725",
+  "questionId": "021-1613",
+  "questionNumber": "021-1613",
   "stemHtml": "<p>An auxiliary gearbox is driven by\u2026</p>",
   "options": {
     "a": "compressed air extracted from the high pressure compressor, routed via the engine bleed system.",
@@ -10,5 +10,10 @@
     "d": "the ram air turbine."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67863,
+    "number": "215725"
+  }
 }

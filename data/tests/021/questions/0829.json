@@ -1,7 +1,7 @@
 {
   "number": 829,
-  "questionId": 67712,
-  "questionNumber": "213341",
+  "questionId": "021-0829",
+  "questionNumber": "021-0829",
   "stemHtml": "<p>Shuttle valves will automatically\u2026</p>",
   "options": {
     "a": "<p>switch hydraulically operated units to the most appropriate pressure supply.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>reduce pump loads.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67712,
+    "number": "213341"
+  }
 }

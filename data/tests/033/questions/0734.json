@@ -1,7 +1,7 @@
 {
   "number": 734,
-  "questionId": 70960,
-  "questionNumber": "336760",
+  "questionId": "033-0734",
+  "questionNumber": "033-0734",
   "stemHtml": "<p>Refer to figure or High_5_AT. Refer to Jeppesen GSPRM Training Route Manual - Chart \"AT HI 5\". <br>Find the average true course and distance from KEFLAV\u00cdK (BIKF, N63\u00b059.1' W022\u00b036.3') to AMSTERDAM (EHAM, N52\u00b018.5\u2032 E004\u00b0 45.8\u2032)?</p>",
   "options": {
     "a": "<p>300\u00b0, 1020 NM</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/38DED199-ACF4-4392-A47F-BA554500D31F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/38DED199-ACF4-4392-A47F-BA554500D31F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70960,
+    "number": "336760"
+  }
 }

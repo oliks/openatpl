@@ -1,7 +1,7 @@
 {
   "number": 1330,
-  "questionId": 103781,
-  "questionNumber": "218145",
+  "questionId": "021-1330",
+  "questionNumber": "021-1330",
   "stemHtml": "<p>A four engined-jet transport aircraft experiences an engine failure shortly after departure and the pilot decides to return to its departure aerodrome. Which of the following safety measures could be considered?</p>",
   "options": {
     "a": "<p>Begin dumping fuel, if the aircraft is equipped with a fuel jettison system, to reduce weight and balance the aircraft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Turn all fuel pumps off and turn them back on before landing.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103781,
+    "number": "218145"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1513,
-  "questionId": 82312,
-  "questionNumber": "222616",
+  "questionId": "022-1513",
+  "questionNumber": "022-1513",
   "stemHtml": "<p>Refer to figure. <br /> \rDuring an autoland, what triggers the FLARE mode?</p>",
   "options": {
     "a": "<p>The glide slope mode.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/EB9CDDEA-943C-4F61-8A37-8E83B570D567.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/EB9CDDEA-943C-4F61-8A37-8E83B570D567.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82312,
+    "number": "222616"
+  }
 }

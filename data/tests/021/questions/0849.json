@@ -1,7 +1,7 @@
 {
   "number": 849,
-  "questionId": 79750,
-  "questionNumber": "214255",
+  "questionId": "021-0849",
+  "questionNumber": "021-0849",
   "stemHtml": "<p>If bleed-air systems are used during take-off, the take-off distance is\u2026</p>",
   "options": {
     "a": "the same, as it does not on impact engine performance.",
@@ -10,5 +10,10 @@
     "d": "decreased, as more fuel is burnt."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79750,
+    "number": "214255"
+  }
 }

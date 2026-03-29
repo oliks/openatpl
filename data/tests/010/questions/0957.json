@@ -1,7 +1,7 @@
 {
   "number": 957,
-  "questionId": 105511,
-  "questionNumber": "102479",
+  "questionId": "010-0957",
+  "questionNumber": "010-0957",
   "stemHtml": "<p>A citizen from State A is traveling to State C via a transit flight through State B. In accordance with ICAO Annex 9, which one of the following statements is true?</p>",
   "options": {
     "a": "<p>An exit visa from state A is not required.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An exit visa from state A is required.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105511,
+    "number": "102479"
+  }
 }

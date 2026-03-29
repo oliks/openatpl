@@ -1,7 +1,7 @@
 {
   "number": 33,
-  "questionId": 69653,
-  "questionNumber": "325997",
+  "questionId": "032-0033",
+  "questionNumber": "032-0033",
   "stemHtml": "<p>Comparing two aeroplanes of the same type with equal masses at different altitudes, the Maximum Endurance Speed is higher\u2026</p>",
   "options": {
     "a": "at the altitude with more headwind.",
@@ -10,5 +10,10 @@
     "d": "for the aeroplane at the higher altitude."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69653,
+    "number": "325997"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1860,
-  "questionId": 66926,
-  "questionNumber": "108751",
+  "questionId": "010-1860",
+  "questionNumber": "010-1860",
   "stemHtml": "On which of the following frequencies can a pilot expect to be contacted by ATS in case of an emergency? Assume that communication attempts on the frequency in use have been without success.",
   "options": {
     "a": "121.5 MHz",
@@ -10,5 +10,10 @@
     "d": "243.0 kHz"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66926,
+    "number": "108751"
+  }
 }

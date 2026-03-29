@@ -1,7 +1,7 @@
 {
   "number": 187,
-  "questionId": 70838,
-  "questionNumber": "331509",
+  "questionId": "033-0187",
+  "questionNumber": "033-0187",
   "stemHtml": "<p>Given:</p><p>Distance from departure to destination: 470 NM\u00a0<br>True track: 237\u00b0\u00a0<br>W/V: 300/25<br>TAS: 125 kt</p><p>What is the distance of the PET from the departure point?</p>",
   "options": {
     "a": "205 NM",
@@ -10,5 +10,10 @@
     "d": "256 NM"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70838,
+    "number": "331509"
+  }
 }

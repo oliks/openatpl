@@ -1,7 +1,7 @@
 {
   "number": 1122,
-  "questionId": 84405,
-  "questionNumber": "322315",
+  "questionId": "032-1122",
+  "questionNumber": "032-1122",
   "stemHtml": "On approach to an aerodrome, the runway is reported to be wet due to a recent rain shower. There are tyre marks in the touchdown zone on both ends of the runway. The runway is very long so there is no need to apply heavy braking, however there is some crosswind. After touchdown, which of the following may be expected to occur?",
   "options": {
     "a": "Dynamic hydroplaning due to the standing water, but it will not have any effect due to the low braking.",
@@ -10,5 +10,10 @@
     "d": "Reverted rubber hydroplaning due to the skidding caused by the crosswind."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84405,
+    "number": "322315"
+  }
 }

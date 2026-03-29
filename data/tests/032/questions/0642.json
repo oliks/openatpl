@@ -1,7 +1,7 @@
 {
   "number": 642,
-  "questionId": 79529,
-  "questionNumber": "327956",
+  "questionId": "032-0642",
+  "questionNumber": "032-0642",
   "stemHtml": "<p>Specific endurance is defined as\u2026</p>",
   "options": {
     "a": "TAS/fuel flow",
@@ -10,5 +10,10 @@
     "d": "Unit thrust/fuel flow"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79529,
+    "number": "327956"
+  }
 }

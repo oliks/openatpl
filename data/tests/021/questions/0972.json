@@ -1,7 +1,7 @@
 {
   "number": 972,
-  "questionId": 68372,
-  "questionNumber": "213870",
+  "questionId": "021-0972",
+  "questionNumber": "021-0972",
   "stemHtml": "<div>Why are additives added to Jet A fuel?</div>",
   "options": {
     "a": "<div>To make the fuel more economical</div>",
@@ -10,5 +10,10 @@
     "d": "To kill any bacteria<br>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68372,
+    "number": "213870"
+  }
 }

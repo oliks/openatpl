@@ -1,7 +1,7 @@
 {
   "number": 1251,
-  "questionId": 111633,
-  "questionNumber": "108551",
+  "questionId": "010-1251",
+  "questionNumber": "010-1251",
   "stemHtml": "<p>Refer to figure. <br /> \rIf a marshaller (signalman) performs the movement in the attached figure, which of the following messages is being conveyed to the pilot?</p>",
   "options": {
     "a": "<p>\u200bOn centreline.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/1b166b1e-4f0d-4e75-ab0e-c10ca77fe5b5.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/1b166b1e-4f0d-4e75-ab0e-c10ca77fe5b5.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111633,
+    "number": "108551"
+  }
 }

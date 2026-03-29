@@ -1,7 +1,7 @@
 {
   "number": 470,
-  "questionId": 68961,
-  "questionNumber": "226220",
+  "questionId": "022-0470",
+  "questionNumber": "022-0470",
   "stemHtml": "<p>The purpose of a flux valve is to\u2026</p>",
   "options": {
     "a": "<p>sense the horizontal and vertical components of the Earth`s magnetic field.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>electronically sense the horizontal component (H) of the Earth`s magnetic field.</p><p>\u00a0</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68961,
+    "number": "226220"
+  }
 }

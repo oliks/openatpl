@@ -1,7 +1,7 @@
 {
   "number": 1038,
-  "questionId": 67942,
-  "questionNumber": "211899",
+  "questionId": "021-1038",
+  "questionNumber": "021-1038",
   "stemHtml": "<p>The capacity of a battery is the\u2026</p>",
   "options": {
     "a": "no-load voltage of the battery multiplied by its rated output current.",
@@ -10,5 +10,10 @@
     "d": "number of cycles (charging and discharging) that a battery can withstand without deterioration of its cells."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67942,
+    "number": "211899"
+  }
 }

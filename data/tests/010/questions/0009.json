@@ -1,7 +1,7 @@
 {
   "number": 9,
-  "questionId": 108097,
-  "questionNumber": "102813",
+  "questionId": "010-0009",
+  "questionNumber": "010-0009",
   "stemHtml": "<p>What does the ATC provide to the pilots during radar vectoring?</p>",
   "options": {
     "a": "<p>Heading.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Surveillance.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108097,
+    "number": "102813"
+  }
 }

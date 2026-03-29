@@ -1,7 +1,7 @@
 {
   "number": 1081,
-  "questionId": 70781,
-  "questionNumber": "339909",
+  "questionId": "033-1081",
+  "questionNumber": "033-1081",
   "stemHtml": "Refer to figure.\r\n<div>According to NOTAM A8236/14, on the 30th December 2014, taxiway C was closed between taxiways CD and CL. In addition</div>",
   "options": {
     "a": "taxiway closures did not affect VFR traffic.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/942e8a47-80ed-4fb4-a5f8-7928a3a01d9b.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/942e8a47-80ed-4fb4-a5f8-7928a3a01d9b.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70781,
+    "number": "339909"
+  }
 }

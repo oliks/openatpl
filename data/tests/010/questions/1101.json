@@ -1,7 +1,7 @@
 {
   "number": 1101,
-  "questionId": 67074,
-  "questionNumber": "101078",
+  "questionId": "010-1101",
+  "questionNumber": "010-1101",
   "stemHtml": "<p>Regarding pavement strength, the abbreviation ACN stands for\u2026</p>",
   "options": {
     "a": "Aircraft Code Number.",
@@ -10,5 +10,10 @@
     "d": "Aerodrome Classification Number."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67074,
+    "number": "101078"
+  }
 }

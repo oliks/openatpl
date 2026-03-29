@@ -1,7 +1,7 @@
 {
   "number": 315,
-  "questionId": 160014,
-  "questionNumber": "212254",
+  "questionId": "021-0315",
+  "questionNumber": "021-0315",
   "stemHtml": "<p>How does a variable swash plate hydraulic pump achieve constant pressure output?</p>",
   "options": {
     "a": "<p>Actuate the automatic cut-off valve (ACOV).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Bleed hydraulic fluid back to the reservoir.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160014,
+    "number": "212254"
+  }
 }

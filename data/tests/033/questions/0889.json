@@ -1,7 +1,7 @@
 {
   "number": 889,
-  "questionId": 110445,
-  "questionNumber": "335779",
+  "questionId": "033-0889",
+  "questionNumber": "033-0889",
   "stemHtml": "<p>Refer to figure. <br /> \rThe figure above shows an extract from a partially completed OFP (operational flight plan). What is the fuel consumption per hour, between ROBEG to RKN?</p>",
   "options": {
     "a": "<p>2785 kg/h</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/0a8eb0f9-c64d-4a6e-a2ca-447c98824aad.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0a8eb0f9-c64d-4a6e-a2ca-447c98824aad.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110445,
+    "number": "335779"
+  }
 }

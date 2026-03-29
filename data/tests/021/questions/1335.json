@@ -1,7 +1,7 @@
 {
   "number": 1335,
-  "questionId": 67590,
-  "questionNumber": "215016",
+  "questionId": "021-1335",
+  "questionNumber": "021-1335",
   "stemHtml": "<p>Which of the following statements is/are correct for a gas turbine engine with a constant speed propeller and free power turbine, when the power setting is increased?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. The HP spool speed remains constant.</span>  <br />  \n2. The EGT increases.</p>",
   "options": {
     "a": "1 is correct, 2 is incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67590,
+    "number": "215016"
+  }
 }

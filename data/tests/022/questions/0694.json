@@ -1,7 +1,7 @@
 {
   "number": 694,
-  "questionId": 74462,
-  "questionNumber": "224842",
+  "questionId": "022-0694",
+  "questionNumber": "022-0694",
   "stemHtml": "Which of the following are typical inputs to a Flight Management System (FMS)?",
   "options": {
     "a": "Flight Director indications.",
@@ -10,5 +10,10 @@
     "d": "Autopilot command signals."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74462,
+    "number": "224842"
+  }
 }

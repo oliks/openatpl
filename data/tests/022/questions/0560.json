@@ -1,7 +1,7 @@
 {
   "number": 560,
-  "questionId": 68606,
-  "questionNumber": "225629",
+  "questionId": "022-0560",
+  "questionNumber": "022-0560",
   "stemHtml": "<p>The auto-throttle enables to hold:</p><p>1 \u2013 TAS <br>2 \u2013 Mach Number <br>3 \u2013 IAS <br>4 \u2013 N1</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2, 3, 4.",
@@ -10,5 +10,10 @@
     "d": "2, 3."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68606,
+    "number": "225629"
+  }
 }

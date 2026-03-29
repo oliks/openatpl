@@ -1,7 +1,7 @@
 {
   "number": 1000,
-  "questionId": 122938,
-  "questionNumber": "333905",
+  "questionId": "033-1000",
+  "questionNumber": "033-1000",
   "stemHtml": "<p>Refer to figure.   <br />   \rWhat does the RNAV symbol in line A refer to?</p>",
   "options": {
     "a": "<p>Non-compulsory waypoint Fly-over waypoint.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/28206f26-b956-4cb1-ac08-8917db9c2f7f.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/28206f26-b956-4cb1-ac08-8917db9c2f7f.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 122938,
+    "number": "333905"
+  }
 }

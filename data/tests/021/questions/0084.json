@@ -1,7 +1,7 @@
 {
   "number": 84,
-  "questionId": 78771,
-  "questionNumber": "215277",
+  "questionId": "021-0084",
+  "questionNumber": "021-0084",
   "stemHtml": "What is correct about de-icing of the vertical tail for transport category aeroplanes?",
   "options": {
     "a": "It always is mandatory.",
@@ -10,5 +10,10 @@
     "d": "It is installed in some types."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78771,
+    "number": "215277"
+  }
 }

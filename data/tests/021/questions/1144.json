@@ -1,7 +1,7 @@
 {
   "number": 1144,
-  "questionId": 83637,
-  "questionNumber": "217434",
+  "questionId": "021-1144",
+  "questionNumber": "021-1144",
   "stemHtml": "The caution warning on the left hand IDG is shown and the temperature does not begin to drop. What can the pilots assume about that IDG?",
   "options": {
     "a": "That the hydraulic supply is lost, but can be restored.",
@@ -10,5 +10,10 @@
     "d": "That the hydraulic supply is lost and cannot be recovered in flight."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83637,
+    "number": "217434"
+  }
 }

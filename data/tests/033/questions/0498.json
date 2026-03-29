@@ -1,7 +1,7 @@
 {
   "number": 498,
-  "questionId": 79121,
-  "questionNumber": "332583",
+  "questionId": "033-0498",
+  "questionNumber": "033-0498",
   "stemHtml": "<p>The minimum grid area altitude applicable for Mengen airport (EDTM, 48\u00b003'N 009\u00b022'E) is\u2026</p>",
   "options": {
     "a": "460 ft.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/6ECB11EE-1A09-4DEE-91B5-42DB77249145.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/6ECB11EE-1A09-4DEE-91B5-42DB77249145.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79121,
+    "number": "332583"
+  }
 }

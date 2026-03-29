@@ -1,7 +1,7 @@
 {
   "number": 199,
-  "questionId": 82724,
-  "questionNumber": "315983",
+  "questionId": "031-0199",
+  "questionNumber": "031-0199",
   "stemHtml": "Refer to figure. <br /> Using the information in the annex, complete the appropriate sections of the load sheet of a Medium-Range Jet Commercial Air Transport aeroplane. What is the Allowed Traffic Load?",
   "options": {
     "a": "16 900 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/077FA898-B742-4832-BBEF-0D40A15022D9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/077FA898-B742-4832-BBEF-0D40A15022D9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82724,
+    "number": "315983"
+  }
 }

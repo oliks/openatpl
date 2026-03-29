@@ -1,7 +1,7 @@
 {
   "number": 1266,
-  "questionId": 77931,
-  "questionNumber": "104383",
+  "questionId": "010-1266",
+  "questionNumber": "010-1266",
   "stemHtml": "For which one of the following does mandatory reporting apply?",
   "options": {
     "a": "Crew incapacitation.",
@@ -10,5 +10,10 @@
     "d": "Lost baggage."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77931,
+    "number": "104383"
+  }
 }

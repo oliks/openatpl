@@ -1,7 +1,7 @@
 {
   "number": 298,
-  "questionId": 68477,
-  "questionNumber": "225089",
+  "questionId": "022-0298",
+  "questionNumber": "022-0298",
   "stemHtml": "<p>V<strong><sub>FE</sub></strong> is the maximum speed\u2026</p>",
   "options": {
     "a": "with the flaps extended in the take-off configuration.",
@@ -10,5 +10,10 @@
     "d": "with the flaps extended in the landing configuration."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68477,
+    "number": "225089"
+  }
 }

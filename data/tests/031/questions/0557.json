@@ -1,7 +1,7 @@
 {
   "number": 557,
-  "questionId": 118811,
-  "questionNumber": "319819",
+  "questionId": "031-0557",
+  "questionNumber": "031-0557",
   "stemHtml": "<p>Refer to figure.   <br />   \rA flight is made with 1 pilot of standard weight, the other pilot weighing 62 kg and an observer in seat 2 of standard weight. How would the DOI differ from a flight made with the standard configuration of 2 pilots at standard mass?</p>",
   "options": {
     "a": "<p>0.9713 further forward</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/77e5a125-fa76-4d0f-8275-3a9db42fc205.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/77e5a125-fa76-4d0f-8275-3a9db42fc205.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 118811,
+    "number": "319819"
+  }
 }

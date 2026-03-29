@@ -1,7 +1,7 @@
 {
   "number": 203,
-  "questionId": 81773,
-  "questionNumber": "227431",
+  "questionId": "022-0203",
+  "questionNumber": "022-0203",
   "stemHtml": "<p>What are the main advantages of the integrated avionics EFB over the PEDs EFB?</p><p>1. It is usable during any flight phase<br>2. Can be integrated with the aircraft\u2019s EFIS<br>3. It is the cheapest EFB option available on the market<br>4. Does not rely on external wires from a socket to be powered<br>5. It is well visible under any lighting conditions<br>6. It can be maintained by the flight crew itself<br>7. It doesn\u2019t need any additional certification from the operator</p>",
   "options": {
     "a": "1, 2, 3, 4, 5, 6, 7",
@@ -10,5 +10,10 @@
     "d": "1, 2, 4, 5, 7"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81773,
+    "number": "227431"
+  }
 }

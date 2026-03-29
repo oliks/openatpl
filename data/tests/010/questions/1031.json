@@ -1,7 +1,7 @@
 {
   "number": 1031,
-  "questionId": 83353,
-  "questionNumber": "105403",
+  "questionId": "010-1031",
+  "questionNumber": "010-1031",
   "stemHtml": "<p>Which of the following statements about EU regulation No. 996/2010 and EU regulation No. 376/2014 describes the correct relationship between the two regulations and their contributions to air safety?</p>",
   "options": {
     "a": "<p>EU regulation No. 996/2010 refers to the investigation of accidents involving aircraft with a total mass of less than 5700 kg, and EU regulation No. 376/2014 refers to the investigation of accidents involving aircraft with a total mass of more than 5700 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Both EU regulation No. 996/2010, and EU regulation No. 376/2014, aim to improve aviation safety, whereas 996/2010 focuses on investigations, and 376/2014 focuses on reporting and management of safety relevant information.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83353,
+    "number": "105403"
+  }
 }

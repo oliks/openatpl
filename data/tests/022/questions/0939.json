@@ -1,7 +1,7 @@
 {
   "number": 939,
-  "questionId": 80198,
-  "questionNumber": "227964",
+  "questionId": "022-0939",
+  "questionNumber": "022-0939",
   "stemHtml": "<p>How can the control law of an autopilot control channel be defined as? <br>The relationship between the\u2026</p>",
   "options": {
     "a": "Input and output signals at the amplifier level respectively control deviation data and control deflection signals.",
@@ -10,5 +10,10 @@
     "d": "Computer input deviation data and the output control deflection signals."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80198,
+    "number": "227964"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 173,
-  "questionId": 66931,
-  "questionNumber": "104237",
+  "questionId": "010-0173",
+  "questionNumber": "010-0173",
   "stemHtml": "<p>A controlled airspace extending upwards from a specified limit above the Earth is...</p>",
   "options": {
     "a": "<p>a Control Zone.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a Flight Information Region.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66931,
+    "number": "104237"
+  }
 }

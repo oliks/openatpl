@@ -1,7 +1,7 @@
 {
   "number": 1670,
-  "questionId": 67645,
-  "questionNumber": "218686",
+  "questionId": "021-1670",
+  "questionNumber": "021-1670",
   "stemHtml": "Refer to figure.  <br />  The diagram shows a typical hydraulic system. Assuming hydraulic pressure throughout and no internal leakage, how will the piston move? The piston..",
   "options": {
     "a": "moves to the right due to equal pressure acting on differential areas.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/A00C7206-FFB0-4D14-AA0E-42A6E47928B5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/A00C7206-FFB0-4D14-AA0E-42A6E47928B5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67645,
+    "number": "218686"
+  }
 }

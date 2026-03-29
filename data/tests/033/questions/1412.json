@@ -1,7 +1,7 @@
 {
   "number": 1412,
-  "questionId": 70531,
-  "questionNumber": "338161",
+  "questionId": "033-1412",
+  "questionNumber": "033-1412",
   "stemHtml": "<p>Refer to figure.<br>Planning a MACH 0.82 cruise at FL 390, the estimated landing mass is 160 000 kg.</p><p>The ground distance is 2 800 NM and the mean wind is equal to zero. ISA conditions. Anti-icing: off.</p><p>Fuel consumption will be:</p>",
   "options": {
     "a": "30 117 kg",
@@ -47,5 +47,10 @@
       "publicUrl": "/attachments/033/D2D6582B-CEA1-4B72-B601-CC7999725BCE.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D2D6582B-CEA1-4B72-B601-CC7999725BCE.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70531,
+    "number": "338161"
+  }
 }

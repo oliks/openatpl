@@ -1,7 +1,7 @@
 {
   "number": 1391,
-  "questionId": 101100,
-  "questionNumber": "102211",
+  "questionId": "010-1391",
+  "questionNumber": "010-1391",
   "stemHtml": "<p>An aircraft departs from the United States of America (USA) to its destination in France. During its cruise in IMC conditions above the Atlantic Ocean and still overflying USA territory, radio communication failure is experienced. The radio communication failure procedure outlined in the USA's AIP is different than the one described in ICAO Annex 2. The aircraft is registered in Italy. Which radio communication failure procedure should the aircraft follow?</p>",
   "options": {
     "a": "<p>According to ICAO Annex 2 and Part-SERA, the aircraft must follow the USA procedure.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>According to the Italian Rules of the Air, the aircraft must follow the Italian procedure because it is registered in Italy.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101100,
+    "number": "102211"
+  }
 }

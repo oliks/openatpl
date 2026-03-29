@@ -1,7 +1,7 @@
 {
   "number": 1644,
-  "questionId": 96346,
-  "questionNumber": "227271",
+  "questionId": "022-1644",
+  "questionNumber": "022-1644",
   "stemHtml": "<p>In commercial transport aircraft, which of the following is the primary source of attitude data and one of the primary sources of navigation data?</p>",
   "options": {
     "a": "<p>ADI</p>",
@@ -10,5 +10,10 @@
     "d": "<p>INS</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96346,
+    "number": "227271"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 690,
-  "questionId": 105923,
-  "questionNumber": "223962",
+  "questionId": "022-0690",
+  "questionNumber": "022-0690",
   "stemHtml": "<p>When refueling an aircraft, which units are commonly used?</p><p>1. L <br>2. g <br>3. Kg <br>4. lb <br>5. Pa</p>",
   "options": {
     "a": "<p>1, 2 and 3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3, 4 and 5.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105923,
+    "number": "223962"
+  }
 }

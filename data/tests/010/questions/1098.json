@@ -1,7 +1,7 @@
 {
   "number": 1098,
-  "questionId": 81209,
-  "questionNumber": "101678",
+  "questionId": "010-1098",
+  "questionNumber": "010-1098",
   "stemHtml": "<p dir=\"ltr\">Two aircraft are flying towards a VOR to hold. The lowest level of the hold is FL140. Aircraft A arrives first and is assigned FL160. Aircraft B arrives after, what level should aircraft B be assigned in the hold?</p>",
   "options": {
     "a": "<p dir=\"ltr\">FL140</p>",
@@ -10,5 +10,10 @@
     "d": "FL180"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81209,
+    "number": "101678"
+  }
 }

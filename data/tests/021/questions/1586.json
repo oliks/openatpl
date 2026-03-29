@@ -1,7 +1,7 @@
 {
   "number": 1586,
-  "questionId": 67838,
-  "questionNumber": "217195",
+  "questionId": "021-1586",
+  "questionNumber": "021-1586",
   "stemHtml": "<p>What information is provided by cockpit indications as regards starting and operating the APU?</p>",
   "options": {
     "a": "<p>Fuel flow</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Air inlet pressure</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67838,
+    "number": "217195"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1165,
-  "questionId": 80358,
-  "questionNumber": "325722",
+  "questionId": "032-1165",
+  "questionNumber": "032-1165",
   "stemHtml": "<p>Consider a large Commercial Air Transport turbojet aeroplane, when comparing the long-range speed to the maximum-range speed, the long-range speed\u2026<br>(Assuming all other factors remain unchanged)</p>",
   "options": {
     "a": "Leads to a longer flight time for a given distance travelled.",
@@ -10,5 +10,10 @@
     "d": "Is more fuel efficient."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80358,
+    "number": "325722"
+  }
 }

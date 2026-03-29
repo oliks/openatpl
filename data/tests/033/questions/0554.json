@@ -1,7 +1,7 @@
 {
   "number": 554,
-  "questionId": 81785,
-  "questionNumber": "333284",
+  "questionId": "033-0554",
+  "questionNumber": "033-0554",
   "stemHtml": "Some approaches are labelled RNP APCH. These approaches are based on GNSS and can be recognised on the charts by...",
   "options": {
     "a": "Decision Altitude (DA) minima being published.",
@@ -10,5 +10,10 @@
     "d": "LNAV and/or LNAV/VNAV minima being published."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81785,
+    "number": "333284"
+  }
 }

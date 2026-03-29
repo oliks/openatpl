@@ -1,7 +1,7 @@
 {
   "number": 674,
-  "questionId": 80501,
-  "questionNumber": "103592",
+  "questionId": "010-0674",
+  "questionNumber": "010-0674",
   "stemHtml": "What conditions does SERA allow aeroplanes to take-off and land in a direction other than into wind?",
   "options": {
     "a": "<p>Only for the interest of safety.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Wherever safety, air traffic considerations or runway configurations dictate it.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80501,
+    "number": "103592"
+  }
 }

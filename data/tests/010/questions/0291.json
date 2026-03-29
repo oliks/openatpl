@@ -1,7 +1,7 @@
 {
   "number": 291,
-  "questionId": 102256,
-  "questionNumber": "108482",
+  "questionId": "010-0291",
+  "questionNumber": "010-0291",
   "stemHtml": "<p>\u201cA taxiway connected to a runway at an acute angle designed to allow aeroplanes to turn off at higher speeds than are achieved on other exits thereby minimizing runway occupancy time\u201d is the definition of...</p>",
   "options": {
     "a": "<p>rapid exit taxiway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>high speed exit lane.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102256,
+    "number": "108482"
+  }
 }

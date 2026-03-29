@@ -1,7 +1,7 @@
 {
   "number": 931,
-  "questionId": 80122,
-  "questionNumber": "214770",
+  "questionId": "021-0931",
+  "questionNumber": "021-0931",
   "stemHtml": "<p>In an AC system, what is a differential fault? It is a large difference between\u2026</p>",
   "options": {
     "a": "The speed between the CSDU and generator.",
@@ -10,5 +10,10 @@
     "d": "A generator and its busbar."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80122,
+    "number": "214770"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1829,
-  "questionId": 83385,
-  "questionNumber": "109578",
+  "questionId": "010-1829",
+  "questionNumber": "010-1829",
   "stemHtml": "A flight is in controlled airspace, when circumstances arise, making the Pilot in Command, First Officer and Senior Cabin Crew Member disagree about the continuation of a flight. According to SERA, how should the crew reach a decision?",
   "options": {
     "a": "According to the Standardised European Rules of the Air, all crew members should reach a consensus for the safe continuation of the flight.",
@@ -10,5 +10,10 @@
     "d": "The PIC holds final authority as to the disposition of the aircraft."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83385,
+    "number": "109578"
+  }
 }

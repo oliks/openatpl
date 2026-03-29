@@ -1,7 +1,7 @@
 {
   "number": 966,
-  "questionId": 106016,
-  "questionNumber": "104726",
+  "questionId": "010-0966",
+  "questionNumber": "010-0966",
   "stemHtml": "<p>What is the recommended color for an equipment house situated near a runway according to ICAO guidelines?</p>",
   "options": {
     "a": "<p>Blue and white.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Black and white.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106016,
+    "number": "104726"
+  }
 }

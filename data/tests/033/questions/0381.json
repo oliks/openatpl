@@ -1,7 +1,7 @@
 {
   "number": 381,
-  "questionId": 70982,
-  "questionNumber": "337289",
+  "questionId": "033-0381",
+  "questionNumber": "033-0381",
   "stemHtml": "<p>Refer to figure Jeppesen GSPRM Training Route Manual Amsterdam (16-2). <br>You are flying an approach in AMSTERDAM SCHIPHOL (EHAM) with a category B aircraft. Due to problems with the flight controls, your minimum approach speed is 185 kt.</p><p>What is the required visibility for a circle-to-land approach for runway 18\u00b0C?</p>",
   "options": {
     "a": "<div>3600</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/60300FE2-333E-4447-8EF4-BA8BC96D1B8C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/60300FE2-333E-4447-8EF4-BA8BC96D1B8C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70982,
+    "number": "337289"
+  }
 }

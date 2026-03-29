@@ -1,7 +1,7 @@
 {
   "number": 1111,
-  "questionId": 80115,
-  "questionNumber": "214001",
+  "questionId": "021-1111",
+  "questionNumber": "021-1111",
   "stemHtml": "<p>How will a \u201cvibrating rod\u201d ice probe indicate icing conditions?</p>",
   "options": {
     "a": "<p>An ice warning light will be constantly illuminated in the cockpit.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Vibration.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80115,
+    "number": "214001"
+  }
 }

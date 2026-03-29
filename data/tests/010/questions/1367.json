@@ -1,7 +1,7 @@
 {
   "number": 1367,
-  "questionId": 66642,
-  "questionNumber": "107700",
+  "questionId": "010-1367",
+  "questionNumber": "010-1367",
   "stemHtml": "At which phase must a rescue co-ordination centre immediately alert search and rescue units and initiate any necessary action?",
   "options": {
     "a": "Distress phase.",
@@ -10,5 +10,10 @@
     "d": "Emergency phase Class I."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66642,
+    "number": "107700"
+  }
 }

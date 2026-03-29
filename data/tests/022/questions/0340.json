@@ -1,7 +1,7 @@
 {
   "number": 340,
-  "questionId": 108968,
-  "questionNumber": "227460",
+  "questionId": "022-0340",
+  "questionNumber": "022-0340",
   "stemHtml": "<p>On an Attitude Director Indicator (ADI) what does a red flag mean?</p>",
   "options": {
     "a": "<p>The power to the ADI has been lost.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The ADI is temporarily unusable due to an external fault.</p>\r\n\r\n<p> </p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108968,
+    "number": "227460"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 89,
-  "questionId": 70204,
-  "questionNumber": "325657",
+  "questionId": "032-0089",
+  "questionNumber": "032-0089",
   "stemHtml": "<p>Refer to figure. <br /> \rRegarding the speeds shown in the annex, which of the following answers is correct?</p>",
   "options": {
     "a": "<p>The rate of descent would be greatest at speed F.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/E287D7D8-67C4-4563-BD1C-5343A79E4D7F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/E287D7D8-67C4-4563-BD1C-5343A79E4D7F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70204,
+    "number": "325657"
+  }
 }

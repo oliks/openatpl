@@ -1,7 +1,7 @@
 {
   "number": 1713,
-  "questionId": 81272,
-  "questionNumber": "222311",
+  "questionId": "022-1713",
+  "questionNumber": "022-1713",
   "stemHtml": "<p>An aircraft aligns its gyros for departure at location A. At the end of the flight, at location B, the gyros are misaligned by a remarkable angle. What is this an example of? A gyroscope's\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">Horizontal drift.</p>",
@@ -10,5 +10,10 @@
     "d": "Transport wander."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81272,
+    "number": "222311"
+  }
 }

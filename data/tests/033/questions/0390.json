@@ -1,7 +1,7 @@
 {
   "number": 390,
-  "questionId": 66584,
-  "questionNumber": "337405",
+  "questionId": "033-0390",
+  "questionNumber": "033-0390",
   "stemHtml": "<p>Given the following information for a Commercial Air Transport flight, what is the time (in minutes) needed from the destination to the alternate aerodrome? Assume an operation with a Performance Class A aeroplane applying the Basic Fuel Scheme or with a helicopter (the basic fuel planning provisions are the same).</p>\r\n\r\n<p>Missed approach at the destination: 6 minutes<br />\r\nClimb to cruise level: 7 minutes<br />\r\nCruise distance: 130 NM<br />\r\nCruise TAS: 145 kt<br />\r\nWind component: 10 kt tailwind<br />\r\nAnticipated hold at the alternate: 11 minutes<br />\r\nDescent to the alternate: 7 minutes<br />\r\nApproach to the alternate: 8 minutes</p>\r\n",
   "options": {
     "a": "97 minutes",
@@ -10,5 +10,10 @@
     "d": "89 minutes"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66584,
+    "number": "337405"
+  }
 }

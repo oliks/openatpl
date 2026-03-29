@@ -1,7 +1,7 @@
 {
   "number": 1861,
-  "questionId": 81596,
-  "questionNumber": "106222",
+  "questionId": "010-1861",
+  "questionNumber": "010-1861",
   "stemHtml": "An IFR-rated pilot is performing a flight between two European aerodromes 100 NM apart. The weather conditions are VMC during the flight. According to SERA (Standardized European Rules of the Air), under which rules can the flight be performed?",
   "options": {
     "a": "VFR only.",
@@ -10,5 +10,10 @@
     "d": "IFR only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81596,
+    "number": "106222"
+  }
 }

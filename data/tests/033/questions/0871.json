@@ -1,7 +1,7 @@
 {
   "number": 871,
-  "questionId": 70568,
-  "questionNumber": "336503",
+  "questionId": "033-0871",
+  "questionNumber": "033-0871",
   "stemHtml": "<p>A repetitive flight plan (RPL) is filed for a scheduled flight:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Paris-Orly to Angouleme, Paris Orly as alternate. Following heavy snow falls, Angouleme airport will be closed at the expected time of arrival. The airline decides before departure to plan a re-routing of that flight to Limoges.</span></p>",
   "options": {
     "a": "The pilot-in-command must advise ATC of his intention to divert to Limoges at least 15 minutes before the planned time of arrival.",
@@ -10,5 +10,10 @@
     "d": "The airline\u2019s \u201cOperations\u201c Department has to transmit a change in the RPL at the ATC office, at least half an hour before the planned time of departure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70568,
+    "number": "336503"
+  }
 }

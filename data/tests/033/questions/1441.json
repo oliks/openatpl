@@ -1,7 +1,7 @@
 {
   "number": 1441,
-  "questionId": 107748,
-  "questionNumber": "333144",
+  "questionId": "033-1441",
+  "questionNumber": "033-1441",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich approach lighting system is installed at Runway 21?</p>",
   "options": {
     "a": "<p>Simple approach light.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/b0def1ec-8759-4085-8f7a-5e6b1f51dde9.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/b0def1ec-8759-4085-8f7a-5e6b1f51dde9.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107748,
+    "number": "333144"
+  }
 }

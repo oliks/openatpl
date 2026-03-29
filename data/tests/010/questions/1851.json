@@ -1,7 +1,7 @@
 {
   "number": 1851,
-  "questionId": 66997,
-  "questionNumber": "102736",
+  "questionId": "010-1851",
+  "questionNumber": "010-1851",
   "stemHtml": "Wake turbulence Separation \u2013 departing aircraft \u2013 A minimum separation of at least 2 minutes shall be applied between a LIGHT or MEDIUM aircraft and a HEAVY aircraft taking-off behind, using parallel runways...",
   "options": {
     "a": "separated by less than 760 m.",
@@ -10,5 +10,10 @@
     "d": "having a downslope of more than 1.5 degrees in the direction of departure."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66997,
+    "number": "102736"
+  }
 }

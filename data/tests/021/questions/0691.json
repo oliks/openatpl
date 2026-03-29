@@ -1,7 +1,7 @@
 {
   "number": 691,
-  "questionId": 79421,
-  "questionNumber": "217701",
+  "questionId": "021-0691",
+  "questionNumber": "021-0691",
   "stemHtml": "How can the pilot disengage the AP?",
   "options": {
     "a": "Priority Button only.",
@@ -10,5 +10,10 @@
     "d": "Move the sidestick."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79421,
+    "number": "217701"
+  }
 }

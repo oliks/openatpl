@@ -1,7 +1,7 @@
 {
   "number": 1403,
-  "questionId": 135211,
-  "questionNumber": "331069",
+  "questionId": "033-1403",
+  "questionNumber": "033-1403",
   "stemHtml": "<p>Refer to figure. <br>According to the provided flight log excerpt, what will the actual fuel consumption be for the flight leg from BRAVO to DELTA, assuming that the flight conditions and fuel usage remain unchanged for this segment?</p>",
   "options": {
     "a": "<p>110 Imp gal</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/582d0363-4839-4f7c-9aa0-532ce856f9d0.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/582d0363-4839-4f7c-9aa0-532ce856f9d0.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 135211,
+    "number": "331069"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1783,
-  "questionId": 95825,
-  "questionNumber": "106490",
+  "questionId": "010-1783",
+  "questionNumber": "010-1783",
   "stemHtml": "<p>EU regulation No. 965/2012 (EASA AIR OPS Part-NCC) deals with\u2026</p>",
   "options": {
     "a": "<p>Non-commercial air operations using complex motor-powered aircraft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Commercial air operations using other than complex motor-powered aircraft.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 95825,
+    "number": "106490"
+  }
 }

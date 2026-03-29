@@ -1,7 +1,7 @@
 {
   "number": 1284,
-  "questionId": 66746,
-  "questionNumber": "102156",
+  "questionId": "010-1284",
+  "questionNumber": "010-1284",
   "stemHtml": "On a VMC day, can the pilot-in-command elect to fly in accordance with the Instrument Flight Rules, despite being in visual conditions?",
   "options": {
     "a": "No, if the filed cruise level is below 5000 ft AMSL.",
@@ -10,5 +10,10 @@
     "d": "Yes, the pilot may choose to do so if desired."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66746,
+    "number": "102156"
+  }
 }

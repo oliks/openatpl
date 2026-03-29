@@ -1,7 +1,7 @@
 {
   "number": 358,
-  "questionId": 69607,
-  "questionNumber": "314400",
+  "questionId": "031-0358",
+  "questionNumber": "031-0358",
   "stemHtml": "<p>The Dry Operating Mass (DOM) of an aircraft is the sum of the Basic Empty Mass (BEM) + \u2026</p>",
   "options": {
     "a": "<p>Operating items</p>",
@@ -10,5 +10,10 @@
     "d": "Traffic Load (TL) + usable fuel"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69607,
+    "number": "314400"
+  }
 }

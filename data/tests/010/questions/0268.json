@@ -1,7 +1,7 @@
 {
   "number": 268,
-  "questionId": 66747,
-  "questionNumber": "103912",
+  "questionId": "010-0268",
+  "questionNumber": "010-0268",
   "stemHtml": "According to ICAO Annex 2, who is responsible for providing ATS services over the high seas?",
   "options": {
     "a": "The ICAO Regional Office closest to the high sea area.",
@@ -10,5 +10,10 @@
     "d": "By delegation, the US over the Atlantic, Russia over the Arctic, and Australia over the Pacific."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66747,
+    "number": "103912"
+  }
 }

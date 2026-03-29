@@ -1,7 +1,7 @@
 {
   "number": 569,
-  "questionId": 160496,
-  "questionNumber": "324885",
+  "questionId": "032-0569",
+  "questionNumber": "032-0569",
   "stemHtml": "<p>Which of the following statements about the maximum endurance of a turbojet aircraft are correct?</p><p>1. A headwind has no effect on endurance<br>2. A headwind has no effect on the speed for maximum endurance</p>",
   "options": {
     "a": "<p>1 is correct; 2 is correct</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 is incorrect; 2 is correct</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160496,
+    "number": "324885"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 771,
-  "questionId": 67967,
-  "questionNumber": "217578",
+  "questionId": "021-0771",
+  "questionNumber": "021-0771",
   "stemHtml": "The cylinder head and oil temperatures of a piston engine may exceed their normal operating ranges if:",
   "options": {
     "a": "the engine is operated at a too rich mixture.",
@@ -10,5 +10,10 @@
     "d": "a lower octane rating than specified for the engine is used."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67967,
+    "number": "217578"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1381,
-  "questionId": 106020,
-  "questionNumber": "101846",
+  "questionId": "010-1381",
+  "questionNumber": "010-1381",
   "stemHtml": "<p>Is smoking allowed during corporate business flights?</p>",
   "options": {
     "a": "<p>Only electronic cigarettes are permitted.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106020,
+    "number": "101846"
+  }
 }

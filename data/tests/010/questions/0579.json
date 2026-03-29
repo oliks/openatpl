@@ -1,7 +1,7 @@
 {
   "number": 579,
-  "questionId": 67091,
-  "questionNumber": "102629",
+  "questionId": "010-0579",
+  "questionNumber": "010-0579",
   "stemHtml": "Where is the \"Runway End Safety Area\" located?",
   "options": {
     "a": "Between the end of the runway and the end of the runway strip.",
@@ -10,5 +10,10 @@
     "d": "At each end of the runway strip."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67091,
+    "number": "102629"
+  }
 }

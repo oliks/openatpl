@@ -1,7 +1,7 @@
 {
   "number": 1114,
-  "questionId": 106977,
-  "questionNumber": "227105",
+  "questionId": "022-1114",
+  "questionNumber": "022-1114",
   "stemHtml": "<p>Which of the following can be stored as up to five letter waypoint identifiers through the CDU of a B737-400 Flight Management System? </p>",
   "options": {
     "a": "<p>Airway names; navaid identifiers;  airport names; waypoint code numbers. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Waypoint names; navaid identifiers; runway numbers; airport ICAO identifiers. </p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106977,
+    "number": "227105"
+  }
 }

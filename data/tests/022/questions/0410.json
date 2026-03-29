@@ -1,7 +1,7 @@
 {
   "number": 410,
-  "questionId": 69184,
-  "questionNumber": "222472",
+  "questionId": "022-0410",
+  "questionNumber": "022-0410",
   "stemHtml": "<p>The FMS Cost Index is used to adapt the\u2026</p>",
   "options": {
     "a": "Specific Fuel Consumption to the fuel density.",
@@ -10,5 +10,10 @@
     "d": "<p>Take-off thrust to the Outside Air Temperature.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69184,
+    "number": "222472"
+  }
 }

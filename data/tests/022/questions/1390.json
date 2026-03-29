@@ -1,7 +1,7 @@
 {
   "number": 1390,
-  "questionId": 68611,
-  "questionNumber": "222587",
+  "questionId": "022-1390",
+  "questionNumber": "022-1390",
   "stemHtml": "The flight warning system (FWS) generates an advisory message if:",
   "options": {
     "a": "crew awareness is required and corrective or compensatory action by the crew is required.",
@@ -10,5 +10,10 @@
     "d": "immediate recognition and corrective or compensatory action by the crew is required."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68611,
+    "number": "222587"
+  }
 }

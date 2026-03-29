@@ -1,7 +1,7 @@
 {
   "number": 435,
-  "questionId": 69902,
-  "questionNumber": "324193",
+  "questionId": "032-0435",
+  "questionNumber": "032-0435",
   "stemHtml": "How does TAS vary in a constant Mach descent in the troposphere (assume ISA conditions)?",
   "options": {
     "a": "TAS is not related to Mach Number.",
@@ -10,5 +10,10 @@
     "d": "TAS increases."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69902,
+    "number": "324193"
+  }
 }

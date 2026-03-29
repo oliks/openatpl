@@ -1,7 +1,7 @@
 {
   "number": 1458,
-  "questionId": 66637,
-  "questionNumber": "109486",
+  "questionId": "010-1458",
+  "questionNumber": "010-1458",
   "stemHtml": "In accordance with ICAO Annex 9, from which age shall Contracting States issue a separate passport to each person?",
   "options": {
     "a": "From the age of 2.",
@@ -10,5 +10,10 @@
     "d": "It is regardless of age."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66637,
+    "number": "109486"
+  }
 }

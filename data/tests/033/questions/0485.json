@@ -1,7 +1,7 @@
 {
   "number": 485,
-  "questionId": 109092,
-  "questionNumber": "332742",
+  "questionId": "033-0485",
+  "questionNumber": "033-0485",
   "stemHtml": "<p>Refer to figure.  <br />  \rAn aircraft is flying a 195 NM leg with a TAS of 120 knots. The pilot wishes to choose a cruising level to optimise fuel consumption. At 2000 ft, the aircraft has a manifold pressure of 18' and encounters a 20-knot headwind. At 4000 ft, the aircraft requires a manifold pressure of 22' and experiences a 10-knot tailwind. What is the change in fuel consumption when flying at 4000 ft compared to 2000 ft?</p>",
   "options": {
     "a": "<p>Increase by 3.3 USG</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/1301c7bb-b65d-4b91-8d78-243d5cc3f5c7.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1301c7bb-b65d-4b91-8d78-243d5cc3f5c7.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109092,
+    "number": "332742"
+  }
 }

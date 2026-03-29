@@ -1,7 +1,7 @@
 {
   "number": 1351,
-  "questionId": 67292,
-  "questionNumber": "213209",
+  "questionId": "021-1351",
+  "questionNumber": "021-1351",
   "stemHtml": "<p>On most transport aircraft, flight deck windows are protected against icing by\u2026</p>",
   "options": {
     "a": "<p>rain repellent systems.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>electrical heating.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67292,
+    "number": "213209"
+  }
 }

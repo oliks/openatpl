@@ -1,7 +1,7 @@
 {
   "number": 1472,
-  "questionId": 66732,
-  "questionNumber": "103755",
+  "questionId": "010-1472",
+  "questionNumber": "010-1472",
   "stemHtml": "<p>According to the relevant medical requirements, for the initial medical examination the validity of the medical assessment shall begin at the date the\u2026</p>",
   "options": {
     "a": "medical examination is performed.",
@@ -10,5 +10,10 @@
     "d": "licence is issued or validated."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66732,
+    "number": "103755"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 396,
-  "questionId": 69083,
-  "questionNumber": "229017",
+  "questionId": "022-0396",
+  "questionNumber": "022-0396",
   "stemHtml": "<p>The data base of a FMC (Flight Management Computer) is divided into two major sections\u2026</p>",
   "options": {
     "a": "aeroplane performance and fuel saving.",
@@ -10,5 +10,10 @@
     "d": "inertial and navigation."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69083,
+    "number": "229017"
+  }
 }

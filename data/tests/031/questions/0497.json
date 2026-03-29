@@ -1,7 +1,7 @@
 {
   "number": 497,
-  "questionId": 69418,
-  "questionNumber": "317076",
+  "questionId": "031-0497",
+  "questionNumber": "031-0497",
   "stemHtml": "<p>The Zero Fuel Mass of an aeroplane is always\u2026</p>",
   "options": {
     "a": "the Take-off Mass minus the fuselage fuel mass.",
@@ -10,5 +10,10 @@
     "d": "the Take-off Mass minus the mass of take-off fuel."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69418,
+    "number": "317076"
+  }
 }

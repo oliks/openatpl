@@ -1,7 +1,7 @@
 {
   "number": 527,
-  "questionId": 107888,
-  "questionNumber": "226528",
+  "questionId": "022-0527",
+  "questionNumber": "022-0527",
   "stemHtml": "<p>Which part of a flux valve is the 'sensor part'?</p>",
   "options": {
     "a": "<p>The excitation coil.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The pick-of coil.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107888,
+    "number": "226528"
+  }
 }

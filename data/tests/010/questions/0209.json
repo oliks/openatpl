@@ -1,7 +1,7 @@
 {
   "number": 209,
-  "questionId": 83923,
-  "questionNumber": "106670",
+  "questionId": "010-0209",
+  "questionNumber": "010-0209",
   "stemHtml": "<p>During cruise, after ATC handover, a pilot receives a route clearance up to a waypoint at an adjacent controlled airspace. While approaching the clearance limit waypoint, what must the pilot do?</p>",
   "options": {
     "a": "Perform a lateral offset from the filed flight-plan route, maintaining the frequency of the ATC unit which has provided him/her the last clearance.",
@@ -10,5 +10,10 @@
     "d": "Change frequency to the appropriate. ATC unit on his/her own initiative, and provide a full position report."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83923,
+    "number": "106670"
+  }
 }

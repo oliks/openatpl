@@ -1,7 +1,7 @@
 {
   "number": 240,
-  "questionId": 69071,
-  "questionNumber": "227575",
+  "questionId": "022-0240",
+  "questionNumber": "022-0240",
   "stemHtml": "<p>In case of static blockage, the airspeed indicator\u2026</p>",
   "options": {
     "a": "over-reads in climb and under-reads in descent.",
@@ -10,5 +10,10 @@
     "d": "over-reads in climb only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69071,
+    "number": "227575"
+  }
 }

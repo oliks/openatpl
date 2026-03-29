@@ -1,7 +1,7 @@
 {
   "number": 595,
-  "questionId": 67197,
-  "questionNumber": "103688",
+  "questionId": "010-0595",
+  "questionNumber": "010-0595",
   "stemHtml": "Search and Rescue - During the hours of daylight, which of the following signals made by aircraft mean that the ground signals have been understood?<br>",
   "options": {
     "a": "Circling the ground signals at least once.<br>",
@@ -10,5 +10,10 @@
     "d": "Rocking the aircraft`s wings.<br>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67197,
+    "number": "103688"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1376,
-  "questionId": 68660,
-  "questionNumber": "229270",
+  "questionId": "022-1376",
+  "questionNumber": "022-1376",
   "stemHtml": "The Mach number is equal to: <br /> \"a\" indicates the local speed of sound.",
   "options": {
     "a": "EAS/a",
@@ -10,5 +10,10 @@
     "d": "CAS/a"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68660,
+    "number": "229270"
+  }
 }

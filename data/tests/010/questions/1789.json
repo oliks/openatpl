@@ -1,7 +1,7 @@
 {
   "number": 1789,
-  "questionId": 67071,
-  "questionNumber": "103286",
+  "questionId": "010-1789",
+  "questionNumber": "010-1789",
   "stemHtml": "<p>A defined rectangular area, selected or prepared as a suitable area over which an aeroplane may make a portion of its initial climb to a specified height is called\u2026</p>",
   "options": {
     "a": "<p>a Clearway.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the Take-Off Run Available (TORA).</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67071,
+    "number": "103286"
+  }
 }

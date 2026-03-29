@@ -1,7 +1,7 @@
 {
   "number": 1115,
-  "questionId": 67268,
-  "questionNumber": "109337",
+  "questionId": "010-1115",
+  "questionNumber": "010-1115",
   "stemHtml": "The apron is part of...",
   "options": {
     "a": "the landside.",
@@ -10,5 +10,10 @@
     "d": "the movement area."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67268,
+    "number": "109337"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 859,
-  "questionId": 84095,
-  "questionNumber": "328807",
+  "questionId": "032-0859",
+  "questionNumber": "032-0859",
   "stemHtml": "<p>Refer to figure or CAP 698 figure 4.4. <br>Given the following:</p><p>Runway 02, TORA 6400 ft, 1% upslope, obstacle after departure, maximum 5\u00b0 flaps allowed<br>Runway 20, TORA 6400 ft, 1% downslope, departure over the sea, maximum 15\u00b0 flaps allowed<br>Wind: 020\u00b0 / 5 kt</p><p>The actual TOM is 58 800 kg, which is 600 kg beyond the limit for runway 02.</p><p>Which of the following options is the best choice, from both a safety and commercial standpoint?</p>",
   "options": {
     "a": "Offload 600 kg of passengers or bags and take-off on RWY 02.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/E4F2BDF1-8637-48BC-8C2F-7A1A21BD0222.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/E4F2BDF1-8637-48BC-8C2F-7A1A21BD0222.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84095,
+    "number": "328807"
+  }
 }

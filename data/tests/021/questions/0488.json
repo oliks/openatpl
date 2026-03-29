@@ -1,7 +1,7 @@
 {
   "number": 488,
-  "questionId": 67909,
-  "questionNumber": "215380",
+  "questionId": "021-0488",
+  "questionNumber": "021-0488",
   "stemHtml": "<p>In an aircraft with dual hydraulic systems, loss of hydraulic system pressure from one system will normally be indicated in the cockpit by\u2026</p>",
   "options": {
     "a": "<p>either a red or amber light, with a loss of system pressure indication and an audio warning.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a master caution and a red light accompanied by an audio warning for the affected system.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67909,
+    "number": "215380"
+  }
 }

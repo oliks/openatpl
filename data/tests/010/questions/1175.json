@@ -1,7 +1,7 @@
 {
   "number": 1175,
-  "questionId": 67237,
-  "questionNumber": "102184",
+  "questionId": "010-1175",
+  "questionNumber": "010-1175",
   "stemHtml": "<p>According to EASA FCL: The holder of a pilot licence who has attained the age of _____ years shall not act as a pilot of an aircraft engaged in commercial air transport.</p>",
   "options": {
     "a": "65",
@@ -10,5 +10,10 @@
     "d": "58"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67237,
+    "number": "102184"
+  }
 }

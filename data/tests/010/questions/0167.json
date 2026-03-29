@@ -1,7 +1,7 @@
 {
   "number": 167,
-  "questionId": 106598,
-  "questionNumber": "107194",
+  "questionId": "010-0167",
+  "questionNumber": "010-0167",
   "stemHtml": "<p>The flight crew of an aircraft receives a departure clearance. Due to bad weather forecasted on the cleared route, the pilot-in-command would prefer a different route. What is the appropriate course of action by the ATC?</p>",
   "options": {
     "a": "<p>Approve if the new flight plan was refiled.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Advice the flight crew to continue as cleared and contact them if they encounter any issues en-route.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106598,
+    "number": "107194"
+  }
 }

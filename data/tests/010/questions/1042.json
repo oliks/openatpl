@@ -1,7 +1,7 @@
 {
   "number": 1042,
-  "questionId": 66820,
-  "questionNumber": "107053",
+  "questionId": "010-1042",
+  "questionNumber": "010-1042",
   "stemHtml": "<p>The pilots notice that they have been intercepted by military jets. What transponder code should they set?</p>",
   "options": {
     "a": "7000.",
@@ -10,5 +10,10 @@
     "d": "7700."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66820,
+    "number": "107053"
+  }
 }

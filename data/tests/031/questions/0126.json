@@ -1,7 +1,7 @@
 {
   "number": 126,
-  "questionId": 102573,
-  "questionNumber": "313775",
+  "questionId": "031-0126",
+  "questionNumber": "031-0126",
   "stemHtml": "<p>The CG (Centre of Gravity) of an aicraft is 58 inches forward of the datum, with a total mass of 2609 lb. If a last-minute load of 128 lb occurs and it is placed 32 inches aft of the datum, where is the new CG located?</p>",
   "options": {
     "a": "<p>55.29 inches aft of the datum.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>53.79 inches forward of the datum.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102573,
+    "number": "313775"
+  }
 }

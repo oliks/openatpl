@@ -1,7 +1,7 @@
 {
   "number": 661,
-  "questionId": 107591,
-  "questionNumber": "107597",
+  "questionId": "010-0661",
+  "questionNumber": "010-0661",
   "stemHtml": "<p>The abbreviation 'ADS' stands for...</p>",
   "options": {
     "a": "<p>Automatic Dependent Surveillance.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Aircraft Detection System.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107591,
+    "number": "107597"
+  }
 }

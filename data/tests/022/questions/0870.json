@@ -1,7 +1,7 @@
 {
   "number": 870,
-  "questionId": 69243,
-  "questionNumber": "224170",
+  "questionId": "022-0870",
+  "questionNumber": "022-0870",
   "stemHtml": "<p>Refer to figure. <br /> \rDiagram 3 in the annex is showing:</p>",
   "options": {
     "a": "<p>a 40\u00b0 left bank and 15\u00b0 nose up attitude.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/75F8B7C8-3ACA-4B01-8E66-151603DFC28A.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/75F8B7C8-3ACA-4B01-8E66-151603DFC28A.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69243,
+    "number": "224170"
+  }
 }

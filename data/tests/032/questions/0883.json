@@ -1,7 +1,7 @@
 {
   "number": 883,
-  "questionId": 96286,
-  "questionNumber": "326332",
+  "questionId": "032-0883",
+  "questionNumber": "032-0883",
   "stemHtml": "When considering a take-off which is rejected at high speed, what effect will inoperative ground spoilers have on the accelerate-stop distance. It will be...",
   "options": {
     "a": "increased.",
@@ -10,5 +10,10 @@
     "d": "unchanged."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96286,
+    "number": "326332"
+  }
 }

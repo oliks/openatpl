@@ -1,7 +1,7 @@
 {
   "number": 135,
-  "questionId": 82654,
-  "questionNumber": "339175",
+  "questionId": "033-0135",
+  "questionNumber": "033-0135",
   "stemHtml": "<p>Refer to figure or ALICANTE - Chart 10-2A from Jeppesen GSPRM 2017. What is the Minimum Holding Altitude (MHA) at VILNA(IAF)?</p>",
   "options": {
     "a": "FL70",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3A1AAF1E-8905-4321-BCE5-F8749175C827.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3A1AAF1E-8905-4321-BCE5-F8749175C827.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82654,
+    "number": "339175"
+  }
 }

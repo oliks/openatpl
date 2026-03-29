@@ -1,7 +1,7 @@
 {
   "number": 612,
-  "questionId": 77865,
-  "questionNumber": "221168",
+  "questionId": "022-0612",
+  "questionNumber": "022-0612",
   "stemHtml": "Which of the following statements is true when comparing an LCD to a CRT display in the EFIS?",
   "options": {
     "a": "LCD has a lower voltage supply than CRT, so it uses less power.",
@@ -10,5 +10,10 @@
     "d": "LCD displays can provide less information because it is only refreshed once per second."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77865,
+    "number": "221168"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 30,
-  "questionId": 159012,
-  "questionNumber": "109640",
+  "questionId": "010-0030",
+  "questionNumber": "010-0030",
   "stemHtml": "<p>You are approaching an airport with 4 parallel runways. Parallel departures and approaches are conducted at the airport and all the runways are in use. What is required in order to execute a CAT I approach?</p>",
   "options": {
     "a": "<p>That the aircraft meets the onboard capabilities to perform the RNAV approach.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Non-precision approach capabilities, or meet the eligibility of ILS capabilities.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159012,
+    "number": "109640"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 360,
-  "questionId": 69465,
-  "questionNumber": "313818",
+  "questionId": "031-0360",
+  "questionNumber": "031-0360",
   "stemHtml": "<p>The Traffic Load is defined as\u2026</p>",
   "options": {
     "a": "The total mass of passengers, baggage and cargo, including any non revenue load",
@@ -10,5 +10,10 @@
     "d": "The total mass of flight crew, passengers, baggage, cargo and usable fuel"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69465,
+    "number": "313818"
+  }
 }

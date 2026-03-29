@@ -1,7 +1,7 @@
 {
   "number": 414,
-  "questionId": 108810,
-  "questionNumber": "222131",
+  "questionId": "022-0414",
+  "questionNumber": "022-0414",
   "stemHtml": "<p>Under what circumstances does the amber ALT alert light illuminate?</p>\r\r<p>1. Altimeter failure <br /> \r2. Altimeter wrong setting <br /> \r3. Altitude deviation exceeding preset limits <br /> \r4. Aircraft is too low (potential GPWS activation scenario) <br /> \r5. Altitude alert system indicates a deviation from the selected altitude</p>",
   "options": {
     "a": "<p>1, 2 and 3</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3, 4</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108810,
+    "number": "222131"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1452,
-  "questionId": 68965,
-  "questionNumber": "228948",
+  "questionId": "022-1452",
+  "questionNumber": "022-1452",
   "stemHtml": "A Flight Director (FD) system consist of a computer with..",
   "options": {
     "a": "a control panel and indicators.",
@@ -10,5 +10,10 @@
     "d": "a control panel and autopilot."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68965,
+    "number": "228948"
+  }
 }

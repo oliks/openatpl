@@ -1,7 +1,7 @@
 {
   "number": 1075,
-  "questionId": 83177,
-  "questionNumber": "217848",
+  "questionId": "021-1075",
+  "questionNumber": "021-1075",
   "stemHtml": "<p>The flight crew has reported a rusty landing gear in the aircraft tech-log. The aircraft remained in service after a maintenance check. What kind of maintenance check did the aircraft undergo?</p>",
   "options": {
     "a": "<p>Post-condition maintenance.  </p>",
@@ -10,5 +10,10 @@
     "d": "Hard-time maintenance."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83177,
+    "number": "217848"
+  }
 }

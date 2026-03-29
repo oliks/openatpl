@@ -1,7 +1,7 @@
 {
   "number": 1585,
-  "questionId": 82676,
-  "questionNumber": "229878",
+  "questionId": "022-1585",
+  "questionNumber": "022-1585",
   "stemHtml": "Regarding an AHRS, what type of gyro is used?",
   "options": {
     "a": "MEMS gyros.",
@@ -10,5 +10,10 @@
     "d": "Two dimensional gyros."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82676,
+    "number": "229878"
+  }
 }

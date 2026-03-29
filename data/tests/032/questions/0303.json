@@ -1,7 +1,7 @@
 {
   "number": 303,
-  "questionId": 70247,
-  "questionNumber": "327698",
+  "questionId": "032-0303",
+  "questionNumber": "032-0303",
   "stemHtml": "In comparison to both engines operative, the power required for a Performance Class B multi engined aeroplane to maintain level flight with the critical engine inoperative is...",
   "options": {
     "a": "greater, due to the decrease in total drag.",
@@ -10,5 +10,10 @@
     "d": "constant, provided the pilot counteracts the yaw."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70247,
+    "number": "327698"
+  }
 }

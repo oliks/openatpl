@@ -1,7 +1,7 @@
 {
   "number": 963,
-  "questionId": 101023,
-  "questionNumber": "107547",
+  "questionId": "010-0963",
+  "questionNumber": "010-0963",
   "stemHtml": "In case of a distress situation, what might be the reason that a pilot decides to dump fuel?",
   "options": {
     "a": "To reduce aircraft weight for landing.",
@@ -10,5 +10,10 @@
     "d": "To increase fuel efficiency."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101023,
+    "number": "107547"
+  }
 }

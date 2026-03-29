@@ -1,7 +1,7 @@
 {
   "number": 93,
-  "questionId": 77851,
-  "questionNumber": "323706",
+  "questionId": "032-0093",
+  "questionNumber": "032-0093",
   "stemHtml": "<p>Refer to figure.<br>Give the following conditions, calculate the landing distance for a multi-engine piston aeroplane:</p><p>Temperature (OAT): 0\u00b0C<br>Pressure altitude (PA): 2000 ft<br>Aircraft mass: 4000 lbs<br>Headwind: 5 kt<br>Barrier speed: 85 kt</p>",
   "options": {
     "a": "1120 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/471488C2-974C-4BAE-90BA-553C71CCC122.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/471488C2-974C-4BAE-90BA-553C71CCC122.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77851,
+    "number": "323706"
+  }
 }

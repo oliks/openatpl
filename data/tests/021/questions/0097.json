@@ -1,7 +1,7 @@
 {
   "number": 97,
-  "questionId": 103788,
-  "questionNumber": "211598",
+  "questionId": "021-0097",
+  "questionNumber": "021-0097",
   "stemHtml": "<p>A constant delivery hydraulic pump provides (1) _____ and (2) _____.</p>",
   "options": {
     "a": "<p>(1) constant pressure; (2) fixed volume</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) varying pressure; (2) varying volume</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103788,
+    "number": "211598"
+  }
 }

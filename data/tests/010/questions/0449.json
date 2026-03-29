@@ -1,7 +1,7 @@
 {
   "number": 449,
-  "questionId": 108036,
-  "questionNumber": "104102",
+  "questionId": "010-0449",
+  "questionNumber": "010-0449",
   "stemHtml": "<p>An aircraft departs from State A to State B. While en-route, it overflies State C without landing. What is the freedom of the air that allows it?</p>",
   "options": {
     "a": "<p>The first freedom.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The fifth freedom.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108036,
+    "number": "104102"
+  }
 }

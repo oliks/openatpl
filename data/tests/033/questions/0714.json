@@ -1,7 +1,7 @@
 {
   "number": 714,
-  "questionId": 70664,
-  "questionNumber": "331056",
+  "questionId": "033-0714",
+  "questionNumber": "033-0714",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.5.1).\u00a0<br>Given:</p><p>Brake release mass: 62 000 kg\u00a0<br>Temperature: ISA -15\u00b0C\u00a0<br>The fuel required for a climb from Sea Level to FL330 is</p>",
   "options": {
     "a": "1800 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/59A510A2-6D62-414C-93B1-8E6C19DD18A7.gif",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/59A510A2-6D62-414C-93B1-8E6C19DD18A7.gif"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70664,
+    "number": "331056"
+  }
 }

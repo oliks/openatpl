@@ -1,7 +1,7 @@
 {
   "number": 1268,
-  "questionId": 71040,
-  "questionNumber": "338601",
+  "questionId": "033-1268",
+  "questionNumber": "033-1268",
   "stemHtml": "<p>Refer to figure.\u00a0<br>You are planning to fly from A to B applying the decision point procedure; your trip time is computed to be 5 h. Assuming you move your decision point from C to D, how does the required fuel change with a fuel burn of 2000 kg/h? The distance from A to C is equal to the distance from D to B.</p>",
   "options": {
     "a": "<p>increase by 100 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/99FF119A-2D44-4B53-A4D8-8A1317C74CED.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/99FF119A-2D44-4B53-A4D8-8A1317C74CED.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71040,
+    "number": "338601"
+  }
 }

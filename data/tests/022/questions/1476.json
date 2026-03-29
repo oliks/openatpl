@@ -1,7 +1,7 @@
 {
   "number": 1476,
-  "questionId": 69209,
-  "questionNumber": "226299",
+  "questionId": "022-1476",
+  "questionNumber": "022-1476",
   "stemHtml": "<p>What is the time required to align an INS/IRS at a position in mid-latitudes (60<strong>\u00b0</strong>N)?</p>",
   "options": {
     "a": "5 min.",
@@ -10,5 +10,10 @@
     "d": "10 min."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69209,
+    "number": "226299"
+  }
 }

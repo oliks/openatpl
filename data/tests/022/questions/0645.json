@@ -1,7 +1,7 @@
 {
   "number": 645,
-  "questionId": 69023,
-  "questionNumber": "221834",
+  "questionId": "022-0645",
+  "questionNumber": "022-0645",
   "stemHtml": "<p>The automatic synchronisation function of an autopilot control system:</p>\r\r<p>1 \u2013 operates only when the autopilot is engaged <br /> \r2 \u2013 prevents the aircraft's control system from jerking when disengaging the autopilot <br /> \r3 \u2013 prevents the aircraft's control system from jerking when engaging the autopilot</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "<p>3.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2, 3.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69023,
+    "number": "221834"
+  }
 }

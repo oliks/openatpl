@@ -1,7 +1,7 @@
 {
   "number": 556,
-  "questionId": 70883,
-  "questionNumber": "339949",
+  "questionId": "033-0556",
+  "questionNumber": "033-0556",
   "stemHtml": "<p>Refer to figure or chart \"E LO 2\" from Jeppesen GSPRM 2017. <br>Find the distance and magnetic track of the waypoint TIPIL by flying out of TRENT VOR/DME (TNT): (Note: when using the original chart from GSPRM both locations can be found in chart section 7 C)</p>",
   "options": {
     "a": "<div>340\u00b0 / 5 NM</div>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/33C8CF62-3AEB-4159-93CB-75CE7545128F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/33C8CF62-3AEB-4159-93CB-75CE7545128F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70883,
+    "number": "339949"
+  }
 }

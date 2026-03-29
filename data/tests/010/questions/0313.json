@@ -1,7 +1,7 @@
 {
   "number": 313,
-  "questionId": 67158,
-  "questionNumber": "108703",
+  "questionId": "010-0313",
+  "questionNumber": "010-0313",
   "stemHtml": "What is the standard colour code for an ATC document when considering the aeronautical information circular (AIC)?",
   "options": {
     "a": "mauve",
@@ -10,5 +10,10 @@
     "d": "green"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67158,
+    "number": "108703"
+  }
 }

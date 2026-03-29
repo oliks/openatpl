@@ -1,7 +1,7 @@
 {
   "number": 533,
-  "questionId": 66876,
-  "questionNumber": "101215",
+  "questionId": "010-0533",
+  "questionNumber": "010-0533",
   "stemHtml": "<p>Holding procedures \u2013 offset entry \u2013 Above 14 000 ft in still air, the outbound time on a 30-degree offset track is limited to...</p>",
   "options": {
     "a": "1 minute.",
@@ -10,5 +10,10 @@
     "d": "3 minutes."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66876,
+    "number": "101215"
+  }
 }

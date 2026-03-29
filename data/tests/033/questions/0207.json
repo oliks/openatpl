@@ -1,7 +1,7 @@
 {
   "number": 207,
-  "questionId": 102847,
-  "questionNumber": "338550",
+  "questionId": "033-0207",
+  "questionNumber": "033-0207",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017. <br>You are flying abeam Linz Airport (LOWL; N48\u00b015\u2019 E014\u00b011\u2019) and want to know the current weather. What frequency should you use?</p>",
   "options": {
     "a": "<p>129.62 MHz</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/533fe82d-a968-4e19-a29e-f7fa5c7eb402.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/533fe82d-a968-4e19-a29e-f7fa5c7eb402.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102847,
+    "number": "338550"
+  }
 }

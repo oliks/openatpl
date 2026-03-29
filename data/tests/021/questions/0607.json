@@ -1,7 +1,7 @@
 {
   "number": 607,
-  "questionId": 109686,
-  "questionNumber": "215931",
+  "questionId": "021-0607",
+  "questionNumber": "021-0607",
   "stemHtml": "<p>Which of the following warning/caution lights exist in relation to the hydraulic system?</p>\r\r<p>1. High pressure <br /> \r2. Low fluid quantity <br /> \r3. Low pressure <br /> \r4. Pump overheat</p>",
   "options": {
     "a": "<p>1, 2 and 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 2 and 3</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109686,
+    "number": "215931"
+  }
 }

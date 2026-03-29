@@ -1,7 +1,7 @@
 {
   "number": 924,
-  "questionId": 81381,
-  "questionNumber": "222923",
+  "questionId": "022-0924",
+  "questionNumber": "022-0924",
   "stemHtml": "<p>An aircraft is climbing to its maximum operating altitude. During the level-off the crew must take into account lag of the altimeter. The altimeter will\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">Be more accurate at high altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">Over-read in the climb.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81381,
+    "number": "222923"
+  }
 }

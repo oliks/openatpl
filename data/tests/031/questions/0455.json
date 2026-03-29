@@ -1,7 +1,7 @@
 {
   "number": 455,
-  "questionId": 108302,
-  "questionNumber": "316251",
+  "questionId": "031-0455",
+  "questionNumber": "031-0455",
   "stemHtml": "<p>Moving the CG from an aft to a forward position during flight will\u2026</p>",
   "options": {
     "a": "<p>decrease fuel consumption and decrease the aircraft\u2019s longitudinal stability.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>increase fuel consumption and increase the aircraft\u2019s longitudinal stability.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108302,
+    "number": "316251"
+  }
 }

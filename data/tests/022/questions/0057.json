@@ -1,7 +1,7 @@
 {
   "number": 57,
-  "questionId": 109014,
-  "questionNumber": "225770",
+  "questionId": "022-0057",
+  "questionNumber": "022-0057",
   "stemHtml": "<p>In the Northern hemisphere, if using a direct reading compass, you should (1) _____ in order to arrive at the correct heading when turning the shortest way from a heading of (2) _____.</p>",
   "options": {
     "a": "<p>(1) stop late; (2) 040 to 330</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) stop early; (2) 140 to 230</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109014,
+    "number": "225770"
+  }
 }

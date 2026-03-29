@@ -1,7 +1,7 @@
 {
   "number": 871,
-  "questionId": 117502,
-  "questionNumber": "229314",
+  "questionId": "022-0871",
+  "questionNumber": "022-0871",
   "stemHtml": "<p>What important action must the crew carry out after an aircraft has been refuelled?</p>",
   "options": {
     "a": "<p>Verify that the actual and estimated amounts of fuel match</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Notify ATC of the refueling operation</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117502,
+    "number": "229314"
+  }
 }

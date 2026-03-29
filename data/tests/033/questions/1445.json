@@ -1,7 +1,7 @@
 {
   "number": 1445,
-  "questionId": 103720,
-  "questionNumber": "333321",
+  "questionId": "033-1445",
+  "questionNumber": "033-1445",
   "stemHtml": "<p>Refer to figure. <br>You are flying local at EDNA Airport and the radio station is unserviceable there. You need to know the height of the cloud base, visibility, and runway in use at Munich. What is the best frequency to use for this information?</p>",
   "options": {
     "a": "<p>Munich ATIS, 123.12</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/c51cbd3f-1af5-42a7-a767-c76648eb3133.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c51cbd3f-1af5-42a7-a767-c76648eb3133.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103720,
+    "number": "333321"
+  }
 }

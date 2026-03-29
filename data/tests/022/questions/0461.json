@@ -1,7 +1,7 @@
 {
   "number": 461,
-  "questionId": 69247,
-  "questionNumber": "228370",
+  "questionId": "022-0461",
+  "questionNumber": "022-0461",
   "stemHtml": "<p>In a gyromagnetic compass, the flux valve feeds the\u2026<br> </p>",
   "options": {
     "a": "erecting system.<br>",
@@ -10,5 +10,10 @@
     "d": "<p>error detector.<br> </p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69247,
+    "number": "228370"
+  }
 }

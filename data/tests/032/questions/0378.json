@@ -1,7 +1,7 @@
 {
   "number": 378,
-  "questionId": 84062,
-  "questionNumber": "326887",
+  "questionId": "032-0378",
+  "questionNumber": "032-0378",
   "stemHtml": "The pilots are analysing the aircraft's fuel consumption whilst in the cruise, noticing that the fuel consumption is higher than planned. ATC instructs the pilot to descend at high speed. Which of the following speeds is the best to descend at?",
   "options": {
     "a": "M<sub>MO</sub>",
@@ -10,5 +10,10 @@
     "d": "Minimum power required speed"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84062,
+    "number": "326887"
+  }
 }

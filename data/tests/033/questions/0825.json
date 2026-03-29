@@ -1,7 +1,7 @@
 {
   "number": 825,
-  "questionId": 85043,
-  "questionNumber": "339130",
+  "questionId": "033-0825",
+  "questionNumber": "033-0825",
   "stemHtml": "<p>Refer to figure Tromso, Norway (ENTC) SID chart 10-3F from the Jeppesen GSPRM 2017.<br>An aircraft has been cleared to depart Tromso runway 01 to follow the AMIMO 1A RNAV SID. What waypoints must be programmed into the RNAV system and what are the speed restrictions for this SID?</p>",
   "options": {
     "a": "TC683, TC604, ROSKO, GILGU and AMIMO with a maximum speed restriction of 230 kt to TC604.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/F46E9F46-10D6-446E-A65B-A88945D1BCAB.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F46E9F46-10D6-446E-A65B-A88945D1BCAB.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85043,
+    "number": "339130"
+  }
 }

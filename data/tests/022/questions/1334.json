@@ -1,7 +1,7 @@
 {
   "number": 1334,
-  "questionId": 79292,
-  "questionNumber": "226948",
+  "questionId": "022-1334",
+  "questionNumber": "022-1334",
   "stemHtml": "<p>When an aircraft accelerates, an attitude indicator gives a false pitch up indication. Why does this happen?</p>",
   "options": {
     "a": "<p>The spin axis is displaced from the vertical.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The height of the pilot\u2019s eyes relative to the instrument causes an apparent shift when the aircraft accelerates.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79292,
+    "number": "226948"
+  }
 }

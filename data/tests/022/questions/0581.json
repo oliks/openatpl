@@ -1,7 +1,7 @@
 {
   "number": 581,
-  "questionId": 68859,
-  "questionNumber": "226778",
+  "questionId": "022-0581",
+  "questionNumber": "022-0581",
   "stemHtml": "<p>The command bars of a flight director\u2026</p>",
   "options": {
     "a": "<p>are always displayed when the autopilot is engaged.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>may be displayed when flying manually.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68859,
+    "number": "226778"
+  }
 }

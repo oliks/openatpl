@@ -1,7 +1,7 @@
 {
   "number": 720,
-  "questionId": 105036,
-  "questionNumber": "327269",
+  "questionId": "032-0720",
+  "questionNumber": "032-0720",
   "stemHtml": "<p>During a nighttime departure from an airport in a warm desert area, regulations specify a rate of climb (ROC) of 1600 feet per minute (fpm). However, during the climb, the actual ROC reduces as low as 1200 fpm. What could be the reason for this?</p>",
   "options": {
     "a": "<p>An inversion causes warmer air at higher altitudes, reducing ROC.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Pressure altitude variations affect engine performance and increase ROC.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105036,
+    "number": "327269"
+  }
 }

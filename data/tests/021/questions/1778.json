@@ -1,7 +1,7 @@
 {
   "number": 1778,
-  "questionId": 68190,
-  "questionNumber": "216775",
+  "questionId": "021-1778",
+  "questionNumber": "021-1778",
   "stemHtml": "<p>The electronic engine control of a FADEC gas turbine engine checks\u2026</p>",
   "options": {
     "a": "<p>Output data only.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Input data only.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68190,
+    "number": "216775"
+  }
 }

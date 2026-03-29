@@ -1,7 +1,7 @@
 {
   "number": 1153,
-  "questionId": 80137,
-  "questionNumber": "211861",
+  "questionId": "021-1153",
+  "questionNumber": "021-1153",
   "stemHtml": "Why is the jet engine exhaust convergent?",
   "options": {
     "a": "<p>To accelerate the exhaust gasses.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To reduce engine noise.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80137,
+    "number": "211861"
+  }
 }

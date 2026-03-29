@@ -1,7 +1,7 @@
 {
   "number": 1396,
-  "questionId": 81980,
-  "questionNumber": "336233",
+  "questionId": "033-1396",
+  "questionNumber": "033-1396",
   "stemHtml": "<p>What is the minimum pressure altitude to pass a mountain ridge with 2000 ft clearance with the following data?</p><p>Mountain ridge elevation: 13 500 ft <br>Outside Air temperature: ISA -15\u00b0C <br>QNH given by a meteorological station at elevation 8000 ft: 1030 hPa <br>Assume 1 hPa = 30 ft</p>",
   "options": {
     "a": "15 440 ft",
@@ -10,5 +10,10 @@
     "d": "15 950 ft"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81980,
+    "number": "336233"
+  }
 }

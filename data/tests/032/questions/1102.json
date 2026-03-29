@@ -1,7 +1,7 @@
 {
   "number": 1102,
-  "questionId": 69623,
-  "questionNumber": "325900",
+  "questionId": "032-1102",
+  "questionNumber": "032-1102",
   "stemHtml": "<p>Refer to figure or CAP 698 Figure 4.28.  <br />  Given the following information, what is the field length limited mass?</p><p>Runway length: 1600 m (dry)  <br />  Airport altitude: 1800 ft  <br />  Headwind: 20 kt  <br />  Flaps: 30  <br />  Anti-skid: operative  <br />  Spoilers: automatic</p>",
   "options": {
     "a": "<p>52 000 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/63E1D3B7-0396-4E3A-872D-1E8FA59FEE1D.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/63E1D3B7-0396-4E3A-872D-1E8FA59FEE1D.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69623,
+    "number": "325900"
+  }
 }

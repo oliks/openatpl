@@ -1,7 +1,7 @@
 {
   "number": 182,
-  "questionId": 68062,
-  "questionNumber": "218335",
+  "questionId": "021-0182",
+  "questionNumber": "021-0182",
   "stemHtml": "<p>Regarding a jet engine, which of the following statements is/are correct?</p><p>1. maximum thrust decreases as the pressure altitude increases<br>2. specific fuel consumption decreases slightly as the pressure altitude increases at constant TAS</p>",
   "options": {
     "a": "Both 1 and 2 are correct.",
@@ -10,5 +10,10 @@
     "d": "1 is correct, 2 is incorrect."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68062,
+    "number": "218335"
+  }
 }

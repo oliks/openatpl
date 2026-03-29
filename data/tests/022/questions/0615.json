@@ -1,7 +1,7 @@
 {
   "number": 615,
-  "questionId": 153890,
-  "questionNumber": "223827",
+  "questionId": "022-0615",
+  "questionNumber": "022-0615",
   "stemHtml": "<p>How is engine torque displayed in most modern aircraft?</p>",
   "options": {
     "a": "<p>% of maximum rated torque</p>",
@@ -10,5 +10,10 @@
     "d": "<p>actual torque in newton meters only</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153890,
+    "number": "223827"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 474,
-  "questionId": 70039,
-  "questionNumber": "325646",
+  "questionId": "032-0474",
+  "questionNumber": "032-0474",
   "stemHtml": "On a reciprocating engine aeroplane, to maintain a given angle of attack, configuration and altitude at higher gross mass\u2026",
   "options": {
     "a": "an increase in airspeed and power is required.",
@@ -10,5 +10,10 @@
     "d": "a higher coefficient of drag is required."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70039,
+    "number": "325646"
+  }
 }

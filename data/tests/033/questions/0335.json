@@ -1,7 +1,7 @@
 {
   "number": 335,
-  "questionId": 84314,
-  "questionNumber": "336106",
+  "questionId": "033-0335",
+  "questionNumber": "033-0335",
   "stemHtml": "<p>The minimum obstacle clearance (MOC) value to be applied in the primary area of a mountainous area during the en-route phase of an IFR flight is\u2026</p>",
   "options": {
     "a": "<p>Always 1000 ft.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>If variation in terrain elevation is less than 5000 ft: 2000 ft, if variation is greater than 5000 ft: 1500 ft.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84314,
+    "number": "336106"
+  }
 }

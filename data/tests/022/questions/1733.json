@@ -1,7 +1,7 @@
 {
   "number": 1733,
-  "questionId": 108733,
-  "questionNumber": "225324",
+  "questionId": "022-1733",
+  "questionNumber": "022-1733",
   "stemHtml": "<p>Refer to figure. <br /> \rIn which directions should the aircraft fly to return to straight and level flight at the required altitude and heading?</p>",
   "options": {
     "a": "<p>Down left</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/7b955832-bbb9-4dfa-8229-bf8989a1ac22.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/7b955832-bbb9-4dfa-8229-bf8989a1ac22.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108733,
+    "number": "225324"
+  }
 }

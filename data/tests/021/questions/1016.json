@@ -1,7 +1,7 @@
 {
   "number": 1016,
-  "questionId": 82768,
-  "questionNumber": "211459",
+  "questionId": "021-1016",
+  "questionNumber": "021-1016",
   "stemHtml": "<p>Some turbine-engined aeroplanes are fitted with trim tanks. Where are these normally placed and what is their purpose?</p>",
   "options": {
     "a": "<p>They are placed in the nose of the aeroplanes, and their function is to control pitch attitudes during approach.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>They are placed in the wing tips , and their function is to assist with the lateral stability of the aeroplane.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82768,
+    "number": "211459"
+  }
 }

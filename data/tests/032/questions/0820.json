@@ -1,7 +1,7 @@
 {
   "number": 820,
-  "questionId": 82575,
-  "questionNumber": "323165",
+  "questionId": "032-0820",
+  "questionNumber": "032-0820",
   "stemHtml": "Consider a medium jet transport aircraft taking off from a contaminated runway where the minimum control speed on the ground (V<strong><sub>MCG</sub></strong>) is the limiting factor. What could be used to improve the take-off performance in this scenario?",
   "options": {
     "a": "Reduced take-off thrust to lower V<sub>MCG</sub>",
@@ -10,5 +10,10 @@
     "d": "Derated take-off thrust to lower V<sub>MCG</sub>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82575,
+    "number": "323165"
+  }
 }

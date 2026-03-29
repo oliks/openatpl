@@ -1,7 +1,7 @@
 {
   "number": 1026,
-  "questionId": 78619,
-  "questionNumber": "109397",
+  "questionId": "010-1026",
+  "questionNumber": "010-1026",
   "stemHtml": "<p>Select the option which corresponds to IATA's mission statement\u2026</p>",
   "options": {
     "a": "IATA's mission is to serve as the global forum of States for international civil aviation. IATA provides assistance and builds aviation capacity through many other activities and the cooperation of its Member States and stakeholders.",
@@ -10,5 +10,10 @@
     "d": "IATA\u2019s mission is to represent, lead and serve the airline industry. IATA seeks to improve understanding of the industry among decision makers and increase awareness of the benefits that aviation brings to national and global economies. It fights for the interests of airlines across the globe, challenging unreasonable rules and charges, holding regulators and governments to account, and striving for sensible regulation."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78619,
+    "number": "109397"
+  }
 }

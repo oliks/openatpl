@@ -1,7 +1,7 @@
 {
   "number": 927,
-  "questionId": 161764,
-  "questionNumber": "329398",
+  "questionId": "032-0927",
+  "questionNumber": "032-0927",
   "stemHtml": "<p>Refer to figure. <br /> During the pre-flight planning procedure, the flight crew has calculated various performance limiting masses for three take-off flap/slat position settings. Which flap/slat position is optimum and which Maximum Performance-Limited TOM ensures compliance with the applicable operational requirements for Commercial Air Transport?</p>",
   "options": {
     "a": "<p>Setting 3; TOM 62 600 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/31d13d94-7ddc-402a-b501-36ec0104f8ff.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/31d13d94-7ddc-402a-b501-36ec0104f8ff.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161764,
+    "number": "329398"
+  }
 }

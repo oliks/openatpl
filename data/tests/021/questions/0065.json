@@ -1,7 +1,7 @@
 {
   "number": 65,
-  "questionId": 67941,
-  "questionNumber": "214440",
+  "questionId": "021-0065",
+  "questionNumber": "021-0065",
   "stemHtml": "<p>The rating of electrical fuses is expressed in\u2026</p>",
   "options": {
     "a": "volts",
@@ -10,5 +10,10 @@
     "d": "amperes"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67941,
+    "number": "214440"
+  }
 }

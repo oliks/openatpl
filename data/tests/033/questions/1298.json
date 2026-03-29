@@ -1,7 +1,7 @@
 {
   "number": 1298,
-  "questionId": 70412,
-  "questionNumber": "336521",
+  "questionId": "033-1298",
+  "questionNumber": "033-1298",
   "stemHtml": "<p>The purpose of the decision point procedure is\u2026</p>",
   "options": {
     "a": "to reduce the minimum required fuel and therefore be able to increase the traffic load.",
@@ -10,5 +10,10 @@
     "d": "to reduce the landing weight and thus reduce the structural stress on the aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70412,
+    "number": "336521"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 30,
-  "questionId": 81369,
-  "questionNumber": "312624",
+  "questionId": "031-0030",
+  "questionNumber": "031-0030",
   "stemHtml": "<p dir=\"ltr\">The CG position of an aeroplane is 12.40 m aft of the datum. Determine the CG position as % MAC, given:</p><p dir=\"ltr\">Leading edge of the wing root: 11.83 m aft of the datum <br /> Leading edge of MAC: 12.12 m aft of the datum <br /> Leading edge of the wing tip: 12.81 m aft of the datum <br /> Length of the wing root chord: 1.55 m <br /> Length of MAC: 1.34 m <br /> Length of the wing tip chord: 0.61 m</p>",
   "options": {
     "a": "<p>20.90% MAC</p>",
@@ -10,5 +10,10 @@
     "d": "<p>90.65% MAC</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81369,
+    "number": "312624"
+  }
 }

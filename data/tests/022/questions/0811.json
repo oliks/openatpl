@@ -1,7 +1,7 @@
 {
   "number": 811,
-  "questionId": 68746,
-  "questionNumber": "227497",
+  "questionId": "022-0811",
+  "questionNumber": "022-0811",
   "stemHtml": "<p>A large aeroplane must be fitted with a take-off configuration warning. During the initial portion of the take-off roll, which of these statements are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I \u2013 An aural warning is provided if the elevator is not in a safe position for take-off.</span> <br /> \nII \u2013 An aural warning is provided if the brake pressure is too low.</p>",
   "options": {
     "a": "I is incorrect, II is correct.",
@@ -10,5 +10,10 @@
     "d": "I is correct, II is incorrect."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68746,
+    "number": "227497"
+  }
 }

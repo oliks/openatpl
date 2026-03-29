@@ -1,7 +1,7 @@
 {
   "number": 32,
-  "questionId": 68849,
-  "questionNumber": "225836",
+  "questionId": "022-0032",
+  "questionNumber": "022-0032",
   "stemHtml": "<p>The Flight Mode Annunciator (FMA) is displayed on the\u2026</p>",
   "options": {
     "a": "<p>Upper zone of PFD.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Flight director selector panel.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68849,
+    "number": "225836"
+  }
 }

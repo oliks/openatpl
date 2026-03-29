@@ -1,7 +1,7 @@
 {
   "number": 1339,
-  "questionId": 111755,
-  "questionNumber": "211144",
+  "questionId": "021-1339",
+  "questionNumber": "021-1339",
   "stemHtml": "<p>As part of an engine run-up procedure, you are required to check the beta range operation for your propeller. This means setting the power lever to move from (1) _____ to (2) _____.</p>",
   "options": {
     "a": "<p>(1) flight coarse pitch; (2) ground fine pitch</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) feathered; (2) ground fine pitch</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111755,
+    "number": "211144"
+  }
 }

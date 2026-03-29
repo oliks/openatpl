@@ -1,7 +1,7 @@
 {
   "number": 576,
-  "questionId": 84685,
-  "questionNumber": "338740",
+  "questionId": "033-0576",
+  "questionNumber": "033-0576",
   "stemHtml": "<p>A Commercial Air Transport flight of 3 hours total flight time is planned to an aerodrome where no alternate is required. 1.5 hours after take-off, the pilot is informed that there will be a delay due to traffic on arriving at destination, thus he/she has to use 8 minutes out of the 15 minutes additional fuel. What action should be done in this case?</p>",
   "options": {
     "a": "Proceed to the destination given that the aircraft can land with final reserve fuel intact.",
@@ -10,5 +10,10 @@
     "d": "Declare an emergency when arriving at destination and ask for a priority clearance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84685,
+    "number": "338740"
+  }
 }

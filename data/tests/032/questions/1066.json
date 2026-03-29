@@ -1,7 +1,7 @@
 {
   "number": 1066,
-  "questionId": 80333,
-  "questionNumber": "325655",
+  "questionId": "032-1066",
+  "questionNumber": "032-1066",
   "stemHtml": "Which of the following statements defines the power required?",
   "options": {
     "a": "The thrust required to overcome drag to maintain accelerating level flight in ISA conditions.",
@@ -10,5 +10,10 @@
     "d": "The available power to overcome drag to maintain straight and level flight."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80333,
+    "number": "325655"
+  }
 }

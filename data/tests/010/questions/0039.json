@@ -1,7 +1,7 @@
 {
   "number": 39,
-  "questionId": 82824,
-  "questionNumber": "102451",
+  "questionId": "010-0039",
+  "questionNumber": "010-0039",
   "stemHtml": "<p>Refer to figure.  <br />  Where may a Road Holding Position Sign be found?</p>",
   "options": {
     "a": "<p>Intersection between road and taxiway.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/97CD2430-0B1C-4692-946C-6CFE2D2E8A50.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/97CD2430-0B1C-4692-946C-6CFE2D2E8A50.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82824,
+    "number": "102451"
+  }
 }

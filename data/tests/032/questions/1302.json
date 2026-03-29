@@ -1,7 +1,7 @@
 {
   "number": 1302,
-  "questionId": 77877,
-  "questionNumber": "324875",
+  "questionId": "032-1302",
+  "questionNumber": "032-1302",
   "stemHtml": "<p>What happens to V<strong><sub>1</sub></strong> and the ASDR if a stopway is added to a balanced runway?</p>",
   "options": {
     "a": "<p>V<sub>1</sub> increases and the ASDR remains the same.  <br />   </p>",
@@ -10,5 +10,10 @@
     "d": "V<sub>1</sub> remains the same and the ASDR decreases."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77877,
+    "number": "324875"
+  }
 }

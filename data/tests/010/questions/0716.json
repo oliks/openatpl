@@ -1,7 +1,7 @@
 {
   "number": 716,
-  "questionId": 140836,
-  "questionNumber": "106685",
+  "questionId": "010-0716",
+  "questionNumber": "010-0716",
   "stemHtml": "<p>Pilots who are engaged in single-pilot commercial air transport operations carrying passengers are required to hold a valid Class 1 medical certificate. Which of the following option is correct regarding the validity period of such a medical?</p>",
   "options": {
     "a": "<p>24 months until age 40, 12 months until age 50, 6 months thereafter</p>",
@@ -10,5 +10,10 @@
     "d": "<p>12 months until age 40, 6 months thereafter   </p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 140836,
+    "number": "106685"
+  }
 }

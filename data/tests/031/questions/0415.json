@@ -1,7 +1,7 @@
 {
   "number": 415,
-  "questionId": 78710,
-  "questionNumber": "311828",
+  "questionId": "031-0415",
+  "questionNumber": "031-0415",
   "stemHtml": "<p>The items to include in the Dry Operating Mass (DOM) are determined by the\u2026</p>",
   "options": {
     "a": "Operator",
@@ -10,5 +10,10 @@
     "d": "Authority"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78710,
+    "number": "311828"
+  }
 }

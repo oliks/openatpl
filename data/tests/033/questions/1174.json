@@ -1,7 +1,7 @@
 {
   "number": 1174,
-  "questionId": 70473,
-  "questionNumber": "338062",
+  "questionId": "033-1174",
+  "questionNumber": "033-1174",
   "stemHtml": "<p>Refer to figure.  <br />  Given: Planning data as shown in the Flight Log excerpt (Fuel Planning Section). After a balked landing at the destination airport, you have to divert to the alternate airport with the gear extended.</p><p>The re-calculated flight time to the alternate due to the reduced speed is 1 h 50 min and the fuel flow will be 840 kg/h. Final Reserve Fuel remains unchanged. What will be the estimated landing mass at the alternate airport?</p><div> </div>",
   "options": {
     "a": "5530 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/9678F45D-6067-44DD-8032-B98BF842997C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9678F45D-6067-44DD-8032-B98BF842997C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70473,
+    "number": "338062"
+  }
 }

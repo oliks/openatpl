@@ -1,7 +1,7 @@
 {
   "number": 117,
-  "questionId": 78323,
-  "questionNumber": "103476",
+  "questionId": "010-0117",
+  "questionNumber": "010-0117",
   "stemHtml": "<p>For independent parallel approaches, when vectoring to intercept the ILS localizer course, the final vector shall enable the aircraft to intercept the ILS localizer course at an angle not greater than _____ degrees.</p>",
   "options": {
     "a": "30",
@@ -10,5 +10,10 @@
     "d": "15"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78323,
+    "number": "103476"
+  }
 }

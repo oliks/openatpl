@@ -1,7 +1,7 @@
 {
   "number": 84,
-  "questionId": 96338,
-  "questionNumber": "224924",
+  "questionId": "022-0084",
+  "questionNumber": "022-0084",
   "stemHtml": "<p>Which of the following statements about stall warning systems are true?</p><p>1. The flap/slat setting, calibrated airspeed, and thrust are inputs used for systems using an Angle of Attack sensor     <br />     2. Microswitches in light aircraft are activated by a plate or vane in the airflow close to the leading edge of the wing</p>",
   "options": {
     "a": "1 is incorrect, 2 is incorrect.",
@@ -10,5 +10,10 @@
     "d": "1 is incorrect, 2 is correct."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96338,
+    "number": "224924"
+  }
 }

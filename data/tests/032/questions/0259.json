@@ -1,7 +1,7 @@
 {
   "number": 259,
-  "questionId": 69987,
-  "questionNumber": "324733",
+  "questionId": "032-0259",
+  "questionNumber": "032-0259",
   "stemHtml": "A jet transport aeroplane at cruise altitude of FL370 suffers a loss of cabin pressurisation without structural damage, the crew should initially descent at...",
   "options": {
     "a": "V<sub>MO</sub> and airbrakes and or flaps may be extended to increase the rate of descent of necessary.",
@@ -10,5 +10,10 @@
     "d": "the speed for l-d max and airbrakes and or flaps may be extended to increase the rate of descent if necessary."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69987,
+    "number": "324733"
+  }
 }

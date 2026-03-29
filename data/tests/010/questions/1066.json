@@ -1,7 +1,7 @@
 {
   "number": 1066,
-  "questionId": 67143,
-  "questionNumber": "108732",
+  "questionId": "010-1066",
+  "questionNumber": "010-1066",
   "stemHtml": "<p>The two main groups of approach lighting systems are\u2026</p>",
   "options": {
     "a": "<p>simple and precision approach lighting systems.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>simple and complex approach lighting systems.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67143,
+    "number": "108732"
+  }
 }

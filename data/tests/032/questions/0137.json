@@ -1,7 +1,7 @@
 {
   "number": 137,
-  "questionId": 70182,
-  "questionNumber": "329042",
+  "questionId": "032-0137",
+  "questionNumber": "032-0137",
   "stemHtml": "A jet aeroplane is descending en route from cruise altitude at idle thrust. If ATC requests the crew to descend to a given flight level by a given point such that it requires a steeper descent gradient, this could be achieved by&hellip;",
   "options": {
     "a": "reducing the airspeed.",
@@ -10,5 +10,10 @@
     "d": "retracting the speed brake."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70182,
+    "number": "329042"
+  }
 }

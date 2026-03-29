@@ -1,7 +1,7 @@
 {
   "number": 704,
-  "questionId": 107938,
-  "questionNumber": "338615",
+  "questionId": "033-0704",
+  "questionNumber": "033-0704",
   "stemHtml": "<p>What is the additional fuel requirement based on the Off-Block Fuel (OBF) and the Critical Fuel Scenarios (CFS) for two alternate airports?</p>",
   "options": {
     "a": "<p>Biggest difference between CFS and OBF</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Lowest CFS value</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107938,
+    "number": "338615"
+  }
 }

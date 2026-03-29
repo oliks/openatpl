@@ -1,7 +1,7 @@
 {
   "number": 1709,
-  "questionId": 68199,
-  "questionNumber": "214204",
+  "questionId": "021-1709",
+  "questionNumber": "021-1709",
   "stemHtml": "<p>What does the expression \"primary flight control\" apply to?</p>",
   "options": {
     "a": "<p>The lift augmentation devices and ailerons.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The speed brake and rudder.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68199,
+    "number": "214204"
+  }
 }

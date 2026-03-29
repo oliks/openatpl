@@ -1,7 +1,7 @@
 {
   "number": 425,
-  "questionId": 67661,
-  "questionNumber": "214142",
+  "questionId": "021-0425",
+  "questionNumber": "021-0425",
   "stemHtml": "When the engine fire shut-off handle is pulled, what is the effect on the AC generator?",
   "options": {
     "a": "The exciter control relay opens.",
@@ -10,5 +10,10 @@
     "d": "The exciter control relay and the generator breaker open."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67661,
+    "number": "214142"
+  }
 }

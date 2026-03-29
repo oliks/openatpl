@@ -1,7 +1,7 @@
 {
   "number": 1528,
-  "questionId": 105446,
-  "questionNumber": "212792",
+  "questionId": "021-1528",
+  "questionNumber": "021-1528",
   "stemHtml": "<p>In a \"no-fault\" fire detection system comprising two loops - where loop A is operational but loop B has been crushed - what will happen when loop B is tested?</p>",
   "options": {
     "a": "<p>Both the audio and visual fire alarms will activate, along with the testing warning light.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only the testing warning light will illuminate, indicating the fault without triggering fire alarms.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105446,
+    "number": "212792"
+  }
 }

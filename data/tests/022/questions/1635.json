@@ -1,7 +1,7 @@
 {
   "number": 1635,
-  "questionId": 68680,
-  "questionNumber": "229899",
+  "questionId": "022-1635",
+  "questionNumber": "022-1635",
   "stemHtml": "<p>For a FMS designed with the vertical navigation capability coupled to the autopilot, the FMS vertical command output can be:</p><p><span style=\"letter-spacing:0.7px\">1 \u2013 an angle of attack</span> <br /> 2 \u2013 a flight path angle <br /> 3 \u2013 a speed target</p><p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "2, 3.",
@@ -10,5 +10,10 @@
     "d": "2."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68680,
+    "number": "229899"
+  }
 }

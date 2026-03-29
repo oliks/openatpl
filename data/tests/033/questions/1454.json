@@ -1,7 +1,7 @@
 {
   "number": 1454,
-  "questionId": 71068,
-  "questionNumber": "331696",
+  "questionId": "033-1454",
+  "questionNumber": "033-1454",
   "stemHtml": "<p>Refer to figures or Jeppesen GSPRM Training Route Manual \u2013 ALICANTE \u2013 Charts 13-3, 13-4 and 13-5. <br>There is a NOTAM stating that ALTET VOR DME (ALT) is unserviceable at the time of arrival at ALICANTE. What VOR approaches are available from MAGAL to runway 28?</p>",
   "options": {
     "a": "<div style=\"\">VOR X only</div>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/34ACB708-4184-4F77-BFAA-EB3312544EFA.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/34ACB708-4184-4F77-BFAA-EB3312544EFA.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71068,
+    "number": "331696"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 989,
-  "questionId": 82485,
-  "questionNumber": "105024",
+  "questionId": "010-0989",
+  "questionNumber": "010-0989",
   "stemHtml": "<p>According to Regulation (EU) 376/2014, when an organisation, as certified/approved by the Agency, identifies an actual/potential safety risk through the analysis of reportable occurrences, then it shall share that information with the Agency.</p>",
   "options": {
     "a": "<p>No later than two weeks (14 days) from the date of notification by the person listed as reporter in the original submission.</p>",
@@ -10,5 +10,10 @@
     "d": "At the next scheduled safety forum."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82485,
+    "number": "105024"
+  }
 }

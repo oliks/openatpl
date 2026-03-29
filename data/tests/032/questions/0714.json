@@ -1,7 +1,7 @@
 {
   "number": 714,
-  "questionId": 69954,
-  "questionNumber": "321720",
+  "questionId": "032-0714",
+  "questionNumber": "032-0714",
   "stemHtml": "<p>During take-off, the time between critical engine failure and V<strong><sub>1</sub> </strong>(recognition time) is assumed to be approximately\u2026</p>",
   "options": {
     "a": "<p>1 second.</p>",
@@ -10,5 +10,10 @@
     "d": "5 seconds."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69954,
+    "number": "321720"
+  }
 }

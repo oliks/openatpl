@@ -1,7 +1,7 @@
 {
   "number": 376,
-  "questionId": 100309,
-  "questionNumber": "319086",
+  "questionId": "031-0376",
+  "questionNumber": "031-0376",
   "stemHtml": "<p>Which of the following statements is accurate when comparing the attributes of pallets with those of containers? Pallets...</p>",
   "options": {
     "a": "<p>allow for cargo to be more efficiently loaded in the hold than containers do.</p>",
@@ -10,5 +10,10 @@
     "d": "are more robust and heavier than containers."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100309,
+    "number": "319086"
+  }
 }

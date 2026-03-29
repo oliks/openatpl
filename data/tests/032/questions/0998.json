@@ -1,7 +1,7 @@
 {
   "number": 998,
-  "questionId": 70308,
-  "questionNumber": "323643",
+  "questionId": "032-0998",
+  "questionNumber": "032-0998",
   "stemHtml": "Which of the following speeds is used to describe the situation when the pilot initiates input to the controls intended to lift-off?",
   "options": {
     "a": "VMCG",
@@ -10,5 +10,10 @@
     "d": "<p>V<sub>R</sub></p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70308,
+    "number": "323643"
+  }
 }

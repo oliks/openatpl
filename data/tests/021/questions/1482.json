@@ -1,7 +1,7 @@
 {
   "number": 1482,
-  "questionId": 68277,
-  "questionNumber": "215558",
+  "questionId": "021-1482",
+  "questionNumber": "021-1482",
   "stemHtml": "<p>Dual ignition for a piston engine provides a factor of reliability and\u2026</p>",
   "options": {
     "a": "improves combustion efficiency.",
@@ -10,5 +10,10 @@
     "d": "saves wear caused by using one magneto constantly."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68277,
+    "number": "215558"
+  }
 }

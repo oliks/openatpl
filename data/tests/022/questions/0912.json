@@ -1,7 +1,7 @@
 {
   "number": 912,
-  "questionId": 69092,
-  "questionNumber": "224503",
+  "questionId": "022-0912",
+  "questionNumber": "022-0912",
   "stemHtml": "<p>The operating principle of an electronic torque meter is\u2026</p>",
   "options": {
     "a": "<p>axial thrust and movement is generated when cylindrically cut gears are used to transfer power from one shaft to another.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>as power is increased, the torque shaft expands.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69092,
+    "number": "224503"
+  }
 }

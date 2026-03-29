@@ -1,7 +1,7 @@
 {
   "number": 199,
-  "questionId": 82009,
-  "questionNumber": "228695",
+  "questionId": "022-0199",
+  "questionNumber": "022-0199",
   "stemHtml": "Considering vertical modes of the flight guidance system, when using vertical navigation (VNAV) or managed climb/descent (CLB or DES), the aeroplane should...",
   "options": {
     "a": "follow the vertical commands computed by the FMS, ensuring the aeroplane follows the flight path regardless of ambient conditions.",
@@ -10,5 +10,10 @@
     "d": "only engage when the pilot selects it, when the aeroplane has no deviation from the calculated vertical profile in the FMS."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82009,
+    "number": "228695"
+  }
 }

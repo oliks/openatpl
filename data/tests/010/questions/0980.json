@@ -1,7 +1,7 @@
 {
   "number": 980,
-  "questionId": 82495,
-  "questionNumber": "108849",
+  "questionId": "010-0980",
+  "questionNumber": "010-0980",
   "stemHtml": "<p>What must pre-flight actions for all IFR flights include?</p>",
   "options": {
     "a": "<p>Consulting the AIP for the latest information on aerodrome charges.</p>",
@@ -10,5 +10,10 @@
     "d": "Studying current weather reports and forecasts."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82495,
+    "number": "108849"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 412,
-  "questionId": 70516,
-  "questionNumber": "338504",
+  "questionId": "033-0412",
+  "questionNumber": "033-0412",
   "stemHtml": "<p>(For this question use annex 033-043 and 033-055 rev. 05.11.2004). <br>The flight crew of a turbojet aeroplane prepares a flight using the following data:</p><p>Flight leg air distance: 2700 NM <br>Flight level FL 310, true airspeed: 470 kt <br>Tailwind component at this level: 35 kt <br>Initially planned take-off mass (without extra fuel on board): 180 000 kg <br>Fuel price: 0.28 Euro/l at departure 0.26 Euro/l at destination</p><p>To maximize savings, the commander chooses to carry extra fuel in addition to that which is necessary. The optimum quantity of fuel which should be carried in addition to the prescribed quantity is:</p>",
   "options": {
     "a": "10 000 kg",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/D2C3540A-6FDF-4929-8381-F5629A520CB3.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D2C3540A-6FDF-4929-8381-F5629A520CB3.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70516,
+    "number": "338504"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 843,
-  "questionId": 84310,
-  "questionNumber": "328973",
+  "questionId": "032-0843",
+  "questionNumber": "032-0843",
   "stemHtml": "In the cruise, a pilot begins preparing for landing by performing an in-flight landing performance calculation, incorporating the use of autobrakes and spoilers onto a dry runway. The result does NOT satisfy the pilot, who decides to perform the same calculation again, incorporating reverse thrust as well as autobrakes and spoilers. Compared with the first calculation, the newly calculated landing distance will be...",
   "options": {
     "a": "nearly the same, because the deceleration due to application of reverse thrust will result in an equivalent reduction in the rate of deceleration provided by the autobrake system.",
@@ -10,5 +10,10 @@
     "d": "increased, because the use of reverse thrust will cancel the operation of the autobrake system."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84310,
+    "number": "328973"
+  }
 }

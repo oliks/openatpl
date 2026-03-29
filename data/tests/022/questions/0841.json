@@ -1,7 +1,7 @@
 {
   "number": 841,
-  "questionId": 68666,
-  "questionNumber": "227985",
+  "questionId": "022-0841",
+  "questionNumber": "022-0841",
   "stemHtml": "<p>If the pitot tube becomes completely blocked during a descent, the airspeed indicator\u2026</p>",
   "options": {
     "a": "over-reads.",
@@ -10,5 +10,10 @@
     "d": "under-reads or over-reads, depending on the air density."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68666,
+    "number": "227985"
+  }
 }

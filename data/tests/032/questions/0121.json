@@ -1,7 +1,7 @@
 {
   "number": 121,
-  "questionId": 70009,
-  "questionNumber": "328089",
+  "questionId": "032-0121",
+  "questionNumber": "032-0121",
   "stemHtml": "<p>To meet the balked landing requirements an aircraft (Class A) must achieve a climb gradient of\u2026</p>",
   "options": {
     "a": "2.1% in the landing configuration with all engines operating",
@@ -10,5 +10,10 @@
     "d": "3.2% in the landing configuration with all engines operating"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70009,
+    "number": "328089"
+  }
 }

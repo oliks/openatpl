@@ -1,7 +1,7 @@
 {
   "number": 202,
-  "questionId": 106998,
-  "questionNumber": "225169",
+  "questionId": "022-0202",
+  "questionNumber": "022-0202",
   "stemHtml": "<p>On an Airbus A320, if both flight directors are on and the autopilot is selected off, what happens to the FMAs?</p>",
   "options": {
     "a": "<p>They remain unchanged.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Only the autopilot-associated FMAs disappear.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106998,
+    "number": "225169"
+  }
 }

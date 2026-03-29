@@ -1,7 +1,7 @@
 {
   "number": 839,
-  "questionId": 101761,
-  "questionNumber": "221592",
+  "questionId": "022-0839",
+  "questionNumber": "022-0839",
   "stemHtml": "<p>Which of the following must Cockpit Voice Recorder (CVR) record?</p>\r\n\r\n<ol>\r\n\t<li>Audio or volume signals identifying navigation or approach aids into a headset or speaker</li>\r\n\t<li>Video of the flight deck instruments</li>\r\n\t<li>Flight crew members on the flight deck using the aircraft interphone</li>\r\n\t<li>The aural environment of flight deck</li>\r\n\t<li>Voice communications transmitted from or received in the aircraft by radio</li>\r\n\t<li>Flight crew members on the flight deck using the public adress system, if installed</li>\r\n</ol>",
   "options": {
     "a": "<p>1, 2, 3, 4 and 5.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3, 5 and 6.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101761,
+    "number": "221592"
+  }
 }

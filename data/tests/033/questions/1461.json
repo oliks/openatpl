@@ -1,7 +1,7 @@
 {
   "number": 1461,
-  "questionId": 101394,
-  "questionNumber": "331209",
+  "questionId": "033-1461",
+  "questionNumber": "033-1461",
   "stemHtml": "<p>What Type and Category of approach is a 3D APCH with a MDH of 340 ft?</p>\r\n",
   "options": {
     "a": "Type B, Cat II.",
@@ -10,5 +10,10 @@
     "d": "Type B, no category."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101394,
+    "number": "331209"
+  }
 }

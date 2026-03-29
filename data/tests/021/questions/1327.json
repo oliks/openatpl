@@ -1,7 +1,7 @@
 {
   "number": 1327,
-  "questionId": 79506,
-  "questionNumber": "218634",
+  "questionId": "021-1327",
+  "questionNumber": "021-1327",
   "stemHtml": "You are on an approach when extending flaps, due to a malfunction the right flap does not extend. What will happen to the aircraft?",
   "options": {
     "a": "Plane will bank right and left wing may stall.",
@@ -10,5 +10,10 @@
     "d": "Plane will go into a spin."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79506,
+    "number": "218634"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 184,
-  "questionId": 80367,
-  "questionNumber": "327544",
+  "questionId": "032-0184",
+  "questionNumber": "032-0184",
   "stemHtml": "<p>Following a take-off calculation, a range of decision speeds is found to be available with a maximum V<strong><sub>1</sub></strong> of 150 kt and a minimum V<strong><sub>1</sub></strong> of 142 kt. In the event of an engine failure after the chosen V<strong><sub>1</sub></strong>, which of the following statements would be correct?</p>",
   "options": {
     "a": "Using a V<sub>1</sub> of 150 kt compared to 142 kt will reduce the take-off distance and leave the climb performance unchanged.",
@@ -10,5 +10,10 @@
     "d": "Using a V<sub>1</sub> of 150 kt compared to 142 kt will reduce the take-off distance and improve the climb performance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80367,
+    "number": "327544"
+  }
 }

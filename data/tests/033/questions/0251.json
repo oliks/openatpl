@@ -1,7 +1,7 @@
 {
   "number": 251,
-  "questionId": 82728,
-  "questionNumber": "333847",
+  "questionId": "033-0251",
+  "questionNumber": "033-0251",
   "stemHtml": "<p>Refer to figure or E(LO)6 chart from the Jeppesen GSPRM 2017. An aircraft is flying from VALENCIA (VLC) VOR/DME (39\u00b0 29'N, 000\u00b0 29'W) to ALMERIA (AMR) VOR/DME (36\u00b0 49'N, 002\u00b0 15'W) with the LE(R)-63 activated, using a conventional ATS route. What is the best route to avoid passing through this area?</p>",
   "options": {
     "a": "VLC - G850 - AMR",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/82B9238D-4006-4DD2-AE48-A4FADCF4FF7B.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/82B9238D-4006-4DD2-AE48-A4FADCF4FF7B.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82728,
+    "number": "333847"
+  }
 }

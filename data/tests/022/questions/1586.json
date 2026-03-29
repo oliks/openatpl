@@ -1,7 +1,7 @@
 {
   "number": 1586,
-  "questionId": 101816,
-  "questionNumber": "224591",
+  "questionId": "022-1586",
+  "questionNumber": "022-1586",
   "stemHtml": "<p>Which of the following conditions may trigger a Master Warning on an aircraft?</p>",
   "options": {
     "a": "<p>Brake temperature too high.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Navigation error and air traffic control communication failure. </p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101816,
+    "number": "224591"
+  }
 }

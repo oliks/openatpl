@@ -1,7 +1,7 @@
 {
   "number": 456,
-  "questionId": 105249,
-  "questionNumber": "219520",
+  "questionId": "021-0456",
+  "questionNumber": "021-0456",
   "stemHtml": "<p>Which of the following is correct about multi-disc steel brakes as opposed to multi-disc carbon brakes?</p>\r\r<p>1. Multiple small applications is best <br /> \r2. A small numbers of strong applications is best <br /> \r3. They operate best at a higher brake temperature <br /> \r4. They operate best at a lower brake temperature <br /> \r5. They have a higher friction coefficient <br /> \r6. They have a lower friction coefficient</p>",
   "options": {
     "a": "<p>1, 3 and 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1, 3 and 5</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105249,
+    "number": "219520"
+  }
 }

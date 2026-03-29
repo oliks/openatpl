@@ -1,7 +1,7 @@
 {
   "number": 1577,
-  "questionId": 164292,
-  "questionNumber": "219885",
+  "questionId": "021-1577",
+  "questionNumber": "021-1577",
   "stemHtml": "<p>In modern jet aircraft, (1) _____ turbine engines can be started electrically from the battery a (2) _____ number of times.</p>",
   "options": {
     "a": "<p>(1) Small; (2) Low</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Large; (2) High</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164292,
+    "number": "219885"
+  }
 }

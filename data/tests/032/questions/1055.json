@@ -1,7 +1,7 @@
 {
   "number": 1055,
-  "questionId": 107931,
-  "questionNumber": "325348",
+  "questionId": "032-1055",
+  "questionNumber": "032-1055",
   "stemHtml": "<p>An aircraft descends from FL410 to FL270 at its cruising Mach and then from FL270 to FL100 at the IAS achieved at FL270 with idle power and in a clean configuration. How does the angle of descent change during the first and second phase?</p>",
   "options": {
     "a": "<p>Increases then constant</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Decreases then constant</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107931,
+    "number": "325348"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 708,
-  "questionId": 70973,
-  "questionNumber": "332089",
+  "questionId": "033-0708",
+  "questionNumber": "033-0708",
   "stemHtml": "<p>Refer to figures or Jeppesen GSPRM Training Route Manual - Charts \"E LO 1 & E LO 2\". <br>You are flying on airway N560 from RIMOL (N57\u00b032' W004\u00b003') to GLASGOW (GOW, N55\u00b052' W004\u00b027'). Shortly before approaching GOW you are on radial\u2026</p>",
   "options": {
     "a": "010\u00b0 GOW",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/ABF8971B-D389-4498-BB83-6E2B007B1473.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/ABF8971B-D389-4498-BB83-6E2B007B1473.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70973,
+    "number": "332089"
+  }
 }

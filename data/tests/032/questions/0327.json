@@ -1,7 +1,7 @@
 {
   "number": 327,
-  "questionId": 118478,
-  "questionNumber": "326713",
+  "questionId": "032-0327",
+  "questionNumber": "032-0327",
   "stemHtml": "<p>Refer to figure or to CAP 698 figure 3.1.    <br />   Given the following information, calculate the minimum TODA for a multi-engine piston aircraft take-off. Assume an unbalanced field with stopway and clearway.</p><p>Mass: 4700 lbs    <br />   Pressure Altitude: 6000 ft    <br />   Temperature: 30\u00b0C    <br />   Runway slope: 2.5% upslope    <br />   Runway condition: wet grass    <br />   Tailwind component: 2 kt</p>",
   "options": {
     "a": "<p>3900 ft</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/e503140e-d869-4ea0-bb01-65b4cc66801c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/e503140e-d869-4ea0-bb01-65b4cc66801c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 118478,
+    "number": "326713"
+  }
 }

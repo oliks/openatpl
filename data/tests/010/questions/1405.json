@@ -1,7 +1,7 @@
 {
   "number": 1405,
-  "questionId": 67098,
-  "questionNumber": "102020",
+  "questionId": "010-1405",
+  "questionNumber": "010-1405",
   "stemHtml": "What is the main purpose of a rapid exit taxiway?",
   "options": {
     "a": "It minimises the runway occupancy time of landing aircraft.",
@@ -10,5 +10,10 @@
     "d": "It allows departing aircraft to line-up at higher speeds."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67098,
+    "number": "102020"
+  }
 }

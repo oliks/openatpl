@@ -1,7 +1,7 @@
 {
   "number": 123,
-  "questionId": 82302,
-  "questionNumber": "333974",
+  "questionId": "033-0123",
+  "questionNumber": "033-0123",
   "stemHtml": "Refer to figure. <br /> Select the correct option regarding NOTAM A1557/14:",
   "options": {
     "a": "The coordinates provided make up a zone where cranes are within.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/fda75e55-3657-401c-92cb-0e8505fd787e.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/fda75e55-3657-401c-92cb-0e8505fd787e.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82302,
+    "number": "333974"
+  }
 }

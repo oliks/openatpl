@@ -1,7 +1,7 @@
 {
   "number": 92,
-  "questionId": 70073,
-  "questionNumber": "324675",
+  "questionId": "032-0092",
+  "questionNumber": "032-0092",
   "stemHtml": "In the drift down for an aeroplane in Performance Class B the net gradient of descent is assumed to be gross gradient of descent... by ...",
   "options": {
     "a": "decreased; 0.77%",
@@ -10,5 +10,10 @@
     "d": "increased; 0.77%"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70073,
+    "number": "324675"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 874,
-  "questionId": 79148,
-  "questionNumber": "332771",
+  "questionId": "033-0874",
+  "questionNumber": "033-0874",
   "stemHtml": "<p>An aircraft is flying VFR using a VOR to navigate. The aircraft is following Radial 128\u00b0 out from the VOR. Determine the expected Wind Correction Angle (WCA), given:</p><p>Forecast wind: 080\u00b0 (T)/35 kt <br>TAS: 155 kt <br>Variation: 15\u00b0 W</p>",
   "options": {
     "a": "<p>+10\u00b0</p>",
@@ -10,5 +10,10 @@
     "d": "<p>-10\u00b0</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79148,
+    "number": "332771"
+  }
 }

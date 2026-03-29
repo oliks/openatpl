@@ -1,7 +1,7 @@
 {
   "number": 1067,
-  "questionId": 107340,
-  "questionNumber": "335908",
+  "questionId": "033-1067",
+  "questionNumber": "033-1067",
   "stemHtml": "<p>Refer to figure or VFR chart ED-4 from the Jeppesen GSPRM 2017. While flying north to south, you are assessing which visual waypoint would be best for daytime navigation and also easily recognizable if visibility deteriorates. Which of the following waypoints would you consider?</p>",
   "options": {
     "a": "<p>A highly illuminated mast.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/a8e58e6f-6e5c-4dfe-93c0-8e101741ec33.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/a8e58e6f-6e5c-4dfe-93c0-8e101741ec33.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107340,
+    "number": "335908"
+  }
 }

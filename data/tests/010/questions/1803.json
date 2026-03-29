@@ -1,7 +1,7 @@
 {
   "number": 1803,
-  "questionId": 66836,
-  "questionNumber": "107995",
+  "questionId": "010-1803",
+  "questionNumber": "010-1803",
   "stemHtml": "<p>For a non-precision or circling approach, the MDH cannot be lower than\u2026</p>",
   "options": {
     "a": "OCH.",
@@ -10,5 +10,10 @@
     "d": "400 ft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66836,
+    "number": "107995"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 10,
-  "questionId": 79723,
-  "questionNumber": "213943",
+  "questionId": "021-0010",
+  "questionNumber": "021-0010",
   "stemHtml": "Why is braided wire built into some electrical cables?",
   "options": {
     "a": "As an alternative to traditional nylon/rubber cable coverings.",
@@ -10,5 +10,10 @@
     "d": "To amplify the size of the electromagnetic field, as current passes through the wire."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79723,
+    "number": "213943"
+  }
 }

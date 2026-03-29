@@ -1,7 +1,7 @@
 {
   "number": 702,
-  "questionId": 68573,
-  "questionNumber": "227759",
+  "questionId": "022-0702",
+  "questionNumber": "022-0702",
   "stemHtml": "<p>A TCAS II provides\u2026</p>",
   "options": {
     "a": "<p>the intruder relative position and possibly an indication of a collision avoidance manoeuvre within both the vertical and horizontal planes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>a simple intruder proximity warning.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68573,
+    "number": "227759"
+  }
 }

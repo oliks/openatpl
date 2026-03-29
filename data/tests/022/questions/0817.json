@@ -1,7 +1,7 @@
 {
   "number": 817,
-  "questionId": 82668,
-  "questionNumber": "229537",
+  "questionId": "022-0817",
+  "questionNumber": "022-0817",
   "stemHtml": "<p>In case of a Radio Altimeter (R/A) failure, is the ability to perform an automatic landing affected?</p>",
   "options": {
     "a": "<p>No, because the barometric altitude is used.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Yes, because the R/A is used during the tracking of the glide path.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82668,
+    "number": "229537"
+  }
 }

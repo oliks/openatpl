@@ -1,7 +1,7 @@
 {
   "number": 635,
-  "questionId": 70748,
-  "questionNumber": "335453",
+  "questionId": "033-0635",
+  "questionNumber": "033-0635",
   "stemHtml": "<p>Given the following NOTAM information, when can the aerodrome be expected to be operating on Tuesday?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> LKPD PARDUBICE <<< AD OPR HR CHANGED: MON-FRI 0700-1830 SAT 0700-1800 SUN 0700-1830:NOTAM LK/B1453/15 >>> END OF BULLETIN <<<</span></p>",
   "options": {
     "a": "07:00 - 18:00 UTC",
@@ -10,5 +10,10 @@
     "d": "07:00 - 18:30 LT"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70748,
+    "number": "335453"
+  }
 }

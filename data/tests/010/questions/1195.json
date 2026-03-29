@@ -1,7 +1,7 @@
 {
   "number": 1195,
-  "questionId": 105384,
-  "questionNumber": "109998",
+  "questionId": "010-1195",
+  "questionNumber": "010-1195",
   "stemHtml": "<p>An aircraft has landed and is taxiing along a yellow line. After parking, the pilot noticies another line that is narrower and has a different colour. This line indicates a(n)...</p>",
   "options": {
     "a": "<p>apron marking.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>location of the nose wheels.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105384,
+    "number": "109998"
+  }
 }

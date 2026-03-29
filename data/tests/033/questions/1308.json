@@ -1,7 +1,7 @@
 {
   "number": 1308,
-  "questionId": 107198,
-  "questionNumber": "334174",
+  "questionId": "033-1308",
+  "questionNumber": "033-1308",
   "stemHtml": "<p>Calculate your safe return time when overflying waypoint Charlie. Your fuel flow is constant at 500 lbs per hour. You currently have 1800 lbs and need to reach your destination with 350 lbs left in your fuel tank. How much time do you have left to reach your destination?</p>",
   "options": {
     "a": "<p>2 h 30 min</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 h 10 min</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107198,
+    "number": "334174"
+  }
 }

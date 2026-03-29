@@ -1,7 +1,7 @@
 {
   "number": 1582,
-  "questionId": 67174,
-  "questionNumber": "108359",
+  "questionId": "010-1582",
+  "questionNumber": "010-1582",
   "stemHtml": "Interception. If radio contact is established during interception but communication in a common language is not possible, attempts shall be made to convey instructions and essential information by using standard phrases and pronunciations, transmitting each phrase twice. The standard phrase with the meaning \"Descend for landing\" for use by INTERCEPTING aircraft is:",
   "options": {
     "a": "DESCEND FOR LAND (DEE-SEND FOR LAAND)",
@@ -10,5 +10,10 @@
     "d": "LET DOWN (LET-DAUN)"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67174,
+    "number": "108359"
+  }
 }

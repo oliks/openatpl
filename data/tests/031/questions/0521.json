@@ -1,7 +1,7 @@
 {
   "number": 521,
-  "questionId": 102419,
-  "questionNumber": "317290",
+  "questionId": "031-0521",
+  "questionNumber": "031-0521",
   "stemHtml": "<p>Refer to figure. <br /> \rBased on the data provided in the annex, what is the underload before Last Minute Change (LMC)?</p>",
   "options": {
     "a": "<p>12 800 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/1138f56e-e0a7-4b83-9cc3-48e1bc828ea3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/1138f56e-e0a7-4b83-9cc3-48e1bc828ea3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102419,
+    "number": "317290"
+  }
 }

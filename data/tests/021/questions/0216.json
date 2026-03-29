@@ -1,7 +1,7 @@
 {
   "number": 216,
-  "questionId": 67966,
-  "questionNumber": "215822",
+  "questionId": "021-0216",
+  "questionNumber": "021-0216",
   "stemHtml": "<p>The compression ratio of a piston engine is a ratio of\u2026</p>",
   "options": {
     "a": "<p>pressures.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>volumes.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67966,
+    "number": "215822"
+  }
 }

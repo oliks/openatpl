@@ -1,7 +1,7 @@
 {
   "number": 915,
-  "questionId": 83440,
-  "questionNumber": "324956",
+  "questionId": "032-0915",
+  "questionNumber": "032-0915",
   "stemHtml": "<p>Refer to figure or CAP file 3.10.<br>The value of the stall speed/minimum steady flight speed for a multi-engine piston Performance Class B aircraft landing with a mass of 3450 lb would be\u2026</p>",
   "options": {
     "a": "72 kt",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/6F13E56E-62EE-4E52-8EDA-A1AA5E021B8F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6F13E56E-62EE-4E52-8EDA-A1AA5E021B8F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83440,
+    "number": "324956"
+  }
 }

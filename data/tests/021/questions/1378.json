@@ -1,7 +1,7 @@
 {
   "number": 1378,
-  "questionId": 103026,
-  "questionNumber": "213417",
+  "questionId": "021-1378",
+  "questionNumber": "021-1378",
   "stemHtml": "<p>What is correct regarding the fuel system?</p>",
   "options": {
     "a": "<p>A fuel strainer collects unwanted particles and water.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>A fuel drainer is located high to take a fuel sample and drain water.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103026,
+    "number": "213417"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1143,
-  "questionId": 108132,
-  "questionNumber": "338327",
+  "questionId": "033-1143",
+  "questionNumber": "033-1143",
   "stemHtml": "<p>How much additional fuel should be carried based on the following critical points along your flight?</p><p>ETP1: FOB: 8100 kg, CFS: 8260 kg <br>ETP2: FOB: 6250 kg, CFS: 6360 kg</p>",
   "options": {
     "a": "<p>160 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>6360 kg</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108132,
+    "number": "338327"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 90,
-  "questionId": 80079,
-  "questionNumber": "103140",
+  "questionId": "010-0090",
+  "questionNumber": "010-0090",
   "stemHtml": "<p>The Air Navigation Commission is composed of\u2026</p>",
   "options": {
     "a": "15 members appointed by the ICAO Council.",
@@ -10,5 +10,10 @@
     "d": "33 members appointed by the ICAO Assembly."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80079,
+    "number": "103140"
+  }
 }

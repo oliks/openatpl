@@ -1,7 +1,7 @@
 {
   "number": 527,
-  "questionId": 82275,
-  "questionNumber": "329732",
+  "questionId": "032-0527",
+  "questionNumber": "032-0527",
   "stemHtml": "The operating limits of an aircraft change from 0.74 to 0.78 M. Which is correct?",
   "options": {
     "a": "V<sub>MO</sub> increases",
@@ -10,5 +10,10 @@
     "d": "M<sub>MO</sub> decreases"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82275,
+    "number": "329732"
+  }
 }

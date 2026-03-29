@@ -1,7 +1,7 @@
 {
   "number": 1339,
-  "questionId": 109900,
-  "questionNumber": "328085",
+  "questionId": "032-1339",
+  "questionNumber": "032-1339",
   "stemHtml": "<p>During a climb, what is the changeover altitude?</p>",
   "options": {
     "a": "<p>The altitude at which you switch from a climb at constant IAS to a climb at constant Mach.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The altitude at which the aircraft automatically transitions to cruise altitude.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109900,
+    "number": "328085"
+  }
 }

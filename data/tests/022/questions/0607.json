@@ -1,7 +1,7 @@
 {
   "number": 607,
-  "questionId": 69231,
-  "questionNumber": "224984",
+  "questionId": "022-0607",
+  "questionNumber": "022-0607",
   "stemHtml": "<p>EAS is equal to\u2026<br> </p>",
   "options": {
     "a": "TAS corrected for compressibility error.<br>",
@@ -10,5 +10,10 @@
     "d": "IAS corrected for position, instrument and compressibility errors.<br>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69231,
+    "number": "224984"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1428,
-  "questionId": 84742,
-  "questionNumber": "224480",
+  "questionId": "022-1428",
+  "questionNumber": "022-1428",
   "stemHtml": "<p>The following is/are terrain display alerts of the EGPWS:</p><p>1. Runway overrun protection <br /> 2. Conflicting traffic on the ground <br /> 3. Excessive deviation from the localiser <br /> 4. Terrain clearance floor <br /> 5. Wind shear during take-off</p>",
   "options": {
     "a": "1, 2, 4 and 5.",
@@ -10,5 +10,10 @@
     "d": "4 only."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84742,
+    "number": "224480"
+  }
 }

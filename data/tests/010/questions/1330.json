@@ -1,7 +1,7 @@
 {
   "number": 1330,
-  "questionId": 66789,
-  "questionNumber": "106925",
+  "questionId": "010-1330",
+  "questionNumber": "010-1330",
   "stemHtml": "<p>Under normal circumstances, except for Class A airspace, what is the minimum distance from clouds and minimum visibility for a VFR flight operated above the transition altitude and below FL100?</p>",
   "options": {
     "a": "1500 metres horizontally, 1000 metres vertically and 5 kilometres.",
@@ -10,5 +10,10 @@
     "d": "1500 metres horizontally, 300 metres vertically and 5 kilometres."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66789,
+    "number": "106925"
+  }
 }

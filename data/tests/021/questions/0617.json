@@ -1,7 +1,7 @@
 {
   "number": 617,
-  "questionId": 67689,
-  "questionNumber": "216213",
+  "questionId": "021-0617",
+  "questionNumber": "021-0617",
   "stemHtml": "<p>On large pressurised jet transport aeroplanes, the maximum cabin differential pressure is approximately\u2026</p>",
   "options": {
     "a": "<p>0-5 psi.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>15-20 psi.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67689,
+    "number": "216213"
+  }
 }

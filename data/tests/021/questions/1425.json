@@ -1,7 +1,7 @@
 {
   "number": 1425,
-  "questionId": 67564,
-  "questionNumber": "217145",
+  "questionId": "021-1425",
+  "questionNumber": "021-1425",
   "stemHtml": "<p>An advantage of nickel-cadmium compared with lead-acid batteries is that they\u2026</p>",
   "options": {
     "a": "maintain a constant output voltage during discharge.",
@@ -10,5 +10,10 @@
     "d": "do not require venting as the cells are sealed during manufacture."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67564,
+    "number": "217145"
+  }
 }

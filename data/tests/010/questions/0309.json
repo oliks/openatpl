@@ -1,7 +1,7 @@
 {
   "number": 309,
-  "questionId": 67135,
-  "questionNumber": "109547",
+  "questionId": "010-0309",
+  "questionNumber": "010-0309",
   "stemHtml": "<p>The principal objective of a Rescue and Fire Fighting Service in the event of an aircraft accident or incident occurring at, or in the immediate vicinity of, an aerodrome, is to\u2026</p>",
   "options": {
     "a": "respond within 3 minutes.",
@@ -10,5 +10,10 @@
     "d": "respond within 1 minutes."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67135,
+    "number": "109547"
+  }
 }

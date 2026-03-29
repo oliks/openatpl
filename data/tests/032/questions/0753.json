@@ -1,7 +1,7 @@
 {
   "number": 753,
-  "questionId": 80347,
-  "questionNumber": "326861",
+  "questionId": "032-0753",
+  "questionNumber": "032-0753",
   "stemHtml": "<p>According to CS-23, determine the minimum VR speed for a Class B twin engine aeroplane, given:</p><p>V<strong><sub>S</sub></strong>: 76 kts <br>V<strong><sub>MC</sub></strong>: 84 kts</p>",
   "options": {
     "a": "81 kt",
@@ -10,5 +10,10 @@
     "d": "96 kt"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80347,
+    "number": "326861"
+  }
 }

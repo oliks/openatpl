@@ -1,7 +1,7 @@
 {
   "number": 1039,
-  "questionId": 70826,
-  "questionNumber": "331352",
+  "questionId": "033-1039",
+  "questionNumber": "033-1039",
   "stemHtml": "<p>Contingency Fuel is carried to account for\u2026</p>",
   "options": {
     "a": "known factors that could have an influence on the fuel consumption to the alternate aerodrome.",
@@ -10,5 +10,10 @@
     "d": "known factors that could have an influence on the fuel consumption to the destination aerodrome."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70826,
+    "number": "331352"
+  }
 }

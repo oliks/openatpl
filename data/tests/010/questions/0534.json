@@ -1,7 +1,7 @@
 {
   "number": 534,
-  "questionId": 80081,
-  "questionNumber": "104014",
+  "questionId": "010-0534",
+  "questionNumber": "010-0534",
   "stemHtml": "What action should the pilot operating an aircraft on the ground take upon seeing a steady red light from ATC?",
   "options": {
     "a": "Continue circling, give way to other traffic.",
@@ -10,5 +10,10 @@
     "d": "Stop."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80081,
+    "number": "104014"
+  }
 }

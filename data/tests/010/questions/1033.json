@@ -1,7 +1,7 @@
 {
   "number": 1033,
-  "questionId": 66632,
-  "questionNumber": "107543",
+  "questionId": "010-1033",
+  "questionNumber": "010-1033",
   "stemHtml": "In International Air Transport, the Crew Member Certificate (CMC) is used by a crew member for identification purposes...",
   "options": {
     "a": "and is only valid when shown with a passport.",
@@ -10,5 +10,10 @@
     "d": "and is only valid when shown with the appropriate crew licence."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66632,
+    "number": "107543"
+  }
 }

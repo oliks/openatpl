@@ -1,7 +1,7 @@
 {
   "number": 619,
-  "questionId": 160026,
-  "questionNumber": "217505",
+  "questionId": "021-0619",
+  "questionNumber": "021-0619",
   "stemHtml": "<p>What are the indications on the generator voltmeter and the battery ammeter at the beginning of the charging process?</p>",
   "options": {
     "a": "<p>22 V; 0 A</p>",
@@ -10,5 +10,10 @@
     "d": "<p>0 V; 0 A</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 160026,
+    "number": "217505"
+  }
 }

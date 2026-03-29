@@ -1,7 +1,7 @@
 {
   "number": 953,
-  "questionId": 69736,
-  "questionNumber": "329011",
+  "questionId": "032-0953",
+  "questionNumber": "032-0953",
   "stemHtml": "<p>For an aircraft climbing at a constant IAS and a constant mass the drag will\u2026</p>",
   "options": {
     "a": "increase initially and then decrease.",
@@ -10,5 +10,10 @@
     "d": "decrease."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69736,
+    "number": "329011"
+  }
 }

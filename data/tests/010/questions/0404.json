@@ -1,7 +1,7 @@
 {
   "number": 404,
-  "questionId": 66771,
-  "questionNumber": "104040",
+  "questionId": "010-0404",
+  "questionNumber": "010-0404",
   "stemHtml": "Aircraft equipped with red anti-collision lights shall display them...",
   "options": {
     "a": "outside the daylight-period in flight, but not on the ground when being towed.",
@@ -10,5 +10,10 @@
     "d": "to attract attention to the aircraft."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66771,
+    "number": "104040"
+  }
 }

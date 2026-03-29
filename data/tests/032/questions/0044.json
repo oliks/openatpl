@@ -1,7 +1,7 @@
 {
   "number": 44,
-  "questionId": 83460,
-  "questionNumber": "327433",
+  "questionId": "032-0044",
+  "questionNumber": "032-0044",
   "stemHtml": "<p>Refer to figure (CAP 698 figure 2.3).<br>Given the following information, what is the climb gradient?</p><p>OAT: +30\u00b0C<br>PA: 2000 ft<br>TOM: 3300 lb<br>TAS: 110 kt</p>",
   "options": {
     "a": "8.2%",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/19ED40AE-A05A-48BB-8710-80E50424BD80.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/19ED40AE-A05A-48BB-8710-80E50424BD80.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83460,
+    "number": "327433"
+  }
 }

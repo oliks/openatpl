@@ -1,7 +1,7 @@
 {
   "number": 136,
-  "questionId": 81575,
-  "questionNumber": "229547",
+  "questionId": "022-0136",
+  "questionNumber": "022-0136",
   "stemHtml": "<p>Upon capturing the localizer, the amber/yellow/blue localizer (LOC) light on an ADI\u2026</p>",
   "options": {
     "a": "Extinguishes without further indications.",
@@ -10,5 +10,10 @@
     "d": "Blinks for 10 seconds before shutting off."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81575,
+    "number": "229547"
+  }
 }

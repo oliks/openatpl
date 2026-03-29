@@ -1,7 +1,7 @@
 {
   "number": 504,
-  "questionId": 122140,
-  "questionNumber": "334611",
+  "questionId": "033-0504",
+  "questionNumber": "033-0504",
   "stemHtml": "<p>Refer to figure. <br>The figure shows a typical fuel plan for a Commercial Air Transport flight with operational impact factors as produced by a flight planning tool. Since the aeroplane has arrived late, it is planned to fly the next flight at a higher speed. Use the data below to calculate the revised total trip fuel.</p><p>Revised speed: M 0.80 <br>Revised weight: 1500 kg down <br>Cruising Altitude: Planned Flight Level</p>",
   "options": {
     "a": "<p>14 636 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/2494d52f-0dbf-4465-bf9d-212b63c88376.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2494d52f-0dbf-4465-bf9d-212b63c88376.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 122140,
+    "number": "334611"
+  }
 }

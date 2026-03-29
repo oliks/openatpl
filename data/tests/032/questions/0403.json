@@ -1,7 +1,7 @@
 {
   "number": 403,
-  "questionId": 69667,
-  "questionNumber": "325370",
+  "questionId": "032-0403",
+  "questionNumber": "032-0403",
   "stemHtml": "<p>Refer to figure or CAP697 file 4.5.4A.<br>Given the following information, what is the air distance travelled during the descent?</p><p>Cruise Altitude: 33 000 ft<br>Estimated Landing Mass: 40 000 kg<br>Power: idle</p>",
   "options": {
     "a": "88 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/A1AB9444-56F3-48C7-8B16-D5EFA263E665.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/A1AB9444-56F3-48C7-8B16-D5EFA263E665.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69667,
+    "number": "325370"
+  }
 }

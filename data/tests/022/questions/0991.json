@@ -1,7 +1,7 @@
 {
   "number": 991,
-  "questionId": 68931,
-  "questionNumber": "225591",
+  "questionId": "022-0991",
+  "questionNumber": "022-0991",
   "stemHtml": "<p>Redundancy in systems is\u2026</p>",
   "options": {
     "a": "connecting components in series to improve performance.",
@@ -10,5 +10,10 @@
     "d": "the situation in which a catastrophic failure is caused by a single failure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68931,
+    "number": "225591"
+  }
 }

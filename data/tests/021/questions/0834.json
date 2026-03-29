@@ -1,7 +1,7 @@
 {
   "number": 834,
-  "questionId": 67741,
-  "questionNumber": "212171",
+  "questionId": "021-0834",
+  "questionNumber": "021-0834",
   "stemHtml": "Assume an initial condition at a high cruise altitude with a constant speed propeller. What will happen if the altitude is decreased while the throttle remains fully open and the waste gate is seized in the cruise position?",
   "options": {
     "a": "The power of the engine will decrease.",
@@ -10,5 +10,10 @@
     "d": "The blade angle may reach the full fine limit."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67741,
+    "number": "212171"
+  }
 }

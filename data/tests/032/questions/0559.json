@@ -1,7 +1,7 @@
 {
   "number": 559,
-  "questionId": 106116,
-  "questionNumber": "323932",
+  "questionId": "032-0559",
+  "questionNumber": "032-0559",
   "stemHtml": "<p>The pilot sets the autobrake to MAX due to fear of exceeding runway distance. The pilot will\u2026</p>",
   "options": {
     "a": "<p>Not use reverse thrust.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Expect the autobrake system to modulate braking pressure to maintain given rate.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106116,
+    "number": "323932"
+  }
 }

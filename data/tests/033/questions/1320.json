@@ -1,7 +1,7 @@
 {
   "number": 1320,
-  "questionId": 70401,
-  "questionNumber": "334794",
+  "questionId": "033-1320",
+  "questionNumber": "033-1320",
   "stemHtml": "From which of the following would you expect to find information regarding known short unserviceability of VOR, TACAN, and NDB?",
   "options": {
     "a": "SIGMET",
@@ -10,5 +10,10 @@
     "d": "AIP"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70401,
+    "number": "334794"
+  }
 }

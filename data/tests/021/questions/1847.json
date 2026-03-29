@@ -1,7 +1,7 @@
 {
   "number": 1847,
-  "questionId": 105974,
-  "questionNumber": "214136",
+  "questionId": "021-1847",
+  "questionNumber": "021-1847",
   "stemHtml": "<p>Bleed air systems use a (1) _____, which normally stays (2) _____ but in abnormal situations (3) _____.</p>",
   "options": {
     "a": "<p>(1) Non-Return Valve; (2) open; (3) closes.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Isolation Valve; (2) closed, (3) opens.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105974,
+    "number": "214136"
+  }
 }

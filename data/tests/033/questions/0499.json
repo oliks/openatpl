@@ -1,7 +1,7 @@
 {
   "number": 499,
-  "questionId": 78465,
-  "questionNumber": "338379",
+  "questionId": "033-0499",
+  "questionNumber": "033-0499",
   "stemHtml": "Refer to figure. <br /> When flying a commercial air transport route, the pilot makes fuel checks at positions TESGA and LAMSI. Considering the data from the fuel checks, determine the remaining fuel which can be estimated overhead BABIT.",
   "options": {
     "a": "8.6 tonnes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/edae0493-6bae-47d8-b0b7-a78a70040e61.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/edae0493-6bae-47d8-b0b7-a78a70040e61.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78465,
+    "number": "338379"
+  }
 }

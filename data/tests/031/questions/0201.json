@@ -1,7 +1,7 @@
 {
   "number": 201,
-  "questionId": 106992,
-  "questionNumber": "314392",
+  "questionId": "031-0201",
+  "questionNumber": "031-0201",
   "stemHtml": "<p>Given:</p><p>Total mass: 2900 kg<br>Centre of Gravity location station: 115<br>Aft CG limit station: 116</p><p>The maximum mass that can be added at station 130 is...</p>",
   "options": {
     "a": "<p>317 kg. </p>",
@@ -10,5 +10,10 @@
     "d": "<p>207 kg.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106992,
+    "number": "314392"
+  }
 }

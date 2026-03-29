@@ -1,7 +1,7 @@
 {
   "number": 616,
-  "questionId": 124135,
-  "questionNumber": "311388",
+  "questionId": "031-0616",
+  "questionNumber": "031-0616",
   "stemHtml": "<p>Consider a plank of 5 m length. This plank is placed on a pivot which is at distance of 3 m from one side. A person is applying a force of 400 N on the longer arm side. How much force is required to counter balance the applied force?</p>",
   "options": {
     "a": "<p>1000 N</p>",
@@ -10,5 +10,10 @@
     "d": "<p>400 N</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 124135,
+    "number": "311388"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 791,
-  "questionId": 70512,
-  "questionNumber": "335776",
+  "questionId": "033-0791",
+  "questionNumber": "033-0791",
   "stemHtml": "<p>Refer to figure.<br>In the event that SELCAL is prescribed by an appropriate authority, in which section of the ATS flight plan will the SELCAL code be entered?</p>",
   "options": {
     "a": "OTHER INFORMATION",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/96508C37-8EE7-4475-A0E4-6ECEA6D48AB9.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/96508C37-8EE7-4475-A0E4-6ECEA6D48AB9.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70512,
+    "number": "335776"
+  }
 }

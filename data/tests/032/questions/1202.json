@@ -1,7 +1,7 @@
 {
   "number": 1202,
-  "questionId": 80353,
-  "questionNumber": "328759",
+  "questionId": "032-1202",
+  "questionNumber": "032-1202",
   "stemHtml": "<p>Assuming that the obstacle is 2200 m from the end of TODA, the maximum semi-width of the obstacle domain for an aircraft of wingspan 52 m that can maintain navigational accuracy and is not required to turn more than 15\u00b0 degrees after take-off is\u2026</p>",
   "options": {
     "a": "300 m",
@@ -10,5 +10,10 @@
     "d": "600 m"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80353,
+    "number": "328759"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 836,
-  "questionId": 84927,
-  "questionNumber": "337457",
+  "questionId": "033-0836",
+  "questionNumber": "033-0836",
   "stemHtml": "<p>A Commercial Air Transport operation is to be pre-positioned to a remote operating location in mountainous terrain. The commander wishes to take as much extra fuel as possible. Given the following information, determine the maximum amount of Extra Fuel (including the fuel penalty) that the Commander can upload:</p><p>MTOM: 6250 lb <br>MLM: 4500 lb <br>ZFM: 3825 lb <br>Planned T/O fuel: 705 lb <br>Trip fuel: 375 lb <br>Fuel tank capacity: 1100 lb <br>Fuel burn correction per 100 lb of extra fuel based upon: TOM +9.1 lb and LM +10 lb</p>",
   "options": {
     "a": "345 lb",
@@ -10,5 +10,10 @@
     "d": "0 lb"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84927,
+    "number": "337457"
+  }
 }

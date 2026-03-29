@@ -1,7 +1,7 @@
 {
   "number": 780,
-  "questionId": 66646,
-  "questionNumber": "101429",
+  "questionId": "010-0780",
+  "questionNumber": "010-0780",
   "stemHtml": "Whenever a distress transmission is intercepted by a pilot-in-command of an aircraft, the pilot shall, if feasible...",
   "options": {
     "a": "record the position of the transmission and proceed according to the flight.",
@@ -10,5 +10,10 @@
     "d": "enter into a holding pattern and wait for instructions."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66646,
+    "number": "101429"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 250,
-  "questionId": 69612,
-  "questionNumber": "328471",
+  "questionId": "032-0250",
+  "questionNumber": "032-0250",
   "stemHtml": "<p>Besides lift, the forces that determine the gradient of climb of an aeroplane are\u2026</p>",
   "options": {
     "a": "weight and drag only.",
@@ -10,5 +10,10 @@
     "d": "weight, drag, and thrust."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69612,
+    "number": "328471"
+  }
 }

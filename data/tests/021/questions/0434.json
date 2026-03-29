@@ -1,7 +1,7 @@
 {
   "number": 434,
-  "questionId": 83639,
-  "questionNumber": "214355",
+  "questionId": "021-0434",
+  "questionNumber": "021-0434",
   "stemHtml": "During a turn with high bank angle and no altitude change, what will an aircraft experience?",
   "options": {
     "a": "<p>Increased stress and strain due to the increased load factor.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Strain will increase due to the increased load factor, but stress will be unchanged.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83639,
+    "number": "214355"
+  }
 }

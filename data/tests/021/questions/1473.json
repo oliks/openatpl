@@ -1,7 +1,7 @@
 {
   "number": 1473,
-  "questionId": 83192,
-  "questionNumber": "212600",
+  "questionId": "021-1473",
+  "questionNumber": "021-1473",
   "stemHtml": "<p>What does a FADEC consist of?</p>",
   "options": {
     "a": "<p>A fuel control system and its accessories (sensors, wiring, sensors,... etc.).       </p>",
@@ -10,5 +10,10 @@
     "d": "A fuel control system only."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83192,
+    "number": "212600"
+  }
 }

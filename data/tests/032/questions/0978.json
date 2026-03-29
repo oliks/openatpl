@@ -1,7 +1,7 @@
 {
   "number": 978,
-  "questionId": 84633,
-  "questionNumber": "324075",
+  "questionId": "032-0978",
+  "questionNumber": "032-0978",
   "stemHtml": "During a flight in a twin engine piston aeroplane under performance Class B, an engine failure is experienced. The pilot correctly performs the engine failure procedure. After setting the required thrust on the live engine, the pilot notices a continuous descent of 400 ft/min. Which of the following could have caused this?",
   "options": {
     "a": "Corrective rudder towards the dead engine has not been applied.",
@@ -10,5 +10,10 @@
     "d": "The live engine has not been feathered."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84633,
+    "number": "324075"
+  }
 }

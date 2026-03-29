@@ -1,7 +1,7 @@
 {
   "number": 1754,
-  "questionId": 85576,
-  "questionNumber": "102112",
+  "questionId": "010-1754",
+  "questionNumber": "010-1754",
   "stemHtml": "Your aircraft and another aircraft are both approaching the same airport. In which of the following situations can the separation minima be reduced?",
   "options": {
     "a": "You say that you can maintain visual separation with the preceding aircraft.",
@@ -10,5 +10,10 @@
     "d": "ATC have applied a speed restriction to both aircraft."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85576,
+    "number": "102112"
+  }
 }

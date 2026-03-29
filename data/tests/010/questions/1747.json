@@ -1,7 +1,7 @@
 {
   "number": 1747,
-  "questionId": 66701,
-  "questionNumber": "102656",
+  "questionId": "010-1747",
+  "questionNumber": "010-1747",
   "stemHtml": "<p>Nationality and registration marks \u2013 The registration mark shall be assigned by the\u2026</p>",
   "options": {
     "a": "International Civil Aviation Organisation.",
@@ -10,5 +10,10 @@
     "d": "State of Registry or a common mark registering authority."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66701,
+    "number": "102656"
+  }
 }

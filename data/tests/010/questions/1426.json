@@ -1,7 +1,7 @@
 {
   "number": 1426,
-  "questionId": 107532,
-  "questionNumber": "103909",
+  "questionId": "010-1426",
+  "questionNumber": "010-1426",
   "stemHtml": "<p>An aircraft enters a holding pattern at 15:40 UTC and the ATC clears the pilot to exit the holding and commence the approach for landing at 15:46 UTC. If 4 minutes are needed to complete one holding pattern, how should you proceed?</p>",
   "options": {
     "a": "<p>Leave the holding and tell ATC you are going to fly a visual approach on a direct heading.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Fly a 6 minute holding to stay within the safe zone.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107532,
+    "number": "103909"
+  }
 }

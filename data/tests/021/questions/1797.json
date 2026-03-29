@@ -1,7 +1,7 @@
 {
   "number": 1797,
-  "questionId": 105969,
-  "questionNumber": "214641",
+  "questionId": "021-1797",
+  "questionNumber": "021-1797",
   "stemHtml": "<p>Which of these is an advantage of a swash plate pump in a hydraulic system?</p>",
   "options": {
     "a": "<p>Constant volume.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Variable volume, fixed pressure.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105969,
+    "number": "214641"
+  }
 }

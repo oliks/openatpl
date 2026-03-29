@@ -1,7 +1,7 @@
 {
   "number": 1098,
-  "questionId": 69136,
-  "questionNumber": "229382",
+  "questionId": "022-1098",
+  "questionNumber": "022-1098",
   "stemHtml": "<p>The disadvantage(s) of a float type fuel quantity measuring system compared to a capacitance fuel measuring system is (are) that the\u2026</p>",
   "options": {
     "a": "indications are influenced by aircraft attitude variations and accelerations only.",
@@ -10,5 +10,10 @@
     "d": "indications are influenced by aircraft attitude variations, accelerations, and temperature variations, and the complex design."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69136,
+    "number": "229382"
+  }
 }

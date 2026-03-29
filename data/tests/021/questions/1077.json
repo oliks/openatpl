@@ -1,7 +1,7 @@
 {
   "number": 1077,
-  "questionId": 108472,
-  "questionNumber": "215985",
+  "questionId": "021-1077",
+  "questionNumber": "021-1077",
   "stemHtml": "<p>In normal flight operations, what is the correct position of the bleed air switches?</p>",
   "options": {
     "a": "<p>Both engine bleed switches ON; APU bleed switch ON.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Both engine bleed switches OFF; APU bleed switch ON.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108472,
+    "number": "215985"
+  }
 }

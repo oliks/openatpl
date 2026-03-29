@@ -1,7 +1,7 @@
 {
   "number": 1536,
-  "questionId": 80874,
-  "questionNumber": "106537",
+  "questionId": "010-1536",
+  "questionNumber": "010-1536",
   "stemHtml": "<p>Containers or packages containing survival equipment for dropping should have the general nature of the content indicated by a colour code.</p>\r\n\r\n<p>What is the colour of droppable containers and streamers for medical supplies?</p>",
   "options": {
     "a": "Yellow",
@@ -10,5 +10,10 @@
     "d": "Red"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80874,
+    "number": "106537"
+  }
 }

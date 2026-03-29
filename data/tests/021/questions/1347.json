@@ -1,7 +1,7 @@
 {
   "number": 1347,
-  "questionId": 67884,
-  "questionNumber": "214939",
+  "questionId": "021-1347",
+  "questionNumber": "021-1347",
   "stemHtml": "<p>Complete the following statement correctly as regards the capacity of a chemical oxygen generator and regulating the oxygen flow. The capacity is in the range of...</p>",
   "options": {
     "a": "60 minutes to 120 minutes and the flow is regulated by a dual outlet connector.",
@@ -10,5 +10,10 @@
     "d": "60 minutes to 120 minutes and the flow cannot be regulated."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67884,
+    "number": "214939"
+  }
 }

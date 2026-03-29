@@ -1,7 +1,7 @@
 {
   "number": 1643,
-  "questionId": 66704,
-  "questionNumber": "108613",
+  "questionId": "010-1643",
+  "questionNumber": "010-1643",
   "stemHtml": "What is the definition of the term cross-country?",
   "options": {
     "a": "A flight between a point of departure and a point of arrival following a pre-planned route, using standard navigation procedures.",
@@ -10,5 +10,10 @@
     "d": "A flight between a point of departure and a point of arrival following a pre-planned route, without using standard navigation procedures."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66704,
+    "number": "108613"
+  }
 }

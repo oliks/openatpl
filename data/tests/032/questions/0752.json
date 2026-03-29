@@ -1,7 +1,7 @@
 {
   "number": 752,
-  "questionId": 85025,
-  "questionNumber": "323960",
+  "questionId": "032-0752",
+  "questionNumber": "032-0752",
   "stemHtml": "<p>A pilot accustomed to landing on a wide runway may perceive when approaching a narrow runway, that he/she is at a\u2026</p>",
   "options": {
     "a": "<p>Lower height than he/she actually is, with the tendency to overshoot.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Greater height than he/she actually is, with the tendency to land short.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85025,
+    "number": "323960"
+  }
 }

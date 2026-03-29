@@ -1,7 +1,7 @@
 {
   "number": 921,
-  "questionId": 67364,
-  "questionNumber": "219863",
+  "questionId": "021-0921",
+  "questionNumber": "021-0921",
   "stemHtml": "In a jet engine the propelling nozzle:",
   "options": {
     "a": "must be designed to obtain the correct balance of pressure and velocity to prevent flow separation.",
@@ -10,5 +10,10 @@
     "d": "reduces noise."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67364,
+    "number": "219863"
+  }
 }

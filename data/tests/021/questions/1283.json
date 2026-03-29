@@ -1,7 +1,7 @@
 {
   "number": 1283,
-  "questionId": 68004,
-  "questionNumber": "212594",
+  "questionId": "021-1283",
+  "questionNumber": "021-1283",
   "stemHtml": "If the main oil filter of a gas turbine engine becomes clogged, oil to the main bearings is still assured:",
   "options": {
     "a": "if breather pressure in the main compartments is increased to ensure positive lubrication of the bearings.",
@@ -10,5 +10,10 @@
     "d": "if a higher engine rpm is selected to increase oil pressure."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68004,
+    "number": "212594"
+  }
 }

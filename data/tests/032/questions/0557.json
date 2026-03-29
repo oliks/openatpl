@@ -1,7 +1,7 @@
 {
   "number": 557,
-  "questionId": 100279,
-  "questionNumber": "321535",
+  "questionId": "032-0557",
+  "questionNumber": "032-0557",
   "stemHtml": "Refer to figure. <br /> Which figure best describes the change in Drag vs. True Airspeed (TAS) curve if altitude is increased?",
   "options": {
     "a": "Figure 1",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/628e9d6a-0b11-4c63-8103-da368c33b062.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/628e9d6a-0b11-4c63-8103-da368c33b062.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100279,
+    "number": "321535"
+  }
 }

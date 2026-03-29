@@ -1,7 +1,7 @@
 {
   "number": 211,
-  "questionId": 69121,
-  "questionNumber": "223816",
+  "questionId": "022-0211",
+  "questionNumber": "022-0211",
   "stemHtml": "<p>Typically a hydraulic pressure indicator uses which of the following sensors.</p>",
   "options": {
     "a": "a diaphragm that receives a hydraulic signal from the accumulator.",
@@ -10,5 +10,10 @@
     "d": "an aneroid capsule that receives a pneumatic signal from the hydraulic reservoir."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69121,
+    "number": "223816"
+  }
 }

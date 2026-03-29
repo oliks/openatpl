@@ -1,7 +1,7 @@
 {
   "number": 791,
-  "questionId": 111179,
-  "questionNumber": "229521",
+  "questionId": "022-0791",
+  "questionNumber": "022-0791",
   "stemHtml": "<p>If the needle on a turn indicator is to the left, and the ball is to the left. The aircraft is (1) _____ and needs (2) _____ left rudder.</p>",
   "options": {
     "a": "<p>(1) slipping; (2) more</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) skidding; (2) less</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111179,
+    "number": "229521"
+  }
 }

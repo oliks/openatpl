@@ -1,7 +1,7 @@
 {
   "number": 792,
-  "questionId": 159425,
-  "questionNumber": "215550",
+  "questionId": "021-0792",
+  "questionNumber": "021-0792",
   "stemHtml": "<p>On an airbus fly-by-wire aircraft, what capability is provided to the pilot by alpha protection?</p>",
   "options": {
     "a": "<p>Pull the sidestick fully aft without the aircraft stalling.  <br />   </p>",
@@ -10,5 +10,10 @@
     "d": "<p>Disconnect the autothrust to maintain pitch protection.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 159425,
+    "number": "215550"
+  }
 }

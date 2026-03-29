@@ -1,7 +1,7 @@
 {
   "number": 13,
-  "questionId": 103034,
-  "questionNumber": "103654",
+  "questionId": "010-0013",
+  "questionNumber": "010-0013",
   "stemHtml": "<p>Refer to figure. <br /> \rIn accordance with ICAO Annex 14, who this sign applies to?</p>",
   "options": {
     "a": "<p>Drivers of vehicles.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/cd6bd4b5-16ae-4e22-af38-4d9d5ce8f0d3.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/cd6bd4b5-16ae-4e22-af38-4d9d5ce8f0d3.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103034,
+    "number": "103654"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 566,
-  "questionId": 85618,
-  "questionNumber": "336533",
+  "questionId": "033-0566",
+  "questionNumber": "033-0566",
   "stemHtml": "Refer to figure. <br /> In the figure, all fuel figures are in kg. For this flight, how does the fuel consumption from top of climb to TORDU compare to the planned fuel consumption? The actual fuel consumption is...",
   "options": {
     "a": "5 kg/h higher than planned.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/6966F455-D73D-4ACD-93DA-DB58614DD487.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/6966F455-D73D-4ACD-93DA-DB58614DD487.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85618,
+    "number": "336533"
+  }
 }

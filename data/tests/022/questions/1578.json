@@ -1,7 +1,7 @@
 {
   "number": 1578,
-  "questionId": 69207,
-  "questionNumber": "225328",
+  "questionId": "022-1578",
+  "questionNumber": "022-1578",
   "stemHtml": "<p>An automatic landing system which can keep on operating without deterioration of its performances following the failure of one of the autopilots is called\u2026</p>",
   "options": {
     "a": "fail operational.",
@@ -10,5 +10,10 @@
     "d": "fail redundant."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69207,
+    "number": "225328"
+  }
 }

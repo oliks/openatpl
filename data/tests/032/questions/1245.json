@@ -1,7 +1,7 @@
 {
   "number": 1245,
-  "questionId": 69919,
-  "questionNumber": "321121",
+  "questionId": "032-1245",
+  "questionNumber": "032-1245",
   "stemHtml": "<p>An aeroplane is normally flying with long-range speed because\u2026</p>",
   "options": {
     "a": "it results in the longest flight time (endurance).",
@@ -10,5 +10,10 @@
     "d": "it results in the longest flight distance (range)."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69919,
+    "number": "321121"
+  }
 }

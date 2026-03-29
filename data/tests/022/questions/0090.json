@@ -1,7 +1,7 @@
 {
   "number": 90,
-  "questionId": 69192,
-  "questionNumber": "223915",
+  "questionId": "022-0090",
+  "questionNumber": "022-0090",
   "stemHtml": "<p>The purpose of a Cockpit Voice Recorder is to\u2026</p>",
   "options": {
     "a": "transmit, in the event of an accident, cabin and flight crew conversation data to the operator`s base.",
@@ -10,5 +10,10 @@
     "d": "transmit voice communication data to the operator`s base that can be used by managers to assess radiotelephony skills."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69192,
+    "number": "223915"
+  }
 }

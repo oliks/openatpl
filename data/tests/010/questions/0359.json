@@ -1,7 +1,7 @@
 {
   "number": 359,
-  "questionId": 107864,
-  "questionNumber": "108145",
+  "questionId": "010-0359",
+  "questionNumber": "010-0359",
   "stemHtml": "<p>How far from the runway end does the Surveillance Radar Approach (SRA) controller stop providing guidance?</p>",
   "options": {
     "a": "<p>2 NM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>5 NM</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107864,
+    "number": "108145"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 840,
-  "questionId": 69744,
-  "questionNumber": "322240",
+  "questionId": "032-0840",
+  "questionNumber": "032-0840",
   "stemHtml": "For jet aeroplanes which of the following statements is correct?",
   "options": {
     "a": "An anti-skid system malfunction has no effect on the required landing field length.",
@@ -10,5 +10,10 @@
     "d": "In any case runway slope is one of the factors taken into account when determining the required landing field length."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69744,
+    "number": "322240"
+  }
 }

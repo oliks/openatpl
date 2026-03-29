@@ -1,7 +1,7 @@
 {
   "number": 1278,
-  "questionId": 79132,
-  "questionNumber": "338384",
+  "questionId": "033-1278",
+  "questionNumber": "033-1278",
   "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - ALICANTE - Chart 10-2B. <br>The distance from KOVAM to BESOR is\u2026</p>",
   "options": {
     "a": "37 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/F8C1C28B-6DCC-49E1-9FAE-F41880AD0E72.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/F8C1C28B-6DCC-49E1-9FAE-F41880AD0E72.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79132,
+    "number": "338384"
+  }
 }

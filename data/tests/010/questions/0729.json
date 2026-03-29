@@ -1,7 +1,7 @@
 {
   "number": 729,
-  "questionId": 105962,
-  "questionNumber": "102035",
+  "questionId": "010-0729",
+  "questionNumber": "010-0729",
   "stemHtml": "<p>In accordance with EU regulation No. 376/2014, what can be characterised as a voluntary reporting occurrence?</p>",
   "options": {
     "a": "<p>Crew emergency.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Passenger injury.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105962,
+    "number": "102035"
+  }
 }

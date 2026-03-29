@@ -1,7 +1,7 @@
 {
   "number": 528,
-  "questionId": 101120,
-  "questionNumber": "311499",
+  "questionId": "031-0528",
+  "questionNumber": "031-0528",
   "stemHtml": "<p>The Performance Limited Landing Mass is defined as\u2026</p>",
   "options": {
     "a": "<p>The landing mass subjected to airport normal conditions.</p>",
@@ -10,5 +10,10 @@
     "d": "The maximum permissible mass of an aeroplane but excluding fuel."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101120,
+    "number": "311499"
+  }
 }

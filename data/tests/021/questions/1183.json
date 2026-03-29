@@ -1,7 +1,7 @@
 {
   "number": 1183,
-  "questionId": 164398,
-  "questionNumber": "217728",
+  "questionId": "021-1183",
+  "questionNumber": "021-1183",
   "stemHtml": "<p>In which type of engine lubrication system is the oil stored directly within the engine structure itself, with no dedicated external oil tank or reservoir provided?</p>",
   "options": {
     "a": "<p>Wet-sump system</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Wet or dry-sump system, depending on engine type</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164398,
+    "number": "217728"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 296,
-  "questionId": 84986,
-  "questionNumber": "224009",
+  "questionId": "022-0296",
+  "questionNumber": "022-0296",
   "stemHtml": "For polar navigation, aircraft manufacturers recommend navigation using...",
   "options": {
     "a": "LNAV to follow rhumb line",
@@ -10,5 +10,10 @@
     "d": "LNAV to follow great circle"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84986,
+    "number": "224009"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 644,
-  "questionId": 69568,
-  "questionNumber": "311473",
+  "questionId": "031-0644",
+  "questionNumber": "031-0644",
   "stemHtml": "<p>An aeroplane is to depart from an airfield at a take-off mass of 302 550 kg. <br /> \nFuel on board at take-off (including contingency and alternate of 19 450 kg) is 121 450 kg. <br /> \nThe Dry Operating Mass is 161 450 kg.</p>\n\n<p>The traffic load will be..</p>",
   "options": {
     "a": "39 105 kg.",
@@ -10,5 +10,10 @@
     "d": "141 100 kg."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69568,
+    "number": "311473"
+  }
 }

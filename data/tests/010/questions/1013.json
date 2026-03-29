@@ -1,7 +1,7 @@
 {
   "number": 1013,
-  "questionId": 66832,
-  "questionNumber": "103510",
+  "questionId": "010-1013",
+  "questionNumber": "010-1013",
   "stemHtml": "What is the meaning of the abbreviation OCA?",
   "options": {
     "a": "Obstruction clearance altitude",
@@ -10,5 +10,10 @@
     "d": "Obstacle clearance area"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66832,
+    "number": "103510"
+  }
 }

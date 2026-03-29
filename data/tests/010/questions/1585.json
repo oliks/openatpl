@@ -1,7 +1,7 @@
 {
   "number": 1585,
-  "questionId": 66845,
-  "questionNumber": "101911",
+  "questionId": "010-1585",
+  "questionNumber": "010-1585",
   "stemHtml": "The intermediate approach segment is the segment during which the aircraft...",
   "options": {
     "a": "speed and configuration should be adjusted to prepare the aircraft for final approach.",
@@ -10,5 +10,10 @@
     "d": "leaves the en-route segment and starts the approach segment."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66845,
+    "number": "101911"
+  }
 }

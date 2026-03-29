@@ -1,7 +1,7 @@
 {
   "number": 568,
-  "questionId": 69947,
-  "questionNumber": "322721",
+  "questionId": "032-0568",
+  "questionNumber": "032-0568",
   "stemHtml": "Regarding the obstacle limited take-off mass, which of the following statements is correct?",
   "options": {
     "a": "A take-off in the direction of an obstacle is also permitted in tail wind condition.",
@@ -10,5 +10,10 @@
     "d": "The maximum bank angle which can be used is 10&deg;."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69947,
+    "number": "322721"
+  }
 }

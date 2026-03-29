@@ -1,7 +1,7 @@
 {
   "number": 995,
-  "questionId": 67694,
-  "questionNumber": "218157",
+  "questionId": "021-0995",
+  "questionNumber": "021-0995",
   "stemHtml": "<p>Which type of electric power supplies the low pressure pumps of the fuel system on most transport jet aeroplanes?</p>",
   "options": {
     "a": "<p>28V AC</p>",
@@ -10,5 +10,10 @@
     "d": "<p>28V DC</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67694,
+    "number": "218157"
+  }
 }

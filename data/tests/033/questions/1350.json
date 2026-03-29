@@ -1,7 +1,7 @@
 {
   "number": 1350,
-  "questionId": 106649,
-  "questionNumber": "337896",
+  "questionId": "033-1350",
+  "questionNumber": "033-1350",
   "stemHtml": "<p>You plan a flight from Athens to Paris and back. Due to refueling problems in Paris, you decide to take fuel for the flight from Paris to Athens on the outbound leg, so that no fueling is necessary in Paris. What do you expect?</p>",
   "options": {
     "a": "<p>The fuel consumption will be less from Paris to Athens.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The fuel consumption will be less from Athens to Paris.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106649,
+    "number": "337896"
+  }
 }

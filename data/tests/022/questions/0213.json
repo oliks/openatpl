@@ -1,7 +1,7 @@
 {
   "number": 213,
-  "questionId": 109013,
-  "questionNumber": "224397",
+  "questionId": "022-0213",
+  "questionNumber": "022-0213",
   "stemHtml": "<p>What information is required for an INS/IRS to be able to calculate the wind direction and speed?</p>",
   "options": {
     "a": "<p>IAS</p>",
@@ -10,5 +10,10 @@
     "d": "<p>OAT</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109013,
+    "number": "224397"
+  }
 }

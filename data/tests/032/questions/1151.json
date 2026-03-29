@@ -1,7 +1,7 @@
 {
   "number": 1151,
-  "questionId": 70228,
-  "questionNumber": "328768",
+  "questionId": "032-1151",
+  "questionNumber": "032-1151",
   "stemHtml": "<p>The climb limited take-off mass can be increased by\u2026</p>",
   "options": {
     "a": "selecting a lower V<sub>1</sub>",
@@ -10,5 +10,10 @@
     "d": "selecting a lower V<sub>R</sub>."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70228,
+    "number": "328768"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1552,
-  "questionId": 106163,
-  "questionNumber": "108498",
+  "questionId": "010-1552",
+  "questionNumber": "010-1552",
   "stemHtml": "<p>At what point does the Captain have the authority to enforce the law under the Tokyo Convention concerning unlawful interference?</p>",
   "options": {
     "a": "<p>From the moment the airplane is pushed back from the gate.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>From the moment the airplane lifts off during takeoff.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106163,
+    "number": "108498"
+  }
 }

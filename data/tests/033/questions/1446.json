@@ -1,7 +1,7 @@
 {
   "number": 1446,
-  "questionId": 107366,
-  "questionNumber": "333227",
+  "questionId": "033-1446",
+  "questionNumber": "033-1446",
   "stemHtml": "<p>You are flying VFR to an aerodrome that only has GNSS-based procedures available. You check the availability of the satellites before departure. At what point must you ensure that full satellite availability is met in order to continue your flight?</p><p>Given times:</p><p>Take-off: 13:00<br>Top of descent (ToD): 14:40<br>Start of the approach: 14:50<br>Arrival at destination: 15:00</p>",
   "options": {
     "a": "<p>13:00</p>",
@@ -10,5 +10,10 @@
     "d": "<p>12:00</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107366,
+    "number": "333227"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1497,
-  "questionId": 68758,
-  "questionNumber": "226582",
+  "questionId": "022-1497",
+  "questionNumber": "022-1497",
   "stemHtml": "<p>On a large aeroplane, the computer of the autopilot system uses, among others, input signals from the:</p><p>1 \u2013 ADC <br>2 \u2013 Attitude reference system <br>3 \u2013 ILS receiver <br>4 \u2013 Autopilot mode control panel</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 4.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3, 4."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68758,
+    "number": "226582"
+  }
 }

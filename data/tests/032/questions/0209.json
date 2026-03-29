@@ -1,7 +1,7 @@
 {
   "number": 209,
-  "questionId": 69911,
-  "questionNumber": "321398",
+  "questionId": "032-0209",
+  "questionNumber": "032-0209",
   "stemHtml": "Refer to figure.  <br />  Have a look at the attached figure NET LEVEL-OFF ALTITUDE. Why are the temperature lines broken at 17 000 ft?",
   "options": {
     "a": "The air condition is turned off below 17 000 ft.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/C4043FD1-B64A-4ADA-B1CB-93EC09BE8A19.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/C4043FD1-B64A-4ADA-B1CB-93EC09BE8A19.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69911,
+    "number": "321398"
+  }
 }

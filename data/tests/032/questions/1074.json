@@ -1,7 +1,7 @@
 {
   "number": 1074,
-  "questionId": 69635,
-  "questionNumber": "322828",
+  "questionId": "032-1074",
+  "questionNumber": "032-1074",
   "stemHtml": "What is the effect of a higher temperature on climb performance?",
   "options": {
     "a": "The speed for the best climb angle decreases due to the lower air density.",
@@ -10,5 +10,10 @@
     "d": "The engine is no longer flat-rated and the maximum climb angle is increased."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69635,
+    "number": "322828"
+  }
 }

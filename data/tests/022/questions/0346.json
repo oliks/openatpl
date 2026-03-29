@@ -1,7 +1,7 @@
 {
   "number": 346,
-  "questionId": 69159,
-  "questionNumber": "228114",
+  "questionId": "022-0346",
+  "questionNumber": "022-0346",
   "stemHtml": "<p>A typical radio altimeter installation consists of\u2026</p>",
   "options": {
     "a": "three antennas placed longitudinally: one for transmission and two redundant receive antennas.",
@@ -10,5 +10,10 @@
     "d": "two antennas: one continuously transmitting and the other continuously receiving a radio signal."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69159,
+    "number": "228114"
+  }
 }

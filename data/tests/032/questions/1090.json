@@ -1,7 +1,7 @@
 {
   "number": 1090,
-  "questionId": 80343,
-  "questionNumber": "329528",
+  "questionId": "032-1090",
+  "questionNumber": "032-1090",
   "stemHtml": "<p>Select the combination of answers which reflect the reason for using reduced thrust:</p><p>1. Save engine life<br>2. Reduced fuel consumption<br>3. V<strong><sub>1</sub></strong><sub> </sub>can be less than V<strong><sub>MCG</sub></strong><br>4. Noise abatement<br>5. Allows contaminated runway operations<br>6. PMC inoperative</p>",
   "options": {
     "a": "1 and 4",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3, 4, 5 and 6"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80343,
+    "number": "329528"
+  }
 }

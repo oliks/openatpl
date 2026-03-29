@@ -1,7 +1,7 @@
 {
   "number": 502,
-  "questionId": 69490,
-  "questionNumber": "312660",
+  "questionId": "031-0502",
+  "questionNumber": "031-0502",
   "stemHtml": "The dry operating index is the moment for the position of the..",
   "options": {
     "a": "arm of the empty fuel tank divided by the mass of planned fuel.",
@@ -10,5 +10,10 @@
     "d": "weighed Empty Operating Mass divided by 1000."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69490,
+    "number": "312660"
+  }
 }

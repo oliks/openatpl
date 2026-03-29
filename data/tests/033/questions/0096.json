@@ -1,7 +1,7 @@
 {
   "number": 96,
-  "questionId": 70776,
-  "questionNumber": "333668",
+  "questionId": "033-0096",
+  "questionNumber": "033-0096",
   "stemHtml": "Refer to figure.<br />\r\nIn ITEM 9 of an ICAO ATS Flight Plan FPL, what does the letter H denote?",
   "options": {
     "a": "Helicopter traffic.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/69D628ED-F490-4605-ABB5-BFD26BE1758C.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/69D628ED-F490-4605-ABB5-BFD26BE1758C.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70776,
+    "number": "333668"
+  }
 }

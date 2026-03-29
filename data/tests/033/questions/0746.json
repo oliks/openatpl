@@ -1,7 +1,7 @@
 {
   "number": 746,
-  "questionId": 70936,
-  "questionNumber": "334434",
+  "questionId": "033-0746",
+  "questionNumber": "033-0746",
   "stemHtml": "<p>Refer to figure or AMSTERDAM - Chart 11-1 from Jeppesen GSPRM 2017.\u00a0<br>When do you start turning inbound for the final approach?</p>",
   "options": {
     "a": "1 minute after LCTR for category A-B, 1 minute and 15 seconds for category B-C",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/8CDA7A85-55F4-4B47-9ED1-9617407143DC.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8CDA7A85-55F4-4B47-9ED1-9617407143DC.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70936,
+    "number": "334434"
+  }
 }

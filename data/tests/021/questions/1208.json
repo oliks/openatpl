@@ -1,7 +1,7 @@
 {
   "number": 1208,
-  "questionId": 67900,
-  "questionNumber": "213410",
+  "questionId": "021-1208",
+  "questionNumber": "021-1208",
   "stemHtml": "<p>Pressurising a fuselage causes the following load in the skin\u2026</p>",
   "options": {
     "a": "<p>compression.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>tension.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67900,
+    "number": "213410"
+  }
 }

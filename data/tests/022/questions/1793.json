@@ -1,7 +1,7 @@
 {
   "number": 1793,
-  "questionId": 109058,
-  "questionNumber": "224041",
+  "questionId": "022-1793",
+  "questionNumber": "022-1793",
   "stemHtml": "<p>A pilot inadvetently turns an IRS to the OFF position in flight, which of the following statements is correct?</p>",
   "options": {
     "a": "<p>Attiude information can be recovered in flight</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Switching to NAV will regain all navigation functions</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109058,
+    "number": "224041"
+  }
 }

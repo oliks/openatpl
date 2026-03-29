@@ -1,7 +1,7 @@
 {
   "number": 242,
-  "questionId": 81835,
-  "questionNumber": "338203",
+  "questionId": "033-0242",
+  "questionNumber": "033-0242",
   "stemHtml": "<p>Refer to figure or VFR chart ED-4 from the Jeppesen GSPRM 2017. You are planning a VFR flight from Blaubeuren (EDMC) (N48\u00b025' E009\u00b048') to Albstadt (EDSA) (N48\u00b016' E009\u00b004'). The magnetic track for the flight is (1) _____ and the distance between the aerodromes is (2) _____.</p>",
   "options": {
     "a": "(1) 069\u00b0; (2) 31 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/DDA4760C-7B18-4C72-A0E9-C3D23F27AD7E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/DDA4760C-7B18-4C72-A0E9-C3D23F27AD7E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81835,
+    "number": "338203"
+  }
 }

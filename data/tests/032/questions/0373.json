@@ -1,7 +1,7 @@
 {
   "number": 373,
-  "questionId": 82016,
-  "questionNumber": "323423",
+  "questionId": "032-0373",
+  "questionNumber": "032-0373",
   "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following graphs illustrate the movement of the total drag curve as density altitude decreases?</p>",
   "options": {
     "a": "<p>Figure 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/04DAAE11-7847-4230-95AF-56444C6B416E.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/04DAAE11-7847-4230-95AF-56444C6B416E.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82016,
+    "number": "323423"
+  }
 }

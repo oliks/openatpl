@@ -1,7 +1,7 @@
 {
   "number": 919,
-  "questionId": 66983,
-  "questionNumber": "109086",
+  "questionId": "010-0919",
+  "questionNumber": "010-0919",
   "stemHtml": "A VFR flight has been given a clearance by ATC subject to maintaining own separation from other traffic. What or who is responsible for ensuring its separation from other aircraft?",
   "options": {
     "a": "The pilot of the VFR flight.",
@@ -10,5 +10,10 @@
     "d": "Clearances to maintain own separation are prohibited."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66983,
+    "number": "109086"
+  }
 }

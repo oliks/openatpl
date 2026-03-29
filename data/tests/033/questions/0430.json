@@ -1,7 +1,7 @@
 {
   "number": 430,
-  "questionId": 142550,
-  "questionNumber": "333778",
+  "questionId": "033-0430",
+  "questionNumber": "033-0430",
   "stemHtml": "<p>An aircraft plans to fly from Sardinia to Tunisia along the airway G650. What type of ATS route is this?</p>",
   "options": {
     "a": "<p>RNAV route</p>",
@@ -10,5 +10,10 @@
     "d": "<p>RNP route</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 142550,
+    "number": "333778"
+  }
 }

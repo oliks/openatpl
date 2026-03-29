@@ -1,7 +1,7 @@
 {
   "number": 379,
-  "questionId": 85351,
-  "questionNumber": "105151",
+  "questionId": "010-0379",
+  "questionNumber": "010-0379",
   "stemHtml": "<p>In the context of independent parallel approaches, what is being described below?</p>\r\n\r\n<p>\"The corridor of airspace located centrally between the two extended runway centre lines, where a penetration by an aircraft requires a controller intervention to manoeuvre any threatened aircraft on the adjacent approach.\"</p>",
   "options": {
     "a": "The normal operating zone.",
@@ -10,5 +10,10 @@
     "d": "The no transgression zone."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 85351,
+    "number": "105151"
+  }
 }

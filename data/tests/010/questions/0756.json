@@ -1,7 +1,7 @@
 {
   "number": 756,
-  "questionId": 83031,
-  "questionNumber": "102084",
+  "questionId": "010-0756",
+  "questionNumber": "010-0756",
   "stemHtml": "<p>Which of these following must have a approach lighting system?</p><p>1. LOC <br /> 2. CAT I <br /> 3. CAT II</p>",
   "options": {
     "a": "<p>Only 3</p>",
@@ -10,5 +10,10 @@
     "d": "2 and 3"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83031,
+    "number": "102084"
+  }
 }

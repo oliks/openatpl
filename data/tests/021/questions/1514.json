@@ -1,7 +1,7 @@
 {
   "number": 1514,
-  "questionId": 68286,
-  "questionNumber": "213772",
+  "questionId": "021-1514",
+  "questionNumber": "021-1514",
   "stemHtml": "<p>When the combustion gases pass through a turbine stage the\u2026</p>",
   "options": {
     "a": "<p>pressure drops.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>temperature increases.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68286,
+    "number": "213772"
+  }
 }

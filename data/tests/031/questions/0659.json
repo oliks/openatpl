@@ -1,7 +1,7 @@
 {
   "number": 659,
-  "questionId": 69440,
-  "questionNumber": "317704",
+  "questionId": "031-0659",
+  "questionNumber": "031-0659",
   "stemHtml": "<p>Refer to figure or CAP696 file 4.12. Given:</p><p>Dry Operating Mass: 60 520 kg <br>Performance limited take-off mass: 92 750 kg <br>Performance limited landing mass: 72 250 kg <br>Maximum Zero Fuel Mass: 67 530 kg <br>Trip fuel: 12 500 kg <br>Contingency plus final reserve fuel: 2300 kg <br>Alternate fuel: 1700 kg</p><p>Using this data, as appropriate, calculate the maximum traffic load that can be carried.</p>",
   "options": {
     "a": "15 730 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/792849CF-A152-494F-B3B2-41490D4E7BA2.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/792849CF-A152-494F-B3B2-41490D4E7BA2.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69440,
+    "number": "317704"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1076,
-  "questionId": 70634,
-  "questionNumber": "333029",
+  "questionId": "033-1076",
+  "questionNumber": "033-1076",
   "stemHtml": "<p>Given the following information, what is the additional fuel required? The Pre-determined Point PDP procedure has to be applied to a Commercial Air Transport flight under IFR for an aeroplane with turbine engines, from the departure aerodrome A to the destination aerodrome B, with one alternate aerodrome C.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from A to B: 1600 NM</span>  <br />  \nDistance from A to C: 1350 NM  <br />  \nTAS: 410 kt  <br />  \nFuel flow: 2750 kg/h  <br />  \nHeadwind Component: 15 kt</p>",
   "options": {
     "a": "1375 kg",
@@ -10,5 +10,10 @@
     "d": "2063 kg"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70634,
+    "number": "333029"
+  }
 }

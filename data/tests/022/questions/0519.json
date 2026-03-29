@@ -1,7 +1,7 @@
 {
   "number": 519,
-  "questionId": 84787,
-  "questionNumber": "225403",
+  "questionId": "022-0519",
+  "questionNumber": "022-0519",
   "stemHtml": "<p>A pilot is flying an approach and the HSI indicates a left deviation and FD indicates to turn right. What shall s/he do?</p>",
   "options": {
     "a": "<p>Disconnect FD and fly manually (ignoring the HSI).</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Initiate a go around.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84787,
+    "number": "225403"
+  }
 }

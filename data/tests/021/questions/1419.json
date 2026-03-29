@@ -1,7 +1,7 @@
 {
   "number": 1419,
-  "questionId": 108909,
-  "questionNumber": "211072",
+  "questionId": "021-1419",
+  "questionNumber": "021-1419",
   "stemHtml": "<p>Which of the following electrical sources can ONLY be used as a source for a resistive consumer capable of withstanding non-regulated AC power?</p>\r\n\r\n<p> </p>",
   "options": {
     "a": "<p>Variable speed constant frequency (VSCF) generator</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Frequency wild generator</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108909,
+    "number": "211072"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1154,
-  "questionId": 83867,
-  "questionNumber": "103239",
+  "questionId": "010-1154",
+  "questionNumber": "010-1154",
   "stemHtml": "<p>For an IFR flight in VMC in airspace Class D, submission of a flight plan is\u2026</p>",
   "options": {
     "a": "<p>Recommended.</p>",
@@ -10,5 +10,10 @@
     "d": "Optional."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83867,
+    "number": "103239"
+  }
 }

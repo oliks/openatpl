@@ -1,7 +1,7 @@
 {
   "number": 232,
-  "questionId": 69677,
-  "questionNumber": "323083",
+  "questionId": "032-0232",
+  "questionNumber": "032-0232",
   "stemHtml": "<p>Refer to figure. <br>Which of the following diagrams correctly shows the change in the position of the power required curve with altitude, given that H<strong><sub>2</sub></strong> is at a greater altitude than H<strong><sub>1</sub></strong>?</p>",
   "options": {
     "a": "Diagram a",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/9E35C093-8FC9-4A70-A3D1-2DE07CACAF9C.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/9E35C093-8FC9-4A70-A3D1-2DE07CACAF9C.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69677,
+    "number": "323083"
+  }
 }

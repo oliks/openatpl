@@ -1,7 +1,7 @@
 {
   "number": 707,
-  "questionId": 84675,
-  "questionNumber": "333494",
+  "questionId": "033-0707",
+  "questionNumber": "033-0707",
   "stemHtml": "A pilot is planning a flight from aerodrome A to aerodrome B using aerodrome C as alternate. The distance from A to B is 120 NM on a true track 090\u00b0 and the distance from B to C is 60 NM on a true track 360\u00b0. If the planned TAS is 120 kt and the forecast wind 330\u00b0/25 kt, the planned flight time from A to B will be (1) _____ and from B to C will be (2) _____.",
   "options": {
     "a": "<p>(1) 73 minutes; (2) 37 minutes</p>\r\n\r\n<p> </p>",
@@ -10,5 +10,10 @@
     "d": "(1) 55 minutes; (2) 37 minutes"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84675,
+    "number": "333494"
+  }
 }

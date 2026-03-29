@@ -1,7 +1,7 @@
 {
   "number": 997,
-  "questionId": 104009,
-  "questionNumber": "218878",
+  "questionId": "021-0997",
+  "questionNumber": "021-0997",
   "stemHtml": "<p>Refer to figure. <br /> \rThe truth table below corresponds to which logic gate?</p>",
   "options": {
     "a": "<p>NOR.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/477b8a1f-067b-4308-b6c7-40b115acd36a.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/477b8a1f-067b-4308-b6c7-40b115acd36a.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104009,
+    "number": "218878"
+  }
 }

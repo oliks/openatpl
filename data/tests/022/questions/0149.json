@@ -1,7 +1,7 @@
 {
   "number": 149,
-  "questionId": 109047,
-  "questionNumber": "227394",
+  "questionId": "022-0149",
+  "questionNumber": "022-0149",
   "stemHtml": "<p>With regards to data transmission speeds (1) _____ is (2) _____ than ACARS</p>",
   "options": {
     "a": "<p>(1) FANS-1/A; (2) faster</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) FANS-2/B; (2) slower</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109047,
+    "number": "227394"
+  }
 }

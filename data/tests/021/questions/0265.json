@@ -1,7 +1,7 @@
 {
   "number": 265,
-  "questionId": 96691,
-  "questionNumber": "217041",
+  "questionId": "021-0265",
+  "questionNumber": "021-0265",
   "stemHtml": "Some gas turbine engines are fitted with an additional secondary gearbox. If a secondary gearbox is present, this usually attached to the...",
   "options": {
     "a": "HP compressor and runs at low speed.",
@@ -10,5 +10,10 @@
     "d": "LP compressor and runs at high speed."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96691,
+    "number": "217041"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 337,
-  "questionId": 70154,
-  "questionNumber": "324430",
+  "questionId": "032-0337",
+  "questionNumber": "032-0337",
   "stemHtml": "<p>During a climb at a constant Indicated Air Speed IAS, the True Air Speed TAS\u2026</p>",
   "options": {
     "a": "increases when switching to climb at a constant Mach number.",
@@ -10,5 +10,10 @@
     "d": "increases, and the aircraft might exceed M<sub>MO</sub>."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70154,
+    "number": "324430"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 2,
-  "questionId": 82750,
-  "questionNumber": "312675",
+  "questionId": "031-0002",
+  "questionNumber": "031-0002",
   "stemHtml": "<p>The loaded mass of an aircraft is 12 400 kg. The aft CG limit is 102 inches aft of the datum. If the CG as loaded is 104.5 inches aft of the datum, how many rows forward must two passengers move from the rear seat row (224 inches aft) to bring the CG on to the aft limit, if the seat pitch is 33 inches? (Assume a passenger mass of 75 kg each)</p>",
   "options": {
     "a": "7 rows",
@@ -10,5 +10,10 @@
     "d": "8 rows"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82750,
+    "number": "312675"
+  }
 }

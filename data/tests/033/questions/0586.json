@@ -1,7 +1,7 @@
 {
   "number": 586,
-  "questionId": 107601,
-  "questionNumber": "336072",
+  "questionId": "033-0586",
+  "questionNumber": "033-0586",
   "stemHtml": "<p>Refer to figures and/or to Air Traffic Control section page GSP-470 from Jeppesen GSPRM 2017. One of the images shows an extract of an ATC Flight Plan as presented in a briefing pack produced by a flight planning program. Decode the text associated with ITEM 16 that is highlighted in red.</p>",
   "options": {
     "a": "<p>ESPA is the departure aerodrome, 6 hours 5 minutes is the endurance, and ESNU is the destination aerodrome.</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/c4e28ada-0353-4b85-8580-bbf788344721.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c4e28ada-0353-4b85-8580-bbf788344721.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107601,
+    "number": "336072"
+  }
 }

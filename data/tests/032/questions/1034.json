@@ -1,7 +1,7 @@
 {
   "number": 1034,
-  "questionId": 70210,
-  "questionNumber": "324371",
+  "questionId": "032-1034",
+  "questionNumber": "032-1034",
   "stemHtml": "<p>For a given flap setting, how do aerodrome pressure altitude and temperature affect the Maximum Quick Turnaround Mass? The Maximum Quick Turnaround Mass is reduced with\u2026</p>",
   "options": {
     "a": "lower pressure altitudes and lower temperatures.",
@@ -10,5 +10,10 @@
     "d": "higher pressure altitudes and higher temperatures."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70210,
+    "number": "324371"
+  }
 }

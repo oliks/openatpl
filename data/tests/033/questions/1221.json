@@ -1,7 +1,7 @@
 {
   "number": 1221,
-  "questionId": 70628,
-  "questionNumber": "331586",
+  "questionId": "033-1221",
+  "questionNumber": "033-1221",
   "stemHtml": "<p>The elevation of the departure airport is 2500 ft. An aircraft has to climb to FL105 with a rate of climb of 750 ft/min. The QNH is 995 hPa. Determine the climb time.</p>",
   "options": {
     "a": "12 min.",
@@ -10,5 +10,10 @@
     "d": "10 min."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70628,
+    "number": "331586"
+  }
 }

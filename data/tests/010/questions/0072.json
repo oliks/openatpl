@@ -1,7 +1,7 @@
 {
   "number": 72,
-  "questionId": 161597,
-  "questionNumber": "103493",
+  "questionId": "010-0072",
+  "questionNumber": "010-0072",
   "stemHtml": "<p>An aircraft establishes communication with the approach control service in order to approach and land to an aerodrome. What should the ATC report to the pilot as early as possible?</p><p>1. Type of approach and runway in use<br>2. Meteorological information<br>3. Correct time<br>4. Runway surface conditions<br>5. Gate assignment<br>6. Changes in operational status of visual and non-visual aids</p>",
   "options": {
     "a": "<p>2, 3, 4, and 6</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 3, 4, and 5</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 161597,
+    "number": "103493"
+  }
 }

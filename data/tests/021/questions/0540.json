@@ -1,7 +1,7 @@
 {
   "number": 540,
-  "questionId": 67674,
-  "questionNumber": "217528",
+  "questionId": "021-0540",
+  "questionNumber": "021-0540",
   "stemHtml": "Refer to figure.  <br />  Which part of the nose landing gear is shown by the number 1?",
   "options": {
     "a": "Retraction actuator.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/CEB7339F-F1F7-4DF6-982B-799D9F778617.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/CEB7339F-F1F7-4DF6-982B-799D9F778617.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67674,
+    "number": "217528"
+  }
 }

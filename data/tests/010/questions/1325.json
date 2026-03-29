@@ -1,7 +1,7 @@
 {
   "number": 1325,
-  "questionId": 83497,
-  "questionNumber": "103819",
+  "questionId": "010-1325",
+  "questionNumber": "010-1325",
   "stemHtml": "<p>An aircraft is cleared to transit a zone at 2000 ft. Who is responsible for terrain separation?</p>",
   "options": {
     "a": "The Pilot-In-Command, unless being radar vectored in IFR.",
@@ -10,5 +10,10 @@
     "d": "The Pilot-In-Command is never responsible when receiving ATS."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83497,
+    "number": "103819"
+  }
 }

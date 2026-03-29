@@ -1,7 +1,7 @@
 {
   "number": 875,
-  "questionId": 82204,
-  "questionNumber": "337364",
+  "questionId": "033-0875",
+  "questionNumber": "033-0875",
   "stemHtml": "<p>Refer to figure. <br /> (For this question use the VFR chart ED-4 from the Jeppesen GSPRM 2017). An aircraft is flying a direct course from Straubing aerodrome (EDMS) (N48\u00b054', E012\u00b031') to Sonnen aerodrome (EDPS) (N48\u00b041', E013\u00b042').</p><p>What is the highest obstacle within 5 NM off the course?</p>",
   "options": {
     "a": "3754 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/FE4DFE96-3BD3-4429-B9EC-A1D02449F21F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/FE4DFE96-3BD3-4429-B9EC-A1D02449F21F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82204,
+    "number": "337364"
+  }
 }

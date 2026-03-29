@@ -1,7 +1,7 @@
 {
   "number": 122,
-  "questionId": 118802,
-  "questionNumber": "108616",
+  "questionId": "010-0122",
+  "questionNumber": "010-0122",
   "stemHtml": "<p>According to SERA (Standardised European Rules of the Air), what are the regulations concerning the use psychoactive substances such as alcohol by flight crew?</p>",
   "options": {
     "a": "<p>SERA doesn\u2019t consider this and it is the operator\u2019s decision.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Flight crew should not be behind the controls when under the influence of psychoactive substances or when human performance is impaired.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 118802,
+    "number": "108616"
+  }
 }

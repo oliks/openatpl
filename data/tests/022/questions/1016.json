@@ -1,7 +1,7 @@
 {
   "number": 1016,
-  "questionId": 68821,
-  "questionNumber": "223765",
+  "questionId": "022-1016",
+  "questionNumber": "022-1016",
   "stemHtml": "<p>The location of the Earth`s magnetic poles\u2026</p>",
   "options": {
     "a": "is the same as the geographical poles.",
@@ -10,5 +10,10 @@
     "d": "is static in time."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68821,
+    "number": "223765"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1495,
-  "questionId": 104464,
-  "questionNumber": "339293",
+  "questionId": "033-1495",
+  "questionNumber": "033-1495",
   "stemHtml": "<p>Refer to figure or Amsterdam- chart 16-2 from Jeppesen GSPRM 2017. <br>Which of the following are approach lights provided for Amsterdam RWY 18C?</p>",
   "options": {
     "a": "<p>HIALS Calvert II</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/c0fede1a-775f-454a-9285-2fb62a08825c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c0fede1a-775f-454a-9285-2fb62a08825c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104464,
+    "number": "339293"
+  }
 }

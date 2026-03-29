@@ -1,7 +1,7 @@
 {
   "number": 714,
-  "questionId": 67272,
-  "questionNumber": "108086",
+  "questionId": "010-0714",
+  "questionNumber": "010-0714",
   "stemHtml": "A sign close to a taxiway, which indicates an ILS critical area, is a/an...",
   "options": {
     "a": "runway-holding position sign.",
@@ -10,5 +10,10 @@
     "d": "<p>no entry sign.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67272,
+    "number": "108086"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1795,
-  "questionId": 67569,
-  "questionNumber": "211846",
+  "questionId": "021-1795",
+  "questionNumber": "021-1795",
   "stemHtml": "Why are two loops used in an engine fire detection system?",
   "options": {
     "a": "It is more energy-efficient to have two parallel loops.",
@@ -10,5 +10,10 @@
     "d": "Two loops reduce electrical resistance in a gas-filled detector."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67569,
+    "number": "211846"
+  }
 }

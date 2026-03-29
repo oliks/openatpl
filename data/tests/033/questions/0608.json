@@ -1,7 +1,7 @@
 {
   "number": 608,
-  "questionId": 111101,
-  "questionNumber": "337557",
+  "questionId": "033-0608",
+  "questionNumber": "033-0608",
   "stemHtml": "<p>Given the following information, determine the correct ICAO VFR cruise level:</p>\r\r<p>Track: 185\u00b0(T) <br /> \rVariation: 5\u00b0W</p>",
   "options": {
     "a": "<p>FL65</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL50</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111101,
+    "number": "337557"
+  }
 }

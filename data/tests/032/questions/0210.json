@@ -1,7 +1,7 @@
 {
   "number": 210,
-  "questionId": 69732,
-  "questionNumber": "326283",
+  "questionId": "032-0210",
+  "questionNumber": "032-0210",
   "stemHtml": "<p>When V<strong><sub>1</sub></strong> has to be reduced because of a wet runway the one engine out obstacle clearance / climb performance\u2026</p>",
   "options": {
     "a": "decreases / decreases",
@@ -10,5 +10,10 @@
     "d": "decreases / remains constant"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69732,
+    "number": "326283"
+  }
 }

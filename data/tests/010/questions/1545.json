@@ -1,7 +1,7 @@
 {
   "number": 1545,
-  "questionId": 77930,
-  "questionNumber": "107468",
+  "questionId": "010-1545",
+  "questionNumber": "010-1545",
   "stemHtml": "When does the pilot change from flight level to altitude?",
   "options": {
     "a": "At the transition altitude.",
@@ -10,5 +10,10 @@
     "d": "Below the transition level."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77930,
+    "number": "107468"
+  }
 }

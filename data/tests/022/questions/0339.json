@@ -1,7 +1,7 @@
 {
   "number": 339,
-  "questionId": 105437,
-  "questionNumber": "223046",
+  "questionId": "022-0339",
+  "questionNumber": "022-0339",
   "stemHtml": "<p>Given:</p><p>P = power. <br>T = torque. n = RPM.</p><p>The correct relationship is\u2026</p>",
   "options": {
     "a": "<p>n = T / P.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>n = T x TAS.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105437,
+    "number": "223046"
+  }
 }

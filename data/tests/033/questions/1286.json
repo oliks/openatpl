@@ -1,7 +1,7 @@
 {
   "number": 1286,
-  "questionId": 163550,
-  "questionNumber": "334753",
+  "questionId": "033-1286",
+  "questionNumber": "033-1286",
   "stemHtml": "<p>Refer to figure.<br>Given the following information about a Commercial Air Transport IFR flight, what is the required Taxi Fuel?</p><p>Company policy: Minimum taxi fuel 60 kg<br>Expected taxi time: 10 min<br>APU: ON for 38 min</p>",
   "options": {
     "a": "<p>131 kg</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/21ea15b7-308b-4786-aede-02cee18f6edf.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/21ea15b7-308b-4786-aede-02cee18f6edf.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163550,
+    "number": "334753"
+  }
 }

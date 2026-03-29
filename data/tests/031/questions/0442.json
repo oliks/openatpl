@@ -1,7 +1,7 @@
 {
   "number": 442,
-  "questionId": 106478,
-  "questionNumber": "311123",
+  "questionId": "031-0442",
+  "questionNumber": "031-0442",
   "stemHtml": "<p>The Maximum Structural Take-Off Mass of an aircraft is 442 235 kg and the Maximum Taxi Mass is 443 613 kg. The taxi time is 32 minutes, while the aircraft consumes fuel at 4320 kg/h. Respecting these limitations, what is the maximum mass that the aircraft is able to take-off at? </p>",
   "options": {
     "a": "<p>442 235 kg</p>",
@@ -10,5 +10,10 @@
     "d": "<p>444 539 kg</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106478,
+    "number": "311123"
+  }
 }

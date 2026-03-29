@@ -1,7 +1,7 @@
 {
   "number": 1070,
-  "questionId": 125509,
-  "questionNumber": "103874",
+  "questionId": "010-1070",
+  "questionNumber": "010-1070",
   "stemHtml": "<p>For a non precision approach with a given OCH, applying operational minima will give which of the following?</p>",
   "options": {
     "a": "<p>Decision height</p>",
@@ -10,5 +10,10 @@
     "d": "<p>MDA</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 125509,
+    "number": "103874"
+  }
 }

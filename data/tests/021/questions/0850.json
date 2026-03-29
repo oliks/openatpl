@@ -1,7 +1,7 @@
 {
   "number": 850,
-  "questionId": 67813,
-  "questionNumber": "219325",
+  "questionId": "021-0850",
+  "questionNumber": "021-0850",
   "stemHtml": "<p>Refer to figure. <br /> \rIn the annex, an axial compressor stage is represented by\u2026</p>",
   "options": {
     "a": "<p>Figure 2.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/0BB91D6A-4745-43B5-A10D-F72F979A1C9F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/0BB91D6A-4745-43B5-A10D-F72F979A1C9F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67813,
+    "number": "219325"
+  }
 }

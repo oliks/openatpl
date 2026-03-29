@@ -1,7 +1,7 @@
 {
   "number": 247,
-  "questionId": 68126,
-  "questionNumber": "217953",
+  "questionId": "021-0247",
+  "questionNumber": "021-0247",
   "stemHtml": "<p>Refer to figure. <br>On the diagram showing the power output of a piston engine as a function of mixture ratio, best economy on lean side of the EGT top is shown at\u2026</p>",
   "options": {
     "a": "point 4.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/87654153-C425-4E82-A356-F46A03AA3C4E.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/87654153-C425-4E82-A356-F46A03AA3C4E.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68126,
+    "number": "217953"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 629,
-  "questionId": 77849,
-  "questionNumber": "328876",
+  "questionId": "032-0629",
+  "questionNumber": "032-0629",
   "stemHtml": "Which factor must be applied, if not stated differently in AFM, for a performance class B aeroplane when taking-off on a runway with 2% upslope?",
   "options": {
     "a": "0.95",
@@ -10,5 +10,10 @@
     "d": "1.10"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77849,
+    "number": "328876"
+  }
 }

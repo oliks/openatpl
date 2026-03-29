@@ -1,7 +1,7 @@
 {
   "number": 758,
-  "questionId": 67125,
-  "questionNumber": "108104",
+  "questionId": "010-0758",
+  "questionNumber": "010-0758",
   "stemHtml": "<p>The colour for a taxiway edge marker shall be\u2026</p>",
   "options": {
     "a": "retroreflective green.",
@@ -10,5 +10,10 @@
     "d": "white or yellow."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67125,
+    "number": "108104"
+  }
 }

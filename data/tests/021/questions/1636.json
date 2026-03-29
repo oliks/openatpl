@@ -1,7 +1,7 @@
 {
   "number": 1636,
-  "questionId": 67830,
-  "questionNumber": "218981",
+  "questionId": "021-1636",
+  "questionNumber": "021-1636",
   "stemHtml": "<p>Integral fuel tanks\u2026</p>",
   "options": {
     "a": "<p>comprise a portion of the aircraft structure, which has been sealed to form a fuel tank.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>is the name given to a group of fuel tanks where several tanks feed a master tank which in turn supplies the engine.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67830,
+    "number": "218981"
+  }
 }

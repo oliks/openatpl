@@ -1,7 +1,7 @@
 {
   "number": 642,
-  "questionId": 107193,
-  "questionNumber": "333175",
+  "questionId": "033-0642",
+  "questionNumber": "033-0642",
   "stemHtml": "<p>Refer to figure. <br>What type of airport is Vilshofen (N48\u00b038.1' E013\u00b011.7') and what kind of obstacle is located to the north-west of the airport?</p>",
   "options": {
     "a": "<p>Mixed military-civil, unlighted obstacle</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/3ea5c045-7ff6-4a08-b141-7572dda0f4d7.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3ea5c045-7ff6-4a08-b141-7572dda0f4d7.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107193,
+    "number": "333175"
+  }
 }

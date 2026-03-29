@@ -1,7 +1,7 @@
 {
   "number": 934,
-  "questionId": 164267,
-  "questionNumber": "216484",
+  "questionId": "021-0934",
+  "questionNumber": "021-0934",
   "stemHtml": "<p>Refer to figure.<br>Based on the provided truth table, identify which digital logic gate corresponding to the table.</p>",
   "options": {
     "a": "<p>AND</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/2857c3eb-9465-45ba-bfba-1f8733b986a6.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/2857c3eb-9465-45ba-bfba-1f8733b986a6.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164267,
+    "number": "216484"
+  }
 }

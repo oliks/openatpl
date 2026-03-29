@@ -1,7 +1,7 @@
 {
   "number": 124,
-  "questionId": 106987,
-  "questionNumber": "317067",
+  "questionId": "031-0124",
+  "questionNumber": "031-0124",
   "stemHtml": "<p>An aircraft has one nose wheel and two main wheels. When at rest on the ground, the single nose wheel load is 285 kg and each main wheel load is 1430 kg. The distance between the nose wheel and the main wheels is 7 feet. What is the position of the Centre of Gravity?</p>",
   "options": {
     "a": "<p>-6.7 ft, which is forward of the mainwheels.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>-7.6 in, which is forward of the mainwheels.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106987,
+    "number": "317067"
+  }
 }

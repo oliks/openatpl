@@ -1,7 +1,7 @@
 {
   "number": 348,
-  "questionId": 82464,
-  "questionNumber": "328452",
+  "questionId": "032-0348",
+  "questionNumber": "032-0348",
   "stemHtml": "When determining the accelerate stop distance for a performance class A aeroplane. The available reverse thrust of the operative engine(s) ...",
   "options": {
     "a": "is taken into account on a wet runway.",
@@ -10,5 +10,10 @@
     "d": "is taken into account on a dry runway."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82464,
+    "number": "328452"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 199,
-  "questionId": 81563,
-  "questionNumber": "334681",
+  "questionId": "033-0199",
+  "questionNumber": "033-0199",
   "stemHtml": "<p>Refer to figure.\u00a0<br>(For this question use VFR chart ED-4 from the Jeppesen GSPRM 2017).\u00a0<br>The track between Regensburg Oberhub aerodrome (EDNR) (N49\u00b0 09', E012\u00b0 05') and Strunkovice aerodrome (LKSR) (N49\u00b0 05', E014\u00b0 05') is 092\u00b0 (T). What is the magnetic track?</p>",
   "options": {
     "a": "<p>086\u00b0 (M)</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/44c9fbbf-c784-45a6-9025-bf19354d1457.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/44c9fbbf-c784-45a6-9025-bf19354d1457.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81563,
+    "number": "334681"
+  }
 }

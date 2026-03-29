@@ -1,7 +1,7 @@
 {
   "number": 771,
-  "questionId": 104372,
-  "questionNumber": "322999",
+  "questionId": "032-0771",
+  "questionNumber": "032-0771",
   "stemHtml": "<p>An aeroplane is descending from FL390 to ground level at maximum speed. The limit(s) in speed is (are)\u2026</p>",
   "options": {
     "a": "<p>M<sub>MO</sub> only during all the descent.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>initially V<sub>MO</sub>, then M<sub>MO</sub> below a given flight level.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104372,
+    "number": "322999"
+  }
 }

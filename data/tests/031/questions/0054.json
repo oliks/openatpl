@@ -1,7 +1,7 @@
 {
   "number": 54,
-  "questionId": 79077,
-  "questionNumber": "318673",
+  "questionId": "031-0054",
+  "questionNumber": "031-0054",
   "stemHtml": "<p>Fuel is moved from the wing tanks to the horizontal stabilizer of an aircraft. Which change in aircraft characteristics can be expected?</p>",
   "options": {
     "a": "<p>With the aft CG movement, the total drag increases.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Longitudinal stability decreases with the forward CG movement.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79077,
+    "number": "318673"
+  }
 }

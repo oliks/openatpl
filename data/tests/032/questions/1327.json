@@ -1,7 +1,7 @@
 {
   "number": 1327,
-  "questionId": 70121,
-  "questionNumber": "323644",
+  "questionId": "032-1327",
+  "questionNumber": "032-1327",
   "stemHtml": "<p>Requirements for the third segment of climb are\u2026</p>",
   "options": {
     "a": "legal minimum altitude for acceleration is 1500",
@@ -10,5 +10,10 @@
     "d": "level acceleration with available min. climb gradient of 1.2%"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70121,
+    "number": "323644"
+  }
 }

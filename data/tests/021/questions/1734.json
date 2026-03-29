@@ -1,7 +1,7 @@
 {
   "number": 1734,
-  "questionId": 68345,
-  "questionNumber": "213753",
+  "questionId": "021-1734",
+  "questionNumber": "021-1734",
   "stemHtml": "An aeroplane equipped with irreversible flight controls:",
   "options": {
     "a": "requires an artificial feel system.",
@@ -10,5 +10,10 @@
     "d": "is flown without an artificial feel system."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68345,
+    "number": "213753"
+  }
 }

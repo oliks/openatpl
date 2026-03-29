@@ -1,7 +1,7 @@
 {
   "number": 1130,
-  "questionId": 152476,
-  "questionNumber": "108588",
+  "questionId": "010-1130",
+  "questionNumber": "010-1130",
   "stemHtml": "<p>Refer to figure.      <br />      What does the marshalling signal indicate?</p>",
   "options": {
     "a": "<p>Stand by.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/934906ab-4757-4410-b992-c88a6cf30bea.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/934906ab-4757-4410-b992-c88a6cf30bea.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 152476,
+    "number": "108588"
+  }
 }

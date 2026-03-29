@@ -1,7 +1,7 @@
 {
   "number": 1762,
-  "questionId": 67435,
-  "questionNumber": "219023",
+  "questionId": "021-1762",
+  "questionNumber": "021-1762",
   "stemHtml": "One of the causes of high oil temperature in a gas turbine engine at constant power setting is:",
   "options": {
     "a": "high oil pressure.",
@@ -10,5 +10,10 @@
     "d": "high outside air temperature."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67435,
+    "number": "219023"
+  }
 }

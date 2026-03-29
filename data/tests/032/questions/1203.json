@@ -1,7 +1,7 @@
 {
   "number": 1203,
-  "questionId": 103600,
-  "questionNumber": "321879",
+  "questionId": "032-1203",
+  "questionNumber": "032-1203",
   "stemHtml": "<p>Why are step climbs used?</p>",
   "options": {
     "a": "<p>To fly close to the optimum altitude to improve range.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>To fly higher altitudes with stronger wind to improve range.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103600,
+    "number": "321879"
+  }
 }

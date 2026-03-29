@@ -1,7 +1,7 @@
 {
   "number": 977,
-  "questionId": 105975,
-  "questionNumber": "214363",
+  "questionId": "021-0977",
+  "questionNumber": "021-0977",
   "stemHtml": "<p>What indication would occur in the cabin with a leak in one of the bleed air ducts?</p>",
   "options": {
     "a": "<p>The indicator light of a bleed duct leak comes on.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The cabin pressure decreases rapidly.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105975,
+    "number": "214363"
+  }
 }

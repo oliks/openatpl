@@ -1,7 +1,7 @@
 {
   "number": 1329,
-  "questionId": 83021,
-  "questionNumber": "104005",
+  "questionId": "010-1329",
+  "questionNumber": "010-1329",
   "stemHtml": "<p>When the flight crew is not familiar with the instrument approach procedure being carried out, what should ATC provide them?</p>",
   "options": {
     "a": "<p>The standard arrival route.</p>",
@@ -10,5 +10,10 @@
     "d": "The decision altitude."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83021,
+    "number": "104005"
+  }
 }

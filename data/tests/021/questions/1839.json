@@ -1,7 +1,7 @@
 {
   "number": 1839,
-  "questionId": 68365,
-  "questionNumber": "215656",
+  "questionId": "021-1839",
+  "questionNumber": "021-1839",
   "stemHtml": "Which of these statements about oxygen in transport aeroplanes is correct?<br>",
   "options": {
     "a": "If the automatic passenger oxygen mask presentation fails, there is no manual backup.<br>",
@@ -10,5 +10,10 @@
     "d": "A chemical oxygen generator cannot be switched off.<br>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68365,
+    "number": "215656"
+  }
 }

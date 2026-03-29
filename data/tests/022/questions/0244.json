@@ -1,7 +1,7 @@
 {
   "number": 244,
-  "questionId": 66495,
-  "questionNumber": "222100",
+  "questionId": "022-0244",
+  "questionNumber": "022-0244",
   "stemHtml": "<p>Deviation on the standby compass is\u2026</p>",
   "options": {
     "a": "zero on the magnetic Equator.",
@@ -10,5 +10,10 @@
     "d": "independent of the latitude of the aircraft\u2019s position."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66495,
+    "number": "222100"
+  }
 }

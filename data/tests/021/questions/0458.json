@@ -1,7 +1,7 @@
 {
   "number": 458,
-  "questionId": 68139,
-  "questionNumber": "215047",
+  "questionId": "021-0458",
+  "questionNumber": "021-0458",
   "stemHtml": "What is the common operating pressure of the hydraulic system on most large transport aeroplanes?",
   "options": {
     "a": "4000 psi",
@@ -10,5 +10,10 @@
     "d": "1500 psi"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68139,
+    "number": "215047"
+  }
 }

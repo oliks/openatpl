@@ -1,7 +1,7 @@
 {
   "number": 1273,
-  "questionId": 100323,
-  "questionNumber": "221336",
+  "questionId": "022-1273",
+  "questionNumber": "022-1273",
   "stemHtml": "What are the benefits of using a Head-Up Display (HUD) in the flight deck?",
   "options": {
     "a": "Enhances passenger comfort and reduces cockpit workload.",
@@ -10,5 +10,10 @@
     "d": "Provides an indication of the runway position and displays autopilot modes."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100323,
+    "number": "221336"
+  }
 }

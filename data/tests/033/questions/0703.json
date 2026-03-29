@@ -1,7 +1,7 @@
 {
   "number": 703,
-  "questionId": 83149,
-  "questionNumber": "332760",
+  "questionId": "033-0703",
+  "questionNumber": "033-0703",
   "stemHtml": "<p>Refer to figure or Stuttgart 12-2 chart from Jeppesen GSPRM 2017.<br>If you carry out an RNP approach to runway 25 at Stuttgart airport, what will be the distance covered from the Initial Approach Fix (IAF) to the Rwy 25 threshold?</p>",
   "options": {
     "a": "20.4 NM",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/1604466E-E5AE-4E02-896E-34715472F447.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1604466E-E5AE-4E02-896E-34715472F447.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83149,
+    "number": "332760"
+  }
 }

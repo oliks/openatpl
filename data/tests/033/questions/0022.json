@@ -1,7 +1,7 @@
 {
   "number": 22,
-  "questionId": 70903,
-  "questionNumber": "335592",
+  "questionId": "033-0022",
+  "questionNumber": "033-0022",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017.\u00a0<br>What is the elevation of the highest obstacle on the chart?</p>",
   "options": {
     "a": "<p>864 ft</p>",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/9CC677F3-AD4A-4BE1-8602-F98327E7FC2F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9CC677F3-AD4A-4BE1-8602-F98327E7FC2F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70903,
+    "number": "335592"
+  }
 }

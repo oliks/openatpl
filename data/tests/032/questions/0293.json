@@ -1,7 +1,7 @@
 {
   "number": 293,
-  "questionId": 81292,
-  "questionNumber": "321183",
+  "questionId": "032-0293",
+  "questionNumber": "032-0293",
   "stemHtml": "<p dir=\"ltr\">From the following statements, what is correct about using step climbs?</p>",
   "options": {
     "a": "<p dir=\"ltr\">Performing a step climb based on economy can be limited by the 1.3 g buffet onset.</p>",
@@ -10,5 +10,10 @@
     "d": "Step climbs increase efficiency for turboprops but NOT for turbofan aeroplanes."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81292,
+    "number": "321183"
+  }
 }

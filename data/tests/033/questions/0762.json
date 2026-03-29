@@ -1,7 +1,7 @@
 {
   "number": 762,
-  "questionId": 84700,
-  "questionNumber": "335278",
+  "questionId": "033-0762",
+  "questionNumber": "033-0762",
   "stemHtml": "<p>Which one of the following is a type B approach?</p><p>1. GNSS 3D with GBAS<br>2. GNSS 3D with ABAS only<br>3. GNSS LNAV with GBAS<br>4. GNSS LNAV with ABAS only</p>",
   "options": {
     "a": "<p>1 and 2.</p>",
@@ -10,5 +10,10 @@
     "d": "3 and 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84700,
+    "number": "335278"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 383,
-  "questionId": 70623,
-  "questionNumber": "336318",
+  "questionId": "033-0383",
+  "questionNumber": "033-0383",
   "stemHtml": "<p>Given:</p><p>FL370 <br>M = 0.74 <br>OAT = -47\u00b0 C</p><p>The TAS is\u2026</p>",
   "options": {
     "a": "424 kt.",
@@ -10,5 +10,10 @@
     "d": "428 kt."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70623,
+    "number": "336318"
+  }
 }

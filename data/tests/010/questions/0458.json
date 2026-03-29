@@ -1,7 +1,7 @@
 {
   "number": 458,
-  "questionId": 78330,
-  "questionNumber": "105890",
+  "questionId": "010-0458",
+  "questionNumber": "010-0458",
   "stemHtml": "<p>An Implementing Rule (IR) developed by EASA and adopted by the European Commission is considered a\u2026</p>",
   "options": {
     "a": "Acceptable Means of Compliance.",
@@ -10,5 +10,10 @@
     "d": "Certification Specification."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78330,
+    "number": "105890"
+  }
 }

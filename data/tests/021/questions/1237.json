@@ -1,7 +1,7 @@
 {
   "number": 1237,
-  "questionId": 106576,
-  "questionNumber": "212560",
+  "questionId": "021-1237",
+  "questionNumber": "021-1237",
   "stemHtml": "<p>Vapour lock can occur when the pressure in the fuel system is (1) _____, which allows fuel to (2) _____, forming a bubble which (3) _____ the flow of fuel through the lines.</p>",
   "options": {
     "a": "<p>(1) high; (2) boil; (3) accelerates</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) low; (2) boil; (3) blocks</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106576,
+    "number": "212560"
+  }
 }

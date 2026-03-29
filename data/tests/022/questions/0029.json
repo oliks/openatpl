@@ -1,7 +1,7 @@
 {
   "number": 29,
-  "questionId": 81418,
-  "questionNumber": "229148",
+  "questionId": "022-0029",
+  "questionNumber": "022-0029",
   "stemHtml": "<p>During a CAT III approach with NO decision height, you have passed the Alert Height, with NO visual references, when the ILS signal is lost. All other systems are working normally. As Co-Pilot and Pilot Monitoring (PM), you should\u2026</p>",
   "options": {
     "a": "<p dir=\"ltr\">Call \u2018\u2019Check FMA\u2019\u2019.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Wait for the Commander to decide whether to continue or Go-Around.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81418,
+    "number": "229148"
+  }
 }

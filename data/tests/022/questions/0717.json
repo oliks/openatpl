@@ -1,7 +1,7 @@
 {
   "number": 717,
-  "questionId": 69011,
-  "questionNumber": "224905",
+  "questionId": "022-0717",
+  "questionNumber": "022-0717",
   "stemHtml": "<p>In a yaw damper system, sensing of a disturbance in yaw is usually provided by\u2026</p>",
   "options": {
     "a": "the measure of the rudder movements.",
@@ -10,5 +10,10 @@
     "d": "the measure of the ailerons movements."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69011,
+    "number": "224905"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 451,
-  "questionId": 68471,
-  "questionNumber": "226090",
+  "questionId": "022-0451",
+  "questionNumber": "022-0451",
   "stemHtml": "Due to its conception, the altimeter measures a:",
   "options": {
     "a": "density altitude.",
@@ -10,5 +10,10 @@
     "d": "pressure altitude."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68471,
+    "number": "226090"
+  }
 }

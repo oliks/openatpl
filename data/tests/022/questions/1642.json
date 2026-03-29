@@ -1,7 +1,7 @@
 {
   "number": 1642,
-  "questionId": 68562,
-  "questionNumber": "222116",
+  "questionId": "022-1642",
+  "questionNumber": "022-1642",
   "stemHtml": "<p>The stall warning computer uses the following data:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 mass of the aeroplane</span> <br /> \n2 \u2013 angle of attack <br /> \n3 \u2013 wing flap deflection <br /> \n4 \u2013 position of the landing gear <br /> \n5 \u2013 TAT <br /> \n6 \u2013 pressure altitude</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "1, 2, 3, 4, 5, 6.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 3, 4."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68562,
+    "number": "222116"
+  }
 }

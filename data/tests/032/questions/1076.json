@@ -1,7 +1,7 @@
 {
   "number": 1076,
-  "questionId": 70144,
-  "questionNumber": "327786",
+  "questionId": "032-1076",
+  "questionNumber": "032-1076",
   "stemHtml": "<p>Select the correct statement with regard to the effect on the ground roll distance if the flap-angle setting is increased from 5\u00b0 to 10\u00b0. The ground roll distance is\u2026</p>",
   "options": {
     "a": "increased due to the increased drag, which increases the stalling speed and the required take-off speed.",
@@ -10,5 +10,10 @@
     "d": "increased due to the reduced lift, which increases the stalling speed and the required take-off speed."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70144,
+    "number": "327786"
+  }
 }

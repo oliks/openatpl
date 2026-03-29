@@ -1,7 +1,7 @@
 {
   "number": 894,
-  "questionId": 83627,
-  "questionNumber": "214636",
+  "questionId": "021-0894",
+  "questionNumber": "021-0894",
   "stemHtml": "<p>Find the density altitude of the following scenario.</p><p>Pressure altitude: 4500 ft <br>Altitude: 5000 ft <br>Outside Air Temperature (OAT): -16\u00b0C</p>",
   "options": {
     "a": "<p>1860 ft</p>",
@@ -10,5 +10,10 @@
     "d": "5700 ft"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83627,
+    "number": "214636"
+  }
 }

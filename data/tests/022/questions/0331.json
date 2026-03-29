@@ -1,7 +1,7 @@
 {
   "number": 331,
-  "questionId": 84893,
-  "questionNumber": "229725",
+  "questionId": "022-0331",
+  "questionNumber": "022-0331",
   "stemHtml": "<p>Angle of attack vane is damaged during the flight. Which of the following will be directly impacted?</p>",
   "options": {
     "a": "ADC",
@@ -10,5 +10,10 @@
     "d": "CDU"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84893,
+    "number": "229725"
+  }
 }

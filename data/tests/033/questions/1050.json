@@ -1,7 +1,7 @@
 {
   "number": 1050,
-  "questionId": 70387,
-  "questionNumber": "339622",
+  "questionId": "033-1050",
+  "questionNumber": "033-1050",
   "stemHtml": "<p>An airway is marked FL80 1500a. This indicates that\u2026</p>",
   "options": {
     "a": "the minimum enroute altitude (MEA) is FL80.",
@@ -10,5 +10,10 @@
     "d": "1500 ft MSL is the minimum radio reception altitude (MRA)."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70387,
+    "number": "339622"
+  }
 }

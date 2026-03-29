@@ -1,7 +1,7 @@
 {
   "number": 1337,
-  "questionId": 82544,
-  "questionNumber": "321539",
+  "questionId": "032-1337",
+  "questionNumber": "032-1337",
   "stemHtml": "Your route of the day is London-Paris-London in a performance class B aeroplane. During your approach into London, the QNH has reduced considerably since your earlier departure, with a small increase in temperature. You expect your aircrafts performance to (1) _____ as the landing distance required will (2) _____ and the missed approach climb gradient will (3) _____.",
   "options": {
     "a": "(1) increase; (2) reduce; (3) increase",
@@ -10,5 +10,10 @@
     "d": "(1) reduce; (2) increase; (3) increase"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82544,
+    "number": "321539"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 831,
-  "questionId": 81561,
-  "questionNumber": "333091",
+  "questionId": "033-0831",
+  "questionNumber": "033-0831",
   "stemHtml": "<p style=\"\">During the planning stage of a flight to Paris Charles de Gaulle Airport, France you note the following NOTAM. What is the time period when GNSS is unavailable?</p><p style=\"\">Q) LFFF/QGWAU/I/BO/AE/000/999/4901N00232E250 <br /> A) LFPG B) 1910061815 C) 1910062315 <br /> E) BASIC GNSS UNAVBL SBAS UNAVBL GBAS UNAVBL</p>",
   "options": {
     "a": "10 June from 18:15 UTC to 23:15 UTC",
@@ -10,5 +10,10 @@
     "d": "<p>19 October from 18:15 UTC to 23:15 UTC</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81561,
+    "number": "333091"
+  }
 }

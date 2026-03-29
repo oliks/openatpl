@@ -1,7 +1,7 @@
 {
   "number": 205,
-  "questionId": 83438,
-  "questionNumber": "321859",
+  "questionId": "032-0205",
+  "questionNumber": "032-0205",
   "stemHtml": "<p>Refer to figure or CAP files 3.1.<br />\r\nGiven the following information for a multi-engine piston aeroplane, what are the ground roll and take-off distances?</p>\r\nOAT: +15\u00b0C<br />\r\nPressure Altitude: 0 ft<br />\r\nTake-Off Mass: 3760 lb<br />\r\nWind: 5 kt headwind",
   "options": {
     "a": "Ground Roll: 1350 ft; Take-Off Distance: 1650 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/5616E603-7F13-43F4-AB80-2FF1A2036692.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/5616E603-7F13-43F4-AB80-2FF1A2036692.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83438,
+    "number": "321859"
+  }
 }

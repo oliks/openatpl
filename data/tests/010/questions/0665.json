@@ -1,7 +1,7 @@
 {
   "number": 665,
-  "questionId": 164474,
-  "questionNumber": "105208",
+  "questionId": "010-0665",
+  "questionNumber": "010-0665",
   "stemHtml": "<p>If an aircraft is dumping fuel, what is the separation that should be provided to other aircraft by ATC?</p>",
   "options": {
     "a": "<p>5 NM laterally.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>No special separation is required if above 10 000 ft.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164474,
+    "number": "105208"
+  }
 }

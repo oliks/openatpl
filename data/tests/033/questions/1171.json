@@ -1,7 +1,7 @@
 {
   "number": 1171,
-  "questionId": 70914,
-  "questionNumber": "336534",
+  "questionId": "033-1171",
+  "questionNumber": "033-1171",
   "stemHtml": "<p>An IFR flight with a jet from departure A to destination B applying the decision point procedure (DPP) is planned with a decision point DP and en-route alternate C.How much fuel has to be carried given the following information?</p><p>Distance A to B: 2300 NM <br>Distance A to C: 1300 NM <br>Distance A to DP: 850 NM <br>TAS: 470 kt <br>TWC: 32 kt <br>Fuel flow: 2600 kg/h</p>",
   "options": {
     "a": "<p>7070 kg</p>",
@@ -10,5 +10,10 @@
     "d": "14 239 kg"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70914,
+    "number": "336534"
+  }
 }

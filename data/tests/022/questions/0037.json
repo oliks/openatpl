@@ -1,7 +1,7 @@
 {
   "number": 37,
-  "questionId": 100418,
-  "questionNumber": "222956",
+  "questionId": "022-0037",
+  "questionNumber": "022-0037",
   "stemHtml": "<p>Refer to figure.       <br />      An aircraft is in the cruise with the flight director (FD) on and autopilot engaged. The pilot makes selections for the automatic flight control system (AFCS) to descend the aircraft to an altitude of 11 000 feet (FL110) with a V/S of 600 fpm. Which of the following statements is correct?</p>",
   "options": {
     "a": "The FD and the autopilot have different modes and control panels. The FD can only be used when flying manually.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/26ff5de5-2fa7-4212-9a38-45483bcddc97.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/26ff5de5-2fa7-4212-9a38-45483bcddc97.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100418,
+    "number": "222956"
+  }
 }

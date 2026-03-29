@@ -1,7 +1,7 @@
 {
   "number": 494,
-  "questionId": 84306,
-  "questionNumber": "316602",
+  "questionId": "031-0494",
+  "questionNumber": "031-0494",
   "stemHtml": "<p>Refer to figure. <br /> \rCalculate the CG position at Basic Empty Mass of the twin-engined piston aeroplane as shown in the load sheet.</p>",
   "options": {
     "a": "<p>3.19 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/4694E78B-BBC9-4B7C-B672-6267C1B945F5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/4694E78B-BBC9-4B7C-B672-6267C1B945F5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84306,
+    "number": "316602"
+  }
 }

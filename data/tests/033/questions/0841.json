@@ -1,7 +1,7 @@
 {
   "number": 841,
-  "questionId": 107176,
-  "questionNumber": "336691",
+  "questionId": "033-0841",
+  "questionNumber": "033-0841",
   "stemHtml": "<p>Refer to figure or Norway, Tromso Chart 11-1 from the Jeppesen GSPRM 2017. <br /> \rWhat is the minimum visibility for an approach category A aircraft, when approaching to Tromso airport following ILS Rwy 01 approach procedure with the airport's PAPI lights inoperative?</p>",
   "options": {
     "a": "<p>RVR 800 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/62e4e7e2-31dd-476c-9237-1e2ee388497e.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/62e4e7e2-31dd-476c-9237-1e2ee388497e.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107176,
+    "number": "336691"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1555,
-  "questionId": 80066,
-  "questionNumber": "104618",
+  "questionId": "010-1555",
+  "questionNumber": "010-1555",
   "stemHtml": "<p>From the following options, select an Air Traffic reportable incident.</p>",
   "options": {
     "a": "Mechanical damage while taxiing.",
@@ -10,5 +10,10 @@
     "d": "Reduction in separation leading to an Airprox."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80066,
+    "number": "104618"
+  }
 }

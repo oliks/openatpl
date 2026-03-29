@@ -1,7 +1,7 @@
 {
   "number": 45,
-  "questionId": 67355,
-  "questionNumber": "212650",
+  "questionId": "021-0045",
+  "questionNumber": "021-0045",
   "stemHtml": "<p>In a gas turbine engine, the power changes are normally made by controlling the amount of\u2026</p>",
   "options": {
     "a": "air leaving the compressor by the opening or closing of bleed valves.",
@@ -10,5 +10,10 @@
     "d": "fuel supplied."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67355,
+    "number": "212650"
+  }
 }

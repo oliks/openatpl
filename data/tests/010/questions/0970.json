@@ -1,7 +1,7 @@
 {
   "number": 970,
-  "questionId": 82507,
-  "questionNumber": "105614",
+  "questionId": "010-0970",
+  "questionNumber": "010-0970",
   "stemHtml": "<p>In which of the AIP sub-parts is Air Traffic Services Airspace (TMA, CTR, UIR, FIR, CTA) found?</p>",
   "options": {
     "a": "<p>ENR</p>",
@@ -10,5 +10,10 @@
     "d": "AD"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82507,
+    "number": "105614"
+  }
 }

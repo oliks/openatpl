@@ -1,7 +1,7 @@
 {
   "number": 870,
-  "questionId": 70764,
-  "questionNumber": "337838",
+  "questionId": "033-0870",
+  "questionNumber": "033-0870",
   "stemHtml": "<p>Refer to figure or Flight Planning Manual MEP1 Figure 3.1). <br /> A multi engine piston aeroplane is departing an aerodrome with an altitude of 3000 ft and temperature of -1\u00b0C. Calculate the fuel to climb to FL110, where the temperature is ISA -10\u00b0 C, with mixture rich.</p>",
   "options": {
     "a": "12 US gallon",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D5C847E8-B593-4B05-A716-B9FA747AAAFC.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D5C847E8-B593-4B05-A716-B9FA747AAAFC.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70764,
+    "number": "337838"
+  }
 }

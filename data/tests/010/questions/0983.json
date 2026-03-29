@@ -1,7 +1,7 @@
 {
   "number": 983,
-  "questionId": 104542,
-  "questionNumber": "105821",
+  "questionId": "010-0983",
+  "questionNumber": "010-0983",
   "stemHtml": "<p>A malfunctioning lock on the lavatory is to be reported as...</p>",
   "options": {
     "a": "<p>Mandatory Reporting.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Incident Reporting.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 104542,
+    "number": "105821"
+  }
 }

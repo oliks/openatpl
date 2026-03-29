@@ -1,7 +1,7 @@
 {
   "number": 1816,
-  "questionId": 67282,
-  "questionNumber": "104842",
+  "questionId": "010-1816",
+  "questionNumber": "010-1816",
   "stemHtml": "<p>An IFR flight is cruising at 13 000 ft. The transition altitude in the region is currently 18 000 ft. When ATC requests the vertical position of the aircraft, what should it be reported as?</p>",
   "options": {
     "a": "Altitude.",
@@ -10,5 +10,10 @@
     "d": "Flight Level."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67282,
+    "number": "104842"
+  }
 }

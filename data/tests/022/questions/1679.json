@@ -1,7 +1,7 @@
 {
   "number": 1679,
-  "questionId": 80836,
-  "questionNumber": "224893",
+  "questionId": "022-1679",
+  "questionNumber": "022-1679",
   "stemHtml": "<p>An aircraft, flying at 20\u00b0N latitude, executes a left turn from 045\u00b0 Magnetic Heading (MH) to 315\u00b0 (MH). The pilot reads the MH indication from a Direct Reading Magnetic Compass (DRMC). Before commencing the turn, what should the pilot take into consideration?</p><p>1. He/she should roll out when the DRMC reads 335\u00b0, to read 315\u00b0 MH with the wings level<br>2. He/she should roll out when the DRMC reads 295\u00b0, to read 315\u00b0 MH with the wings level<br>3. The turning error of the DRMC increases as the bank angle increases<br>4. A timed turn would be more practical to execute; it would take 30 seconds with a rate-1 turn<br>5. A timed turn would be more practical to execute; it would take 90 seconds with a rate-1 turn</p>",
   "options": {
     "a": "<p>1, 3 and 4.</p>",
@@ -10,5 +10,10 @@
     "d": "2, 3 and 5."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80836,
+    "number": "224893"
+  }
 }

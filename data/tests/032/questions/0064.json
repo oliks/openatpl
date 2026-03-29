@@ -1,7 +1,7 @@
 {
   "number": 64,
-  "questionId": 70114,
-  "questionNumber": "328943",
+  "questionId": "032-0064",
+  "questionNumber": "032-0064",
   "stemHtml": "How does a downslope runway affect the take off and landing performance of an aeroplane? It&hellip;",
   "options": {
     "a": "decreases the take off distance, and increases the landing distance.",
@@ -10,5 +10,10 @@
     "d": "increases both the take off distance and the landing distance."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70114,
+    "number": "328943"
+  }
 }

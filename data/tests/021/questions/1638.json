@@ -1,7 +1,7 @@
 {
   "number": 1638,
-  "questionId": 67926,
-  "questionNumber": "215036",
+  "questionId": "021-1638",
+  "questionNumber": "021-1638",
   "stemHtml": "<p>In flight, the cabin air for large jet transport aeroplanes is usually supplied by...</p>",
   "options": {
     "a": "<p>single radial compressors.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>piston compressors.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67926,
+    "number": "215036"
+  }
 }

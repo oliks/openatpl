@@ -1,7 +1,7 @@
 {
   "number": 1016,
-  "questionId": 66999,
-  "questionNumber": "101951",
+  "questionId": "010-1016",
+  "questionNumber": "010-1016",
   "stemHtml": "<p>What is the minimum non-radar separation between a light or medium aircraft and a heavy aircraft taking off on parallel runways separated by less than 760 m (2500 ft)?</p>",
   "options": {
     "a": "<p>1 minute.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 minutes.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66999,
+    "number": "101951"
+  }
 }

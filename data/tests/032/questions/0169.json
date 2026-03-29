@@ -1,7 +1,7 @@
 {
   "number": 169,
-  "questionId": 69701,
-  "questionNumber": "324683",
+  "questionId": "032-0169",
+  "questionNumber": "032-0169",
   "stemHtml": "<p>The following parameters affect the take-off ground run:</p><p>1.decreasing take-off mass <br>2.increasing take-off mass <br>3.increasing density <br>4.decreasing density <br>5.increasing flap setting <br>6.decreasing flap setting <br>7.increasing pressure altitude <br>8.decreasing pressure altitude</p><p>Which parameters will decrease the take-off ground run?</p>",
   "options": {
     "a": "2, 4, 5 and 7",
@@ -10,5 +10,10 @@
     "d": "1, 4, 6 and 8"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69701,
+    "number": "324683"
+  }
 }

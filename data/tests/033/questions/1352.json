@@ -1,7 +1,7 @@
 {
   "number": 1352,
-  "questionId": 77887,
-  "questionNumber": "333450",
+  "questionId": "033-1352",
+  "questionNumber": "033-1352",
   "stemHtml": "<p>Refer to figure.<br />\r\nAn aircraft is flying a commercial air transport route and making fuel checks at positions TESGA and BABIT. Referring to the data from these checks, what is the total fuel consumption from TESGA to BABIT and the average fuel flow (FF)?</p>\r\n",
   "options": {
     "a": "3.3 t and 3140 kg/h.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/1948FE16-4F37-4065-ACE2-C07AA84B38B5.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1948FE16-4F37-4065-ACE2-C07AA84B38B5.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77887,
+    "number": "333450"
+  }
 }

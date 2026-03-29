@@ -1,7 +1,7 @@
 {
   "number": 289,
-  "questionId": 69785,
-  "questionNumber": "328954",
+  "questionId": "032-0289",
+  "questionNumber": "032-0289",
   "stemHtml": "<p>On the Power versus TAS graph for level flight, the point at which a tangent from the origin touches the power required curve\u2026</p>",
   "options": {
     "a": "is the point where the Lift to Drag ratio is a maximum.",
@@ -10,5 +10,10 @@
     "d": "is the maximum drag speed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69785,
+    "number": "328954"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 112,
-  "questionId": 67229,
-  "questionNumber": "109604",
+  "questionId": "010-0112",
+  "questionNumber": "010-0112",
   "stemHtml": "<p>The \"Aerodrome Reference Code\" is a code composed of two elements, which are related to the aeroplane performance characteristics and dimensions...</p>",
   "options": {
     "a": "<p>The first element is a code letter related to the maximum aeroplane wing span or maximum outer main gear wheel span. The second element is a code number related to the reference field length.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The first element is a code number related to the aeroplane reference field length. The second element is a code letter related to the maximum wing span.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67229,
+    "number": "109604"
+  }
 }

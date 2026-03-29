@@ -1,7 +1,7 @@
 {
   "number": 119,
-  "questionId": 69585,
-  "questionNumber": "313073",
+  "questionId": "031-0119",
+  "questionNumber": "031-0119",
   "stemHtml": "<p>Refer to figure. <br>For the medium range twin jet the datum point is located\u2026</p>",
   "options": {
     "a": "on the nose of the aeroplane.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/AF6CDEF7-BAA4-42F7-B9D1-81505A04EEB7.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/AF6CDEF7-BAA4-42F7-B9D1-81505A04EEB7.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69585,
+    "number": "313073"
+  }
 }

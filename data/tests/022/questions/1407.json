@@ -1,7 +1,7 @@
 {
   "number": 1407,
-  "questionId": 109120,
-  "questionNumber": "227807",
+  "questionId": "022-1407",
+  "questionNumber": "022-1407",
   "stemHtml": "<p>A Fly-By-Wire (FBW) is operating in normal law. Damage to the AoA vanes results in incorrect AoA readings. What components of the flight envelope protection system are affected?</p>",
   "options": {
     "a": "<p>Pitch attitude (high)</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Load factor</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109120,
+    "number": "227807"
+  }
 }

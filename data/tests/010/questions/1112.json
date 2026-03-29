@@ -1,7 +1,7 @@
 {
   "number": 1112,
-  "questionId": 80260,
-  "questionNumber": "103462",
+  "questionId": "010-1112",
+  "questionNumber": "010-1112",
   "stemHtml": "According to ICAO Annex 14, the intent of the aerodrome reference code is to provide a simple method for interrelating aerodrome characteristics, so as to provide aerodrome facilities suitable for the aeroplanes intended to operate at the aerodrome, in terms of the...",
   "options": {
     "a": "Number of runways and aeroplane reference field length.",
@@ -10,5 +10,10 @@
     "d": "Runway length and minimum taxiway width."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80260,
+    "number": "103462"
+  }
 }

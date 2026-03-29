@@ -1,7 +1,7 @@
 {
   "number": 579,
-  "questionId": 80339,
-  "questionNumber": "327031",
+  "questionId": "032-0579",
+  "questionNumber": "032-0579",
   "stemHtml": "In the event of a planned track change of more than 15\u00b0 in the NTOFP, what is the maximum bank angle allowed and obstacle clearance height requirement?",
   "options": {
     "a": "Maximum bank angle 15\u00b0 with a vertical obstacle clearance height of 35 ft with reference to net path.",
@@ -10,5 +10,10 @@
     "d": "Maximum bank angle 25\u00b0 with a vertical obstacle clearance height of 50 ft with reference to net path."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80339,
+    "number": "327031"
+  }
 }

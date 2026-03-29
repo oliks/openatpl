@@ -1,7 +1,7 @@
 {
   "number": 301,
-  "questionId": 107612,
-  "questionNumber": "329388",
+  "questionId": "032-0301",
+  "questionNumber": "032-0301",
   "stemHtml": "<p>A single-engined piston aeroplane is flying at an altitude of 9000 ft. Given the following information, if the engine fails at this altitude, what should be the expected net glide ground distance with an elevation of 250 ft?</p><p>L/D: 9.1:1 <br>TAS: 140 kt <br>Headwind: 23 kt <br>Assume 1 NM = 6080 ft</p><p>Still Air Distance = (Height difference / Net gradients) x 100 <br>Ground Distance = Still Air Distance x (GS / TAS)</p>",
   "options": {
     "a": "<p>10.45 NM</p>",
@@ -10,5 +10,10 @@
     "d": "<p>10.87 NM</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107612,
+    "number": "329388"
+  }
 }

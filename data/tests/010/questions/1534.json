@@ -1,7 +1,7 @@
 {
   "number": 1534,
-  "questionId": 101801,
-  "questionNumber": "109302",
+  "questionId": "010-1534",
+  "questionNumber": "010-1534",
   "stemHtml": "<p>A multi-engined aircraft has a badly damaged engine. The aircraft lands safely. What is this occurrence classified as?</p>",
   "options": {
     "a": "<p>Accident</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Serious accident</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 101801,
+    "number": "109302"
+  }
 }

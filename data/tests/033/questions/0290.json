@@ -1,7 +1,7 @@
 {
   "number": 290,
-  "questionId": 70881,
-  "questionNumber": "336436",
+  "questionId": "033-0290",
+  "questionNumber": "033-0290",
   "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017.\u00a0<br>Find the the frequency of the Linz ATIS. (Linz aerodrome: N48\u00b015\u2019 E014\u00b011\u2019)</p>",
   "options": {
     "a": "129.62 MHz",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/87C0BBCA-17CA-4420-9782-123F9CDE1F30.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/87C0BBCA-17CA-4420-9782-123F9CDE1F30.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70881,
+    "number": "336436"
+  }
 }

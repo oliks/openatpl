@@ -1,7 +1,7 @@
 {
   "number": 40,
-  "questionId": 82564,
-  "questionNumber": "104739",
+  "questionId": "010-0040",
+  "questionNumber": "010-0040",
   "stemHtml": "<p>During take-off, the fire alarm sounded. After a rejected take-off, all passengers are evacuated. Nobody gets hurt, however, one wing is completely burnt. This is an example of a/an...</p>",
   "options": {
     "a": "<p>accident.</p>",
@@ -10,5 +10,10 @@
     "d": "serious accident."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82564,
+    "number": "104739"
+  }
 }

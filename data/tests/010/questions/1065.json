@@ -1,7 +1,7 @@
 {
   "number": 1065,
-  "questionId": 105382,
-  "questionNumber": "107445",
+  "questionId": "010-1065",
+  "questionNumber": "010-1065",
   "stemHtml": "<p>A large commercial jet aircraft has landed and is taxiing towards the apron. During taxi, a passenger unbuckles the seatbelt and stands up from the seat, falls on the floor and breaks two of his/her finger. Apart from that, the passenger feels well. This is classified as a(n)...</p>",
   "options": {
     "a": "<p>accident.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>serious incident.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105382,
+    "number": "107445"
+  }
 }

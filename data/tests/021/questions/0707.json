@@ -1,7 +1,7 @@
 {
   "number": 707,
-  "questionId": 109626,
-  "questionNumber": "217305",
+  "questionId": "021-0707",
+  "questionNumber": "021-0707",
   "stemHtml": "<p>An aircraft inflight experiences varying forces. The result of these external forces on the stress and strain of the structure are...</p>",
   "options": {
     "a": "<p>Stress and strain are not effected by the forces.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Strain increases, and stress remains constant.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109626,
+    "number": "217305"
+  }
 }

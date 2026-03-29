@@ -1,7 +1,7 @@
 {
   "number": 79,
-  "questionId": 106118,
-  "questionNumber": "216587",
+  "questionId": "021-0079",
+  "questionNumber": "021-0079",
   "stemHtml": "<p>The turboprop alpha-range is the range of\u2026</p>",
   "options": {
     "a": "<p>power lever positions between flight idle and maximum power.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>power lever positions between flight idle and maximum reverse.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106118,
+    "number": "216587"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1415,
-  "questionId": 83870,
-  "questionNumber": "103484",
+  "questionId": "010-1415",
+  "questionNumber": "010-1415",
   "stemHtml": "<p>A runway inspection shows that there is standing water on the runway. This information is relative to the condition of the movement areas and will be reported to aeronautical information services and ATS units. Why? In order to enable those units to\u2026</p>",
   "options": {
     "a": "Calculate the runway Pavement Classification Number and update aerodrome charts.",
@@ -10,5 +10,10 @@
     "d": "Provide the necessary information to arriving aircraft only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83870,
+    "number": "103484"
+  }
 }

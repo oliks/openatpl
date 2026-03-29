@@ -1,7 +1,7 @@
 {
   "number": 532,
-  "questionId": 82062,
-  "questionNumber": "219274",
+  "questionId": "021-0532",
+  "questionNumber": "021-0532",
   "stemHtml": "<p>Why should a group of wires be covered in one loop and protection shield?</p>",
   "options": {
     "a": "<p>So that the cable becomes one single loop connected to the Earth.</p>",
@@ -10,5 +10,10 @@
     "d": "For better protection under high load."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82062,
+    "number": "219274"
+  }
 }

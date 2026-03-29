@@ -1,7 +1,7 @@
 {
   "number": 554,
-  "questionId": 80345,
-  "questionNumber": "329187",
+  "questionId": "032-0554",
+  "questionNumber": "032-0554",
   "stemHtml": "<p>Select the correct statement with regard to the FMC and reduced thrust take-off\u2026</p>",
   "options": {
     "a": "Reduced thrust is not recommended at very low temperatures (OAT).",
@@ -10,5 +10,10 @@
     "d": "Reduced thrust can lower V<sub>MCG</sub> and V<sub>MCA</sub>."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80345,
+    "number": "329187"
+  }
 }

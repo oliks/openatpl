@@ -1,7 +1,7 @@
 {
   "number": 887,
-  "questionId": 82049,
-  "questionNumber": "219701",
+  "questionId": "021-0887",
+  "questionNumber": "021-0887",
   "stemHtml": "<p>Which of the following statements are correct or incorrect in reference to loads on an aircraft's structure?</p><p>1. Dynamic loads only occur during flight<br>2. Static loads only occur when parked on the apron</p>",
   "options": {
     "a": "Both statements are correct.",
@@ -10,5 +10,10 @@
     "d": "Both statements are incorrect."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82049,
+    "number": "219701"
+  }
 }

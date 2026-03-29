@@ -1,7 +1,7 @@
 {
   "number": 1408,
-  "questionId": 70677,
-  "questionNumber": "332185",
+  "questionId": "033-1408",
+  "questionNumber": "033-1408",
   "stemHtml": "<p>On a cross country flight from A to B, an aircraft has been consistently 2\u00b0 off course since leaving A. The distance between A and B is 90 NM. After 90 NM, how far will the aircraft have deviated from the planned course, if this error remains uncorrected?</p>",
   "options": {
     "a": "2.0 NM",
@@ -10,5 +10,10 @@
     "d": "2.5 NM"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70677,
+    "number": "332185"
+  }
 }

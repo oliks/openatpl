@@ -1,7 +1,7 @@
 {
   "number": 1506,
-  "questionId": 81421,
-  "questionNumber": "224449",
+  "questionId": "022-1506",
+  "questionNumber": "022-1506",
   "stemHtml": "<p dir=\"ltr\">During cruise with full automation engaged and the autothrottle in speed mode. How is speed control achieved?</p>",
   "options": {
     "a": "<p dir=\"ltr\">The autothrottle will vary engine thrust, while the autopilot varies the aircraft pitch to maintain altitude.</p>",
@@ -10,5 +10,10 @@
     "d": "The autopilot maintains constant pitch, while the autothrottle maintains rated N1 thrust."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81421,
+    "number": "224449"
+  }
 }

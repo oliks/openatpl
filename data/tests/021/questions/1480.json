@@ -1,7 +1,7 @@
 {
   "number": 1480,
-  "questionId": 77980,
-  "questionNumber": "217341",
+  "questionId": "021-1480",
+  "questionNumber": "021-1480",
   "stemHtml": "<p>The air source for the vapour-cycle machine in a piston engine airplane is\u2026</p>",
   "options": {
     "a": "Air from the compressor of the turbocharger.",
@@ -10,5 +10,10 @@
     "d": "A vapour-cycle machine is a closed system, therefore a separate air source is not required."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 77980,
+    "number": "217341"
+  }
 }

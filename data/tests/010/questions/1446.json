@@ -1,7 +1,7 @@
 {
   "number": 1446,
-  "questionId": 102324,
-  "questionNumber": "103636",
+  "questionId": "010-1446",
+  "questionNumber": "010-1446",
   "stemHtml": "<p>What should be the type of low-intensity obstacle lights found on mobile objects?</p>",
   "options": {
     "a": "<p>fixed red or preferably orange.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>flashing-blue or flashing-yellow.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102324,
+    "number": "103636"
+  }
 }

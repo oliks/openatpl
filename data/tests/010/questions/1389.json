@@ -1,7 +1,7 @@
 {
   "number": 1389,
-  "questionId": 66653,
-  "questionNumber": "101900",
+  "questionId": "010-1389",
+  "questionNumber": "010-1389",
   "stemHtml": "What is the ground-air visual signal code for use by survivors on the ground to indicate \"affirmative\"?",
   "options": {
     "a": "V",
@@ -10,5 +10,10 @@
     "d": "Y"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66653,
+    "number": "101900"
+  }
 }

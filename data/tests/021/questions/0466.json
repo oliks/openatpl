@@ -1,7 +1,7 @@
 {
   "number": 466,
-  "questionId": 67665,
-  "questionNumber": "219315",
+  "questionId": "021-0466",
+  "questionNumber": "021-0466",
   "stemHtml": "<p>Maximum exhaust gas temperature (EGT) of a piston engine is theoretically associated with a\u2026</p>",
   "options": {
     "a": "full rich setting.",
@@ -10,5 +10,10 @@
     "d": "mixture ratio very close to idle cut-out."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67665,
+    "number": "219315"
+  }
 }

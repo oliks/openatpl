@@ -1,7 +1,7 @@
 {
   "number": 1056,
-  "questionId": 100212,
-  "questionNumber": "328073",
+  "questionId": "032-1056",
+  "questionNumber": "032-1056",
   "stemHtml": "Choose the correct statement with regards to maximum landing mass (MLM).",
   "options": {
     "a": "Higher OAT decreases MLM because the groundspeed is higher.",
@@ -10,5 +10,10 @@
     "d": "Higher QNH increases MLM because the groundspeed is higher."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100212,
+    "number": "328073"
+  }
 }

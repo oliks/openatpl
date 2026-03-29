@@ -1,7 +1,7 @@
 {
   "number": 1726,
-  "questionId": 80840,
-  "questionNumber": "214444",
+  "questionId": "021-1726",
+  "questionNumber": "021-1726",
   "stemHtml": "<p>When climbing out at a low altitude in an aircraft fitted with an Split Bus Bar System, the Voltage reading from GEN 1 (IDG) suddenly spikes up to 1000 V which engages a caution annunciator. What is the pilot\u2019s immediate action?</p>",
   "options": {
     "a": "Disconnect the generator by deactivating the Exciter Control Relay Field and switching to Emergency Power by turning on the APU.",
@@ -10,5 +10,10 @@
     "d": "Observe the additional engine parameters and get the appropriate checklist."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80840,
+    "number": "214444"
+  }
 }

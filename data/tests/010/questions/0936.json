@@ -1,7 +1,7 @@
 {
   "number": 936,
-  "questionId": 107522,
-  "questionNumber": "105566",
+  "questionId": "010-0936",
+  "questionNumber": "010-0936",
   "stemHtml": "<p>A State finds that an inadmissible person has landed to its territory. Who should be notified in written form?</p>",
   "options": {
     "a": "<p>The operator as soon as possible.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The PIC immediately.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107522,
+    "number": "105566"
+  }
 }

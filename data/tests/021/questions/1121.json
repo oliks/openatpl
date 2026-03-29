@@ -1,7 +1,7 @@
 {
   "number": 1121,
-  "questionId": 164231,
-  "questionNumber": "216928",
+  "questionId": "021-1121",
+  "questionNumber": "021-1121",
   "stemHtml": "<p>In a large twin-engine jet transport aircraft, on the ground with the engines shut down, a ground power unit (GPU) is feeding power to AC BUS 1, thus powering the electrical components on the circuit primarily for the left hand side of the aircraft. How can the pilot power the components connected to the right hand circuit?</p>",
   "options": {
     "a": "<p>Request ground crew to unplug the GPU from the left side and reconnect it to the right engine pylon.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Activate the aircraft battery to supply power to the right-side bus components.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 164231,
+    "number": "216928"
+  }
 }

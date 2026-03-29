@@ -1,7 +1,7 @@
 {
   "number": 160,
-  "questionId": 105120,
-  "questionNumber": "213499",
+  "questionId": "021-0160",
+  "questionNumber": "021-0160",
   "stemHtml": "<p>Which statement(s) is/are true?</p><p>I. Ice Accretion can happen in Carburettors but NOT in fuel injection systems.<br>II. Carburetor icing generally occurs between 4\u00b0C and 27\u00b0C but may occur at higher temperatures</p>",
   "options": {
     "a": "<p>I is incorrect, II is correct.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>I is incorrect, II is incorrect.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105120,
+    "number": "213499"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 935,
-  "questionId": 86087,
-  "questionNumber": "221665",
+  "questionId": "022-0935",
+  "questionNumber": "022-0935",
   "stemHtml": "Which of the following functions is not compromised if you have an EFB failure?",
   "options": {
     "a": "Performance calculations.",
@@ -10,5 +10,10 @@
     "d": "Access to aeronautical charts and OM."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86087,
+    "number": "221665"
+  }
 }

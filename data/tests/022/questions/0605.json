@@ -1,7 +1,7 @@
 {
   "number": 605,
-  "questionId": 108525,
-  "questionNumber": "228038",
+  "questionId": "022-0605",
+  "questionNumber": "022-0605",
   "stemHtml": "<p>Which of the following are inputs or outputs of an ADC.</p>\r\r<p>1. Input - fuel flow <br /> \r2. Input - total pressure <br /> \r3. Input - radio alt <br /> \r4. Output - ground speed <br /> \r5. Output - TAS <br /> \r6. Output - Altitude <br /> \r7. Output - SAT</p>",
   "options": {
     "a": "<p>1, 2, 5, 6</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2, 4, 5, 6</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108525,
+    "number": "228038"
+  }
 }

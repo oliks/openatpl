@@ -1,7 +1,7 @@
 {
   "number": 469,
-  "questionId": 80278,
-  "questionNumber": "311503",
+  "questionId": "031-0469",
+  "questionNumber": "031-0469",
   "stemHtml": "During pre-flight calculations the pilot finds out that the take-off CG position is 8 cm aft of the take-off CG aft limit. The TOM is 7 312 kg. <br /> Determine the minimum distance forwards that he/she should move a box with a mass of 362 kg to change the CG to within the take-off limits:",
   "options": {
     "a": "153.6 cm",
@@ -10,5 +10,10 @@
     "d": "161.6 m"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80278,
+    "number": "311503"
+  }
 }

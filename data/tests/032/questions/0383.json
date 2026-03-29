@@ -1,7 +1,7 @@
 {
   "number": 383,
-  "questionId": 100874,
-  "questionNumber": "324228",
+  "questionId": "032-0383",
+  "questionNumber": "032-0383",
   "stemHtml": "<p>Refer to figure. <br>Which of the following graphs illustrate the effect on power required when total mass is decreased?</p>",
   "options": {
     "a": "Figure 1",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/8fb2775f-6b8d-4184-a5bd-c9f3e2c7039e.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/8fb2775f-6b8d-4184-a5bd-c9f3e2c7039e.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100874,
+    "number": "324228"
+  }
 }

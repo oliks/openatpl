@@ -1,7 +1,7 @@
 {
   "number": 282,
-  "questionId": 71007,
-  "questionNumber": "339156",
+  "questionId": "033-0282",
+  "questionNumber": "033-0282",
   "stemHtml": "In a NOTAM, what does the abbreviation &ldquo;LO&rdquo; indicate?",
   "options": {
     "a": "Low (e.g. low intensity)",
@@ -10,5 +10,10 @@
     "d": "Lighted obstacle"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 71007,
+    "number": "339156"
+  }
 }

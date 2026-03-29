@@ -1,7 +1,7 @@
 {
   "number": 1267,
-  "questionId": 102668,
-  "questionNumber": "103244",
+  "questionId": "010-1267",
+  "questionNumber": "010-1267",
   "stemHtml": "<p>The Operator Proficiency Check (OPC) of a pilot for IFR commercial operations is valid until the 30th of June. However, the pilot executes his/her next OPC on the 15th of April. The new OPC validity can not extend beyond...</p>",
   "options": {
     "a": "<p>30th of October the same year.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>15th of October the same year.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102668,
+    "number": "103244"
+  }
 }

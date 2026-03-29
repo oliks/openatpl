@@ -1,7 +1,7 @@
 {
   "number": 1405,
-  "questionId": 70454,
-  "questionNumber": "335707",
+  "questionId": "033-1405",
+  "questionNumber": "033-1405",
   "stemHtml": "<p>Refer to figure. <br /> Use the following information to determine what would be entered into ITEM 19 ENDURANCE of the ICAO Flight Plan form.</p><p>Trip distance: 5683 NM <br /> Take-off Fuel: 140 000 kg <br /> Average TAS: 500 kt <br /> Average fuel flow: 11586 kg/h <br /> Average wind component: +15 kt <br /> Time to alternate: 45 minutes <br /> Final Reserve Fuel: 30 minutes holding</p>",
   "options": {
     "a": "12 hours 17 minutes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/93065D4C-C7D7-4E46-B4F8-FB0D4F524646.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/93065D4C-C7D7-4E46-B4F8-FB0D4F524646.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70454,
+    "number": "335707"
+  }
 }

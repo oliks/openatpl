@@ -1,7 +1,7 @@
 {
   "number": 42,
-  "questionId": 67257,
-  "questionNumber": "103077",
+  "questionId": "010-0042",
+  "questionNumber": "010-0042",
   "stemHtml": "How is the local QNH given, regarding to the nearest hectopascal?",
   "options": {
     "a": "It is rounded down to nearest tenths hectopascal.",
@@ -10,5 +10,10 @@
     "d": "It is rounded down to nearest whole hectopascal."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67257,
+    "number": "103077"
+  }
 }

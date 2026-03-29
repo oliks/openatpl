@@ -1,7 +1,7 @@
 {
   "number": 1293,
-  "questionId": 78781,
-  "questionNumber": "217000",
+  "questionId": "021-1293",
+  "questionNumber": "021-1293",
   "stemHtml": "<p>The maximum temperature in a gas turbine engine is limited by the\u2026</p>",
   "options": {
     "a": "Temperature at the exhaust.",
@@ -10,5 +10,10 @@
     "d": "Temperature entering the exhaust."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78781,
+    "number": "217000"
+  }
 }

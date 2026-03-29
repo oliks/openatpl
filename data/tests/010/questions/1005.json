@@ -1,7 +1,7 @@
 {
   "number": 1005,
-  "questionId": 102170,
-  "questionNumber": "108958",
+  "questionId": "010-1005",
+  "questionNumber": "010-1005",
   "stemHtml": "<p>An aircraft is executing an approach to a runway. During the approach, the lighting system fails and as a result the pilot deviates to an alternate airport. What type of report should the pilot submit?</p>",
   "options": {
     "a": "<p>Accident report.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Special air report.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102170,
+    "number": "108958"
+  }
 }

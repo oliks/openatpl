@@ -1,7 +1,7 @@
 {
   "number": 940,
-  "questionId": 80107,
-  "questionNumber": "219763",
+  "questionId": "021-0940",
+  "questionNumber": "021-0940",
   "stemHtml": "<p>A possible pneumatic source in a single engine piston aircraft is\u2026</p>",
   "options": {
     "a": "Turbocharger.",
@@ -10,5 +10,10 @@
     "d": "Ram air turbine."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80107,
+    "number": "219763"
+  }
 }

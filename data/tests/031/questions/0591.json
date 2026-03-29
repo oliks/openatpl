@@ -1,7 +1,7 @@
 {
   "number": 591,
-  "questionId": 111110,
-  "questionNumber": "317156",
+  "questionId": "031-0591",
+  "questionNumber": "031-0591",
   "stemHtml": "<p>An aircraft's flight manual has the following data:</p>\r\r<p>Distance from the datum to the leading edge of the MAC (LEMAC): 11.4 m <br /> \rDistance from the datum to the trailing edge of the MAC (TEMAC): 15.8 m <br /> \rThe Maximum Structural Take-Off Mass (MSTOM) CG range is from 11.9 m to 14.3 m from the datum</p>\r\r<p>What are the forward and aft CG limits expressed as a % MAC?</p>",
   "options": {
     "a": "<p>9.3%; 64.4%</p>",
@@ -10,5 +10,10 @@
     "d": "<p>12.0%; 67.5%</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111110,
+    "number": "317156"
+  }
 }

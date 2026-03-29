@@ -1,7 +1,7 @@
 {
   "number": 182,
-  "questionId": 80050,
-  "questionNumber": "318061",
+  "questionId": "031-0182",
+  "questionNumber": "031-0182",
   "stemHtml": "<p>Refer to figure. <br /> The CG of an aeroplane is located at 23% MAC or 15.6 m. Determine the MAC length, assuming the location of the wing leading edge shown in the annex.</p>",
   "options": {
     "a": "<p>3.68 m</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/857385EB-E504-4F04-9EF6-68308977188F.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/857385EB-E504-4F04-9EF6-68308977188F.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80050,
+    "number": "318061"
+  }
 }

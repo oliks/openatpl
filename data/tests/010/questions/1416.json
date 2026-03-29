@@ -1,7 +1,7 @@
 {
   "number": 1416,
-  "questionId": 78627,
-  "questionNumber": "103577",
+  "questionId": "010-1416",
+  "questionNumber": "010-1416",
   "stemHtml": "<p>\"FLIGHT VISIBILITY\" is best described as\u2026</p>",
   "options": {
     "a": "The forward visibility from the flight deck of an aircraft in flight.",
@@ -10,5 +10,10 @@
     "d": "The forward distance at which objects can be discerned in the air with reference to atmospheric conditions."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78627,
+    "number": "103577"
+  }
 }

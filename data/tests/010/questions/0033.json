@@ -1,7 +1,7 @@
 {
   "number": 33,
-  "questionId": 66818,
-  "questionNumber": "103540",
+  "questionId": "010-0033",
+  "questionNumber": "010-0033",
   "stemHtml": "According to ICAO Annex 2, which phrase would be used by an intercepting aircraft for the meaning \"land at this aerodrome\"?",
   "options": {
     "a": "Descend",
@@ -10,5 +10,10 @@
     "d": "Descend for landing"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66818,
+    "number": "103540"
+  }
 }

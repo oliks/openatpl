@@ -1,7 +1,7 @@
 {
   "number": 971,
-  "questionId": 67012,
-  "questionNumber": "101420",
+  "questionId": "010-0971",
+  "questionNumber": "010-0971",
   "stemHtml": "A pilot may expect instructions for a missed approach from radar when the controller has not issued the landing-clearance at the moment the aircraft is...",
   "options": {
     "a": "4 NM from touch-down.",
@@ -10,5 +10,10 @@
     "d": "2 NM from touch-down."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67012,
+    "number": "101420"
+  }
 }

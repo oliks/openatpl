@@ -1,7 +1,7 @@
 {
   "number": 545,
-  "questionId": 67889,
-  "questionNumber": "213937",
+  "questionId": "021-0545",
+  "questionNumber": "021-0545",
   "stemHtml": "<p>A composite material consists of\u2026</p>",
   "options": {
     "a": "two metal sheets bonded together.",
@@ -10,5 +10,10 @@
     "d": "aluminium alloy with a covering layer of pure aluminium."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67889,
+    "number": "213937"
+  }
 }

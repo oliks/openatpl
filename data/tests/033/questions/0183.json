@@ -1,7 +1,7 @@
 {
   "number": 183,
-  "questionId": 78415,
-  "questionNumber": "334588",
+  "questionId": "033-0183",
+  "questionNumber": "033-0183",
   "stemHtml": "<p>When planning to fly through a mountaineous area, the minimum safe altitude (MSA) is 8000 ft. The QNH from an airport in the vicinity, elevation 0 ft, is 990 hPa and the temperature at FL100 is -25\u00b0C. Determine the lowest usable flight level. <br>(Assume 1 hPa = 27 ft)</p>",
   "options": {
     "a": "FL080",
@@ -10,5 +10,10 @@
     "d": "FL120"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78415,
+    "number": "334588"
+  }
 }

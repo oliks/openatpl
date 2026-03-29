@@ -1,7 +1,7 @@
 {
   "number": 1250,
-  "questionId": 68289,
-  "questionNumber": "214743",
+  "questionId": "021-1250",
+  "questionNumber": "021-1250",
   "stemHtml": "<p>The purpose of a chip detector in the oil system of an engine/gearbox is to indicate that\u2026</p>",
   "options": {
     "a": "there are metal particles in the oil.",
@@ -10,5 +10,10 @@
     "d": "the oil temperature is too high."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68289,
+    "number": "214743"
+  }
 }

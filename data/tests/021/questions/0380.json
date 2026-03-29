@@ -1,7 +1,7 @@
 {
   "number": 380,
-  "questionId": 68377,
-  "questionNumber": "213183",
+  "questionId": "021-0380",
+  "questionNumber": "021-0380",
   "stemHtml": "The purpose of baffle check valves fitted in aircraft fuel tanks is to:",
   "options": {
     "a": "close the vent lines in case of turbulence.",
@@ -10,5 +10,10 @@
     "d": "prevent positive pressure buildup inside the tank."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68377,
+    "number": "213183"
+  }
 }

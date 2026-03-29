@@ -1,7 +1,7 @@
 {
   "number": 15,
-  "questionId": 107873,
-  "questionNumber": "312873",
+  "questionId": "031-0015",
+  "questionNumber": "031-0015",
   "stemHtml": "<p>Refer to figure.  <br />  \rWhich of the options shown in the annex results in the greatest longitudinal stability in flight?</p>",
   "options": {
     "a": "<p>Option 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/ad56e143-6720-453e-a7b8-e44a7ad3b725.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/ad56e143-6720-453e-a7b8-e44a7ad3b725.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 107873,
+    "number": "312873"
+  }
 }

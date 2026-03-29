@@ -1,7 +1,7 @@
 {
   "number": 1193,
-  "questionId": 66673,
-  "questionNumber": "109270",
+  "questionId": "010-1193",
+  "questionNumber": "010-1193",
   "stemHtml": "<p>Appropriate actions of crew members can minimise the consequences of acts of unlawful interference if the operator\u2026</p>",
   "options": {
     "a": "establishes effective corrective action after each unlawful incident.",
@@ -10,5 +10,10 @@
     "d": "provides crew members with adequate training for using weapons, if these are authorised for carriage onboard."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66673,
+    "number": "109270"
+  }
 }

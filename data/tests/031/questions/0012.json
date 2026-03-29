@@ -1,7 +1,7 @@
 {
   "number": 12,
-  "questionId": 69548,
-  "questionNumber": "318186",
+  "questionId": "031-0012",
+  "questionNumber": "031-0012",
   "stemHtml": "Dry Operating Mass is the take-off mass of the aircraft excluding:",
   "options": {
     "a": "all usable fuel and traffic load.",
@@ -10,5 +10,10 @@
     "d": "traffic load, potable water and lavatory chemicals."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69548,
+    "number": "318186"
+  }
 }

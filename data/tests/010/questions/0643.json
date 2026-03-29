@@ -1,7 +1,7 @@
 {
   "number": 643,
-  "questionId": 80077,
-  "questionNumber": "102822",
+  "questionId": "010-0643",
+  "questionNumber": "010-0643",
   "stemHtml": "What does \u201cnight\u201d mean?",
   "options": {
     "a": "<p>The period from the end of evening civil twilight and the beginning of morning civil twilight, or any other time between the sunset and sunrise as prescribed by the authority.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The period from the beginning of evening civil twilight and the beginning of morning civil twilight, or any other time between the sunset and sunrise as prescribed by the authority.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80077,
+    "number": "102822"
+  }
 }

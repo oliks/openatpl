@@ -1,7 +1,7 @@
 {
   "number": 1120,
-  "questionId": 81580,
-  "questionNumber": "331667",
+  "questionId": "033-1120",
+  "questionNumber": "033-1120",
   "stemHtml": "<p>An aircraft being operated for a Commercial Air Transport flight has an Approach Climb Gradient (ACG) capability of 3.7%. Three instrument approach procedures are available and listed below. Which of these could be selected for that flight?</p>\r\n\r\n<p>1. ILS/DME APP, minimum ACG required is 3.0%<br />\r\n2. LOC/DME APP, minimum ACG required is 3.7%<br />\r\n3. VOR/DME APP, minimum ACG required is 4.2%</p>\r\n",
   "options": {
     "a": "2 only",
@@ -10,5 +10,10 @@
     "d": "1 or 2"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81580,
+    "number": "331667"
+  }
 }

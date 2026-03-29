@@ -1,7 +1,7 @@
 {
   "number": 1631,
-  "questionId": 68241,
-  "questionNumber": "214301",
+  "questionId": "021-1631",
+  "questionNumber": "021-1631",
   "stemHtml": "<p>An aeroplane equipped with fully powered flight controls (irreversible type)\u2026</p>",
   "options": {
     "a": "must be equipped with control locks.",
@@ -10,5 +10,10 @@
     "d": "is flown without the use of an artificial feel system."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68241,
+    "number": "214301"
+  }
 }

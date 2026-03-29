@@ -1,7 +1,7 @@
 {
   "number": 1475,
-  "questionId": 81738,
-  "questionNumber": "229856",
+  "questionId": "022-1475",
+  "questionNumber": "022-1475",
   "stemHtml": "<p>FMS calculations are based on\u2026</p>",
   "options": {
     "a": "VOR/DME data",
@@ -10,5 +10,10 @@
     "d": "the FMS position"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81738,
+    "number": "229856"
+  }
 }

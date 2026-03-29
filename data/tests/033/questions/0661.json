@@ -1,7 +1,7 @@
 {
   "number": 661,
-  "questionId": 82234,
-  "questionNumber": "336210",
+  "questionId": "033-0661",
+  "questionNumber": "033-0661",
   "stemHtml": "<p>Refer to figure or to ALICANTE (LEAL) STAR 10-2B from Jeppesen GSPRM 2017. <br /> You are briefing the VLC2L STAR into LEAL, and your captain asks you for the MEA and the distance between Valencia VOR and your IAF. What do you reply?</p>",
   "options": {
     "a": "<p>6600 ft and 59 NM.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/D0490FC6-509A-45B9-8063-ACC3A859EF01.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D0490FC6-509A-45B9-8063-ACC3A859EF01.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82234,
+    "number": "336210"
+  }
 }

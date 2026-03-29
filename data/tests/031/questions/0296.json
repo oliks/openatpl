@@ -1,7 +1,7 @@
 {
   "number": 296,
-  "questionId": 106455,
-  "questionNumber": "319508",
+  "questionId": "031-0296",
+  "questionNumber": "031-0296",
   "stemHtml": "<p>For the purpose of determining the mass and CG position of an aircraft, it is weighed with a minimum of...</p>",
   "options": {
     "a": "<p>3 points of support.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2 points of support.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106455,
+    "number": "319508"
+  }
 }

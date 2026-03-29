@@ -1,7 +1,7 @@
 {
   "number": 1446,
-  "questionId": 68567,
-  "questionNumber": "222303",
+  "questionId": "022-1446",
+  "questionNumber": "022-1446",
   "stemHtml": "<p>The GPWS automatically provides distinctive warning to the flight crew in case of:</p><p>1 \u2013 impeding stall <br>2 \u2013 excessive descent rate <br>3 \u2013 altitude loss after take-off or go-around <br>4 \u2013 unsafe terrain clearance with flaps not in landing configuration <br>5 \u2013 dangerous ground proximity <br>6 \u2013 downward glide-slope deviation</p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "2, 3, 4, 5, 6.",
@@ -10,5 +10,10 @@
     "d": "1, 2, 6."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68567,
+    "number": "222303"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 35,
-  "questionId": 67187,
-  "questionNumber": "105288",
+  "questionId": "010-0035",
+  "questionNumber": "010-0035",
   "stemHtml": "<p>The pilot in command of an aircraft:</p><p>1. must comply immediately to all instructions received from ATC<br>2. is responsible only if he is the \u201cpilot flying\u201d<br>3. may deviate from air regulations for safety reasons<br>4. may be exempt from air regulations in order to comply to an ATC instruction<br>5. may ask for the modification of an unsatisfactory clearance</p><p>Which of the following combinations contains all of the correct statements?</p>",
   "options": {
     "a": "1 and 4",
@@ -10,5 +10,10 @@
     "d": "2, 3 and 5"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67187,
+    "number": "105288"
+  }
 }

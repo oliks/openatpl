@@ -1,7 +1,7 @@
 {
   "number": 1795,
-  "questionId": 100114,
-  "questionNumber": "222352",
+  "questionId": "022-1795",
+  "questionNumber": "022-1795",
   "stemHtml": "You discover that the aircraft performance database for FMS is based on incorrect aircraft and engine configurations during pre-flight preparation. Which of the following statements is correct?",
   "options": {
     "a": "You can manually select the correct configuration by using the list on the initialisation page.",
@@ -10,5 +10,10 @@
     "d": "<p>The correct configuration can be uploaded via ACARS by operations control.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100114,
+    "number": "222352"
+  }
 }

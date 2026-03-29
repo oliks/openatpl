@@ -1,7 +1,7 @@
 {
   "number": 1311,
-  "questionId": 66796,
-  "questionNumber": "108487",
+  "questionId": "010-1311",
+  "questionNumber": "010-1311",
   "stemHtml": "<p>What is the minimum height allowed for a VFR flight above the ground or water, excluding take-off or landing and flights over congested areas of cities, towns or settlements, or over open-air assemblies of persons?</p>",
   "options": {
     "a": "500 feet",
@@ -10,5 +10,10 @@
     "d": "600 feet"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66796,
+    "number": "108487"
+  }
 }

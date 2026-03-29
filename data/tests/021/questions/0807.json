@@ -1,7 +1,7 @@
 {
   "number": 807,
-  "questionId": 67300,
-  "questionNumber": "218666",
+  "questionId": "021-0807",
+  "questionNumber": "021-0807",
   "stemHtml": "<p>The air in a piston engine turbocharger enters the centrifugal compressor at\u2026</p>",
   "options": {
     "a": "a tangent to the rotor and leaves via the stator.",
@@ -10,5 +10,10 @@
     "d": "the eye of the impeller and leaves it almost at a tangent to the periphery."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67300,
+    "number": "218666"
+  }
 }

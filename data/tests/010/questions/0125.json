@@ -1,7 +1,7 @@
 {
   "number": 125,
-  "questionId": 80088,
-  "questionNumber": "104499",
+  "questionId": "010-0125",
+  "questionNumber": "010-0125",
   "stemHtml": "<p>ILS obstacle clearance surfaces are established under the assumption that the pilot does not allow the aircraft to deviate from the centreline by more than\u2026</p>",
   "options": {
     "a": "One and a half scales deflection after being established on the track.",
@@ -10,5 +10,10 @@
     "d": "One full scale deflection after being established on the track."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80088,
+    "number": "104499"
+  }
 }

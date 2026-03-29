@@ -1,7 +1,7 @@
 {
   "number": 110,
-  "questionId": 80325,
-  "questionNumber": "328426",
+  "questionId": "032-0110",
+  "questionNumber": "032-0110",
   "stemHtml": "<p>What is correct about a balanced field take-off? It is\u2026</p>",
   "options": {
     "a": "Where the OEI TODR = the AEO ASDR.",
@@ -10,5 +10,10 @@
     "d": "Where OEI TODA = OEI ASDA."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80325,
+    "number": "328426"
+  }
 }

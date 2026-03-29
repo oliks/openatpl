@@ -1,7 +1,7 @@
 {
   "number": 222,
-  "questionId": 97900,
-  "questionNumber": "338862",
+  "questionId": "033-0222",
+  "questionNumber": "033-0222",
   "stemHtml": "Refer to figure. <br /> By completing the navigation plan in the annex above, what will be the planned total time for the whole route?",
   "options": {
     "a": "26 minutes",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/ad08feda-efa8-423b-9f4f-f64ceec09d0c.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/ad08feda-efa8-423b-9f4f-f64ceec09d0c.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 97900,
+    "number": "338862"
+  }
 }

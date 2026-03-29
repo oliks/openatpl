@@ -1,7 +1,7 @@
 {
   "number": 726,
-  "questionId": 109138,
-  "questionNumber": "325059",
+  "questionId": "032-0726",
+  "questionNumber": "032-0726",
   "stemHtml": "<p>A pilot is flying at or near V<strong><sub>MCA</sub></strong> when the temperature decreases and the pressure increases. The pilot will most likely (1) _____ as V<strong><sub>MCA</sub></strong> gets (2) _____.</p>",
   "options": {
     "a": "<p>(1) Face difficulties in controlling the aircraft; (2) Higher.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Face difficulties in controlling the aircraft; (2) Lower.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 109138,
+    "number": "325059"
+  }
 }

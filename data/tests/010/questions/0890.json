@@ -1,7 +1,7 @@
 {
   "number": 890,
-  "questionId": 67115,
-  "questionNumber": "104905",
+  "questionId": "010-0890",
+  "questionNumber": "010-0890",
   "stemHtml": "<p>A precision approach Category I lighting system shall consist of a row of lights on the extended centre line of the runway extending, wherever possible, over a distance of\u2026</p>",
   "options": {
     "a": "600 m from the runway threshold and a crossbar at 300 m from the threshold.",
@@ -10,5 +10,10 @@
     "d": "900 m from the runway threshold and a crossbar at 300 m from the threshold."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67115,
+    "number": "104905"
+  }
 }

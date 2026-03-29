@@ -1,7 +1,7 @@
 {
   "number": 1041,
-  "questionId": 108091,
-  "questionNumber": "101248",
+  "questionId": "010-1041",
+  "questionNumber": "010-1041",
   "stemHtml": "<p>For a single-pilot multi-engine class rating, how many flight hours are required and what is the period of its validity?</p>",
   "options": {
     "a": "<p>70 hours, 1 year.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>200 hours, 1 year.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108091,
+    "number": "101248"
+  }
 }

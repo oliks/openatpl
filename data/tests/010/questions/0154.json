@@ -1,7 +1,7 @@
 {
   "number": 154,
-  "questionId": 82091,
-  "questionNumber": "103626",
+  "questionId": "010-0154",
+  "questionNumber": "010-0154",
   "stemHtml": "ATC realises that they are unable to maintain adequate horizontal separation between 2 IFR aircraft at the same altitude, what should they do?",
   "options": {
     "a": "<p>ATC should advise the flight crew to establish and maintain visual separation </p>",
@@ -10,5 +10,10 @@
     "d": "ATC should allow a reduction in the horizontal separation to half of the prescribed minima."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82091,
+    "number": "103626"
+  }
 }

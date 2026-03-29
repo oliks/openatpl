@@ -1,7 +1,7 @@
 {
   "number": 639,
-  "questionId": 68949,
-  "questionNumber": "225838",
+  "questionId": "022-0639",
+  "questionNumber": "022-0639",
   "stemHtml": "The accuracy of the altitude computed by a stand-alone inertial system..",
   "options": {
     "a": "increases with flight time.",
@@ -10,5 +10,10 @@
     "d": "is poor at the beginning of the flight."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68949,
+    "number": "225838"
+  }
 }

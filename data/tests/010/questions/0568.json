@@ -1,7 +1,7 @@
 {
   "number": 568,
-  "questionId": 111717,
-  "questionNumber": "107311",
+  "questionId": "010-0568",
+  "questionNumber": "010-0568",
   "stemHtml": "<p>An Air Operator Certificate should be signed by...</p>",
   "options": {
     "a": "<p>the Competent Authority.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>the Accountable Manager.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 111717,
+    "number": "107311"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1764,
-  "questionId": 68904,
-  "questionNumber": "227220",
+  "questionId": "022-1764",
+  "questionNumber": "022-1764",
   "stemHtml": "<p>At a low bank angle, the measurement of rate-of-turn consists of measuring the\u2026</p>",
   "options": {
     "a": "pitch rate of the aircraft.",
@@ -10,5 +10,10 @@
     "d": "bank of the aircraft."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68904,
+    "number": "227220"
+  }
 }

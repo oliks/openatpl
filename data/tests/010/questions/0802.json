@@ -1,7 +1,7 @@
 {
   "number": 802,
-  "questionId": 79684,
-  "questionNumber": "103740",
+  "questionId": "010-0802",
+  "questionNumber": "010-0802",
   "stemHtml": "<p>In an emergency scenario, all the avionics are out and there is no contact established with ATS. In order to indicate that something is wrong, the PIC should proceed to a level which differs from normally used cruising levels for IFR flight by\u2026</p>",
   "options": {
     "a": "<p>2000 ft different each flight level 1300 ft apart.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>500 ft different each flight level 1000 ft apart.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 79684,
+    "number": "103740"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 485,
-  "questionId": 96115,
-  "questionNumber": "329513",
+  "questionId": "032-0485",
+  "questionNumber": "032-0485",
   "stemHtml": "<p>Refer to figure. <br>A flight crew is preparing for a flight over a mountain range, and is looking at their cruise contingency planning in case of engine failure. With the following conditions, what is the one-engine-inoperative maximum cruise altitude?</p><p>Expected Gross Weight: 31 000 lb <br>Temperature: ISA +5\u00b0C <br>Anti-ice: OFF</p>",
   "options": {
     "a": "27 150 ft",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/40ae9023-5f79-43a4-a14d-5b175f04a90f.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/40ae9023-5f79-43a4-a14d-5b175f04a90f.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96115,
+    "number": "329513"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 585,
-  "questionId": 67068,
-  "questionNumber": "102314",
+  "questionId": "010-0585",
+  "questionNumber": "010-0585",
   "stemHtml": "<p>Information of operational significance or of an urgent nature has been provided in a NOTAM. The NOTAM is still valid. Prior to a flight, this information shall be made available once more to the flight crew in the form of a plain-language\u2026</p>",
   "options": {
     "a": "Pre-flight Information Summary (PIS).",
@@ -10,5 +10,10 @@
     "d": "Pre-flight Information Leaflet (PIL)."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67068,
+    "number": "102314"
+  }
 }

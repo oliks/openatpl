@@ -1,7 +1,7 @@
 {
   "number": 1388,
-  "questionId": 70890,
-  "questionNumber": "334650",
+  "questionId": "033-1388",
+  "questionNumber": "033-1388",
   "stemHtml": "<p>Refer to figures or ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017.\u00a0<br>What is the distance between reporting points N and NE?</p>",
   "options": {
     "a": "13 km",
@@ -38,5 +38,10 @@
       "publicUrl": "/attachments/033/80348F42-8D29-43B3-BC4B-ABD3EBAFD73F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/80348F42-8D29-43B3-BC4B-ABD3EBAFD73F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70890,
+    "number": "334650"
+  }
 }

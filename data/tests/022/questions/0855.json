@@ -1,7 +1,7 @@
 {
   "number": 855,
-  "questionId": 74633,
-  "questionNumber": "225137",
+  "questionId": "022-0855",
+  "questionNumber": "022-0855",
   "stemHtml": "Refer to figure.   <br />   Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in plan mode?",
   "options": {
     "a": "Figure 3",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/507c0591-3403-4a90-97c5-0acf23346368.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/507c0591-3403-4a90-97c5-0acf23346368.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74633,
+    "number": "225137"
+  }
 }

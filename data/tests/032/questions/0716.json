@@ -1,7 +1,7 @@
 {
   "number": 716,
-  "questionId": 70197,
-  "questionNumber": "321957",
+  "questionId": "032-0716",
+  "questionNumber": "032-0716",
   "stemHtml": "<p>(For this question use annex 032-003 or Performance Manual MRJT 1 Figure 4.4).<br>Given:</p><p>Field length available: 2400 m<br>Outside air temperature: -10\u00b0C<br>Airport pressure altitude: 7000 ft<br>PMC: ON A/C<br>Auto Packs: ON<br>No wind and slope. No anti ice.</p><p>The maximum allowed take-off mass is:<br>For a twin engine turbojet aeroplane two take-off flap settings 5\u00b0 and 15\u00b0 are certified.</p>",
   "options": {
     "a": "56 000 kg",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/DC3FD18B-42E1-485C-A60F-B6ABF835BB50.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/DC3FD18B-42E1-485C-A60F-B6ABF835BB50.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70197,
+    "number": "321957"
+  }
 }

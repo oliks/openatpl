@@ -1,7 +1,7 @@
 {
   "number": 523,
-  "questionId": 83217,
-  "questionNumber": "335402",
+  "questionId": "033-0523",
+  "questionNumber": "033-0523",
   "stemHtml": "<p>An aircraft is flying a route from position A to B, a distance of 57 Nautical Ground Miles (NGM). Given the following information:</p><p>True Airspeed (TAS): 125 kt <br /> Forecast wind: 240\u00b0/30 kt <br /> Course: 205\u00b0 (M) <br /> Variation: 15\u00b0 W</p><p>What is the distance covered in Nautical Air Miles (NAM) ?</p>",
   "options": {
     "a": "72.0 NAM",
@@ -10,5 +10,10 @@
     "d": "74.2 NAM"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83217,
+    "number": "335402"
+  }
 }

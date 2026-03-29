@@ -1,7 +1,7 @@
 {
   "number": 552,
-  "questionId": 106445,
-  "questionNumber": "314314",
+  "questionId": "031-0552",
+  "questionNumber": "031-0552",
   "stemHtml": "<p>Based on the given data, determine the amount of Underload/Overload.</p>\r\r<p>Maximum Structural Take-Off Mass: 7620 kg <br /> \rPerformance Limited Take-Off Mass: 7400 kg <br /> \rDry Operating Mass: 3780 kg <br /> \rTake-Off Fuel: 1120 kg <br /> \rMass of the crew and their baggage: 270 kg <br /> \rTraffic Load: 2620 kg</p>",
   "options": {
     "a": "<p>An Underload of 100 kg.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>An Overload of 120 kg.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 106445,
+    "number": "314314"
+  }
 }

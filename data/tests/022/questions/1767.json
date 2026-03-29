@@ -1,7 +1,7 @@
 {
   "number": 1767,
-  "questionId": 81646,
-  "questionNumber": "228500",
+  "questionId": "022-1767",
+  "questionNumber": "022-1767",
   "stemHtml": "Which of the following will cause a MASTER CAUTION alert?",
   "options": {
     "a": "Anti-skid system fault.",
@@ -10,5 +10,10 @@
     "d": "Low tyre pressure."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81646,
+    "number": "228500"
+  }
 }

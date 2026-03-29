@@ -1,7 +1,7 @@
 {
   "number": 803,
-  "questionId": 67765,
-  "questionNumber": "218068",
+  "questionId": "021-0803",
+  "questionNumber": "021-0803",
   "stemHtml": "<p>An intercooler fitted between a supercharger and the inlet manifold will\u2026</p>",
   "options": {
     "a": "minimise the risk of detonation.",
@@ -10,5 +10,10 @@
     "d": "reduce the mass flow through the engine."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67765,
+    "number": "218068"
+  }
 }

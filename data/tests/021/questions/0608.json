@@ -1,7 +1,7 @@
 {
   "number": 608,
-  "questionId": 84585,
-  "questionNumber": "214284",
+  "questionId": "021-0608",
+  "questionNumber": "021-0608",
   "stemHtml": "<p>Refer to figure. <br /> \rThere is a generator control switch on the flight deck. Using the annex above, which generator does this switch directly control?</p>",
   "options": {
     "a": "<p>The main generator.</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/021/88d6c137-bd11-477a-97e0-b63dc200fe38.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/88d6c137-bd11-477a-97e0-b63dc200fe38.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84585,
+    "number": "214284"
+  }
 }

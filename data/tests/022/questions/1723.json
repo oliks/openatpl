@@ -1,7 +1,7 @@
 {
   "number": 1723,
-  "questionId": 84833,
-  "questionNumber": "226509",
+  "questionId": "022-1723",
+  "questionNumber": "022-1723",
   "stemHtml": "<p>What would be a likely purpose for user-defined waypoints based on latitude/longitude coordinates?</p>",
   "options": {
     "a": "Inserting, into the navigation system, new radio navigation aids for which the information in the AIP still needs to be updated.",
@@ -10,5 +10,10 @@
     "d": "Planning routes that are far from fixed waypoints or navigation aids."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84833,
+    "number": "226509"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1769,
-  "questionId": 163378,
-  "questionNumber": "213253",
+  "questionId": "021-1769",
+  "questionNumber": "021-1769",
   "stemHtml": "<p>Among combustion chamber designs available for gas turbine engines, which configuration achieves the highest level of thermal efficiency?</p>",
   "options": {
     "a": "<p>Annular multiple flame tube</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Can-Annular single continuous flame tube</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 163378,
+    "number": "213253"
+  }
 }

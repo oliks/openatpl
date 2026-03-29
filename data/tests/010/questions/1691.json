@@ -1,7 +1,7 @@
 {
   "number": 1691,
-  "questionId": 67283,
-  "questionNumber": "107068",
+  "questionId": "010-1691",
+  "questionNumber": "010-1691",
   "stemHtml": "You have an inextinguishable fire and want to notify ATC about it. Which combination would you use:",
   "options": {
     "a": "Distresss Squawk 7600",
@@ -10,5 +10,10 @@
     "d": "Urgency Squawk 7700"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67283,
+    "number": "107068"
+  }
 }

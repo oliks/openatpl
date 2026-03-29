@@ -1,7 +1,7 @@
 {
   "number": 1036,
-  "questionId": 68394,
-  "questionNumber": "218508",
+  "questionId": "021-1036",
+  "questionNumber": "021-1036",
   "stemHtml": "<p>Display of a large aircraft is normally powered by\u2026</p>",
   "options": {
     "a": "400 HZ AC",
@@ -10,5 +10,10 @@
     "d": "DC"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68394,
+    "number": "218508"
+  }
 }

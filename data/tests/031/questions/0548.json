@@ -1,7 +1,7 @@
 {
   "number": 548,
-  "questionId": 110530,
-  "questionNumber": "316705",
+  "questionId": "031-0548",
+  "questionNumber": "031-0548",
   "stemHtml": "<p>For practical planning purposes, what will be the expected weight upon landing at the destination alternate airport?</p>",
   "options": {
     "a": "<p>ZFM + contingency fuel + final reserve</p>",
@@ -10,5 +10,10 @@
     "d": "<p>ZFM + trip fuel</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 110530,
+    "number": "316705"
+  }
 }

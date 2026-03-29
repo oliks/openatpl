@@ -1,7 +1,7 @@
 {
   "number": 339,
-  "questionId": 67310,
-  "questionNumber": "219327",
+  "questionId": "021-0339",
+  "questionNumber": "021-0339",
   "stemHtml": "<p>A gas turbine engine turbine section may employ active clearance control\u2026</p>",
   "options": {
     "a": "in order to cool the disc.",
@@ -10,5 +10,10 @@
     "d": "as a method of attaching the stators and rotors to the hub of the disc."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67310,
+    "number": "219327"
+  }
 }

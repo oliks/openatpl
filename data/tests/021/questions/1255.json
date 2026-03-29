@@ -1,7 +1,7 @@
 {
   "number": 1255,
-  "questionId": 153810,
-  "questionNumber": "216547",
+  "questionId": "021-1255",
+  "questionNumber": "021-1255",
   "stemHtml": "<p>The (1) _____ shows the rate of change of the cabin altitude and the (2) _____ expresses the cabin pressure as an equivalent altitude in the international standard atmosphere.</p>",
   "options": {
     "a": "<p>(1) cabin vertical speed indicator; (2) cabin altimeter</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) differential pressure gauge; (2) cabin vertical speed indicator</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 153810,
+    "number": "216547"
+  }
 }

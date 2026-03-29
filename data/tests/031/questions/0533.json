@@ -1,7 +1,7 @@
 {
   "number": 533,
-  "questionId": 69543,
-  "questionNumber": "314545",
+  "questionId": "031-0533",
+  "questionNumber": "031-0533",
   "stemHtml": "<p>Comparing a forward CG position with an aft one, the forward CG position will cause a\u2026</p>",
   "options": {
     "a": "decrease in range.",
@@ -10,5 +10,10 @@
     "d": "decrease in the landing speed."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69543,
+    "number": "314545"
+  }
 }

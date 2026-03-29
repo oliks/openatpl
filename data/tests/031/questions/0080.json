@@ -1,7 +1,7 @@
 {
   "number": 80,
-  "questionId": 69354,
-  "questionNumber": "317949",
+  "questionId": "031-0080",
+  "questionNumber": "031-0080",
   "stemHtml": "<p>Refer to figure.   <br />   Given the following indexes and masses, determine the take-off CG position as % MAC.</p><p>Dry operating index and mass: 50.0 and 35000 kg   <br />   Passenger load index and mass: -1.56 and 11508 kg   <br />   Cargo load index and mass: 1.45 and 1248 kg   <br />   Take-off fuel index and mass: 10.94 and 7800 kg</p>",
   "options": {
     "a": "CG at 10.8% MAC",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/031/1E6EAF1F-9CDA-4607-BA44-58427982F51F.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/1E6EAF1F-9CDA-4607-BA44-58427982F51F.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69354,
+    "number": "317949"
+  }
 }

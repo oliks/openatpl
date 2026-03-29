@@ -1,7 +1,7 @@
 {
   "number": 1492,
-  "questionId": 67995,
-  "questionNumber": "216921",
+  "questionId": "021-1492",
+  "questionNumber": "021-1492",
   "stemHtml": "<p>A twin spool gas turbine engine is one in which the\u2026</p>",
   "options": {
     "a": "<p>Turbines are free to rotate at speeds that differ from their associated compressors.</p>",
@@ -10,5 +10,10 @@
     "d": "LP compressor drives the HP compressor."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67995,
+    "number": "216921"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1315,
-  "questionId": 84928,
-  "questionNumber": "332041",
+  "questionId": "033-1315",
+  "questionNumber": "033-1315",
   "stemHtml": "<p>Given the following information, calculate the actual fuel at the destination for the Commercial flight. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Assume that the actual fuel consumption is maintained at the same rate. <br>Total distance from A to B: 320 NM <br>Fuel remaining after 1 hour 15 minutes: 859 US gal <br>Distance travelled after 1 hour 15 minutes: 119 NM <br>Average TAS: 115 kt <br>Wind component: 20 kt headwind <br>Trip Fuel: 1280 US gal <br>Planned average fuel flow: 380 US gal/h <br>Extra fuel: 0 gal <br>Discretionary Fuel: 0 gal</p>",
   "options": {
     "a": "<p>55 US gal</p>",
@@ -10,5 +10,10 @@
     "d": "<p>421 US gal</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84928,
+    "number": "332041"
+  }
 }

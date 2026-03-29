@@ -1,7 +1,7 @@
 {
   "number": 1677,
-  "questionId": 83629,
-  "questionNumber": "212535",
+  "questionId": "021-1677",
+  "questionNumber": "021-1677",
   "stemHtml": "Can both synthetic and mineral based hydraulic fluids be used in the same aircraft hydraulic system?",
   "options": {
     "a": "Yes, if the aircraft is certified for the use of both types.",
@@ -10,5 +10,10 @@
     "d": "No, because the system components are specifically made for use by one of them."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83629,
+    "number": "212535"
+  }
 }

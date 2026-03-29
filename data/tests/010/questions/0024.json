@@ -1,7 +1,7 @@
 {
   "number": 24,
-  "questionId": 102702,
-  "questionNumber": "106934",
+  "questionId": "010-0024",
+  "questionNumber": "010-0024",
   "stemHtml": "<p>In what aspect of European air traffic control does Eurocontrol have a significant and operationally critical function?</p>",
   "options": {
     "a": "<p>National airspace management within Europe.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Air Traffic Flow Management in Europe.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 102702,
+    "number": "106934"
+  }
 }

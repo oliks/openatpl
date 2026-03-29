@@ -1,7 +1,7 @@
 {
   "number": 362,
-  "questionId": 67053,
-  "questionNumber": "104934",
+  "questionId": "010-0362",
+  "questionNumber": "010-0362",
   "stemHtml": "<p>The AIP provides information about SIGMET in part\u2026</p>",
   "options": {
     "a": "GEN.",
@@ -10,5 +10,10 @@
     "d": "MET."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67053,
+    "number": "104934"
+  }
 }

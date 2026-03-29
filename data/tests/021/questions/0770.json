@@ -1,7 +1,7 @@
 {
   "number": 770,
-  "questionId": 84573,
-  "questionNumber": "219289",
+  "questionId": "021-0770",
+  "questionNumber": "021-0770",
   "stemHtml": "<p>Which of the following indications might you see during a pre-flight inspection that suggests continuous stress on the airframe?</p>",
   "options": {
     "a": "<p>Visible cracking or buckling</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Faded paintwork</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84573,
+    "number": "219289"
+  }
 }

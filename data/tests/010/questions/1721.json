@@ -1,7 +1,7 @@
 {
   "number": 1721,
-  "questionId": 100197,
-  "questionNumber": "108121",
+  "questionId": "010-1721",
+  "questionNumber": "010-1721",
   "stemHtml": "What are the privilages of a pilot holding an ATPL(A) license?",
   "options": {
     "a": "<p>LAPL, PPL, CPL, ATPL, MPL, PIC on single engine commercial flights.</p>",
@@ -10,5 +10,10 @@
     "d": "LAPL, CPL, ATPL, PIC on multi-engine commercial flights only."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 100197,
+    "number": "108121"
+  }
 }

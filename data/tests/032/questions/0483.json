@@ -1,7 +1,7 @@
 {
   "number": 483,
-  "questionId": 69821,
-  "questionNumber": "328609",
+  "questionId": "032-0483",
+  "questionNumber": "032-0483",
   "stemHtml": "Which one of the following statements concerning drift-down is correct?",
   "options": {
     "a": "The drift-down procedure requires a minimum descent angle after an engine failure at cruising altitude.",
@@ -10,5 +10,10 @@
     "d": "An engine failure at high cruising altitude will always result in a drift-down, because it is not permitted to fly the same altitude with one engine inoperative as with all engines operating."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69821,
+    "number": "328609"
+  }
 }

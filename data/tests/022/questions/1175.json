@@ -1,7 +1,7 @@
 {
   "number": 1175,
-  "questionId": 74798,
-  "questionNumber": "226561",
+  "questionId": "022-1175",
+  "questionNumber": "022-1175",
   "stemHtml": "<p>Concerning FMC databases\u2026</p>",
   "options": {
     "a": "<p>company database and FMC databases cannot be used at the same time.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>only the navigation database may be customized by the company\u2019s cost index strategy.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 74798,
+    "number": "226561"
+  }
 }

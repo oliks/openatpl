@@ -1,7 +1,7 @@
 {
   "number": 12,
-  "questionId": 108645,
-  "questionNumber": "229797",
+  "questionId": "022-0012",
+  "questionNumber": "022-0012",
   "stemHtml": "<p>What does the \"C\" letter mean in ADS-C?</p>",
   "options": {
     "a": "<p>Contract</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Channel</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108645,
+    "number": "229797"
+  }
 }

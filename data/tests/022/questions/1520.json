@@ -1,7 +1,7 @@
 {
   "number": 1520,
-  "questionId": 108478,
-  "questionNumber": "224528",
+  "questionId": "022-1520",
+  "questionNumber": "022-1520",
   "stemHtml": "<p>What can be considered hardware in a computer?</p>\r\r<p>1. Physical components <br /> \r2. Wires needed to transfer data <br /> \r3. Software running applications <br /> \r4. Databases</p>",
   "options": {
     "a": "<p>2, 3 and 4</p>",
@@ -10,5 +10,10 @@
     "d": "<p>1 and 2</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108478,
+    "number": "224528"
+  }
 }

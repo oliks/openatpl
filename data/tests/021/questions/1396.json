@@ -1,7 +1,7 @@
 {
   "number": 1396,
-  "questionId": 80793,
-  "questionNumber": "219403",
+  "questionId": "021-1396",
+  "questionNumber": "021-1396",
   "stemHtml": "<p>A lithium polymer battery is most likely to be a hazard to the aircraft when\u2026</p>",
   "options": {
     "a": "The battery has an extreme internal pressure.",
@@ -10,5 +10,10 @@
     "d": "The battery is rapidly charged."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80793,
+    "number": "219403"
+  }
 }

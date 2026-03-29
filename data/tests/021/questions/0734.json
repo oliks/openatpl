@@ -1,7 +1,7 @@
 {
   "number": 734,
-  "questionId": 83452,
-  "questionNumber": "218868",
+  "questionId": "021-0734",
+  "questionNumber": "021-0734",
   "stemHtml": "<p>What is the worst case scenario if thermal runaway occurs?</p>",
   "options": {
     "a": "Fire.",
@@ -10,5 +10,10 @@
     "d": "Overcurrent in the electrical system."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 83452,
+    "number": "218868"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 369,
-  "questionId": 70147,
-  "questionNumber": "328757",
+  "questionId": "032-0369",
+  "questionNumber": "032-0369",
   "stemHtml": "In relation to the net take-off flight path, the required 35 ft vertical distance to clear all obstacles is...",
   "options": {
     "a": "height at which power is reduced to maximum climb thrust.",
@@ -10,5 +10,10 @@
     "d": "the height by which acceleration and flap retraction should be completed."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70147,
+    "number": "328757"
+  }
 }

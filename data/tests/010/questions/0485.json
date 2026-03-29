@@ -1,7 +1,7 @@
 {
   "number": 485,
-  "questionId": 81603,
-  "questionNumber": "107067",
+  "questionId": "010-0485",
+  "questionNumber": "010-0485",
   "stemHtml": "An aircraft is being radar vectored. What instructions will the controller give to the pilot when vectoring is terminated?",
   "options": {
     "a": "<p>Resume own navigation direct VOR, track 270\u00b0T.</p>",
@@ -10,5 +10,10 @@
     "d": "Resume previous navigation, position 15 NM South of VOR XY."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81603,
+    "number": "107067"
+  }
 }

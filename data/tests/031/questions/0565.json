@@ -1,7 +1,7 @@
 {
   "number": 565,
-  "questionId": 69513,
-  "questionNumber": "313759",
+  "questionId": "031-0565",
+  "questionNumber": "031-0565",
   "stemHtml": "<p>The structural limitation of a baggage compartment is 50 lb/<span style=\"font-size:11pt\"><span style=\"font-family:Roboto\">ft<sup>2</sup></span></span>. A load has a mass of 320 kg and has to be distributed over an area of at least:</p>",
   "options": {
     "a": "<p>14.11 <span style=\"font-size:11pt\"><span style=\"font-family:Roboto\">m<sup>2</sup></span></span></p>",
@@ -10,5 +10,10 @@
     "d": "<p>6.4 m<span style=\"font-size:11pt\"><span style=\"font-family:Roboto\"><sup>2</sup></span></span></p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69513,
+    "number": "313759"
+  }
 }

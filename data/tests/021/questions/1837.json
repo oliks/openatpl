@@ -1,7 +1,7 @@
 {
   "number": 1837,
-  "questionId": 68145,
-  "questionNumber": "215518",
+  "questionId": "021-1837",
+  "questionNumber": "021-1837",
   "stemHtml": "<p>Turbine fuel may contain additives to\u2026</p>",
   "options": {
     "a": "enhance the combustion temperature.",
@@ -10,5 +10,10 @@
     "d": "reduce the risk of ice crystals forming at low temperatures."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68145,
+    "number": "215518"
+  }
 }

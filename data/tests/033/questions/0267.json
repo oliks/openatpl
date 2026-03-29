@@ -1,7 +1,7 @@
 {
   "number": 267,
-  "questionId": 105921,
-  "questionNumber": "331552",
+  "questionId": "033-0267",
+  "questionNumber": "033-0267",
   "stemHtml": "<p>Refer to figure or High_5_AT. Refer to Jeppesen GSPRM Training Route Manual - Chart \"AT HI 5\". <br>Find the initial magnetic course from BENBECULA (N57\u00b027.9' W007\u00b023') to KEFLAV\u00cdK (N63\u00b059.1' W022\u00b036.3')?</p>",
   "options": {
     "a": "<p>317\u00b0</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/362d7e77-1ce1-4ec4-b85f-6a0e251fc157.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/362d7e77-1ce1-4ec4-b85f-6a0e251fc157.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105921,
+    "number": "331552"
+  }
 }

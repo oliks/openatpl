@@ -1,7 +1,7 @@
 {
   "number": 1296,
-  "questionId": 81271,
-  "questionNumber": "226922",
+  "questionId": "022-1296",
+  "questionNumber": "022-1296",
   "stemHtml": "<p>Complete the following sentence:</p><p>A strap-down inertial system uses three (1) _____ gyros, which are mounted on (2) _____.</p>",
   "options": {
     "a": "<p dir=\"ltr\">(1) Rate integrating; (2) the airframe.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>(1) Laser ring; (2) the airframe.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81271,
+    "number": "226922"
+  }
 }

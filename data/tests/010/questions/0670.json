@@ -1,7 +1,7 @@
 {
   "number": 670,
-  "questionId": 80072,
-  "questionNumber": "103080",
+  "questionId": "010-0670",
+  "questionNumber": "010-0670",
   "stemHtml": "What are pilots expected to do when flying an instrument departure procedure?",
   "options": {
     "a": "Request from ATC an adequate heading for the correction of wind direction and strength.",
@@ -10,5 +10,10 @@
     "d": "Ignore the wind and proceed on a heading equal to the track."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 80072,
+    "number": "103080"
+  }
 }

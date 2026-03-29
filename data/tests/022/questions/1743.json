@@ -1,7 +1,7 @@
 {
   "number": 1743,
-  "questionId": 68423,
-  "questionNumber": "226934",
+  "questionId": "022-1743",
+  "questionNumber": "022-1743",
   "stemHtml": "<p>The open-ended tube parallel to the longitudinal axis of the aircraft senses the\u2026</p>",
   "options": {
     "a": "static pressure.",
@@ -10,5 +10,10 @@
     "d": "total pressure plus static pressure."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68423,
+    "number": "226934"
+  }
 }

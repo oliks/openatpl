@@ -1,7 +1,7 @@
 {
   "number": 875,
-  "questionId": 103418,
-  "questionNumber": "214741",
+  "questionId": "021-0875",
+  "questionNumber": "021-0875",
   "stemHtml": "<p>Which of the following fuel types is best suited to extremely cold weather operations with gas turbine engines?</p>",
   "options": {
     "a": "<p>Jet A</p>",
@@ -10,5 +10,10 @@
     "d": "<p>AVGAS</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103418,
+    "number": "214741"
+  }
 }

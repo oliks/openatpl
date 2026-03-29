@@ -1,7 +1,7 @@
 {
   "number": 1715,
-  "questionId": 82246,
-  "questionNumber": "227016",
+  "questionId": "022-1715",
+  "questionNumber": "022-1715",
   "stemHtml": "Which statement is correct regarding D-ATIS?",
   "options": {
     "a": "ATIS received via datalink.",
@@ -10,5 +10,10 @@
     "d": "It is an ATIS with the identifier \u2018D\u2019."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82246,
+    "number": "227016"
+  }
 }

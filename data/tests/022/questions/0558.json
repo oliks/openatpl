@@ -1,7 +1,7 @@
 {
   "number": 558,
-  "questionId": 68616,
-  "questionNumber": "228828",
+  "questionId": "022-0558",
+  "questionNumber": "022-0558",
   "stemHtml": "<p>The role of the FMS is to aid the flight crew with:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 immediate actions in case of emergency procedure</span> <br /> \n2 \u2013 navigation <br /> \n3 \u2013 in-flight performance optimisation <br /> \n4 \u2013 electronic check-lists.</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
   "options": {
     "a": "3, 4.",
@@ -10,5 +10,10 @@
     "d": "2, 3, 4."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68616,
+    "number": "228828"
+  }
 }

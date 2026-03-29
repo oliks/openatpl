@@ -1,7 +1,7 @@
 {
   "number": 1209,
-  "questionId": 67943,
-  "questionNumber": "214222",
+  "questionId": "021-1209",
+  "questionNumber": "021-1209",
   "stemHtml": "When a battery is almost fully discharged there is a tendency for the:",
   "options": {
     "a": "current produced to increase due to the reduced voltage.",
@@ -10,5 +10,10 @@
     "d": "voltage drop to be the same as for a fully charged battery under a given load."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67943,
+    "number": "214222"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 447,
-  "questionId": 117921,
-  "questionNumber": "217222",
+  "questionId": "021-0447",
+  "questionNumber": "021-0447",
   "stemHtml": "<p>Which parameter must be modified to allow an increase in RPM while the frequency remains unchanged?</p>",
   "options": {
     "a": "<p>Decreasing the field coil voltage.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>Decreasing the number of poles.</p>"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117921,
+    "number": "217222"
+  }
 }

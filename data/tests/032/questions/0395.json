@@ -1,7 +1,7 @@
 {
   "number": 395,
-  "questionId": 108624,
-  "questionNumber": "327228",
+  "questionId": "032-0395",
+  "questionNumber": "032-0395",
   "stemHtml": "<p>Refer to figure.\u00a0<br>Which figure represents the effect of flaps on take-off distance with one engine inoperative?</p>",
   "options": {
     "a": "<p>Figure 1</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/032/dd59b4c4-d22a-41e7-bf7c-f326e203e302.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/dd59b4c4-d22a-41e7-bf7c-f326e203e302.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108624,
+    "number": "327228"
+  }
 }

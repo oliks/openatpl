@@ -1,7 +1,7 @@
 {
   "number": 988,
-  "questionId": 86126,
-  "questionNumber": "221489",
+  "questionId": "022-0988",
+  "questionNumber": "022-0988",
   "stemHtml": "Which of the following statements about the INS and IRS is true?",
   "options": {
     "a": "INS is an older system that uses gyros. IRS is a newer version that uses lasers.",
@@ -10,5 +10,10 @@
     "d": "IRS is an older system that uses gyros."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86126,
+    "number": "221489"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1804,
-  "questionId": 66643,
-  "questionNumber": "109457",
+  "questionId": "010-1804",
+  "questionNumber": "010-1804",
   "stemHtml": "<p>Contracting States shall provide search and rescue services within their territories\u2026</p>",
   "options": {
     "a": "during the period established in the Regional Air Navigation Agreement.",
@@ -10,5 +10,10 @@
     "d": "from 06:00 until 24:00 local time."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66643,
+    "number": "109457"
+  }
 }

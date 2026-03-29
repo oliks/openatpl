@@ -1,7 +1,7 @@
 {
   "number": 1084,
-  "questionId": 96380,
-  "questionNumber": "329201",
+  "questionId": "032-1084",
+  "questionNumber": "032-1084",
   "stemHtml": "<p>You are flying an aircraft with an ACN of 34 upon landing. For the next departure, your ACN is 38. Considering the following PCNs for the airport you are flying to, are there any operational concerns?</p><p>Runway PCN: 47 <br /> Taxiway PCN: 36 <br /> Apron PCN: 42</p><p>For this exercise, disregard tire pressure and pavement strength, which are usually taken into account.</p><p> </p>",
   "options": {
     "a": "There is a risk while operating before take-off due to the PCN of the taxiway.",
@@ -10,5 +10,10 @@
     "d": "There is a risk when the aircraft operates before Take-Off since the Apron PCN is higher than the Aircraft's ACN upon departure."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 96380,
+    "number": "329201"
+  }
 }

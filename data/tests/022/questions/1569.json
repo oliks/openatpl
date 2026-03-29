@@ -1,7 +1,7 @@
 {
   "number": 1569,
-  "questionId": 69257,
-  "questionNumber": "227095",
+  "questionId": "022-1569",
+  "questionNumber": "022-1569",
   "stemHtml": "<p>The EGPWS may contain the Terrain Look-Ahead Alerting function, this function uses\u2026</p>",
   "options": {
     "a": "the weather radar to detect any high ground in conflict with the flight path.",
@@ -10,5 +10,10 @@
     "d": "a specific radar to detect any high ground in conflict with the flight path of the aircraft."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69257,
+    "number": "227095"
+  }
 }

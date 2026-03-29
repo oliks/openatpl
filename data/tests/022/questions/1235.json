@@ -1,7 +1,7 @@
 {
   "number": 1235,
-  "questionId": 68927,
-  "questionNumber": "222863",
+  "questionId": "022-1235",
+  "questionNumber": "022-1235",
   "stemHtml": "Refer to figure. <br /> Diagram 1 in the annex represents:",
   "options": {
     "a": "straight and level flight.",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/022/22847FE7-AACB-48D9-92CF-A6F5BBD055F8.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/22847FE7-AACB-48D9-92CF-A6F5BBD055F8.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68927,
+    "number": "222863"
+  }
 }

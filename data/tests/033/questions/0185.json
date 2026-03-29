@@ -1,7 +1,7 @@
 {
   "number": 185,
-  "questionId": 78421,
-  "questionNumber": "337472",
+  "questionId": "033-0185",
+  "questionNumber": "033-0185",
   "stemHtml": "<p>The lowest altitude between radio navigation aids, providing an acceptable coverage and fulfils obstacle clearance requirements between such fixes is\u2026</p>",
   "options": {
     "a": "MEA (Minimum Enroute Altitude)",
@@ -10,5 +10,10 @@
     "d": "MOCA (Minimum Obstacle Clearance Altitude)"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78421,
+    "number": "337472"
+  }
 }

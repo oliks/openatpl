@@ -1,7 +1,7 @@
 {
   "number": 754,
-  "questionId": 84404,
-  "questionNumber": "325253",
+  "questionId": "032-0754",
+  "questionNumber": "032-0754",
   "stemHtml": "If an aircraft's performance limited maximum take-off mass is limited by the maximum brake energy speed limit, which of the following must the flight crew do?",
   "options": {
     "a": "Ensure V<sub>2</sub> > V<sub>MBE</sub>",
@@ -10,5 +10,10 @@
     "d": "Ensure V<sub>LOF</sub> < V<span style=\"font-size:10.5px\">MAX TYRE</span>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84404,
+    "number": "325253"
+  }
 }

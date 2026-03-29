@@ -1,7 +1,7 @@
 {
   "number": 1404,
-  "questionId": 70545,
-  "questionNumber": "333460",
+  "questionId": "033-1404",
+  "questionNumber": "033-1404",
   "stemHtml": "<p>Refer to figure.\u00a0<br>In Item 15 of the ATS flight plan, a cruising speed of 180 knots will be entered as\u2026</p>",
   "options": {
     "a": "<p>K0180</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/033/7c62bbf9-a438-425d-afa2-39f3cf3fba55.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7c62bbf9-a438-425d-afa2-39f3cf3fba55.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 70545,
+    "number": "333460"
+  }
 }

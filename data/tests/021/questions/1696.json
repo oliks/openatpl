@@ -1,7 +1,7 @@
 {
   "number": 1696,
-  "questionId": 67978,
-  "questionNumber": "211965",
+  "questionId": "021-1696",
+  "questionNumber": "021-1696",
   "stemHtml": "<p>Vibration sensors are used in a gas turbine engine to indicate\u2026</p>",
   "options": {
     "a": "bearing problems only.",
@@ -10,5 +10,10 @@
     "d": "imbalance of one or both of the spools."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 67978,
+    "number": "211965"
+  }
 }

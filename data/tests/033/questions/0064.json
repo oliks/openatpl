@@ -1,7 +1,7 @@
 {
   "number": 64,
-  "questionId": 82907,
-  "questionNumber": "338788",
+  "questionId": "033-0064",
+  "questionNumber": "033-0064",
   "stemHtml": "While cross-referencing the map during a flight, the pilot notices that one of the waypoints has been missed by 1.20 NM off-track. The helicopter is flying with a TAS of 120 kt and the last waypoint was correctly overflown 22.5 minutes ago. How many degrees off-track had the helicopter been since the last waypoint?",
   "options": {
     "a": "<p>1.60\u00b0</p>",
@@ -10,5 +10,10 @@
     "d": "<p>0.45\u00b0</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82907,
+    "number": "338788"
+  }
 }

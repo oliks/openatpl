@@ -1,7 +1,7 @@
 {
   "number": 1312,
-  "questionId": 81327,
-  "questionNumber": "105105",
+  "questionId": "010-1312",
+  "questionNumber": "010-1312",
   "stemHtml": "<p>According to Part SERA, aircraft bearing the nationality and registration marks of a Member State of the EU, when flying over the high seas, are required to follow the Rules of the Air specified_____.</p>",
   "options": {
     "a": "By the State through whose airspace the aircraft last flew.",
@@ -10,5 +10,10 @@
     "d": "<p dir=\"ltr\">In Part FCL.</p>"
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81327,
+    "number": "105105"
+  }
 }

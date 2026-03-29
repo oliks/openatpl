@@ -1,7 +1,7 @@
 {
   "number": 826,
-  "questionId": 103271,
-  "questionNumber": "227941",
+  "questionId": "022-0826",
+  "questionNumber": "022-0826",
   "stemHtml": "<p>What are the primary limitations of the Synthetic Vision System (SVS)?</p>",
   "options": {
     "a": "<p>The terrain is created from a database that needs to be updated regularly and there\u2019s a risk of CFIT in case of reduced aircraft position accuracy.</p>",
@@ -10,5 +10,10 @@
     "d": "<p>The SVS is not yet on point as it gives a limited amount of information to the pilots.</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 103271,
+    "number": "227941"
+  }
 }

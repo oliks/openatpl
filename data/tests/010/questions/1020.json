@@ -1,7 +1,7 @@
 {
   "number": 1020,
-  "questionId": 82501,
-  "questionNumber": "103447",
+  "questionId": "010-1020",
+  "questionNumber": "010-1020",
   "stemHtml": "<p>Complete the following phrase:</p>\r\n\r\n<p>_____ is a defined area symmetrically disposed about the nominal flight track in which full obstacle clearance is provided.</p>",
   "options": {
     "a": "<p>Intermediate segment</p>",
@@ -10,5 +10,10 @@
     "d": "Primary area"
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82501,
+    "number": "103447"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 294,
-  "questionId": 81576,
-  "questionNumber": "227914",
+  "questionId": "022-0294",
+  "questionNumber": "022-0294",
   "stemHtml": "During the cockpit preparation phase, the flight crew notices that the Performance Database is incorrect on the FMS, being for a different aircraft and engine type. What must they do in this case?",
   "options": {
     "a": "Nothing, this is not an issue.",
@@ -10,5 +10,10 @@
     "d": "The mechanics must change the database."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81576,
+    "number": "227914"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1031,
-  "questionId": 81458,
-  "questionNumber": "212715",
+  "questionId": "021-1031",
+  "questionNumber": "021-1031",
   "stemHtml": "In a turbine engine, what is the parameter N1, which is used to represent thrust?",
   "options": {
     "a": "N1 refers to the rotational speed of the high speed spool which consists of the high pressure compressor and the high pressure turbine.",
@@ -10,5 +10,10 @@
     "d": "N1 is the ratio of the turbine discharge and the compressor inlet pressure."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81458,
+    "number": "212715"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "number": 1511,
-  "questionId": 66800,
-  "questionNumber": "102411",
+  "questionId": "010-1511",
+  "questionNumber": "010-1511",
   "stemHtml": "<p>What is the correct flight level for an IFR flight in non-RVSM airspace with a magnetic track of 070?</p>",
   "options": {
     "a": "<p>FL330</p>",
@@ -10,5 +10,10 @@
     "d": "<p>FL300</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66800,
+    "number": "102411"
+  }
 }

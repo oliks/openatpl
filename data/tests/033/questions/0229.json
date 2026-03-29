@@ -1,7 +1,7 @@
 {
   "number": 229,
-  "questionId": 117900,
-  "questionNumber": "336582",
+  "questionId": "033-0229",
+  "questionNumber": "033-0229",
   "stemHtml": "<p>Determine the weight of 860 US Gallons of fuel (SG 0.75).</p>\r\n\r\n<ul>\r\n</ul>",
   "options": {
     "a": "<p>5080 lbs</p>",
@@ -10,5 +10,10 @@
     "d": "<p>2441 lbs</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 117900,
+    "number": "336582"
+  }
 }

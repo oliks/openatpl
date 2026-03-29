@@ -1,7 +1,7 @@
 {
   "number": 200,
-  "questionId": 68856,
-  "questionNumber": "229536",
+  "questionId": "022-0200",
+  "questionNumber": "022-0200",
   "stemHtml": "Which variable is needed to calculate and obtain the TAS from the CAS?",
   "options": {
     "a": "Compressibility.",
@@ -10,5 +10,10 @@
     "d": "Compressibility and temperature."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68856,
+    "number": "229536"
+  }
 }

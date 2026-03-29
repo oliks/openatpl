@@ -1,7 +1,7 @@
 {
   "number": 756,
-  "questionId": 105170,
-  "questionNumber": "339009",
+  "questionId": "033-0756",
+  "questionNumber": "033-0756",
   "stemHtml": "<p>Refer to figures. <br /> \rAssuming a departure/destination fuel price ratio of 0.89, the commander decides to optimize fuel tankering by using the following data:</p>\r\r<p>Cruise flight level: FL350 <br /> \rAir distance to be covered: 2650 NM <br /> \rPlanned take-off mass: 190 000 kg (with a minimum prescribed fuel quantity of 30 000 kg that includes a trip fuel of 22 000 kg) <br /> \rMaximum landing mass: 180 000 kg <br /> \rMaximum take-off mass: 205 000 kg <br /> \rMaximum tank capacity: 55 000 kg</p>\r\r<p>The additional fuel quantity will be\u2026</p>",
   "options": {
     "a": "<p>10 000 kg</p>",
@@ -29,5 +29,10 @@
       "publicUrl": "/attachments/033/5ec0533e-9859-4258-9659-2331769dea48.jpg",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5ec0533e-9859-4258-9659-2331769dea48.jpg"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 105170,
+    "number": "339009"
+  }
 }

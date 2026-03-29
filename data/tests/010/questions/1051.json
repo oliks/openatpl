@@ -1,7 +1,7 @@
 {
   "number": 1051,
-  "questionId": 66816,
-  "questionNumber": "107554",
+  "questionId": "010-1051",
+  "questionNumber": "010-1051",
   "stemHtml": "<p>An intercepted aircraft with an SSR transponder shall immediately squawk\u2026</p>",
   "options": {
     "a": "7700 and select Mode C.",
@@ -10,5 +10,10 @@
     "d": "7500 and select Mode C."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66816,
+    "number": "107554"
+  }
 }

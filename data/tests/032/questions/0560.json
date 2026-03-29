@@ -1,7 +1,7 @@
 {
   "number": 560,
-  "questionId": 69895,
-  "questionNumber": "327736",
+  "questionId": "032-0560",
+  "questionNumber": "032-0560",
   "stemHtml": "<p>Explain the difference, if any, between climb/descent angle and flight-path angle\u2026</p>",
   "options": {
     "a": "Climb/descent angle is air mass related and the flight-path angle is air mass related.",
@@ -10,5 +10,10 @@
     "d": "Climb/descent angle is ground related and the flight-path angle is air mass related."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69895,
+    "number": "327736"
+  }
 }

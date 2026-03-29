@@ -1,7 +1,7 @@
 {
   "number": 1771,
-  "questionId": 82336,
-  "questionNumber": "226718",
+  "questionId": "022-1771",
+  "questionNumber": "022-1771",
   "stemHtml": "The pilot of a large transport aeroplane equipped with EFIS is flying in the cruise with the autopilot ON. The pilot is completing paperwork and is NOT looking at the control panel when a potentially hazardous situation requires crew attention but NOT immediate action. How is the pilot's attention drawn to the problem?",
   "options": {
     "a": "A red light in the pilot's normal primary field of vision with NO aural alert.",
@@ -10,5 +10,10 @@
     "d": "A red light indicating the nature of the problem with an aural alert."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 82336,
+    "number": "226718"
+  }
 }

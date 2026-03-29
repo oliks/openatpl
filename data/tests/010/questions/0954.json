@@ -1,7 +1,7 @@
 {
   "number": 954,
-  "questionId": 108223,
-  "questionNumber": "101254",
+  "questionId": "010-0954",
+  "questionNumber": "010-0954",
   "stemHtml": "<p>Refer to figure.  <br />  \rWhich one of the given signs is a stand identification sign?</p>",
   "options": {
     "a": "<p>2</p>",
@@ -20,5 +20,10 @@
       "publicUrl": "/attachments/010/c9920ff5-dac9-404f-a71c-2acca003e900.png",
       "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/c9920ff5-dac9-404f-a71c-2acca003e900.png"
     }
-  ]
+  ],
+  "externalRef": {
+    "source": "atplq",
+    "id": 108223,
+    "number": "101254"
+  }
 }

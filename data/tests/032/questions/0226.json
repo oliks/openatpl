@@ -1,7 +1,7 @@
 {
   "number": 226,
-  "questionId": 69656,
-  "questionNumber": "326184",
+  "questionId": "032-0226",
+  "questionNumber": "032-0226",
   "stemHtml": "When compared to a \"balanced\" condition, taking into account a Stopway leads to a\u2026",
   "options": {
     "a": "higher Take-Off Mass and decreased V<sub>1</sub>.",
@@ -10,5 +10,10 @@
     "d": "lower Take-Off Mass and increased V<sub>1</sub>."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69656,
+    "number": "326184"
+  }
 }

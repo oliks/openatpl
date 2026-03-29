@@ -1,7 +1,7 @@
 {
   "number": 286,
-  "questionId": 69932,
-  "questionNumber": "325793",
+  "questionId": "032-0286",
+  "questionNumber": "032-0286",
   "stemHtml": "An aeroplane takes off from a runway which is contaminated with compressed snow. What happens to the take-off and stop distances?",
   "options": {
     "a": "TODR remains the same and ASDR increases.",
@@ -10,5 +10,10 @@
     "d": "TODR increases and ASDR decreases."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 69932,
+    "number": "325793"
+  }
 }

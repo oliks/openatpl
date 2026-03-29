@@ -1,7 +1,7 @@
 {
   "number": 497,
-  "questionId": 66593,
-  "questionNumber": "106484",
+  "questionId": "010-0497",
+  "questionNumber": "010-0497",
   "stemHtml": "An applicant who wishes to revalidate his/hers mountain rating shall...",
   "options": {
     "a": "have completed at least 6 mountain landings in the past 12 months.",
@@ -10,5 +10,10 @@
     "d": "have completed at least 6 mountain landings in the past 24 months."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66593,
+    "number": "106484"
+  }
 }

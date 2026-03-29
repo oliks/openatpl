@@ -1,7 +1,7 @@
 {
   "number": 1821,
-  "questionId": 86115,
-  "questionNumber": "222221",
+  "questionId": "022-1821",
+  "questionNumber": "022-1821",
   "stemHtml": "A remote indicating compass is fitted with a FREE/SLAVE switch. When FREE is selected and the system is synchronised, the source of the heading that is displayed is...",
   "options": {
     "a": "The magnetic compass.",
@@ -10,5 +10,10 @@
     "d": "The deviation card."
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 86115,
+    "number": "222221"
+  }
 }

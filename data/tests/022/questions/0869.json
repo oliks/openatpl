@@ -1,7 +1,7 @@
 {
   "number": 869,
-  "questionId": 84397,
-  "questionNumber": "222370",
+  "questionId": "022-0869",
+  "questionNumber": "022-0869",
   "stemHtml": "<p>A _____ is responsible for transferring data between other components inside a computer.</p>",
   "options": {
     "a": "<p>Random access memory.</p>",
@@ -10,5 +10,10 @@
     "d": "Data bus."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 84397,
+    "number": "222370"
+  }
 }

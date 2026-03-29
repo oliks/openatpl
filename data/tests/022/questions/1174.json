@@ -1,7 +1,7 @@
 {
   "number": 1174,
-  "questionId": 68902,
-  "questionNumber": "226249",
+  "questionId": "022-1174",
+  "questionNumber": "022-1174",
   "stemHtml": "<p>The indication of the directional gyro is valid only for a limited period of time. The causes of this inaccuracy are rotation of the Earth and\u2026</p>",
   "options": {
     "a": "the aircraft`s movement over the surface of the Earth.",
@@ -10,5 +10,10 @@
     "d": "longitudinal accelerations, and the aircraft`s movement over the surface of the Earth."
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 68902,
+    "number": "226249"
+  }
 }

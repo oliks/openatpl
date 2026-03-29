@@ -1,7 +1,7 @@
 {
   "number": 1450,
-  "questionId": 81382,
-  "questionNumber": "225590",
+  "questionId": "022-1450",
+  "questionNumber": "022-1450",
   "stemHtml": "<p>What does the Flight Director (FD) indicate when engaged?</p>\r\r<p>1. Direction of a flight control input required <br /> \r2. Magnitude of a flight control input required <br /> \r3. Magnitude of a power input (throttle) required <br /> \r4. Flap setting required</p>",
   "options": {
     "a": "<p dir=\"ltr\">1 and 2 only</p>",
@@ -10,5 +10,10 @@
     "d": "<p>3 and 4 only</p>"
   },
   "correctOption": "a",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 81382,
+    "number": "225590"
+  }
 }

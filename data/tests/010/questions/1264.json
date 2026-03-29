@@ -1,7 +1,7 @@
 {
   "number": 1264,
-  "questionId": 66954,
-  "questionNumber": "104678",
+  "questionId": "010-1264",
+  "questionNumber": "010-1264",
   "stemHtml": "In which airspace classes shall an Air Traffic Control service for all VFR flights be provided?",
   "options": {
     "a": "B, C, D, and E.",
@@ -10,5 +10,10 @@
     "d": "B, C, and D."
   },
   "correctOption": "d",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 66954,
+    "number": "104678"
+  }
 }

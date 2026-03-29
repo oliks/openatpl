@@ -1,7 +1,7 @@
 {
   "number": 798,
-  "questionId": 78305,
-  "questionNumber": "213409",
+  "questionId": "021-0798",
+  "questionNumber": "021-0798",
   "stemHtml": "<p>A SAFE LIFE aircraft structural component is\u2026</p>",
   "options": {
     "a": "Not affected by fatigue.",
@@ -10,5 +10,10 @@
     "d": "Designed for an in-finite number of hours or cycles."
   },
   "correctOption": "c",
-  "attachments": []
+  "attachments": [],
+  "externalRef": {
+    "source": "atplq",
+    "id": 78305,
+    "number": "213409"
+  }
 }
