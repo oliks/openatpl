@@ -1,0 +1,14 @@
+{
+  "number": 1380,
+  "questionId": 70629,
+  "questionNumber": "339800",
+  "stemHtml": "<p>Given the following information, calculate the minimum flight level for an IFR flight that is planned outside airways:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Course: 235\u00b0M</span>  <br />  \nMSA: 7800 ft  <br />  \nQNH: 995 hPa  <br />  \nTemperature: ISA</p>",
+  "options": {
+    "a": "FL85",
+    "b": "FL90",
+    "c": "FL100",
+    "d": "FL80"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

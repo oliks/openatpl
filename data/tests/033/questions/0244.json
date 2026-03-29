@@ -1,0 +1,14 @@
+{
+  "number": 244,
+  "questionId": 106784,
+  "questionNumber": "333329",
+  "stemHtml": "<p>Given the following information, calculate the change in planned Trip Fuel when applying the updated meteorological conditions. Round up the calculation to the next full kilogram.</p><p>Trip distance: 200 NAM <br>Planned TAS: 150 kt <br>Change TAS: 1 kt for every 1<strong>\u00b0</strong>C change in OAT <br>Planned average trip fuel consumption: 3 kg/NAM <br>Change of Trip Fuel required: 0.5<strong>%</strong> increase for every 10<strong>\u00b0</strong>C increase in OAT <br>Revised OAT: 10<strong>\u00b0</strong>C above planned OAT</p><p>The change in Trip Fuel will be\u2026</p>",
+  "options": {
+    "a": "<p>a decrease of 29 kg.</p>",
+    "b": "<p>an increase of 3 kg.</p>",
+    "c": "<p>a decrease of 27 kg.</p>",
+    "d": "<p>an increase of 10 kg.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

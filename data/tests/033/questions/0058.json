@@ -1,0 +1,24 @@
+{
+  "number": 58,
+  "questionId": 84509,
+  "questionNumber": "336626",
+  "stemHtml": "<p>Refer to figure. <br /> An ATS flight plan for a VFR flight is submitted before departure with the following data:</p><p>Item 13: 1000 <br /> Item 16: 0134</p><p>Which statement is correct, if the estimated taxi time at departure is 10 min?</p>",
+  "options": {
+    "a": "The Estimated Off-Block Time is 10:10 UTC.",
+    "b": "The Estimated Take-off Time is 10:00 UTC.",
+    "c": "The Estimated Time of Arrival at destination is 11:44 UTC.",
+    "d": "The Estimated Time of Arrival at destination is 11:34 UTC."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 51468,
+      "uniqueKey": "5C44FABE-BA18-4EAE-835E-EB04AE41BEBA",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=5C44FABE-BA18-4EAE-835E-EB04AE41BEBA",
+      "publicUrl": "/attachments/033/5C44FABE-BA18-4EAE-835E-EB04AE41BEBA.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5C44FABE-BA18-4EAE-835E-EB04AE41BEBA.png"
+    }
+  ]
+}

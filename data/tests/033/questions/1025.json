@@ -1,0 +1,14 @@
+{
+  "number": 1025,
+  "questionId": 111549,
+  "questionNumber": "339229",
+  "stemHtml": "<p>Given the following information, calculate the maximum extra fuel which can be tankered:</p>\r\r<p>Maximum Zero Fuel Mass (MZFM): 2000 lb <br /> \rActual Zero Fuel Mass (AZFM): 2000 lb <br /> \rRegulated Take-Off Mass (RTOM): 2900 lb <br /> \rMaximum Landing Mass (MLM): 2400 lb <br /> \rTank capacity: 950 lb <br /> \rTake-off fuel: 500 lb <br /> \rTrip fuel: 190 lb</p>",
+  "options": {
+    "a": "<p>90 lb</p>",
+    "b": "<p>400 lb</p>",
+    "c": "<p>60 lb</p>",
+    "d": "<p>450 lb</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

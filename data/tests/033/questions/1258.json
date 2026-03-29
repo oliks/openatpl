@@ -1,0 +1,14 @@
+{
+  "number": 1258,
+  "questionId": 70558,
+  "questionNumber": "336846",
+  "stemHtml": "<p>A pilot is planning a flight on the 23rd May, and plans to fly over the location mentioned below at 14:00. The maximum altitude the flight will operate at is 1500 ft. Is the following NOTAM likely to be a factor for the flight?</p>\n\n<p><span style=\"letter-spacing:0.7px\">EGPX/QRDCA/IV/BO/W/000/021/5736N00403W002 DANGER AREA D7025 ACTIVATED LOWER: SFC UPPER: 2100FT AMSL FROM: 22 MAY 15:00 TO: 30 MAY 22:59</span></p>",
+  "options": {
+    "a": "Only under VFR, as airways are excluded from the effects of such notifications.",
+    "b": "Yes, the information in the NOTAM is a factor.",
+    "c": "Yes, the NOTAM is a factor but only if no flight plan has been filed.",
+    "d": "No, the NOTAM is not a factor."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

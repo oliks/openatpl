@@ -1,0 +1,14 @@
+{
+  "number": 672,
+  "questionId": 81978,
+  "questionNumber": "333837",
+  "stemHtml": "<p>Given the following data for the pre-flight calculations, determine the Trip Fuel required for a Commercial Air Transport flight. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Trip distance: 122 NM<br>TAS: 145 kt<br>Headwind component: 15 kts<br>Average fuel flow: 4500 kg/h<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
+  "options": {
+    "a": "3877 kg",
+    "b": "4223 kg",
+    "c": "3431 kg",
+    "d": "3786 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

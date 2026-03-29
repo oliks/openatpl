@@ -1,0 +1,14 @@
+{
+  "number": 1510,
+  "questionId": 96682,
+  "questionNumber": "336672",
+  "stemHtml": "<p>Given the following information, what is the minimum block fuel required for the Commercial Air Transport <br /> \rflight with a Performance Class A aeroplane using the Basic Fuel Scheme WITH variations for Reduced Contingency Fuel?</p>\r\r<p>Taxi Fuel: 300 kg <br /> \rTrip Fuel A to DP: 12 000 kg <br /> \rTrip Fuel DP to Destination: 9000 kg <br /> \rTrip Fuel DP to optional refuelling destination: 3000 kg <br /> \rDestination Alternate Fuel (for both possible destinations): 2000 kg <br /> \rFinal Reserve Fuel: 1350 kg <br /> \rExtra Fuel: 0 kg <br /> \rDiscretionary Fuel: 0 kg</p>",
+  "options": {
+    "a": "<p>19 400 kg</p>",
+    "b": "<p>25 100 kg</p>",
+    "c": "<p>23 750 kg</p>",
+    "d": "<p>21 650 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

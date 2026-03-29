@@ -1,0 +1,24 @@
+{
+  "number": 1230,
+  "questionId": 84341,
+  "questionNumber": "333224",
+  "stemHtml": "<p>Refer to figure or Stuttgart (EDDS) 10-3P chart from the Jeppesen GSPRM 2017.<br>Before departure from Rwy 25 of the Stuttgart (EDDS) aerodrome, the message \"GPS INOP\" appears on your GNSS display. What SID should be followed in this case?</p>",
+  "options": {
+    "a": "RNAV departure DKB 9B.",
+    "b": "RNAV departure DKB 4H.",
+    "c": "Conventional departure DKB 9B.",
+    "d": "Conventional departure DKB 4H."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 51038,
+      "uniqueKey": "1B4859F5-5983-4087-98C2-63F49AD04C43",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=1B4859F5-5983-4087-98C2-63F49AD04C43",
+      "publicUrl": "/attachments/033/1B4859F5-5983-4087-98C2-63F49AD04C43.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1B4859F5-5983-4087-98C2-63F49AD04C43.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 516,
+  "questionId": 78447,
+  "questionNumber": "338458",
+  "stemHtml": "<p>A flight shall be conducted according to the reduced contingency fuel procedure. Given the following information, calculate the minimum take-off fuel which must be loaded:</p><p>Flight time from departure to decision point (DP): 5 h 17 min</p><p><u>Flight from DP to destination 1</u>\u00a0<br>Flight time: 1 h 2 min\u00a0<br>Time to alternate: 21 min</p><p><u>Flight from DP to destination 2</u>\u00a0<br>Flight time: 37 min\u00a0<br>Time to alternate: 18 min</p><p>Average fuel consumption: 2969 kg/h\u00a0<br>Final Reserve fuel: 1320 kg in all cases</p>",
+  "options": {
+    "a": "<p>20 227 kg</p>",
+    "b": "<p>21 266 kg</p>",
+    "c": "<p>19 874 kg</p>",
+    "d": "<p>22 051 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

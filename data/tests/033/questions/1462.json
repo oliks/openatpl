@@ -1,0 +1,24 @@
+{
+  "number": 1462,
+  "questionId": 135235,
+  "questionNumber": "333790",
+  "stemHtml": "<p>Refer to figure or Nantes chart 19-1 from Jeppesen GSPRM. <br>An aircraft is departing from LFRS (Nantes Atlantique) to conduct a VFR flight to the northwest. The ATC clears the aircraft to leave the control zone (CTR) via waypoint NW. Why is waypoint NW a good feature for visual identification?</p>",
+  "options": {
+    "a": "<p>NW can be identified by inserting N47\u00b015.4' W001\u00b041.1' into the GNSS receiver for visual identification on the moving map.</p>",
+    "b": "<p>NW can be identified by using the NTS VOR/DME; it is positioned on the radial 334\u00b0 at 6.5 NM.</p>",
+    "c": "<p>NW is positioned on a 378 ft-tall lighted mast, which makes it easy to identify because of its large vertical extent and the illumination.</p>",
+    "d": "<p>NW is positioned on the junction of two motorways, which is made unique by being the only such junction in that immediate area.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 70707,
+      "uniqueKey": "c96ea77e-5777-48f3-b01a-e17e6f0d6048",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=c96ea77e-5777-48f3-b01a-e17e6f0d6048",
+      "publicUrl": "/attachments/033/c96ea77e-5777-48f3-b01a-e17e6f0d6048.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c96ea77e-5777-48f3-b01a-e17e6f0d6048.png"
+    }
+  ]
+}

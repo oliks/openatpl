@@ -1,0 +1,14 @@
+{
+  "number": 447,
+  "questionId": 70432,
+  "questionNumber": "332664",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from departure to destination: 4630 NM</span> <br /> \nSafe Endurance: 12.4 h <br /> \nTrue Track: 240 <br /> \nW/V: 060/80 <br /> \nTAS: 420 kt</p>\n\n<p>What is the distance of the PSR from the departure point?</p>",
+  "options": {
+    "a": "1419 NM",
+    "b": "6106 NM",
+    "c": "2510 NM",
+    "d": "1966 NM"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

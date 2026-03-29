@@ -1,0 +1,14 @@
+{
+  "number": 1285,
+  "questionId": 71015,
+  "questionNumber": "332547",
+  "stemHtml": "<p>Given:</p><p>True Air Speed: 135 kt <br>True course: 270\u00b0 <br>Wind: 340\u00b0/20 kt <br>Distance: 53 NM</p><p>Determine ground speed (GS) and flight time for covering the given distance\u2026</p>",
+  "options": {
+    "a": "127 kt, 17 minutes",
+    "b": "127 kt, 25 minutes",
+    "c": "107 kt, 30 minutes",
+    "d": "115 kt, 28 minutes"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

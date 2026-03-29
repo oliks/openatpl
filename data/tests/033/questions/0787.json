@@ -1,0 +1,14 @@
+{
+  "number": 787,
+  "questionId": 107599,
+  "questionNumber": "332584",
+  "stemHtml": "<p>For pre-flight planning purposes, what is the block fuel required for a 1 hours and 50 min cruise time VFR flight with a class B multi-engined piston aircraft? The departure aerodrome will be used as the destination alternate. Assume the Basic Fuel Scheme WITHOUT variations applies.</p>\r\r<p>Taxi fuel: 8 L <br /> \rCruise fuel consumption: 58 L/h <br /> \rHolding fuel Consumption: 50 L/h <br /> \rDeparture and Climb fuel: 30 L <br /> \rGo Around and Climb fuel: 30 L <br /> \rApproach and Landing fuel: 14 L</p>",
+  "options": {
+    "a": "<p>354 L</p>",
+    "b": "<p>245.8 L</p>",
+    "c": "<p>340 L</p>",
+    "d": "<p>324 L</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

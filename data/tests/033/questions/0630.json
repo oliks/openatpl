@@ -1,0 +1,51 @@
+{
+  "number": 630,
+  "questionId": 81866,
+  "questionNumber": "335954",
+  "stemHtml": "Refer to figures or ALICANTE (LEAL) charts 11-1, 11-2, 13-1 and 13-2 from the Jeppesen GSPRM 2017.<br />\r\nAn aircraft is planned to fly to Alicante Elche aerodrome (LEAL) with the following entry in the tech log \"ADF inoperative due broken frequency selector parts ordered\". How will this affect the availability of approaches to Runway 10 at Alicante?",
+  "options": {
+    "a": "All given approaches are available as none of them are based on the AI NDB.",
+    "b": "All given ILS and VOR approaches are available. The LOC A and LOC B approaches are unavailable.",
+    "c": "Only the VOR Z approach is available.",
+    "d": "Both the VOR approaches are available. The ILS and LOC approaches are unavailable."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 42909,
+      "uniqueKey": "9E144220-48DA-42CA-B7D8-7A2C353D98FD",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=9E144220-48DA-42CA-B7D8-7A2C353D98FD",
+      "publicUrl": "/attachments/033/9E144220-48DA-42CA-B7D8-7A2C353D98FD.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9E144220-48DA-42CA-B7D8-7A2C353D98FD.png"
+    },
+    {
+      "id": 42913,
+      "uniqueKey": "49DBD2EC-08AD-45CC-A923-E2A0F9B8E2B7",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=49DBD2EC-08AD-45CC-A923-E2A0F9B8E2B7",
+      "publicUrl": "/attachments/033/49DBD2EC-08AD-45CC-A923-E2A0F9B8E2B7.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/49DBD2EC-08AD-45CC-A923-E2A0F9B8E2B7.png"
+    },
+    {
+      "id": 42914,
+      "uniqueKey": "93DFEAAC-F3D3-483E-BFA9-32D4EF6F1CA0",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=93DFEAAC-F3D3-483E-BFA9-32D4EF6F1CA0",
+      "publicUrl": "/attachments/033/93DFEAAC-F3D3-483E-BFA9-32D4EF6F1CA0.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/93DFEAAC-F3D3-483E-BFA9-32D4EF6F1CA0.png"
+    },
+    {
+      "id": 42915,
+      "uniqueKey": "E217E330-A3FE-46D1-9B3F-429BB4424890",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=E217E330-A3FE-46D1-9B3F-429BB4424890",
+      "publicUrl": "/attachments/033/E217E330-A3FE-46D1-9B3F-429BB4424890.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E217E330-A3FE-46D1-9B3F-429BB4424890.png"
+    }
+  ]
+}

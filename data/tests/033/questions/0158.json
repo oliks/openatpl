@@ -1,0 +1,14 @@
+{
+  "number": 158,
+  "questionId": 107434,
+  "questionNumber": "338611",
+  "stemHtml": "<p>Calculate the contingency fuel required for the flight.</p><p>Trip fuel: 2300 kg\u00a0<br>Holding fuel flow above destination: 2000 kg/hr\u00a0<br>Holding fuel flow above alternate: 1800 kg/hr</p>",
+  "options": {
+    "a": "<p>115 kg</p>",
+    "b": "<p>167 kg</p>",
+    "c": "<p>150 kg</p>",
+    "d": "<p>70 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

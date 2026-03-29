@@ -1,0 +1,14 @@
+{
+  "number": 896,
+  "questionId": 70682,
+  "questionNumber": "338426",
+  "stemHtml": "<p>Given the following NOTAM information, what changes apply to NDB CF?</p>\n\n<p><span style=\"letter-spacing:0.7px\">NEW TODAY TIL 1603312359 NDB REMAINS CF 367KHZ FROM 0000 TO 0900 NDB CF 367KHZ BECOMES ASM 367KHZ FROM 0900 TO 2359 REF TRIGGER NOTAM PERM AIRAC AIP AMDT 04/16 : NOTAM LF/F0403/16 >>> END OF BULLETIN <<<</span></p>",
+  "options": {
+    "a": "NDB CF identifier changes from \u201cCF\u201d to \u201cASM\u201d at 09:00 UTC on the given date.",
+    "b": "NDB CF frequency changes to 367 kHz at 09:00 UTC on the given date.",
+    "c": "NDB CF identifier changes to \u201cASM\u201d at 09:00 UTC, and changes back to \u201cCF\u201d after 00:00 UTC.",
+    "d": "NDB CF identifier changes from \u201cCF\u201d to \u201cASM\u201d at 23:59 UTC on the given date."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

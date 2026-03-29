@@ -1,0 +1,14 @@
+{
+  "number": 1204,
+  "questionId": 164351,
+  "questionNumber": "338048",
+  "stemHtml": "<p>When should a pilot check RAIM availability for a GNSS approach?</p>",
+  "options": {
+    "a": "<p>After top of climb until top of descent.</p>",
+    "b": "<p>At the exact time the system is intended to be used.</p>",
+    "c": "<p>Between top of descent and the end of the arrival (approach phase).</p>",
+    "d": "<p>Before take-off.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

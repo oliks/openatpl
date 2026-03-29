@@ -1,0 +1,14 @@
+{
+  "number": 1209,
+  "questionId": 79140,
+  "questionNumber": "335650",
+  "stemHtml": "<p>Calculate the remaining fuel overhead NADIR for the multi-engine aircraft, given:</p><p>Fuel on board at TROUT: 1320 kg <br>Distance from TROUT to NADIR: 49 NM <br>True airspeed (TAS): 142 kt <br>Headwind (expected): 10 kt <br>Fuel flow: 440 kg/hr</p>",
+  "options": {
+    "a": "<p>1157 kg</p>",
+    "b": "<p>1168 kg</p>",
+    "c": "<p>1173 kg</p>",
+    "d": "<p>1178 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

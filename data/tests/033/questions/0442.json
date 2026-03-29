@@ -1,0 +1,14 @@
+{
+  "number": 442,
+  "questionId": 81933,
+  "questionNumber": "334061",
+  "stemHtml": "<p>A flight from aerodrome A to aerodrome B is planned using the Reduced Contingency Fuel Procedure. The decision point along the route is DP and aerodrome C is the optional refuelling destination. Given the following data calculate the minimum fuel required for the flight from A to B.</p><p>Taxi Fuel: 250 kg <br>Alternate Fuel: 2000 kg <br>Final Reserve Fuel: 1500 kg <br>Trip Fuel A to B via DP: 13 000 kg <br>Trip Fuel A to C via DP: 11 000 kg <br>Trip Fuel DP to B: 5000 kg</p>",
+  "options": {
+    "a": "<p>17 400 kg</p>",
+    "b": "<p>17 000 kg</p>",
+    "c": "<p>15 300 kg</p>",
+    "d": "<p>16 700 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 265,
+  "questionId": 70786,
+  "questionNumber": "338123",
+  "stemHtml": "<p>Refer to figure or CAP 697 figure 4.3.6. <br>Given the following information, find the minimum required Alternate Fuel for an IFR Commercial Air Transport flight of duration 8 hours to a destination for which the operator has nominated two destination alternates ALTN1 and ALTN2. At the destination, meteorological information is available, weather conditions are expected to be above the planning minima within ETA +/- 1 hour, two runways are available and usable, the ceiling will be 1500 ft, and the ground visibility 4 km.</p><p>Distance to ALTN1: 200 NM<br>Wind to ALTN1: 50 kt HWC<br>Distance to ALTN2: 275 NM<br>Wind to ALTN2: 25 kt TWC<br>Landing Mass at alternates: 55.0 t</p>",
+  "options": {
+    "a": "2100 kg",
+    "b": "1900 kg",
+    "c": "2350 kg",
+    "d": "1750 kg"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 54338,
+      "uniqueKey": "c139988d-cb27-4044-8c36-20f71b285abb",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=c139988d-cb27-4044-8c36-20f71b285abb",
+      "publicUrl": "/attachments/033/c139988d-cb27-4044-8c36-20f71b285abb.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c139988d-cb27-4044-8c36-20f71b285abb.jpg"
+    }
+  ]
+}

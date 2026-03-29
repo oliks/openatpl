@@ -1,0 +1,14 @@
+{
+  "number": 1317,
+  "questionId": 163373,
+  "questionNumber": "339990",
+  "stemHtml": "<p>An aircraft is flying from Amsterdam (52\u00b018.5'N 004\u00b045.9'E) to Alicante (38\u00b016.9'N 000\u00b033.5'W). For this route the pilot has inserted a wind vector of 325\u00b0(T)/60 kt. The actual wind is 225\u00b0(T)/60 kt. This means the FMS predicted that the (1) _____ and the predicted fuel consumption is (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) ETA is too early; (2) too low</p>",
+    "b": "<p>(1) ETA is correct as the FMS automatically corrects with speed control; (2) too high</p>",
+    "c": "<p>(1) EET is too long; (2) correct</p>",
+    "d": "<p>(1) EET is too short; (2) correct as the air distance is the same</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 544,
+  "questionId": 70645,
+  "questionNumber": "338956",
+  "stemHtml": "<p>Given the following information, what time deviation will be encountered on the leg?</p><p>Reference leg time on the flight plan: 17 minutes <br /> Leg track: 090\u00b0 <br /> Leg distance: 100 NM <br /> TAS: 345 kt <br /> Wind: 065\u00b0/50 kt</p><div><div> </div></div>",
+  "options": {
+    "a": "A delay of 3 minutes.",
+    "b": "A delay of 1 minute.",
+    "c": "An advance of 2 minutes.",
+    "d": "No delay."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

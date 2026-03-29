@@ -1,0 +1,24 @@
+{
+  "number": 800,
+  "questionId": 83004,
+  "questionNumber": "336000",
+  "stemHtml": "<p>Refer to figure. <br /> During a flight, a fault message appears stating that the valves allowing fuel to be transferred from the left outer wing tank to the left inner wing tank are stuck in the closed position. These valves can NOT be opened manually. Given the following information, determine the fuel available for the remainder of the flight.</p>Left and right inner tanks: 3000 kg each <br /> Left and right outer tanks: full <br /> Centre tank: empty <br /> All other technical aspects of the fuel system operate normally. <br /> Do NOT consider fuel imbalance restrictions for this scenario.",
+  "options": {
+    "a": "6000 kg",
+    "b": "3691 kg",
+    "c": "7382 kg",
+    "d": "6691 kg"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 45316,
+      "uniqueKey": "5F0DF185-E88A-44A6-902F-4FEE9AF3E75E",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=5F0DF185-E88A-44A6-902F-4FEE9AF3E75E",
+      "publicUrl": "/attachments/033/5F0DF185-E88A-44A6-902F-4FEE9AF3E75E.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5F0DF185-E88A-44A6-902F-4FEE9AF3E75E.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 752,
+  "questionId": 70422,
+  "questionNumber": "336708",
+  "stemHtml": "<p>For pre-flight planning purposes, what is the minimum Take-off Fuel required for the Commercial Air Transport flight with Performance Class A aeroplanes, given the following information? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Fuel necessary for a jet aeroplane to fly IFR from departure aerodrome to the destination aerodrome: 5352 kg<br>Fuel consumption in holding mode: 6000 kg/h<br>Destination Alternate fuel: 4380 kg<br>Contingency should be 5% of trip fuel<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
+  "options": {
+    "a": "<p>13 220 kg.</p>",
+    "b": "<p>14 500 kg.</p>",
+    "c": "<p>13 000 kg.</p>",
+    "d": "<p>13 370 kg.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

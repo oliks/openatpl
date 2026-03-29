@@ -1,0 +1,24 @@
+{
+  "number": 1397,
+  "questionId": 70980,
+  "questionNumber": "339547",
+  "stemHtml": "<p>Refer to figure.  <br />  An aeroplane is performing a commercial air transport flight. Regular fuel checks performed approximately every 30 min as required by the operator. The flight follows the planned route and the flies at the mach number as planned. The fuel measurements are accurate within +/- 20 kg and the fuel flow indicators show a constant 1340 kg/h per engine throughout.</p><p>What is the reason for the creation of the position of PBD05 + 10 min?</p>",
+  "options": {
+    "a": "<div>The aeroplane has less fuel than required but the fuel flow is verified as correct enabling a reasonable conclusion that any discrepancy is due to the wind being different to planned.</div>",
+    "b": "<div>The fuel flow appear to be gradually reducing and in order to verify a revised fuel flow of 2850 kg/h the new waypoint enables this and a revised landing fuel may be calculated.</div>",
+    "c": "<div>The fuel flow is confirmed to be different from the plan and therefore the fuel flow indicators are showing incorrect and the thrust can be reduced to match the planned fuel flow.</div>",
+    "d": "The fuel flow appear to be gradually increasing and one way of verifying this is to create a waypoint based on time and use the last known fuel depletion rate to assess any trends."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 47935,
+      "uniqueKey": "09CBA358-3B1E-4373-A002-D13D33279685",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=09CBA358-3B1E-4373-A002-D13D33279685",
+      "publicUrl": "/attachments/033/09CBA358-3B1E-4373-A002-D13D33279685.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/09CBA358-3B1E-4373-A002-D13D33279685.jpg"
+    }
+  ]
+}

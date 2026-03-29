@@ -1,0 +1,14 @@
+{
+  "number": 717,
+  "questionId": 81895,
+  "questionNumber": "333955",
+  "stemHtml": "<p>For pre-flight planning purposes, what is the minimum Block Fuel required for the Commercial Air Transport flight in a Medium Range Jet Transport MRJT aeroplane, given the following information? The operator has nominated a suitable En-Route Alternate aerodrome. </p><p>Departure Taxi Fuel: 150 kg<br>Trip Fuel: 2101 kg<br>Alternate Fuel: 2046 kg<br>Destination Taxi Fuel: 250 kg<br>Average fuel flow: 3317 kg/h<br>Holding fuel flow: 2735 kg/h<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
+  "options": {
+    "a": "5578 kg",
+    "b": "5893 kg",
+    "c": "5728 kg",
+    "d": "6143 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

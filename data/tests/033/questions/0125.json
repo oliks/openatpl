@@ -1,0 +1,24 @@
+{
+  "number": 125,
+  "questionId": 100837,
+  "questionNumber": "335603",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is departing following ANDIK 2F SID from Amsterdam with an aircraft with RNAV equipment fully operational. The aircraft should...</p>",
+  "options": {
+    "a": "<p>Turn as directed by ATC.</p>",
+    "b": "<p>Turn by waypoints input in the FMC.</p>",
+    "c": "<p>Use VOR SPL and intercept PAM radial.</p>",
+    "d": "<p>Use EH019, EH20, EH43 radio signals.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 59688,
+      "uniqueKey": "4bad4c37-5877-492a-bd8a-1354e90faa70",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4bad4c37-5877-492a-bd8a-1354e90faa70",
+      "publicUrl": "/attachments/033/4bad4c37-5877-492a-bd8a-1354e90faa70.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4bad4c37-5877-492a-bd8a-1354e90faa70.jpg"
+    }
+  ]
+}

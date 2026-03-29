@@ -1,0 +1,14 @@
+{
+  "number": 608,
+  "questionId": 111101,
+  "questionNumber": "337557",
+  "stemHtml": "<p>Given the following information, determine the correct ICAO VFR cruise level:</p>\r\r<p>Track: 185\u00b0(T) <br /> \rVariation: 5\u00b0W</p>",
+  "options": {
+    "a": "<p>FL65</p>",
+    "b": "<p>FL60</p>",
+    "c": "<p>FL55</p>",
+    "d": "<p>FL50</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

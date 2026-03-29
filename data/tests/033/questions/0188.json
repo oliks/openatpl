@@ -1,0 +1,14 @@
+{
+  "number": 188,
+  "questionId": 84302,
+  "questionNumber": "336104",
+  "stemHtml": "<p>The calculated fuel for a flight is 2500 kg. However, due to expected delays during flight, the commander decides to order an additional 100 kg of fuel. Due to miscommunication, the refueling team provides only 2500 kg. In such situation, the refueling team shoud\u2026</p>",
+  "options": {
+    "a": "NOT be informed because Contingency fuel covers those 100 kg of Extra Fuel.",
+    "b": "Be informed because those 100 kg are part of the necessary fuel for the flight.",
+    "c": "Be informed and the fuel added as long as it does not delay the departure.",
+    "d": "NOT be informed because 2 500 kg of fuel is enough for the planned route."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

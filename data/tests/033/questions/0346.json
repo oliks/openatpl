@@ -1,0 +1,14 @@
+{
+  "number": 346,
+  "questionId": 70850,
+  "questionNumber": "338879",
+  "stemHtml": "<div>The Trip Fuel for a Commercial Air Transport flight must consider...</div>\r\n",
+  "options": {
+    "a": "<div>the required fuel for an APU during the whole operation.</div>",
+    "b": "<div>fuel up to the end of the missed approach procedure.</div>",
+    "c": "<p>the expected SID and STAR routing.</p>",
+    "d": "fuel for 30 minutes holding in 1500 ft at the destination."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

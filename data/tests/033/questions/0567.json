@@ -1,0 +1,14 @@
+{
+  "number": 567,
+  "questionId": 70585,
+  "questionNumber": "339672",
+  "stemHtml": "<p>Given the following NOTAM information, what RADAR and TOWER frequency should be used by departing aircraft at 21:00 UTC?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EGLF &FARNBOROUGH& <<< DUE TO WIP TAXIWAY ZULU IS CLOSED: NOTAM EG/C0697/16 SCHEDULE: MON-FRI 0700-0800 2000-2200, SAT&SUN 0800-0900,1830-2200 FARNBOROUGH RADAR AND TOWER MAY BE PROVIDED AS A COMBINED SERVICE WITH COUPLED FREQUENCIES. INBOUND AIRCRAFT SHOULD CONTACT FARNBOROUGH RADAR ON 134.350MHZ. OUTBOUND AIRCRAFT SHOULD CONTACT FARNBOROUGH TOWER ON 122.500MHZ: NOTAM EG/C0101/16 >>> END OF BULLETIN <<<</span></p>\n\n<div> </div>",
+  "options": {
+    "a": "RADAR frequency as specified on the chart.",
+    "b": "134.350 MHz.",
+    "c": "122.500 MHz.",
+    "d": "TOWER frequency as specified on the chart."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

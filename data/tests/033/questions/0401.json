@@ -1,0 +1,14 @@
+{
+  "number": 401,
+  "questionId": 159759,
+  "questionNumber": "331956",
+  "stemHtml": "<p>During an IFR flight under radar vectors, who must ensure that altitude corrections for non-standard temperature are applied, and under which temperature conditions?</p>",
+  "options": {
+    "a": "<p>ATC is responsible for the temperature correction to be applied, when the temperature is colder than ISA. <br />  </p>",
+    "b": "<p>ATC is responsible for the temperature correction to be applied, when the temperature is warmer than ISA. <br />  </p>",
+    "c": "<p>PIC is responsible for the temperature correction to be applied, when the temperature is colder than ISA. <br />  </p>",
+    "d": "<p>PIC is responsible for the temperature correction to be applied, when the temperature is warmer than ISA.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

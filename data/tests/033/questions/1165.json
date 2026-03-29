@@ -1,0 +1,24 @@
+{
+  "number": 1165,
+  "questionId": 70674,
+  "questionNumber": "331214",
+  "stemHtml": "<p>Refer to figure or Flight planning Manual SEP 1 Figure 2.3 Table 2.3.1. <br>Using the Power Setting Table, for the single engine aeroplane, determine the cruise TAS and fuel flow lb/hr with full throttle and cruise lean mixture in the following conditions:</p><p>Given:</p><p>OAT: 3\u00b0C <br>Pressure altitude: 6000 ft <br>Power: Full throttle / 21.0 in/Hg./ 2100 RPM</p><p> </p>",
+  "options": {
+    "a": "134 kt and 55.7 lb/hr",
+    "b": "131 kt and 56.9 lb/hr",
+    "c": "125 kt and 55.7 lb/hr",
+    "d": "136 kt and 56.9 lb/hr"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 21043,
+      "uniqueKey": "D566CB28-3331-4076-B36F-7C794C852667",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=D566CB28-3331-4076-B36F-7C794C852667",
+      "publicUrl": "/attachments/033/D566CB28-3331-4076-B36F-7C794C852667.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D566CB28-3331-4076-B36F-7C794C852667.gif"
+    }
+  ]
+}

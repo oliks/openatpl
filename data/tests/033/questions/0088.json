@@ -1,0 +1,14 @@
+{
+  "number": 88,
+  "questionId": 70684,
+  "questionNumber": "337642",
+  "stemHtml": "<p>Given the information below, calculate the Ground Speed for an aircraft on one leg of a cross country flight.</p><p>TAS: 110 kt <br /> TT: 235\u00b0 <br /> W/V: 350\u00b0/23 kt</p>",
+  "options": {
+    "a": "121 kt",
+    "b": "128 kt",
+    "c": "118 kt",
+    "d": "125 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 248,
+  "questionId": 70479,
+  "questionNumber": "331007",
+  "stemHtml": "<p>What should be considered when using the following NOTAM information from the transmitter during the validity period?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q) EDGG/QNNCS/IV/BO/AE/000/999/5049N00638E025 A) ETNN B) FROM: 15/11/11 09:00 C) TO: 16/02/10 21:50 EST E) AD ETNN: MOBILE TACAN NOE CH79Y IN USE. PSN 504947N0063847E 259DEG 859M FROM ARP.</span></p>",
+  "options": {
+    "a": "The transmitter may move from the position indicated.",
+    "b": "The slant range indications are only valid for the position indicated.",
+    "c": "An approach to the ARP is possible by following the 259 degree radial.",
+    "d": "The distance indications have to be adjusted by 859 metres."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

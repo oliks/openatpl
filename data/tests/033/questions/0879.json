@@ -1,0 +1,14 @@
+{
+  "number": 879,
+  "questionId": 162999,
+  "questionNumber": "335288",
+  "stemHtml": "<p>What can you conclude about the aircraft\u2019s cruise speed from the following flight plan data?\u00a0<br>Conditions at TOC:\u00a0<br>Mass: 156 000 kg\u00a0<br>Distance to destination: 3042 NM\u00a0<br>Time to destination: 7 h 19 min</p><p>Conditions at TOD:\u00a0<br>Mass: 146 000 kg\u00a0<br>Distance to destination: 2030 NM\u00a0<br>Time to destination: 4 h 58 min<br>Mean headwind component is 30 kt\u2026</p>",
+  "options": {
+    "a": "<p>TAS 465 kt</p>",
+    "b": "<p>TAS 431 kt</p>",
+    "c": "<p>GS 431 kt</p>",
+    "d": "<p>GS 461 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 351,
+  "questionId": 108920,
+  "questionNumber": "333880",
+  "stemHtml": "<p>Refer to VFR chart ED-4 from the Jeppesen GSPRM 2017. <br>Determine the magnetic track and distance between Sulz VOR (N48\u00b023' E008\u00b039') and Laupheim (ETHL, N48\u00b013' E009\u00b055').</p>",
+  "options": {
+    "a": "<p>098\u00b0(M), 52 NM</p>",
+    "b": "<p>102\u00b0(M), 72 NM</p>",
+    "c": "<p>098\u00b0(M), 72 NM</p>",
+    "d": "<p>094\u00b0(M), 52 NM</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 64712,
+      "uniqueKey": "241ba4cc-d743-4f3b-a68f-d651aeef50fb",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=241ba4cc-d743-4f3b-a68f-d651aeef50fb",
+      "publicUrl": "/attachments/033/241ba4cc-d743-4f3b-a68f-d651aeef50fb.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/241ba4cc-d743-4f3b-a68f-d651aeef50fb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 658,
+  "questionId": 111218,
+  "questionNumber": "334963",
+  "stemHtml": "<p>Given the following information, calculate the total APU fuel consumption on the ground.</p><p>1. Before departure, the APU operates for 15 minutes <br>2. The taxi time is expected to be 10 minutes <br>3. The APU consumes an additional 5 kg of fuel during startup <br>4. Due to modifications, the APU's fuel flow rate is 150 kg/hour, and the APU's fuel consumption during taxi is 11 kg/min</p>",
+  "options": {
+    "a": "<p>Approx. 43 kg</p>",
+    "b": "<p>Approx. 153 kg</p>",
+    "c": "<p>Approx. 265 kg</p>",
+    "d": "<p>Approx. 144 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

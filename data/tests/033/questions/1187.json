@@ -1,0 +1,14 @@
+{
+  "number": 1187,
+  "questionId": 159002,
+  "questionNumber": "337274",
+  "stemHtml": "<p>During the planning stage of a flight to Paris Charles de Gaulle Airport, France, the pilot notes the following NOTAM. Using this NOTAM, until what time is GBAS not available?</p><p>Q) LFFF/QGWAU/I/BO/A/000/999/4901N00232E250 A) LFPG B) 1901031723C) 1901031754 E) BASIC GNSS UNAVBL FOR NPA 1901031723 TIL 1901031754 SBAS UNAVBL FOR APV 1901031731 TIL 1901031748 GBAS UNAVBL 1901031735 TIL 1901031746)</p>",
+  "options": {
+    "a": "<p>17:46 UTC</p>",
+    "b": "<p>17:54 UTC</p>",
+    "c": "<p>17:48 UTC</p>",
+    "d": "<p>17:35 UTC</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

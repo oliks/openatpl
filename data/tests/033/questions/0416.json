@@ -1,0 +1,24 @@
+{
+  "number": 416,
+  "questionId": 107356,
+  "questionNumber": "332232",
+  "stemHtml": "<p>Refer to figure or STUTTGART - Chart 12-2 from Jeppesen GSPRM 2017.\u00a0<br>A flight crew are planning to fly the RNP approach for Runway 25 at STUTTGART (EDDS). Using the data below, what is the minimum meteorological visibility or RVR required to commence the approach?</p><p>Aircraft approach category: D\u00a0<br>Aircraft approach capability: CAT IIIB and LNAV/VNAV\u00a0<br>No technical downgrades to aircraft\u00a0<br>No technical downgrades at EDDS</p>",
+  "options": {
+    "a": "<p>1900 m RVR</p>",
+    "b": "<p>1300 m RVR</p>",
+    "c": "<p>1900 m meteorological visibility</p>",
+    "d": "<p>1200 m RVR</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 62389,
+      "uniqueKey": "8d3d1482-738f-4caa-a006-ea18bc3424ec",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8d3d1482-738f-4caa-a006-ea18bc3424ec",
+      "publicUrl": "/attachments/033/8d3d1482-738f-4caa-a006-ea18bc3424ec.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8d3d1482-738f-4caa-a006-ea18bc3424ec.jpg"
+    }
+  ]
+}

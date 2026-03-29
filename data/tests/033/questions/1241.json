@@ -1,0 +1,14 @@
+{
+  "number": 1241,
+  "questionId": 84431,
+  "questionNumber": "337231",
+  "stemHtml": "<p>An aircraft planning to fly a total distance of 450 NM, after flying for 1 hour 20 minutes it covers 160 NM and its actual fuel remaining is 890 I. Given the following information and assuming that the actual fuel consumption remains at the same rate, what will be the actual fuel remaining at destination?</p><p>Average TAS: 145 kt <br>Average wind component: 25 kt headwind <br>Trip Fuel: 1350 l <br>Planned average fuel flow: 360 l/h</p>",
+  "options": {
+    "a": "460 l",
+    "b": "589 l",
+    "c": "<p>56 l</p>",
+    "d": "20 l"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

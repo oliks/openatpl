@@ -1,0 +1,14 @@
+{
+  "number": 663,
+  "questionId": 85041,
+  "questionNumber": "333957",
+  "stemHtml": "<p>During a navigation flight, the pilot makes in-flight checks to monitor the progress of the flight. During the last leg, he/she notices that the planned timings overhead the chosen waypoints are NOT corresponding to the actual timings, and that the aircraft is getting behind the timings. Both the planned and actual airspeed are 160 kt. What is the main reason for the deviation from the planned timings?</p>",
+  "options": {
+    "a": "The actual groundspeed is faster than that calculated during the planning phase.",
+    "b": "The actual fuel consumption is different to the planned consumption.",
+    "c": "<p>The increase in aerodynamic drag resulting in a slower groundspeed.</p>",
+    "d": "The actual wind (direction or speed) is different to the forecast wind."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

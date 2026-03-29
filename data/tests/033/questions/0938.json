@@ -1,0 +1,14 @@
+{
+  "number": 938,
+  "questionId": 107437,
+  "questionNumber": "337441",
+  "stemHtml": "<p>A commercial operator is planning to operate a medium range jet transport aeroplane to destination 1, but with destination 2 available as a suitable aerodrome for a fuel stop as per the reduced contingency fuel regulations. There is also a suitable ERA aerodrome available for the flight to destination 2. Given the following information, calculate the minimum take-off fuel required.</p><p>Average fuel flow: 3010 kg/hr\u00a0<br>Flight time from departure to decision point: 4 h 29 min\u00a0<br>Flight Time from decision point to destination 1: 1 h 46 min\u00a0<br>Alternate fuel: 1455 kg\u00a0<br>Flight Time from decision point to destination 2: 0 h 46 min\u00a0<br>Alternate fuel: 1906 kg\u00a0<br>Final reserve: 1360 kg</p>",
+  "options": {
+    "a": "<p>19 285 kg</p>",
+    "b": "<p>21 894 kg</p>",
+    "c": "<p>22 277 kg</p>",
+    "d": "<p>21 375 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

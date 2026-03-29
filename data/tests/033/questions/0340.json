@@ -1,0 +1,14 @@
+{
+  "number": 340,
+  "questionId": 109904,
+  "questionNumber": "332042",
+  "stemHtml": "<p>Given the following information, calculate how much fuel you burn more or less when cruising at FL360 instead of FL320:</p>\r\r<p>Cruise speed: M 0.78 <br /> \rTemperature conditions: ISA <br /> \rCruise distance left: 1080 NM <br /> \rFuel Flow: 2365 kg/hr <br /> \rWind conditions at FL360: 50 kt headwind <br /> \rWind conditions at FL320: 50 kt tailwind</p>",
+  "options": {
+    "a": "<p>1300 kg more</p>",
+    "b": "<p>1300 kg less</p>",
+    "c": "<p>1155 kg more</p>",
+    "d": "<p>1155 kg less</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

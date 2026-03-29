@@ -1,0 +1,14 @@
+{
+  "number": 1391,
+  "questionId": 100358,
+  "questionNumber": "336627",
+  "stemHtml": "How can we use/insert a motorway intersection as a GNSS waypoint?",
+  "options": {
+    "a": "Add a motorway as a user waypoint using a bearing and distance from a GNSS waypoint.",
+    "b": "GNSS waypoints are just for IFR flights.",
+    "c": "We need to change our flight plan to IFR.",
+    "d": "You can choose the motorway intersection as a waypoint since all motorway intersections are already GNSS waypoints."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

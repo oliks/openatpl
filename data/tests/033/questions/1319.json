@@ -1,0 +1,14 @@
+{
+  "number": 1319,
+  "questionId": 84682,
+  "questionNumber": "333313",
+  "stemHtml": "<p>Given the following information, the pilot finally decides to fly with TAS 140 kt, because of a stronger headwind more than the forecast. What will be the difference in the fuel consumption between the planned and the actual conditions?</p><p>Distance A-B: 240 NGM <br /> Planned TAS: 130 kt <br /> Planned headwind (HWC): 10 kt <br /> Actual headwind (HWC): 25 kt <br /> Fuel flow with TAS 130 kt: 36 kg/hr <br /> Fuel flow with TAS 140 kt: 42 kg/hr</p>",
+  "options": {
+    "a": "72 kg",
+    "b": "16 kg",
+    "c": "21 kg",
+    "d": "6 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

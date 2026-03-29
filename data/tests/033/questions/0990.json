@@ -1,0 +1,14 @@
+{
+  "number": 990,
+  "questionId": 111758,
+  "questionNumber": "338630",
+  "stemHtml": "<p>Given the following information, how much discretionary fuel (formerly called extra fuel) can be carried:</p><p>Maximum Take-Off Mass (MTOM): 2100 lb <br>Zero Fuel Mass (ZFM): 1720 lb <br>Maximum Landing Mass (MLM): 1900 lb <br>Fuel tank capacity: 54.5 USG <br>Fuel at take-off: 32 USG <br>Trip fuel: 25 USG <br>Specific density: 0.72</p>",
+  "options": {
+    "a": "<p>31.2 USG</p>",
+    "b": "<p>7 USG</p>",
+    "c": "<p>22.5 USG</p>",
+    "d": "<p>23 USG</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

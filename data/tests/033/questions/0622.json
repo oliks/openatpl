@@ -1,0 +1,14 @@
+{
+  "number": 622,
+  "questionId": 70843,
+  "questionNumber": "331980",
+  "stemHtml": "<p>For a flight leg, the following data is assumed:</p><p>True course = 130\u00b0 <br>W/V = 180/30 <br>TAS = 200 kt</p><p>Determine the WCA and GS of this leg.</p>",
+  "options": {
+    "a": "WCA = -7\u00b0 GS = 180 kt.",
+    "b": "WCA = -7\u00b0 GS = 222 kt.",
+    "c": "WCA = +7\u00b0 GS = 180 kt.",
+    "d": "WCA = +7\u00b0 GS = 222 kt."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

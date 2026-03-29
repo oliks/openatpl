@@ -1,0 +1,14 @@
+{
+  "number": 1147,
+  "questionId": 107618,
+  "questionNumber": "334441",
+  "stemHtml": "<p>Given:</p><p>Trip length is 4:30 <br>Reserve fuel is 30% of trip fuel<br>Taxi fuel is 20 kg <br>Block fuel is 550 kg</p><p>What fuel remains when there is 1:45 trip time still remaining?</p>",
+  "options": {
+    "a": "<p>305 kg </p>",
+    "b": "<p>281 kg </p>",
+    "c": "<p>371 kg </p>",
+    "d": "<p>250 kg </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

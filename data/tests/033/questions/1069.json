@@ -1,0 +1,14 @@
+{
+  "number": 1069,
+  "questionId": 111946,
+  "questionNumber": "334683",
+  "stemHtml": "<p>An aircraft is planned to fly from Airport A to Airport B and back to Airport A. In which case is fuel tankering recommended with respect to fuel price differences between the airports?</p>",
+  "options": {
+    "a": "<p>Fuel price at Airport B must be significantly higher than at Airport A to compensate for the increased fuel burn due to extra mass.</p>",
+    "b": "<p>Fuel price at Airport B must be equal to or higher than at Airport A to justify tankering.</p>",
+    "c": "<p>Fuel price at Airport A must be higher than at Airport B to minimize the overall fuel cost.</p>",
+    "d": "<p>Fuel price at Airport A must be lower than at Airport B to reduce the aircraft's gross mass at take-off.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

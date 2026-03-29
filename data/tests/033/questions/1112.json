@@ -1,0 +1,24 @@
+{
+  "number": 1112,
+  "questionId": 82990,
+  "questionNumber": "339958",
+  "stemHtml": "<p>Refer to figure or Chart E(LO)2 from Jeppesen GSPRM 2017.<br>Which route is the shortest from Pole Hill (POL) VOR (N53\u00b045', W002\u00b006') to Dean Cross (DCS) DME (N54\u00b043', W003\u00b020')?</p>",
+  "options": {
+    "a": "Route: POL - P17 - BARTN - L975 - WAL - N864 - DCS.  <br />  Distance: 126 NM",
+    "b": "Route: POL - Y70 - KOLID - L70 - GUNTU - N864 - DCS.  <br />  Distance: 108 NM",
+    "c": "Route: POL - N601- TLA - N864 - DCS.  <br />  Distance: 161 NM",
+    "d": "Route: POL - N57 - DCS.  <br />  Distance: 73 NM"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 45272,
+      "uniqueKey": "90910DCD-E1EB-40DF-9C25-C206DC61E2CB",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=90910DCD-E1EB-40DF-9C25-C206DC61E2CB",
+      "publicUrl": "/attachments/033/90910DCD-E1EB-40DF-9C25-C206DC61E2CB.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/90910DCD-E1EB-40DF-9C25-C206DC61E2CB.jpg"
+    }
+  ]
+}

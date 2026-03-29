@@ -1,0 +1,24 @@
+{
+  "number": 1151,
+  "questionId": 70492,
+  "questionNumber": "331949",
+  "stemHtml": "<p>Refer to figure. <br /> Given: Planned and actual data as shown in the Flight Log excerpt.</p><p>Provided that flight conditions on the leg GAMMA to DELTA remain unchanged and fuel consumption remains unchanged, what fuel remaining should be expected at waypoint DELTA?</p>",
+  "options": {
+    "a": "3800 kg",
+    "b": "4220 kg",
+    "c": "4340 kg",
+    "d": "4430 kg"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 55587,
+      "uniqueKey": "747f4e9e-24de-450b-b4bc-4b1d0548fa78",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=747f4e9e-24de-450b-b4bc-4b1d0548fa78",
+      "publicUrl": "/attachments/033/747f4e9e-24de-450b-b4bc-4b1d0548fa78.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/747f4e9e-24de-450b-b4bc-4b1d0548fa78.jpg"
+    }
+  ]
+}

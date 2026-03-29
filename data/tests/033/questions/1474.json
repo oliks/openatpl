@@ -1,0 +1,24 @@
+{
+  "number": 1474,
+  "questionId": 163367,
+  "questionNumber": "333136",
+  "stemHtml": "<p>Given the following information, how much extra fuel can be added to optimize fuel tankering?</p><p>Price ratio: 0.898  <br /> Air distance: 2650 NAM  <br /> Planned take-off mass: 198 000 kg  <br /> Maximum Takeoff Mass (MTOM): 208 000 kg  <br /> Maximum Landing Mass (MLM): 184 500 kg  <br /> Planned Take-off Fuel: 30 000 kg  <br /> Trip Fuel: 23 000 kg</p>",
+  "options": {
+    "a": "<p>3000 kg</p>",
+    "b": "<p>5500 kg</p>",
+    "c": "<p>7000 kg</p>",
+    "d": "<p>8000 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 73157,
+      "uniqueKey": "00bf0ab6-927c-4f60-8181-9e91ae5d109a",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=00bf0ab6-927c-4f60-8181-9e91ae5d109a",
+      "publicUrl": "/attachments/033/00bf0ab6-927c-4f60-8181-9e91ae5d109a.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/00bf0ab6-927c-4f60-8181-9e91ae5d109a.jpg"
+    }
+  ]
+}

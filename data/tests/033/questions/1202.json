@@ -1,0 +1,14 @@
+{
+  "number": 1202,
+  "questionId": 111048,
+  "questionNumber": "335156",
+  "stemHtml": "<p>Given the following NOTAM, what is the maximum altitude of the Balloon?</p><p>H0780/21 NOTAMN <br>Q) EGTT/QWZLW/IV/M/W/000/016/5052N00027W001 <br>A) EGTT <br>B) 1903100626 <br>C) 1906102015 <br>E) FLYING OF LARGE BALLOON WI 0.5NM RADIUS OF 505225N 0002637W (FINDON, WEST SUSSEX). MAX HGT 600 FT AGL/800FT AMSL. FOR INFO CONTACT 07967 399254. 2019-10-0171/AS2<br>F) SFC <br>G) 1600 FT AMSL</p>",
+  "options": {
+    "a": "<p>1600 FT MSL</p>",
+    "b": "<p>600 FT AGL</p>",
+    "c": "<p>780 FT AGL</p>",
+    "d": "<p>800 FT AMSL</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

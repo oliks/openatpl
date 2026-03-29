@@ -1,0 +1,14 @@
+{
+  "number": 101,
+  "questionId": 81871,
+  "questionNumber": "331080",
+  "stemHtml": "What will be the effect on the FMC fuel and time predictions if the aircraft is in a non-standard configuration?",
+  "options": {
+    "a": "Only the next waypoint eta and remaining fuel will be accurate.",
+    "b": "There will be no effect as FMC will make an automatic correction.",
+    "c": "<p>The FMC can not provide ETAs or fuel predictions.</p>",
+    "d": "<p>The predicted fuel remaining will be incorrect and the pilots should watch out for this.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

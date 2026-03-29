@@ -1,0 +1,14 @@
+{
+  "number": 659,
+  "questionId": 96388,
+  "questionNumber": "334516",
+  "stemHtml": "<p>Determine the revised estimated landing mass at the destination aerodrome, given the following information:</p><p>DOM: 9950 Ib\u00a0<br>Traffic Load: 3450 Ib\u00a0<br>Remaining Usable Fuel: 2500 Ib\u00a0<br>Remaining Trip Fuel to the destination: 1200 Ib\u00a0<br>Alternate Fuel: 525 Ib\u00a0<br>Final Reserve Fuel: 415 Ib</p>",
+  "options": {
+    "a": "<p>15 640 Ib</p>",
+    "b": "<p>14 700 Ib</p>",
+    "c": "<p>14 285 Ib</p>",
+    "d": "14 600 Ib"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

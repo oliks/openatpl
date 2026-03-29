@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "questionId": 101714,
+  "questionNumber": "337811",
+  "stemHtml": "<p>Refer to figure. <br>The figure above shows an extract from a partially completed OFP (operational flight plan). What is the actual fuel consumed, compared to the planned fuel consumed, between TOC and RKN?</p>",
+  "options": {
+    "a": "<p>25 kg less than planned.</p>",
+    "b": "<p>5 kg more than planned.</p>",
+    "c": "<p>78 kg more than planned.</p>",
+    "d": "<p>31 kg more than planned.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 58125,
+      "uniqueKey": "b1cba5b5-9878-4c71-bee3-4b977d40f0a9",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=b1cba5b5-9878-4c71-bee3-4b977d40f0a9",
+      "publicUrl": "/attachments/033/b1cba5b5-9878-4c71-bee3-4b977d40f0a9.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/b1cba5b5-9878-4c71-bee3-4b977d40f0a9.jpg"
+    }
+  ]
+}

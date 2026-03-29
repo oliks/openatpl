@@ -1,0 +1,14 @@
+{
+  "number": 724,
+  "questionId": 70414,
+  "questionNumber": "331205",
+  "stemHtml": "<p>Given:</p><p>Maximum Allowable Take-Off Mass: 64 400 kg <br>Maximum Landing Mass: 56 200 kg <br>Maximum Zero Fuel Mass: 53 000 kg <br>Dry Operating Mass: 35 500 kg <br>Estimated load: 14 500 kg <br>Estimated trip fuel: 4900 kg <br>Minimum take-off fuel: 7400 kg</p><p>Find the maximum additional load.</p>",
+  "options": {
+    "a": "<p>5600 kg</p>",
+    "b": "<p>7000 kg</p>",
+    "c": "<p>4000 kg</p>",
+    "d": "<p>3000 kg</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

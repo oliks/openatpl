@@ -1,0 +1,24 @@
+{
+  "number": 1247,
+  "questionId": 84541,
+  "questionNumber": "339879",
+  "stemHtml": "<p>Refer to figure. <br /> The annex depicts a pilot's flight plan/log from LPFR to LEMG extracted by a flight planning software. When approaching VJF, the pilots realizes abnormal airframe vibrations and reduces speed from VJF. When overhead Tarifa, the pilot calculates that according to the new speed, the flight time from Tarifa to LEMG will be 47 minutes. Taking into account the latest fuel flow after VJF, the fuel consumption will be...</p>",
+  "options": {
+    "a": "greater since the fuel flow has increased to 163 kg/h giving 120 kg fuel remaining when landing in LEMG.",
+    "b": "lower since the lower speed gives a lower fuel flow which results in landing with 24 kg more fuel than planned in LEMG.",
+    "c": "greater since the effect of the reduced fuel flow is offset by the lower speed giving 24 kg less fuel than planned in LEMG.",
+    "d": "lower since the fuel flow has reduced to 141 kg/h giving 120 kg fuel remaining when landing in LEMG."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 51520,
+      "uniqueKey": "CA440CF9-1DB4-44DD-8E25-9129893AE573",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=CA440CF9-1DB4-44DD-8E25-9129893AE573",
+      "publicUrl": "/attachments/033/CA440CF9-1DB4-44DD-8E25-9129893AE573.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/CA440CF9-1DB4-44DD-8E25-9129893AE573.jpg"
+    }
+  ]
+}

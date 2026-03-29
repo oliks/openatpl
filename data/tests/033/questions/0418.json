@@ -1,0 +1,14 @@
+{
+  "number": 418,
+  "questionId": 70638,
+  "questionNumber": "332528",
+  "stemHtml": "<p>Consider an IFR flight with a departure aerodrome called \"DEP\" and a destination aerodrome called \"DEST\" and a decision point called \"DP\", since the reduced contingency fuel procedure has to be used under the basic fuel scheme WITH variations. There is also a suitable aerodrome for refuelling, called aerodrome \"REF\". The pilot has calculated a trip fuel from DEP to DEST so the contingency will be at least\u2026</p>",
+  "options": {
+    "a": "5% from DP to DEST.",
+    "b": "5% from DEP to DEST.",
+    "c": "5% from DP to REF.",
+    "d": "5% from DEP to REF."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

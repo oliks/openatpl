@@ -1,0 +1,14 @@
+{
+  "number": 327,
+  "questionId": 107620,
+  "questionNumber": "337067",
+  "stemHtml": "<p>Given the following information, the actual fuel consumption has\u2026</p><p>Planned fuel at WPT B: 1222 kg <br>Actual fuel at WPT B: 1205 kg <br>Planned fuel at WPT C: 1178 kg <br>Actual fuel at WPT C: 1155 kg <br>Planned and Actual Sector Time from WPT B to WPT C: 5 minutes</p>",
+  "options": {
+    "a": "<p>decreased by 72 kg/h. </p>",
+    "b": "<p>decreased by 528 kg/h. </p>",
+    "c": "<p>increased by 72 kg/h. </p>",
+    "d": "<p>increased by 600 kg/h. </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 598,
+  "questionId": 70878,
+  "questionNumber": "335464",
+  "stemHtml": "<div>Refer to ALICANTE - chart 10-3C from Jeppesen GSPRM 2017.  <br />  An aircraft is departing on runway 28. All navaids are serviceable. Which of the following refers to the corresponding routing?</div><div> </div>",
+  "options": {
+    "a": "<p>Maximum altitude at D9.5 ALT is 3100 ft, maximum speed during the turn to radial 246 ALT is 220 kt, MSA between D9.5 ALT and D6.3 ALT is 5900 ft, maximum altitude at SUMMO is 5000 ft.</p>",
+    "b": "<p>Minimum altitude at D9.5 ALT is 5900 ft, minimum speed during the turn to radial 246 ALT is 220 kt, MSA between D9.5 ALT and D6.3 ALT is 3100 ft, minimum altitude at SUMMO is 5000 ft.</p>",
+    "c": "<p>Minimum altitude at D9.5 ALT is 5900 ft, maximum speed during the turn to radial 246 ALT is 220 kt, MSA between D9.5 ALT and D6.3 ALT is 5900 ft, minimum altitude at SUMMO is 3000 ft</p>",
+    "d": "<p>Minimum altitude at D9.5 ALT is 3100 ft, maximum speed during the turn to radial 246 ALT is 220 kt, MSA between D9.5 ALT and D6.3 ALT is 5900 ft.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 26412,
+      "uniqueKey": "C2F94593-C24D-4955-855E-1109745EFA56",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=C2F94593-C24D-4955-855E-1109745EFA56",
+      "publicUrl": "/attachments/033/C2F94593-C24D-4955-855E-1109745EFA56.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C2F94593-C24D-4955-855E-1109745EFA56.jpg"
+    }
+  ]
+}

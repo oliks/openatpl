@@ -1,0 +1,14 @@
+{
+  "number": 143,
+  "questionId": 163607,
+  "questionNumber": "332751",
+  "stemHtml": "<p>The minimum altitude for the route being flown is 4000 ft. Considering headwinds ranging from 3 to 9 knots between 4000 ft and 8000 ft, you need to determine the highest ground mileage per gallon of fuel. The provided True airspeeds (TAS) range between 172 and 182 knots, and the fuel flow is constant at 18 GPH at all altitudes. Which altitude provides the highest ground mileage per GPH?</p>",
+  "options": {
+    "a": "<p>5000 ft - TAS: 176 knots; Headwind: 4.5 knots</p>",
+    "b": "<p>6000 ft - TAS: 180 knots; Headwind: 6 knots</p>",
+    "c": "<p>7000 ft - TAS: 181 knots; Headwind: 7.5 knots</p>",
+    "d": "<p>8000 ft - TAS: 182 knots; Headwind: 9 knots</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

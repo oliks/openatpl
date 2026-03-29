@@ -1,0 +1,24 @@
+{
+  "number": 439,
+  "questionId": 107215,
+  "questionNumber": "337463",
+  "stemHtml": "<p>Refer to figure.<br>An aircraft is climbing straight ahead from an aerodrome EDST (N48\u00b037.9' E009\u00b025.8'). How would you determine the distance of the aircraft from the airport during the climb?</p>",
+  "options": {
+    "a": "<p>Using DME from the departure airport</p>",
+    "b": "<p>Estimating distance based on climb rate and time</p>",
+    "c": "<p>Using radar vectors from ATC</p>",
+    "d": "<p>Calculating based on TAS and wind corrections</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 62126,
+      "uniqueKey": "e8168551-1a2a-446d-bab7-0595d620d2fa",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=e8168551-1a2a-446d-bab7-0595d620d2fa",
+      "publicUrl": "/attachments/033/e8168551-1a2a-446d-bab7-0595d620d2fa.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/e8168551-1a2a-446d-bab7-0595d620d2fa.jpg"
+    }
+  ]
+}

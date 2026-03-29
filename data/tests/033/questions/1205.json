@@ -1,0 +1,24 @@
+{
+  "number": 1205,
+  "questionId": 70449,
+  "questionNumber": "338749",
+  "stemHtml": "<p>Refer to figure. <br /> Using the content of ITEM 15 OTHER INFORMATION of the ATS Flight Plan (FPL) below, determine the cruising Flight Level (FL) when crossing the waypoint MOKOR.</p><p>N0358F240 TURON4S TURON A5 ASDEB/N0448F380 DCT LOTEE UN741 MOKOR UN873 OBATO/N0426F360 UN873 RONAX/N0408F340 UN873 VEKIN UZ173 ARVOL ARVOL6A</p>",
+  "options": {
+    "a": "FL360",
+    "b": "FL240",
+    "c": "FL340",
+    "d": "FL380"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 47805,
+      "uniqueKey": "893FB014-0D66-44A7-A78A-445B37ACAF6B",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=893FB014-0D66-44A7-A78A-445B37ACAF6B",
+      "publicUrl": "/attachments/033/893FB014-0D66-44A7-A78A-445B37ACAF6B.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/893FB014-0D66-44A7-A78A-445B37ACAF6B.png"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "number": 50,
+  "questionId": 70740,
+  "questionNumber": "334011",
+  "stemHtml": "<p>Refer to figure or CAP 697 Figure 4.3.2c and CAP 697 Figure 4.5.3.2 for Pressure Altitude 37 000 ft.<br>Which changes to forecast conditions will produce the greatest increase in Trip Fuel required for the following Medium Range Jet Transport MRJT flight?</p><p>Cruise level: FL370<br>Cruise speed: Mach 0.74<br>Trip distance: 2000 NM A change in</p>",
+  "options": {
+    "a": "<p>OAT from ISA to ISA +20\u00b0C.</p>",
+    "b": "<p>headwind component from 0 kt to 30 kt plus a change in OAT from ISA to ISA +5\u00b0C.</p>",
+    "c": "headwind component from 0 kt to 50 kt.",
+    "d": "<p>headwind component from 0 kt to 30 kt plus a change in OAT from ISA to ISA -10\u00b0C.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 43240,
+      "uniqueKey": "9D8E544D-9F9C-4447-8922-A5A3F0C37C83",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=9D8E544D-9F9C-4447-8922-A5A3F0C37C83",
+      "publicUrl": "/attachments/033/9D8E544D-9F9C-4447-8922-A5A3F0C37C83.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9D8E544D-9F9C-4447-8922-A5A3F0C37C83.png"
+    },
+    {
+      "id": 54334,
+      "uniqueKey": "d9bb877b-7b00-47a2-a87c-6d5518d17371",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=d9bb877b-7b00-47a2-a87c-6d5518d17371",
+      "publicUrl": "/attachments/033/d9bb877b-7b00-47a2-a87c-6d5518d17371.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/d9bb877b-7b00-47a2-a87c-6d5518d17371.jpg"
+    }
+  ]
+}

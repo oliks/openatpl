@@ -1,0 +1,14 @@
+{
+  "number": 801,
+  "questionId": 84379,
+  "questionNumber": "335130",
+  "stemHtml": "<p>An aircraft follows an IFR route between two airports. If one of the flight segments along the route has the following limiting altitudes specified below, how can the pilot correctly apply them?</p><p>MEA: 4500 ft\u00a0<br>MOCA: 1500 ft</p>",
+  "options": {
+    "a": "<p>Plan to fly at 5000 ft or above to clear obstacles and to have adequate reception of radio navigation aids and communications.</p>",
+    "b": "Use the MEA value as the minimum altitude to achieve the required obstacle clearance for IFR flight as the MOCA value is for VFR flight.",
+    "c": "<p>Plan to fly between 2000 ft and 4000 ft in order to remain within the protected and authorised dimensions of the route segment.</p>",
+    "d": "Use the MOCA value as the minimum safe altitude within the dimensions of the route and MEA if flying within 25 NM of the route centreline."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

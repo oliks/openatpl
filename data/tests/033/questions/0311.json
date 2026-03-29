@@ -1,0 +1,14 @@
+{
+  "number": 311,
+  "questionId": 100426,
+  "questionNumber": "333015",
+  "stemHtml": "<p>An aircraft is following a route outside controlled airspace where the MOCA is 3300 ft and the transition altitude is 3000 ft. Given the following information, what is the minimum flight level for the aircraft in IFR?</p><p>Magnetic Track: 182\u00b0<br>Magnetic Variation: 8\u00b0W<br>Nearby Aerodrome Elevation: 27 ft<br>Nearby Aerodrome QNH: 991 hPa<br>Nearby Aerodrome Temperature: -7\u00b0C</p>",
+  "options": {
+    "a": "FL45",
+    "b": "FL50",
+    "c": "FL60",
+    "d": "<p>FL70</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

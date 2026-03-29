@@ -1,0 +1,14 @@
+{
+  "number": 849,
+  "questionId": 79445,
+  "questionNumber": "339637",
+  "stemHtml": "<p>For an IFR flight planned to a destination aerodrome without any weather information available, the required fuel would be (airplane with jet engine)\u2026</p>",
+  "options": {
+    "a": "<p>To fly to the destination and then to fly for another 45 minutes in a holding at 1500 feet AGL + contingency fuel.</p>",
+    "b": "<p>Planning an IFR flight to an airport without sufficient weather service is not allowed. <br /> \r\u200b\u200b</p>",
+    "c": "<p>To fly to the destination, including one missed approach at the DA, then a flight to the alternate airport and then for another 45 minutes flying + contingency fuel.</p>",
+    "d": "<p>To fly to the destination, including one missed approach at the DA, then a flight to one of the two selected alternate airports requiring the most fuel and then for another 30 minutes flying + contingency fuel.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

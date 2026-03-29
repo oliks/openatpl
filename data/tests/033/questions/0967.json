@@ -1,0 +1,14 @@
+{
+  "number": 967,
+  "questionId": 70647,
+  "questionNumber": "338171",
+  "stemHtml": "<p>The following is an extract from a NOTAM briefing for the planned aerodrome of destination of an IFR flight:</p>\r\n\r\n<p>B) FROM: 13/02/01 11:00C TO: 13/02/01 12:00 E NDB CLB 433KHZ U/S</p>\r\n\r\n<p>Which of the following statements is completely correct?</p>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "Navigation facilities \u2018NDB\u2019 and \u2018CLB\u2019, both transmitting on 433 kHz, are unavailable for use between 11:00 and 12:00 on the morning of 13 February.",
+    "b": "The \u2018CLB\u2019 NDB is unserviceable between 11:00 and 12:00 on 13 February and military aircraft able to transmit and receive voice communications on 433 kHz should also note that this frequency will be unguarded for the same time period.",
+    "c": "The \u2018CLB\u2019 navigation facility, a non-directional beacon, will be out of service for one hour on the 1 February 2013.",
+    "d": "Aircraft with a navigational data base should be aware that, at the destination airfield IATA identifier \u2018CLB\u2019, the frequency band 433 kHz will be out of service from 11:00 to 12:00 on 1 February 2013."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

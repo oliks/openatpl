@@ -1,0 +1,24 @@
+{
+  "number": 103,
+  "questionId": 97957,
+  "questionNumber": "336509",
+  "stemHtml": "<p>Refer to figure. <br /> You are cruising at FL380 with a twin-engined jet aeroplane. Due to airspace restrictions ATC instructs you to reduce speed to Mach .786. Given the following information, what is the fuel you will use for the remainder of the cruise time?</p><p>Distance to Top-of-Descent: 310 NM <br /> Aircraft mass: 60 000 kg <br /> TAT: -22\u00b0C <br /> Average wind component: 25 kt headwind</p><p>Consider a constant aircraft of mass 60 000 kg for calculation purposes.</p>",
+  "options": {
+    "a": "<p>1590 kg</p>",
+    "b": "<p>1544 kg</p>",
+    "c": "837 kg",
+    "d": "<p>1196 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 56152,
+      "uniqueKey": "30b607cd-f6fe-42d0-bcae-f6914c4363f2",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=30b607cd-f6fe-42d0-bcae-f6914c4363f2",
+      "publicUrl": "/attachments/033/30b607cd-f6fe-42d0-bcae-f6914c4363f2.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/30b607cd-f6fe-42d0-bcae-f6914c4363f2.jpg"
+    }
+  ]
+}

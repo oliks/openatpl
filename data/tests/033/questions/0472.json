@@ -1,0 +1,14 @@
+{
+  "number": 472,
+  "questionId": 113300,
+  "questionNumber": "338037",
+  "stemHtml": "<p>You\u2019re at the gate, prepared for departure, with 30 minutes of discretionary fuel onboard. ATC then advises that due to a runway closure, taxi time will be increased by 15 minutes. What is the appropriate course of action in this situation?</p>",
+  "options": {
+    "a": "<p>You can use discretionary fuel for the taxi and depart.</p>",
+    "b": "<p>You cannot depart and need to add more taxi fuel.</p>",
+    "c": "<p>You cannot depart because the contingency fuel is not enough to compensate for the taxi delay.</p>",
+    "d": "<p>You may proceed without any further fuel consideration, regardless of the taxi delay.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

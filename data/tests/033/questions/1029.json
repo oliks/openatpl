@@ -1,0 +1,14 @@
+{
+  "number": 1029,
+  "questionId": 83775,
+  "questionNumber": "338818",
+  "stemHtml": "Which statement is correct regarding the altimeter temperature error correction during a final approach to an aerodrome?",
+  "options": {
+    "a": "<p>Temperature error correction should be applied when the aerodrome temperature is ISA and below and added only to the DH/DA and MDH/MDA.</p>",
+    "b": "Temperature error correction should be applied when the aerodrome temperature is much lower than ISA and subtracted from the DH/DA or MDH/MDA and step-down fixes inside the FAF.",
+    "c": "Temperature error correction should be applied when the aerodrome temperature is ISA and below and subtracted only from the DH/DA or MDH/MDA.",
+    "d": "Temperature error correction should be applied when the aerodrome temperature is much lower than ISA and added to the DH/DA or MDH/MDA and step-down fixes inside the FAF."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

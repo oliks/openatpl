@@ -1,0 +1,24 @@
+{
+  "number": 394,
+  "questionId": 129808,
+  "questionNumber": "332074",
+  "stemHtml": "<p>Refer to figure or VFR chart ED-4 from the Jeppesen GSPRM 2017.\u00a0<br>The magnetic variation at LOLS (N48\u00b024' E013\u00b027) is (1) _____, which must be (2) _____ from/to the magnetic track to obtain the (3) _____ track.</p>",
+  "options": {
+    "a": "<p>(1) 003\u00b0E; (2) Subtracted; (3) True</p>",
+    "b": "<p>(1) 005\u00b0E; (2) Subtracted; (3) True</p>",
+    "c": "<p>(1) 003\u00b0E; (2) Added; (3) Magnetic</p>",
+    "d": "<p>(1) 003\u00b0E; (2) Added; (3) True</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 70189,
+      "uniqueKey": "0d712fa6-9bf0-42e5-93b1-53ffe38e940b",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=0d712fa6-9bf0-42e5-93b1-53ffe38e940b",
+      "publicUrl": "/attachments/033/0d712fa6-9bf0-42e5-93b1-53ffe38e940b.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0d712fa6-9bf0-42e5-93b1-53ffe38e940b.gif"
+    }
+  ]
+}

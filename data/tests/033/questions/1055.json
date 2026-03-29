@@ -1,0 +1,14 @@
+{
+  "number": 1055,
+  "questionId": 70354,
+  "questionNumber": "335294",
+  "stemHtml": "<p>Given:</p><p>Distance from departure to destination: 200 NM\u00a0<br>Safe Endurance: 3 h\u00a0<br>TAS: 130 kt\u00a0<br>Ground Speed Out: 150 kt\u00a0<br>Ground Speed Home: 110 kt</p><p>What is the distance PSR from the departure point?</p>",
+  "options": {
+    "a": "95 NM",
+    "b": "10 NM",
+    "c": "190 NM",
+    "d": "85 NM"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

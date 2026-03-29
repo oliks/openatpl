@@ -1,0 +1,14 @@
+{
+  "number": 133,
+  "questionId": 135064,
+  "questionNumber": "332986",
+  "stemHtml": "<p>An aircraft descends from FL165 to an altitude of 3000 ft. According to the descent table, the distance covered is 37 NM in 13 minutes. If the aircraft experiences a tailwind component of 20 kt and flies in ISA conditions, then its average TAS is _____ and the actual descent distance covered is _____.</p>",
+  "options": {
+    "a": "<p>TAS 171 kt; NGM 41.</p>",
+    "b": "<p>TAS 151 kt; NGM 33.</p>",
+    "c": "<p>TAS 151 kt; NAM 37.</p>",
+    "d": "<p>TAS 191 kt; NGM 37.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 821,
+  "questionId": 101462,
+  "questionNumber": "334689",
+  "stemHtml": "A particular GNSS RNP APCH chart for a runway has two types of published minima, LNAV and LP. Which of the following options accurately describes the minima?",
+  "options": {
+    "a": "<p>There is NO difference as both use GNSS as reference throughout the procedure and the pilot may choose the lowest minima.</p>",
+    "b": "The LP minima are based on Localiser Performance requiring equipment beyond a standard GNSS receiver in the aircraft.",
+    "c": "The LP minima apply to a 3D precision approach with both horizontal and vertical guidance, similar to VNAV.",
+    "d": "The LNAV minima are based on horizontal and vertical guidance being provided on board the aircraft."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

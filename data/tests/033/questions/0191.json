@@ -1,0 +1,24 @@
+{
+  "number": 191,
+  "questionId": 71023,
+  "questionNumber": "335998",
+  "stemHtml": "<p>Refer to figure or Alicante (LEAL) SID 10-3C from GSPRM 2017. <br>A flight is filed to depart from Alicante aerodrome (LEAL) via waypoint MITOS during FMS setup, what constraints should be verified as correct for a MITOS SID from Runway 28?</p>",
+  "options": {
+    "a": "<p>Min 3100 ft at 9.5 NM from ALT <br>Max 220 kt until MITOS </p>",
+    "b": "Min 3100 ft at 9.5 NM from ALT <br /> Max 220 kt during the turn until ALT Radial 246, 6.3 NM",
+    "c": "Min 3100 ft at 9.5 NM from ALT <br /> Min 5000 ft at SUMMO",
+    "d": "Max 3100 ft at 9.5 NM from ALT <br /> Max 220 kt during the turn until ALT Radial 246, 6.3 NM <br /> Min 5000 ft at SUMMO"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 26940,
+      "uniqueKey": "BE201744-BCBF-4C55-B75F-F8897576F4AF",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=BE201744-BCBF-4C55-B75F-F8897576F4AF",
+      "publicUrl": "/attachments/033/BE201744-BCBF-4C55-B75F-F8897576F4AF.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/BE201744-BCBF-4C55-B75F-F8897576F4AF.jpg"
+    }
+  ]
+}

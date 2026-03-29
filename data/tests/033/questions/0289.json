@@ -1,0 +1,14 @@
+{
+  "number": 289,
+  "questionId": 107213,
+  "questionNumber": "332392",
+  "stemHtml": "<p>If RAIM was checked during flight preparation, should NOTAMs also be checked, and for what reasons?</p>",
+  "options": {
+    "a": "<p>Check NOTAMs because RAIM is only about EGNOS and does not cover all GNSS issues.</p>",
+    "b": "<p>Do not check NOTAMs because RAIM concerns both EGNOS and all GNSS, making additional checks unnecessary.</p>",
+    "c": "<p>Always check NOTAMs, as RAIM predictions might not include temporary changes affecting GNSS services like those documented in NOTAMs.</p>",
+    "d": "<p>Do not check the NOTAMS because RAIM already checks the NOTAMS automatically.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

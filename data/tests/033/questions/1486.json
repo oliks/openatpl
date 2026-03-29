@@ -1,0 +1,14 @@
+{
+  "number": 1486,
+  "questionId": 82837,
+  "questionNumber": "334858",
+  "stemHtml": "<p>A piston-engined aeroplane on an IFR Commercial Air Transport flight arrives at its destination with the minimum fuel on board. During the approach procedure, the aircraft is forced to divert from the missed approach point to the alternate. Given the following information:</p><p>Trip Fuel: 235 litres <br /> Alternate Fuel: 38 litres <br /> Fuel for go around and one approach: 22 litres <br /> Fuel flow at cruise speed: 80 l/h <br /> Fuel flow at holding speed: 60 l/h</p><p>The minimum fuel required at the destination is (1) _____ and the minimum fuel required at the alternate is (2) _____.</p>",
+  "options": {
+    "a": "(1) 83 litres; (2) 45 litres",
+    "b": "(1) 100 litres; (2) 40 litres",
+    "c": "(1) 98 litres; (2) 60 litres",
+    "d": "(1) 95 litres; (2) 57 litres"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

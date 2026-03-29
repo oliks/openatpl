@@ -1,0 +1,14 @@
+{
+  "number": 917,
+  "questionId": 107621,
+  "questionNumber": "338999",
+  "stemHtml": "<p>A crew is planning a flight from an airfield with NO ICAO designator and NO IFR procedures. Due to the weather and preferred routing, they intend to join airway L975 at point MALUD soon after departure. The route section of item 15 on the ATS Flight Plan should begin with...</p>",
+  "options": {
+    "a": "<p>DCT L975 VIA MALUD</p>",
+    "b": "<p>DCT MALUD L975...</p>",
+    "c": "<p>MALUD L975...</p>",
+    "d": "<p>ZZZZ MALUD L975...</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

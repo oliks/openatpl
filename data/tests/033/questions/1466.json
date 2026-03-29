@@ -1,0 +1,24 @@
+{
+  "number": 1466,
+  "questionId": 71052,
+  "questionNumber": "334982",
+  "stemHtml": "<p>Refer to figure. <br>An aeroplane is using its fuel according to the following rules: Every engine always feeds from the inner tank on their respective side. An aft trim tank transfers all content to the inner tanks when these have less than 4000 kg. The outer tanks transfer all content to the inner tanks when the inner tanks have less than 3500 kg.Trim tank and outer tanks of the aeroplane are full. During the flight, the trim tank transfer pump fails when total fuel on board is 18 590 kg.</p><p>What is the remaining endurance, assuming a fuel consumption of 95 kg/min?</p>",
+  "options": {
+    "a": "3 h 14 min",
+    "b": "1 h 45 min",
+    "c": "2 h 24 min",
+    "d": "1 h 54 min"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 43576,
+      "uniqueKey": "A54EC749-F1C9-4DDB-94EE-28657C52F65C",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=A54EC749-F1C9-4DDB-94EE-28657C52F65C",
+      "publicUrl": "/attachments/033/A54EC749-F1C9-4DDB-94EE-28657C52F65C.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/A54EC749-F1C9-4DDB-94EE-28657C52F65C.png"
+    }
+  ]
+}

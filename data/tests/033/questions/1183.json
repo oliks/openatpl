@@ -1,0 +1,14 @@
+{
+  "number": 1183,
+  "questionId": 78462,
+  "questionNumber": "333086",
+  "stemHtml": "<p>An aircraft flies from airport A to airport B, covering a total distance of 460 NM. After 1 h 09 min, it has covered a distance of 183 NM, and its remaining fuel is equal to 780 lb plus reserves. Determine the remaining fuel at airport B, assuming conditions remain the same and given:</p><p>TAS: 185 kt <br>Headwind: 30 kt <br>Trip fuel: 1098 lb <br>Fuel flow: 370 lb/h</p>",
+  "options": {
+    "a": "299 lb + reserves",
+    "b": "235 lb + reserves",
+    "c": "119 lb + reserves",
+    "d": "385 lb + reserves"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

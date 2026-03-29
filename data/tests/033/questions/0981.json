@@ -1,0 +1,14 @@
+{
+  "number": 981,
+  "questionId": 107937,
+  "questionNumber": "332764",
+  "stemHtml": "<p>Given a scenario with specified holding and cruise fuel flow rates, how can you calculate the minimum legal fuel required and estimate the block fuel for the flight?</p>",
+  "options": {
+    "a": "<p>Sum the holding and cruise fuel flows for minimum legal fuel; estimate block fuel based on previous flights</p>",
+    "b": "<p>Calculate minimum legal fuel based on holding fuel flow only; estimate block fuel based on aircraft manufacturer's recommendations</p>",
+    "c": "<p>Determine minimum legal fuel based on cruise fuel flow only; estimate block fuel using average fuel consumption rates</p>",
+    "d": "<p>Combine holding and cruise fuel flows for minimum legal fuel; estimate block fuel based on current weather conditions and expected flight duration</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

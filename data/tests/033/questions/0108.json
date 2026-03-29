@@ -1,0 +1,14 @@
+{
+  "number": 108,
+  "questionId": 107358,
+  "questionNumber": "337982",
+  "stemHtml": "<p>How should you calculate the additional fuel required to reach an alternate airport with an elevation of 2000 ft, using an aircraft with a fuel consumption rate of 5000 kg/h?</p>",
+  "options": {
+    "a": "<p>Calculate based on the extra time needed to climb to 2000 ft</p>",
+    "b": "<p>Calculate based on standard reserve requirements</p>",
+    "c": "<p>Add contingency fuel of 5%</p>",
+    "d": "<p>Calculate using expected headwinds or tailwinds</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

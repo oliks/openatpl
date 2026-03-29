@@ -1,0 +1,14 @@
+{
+  "number": 1078,
+  "questionId": 107216,
+  "questionNumber": "332457",
+  "stemHtml": "<p>A pilot is being vectored in controlled airspace and is told to descend below the Minimum Safe Altitude (MSA) but not below the Minimum Radar Vectoring Altitude (MRVA). What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Declare an emergency and climb back to MSA.</p>",
+    "b": "<p>Turn around and leave the controlled airspace.</p>",
+    "c": "<p>Follow the commands of the controller who is fully responsible for terrain separation.</p>",
+    "d": "<p>Follow the commands of the controller ONLY if the commander thinks it is safe regarding terrain separation.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

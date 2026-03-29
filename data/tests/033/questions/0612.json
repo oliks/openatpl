@@ -1,0 +1,33 @@
+{
+  "number": 612,
+  "questionId": 102597,
+  "questionNumber": "331096",
+  "stemHtml": "<p>Refer to figure.<br>Due to operational requirements, fuel must be tankered on departure from the aerodrome.<br>Given a departure/destination fuel price ratio of 0.93 and the provided data, determine the optimum amount of fuel that can be tankered:</p><p>Cruise flight level: FL350<br>Air distance to be covered: 2000 NM<br>Planned Take-Off Mass: 180 000 kg (with a minimum prescribed fuel quantity of 30 000 kg that includes a Trip Fuel of 22 000 kg)<br>Maximum Landing Mass: 170 000 kg<br>Maximum Take-Off Mass: 210 000 kg<br>Maximum tank capacity: 40 000 kg</p>",
+  "options": {
+    "a": "<p>4000 kg</p>",
+    "b": "<p>10 000 kg</p>",
+    "c": "<p>12 000 kg</p>",
+    "d": "<p>30 000 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 58823,
+      "uniqueKey": "ab708695-a5c1-4b00-9d08-14170fe1e4bb",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=ab708695-a5c1-4b00-9d08-14170fe1e4bb",
+      "publicUrl": "/attachments/033/ab708695-a5c1-4b00-9d08-14170fe1e4bb.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/ab708695-a5c1-4b00-9d08-14170fe1e4bb.jpg"
+    },
+    {
+      "id": 58830,
+      "uniqueKey": "aea11271-b831-4c1c-99dd-83bc6be33135",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=aea11271-b831-4c1c-99dd-83bc6be33135",
+      "publicUrl": "/attachments/033/aea11271-b831-4c1c-99dd-83bc6be33135.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/aea11271-b831-4c1c-99dd-83bc6be33135.png"
+    }
+  ]
+}

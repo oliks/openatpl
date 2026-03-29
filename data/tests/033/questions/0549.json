@@ -1,0 +1,33 @@
+{
+  "number": 549,
+  "questionId": 71049,
+  "questionNumber": "334575",
+  "stemHtml": "Refer to figures. <br /> You are planning an ambulance flight where a patient needs to be transported from one hospital to another. The flight has been declared by a medical authority as being a medical flight where special handling due to the status of the flight is requested. What are you going to enter in field 18 of your ATS flight plan?",
+  "options": {
+    "a": "STS/MEDEVAC",
+    "b": "RMK/MEDEVAC",
+    "c": "RMK/HOSP",
+    "d": "STS/HOSP"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 27115,
+      "uniqueKey": "3069CF87-E296-4317-8A49-E54FE8341123",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=3069CF87-E296-4317-8A49-E54FE8341123",
+      "publicUrl": "/attachments/033/3069CF87-E296-4317-8A49-E54FE8341123.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/3069CF87-E296-4317-8A49-E54FE8341123.png"
+    },
+    {
+      "id": 27116,
+      "uniqueKey": "E8481C23-BE51-4B4F-87E0-84B2233D3DE1",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=E8481C23-BE51-4B4F-87E0-84B2233D3DE1",
+      "publicUrl": "/attachments/033/E8481C23-BE51-4B4F-87E0-84B2233D3DE1.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E8481C23-BE51-4B4F-87E0-84B2233D3DE1.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1195,
+  "questionId": 70471,
+  "questionNumber": "335334",
+  "stemHtml": "<p>Given the following information, and taking into account that the fuel was initially calculated with no wind, what is the updated Trip Fuel for the flight?</p>\n\n<p>Trip Fuel (no wind): 2000 kg  <br />  \nFlight time (no wind): 2 hours  <br />  \nDistance: 240 NM  <br />  \nHeadwind: 20 kt</p>",
+  "options": {
+    "a": "2333 kg",
+    "b": "1715 kg",
+    "c": "2400 kg",
+    "d": "2340 kg"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

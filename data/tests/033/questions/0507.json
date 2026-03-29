@@ -1,0 +1,14 @@
+{
+  "number": 507,
+  "questionId": 70334,
+  "questionNumber": "332432",
+  "stemHtml": "<p>Given the following information, assuming conditions stay the same, what is the ETA at DELTA?</p><p>BETA to GAMMA distance: 60 NM  <br />  Actual time en-route: 30 min  <br />  Actual time of arrival at GAMMA: 1240 UTC  <br />  GAMMA to DELTA distance: 34 NM</p><div> </div>",
+  "options": {
+    "a": "12:57 UTC",
+    "b": "12:37 UTC",
+    "c": "12:47 UTC",
+    "d": "13:07 UTC"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

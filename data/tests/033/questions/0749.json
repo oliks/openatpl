@@ -1,0 +1,42 @@
+{
+  "number": 749,
+  "questionId": 70874,
+  "questionNumber": "338506",
+  "stemHtml": "<p>Refer to figure ALICANTE - charts 19-1, 19-2 and 19-3 from Jeppesen GSPRM 2017. <br>When approaching Alicante, what is the procedure if you experience a communication failure?</p>",
+  "options": {
+    "a": "Turn to the closest aerodrome without control zone, land there and inform ATC via phone call.",
+    "b": "<div>Proceed in the direction of SW reporting point, assume a track east of South Route to S reporting point and maintain a maximum of 800 ft AMSL.</div>",
+    "c": "<p>Maintain heading and altitude for 7 minutes, then descend to 2000 ft and proceed to closest VFR reporting point and hold, waiting for light signals.</p>",
+    "d": "<div>Set transponder 7600, proceed according to your filled flight plan if no instructions have been received previously, otherwise follow latest ATC instructions.</div>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 26404,
+      "uniqueKey": "E2608F42-1FA1-42E8-94FA-A162BF82AC90",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=E2608F42-1FA1-42E8-94FA-A162BF82AC90",
+      "publicUrl": "/attachments/033/E2608F42-1FA1-42E8-94FA-A162BF82AC90.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E2608F42-1FA1-42E8-94FA-A162BF82AC90.jpg"
+    },
+    {
+      "id": 26405,
+      "uniqueKey": "4BEDB4A6-913E-45AA-A2FC-268C5A556BB1",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4BEDB4A6-913E-45AA-A2FC-268C5A556BB1",
+      "publicUrl": "/attachments/033/4BEDB4A6-913E-45AA-A2FC-268C5A556BB1.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4BEDB4A6-913E-45AA-A2FC-268C5A556BB1.jpg"
+    },
+    {
+      "id": 26406,
+      "uniqueKey": "1F322404-9BC1-47A7-A271-B73D469FA7AF",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=1F322404-9BC1-47A7-A271-B73D469FA7AF",
+      "publicUrl": "/attachments/033/1F322404-9BC1-47A7-A271-B73D469FA7AF.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1F322404-9BC1-47A7-A271-B73D469FA7AF.jpg"
+    }
+  ]
+}

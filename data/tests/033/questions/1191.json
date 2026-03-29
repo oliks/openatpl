@@ -1,0 +1,14 @@
+{
+  "number": 1191,
+  "questionId": 108933,
+  "questionNumber": "337419",
+  "stemHtml": "<p>Determine the minimum planning fuel required for departure, for the following planned flight with a Performance Class A aeroplane. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Trip Fuel: 2862 lb <br>Contingency Fuel: 143 lb <br>Destination Alternate Fuel: 494 lb <br>Final Reserve Fuel: 430 lb <br>Taxi Fuel: 100 lb <br>Extra Fuel: 300 lb <br>Tankering Fuel: 971 lb <br><i>A destination alternate is required.</i></p>",
+  "options": {
+    "a": "<p>3929 lb</p>",
+    "b": "<p>4029 lb</p>",
+    "c": "<p>4329 lb</p>",
+    "d": "<p>5200 lb</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

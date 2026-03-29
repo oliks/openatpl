@@ -1,0 +1,33 @@
+{
+  "number": 392,
+  "questionId": 70582,
+  "questionNumber": "338105",
+  "stemHtml": "<p>Refer to figure.<br>Assuming the following data:</p><p>Ground distance to be covered: 1500 NM\u00a0<br>Cruise flight level: FL 310\u00a0<br>Cruising speed: Mach 0.82\u00a0<br>True airspeed: 470 kt\u00a0<br>Head wind component: 40 kt\u00a0<br>Planned destination landing mass: 140 000 kg\u00a0<br>Temperature: ISA + 15\u00b0C\u00a0<br>CG: 37%.\u00a0<br>Total anti ice: ON\u00a0<br>Pack flow: HI</p><p>Fuel consumption for such a flight is\u2026</p>",
+  "options": {
+    "a": "19 900 kg",
+    "b": "21 500 kg",
+    "c": "21 700 kg",
+    "d": "23 500 kg"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 24389,
+      "uniqueKey": "9F1F6AA7-3F26-4FAA-BBBE-ACB2363ECCD6",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=9F1F6AA7-3F26-4FAA-BBBE-ACB2363ECCD6",
+      "publicUrl": "/attachments/033/9F1F6AA7-3F26-4FAA-BBBE-ACB2363ECCD6.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9F1F6AA7-3F26-4FAA-BBBE-ACB2363ECCD6.gif"
+    },
+    {
+      "id": 24390,
+      "uniqueKey": "B669BFB9-22AA-4DC7-868A-7FB7092842CD",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=B669BFB9-22AA-4DC7-868A-7FB7092842CD",
+      "publicUrl": "/attachments/033/B669BFB9-22AA-4DC7-868A-7FB7092842CD.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/B669BFB9-22AA-4DC7-868A-7FB7092842CD.gif"
+    }
+  ]
+}

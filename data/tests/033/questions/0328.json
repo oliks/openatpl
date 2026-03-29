@@ -1,0 +1,14 @@
+{
+  "number": 328,
+  "questionId": 82144,
+  "questionNumber": "335109",
+  "stemHtml": "<p>Given the following information:</p><p>DOM: 4565 kg\u00a0<br>Traffic load: 2590 kg\u00a0<br>Remaining usable fuel: 990 kg\u00a0<br>Remaining trip fuel to destination: 410 kg\u00a0<br>Alternate fuel: 235 kg\u00a0<br>Final reserve fuel: 275 kg</p><p>Calculate the revised estimated landing mass at the destination aerodrome.</p>",
+  "options": {
+    "a": "8245 kg",
+    "b": "7565 kg",
+    "c": "7735 kg",
+    "d": "7460 kg"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

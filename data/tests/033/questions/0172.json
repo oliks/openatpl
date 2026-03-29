@@ -1,0 +1,24 @@
+{
+  "number": 172,
+  "questionId": 71057,
+  "questionNumber": "335721",
+  "stemHtml": "<p>Refer to figure. <br /> An aircraft receives the following ATC clearance from the Alicante (LEAL) DELIVERY:</p><p>\u201cCleared to destination via the CATON 2C standard departure from runway 28,squawk 4017\u201d.</p><p>What are the altitude restrictions for this SID?</p>",
+  "options": {
+    "a": "At or above 3100 ft at 9,5 NM from ALT. <br /> At or above FL 110 at VILNA <br /> At or above FL 110 at NARGO.",
+    "b": "At or above FL70 overhead ALT. <br /> At or above FL 110 at VILNA <br /> At or above FL 110 at NARGO <br /> At or below FL 230 at CATON.",
+    "c": "At or above 3100 ft at 9.5 NM from ALT <br /> At or above FL 80 at VILNA <br /> At or above FL110 at NARGO <br /> At or below FL230 at CATON",
+    "d": "<p>At or above 3100 ft at 9,5 NM from ALT\u00a0<br>At or above 11 000 ft at VILNA\u00a0<br>At or above 11 000 ft at NARGO</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 27985,
+      "uniqueKey": "B3B1B921-DCEE-4632-81BE-5C7F3E5742DA",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=B3B1B921-DCEE-4632-81BE-5C7F3E5742DA",
+      "publicUrl": "/attachments/033/B3B1B921-DCEE-4632-81BE-5C7F3E5742DA.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/B3B1B921-DCEE-4632-81BE-5C7F3E5742DA.jpg"
+    }
+  ]
+}

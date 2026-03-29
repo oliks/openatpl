@@ -1,0 +1,14 @@
+{
+  "number": 129,
+  "questionId": 70603,
+  "questionNumber": "333245",
+  "stemHtml": "<p>Given the following NOTAM information, what frequency changes apply to MILANO RADAR?</p>\n\n<p><span style=\"letter-spacing:0.7px\">REF AIP ENR 2.1.2.25-1 \u2018MALPENSA CTR\u2019 ITEM 3 \u2018ATS COMMUNICATION FACILITIES\u2019 REFERRING TO APPROACH CONTROL SERVICE, CALL SIGN \u2018MILANO RADAR\u2019 IN COLUMN 3 \u2018FREQUENCY MHZ\u2019 CHG: 118.800 TO READ CH 118.805 132.700 TO READ CH 132.705 OTHER DATA UNCHANGED: NOTAM LI/A1880/16 >>> END OF BULLETIN <<<</span></p>\n\n<div> </div>",
+  "options": {
+    "a": "Channel 118.805 changed to frequency 118.800.",
+    "b": "MILANO RADAR uses frequencies from 118.800 to 118.805.",
+    "c": "Frequency 118.800 changed to channel 118.805.",
+    "d": "Use frequency 118.800 in order to read channel 118.805."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

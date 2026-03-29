@@ -1,0 +1,33 @@
+{
+  "number": 670,
+  "questionId": 70673,
+  "questionNumber": "338456",
+  "stemHtml": "<p>Refer to figure. <br>The flight crew of a turbojet aeroplane prepares a flight using the following data.</p><p>Flight leg distance: 4000 NM <br>Flight level FL 310 <br>True airspeed: 450 kt <br>Headwind component at this level: 50 kt <br>Initially planned take-off mass (without extra fuel on board): 170 000 kg <br>Fuel price: 0.27 Euro/l at departure 0.30 Euro/l at destination</p><p>To maximize savings, the commander chooses to carry extra fuel in addition to that which is necessary. Using the appended annex, the optimum quantity of fuel which should be carried in addition to the prescribed quantity is\u2026</p>",
+  "options": {
+    "a": "<p>8000 kg</p>",
+    "b": "<p>18 000 kg</p>",
+    "c": "<p>32 000 kg</p>",
+    "d": "<p>The fuel transport operation is not recommended in this case</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 58756,
+      "uniqueKey": "9097bcfc-e751-495d-ac15-e5ed97576c7e",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=9097bcfc-e751-495d-ac15-e5ed97576c7e",
+      "publicUrl": "/attachments/033/9097bcfc-e751-495d-ac15-e5ed97576c7e.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9097bcfc-e751-495d-ac15-e5ed97576c7e.jpg"
+    },
+    {
+      "id": 58757,
+      "uniqueKey": "bfaec4de-2ba3-4efe-9e7a-2cefb44ee220",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=bfaec4de-2ba3-4efe-9e7a-2cefb44ee220",
+      "publicUrl": "/attachments/033/bfaec4de-2ba3-4efe-9e7a-2cefb44ee220.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/bfaec4de-2ba3-4efe-9e7a-2cefb44ee220.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1028,
+  "questionId": 82598,
+  "questionNumber": "333608",
+  "stemHtml": "<p>Refer to figure. <br /> A pilot on a short VFR flight fills in the flight log, as seen in the image. The aircraft departed with slightly more fuel than the planned fuel, but within operational limits. The planned take-off and landing masses are shown on the log.</p><p>The pilot wants to estimate their landing mass. TO do this, they assume that the fuel flow from their current position (seeshaupt) to the Top of Descent (Tall Mast) will be the same as the average for the cruise so far and that the fuel used in the descent will be 28 kg, which is the same as the original plan. What is the pilot's estimate of the actual Landing Mass?</p>",
+  "options": {
+    "a": "2672 kg",
+    "b": "2696 kg",
+    "c": "2689 kg",
+    "d": "2626 kg"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 44465,
+      "uniqueKey": "67AAB55E-E109-48C4-9E65-715CAD24EF7E",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=67AAB55E-E109-48C4-9E65-715CAD24EF7E",
+      "publicUrl": "/attachments/033/67AAB55E-E109-48C4-9E65-715CAD24EF7E.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/67AAB55E-E109-48C4-9E65-715CAD24EF7E.png"
+    }
+  ]
+}

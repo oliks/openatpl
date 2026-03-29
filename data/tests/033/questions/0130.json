@@ -1,0 +1,24 @@
+{
+  "number": 130,
+  "questionId": 70779,
+  "questionNumber": "336396",
+  "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.5.3.1.\u00a0<br>Given:</p><p>Long range cruise Temperature: -63\u00b0C at FL330\u00a0<br>Initial gross mass enroute: 54 100 kg\u00a0<br>Leg flight time: 29 min</p><p>Find the fuel consumption for this leg.</p>",
+  "options": {
+    "a": "<p>1000 kg</p>",
+    "b": "<p>1680 kg</p>",
+    "c": "<p>1100 kg</p>",
+    "d": "<p>1200 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 21133,
+      "uniqueKey": "20FD8009-0121-4BC5-B766-C57A86E46C45",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=20FD8009-0121-4BC5-B766-C57A86E46C45",
+      "publicUrl": "/attachments/033/20FD8009-0121-4BC5-B766-C57A86E46C45.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/20FD8009-0121-4BC5-B766-C57A86E46C45.gif"
+    }
+  ]
+}

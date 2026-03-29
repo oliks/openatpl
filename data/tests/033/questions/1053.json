@@ -1,0 +1,24 @@
+{
+  "number": 1053,
+  "questionId": 110556,
+  "questionNumber": "335877",
+  "stemHtml": "<p>Refer to figure. <br>The annex shows a typical fuel plan with operational impact factors as produced by a flight planning tool. When arriving at the plane the Commander is informed that some additional cargo has been offloaded. Use the data below to determine the revised Trip Fuel.</p><p>Cargo: -600 kg <br>Cruising level: -2000 ft</p><p>Cruising speed according to the flight plan.</p>",
+  "options": {
+    "a": "<p>15 190 kg</p>",
+    "b": "<p>15 132 kg</p>",
+    "c": "<p>14 970 kg</p>",
+    "d": "<p>14 720 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 66968,
+      "uniqueKey": "e2bd8ba0-bf9d-436c-a6a8-584d4af67b86",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=e2bd8ba0-bf9d-436c-a6a8-584d4af67b86",
+      "publicUrl": "/attachments/033/e2bd8ba0-bf9d-436c-a6a8-584d4af67b86.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/e2bd8ba0-bf9d-436c-a6a8-584d4af67b86.png"
+    }
+  ]
+}

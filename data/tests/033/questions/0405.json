@@ -1,0 +1,14 @@
+{
+  "number": 405,
+  "questionId": 70366,
+  "questionNumber": "336236",
+  "stemHtml": "<p>In the ATC flight plan item 15, when entering a route for which standard departure (SID) and standard arrival (STAR) procedures exist\u2026</p>",
+  "options": {
+    "a": "SIDs should be entered but not STARs",
+    "b": "<p>Both should be entered in the ATC plan where appropriate</p>",
+    "c": "<p>Neither SID nor STAR should be entered</p>",
+    "d": "STARs should be entered but not SIDs"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

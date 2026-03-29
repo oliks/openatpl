@@ -1,0 +1,14 @@
+{
+  "number": 465,
+  "questionId": 78439,
+  "questionNumber": "336032",
+  "stemHtml": "<p>For pre-flight planning purposes what is the required trip fuel for a turbine engine jet aircraft? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Taxi fuel: 240 kg<br>APU consumption: 100 kg<br>Take-off and climb fuel: 1550 kg<br>Cruise fuel flow: 2820 kg/h<br>Cruise time: 2 h 45 min<br>Descent and Landing fuel: 280 kg<br>Contingency fuel: 5% or 5 min<br>Alternate fuel: 2200 kg<br>Final reserve fuel: 1100 kg<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
+  "options": {
+    "a": "<p>9585 kg</p>",
+    "b": "<p>9825 kg</p>",
+    "c": "<p>7755 kg</p>",
+    "d": "10 343 kg"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

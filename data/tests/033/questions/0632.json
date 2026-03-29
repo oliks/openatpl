@@ -1,0 +1,24 @@
+{
+  "number": 632,
+  "questionId": 70670,
+  "questionNumber": "338269",
+  "stemHtml": "<p>Refer to figure or Flight Planning Manual SEP 1 Table 2.2.3. <br>Given:</p><p>FL70 <br>OAT -19\u00b0C <br>Lean mixture 2300 RPM</p><p>Find: Fuel flow in gallons per hour GPH and TAS.</p>",
+  "options": {
+    "a": "11.95 GPH TAS: 160 kt",
+    "b": "12.35 GPH TAS: 159 kt",
+    "c": "12.35 GPH TAS: 151 kt",
+    "d": "73.90 GPH TAS: 159 kt"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 21038,
+      "uniqueKey": "02AC2F87-82C9-4B6F-B620-B0B6FC520C66",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=02AC2F87-82C9-4B6F-B620-B0B6FC520C66",
+      "publicUrl": "/attachments/033/02AC2F87-82C9-4B6F-B620-B0B6FC520C66.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/02AC2F87-82C9-4B6F-B620-B0B6FC520C66.gif"
+    }
+  ]
+}

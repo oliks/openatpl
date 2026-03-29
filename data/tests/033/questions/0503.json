@@ -1,0 +1,14 @@
+{
+  "number": 503,
+  "questionId": 148895,
+  "questionNumber": "333769",
+  "stemHtml": "<p>A twin-engine aircraft has three fuel tanks with the following capacity and fuel on board at take-off. The left fuel tank feeds the left engine and the right fuel tank feeds the right engine. A fuel pump connected to the centre tank feeds the left and right fuel tanks with a rate of 115 kg/hr. The fuel consumption is 125 kg/hr per engine, and after 37 minutes of flight, the fuel pump feeding the left and right tanks fails. What is the aircraft's remaining endurance?</p><p>Left fuel tank capacity: 205 kg   <br />  Right fuel tank capacity: 205 kg  <br />  Centre fuel tank capacity: 600 kg  <br />  Total fuel on board: 600 kg</p>",
+  "options": {
+    "a": "<p>01:18</p>",
+    "b": "<p>02:00</p>",
+    "c": "<p>03:17</p>",
+    "d": "<p>01:40</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

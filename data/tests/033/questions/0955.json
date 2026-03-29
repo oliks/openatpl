@@ -1,0 +1,14 @@
+{
+  "number": 955,
+  "questionId": 70852,
+  "questionNumber": "335150",
+  "stemHtml": "<figure class=\"table\"><table><tbody><tr><td>Maximum allowable take-off mass:</td><td style=\"text-align:right;\">56 300 kg</td></tr><tr><td>Maximum landing mass:</td><td style=\"text-align:right;\">51 300 kg</td></tr><tr><td>Dry operating mass:</td><td style=\"text-align:right;\">29 100 kg</td></tr><tr><td>Load:</td><td style=\"text-align:right;\">11 700 kg</td></tr><tr><td>Trip fuel:</td><td style=\"text-align:right;\">3000 kg</td></tr><tr><td>Contingency fuel:</td><td style=\"text-align:right;\">215 kg</td></tr><tr><td>Final reserve fuel:</td><td style=\"text-align:right;\">1250 kg</td></tr><tr><td>Alternate fuel:</td><td style=\"text-align:right;\">1300 kg</td></tr><tr><td>Taxi fuel:</td><td style=\"text-align:right;\">200 kg</td></tr></tbody></table></figure><p>Determine the maximum possible extra fuel that can be uplifted for this flight:</p>",
+  "options": {
+    "a": "<p>7735 kg</p>",
+    "b": "<p>7535 kg</p>",
+    "c": "<p>9735 kg</p>",
+    "d": "<p>5756 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

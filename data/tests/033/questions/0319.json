@@ -1,0 +1,24 @@
+{
+  "number": 319,
+  "questionId": 70610,
+  "questionNumber": "332430",
+  "stemHtml": "<p>Refer to figure. <br /> What is the meaning of the text below, extracted from ITEM 18 OTHER INFORMATION of an ICAO ATS Flight Plan FPL?</p><p>EET/EISN0210</p>",
+  "options": {
+    "a": "Crossing EISN FIR boundary after 2 hours and 10 minutes.",
+    "b": "Elapsed time to destination EISN is 2 hours and 10 minutes.",
+    "c": "Estimated elapsed time to EISN is 210 minutes.",
+    "d": "Altitude change as from EISN to Flight Level 210."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 47864,
+      "uniqueKey": "00D98059-5F91-47EA-B832-2FE18DB65C4D",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=00D98059-5F91-47EA-B832-2FE18DB65C4D",
+      "publicUrl": "/attachments/033/00D98059-5F91-47EA-B832-2FE18DB65C4D.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/00D98059-5F91-47EA-B832-2FE18DB65C4D.png"
+    }
+  ]
+}

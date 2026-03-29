@@ -1,0 +1,14 @@
+{
+  "number": 823,
+  "questionId": 70483,
+  "questionNumber": "333735",
+  "stemHtml": "<p>A twin-engined turbojet is being operated for a Commercial Air Transport flight. The Reduced Contingency Fuel (RCF) procedure is being applied. Given the following information and assuming a fuel ERA is available for the flight to destination B, find the minimum required Contingency Fuel.</p><p>Route: from DEP to original destination A via decision point DP with optional refuel destination B.</p><p>Trip Fuel DEP-A via DP: 5000 kg <br>Trip Fuel DEP-B via DP: 4000 kg <br>Fuel DP-A: 2000 kg</p>",
+  "options": {
+    "a": "250 kg",
+    "b": "100 kg",
+    "c": "150 kg",
+    "d": "200 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 461,
+  "questionId": 107265,
+  "questionNumber": "333094",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn extract from a typical flight plan produced by an airline flight planning tool. The remaining fuel overhead KOGAS is 5210 kg. Assume that the fuel flow remains the same as experienced between OKEPI and KOGAS and that the actual times between the waypoints are as planned. What is the estimated remaining fuel overhead TOD?</p>",
+  "options": {
+    "a": "<p>3222 kg</p>",
+    "b": "<p>3112 kg</p>",
+    "c": "<p>3326 kg</p>",
+    "d": "<p>3060 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 62231,
+      "uniqueKey": "ea301d38-b7c8-47cc-b330-4167d148ba17",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=ea301d38-b7c8-47cc-b330-4167d148ba17",
+      "publicUrl": "/attachments/033/ea301d38-b7c8-47cc-b330-4167d148ba17.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/ea301d38-b7c8-47cc-b330-4167d148ba17.jpg"
+    }
+  ]
+}

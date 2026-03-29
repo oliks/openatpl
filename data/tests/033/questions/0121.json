@@ -1,0 +1,14 @@
+{
+  "number": 121,
+  "questionId": 135209,
+  "questionNumber": "332369",
+  "stemHtml": "<p>The Commander of a commercial air transport IFR flight receives an updated in-flight weather report. After in-flight fuel check, he/she determines that the fuel expected to remain upon arrival at the destination is less than the Final Reserve Fuel (FRF). A destination alternate aerodrome is not required for this flight and the Basic Fuel Scheme without variations is applied. Which action should be taken by the Commander?</p>",
+  "options": {
+    "a": "<p>Replan the fuel and apply a Reduced Contingency Fuel procedure, in order to continue to the destination aerodrome.</p>",
+    "b": "<p>Continue to the destination aerodrome as planned by using the FRF if it is sufficient to reach there.</p>",
+    "c": "<p>Divert to an aerodrome where a safe landing can be assured with NO less than the FRF.</p>",
+    "d": "<p>Return to the departure aerodrome immediately.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

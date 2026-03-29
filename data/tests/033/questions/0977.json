@@ -1,0 +1,14 @@
+{
+  "number": 977,
+  "questionId": 109899,
+  "questionNumber": "337091",
+  "stemHtml": "<p>In the navigation log, a pilot has calculated a total flight time of 1 hour and 32 minutes. According to the FMS, the estimated flight time for his route is 1 hour and 35 minutes. What is the most likely reason for this discrepancy?</p>",
+  "options": {
+    "a": "<p>The wind inserted in the FMS is not correct and does not take into account the tailwind forecast in the route.</p>",
+    "b": "<p>The wind inserted in the FMS is not correct and does not take into account the headwind forecast in the route.</p>",
+    "c": "<p>The FMS is using outdated aircraft performance data.</p>",
+    "d": "<p>The GPS calculates flight time based on a longer route due to additional waypoints.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

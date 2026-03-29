@@ -1,0 +1,14 @@
+{
+  "number": 1256,
+  "questionId": 84929,
+  "questionNumber": "333149",
+  "stemHtml": "<p>A crew finds that the actual headwind is stronger than the forecast wind, and so flies at 140 kt TAS instead of the planned 130 kt TAS to minimise the delay to arrival. Determine the increase in fuel use for the flight leg, given:</p><p>Fuel flow at 130 kt TAS: 162 kg/h <br /> Fuel flow at 140 kt TAS: 188 kg/h <br /> Forecast headwind component: 10 kt <br /> Actual headwind component: 25 kt <br /> Leg distance: 166 NM</p>",
+  "options": {
+    "a": "<p>11 kg</p>",
+    "b": "15 kg",
+    "c": "25 kg",
+    "d": "47 kg"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

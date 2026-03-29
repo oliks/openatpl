@@ -1,0 +1,14 @@
+{
+  "number": 331,
+  "questionId": 70723,
+  "questionNumber": "338868",
+  "stemHtml": "<p>Given the following NOTAM information, when can RWY 07R/25L be expected to be in operation?</p>\n\n<p><span style=\"letter-spacing:0.7px\">>>> EDDF FRANKFURT MAIN <<< SCHEDULE: DAILY 2200-0400 RWY 07R/25L CLSD.: NOTAM ED/A0675/16 RWY 25L TDZ SLIPPERY WHEN WET. : NOTAM ED/A0588/16 >>> END OF BULLETIN <<<</span></p>",
+  "options": {
+    "a": "Daily from 22:00 to 04:00.",
+    "b": "From the 22nd of the month to the 4th of the next month.",
+    "c": "From the 4th of the month to the 22nd of the month.",
+    "d": "Daily from 04:00 to 22:00."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

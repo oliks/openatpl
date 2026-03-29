@@ -1,0 +1,24 @@
+{
+  "number": 68,
+  "questionId": 110771,
+  "questionNumber": "332191",
+  "stemHtml": "<p>Refer to figure or VFR chart Friedrichshafen (EDNY) 19-1 from the Jeppesen GSPRM 2017. <br>You are planning VFR departure from Friedrichshafen aerodrome (EDNY) using runway 24. What is the correct departure procedure to route via point SIERRA? After take off, turn left to track\u2026</p>",
+  "options": {
+    "a": "<p>150\u00b0(M), MAX 3000 ft.</p>",
+    "b": "<p>135\u00b0(M), MAX 3000 ft.</p>",
+    "c": "<p>Follow the Autobahn South.</p>",
+    "d": "<p>Contact Munich Information after take off for directions.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 67173,
+      "uniqueKey": "27dcead0-dc9d-4bc4-b1a1-e3415ec68702",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=27dcead0-dc9d-4bc4-b1a1-e3415ec68702",
+      "publicUrl": "/attachments/033/27dcead0-dc9d-4bc4-b1a1-e3415ec68702.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/27dcead0-dc9d-4bc4-b1a1-e3415ec68702.jpg"
+    }
+  ]
+}
