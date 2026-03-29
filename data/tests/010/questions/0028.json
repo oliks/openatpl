@@ -1,0 +1,14 @@
+{
+  "number": 28,
+  "questionId": 111056,
+  "questionNumber": "105334",
+  "stemHtml": "<p>From the following options, select the correct combination that confirms geographical location when referring to separation as described in ICAO Doc 4444.</p><p>1. Visual observation<br>2. Use of navigation aids<br>3. Use of area navigation (RNAV) equipment<br>4. Bearing and distance passed in a clearance by ATC</p>",
+  "options": {
+    "a": "<p>Only 1</p>",
+    "b": "<p>Only 3</p>",
+    "c": "<p>1, 2 and 3</p>",
+    "d": "<p>2, 3 and 4</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

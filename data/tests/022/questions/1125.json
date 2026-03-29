@@ -1,0 +1,14 @@
+{
+  "number": 1125,
+  "questionId": 68541,
+  "questionNumber": "228730",
+  "stemHtml": "<p>The aeroplane outside air temperature probe measures the\u2026</p>",
+  "options": {
+    "a": "static air temperature, this must be corrected for compressibility effects to obtain the total air temperature.",
+    "b": "total air temperature, this must be corrected for compressibility effects to obtain the static air temperature.",
+    "c": "total air temperature, this must be corrected for ram rise and recovery factor to obtain the static air temperature.",
+    "d": "static air temperature, this must be corrected for ram rise and recovery factor to obtain the total air temperature."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

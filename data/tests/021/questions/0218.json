@@ -1,0 +1,14 @@
+{
+  "number": 218,
+  "questionId": 106573,
+  "questionNumber": "215630",
+  "stemHtml": "<p>How do isolation valves operate within an aircraft\u2019s bleed air system?</p>",
+  "options": {
+    "a": "<p>They close when the system pressure equals the environmental pressure.</p>",
+    "b": "<p>They open when there is a leak in one of the systems.</p>",
+    "c": "<p>They open when there is a pressure difference between the systems or when the system is OFF.</p>",
+    "d": "<p>They close when the engines are at maximum thrust.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

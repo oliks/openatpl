@@ -1,0 +1,14 @@
+{
+  "number": 1438,
+  "questionId": 161741,
+  "questionNumber": "104681",
+  "stemHtml": "<p>The pilots of an aircraft receive a Traffic Advisory (TA) while en-route. The conflicting traffic is shown on the navigation display. Why should the pilots not respond based on the TA?</p>",
+  "options": {
+    "a": "<p>Making a rapid avoidance manoeuvre WITHOUT the guidance of a Resolution Advisory (RA) has a very high risk of upsetting the aircraft and should therefore be avoided.</p>",
+    "b": "<p>The navigation display provides limited, partial information on the conflicting traffic's bearing and altitude which can be misinterpreted, and taking action based on this is hazardous.</p>",
+    "c": "<p>The crew should wait for the reaction of the Air Traffic Controller. An early, rapid avoidance would make it impossible for the Air Traffic Controller to issue deconflicting instructions.</p>",
+    "d": "<p>If the crew manoeuvre the aircraft, the TCAS system will stop monitoring the conflicting traffic, and if a collision risk remains, it would fail to issue a proper Resolution Advisory (RA).</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

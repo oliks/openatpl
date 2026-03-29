@@ -1,0 +1,14 @@
+{
+  "number": 1629,
+  "questionId": 81361,
+  "questionNumber": "228298",
+  "stemHtml": "<p dir=\"ltr\">A fail-operational hybrid landing system is fitted to an aircraft. What does this consist of?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">A fail-operational landing system which, if the runway has NO low visibility approach aid, can overlay the enhanced vision system on the head-up display to allow continued operations below normal RVR minima.</p>",
+    "b": "<p dir=\"ltr\">A fail-passive automatic landing system and a secondary independent guidance system such as a head-up display (HUD). This enables the pilot to land manually if the automatic landing system fails.</p>",
+    "c": "A fail-operational landing system with a synthetic vision overlay, enabling better monitoring, and so a lower minimum RVR, than is possible with a simple fail-operational automatic landing system.",
+    "d": "A fail-passive guidance system and a secondary independent landing system enabling automatic landing if the guidance system fails."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

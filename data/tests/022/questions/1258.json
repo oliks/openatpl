@@ -1,0 +1,14 @@
+{
+  "number": 1258,
+  "questionId": 68751,
+  "questionNumber": "226896",
+  "stemHtml": "<p>The ADC uses the following parameters as input data\u2026</p>",
+  "options": {
+    "a": "<p>Static pressure, total pressure, total air temperature.</p>",
+    "b": "TAS, CAS, altitude, total air temperature.",
+    "c": "<p>Static pressure and total pressure only.</p>",
+    "d": "TAS, altitude, vertical speed, OAT."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

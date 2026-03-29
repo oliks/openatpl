@@ -1,0 +1,14 @@
+{
+  "number": 469,
+  "questionId": 107945,
+  "questionNumber": "225686",
+  "stemHtml": "<p>What is the purpose of flight control surface position inputs to an autopilot system?</p>",
+  "options": {
+    "a": "<p>Prevents flight control deflections that exceed structural limits.</p>",
+    "b": "<p>Compares the actual and commanded movement of the flight controls.</p>",
+    "c": "<p>Provides warnings in case of jammed or restricted flight controls.</p>",
+    "d": "<p>Compensates in case of failures with the use of secondary flight controls</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

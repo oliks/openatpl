@@ -1,0 +1,14 @@
+{
+  "number": 190,
+  "questionId": 82255,
+  "questionNumber": "228723",
+  "stemHtml": "What can be expected when there's a complete loss of GPS signal?",
+  "options": {
+    "a": "Loss of radio navigation signals.",
+    "b": "Loss of integrity monitoring (RAIM) and RNP APCH capability.",
+    "c": "Position uncertainty due to ND units shutdown.",
+    "d": "Calculated position deviation."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

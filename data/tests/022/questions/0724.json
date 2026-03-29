@@ -1,0 +1,14 @@
+{
+  "number": 724,
+  "questionId": 101430,
+  "questionNumber": "228711",
+  "stemHtml": "<p>During the cruise, the pilots begin to notice a non-commanded low-intensity oscillation of the aircraft, but no AFCS cautions are displayed. What action should the pilots take?</p>",
+  "options": {
+    "a": "<p>Attribute it to turbulence and assume nothing is wrong.</p>",
+    "b": "<p>Activate the AFCS fault mode.</p>",
+    "c": "<p>Execute a safe forced landing.</p>",
+    "d": "<p>De-select the A/P sequentially to determine which part is faulty.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

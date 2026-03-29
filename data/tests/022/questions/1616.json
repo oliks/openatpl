@@ -1,0 +1,14 @@
+{
+  "number": 1616,
+  "questionId": 103577,
+  "questionNumber": "228554",
+  "stemHtml": "<p>Why can't you find the user waypoint you entered 2 months ago?</p>",
+  "options": {
+    "a": "<p>At some point after the waypoint was entered, the battery of the aircraft was disconnected and this reset the navigation database.</p>",
+    "b": "<p>Because the out of storage, the system deleted the oldest waypoint that you entered to make a place for the new one.</p>",
+    "c": "<p>Waypoints are deleted after every single flight, so it was deleted.</p>",
+    "d": "<p>The navigation database was updated and the waypoint was deleted during the process.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

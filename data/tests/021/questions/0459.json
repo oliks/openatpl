@@ -1,0 +1,14 @@
+{
+  "number": 459,
+  "questionId": 67510,
+  "questionNumber": "214947",
+  "stemHtml": "<p>The following thrust formula is given: F = m (v<sub>j</sub> - v<sub>v</sub>) + A (p<sub>j</sub> -p<sub>0</sub>) <br><br>Which answer states the correct explanation of the two parts of the right side of the formula?</p>",
+  "options": {
+    "a": "<p>m (v<sub>j</sub> - v<sub>v</sub>): the thrust of the hot section. A (p<sub>j</sub> - p<sub>0</sub>): the thrust of the cold section of a turbofan.</p>",
+    "b": "<p>m (v<sub>j</sub> - v<sub>v</sub>): the thrust of the propeller. A (p<sub>j</sub> - p<sub>0</sub>): the thrust of the exhaust of a turboprop.</p>",
+    "c": "<p>m (v<sub>j</sub> - v<sub>v</sub>): the thrust of the core section. A (p<sub>j</sub> - p<sub>0</sub>): the thrust of the fan section of a turbofan.</p>",
+    "d": "<p>m (v<sub>j</sub> - v<sub>v</sub>): the thrust caused by the acceleration of the air mass flow. A (p<sub>j</sub> - p<sub>0</sub>): the thrust caused by the pressure difference at the exhaust.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

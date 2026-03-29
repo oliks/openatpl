@@ -1,0 +1,14 @@
+{
+  "number": 334,
+  "questionId": 85347,
+  "questionNumber": "108075",
+  "stemHtml": "<p>Which option correctly describes the following events?</p><p>1. A near collision which required an avoidance manoeuvre, where no damage or injuries were sustained.<br>2. A runway excursion which resulted in significant damage to the flaps and landing gear, but no injuries.</p>",
+  "options": {
+    "a": "Event 1 is classed as a serious incident because a collision almost happened, but did NOT result in damage or harm. <br /> Event 2 is classed as a serious incident because only the landing gears and fuselage were damaged.",
+    "b": "Event 1 is classed as an accident because an emergency manoeuvre was required. <br /> Event 2 is classed as a serious incident because, although there was aircraft damage, there were NO injuries.",
+    "c": "Event 1 is classed as an accident because emergency manoeuvring was required. <br /> Event 2 is classed as an accident because there was significant damage to the aircraft.",
+    "d": "Event 1 is classed as a serious incident because a collision almost happened, but did NOT result in damage or harm. <br /> Event 2 is classed as an accident because there was significant damage to the aircraft."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

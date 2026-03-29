@@ -1,0 +1,14 @@
+{
+  "number": 1189,
+  "questionId": 82243,
+  "questionNumber": "226617",
+  "stemHtml": "<p>What are the consequences of a radio altimeter failure during an autoland?</p>",
+  "options": {
+    "a": "<p>The flare mode will not engage at the correct altitude.</p>",
+    "b": "<p>The alert height is increased by another 100\u2019 to increase the safety margin.</p>",
+    "c": "<p>The radio altitude indication will disappear.</p>",
+    "d": "<p>The aircraft automatically initiates a go-around.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

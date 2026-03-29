@@ -1,0 +1,14 @@
+{
+  "number": 40,
+  "questionId": 108347,
+  "questionNumber": "225158",
+  "stemHtml": "<p>Which of the following options does a stall warning system (SWS) need as input?</p><p>1. Autothrust <br>2. Slats deflection <br>3. Flaps deflection <br>4. Calibrated Airspeed (CAS) <br>5. Indicated Airspeed (IAS)</p>",
+  "options": {
+    "a": "<p>2, 3, 4</p>",
+    "b": "<p>1, 2, 3, 4, 5</p>",
+    "c": "<p>1, 2, 3</p>",
+    "d": "<p>2, 3, 5</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

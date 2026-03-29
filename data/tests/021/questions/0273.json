@@ -1,0 +1,14 @@
+{
+  "number": 273,
+  "questionId": 85612,
+  "questionNumber": "212914",
+  "stemHtml": "An aircraft has been parked up for a significant amount of time. The last entry in the aircraft tech log by the maintenance organisation was made before the aircraft's last flight. Amongst other elements, this statement mentions that the aircraft is considered airworthy up to a certain amount of flight hours, which have not yet been reached by the aircraft. No technical malfunctions or deferred defects have been entered in the tech log. Which of the following statements is correct?",
+  "options": {
+    "a": "The aircraft can be considered airworthy provided a visual inspection of the aircraft does NOT reveal technical malfunctions. This is referred to as condition monitoring.",
+    "b": "<p>The airworthiness maintenance statement could also contain a due date for hard-time maintenance after a certain number of cycles, which needs to be verified.</p>",
+    "c": "After each parking period, irrespective of the duration, the airworthiness maintenance statement will need to be revised. This is an example of a hard-time maintenance method.",
+    "d": "The maintenance statement remains always valid up to the flight time limits provided."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

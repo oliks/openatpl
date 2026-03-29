@@ -1,0 +1,14 @@
+{
+  "number": 1187,
+  "questionId": 82285,
+  "questionNumber": "225206",
+  "stemHtml": "<p>What information can be shown on an EFIS Navigation Display?</p>\r\r<p>1. Terrain display at aircraft position  <br />  \r2. Nav aids  <br />  \r3. Intruding traffic  <br />  \r4. Altitude  <br />  \r5. Flight crew oxygen reserve</p>",
+  "options": {
+    "a": "<p>3, 4, 5</p>",
+    "b": "<p>1, 3, 5</p>",
+    "c": "<p>1, 2, 3</p>",
+    "d": "<p>2, 3</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

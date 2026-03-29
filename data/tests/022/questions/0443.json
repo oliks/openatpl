@@ -1,0 +1,14 @@
+{
+  "number": 443,
+  "questionId": 103350,
+  "questionNumber": "229099",
+  "stemHtml": "<p>For a FMS designed with the lateral navigation (LNAV) capability coupled to the autopilot, which of the following is a lateral command output?</p>",
+  "options": {
+    "a": "<p>A calibrated airspeed (CAS) and a cross track distance (XTK). </p>",
+    "b": "<p>A longitudinal acceleration and a roll rate. </p>",
+    "c": "<p>A roll angle or a heading target. </p>",
+    "d": "<p>A lateral acceleration. </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

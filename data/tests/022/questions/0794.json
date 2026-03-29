@@ -1,0 +1,14 @@
+{
+  "number": 794,
+  "questionId": 118196,
+  "questionNumber": "221514",
+  "stemHtml": "<p>Which of the following statements about a yaw damper system are correct? Select the correct combination.</p><p>1. Yaw damper is part of the autopilot yaw channel<br>2. Yaw dampers can participate in turn coordination <br>3. Yaw damper acts parallel and upstream of rudder pedals <br>4. Rudder moves independently from rudder pedals <br>5. For given oscillation speed the signal sent to the rudder is proportional to the airspeed</p>",
+  "options": {
+    "a": "<p>1, 2 and 4</p>",
+    "b": "<p>1, 2, 3 and 4</p>",
+    "c": "<p>2 and 4</p>",
+    "d": "<p>3 and 5</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

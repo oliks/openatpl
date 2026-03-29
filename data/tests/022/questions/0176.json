@@ -1,0 +1,14 @@
+{
+  "number": 176,
+  "questionId": 100516,
+  "questionNumber": "227890",
+  "stemHtml": "What happens if one of the autopilots in a fail passive autoland system fails?",
+  "options": {
+    "a": "<p>The airplane will continue flying normally, but the autoland could not be initiated.</p>",
+    "b": "Landing completed automatically.",
+    "c": "The pilots should prepare for an out of trim condition.",
+    "d": "Nothing will change."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

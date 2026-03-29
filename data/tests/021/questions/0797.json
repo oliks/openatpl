@@ -1,0 +1,14 @@
+{
+  "number": 797,
+  "questionId": 108984,
+  "questionNumber": "215824",
+  "stemHtml": "<p>How does cabin pressure and cabin altitude change during different phases of flight?</p><p>During the take-off roll, the cabin pressure is (1) _____ ambient pressure. During landing, the target cabin altitude is (2) _____ the landing altitude.</p>",
+  "options": {
+    "a": "<p>(1) greater than; (2) the same as.</p>",
+    "b": "<p>(1) less than; (2) higher than.</p>",
+    "c": "<p>(1) greater than; (2) lower than.</p>",
+    "d": "<p>(1) the same as; (2) the same as.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

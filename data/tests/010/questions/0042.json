@@ -1,0 +1,14 @@
+{
+  "number": 42,
+  "questionId": 67257,
+  "questionNumber": "103077",
+  "stemHtml": "How is the local QNH given, regarding to the nearest hectopascal?",
+  "options": {
+    "a": "It is rounded down to nearest tenths hectopascal.",
+    "b": "It is rounded up to nearest tenths hectopascal.",
+    "c": "It is rounded up to nearest whole hectopascal.",
+    "d": "It is rounded down to nearest whole hectopascal."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

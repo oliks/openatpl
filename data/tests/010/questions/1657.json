@@ -1,0 +1,14 @@
+{
+  "number": 1657,
+  "questionId": 86145,
+  "questionNumber": "108071",
+  "stemHtml": "A pilot has begun taxiing to Runway 22 for take-off, but the tailwind now exceeds their performance limits. Unsure what to do, the pilot asks ATC to depart from Runway 04 instead. Which of the following is most likely to occur?",
+  "options": {
+    "a": "<p>Departure from Runway 04 because the PIC has the final decision about which runway to use.</p>",
+    "b": "<p>Departure from Runway 22 because ATC has the final decision about runway-in-use.</p>",
+    "c": "Departure from Runway 04, but ATC must then file an incident report afterwards.",
+    "d": "Departure from Runway 22, and ATC will advise the pilot to adopt a higher take-off speed."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

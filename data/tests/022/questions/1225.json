@@ -1,0 +1,14 @@
+{
+  "number": 1225,
+  "questionId": 110247,
+  "questionNumber": "221697",
+  "stemHtml": "<p>In a multi-crew aircraft, there is an indication difference of more than 5 kts between the pilots airspeed indicators (ASIs), does the crew need to take any action?</p>",
+  "options": {
+    "a": "<p>No, the lower airspeed is the most accurate.</p>",
+    "b": "<p>No, variations are normal.</p>",
+    "c": "<p>No, the crew should reset the Air Data Computer (ADC).</p>",
+    "d": "<p>Yes, the crew can cross-check groundspeed using the GNSS.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

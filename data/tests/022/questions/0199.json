@@ -1,0 +1,14 @@
+{
+  "number": 199,
+  "questionId": 82009,
+  "questionNumber": "228695",
+  "stemHtml": "Considering vertical modes of the flight guidance system, when using vertical navigation (VNAV) or managed climb/descent (CLB or DES), the aeroplane should...",
+  "options": {
+    "a": "follow the vertical commands computed by the FMS, ensuring the aeroplane follows the flight path regardless of ambient conditions.",
+    "b": "only commence a climb or descent at the position computed by the FMS if a higher/lower (as appropriate) altitude is selected by the pilot first.",
+    "c": "commence a climb or descent once the aeroplane reaches the position computed by the FMS regardless of any altitude selection made by the pilot.",
+    "d": "only engage when the pilot selects it, when the aeroplane has no deviation from the calculated vertical profile in the FMS."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

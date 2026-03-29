@@ -1,0 +1,24 @@
+{
+  "number": 709,
+  "questionId": 109251,
+  "questionNumber": "227886",
+  "stemHtml": "<p>Refer to figure. <br>The fuel imbalance electronic checklist lists 'FUEL X-FEED ON' as one of the actions. What actions should the crew take?</p><p> </p>",
+  "options": {
+    "a": "<p>The crew should consider the possibilty of a fuel leak which would result in the fuel from the right hand wing being lost overboard if the fuel crossfeed was selected to ON.</p>",
+    "b": "<p>If there has been no master warning for a fuel leak it is safe to select the fuel crossfeed to ON.</p>",
+    "c": "<p>This item can be skipped and the fuel pumps can then be switched off as commanded by the checklist.</p>",
+    "d": "<p>The fuel crossfeed should be selected to ON as the ECAM computer will have checked for a fuel leak.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 72565,
+      "uniqueKey": "857486aa-11bd-402e-b4b3-6e4487cf4b28",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=857486aa-11bd-402e-b4b3-6e4487cf4b28",
+      "publicUrl": "/attachments/022/857486aa-11bd-402e-b4b3-6e4487cf4b28.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/857486aa-11bd-402e-b4b3-6e4487cf4b28.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 583,
+  "questionId": 84735,
+  "questionNumber": "225175",
+  "stemHtml": "<p>An aircraft is fitted with an ACAS II system. The system is linked with a transponder to generate\u2026</p>",
+  "options": {
+    "a": "<p>TAs, which are coordinated and complementary, for aircraft fitted with the same or different types of ACAS.</p>",
+    "b": "<p>TAs, and if the other aircraft is also fitted with ACAS II, the TAs are coordinated and complementary.</p>",
+    "c": "<p>RAs, and if the other aircraft is also fitted with ACAS II, the RAs are coordinated and complementary.</p>",
+    "d": "<p>RAs, but these cannot be coordinated if the concerned aircraft are fitted with Mode-S transponders.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

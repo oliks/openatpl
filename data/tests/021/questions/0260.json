@@ -1,0 +1,14 @@
+{
+  "number": 260,
+  "questionId": 116407,
+  "questionNumber": "216963",
+  "stemHtml": "<p>In a lithium-ion battery, how can the likelihood of thermal runaway be evaluated?</p>",
+  "options": {
+    "a": "<p>By placing thermistors and thermocouples close to the cells and measuring differences between the two.</p>",
+    "b": "<p>By measuring the battery's impedance with a multimeter.</p>",
+    "c": "<p>By monitoring the gas pressure within the battery from a relief valve.</p>",
+    "d": "<p>By measuring the voltage, current and temperature of the battery cells.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

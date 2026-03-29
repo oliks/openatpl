@@ -1,0 +1,14 @@
+{
+  "number": 1804,
+  "questionId": 96502,
+  "questionNumber": "217194",
+  "stemHtml": "In an engine equipped with dual channel FADEC, what happens in the event of total FADEC failure?",
+  "options": {
+    "a": "Erratic engine behaviour.",
+    "b": "The engine will remain at the last thrust setting.",
+    "c": "The engine will fail.",
+    "d": "<p>Thrust control will be lost.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

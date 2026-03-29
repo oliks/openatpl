@@ -1,0 +1,14 @@
+{
+  "number": 366,
+  "questionId": 103351,
+  "questionNumber": "215869",
+  "stemHtml": "<p>Consider a partially powered flight control system. Which of the following statements is true?</p>",
+  "options": {
+    "a": "<p>It automatically adjusts the flight controls without pilot input to maintain the flight path.</p>",
+    "b": "<p>It allows the pilot to feel the aerodynamic load on the flight controls.</p>",
+    "c": "<p>It completely isolates the pilot from feeling any feedback through the flight controls.</p>",
+    "d": "<p>It uses electronic signals and computers to translate pilot inputs into control surface movement, with no mechanical connection.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1319,
+  "questionId": 164770,
+  "questionNumber": "227907",
+  "stemHtml": "<p>An Aircraft Condition Monitoring System (ACMS) records aircraft performance and system data, how is this transmitted to the aircraft operator?</p>",
+  "options": {
+    "a": "<p>They are transmitted manually by the pilot via radio after landing</p>",
+    "b": "<p>They are transmitted automatically using the FMGS navigation computer only</p>",
+    "c": "<p>They are transmitted only when a maintenance fault is selected by the crew</p>",
+    "d": "<p>They are transmitted automatically by different methods without requiring pilot action</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

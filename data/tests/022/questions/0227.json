@@ -1,0 +1,14 @@
+{
+  "number": 227,
+  "questionId": 105644,
+  "questionNumber": "227031",
+  "stemHtml": "<p>A pilot monitors three proximate intruders on the TCAS display . The TCAS\u2026</p>",
+  "options": {
+    "a": "<p>can generate TA and RA for all of them.</p>",
+    "b": "<p>can generate TA for all of them but will only advise RA for the closest.</p>",
+    "c": "<p>can only track the closest one.</p>",
+    "d": "<p>can only show the traffic with mode S.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

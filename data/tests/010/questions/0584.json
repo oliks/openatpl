@@ -1,0 +1,14 @@
+{
+  "number": 584,
+  "questionId": 107245,
+  "questionNumber": "107953",
+  "stemHtml": "<p>The pilot of an aircraft reports 'Final Runway 28' and the tower controller replies 'Continue approach, wind 180 degrees, 15 knots'. How should the pilot interpret this report?</p>",
+  "options": {
+    "a": "<p>The aircraft can continue the approach but the Controller strongly recommends the crew to make an early decision to go around.</p>",
+    "b": "<p>The runway is NOT clear yet but expected to be clear in due time. The Controller delays the landing clearance until the runway is clear.</p>",
+    "c": "<p>The runway is NOT clear yet but expected to be clear in due time. The aircraft is allowed to land WITHOUT further instructions as soon as the runway is clear.</p>",
+    "d": "<p>The aircraft is allowed to land under its own responsibility. A clearance is NOT issued as the Controller CANNOT take responsibility in the current wind conditions.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

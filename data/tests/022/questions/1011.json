@@ -1,0 +1,14 @@
+{
+  "number": 1011,
+  "questionId": 82026,
+  "questionNumber": "223300",
+  "stemHtml": "<p>After entering the starting position, an inertial navigation system provides continuous information on the aircraft's position by measuring the (1) _____ in the vertical, horizontal and lateral planes. A first integration over time outputs the (2) _____, a second integration over time gives (3) _____.</p>",
+  "options": {
+    "a": "<p>(1) distance travelled; (2) velocity; (3) acceleration</p>",
+    "b": "<p>(1) acceleration; (2) height; (3) present position</p>",
+    "c": "<p>(1) velocity; (2) last position; (3) acceleration</p>",
+    "d": "<p>(1) acceleration; (2) velocity; (3) distance travelled</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

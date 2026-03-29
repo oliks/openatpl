@@ -1,0 +1,14 @@
+{
+  "number": 543,
+  "questionId": 84849,
+  "questionNumber": "106749",
+  "stemHtml": "The crew of an Airbus A320 is in the cruise at FL100 on a short ferry flight, when they are instructed to maintain an indicated airspeed of 250 kt. In the same message, ATC inform them of significant weather (Emb Cb) ahead, a change to some restricted airspace that might affect their route, and possible wake turbulence from a crossing Airbus A380. They are then told to contact another ATC unit as they are crossing an FIR boundary shortly. What shall be included in the crew's initial call to the new ATC unit?",
+  "options": {
+    "a": "The possible wake turbulence.",
+    "b": "The update on the restricted airspace.",
+    "c": "Information about the significant weather.",
+    "d": "The speed to be maintained."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

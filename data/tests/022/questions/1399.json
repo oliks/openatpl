@@ -1,0 +1,14 @@
+{
+  "number": 1399,
+  "questionId": 82038,
+  "questionNumber": "221961",
+  "stemHtml": "On a scheduled flight, the ATC asks the pilots to change their route. What action is required for the IRS?",
+  "options": {
+    "a": "enter the new waypoints into the control unit of each IRS, ensuring the system in use is updated first.",
+    "b": "the pilot will need to revert to manual navigation. The aircraft must be stationary to update waypoints in the IRS.",
+    "c": "modern aircraft have GPS, so the pilot does not need to update waypoints in the IRS.",
+    "d": "enter the new waypoints into the MCDU of the FMS."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

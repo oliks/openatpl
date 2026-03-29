@@ -1,0 +1,24 @@
+{
+  "number": 75,
+  "questionId": 96384,
+  "questionNumber": "223279",
+  "stemHtml": "Refer to figure. <br /> Which IRS mode should be used in flight?",
+  "options": {
+    "a": "NAV but not with ATT functions.",
+    "b": "NAV with ATT functions thus measuring HDG, ATT and accelerations.",
+    "c": "ATT mode with pitch and roll information only.",
+    "d": "ATT mode with pitch and roll information and heading."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 55612,
+      "uniqueKey": "82e915c6-e570-4d6e-8100-0c1cb789fff2",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=82e915c6-e570-4d6e-8100-0c1cb789fff2",
+      "publicUrl": "/attachments/022/82e915c6-e570-4d6e-8100-0c1cb789fff2.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/82e915c6-e570-4d6e-8100-0c1cb789fff2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1409,
+  "questionId": 79729,
+  "questionNumber": "212409",
+  "stemHtml": "<p>Refer to figure. <br>The function of X-TIE is\u2026</p>",
+  "options": {
+    "a": "For redundancy in case the ESS TRU fails.",
+    "b": "To allow DC BUS 2 to be supplied in the case of a failure of TRU 2.",
+    "c": "To supply DC BUS 1 when the ESS TRU is feeding the ESS DC BUS.",
+    "d": "To allow DC BUS 1 to supply the ESS DC BUS in the case of ESS TRU failure."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 49154,
+      "uniqueKey": "42A8E4E5-7538-468A-B62C-0AD0AB78AF8D",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=42A8E4E5-7538-468A-B62C-0AD0AB78AF8D",
+      "publicUrl": "/attachments/021/42A8E4E5-7538-468A-B62C-0AD0AB78AF8D.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/42A8E4E5-7538-468A-B62C-0AD0AB78AF8D.png"
+    }
+  ]
+}

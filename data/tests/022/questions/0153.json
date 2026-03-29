@@ -1,0 +1,24 @@
+{
+  "number": 153,
+  "questionId": 111554,
+  "questionNumber": "227020",
+  "stemHtml": "<p>Refer to figure. <br /> \rRegarding the altimeter display shown in the annex, the input pressure source is...</p>",
+  "options": {
+    "a": "<p>calculated within the instrument, in analogue form, by subtracting static pressure from pitot pressure.</p>",
+    "b": "<p>static, and it is converted into a digital signal by a transducer.</p>",
+    "c": "<p>static, and it is transmitted from the source to the instrument through a pipeline.</p>",
+    "d": "<p>calculated by the Air Data Computer by subtracting static pressure from pitot pressure.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 67791,
+      "uniqueKey": "cd830f59-9678-4273-80c9-578ffabdb7cd",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=cd830f59-9678-4273-80c9-578ffabdb7cd",
+      "publicUrl": "/attachments/022/cd830f59-9678-4273-80c9-578ffabdb7cd.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/cd830f59-9678-4273-80c9-578ffabdb7cd.png"
+    }
+  ]
+}

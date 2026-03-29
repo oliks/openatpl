@@ -1,0 +1,14 @@
+{
+  "number": 1564,
+  "questionId": 159849,
+  "questionNumber": "225297",
+  "stemHtml": "<p>While in the cruise with the autopilot and autothrust engaged, which statement correctly describes how the systems act to maintain stable flight?</p>",
+  "options": {
+    "a": "<p>The autothrust applies constant thrust to maintain speed, and the autopilot applies varying pitch to maintain altitude.</p>",
+    "b": "<p>The autothrust applies varying thrust to maintain speed, and the autopilot applies constant pitch to maintain altitude.</p>",
+    "c": "<p>The autothrust applies varying thrust to maintain speed and the autopilot applies varying pitch to maintain altitude,\u00a0</p>",
+    "d": "<p>The autopilot applies constant pitch to maintain altitude, and the autothrust applies constant thrust to maintain speed.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

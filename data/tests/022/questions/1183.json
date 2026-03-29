@@ -1,0 +1,14 @@
+{
+  "number": 1183,
+  "questionId": 68865,
+  "questionNumber": "228722",
+  "stemHtml": "<p>The EFIS Navigation Display (ND) may show\u2026</p>",
+  "options": {
+    "a": "present position in latitude and longitude coordinates.",
+    "b": "<p>speed information such as mach number, IAS, groundspeed, and wind velocity.</p>",
+    "c": "<p>magnetic heading, track, and course-related information.</p>",
+    "d": "<p>information from ground, weather, primary, and secondary radar.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

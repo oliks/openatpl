@@ -1,0 +1,14 @@
+{
+  "number": 1151,
+  "questionId": 68582,
+  "questionNumber": "222354",
+  "stemHtml": "<p>An aeroplane is cruising at FL190. The auto-throttle maintains a constant CAS. If the OAT decreases, the Mach number\u2026</p>",
+  "options": {
+    "a": "decreases.",
+    "b": "increases.",
+    "c": "remains constant.",
+    "d": "decreases if OAT is lower than standard temperature, increases in the opposite case."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

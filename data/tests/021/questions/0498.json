@@ -1,0 +1,14 @@
+{
+  "number": 498,
+  "questionId": 67733,
+  "questionNumber": "215713",
+  "stemHtml": "<p>The function of a NOT logic gate within a circuit is to\u2026</p>",
+  "options": {
+    "a": "<p>process only high voltage input signals.</p>",
+    "b": "<p>invert the input signal such that the output is always of the opposite state.</p>",
+    "c": "<p>accept the input signal only if it is AC.</p>",
+    "d": "<p>ensure the output signal is of the same state as the input signal.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

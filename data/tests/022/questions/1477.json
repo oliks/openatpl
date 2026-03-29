@@ -1,0 +1,14 @@
+{
+  "number": 1477,
+  "questionId": 69106,
+  "questionNumber": "224944",
+  "stemHtml": "<p>The notification phase (LOG ON) is a FANS application which consists in\u2026</p>",
+  "options": {
+    "a": "<p>requesting to transfer datalink communication to the next ATC centre on the route.</p>",
+    "b": "<p>establishing air/ground connection to verify if the datalink communication can be performed.</p>",
+    "c": "<p>sending automatically aircraft surveillance data to the ATS facility.</p>",
+    "d": "<p>transmitting datalink messages between the pilot and ATC controller.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

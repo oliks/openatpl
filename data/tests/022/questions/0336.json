@@ -1,0 +1,14 @@
+{
+  "number": 336,
+  "questionId": 81218,
+  "questionNumber": "225980",
+  "stemHtml": "<p dir=\"ltr\">A CDU/MCDU is used for the pre-flight set-up process of an FMS. The typical process for covering the most basic information uses which of the following steps and in what sequence?</p><p dir=\"ltr\">1. alternate page <br /> 2. GPS monitor page <br /> 3. ident page <br /> 4. performance initialisation <br /> 5. position initialisation <br /> 6. route initialisation <br /> 7. route programming <br /> 8. runways page</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">5, 2, 6, 7 and 4.</p>",
+    "b": "<p dir=\"ltr\">3, 5, 6, 1 and 4.</p>",
+    "c": "<p dir=\"ltr\">5, 8, 7 and 4.</p>",
+    "d": "3, 5, 6, 7 and 4."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

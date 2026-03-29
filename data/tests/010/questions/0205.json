@@ -1,0 +1,14 @@
+{
+  "number": 205,
+  "questionId": 101527,
+  "questionNumber": "104456",
+  "stemHtml": "What is meant by the OCH of a precision approach?",
+  "options": {
+    "a": "The lowest height above the elevation of the relevant runway threshold (OCH), at which a missed approach shall be initiated to ensure compliance with the appropriate obstacle clearance criteria.",
+    "b": "The lowest altitude above the aerodrome elevation below which an aircraft cannot descend without infringing the appropriate obstacle clearance criteria.",
+    "c": "<p>The lowest height or the elevation of the relevant runway threshold, if the threshold elevation is more than 2 m (7 ft) below the aerodrome elevation, below which an aircraft cannot descend without infringing the appropriate obstacle clearance criteria.</p>",
+    "d": "<p>The lowest height above the ground at which a missed approach must be initiated to ensure compliance with the appropriate obstacle clearance criteria.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

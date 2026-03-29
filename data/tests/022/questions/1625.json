@@ -1,0 +1,14 @@
+{
+  "number": 1625,
+  "questionId": 83668,
+  "questionNumber": "228592",
+  "stemHtml": "An aeroplane departs for a 12 hour long flight at 20:00 UTC on the 8th of the Month. During the preparation, the flight crew notices that their navigation database is only valid until the 8th of the month. What should they do?",
+  "options": {
+    "a": "The should manually change to the new database at 00:00 UTC on the 9th, in flight.",
+    "b": "They do not have to do anything, it is activated automatically.",
+    "c": "Load the new database prior to departure.",
+    "d": "<p>Use the current database for the entire duration of the flight.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

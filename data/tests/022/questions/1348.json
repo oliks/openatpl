@@ -1,0 +1,14 @@
+{
+  "number": 1348,
+  "questionId": 84181,
+  "questionNumber": "225244",
+  "stemHtml": "<p dir=\"ltr\">Approaching top of descent, the destination aerodrome ATIS includes RVRs around 200 m, with Low Visibility Procedures (LVP) in force. The Commander's windscreen heat failed, with an annunciated alert, in the cruise. Does it affect the autoland?</p>",
+  "options": {
+    "a": "<p>YES, since visual contact is important during the last stage of landing.</p>",
+    "b": "<p>NO, it is not part of the autoland requirements.</p>",
+    "c": "<p>YES, all aircraft systems are required to be serviceable for low visibility procedures.</p>",
+    "d": "<p>The autoland capability should NOT be affected by the windscreen heating failure, therefore NO action is necessary.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 697,
+  "questionId": 96741,
+  "questionNumber": "219338",
+  "stemHtml": "<p>During the pre-flight inspection, one of the two fire detection loops in an aircraft is found to be inoperative. Can the aircraft be safely dispatched?</p>",
+  "options": {
+    "a": "No, as both loops are required to provide a fire alarm.",
+    "b": "<p>Yes.</p>",
+    "c": "No, a single loop failure will mean that the other loop fails also.",
+    "d": "Yes, the fire detection system is not required for dispatch so both loops can be inoperative."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

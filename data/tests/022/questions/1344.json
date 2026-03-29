@@ -1,0 +1,14 @@
+{
+  "number": 1344,
+  "questionId": 84771,
+  "questionNumber": "222586",
+  "stemHtml": "May an FMS receive position inputs from the GPS system (if installed)?",
+  "options": {
+    "a": "Yes, but only for horizontal position data, not vertical position data.",
+    "b": "No, GPS is considered too inaccurate and unsecure for this.",
+    "c": "Yes, but only if a dual GPS system is installed.",
+    "d": "Yes, this is common."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

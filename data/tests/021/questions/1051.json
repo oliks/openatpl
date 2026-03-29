@@ -1,0 +1,14 @@
+{
+  "number": 1051,
+  "questionId": 68079,
+  "questionNumber": "211533",
+  "stemHtml": "<p>The APU of a large passenger jet airliner has its own AC generator that\u2026</p>",
+  "options": {
+    "a": "<p>is driven at constant speed through a constant speed drive (CSD), in the same way as the main AC generator.</p>",
+    "b": "<p>must have the same characteristics as the main AC generator so that it can be easily coupled with the latter.</p>",
+    "c": "<p>is excited by its Generator Control Unit (GCU) as soon as the APU starts up.</p>",
+    "d": "<p>supplies the aircraft with three-phase 115 V, 400 Hz AC.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

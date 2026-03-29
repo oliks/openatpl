@@ -1,0 +1,24 @@
+{
+  "number": 1843,
+  "questionId": 81764,
+  "questionNumber": "214322",
+  "stemHtml": "<p>Refer to figure. <br>If GEN 1 fails, DC BUS 1\u2026</p>",
+  "options": {
+    "a": "Can be fed via GEN 2, GB 2, BTB 2, BTB 1, TB1, and TRU1.",
+    "b": "Can be fed via the ESS DC BUS.",
+    "c": "Is no longer able to be fed.",
+    "d": "Can be fed via ESS TRU."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 49148,
+      "uniqueKey": "96086A9B-38FB-40B1-ABD6-B37B144F4BED",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=96086A9B-38FB-40B1-ABD6-B37B144F4BED",
+      "publicUrl": "/attachments/021/96086A9B-38FB-40B1-ABD6-B37B144F4BED.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/96086A9B-38FB-40B1-ABD6-B37B144F4BED.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1703,
+  "questionId": 80256,
+  "questionNumber": "105713",
+  "stemHtml": "According to SERA (Standardised European Rules of the Air), when an IFR pilot wants to change from IFR to VFR, he/she must\u2026",
+  "options": {
+    "a": "Notify ATC. However, if the weather conditions are VMC during the flight, the flight must remain under IFR.",
+    "b": "Notify ATC. However, if the weather conditions are IMC during the flight, the flight must remain under IFR.",
+    "c": "Request an ATC approval. A change from IFR to VFR does NOT depend on weather conditions.",
+    "d": "<p>Request an ATC approval. The flight should then be performed above 3000 ft AMSL.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

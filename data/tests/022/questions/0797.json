@@ -1,0 +1,14 @@
+{
+  "number": 797,
+  "questionId": 96470,
+  "questionNumber": "221387",
+  "stemHtml": "<p>Consider an aircraft being flown manually with LOC mode (tracking of the localizer beam) engaged and with flight directors ON. If the aircraft is to the left of the localizer beam, what will the vertical command bar show?</p>",
+  "options": {
+    "a": "<p>will always show a deviation to the left, regardless of the attitude of the aircraft.</p>",
+    "b": "<p>is not on display to the pilot as the command bars disappear when the autopilot is disengaged.</p>",
+    "c": "<p>will always show a deviation to the right, regardless of the attitude of the aircraft.</p>",
+    "d": "<p>will be centred if the pilot is applying the correct bank angle in order to return on the localizer beam.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

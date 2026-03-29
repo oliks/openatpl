@@ -1,0 +1,14 @@
+{
+  "number": 1461,
+  "questionId": 105026,
+  "questionNumber": "104418",
+  "stemHtml": "<p>If you have the obstacle clearance height (OCH) how do you calculate the minimum descent height (MDH)?</p>\r\n\r\n<ul>\r\n</ul>",
+  "options": {
+    "a": "<p>OCH = MDH + threshold elevation</p>",
+    "b": "<p>OCH = MDH + safe margin applying specific operational minima</p>",
+    "c": "<p>MDH = OCH + threshold elevation</p>",
+    "d": "<p>MDH = OCH + safe margin applying specific operational minima</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1279,
+  "questionId": 69103,
+  "questionNumber": "225445",
+  "stemHtml": "<p>When the autothrust part of the flight guidance system is in SPEED mode, the thrust is\u2026</p>",
+  "options": {
+    "a": "<p>Constant in order to maintain the best rate of climb or descent.</p>",
+    "b": "<p>Constant in order to maintain the target engine speed for a given thrust setting.</p>",
+    "c": "<p>Varied as required to maintain the selected airspeed or Mach Number.</p>",
+    "d": "<p>Varied in order to maintain a selected vertical speed.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

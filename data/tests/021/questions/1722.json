@@ -1,0 +1,14 @@
+{
+  "number": 1722,
+  "questionId": 106702,
+  "questionNumber": "215612",
+  "stemHtml": "<p>During a cold winter day, a jet aircraft is performing a short flight is in the cruise at a medium level. Both pilots note that the EGT is increasing, however the thrust levers have not moved. What could be the reason for this?</p>",
+  "options": {
+    "a": "<p>Because the air is colder, the temperature in the combustion chamber has to be increased to compensate.</p>",
+    "b": "<p>The fuel density is higher due to the low temperature, so more fuel enters the combustion chamber.</p>",
+    "c": "<p>Ice is forming on the leading edge of the wings, so more thrust is added to compensate.</p>",
+    "d": "<p>Ice is forming around the engine intake, causing restricted airflow.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

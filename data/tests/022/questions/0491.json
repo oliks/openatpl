@@ -1,0 +1,14 @@
+{
+  "number": 491,
+  "questionId": 68551,
+  "questionNumber": "226159",
+  "stemHtml": "<p>When an aircraft, operating in the VOR coupled mode, enters the \"cone of confusion\" over a VOR station, the roll channel of the autopilot\u2026</p>",
+  "options": {
+    "a": "is temporarily disconnected.",
+    "b": "temporarily maintains existing heading.",
+    "c": "remains always coupled to the selected VOR radial.",
+    "d": "is damped by a trim input signal from the lateral trim system."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

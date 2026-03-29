@@ -1,0 +1,14 @@
+{
+  "number": 716,
+  "questionId": 80841,
+  "questionNumber": "215035",
+  "stemHtml": "In an electrical circuit, you have a supply of 240 V and a load of 50 Ohms. The load is suddenly malfunctioning, providing a lower resistance than rated. What can you expect?",
+  "options": {
+    "a": "The resistance will increase which will lead to an increased heat output.",
+    "b": "The ampere will increase which will lead to an increased heat output.",
+    "c": "The ampere will decrease which will lead to an increased heat output.",
+    "d": "The supply will increase which will lead to an increased heat output."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

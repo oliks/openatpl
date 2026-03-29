@@ -1,0 +1,14 @@
+{
+  "number": 982,
+  "questionId": 109646,
+  "questionNumber": "213684",
+  "stemHtml": "<p>The pilots receive a warning that one of the AC generators is operating at low frequency, but the voltage is normal. What should they do?</p>",
+  "options": {
+    "a": "<p>Operate the Integrated Drive Generator (IDG) disconnect switch.</p>",
+    "b": "<p>Operate the GEN control switch.</p>",
+    "c": "<p>Operate the frequency wild generator.</p>",
+    "d": "<p>Perform a complete system shutdown.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

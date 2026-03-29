@@ -1,0 +1,14 @@
+{
+  "number": 1530,
+  "questionId": 67848,
+  "questionNumber": "216096",
+  "stemHtml": "<p>Consider a variable pitch propeller operating in a low RPM / high pitch condition. When feather is selected, the\u2026</p>",
+  "options": {
+    "a": "<p>condition lever (pitch control) is moved to the feather position and the blades move from high pitch directly to the feather position.</p>",
+    "b": "<p>condition lever (pitch control) is moved to the feather position and the blades move from high pitch through low pitch to the feather position.</p>",
+    "c": "<p>power lever is moved to the feather position and the blades move from high pitch directly to the feather position.</p>",
+    "d": "<p>power lever is moved to the feather position and the blades move from low pitch through high pitch to the feather position.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

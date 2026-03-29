@@ -1,0 +1,14 @@
+{
+  "number": 879,
+  "questionId": 78030,
+  "questionNumber": "215160",
+  "stemHtml": "A large transport aircraft experiences an unusual attitude situation and successfully recovers from a stall. <br /> Which of the following automatic aircraft response may the pilot encounter?",
+  "options": {
+    "a": "Automatic deactivation of the autopilot for the remainder of the flight, forcing at least one crew member to monitor the flight path at all times.",
+    "b": "The auto-slat system may extend the slats fully (part of) automatically through a high angle of attack reading received by the stall warning system.",
+    "c": "Inhibited master warning and caution alerts to reduce distraction to the flight crew during stall recovery.",
+    "d": "The auto-thrust may disengage and command idle power preventing excessive pitch-up moments found during a high power setting."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

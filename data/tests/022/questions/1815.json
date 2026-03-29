@@ -1,0 +1,14 @@
+{
+  "number": 1815,
+  "questionId": 80196,
+  "questionNumber": "224379",
+  "stemHtml": "<p>A TCAS RA is generated. The required vertical speed\u2026</p>",
+  "options": {
+    "a": "<p>Will show a red arc on the VSI as your target rate of climb/ descent.</p>",
+    "b": "<p>Will not be displayed separately.</p>",
+    "c": "<p>Will take account of stall speed.</p>",
+    "d": "<p>Will be displayed on the VSI.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

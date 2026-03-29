@@ -1,0 +1,14 @@
+{
+  "number": 416,
+  "questionId": 140887,
+  "questionNumber": "229004",
+  "stemHtml": "<p>If the Flight Director is commanding a climb, which one of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>You must manually monitor and be aware of potential overtorque.</p>",
+    "b": "<p>You must maintain the correct pitch attitude because the FD indicates the direction and magnitude of the control inputs required to achieve a target attitude.</p>",
+    "c": "<p>You should manually check for a climb rate of a maximum 500 ft/min.</p>",
+    "d": "<p>The vertical command bar is centered because the FD can't provide simultaneous indications for pitch and roll.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

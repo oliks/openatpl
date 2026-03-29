@@ -1,0 +1,14 @@
+{
+  "number": 1619,
+  "questionId": 68682,
+  "questionNumber": "224413",
+  "stemHtml": "<p>The FMS FLIGHT PLAN or LEG page displays the following parameters relative to the flight plan legs or waypoints:</p><p>1 \u2013 distance  <br /> 2 \u2013 altitude constraint or prediction  <br /> 3 \u2013 waypoint elevation  <br /> 4 \u2013 track</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "1, 3, 4.",
+    "b": "1, 2, 3.",
+    "c": "1, 2, 4.",
+    "d": "2, 3, 4."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

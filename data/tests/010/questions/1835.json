@@ -1,0 +1,24 @@
+{
+  "number": 1835,
+  "questionId": 107171,
+  "questionNumber": "107321",
+  "stemHtml": "<p>Refer to figure. <br>You are executing the LOCy RWY 03 approach procedure at LFRS (Nantes Atlantique). What is the location of the Missed Approach Point (MAPt)?</p>",
+  "options": {
+    "a": "<p>At the threshold (0 NM).</p>",
+    "b": "<p>At 0.7 NM NT DME.</p>",
+    "c": "<p>You should proceed at minimum height until DME indicates zero.</p>",
+    "d": "<p>You should continue past the threshold and perform a missed approach if not visual.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 65957,
+      "uniqueKey": "0e469fa8-7e90-4aed-944b-6a6345f4914b",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=0e469fa8-7e90-4aed-944b-6a6345f4914b",
+      "publicUrl": "/attachments/010/0e469fa8-7e90-4aed-944b-6a6345f4914b.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/0e469fa8-7e90-4aed-944b-6a6345f4914b.png"
+    }
+  ]
+}

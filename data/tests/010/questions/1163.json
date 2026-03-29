@@ -1,0 +1,14 @@
+{
+  "number": 1163,
+  "questionId": 101096,
+  "questionNumber": "103082",
+  "stemHtml": "<p>An aircraft flying an IFR flight is being vectored. The vectors received take the aircraft off an ATS route. The controller of the (1) _____ unit issues clearances such that the prescribed obstacle clearance (2) _____, until the aircraft is cleared to resume own navigation.</p>",
+  "options": {
+    "a": "<p>(1) Flight Information Service; (2) is NOT assured.</p>",
+    "b": "<p>(1) Flight Information Service; (2) will exist at all times.</p>",
+    "c": "<p>(1) Air Traffic Control; (2) is NOT assured.</p>",
+    "d": "<p>(1) Air Traffic Control; (2) will exist at all times.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

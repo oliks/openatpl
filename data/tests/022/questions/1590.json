@@ -1,0 +1,14 @@
+{
+  "number": 1590,
+  "questionId": 81956,
+  "questionNumber": "226706",
+  "stemHtml": "<p>A pilot is flying a CAT III automatic approach, on an aeroplane equipped with a fail-passive automatic landing system, and intends to perform an autoland. After having acquired the required visual references, they notice that FLARE mode does NOT engage at the expected height. If continuation of the approach is permitted, they can...</p>",
+  "options": {
+    "a": "<p>recycle automation and re-engage the autopilots to accomplish the automatic landing.</p>",
+    "b": "<p>take control of the aeroplane and complete the landing manoeuvre manually.</p>",
+    "c": "<p>announce the FMA failure and take control of the aeroplane after touchdown.</p>",
+    "d": "<p>retard the thrust levers and take control of the aeroplane after touchdown.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

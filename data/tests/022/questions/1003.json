@@ -1,0 +1,14 @@
+{
+  "number": 1003,
+  "questionId": 68739,
+  "questionNumber": "224197",
+  "stemHtml": "<p>On the INS control panel, the rotary knob can be selected to OFF, NAV or ATT positions. The correct statement is\u2026</p>",
+  "options": {
+    "a": "ATT is the normal system setting; the NAV position inhibits the attitude data.",
+    "b": "NAV is the normal system setting; the ATT position is the back up position in case of failure of the navigation function.",
+    "c": "NAV is the normal system setting; the OFF position is the back up position in case of failure of the navigation function.",
+    "d": "ATT is the normal system setting."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

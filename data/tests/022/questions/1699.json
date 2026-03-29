@@ -1,0 +1,14 @@
+{
+  "number": 1699,
+  "questionId": 84736,
+  "questionNumber": "211667",
+  "stemHtml": "<p>During the flight one CDU fails, what happens to the associated FMS?</p>",
+  "options": {
+    "a": "Cannot be used and must be shut off for the remaining part of the flight.",
+    "b": "<p>Either FMS can be programmed by using either CDU.</p>",
+    "c": "Can be used by inserting data VOR/LOC receiver.",
+    "d": "Can be used by inserting data via datalink."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1646,
+  "questionId": 86085,
+  "questionNumber": "226422",
+  "stemHtml": "An aircraft is in flight and suffers an engine failure, confirmed by the onboard instruments. At the same time, the pilots get confirmation that there has been a separation of the engine cowling. After following the electronic checklist and shutting down the engine, the last part of the checklist asks the pilots to restart the engine. Should the pilots follow the checklist and restart the failed engine?",
+  "options": {
+    "a": "Yes, the checklist assess multiple parameters at all times, presenting only appropriate actions to the pilots.",
+    "b": "No, the pilot should not attempt to restart the engine without first performing a thorough inspection to assess the extent of the damage.",
+    "c": "No, the checklist is unable to analyse the damage on the engine and a restart of the engine would be unsafe.",
+    "d": "Yes, as long as the pilot has visually confirmed that the engine is not on fire or otherwise unsafe to restart."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

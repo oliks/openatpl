@@ -1,0 +1,24 @@
+{
+  "number": 1054,
+  "questionId": 161949,
+  "questionNumber": "229500",
+  "stemHtml": "<p>Refer to figure.        <br />       The annex shows synchroscope display, what is it designed to indicate?</p>",
+  "options": {
+    "a": "<p>The slave engine is synchronized with the master engine.</p>",
+    "b": "<p>When the display is rotating, the engines are synchronized.</p>",
+    "c": "<p>The master engine is synchronized with the slave engine.</p>",
+    "d": "<p>The engines are synchronized when the display is not visible.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 72685,
+      "uniqueKey": "43e202c6-2961-488c-aef2-c41392c7293d",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=43e202c6-2961-488c-aef2-c41392c7293d",
+      "publicUrl": "/attachments/022/43e202c6-2961-488c-aef2-c41392c7293d.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/43e202c6-2961-488c-aef2-c41392c7293d.png"
+    }
+  ]
+}

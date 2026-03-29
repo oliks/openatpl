@@ -1,0 +1,14 @@
+{
+  "number": 6,
+  "questionId": 102785,
+  "questionNumber": "226910",
+  "stemHtml": "<p>Whilst flying a non Fly-By-Wire aircraft, you experience a trim runaway. What action should you take?</p>",
+  "options": {
+    "a": "<p>Initiate a roll to reduce the effects of the runaway.</p>",
+    "b": "<p>Trim and manipulate the control column manually.</p>",
+    "c": "<p>Engage LNAV and VNAV on the autopilot.</p>",
+    "d": "<p>Engage the autopilot in any mode.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

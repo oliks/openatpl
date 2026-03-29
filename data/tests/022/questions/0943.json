@@ -1,0 +1,14 @@
+{
+  "number": 943,
+  "questionId": 101694,
+  "questionNumber": "226568",
+  "stemHtml": "<p>You are flying an aeroplane equipped with a fail-passive automatic landing system. If, during the autoland coupled ILS approach, a single component of the autoland system fails, the system is able to...</p>",
+  "options": {
+    "a": "<p>maintain safe flight, but is unable to complete the automatic landing.</p>",
+    "b": "<p>complete the automatic landing, including the landing roll-out to a full stop.</p>",
+    "c": "<p>maintain safe flight, providing the autoland capability but without auto-flare.</p>",
+    "d": "<p>complete the automatic landing, but unable to provide roll-out guidance.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

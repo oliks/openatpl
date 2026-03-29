@@ -1,0 +1,14 @@
+{
+  "number": 1422,
+  "questionId": 68213,
+  "questionNumber": "215853",
+  "stemHtml": "<p>What is the function of the hydraulically powered actuators in a fully powered flight control system?</p>",
+  "options": {
+    "a": "<p>Fully powered flight control systems are without actuators.</p>",
+    "b": "<p>The actuators convert hydraulic pressure into control surface movements.</p>",
+    "c": "<p>The actuators convert hydraulic pressure only into control column movements.</p>",
+    "d": "<p>The actuators operate the control valves, which in turn move the control surfaces.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

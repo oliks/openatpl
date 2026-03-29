@@ -1,0 +1,14 @@
+{
+  "number": 833,
+  "questionId": 68903,
+  "questionNumber": "223707",
+  "stemHtml": "<p>The indications on a directional gyroscope are subject to errors. Which option correctly lists the most significant errors, based on the items listed below?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. Apparent wander due to the Earth`s rotation</span> <br /> \n2. Apparent wander due to change of aircraft position <br /> \n3. Gimballing errors <br /> \n4. North change <br /> \n5. Mechanical defects</p>",
+  "options": {
+    "a": "3, 4, and 5 only.",
+    "b": "1, 2, 4, and 5.",
+    "c": "1, 2, 3, and 5.",
+    "d": "2, 3, and 5 only."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

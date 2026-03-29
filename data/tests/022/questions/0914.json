@@ -1,0 +1,24 @@
+{
+  "number": 914,
+  "questionId": 108729,
+  "questionNumber": "221106",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe annex displays an engine fire (Engine 1) master warning. Why is it important for both the Pilot Flying (PF) and the Pilot Monitoring (PM) to acknowledge the fault before taking action?</p>",
+  "options": {
+    "a": "<p>To avoid misidentifying the warning and shutting down the wrong engine.</p>",
+    "b": "<p>To allow the Pilot Monitoring to complete the emergency checklist independently.</p>",
+    "c": "<p>To avoid delays caused by verifying the fault with ATC.</p>",
+    "d": "<p>To allow the Pilot Flying to solely focus on flying the aircraft while the Pilot Monitoring addresses the emergency.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 64461,
+      "uniqueKey": "fc55ba4d-77a8-4f36-8ff2-e7519c723835",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=fc55ba4d-77a8-4f36-8ff2-e7519c723835",
+      "publicUrl": "/attachments/022/fc55ba4d-77a8-4f36-8ff2-e7519c723835.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/fc55ba4d-77a8-4f36-8ff2-e7519c723835.jpg"
+    }
+  ]
+}

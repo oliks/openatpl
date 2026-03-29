@@ -1,0 +1,14 @@
+{
+  "number": 1125,
+  "questionId": 105316,
+  "questionNumber": "104206",
+  "stemHtml": "<p>Information affecting aircraft operations should be reported to ATS and ATC to be transmitted to affected traffic. Choose all such information...</p><p>1. Aircraft had to return to terminal 2 due to damaged door.\u00a0<br>2. PSG VOR is unserviceable.\u00a0<br>3. Snow clearing and deicing operations are in progress on the runway and the taxiways.\u00a0<br>4. Terminal 3 had been closed for passengers for 4 months. No change is expected.\u00a0<br>5. High traffic on an airport access road due to snow.</p>",
+  "options": {
+    "a": "<p>1, 2, 4</p>",
+    "b": "<p>3, 5</p>",
+    "c": "<p>2, 3</p>",
+    "d": "<p>1, 3, 5</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

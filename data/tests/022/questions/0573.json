@@ -1,0 +1,14 @@
+{
+  "number": 573,
+  "questionId": 82223,
+  "questionNumber": "226301",
+  "stemHtml": "Which statement is correct regarding the V/S and FPA autopilot modes?",
+  "options": {
+    "a": "V/S is an altitude gain/loss in relation to time while FPA is an altitude gain/loss in relation to ground distance.",
+    "b": "Both V/S and FPA maintain a vertical speed as it is the main parameter during climb and descent.",
+    "c": "V/S is an altitude gain/loss in relation to ground distance while FPA is an altitude gain/loss in relation to time.",
+    "d": "FPA is to be used during non-precision approaches only, whereas V/S can be used during any other approach."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

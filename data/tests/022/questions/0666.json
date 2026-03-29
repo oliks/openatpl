@@ -1,0 +1,14 @@
+{
+  "number": 666,
+  "questionId": 84606,
+  "questionNumber": "224888",
+  "stemHtml": "<p>A single element of the autoland system fails. Is it still possible to safely use the autoland function but without the flare mode?</p>",
+  "options": {
+    "a": "Yes, as PF is always ready to fly manually and land the plane but only after passing the alert height.",
+    "b": "Yes, the pilot can take over manually for the flare even without visual contact.",
+    "c": "<p>No, the flare mode is required for the complete autoland sequence.</p>",
+    "d": "No, because the rollout mode is frozen at 50 ft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

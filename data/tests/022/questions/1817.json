@@ -1,0 +1,14 @@
+{
+  "number": 1817,
+  "questionId": 109332,
+  "questionNumber": "223923",
+  "stemHtml": "<p>When preparing the flight management system (FMS) before flight, in what order will the pilot access the following FMS control and display unit (CDU) pages:</p>\r\r<p>1. identification page <br /> \r2. position initialization <br /> \r3. route programming <br /> \r4. route initialisation <br /> \r5. performance initialisation</p>",
+  "options": {
+    "a": "<p>1, 2, 3, 4, 5</p>",
+    "b": "<p>2, 1, 3, 4, 5</p>",
+    "c": "<p>1, 5, 2, 3, 4</p>",
+    "d": "<p>1, 2, 4, 3, 5</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

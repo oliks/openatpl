@@ -1,0 +1,14 @@
+{
+  "number": 1743,
+  "questionId": 80880,
+  "questionNumber": "218960",
+  "stemHtml": "<p>On a modern transport aircraft, an engine driven generator supplying one of the main AC busbars develops a fault and is switched off by the flight crew.</p><p>Choose the incorrect statement.</p>",
+  "options": {
+    "a": "The FCOM and/or aircraft status page should be consulted by the flight crew to determine the aircraft\u2019s landing capability.",
+    "b": "As a result, the affected AC busbar will be without power until the flight crew selects the AC alternate feed switch.",
+    "c": "The opposite engine driven generator will take-over and provide power to both main AC busbars.",
+    "d": "The flight crew should start the APU as an alternate means of AC power."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

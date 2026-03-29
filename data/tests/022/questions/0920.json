@@ -1,0 +1,14 @@
+{
+  "number": 920,
+  "questionId": 107097,
+  "questionNumber": "229862",
+  "stemHtml": "<p>A pilot creates 3 waypoints and 1 route and inserts them into the FMS. What happens to the waypoint and route data after the flight?</p>",
+  "options": {
+    "a": "<p>It is deleted after 14 days.</p>",
+    "b": "<p>It is deleted after changing the database.</p>",
+    "c": "<p>It is permanently saved in the storage.</p>",
+    "d": "<p>It is deleted after switching off the FMS.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1230,
+  "questionId": 103004,
+  "questionNumber": "214068",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich statement is correct (assuming that the relevant contactors are closed in each case)?</p>",
+  "options": {
+    "a": "<p>HOT BUS 2 can charge BATTERY 2.</p>",
+    "b": "<p>AC ESS bus can feed DC ESS BUS via the STAT INV.</p>",
+    "c": "<p>AC BUS 1 can feed DC ESS BUS via a TRU.</p>",
+    "d": "<p>DC BUS 2 can feed AC BUS 2.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 59109,
+      "uniqueKey": "d8d79628-9bba-4917-a4fa-f00c6db7f3bd",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=d8d79628-9bba-4917-a4fa-f00c6db7f3bd",
+      "publicUrl": "/attachments/021/d8d79628-9bba-4917-a4fa-f00c6db7f3bd.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/d8d79628-9bba-4917-a4fa-f00c6db7f3bd.png"
+    }
+  ]
+}

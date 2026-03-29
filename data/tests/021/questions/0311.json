@@ -1,0 +1,24 @@
+{
+  "number": 311,
+  "questionId": 78036,
+  "questionNumber": "216994",
+  "stemHtml": "<p>Refer to figure. <br>GEN 1 suffers from a voltage overload and as a result the internal exciter breaker opens. The flight crew are instructed to switch off the generator using the overhead push button. The new configuration will be\u2026</p>",
+  "options": {
+    "a": "Generator breaker 1 (C 1-1) opens and both bus-tie-breakers close.",
+    "b": "GEN 1 is disconnected from the constant speed drive unit (CSDU).",
+    "c": "AC BUS 1 is now fed directly from the ESS AC.",
+    "d": "TRU 1 is automatically taken offline due to the increased load on GEN 2."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 45855,
+      "uniqueKey": "B847B667-ADF5-4A8E-883B-0D6AB571BC29",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=B847B667-ADF5-4A8E-883B-0D6AB571BC29",
+      "publicUrl": "/attachments/021/B847B667-ADF5-4A8E-883B-0D6AB571BC29.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/B847B667-ADF5-4A8E-883B-0D6AB571BC29.png"
+    }
+  ]
+}

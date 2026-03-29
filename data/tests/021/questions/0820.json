@@ -1,0 +1,14 @@
+{
+  "number": 820,
+  "questionId": 68331,
+  "questionNumber": "213272",
+  "stemHtml": "<p>A turbo compressor air conditioning system (bootstrap system) includes two heat exchangers; the primary exchanger (P) and the secondary exchanger (S). The functions of these heat exchangers are as follows\u2026</p>",
+  "options": {
+    "a": "<p>P: warms up engine bleed air S: recirculates the cabin air, reducing its temperature.</p>",
+    "b": "<p>P: warms up engine bleed air S: increases the temperature of air originating from the compressor of the pack.</p>",
+    "c": "<p>P: precools the engine bleed air S: cools air behind the pack's compressor.</p>",
+    "d": "<p>P: pre-cools the engine bleed air S: increases the temperature of the air used for air-conditioning of cargo compartment (animals).</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

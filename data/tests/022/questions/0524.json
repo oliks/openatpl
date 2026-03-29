@@ -1,0 +1,14 @@
+{
+  "number": 524,
+  "questionId": 153904,
+  "questionNumber": "221198",
+  "stemHtml": "<p>Air data information is output from an Air Data Computer (ADC) to various aircraft systems. Which of the following options correctly describes valid ADC outputs and their purpose.</p><p>1. Angle of attack for flight envelope protection <br>2. Radio height above terrain for EGPWS computations <br>3. CAS for the PFD to display the airspeed <br>4. Pressure altitude for the autopilot and flight director to maintain a selected flight level <br>5. Mach number used by EGPWS<br>6. TAS for the INS to compute groundspeed</p>",
+  "options": {
+    "a": "<p>1, 3, and 4</p>",
+    "b": "<p>2, 3, 4 and 5</p>",
+    "c": "<p>1, 4, 5 and 6</p>",
+    "d": "<p>2, 4, 5, and 6</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

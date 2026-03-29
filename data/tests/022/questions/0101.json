@@ -1,0 +1,24 @@
+{
+  "number": 101,
+  "questionId": 118048,
+  "questionNumber": "223329",
+  "stemHtml": "<p>Refer to figure. <br /> \rIf autothrust is armed what happens if the SPEED mode is selected on the Mode Contol Panel?</p>",
+  "options": {
+    "a": "<p>The V/S selected on the MCP will be maintained</p>",
+    "b": "<p>The thrust levers will move to maintain the speed or Mach No selected on the MCP</p>",
+    "c": "<p>The thrust levers will remain static and the programmed FMC speed will be maintained</p>",
+    "d": "<p>The thrust levers will move to maintain the programmed FMC speed</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 68781,
+      "uniqueKey": "6e04ffbe-3c32-4aa0-a7af-91d699f5e2c5",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6e04ffbe-3c32-4aa0-a7af-91d699f5e2c5",
+      "publicUrl": "/attachments/022/6e04ffbe-3c32-4aa0-a7af-91d699f5e2c5.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/6e04ffbe-3c32-4aa0-a7af-91d699f5e2c5.jpg"
+    }
+  ]
+}

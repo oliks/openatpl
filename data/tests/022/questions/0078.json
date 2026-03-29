@@ -1,0 +1,14 @@
+{
+  "number": 78,
+  "questionId": 150963,
+  "questionNumber": "224959",
+  "stemHtml": "<p>Which statement is correct regarding the required serviceability checks of a Direct Reading Compass (DRC) before departure?</p>",
+  "options": {
+    "a": "<p>Check that the compass rose deflects to the left when the aircraft turns left.</p>",
+    "b": "<p>Check its physical condition, verify that the heading increases when turning right, and cross-check the compass reading with the runway heading during line-up.</p>",
+    "c": "<p>Check that the compass rose remains stationary when turning.</p>",
+    "d": "<p>Check that the compass reading matches the flight director heading.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

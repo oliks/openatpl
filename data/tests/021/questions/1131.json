@@ -1,0 +1,14 @@
+{
+  "number": 1131,
+  "questionId": 82731,
+  "questionNumber": "214146",
+  "stemHtml": "<p>What will happen if a dual control input is made on an Airbus type Fly-By-Wire flight control system?</p>",
+  "options": {
+    "a": "The last input would take priority over the first.",
+    "b": "The first input would take priority over the last.",
+    "c": "The conflicting inputs would cancel each other out.",
+    "d": "<p>Both inputs would be summed together by the Fly-By-Wire computer.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

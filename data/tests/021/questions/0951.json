@@ -1,0 +1,14 @@
+{
+  "number": 951,
+  "questionId": 84545,
+  "questionNumber": "217146",
+  "stemHtml": "Which of these correctly describes a flap/slat asymmetry protection system?",
+  "options": {
+    "a": "<p>A system which detects flaps and slats position in real time and which prevents any further extension if asymmetry is detected.</p>",
+    "b": "Automatic compensation of the asymmetry via the yaw damper and AFCS.",
+    "c": "<p>A system which immediately retracts flaps/slats via spring or aerodynamics when an asymmetry is detected.</p>",
+    "d": "Automatic selection of full flap extension for landing upon detection of an asymmetric condition."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

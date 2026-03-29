@@ -1,0 +1,14 @@
+{
+  "number": 664,
+  "questionId": 69137,
+  "questionNumber": "222139",
+  "stemHtml": "<p>A flight envelope protection system is a system\u2026</p>",
+  "options": {
+    "a": "that generates a signal when the engines have exceeded the start envelope limit.",
+    "b": "required to generate an ACAS warning.",
+    "c": "that generates a control signal when the aircraft exceeds the flight envelope limit.",
+    "d": "that generates a signal during flight when engine parameters only are exceeded."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

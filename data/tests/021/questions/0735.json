@@ -1,0 +1,14 @@
+{
+  "number": 735,
+  "questionId": 163436,
+  "questionNumber": "216162",
+  "stemHtml": "<p>When operating an aircraft equipped with a manual mixture control, what is the correct method for setting the fuel-air mixture?</p>",
+  "options": {
+    "a": "<p>The system adjusts automatically.</p>",
+    "b": "<p>Adjust mixture manually according to altitude and engine indications.</p>",
+    "c": "<p>Mixture is adjusted by the propeller governor.</p>",
+    "d": "<p>Mixture must remain full rich at all times.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 753,
+  "questionId": 107217,
+  "questionNumber": "222772",
+  "stemHtml": "<p>The track-line on the Electronic Horizontal Situation Indicator (EHSI) or Navigation Display (ND) of an Electronic Flight Instrument System (EFIS)\u2026</p>",
+  "options": {
+    "a": "<p>indicates that the pilot has made a manual track selection.</p>",
+    "b": "<p>represents the track of the aircraft over the ground. When it coincides with the desired track, wind influence is compensated for.<strong> </strong></p>",
+    "c": "<p>corresponds to the calculated IRS TH and is correct during turns.</p>",
+    "d": "<p>indicates to the pilot that a manually selected heading is being flown.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

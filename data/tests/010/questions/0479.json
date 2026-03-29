@@ -1,0 +1,14 @@
+{
+  "number": 479,
+  "questionId": 101731,
+  "questionNumber": "106443",
+  "stemHtml": "<p>An aircraft is taking off while another military aircraft is approaching the runway in front of the aircraft taking off. ATC instructs the aircraft taking off to increase its vertical speed and climb at  2500 ft/minute. If the flight crew follows the instruction, the aircraft will approach to stall. What is the correct course of action by the flight crew?</p>",
+  "options": {
+    "a": "<p>They cannot comply with the instructions, so they respond: UNABLE.</p>",
+    "b": "<p>They cannot comply with the instructions, so they respond: NEGATIVE.</p>",
+    "c": "<p>Do what ATC instructs them to do.</p>",
+    "d": "<p>They can comply with the instructions, so they respond: AFFIRMATIVE.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

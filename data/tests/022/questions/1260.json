@@ -1,0 +1,14 @@
+{
+  "number": 1260,
+  "questionId": 117449,
+  "questionNumber": "224790",
+  "stemHtml": "<p>What does a barometric altimeter indicate?</p>",
+  "options": {
+    "a": "<p>Altitude corresponding to the pressure difference between static pressure and the reference pressure set by the pilot.</p>",
+    "b": "<p>Altitude corresponding to the pressure difference between static pressure<sub> </sub>and the reference pressure set by the pilot, corrected to the real atmospheric conditions.</p>",
+    "c": "<p>Altitude above mean sea level.</p>",
+    "d": "<p>Altitude difference between sea level and current altitude based on the GPS signal.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

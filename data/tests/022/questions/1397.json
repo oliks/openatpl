@@ -1,0 +1,14 @@
+{
+  "number": 1397,
+  "questionId": 68817,
+  "questionNumber": "223294",
+  "stemHtml": "<p>Given:</p><p>C = temperature in Celsius. <br>K = temperature in Kelvin.</p><p>The correct relationship between these different units is\u2026</p>",
+  "options": {
+    "a": "<p>K = C x 1.8 + 32</p>",
+    "b": "<p>K = C + 273</p>",
+    "c": "<p>C = K x 1.8 + 32</p>",
+    "d": "<p>C = K + 273</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

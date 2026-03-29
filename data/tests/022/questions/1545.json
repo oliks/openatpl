@@ -1,0 +1,14 @@
+{
+  "number": 1545,
+  "questionId": 68701,
+  "questionNumber": "226797",
+  "stemHtml": "<p>In an inertial navigation system, to know the distance travelled, it is necessary to:</p><p>1 \u2013 integrate once the speed with respect to time <br /> 2 \u2013 to know the initial position <br /> 3 \u2013 to know the initial speed</p><p>The combination that regroups all of the correct statements is:</p>",
+  "options": {
+    "a": "1, 3.",
+    "b": "1, 2.",
+    "c": "1, 2, 3.",
+    "d": "1."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

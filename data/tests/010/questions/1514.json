@@ -1,0 +1,14 @@
+{
+  "number": 1514,
+  "questionId": 109978,
+  "questionNumber": "101236",
+  "stemHtml": "<p>Which of the following relationships is true about DA (Decision Altitude)?</p>",
+  "options": {
+    "a": "<p>DA = OCA + threshold elevation</p>",
+    "b": "<p>OCA = DA + additional safety margin</p>",
+    "c": "<p>DA = OCA + additional safety margin</p>",
+    "d": "<p>OCA = DA + threshold elevation</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

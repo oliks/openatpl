@@ -1,0 +1,14 @@
+{
+  "number": 652,
+  "questionId": 101762,
+  "questionNumber": "227910",
+  "stemHtml": "<p>Which of the following must Cockpit Voice Recorder (CVR) record?</p><ol><li>Flight data</li><li>Voice communications of flight crew members on the flight deck using the public address system, if installed</li><li>Voice communications transmitted from or received in the aircraft by radio</li><li>Voice or audio signals identifying navigation or approach aids introduced into a headset or speaker</li><li>Voice communications of flight crew members on the flight deck</li><li>Voice communications of fight crew members on the flight deck using the aircraft's interphone system</li><li>Data recording of flight and engine parameters</li></ol>",
+  "options": {
+    "a": "<p>3, 4, 5, 6 and 7.</p>",
+    "b": "<p>2, 3, 4, 5 and 6.</p>",
+    "c": "<p>3, 4, 5 and 6.</p>",
+    "d": "<p>1, 4, 5, 6 and 7.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

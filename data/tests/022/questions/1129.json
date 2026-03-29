@@ -1,0 +1,14 @@
+{
+  "number": 1129,
+  "questionId": 82331,
+  "questionNumber": "228145",
+  "stemHtml": "<p>An aircraft equipped with EGPWS is making a visual approach to a runway with a functioning ILS and non-standard gear and flap configuration. To avoid inappropriate alerts, the crew is able to\u2026</p>",
+  "options": {
+    "a": "<p>Inhibit the BITE function of the EGPWS.</p>",
+    "b": "<p>Manually select the approach mode on the EGPWS.</p>",
+    "c": "<p>Inhibit flap mode and you can also inhibit the glide slope mode on EGPWS.</p>",
+    "d": "<p>Switch off the EGPWS.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

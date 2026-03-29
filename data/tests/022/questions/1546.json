@@ -1,0 +1,14 @@
+{
+  "number": 1546,
+  "questionId": 68421,
+  "questionNumber": "227718",
+  "stemHtml": "<p>How is total indicated fuel consumption calculated?</p>",
+  "options": {
+    "a": "By differentiating the rate of fuel consumption over the flight time.",
+    "b": "By subtracting the volume of the remaining fuel in the tanks from the initial fuel total.",
+    "c": "By dividing total distance flown by the volume of fuel used.",
+    "d": "By integrating the rate of fuel consumption over the flight time."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

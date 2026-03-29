@@ -1,0 +1,14 @@
+{
+  "number": 533,
+  "questionId": 86118,
+  "questionNumber": "226281",
+  "stemHtml": "What can the elevator do if the entire stabiliser is trimmed for a nose-down configuration due to an out-of-trim condition?",
+  "options": {
+    "a": "The elevator can compensate for the nose-down trim by automatically increasing its lift.",
+    "b": "The elevator can compensate for the nose-down trim by automatically trimming in the opposite direction.",
+    "c": "The elevator can compensate for the nose-down trim by deploying speed brakes.",
+    "d": "The elevator is mechanically attached to the stabiliser and cannot compensate for the nose-down trim."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

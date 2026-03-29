@@ -1,0 +1,14 @@
+{
+  "number": 510,
+  "questionId": 67651,
+  "questionNumber": "215928",
+  "stemHtml": "<p>During level cruising flight, an aeroplane experiences a malfunction of the pressure controller. If the cabin vertical speed indicator reads 200 ft/min rate of descent\u2026</p>",
+  "options": {
+    "a": "<p>the aircraft has to climb to a higher flight level in order to reduce the cabin altitude to its initial value.</p>",
+    "b": "<p>the differential pressure will rise to its maximum value, thus causing the safety relief valves to open.</p>",
+    "c": "<p>the crew has to intermittently cut off the incoming air flow in order to maintain a zero cabin altitude.</p>",
+    "d": "<p>a descent must be initiated to prevent the oxygen masks dropping when the cabin altitude reaches 14 000 ft.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

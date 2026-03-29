@@ -1,0 +1,14 @@
+{
+  "number": 1850,
+  "questionId": 106084,
+  "questionNumber": "211146",
+  "stemHtml": "<p>Which of the following statements are correct regarding DC electric motors?</p><p>1. If a motor seizes, then the applied EMF is equal to the back EMF <br>2. If a motor seizes, then the applied EMF is equal to the net EMF <br>3. If there is a motor runaway, the applied EMF is equal to the back EMF <br>4. If there is a motor runaway, the back EMF is equal to the net EMF</p>",
+  "options": {
+    "a": "<p>1 and 3.</p>",
+    "b": "<p>1 and 4.</p>",
+    "c": "<p>2 and 3.</p>",
+    "d": "<p>2 and 4.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

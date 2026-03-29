@@ -1,0 +1,14 @@
+{
+  "number": 255,
+  "questionId": 103338,
+  "questionNumber": "221401",
+  "stemHtml": "<p>What commands does the flight director issue during take-off mode?</p>",
+  "options": {
+    "a": "<p>The pitch mode holds attitude to avoid obstacles and maintain adequate clearance, and the roll mode maintains the runway direction through the LOC.</p>",
+    "b": "<p>The pitch mode holds a constant pitch attitude, and the roll mode maintains the runway direction through the LOC.</p>",
+    "c": "<p>The pitch mode holds a constant pitch attitude to ensure obstacle clearance, and the roll mode maintains the runway direction through the SID.</p>",
+    "d": "<p>The pitch mode commands an attitude to maintain a defined speed above V<sub>2</sub> and roll mode maintains the runway heading.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

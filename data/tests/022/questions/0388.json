@@ -1,0 +1,14 @@
+{
+  "number": 388,
+  "questionId": 81379,
+  "questionNumber": "224860",
+  "stemHtml": "<p>An autothrottle system may provide the following flight envelope protection mode\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Maximum and minimum altitude reversion.</p>",
+    "b": "<p dir=\"ltr\">Maximum and minimum speed reversion.</p>",
+    "c": "<p dir=\"ltr\">Maximum take-off thrust reversion.</p>",
+    "d": "<p dir=\"ltr\">Roll rate reversion.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

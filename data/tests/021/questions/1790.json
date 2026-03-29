@@ -1,0 +1,14 @@
+{
+  "number": 1790,
+  "questionId": 105520,
+  "questionNumber": "214843",
+  "stemHtml": "<p>A battery has a capacity of 100 Ah. What does it mean?</p>",
+  "options": {
+    "a": "<p>It will likely be able to provide 10 Amperes in 10 hours.</p>",
+    "b": "<p>It will not be able to provide more than 100 Amperes in less than 60 minutes.</p>",
+    "c": "<p>It will likely be able to provide 10 Amperes in 15 minutes.</p>",
+    "d": "<p>It will likely be able to provide 5 Amperes in 30 minutes.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

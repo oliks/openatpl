@@ -1,0 +1,14 @@
+{
+  "number": 1070,
+  "questionId": 81882,
+  "questionNumber": "222147",
+  "stemHtml": "A visual and aural warning of runaway trim requires\u2026",
+  "options": {
+    "a": "NO action, as the autopilot will reset the trim once it has isolated the auto-trim system.",
+    "b": "<p>Immediate action to stop the runaway. The aircraft must be configured for landing, using the non-normal checklist.</p>",
+    "c": "<p>The autopilot to be left engaged for the approach and landing, as manual control may require excessive manual forces.</p>",
+    "d": "<p>Disconnection of the autopilot, and manual trimming fully forward, to retain control full flap must be used for landing.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

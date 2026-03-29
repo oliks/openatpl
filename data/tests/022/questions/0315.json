@@ -1,0 +1,14 @@
+{
+  "number": 315,
+  "questionId": 68416,
+  "questionNumber": "214526",
+  "stemHtml": "What is the basic principle of a closed loop system?",
+  "options": {
+    "a": "Measurement of the controlled variable, calculation of the control error, and adjustment of the controlled variable to reduce/remove the control error.",
+    "b": "Adjustment of the controlled variable based on a fixed setting.",
+    "c": "Calculation of the control error, adjustment of the controlled variable to reduce/remove the control error, and without feedback.",
+    "d": "Measurement of an independent variable, calculation of the control error, and adjustment of the controlled variable to reduce/remove the control error."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

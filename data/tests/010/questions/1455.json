@@ -1,0 +1,14 @@
+{
+  "number": 1455,
+  "questionId": 102700,
+  "questionNumber": "107374",
+  "stemHtml": "<p>An aircraft is executing a cross-country flight. The aircraft is going to overfly a control area, a restricted area and an uncontrolled area. During the whole flight the pilot will be in contact with ATC. When should the pilot squawk IDENT?</p>",
+  "options": {
+    "a": "<p>When entering the controlled area.</p>",
+    "b": "<p>When entering the restricted area.</p>",
+    "c": "<p>When requested by ATC.</p>",
+    "d": "<p>When leaving uncontrolled airspace.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

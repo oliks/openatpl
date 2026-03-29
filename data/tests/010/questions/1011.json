@@ -1,0 +1,14 @@
+{
+  "number": 1011,
+  "questionId": 85086,
+  "questionNumber": "103202",
+  "stemHtml": "<p>You are preparing for a precision approach in a Boeing 777. According to the following information shown on the approach chart, which of the following is the correct choice of missed approach point?</p><p>OCH for A/B category aircraft: 400 ft <br /> OCH for C/D category aircraft: 420 ft <br /> (50 ft should be added for operational reasons)</p>",
+  "options": {
+    "a": "MDH = 450 ft",
+    "b": "DH = 470 ft",
+    "c": "MDH = 470 ft",
+    "d": "DH = 420 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

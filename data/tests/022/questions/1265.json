@@ -1,0 +1,14 @@
+{
+  "number": 1265,
+  "questionId": 74545,
+  "questionNumber": "229396",
+  "stemHtml": "<p>Which FMS guidance modes does the pilot have to engage in order to follow the horizontal path, vertical path, and speed profile?</p>",
+  "options": {
+    "a": "<p>TRK (Track Navigation) and FLCH (Flight Level Change).</p>",
+    "b": "<p>LNAV (Lateral Navigation) and VNAV (Vertical Navigation).</p>",
+    "c": "<p>NAV (Longitudinal Navigation) and SPEED.</p>",
+    "d": "<p>HDG (Heading Navigation) and VS/FPA (Vertical Speed/Flight Path Angle).</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

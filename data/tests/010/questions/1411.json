@@ -1,0 +1,14 @@
+{
+  "number": 1411,
+  "questionId": 79342,
+  "questionNumber": "104342",
+  "stemHtml": "<p>An aircraft experiences radio communication failure over the ocean but still within US territory. The aircraft is registered in Italy and the operator is in France. Which procedures do you follow?</p>",
+  "options": {
+    "a": "<p>The pilot must follow the lost comm procedure of the US, since he/she is over the US.</p>",
+    "b": "The pilot must follow the lost comm procedure of Italy, since the aircraft is registered in Italy.",
+    "c": "The pilot must follow the lost comm procedure of France, since the operator is in France.",
+    "d": "Italy and USA rules apply, however Italy has priority because the aircraft is registered in Italy."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

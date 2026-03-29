@@ -1,0 +1,24 @@
+{
+  "number": 884,
+  "questionId": 164393,
+  "questionNumber": "228917",
+  "stemHtml": "<p>Refer to figure.<br>Regarding the datalink message displayed, what type of message is it and which pilot would be responsible for reading it out?</p>",
+  "options": {
+    "a": "<p>ADS-B; PF</p>",
+    "b": "<p>ADS-C; PM</p>",
+    "c": "<p>FANS 2/B; PF</p>",
+    "d": "<p>CPDLC; PM</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 73476,
+      "uniqueKey": "86e7e1f7-daa9-42ae-a7bd-414976a9800f",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=86e7e1f7-daa9-42ae-a7bd-414976a9800f",
+      "publicUrl": "/attachments/022/86e7e1f7-daa9-42ae-a7bd-414976a9800f.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/86e7e1f7-daa9-42ae-a7bd-414976a9800f.png"
+    }
+  ]
+}

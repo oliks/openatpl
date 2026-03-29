@@ -1,0 +1,14 @@
+{
+  "number": 1778,
+  "questionId": 134600,
+  "questionNumber": "228582",
+  "stemHtml": "<p>Which of the following statements is true when a Remote Reading Compass (RRC) is operating in 'FREE' mode?</p>",
+  "options": {
+    "a": "<p>The control loop is open; the indication will now change with the aircraft's bank at a rate of sin 15\u00b0.</p>",
+    "b": "<p>The magnetic data is not provided, making the instrument useless.</p>",
+    "c": "<p>The system is fed directly by the flux valve unit, bypassing the slaving control.</p>",
+    "d": "<p>The flux valve unit provides magnetic input, but the display is stabilized only by the gyro.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

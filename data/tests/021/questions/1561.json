@@ -1,0 +1,14 @@
+{
+  "number": 1561,
+  "questionId": 108955,
+  "questionNumber": "217099",
+  "stemHtml": "<p>After take-off in a 4-engined aircraft for a long haul flight, a single engine failure occurs. The pilots shut down the engine normally and it does not restart when attempted, but they are not required to land immediately, which of the following should they decide to do?</p>",
+  "options": {
+    "a": "<p>Continue the flight to the destination without any action.</p>",
+    "b": "<p>Dump fuel to reduce weight and return to the departure airport.</p>",
+    "c": "<p>Climb to cruising altitude and then shut down the opposing engine to the failed one to remove the asymmetry and increase fuel efficiency.</p>",
+    "d": "<p>Land immediately at the nearest available airport without dumping fuel.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

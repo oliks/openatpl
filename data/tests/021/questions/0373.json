@@ -1,0 +1,14 @@
+{
+  "number": 373,
+  "questionId": 106701,
+  "questionNumber": "211372",
+  "stemHtml": "<p>Which of these statements are correct or incorrect?</p><p>1. In piston engines, the fuel supply must be gravity-fed, whereas in gas turbine engines, the fuel must be supplied under pressure.<br>2. In gas turbine engines, fuel must be stored below the engine's level.</p>",
+  "options": {
+    "a": "<p>1 is correct, 2 is correct.</p>",
+    "b": "<p>1 is correct, 2 is incorrect.</p>",
+    "c": "<p>1 is incorrect, 2 is correct.</p>",
+    "d": "<p>1 is incorrect, 2 is incorrect.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

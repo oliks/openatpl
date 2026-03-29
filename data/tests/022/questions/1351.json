@@ -1,0 +1,14 @@
+{
+  "number": 1351,
+  "questionId": 68595,
+  "questionNumber": "223686",
+  "stemHtml": "<p>The autopilot synchronisation function:</p>",
+  "options": {
+    "a": "<p>is activated only when the automatic pilot has been engaged.</p>",
+    "b": "<p>when failed will prevent autopilot engagement.</p>",
+    "c": "<p>is inhibited when the automatic pilot is engaged.</p>",
+    "d": "<p>prevents uncommanded surface deflection when the automatic pilot is disengaged.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

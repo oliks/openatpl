@@ -1,0 +1,14 @@
+{
+  "number": 1549,
+  "questionId": 102795,
+  "questionNumber": "214811",
+  "stemHtml": "<p>What occurs during a DC generator's armature runaway?</p>",
+  "options": {
+    "a": "<p>Current decreases in the armature, but because it increases in the commutator, torque remains constant.</p>",
+    "b": "<p>Current decreases in the armature, and because it also decreases in the commutator, torque is reduced.</p>",
+    "c": "<p>Current increases in the armature, and since it also increases in the commutator, torque increases.</p>",
+    "d": "<p>Current increases in the armature, but because it reduces in the commutator, torque is constant.  </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

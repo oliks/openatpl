@@ -1,0 +1,14 @@
+{
+  "number": 269,
+  "questionId": 82219,
+  "questionNumber": "226131",
+  "stemHtml": "<p>What is the main function of the control surface position sensors?</p>",
+  "options": {
+    "a": "<p>Detecting a restricted movement/jamming in a control surface.</p>",
+    "b": "<p>Comparing the restricted inputs with the actual surface movement.</p>",
+    "c": "<p>Comparing the directed inputs with the actual surface movement.</p>",
+    "d": "<p>To inhibit the control surface exceeding their aerodynamic limitations.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

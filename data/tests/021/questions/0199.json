@@ -1,0 +1,14 @@
+{
+  "number": 199,
+  "questionId": 119812,
+  "questionNumber": "211988",
+  "stemHtml": "<p>In order to connect two AC power sources in parallel onboard an aircraft, which two of the following parameters must be kept the same between the generators to ensure proper synchronization?</p>",
+  "options": {
+    "a": "<p>Voltage and phase</p>",
+    "b": "<p>Voltage and amperage</p>",
+    "c": "<p>Frequency and voltage</p>",
+    "d": "<p>Frequency and current</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

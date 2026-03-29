@@ -1,0 +1,14 @@
+{
+  "number": 1652,
+  "questionId": 84711,
+  "questionNumber": "228120",
+  "stemHtml": "<p>Which statement correctly describes the operation of the automatic flight control system (AFCS) mixed modes</p>",
+  "options": {
+    "a": "<p>In the mixed mode for the vertical path, the autopilot uses a pitch attitude (or pitch attitude rate) which allows it to avoid a tail-strike during take off, and for the lateral path, it uses the localizer signal to keep the runway centreline.</p>",
+    "b": "<p>The mixed mode commands pitch to maintain optimum climb speed and uses a heading/track mode to keep the centreline of the runway.</p>",
+    "c": "<p>It works on the same principle as the CWS and reduces the pilot\u2019s workload for flight path management.</p>",
+    "d": "<p>The mixed modes are exclusively used for the low visibility take-off and landing.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

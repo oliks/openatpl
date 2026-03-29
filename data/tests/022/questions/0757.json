@@ -1,0 +1,14 @@
+{
+  "number": 757,
+  "questionId": 107954,
+  "questionNumber": "223151",
+  "stemHtml": "<p>If there are three aircraft in your Traffic Advisory (TA) area, can a TCAS generate an RA for all three aircraft simultaneously?</p>",
+  "options": {
+    "a": "<p>A TCAS cannot issue RAs, it only provides Traffic Advisories (TAs).</p>",
+    "b": "<p>The number of aircraft in the TA area doesn't affect the issuance of RAs.</p>",
+    "c": "<p>Yes, \u00a0TCAS can issue an RA for all three aircraft simultaneously based on the closest threat.</p>",
+    "d": "<p>No, a TCAS can only issue an RA for the closest aircraft that poses the greatest threat.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

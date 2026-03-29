@@ -1,0 +1,14 @@
+{
+  "number": 1243,
+  "questionId": 69132,
+  "questionNumber": "223002",
+  "stemHtml": "Which statement concerning FMS design is correct?",
+  "options": {
+    "a": "<p>The FMS Control Display Unit allows engagement of autopilot and autothrottle.</p>",
+    "b": "The FMS computer combines FADEC and FBW (Fly-By-Wire) functions.",
+    "c": "<p>The FMS computer is the interface between the autoflight system and EFIS.</p>",
+    "d": "<p>The FMS computer integrates performance management with area navigation.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

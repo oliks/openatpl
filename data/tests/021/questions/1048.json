@@ -1,0 +1,14 @@
+{
+  "number": 1048,
+  "questionId": 110386,
+  "questionNumber": "214982",
+  "stemHtml": "<p>A jet transport aircraft in the cruise encounters moderate to severe turbulence. The pilots forget to switch the engine igniters on, as per the checklist. Which of the following is a possible problem that may arise from this condition?</p>",
+  "options": {
+    "a": "<p>Unburnt fuel may ignite in the tailpipe and cause an overheat.</p>",
+    "b": "<p>The engine may experience severe damage due to the turbulence.</p>",
+    "c": "<p>The compressor might stall or surge, leading to a flameout.</p>",
+    "d": "<p>The engines will only be able to run at a lower thrust setting, which could lead to a low speed situation.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

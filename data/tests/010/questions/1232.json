@@ -1,0 +1,14 @@
+{
+  "number": 1232,
+  "questionId": 67103,
+  "questionNumber": "106504",
+  "stemHtml": "<p>On an aerodrome equipped with parallel runways, the designation number of each runway is supplemented as follows\u2026</p>",
+  "options": {
+    "a": "for three parallel runways, by adding \u201cL\u201d to the designation of the runway farthest to the left, adding one \u201cR\u201d to the central runway and adding two \u201cR\u201d to the designation of the runway farthest to the right.",
+    "b": "for two parallel runways, by adding \u201c10\u201d to the left runway designation and by subtracting \u201c10\u201d from the right runway designation.",
+    "c": "for three parallel runways, by the letter \u201cL\u201d and \u201cR\u201d for the outer runways and no letter supplement for the central runway.",
+    "d": "for two parallel runways, by the letter \u201cL\u201d and \u201cR\u201d in the sequence from left to right."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

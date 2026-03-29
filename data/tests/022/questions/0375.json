@@ -1,0 +1,14 @@
+{
+  "number": 375,
+  "questionId": 81804,
+  "questionNumber": "225449",
+  "stemHtml": "A message or data downlink means\u2026",
+  "options": {
+    "a": "a transmission of signals from an aircraft in flight to a station on the Earth",
+    "b": "uploading ATIS / weather / maintenance data to an airborne unit",
+    "c": "<p>downloading and printing the ATC clearance from the Controller Pilot Data Link Communication (CPDLC)</p>",
+    "d": "<p>downloading ATIS / weather / maintenance data from a ground control unit via the onboard Internet connection</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

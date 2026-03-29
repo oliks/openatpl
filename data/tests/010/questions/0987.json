@@ -1,0 +1,14 @@
+{
+  "number": 987,
+  "questionId": 159635,
+  "questionNumber": "105193",
+  "stemHtml": "<p>An aerodrome has two runways with an Approach Lighting System (ALS) installed for both of them. Runway 03L has a displaced threshold of 150 meters, while Runway 16 does not have a displaced threshold. Which statement is true about the location of the ALS for these runways?</p>",
+  "options": {
+    "a": "<p>There is a difference because the ALS for runway 03L is based on a point located 150 m from the displaced threshold and the ALS for runway 06 is based on the threshold.</p>",
+    "b": "<p>There is NO difference, the ALS for runway 03L and the ALS for runway 16 are both based on the extremity edge of the pavement.</p>",
+    "c": "<p>There is NO difference, the ALS for the runway 03L and the ALS for the runway 16 are both based on the threshold.</p>",
+    "d": "<p>There is a difference because the ALS on the runway 16 is based on a point located 300 m from the threshold and the ALS for runway 03L is based on the threshold.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

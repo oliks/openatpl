@@ -1,0 +1,14 @@
+{
+  "number": 246,
+  "questionId": 161587,
+  "questionNumber": "108704",
+  "stemHtml": "<p>An aircraft is departing from runway 26 of an international airport. Given the following data, determine the TODA (Take-off Distance Available).</p><p>TORA: 1800 m\u00a0<br />Stopway: 200 m\u00a0<br />Clearway: 300 m\u00a0<br />Displaced threshold: 100 m</p>",
+  "options": {
+    "a": "<p>1900 m</p>",
+    "b": "<p>2100 m</p>",
+    "c": "<p>1800 m</p>",
+    "d": "<p>2200 m</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

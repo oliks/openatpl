@@ -1,0 +1,14 @@
+{
+  "number": 1233,
+  "questionId": 69216,
+  "questionNumber": "224867",
+  "stemHtml": "<p>In a turbine engine, what is the parameter N<strong><sub>1</sub></strong>, which is used to represent thrust?</p>",
+  "options": {
+    "a": "<p>N<sub>1</sub> refers to the rotational speed of the high speed spool which consists of the high pressure compressor and the high pressure turbine.</p>",
+    "b": "<p>N<sub>1</sub> refers to the rotational speed of the low speed spool which consists of the fan, the low pressure compressor and the low pressure turbine.</p>",
+    "c": "<p>the indication is usually calibrated in percent RPM.</p>",
+    "d": "<p>N<sub>1</sub> is the ratio of the turbine discharge and the compressor inlet pressure.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

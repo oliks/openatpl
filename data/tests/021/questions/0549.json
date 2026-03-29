@@ -1,0 +1,14 @@
+{
+  "number": 549,
+  "questionId": 96473,
+  "questionNumber": "212439",
+  "stemHtml": "Which of the following statements is correct with regards to resetting a tripped circuit breaker in flight?",
+  "options": {
+    "a": "An immediate reset is the first action that should be tried to quickly achieve system functionality again.",
+    "b": "In-flight resets can be done safely at least 3 times, thereafter, proceed according to the relevant checklist.",
+    "c": "Reset of circuit brakes during flight is impossible; it can only be done when on ground.",
+    "d": "An immediate reset should NOT be attempted unless the source of the overcurrent has been safely removed."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

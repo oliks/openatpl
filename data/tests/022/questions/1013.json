@@ -1,0 +1,14 @@
+{
+  "number": 1013,
+  "questionId": 86101,
+  "questionNumber": "229179",
+  "stemHtml": "What are the consequences of a single autopilot failure during an autoland approach below the alert height?",
+  "options": {
+    "a": "\u200bThe aircraft will execute a missed approach automatically.",
+    "b": "No warning will sound; below alert height, you are only notified when both autopilots disengage.",
+    "c": "The remaining autopilot will take control without any warning.",
+    "d": "An aural warning will sound immediately."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

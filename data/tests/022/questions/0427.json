@@ -1,0 +1,14 @@
+{
+  "number": 427,
+  "questionId": 100110,
+  "questionNumber": "227694",
+  "stemHtml": "<p>The airspeed, altitude, and angle of attack are fed to the ADIRU by the _____.</p>",
+  "options": {
+    "a": "<p>MCP</p>",
+    "b": "<p>ADC</p>",
+    "c": "<p>EADI</p>",
+    "d": "<p>FCU</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

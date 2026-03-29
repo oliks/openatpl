@@ -1,0 +1,14 @@
+{
+  "number": 769,
+  "questionId": 84908,
+  "questionNumber": "228552",
+  "stemHtml": "<p>In a conventional control system, speed protections are integrated via the trim system. Limitation in pitch and bank angle...</p>",
+  "options": {
+    "a": "<p>would be very difficult to apply safely and consistently to a mechanical control loop. In FBW systems, simple control logic in the flight control computer systems can do this.</p>",
+    "b": "<p>rely on carefully calibrated electromagnets to apply brakes to control inputs when pitch and bank angle limits are exceeded.</p>",
+    "c": "<p>are available in conventional and FBW control systems. These limitations are required data for the computer systems to function but are NOT used to support flight control.</p>",
+    "d": "<p>are NOT necessary on conventional control systems. In FBW systems, their sole purpose is to prevent flight control software faults from causing an aircraft to depart from the normal flight envelope.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

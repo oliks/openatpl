@@ -1,0 +1,14 @@
+{
+  "number": 1253,
+  "questionId": 153732,
+  "questionNumber": "222101",
+  "stemHtml": "<p>The integrated avionic suite in an aircraft is unserviceable, what option is available to the pilot to replace the lost functionality?</p>",
+  "options": {
+    "a": "<p>Continue using standby digital displays.</p>",
+    "b": "<p>Use raw data from other electronic instruments.</p>",
+    "c": "<p>Use paper graphs and paper charts for navigation and performance calculations.</p>",
+    "d": "<p>Wait for the system to automatically restart before continuing the flight.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

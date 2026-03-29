@@ -1,0 +1,14 @@
+{
+  "number": 1427,
+  "questionId": 100123,
+  "questionNumber": "226324",
+  "stemHtml": "<p>In order to calculate the optimum vertical profile, the FMS uses the performance database. Before the flight, during the FMS preparation, the performance database has to be checked for:</p><p>1. Correct engines types and configuration  <br /> 2. Correct aircraft type and variant  <br /> 3. Current navigational data cycle <br />  </p>",
+  "options": {
+    "a": "1 and 3 are correct.",
+    "b": "1, 2 and 3 are correct.",
+    "c": "2 and 3 are correct.",
+    "d": "1 and 2 are correct."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

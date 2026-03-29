@@ -1,0 +1,14 @@
+{
+  "number": 237,
+  "questionId": 102796,
+  "questionNumber": "219294",
+  "stemHtml": "<p>Which of the following statements regarding turbochargers is correct/incorrect?</p>\r\r<p>1. The waste gate continuously closes with increasing altitude to increase turbocharger boost. Once fully closed, the maximum boost is delivered <br /> \r2. The exhaust gas stream drives a radial turbine, which is connected to a centrifugal compressor; air enters the compressor, the exhaust drives turbine</p>",
+  "options": {
+    "a": "<p>1 is correct; 2 is incorrect.</p>",
+    "b": "<p>1 is correct; 2 is correct.</p>",
+    "c": "<p>1 is incorrect; 2 is incorrect.</p>",
+    "d": "<p>1 is incorrect; 2 is correct.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

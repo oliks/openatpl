@@ -1,0 +1,14 @@
+{
+  "number": 421,
+  "questionId": 133448,
+  "questionNumber": "221372",
+  "stemHtml": "<p>Which of its inputs(s) does the ADC use to calculate TAS?</p>",
+  "options": {
+    "a": "<p>Total pressure and SAT only.</p>",
+    "b": "<p>Total pressure and static pressure.</p>",
+    "c": "<p>Total pressure, static pressure and TAT.</p>",
+    "d": "<p>Total pressure only.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

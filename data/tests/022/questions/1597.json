@@ -1,0 +1,14 @@
+{
+  "number": 1597,
+  "questionId": 69270,
+  "questionNumber": "221756",
+  "stemHtml": "<p>The heading read on the dial of a directional gyro is subject to errors, one of which is due to the movement of the aircraft. This error\u2026</p>",
+  "options": {
+    "a": "is dependent on the ground speed of the aircraft, its true track and the average latitude of the flight.",
+    "b": "is at its greatest value when the aircraft follows a meridional track.",
+    "c": "is, in spite of this, insignificant and may be neglected.",
+    "d": "<p>shows itself by an apparent rotation of the horizontal axis of the gyroscope which seems to turn at 15\u00b0 per hour to the right in the Northern Hemisphere.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

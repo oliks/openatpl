@@ -1,0 +1,14 @@
+{
+  "number": 713,
+  "questionId": 84777,
+  "questionNumber": "226172",
+  "stemHtml": "Which of the following is correct regarding the initial phase of the autopilot?",
+  "options": {
+    "a": "A given rate of change of trajectory is maintained to achieve a new parameter without undershooting.",
+    "b": "A new trajectory is obtained via a change in attitude to achieve a desired parameter.",
+    "c": "The autopilot obtains a trajectory through the third channel in case of failure.",
+    "d": "The autopilot maintains the set parameter without any change."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 767,
+  "questionId": 82680,
+  "questionNumber": "225685",
+  "stemHtml": "<p>Consider a multi-pilot aircraft equipped with dual instrument system (pitot-static probes and ports located on both sides of the fuselage). During the flight, the left static ports becomes blocked. For the remainder of the flight\u2026</p>",
+  "options": {
+    "a": "<p>both left and right VSI indications will return to, and constantly indicate, zero.</p>",
+    "b": "<p>left VSI indications will return to, and constantly indicate, zero.</p>",
+    "c": "<p>both VSI indications will be inaccurate when the aircraft is in a sideslip.</p>",
+    "d": "<p>left VSI indications will always be inaccurate during climbs or descents.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

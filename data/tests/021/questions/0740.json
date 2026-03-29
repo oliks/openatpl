@@ -1,0 +1,14 @@
+{
+  "number": 740,
+  "questionId": 68357,
+  "questionNumber": "214038",
+  "stemHtml": "Why do large jet engines need a spool-up time?",
+  "options": {
+    "a": "Because the engines are controlled by an electronic engine control unit, the calculations required to meter the correct amount of fuel produce a delay in the accelaration of the engine.",
+    "b": "Due to the number of turbine blades in jet fans and the high viscosity of cold blades.",
+    "c": "The engine gearbox requires a significant amount of the energy produced by the turbine; this causes a typical spool up time.",
+    "d": "<p>A request for a rapid acceleration may cause a flameout due to the overly rich mixture.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

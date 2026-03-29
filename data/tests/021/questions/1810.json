@@ -1,0 +1,14 @@
+{
+  "number": 1810,
+  "questionId": 106065,
+  "questionNumber": "216584",
+  "stemHtml": "<p>In a continuous loop fire detection system with two loops installed, marked Loop A and Loop B, what will be the indication in the cockpit if Loop A has been crushed, but Loop B is normal?</p>",
+  "options": {
+    "a": "<p>An ENG OVERHEAT indication in that engine compartment.</p>",
+    "b": "<p>A fault alert and red master warning light.</p>",
+    "c": "<p>A fault alert and fire warning bell.</p>",
+    "d": "<p>The operation of the system won\u2019t be affected and no indication will appear.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

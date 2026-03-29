@@ -1,0 +1,14 @@
+{
+  "number": 183,
+  "questionId": 110063,
+  "questionNumber": "214567",
+  "stemHtml": "<p>A relay is a DC operating switch, which opens and closes another circuit. The relay is (1) _____ another circuit with a higher current. The other circuit current (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) connected to; (2) can only be DC</p>",
+    "b": "<p>(1) connected to; (2) can be AC or DC</p>",
+    "c": "<p>(1) separated from; (2) can only be DC</p>",
+    "d": "<p>(1) separated from; (2) can be AC or DC</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

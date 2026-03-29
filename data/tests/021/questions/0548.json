@@ -1,0 +1,14 @@
+{
+  "number": 548,
+  "questionId": 159652,
+  "questionNumber": "216208",
+  "stemHtml": "<p>Can carburettor icing occur when the outside air temperature (OAT) is between +9\u00b0C and +27\u00b0C, and if so, under what conditions?</p>",
+  "options": {
+    "a": "<p>Yes, because the temperature drop in the carburettor can cause ice even at relatively high OAT if humidity is sufficient. <br />  </p>",
+    "b": "<p>Yes, but only if the outside air temperature is below +10\u00b0C. <br />  </p>",
+    "c": "<p>No, carburettor icing is only possible at temperatures close to or below 0\u00b0C. <br />  </p>",
+    "d": "<p>No, because carburettor icing cannot occur above +20\u00b0C.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

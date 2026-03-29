@@ -1,0 +1,14 @@
+{
+  "number": 1758,
+  "questionId": 67286,
+  "questionNumber": "102194",
+  "stemHtml": "<p>In flight, a pilot cancels his IFR flight plan in order to proceed under VFR in VMC to his destination. The ATC will answer\u2026</p>",
+  "options": {
+    "a": "\u201cIFR FLIGHT CANCELLED AT ... (time)\u201d",
+    "b": "\u201c(time) VFR FLIGHT PLAN OPENED\"",
+    "c": "\u201cIFR FLIGHT CANCELLED AT ... (time) VFR FLIGHT PLAN COMMENCES NOW\u201d",
+    "d": "\u201c(time) ... IFR FLIGHT CANCELLED, VFR FLIGHT PLAN OPENED AT ... (time)\u201d"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

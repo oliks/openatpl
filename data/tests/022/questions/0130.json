@@ -1,0 +1,14 @@
+{
+  "number": 130,
+  "questionId": 69142,
+  "questionNumber": "222688",
+  "stemHtml": "On the CDU of an FMS, the message \"Insufficient Fuel\" is displayed if\u2026",
+  "options": {
+    "a": "the calculated estimated fuel at the destination airport is less than the fuel reserve value entered.",
+    "b": "too little fuel is on board for diversion when the flight crew initiates a go-around procedure.",
+    "c": "the fuel quantity falls to 25 % of the total capacity of the fuel tanks.",
+    "d": "the refuelling process on the ground is stopped before the required amount of fuel is on board."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

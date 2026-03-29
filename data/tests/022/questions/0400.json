@@ -1,0 +1,14 @@
+{
+  "number": 400,
+  "questionId": 109603,
+  "questionNumber": "227686",
+  "stemHtml": "<p>An aircraft is fitted with 2 radio altimeters (RA) one of which has failed, which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>Autoland can still be used.</p>",
+    "b": "<p>EGPWS cannot be relied upon anymore.</p>",
+    "c": "<p>TCAS cannot be relied upon anymore.</p>",
+    "d": "<p>Using barometric altitude, you can select a new decision altitude.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

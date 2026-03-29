@@ -1,0 +1,14 @@
+{
+  "number": 274,
+  "questionId": 80200,
+  "questionNumber": "227277",
+  "stemHtml": "The TAWS/HTAWS must be connected to a precise position sensor. Why?",
+  "options": {
+    "a": "Positional accuracy plus digital terrain model gives forward looking terrain avoidance.",
+    "b": "Database includes obstructions such as power cables.",
+    "c": "Precise positioning allows TAWS to aid navigation.",
+    "d": "GPS alone is not considered accurate enough."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

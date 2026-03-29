@@ -1,0 +1,14 @@
+{
+  "number": 1101,
+  "questionId": 140929,
+  "questionNumber": "221797",
+  "stemHtml": "<p>In high density traffic environments, how does TCAS II manage its interrogation of intruding aircraft?</p>",
+  "options": {
+    "a": "<p>TCAS increases the interrogation rate for all intruders and prioritises the fastest aircraft.</p>",
+    "b": "<p>TCAS decreases the interrogation rate for distant, non-threatening aircraft and prioritises the nearest threat.</p>",
+    "c": "<p>TCAS increases the interrogation rate only for intruders above the aircraft and prioritises the closest one.</p>",
+    "d": "<p>TCAS maintains the same interrogation rate for all aircraft but prioritises the one with the highest closure speed.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

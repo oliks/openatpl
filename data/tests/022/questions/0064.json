@@ -1,0 +1,14 @@
+{
+  "number": 64,
+  "questionId": 81802,
+  "questionNumber": "223677",
+  "stemHtml": "One FMS is in disagreement with another, what happens?",
+  "options": {
+    "a": "FMS will show an alert message.",
+    "b": "The correct FMS overrides the faulty one automatically.",
+    "c": "The FMS shuts down automatically, forcing the pilots to navigate without it.",
+    "d": "Nothing, the FMS will continue as normal with frequent cross-checks."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

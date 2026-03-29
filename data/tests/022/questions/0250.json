@@ -1,0 +1,14 @@
+{
+  "number": 250,
+  "questionId": 81385,
+  "questionNumber": "226716",
+  "stemHtml": "<p dir=\"ltr\">Which of the following correctly describes the difference between an armed mode and an engaged mode in an autopilot system?</p>",
+  "options": {
+    "a": "An armed mode will only become engaged when the flight crew switches to the engaged mode.",
+    "b": "They are the same thing: different manufacturers use different terminology.",
+    "c": "<p dir=\"ltr\">An armed mode will only become engaged when certain criteria are met.</p>",
+    "d": "<p dir=\"ltr\">Only a three-axis autopilot can operate in an engaged mode.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

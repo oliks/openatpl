@@ -1,0 +1,14 @@
+{
+  "number": 572,
+  "questionId": 134579,
+  "questionNumber": "222216",
+  "stemHtml": "<p>What does the position of the Flight Director command bars represent?</p>",
+  "options": {
+    "a": "<p>Guidance to achieve the programmed flight path.</p>",
+    "b": "<p>Current heading, pitch, thrust, and the actual flight path.</p>",
+    "c": "<p>Programmed flight path, and in case of deviations, it indicates the distance off track.</p>",
+    "d": "<p>Current flight path flown by the autopilot.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

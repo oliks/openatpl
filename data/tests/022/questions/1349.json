@@ -1,0 +1,14 @@
+{
+  "number": 1349,
+  "questionId": 68538,
+  "questionNumber": "226002",
+  "stemHtml": "<p>A float type fuel gauge:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 supplies a mass information</span> <br /> \n2 \u2013 supplies information independent of aircraft`s manoeuvres and attitude changes <br /> \n3 \u2013 supplies information all the more accurate as the tank is full <br /> \n4 \u2013 is typically a DC powered system.</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
+  "options": {
+    "a": "1, 2, 3, 4.",
+    "b": "4",
+    "c": "1",
+    "d": "1, 3, 4."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

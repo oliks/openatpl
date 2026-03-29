@@ -1,0 +1,24 @@
+{
+  "number": 1457,
+  "questionId": 164014,
+  "questionNumber": "105721",
+  "stemHtml": "<p>Refer to figure.<br>The Certificate of Airworthiness (CofA) of the figure mentions: \u201cA current Airworthiness Review Certificate (ARC) shall be attached to this Certificate.\u201d Which requirement must be met for the aircraft to be legally permitted to operate?</p>",
+  "options": {
+    "a": "<p>The Certificate of Airworthiness must be dated later than the flight.</p>",
+    "b": "<p>The Certificate of Airworthiness must be accompanied by a current Airworthiness Review Certificate (ARC).</p>",
+    "c": "<p>The Certificate of Airworthiness must be renewed before every flight.</p>",
+    "d": "<p>The Certificate of Airworthiness must be signed by the commander before departure.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 73331,
+      "uniqueKey": "35cdc4f2-6104-439d-81d5-2f6aa5319b36",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=35cdc4f2-6104-439d-81d5-2f6aa5319b36",
+      "publicUrl": "/attachments/010/35cdc4f2-6104-439d-81d5-2f6aa5319b36.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/35cdc4f2-6104-439d-81d5-2f6aa5319b36.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 58,
+  "questionId": 110207,
+  "questionNumber": "103468",
+  "stemHtml": "<p>Two aircraft are in a holding pattern. Aircraft A is at a higher level than Aircraft B and both aircraft need to descend. Which of the following clearances will ATC provide to maintain the required separation?</p>",
+  "options": {
+    "a": "<p>Aircraft B will be given a minimum descent rate and Aircraft A will be given a maximum descent rate</p>",
+    "b": "<p>Aircraft B will be given a maximum descent rate and Aircraft A will be given a minimum descent rate</p>",
+    "c": "<p>Aircraft B will be given an average descent rate and Aircraft A will be given a maximum descent rate</p>",
+    "d": "<p>Aircraft B will be given a minimum descent rate and Aircraft A will be given an average descent rate</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

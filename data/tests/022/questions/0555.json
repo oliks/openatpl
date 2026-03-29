@@ -1,0 +1,14 @@
+{
+  "number": 555,
+  "questionId": 82675,
+  "questionNumber": "229782",
+  "stemHtml": "You are flying an aircraft at FL350 with the autopilot engaged in VNAV and LNAV modes. What are the consequences of an auto-trim failure in these conditions?",
+  "options": {
+    "a": "The autopilot will disconnect and the pilot flying should take the controls.",
+    "b": "The abnormal rudder jam checklist should be performed.",
+    "c": "An emergency descent should be initiated.",
+    "d": "The company should be notified and advice should be seen from MCC."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

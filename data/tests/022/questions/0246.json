@@ -1,0 +1,14 @@
+{
+  "number": 246,
+  "questionId": 101538,
+  "questionNumber": "225862",
+  "stemHtml": "<p>You are in the cruise, preparing for an autoland, but you discover that the PF's windshield heating system is not functioning. Can you proceed with the autoland under these circumstances?</p>",
+  "options": {
+    "a": "<p>Yes, because the windshield heating system is not essential for the autoland procedure.</p>",
+    "b": "<p>No, because autoland requires all aircraft systems to be fully operational.</p>",
+    "c": "<p>Yes, as long as the weather conditions are clear, and there is no need for visibility enhancement.</p>",
+    "d": "<p>No, because visual references may still be required .</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

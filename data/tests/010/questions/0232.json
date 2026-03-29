@@ -1,0 +1,14 @@
+{
+  "number": 232,
+  "questionId": 103892,
+  "questionNumber": "103278",
+  "stemHtml": "<p>An aircraft is passing FL100. How may the pilot obtain the transition level, when it is positioned at 3000 ft?</p>",
+  "options": {
+    "a": "<p>Via voice communication at 2500 ft.</p>",
+    "b": "<p>Via the VOLMET.</p>",
+    "c": "<p>Via datalink long before the transition level.</p>",
+    "d": "<p>Via the ATIS while passing 3000 ft.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

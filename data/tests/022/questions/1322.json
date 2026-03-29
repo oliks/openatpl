@@ -1,0 +1,14 @@
+{
+  "number": 1322,
+  "questionId": 69154,
+  "questionNumber": "223630",
+  "stemHtml": "<p>What is the main cause of position error overtime in a stabilised-platform Inertial Navigation System (INS)?</p>",
+  "options": {
+    "a": "<p>Imperfections in the mirrors, their coatings, and misalignment.</p>",
+    "b": "<p>Imperfections within gyro bearings and mass imbalances.</p>",
+    "c": "<p>The Earth`s rotation.</p>",
+    "d": "<p>Imperfections in the power supply of the INS.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

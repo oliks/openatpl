@@ -1,0 +1,14 @@
+{
+  "number": 1263,
+  "questionId": 82072,
+  "questionNumber": "224341",
+  "stemHtml": "An aircraft not equipped with EFIS has an inflight master caution. How can the pilots know what the failure is?",
+  "options": {
+    "a": "The pilots should check the annunciator panel of the flight warning system.",
+    "b": "The pilots should refer to the quick reference handbook.",
+    "c": "It is type specific, so the pilots should check the FCOM abnormal procedures.",
+    "d": "The pilots should refer to the emergency checklist."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

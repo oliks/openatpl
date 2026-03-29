@@ -1,0 +1,14 @@
+{
+  "number": 906,
+  "questionId": 163427,
+  "questionNumber": "215563",
+  "stemHtml": "<p>Which type of circuit protection device does not trip instantaneously but instead interrupts the circuit only after a predetermined delay?</p>",
+  "options": {
+    "a": "<p>Magnetic circuit breaker</p>",
+    "b": "<p>Thermal circuit breaker <br />  </p>",
+    "c": "<p>High-speed fuse <br />  </p>",
+    "d": "<p>Semiconductor fuse</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

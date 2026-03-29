@@ -1,0 +1,14 @@
+{
+  "number": 290,
+  "questionId": 82738,
+  "questionNumber": "213780",
+  "stemHtml": "<p>Which of the following statements is correct or incorrect related to an electric motor?</p><p>1. Mechanical torque (T) is directly proportional to the voltage (E) x current (I) and is inversely proportional to the strength of the generated magnetic field<br>2. Mechanical torque (T) is directly proportional to the voltage (E) divided by the current (I) and is directly proportional to the strength of the generated magnetic field</p>",
+  "options": {
+    "a": "Both statements are correct.",
+    "b": "1 is incorrect; 2 is correct.",
+    "c": "Both statements are incorrect.",
+    "d": "1 is correct; 2 is incorrect."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

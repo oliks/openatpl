@@ -1,0 +1,14 @@
+{
+  "number": 864,
+  "questionId": 68468,
+  "questionNumber": "225119",
+  "stemHtml": "<p>Which of the following formulas is correct, given that:</p><p>M is the Mach number, <br /> Ts is the static temperature, <br /> Tt is the total temperature.</p>",
+  "options": {
+    "a": "Ts = Tt x (1 + 0.2M<sup>2</sup>)",
+    "b": "Ts = Tt / ( 0.2M<sup>2</sup>)",
+    "c": "Ts = Tt x (0.2M<sup>2</sup>)",
+    "d": "Ts = Tt / (1 + 0.2M<sup>2</sup>)"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

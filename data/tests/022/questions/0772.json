@@ -1,0 +1,14 @@
+{
+  "number": 772,
+  "questionId": 69171,
+  "questionNumber": "227300",
+  "stemHtml": "<p>The purpose of the Flight Data Recorder (FDR) is to record specific parameters such as:</p><p>1 \u2013 pressure altitude<br>2 \u2013 propulsive/thrust power on each engine<br>3 \u2013 the audio environment in the flight deck<br>4 \u2013 heading</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "2, 4.",
+    "b": "1, 4.",
+    "c": "2, 3, 4.",
+    "d": "1, 2, 4."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

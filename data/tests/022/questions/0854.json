@@ -1,0 +1,14 @@
+{
+  "number": 854,
+  "questionId": 81415,
+  "questionNumber": "222219",
+  "stemHtml": "<p>With regards to engine parameters, the Flight Warning Computer\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Analyses the variation rate of the main engine parameters to prevent exceedance of certain thresholds.</p>",
+    "b": "Automatically shuts down the engine in case of exceedance of certain thresholds.",
+    "c": "Performs engine trend monitoring in case of exceedance of certain thresholds.",
+    "d": "<p dir=\"ltr\">Triggers an alert in case of exceedance of certain thresholds.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

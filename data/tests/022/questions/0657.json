@@ -1,0 +1,14 @@
+{
+  "number": 657,
+  "questionId": 81890,
+  "questionNumber": "226713",
+  "stemHtml": "What is meant by pilot-induced oscillations in Automatic Flight Control Systems?",
+  "options": {
+    "a": "<p>Airframe vibration due to exceeding V<sub>MO</sub>/M<sub>MO</sub>.</p>",
+    "b": "Anomalous interactions between the pilot and the aircraft.",
+    "c": "Disturbances to the flight path of the aeroplane due to turbulence.",
+    "d": "Oscillations caused by errors in the autopilot programming."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 436,
+  "questionId": 81416,
+  "questionNumber": "227732",
+  "stemHtml": "<p>During initialisation of the FMS, the pilot selects the current database. He/she enters the route and waypoints for the flight. After being distracted during start-up, the pilot is confused and changes some data. In error, he/she also selects the second navigation database of the FMS. This is\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">NOT possible as there only is one navigation database available for selection.</p>",
+    "b": "<p dir=\"ltr\">NOT a problem. The FMS will automatically switch to the current database.</p>",
+    "c": "<p>A problem as it will erase the current route and waypoints already put in.</p>",
+    "d": "<p dir=\"ltr\">NOT a problem. The route and waypoints remain active.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

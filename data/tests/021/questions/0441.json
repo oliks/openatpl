@@ -1,0 +1,24 @@
+{
+  "number": 441,
+  "questionId": 67789,
+  "questionNumber": "217541",
+  "stemHtml": "Refer to figure.  <br />  On ground, external power (EXT PWR) can be used to feed the AC BUS 2, when: (NB: all contactors not mentioned are assumed to remain open)",
+  "options": {
+    "a": "C1.2 and C2.1 are closed.",
+    "b": "C2.1 and C2.2 are closed.",
+    "c": "C1.1 and C2.1 are closed.",
+    "d": "C1.2 and C2.2 are closed."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 46437,
+      "uniqueKey": "539CA578-0492-4F72-B366-42FEACFEA04D",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=539CA578-0492-4F72-B366-42FEACFEA04D",
+      "publicUrl": "/attachments/021/539CA578-0492-4F72-B366-42FEACFEA04D.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/539CA578-0492-4F72-B366-42FEACFEA04D.gif"
+    }
+  ]
+}

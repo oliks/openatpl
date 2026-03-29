@@ -1,0 +1,14 @@
+{
+  "number": 1794,
+  "questionId": 67531,
+  "questionNumber": "212346",
+  "stemHtml": "<p>An ice detection probe can use differential pressure to provide an indication of ice accretion. Such a probe detects ice accretion due to\u2026</p>",
+  "options": {
+    "a": "<p>an increase in dynamic air pressure in the detector.</p>",
+    "b": "<p>a decrease in dynamic air pressure in the detector.</p>",
+    "c": "<p>a decrease in static air pressure in the detector.</p>",
+    "d": "<p>an increase in static air pressure in the detector.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

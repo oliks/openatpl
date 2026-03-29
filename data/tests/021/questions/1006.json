@@ -1,0 +1,14 @@
+{
+  "number": 1006,
+  "questionId": 111326,
+  "questionNumber": "216310",
+  "stemHtml": "<p>In an aircraft equipped with a Ram Air Turbine (RAT) that supplies hydraulic power to the flight controls, and with all main generators and the APU unserviceable, which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The battery supplies all AC and DC consumers with power.</p>",
+    "b": "<p>The battery supplies DC power to non-essential consumers, which is sufficient for continuation of the flight.</p>",
+    "c": "<p>There is no emergency generator available, so all electrical power is lost.</p>",
+    "d": "<p>The Ram Air Turbine provides hydraulic power only; electrical power is supplied by the emergency generator.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

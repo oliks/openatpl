@@ -1,0 +1,14 @@
+{
+  "number": 64,
+  "questionId": 83016,
+  "questionNumber": "105629",
+  "stemHtml": "<p>An airway designator should contain the following numbers and letters? </p>",
+  "options": {
+    "a": "<p>At least 1 letter and 1 number but not exceeding 6 characters.</p>",
+    "b": "<p> At least 2 letters and 2 numbers but not exceeding 6 characters. </p>",
+    "c": "<p>At least 1 letter and 2 numbers but not exceeding 5 characters. </p>",
+    "d": "At least 1 letter and 3 numbers but not exceeding 5 characters."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

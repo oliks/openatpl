@@ -1,0 +1,14 @@
+{
+  "number": 960,
+  "questionId": 105968,
+  "questionNumber": "217053",
+  "stemHtml": "<p>A relay with a low current is being used to control a circuit with a high current. Which of the following is correct?</p>\r\r<p>1) The relay is physically connected to the circuit <br /> \r2) The relay is not physically connected to the circuit <br /> \r3) The control can be fed with DC and the high current circuit can be fed with AC</p>",
+  "options": {
+    "a": "<p>Only 1.</p>",
+    "b": "<p>1 and 3.</p>",
+    "c": "<p>Only 3.</p>",
+    "d": "<p>2 and 3.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

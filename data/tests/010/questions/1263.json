@@ -1,0 +1,14 @@
+{
+  "number": 1263,
+  "questionId": 83018,
+  "questionNumber": "108591",
+  "stemHtml": "<p>An aircraft is at FL330 and about to initiate its descent. How and when is the aircraft informed about the transition level?</p>",
+  "options": {
+    "a": "<p>By ATIS and within sufficient time before descending through the transition level (10 000 ft).</p>",
+    "b": "<p>At any altitude, by VOLMET.</p>",
+    "c": "<p>At 2500 ft, by data link.</p>",
+    "d": "<p>At 3000 ft, by ATC.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

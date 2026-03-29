@@ -1,0 +1,14 @@
+{
+  "number": 1308,
+  "questionId": 164552,
+  "questionNumber": "215377",
+  "stemHtml": "<p>When initiating a pneumatic start of a gas turbine engine, which of the listed sources are capable of supplying the compressed air required to drive the starter motor and initiate engine rotation?</p><p>1. A running turbine engine on the same aircraft via cross-bleed<br>2. The Auxiliary Power Unit (APU)<br>3. Bleed air as a general compressed air supply<br>4. An Electrical Ground Power Unit\u00a0</p>",
+  "options": {
+    "a": "<p>1 and 4</p>",
+    "b": "<p>2, 3 and 4</p>",
+    "c": "<p>1, 2 and 3</p>",
+    "d": "<p>3 and 4</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

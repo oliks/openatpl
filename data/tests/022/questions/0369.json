@@ -1,0 +1,14 @@
+{
+  "number": 369,
+  "questionId": 79643,
+  "questionNumber": "226915",
+  "stemHtml": "Can GPS position be supplied to FMS?",
+  "options": {
+    "a": "Yes, it\u2019s one of the primary position information sources.",
+    "b": "No, GPS position is not accurate enough.",
+    "c": "Yes, but only if the signal is calibrated with caution.",
+    "d": "No, only IRS or INS position information is used."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

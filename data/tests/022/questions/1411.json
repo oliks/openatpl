@@ -1,0 +1,14 @@
+{
+  "number": 1411,
+  "questionId": 80227,
+  "questionNumber": "229728",
+  "stemHtml": "<p>The strapdown IRS\u2026</p>",
+  "options": {
+    "a": "Is most reliable with a low frequency laser beam.",
+    "b": "Is located away from the aircraft CG and uses laser gyros to calculate accelerations.",
+    "c": "Is located close to the aircraft CG, and uses laser gyros to calculate angular movements.",
+    "d": "Consists of gyros and accelerometers. The gyros keep the platform level and the accelerometers calculate acceleration."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

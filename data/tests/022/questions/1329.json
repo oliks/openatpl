@@ -1,0 +1,14 @@
+{
+  "number": 1329,
+  "questionId": 100125,
+  "questionNumber": "223593",
+  "stemHtml": "<p>You are the pilot flying of an aeroplane established on an ILS to perform an Autoland. Your aircraft is equipped with two autopilots, which are both engaged, and the Autoland capability of the aeroplane is fail operational. Passing 400 ft ONE autopilot fails, with the only technical consequence being a downgraded landing capability. Given the information below, what are the consequences of this failure and what should you do?</p>\r\r<p>Approach minima: 0 ft <br /> \rAlert height: 100 ft</p>",
+  "options": {
+    "a": "<p>The aircraft annunciates the failure but you Go Around as there's no time to select a new minima.</p>",
+    "b": "<p>The aircraft does NOT annunciate as the flight is already below the annunciation height.</p>",
+    "c": "<p>The aircraft maintains safe flight conditions and is able to land automatically.</p>",
+    "d": "<p>The aircraft maintains safe flight conditions but is unable to land automatically.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

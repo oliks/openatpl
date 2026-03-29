@@ -1,0 +1,14 @@
+{
+  "number": 425,
+  "questionId": 78329,
+  "questionNumber": "102446",
+  "stemHtml": "<p>On departure, how many copies are required of the following documents:</p>\r\n\r\n<ol>\r\n\t<li>General Declaration</li>\r\n\t<li>Stores List</li>\r\n\t<li>Cargo Manifest</li>\r\n</ol>",
+  "options": {
+    "a": "1 of 1; 1 of 2; 2 of 3",
+    "b": "2 of 1; 2 of 2; 3 of 3",
+    "c": "2 of 1; 1 of 2; 2 of 3",
+    "d": "3 of each"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

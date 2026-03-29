@@ -1,0 +1,14 @@
+{
+  "number": 1096,
+  "questionId": 82003,
+  "questionNumber": "224639",
+  "stemHtml": "<p>On aeroplanes with Flight-envelope protection system, an incorrect indication of the actual AoA measurement may...</p>",
+  "options": {
+    "a": "<p>cause earlier-than-normal pitch auto trim stopping.</p>",
+    "b": "<p>prevent extension of the leading edge and trailing edge devices for landing.</p>",
+    "c": "<p>lead to inadequate stall protection when approaching the critical AoA.</p>",
+    "d": "<p>prevent the aircraft from entering into an uncontrollable state.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

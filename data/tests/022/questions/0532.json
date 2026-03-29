@@ -1,0 +1,14 @@
+{
+  "number": 532,
+  "questionId": 68785,
+  "questionNumber": "227654",
+  "stemHtml": "<p>When comparing a TCAS Traffic Advisory (TA) and a Resolution Advisory (RA), which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>A TA indicates the relative position of the intruding traffic; an RA provides a vertical traffic avoidance manoeuvre.</p>",
+    "b": "<p>A TA provides the display of the traffic on the Navigation Display and the red arc on the vertical speed indicator; an RA provides the voice alerts.</p>",
+    "c": "<p>An RA indicates the relative position of the intruding traffic; a TA provides a vertical traffic avoidance manoeuvre.</p>",
+    "d": "<p>An RA generates the intruders colour codes on the Navigation Display according to the threat; a TA manages the other TCAS functions.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

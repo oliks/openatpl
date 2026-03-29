@@ -1,0 +1,14 @@
+{
+  "number": 1000,
+  "questionId": 85623,
+  "questionNumber": "219412",
+  "stemHtml": "<p>You are flying a Fly-By-Wire aircraft which is operating using direct law. What happens to the flight envelope protections?</p>",
+  "options": {
+    "a": "<p>pitch and roll augmentation are lost but audio and visual warnings are available.</p>",
+    "b": "<p>Roll augmentation is lost but you still have pitch augmentation.</p>",
+    "c": "<p>Roll and pitch augmentation are lost.</p>",
+    "d": "<p>Pitch augmentation is lost but you still have roll augmentation.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

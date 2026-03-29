@@ -1,0 +1,14 @@
+{
+  "number": 883,
+  "questionId": 78742,
+  "questionNumber": "223516",
+  "stemHtml": "Which of the following statements is correct regarding the system which ensures synchronisation in an autopilot slaved powered control circuit?",
+  "options": {
+    "a": "Such system can itself, when it fails, prevent the automatic pilot from being engaged.",
+    "b": "Synchronisation is inhibited when the automatic pilot is engaged.",
+    "c": "This system prevents uncommanded surface deflection when the automatic pilot is disengaged.",
+    "d": "It intervenes only when the automatic pilot has been engaged."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

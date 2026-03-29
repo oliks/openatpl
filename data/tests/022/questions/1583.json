@@ -1,0 +1,14 @@
+{
+  "number": 1583,
+  "questionId": 106773,
+  "questionNumber": "225940",
+  "stemHtml": "<p>For which of the following reasons is TCAS II linked to the ADC.</p>",
+  "options": {
+    "a": "<p>Altitude information is used to inhibit 'Climb' RA's when aircraft performance is limited at its maximum flight level</p>",
+    "b": "<p>Vertical speed information is used to inhibit RA's at maximum airspeed or close to the stall speed.</p>",
+    "c": "<p>Heading and track information fo avoidance RA's</p>",
+    "d": "<p>Acceleration and deceleration information for TA's</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

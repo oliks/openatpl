@@ -1,0 +1,14 @@
+{
+  "number": 81,
+  "questionId": 81152,
+  "questionNumber": "214964",
+  "stemHtml": "<div class=\"WordSection1\">\r\n<p>Which of the following is a risk associated with Lithium batteries?</p>\r\n</div>",
+  "options": {
+    "a": "<div class=\"WordSection1\"><span style=\"letter-spacing:0.7px\">A short-circuit when the electrolyte comes into contact with the electrodes.</span></div>",
+    "b": "<div class=\"WordSection1\"><span style=\"letter-spacing:0.7px\">Release of flammable gases when they are discharged at too high of a rate.</span></div>",
+    "c": "<div class=\"WordSection1\">Self-ignition when the charging process is NOT properly controlled.</div>",
+    "d": "Corrosion of the grounding wire attached to the metal airframe."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

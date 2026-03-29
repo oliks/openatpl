@@ -1,0 +1,14 @@
+{
+  "number": 204,
+  "questionId": 113235,
+  "questionNumber": "221061",
+  "stemHtml": "<p>Your aircraft is fitted with EGPWS. What aural warning are you likely to hear if it detects the threat of impact with terrain ahead of you within 20 - 30 seconds?</p>",
+  "options": {
+    "a": "<p>DONT SINK, DONT SINK</p>",
+    "b": "<p>SINK RATE, SINK RATE</p>",
+    "c": "<p>TERRAIN, TERRAIN, PULL UP</p>",
+    "d": "<p>CAUTION TERRAIN, CAUTION TERRAIN</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

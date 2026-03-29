@@ -1,0 +1,14 @@
+{
+  "number": 330,
+  "questionId": 69010,
+  "questionNumber": "227446",
+  "stemHtml": "An inertial reference and navigation system is a \"strapdown\" system when:",
+  "options": {
+    "a": "only the gyroscopes, and not the accelerometers, are fixed regarding to the aircraft`s body axes co-ordinate system.",
+    "b": "the gyroscopes and the accelerometers are fixed regarding to the aircraft`s body axes co-ordinate system.",
+    "c": "the gyroscopes and the accelerometers are mounted on a stabilised platform.",
+    "d": "only the gyroscopes, and not the accelerometers, are mounted on a stabilised platform."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

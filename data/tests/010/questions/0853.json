@@ -1,0 +1,14 @@
+{
+  "number": 853,
+  "questionId": 66962,
+  "questionNumber": "101136",
+  "stemHtml": "<p>Which of the following elements shall be included in an ATIS message that contains both arrival and departure information?</p>",
+  "options": {
+    "a": "<p>Surface wind direction (in degrees true).</p>",
+    "b": "<p>Altimeter setting.</p>",
+    "c": "<p>Transition altitude.</p>",
+    "d": "<p>Taxiway surface conditions.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

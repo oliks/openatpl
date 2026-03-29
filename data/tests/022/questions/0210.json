@@ -1,0 +1,14 @@
+{
+  "number": 210,
+  "questionId": 110925,
+  "questionNumber": "228933",
+  "stemHtml": "<p>Which statement about the event switch on a Flight Data Recorder (FDR) control panel is correct?</p>",
+  "options": {
+    "a": "<p>It erases the recording completely.</p>",
+    "b": "<p>It pauses the recording.</p>",
+    "c": "<p>It stops the recording.</p>",
+    "d": "<p>It marks an event but keeps recording so you can come back to it.</p><p> </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

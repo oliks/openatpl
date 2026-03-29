@@ -1,0 +1,14 @@
+{
+  "number": 210,
+  "questionId": 105440,
+  "questionNumber": "212410",
+  "stemHtml": "<p>On a Fly-By-Wire aircraft equipped with sidesticks, if the First Officer has locked the Captain out of the controls, how can the Captain regain control?</p>",
+  "options": {
+    "a": "<p>By telling the First Officer to release the sidestick.</p>",
+    "b": "<p>By pressing and holding the takeover button.</p>",
+    "c": "<p>By asking the First Officer to press the takeover button.</p>",
+    "d": "<p>Via manual override through a specific cockpit procedure.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

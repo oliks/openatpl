@@ -1,0 +1,14 @@
+{
+  "number": 1588,
+  "questionId": 86111,
+  "questionNumber": "228419",
+  "stemHtml": "<p>During the cruise phase, how may a pilot obtain updated forecast winds to compare them with those on the flight plan?</p>",
+  "options": {
+    "a": "<p>Via data uplink on the MCDU.</p>",
+    "b": "<p>\u200bUsing the FMS wind data.</p>",
+    "c": "<p>From the altimeter setting.</p>",
+    "d": "<p>From the VOR/DME information.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

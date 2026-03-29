@@ -1,0 +1,14 @@
+{
+  "number": 420,
+  "questionId": 95940,
+  "questionNumber": "224975",
+  "stemHtml": "<p>You are the PM of a commercial jet airliner flying an ILS CATIII approach in fail-operational status. If, at 70 feet RA, the G/S indication disappears, can you continue the approach? What would the operational state be? If there's a warning, what type of warning would you get?</p><p>Alert height: 100 ft   <br />  RVR: 75 m</p>",
+  "options": {
+    "a": "<p>The crew receives an autoland warning and the approach may be continued in fail-operational status.</p>",
+    "b": "<p>The crew receives a caution alert and the approach cannot be continued because the FLARE mode would not engage.</p>",
+    "c": "<p>The crew receives a warning and a go-around must be made.</p>",
+    "d": "<p>The crew receives no warning and the approach can be continued in fail-passive status.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

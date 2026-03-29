@@ -1,0 +1,14 @@
+{
+  "number": 242,
+  "questionId": 116225,
+  "questionNumber": "213045",
+  "stemHtml": "<p>Complete the following statement:</p><p>A CSD monitors\u2026</p>",
+  "options": {
+    "a": "<p>the RPM of the AC generator and the RPM of the DC generator, and adjusts any differences in their rotational speeds accordingly to make them compatible.</p>",
+    "b": "<p>the engine-side RPM and the rotational speed of the generator rotor and adjusts the difference in rotational speed accordingly.</p>",
+    "c": "<p>the voltage of the AC bus and the voltage of the DC bus and adjusts the difference in potential accordingly.</p>",
+    "d": "<p>engine N1 and engine N2 rotational speeds, and adjusts the speeds accordingly for most efficient operation.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

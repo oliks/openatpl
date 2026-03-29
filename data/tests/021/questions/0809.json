@@ -1,0 +1,14 @@
+{
+  "number": 809,
+  "questionId": 84584,
+  "questionNumber": "215075",
+  "stemHtml": "<p>Whilst flying at low altitude with a low airspeed, both of your engines suddenly fail, and at such a low aispeed, the Fly-By-Wire enters alpha protection mode. What effect does this have on your workload as a pilot?</p>",
+  "options": {
+    "a": "Increased pilot workload due to decreased flight protection envelope.",
+    "b": "<p>Decreased pilot workload to allow pilots to carry out sufficient safety checks, etc.</p>",
+    "c": "Increased pilot workload due to increased stall protection.",
+    "d": "No change to pilot workload, as the aircraft will still allow a stall to occur."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

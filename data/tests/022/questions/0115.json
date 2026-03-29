@@ -1,0 +1,14 @@
+{
+  "number": 115,
+  "questionId": 68710,
+  "questionNumber": "228282",
+  "stemHtml": "<p>The commands sent out by the yaw damper computer\u2026</p>",
+  "options": {
+    "a": "are inhibited when the autopilot is engaged.",
+    "b": "are added to or subtracted from the rudder deflection orders sent out by the pilot or the autopilot.",
+    "c": "are inhibited when the pilot acts on the rudder pedals.",
+    "d": "inhibit the rudder deflection orders sent out by the pilot or the autopilot."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

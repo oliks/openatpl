@@ -1,0 +1,24 @@
+{
+  "number": 285,
+  "questionId": 84549,
+  "questionNumber": "214048",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe annex shows the layout of an electrical system for a twin-engined aeroplane. What is the purpose of the TRUs?</p>",
+  "options": {
+    "a": "<p>To convert AC power into DC power at a different (usually lower) voltage.</p>",
+    "b": "<p>To convert DC power into AC power at a different (usually higher) voltage.</p>",
+    "c": "<p>To separate the DC systems (powered by the generators) from the AC systems (powered by the batteries).</p>",
+    "d": "<p>To separate the AC systems (powered by the generators) from the DC systems (powered by the batteries).</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 51536,
+      "uniqueKey": "6979A45B-30A5-4082-8877-2C44FF480690",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6979A45B-30A5-4082-8877-2C44FF480690",
+      "publicUrl": "/attachments/021/6979A45B-30A5-4082-8877-2C44FF480690.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/6979A45B-30A5-4082-8877-2C44FF480690.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 852,
+  "questionId": 82503,
+  "questionNumber": "102412",
+  "stemHtml": "<p>During the flight, the crew becomes aware that a navigation instrument which has NOT been required on this flight but will be required on a future flight is indicating incorrectly. In addition to having the fault investigated by the engineers, Regulation (EU) No 376/2014 requires.</p>",
+  "options": {
+    "a": "<p>The crew member who noticed the fault to report the occurrence as a serious incident to the national Civil Aviation Safety Investigation Authority within 72 hours.</p>",
+    "b": "<p>The Pilot in Command to report the occurrence as a serious incident to the national Civil Aviation Safety Investigation Authority within 7 days.</p>",
+    "c": "<p>The Pilot in Command to report the occurrence to the Operator's safety reporting system within 72 hours.</p>",
+    "d": "Nothing more is required because the failure did NOT affect that flight."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

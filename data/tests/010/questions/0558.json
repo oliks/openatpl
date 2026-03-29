@@ -1,0 +1,24 @@
+{
+  "number": 558,
+  "questionId": 81345,
+  "questionNumber": "102164",
+  "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> In accordance with ICAO Annex 14, what does the attached sign mean?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Runway-holding position sign</p>",
+    "b": "<p dir=\"ltr\">Road-holding position sign</p>",
+    "c": "<p dir=\"ltr\">Hold-until-further-clearance sign</p>",
+    "d": "Stop way sign"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 47022,
+      "uniqueKey": "CFD40EDB-38A4-44F1-B875-2D14E855751E",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=CFD40EDB-38A4-44F1-B875-2D14E855751E",
+      "publicUrl": "/attachments/010/CFD40EDB-38A4-44F1-B875-2D14E855751E.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/CFD40EDB-38A4-44F1-B875-2D14E855751E.jpg"
+    }
+  ]
+}

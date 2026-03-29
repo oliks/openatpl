@@ -1,0 +1,24 @@
+{
+  "number": 1832,
+  "questionId": 67777,
+  "questionNumber": "214997",
+  "stemHtml": "Refer to figure.  <br />  GEN 2 can be used to feed the DC BUS 1, when: (NB: all contactors not mentioned are assumed to remain open)",
+  "options": {
+    "a": "C1.1, C3.1, C3.2 and C5.3 are closed.",
+    "b": "C1.4 and C5.3 are closed.",
+    "c": "C1-4, C2-2 and C2-1 are closed.",
+    "d": "C1.4, C3.2, C3.1 and C5.1 are closed."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 46413,
+      "uniqueKey": "B995677A-1EE9-47CC-A71C-DC6F2FEE003F",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=B995677A-1EE9-47CC-A71C-DC6F2FEE003F",
+      "publicUrl": "/attachments/021/B995677A-1EE9-47CC-A71C-DC6F2FEE003F.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/B995677A-1EE9-47CC-A71C-DC6F2FEE003F.gif"
+    }
+  ]
+}

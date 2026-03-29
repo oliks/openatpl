@@ -1,0 +1,14 @@
+{
+  "number": 1393,
+  "questionId": 80253,
+  "questionNumber": "101361",
+  "stemHtml": "<p>According to ICAO Document 8168 (PANS-OPS), which of the following standard instrument departures (SID) are considered as straight departures?</p><p>1. SID RWY 26: Initial departure track is 4\u00b0 to the left of the runway alignment<br>2. SID RWY 14: Initial departure track is 20\u00b0 the right of the runway alignment<br>3. SID RWY 08: Initial departure track is 10\u00b0 to the right of the runway alignment<br>4. SID RWY 05: Initial departure track is 16\u00b0 to the left of the runway alignment</p>",
+  "options": {
+    "a": "<p>1 and 3 only.</p>",
+    "b": "<p>2 and 4 only.</p>",
+    "c": "1, 3 and 4.",
+    "d": "2, 3 and 4."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

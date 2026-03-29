@@ -1,0 +1,14 @@
+{
+  "number": 1244,
+  "questionId": 100708,
+  "questionNumber": "106947",
+  "stemHtml": "<p>What should an ATC clearance include in accordance with ICAO Annex 11? </p><p>1. Aircraft identification   <br /> 2. Clearence limit   <br /> 3. Level(s)   <br /> 4. Current time   <br /> 5. Runway in use   <br /> 6. Route to fly   <br /> 7. Time of expiry</p>",
+  "options": {
+    "a": "<p>1, 2, 3, 4 and 7</p>",
+    "b": "2, 5, 6, and 7",
+    "c": "<p>1, 2, 3, 6 and 7</p>",
+    "d": "1, 2, 5, and 7"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

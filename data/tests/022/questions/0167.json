@@ -1,0 +1,14 @@
+{
+  "number": 167,
+  "questionId": 74522,
+  "questionNumber": "221555",
+  "stemHtml": "<p>The navigational database of the FMS\u2026</p>",
+  "options": {
+    "a": "Contains some additional space so that the crew may create navigational data.",
+    "b": "Is updated with datalink continuously to contain the actual NOTAMs.",
+    "c": "Can be edited by the crew so that navigation aids, airways and waypoints may be deleted.",
+    "d": "Has to be updated by the flight-crew when the performance database is updated."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

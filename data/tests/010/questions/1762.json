@@ -1,0 +1,24 @@
+{
+  "number": 1762,
+  "questionId": 160009,
+  "questionNumber": "108429",
+  "stemHtml": "<p>Refer to figure.<br>Is this configuration compliant with the international regulations?</p>",
+  "options": {
+    "a": "<p>Compliant with the regulations stated in ICAO Annex 14.</p>",
+    "b": "<p>Non-compliant because the stopway must be narrower than the runway.</p>",
+    "c": "<p>Compliant only if the stopway is not included in the ASDA, as it is the same width as the runway.</p>",
+    "d": "<p>Non-compliant because the TODA must always include the stopway if it is present.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 72350,
+      "uniqueKey": "2b3a03ec-83ee-4075-b1df-12ef7466e1d3",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=2b3a03ec-83ee-4075-b1df-12ef7466e1d3",
+      "publicUrl": "/attachments/010/2b3a03ec-83ee-4075-b1df-12ef7466e1d3.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/2b3a03ec-83ee-4075-b1df-12ef7466e1d3.png"
+    }
+  ]
+}

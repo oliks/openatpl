@@ -1,0 +1,14 @@
+{
+  "number": 1104,
+  "questionId": 82078,
+  "questionNumber": "213609",
+  "stemHtml": "A turbine engine with a dual channel FADEC has a single channel fault. Which of these actions should the crew take?",
+  "options": {
+    "a": "Continue the flight, since the healthy channel automatically assumes full engine control.",
+    "b": "Intervene and take manual control of the engine, due to the loss of the redundancy.",
+    "c": "Set the power of the affected engine to IDLE, because engine indications are completely lost.",
+    "d": "Avoid a high-power setting on the affected engine, due to single-channel limitations."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

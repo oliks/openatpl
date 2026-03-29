@@ -1,0 +1,14 @@
+{
+  "number": 506,
+  "questionId": 86096,
+  "questionNumber": "228642",
+  "stemHtml": "<p>At the end of a flight, a pilot wants to find their positional error. What do they need to find out the error?</p>",
+  "options": {
+    "a": "<p>Initial position and operating time of the IRS.</p>",
+    "b": "<p>Average TAS and operating time of the IRS.</p>",
+    "c": "<p>Average GS and wind drift.</p>",
+    "d": "<p>Average Mach Number and operating time of the IRS.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

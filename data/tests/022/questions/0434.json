@@ -1,0 +1,14 @@
+{
+  "number": 434,
+  "questionId": 74535,
+  "questionNumber": "228454",
+  "stemHtml": "<p>A pilot is flying at FL150 in an aircraft equipped with a modern EADI (Electronic Attitude Director Indicator). One type data listed below could not be displayed on the EADI in this phase of the flight. Which one is it?</p>",
+  "options": {
+    "a": "Attitude information.",
+    "b": "<p>Speed tape.</p>",
+    "c": "Radio height.",
+    "d": "Flight Director command bars."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

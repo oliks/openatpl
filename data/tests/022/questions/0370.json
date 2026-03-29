@@ -1,0 +1,14 @@
+{
+  "number": 370,
+  "questionId": 80825,
+  "questionNumber": "222893",
+  "stemHtml": "<p>The aircraft\u2019s RNAV computer receives a TAS input and a heading input\u2026</p>",
+  "options": {
+    "a": "To calculate the time to go (TTG) to the TO-waypoint.",
+    "b": "To calculate the ETA to the destination airport.",
+    "c": "To calculate the actual wind velocity.",
+    "d": "To calculate the cross track error."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

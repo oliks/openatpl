@@ -1,0 +1,14 @@
+{
+  "number": 940,
+  "questionId": 106980,
+  "questionNumber": "102212",
+  "stemHtml": "<p>Which flights are separated in airspace Class F?</p>",
+  "options": {
+    "a": "<p>VFR flights only.</p>",
+    "b": "<p>IFR flights only.</p>",
+    "c": "<p>VFR and IFR flights.</p>",
+    "d": "<p>No separation is provided.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

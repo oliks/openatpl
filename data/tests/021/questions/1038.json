@@ -1,0 +1,14 @@
+{
+  "number": 1038,
+  "questionId": 67942,
+  "questionNumber": "211899",
+  "stemHtml": "<p>The capacity of a battery is the\u2026</p>",
+  "options": {
+    "a": "no-load voltage of the battery multiplied by its rated output current.",
+    "b": "amount of Ampere-hour (Ah) that a fully charged battery can supply.",
+    "c": "intensity withstood by the battery during charging.",
+    "d": "number of cycles (charging and discharging) that a battery can withstand without deterioration of its cells."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

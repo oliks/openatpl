@@ -1,0 +1,14 @@
+{
+  "number": 1509,
+  "questionId": 67290,
+  "questionNumber": "212237",
+  "stemHtml": "<p>Given a conventional transport aeroplane with irreversible flight controls on the ground with engines running. Which of these statements is correct when rudder trim is used?</p>",
+  "options": {
+    "a": "<p>The rudder trim tab moves and the rudder pedals do not move.</p>",
+    "b": "<p>The zero force point of the artificial feel system changes, the rudder does not move.</p>",
+    "c": "<p>The rudder moves, the rudder pedals do not move.</p>",
+    "d": "<p>The rudder moves, the rudder pedals move in the corresponding direction.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

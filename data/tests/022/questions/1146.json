@@ -1,0 +1,14 @@
+{
+  "number": 1146,
+  "questionId": 103272,
+  "questionNumber": "226667",
+  "stemHtml": "<p>Complete the following statement: <br>The standard rate of turn is (1) _____, and the angle of bank is (2) _____ to the (3) _____.</p>",
+  "options": {
+    "a": "<p>(1) 3 degree per second; (2) proportional; (3) IAS  </p>",
+    "b": "<p>(1) 3 degree per second; (2) proportional; (3) TAS  </p>",
+    "c": "<p>(1) 360 degree per minute; (2) proportional; (3) TAS  </p>",
+    "d": "<p>(1) 360 degree per minute; (2) inversely proportional; (3) IAS </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

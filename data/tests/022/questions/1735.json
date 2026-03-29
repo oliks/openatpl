@@ -1,0 +1,14 @@
+{
+  "number": 1735,
+  "questionId": 69189,
+  "questionNumber": "226956",
+  "stemHtml": "<p>An ADI is an Attitude Indicator\u2026</p>",
+  "options": {
+    "a": "<p>that shows pitch, roll, and yaw angles.</p>",
+    "b": "<p>combined with a directional gyro.</p>",
+    "c": "<p>with a Flight Director Indicator.</p>",
+    "d": "<p>whose scale shows attitude commands.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

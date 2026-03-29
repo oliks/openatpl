@@ -1,0 +1,14 @@
+{
+  "number": 1246,
+  "questionId": 84485,
+  "questionNumber": "222501",
+  "stemHtml": "<p>A pilot is flying a GNSS non-precision approach using the autopilot. The pilot intends to disconnect the autopilot on final approach after having obtained sufficient visual references to complete a manual landing. When disconnecting the autopilot using the instinctive or quick disengagement control, the pilot should expect\u2026</p>",
+  "options": {
+    "a": "<p>A continuous aural and visual master warning sounding until the pilot presses the autopilot ON/OFF switch to confirm the disconnection was intended.</p>",
+    "b": "<p>A continuous aural and visual master warning highlighting to the pilot that he/she must put the hand on the control column/stick to control the aeroplane.</p>",
+    "c": "<p>At least a single cycle aural and visual master warning to signal that the autopilot is disconnected, and NO ONE is controlling the aeroplane.</p>",
+    "d": "<p>A unique autopilot disconnect aural warning and a visual warning for a limited period of time confirming that the autopilot is disconnected.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

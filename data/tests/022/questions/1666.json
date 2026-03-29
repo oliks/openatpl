@@ -1,0 +1,14 @@
+{
+  "number": 1666,
+  "questionId": 158553,
+  "questionNumber": "227064",
+  "stemHtml": "<p>Following a rain shower, ice ridges have formed on the fuselage of an aircraft which has been parked overnight in sub zero temperatures. Which statements are correct regarding the threat to the operation of the pitot-static system?</p><p>1. Ice ridges can disturb airflow and affect static port accuracy, even if the ridges are slightly upstream  <br /> 2. The effect of ice ridges depends on the relative direction of the airflow during flight  <br /> 3. Static ports are more affected than pitot tubes because they lie within the boundary layer  <br /> 4. Pitot tubes are not affected by ice ridges because they extend fully outside the boundary layer  <br /> 5. Ice ridges typically have no influence on pitot-static measurements unless they completely block the ports</p>",
+  "options": {
+    "a": "<p>1, 2, and 3</p>",
+    "b": "<p>1, 4, and 5</p>",
+    "c": "<p>2, 3, and 5</p>",
+    "d": "<p>3, 4, and 5</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

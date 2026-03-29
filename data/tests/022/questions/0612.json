@@ -1,0 +1,14 @@
+{
+  "number": 612,
+  "questionId": 77865,
+  "questionNumber": "221168",
+  "stemHtml": "Which of the following statements is true when comparing an LCD to a CRT display in the EFIS?",
+  "options": {
+    "a": "LCD has a lower voltage supply than CRT, so it uses less power.",
+    "b": "CRT displayed images can only be seen in a dark cockpit.",
+    "c": "Modern commercial aircraft are mostly equipped with CRT displays.",
+    "d": "LCD displays can provide less information because it is only refreshed once per second."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1819,
+  "questionId": 66501,
+  "questionNumber": "222562",
+  "stemHtml": "<p>Given deviation table of a direct reading compass:<br><br>To fly 000 030 060 090 120 150 180 210 240 270 300 330<br>Steer 359 030 061 092 121 150 178 209 242 272 298 331<br><br>The DRC indicates heading 242 variation is 22<strong>\u00b0</strong>E. What is true heading of aircraft ?</p>",
+  "options": {
+    "a": "258\u00b0",
+    "b": "218\u00b0",
+    "c": "262\u00b0",
+    "d": "212\u00b0"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

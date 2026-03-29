@@ -1,0 +1,14 @@
+{
+  "number": 437,
+  "questionId": 106557,
+  "questionNumber": "219813",
+  "stemHtml": "<p>Which of the following statements is correct about an electrical fuse?</p>",
+  "options": {
+    "a": "<p>Upon reaching its nominal amperage, the fuse instantly melts.</p>",
+    "b": "<p>The rating of a fuse is the amperage at which the fuse will instantly melt.</p>",
+    "c": "<p>The fuse must be as close as possible to the source to protect against short circuits.</p>",
+    "d": "<p>The fuse provides protection against voltage exceedances.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

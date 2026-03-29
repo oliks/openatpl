@@ -1,0 +1,24 @@
+{
+  "number": 87,
+  "questionId": 84737,
+  "questionNumber": "223178",
+  "stemHtml": "<p>Refer to figure.               <br />              Which statement is correct regarding the status of the autopilot and flight director?</p>",
+  "options": {
+    "a": "The autopilot is engaged and is conducting an autoland. The flight director is giving flight guidance as a backup.",
+    "b": "The flight director is engaged on the ILS, the autopilot is primed for engagement for the flare.",
+    "c": "<p>Number 1 autopilot is engaged on the ILS, Number 2 autopilot will initiate the land.</p>",
+    "d": "<p>The autopilot is engaged and is on the ILS. The flight director is not engaged.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 72055,
+      "uniqueKey": "f3d4a70e-763d-441b-8d4f-42ad85255da2",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=f3d4a70e-763d-441b-8d4f-42ad85255da2",
+      "publicUrl": "/attachments/022/f3d4a70e-763d-441b-8d4f-42ad85255da2.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/f3d4a70e-763d-441b-8d4f-42ad85255da2.jpg"
+    }
+  ]
+}

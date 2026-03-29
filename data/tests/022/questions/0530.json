@@ -1,0 +1,14 @@
+{
+  "number": 530,
+  "questionId": 82789,
+  "questionNumber": "223595",
+  "stemHtml": "<p>Given:</p>\r\r<p>Pt: total pressure <br /> \rPs: static pressure <br /> \rPd: dynamic pressure</p>\r\r<p>The altitude indicator measures.</p>",
+  "options": {
+    "a": "<p>Pt - Pd</p>",
+    "b": "<p>Ps - Pt</p>",
+    "c": "<p>Pt - Ps</p>",
+    "d": "<p>Pd - Ps</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

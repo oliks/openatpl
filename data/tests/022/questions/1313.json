@@ -1,0 +1,14 @@
+{
+  "number": 1313,
+  "questionId": 68520,
+  "questionNumber": "225561",
+  "stemHtml": "<p>A gyromagnetic compass consists of:</p><p>1 \u2013 a gyro with its axis perpendicular to the normal axis (the z-axis) of the aircraft <br>2 \u2013 a vertical axis gyro <br>3 \u2013 a magnetic North detector <br>4 \u2013 an erection mechanism to maintain the gyro axis horizontal <br>5 \u2013 a torque motor to make the gyro precess in azimuth</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "2, 3, 5.",
+    "b": "1, 3, 4, 5.",
+    "c": "2, 3.",
+    "d": "1, 4."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

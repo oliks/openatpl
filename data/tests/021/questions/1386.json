@@ -1,0 +1,14 @@
+{
+  "number": 1386,
+  "questionId": 96234,
+  "questionNumber": "219622",
+  "stemHtml": "Before flight, the Commander notices a document from the maintenance organisation, the CRS (Certificate of Release to Service), which states that \"all maintenance checks have been performed. Next check/valid until 5432 hours and 3254 landings.\" What does this mean?",
+  "options": {
+    "a": "<p>The maintenance organisation has guaranteed the aircraft will be airworthy until the next check.</p>",
+    "b": "<p>All maintenance checks (both hard-time and on-condition) have been completed and are valid until the limits in the CRS.</p>",
+    "c": "The CRS does not relate to airworthiness.",
+    "d": "<p>Only on-condition maintenance will be conducted at the next check.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

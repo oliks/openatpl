@@ -1,0 +1,14 @@
+{
+  "number": 842,
+  "questionId": 84773,
+  "questionNumber": "224669",
+  "stemHtml": "<p>The flight director indicates you should turn to the right. What happens to the FD as you roll right?</p>",
+  "options": {
+    "a": "<p>Within 10 degrees of capturing the localiser, the flight director will switch to a left roll indication to help you level the aircraft.</p>",
+    "b": "<p>It continues reading the exact same deviation until the localiser course is intercepted.</p>",
+    "c": "<p>The deviation indication adjusts in proportion to the deviation of the localiser path.</p>",
+    "d": "<p>It becomes centred if you exceed a 15 degree bank angle.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

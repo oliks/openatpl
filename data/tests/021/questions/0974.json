@@ -1,0 +1,14 @@
+{
+  "number": 974,
+  "questionId": 105111,
+  "questionNumber": "213277",
+  "stemHtml": "<p>Which of these statements about compressor stall in a gas turbine engine are correct or incorrect?</p><p>I. A compressor stall is most likely to occur in a compressor designed for a high pressure ratio operating at high RPM<br>II. Compressor stall occurs when there is an imbalance between the air supply and the air demand</p>",
+  "options": {
+    "a": "<p>I is correct, II is correct.</p>",
+    "b": "<p>I is incorrect, II is correct.</p>",
+    "c": "<p>I is incorrect, II is incorrect.</p>",
+    "d": "<p>I is correct, II is incorrect.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

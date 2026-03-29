@@ -1,0 +1,14 @@
+{
+  "number": 1430,
+  "questionId": 105922,
+  "questionNumber": "229937",
+  "stemHtml": "<p>What can an EFB be used for?</p>",
+  "options": {
+    "a": "<p>Providing attitude and heading data to the EFIS.</p>",
+    "b": "<p>Controlling the aircraft and its systems.</p>",
+    "c": "<p>Updating the FMS with GNSS position.</p>",
+    "d": "<p>Performing performance calculations.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

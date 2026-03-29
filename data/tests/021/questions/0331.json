@@ -1,0 +1,14 @@
+{
+  "number": 331,
+  "questionId": 84557,
+  "questionNumber": "212733",
+  "stemHtml": "Reading the technical log of an aircraft before flight, you notice that the previous maintenance organisation inspected the landing gear for corrosion, and made no further action as no corrosion was found. What type of maintenance is this?",
+  "options": {
+    "a": "Hard-time maintenance, where an item is completely removed and disassembled to allow for a thorough inspection of the item.",
+    "b": "<p>On-condition maintenance, where an aircraft item such as the landing gear is removed from service at or before reaching a specified time or amount of cycles.</p>",
+    "c": "<p>Hard-time maintenance, overhauling an aircraft component within the time limits of the maintenance programme as determined by the manufacturer.</p>",
+    "d": "On-condition maintenance, where the determination of continued airworthiness can be made without overhaul or tear-down inspection."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

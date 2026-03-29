@@ -1,0 +1,14 @@
+{
+  "number": 48,
+  "questionId": 96233,
+  "questionNumber": "215153",
+  "stemHtml": "<p>When two pilots simultaneously move their sidesticks in a Fly-By-Wire controlled aircraft, which of the following happens?</p>",
+  "options": {
+    "a": "The left input has priority.",
+    "b": "Nothing will happen.",
+    "c": "The stronger input has priority.",
+    "d": "Both inputs are added together."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

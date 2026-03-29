@@ -1,0 +1,14 @@
+{
+  "number": 1135,
+  "questionId": 95826,
+  "questionNumber": "106806",
+  "stemHtml": "<p>A DA-42 is leading the approach sequence. The pilot requests to hold due to low RVR, while other aircraft plan to continue the approach to land. What clearance is likely to be given to the DA-42 pilot?</p>",
+  "options": {
+    "a": "<p>To be requested by ATC to re-route to the destination alternate aerodrome.</p>",
+    "b": "<p>To continue to hold at the same fix, other traffic will be rerouted around the DA-42.</p>",
+    "c": "<p>To be requested by ATC to continue the approach, and at the decision, height decides to continue or execute a missed approach.</p>",
+    "d": "<p>To be placed at the top of the approach sequence so that other aircraft may be permitted to land.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

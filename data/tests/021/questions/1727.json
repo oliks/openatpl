@@ -1,0 +1,14 @@
+{
+  "number": 1727,
+  "questionId": 67865,
+  "questionNumber": "217823",
+  "stemHtml": "<p>What are the possible causes of a hot start, and what are the indications of one? A hot start can be caused by...</p>",
+  "options": {
+    "a": "an early starter cut-out, fuel mis-scheduling, or strong tailwinds. The engine may spend a considerable time at very low RPM (sub-idle) but should continue to accelerate, the turbine temperatures may appear high or exceed the limitations.",
+    "b": "a late starter cut-out, insufficient fuel supply, or strong headwinds. The engine will accelerate to flight idle RPM and the turbine temperatures may appear low.",
+    "c": "an early starter cut-out, fuel mis-scheduling, or strong tailwinds. The engine may spend a considerable time at very low RPM (sub-idle) and stops accelerating, the turbine temperatures may appear high or exceed the limitations.",
+    "d": "high outside air temperature, fuel mis-scheduling, or high starter motor RPM. The engine may spend a considerable time at very high RPM but stops accelerating, the turbine temperatures may appear high or exceed the limitations."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

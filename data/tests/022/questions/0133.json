@@ -1,0 +1,14 @@
+{
+  "number": 133,
+  "questionId": 100113,
+  "questionNumber": "224217",
+  "stemHtml": "<p>The pilot notices that the aircraft type stored in the database for aircraft performance is incorrect while performing the FMS performance initialization procedure. Before flying, this issue must be resolved because it could lead to inaccurate FMS outputs related to\u2026</p>",
+  "options": {
+    "a": "fuel management, optimum altitudes, and vertical flight profile.",
+    "b": "waypoints, airways, and lateral flight profile.",
+    "c": "wind direction and speed, OAT, and freezing level.",
+    "d": "automatic tuning of navigational aids and position updates."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

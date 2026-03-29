@@ -1,0 +1,14 @@
+{
+  "number": 352,
+  "questionId": 121609,
+  "questionNumber": "227680",
+  "stemHtml": "<p>What method does a radio altimeter use to calculate height ?</p>",
+  "options": {
+    "a": "<p>by calculating the time it takes for a continuously transmitted VHF signal to travel to the surface below and return</p>",
+    "b": "<p>by referencing VHF communication signals from ground stations</p>",
+    "c": "<p>by setting QFE instead of QNH as the standard pressure reference</p>",
+    "d": "<p>by measuring the frequency difference between a continuously transmitted radio wave and the reflected signal from the surface below</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

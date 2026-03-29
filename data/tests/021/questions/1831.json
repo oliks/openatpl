@@ -1,0 +1,14 @@
+{
+  "number": 1831,
+  "questionId": 159427,
+  "questionNumber": "213512",
+  "stemHtml": "<p>Under normal pneumatic system operating conditions, what function is performed by the APU BLEED switch?</p>",
+  "options": {
+    "a": "<p>It supplies bleed air from the APU to the pneumatic system when selected ON. <br />  </p>",
+    "b": "<p>It automatically transfers bleed air control to the engine when thrust increases. <br />  </p>",
+    "c": "<p>It isolates the APU from the pneumatic manifold regardless of switch position. <br />  </p>",
+    "d": "<p>It controls the APU fuel flow during high bleed-air demand.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

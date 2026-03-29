@@ -1,0 +1,14 @@
+{
+  "number": 1505,
+  "questionId": 81753,
+  "questionNumber": "227915",
+  "stemHtml": "<p>Pressure altimeters are calibrated to ISA conditions. The use of an altimeter correction table is required for error caused by temperature deviations because when the temperature is\u2026</p>",
+  "options": {
+    "a": "<p>LOWER than ISA, the aircraft will be LOWER than the altimeter reading.</p>",
+    "b": "<p>LOWER than ISA, the aircraft will be HIGHER than the altimeter reading.</p>",
+    "c": "<p>HIGHER than ISA and the QNH IS HIGHER than 1013.25 hPa, the aircraft will be LOWER than the altimeter reading.</p>",
+    "d": "<p>HIGHER than ISA and the QNH is LOWER than 1013.25 hPa, the aircraft will be LOWER than the altimeter reading.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

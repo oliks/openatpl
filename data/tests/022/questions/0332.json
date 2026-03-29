@@ -1,0 +1,14 @@
+{
+  "number": 332,
+  "questionId": 96345,
+  "questionNumber": "221798",
+  "stemHtml": "User-defined waypoints can be inserted using different formats. What formats can be used in the B737-400 FMS?",
+  "options": {
+    "a": "Place Bearing/Distance, Place Distance/Place Distance, Along-Track Displacement, Latitude and Longitude",
+    "b": "Place Bearing/Distance, Place Bearing/Place Bearing, Across-Track Displacement, Latitude and Longitude",
+    "c": "Place Bearing/Distance, Place Bearing/Place Bearing, Along-Track Displacement, Latitude and Longitude",
+    "d": "Place, Place Bearing/Distance, Along-Track Displacement, Latitude and Longitude"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

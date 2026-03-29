@@ -1,0 +1,14 @@
+{
+  "number": 1071,
+  "questionId": 84421,
+  "questionNumber": "223467",
+  "stemHtml": "<p>During the pre-flight checks, you notice that the performance database is for the wrong aircraft type. What should you do?</p>",
+  "options": {
+    "a": "<p>Fly the aircraft.</p>",
+    "b": "Fly the flight but report it to maintenance on completion for rectification.",
+    "c": "Report to maintenance as this is a maintenance task to fix this fault.",
+    "d": "Update the database manually."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

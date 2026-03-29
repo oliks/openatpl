@@ -1,0 +1,14 @@
+{
+  "number": 650,
+  "questionId": 68704,
+  "questionNumber": "225512",
+  "stemHtml": "<p>The alignment of a strapdown inertial system consists in\u2026</p>",
+  "options": {
+    "a": "<p>positioning the platform relative to the local vertical and true north.</p>",
+    "b": "<p>positioning the accelerometers.</p>",
+    "c": "<p>positioning the gyroscopes and accelerometers relative to the fuselage axis.</p>",
+    "d": "<p>measuring the earth rotation and local gravitation to position the reference co-ordinate system.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

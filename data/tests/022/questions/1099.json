@@ -1,0 +1,14 @@
+{
+  "number": 1099,
+  "questionId": 82678,
+  "questionNumber": "229363",
+  "stemHtml": "<p>The captain's ASI reads slightly different from the co-pilot\u2019s ASI. What additional action can the pilots perform?</p>",
+  "options": {
+    "a": "The groundspeed can be verified from the INS/GNSS.",
+    "b": "There is nothing the flight crew can do as the difference is within limits.",
+    "c": "They can change the ADC readout.",
+    "d": "They should divert as soon as possible."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

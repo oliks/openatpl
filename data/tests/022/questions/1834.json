@@ -1,0 +1,14 @@
+{
+  "number": 1834,
+  "questionId": 68814,
+  "questionNumber": "225581",
+  "stemHtml": "<p>When sent, a MAYDAY datalink message to the ATC has the following effect on ADS\u2026</p>",
+  "options": {
+    "a": "the ADS contract is switched to high periodic reporting rate.",
+    "b": "no change to the current contract in process.",
+    "c": "the ADS current contract reporting rate is unchanged but includes more data.",
+    "d": "the ADS current contract is stopped."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

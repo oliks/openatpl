@@ -1,0 +1,14 @@
+{
+  "number": 1708,
+  "questionId": 159423,
+  "questionNumber": "218593",
+  "stemHtml": "<p>On a commercial transport aircraft, how is the delivery of oxygen to the passenger masks controlled once the passenger oxygen system has been activated?</p>",
+  "options": {
+    "a": "<p>Once activated, the chemical oxygen generator provides oxygen for a limited time and cannot be stopped or restarted. <br />  </p>",
+    "b": "<p>The crew can reduce, stop, or restart the oxygen flow to each passenger from the cockpit. <br />  </p>",
+    "c": "<p>The oxygen flow is controlled automatically by the cabin pressurisation controller. <br />  </p>",
+    "d": "<p>The oxygen generators supply oxygen continuously until the cabin altitude decreases below 10 000 ft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

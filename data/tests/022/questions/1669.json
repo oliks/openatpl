@@ -1,0 +1,14 @@
+{
+  "number": 1669,
+  "questionId": 81413,
+  "questionNumber": "229341",
+  "stemHtml": "<p dir=\"ltr\">What is the purpose of the autothrust system?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">To maintain a specific engine thrust for the relevant flight regime.</p>",
+    "b": "<p dir=\"ltr\">Only to set take-off thrust when the TOGA button is pressed.</p>",
+    "c": "<p dir=\"ltr\">To control fuel flow to produce the thrust set by the pilot.</p>",
+    "d": "<p dir=\"ltr\">To keep the engine thrust within operating limits.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

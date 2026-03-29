@@ -1,0 +1,14 @@
+{
+  "number": 852,
+  "questionId": 82065,
+  "questionNumber": "229487",
+  "stemHtml": "<p>What input(s) does the ADC use to obtain CAS?</p>",
+  "options": {
+    "a": "<p>TAS</p>",
+    "b": "<p>Static pressure</p>",
+    "c": "<p>Pitot and static pressure</p>",
+    "d": "<p>Pitot pressure</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

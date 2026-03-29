@@ -1,0 +1,14 @@
+{
+  "number": 1744,
+  "questionId": 69117,
+  "questionNumber": "222373",
+  "stemHtml": "<p>The PFD of an EFIS equipped aircraft displays the following parameters\u2026</p>",
+  "options": {
+    "a": "<p>attitude, heading, IAS, navigation map in plan layout mode.</p>",
+    "b": "IAS, attitude, altitude, heading.",
+    "c": "altitude, attitude, heading, engine parameters.",
+    "d": "attitude, heading, altitude, systems information."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

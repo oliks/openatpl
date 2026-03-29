@@ -1,0 +1,14 @@
+{
+  "number": 144,
+  "questionId": 82766,
+  "questionNumber": "226096",
+  "stemHtml": "An inertial navigation system includes in its composition three linear accelerometers, in order to measure the\u2026",
+  "options": {
+    "a": "<p>true airspeed (TAS) on the x, y and z axes.</p>",
+    "b": "<p>indicated Airspeed (IAS) on the x, y and z axes.</p>",
+    "c": "acceleration along the aircraft's pitch, roll and yaw axes.",
+    "d": "acceleration along the North-South, East-West and vertical axes."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

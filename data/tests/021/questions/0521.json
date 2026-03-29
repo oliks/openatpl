@@ -1,0 +1,14 @@
+{
+  "number": 521,
+  "questionId": 159460,
+  "questionNumber": "212542",
+  "stemHtml": "<p>Both piston engines and gas turbine engines operate on a cycle consisting of intake, compression, combustion, and exhaust. Which of the following statements correctly describe the operation of a gas turbine engine?</p><p>1. All the steps of the cycle happen at the same time in different parts of the engine  <br />  2. Theoretically the combustion occurs at constant pressure</p>",
+  "options": {
+    "a": "<p>Both 1 and 2 are incorrect.</p>",
+    "b": "<p>1 is incorrect; 2 is correct.\u00a0<br>\u00a0</p>",
+    "c": "<p>1 is correct; 2 is incorrect.</p>",
+    "d": "<p>Both 1 and 2 are correct.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

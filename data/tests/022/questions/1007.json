@@ -1,0 +1,14 @@
+{
+  "number": 1007,
+  "questionId": 84800,
+  "questionNumber": "229582",
+  "stemHtml": "The ADC fails. What happens to the A/P?",
+  "options": {
+    "a": "The A/P is affected and gets less accurate and thus more unreliable.",
+    "b": "The A/P can be affected but it is still reliable and accurate enough.",
+    "c": "The A/P is not affected as it doesn\u2019t receive any ADC information.",
+    "d": "The ADC supplies data only to the IRS and the FMS."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 412,
+  "questionId": 82029,
+  "questionNumber": "221071",
+  "stemHtml": "Is there, by convention, a difference between an INS and an IRS?",
+  "options": {
+    "a": "Yes, the INS requires electrical power for its operation, while the IRS is completely independent of the electrical power.",
+    "b": "Yes, the IRS is an older system based on a stabilised platform and mechanical gyros, while the INS is a more modern, fixed system based on ring laser gyros or fibre optic gyros.",
+    "c": "Yes, the INS is an older system based on a stabilised platform and mechanical gyros, while the IRS is a more modern, fixed system based on ring laser gyros or fibre optic gyros.",
+    "d": "There is NO actual difference between an INS and an IRS, they are just different abbreviations used by different system manufacturers."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 322,
+  "questionId": 69275,
+  "questionNumber": "225456",
+  "stemHtml": "<p>Can an autopilot and flight director be active at the same time\u2026</p>",
+  "options": {
+    "a": "<p>Yes providing it is programmed with a VNAV or LNAV settings</p>",
+    "b": "<p>No the flight director uses the autopilot for guidance</p>",
+    "c": "Yes if nothing is programmed with VNAV or LNAV settings",
+    "d": "Yes provided the autopilot was used at some point"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

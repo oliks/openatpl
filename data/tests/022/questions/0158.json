@@ -1,0 +1,14 @@
+{
+  "number": 158,
+  "questionId": 81755,
+  "questionNumber": "223538",
+  "stemHtml": "You are in the cruise, and approaching a FIR in which CPDLC is available but NOT compulsory. What factors influence whether to use the data link or rely on voice communications?",
+  "options": {
+    "a": "Voice communications are more reliable and easier for the controller.",
+    "b": "Pilot errors and workload are reduced, and ATC workload is reduced, by using datalink communications.",
+    "c": "Short-cuts and direct routings are easier for both pilots and controllers using voice communications.",
+    "d": "In remote areas, with datalink there is a greater risk of being out of range of the current controller WITHOUT being handed over to the next controller."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

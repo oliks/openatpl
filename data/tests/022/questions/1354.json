@@ -1,0 +1,14 @@
+{
+  "number": 1354,
+  "questionId": 106711,
+  "questionNumber": "227118",
+  "stemHtml": "<p>While on the ground parked on stand, the IRS (Inertial Reference System) alignment is in progress. The ground crew calls to ask if they can start pushback. What should you respond?</p>",
+  "options": {
+    "a": "<p>Tell them to start pushback, but note that the IRS alignment will need to be redone after pushback.</p>",
+    "b": "<p>Tell them to wait because the aircraft must be stationary for alignment to complete correctly.</p>",
+    "c": "<p>Tell them to start pushback because the aircraft\u2019s position can be entered manually into the IRS, so it doesn\u2019t matter.</p>",
+    "d": "<p>Tell them to wait until the IRS has aligned but complete the process in the ATT mode selection.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

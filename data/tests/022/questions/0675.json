@@ -1,0 +1,14 @@
+{
+  "number": 675,
+  "questionId": 81276,
+  "questionNumber": "223376",
+  "stemHtml": "<p>A GPWS is able to alert the crew of excessive sink rate (Rate of Descent) while below a certain height above terrain. Where does the GPWS derive the sink rate from?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">The Air data computer rate of descent.</p>",
+    "b": "<p dir=\"ltr\">The rate of change of GPS altitude.</p>",
+    "c": "<p dir=\"ltr\">The rate of change of radar altitude.</p>",
+    "d": "The IRS vertical speed."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

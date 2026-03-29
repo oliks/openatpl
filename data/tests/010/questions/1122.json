@@ -1,0 +1,14 @@
+{
+  "number": 1122,
+  "questionId": 110760,
+  "questionNumber": "104637",
+  "stemHtml": "<p>How would a pilot cancel an IFR flight and continue under VFR?</p>\r\r<p>1. By stating \u201ccancelling my IFR flight\u201d. <br /> \r2. ATC may request to cancel IFR if aware of uninterrupted VMC.</p>",
+  "options": {
+    "a": "<p>Both are correct.</p>",
+    "b": "<p>1 is correct; 2 is incorrect</p>",
+    "c": "<p>1 is incorrect; 2 is correct</p>",
+    "d": "<p>It is not possible to change flight rules during a flight.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

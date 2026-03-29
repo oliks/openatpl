@@ -1,0 +1,14 @@
+{
+  "number": 132,
+  "questionId": 163308,
+  "questionNumber": "214564",
+  "stemHtml": "<p>Which of these correctly describes the operating principle of an ionisation smoke detector?</p>",
+  "options": {
+    "a": "<p>Electric charge is only able to flow to the detector when smoke particles are present, which then triggers an alarm.</p>",
+    "b": "<p>A change in current (amperes) is detected when smoke is present, triggering an alarm.</p>",
+    "c": "<p>Ions are scattered by the smoke, and are detected by the detector, causing an alarm.</p>",
+    "d": "<p>The ionisation process of the radioactive material is increased when smoke is present, and this is sensed by a photoelectric detector to trigger an alarm.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

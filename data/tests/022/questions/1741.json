@@ -1,0 +1,14 @@
+{
+  "number": 1741,
+  "questionId": 82652,
+  "questionNumber": "229499",
+  "stemHtml": "<p>An aeroplane is making a high-speed descent at a constant Mach Number. The airspeed is approaching the maximum allowed speed for the given atmospheric conditions. Is the maximum allowed speed likely to be exceeded, if the pilots keep their descent at a constant Mach Number?</p>",
+  "options": {
+    "a": "No, because the TAS will decrease as they descend.",
+    "b": "Yes, because the TAS will increase as they descend.",
+    "c": "Yes, and there is a risk of reaching supersonic speeds.",
+    "d": "No, because the TAS will remain constant as they descend."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

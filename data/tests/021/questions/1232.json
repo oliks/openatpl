@@ -1,0 +1,14 @@
+{
+  "number": 1232,
+  "questionId": 141008,
+  "questionNumber": "212499",
+  "stemHtml": "<p>In a Fly-By-Wire (FBW) system, how is redundancy typically achieved?</p>",
+  "options": {
+    "a": "<p>By using computers with different hardware designs and independently developed software.</p>",
+    "b": "<p>By using similar computer design with different software.</p>",
+    "c": "<p>By using similar computer design with similar software.</p>",
+    "d": "<p>By using similar computer design and mechanical backup.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

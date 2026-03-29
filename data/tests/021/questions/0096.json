@@ -1,0 +1,14 @@
+{
+  "number": 96,
+  "questionId": 67652,
+  "questionNumber": "213370",
+  "stemHtml": "<p>An aeroplane with a pressurised cabin is flying at FL310. Following a malfunction of the pressure controller, the outflow valve runs to the open position.What will be the resulting cabin rate of climb indication, cabin pressure altitude, and differential pressure?</p>",
+  "options": {
+    "a": "<p>Both cabin rate of climb indication and cabin pressure altitude increase, and differential pressure increases.</p>",
+    "b": "<p>Both cabin rate of climb indication and cabin pressure altitude decrease, and differential pressure increases.</p>",
+    "c": "<p>Cabin rate of climb indication decreases, cabin pressure altitude increases, and differential pressure decreases.</p>",
+    "d": "<p>Both cabin rate of climb indication and cabin pressure altitude increase, and differential pressure decreases.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

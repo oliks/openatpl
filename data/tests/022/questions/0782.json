@@ -1,0 +1,14 @@
+{
+  "number": 782,
+  "questionId": 84489,
+  "questionNumber": "227587",
+  "stemHtml": "<p>What is correct regarding an Enhanced Visual System (EVS)?</p>",
+  "options": {
+    "a": "It combines the static data from a database with the actual data from external sensors to create a visual 3-dimensional (3D) representation of the surroundings of the aircraft.",
+    "b": "It collects and stores real-time data from external sensors to create a synthetic vision representation of the surroundings of the aircraft.",
+    "c": "It generates real-time imagery of the surroundings of the aircraft and it is able to digitally detect objects like obstacles to warn the crew.",
+    "d": "It generates real-time imagery, to display on the PFD or HUD, of the surroundings of the aircraft based on external sensors."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

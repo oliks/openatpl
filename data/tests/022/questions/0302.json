@@ -1,0 +1,14 @@
+{
+  "number": 302,
+  "questionId": 68546,
+  "questionNumber": "224216",
+  "stemHtml": "<p>The alignment phase of an IRS consists of:</p>\r\r<p>1 \u2013 searching for the local vertical <br /> \r2 \u2013 searching for the true North <br /> \r3 \u2013 searching for the latitude <br /> \r4 \u2013 searching for the longitude <br /> \r5 \u2013 comparison between the computed longitude and the one entered by the pilot <br /> \r6 \u2013 comparison between the computed latitude and the one entered by the pilot</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "<p>1, 2, 3, 4, 5, 6.</p>",
+    "b": "<p>1, 2, 3, 6.</p>",
+    "c": "<p>1, 2, 4, 5.</p>",
+    "d": "<p>3, 4.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1576,
+  "questionId": 85015,
+  "questionNumber": "212543",
+  "stemHtml": "A twin engine turbofan aircraft uses dual channel FADEC. Which of the following statements correctly describes the operation of each channel?",
+  "options": {
+    "a": "Each channel processes different data; one channel for inputs and the other for outputs.",
+    "b": "One channel serves the ECU and the other serves the hydro-mechanical control unit.",
+    "c": "Each channel controls the engine on that side, and data is sent to the other channel.",
+    "d": "<p>One channel is in command, and the other channel can take control of the engine if deemed necessary.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

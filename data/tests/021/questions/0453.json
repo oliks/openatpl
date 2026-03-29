@@ -1,0 +1,14 @@
+{
+  "number": 453,
+  "questionId": 68307,
+  "questionNumber": "217943",
+  "stemHtml": "<p>The resistors R1 and R2 are connected in parallel. The value of the equivalent resistance (Req) so obtained is given by the following formula.</p>",
+  "options": {
+    "a": "1/Req = 1/R1 + 1/R2",
+    "b": "1/Req = 1/(R1 + R2)",
+    "c": "Req = R1 x R2",
+    "d": "Req = R1 + R2"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

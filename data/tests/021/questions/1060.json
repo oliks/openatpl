@@ -1,0 +1,14 @@
+{
+  "number": 1060,
+  "questionId": 78313,
+  "questionNumber": "216507",
+  "stemHtml": "What is correct regarding the Airbus fly-by-wire philosophy?",
+  "options": {
+    "a": "<p>The level of safety required for commercial operations is easily achieved when FBW relies on a single computer controlling all the control surfaces</p>",
+    "b": "In Mechanical Law, the aircraft can be controlled manually using the pitch trim and the rudders, however a landing was never demonstrated using this mode",
+    "c": "The Airbus system has a normal operating mode and five reversionary modes, described by Airbus as \"laws\"",
+    "d": "<p>In Alternate Law the system will still provide the basic control laws but angle of attack protection and other protections may be lost</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

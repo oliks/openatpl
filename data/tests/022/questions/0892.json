@@ -1,0 +1,14 @@
+{
+  "number": 892,
+  "questionId": 81487,
+  "questionNumber": "229501",
+  "stemHtml": "<p>The crew is flying a heading assigned by ATC, 20 NM to the left and parallel to the planned route, for weather avoidance. Just after you pass the weather, ATC clears you to continue on your flight planned route. You select the lateral navigation mode and the Pilot Monitoring (PM) reads the Flight Mode Annunciator (FMA), the lateral navigation mode is armed. What will the aircraft do when it arrives abeam the right turn at the next waypoint on the Flight Management Computer (FMC) flight plan?</p>",
+  "options": {
+    "a": "<p>It will continue on the current heading, unless a heading intercepting the flight plan has been set by the pilot.</p>",
+    "b": "<p>It will continue to parallel the planned route by offset by 20 NM to the left, so the aircraft will execute a right turn.</p>",
+    "c": "<p>It will turn right towards the next waypoint.</p>",
+    "d": "<p>It will enter an ICAO standard holding pattern.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

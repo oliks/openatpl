@@ -1,0 +1,14 @@
+{
+  "number": 343,
+  "questionId": 102712,
+  "questionNumber": "108311",
+  "stemHtml": "<p>A voice ATIS is...</p>",
+  "options": {
+    "a": "<p>in English only, for departure and arrival traffic, lasting one minute.</p>",
+    "b": "<p>for arrival traffic only, on the ILS localiser frequency.</p>",
+    "c": "<p>for arrival and departure traffic, preferably on a discreet VHF frequency.</p>",
+    "d": "<p>for arrival traffic only, preferably on the VOR frequency.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

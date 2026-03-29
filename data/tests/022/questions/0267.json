@@ -1,0 +1,14 @@
+{
+  "number": 267,
+  "questionId": 84465,
+  "questionNumber": "227051",
+  "stemHtml": "<p>What is the purpose of the Flight Director (FD)?</p>",
+  "options": {
+    "a": "<p>It repeats the flight control orders of the opposite crew member.</p>",
+    "b": "<p>It gives a visual indication of the Flight Mode Annunciator (FMA).</p>",
+    "c": "<p>It helps the crew with attitude control and guidance tasks.</p>",
+    "d": "<p>It enables the crew to cross-check autopilot orders.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

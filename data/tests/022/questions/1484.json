@@ -1,0 +1,14 @@
+{
+  "number": 1484,
+  "questionId": 79641,
+  "questionNumber": "229948",
+  "stemHtml": "<p>An ILS signal failure occurs below the alert height. Provided that visual references have been established, how should the pilot react?</p>",
+  "options": {
+    "a": "<p>Cancel the warning and continue the approach.</p>",
+    "b": "<p>Cancel the warning and go around.</p>",
+    "c": "<p>Nothing will happen since all warnings including loss of ILS signal are inhibited below the alert height.</p>",
+    "d": "<p>Only go around if ATC tells you.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1046,
+  "questionId": 104580,
+  "questionNumber": "228008",
+  "stemHtml": "<p>A pilot in an aircraft on the ground is paying attention to their DRMC when they make a turn in a left direction and see a decrease in the value of the DRMC, which (1) _____. Then when the aircraft is aligned with runway 270 his DRMC reads 290, indicating that the (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) is normal; (2) the DRMC is serviceable.</p>",
+    "b": "<p>(1) is normal; (2) the DRMC is unserviceable.</p>",
+    "c": "<p>(1) is abnormal; (2) the DRMC is serviceable.</p>",
+    "d": "<p>(1) is very abnormal; (2) the DRMC is unserviceable.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

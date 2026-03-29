@@ -1,0 +1,14 @@
+{
+  "number": 978,
+  "questionId": 68336,
+  "questionNumber": "217756",
+  "stemHtml": "<p>The pilot`s control input in a Fly-By-Wire system is\u2026</p>",
+  "options": {
+    "a": "linked by mechanical cables directly to the flight control surface.",
+    "b": "<p>converted into an electrical signal and linked via the Electronic Control Unit (ECU) to the flight control surface.</p>",
+    "c": "linked mechanically to a computer and then to the flight control surface.",
+    "d": "<p>converted into an electrical signal and linked to the Electronic Engine Control (EEC) to the flight control surface.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

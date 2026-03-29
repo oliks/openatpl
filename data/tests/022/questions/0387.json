@@ -1,0 +1,14 @@
+{
+  "number": 387,
+  "questionId": 82248,
+  "questionNumber": "223658",
+  "stemHtml": "<p>Which statement is correct regarding following the failure of a FMC/FMGC in a dual system?</p>",
+  "options": {
+    "a": "<p>Data must be recovered using the quick recovery procedure for the failed FMC/FMGC in the QRH.</p>",
+    "b": "<p>The data from the failed unit is replaced by the data from the operative FMC/FMGC.</p>",
+    "c": "The airline MOC will give you instructions via ACARS.",
+    "d": "<p>The associated CDU/MCDU is not usable anymore for the remainder of the flight.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

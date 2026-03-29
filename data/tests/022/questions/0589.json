@@ -1,0 +1,14 @@
+{
+  "number": 589,
+  "questionId": 82767,
+  "questionNumber": "226736",
+  "stemHtml": "After the pilot has set up the FMS and inserted an initial fuel quantity, the aircraft is still being refuelled. After refuelling, there's a big difference between the actual fuel and the fuel quantity inserted into the FMS. Which option is correct?",
+  "options": {
+    "a": "A significant difference between the measured and inserted values will trigger an error caption.",
+    "b": "The calculations for the flight will be wrong and can only be corrected by re-initialising the FMS.",
+    "c": "Since the fuel quantity is critical data, the FMS computer will freeze and stop to calculate VNAV and LNAV data and must be reset.",
+    "d": "There is NO problem as the inserted quantity will be automatically updated to the actual value."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 789,
+  "questionId": 108973,
+  "questionNumber": "228180",
+  "stemHtml": "<p>Which combination of the following transponder types must an aircraft be equipped with to be detected by TCAS II?</p>\r\r<p>1. Mode A  <br />  \r2. Mode A/C  <br />  \r3. Mode C  <br />  \r4. Mode S  <br />  \r5. ADS - C</p>",
+  "options": {
+    "a": "<p>2, 3 and 4</p>",
+    "b": "<p>4 and 5</p>",
+    "c": "<p>1, 2 and 3</p>",
+    "d": "<p>4</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

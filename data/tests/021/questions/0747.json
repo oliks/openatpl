@@ -1,0 +1,14 @@
+{
+  "number": 747,
+  "questionId": 105450,
+  "questionNumber": "212574",
+  "stemHtml": "<p>Given a turbofan engine with a bypass air mass flow of 400 kg/s and a high pressure (HP) compressor air mass flow of 50 kg/s, what is the bypass ratio?</p>",
+  "options": {
+    "a": "<p>10:1</p>",
+    "b": "<p>8:1</p>",
+    "c": "<p>7:1</p>",
+    "d": "<p>4:1</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

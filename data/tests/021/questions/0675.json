@@ -1,0 +1,14 @@
+{
+  "number": 675,
+  "questionId": 95965,
+  "questionNumber": "216236",
+  "stemHtml": "<p>An aircraft taking off from a short runway accelerates to 95 kt with the autobrakes set to RTO mode, and the activation criteria fulfilled. If the pilot then rejects the takeoff, the autobrakes will...</p>",
+  "options": {
+    "a": "<p>apply maximum braking with anti-skid enabled.</p>",
+    "b": "<p>attempt to maintain a constant rate of deceleration.</p>",
+    "c": "<p>disengage, and the pilot will have to apply maximum manual braking.</p>",
+    "d": "<p>always apply maximum available brake pressure.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

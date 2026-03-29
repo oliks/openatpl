@@ -1,0 +1,14 @@
+{
+  "number": 1778,
+  "questionId": 68190,
+  "questionNumber": "216775",
+  "stemHtml": "<p>The electronic engine control of a FADEC gas turbine engine checks\u2026</p>",
+  "options": {
+    "a": "<p>Output data only.</p>",
+    "b": "<p>All input and output data.</p>",
+    "c": "ACTIVE CHANNEL input and output data only.",
+    "d": "<p>Input data only.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

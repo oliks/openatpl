@@ -1,0 +1,14 @@
+{
+  "number": 1368,
+  "questionId": 80205,
+  "questionNumber": "225233",
+  "stemHtml": "<p>When the FMS is operating in \"Dual Mode\", what systems will be supplied with data?</p>",
+  "options": {
+    "a": "<p>Autopilot, Flight Director and autothrottle/thrust.</p>",
+    "b": "First officer's instruments.",
+    "c": "Captain's instruments.",
+    "d": "Navigation display."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1553,
+  "questionId": 74460,
+  "questionNumber": "225627",
+  "stemHtml": "Which statement is true about the navigational database of a FMS?",
+  "options": {
+    "a": "Crew created navigational data may be saved in additional space in the database.",
+    "b": "Crew-inserted navigational data is deleted automatically after each flight.",
+    "c": "The navigational database is write-protected and it is not possible to otherwise save crew created navigational data.",
+    "d": "The crew can overwrite existing database-data in the navigational database."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

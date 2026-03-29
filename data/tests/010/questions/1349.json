@@ -1,0 +1,14 @@
+{
+  "number": 1349,
+  "questionId": 85357,
+  "questionNumber": "107598",
+  "stemHtml": "<p>Before take-off a pilot receives the following departure clearance:</p><p>\"CLIMB VIA ZOR 6V DEPARTURE TO FL100\".</p><p>This means that the pilot...</p>",
+  "options": {
+    "a": "<p>may climb to FL100, must to comply with published level restriction, can deviate from the lateral profile of the SID, and must comply with published speed restrictions or ATC issued speed control instructions.</p>",
+    "b": "<p>are cleared to climb to FL100, may comply with published level restriction, follow the lateral profile of the SID, and may follow published speed restrictions or ATC issued speed control instructions.</p>",
+    "c": "<p>has to climb to FL100, may deviate from published level restriction, must follow the lateral profile of the SID, and comply with published speed restrictions or ATC issued speed control instructions.</p>",
+    "d": "<p>has to climb to FL100, comply with published level restriction, follow the lateral profile of the SID, and comply with published speed restrictions or ATC issued speed control instructions.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

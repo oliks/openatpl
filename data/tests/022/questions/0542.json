@@ -1,0 +1,14 @@
+{
+  "number": 542,
+  "questionId": 84483,
+  "questionNumber": "222410",
+  "stemHtml": "<p>The Flight Management Computer (FMC) contains two primary databases: the navigation database and the performance database. What is the purpose of the navigation database?</p>",
+  "options": {
+    "a": "<p>It contains data used to calculate predictions for fuel used and estimated remaining fuel throughout a flight.</p>",
+    "b": "<p>It provides navigational guidance and enable the aircraft to follow established flight procedures.</p>",
+    "c": "<p>It integrates FMS positions with navigation data to provide navigational guidance during flight.</p>",
+    "d": "<p>It stores route and instrument flight procedure information in the appropriate data format.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

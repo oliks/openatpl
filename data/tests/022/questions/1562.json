@@ -1,0 +1,14 @@
+{
+  "number": 1562,
+  "questionId": 107119,
+  "questionNumber": "228718",
+  "stemHtml": "<p>During take-off a cowling detaches from one of the aircraft engines. This causes damage to some of the engine control circuits, leading to an engine shutdown. The aircraft has an electronic checklist system which takes the pilots through the appropriate actions to deal with engine failure. The last item on the list directs the pilots to attempt an engine relight procedure. Is this appropriate for this particular situation? </p>",
+  "options": {
+    "a": "<p>Yes, because the checklist system uses the N1 and N2 indications to assess if a relight is possible, and gives appropriate directions. </p>",
+    "b": "<p>Yes, because the checklist system assesses multiple parameters and presents appropriate actions to the pilots at all times. </p>",
+    "c": "<p>No, because the engine is damaged but the checklist system is NOT able to analyse the extent of this damage. </p>",
+    "d": "<p>No, this is an indication that the checklist system has failed, presenting the pilots with incorrect information and it must NOT be used further. </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

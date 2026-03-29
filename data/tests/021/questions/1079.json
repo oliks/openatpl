@@ -1,0 +1,14 @@
+{
+  "number": 1079,
+  "questionId": 78306,
+  "questionNumber": "218171",
+  "stemHtml": "<p>When does the pressurization start during the flight?</p>\r\n",
+  "options": {
+    "a": "When the pressure controller senses that the aircraft is airborne.",
+    "b": "<p>When the altitude of 8000 ft is reached.</p>",
+    "c": "During start-up/taxi.",
+    "d": "During climbout."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

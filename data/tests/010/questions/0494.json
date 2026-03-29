@@ -1,0 +1,14 @@
+{
+  "number": 494,
+  "questionId": 83926,
+  "questionNumber": "102434",
+  "stemHtml": "<p>What should be advised by ATC to the pilot prior to taxi if no information has been received before?</p><p>1. Runway in use\u00a0<br>2. Visibility or RVR whatever is applicable\u00a0<br>3. Significat wind changes\u00a0<br>4. Transition altitude<br>5. For turbo-engined aircraft - temperature at the runway to be used\u00a0<br>6. QNH\u00a0<br>7. Expected time of departure\u00a0<br>8. Correct time</p>",
+  "options": {
+    "a": "<p>1, 2, 3, 5, 6 and 8.</p>",
+    "b": "<p>1, 2, 3, 4, 5 and 6.</p>",
+    "c": "<p>1, 3, 4, 5, 6 and 8.</p>",
+    "d": "<p>2, 3, 4, 6, 7 and 8.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

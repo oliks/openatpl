@@ -1,0 +1,14 @@
+{
+  "number": 619,
+  "questionId": 68678,
+  "questionNumber": "228927",
+  "stemHtml": "<p>The \"overfly\" symbol related to a waypoint on an FMS page indicates that\u2026</p>",
+  "options": {
+    "a": "fuel prediction is given for this waypoint.",
+    "b": "time estimate is given for this waypoint.",
+    "c": "the aircraft is required to pass directly over this waypoint.",
+    "d": "turn anticipation is permitted."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

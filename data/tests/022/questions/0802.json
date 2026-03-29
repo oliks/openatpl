@@ -1,0 +1,14 @@
+{
+  "number": 802,
+  "questionId": 86026,
+  "questionNumber": "228736",
+  "stemHtml": "<p>You are flying an aircraft with the autopilot ON. Which of the following statements is true in the case of an automatic trim failure?</p>",
+  "options": {
+    "a": "<p>The human pilot must disconnect the autopilot and assume control over the aircraft in order to avoid trim runaway.</p>",
+    "b": "<p>There will be no difference in aircraft behaviour as long as the autopilot stays engaged; however, the human pilot must be prepared for high aerodynamic loads when disconnecting the autopilot.</p>",
+    "c": "<p>The autopilot can still be used to control the aircraft; however, the human pilot must manually adjust the trim surface position to cancel out any constant loads.</p>",
+    "d": "<p>The autopilot will disconnect and issue an appropriate warning. The pilot flying (PF) must be ready to take over control.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

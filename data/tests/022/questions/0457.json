@@ -1,0 +1,14 @@
+{
+  "number": 457,
+  "questionId": 84785,
+  "questionNumber": "228709",
+  "stemHtml": "<p>The flight guidance system has mixed modes. What describes the functions of the take-off mode ?</p>",
+  "options": {
+    "a": "<p>The pitch mode should be vertical speed to ensure sufficient climb rate to follow the departure profile, and the roll mode should be heading or track.</p>",
+    "b": "<p>Pitch commands should be to obtain an attitude that achieved obstacle clearance, and the roll commands should follow the standard departure (SID).</p>",
+    "c": "<p>The pitch mode should maintain a fixed pitch attitude that prevents tailstrike, and the roll mode should use runway localiser to maintain the direction.</p>",
+    "d": "<p>Pitch commands should stabilise at a speed referenced to V<sub>2</sub>, and the roll commands should maintain the runway centreline or wings level.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

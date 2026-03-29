@@ -1,0 +1,14 @@
+{
+  "number": 52,
+  "questionId": 83020,
+  "questionNumber": "101725",
+  "stemHtml": "<p>An aircraft is on an NDB approach to runway 11, using QFE. Given the following information, which reference is the pilot going to use?</p><p>Aerodrome elevation:  42 ft <br /> Elevation of runway 29: 38 ft <br /> Elevation of runway 11: 30 ft</p>",
+  "options": {
+    "a": "<p>30 ft</p>",
+    "b": "38 ft",
+    "c": "42 ft",
+    "d": "50 ft"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 358,
+  "questionId": 107450,
+  "questionNumber": "227734",
+  "stemHtml": "<p>An attitude and heading reference system (AHRS) measures rotations and accelerations in (1) _____ axes, and the output is typically displayed on (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) 3 axes; (2) electronic screens</p>",
+    "b": "<p>(1) 3 axes; (2) individual instrument readouts</p>",
+    "c": "<p>(1) 2 axes; (2) electronic screens</p>",
+    "d": "<p>(1) 4 axes; (2) individual instrument readouts</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

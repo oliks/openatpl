@@ -1,0 +1,14 @@
+{
+  "number": 529,
+  "questionId": 68861,
+  "questionNumber": "225994",
+  "stemHtml": "Some FMS have an autotuning function. Which parameters can be automatically tuned?",
+  "options": {
+    "a": "HF frequencies.",
+    "b": "VHF communication and navigation frequencies.",
+    "c": "VHF communication frequencies.",
+    "d": "Radio navigation frequencies."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1287,
+  "questionId": 82334,
+  "questionNumber": "224211",
+  "stemHtml": "<p>When the aircraft is NOT in landing configuration, the GPWS system is able to alert the crew of unsafe terrain clearance. Where does the GPWS get information about height above terrain?</p>",
+  "options": {
+    "a": "<p>It is calculated from the GPS position and altitude and a terrain database.</p>",
+    "b": "<p>It is calculated from the FMS position, barometric altitude, and a terrain database.</p>",
+    "c": "<p>It is a direct input from the radio altimeter, which is used by the GPWS.</p>",
+    "d": "<p>It is calculated from the GPS position and altitude, and an aerodrome database.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1708,
+  "questionId": 66956,
+  "questionNumber": "103894",
+  "stemHtml": "When are ATIS broadcasts updated?",
+  "options": {
+    "a": "Only when the ceiling and/or visibility changes by a reportable value.",
+    "b": "Every 30 minutes if weather conditions are below those for VFR; otherwise hourly.",
+    "c": "Only when weather changes are of a magnitude that requires a change of the active runway or instrument approach in use.",
+    "d": "The ATIS is updated immediately when a significant change occurs."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1210,
+  "questionId": 67537,
+  "questionNumber": "211061",
+  "stemHtml": "<p>During the test sequence of the Fire Detection System, the \"TEST\" light does not illuminate and the pilot has no other visual confirmation. Which of the following statements is correct assuming the light indicator doesn't have a problem?</p>",
+  "options": {
+    "a": "As long as the aural indication sounds, the system is operating properly, because the aural cue has a higher priority.",
+    "b": "This is normal. Only if the \u201cFAIL\u201d light illuminates during the test sequence is there is a problem.",
+    "c": "The circuit is not grounded because of a break in the wire between the detectors, therefore the light(s) will not illuminate.",
+    "d": "This is normal. The light(s)remain(s) off because there is no real fire."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

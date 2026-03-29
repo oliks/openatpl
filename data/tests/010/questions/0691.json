@@ -1,0 +1,14 @@
+{
+  "number": 691,
+  "questionId": 109007,
+  "questionNumber": "105843",
+  "stemHtml": "<p>An aircraft is cruising at FL330 when a TCAS RA is triggered that indicates a climb command. After successfully following the TCAS RA command the aircraft reaches FL350. What is the correct course of action after resolving the TCAS RA?</p>",
+  "options": {
+    "a": "<p>Maintain FL350 and inform ATC.</p>",
+    "b": "<p>Return to FL330 and inform ATC.</p>",
+    "c": "<p>Descent to FL320 (1 000 ft below the initial flight level).</p>",
+    "d": "<p>Descent to FL340 (1 000 ft above the initial flight level).</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

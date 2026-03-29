@@ -1,0 +1,14 @@
+{
+  "number": 1169,
+  "questionId": 96836,
+  "questionNumber": "224824",
+  "stemHtml": "<p>During take-off, the aircraft flies through a flock of birds. The ECAM announces a No 2 engine failure. Some of the items in the on-screen checklist contain an action that needs to be confirmed. For instance:</p>\r\r<p>PM: \"THR LEVER 2 IDLE\" <br /> \rPF: \"CONFIRM\"</p>\r\r<p>Why do pilots need to confirm?</p>",
+  "options": {
+    "a": "<p>To prevent inappropriate actions caused by a misinterpretation of the malfunction.</p>",
+    "b": "<p>To synchronize the information and confirm the engine failure with the air traffic control for coordination purposes.</p>",
+    "c": "<p>To satisfy a bureaucratic requirement for pilots to verbally acknowledge the failure, regardless of its obvious nature.</p>",
+    "d": "<p>To fulfill regulatory requirements and maintain proper documentation for incident reporting.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

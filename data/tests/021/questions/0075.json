@@ -1,0 +1,14 @@
+{
+  "number": 75,
+  "questionId": 67428,
+  "questionNumber": "219804",
+  "stemHtml": "Which of the following statements regarding variable inlet guide vanes (VIGVs) and variable stator vanes (VSVs) on a high-bypass turbine engine is correct?",
+  "options": {
+    "a": "VIGVs are located at the front of the HP compressor and, together with the VSVs, control compressor airflow.",
+    "b": "If VIGVs move towards the open position, VSVs move towards the closed position.",
+    "c": "VIGVs are located in the front of the fan and control both fan and compressor air flow. VSVs are used in the compressor only and are used to increase pressure ratio.",
+    "d": "VIGVs prevent LP compressor stall and VSVs prevent HP compressor stall."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

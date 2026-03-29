@@ -1,0 +1,14 @@
+{
+  "number": 1133,
+  "questionId": 100119,
+  "questionNumber": "101231",
+  "stemHtml": "An aircraft is being radar vectored. What instructions will the controller give to the pilot when vectoring is terminated?",
+  "options": {
+    "a": "D-CC resume own navigation, direct XX VOR, 25 miles from YYYY.",
+    "b": "<p>D-CC resume own navigation, direct XX VOR, 270\u00b0 track 25 miles.</p>",
+    "c": "<p>D-CC resume own navigation, direct XX VOR, 270\u00b0 T.</p>",
+    "d": "Radar service terminated."
+  },
+  "correctOption": "b",
+  "attachments": []
+}
