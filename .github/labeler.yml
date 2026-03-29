@@ -1,0 +1,24 @@
+questions:
+  - changed-files:
+      - any-glob-to-any-file: 'data/tests/**'
+
+attachments:
+  - changed-files:
+      - any-glob-to-any-file: 'public/attachments/**'
+
+app:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'app/**'
+          - 'components/**'
+          - 'lib/**'
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file: '.github/**'
+
+docs:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'README.md'
+          - 'LICENSE'
