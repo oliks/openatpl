@@ -1,0 +1,14 @@
+{
+  "number": 861,
+  "questionId": 82558,
+  "questionNumber": "322125",
+  "stemHtml": "You are the pilot of a transport category aeroplane and have just started a precision approach. You can recognise that you are too high and too fast on the descent path. You are flying in a (clean) aircraft configuration, which means that the landing gear is up and the flaps are retracted. What should you do?",
+  "options": {
+    "a": "Decrease airspeed to below V<strong><sub>LO</sub></strong> and extend the landing gear, followed by flaps , to increase drag and get back on the descent path and speed profile.",
+    "b": "Decrease your airspeed and rate of descent to get back on your descent path. When back on the descent path, reduce your airspeed and start extending flaps and landing gear on schedule.",
+    "c": "Decrease your airspeed and rate of descent to get back on your descent path. When back on the descent path, plan for a flaps-up approach with a higher airspeed.",
+    "d": "Increase your airspeed, which will result in an increase in your rate of descent, allowing you to get back on the descent path."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

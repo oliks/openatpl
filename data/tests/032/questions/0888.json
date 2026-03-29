@@ -1,0 +1,14 @@
+{
+  "number": 888,
+  "questionId": 85663,
+  "questionNumber": "324008",
+  "stemHtml": "During the pre-flight preparation, one of the pilots decides to input the highest possible cost index into the FMC. Which of the following speed regimes would they expect to have?",
+  "options": {
+    "a": "Climb 250/M0.78; cruise M0.78; descent M0.78/260",
+    "b": "Climb 290/M0.80; cruise M0.80; descent M0.80/300",
+    "c": "Climb 260/M0.79; cruise M0.79; descent M0.79/270",
+    "d": "<p>Climb 280/M0.79; cruise M0.79; descent M0.79/290</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

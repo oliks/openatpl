@@ -1,0 +1,24 @@
+{
+  "number": 1147,
+  "questionId": 121556,
+  "questionNumber": "321770",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe annex shows an example of an RTOM chart for a medium jet aeroplane at a particular runway. In each chart box, the following information is provided for a given wind component, and a given outside air temperature: MTOM / limitation code / V<strong><sub>1</sub></strong>-V<strong><sub>R</sub></strong>-V<strong><sub>2</sub></strong>. Using the conditions below, what are the limiting factor(s) for the combinations of take-off speeds and take-off mass?</p>\r\r<p>OAT: 65\u00b0C <br /> \rTailwind: 20 kt</p>",
+  "options": {
+    "a": "<p>Obstacles and brake energy.</p>",
+    "b": "<p>Obstacles only.</p>",
+    "c": "<p>2nd segment climb and obstacles.</p>",
+    "d": "<p>2nd segment climb only.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 71033,
+      "uniqueKey": "21f35455-56d8-4f7b-8bec-80d4d6de6987",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=21f35455-56d8-4f7b-8bec-80d4d6de6987",
+      "publicUrl": "/attachments/032/21f35455-56d8-4f7b-8bec-80d4d6de6987.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/21f35455-56d8-4f7b-8bec-80d4d6de6987.png"
+    }
+  ]
+}

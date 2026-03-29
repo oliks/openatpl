@@ -1,0 +1,14 @@
+{
+  "number": 1134,
+  "questionId": 85464,
+  "questionNumber": "326659",
+  "stemHtml": "<p>Given the following information, what will be the distance covered from the end of runway to the point at which 1500 ft will be reached above reference zero?</p><p>Performance Class: B <br>Cloud base above reference zero: 300 ft <br>Wind: 10 kt headwind <br>ROC (all engines): 1830 ft/min <br>ROC (single engine): 400 ft/min <br>TAS: 101 kt</p>",
+  "options": {
+    "a": "<p>4.55 NM</p>",
+    "b": "<p>4.76 NM</p>",
+    "c": "<p>4.82 NM</p>",
+    "d": "<p>5.35 NM</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

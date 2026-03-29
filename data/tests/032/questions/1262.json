@@ -1,0 +1,14 @@
+{
+  "number": 1262,
+  "questionId": 81453,
+  "questionNumber": "327912",
+  "stemHtml": "<p>What is the correct sequence of descent speeds for a turbojet aeroplane starting at top of descent? (Assume idle<i> </i>thrust and clean configuration and ignore compressibility effects<i>). </i>Initially, descend maintaining a constant\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">TAS in the first part of descent and then at a constant Mach number in the second part of the descent.</p>",
+    "b": "<p dir=\"ltr\">Mach number in the first part of the descent and then at a constant TAS in the second part of the descent.</p>",
+    "c": "<p dir=\"ltr\">Mach number in the first part of the descent and then at a constant IAS in the second part of the descent.</p>",
+    "d": "IAS in the first part of descent and then at a constant Mach number in the second part of the descent."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

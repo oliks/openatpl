@@ -1,0 +1,14 @@
+{
+  "number": 1060,
+  "questionId": 85646,
+  "questionNumber": "326023",
+  "stemHtml": "<p>Given the following information,determine the defactored landing distance for a piston aircraft operated for commercial air transport...</p><p>OAT: 10\u00b0C <br /> Pressure altitude: 3000 ft <br /> Landing distance available (LDA): 2200 ft <br /> Runway downslope: 0.5% <br /> Runway surface: Paved (Wet)</p>",
+  "options": {
+    "a": "2200 ft",
+    "b": "1307 ft",
+    "c": "1540 ft",
+    "d": "1350 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

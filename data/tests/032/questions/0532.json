@@ -1,0 +1,24 @@
+{
+  "number": 532,
+  "questionId": 84425,
+  "questionNumber": "329717",
+  "stemHtml": "<p>Refer to figure or CAP698 file 4.31.<br>The crew of an aircraft is planning a landing onto runway 24 with the following information in order to calculate their minimum turn-around time according to the brake cooling schedule. Assuming taxi distance is negligible, what will be the minimum turn-around time?</p><p>Landing mass: 50 000 kg<br>V<strong><sub>REF</sub></strong>: 128 kt<br>Wind: 060\u00b0/4 kt (use 50% of headwind component or 150% of tailwind component as applicable)<br>Airport elevation: 1000 ft<br>QNH: 1013 hPa<br>OAT: +25\u00b0C</p>",
+  "options": {
+    "a": "1-2 minutes, using NO reverse with autobrake #1 or #2.",
+    "b": "72 minutes, using reverse #2 detent with autobrake #1 or #2.",
+    "c": "17 minutes, using NO reverse with autobrake #1 or #2.",
+    "d": "17 minutes, using reverse #2 detent with autobrake #1 or #2"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 51274,
+      "uniqueKey": "8A4FCDB4-3E34-40CD-9787-365C3522B858",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8A4FCDB4-3E34-40CD-9787-365C3522B858",
+      "publicUrl": "/attachments/032/8A4FCDB4-3E34-40CD-9787-365C3522B858.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/8A4FCDB4-3E34-40CD-9787-365C3522B858.jpg"
+    }
+  ]
+}

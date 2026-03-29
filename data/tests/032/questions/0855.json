@@ -1,0 +1,24 @@
+{
+  "number": 855,
+  "questionId": 96462,
+  "questionNumber": "321904",
+  "stemHtml": "<p>Refer to figure.<br />\r\nThe annex shows a Regulated Take-Off Weight (RTOW) Table for runway 05L from intersection V<strong><sub>B</sub></strong>. Find V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong>, and V2 speeds for a reduced thrust take-off, given the following information.</p>\r\n\r\n<p>OAT: -2\u00b0C<br />\r\nWind: 050\u00b0/05<br />\r\nQNH: 1033 hPa<br />\r\nAnti-Ice (ENG only): ON<br />\r\nPacks: ON<br />\r\nAssumed/FLEX T\u00b0: 59\u00b0C<br />\r\nLine-up: Quick<br />\r\nRunway: WET<br />\r\nTake-off weight (TOW): Regulated Take-Off Weight (RTOW)<br />\r\n(Do NOT interpolate, instead, use the most conservative numbers at all times)</p>\r\n",
+  "options": {
+    "a": "V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 135 / 135 / 140",
+    "b": "V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 126 / 130 / 133",
+    "c": "V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 126 / 130 / 135",
+    "d": "V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 137 / 141 / 146"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 55670,
+      "uniqueKey": "814dc3e3-8602-4f89-9a0b-f39b533a51c2",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=814dc3e3-8602-4f89-9a0b-f39b533a51c2",
+      "publicUrl": "/attachments/032/814dc3e3-8602-4f89-9a0b-f39b533a51c2.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/814dc3e3-8602-4f89-9a0b-f39b533a51c2.png"
+    }
+  ]
+}

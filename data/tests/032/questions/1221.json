@@ -1,0 +1,14 @@
+{
+  "number": 1221,
+  "questionId": 79533,
+  "questionNumber": "323476",
+  "stemHtml": "<p>Minimum V<strong><sub>2</sub></strong> speed (V<strong><sub>2MIN</sub></strong>) is limited by both the stall speed (V<strong><sub>SR</sub></strong>) and minimum control speed (V<strong><sub>MC</sub></strong>). Which statement is correct?</p>",
+  "options": {
+    "a": "<p>At high density altitudes and high weight, V<sub>2MIN</sub> is often limited by the speed for minimum control (V<sub>MC</sub>).</p>",
+    "b": "V<sub>2MIN</sub> cannot be lower than the highest of 1.05 times V<sub>MC</sub> and 1.2 times V<sub>SR</sub>.",
+    "c": "V<sub>2MIN</sub> is calculated with all engines operating, for flight with one engine inoperative, another safety speed must be used.",
+    "d": "<p>At high density altitudes and high weight, V<sub>2MIN</sub> is often limited by the stall reference speed (V<sub>SR</sub>).</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 528,
+  "questionId": 83400,
+  "questionNumber": "328182",
+  "stemHtml": "<p>Refer to figure. <br>Using the Regulated Take-Off Weight (RTOW) table for runway 08 of Paris-Orly airport, determine the V<strong><sub>1</sub></strong>/V<strong><sub>R</sub></strong>/V<strong><sub>2</sub></strong> for a take-off configuration CONF 3, given the following conditions:</p><p>QNH: 1003 HPA <br>OAT: +33\u00b0C <br>Wind: calm <br>Runway condition: WET <br>Air conditioning: ON </p><p>In case data lies between two values do not interpolate, use the most restrictive value.</p>",
+  "options": {
+    "a": "151/154/157",
+    "b": "154/154/157",
+    "c": "151/155/158",
+    "d": "152/152/157"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 48382,
+      "uniqueKey": "C962E5FF-3A66-4421-832D-93746290AA5D",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=C962E5FF-3A66-4421-832D-93746290AA5D",
+      "publicUrl": "/attachments/032/C962E5FF-3A66-4421-832D-93746290AA5D.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/C962E5FF-3A66-4421-832D-93746290AA5D.png"
+    }
+  ]
+}

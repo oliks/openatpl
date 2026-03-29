@@ -1,0 +1,24 @@
+{
+  "number": 588,
+  "questionId": 100168,
+  "questionNumber": "325072",
+  "stemHtml": "<p>Refer to figure.<br>Given the following information, calculate the expected obstacle clearance overhead the antenna for a single engine piston aircraft at its FLLTOM (Field Length Limited Take-Off Mass) on a straight out departure from Runway 27 in VMC.</p><p>Aerodrome elevation: MSL<br>Climb gradient: 6%<br>True Airspeed: 110 kt<br>Headwind component: 20 kt<br>1NM = 6080 ft<br>Height Difference = [(Ground Distance x TAS)/GS] x Gradient(%)/100</p>",
+  "options": {
+    "a": "496 ft",
+    "b": "246 ft",
+    "c": "196 ft",
+    "d": "450 ft"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 72556,
+      "uniqueKey": "e4ac1cda-4a18-4579-b557-fc319fe752aa",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=e4ac1cda-4a18-4579-b557-fc319fe752aa",
+      "publicUrl": "/attachments/032/e4ac1cda-4a18-4579-b557-fc319fe752aa.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/e4ac1cda-4a18-4579-b557-fc319fe752aa.png"
+    }
+  ]
+}

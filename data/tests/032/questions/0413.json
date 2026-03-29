@@ -1,0 +1,24 @@
+{
+  "number": 413,
+  "questionId": 96113,
+  "questionNumber": "326312",
+  "stemHtml": "<p>Refer to figure.<br>The annex above shows takeoff performance data from two separate calculations using a computerised performance tool. Due to some recent reports of windshear, which would require the use of full TOGA thrust as per their SOPs, the pilots prepare the performance data for both a TOGA take-off and a take-off at an assumed (FLEX) temperature of 41\u00b0C.</p><p>The only difference between the data is the thrust setting, however, one result of the different calculations is that...</p>",
+  "options": {
+    "a": "both take-offs have the same ratio between the TOD and the ASD as this will always give an optimum performance on a balanced field runway.",
+    "b": "the TOGA take-off uses the principle of a balanced field take-off, as this gives the best relationship between distances and weight.",
+    "c": "both take-offs use the principle of an unbalanced field take-off since the all-engine, engine-out, and accelerate-stop distances are different.",
+    "d": "the take-off using assumed (FLEX) temperature method is based on having the fastest possible V<sub>1</sub> as the ASD uses the entire runway length."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 55106,
+      "uniqueKey": "25ea91f1-ef57-46e2-ba0d-722a484514b7",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=25ea91f1-ef57-46e2-ba0d-722a484514b7",
+      "publicUrl": "/attachments/032/25ea91f1-ef57-46e2-ba0d-722a484514b7.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/25ea91f1-ef57-46e2-ba0d-722a484514b7.jpg"
+    }
+  ]
+}

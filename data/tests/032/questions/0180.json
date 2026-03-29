@@ -1,0 +1,42 @@
+{
+  "number": 180,
+  "questionId": 96642,
+  "questionNumber": "327535",
+  "stemHtml": "<p>Refer to figures or CAP 698 files 4.8 and 4.9. <br /> \rAn MRJT is scheduled to take-off from the Madrid Airport. Given the following information below, determine the V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong> and V<strong><sub>2</sub></strong> take-off speeds.</p>\r\r<p>Airport elevation: 1998 ft <br /> \rOAT: +10\u00b0C <br /> \rActual take-off mass: 62 800 kg <br /> \rFlaps: 15\u00b0 <br /> \rRunway slope: 0.8% down <br /> \rWind component: 5 kt tailwind</p>",
+  "options": {
+    "a": "<p>V<sub>1</sub> = 142 kt, V<sub>R</sub> = 143 kt and V<sub>2</sub> = 149 kt</p>",
+    "b": "<p>V<sub>1</sub> = 143 kt, V<sub>R</sub> = 146 kt and V<sub>2</sub> = 151 kt</p>",
+    "c": "<p>V<sub>1</sub> = 136 kt, V<sub>R</sub> = 140 kt and V<sub>2</sub> = 151 kt</p>",
+    "d": "<p>V<sub>1</sub> = 140 kt, V<sub>R</sub> = 143 kt and V<sub>2</sub> = 149 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 64295,
+      "uniqueKey": "6962df49-2890-43fc-bfb8-389b5c920976",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6962df49-2890-43fc-bfb8-389b5c920976",
+      "publicUrl": "/attachments/032/6962df49-2890-43fc-bfb8-389b5c920976.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6962df49-2890-43fc-bfb8-389b5c920976.jpg"
+    },
+    {
+      "id": 64297,
+      "uniqueKey": "4b870b9f-fb3a-4837-81d0-2b83317a8dae",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4b870b9f-fb3a-4837-81d0-2b83317a8dae",
+      "publicUrl": "/attachments/032/4b870b9f-fb3a-4837-81d0-2b83317a8dae.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/4b870b9f-fb3a-4837-81d0-2b83317a8dae.jpg"
+    },
+    {
+      "id": 64296,
+      "uniqueKey": "48ed4f42-a64b-488b-a7ba-d13f74bbe36d",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=48ed4f42-a64b-488b-a7ba-d13f74bbe36d",
+      "publicUrl": "/attachments/032/48ed4f42-a64b-488b-a7ba-d13f74bbe36d.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/48ed4f42-a64b-488b-a7ba-d13f74bbe36d.jpg"
+    }
+  ]
+}

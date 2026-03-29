@@ -1,0 +1,14 @@
+{
+  "number": 879,
+  "questionId": 83492,
+  "questionNumber": "329942",
+  "stemHtml": "<p>What will be the result if the pilot decides to set a TOGA thrust instead of a FLEX thrust, when commencing the take-off run, after having entered the following data into the FMS?</p><p>V<strong><sub>1</sub></strong>: 165 kt <br>V<strong><sub>R</sub></strong>:170 kt <br>V<strong><sub>2</sub></strong>: 174 kt <br>T<strong><sub>FLEX</sub></strong>: 46\u00b0C</p>",
+  "options": {
+    "a": "The take-off speeds will be incorrect and too low. If an engine were to fail at the most critical time for a continued take-off, the aeroplane would fail to achieve the calculated performance.",
+    "b": "It is NOT legal to commence a take-off run with a thrust setting other than the one calculated as the take-off performance cannot be assured using incorrect speeds.",
+    "c": "The engine will achieve a higher thrust setting and take-off performance will be improved when compared to the calculated values.",
+    "d": "The aeroplane will have an improved climb performance but because the speeds are calculated for a reduced thrust setting, the aeroplane will fail to achieve the required take-off distance and obstacle clearance."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1334,
+  "questionId": 109924,
+  "questionNumber": "321811",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe pilot used their EFB to make some calculations prior to their flight. These are the calculated V-speeds:</p>\r\r<p>V<strong><sub>1</sub></strong>: 142 kt <br /> \rV<strong><sub>R</sub></strong>: 150 kt <br /> \rV<strong><sub>2</sub></strong>: 153 kt</p>\r\r<p>If by error, the pilots enter a V<strong><sub>1</sub></strong> value of 124 kts accidentally, what would the consequences on take-off performance be?</p>",
+  "options": {
+    "a": "<p>If one engine fails before 142 kt, the take-off distance may be significantly longer and the aeroplane may fail to become airborne before the end of the runway.</p>",
+    "b": "<p>There is NO effect on the take-off distance following an engine failure at 130 kt, but the accelerate-stop distance will reduce following an engine failure at 130 kt.</p>",
+    "c": "<p>There is NO effect on the all-engine take-off distance, but the accelerate-stop distance will increase if one engine fails before the V1 entered into the FMS.</p>",
+    "d": "<p>The take-off run will decrease since the time to accelerate to 124 kt is shorter than to the calculated V1, but the take-off distance will increase because of the lower lift-off speed.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 66154,
+      "uniqueKey": "8c3f35af-eb83-42da-b8a4-961010d19f0c",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8c3f35af-eb83-42da-b8a4-961010d19f0c",
+      "publicUrl": "/attachments/032/8c3f35af-eb83-42da-b8a4-961010d19f0c.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/8c3f35af-eb83-42da-b8a4-961010d19f0c.jpg"
+    }
+  ]
+}

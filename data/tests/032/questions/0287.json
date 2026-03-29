@@ -1,0 +1,14 @@
+{
+  "number": 287,
+  "questionId": 79233,
+  "questionNumber": "325842",
+  "stemHtml": "<p>An operator shall ensure that the net take-off flight path clears all obstacles. The semi-width of the obstacle-corridor at the distance D from the end of the TODA, for an aircraft with a wingspan of less than 60 m, is at least\u2026</p>",
+  "options": {
+    "a": "2x wingspan + 90 m + 0.125D",
+    "b": "1/2 wingspan + 90 m + 0.125D",
+    "c": "1/2 wingspan + 60 m + 0.125D",
+    "d": "2x wingspan + 60 m + 0.125D"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

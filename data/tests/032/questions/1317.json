@@ -1,0 +1,24 @@
+{
+  "number": 1317,
+  "questionId": 96463,
+  "questionNumber": "324830",
+  "stemHtml": "<p>Refer to figure.<br />\r\nThe annex shows a Regulated Take-Off Weight (RTOW) table for runway 05L from intersection V<strong><sub>B</sub></strong>. Use the data below and determine the appropriate assumed/FLEX temperature and V speeds. For this question do NOT interpolate. Choose the most conservative figures at all times.</p>\r\n\r\n<p>W/V: 050\u00b0/16 kt<br />\r\nOAT: +12\u00b0C<br />\r\nQNH: 1008 hPa<br />\r\nRunway: DRY<br />\r\nAnti-ice (ENG only): OFF<br />\r\nPacks: OFF<br />\r\nLine-up: Quick<br />\r\nTake-off mass: 71 480 kg</p>\r\n",
+  "options": {
+    "a": "57\u00b0 with V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 139 / 139 / 144",
+    "b": "59\u00b0 with V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 138 / 138 / 143",
+    "c": "61\u00b0 with V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 137 / 137 / 142",
+    "d": "59\u00b0 with V<sub>1</sub> / V<sub>R</sub> / V<sub>2</sub> = 138 / 138 / 144"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 55672,
+      "uniqueKey": "d6e1c446-c89e-4c9a-af4c-96ee32a0a9e0",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=d6e1c446-c89e-4c9a-af4c-96ee32a0a9e0",
+      "publicUrl": "/attachments/032/d6e1c446-c89e-4c9a-af4c-96ee32a0a9e0.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/d6e1c446-c89e-4c9a-af4c-96ee32a0a9e0.png"
+    }
+  ]
+}

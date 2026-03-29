@@ -1,0 +1,24 @@
+{
+  "number": 263,
+  "questionId": 105019,
+  "questionNumber": "325990",
+  "stemHtml": "<p>Refer to figure. <br>You are taking off on runway 09 with a SEP aeroplane at the field-length-limited take-off mass in VMC. A straight ahead departure is planned. What will be the expected, approximate obstacle clearance overhead the trees on the extended centreline?</p><p>Climb gradient: 9.0% <br>True airspeed: 124 kt <br>Headwind: 10 kt <br>Runway elevation: 45 ft AMSL <br>1 NM: 6080 ft <br>Height Difference = ((GD \u00d7 TAS)/GS) \u00d7 Gradient/100</p>",
+  "options": {
+    "a": "<p>400 ft</p>",
+    "b": "<p>50 ft</p>",
+    "c": "<p>1991 ft</p>",
+    "d": "<p>2076 ft</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 72559,
+      "uniqueKey": "0800452a-5651-44ae-bfc5-1271897ec317",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=0800452a-5651-44ae-bfc5-1271897ec317",
+      "publicUrl": "/attachments/032/0800452a-5651-44ae-bfc5-1271897ec317.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/0800452a-5651-44ae-bfc5-1271897ec317.png"
+    }
+  ]
+}

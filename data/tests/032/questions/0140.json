@@ -1,0 +1,14 @@
+{
+  "number": 140,
+  "questionId": 103060,
+  "questionNumber": "322643",
+  "stemHtml": "<p>Which of the following expressions accurately represents the rate of climb that would be indicated on a Vertical Speed Indicator (VSI)?</p>\r\r<p>Pa = Power Available <br /> \rPr = Power Required <br /> \rTa = Thrust Available <br /> \rTr = Thrust Required <br /> \rW = Weight</p>",
+  "options": {
+    "a": "<p>(Ta - Tr) / W</p>",
+    "b": "<p>(Tr - Pr) / W</p>",
+    "c": "<p>(Pa - Pr) / W</p>",
+    "d": "<p>(Pa - Tr) / W</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

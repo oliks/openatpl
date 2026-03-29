@@ -1,0 +1,14 @@
+{
+  "number": 567,
+  "questionId": 69660,
+  "questionNumber": "328913",
+  "stemHtml": "Regarding a piston engine, how will the fuel flow be affected with increasing altitude while maintaining the same power setting?",
+  "options": {
+    "a": "Decreasing air temperature over-compensates for the decrease in air density by decreasing the pressure, resulting in a lower fuel flow.",
+    "b": "Due to decreasing air density with altitude, the reduced power output has to be compensated by a higher fuel flow.",
+    "c": "Due to decreasing air density with altitude, less fuel is required for combustion, resulting in a lower fuel flow.",
+    "d": "Decreasing air temperature will compensate for the decrease in air density by decreasing the pressure, leaving the fuel flow unchanged."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

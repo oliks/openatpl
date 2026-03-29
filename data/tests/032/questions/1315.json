@@ -1,0 +1,24 @@
+{
+  "number": 1315,
+  "questionId": 96114,
+  "questionNumber": "329384",
+  "stemHtml": "<p>Refer to figure or CAP 698 Figure 4.28. <br>Given the following information for a Commercial Air Transport jet aircraft, what is the minimum field length required?</p><p>Landing mass: 51 000 kg <br>Flaps position: 30\u00b0<br>RWY condition: DRY <br>Wind component: 10 kt tailwind <br>Pressure Altitude: 2000 ft <br>Anti-skid: OPERATIVE <br>Spoilers: AUTOMATIC</p>",
+  "options": {
+    "a": "<p>4700 ft</p>",
+    "b": "<p>5725 ft</p>",
+    "c": "<p>8200 ft</p>",
+    "d": "<p>5350 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 55107,
+      "uniqueKey": "a73a7b7c-fc2c-4360-9b76-8720652bb642",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=a73a7b7c-fc2c-4360-9b76-8720652bb642",
+      "publicUrl": "/attachments/032/a73a7b7c-fc2c-4360-9b76-8720652bb642.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/a73a7b7c-fc2c-4360-9b76-8720652bb642.jpg"
+    }
+  ]
+}

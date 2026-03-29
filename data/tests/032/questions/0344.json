@@ -1,0 +1,14 @@
+{
+  "number": 344,
+  "questionId": 69651,
+  "questionNumber": "328255",
+  "stemHtml": "How are fuel flow and TAS connected to each other in horizontal flight?",
+  "options": {
+    "a": "An increase in TAS will lead to a decrease in fuel flow up to the maximum endurance speed and increase thereafter.",
+    "b": "TAS and fuel flow are independent of one another, so the fuel flow is unaffected by any change in TAS.",
+    "c": "An increase in TAS will lead to an increase in the fuel flow.",
+    "d": "An increase in TAS will lead to an increase in the fuel flow up to the maximum endurance speed and decrease thereafter."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

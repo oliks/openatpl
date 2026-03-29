@@ -1,0 +1,14 @@
+{
+  "number": 1291,
+  "questionId": 85666,
+  "questionNumber": "323939",
+  "stemHtml": "A pilot preparing for a flight has manually extracted the relevant figures from the aircraft performance charts. They then cross-check these figures with the ones produced by the software on their EFB, and see differences in the results. What might have caused these results to vary from each other?",
+  "options": {
+    "a": "The EFB is more accurate as it does not need to interpolate any parameters.",
+    "b": "<p>The tables include an extra safety factor of 1.5.</p>",
+    "c": "The EFB is more accurate and its outputs are more conservative.",
+    "d": "The tables are no longer accurate for aircraft with such a high level of automation."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

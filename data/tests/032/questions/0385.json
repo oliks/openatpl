@@ -1,0 +1,24 @@
+{
+  "number": 385,
+  "questionId": 81052,
+  "questionNumber": "326536",
+  "stemHtml": "<p>Refer to figure.<br />\r\nConsider the following information and assume a drift down after engine failure. Determine the time travelled, ground distance travelled, and fuel burned from engine failure. Given:</p>\r\n\r\n<p>Drift down from pressure altitude: 33 000 ft<br />\r\nDrift down to pressure altitude: 16 000 ft<br />\r\nGross Mass at engine failure: 58 050 kg<br />\r\nOAT: ISA -20\u00b0C<br />\r\nTailwind: 25 kt<br />\r\nBleed configuration: Eng anti-ice on A/C Auto (High)</p>\r\n",
+  "options": {
+    "a": "<p>60 min, more than 300 NM, and 2200 kg.</p>",
+    "b": "<p>36 min, 208 NM, and 1300 kg.</p>",
+    "c": "<p>31 min, 182 NM, and 1150 kg.</p>",
+    "d": "22 min, 135 NM, and 800 kg."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 42194,
+      "uniqueKey": "4CDB9644-EA23-4D54-A84F-1E1AC17EB4E5",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4CDB9644-EA23-4D54-A84F-1E1AC17EB4E5",
+      "publicUrl": "/attachments/032/4CDB9644-EA23-4D54-A84F-1E1AC17EB4E5.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/4CDB9644-EA23-4D54-A84F-1E1AC17EB4E5.jpg"
+    }
+  ]
+}

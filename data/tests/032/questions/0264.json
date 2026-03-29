@@ -1,0 +1,14 @@
+{
+  "number": 264,
+  "questionId": 84338,
+  "questionNumber": "328666",
+  "stemHtml": "<p>Taking off from Lanzarote Airport with reported surface wind of 030/10. There are two runways available for take-off, both with no slope.</p><p>RWY 03: Facing the mountains with a TORA of 2400 m. The aircraft will need to clear an obstacle 297 ft above threshold elevation which is 4330 m away<br>RWY 21: Facing the ocean with a TORA of 2400 m. There are no obstacles in the climb path<br>RWY 03 RTOM: 82 tonnes<br>RWY 21 RTOM: 84 tonnes</p><p>Why is the RTOM for RWY 03 more limiting?</p>",
+  "options": {
+    "a": "RWY 03 is climb limited because only 50% of the headwind is accounted for, which has a lesser effect than, for runway 21, 150% of the tailwind component.",
+    "b": "RWY 03 is obstacle-limited and even with the headwind the limiting obstacles have more influence than taking off on runway 21 with a tailwind.",
+    "c": "RWY 03 is climb limited with the obstacle for runway 03 having a greater influence even if it is further away compared to the obstacle for runway 21.",
+    "d": "RWY 03 is field-length limited and even with a headwind it will be more limiting than the field length for runway 21."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

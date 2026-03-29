@@ -1,0 +1,14 @@
+{
+  "number": 321,
+  "questionId": 70275,
+  "questionNumber": "327483",
+  "stemHtml": "<p>Take-off run is defined as the\u2026</p>",
+  "options": {
+    "a": "distance to 35 feet with an engine failure at V<sub>1</sub> or 115% all engine distance to 35 feet.",
+    "b": "horizontal distance along the take-off path from the start of the take-off to a point equidistant between the point at which V<sub>LOF</sub> is reached and the point at which the aeroplane is 35 ft above the take-off surface.",
+    "c": "distance to V<sub>1</sub> and stop, assuming an engine failure at V<sub>1</sub>.",
+    "d": "distance from brake release to V<sub>2</sub>."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 22,
+  "questionId": 104373,
+  "questionNumber": "326555",
+  "stemHtml": "<p>While performing an obstacle limited take-off, you inadvertently set a lower take-off flap setting (less flap) than the calculated and required. Compared to a take-off at the correct flap setting , the aircraft will pass the departure end of the runway at\u2026</p>",
+  "options": {
+    "a": "<p>greater height, as the lower flap setting means that more lift is generated.</p>",
+    "b": "<p>greater height, as the lower flap setting means that a shorter take-off distance is required.</p>",
+    "c": "<p>lower height, as the lower flap setting means that a greater take-off distance is required.</p>",
+    "d": "<p>lower height, as the lower flap setting means that more drag is generated.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

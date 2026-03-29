@@ -1,0 +1,14 @@
+{
+  "number": 147,
+  "questionId": 69788,
+  "questionNumber": "323025",
+  "stemHtml": "<p>The engine failure take-off run is\u2026</p>",
+  "options": {
+    "a": "the horizontal distance along the take-off path from the start of the take-off to a point equidistant between the point at which V<sub>LOF </sub>is reached and the point at which the aeroplane is 35 ft above the take-off surface.",
+    "b": "1.5 times the distance from the point of brake release to a point equidistant between the point at which V<sub>LOF </sub>is reached and the point at which the aeroplane attains a height of 35 ft above the runway with all engines operative.",
+    "c": "the distance of the point of brake release to a point equidistant between the point at which V<sub>LOF </sub>is reached and the point at which the aeroplane attains a height of 50 ft above the runway assuming a failure of the critical engine at V<sub>1</sub>.",
+    "d": "1.15 times the distance from the point of brake release to the point at which V<sub>LOF </sub>is reached assuming a failure of the critical engine at V<sub>1</sub>."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 791,
+  "questionId": 84348,
+  "questionNumber": "321186",
+  "stemHtml": "<p>After calculating the following take-off figures, what would be the consequence of the pilots accidentally entering a V<strong><sub>1</sub></strong> value of 124 kt.</p>\r\r<p>V<strong><sub>1</sub></strong>: 142 kt <br /> \rV<strong><sub>R</sub></strong>: 142 kt <br /> \rV<strong><sub>2</sub></strong>: 145 kt</p>",
+  "options": {
+    "a": "<p>TOD is not affected though the aircraft may not become airborne before the end of the runway in case of an engine failure.</p>",
+    "b": "<p>TOD is not affected and the aircraft will not encounter any additional challenges in becoming airborne before the end of the runway in case of an engine failure.</p>",
+    "c": "<p>TOD would decrease significantly and the aircraft might not be able to get airborne before the end of the runway in case of engine failure.</p>",
+    "d": "<p>TOD would increase significantly and the aircraft may not become airborne before the end of the runway in case of an engine failure.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

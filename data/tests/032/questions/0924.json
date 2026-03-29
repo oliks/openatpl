@@ -1,0 +1,24 @@
+{
+  "number": 924,
+  "questionId": 84426,
+  "questionNumber": "326573",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>When using the chart, do NOT interpolate, choose the most conservative figures at all times. Given the following information, determine the RTOM for departure:</p><p>Runway: 23L\u00a0<br>Wind: 050\u00b0/5 kt\u00a0<br>QNH: 985 hPa\u00a0<br>OAT: -2\u00b0C\u00a0<br>Packs: OFF\u00a0<br>Engine anti-ice: ON\u00a0<br>Weather: Foggy, runway DRY<br>Quick line up</p>",
+  "options": {
+    "a": "76 980 kg",
+    "b": "77 680 kg",
+    "c": "78 780 kg",
+    "d": "78 080 kg"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 57455,
+      "uniqueKey": "38c51c52-bff0-40d2-9787-0f420ed850d9",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=38c51c52-bff0-40d2-9787-0f420ed850d9",
+      "publicUrl": "/attachments/032/38c51c52-bff0-40d2-9787-0f420ed850d9.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/38c51c52-bff0-40d2-9787-0f420ed850d9.jpg"
+    }
+  ]
+}

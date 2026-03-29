@@ -1,0 +1,14 @@
+{
+  "number": 59,
+  "questionId": 96378,
+  "questionNumber": "329582",
+  "stemHtml": "Consider two different aircraft: a single-engine piston (SEP) producing 160 hp and a weight of 1300 lb, and a multi-engine piston (MEP) with two engines, each with 160 hp and a weight of 1900 lb. In the event of an engine failure, which of these aircraft would perform better?",
+  "options": {
+    "a": "Both aircraft would perform similarly in the event of an engine failure.",
+    "b": "The SEP aircraft is due to its lighter weight and simpler configuration.",
+    "c": "The SEP aircraft is due to its higher power-to-weight ratio compared to the MEP.",
+    "d": "The MEP aircraft due to its redundancy."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

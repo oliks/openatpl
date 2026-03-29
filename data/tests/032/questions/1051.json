@@ -1,0 +1,14 @@
+{
+  "number": 1051,
+  "questionId": 84153,
+  "questionNumber": "329058",
+  "stemHtml": "The CS-25 regulations published by EASA specify definitions regarding climb gradients and net climb gradients. Which of the following statements is correct?",
+  "options": {
+    "a": "The net climb gradient is based on flight tests and does not account for safety margins.",
+    "b": "The net climb gradient is based on the gross climb gradient, reduced to account for safety margins based on the number of engines.",
+    "c": "The climb gradient is based on the net climb gradient, increased to account for a safety margin.",
+    "d": "The net climb gradient is based on flight tests only."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

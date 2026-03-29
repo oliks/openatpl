@@ -1,0 +1,14 @@
+{
+  "number": 215,
+  "questionId": 80832,
+  "questionNumber": "326702",
+  "stemHtml": "<p>Consider the methods listed below for improving the Field-Length Limited Take-Off Mass (FLL TOM) of an MRJT aeroplane. Which of the methods does the pilot have direct influence over?</p><p>1. Use flaps 15 instead of flaps 5 to increase the FLL TOM by approximately 600 kg<br>2. Decide NOT to use engine anti-ice to increase the FLL TOM by 450 kg<br>3. Choose the runway with the most favourable wind component to increase the FLL TOM by the credit for any wind improvements<br>4. Perform a packs-off take-off to increase the FLL TOM by 550 kg</p>",
+  "options": {
+    "a": "2 and 3, to improve the FLLTOM by 450 kg plus the credit for any wind improvement.",
+    "b": "3 and 4, to improve the FLLTOM by 550 kg plus the credit for any wind improvement.",
+    "c": "<p>1, 2, and 4, to improve the FLLTOM by 1600 kg.</p>",
+    "d": "<p>1 and 4, to improve the FLLTOM by 1150 kg.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

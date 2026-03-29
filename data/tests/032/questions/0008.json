@@ -1,0 +1,14 @@
+{
+  "number": 8,
+  "questionId": 161806,
+  "questionNumber": "328430",
+  "stemHtml": "<p>The descent speed schedule for an aircraft is 0.79/250 kt/246 kt. Due to a decrease in head wind, an aircraft is expected to arrive early and enter a holding pattern. In this case, the pilot should (1) _____ the cost index prior to arrival. The new speed schedule would be (2) _____, this would cause the aircraft to arrive (3) _____, and this would cause the fuel consumption to (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) increase; (2) 0.80/260/250; (3) at the same time; (4) decrease</p>",
+    "b": "<p>(1) maintain; (2) 0.79/250/246; (3) at the same time; (4) decrease</p>",
+    "c": "<p>(1) decrease; (2) 0.79/260/250; (3) earlier; (4) remain the same</p>",
+    "d": "<p>(1) decrease; (2) 0.76/240/225; (3) later; (4) decrease</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

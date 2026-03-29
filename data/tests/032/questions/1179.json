@@ -1,0 +1,14 @@
+{
+  "number": 1179,
+  "questionId": 102753,
+  "questionNumber": "322852",
+  "stemHtml": "<p>An aeroplane is maintaining FL350 at 250 kt CAS when an engine failure forces the pilot to commence a driftdown procedure. The pilot reports to ATC that the driftdown procedure has commenced. Which one should the pilot use of the three driftdown speeds below?</p><p>1. Obstacle clearance speed (210 CAS) <br>2. Normal speed (240 CAS) <br>3. Faster speed (360 CAS)</p>",
+  "options": {
+    "a": "<p>Use faster CAS, first, you need to gain speed before descending.</p>",
+    "b": "<p>Use normal descent as this will get you down the fastest.</p>",
+    "c": "<p>Use normal descent as this will take you the furthest.</p>",
+    "d": "<p> Use obstacle descent as this will give the best obstacle clearance.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

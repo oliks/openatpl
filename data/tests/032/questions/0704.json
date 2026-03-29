@@ -1,0 +1,14 @@
+{
+  "number": 704,
+  "questionId": 70057,
+  "questionNumber": "327325",
+  "stemHtml": "For a Class A aircraft the net take-off flight path is subdivided into various segments. Which of the following statements is correct?",
+  "options": {
+    "a": "The 3rd segment is completed at the normal flap retraction height and is flown at max continuous thrust",
+    "b": "The second segment is flown at V<sub>3</sub> up to a height of 400ft (Flap retraction height)",
+    "c": "The first segment starts at the end of TODA where the aircraft should be at 50ft and V<sub>2</sub>. This segment is flown at V<sub>2</sub> whilst the landing gear is retracted",
+    "d": "The final segment starts at the end of segment 3 with the aircraft in a clean configuration, at the final segment climb speed with maximum continuous power set, ending at 1500ft or higher if there are distant obstacles to clear"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

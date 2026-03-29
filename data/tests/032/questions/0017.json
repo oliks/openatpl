@@ -1,0 +1,24 @@
+{
+  "number": 17,
+  "questionId": 116768,
+  "questionNumber": "323359",
+  "stemHtml": "<p>Refer to figure or CAP 698 figure 3.7 <br /> \rWhy is headwind/tailwind not accounted for in the figure above?</p>",
+  "options": {
+    "a": "<p>Because the data is measured in reference to the ground.</p>",
+    "b": "<p>Because the data is measured in reference to the air.</p>",
+    "c": "<p>Wind is only ever accounted for when calculating obstacle clearance.</p>",
+    "d": "<p>A certain amount of wind has already been accounted for in this graph.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 68590,
+      "uniqueKey": "3dd453a5-b41b-45da-bda5-2b47dd2b8181",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=3dd453a5-b41b-45da-bda5-2b47dd2b8181",
+      "publicUrl": "/attachments/032/3dd453a5-b41b-45da-bda5-2b47dd2b8181.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/3dd453a5-b41b-45da-bda5-2b47dd2b8181.jpg"
+    }
+  ]
+}

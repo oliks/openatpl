@@ -1,0 +1,14 @@
+{
+  "number": 729,
+  "questionId": 70221,
+  "questionNumber": "325313",
+  "stemHtml": "<p>The lift required for climbing flight is\u2026</p>",
+  "options": {
+    "a": "<p>Equal to mass x sin (angle of climb)</p>",
+    "b": "<p>Greater than that required in level flight</p>",
+    "c": "<p>Lower than that required in level flight</p>",
+    "d": "<p>Equal to drag x cos (angle of climb)</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

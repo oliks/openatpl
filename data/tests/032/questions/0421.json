@@ -1,0 +1,42 @@
+{
+  "number": 421,
+  "questionId": 109131,
+  "questionNumber": "321944",
+  "stemHtml": "<p>Refer to figures or CAP 698 files 4.8 and 4.9. <br>Given the following information, find V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong> and V<strong><sub>2</sub></strong> speeds for a MRJT aeroplane:</p><p>Airport Elevation: 1000 ft <br>RWY 24 <br>Slope: 1% UP <br>QNH: 1013 hPa <br>OAT: +15\u00b0C <br>W/V: 240\u00b0/35 kt <br>TOM: 60 700 kg <br>Flaps: 5\u00b0</p>",
+  "options": {
+    "a": "<p>V<sub>1</sub>: 147 KT, V<sub>R</sub>: 150 KT, V<sub>2</sub>: 157 KT</p>",
+    "b": "<p>V<sub>1</sub>: 147 KT, V<sub>R</sub>: 149 KT, V<sub>2</sub>: 156 KT</p>",
+    "c": "<p>V<sub>1</sub>: 142 KT, V<sub>R</sub>: 146 KT, V<sub>2</sub>: 153 KT</p>",
+    "d": "<p>V<sub>1</sub>: 151 KT, V<sub>R</sub>: 155 KT, V<sub>2</sub>: 168 KT</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 64995,
+      "uniqueKey": "b0e0684d-9d19-493a-a521-968bb2259b69",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=b0e0684d-9d19-493a-a521-968bb2259b69",
+      "publicUrl": "/attachments/032/b0e0684d-9d19-493a-a521-968bb2259b69.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/b0e0684d-9d19-493a-a521-968bb2259b69.jpg"
+    },
+    {
+      "id": 64996,
+      "uniqueKey": "bcb53b0c-1adc-4924-af22-cb3b9845178f",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=bcb53b0c-1adc-4924-af22-cb3b9845178f",
+      "publicUrl": "/attachments/032/bcb53b0c-1adc-4924-af22-cb3b9845178f.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/bcb53b0c-1adc-4924-af22-cb3b9845178f.jpg"
+    },
+    {
+      "id": 64997,
+      "uniqueKey": "8eed1a0c-9c19-4e9f-a258-0b0616f238e9",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8eed1a0c-9c19-4e9f-a258-0b0616f238e9",
+      "publicUrl": "/attachments/032/8eed1a0c-9c19-4e9f-a258-0b0616f238e9.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/8eed1a0c-9c19-4e9f-a258-0b0616f238e9.jpg"
+    }
+  ]
+}

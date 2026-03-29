@@ -1,0 +1,14 @@
+{
+  "number": 52,
+  "questionId": 69631,
+  "questionNumber": "329099",
+  "stemHtml": "What Performance Class is a multi-engined turbo-jet aeroplane with a Maximum Take-Off Mass (MTOM) of 4750 kg and Maximum Operational Passenger Seating Configuration (MOPSC) of 4 passengers?",
+  "options": {
+    "a": "Class A because it is a multi-engined turbo-jet aeroplane, regardless of its MTOM and MOPSC.",
+    "b": "There is no Performance Class for turbo-jet aeroplanes with an MTOM of less than 5700 kg.",
+    "c": "Class B because its MTOM is less than 5700 kg and its MOPSC is less than 9 passengers.",
+    "d": "Class C because it is a turbo-jet aeroplane with an MOPSC of less than 9 passengers."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

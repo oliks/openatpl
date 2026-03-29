@@ -1,0 +1,24 @@
+{
+  "number": 271,
+  "questionId": 81108,
+  "questionNumber": "324137",
+  "stemHtml": "Refer to figure or CAP698 file 4.1.<br />\r\nA flight has been planned to operate at the maximum field-length limited take-off mass (FLLTOM). This was based upon the planned runway being 04 and the forecast wind to be light and variable. During the taxi, an aircraft just ahead was cleared to take-off and the reported wind was 270\u00b0 (M)/20 kt. What observations should the flight crew raise given this updated wind?",
+  "options": {
+    "a": "The approximate headwind of 15 kt means the aircraft should return to stand because the actual take-off distance has decreased and therefore the take-off mass can be increased.",
+    "b": "The take-off can be commenced because the updated wind means that the new headwind has increased the take-off performance and therefore increased the maximum FLLTOM.",
+    "c": "The aircraft performance should be re-calculated prior to take-off because there is now a tailwind of approximately 13 kt.",
+    "d": "The departure can be continued because the planned take-off mass is based on a calculation that included the maximum tailwind."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 50444,
+      "uniqueKey": "36345EA0-6780-459E-8EAA-A55238D2466C",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=36345EA0-6780-459E-8EAA-A55238D2466C",
+      "publicUrl": "/attachments/032/36345EA0-6780-459E-8EAA-A55238D2466C.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/36345EA0-6780-459E-8EAA-A55238D2466C.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1079,
+  "questionId": 70176,
+  "questionNumber": "326815",
+  "stemHtml": "<p>Consider the curve for the thrust required versus speed, for a jet aeroplane. What speed can be obtained from the minimum of this curve? The speed for\u2026</p>",
+  "options": {
+    "a": "Max Range, because fuel flow is proportional to lift to drag ratio.",
+    "b": "Max Endurance, because fuel flow is proportional to thrust at the minimum.",
+    "c": "Max Endurance, because fuel flow is proportional to power required.",
+    "d": "Max Range, because this speed corresponds to the maximum lift to drag ratio at the minimum."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

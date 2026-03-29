@@ -1,0 +1,14 @@
+{
+  "number": 848,
+  "questionId": 79658,
+  "questionNumber": "323571",
+  "stemHtml": "<p>Both runways are of equal length and have the same slope characteristics. Regardless of this, your EFB gives you a RTOM of 57 ton for RWY 20L and 60 ton for RWY 20R with the same take-off configuration. Which limitation is most likely causing the reduced RTOM for RWY 20L? Same meteorological conditions and friction level exists for both runways.</p>",
+  "options": {
+    "a": "Field length limited take-off mass.",
+    "b": "Climb limited take-off mass.",
+    "c": "Tyre-speed limited take-off mass.",
+    "d": "Obstacle limited take-off mass."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

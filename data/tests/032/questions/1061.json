@@ -1,0 +1,14 @@
+{
+  "number": 1061,
+  "questionId": 107338,
+  "questionNumber": "321805",
+  "stemHtml": "<p>How do the Drag vs. Indicated Airspeed (IAS) and Drag vs. True Airspeed (TAS) curves move during a climb from 2000 ft to 8000 ft at a constant IAS?</p>",
+  "options": {
+    "a": "<p>Drag-IAS curve remains unchanged, Drag-TAS curve shifts right</p>",
+    "b": "<p>Drag-IAS curve remains unchanged, Drag-TAS curve shifts left</p>",
+    "c": "<p>Drag-IAS curve shifts right, Drag-TAS curve remains unchanged</p>",
+    "d": "<p>Both curves shift up and right</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

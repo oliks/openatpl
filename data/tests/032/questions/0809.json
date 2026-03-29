@@ -1,0 +1,24 @@
+{
+  "number": 809,
+  "questionId": 81455,
+  "questionNumber": "325032",
+  "stemHtml": "<p>Refer to figure or CAP697 file 2.2.1.<br>Given the following information, determine the fuel flow and TAS:</p><p>ISA: +20\u00b0C<br>Pressure altitude: 4000 ft<br>Manifold pressure: 25.0 In.Hg.</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">15.4 gallons per hour and 169 KTAS.</p>",
+    "b": "<p dir=\"ltr\">14.8 gallons per hour and 170 KTAS.</p>",
+    "c": "<p dir=\"ltr\">14.1 gallons per hour and 171 KTAS.</p>",
+    "d": "84.7 gallons per hour and 158 KTAS."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 51000,
+      "uniqueKey": "63B7182C-86A0-4D2F-81FD-DD640E0B9A93",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=63B7182C-86A0-4D2F-81FD-DD640E0B9A93",
+      "publicUrl": "/attachments/032/63B7182C-86A0-4D2F-81FD-DD640E0B9A93.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/63B7182C-86A0-4D2F-81FD-DD640E0B9A93.jpg"
+    }
+  ]
+}

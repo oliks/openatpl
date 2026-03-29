@@ -1,0 +1,14 @@
+{
+  "number": 1135,
+  "questionId": 69886,
+  "questionNumber": "322780",
+  "stemHtml": "<p>Calculate the one-engine-failed climb gradient of a four-engine-aeroplane, given the following information:</p>\n\n<p>Aeroplane mass: 358 000 kg <br /> \nThrust per engine: 245 000 N <br /> \nDrag: 455 000 N (Assume the acceleration due to gravity is 10 m/s<sup>2</sup>)</p>\n\n<div> </div>",
+  "options": {
+    "a": "7.8%",
+    "b": "6.8%",
+    "c": "14.7%",
+    "d": "12.7%"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

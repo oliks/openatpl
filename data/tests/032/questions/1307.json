@@ -1,0 +1,14 @@
+{
+  "number": 1307,
+  "questionId": 69845,
+  "questionNumber": "324723",
+  "stemHtml": "<p>Density altitude is\u2026</p>",
+  "options": {
+    "a": "altitude referenced to the standard datum.",
+    "b": "altitude read directly from the altimeter.",
+    "c": "pressure altitude corrected for &ldquo;non standard&rdquo; temperature.",
+    "d": "height above the surface."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

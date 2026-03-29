@@ -1,0 +1,24 @@
+{
+  "number": 1181,
+  "questionId": 82376,
+  "questionNumber": "329669",
+  "stemHtml": "<p>Refer to figure. <br>The Annex shows a Regulated Take-Off Mass (RTOM) table for runway 23L from take-off position VB. Using the additional data below, determine the appropriate V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong> and V<strong><sub>2</sub></strong> speeds for a \"reduced thrust take-off\" on a wet runway. For this question do NOT interpolate, choose the most conservative figures at all times.</p><p>W/V: 050\u00b0/ 6 kt<br>OAT: + 14\u00b0C <br>QNH: 1003 hPa <br>Runway: WET <br>Engine anti-ice: OFF <br>Packs: OFF <br>Take off mass: 66 070 kg <br>Assumed/Flex T\u00b0: 63\u00b0C</p>",
+  "options": {
+    "a": "<p>V<sub>1</sub> = 123 kt; V<sub>R</sub>=126 kt; and V<sub>2</sub>=132 kt</p>",
+    "b": "<p>V<sub>1</sub> = 142 kt; V<sub>R</sub>=142 kt; and V<sub>2</sub>=146 kt</p>",
+    "c": "<p>V<sub>1</sub> = 126 kt; V<sub>R</sub>=129 kt; and V<sub>2</sub>=135 kt</p>",
+    "d": "<p>V<sub>1</sub> = 136 kt; V<sub>R</sub>=139 kt; and V<sub>2</sub>=145 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 44089,
+      "uniqueKey": "B0C3F728-BF60-4A19-8FC5-6D016B61C704",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=B0C3F728-BF60-4A19-8FC5-6D016B61C704",
+      "publicUrl": "/attachments/032/B0C3F728-BF60-4A19-8FC5-6D016B61C704.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/B0C3F728-BF60-4A19-8FC5-6D016B61C704.jpg"
+    }
+  ]
+}

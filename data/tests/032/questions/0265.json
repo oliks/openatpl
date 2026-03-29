@@ -1,0 +1,33 @@
+{
+  "number": 265,
+  "questionId": 84032,
+  "questionNumber": "323777",
+  "stemHtml": "<p>Refer to figures or CAP 698 figure 4.8. <br /> \rAn MRJT aircraft is intending to perform a flight from an airport with the data shown below. Calculate the V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong> and V<strong><sub>2</sub></strong> for this take off.</p>\r\r<p>Runway: 01 <br /> \rPressure Altitude: 328 ft <br /> \rSlope: 1% Upslope <br /> \rOAT: 0\u00b0 <br /> \rW/V: 190\u00b0/10 kt <br /> \rTake off mass: 61 430 kg <br /> \rFlaps 5</p>",
+  "options": {
+    "a": "<p>V<sub>1</sub>: 145 kt; V<sub>R</sub>: 149 kt; V<sub>2</sub>: 156 kt</p>",
+    "b": "<p>V<sub>1</sub>: 146 kt; V<sub>R</sub>: 150 kt; V<sub>2</sub>: 157 kt</p>",
+    "c": "<p>V<sub>1</sub>: 145 kt; V<sub>R</sub>: 150 kt; V<sub>2</sub>: 157 kt</p>",
+    "d": "<p>V<sub>1</sub>: 147 kt; V<sub>R</sub>: 151 kt; V<sub>2</sub>: 158 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 50108,
+      "uniqueKey": "830982D9-F9C3-4394-AE32-80F75D3CDEEB",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=830982D9-F9C3-4394-AE32-80F75D3CDEEB",
+      "publicUrl": "/attachments/032/830982D9-F9C3-4394-AE32-80F75D3CDEEB.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/830982D9-F9C3-4394-AE32-80F75D3CDEEB.png"
+    },
+    {
+      "id": 50114,
+      "uniqueKey": "76EED029-F832-48A8-AD05-6047B4E17D9F",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=76EED029-F832-48A8-AD05-6047B4E17D9F",
+      "publicUrl": "/attachments/032/76EED029-F832-48A8-AD05-6047B4E17D9F.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/76EED029-F832-48A8-AD05-6047B4E17D9F.png"
+    }
+  ]
+}

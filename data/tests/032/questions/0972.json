@@ -1,0 +1,14 @@
+{
+  "number": 972,
+  "questionId": 96126,
+  "questionNumber": "324400",
+  "stemHtml": "<p>The crew of a Medium-Range Jet Transport aeroplane are planning for a Commercial Air Transport flight departing from Mykonos (LGMK) Runway 16, which is 1902 m long with a take-off path over the sea. The aeroplane has three take-off flap settings, which give the following maximum take-off masses:</p><p>T/O 1: 1 stage of slats and 1 stage of flaps - 78.1 tonnes. <br /> T/O 2: 2 stages of slats and 2 stages of flaps - 81.1 tonnes. <br /> T/O 3: 2 stages of slats and 3 stages of flaps - 82.9 tonnes.</p>These maximum take-off masses are limited by the...",
+  "options": {
+    "a": "Field-Length Limited Take-Off Mass (FLLTOM), which is a factor with short runways and will increase with more slats/flaps.",
+    "b": "Accelerate-Stop Distance Mass (ASDM), which is a factor with long runways and will increase with more slats/flaps.",
+    "c": "Climb Limit Mass from the 2nd segment, which is a factor with close-in obstacles and will increase with more slats/flaps.",
+    "d": "Climb-Limited Take-Off Mass (CLTOM), which is a factor independent of obstacles and will increase with more slats/flaps."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

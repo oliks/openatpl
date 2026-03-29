@@ -1,0 +1,24 @@
+{
+  "number": 693,
+  "questionId": 82262,
+  "questionNumber": "328713",
+  "stemHtml": "<p>Refer to figure. <br>You are taking-off with a single-engined aeroplane, and a field-length-limited take-off mass, from runway 27, in VMC, for a straight-out departure. Given the following information, what will be the expected obstacle clearance over the Tower on the extended centre line?</p><p>Climb gradient: 8% <br>TAS: 111 kt <br>Wind component: 4 kt tailwind <br>1 NM = 6080 ft <br>Height Difference = ((GD x TAS)/GS) x Gradient/100</p>",
+  "options": {
+    "a": "470 ft",
+    "b": "440 ft",
+    "c": "270 ft",
+    "d": "520 ft"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 43809,
+      "uniqueKey": "FFDDAA95-300C-48A2-995C-B2DA18B10E1A",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=FFDDAA95-300C-48A2-995C-B2DA18B10E1A",
+      "publicUrl": "/attachments/032/FFDDAA95-300C-48A2-995C-B2DA18B10E1A.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/FFDDAA95-300C-48A2-995C-B2DA18B10E1A.png"
+    }
+  ]
+}

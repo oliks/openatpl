@@ -1,0 +1,14 @@
+{
+  "number": 1299,
+  "questionId": 70311,
+  "questionNumber": "322327",
+  "stemHtml": "<p>The departure airport reports an air temperature of -5\u00b0C. Using the data below, which statement is correct? (SEL OAT is equivalent to the assumed temperature of FLEX)</p><p>V<strong><sub>1</sub></strong>: 132 kt <br>Flaps: 5 degrees <br>V<strong><sub>R</sub></strong>: 132 kt <br>SEL OAT: +59\u00b0C <br>V<strong><sub>2</sub></strong>: 139 kt</p>",
+  "options": {
+    "a": "<p>The SEL value will only be considered when it is lower than the air temprature at the airport. it is the lowest of either the SEL OAT or the airport air temprature that determines the take-off thrust for the engines.</p>",
+    "b": "<p>SEL OAT will force the engine control computer to think the air temperature is +59\u00baC and therefore that the air density is low and the engine requires less fuel to maintain the correct fuel/air ratio. This leads to less thrust being produced.</p>",
+    "c": "<p>By entering the SEL OAT value the engine will produce a greater amount of thrust since a higher SEL OAT value will tell the engine that the air is warmer. This means that more fuel is required to maintain the thrust when the air is less dense.</p>",
+    "d": "<p>SEL OAT is a parameter that is used to modify the take-off performance calculation in order find the appropriate thrust setting and is NOT entered in any aeroplane systems. The aeroplane can only work with the actual air temperature.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

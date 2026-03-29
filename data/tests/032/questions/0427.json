@@ -1,0 +1,24 @@
+{
+  "number": 427,
+  "questionId": 83487,
+  "questionNumber": "324883",
+  "stemHtml": "<p>Refer to figure. <br /> Using the Regulated Take-Off Weight (RTOW) table for runway 08 of Paris-Orly airport, determine the performance limited take-off mass (to the nearest 100 kg) for a CONF 1+F take-off in the following conditions, interpolating as necessary:</p>QNH: 999 HPA <br /> OAT: -3\u00b0C <br /> Wind: 10 kt headwind <br /> Runway condition: DRY <br /> Air conditioning: ON",
+  "options": {
+    "a": "82 000 kg",
+    "b": "83 300 kg",
+    "c": "82 900 kg",
+    "d": "85 100 kg"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 48796,
+      "uniqueKey": "5A2564F2-24B5-4D7A-B517-440468E72F29",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=5A2564F2-24B5-4D7A-B517-440468E72F29",
+      "publicUrl": "/attachments/032/5A2564F2-24B5-4D7A-B517-440468E72F29.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/5A2564F2-24B5-4D7A-B517-440468E72F29.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 760,
+  "questionId": 104374,
+  "questionNumber": "325221",
+  "stemHtml": "<p>A commercial air transport flight is to be conducted in a single-engined piston aircraft. At the most critical point during the flight, the distance to be travelled to a safe landing place is 10 NM. Given the following information, what is the lowest altitude the aircraft should fly over this critical point?</p>\r\r<p>Terrain elevation: 0 ft <br /> \rGross glide gradient: 10.2% <br /> \rTAS: 130 kt <br /> \rExpected headwind component: 10 kt <br /> \r1 NM = 6080 ft <br /> \rGround distance = Still Air Distance x (GS / TAS)</p>",
+  "options": {
+    "a": "<p>6760 ft</p>",
+    "b": "<p>7046 ft</p>",
+    "c": "<p>7420 ft</p>",
+    "d": "<p>7827 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

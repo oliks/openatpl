@@ -1,0 +1,14 @@
+{
+  "number": 685,
+  "questionId": 84068,
+  "questionNumber": "321031",
+  "stemHtml": "Two aircraft of the same weight, configuration and altitude are climbing with the same pitch angle. Assume no compressibility effects and a standard atmosphere. Aircraft A is at Mach 0.75 and aircraft B is at Mach 0.73. Which will have the highest rate of climb?",
+  "options": {
+    "a": "Aircraft B",
+    "b": "Not possible to determine, TAS is required",
+    "c": "Aircraft A",
+    "d": "Aircraft A below FL 300, thereafter Aircraft B"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 350,
+  "questionId": 109566,
+  "questionNumber": "321413",
+  "stemHtml": "<p>In the Flight Manual, the manufacturer has published the take-off performance data. This data has been calculated with brake release after the take-off power is set. Assuming all other factors remain unchanged, if the brakes are released BEFORE the take-off power is set, the Take-Off Distance (TOD) is expected to be (1) _____ and the Accelerate-Stop Distance (ASD) to be (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) unchanged; (2) longer</p>",
+    "b": "<p>(1) longer; (2) unchanged</p>",
+    "c": "<p>(1) shorter; (2) shorter</p>",
+    "d": "<p>(1) longer; (2) longer</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 79,
+  "questionId": 83387,
+  "questionNumber": "321376",
+  "stemHtml": "<p>During the pre-flight planning procedure, the pilot of a Commercial Air Transport flight has calculated various performance-limited landing masses. Given the following limit masses, determine the maximum performance limited landing mass which complies with the operational requirements.</p><p>Approach climb limit mass: 32 250 lb <br /> Landing climb limit mass: 38 300 lb <br /> Field length limit mass: 34 500 lb <br /> Structural limit landing mass: 39 300 lb</p>",
+  "options": {
+    "a": "39 300 lb",
+    "b": "34 500 lb",
+    "c": "38 300 lb",
+    "d": "32 250 lb"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

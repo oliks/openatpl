@@ -1,0 +1,24 @@
+{
+  "number": 83,
+  "questionId": 110865,
+  "questionNumber": "325393",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe annex shows a Regulated Take-Off Weight (RTOW) table for runway 23L from take-off position VB. Use the data below to determine the RTOW for departure. For this question do NOT interpolate. Choose the most conservative figures at all times.</p>\r\r<p>W/V: 230\u00b0/6 kt <br /> \rOAT: -3\u00b0C <br /> \rQNH: 1015 hPa <br /> \rEngine anti-ice: OFF <br /> \rPacks: OFF <br /> \rQuick line-up <br /> \rWeather: Medium rain</p>",
+  "options": {
+    "a": "<p>78 700 kg</p>",
+    "b": "<p>78 400 kg</p>",
+    "c": "<p>78 270 kg</p>",
+    "d": "<p>77 970 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 71035,
+      "uniqueKey": "052cf434-2671-4834-9c0d-67d030afd016",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=052cf434-2671-4834-9c0d-67d030afd016",
+      "publicUrl": "/attachments/032/052cf434-2671-4834-9c0d-67d030afd016.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/052cf434-2671-4834-9c0d-67d030afd016.png"
+    }
+  ]
+}

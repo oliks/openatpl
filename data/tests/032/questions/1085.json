@@ -1,0 +1,24 @@
+{
+  "number": 1085,
+  "questionId": 69961,
+  "questionNumber": "325420",
+  "stemHtml": "<p>Refer to figure or CAP698 file 4.1.<br />\r\nCalculate the relative direction of the wind to the runway. i.e. (wind direction - runway direction) or (runway direction - wind direction).</p>\r\n\r\n<p>Example: W/V 330/30<br />\r\nRunway 02<br />\r\nWind angle = 50\u00b0</p>\r\n\r\n<div>\r\n<div> </div>\r\n</div>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "Head wind 19 kt crosswind 23 kt",
+    "b": "Head wind 20 kt crosswind 20 kt",
+    "c": "Head wind 15 kt crosswind 15 kt",
+    "d": "Head wind 10 crosswind 12 kt"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 51159,
+      "uniqueKey": "08C54396-CA42-4E89-AB0F-985584429535",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=08C54396-CA42-4E89-AB0F-985584429535",
+      "publicUrl": "/attachments/032/08C54396-CA42-4E89-AB0F-985584429535.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/08C54396-CA42-4E89-AB0F-985584429535.jpg"
+    }
+  ]
+}

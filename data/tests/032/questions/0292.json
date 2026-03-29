@@ -1,0 +1,14 @@
+{
+  "number": 292,
+  "questionId": 160544,
+  "questionNumber": "326399",
+  "stemHtml": "<p>A single-engine piston aeroplane is flying at an altitude of 11 000 ft. Given the following information, if the engine fails at this altitude, what should be the expected net glide gradient?</p><p>L/D ratio: 20:1  <br />  TAS: 200 kt  <br />  Wind: Nil wind  <br />  Assume 1 NM = 6080 ft</p>",
+  "options": {
+    "a": "<p>5.5%</p>",
+    "b": "<p>5.0%</p>",
+    "c": "<p>4.5%</p>",
+    "d": "<p>6.5%</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}
