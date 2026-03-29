@@ -1,0 +1,14 @@
+{
+  "number": 328,
+  "questionId": 81371,
+  "questionNumber": "311176",
+  "stemHtml": "<p dir=\"ltr\">A flight crew of a turbojet aeroplane prepares a Commercial Air Transport flight using the information below. The flight is operated as planned. What is correct regarding the Landing Mass (LM)?</p>\r\r<p dir=\"ltr\">Maximum Certificated Landing Mass: 53 900 kg <br /> \rPerformance Limited Landing Mass: 51 950 kg <br /> \rDry Operating Mass: 35 500 kg <br /> \rBlock Fuel: 9720 kg <br /> \rTaxi Fuel: 120 kg <br /> \rTrip Fuel: 5080 kg <br /> \rEstimated Traffic Load: 11 800 kg</p>\r\r<p dir=\"ltr\">Changes in trip fuel due to mass changes may be ignored for this question.</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">LM = 51 940 and it does NOT exceed the Regulated LM.</p>",
+    "b": "<p dir=\"ltr\">LM = 51 820 and it does NOT exceed the Regulated LM.</p>",
+    "c": "<p dir=\"ltr\">LM = 52 380 and it exceeds the Regulated LM.</p>",
+    "d": "<p>LM = 47 300 and it exceeds the Regulated LM.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 650,
+  "questionId": 82357,
+  "questionNumber": "319614",
+  "stemHtml": "<p>During dispatch, you perform the Mass and Balance calculations. Given the following information, calculate the Take-Off Mass CG in Inches aft of the datum.</p>Basic Empty Mass: 2 635 lb <br /> Basic Empty Mass Moment: 204 397.5 in.lb <br /> Front Seat Occupant's Mass: 93 lb <br /> Front Seat Occupant's Arm: 78 in <br /> Aft Seat Occupant's Mass: 186 lb <br /> Aft Seat Occupant's Arm: 119 in <br /> Block Fuel: 850 lb <br /> Taxi Fuel: 320 lb <br /> Fuel Arm: 83 in",
+  "options": {
+    "a": "80.85",
+    "b": "80.50",
+    "c": "81.02",
+    "d": "80.65"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

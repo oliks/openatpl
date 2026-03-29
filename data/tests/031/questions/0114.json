@@ -1,0 +1,14 @@
+{
+  "number": 114,
+  "questionId": 69395,
+  "questionNumber": "313906",
+  "stemHtml": "<p>Given the following information, what is the maximum amount of Extra Fuel that can be uploaded for this Commercial Air Transport flight?</p>\r\r<p>MTOM: 2150 lb <br /> \rMLM: 2030 lb <br /> \rZFM: 1803 lb <br /> \rPlanned T/O Fuel: 35 US gal <br /> \rTrip Fuel: 27 US gal <br /> \rFuel Tank Capacity: 68 US gal <br /> \rSpecific Gravity: 0.72</p>",
+  "options": {
+    "a": "<p>22 US gal</p>",
+    "b": "<p>29 US gal</p>",
+    "c": "<p>41 US gal</p>",
+    "d": "<p>33 US gal</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

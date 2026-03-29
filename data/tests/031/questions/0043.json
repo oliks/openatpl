@@ -1,0 +1,14 @@
+{
+  "number": 43,
+  "questionId": 80930,
+  "questionNumber": "314565",
+  "stemHtml": "<p>The crew of a transport jet aeroplane prepares a flight using the following data:</p>\r\r<p>Dry Operating Mass: 35 058 kg <br /> \rMaximum Zero Fuel Mass: 52 790 kg <br /> \rPerformance limited Take-off Mass: 61 875 kg <br /> \rPerformance limited Landing Mass: 53 871 kg</p>\r\r<p>Take-off Fuel: 13 358 kg <br /> \rTrip Fuel: 8900 kg</p>\r\r<p>What is the Traffic Load (TL) available for this flight?</p>",
+  "options": {
+    "a": "<p>10 376 kg</p>",
+    "b": "<p>13 459 kg</p>",
+    "c": "<p>14 355 kg</p>",
+    "d": "<p>17 732 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

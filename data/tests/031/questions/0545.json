@@ -1,0 +1,14 @@
+{
+  "number": 545,
+  "questionId": 69535,
+  "questionNumber": "312317",
+  "stemHtml": "<p>To assess aircraft performance, the pilot must\u2026</p>",
+  "options": {
+    "a": "know the planned take-off, en-route and landing mass, and any subsequent changes from the load and trim documentation.",
+    "b": "know the mass of the aircraft at the previous landing and add the mass of the uplifted fuel.",
+    "c": "only use the certified mass information from the Aircraft Flight Manual.",
+    "d": "assess the actual zero fuel mass from the load and trim documentation and check that it does not exceed the certified limit."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

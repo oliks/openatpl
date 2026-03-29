@@ -1,0 +1,14 @@
+{
+  "number": 295,
+  "questionId": 84124,
+  "questionNumber": "311562",
+  "stemHtml": "Prior to every Commercial Air Transport flight of a large aircraft, the Operator uses an electronic or a paper format trim sheet to determine the Centre of Gravity of the actual Zero Fuel Mass, Take-Off Mass and Landing Mass. What is the purpose of the trim sheet?",
+  "options": {
+    "a": "This is to check that they are below the limits published in the Aircraft flight Manual, and is achieved by calculating the moments.",
+    "b": "This is to ensure that the CGs are within the certified envelope, and is achieved by using the index method.",
+    "c": "This is done by referring to the stations of various fuselage sectors defined in mass and balance documentation.",
+    "d": "This is done by computing the balance arm of the actual operational masses and the results are given in metres or inches."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

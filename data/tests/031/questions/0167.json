@@ -1,0 +1,14 @@
+{
+  "number": 167,
+  "questionId": 82356,
+  "questionNumber": "314917",
+  "stemHtml": "<p>Given the following data, what is the additional traffic load that the crew could accept for take-off?</p><p>Dry Operating Mass: 12 445 lb <br>Traffic Load: 241 lb <br>Fuel loaded: 5000 lb <br>Trip Fuel: 3000 lb <br>Taxi Fuel: 100 lb <br>MTOM: 18 386 lb</p>",
+  "options": {
+    "a": "<p>941 lb</p>",
+    "b": "<p>800 lb</p>",
+    "c": "<p>700 lb</p>",
+    "d": "<p>1041 lb</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

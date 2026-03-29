@@ -1,0 +1,14 @@
+{
+  "number": 399,
+  "questionId": 106457,
+  "questionNumber": "316440",
+  "stemHtml": "<p>To achieve a CG position of 17.7 meters aft of the datum for optimal take-off performance, determine the amount of mass that needs to be shifted between the cargo holds based on the following details.</p><p>Forward Cargo Hold centroid: 3.6 m aft of the datum <br>Aft Cargo Hold centroid: 29.8 m aft of the datum <br>Current CG position: 18.4 m aft of the datum <br>Actual Take-Off Mass: 60 655 kg</p><p>Consider the Fuel consumption from engine start to take off as negligible. Disregard cargo hold floor loading limits.</p>",
+  "options": {
+    "a": "<p>3307 kg to be moved from aft to forward.</p>",
+    "b": "<p>1621 kg to be moved from forward to aft.</p>",
+    "c": "<p>3307 kg to be moved from forward to aft.</p>",
+    "d": "<p>1621 kg to be moved from aft to forward.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

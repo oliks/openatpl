@@ -1,0 +1,14 @@
+{
+  "number": 264,
+  "questionId": 107115,
+  "questionNumber": "314240",
+  "stemHtml": "<p>Given the following information, what is the Zero Fuel Mass?</p><p>Take-Off Mass: 141 000 kg  <br /> Total Fuel at take-off: 67 000 kg including 15 000 kg of Reserve Fuel and 900 kg of Unusable Fuel  <br /> Traffic load: 12 900 kg</p>",
+  "options": {
+    "a": "<p>89 900 kg</p>",
+    "b": "<p>74 000 kg</p>",
+    "c": "<p>74 900 kg</p>",
+    "d": "<p>61 100 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

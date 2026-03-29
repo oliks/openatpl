@@ -1,0 +1,14 @@
+{
+  "number": 242,
+  "questionId": 80275,
+  "questionNumber": "315826",
+  "stemHtml": "<p>Determine the maximum permissible traffic load, given:</p>\r\r<p>Take-off Mass: 8600 kg <br /> \rTake off Fuel: 1840 kg <br /> \rReserve Fuel: 920 kg <br /> \rBasic Empty Mass: 4940 kg <br /> \rTotal mass of crew and special operating equipment: 440 kg</p>",
+  "options": {
+    "a": "<p>920 kg</p>",
+    "b": "<p>1380 kg</p>",
+    "c": "<p>1820 kg</p>",
+    "d": "<p>2740 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

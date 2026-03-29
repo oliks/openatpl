@@ -1,0 +1,14 @@
+{
+  "number": 48,
+  "questionId": 69432,
+  "questionNumber": "313720",
+  "stemHtml": "<p>Given:</p><p>Basic Empty Mass: 1799 lb<br>Pilot + Passenger: 300 lb<br>Cargo: 350 lb<br>Ramp Fuel (Block Fuel): 60 Gal<br>Trip Fuel: 35 Gal<br>Taxi Fuel: 1.7 Gal<br>Final Reserve Fuel: 18 Gal<br>Fuel Density: 6 lb/Gal</p><p>What is the expected landing mass?</p>",
+  "options": {
+    "a": "2557 lb",
+    "b": "2472 lb",
+    "c": "2589 lb",
+    "d": "2599 lb"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

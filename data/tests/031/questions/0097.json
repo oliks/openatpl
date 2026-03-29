@@ -1,0 +1,14 @@
+{
+  "number": 97,
+  "questionId": 79561,
+  "questionNumber": "315891",
+  "stemHtml": "<p>The mass and balance information gives the following information: <br><br>Basic Empty Mass: 1095 kg <br>CG at BEM: 1.98 m (25% MAC) <br>MAC: 2 m <br><br>In the mass and balance section of the flight manual the following information is given : <br><br>Pilot and front seat occupant: 80 kg each <br>front seats arm: 2.5 m <br>rear seats arm: 3.2 m <br>rear hold arm: 2.7 m <br>fuel tanks arm: 1.9 m <br><br>Fuel tanks contain 139 litres of 100LL with a density of 0.72. The rear seats are not occupied. Taxi fuel is negligable. <br>The position of the centre of gravity in percentage of Mean Aerodynamic Chord at take-off is\u2026</p>",
+  "options": {
+    "a": "28% MAC",
+    "b": "31% MAC",
+    "c": "30% MAC",
+    "d": "73% MAC"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

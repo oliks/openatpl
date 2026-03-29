@@ -1,0 +1,14 @@
+{
+  "number": 341,
+  "questionId": 80272,
+  "questionNumber": "316460",
+  "stemHtml": "What is correct about conversion of fuel volume to mass?",
+  "options": {
+    "a": "It may be done by using standard fuel density values as specified in the Operations Manual, if the actual fuel density is not known.",
+    "b": "It must be done using fuel density values of 0.79 for JP 1 and 0.76 for JP 4 as specified in JAR - OPS, IEM - OPS 1.605E.",
+    "c": "It may be done by using standard fuel density values as specified in JAR - OPS 1.",
+    "d": "It must be done by using actual measured fuel density values."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

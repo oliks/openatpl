@@ -1,0 +1,14 @@
+{
+  "number": 258,
+  "questionId": 109533,
+  "questionNumber": "312663",
+  "stemHtml": "<p>During dispatch, you perform the Mass and Balance calculations. Given the following information, calculate the Zero Fuel Mass CG in inches aft of the datum.</p><p>Basic Empty Mass: 2635 lb <br>Basic Empty Mass Moment: 204 397.5 in.lb <br>Front Seat Occupant's Mass: 93 lb <br>Front Seat Occupant's Arm: 78 in <br>Aft Seat Occupant's Mass: 186 lb <br>Aft Seat Occupant's Arm: 119 in <br>Block Fuel: 850 lb <br>Taxi Fuel: 320 lb <br>Fuel Arm: 83 in</p>",
+  "options": {
+    "a": "<p>80.22</p>",
+    "b": "<p>79.84</p>",
+    "c": "<p>81.35</p>",
+    "d": "<p>84.76</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

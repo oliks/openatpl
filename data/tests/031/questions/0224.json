@@ -1,0 +1,14 @@
+{
+  "number": 224,
+  "questionId": 80277,
+  "questionNumber": "311221",
+  "stemHtml": "<p>Given the following information, determine the maximum traffic load of an aircraft which is about to take-off:</p><p>MSTOM: 8600 kg<br>PLTOM: 8470 kg<br>DOM: 5110 kg<br>Crew and special operating equipment: 290 kg<br>Take-off fuel: 1460 kg</p>",
+  "options": {
+    "a": "<p>1900 kg</p>",
+    "b": "<p>2360 kg</p>",
+    "c": "<p>3200 kg</p>",
+    "d": "<p>3650 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

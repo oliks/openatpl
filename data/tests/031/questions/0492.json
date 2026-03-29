@@ -1,0 +1,14 @@
+{
+  "number": 492,
+  "questionId": 100024,
+  "questionNumber": "319244",
+  "stemHtml": "<p>The flight crew by mistake sets the stabiliser trim to 4.0 and flaps 15. Which of the following statements is correct regarding the effect this will have on the aeroplane during the take-off acceleration up to V<sub>R</sub> (rotation speed), given the following data?</p><p>Forward CG limit: 6 % MAC <br /> Aft CG limit: 34 % MAC <br /> Actual CG position: 7% MAC <br /> Actual Take-Off Mass: 80 000 kg <br /> For flaps 15, with the actual CG position, the required stabiliser trim setting: 5 - 5.1</p>",
+  "options": {
+    "a": "<p>This will move the actual CG position to 4 % and the aircraft will be out of limits.</p>",
+    "b": "The trim settings will still be within limits and the aeroplane will feel \"normal\".",
+    "c": "The aeroplane will be \"tail heavy\" and the take-off run will be longer.",
+    "d": "The aeroplane will be \"nose heavy\" and need a longer take-off run."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

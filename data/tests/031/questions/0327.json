@@ -1,0 +1,14 @@
+{
+  "number": 327,
+  "questionId": 82179,
+  "questionNumber": "317631",
+  "stemHtml": "<p>A flight log excerpt gives the following planning data for a Commercial Air Transport Flight. What is the maximum allowed traffic load for this flight?</p>\r\r<p>Maximum Take-Off Mass: 62 800 kg <br /> \rMaximum Landing Mass: 54 900 kg <br /> \rMaximum Zero Fuel Mass: 50 300 kg <br /> \rPerformance-Limited Take-off Mass at Departure: 59 600 kg <br /> \rPerformance-Limited Landing Mass at destination: 54 500 kg <br /> \rDry Operating Mass: 34 750 kg <br /> \rBlock Fuel: 10 810 kg <br /> \rTaxi Fuel: 150 kg <br /> \rTrip Fuel: 5800 kg <br /> \rContingency Fuel: 290 kg <br /> \rAlternate Fuel: 850 kg <br /> \rFinal Reserve Fuel: 1080 kg</p>",
+  "options": {
+    "a": "<p>14 190 kg</p>",
+    "b": "<p>15 550 kg</p>",
+    "c": "<p>14 340 kg</p>",
+    "d": "<p>16 830 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

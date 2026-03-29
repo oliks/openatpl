@@ -1,0 +1,14 @@
+{
+  "number": 450,
+  "questionId": 69424,
+  "questionNumber": "319019",
+  "stemHtml": "<p>Given:</p>\r\r<p>Aeroplane mass = 36 000 kg <br /> \rCentre of gravity (cg) is located at station 17 m</p>\r\r<p>What is the effect on cg location if you move 20 passengers (total mass = 1 600 kg) from station 16 to station 23?</p>\r\r<div> </div>",
+  "options": {
+    "a": "<p>It moves forward by 0.157 m.</p>",
+    "b": "<p>It moves aft by 0.157 m.</p>",
+    "c": "<p>It moves aft by 0.31 m.</p>",
+    "d": "<p>It moves aft by 3.22 m.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

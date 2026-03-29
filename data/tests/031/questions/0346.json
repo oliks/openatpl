@@ -1,0 +1,14 @@
+{
+  "number": 346,
+  "questionId": 97996,
+  "questionNumber": "317534",
+  "stemHtml": "<p>An aircraft has its datum at the nose. The front seats are 65 inches aft of datum, the passenger seats are 105 inches aft and the separate baggage compartment is 145 inches aft. The aft limit is 157 inches aft. The current mass is 2570 lb.</p><p>Three passengers are in the rear seats, with the baggage compartment full, and they all want to sit together so the front seat is empty. However, the pilot is very light and, in this situation, the Centre of Gravity (CG) of the aircraft is 3 inches behind the aft limit.</p><p>Ignoring maximum mass limits, how much additional extra ballast must be secured in the front seat to bring the CG to the authorised limit?</p>",
+  "options": {
+    "a": "<p>148 lb</p>",
+    "b": "<p>84 lb</p>",
+    "c": "<p>81 lb</p>",
+    "d": "<p>119 lb</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

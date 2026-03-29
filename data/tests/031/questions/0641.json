@@ -1,0 +1,14 @@
+{
+  "number": 641,
+  "questionId": 85697,
+  "questionNumber": "316219",
+  "stemHtml": "<p>Given the following information, calculate the traffic load...</p><p>Operating Mass: 5720 kg <br>Zero Fuel Mass: 5160 kg <br>MZFM: 5978 kg <br>Take-off Fuel: 1735 kg <br>Block Fuel: 1770 kg</p>",
+  "options": {
+    "a": "<p>1175 kg</p>",
+    "b": "<p>1210 kg</p>",
+    "c": "<p>1993 kg</p>",
+    "d": "<p>2028 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

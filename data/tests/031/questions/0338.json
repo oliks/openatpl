@@ -1,0 +1,14 @@
+{
+  "number": 338,
+  "questionId": 101445,
+  "questionNumber": "318914",
+  "stemHtml": "<p>Given the following data for a flight, what is the usable take-off fuel mass loaded on board?</p><p>Actual Take-off Mass: 62 800 kg <br>Dry Operating Mass: 34 200 kg <br>Crew and its baggage mass: 500 kg <br>Passengers and their baggage mass: 13 300 kg <br>Cargo mass: 5700 kg</p>",
+  "options": {
+    "a": "<p>9100 kg</p>",
+    "b": "<p>9600 kg</p>",
+    "c": "15 300 kg",
+    "d": "22 900 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

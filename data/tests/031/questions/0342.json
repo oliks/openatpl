@@ -1,0 +1,14 @@
+{
+  "number": 342,
+  "questionId": 69356,
+  "questionNumber": "317164",
+  "stemHtml": "Determine the maximum fuel load that can be carried in the following conditions:\n<div>\n<p> </p>\n\n<div>Dry Operating Mass: 2800 kg</div>\n\n<div>Trip Fuel: 300 kg</div>\n\n<div>Traffic Load: 400 kg</div>\n\n<div>Maximum Take-off Mass: 4200 kg</div>\n\n<div>Maximum Landing Mass: 3700 kg</div>\n</div>",
+  "options": {
+    "a": "1000 kg",
+    "b": "800 kg",
+    "c": "700 kg",
+    "d": "500 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

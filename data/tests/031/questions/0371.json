@@ -1,0 +1,14 @@
+{
+  "number": 371,
+  "questionId": 159931,
+  "questionNumber": "311728",
+  "stemHtml": "<p>An aircraft with one nose landing gear and two main landing gears is weighed on jacks. Determine the aircraft BEM and CG position, using the following readouts:</p><p>Nose landing gear, located at 24 inches forward of datum reading: 2444 kg\u00a0<br>Each main landing gear, located at 795 inches aft of datum reading: 13 738 kg</p>",
+  "options": {
+    "a": "<p>29 920 kg and 728.1 inches forward of datum.</p>",
+    "b": "<p>33 924 kg and 710 inches aft of datum.</p>",
+    "c": "<p>29 920 kg and 728.1 inches aft of datum.</p>",
+    "d": "<p>33 924 kg and 583.7 inches aft of datum.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

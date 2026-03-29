@@ -1,0 +1,14 @@
+{
+  "number": 558,
+  "questionId": 163337,
+  "questionNumber": "314709",
+  "stemHtml": "<p>Given the following information, calculate the centre of gravity at take-off.</p><p>Engine/Gearbox Oil = 14 lb (included in BEM)\u00a0<br>Maximum Take-Off Mass = 1760 lb</p><figure class=\"table\"><table><tbody><tr><td><p style=\"text-align:center;\">\u00a0</p></td><td><p style=\"text-align:center;\">Mass (lb)</p></td><td><p style=\"text-align:center;\">Arm (in)</p></td><td><p style=\"text-align:center;\">Moments (lb/in)</p></td></tr><tr><td><p style=\"text-align:center;\">BEM</p></td><td><p style=\"text-align:center;\">1126.4</p></td><td><p style=\"text-align:center;\">100.1</p></td><td><p style=\"text-align:center;\">112 752.6</p></td></tr><tr><td><p style=\"text-align:center;\">Pilot</p></td><td><p style=\"text-align:center;\">184.8</p></td><td><p style=\"text-align:center;\">83.2</p></td><td><p style=\"text-align:center;\">15 375.4</p></td></tr><tr><td><p style=\"text-align:center;\">Passenger Front Seat</p></td><td><p style=\"text-align:center;\">171.3</p></td><td><p style=\"text-align:center;\">83.2</p></td><td><p style=\"text-align:center;\">14 252.2</p></td></tr><tr><td><p style=\"text-align:center;\">Passenger Centre Seat</p></td><td><p style=\"text-align:center;\">116.2</p></td><td><p style=\"text-align:center;\">80.0</p></td><td><p style=\"text-align:center;\">9296.0</p></td></tr><tr><td><p style=\"text-align:center;\">Fuel</p></td><td><p style=\"text-align:center;\">159.4</p></td><td><p style=\"text-align:center;\">108.5</p></td><td><p style=\"text-align:center;\">17 294.9</p></td></tr></tbody></table></figure><p>\u00a0</p>",
+  "options": {
+    "a": "<p>87.05 in <br />  </p>",
+    "b": "<p>92.40 in <br />  </p>",
+    "c": "<p>96.11 in <br />  </p>",
+    "d": "<p>116.50 in</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

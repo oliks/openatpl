@@ -1,0 +1,14 @@
+{
+  "number": 518,
+  "questionId": 106484,
+  "questionNumber": "314484",
+  "stemHtml": "<p>A pallet of 1 500 kg needs to be removed from the cargo hold situated at the position of 1 650 cm. The new total mass after removal of the pallet will be 19 340 kg and the new CG at 1 270 cm. The forward CG limit is at 860 cm and the aft CG limit is at 1 360 cm. By mistake another package of 1 500 kg is removed from a position of 680 cm and the original pallet at 1 650 cm is left on board. What is the new CG?</p>",
+  "options": {
+    "a": "<p>40 cm aft of the aft CG limit.</p>",
+    "b": "<p>40 cm forward of the aft CG limit.</p>",
+    "c": "<p>15 cm aft of the aft CG limit.</p>",
+    "d": "<p>15 cm forward of the aft CG limit.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

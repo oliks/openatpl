@@ -1,0 +1,14 @@
+{
+  "number": 289,
+  "questionId": 83592,
+  "questionNumber": "315715",
+  "stemHtml": "<p>Given the following fuel masses, calculated by the pilot of a light aircraft with the following mass limitations, according to the Limitation section of the Aircraft Flight Manual, what is the maximum traffic load for this flight?</p><p>Block Fuel: 890 kg <br>Trip Fuel: 480 kg <br>Taxi Fuel: 25 kg</p><p>Maximum Structural Take-Off Mass: 5800 kg <br>Performance-Limited Take-Off Mass: 5650 kg <br>Performance-Limited Landing Mass: 4700 kg <br>Today's Flight Dry Operating Mass: 2970 kg</p>",
+  "options": {
+    "a": "<p>1965 kg</p>",
+    "b": "865 kg",
+    "c": "1815 kg",
+    "d": "<p>1345 kg</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

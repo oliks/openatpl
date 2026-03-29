@@ -1,0 +1,14 @@
+{
+  "number": 542,
+  "questionId": 106456,
+  "questionNumber": "316685",
+  "stemHtml": "<p>The CG limits of an aircraft are between 4.08 m and 4.32 m aft of the datum. The Take-Off Mass of an aircraft is 3195 kg and the calculated CG is at 4.35 m aft of the datum. If a mass of 84 kg can be moved, what is the distance the mass should be moved in order to get a CG at the aft limit?</p>",
+  "options": {
+    "a": "<p>10 cm aft</p>",
+    "b": "<p>88 cm forward</p>",
+    "c": "<p>114 cm forward</p>",
+    "d": "<p>152 cm aft</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 665,
+  "questionId": 69427,
+  "questionNumber": "319991",
+  "stemHtml": "<p>Determine the ramp mass in the following conditions:</p><p>Basic empty mass (BEM): 3 210 lb <br>Arm for BEM: 88.5 in <br>One pilot: 160 lb <br>Front seat passenger: 200 lb <br>Centre seat passengers: 290 lb <br>One passenger rear seat: 110 lb <br>Baggage in zone 1: 100 lb <br>Baggage in zone 4: 50 lb <br>Block fuel: 100 US Gal. <br>Trip fuel: 55 US Gal. <br>Fuel for start up and taxi: 3 US Gal. <br>Fuel density: 6 lb/US Gal.</p>",
+  "options": {
+    "a": "4 120 lb",
+    "b": "4 720 lb",
+    "c": "4 372 lb",
+    "d": "4 390 lb"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 512,
+  "questionId": 80286,
+  "questionNumber": "317940",
+  "stemHtml": "<p>What happens if the CG is aft of the rear limit?</p>",
+  "options": {
+    "a": "<p>Control forces will increase.</p>",
+    "b": "<p>Controllability decreases.</p>",
+    "c": "<p>Stability decreases.</p>",
+    "d": "<p>Stability increases.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

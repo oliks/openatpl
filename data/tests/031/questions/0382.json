@@ -1,0 +1,14 @@
+{
+  "number": 382,
+  "questionId": 78081,
+  "questionNumber": "312355",
+  "stemHtml": "<p>Calculate the centre of gravity location for the take-off mass, given:</p>\n\n<p>BEM: 2 635 lb <br /> \nBEM moment: 204 793.5 in.lb <br /> \nMass on front seat: 90 lb <br /> \nArm on front seat: 78 in <br /> \nMass on aft seat: 186 lb <br /> \nArm on aft seat: 117 in <br /> \nBlock fuel: 850 lb <br /> \nTaxi fuel: 85 lb <br /> \nFuel arm: 86 in</p>",
+  "options": {
+    "a": "80.66 inches aft of datum.",
+    "b": "81.25 inches aft of datum.",
+    "c": "81.44 inches aft of datum.",
+    "d": "81.54 inches aft of datum."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

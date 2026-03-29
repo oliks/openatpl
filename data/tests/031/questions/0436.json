@@ -1,0 +1,14 @@
+{
+  "number": 436,
+  "questionId": 80283,
+  "questionNumber": "312033",
+  "stemHtml": "Determine the mass that needs to be moved from hold 1 to 3 to relocate the CG to 40% MAC, given: <br />  <br /> Length of the mean aerodynamic chord 7.5 m <br /> Moment arm of hold 1: -4.50 m <br /> Moment arm of hold 2: -1.50 m <br /> Moment arm of hold 3: 2.75 m <br /> Moment arm of hold 4: 5.5 m <br />  <br /> The aircraft mass is 22000 kg and its CG is at 25% MAC.",
+  "options": {
+    "a": "3 330 kg.",
+    "b": "3 415 kg.",
+    "c": "5 550 kg.",
+    "d": "5 876 kg."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 531,
+  "questionId": 69421,
+  "questionNumber": "318048",
+  "stemHtml": "<p>Calculate the Centre of Gravity in % MAC (mean aerodynamic chord) with following data:</p><p>Distance datum \u2013 Centre of Gravity: 12.53 m</p><p>Distance datum \u2013 leading edge of the MAC: 9.63 m</p><p>Length of MAC: 8 m</p>",
+  "options": {
+    "a": "63.4% MAC",
+    "b": "36.3% MAC",
+    "c": "23.1% MAC",
+    "d": "47.0% MAC"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

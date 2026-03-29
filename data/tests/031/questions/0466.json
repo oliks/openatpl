@@ -1,0 +1,14 @@
+{
+  "number": 466,
+  "questionId": 69498,
+  "questionNumber": "314103",
+  "stemHtml": "What are the advantages of using the Index method to determine moments? It..",
+  "options": {
+    "a": "reduces the magnitude of moments, making it less time-consuming to compute.",
+    "b": "regroups different loading zones in single indexes, reducing the complexity of the load and trim sheet.",
+    "c": "is digitalised and can be automatically uploaded to the aircraft FMC to determine stabiliser trim.",
+    "d": "directly produces the position of the CG and the stabiliser trim setting."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

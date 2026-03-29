@@ -1,0 +1,14 @@
+{
+  "number": 580,
+  "questionId": 82175,
+  "questionNumber": "318100",
+  "stemHtml": "<p>The dispatcher has informed you that the Actual Traffic Load for your flight is 1459 kg. Given the following conditions, what is the maximum block fuel you can carry without exceeding the allowed take off mass.</p>\r\r<p>Dry Operating Mass: 4737 kg <br /> \rMaximum Zero Fuel Mass: 6428 kg <br /> \rAllowed Take-Off Mass: 8100 kg <br /> \rTaxi Fuel: 35 kg</p>\r\r<p>Assume no restrictions on the Landing Mass.</p>",
+  "options": {
+    "a": "<p>1904 kg</p>",
+    "b": "<p>1672 kg</p>",
+    "c": "<p>1939 kg</p>",
+    "d": "<p>1707 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}
