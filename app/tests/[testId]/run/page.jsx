@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import TestRunner from "@/components/TestRunner";
-import { getTestById, selectQuestions } from "@/lib/test-bank";
+import { getTestById, selectQuestions, loadSelectedQuestions } from "@/lib/test-bank";
 
 export const dynamic = "force-dynamic";
 
@@ -26,9 +26,7 @@ function parseQuestionIds(value) {
   const unique = new Set();
   for (const rawItem of value.split(",")) {
     const item = rawItem.trim();
-    if (!/^\d+$/.test(item)) {
-      continue;
-    }
+    if (!item) continue;
     unique.add(item);
   }
   return [...unique];
@@ -44,17 +42,17 @@ export default async function RunTestPage({ params, searchParams }) {
 
   const explicitQuestionIds = parseQuestionIds(resolvedSearchParams?.questionIds);
   const explicitQuestionIdSet = new Set(explicitQuestionIds);
-  const scopedQuestions = explicitQuestionIds.length
-    ? test.questions.filter((question) => explicitQuestionIdSet.has(String(question.id)))
-    : test.questions;
+  const scopedEntries = explicitQuestionIds.length
+    ? test.entries.filter((entry) => explicitQuestionIdSet.has(String(entry.id)))
+    : test.entries;
 
-  if (!scopedQuestions.length) {
+  if (!scopedEntries.length) {
     notFound();
   }
 
   const fallbackCount = explicitQuestionIds.length
-    ? scopedQuestions.length
-    : Math.min(25, scopedQuestions.length || 1);
+    ? scopedEntries.length
+    : Math.min(25, scopedEntries.length || 1);
   const requestedCount = parsePositiveInt(resolvedSearchParams?.count, fallbackCount);
   const savedTestId = typeof resolvedSearchParams?.savedTestId === "string" && resolvedSearchParams.savedTestId
     ? resolvedSearchParams.savedTestId
@@ -63,11 +61,18 @@ export default async function RunTestPage({ params, searchParams }) {
   const seed = typeof resolvedSearchParams?.seed === "string" && resolvedSearchParams.seed
     ? resolvedSearchParams.seed
     : `${Date.now()}-${test.id}-${requestedCount}`;
-  const selectedQuestions = selectQuestions(scopedQuestions, {
+  const selectedEntries = selectQuestions(scopedEntries, {
     count: requestedCount,
     randomize: true,
     seed,
   });
+
+  if (!selectedEntries.length) {
+    notFound();
+  }
+
+  // Only load the selected question files from disk
+  const selectedQuestions = await loadSelectedQuestions(test, selectedEntries);
 
   if (!selectedQuestions.length) {
     notFound();
@@ -75,7 +80,7 @@ export default async function RunTestPage({ params, searchParams }) {
 
   const sessionKey = savedTestId
     ? `saved|${savedTestId}`
-    : `${test.id}|${selectedQuestions.length}|rand|${seed}|scope-${scopedQuestions.length}`;
+    : `${test.id}|${selectedQuestions.length}|rand|${seed}|scope-${scopedEntries.length}`;
 
   return (
     <main className="runner-shell">
