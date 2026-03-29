@@ -1,0 +1,14 @@
+{
+  "number": 372,
+  "questionId": 106647,
+  "questionNumber": "103504",
+  "stemHtml": "<p>ATC clears an aircraft to hold at VENSA at FL080. According to recent weather reports, embedded cumulonimbus clouds and hail exist from FL070 and above. The AWR (Airborne Weather Radar) of the aircraft is unserviceable. What is the appropriate course of action by the flight crew?</p>",
+  "options": {
+    "a": "<p>Advise ATC as soon as possible that they are unable to comply with the clearance due to safety concerns.</p>",
+    "b": "<p>Upon reaching VESNA, request a new flight level from ATC to avoid the adverse weather.</p>",
+    "c": "<p>Fly to VESNA and hold at FL080 as initially cleared.</p>",
+    "d": "<p>Divert to an alternate airport to avoid the adverse weather conditions.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

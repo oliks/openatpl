@@ -1,0 +1,14 @@
+{
+  "number": 1812,
+  "questionId": 160088,
+  "questionNumber": "223328",
+  "stemHtml": "<p>Regarding the Control Wheel Steering (CWS) and Touch Control Steering (TCS) modes of an autopilot.  What are the main differences?</p>",
+  "options": {
+    "a": "<p>In CWS mode the autopilot servos remain engaged, whereas in TCS the servos are temporarily disengaged while the pilot repositions the controls.</p>",
+    "b": "<p>In CWS mode the servos are disconnected, whereas in TCS they remain engaged.</p>",
+    "c": "<p>CWS is used only during approach, while TCS is used only in cruise.</p>",
+    "d": "<p>There is no functional difference; CWS and TCS are different names for the same mode.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

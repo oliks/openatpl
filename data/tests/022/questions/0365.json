@@ -1,0 +1,14 @@
+{
+  "number": 365,
+  "questionId": 68745,
+  "questionNumber": "225741",
+  "stemHtml": "<p>The uplink datalink message \"AT [time] CLIMB TO AND MAINTAIN [altitude]\" means\u2026</p>",
+  "options": {
+    "a": "after the climb the specified altitude is to be maintained until the specified time.",
+    "b": "after the climb the specified altitude is to be maintained from the specified time.",
+    "c": "at the specified time the specified altitude is to be reached.",
+    "d": "at the specified time a climb to the specified altitude is to be started and the specified altitude is to be maintained."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

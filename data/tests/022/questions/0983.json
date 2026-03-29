@@ -1,0 +1,14 @@
+{
+  "number": 983,
+  "questionId": 81803,
+  "questionNumber": "227596",
+  "stemHtml": "<p>A pilot is manually flying an ILS approach. The Flight Director roll bar is to the left of centre, but the ILS raw data indicator is to the right. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Switch off the Flight Director and follow the raw data. This indication scenario shows an obvious fault in the system.</p>",
+    "b": "<p>Ignore both indicators and revert to visual flight.</p>",
+    "c": "<p>Follow the Flight Director, which is indicating the correct course of action to return to the centreline.</p>",
+    "d": "<p>Initiate an immediate go around.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

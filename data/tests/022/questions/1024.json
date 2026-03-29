@@ -1,0 +1,14 @@
+{
+  "number": 1024,
+  "questionId": 81885,
+  "questionNumber": "228382",
+  "stemHtml": "<p>What is the primary difference between a TAWS/HTAWS system and a GPWS system?</p>",
+  "options": {
+    "a": "<p>There are NO noticeable differences between TAWS/HTAWS and GPWS, they are only different marketing names used by different manufacturers for the same system.</p>",
+    "b": "<p>The TAWS/HTAWS system relies only on downward-looking radar altimeters and CANNOT look ahead, while the GPWS can look ahead by also using a 3D terrain database.</p>",
+    "c": "<p>The GPWS system relies only on downward-looking radar altimeters and CANNOT look ahead, while the TAWS/HTAWS can look ahead by also using a 3D terrain database.</p>",
+    "d": "<p>GPWS is only available for aeroplanes, while TAWS is available for both aeroplanes (TAWS) and helicopters (HTAWS).</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

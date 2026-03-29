@@ -1,0 +1,14 @@
+{
+  "number": 1358,
+  "questionId": 84468,
+  "questionNumber": "227864",
+  "stemHtml": "<p>The commander\u2019s Primary Flight Display (PFD) screen fails. Which of the following statements is correct regarding the display reconfiguration?</p>",
+  "options": {
+    "a": "<p>The commander\u2019s PFD display is automatically duplicated on the screen corresponding to the commander\u2019s ND.</p>",
+    "b": "<p>Commander's PFD display is automatically duplicated on the screen corresponding to the copilot\u2019s ND.</p>",
+    "c": "<p>Commander's PFD will remain unreliable for the rest of the flight.</p>",
+    "d": "Reconfiguration is not possible since the screen is not working."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

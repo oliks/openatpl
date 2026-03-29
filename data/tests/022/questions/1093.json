@@ -1,0 +1,14 @@
+{
+  "number": 1093,
+  "questionId": 68898,
+  "questionNumber": "222639",
+  "stemHtml": "What data are displayed on the Navigation Display (ND) of an EFIS equipped aircraft?",
+  "options": {
+    "a": "Intruder alerts, altitude, autopilot active modes, and weather radar.",
+    "b": "A terrain map, navigation aids, bearings, and flight director active modes.",
+    "c": "The flight plan, engine failure, navigation aids, and resolution advisories.",
+    "d": "The flight plan, weather radar, terrain map, and intruder alerts."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

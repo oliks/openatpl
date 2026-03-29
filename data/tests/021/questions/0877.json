@@ -1,0 +1,14 @@
+{
+  "number": 877,
+  "questionId": 159540,
+  "questionNumber": "218141",
+  "stemHtml": "<p>Which statement correctly describes the operation of a cockpit fixed oxygen system, specifically when using a diluter-demand regulator?</p>",
+  "options": {
+    "a": "<p>Above a certain cabin altitude, a diluter-demand regulator selected to NORMAL will eventually provide 100% oxygen.     <br />      </p>",
+    "b": "<p>A diluter-demand regulator selected to NORMAL supplies a mixture of air and oxygen sourced from a diluter air tank.     <br />      </p>",
+    "c": "<p>Only when descending through a certain cabin altitude, a diluter-demand regulator selected to 100% will deliver 100% oxygen.     <br />      </p>",
+    "d": "<p>A diluter-demand regulator decreases oxygen pressure from 1800 psi (in the cylinders), down to about 50 - 75 psi (low pressure system).</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

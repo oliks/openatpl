@@ -1,0 +1,14 @@
+{
+  "number": 52,
+  "questionId": 85550,
+  "questionNumber": "228538",
+  "stemHtml": "Which formula represents the correct relationship between the following parameters?   <br />   P: power   <br />   T: torque   <br />   n: RPM   <br />   GS: ground speed   <br />   TAS: true air speed",
+  "options": {
+    "a": "P = T \u00d7 GS",
+    "b": "P = T / (2 \u00d7 \u03c0 \u00d7 n \u00d7 60)",
+    "c": "P = T x (2 \u00d7 \u03c0 \u00d7 n / 60)",
+    "d": "P = T \u00d7 TAS"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

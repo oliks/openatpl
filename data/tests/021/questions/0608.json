@@ -1,0 +1,24 @@
+{
+  "number": 608,
+  "questionId": 84585,
+  "questionNumber": "214284",
+  "stemHtml": "<p>Refer to figure. <br /> \rThere is a generator control switch on the flight deck. Using the annex above, which generator does this switch directly control?</p>",
+  "options": {
+    "a": "<p>The main generator.</p>",
+    "b": "<p>The tacho generator.</p>",
+    "c": "<p>The exciter generator.</p>",
+    "d": "<p>The permanent magnet generator.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 69982,
+      "uniqueKey": "88d6c137-bd11-477a-97e0-b63dc200fe38",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=88d6c137-bd11-477a-97e0-b63dc200fe38",
+      "publicUrl": "/attachments/021/88d6c137-bd11-477a-97e0-b63dc200fe38.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/88d6c137-bd11-477a-97e0-b63dc200fe38.png"
+    }
+  ]
+}

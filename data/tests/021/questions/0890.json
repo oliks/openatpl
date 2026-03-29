@@ -1,0 +1,24 @@
+{
+  "number": 890,
+  "questionId": 67781,
+  "questionNumber": "217725",
+  "stemHtml": "Refer to figure. <br /> When all AC generators are lost in flight and the EMER GEN is not available, the AC ESS BUS can be fed by the batteries, when: (NB: all contactors not mentioned are assumed to remain open)",
+  "options": {
+    "a": "C7.3, C7.4, C5.3 and C3.2 are closed.",
+    "b": "C6.1 and C6.2 are closed and the bus is switched to the static inverter.",
+    "c": "C7.2, C7.1, C5.1 and C3.1 are closed via the static inverter.",
+    "d": "C6.1, C6.2 and C5.2 are closed."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 55853,
+      "uniqueKey": "6a35921e-25c5-49d0-b22d-ae920c89aa2c",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6a35921e-25c5-49d0-b22d-ae920c89aa2c",
+      "publicUrl": "/attachments/021/6a35921e-25c5-49d0-b22d-ae920c89aa2c.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/6a35921e-25c5-49d0-b22d-ae920c89aa2c.jpg"
+    }
+  ]
+}

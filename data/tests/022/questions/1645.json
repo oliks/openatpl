@@ -1,0 +1,24 @@
+{
+  "number": 1645,
+  "questionId": 115495,
+  "questionNumber": "221447",
+  "stemHtml": "<p>Refer to figure.     <br />    Regarding the airspeed display shown in the annex, the input pressure source is\u2026</p>",
+  "options": {
+    "a": "<p>calculated within the instrument, in analogue form, by subtracting static pressure from pitot pressure.</p>",
+    "b": "<p>Pitot and static which is then fed to the ADC</p>",
+    "c": "<p>Static, and it is converted into a digital signal by a transducer</p>",
+    "d": "<p>Pitot, and it is converted into a digital signal by a transducer</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 68445,
+      "uniqueKey": "11a40d9a-3863-4ded-8d6c-76a47ebe3608",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=11a40d9a-3863-4ded-8d6c-76a47ebe3608",
+      "publicUrl": "/attachments/022/11a40d9a-3863-4ded-8d6c-76a47ebe3608.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/11a40d9a-3863-4ded-8d6c-76a47ebe3608.png"
+    }
+  ]
+}

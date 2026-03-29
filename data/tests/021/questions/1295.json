@@ -1,0 +1,24 @@
+{
+  "number": 1295,
+  "questionId": 100150,
+  "questionNumber": "218789",
+  "stemHtml": "<p>Refer to figure. <br>In the event of the failure of both generators during flight, which contactors need to be closed to feed the AC 2 EMER BUS?</p><p>(Note: all contactors not mentioned are assumed to remain open)</p>",
+  "options": {
+    "a": "BAT1, BAT TIE, B2 and INV.",
+    "b": "BAT2, BAT TIE, B1 and INV.",
+    "c": "BAT2, TRU and AC1.",
+    "d": "BAT1, DCTIE and INV."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 56377,
+      "uniqueKey": "763862fd-c320-4550-838b-f6d6348a5256",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=763862fd-c320-4550-838b-f6d6348a5256",
+      "publicUrl": "/attachments/021/763862fd-c320-4550-838b-f6d6348a5256.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/763862fd-c320-4550-838b-f6d6348a5256.jpg"
+    }
+  ]
+}

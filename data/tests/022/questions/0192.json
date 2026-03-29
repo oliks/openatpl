@@ -1,0 +1,14 @@
+{
+  "number": 192,
+  "questionId": 84478,
+  "questionNumber": "226373",
+  "stemHtml": "<p>Before shutdown at the end of the flight, the pilot wants to calculate the drift error of the IRU. What are the two parameters that need to be inserted into an IRU to obtain an error in NM/hr?</p>\r\n",
+  "options": {
+    "a": "Ramp position coordinates and hours of IRU operation.",
+    "b": "Average TAS and hours of IRU operation.",
+    "c": "<p>Average TAS and average Mach Number.</p>",
+    "d": "Average ground speed and flight time."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

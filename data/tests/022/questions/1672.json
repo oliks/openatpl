@@ -1,0 +1,14 @@
+{
+  "number": 1672,
+  "questionId": 68740,
+  "questionNumber": "225954",
+  "stemHtml": "<p>A flight control system is fail-passive if, in the event of a failure\u2026</p>",
+  "options": {
+    "a": "the system operates as a fail-operational system.",
+    "b": "there is no significant out-of-trim condition or deviation of flight path or attitude but the landing is not completed automatically.",
+    "c": "the system operates as a fail-operational hybrid landing system.",
+    "d": "there is no significant out-of-trim condition or deviation of flight path or attitude and the landing is completed automatically."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

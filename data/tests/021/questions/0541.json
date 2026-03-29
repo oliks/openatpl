@@ -1,0 +1,24 @@
+{
+  "number": 541,
+  "questionId": 67693,
+  "questionNumber": "211699",
+  "stemHtml": "<p>Refer to figure. <br>Which of these statements about the fuel system in the annex are correct or incorrect?</p><p>1. If the AC fuel pumps are not running in the system configuration shown in the annex, it is still possible to feed both engines from the main tanks<br>2. If the APU isolation valve opens, the APU fuel shut off valve is closed and there is no AC power, the DC fuel pump can supply fuel to the engines</p>",
+  "options": {
+    "a": "1 is correct, 2 is correct.",
+    "b": "1 is incorrect, 2 is correct.",
+    "c": "1 is correct, 2 is incorrect.",
+    "d": "1 is incorrect, 2 is incorrect."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 49597,
+      "uniqueKey": "0D734364-FFC5-4E18-9AAD-5A6DB54008DB",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=0D734364-FFC5-4E18-9AAD-5A6DB54008DB",
+      "publicUrl": "/attachments/021/0D734364-FFC5-4E18-9AAD-5A6DB54008DB.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/0D734364-FFC5-4E18-9AAD-5A6DB54008DB.jpg"
+    }
+  ]
+}

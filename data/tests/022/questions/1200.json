@@ -1,0 +1,14 @@
+{
+  "number": 1200,
+  "questionId": 81793,
+  "questionNumber": "223177",
+  "stemHtml": "<p>How can an INS/IRS be realigned in flight if alignment is lost for some reason?</p>",
+  "options": {
+    "a": "<p>By setting the INS mode selector to \"ALIGN\" and waiting for the required time.</p>",
+    "b": "<p>By setting the INS mode selector to \"GPS\" and realigning the INSARS through the GPS.</p>",
+    "c": "<p>By setting the INS mode selector to \"ALIGN\" and then flying straight and level with NO airspeed variations for at least 10 minutes.</p>",
+    "d": "<p>It can NOT, the aircraft must be stationary on the ground for alignment to be performed.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

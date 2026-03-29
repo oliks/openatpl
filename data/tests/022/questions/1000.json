@@ -1,0 +1,14 @@
+{
+  "number": 1000,
+  "questionId": 111499,
+  "questionNumber": "224759",
+  "stemHtml": "<p>Given the following information, determine the deviation:</p><p>True heading: 129<strong>\u00b0</strong> <br>Magnetic heading: 135\u00b0 <br>Compass deviation card reading: \u2018\u2019FOR 135\u00b0 STEER 136\u00b0\u2019\u2019</p>",
+  "options": {
+    "a": "<p>1\u00b0W</p>",
+    "b": "<p>1\u00b0E</p>",
+    "c": "<p>6\u00b0W</p>",
+    "d": "<p>6\u00b0E</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

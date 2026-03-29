@@ -1,0 +1,14 @@
+{
+  "number": 881,
+  "questionId": 104401,
+  "questionNumber": "102277",
+  "stemHtml": "<p>When can a \"CLIMB\" TCAS RA be ignored?</p>",
+  "options": {
+    "a": "<p>If you receive a stall warning.</p>",
+    "b": "<p>In case of terrain alert.</p>",
+    "c": "<p>If ATC tells you to ignore the TCAS RA.</p>",
+    "d": "<p>When the conflicting aircraft is at least 5 NM from you.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 209,
+  "questionId": 110448,
+  "questionNumber": "224325",
+  "stemHtml": "<p>An autothrust system can either maintain a specific engine thrust value or it can vary engine thrust. When would autothrust maintain a specific thrust value?</p>\r\r<p>1. Optimum performance when climbing or descending to a new flight level <br /> \r2. Climbing or descending to a new flight level with reduced performance <br /> \r3. Take-off <br /> \r4. Go around <br /> \r5. Cruise <br /> \r6. Descending on a glideslope during an approach</p>",
+  "options": {
+    "a": "<p>1, 3, 4</p>",
+    "b": "<p>2, 3, 4</p>",
+    "c": "<p>1, 2, 5</p>",
+    "d": "<p>2, 3, 5</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1554,
+  "questionId": 68789,
+  "questionNumber": "221724",
+  "stemHtml": "<p>The PFD of an EFIS equipped aircraft displays the following parameters:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 auto-throttle modes</span> <br /> \n2 \u2013 attitude <br /> \n3 \u2013 vertical speed <br /> \n4 \u2013 flight director command bars</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
+  "options": {
+    "a": "1, 2, 4.",
+    "b": "1, 2, 3, 4.",
+    "c": "2, 4.",
+    "d": "2, 3."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1379,
+  "questionId": 68948,
+  "questionNumber": "228095",
+  "stemHtml": "<p>When an INS loses its alignment reference during flight, the\u2026</p>",
+  "options": {
+    "a": "NAV mode is lost until the next alignment is carried out on the ground.",
+    "b": "<p>Pilot must select ALIGN on the mode selector unit and wait for about 10 minutes.</p>",
+    "c": "INS loses all functionality and should be switched off to save electrical power.",
+    "d": "<p>Pilot must select STBY on the mode selector unit and wait for about 3 minutes before switching to the ALIGN mode.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

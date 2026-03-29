@@ -1,0 +1,14 @@
+{
+  "number": 243,
+  "questionId": 121287,
+  "questionNumber": "224358",
+  "stemHtml": "<p>What action should a pilot take in response to a TCAS RA?</p>",
+  "options": {
+    "a": "<p>Set THR CLB and keep the airspeed in the green area on the ASI</p>",
+    "b": "<p>Avoid the red area on the VSI to prevent collision with conflicting traffic</p>",
+    "c": "<p>Set TOGA thrust and climb at maximum rate</p>",
+    "d": "<p>Maintain level flight</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

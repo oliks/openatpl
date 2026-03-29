@@ -1,0 +1,24 @@
+{
+  "number": 962,
+  "questionId": 68122,
+  "questionNumber": "212349",
+  "stemHtml": "Refer to figure. <br /> GEN 2 can be used to feed the DC BAT BUS: (NB: all contactors not mentioned are assumed to remain open)",
+  "options": {
+    "a": "via AC BUS 2 and DC BUS 1 when C1.4, C5.3 and C7.4 are closed.",
+    "b": "via AC BUS 1 and DC BUS 2 when C1.4, C5.3 and C7.4 are closed.",
+    "c": "via AC BUS 1 and DC BUS 1 when C1.4, C5.3 and C7.4 are closed.",
+    "d": "via AC BUS 2 and DC BUS 2 when C1.4, C5.3 and C7.4 are closed."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 51840,
+      "uniqueKey": "0C3B063A-FFB6-49CC-89F6-20BB57BA7087",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=0C3B063A-FFB6-49CC-89F6-20BB57BA7087",
+      "publicUrl": "/attachments/021/0C3B063A-FFB6-49CC-89F6-20BB57BA7087.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/0C3B063A-FFB6-49CC-89F6-20BB57BA7087.png"
+    }
+  ]
+}

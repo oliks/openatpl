@@ -1,0 +1,14 @@
+{
+  "number": 1356,
+  "questionId": 69119,
+  "questionNumber": "221589",
+  "stemHtml": "<p>On the navigation display (ND) of an EFIS equipped aircraft, the colours used are\u2026</p>",
+  "options": {
+    "a": "amber or white for the active waypoint (TO waypoint), yellow for high precipitation.",
+    "b": "magenta or white for the active waypoint (TO waypoint), green for light precipitation.",
+    "c": "magenta or red for the active waypoint (TO waypoint), amber for medium precipitation.",
+    "d": "white or blue for the active waypoint (TO waypoint), red for medium precipitation."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1306,
+  "questionId": 81731,
+  "questionNumber": "225880",
+  "stemHtml": "<p>The data stored in the performance database of an FMS is mainly used\u2026</p>",
+  "options": {
+    "a": "<p>to validate GNSS position and satellite data.</p>",
+    "b": "<p>for LNAV calculations</p>",
+    "c": "<p>to calculate engine thrust settings.</p>",
+    "d": "<p>to calculate IRS positions.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

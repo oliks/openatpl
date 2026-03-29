@@ -1,0 +1,14 @@
+{
+  "number": 697,
+  "questionId": 140453,
+  "questionNumber": "225692",
+  "stemHtml": "<p>An aircrafts autothrottle/autothrust system is capable of providing control modes such as (1) _____ and (2) _____. When the aircraft is taking off, (3) _____ mode is normally selected. When it has reached the selected altitude, the autothrust mode then remains in/switches to (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) Constant thrust output; (2) variable thrust output; (3) TO/GA; (4) SPEED</p>",
+    "b": "<p>(1) Vertical speed; (2) pitch attitude; (3) N1 hold; (4) TO/GA</p>",
+    "c": "<p>(1) Mach or IAS hold; (2) flight path angle; (3) IAS hold; (4) V/S</p>",
+    "d": "<p>(1) Variable thrust output; (2) pitch attitude; (3) SPEED; (4) LVL CHG</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

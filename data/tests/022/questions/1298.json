@@ -1,0 +1,14 @@
+{
+  "number": 1298,
+  "questionId": 80826,
+  "questionNumber": "227627",
+  "stemHtml": "What does the FMS compute during normal LNAV mode?",
+  "options": {
+    "a": "The lateral flight path with regard to the theoretical performance of the aircraft from the performance database.",
+    "b": "The optimum vertical flight profile, taking into account efficient fuel consumption based on the cost index.",
+    "c": "The great circle track between two or more waypoints, based on IRS, VOR, DME and GNSS information.",
+    "d": "The altitude restrictions of the airspace above, and the minimum crossing altitude of a waypoint."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

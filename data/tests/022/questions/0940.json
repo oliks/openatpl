@@ -1,0 +1,14 @@
+{
+  "number": 940,
+  "questionId": 81557,
+  "questionNumber": "226388",
+  "stemHtml": "<p>In an aircraft with conventional flying controls, with the autopilot and auto-trim in operation, what will happen if the pilot manually operates the pitch trim?</p>",
+  "options": {
+    "a": "<p>The trim system will respond, but then the autopilot will re-trim the aircraft.</p>",
+    "b": "<p>The autopilot will continue to fly the aircraft, but it may be out of trim when the pilot disconnects.</p>",
+    "c": "<p>Nothing. Manual trim is inhibited with the autopilot engaged.</p>",
+    "d": "<p>The autopilot will disengage automatically.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

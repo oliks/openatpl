@@ -1,0 +1,14 @@
+{
+  "number": 1316,
+  "questionId": 69049,
+  "questionNumber": "224218",
+  "stemHtml": "<p>Concerning the FMS, the parameters used to work out the vertical flight profile are:</p><p>1 \u2013 zero fuel weight <br>2 \u2013 cost index <br>3 \u2013 fuel quantity <br>4 \u2013 oxygen quantity available for flight crew <br>5 \u2013 minimum safe enroute altitude</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "1, 2, 3.",
+    "b": "1, 2, 3, 5.",
+    "c": "3, 4, 5.",
+    "d": "1, 2, 5."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

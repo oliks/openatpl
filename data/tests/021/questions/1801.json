@@ -1,0 +1,14 @@
+{
+  "number": 1801,
+  "questionId": 82386,
+  "questionNumber": "216394",
+  "stemHtml": "<p>On Fly-By-Wire equipped aircraft, in case of failure of the electric wiring controlling one of the ailerons, the system can...</p>",
+  "options": {
+    "a": "<p>use a different cable with the same computer and actuator.</p>",
+    "b": "<p>use a different actuator with a different computer.</p>",
+    "c": "<p>immediately revert to direct law.</p>",
+    "d": "<p>immediately disconnect the autopilot.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

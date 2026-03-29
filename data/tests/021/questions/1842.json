@@ -1,0 +1,14 @@
+{
+  "number": 1842,
+  "questionId": 68294,
+  "questionNumber": "211701",
+  "stemHtml": "<p>On-board electrical systems are protected against faults of the following type:</p><p>1. AC generator over-voltage <br>2. AC generator under-voltage <br>3. over-current <br>4. over-speed <br>5. under-frequency <br>6. undue vibration of AC generators</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "<p>2, 3, 4, 5, 6</p>",
+    "b": "<p>1, 2, 4, 6</p>",
+    "c": "<p>1, 3, 5, 6</p>",
+    "d": "<p>1, 2, 3, 4, 5</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

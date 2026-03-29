@@ -1,0 +1,14 @@
+{
+  "number": 1588,
+  "questionId": 78767,
+  "questionNumber": "217085",
+  "stemHtml": "<p>What is the working principle of a gaseous fire detection system?</p>",
+  "options": {
+    "a": "<p>A closed tube, when heated, causes the gas inside to expand and trigger an alarm via a pressure switch.</p>",
+    "b": "<p>A closed tube consists of a gas which changes its translucence when heated. Light sensors will sense such change in translucence and trigger an alarm.</p>",
+    "c": "<p>A closed tube, when heated, causes the gas inside to contract which causes a negative pressure and thereby trigger an alarm via a pressure switch.</p>",
+    "d": "<p>A closed tube, when heated, causes the gas inside to become a conductor and thereby triggers an alarm circuit.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

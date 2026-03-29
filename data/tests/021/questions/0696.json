@@ -1,0 +1,14 @@
+{
+  "number": 696,
+  "questionId": 108475,
+  "questionNumber": "218434",
+  "stemHtml": "<p>When should a fuel tank sample be taken on a light aircraft?</p>",
+  "options": {
+    "a": "<p>Before the first refuel of the day, to ensure the absence of contaminants.</p>",
+    "b": "<p>Before the first flight of the day. Filling up the tanks reduces the probability of water condensation forming in the fuel tanks.</p>",
+    "c": "<p>Immediately after every refuel, to ensure the grade of the fuel.</p>",
+    "d": "<p>After the last flight of the day. Emptying the tanks reduces risk of water forming in the tanks overnight.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

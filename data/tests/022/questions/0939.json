@@ -1,0 +1,14 @@
+{
+  "number": 939,
+  "questionId": 80198,
+  "questionNumber": "227964",
+  "stemHtml": "<p>How can the control law of an autopilot control channel be defined as? <br>The relationship between the\u2026</p>",
+  "options": {
+    "a": "Input and output signals at the amplifier level respectively control deviation data and control deflection signals.",
+    "b": "Crew inputs to the computer and the detector responses (returned to the airplane).",
+    "c": "Computer input deviation data and the signals received by the servoactuators.",
+    "d": "Computer input deviation data and the output control deflection signals."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

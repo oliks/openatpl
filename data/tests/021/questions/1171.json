@@ -1,0 +1,24 @@
+{
+  "number": 1171,
+  "questionId": 67783,
+  "questionNumber": "216940",
+  "stemHtml": "Refer to figure. <br /> In case of failure of the TRU 2: (NB: all contactors not mentioned are assumed to remain open)",
+  "options": {
+    "a": "DC BUS 2 cannot be fed via DC BAT BUS.",
+    "b": "DC BUS 2 can be fed by TRU 1 via DC BUS 1 and DC BAT BUS if C5.1, C7.1 and C7.4 are closed.",
+    "c": "DC BUS 2 can be fed by TRU 1 if C3.1 and C3.2 are closed.",
+    "d": "DC BUS 2 can be fed via DC ESS BUS if C5.3, C3.2 and C5.2 are closed."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 46425,
+      "uniqueKey": "E2DBAA89-014F-4BF1-89CE-6AC4C3C05161",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=E2DBAA89-014F-4BF1-89CE-6AC4C3C05161",
+      "publicUrl": "/attachments/021/E2DBAA89-014F-4BF1-89CE-6AC4C3C05161.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/E2DBAA89-014F-4BF1-89CE-6AC4C3C05161.gif"
+    }
+  ]
+}

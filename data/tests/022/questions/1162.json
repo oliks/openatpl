@@ -1,0 +1,14 @@
+{
+  "number": 1162,
+  "questionId": 82342,
+  "questionNumber": "221436",
+  "stemHtml": "<p>In case of EFB malfunction in a fully electronic flight-deck environment, what implications may arise:</p><p>1. Erroneous ECAM alerts<br>2. Erroneous performance calculations<br>3. Access to ACARS is unavailable<br>4. Access to charts and manuals unavailable</p>",
+  "options": {
+    "a": "2, 3, and 4",
+    "b": "1, 2, and 3",
+    "c": "2 and 4",
+    "d": "1 and 3"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 277,
+  "questionId": 114264,
+  "questionNumber": "229357",
+  "stemHtml": "<p>Your aircraft is in a climb to FL90 with the autopilot engaged. As you climb through FL75 ATC asks you to stop climb at FL80. What is the most appropriate action to take?</p>",
+  "options": {
+    "a": "<p>Disconnect the autopilot and manually level off the aircraft at 8000 ft to prevent overshoot.</p>",
+    "b": "<p>Ignore the new clearance and continue to FL090, since it was previously cleared.</p>",
+    "c": "<p>Maintain current vertical speed and select FL080 once passing FL079 to minimize workload.</p>",
+    "d": "<p>Promptly adjust the autopilot target altitude to FL080 and monitor vertical speed to avoid level bust.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

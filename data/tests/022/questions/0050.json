@@ -1,0 +1,14 @@
+{
+  "number": 50,
+  "questionId": 84488,
+  "questionNumber": "226522",
+  "stemHtml": "<p>All GPS signal inputs to the FMS are lost. What is one implication of this?</p>",
+  "options": {
+    "a": "<p>The system will be unable to navigate directly by using great circles.</p>",
+    "b": "<p>The integrity monitoring (RAIM) for RNP approaches will be lost.</p>",
+    "c": "<p>The IRS position will be slower to update.</p>",
+    "d": "<p>The displayed position will be offset.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

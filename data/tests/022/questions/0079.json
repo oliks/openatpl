@@ -1,0 +1,14 @@
+{
+  "number": 79,
+  "questionId": 107113,
+  "questionNumber": "221174",
+  "stemHtml": "<p>On the Primary Flight Display (PFD) of a Boeing 737, how is the pressure fed to the altimeter, and how is it connected?</p>",
+  "options": {
+    "a": "<p>Static pressure, with a line from the static port directly connected to the instrument</p>",
+    "b": "<p>Static pressure, by transducer to the Air Data Computer (ADC) and then to the instrument</p>",
+    "c": "<p>Total pressure, with a direct line to the static port</p>",
+    "d": "<p>Dynamic pressure, with a line from the pitot tube</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

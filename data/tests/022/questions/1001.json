@@ -1,0 +1,14 @@
+{
+  "number": 1001,
+  "questionId": 68752,
+  "questionNumber": "228652",
+  "stemHtml": "<p>The data output from the ADC are:</p><p>1 \u2013 Barometric altitude     <br />    2 \u2013 Mach number     <br />    3 \u2013 CAS     <br />    4 \u2013 TAS     <br />    5 \u2013 SAT</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "1, 2, 3, 4, 5.",
+    "b": "1, 3, 5.",
+    "c": "1, 4.",
+    "d": "2, 3, 4."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

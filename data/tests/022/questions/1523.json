@@ -1,0 +1,14 @@
+{
+  "number": 1523,
+  "questionId": 108710,
+  "questionNumber": "225192",
+  "stemHtml": "<p>Which statement is correct regarding an aircraft equipped with TCAS II?</p>",
+  "options": {
+    "a": "<p>Displays 10 targets, rejects targets outside of 30 NM</p>",
+    "b": "<p>Displays 30 targets, rejects targets outside of 10 NM</p>",
+    "c": "<p>Displays 10 targets, only gives commands in the horizontal plane</p>",
+    "d": "<p>Displays 30 targets, only gives commands in the vertical plane</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

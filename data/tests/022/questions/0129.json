@@ -1,0 +1,14 @@
+{
+  "number": 129,
+  "questionId": 84895,
+  "questionNumber": "221405",
+  "stemHtml": "<p>Angle of Attack vane is damaged during the flight. What will happen if you slow down to the stall?</p>",
+  "options": {
+    "a": "<p>Everything works as normal using alternate ADC.</p>",
+    "b": "The stall warning system will not be triggered.",
+    "c": "Nothing will happen as the stall warning system receives inputs from the static ports and the pitot tube.",
+    "d": "The stall warning will be immediately triggered."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

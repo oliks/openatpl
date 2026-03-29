@@ -1,0 +1,14 @@
+{
+  "number": 904,
+  "questionId": 161953,
+  "questionNumber": "217149",
+  "stemHtml": "<p>Concerning FADEC (Full Authority Digital Engine Control) input/output operations, which description is accurate?</p>",
+  "options": {
+    "a": "<p>To store engine data for maintenance purposes.</p>",
+    "b": "<p>To convert analogue sensor values into digital signals for processing.</p>",
+    "c": "<p>To mechanically retain engine control elements in case of engine failure.</p>",
+    "d": "<p>To provide manual backup control of the engine.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

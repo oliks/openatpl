@@ -1,0 +1,14 @@
+{
+  "number": 305,
+  "questionId": 80226,
+  "questionNumber": "226434",
+  "stemHtml": "What is the principle of operation of an Air Data Computer (ADC)?",
+  "options": {
+    "a": "Input of pitot/static and temperature data, conversion to digital/electronic signals, correction of data, transmission to the instrument.",
+    "b": "Input of pitot/static and temperature data, application of corrections, transmission through tubes to the instrument.",
+    "c": "Receipt of electrical/digital input, transmission of pressure to the systems.",
+    "d": "Receipt of electrical/digital input, transmission to the instruments."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

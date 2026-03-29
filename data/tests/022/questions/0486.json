@@ -1,0 +1,14 @@
+{
+  "number": 486,
+  "questionId": 96336,
+  "questionNumber": "227395",
+  "stemHtml": "<p>An advanced electronic checklist system is installed in an aircraft to direct the pilot through the proper procedures in the event that one or more of its systems fail. When the pilot completes the ordered action, the command is erased from the screen in this particular electronic checklist. Which statement regarding the use of electronic checklists is true?</p>",
+  "options": {
+    "a": "Pilots are more likely to use incorrect switches since their position is NOT shown on the screen, compared to the systems overview on a normal paper checklist.",
+    "b": "Pilots become more proficient in following a checklist since they can be confident that the computer displays the correct checklist for the detected failure(s).",
+    "c": "The pilot must maintain awareness of the technical implications of his/her actions, and NOT simply follow commands because they appear on the screen.",
+    "d": "The pilot may be misled by the electronic checklist system as the computer is NOT able to perform a reliable diagnosis of the problem(s), even in the event of a single failure."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

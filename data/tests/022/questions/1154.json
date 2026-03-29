@@ -1,0 +1,14 @@
+{
+  "number": 1154,
+  "questionId": 82571,
+  "questionNumber": "222969",
+  "stemHtml": "<p>The AHRS supplies...</p>\r\r<p>1. the aircraft's position, track, and groundspeed <br /> \r2. the aircraft's pitch attitude, roll attitude, and yaw attitude <br /> \r3. the aircraft's pitch rate, roll rate, and yaw rate <br /> \r4. air data</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "<p>1 and 2 only.</p>",
+    "b": "<p>1, 2, 3, and 4.</p>",
+    "c": "<p>3 and 4 only.</p>",
+    "d": "<p>2 and 3 only.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

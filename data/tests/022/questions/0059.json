@@ -1,0 +1,14 @@
+{
+  "number": 59,
+  "questionId": 78730,
+  "questionNumber": "226749",
+  "stemHtml": "What is the method of operation of a synchroscope for a twin engine aircraft?",
+  "options": {
+    "a": "It measures the difference in output frequencies of both alternators (one alternator in each engine).",
+    "b": "It mathematically subtracts RPM values of both engines.",
+    "c": "It mathematically subtracts vibration values of both engines.",
+    "d": "It measures the vibration values of both engines with a piezoelectric sensor."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

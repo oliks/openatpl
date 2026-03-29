@@ -1,0 +1,14 @@
+{
+  "number": 1337,
+  "questionId": 68800,
+  "questionNumber": "229124",
+  "stemHtml": "<p>Total fuel consumption is obtained by\u2026</p>",
+  "options": {
+    "a": "<p>subtracting the current fuel flow from the initial fuel quantity.</p>",
+    "b": "subtracting the initial fuel quantity from the remaining fuel.",
+    "c": "integrating the fuel flow with respect to time.",
+    "d": "differentiating the fuel flow with respect to time."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

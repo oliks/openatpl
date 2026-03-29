@@ -1,0 +1,14 @@
+{
+  "number": 862,
+  "questionId": 80233,
+  "questionNumber": "221258",
+  "stemHtml": "What data would you be able to continue using if there's a fault in the Barometric feed to an ADIRU?",
+  "options": {
+    "a": "Attitude and heading data may be used.",
+    "b": "Only attitude data may be used.",
+    "c": "No data may be used.",
+    "d": "All data may be used."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

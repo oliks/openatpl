@@ -1,0 +1,14 @@
+{
+  "number": 1773,
+  "questionId": 108210,
+  "questionNumber": "212712",
+  "stemHtml": "<p>During the design stage, an aircraft manufacturer chooses to place a metal rod on the fuselage, sticking out into the airflow, that can be easily viewed from the flight deck. How might this rod be used?</p>",
+  "options": {
+    "a": "<p>The pilots should monitor whether the rod is still present after a suspected birdstrike to assess aircraft damage.</p>",
+    "b": "<p>The rod is an aerodynamic device to aid stall characteristics.</p>",
+    "c": "<p>The pilots should monitor the rod for ice accretion.</p>",
+    "d": "<p>The rod is a static pressure probe, it should be monitored at all times to make sure it is not blocked.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

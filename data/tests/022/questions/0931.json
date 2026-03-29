@@ -1,0 +1,14 @@
+{
+  "number": 931,
+  "questionId": 78028,
+  "questionNumber": "228031",
+  "stemHtml": "What is the working principle of the TAWS (i.e. receiving its signals)?",
+  "options": {
+    "a": "By, among others, using a three dimensional map of the world and the radio altimeter to detect, if any terrain coincides with the flight path.",
+    "b": "It only uses GPS to detect if any terrain coincides with the flight path.",
+    "c": "By using a weather radar which points forward to detect, if any terrain coincides with the flight path.",
+    "d": "By using a special radar which points forward to detect, if any terrain coincides with the flight path."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

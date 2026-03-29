@@ -1,0 +1,24 @@
+{
+  "number": 1227,
+  "questionId": 81798,
+  "questionNumber": "221708",
+  "stemHtml": "Refer to figure. <br /> What must the pilot be particularly careful about in the current situation?",
+  "options": {
+    "a": "The autopilot could capture the glideslope before the localiser and commence descent outside of the protected area.",
+    "b": "The Flight Director is in VOR/LOC but the autopilot is in Heading mode.",
+    "c": "The autopilot could capture the localiser before the glideslope and commence a turn outside of the protected area.",
+    "d": "The Flight Director is in Heading mode, but the autopilot is in VOR/LOC."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 42800,
+      "uniqueKey": "720D754F-F1BA-4B05-AC66-95730935E692",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=720D754F-F1BA-4B05-AC66-95730935E692",
+      "publicUrl": "/attachments/022/720D754F-F1BA-4B05-AC66-95730935E692.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/720D754F-F1BA-4B05-AC66-95730935E692.png"
+    }
+  ]
+}

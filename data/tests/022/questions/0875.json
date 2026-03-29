@@ -1,0 +1,14 @@
+{
+  "number": 875,
+  "questionId": 80225,
+  "questionNumber": "222447",
+  "stemHtml": "<p>What is correct regarding the \u201cstatus mode\u201d on an aircraft fitted with an Engine Indicating and Crew Alerting System (EICAS)?</p>",
+  "options": {
+    "a": "<p>It provides information to engineers in different display formats to aid them in trouble shooting and testing of the major sub systems.</p>",
+    "b": "It displays primary and secondary information of engine parameters on one screen following a failure of the other screen.",
+    "c": "It automatically provides information on the upper EICAS screen of the staus of a system following an in flight failure.",
+    "d": "<p>It is manually selected and displays information on the lower EICAS screen.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

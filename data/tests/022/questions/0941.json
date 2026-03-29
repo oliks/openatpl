@@ -1,0 +1,14 @@
+{
+  "number": 941,
+  "questionId": 82889,
+  "questionNumber": "228478",
+  "stemHtml": "<p>What is the main purpose of the Flight Data Monitoring?</p>",
+  "options": {
+    "a": "To record systems status and flight conditions and automatically send reports to the company for investigation and training.",
+    "b": "To record systems status and flight conditions and automatically send reports to the authority.",
+    "c": "To record systems status and flight conditions and issue alerts and/or warnings to flight crew as soon as predetermined thresholds have been reached.",
+    "d": "To record systems status and flight conditions in order to generate automatic checklists both normal and abnormal."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

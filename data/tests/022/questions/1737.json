@@ -1,0 +1,14 @@
+{
+  "number": 1737,
+  "questionId": 110112,
+  "questionNumber": "228597",
+  "stemHtml": "<p>What can be said about automatic thrust on aircraft with fly-by-wire controls?</p>",
+  "options": {
+    "a": "<p>Automatic thrust acts upstream of the thrust levers</p>",
+    "b": "<p>Thrust levers don't move when automatic thrust is changing thrust</p>",
+    "c": "<p>There is a correlation between thrust commanded by automatic thrust and thrust lever position</p>",
+    "d": "<p>Autothrottle modes can be checked on the FMA and the FMC</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

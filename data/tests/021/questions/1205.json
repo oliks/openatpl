@@ -1,0 +1,14 @@
+{
+  "number": 1205,
+  "questionId": 161748,
+  "questionNumber": "216364",
+  "stemHtml": "<p>When a generator is running, the indication on the centre-zero ammeter shows (1) _____ and the batterry voltage shows (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) Positive current; (2) a lower voltage than battery nominal voltage.</p>",
+    "b": "<p>(1) Positive current; (2) a higher voltage than battery nominal voltage.</p>",
+    "c": "<p>(1) Negative current; (2) a higher voltage than battery nominal voltage.</p>",
+    "d": "<p>(1) Negative current; (2) a lower voltage than battery nominal voltage.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 378,
+  "questionId": 82254,
+  "questionNumber": "225417",
+  "stemHtml": "<p>What are the consequences if the GPS position inputs to the FMS are reduced?</p>",
+  "options": {
+    "a": "<p>The FMS will become inoperative but the RNAV approaches will still be available.</p>",
+    "b": "<p>The FMS will become inoperative.</p>",
+    "c": "<p>The aircraft might experience position computation problems and potentially a map shift on the ND.</p>",
+    "d": "<p>Position computation is less accurate and RNAV approaches are not available anymore.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

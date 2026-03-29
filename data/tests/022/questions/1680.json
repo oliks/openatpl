@@ -1,0 +1,14 @@
+{
+  "number": 1680,
+  "questionId": 69180,
+  "questionNumber": "228743",
+  "stemHtml": "Which Flight Management System databases are typically loadable?",
+  "options": {
+    "a": "The navigation database and the user database.",
+    "b": "The performance database and the user database.",
+    "c": "The navigation database and the performance database.",
+    "d": "The navigation database and the operating system."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

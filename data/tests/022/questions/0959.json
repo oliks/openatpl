@@ -1,0 +1,24 @@
+{
+  "number": 959,
+  "questionId": 154139,
+  "questionNumber": "229564",
+  "stemHtml": "<p>Refer to figure.   <br />   Which of the following situations do the indications on the PFD in the annex represent?</p>",
+  "options": {
+    "a": "<p>A TCAS Resolution Advisory (RA) commanding a descent. The pilot must adjust the vertical speed to remain within the green area.</p>",
+    "b": "<p>GPWS issuing a terrain caution.</p>",
+    "c": "<p>A TCAS TA commanding a descent. The pilot should set a vertical speed within the green area.</p>",
+    "d": "<p>A GPWS alert or an unrelated system warning not associated with TCAS vertical guidance.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 71420,
+      "uniqueKey": "8e912e0b-48d1-4581-ad0b-9310272cdc19",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8e912e0b-48d1-4581-ad0b-9310272cdc19",
+      "publicUrl": "/attachments/022/8e912e0b-48d1-4581-ad0b-9310272cdc19.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/8e912e0b-48d1-4581-ad0b-9310272cdc19.png"
+    }
+  ]
+}

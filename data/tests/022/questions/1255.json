@@ -1,0 +1,14 @@
+{
+  "number": 1255,
+  "questionId": 84774,
+  "questionNumber": "227751",
+  "stemHtml": "What does TCAS use data from the radio altimeter for?",
+  "options": {
+    "a": "To gradually suppress RAs as the aircraft nears terrain.",
+    "b": "To gradually improve RAs as the aircraft nears terrain.",
+    "c": "To provide ground proximity warnings.",
+    "d": "To coordinate TAs between aircraft."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

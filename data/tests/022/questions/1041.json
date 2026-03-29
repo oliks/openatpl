@@ -1,0 +1,14 @@
+{
+  "number": 1041,
+  "questionId": 82669,
+  "questionNumber": "224613",
+  "stemHtml": "<p>The yaw damper filter is used...</p>",
+  "options": {
+    "a": "<p>to detect the roll rates that initiate Dutch roll.</p>",
+    "b": "<p>to eliminate Dutch roll rates.</p>",
+    "c": "<p>to detect the normal rates of the aircraft and eliminate the Dutch roll rates.</p>",
+    "d": "<p>to amplify normal aircraft roll rates.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

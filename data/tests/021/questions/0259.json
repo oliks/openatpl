@@ -1,0 +1,14 @@
+{
+  "number": 259,
+  "questionId": 68349,
+  "questionNumber": "215686",
+  "stemHtml": "<p>A Fly-By-Wire (FBW) system\u2026</p>",
+  "options": {
+    "a": "<p>uses a direct mechanical linkage from the pilot or autopilot via cables and rods to the flight control surfaces` actuators</p>",
+    "b": "uses computers to process the pilot`s / autopilot`s flight control inputs, and sends corresponding electrical signals to the flight control surfaces` actuators",
+    "c": "sends signals to the autopilot computers, which in turn send electrical signals to the flight control surfaces` actuators",
+    "d": "is used only when the autopilot is engaged"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

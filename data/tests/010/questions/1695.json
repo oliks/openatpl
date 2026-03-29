@@ -1,0 +1,14 @@
+{
+  "number": 1695,
+  "questionId": 66897,
+  "questionNumber": "102166",
+  "stemHtml": "<p>The aircraft is above the transition level and descending. When can the flight crew change the altimeter setting from 1013.2 hPa to QNH during the descent to land?</p>",
+  "options": {
+    "a": "When the atmospheric pressure is significantly different from the standard pressure and level flight above the transition altitude is not anticipated.",
+    "b": "After approach clearance has been issued, provided that level flight above the transition altitude is not indicated or anticipated.",
+    "c": "Flight above the transition level using QNH as the reference datum is not allowed.",
+    "d": "Only if it has been specified in Item 18, \u201cOther Information\u201d, of the flight plan."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

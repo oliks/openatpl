@@ -1,0 +1,14 @@
+{
+  "number": 1289,
+  "questionId": 108468,
+  "questionNumber": "227328",
+  "stemHtml": "<p>How can a pilot change the TCAS display range on their ND?</p>",
+  "options": {
+    "a": "<p>TCAS range is fixed between 40 nm and 2000 ft.</p>",
+    "b": "<p>TCAS adjusts automatically to the density of traffic.</p>",
+    "c": "<p>Manually selecting it on the EFIS control panel.</p>",
+    "d": "<p>TCAS range is adjusted via the autopilot panel.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 80,
+  "questionId": 81275,
+  "questionNumber": "223388",
+  "stemHtml": "<p>Following a master warning alert, the crew have acknowledged the failure, in a typical procedure, the crew must then take the following sequence of actions:</p><p>1. Contact ATC <br>2. Initiate the appropriate response/procedure<br>3. Silence the aural warning<br>4. Wait for the master warning to stop</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">2 followed by 3.</p>",
+    "b": "<p dir=\"ltr\">3 followed by 2.</p>",
+    "c": "<p dir=\"ltr\">2 followed by 4.</p>",
+    "d": "3 followed by 1."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

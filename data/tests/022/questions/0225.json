@@ -1,0 +1,14 @@
+{
+  "number": 225,
+  "questionId": 78722,
+  "questionNumber": "226311",
+  "stemHtml": "What is correct about an Air Data Computer (ADC)?",
+  "options": {
+    "a": "An ADC is an auxiliary system that provides altitude information in the event that the static source is blocked.",
+    "b": "An ADC transforms air data measurements into electric impulses driving servo motors in instruments.",
+    "c": "An ADC converts air data measurements given by ATC from the ground in order to provide correct altitude and speed information.",
+    "d": "An ADC measures position error in the static system and transmits this information to ATC to provide correct altitude reporting."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

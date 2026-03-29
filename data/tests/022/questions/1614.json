@@ -1,0 +1,14 @@
+{
+  "number": 1614,
+  "questionId": 68964,
+  "questionNumber": "227191",
+  "stemHtml": "<p>A Flight Director (FD) system basically consists of a computer that calculates\u2026</p>",
+  "options": {
+    "a": "<p>flight path commands for use by the Flight Management System (FMS).</p>",
+    "b": "<p>rate commands for use by the parallel actuators.</p>",
+    "c": "<p>attitude commands for use by the Stability Augmentation System (SAS).</p>",
+    "d": "<p>pitch and roll commands for use by the human or autopilot.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

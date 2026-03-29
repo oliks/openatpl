@@ -1,0 +1,24 @@
+{
+  "number": 768,
+  "questionId": 84472,
+  "questionNumber": "226863",
+  "stemHtml": "<p>Refer to figure. <br /> \rIn flight, under normal conditions, what should each one of the three IRU mode selector switches be set to?</p>",
+  "options": {
+    "a": "<p>ATT during steep turns, thus providing increased accuracy for pitch and roll.</p>",
+    "b": "<p>ATT, as it is the rightmost position, it superimposes NAV and ATT modes.</p>",
+    "c": "<p>NAV, thus providing the outputs of acceleration, attitude and heading aligned to True North.</p>",
+    "d": "<p>NAV, although attitude information is not available in this mode.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 51400,
+      "uniqueKey": "E40E3BEF-4B56-4E94-B92D-60771108DF4A",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=E40E3BEF-4B56-4E94-B92D-60771108DF4A",
+      "publicUrl": "/attachments/022/E40E3BEF-4B56-4E94-B92D-60771108DF4A.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/E40E3BEF-4B56-4E94-B92D-60771108DF4A.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 479,
+  "questionId": 107092,
+  "questionNumber": "223485",
+  "stemHtml": "<p>How and why do pilots perform the LOGON process before a flight?</p>",
+  "options": {
+    "a": "<p>From ACARS to exchange messages</p>",
+    "b": "<p>From CPDLC to exchange messages</p>",
+    "c": "<p>From ACARS to receive voice communication</p>",
+    "d": "<p>From CPDLC to receive voice communication</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

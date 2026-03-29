@@ -1,0 +1,14 @@
+{
+  "number": 1638,
+  "questionId": 131037,
+  "questionNumber": "223180",
+  "stemHtml": "<p>Does an IRS provide data to the Flight Management System (FMS)? If it does, what kind of information does it supply?</p>",
+  "options": {
+    "a": "<p>Yes, it provides fuel and engine data.</p>",
+    "b": "<p>Yes, it provides navigation data.</p>",
+    "c": "<p>No.</p>",
+    "d": "<p>Yes, it provides weather radar data.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

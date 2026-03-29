@@ -1,0 +1,14 @@
+{
+  "number": 835,
+  "questionId": 68669,
+  "questionNumber": "224255",
+  "stemHtml": "The altimeter is subject to static pressure error. This error results from:",
+  "options": {
+    "a": "cabin pressure slightly lower than outside air pressure due to airflow over the fuselage.",
+    "b": "frictions inside the instrument.",
+    "c": "incorrect pressure sensing caused by disturbed airflow around the static ports.",
+    "d": "imperfect elasticity of the aneroid capsules."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

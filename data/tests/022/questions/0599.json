@@ -1,0 +1,14 @@
+{
+  "number": 599,
+  "questionId": 95922,
+  "questionNumber": "229953",
+  "stemHtml": "How is the vertical speed typically displayed on EFIS-equipped aircraft?",
+  "options": {
+    "a": "A vertical speed tape, with one white arrow that indicates climb, descent or zero.",
+    "b": "A vertical speed tape with three arrows, one each to indicate climb, descent or zero.",
+    "c": "A vertical speed tape with two arrows, one green to indicate a climb and one red to indicate a descent.",
+    "d": "EFIS-equipped aircraft generally have no vertical speed indication."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

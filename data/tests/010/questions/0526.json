@@ -1,0 +1,14 @@
+{
+  "number": 526,
+  "questionId": 96107,
+  "questionNumber": "104869",
+  "stemHtml": "The pilots have received clearance to taxi to the holding point of Runway 27. The current weather conditions are favorable, with clear skies and a clean runway that is free from contaminants. However, Runway 27 presents a slight 4 kt tailwind, while Runway 04 is slightly more advantageous. In light of this situation, what options are available to the pilots?",
+  "options": {
+    "a": "Take-off RWY 27 and file a incident report.",
+    "b": "Request RWY 04 and file a incident report.",
+    "c": "Request RWY 04 which will be granted immediately.",
+    "d": "Take-off RWY 27 or request RWY 04 and wait."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

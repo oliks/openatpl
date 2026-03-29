@@ -1,0 +1,14 @@
+{
+  "number": 1239,
+  "questionId": 80193,
+  "questionNumber": "224866",
+  "stemHtml": "The total pressure probe has become blocked. What is the effect on the VSI?",
+  "options": {
+    "a": "It continues to read at the rate of climb indicated when the blockage occurred.",
+    "b": "The indicated value decreases in the climb, Increases in the descent.",
+    "c": "It operates with normal function.",
+    "d": "It gradually reduces to zero."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

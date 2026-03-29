@@ -1,0 +1,14 @@
+{
+  "number": 805,
+  "questionId": 68842,
+  "questionNumber": "225866",
+  "stemHtml": "<p>A FMS can correct its fuel computations for the following non-standard configurations:</p>\r\r<p>1 \u2013 landing gear down     <br />     \r2 \u2013 one engine out     <br />     \r3 \u2013 speed brakes extended     <br />     \r4 \u2013 slats / flaps not fully retracted</p>\r\r<p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "<p>4.</p>",
+    "b": "<p>2, 3.</p>",
+    "c": "<p>1, 4.</p>",
+    "d": "<p>2.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

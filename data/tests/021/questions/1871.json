@@ -1,0 +1,24 @@
+{
+  "number": 1871,
+  "questionId": 102393,
+  "questionNumber": "218165",
+  "stemHtml": "<p>Refer to figure.<br />\r\nGiven the system in the annex, if the left fuel tank has less fuel than the right fuel tank, what should the pilots do?</p>\r\n",
+  "options": {
+    "a": "<p>Force intercross and wait for the tanks to balance.</p>",
+    "b": "<p>Open the crossfeed valve and shut off the left engine pump.</p>",
+    "c": "<p>Close the crossfeed valve and shut off the right engine pump.</p>",
+    "d": "<p>It is not possible to balance the fuel.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 58698,
+      "uniqueKey": "146d7d95-4e57-4eed-8c77-0f8b8891cfd0",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=146d7d95-4e57-4eed-8c77-0f8b8891cfd0",
+      "publicUrl": "/attachments/021/146d7d95-4e57-4eed-8c77-0f8b8891cfd0.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/146d7d95-4e57-4eed-8c77-0f8b8891cfd0.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 723,
+  "questionId": 86025,
+  "questionNumber": "226117",
+  "stemHtml": "While preparing the FMGS for the first flight of the day, the pilots notice that the navigation database is out of date. What should they do?",
+  "options": {
+    "a": "Select the valid database.",
+    "b": "Download the up to date database via ACARS and select it.",
+    "c": "Download a valid database from EFB and select it.",
+    "d": "Use the current database."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

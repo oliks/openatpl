@@ -1,0 +1,14 @@
+{
+  "number": 409,
+  "questionId": 103051,
+  "questionNumber": "219619",
+  "stemHtml": "<p>You are flying an aircraft with Fly-By-Wire flight controls, operating in normal law with flight envelope protections. On short final approach, ATC instruct you to immediately go around due to a runway incursion. What should you do with the sidestick?</p>",
+  "options": {
+    "a": "<p>Gently pull back on the sidestick with caution so as not to stall. </p>",
+    "b": "<p>Pull back on the sidestick to decelerate below V<sub>FE</sub>, then reduce the back pressure and extend flaps.</p>",
+    "c": "<p>Firmly pull back on the sidestick but be careful to not exceed the limit load factor.</p>",
+    "d": "<p>Firmly pull back on the sidestick with no hesitation and do not worry about stalling.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

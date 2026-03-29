@@ -1,0 +1,14 @@
+{
+  "number": 602,
+  "questionId": 109475,
+  "questionNumber": "216229",
+  "stemHtml": "<p>After experiencing an engine failure in flight, an in flight restart of a jet engine should only be initiated with which engine parameters?</p>",
+  "options": {
+    "a": "<p>N1/N2 = 0, Oil pressure > 0</p>",
+    "b": "<p>N1/N2 > 0, Oil pressure > 0</p>",
+    "c": "<p>N1/N2 > 0, Oil pressure = 0</p>",
+    "d": "<p>N1/N2 = 0, Oil pressure = 0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1300,
+  "questionId": 82755,
+  "questionNumber": "225001",
+  "stemHtml": "Refer to figure. <br /> The attached figure shows a Multifunction Display (MFD) with AFCS controls and Flight Mode Annunciator (FMA). The pilot is performing a commercial air transport VFR flight and the passengers asked to deviate from the planned route. The pilot disengages the autopilot, turns off course and descends to a lower altitude. The Flight Director (FD) at this point indicates that the aircraft is NOT following the planned route. Should the pilot take further action?",
+  "options": {
+    "a": "No, the FMAs will automatically be removed from view and the FD command bar will be centred after a short period of time, unless the pilot returns to the planned route.",
+    "b": "Yes, the FD must either be switched OFF or the pilot must select modes and parameters for the new intended flight path for the FD to give appropriate guidance.",
+    "c": "No, the FD will remain ON and automatically change modes to show appropriate guidance for manual flight during the entire time the autopilot remains disengaged.",
+    "d": "Yes, the autopilot is still engaged and must be disengaged, because the FD indicates that the aeroplane is turning right and climbing to the selected altitude of 3000 ft."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 44808,
+      "uniqueKey": "4B57EF85-19BD-4A91-8070-B77F9BF6E083",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4B57EF85-19BD-4A91-8070-B77F9BF6E083",
+      "publicUrl": "/attachments/022/4B57EF85-19BD-4A91-8070-B77F9BF6E083.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/4B57EF85-19BD-4A91-8070-B77F9BF6E083.png"
+    }
+  ]
+}

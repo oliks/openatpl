@@ -1,0 +1,14 @@
+{
+  "number": 831,
+  "questionId": 82333,
+  "questionNumber": "224441",
+  "stemHtml": "<p>Why does an air-driven gyroscope attitude indicator give erroneous indications during acceleration?</p>",
+  "options": {
+    "a": "<p>The erecting system of the instrument displaces the spin axis from vertical.</p>",
+    "b": "<p>The aircraft symbol is set for straight, level and accelerated flight only.</p>",
+    "c": "<p>The spin axis is aligned to the vertical only for the position of alignment.</p>",
+    "d": "<p>The rotor of the gyroscope is NOT rotating at design speed.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

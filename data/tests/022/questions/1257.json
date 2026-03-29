@@ -1,0 +1,14 @@
+{
+  "number": 1257,
+  "questionId": 107271,
+  "questionNumber": "223339",
+  "stemHtml": "<p>You have various aircraft nearby in the vicinity of your aircraft, the interrogation rate of the TCAS II switches to (1) _____ intervals and it prioritises alerts of the (2) _____ aircraft.</p>",
+  "options": {
+    "a": "<p>(1) shorter; (2) closest</p>",
+    "b": "<p>(1) longer; (2) closest</p>",
+    "c": "<p>(1) longer; (2) farthest</p>",
+    "d": "<p>(1) shorter; (2) farthest</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

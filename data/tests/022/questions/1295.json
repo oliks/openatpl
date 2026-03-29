@@ -1,0 +1,14 @@
+{
+  "number": 1295,
+  "questionId": 85401,
+  "questionNumber": "223656",
+  "stemHtml": "<p>An aircraft controlled by the autopilot is about to be established on an ILS. What happens if the pilot disconnects the autopilot to fly manually while intending to use FD for guidance?</p>",
+  "options": {
+    "a": "<p>FMAs disappears and FD directs the pilot to give appropriate control inputs in order to follow planned trajectory.</p>",
+    "b": "<p>FMAs remains visible and FD directs the pilot to give appropriate control inputs in order to follow planned trajectory.</p>",
+    "c": "<p>The FD cannot be used with the autopilot disconnected.</p>",
+    "d": "<p>FD indications will most likely become unavailable upon autopilot disengagement.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

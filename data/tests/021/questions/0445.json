@@ -1,0 +1,14 @@
+{
+  "number": 445,
+  "questionId": 80816,
+  "questionNumber": "211765",
+  "stemHtml": "A generator has a failure. What happens to its bus?",
+  "options": {
+    "a": "It is transferred to another source and the generator is disconnected from its bus.",
+    "b": "It is transferred to another bus and the generator is disconnected from its drive.",
+    "c": "It is isolated but the consumers are transferred to another source.",
+    "d": "It is isolated and the consumers are no longer supplied."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

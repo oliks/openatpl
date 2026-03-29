@@ -1,0 +1,14 @@
+{
+  "number": 167,
+  "questionId": 159419,
+  "questionNumber": "218476",
+  "stemHtml": "<p>On a transport aircraft equipped with integrated drive generators (IDGs), how is the AC generator disconnected during normal operation?</p>",
+  "options": {
+    "a": "<p>By selecting the corresponding GEN switch OFF, which opens the generator line contractor. <br />  </p>",
+    "b": "<p>By pressing the IDG DISC switch to remove the generator from the accessory gearbox. <br />  </p>",
+    "c": "<p>It cannot be manually disconnected in flight; it only trips automatically vie the GCU. <br />  </p>",
+    "d": "<p>By pulling a circuit breaker.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 758,
+  "questionId": 110261,
+  "questionNumber": "223418",
+  "stemHtml": "<p>Your aircraft is in the cruise with the autopilot and autothrottle engaged when ATC instructs you to descend to a lower flight level. When commencing the descent what does the autothrottle do?</p>",
+  "options": {
+    "a": "<p>Autothrottle disconnects.</p>",
+    "b": "<p>Autothrottle maintains cruise thrust.</p>",
+    "c": "<p>Autothrottle reduces thrust to maintain cruise speed.</p>",
+    "d": "<p>Autothrottle varies speed automatically.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

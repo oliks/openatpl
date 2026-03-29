@@ -1,0 +1,14 @@
+{
+  "number": 206,
+  "questionId": 81733,
+  "questionNumber": "226909",
+  "stemHtml": "In an aircraft NOT fitted with an EFIS the master caution light illuminates and an audible alarm is triggered. How does the crew find information about the cause of the caution indication?",
+  "options": {
+    "a": "The master caution will indicate the nature of the problem.",
+    "b": "From the annunciator lights on the central warning panel.",
+    "c": "This can only be distinguished from the audible alert.",
+    "d": "Only from a message on the ECAM."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

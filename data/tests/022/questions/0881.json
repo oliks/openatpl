@@ -1,0 +1,14 @@
+{
+  "number": 881,
+  "questionId": 110248,
+  "questionNumber": "225580",
+  "stemHtml": "<p>During IRS alignment while an aircraft is parked on Stand A (N37 37.6 W005 54.0) the aircraft needs to be towed to Stand B (N37 37.3 W005 54.0). Which of the following statements are correct?</p>",
+  "options": {
+    "a": "<p>Towing doesn't cause issues with alignment.</p>",
+    "b": "<p>The pilots can enter the co-ordinates from Stand A before moving the aircraft</p>",
+    "c": "<p>Request to wait until after alignment is complete.</p>",
+    "d": "<p>No issue since longitude remains unchanged.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1033,
+  "questionId": 96189,
+  "questionNumber": "218832",
+  "stemHtml": "The flight crew of a large jet transport aeroplane are expecting to encounter icing conditions during the flight. Is it important for the crew to keep their eye reference positions aligned throughout the flight?",
+  "options": {
+    "a": "No. Visual icing cues are all beyond the crew's primary field of view. A large head movement will always be needed for the ice detector to be seen.",
+    "b": "No. The eye reference position has nothing to do with ice detection.",
+    "c": "Yes, for the Commander only, as the eye reference position ensures that the pilot in the left-hand seat can see the ice detector probe without movement.",
+    "d": "Yes. If possible, visual icing cues should be within the crew's primary field of view."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

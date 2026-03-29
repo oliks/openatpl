@@ -1,0 +1,14 @@
+{
+  "number": 1651,
+  "questionId": 67963,
+  "questionNumber": "214850",
+  "stemHtml": "<p>A constant speed drive (CSD) that has been disconnected in flight\u2026</p>",
+  "options": {
+    "a": "can be reset only on the ground after engine shut-down.",
+    "b": "can be reset in flight using the reset mechanism.",
+    "c": "automatically resets in flight providing engine rpm is below a given value.",
+    "d": "automatically resets on engine shut-down."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 957,
+  "questionId": 107117,
+  "questionNumber": "222321",
+  "stemHtml": "<p>An aircraft is maintaining an altitude in the cruise then commences a descent. During the cruise, the auto-thrust system controls the speed, and during the descent, the aircraft maintains speed by regulating pitch. Which auto-thrust modes active in each phase?</p>",
+  "options": {
+    "a": "<p>Thrust (cruise), SPEED (descent)</p>",
+    "b": "<p>SPEED (cruise), Thrust (descent)</p>",
+    "c": "<p>TOGA (cruise), Thrust (descent)</p>",
+    "d": "<p>SPEED (cruise), SPEED (descent)</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

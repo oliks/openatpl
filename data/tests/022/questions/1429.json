@@ -1,0 +1,14 @@
+{
+  "number": 1429,
+  "questionId": 82109,
+  "questionNumber": "228599",
+  "stemHtml": "<p>Is it possible for the flight crew to change data in the performance database?</p>",
+  "options": {
+    "a": "<p>Yes, it can only change the fuel consumption.</p>",
+    "b": "<p>No, it can only be done by maintenance engineers.</p>",
+    "c": "<p>No, because there\u2019s no indication in the aircraft about the performance database the can be accessed by the flight crew.</p>",
+    "d": "<p>Yes, it can only change engine thrust rating.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

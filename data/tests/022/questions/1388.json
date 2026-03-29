@@ -1,0 +1,14 @@
+{
+  "number": 1388,
+  "questionId": 111381,
+  "questionNumber": "229622",
+  "stemHtml": "<p>Regarding the navigation database of a flight management computer (FMC), a user-defined place/bearing/distance (PBD) waypoint is defined by\u2026</p>",
+  "options": {
+    "a": "<p>relative bearing and GNSS position information.</p>",
+    "b": "<p>the bearing and distance information from any selected place (e.g. runway).</p>",
+    "c": "<p>the intersection of two radials from different VOR's.</p>",
+    "d": "<p>the distance information from two waypoints.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1138,
+  "questionId": 109327,
+  "questionNumber": "221640",
+  "stemHtml": "<p>In order to avoid fuel tank content inaccuracies caused by aircraft attitude, in large aircraft the fuel...</p>",
+  "options": {
+    "a": "<p>Is measured in volume and converted to mass.</p>",
+    "b": "<p>Is measured in a different locations and averaged.</p>",
+    "c": "<p>Is measured in mass and converted to volume.</p>",
+    "d": "<p>Is measured using a float type fuel gauge.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

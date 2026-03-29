@@ -1,0 +1,14 @@
+{
+  "number": 512,
+  "questionId": 67149,
+  "questionNumber": "107958",
+  "stemHtml": "<p>Describe where the outbound timing begins in a holding pattern.</p>",
+  "options": {
+    "a": "<p>abeam the fix only.</p>",
+    "b": "<p>over the fix only.</p>",
+    "c": "<p>over or abeam the fix, whichever occurs later.</p>",
+    "d": "<p>over or abeam the fix, whichever occurs earlier.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

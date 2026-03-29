@@ -1,0 +1,14 @@
+{
+  "number": 1007,
+  "questionId": 101912,
+  "questionNumber": "212831",
+  "stemHtml": "<p>The accessory gearbox of a modern turbofan engine is usually driven by...</p>",
+  "options": {
+    "a": "<p>the high-pressure compressor through a drive shaft. It has its own lubrication system</p>",
+    "b": "<p>the high-pressure compressor through a drive shaft. It is connected to the lubrication system of the engine.</p>",
+    "c": "<p>bleed air from the high-pressure compressor. It has its own lubrication system</p>",
+    "d": "<p>bleed air from the high-pressure compressor. It is connected to the lubrication system of the engine.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

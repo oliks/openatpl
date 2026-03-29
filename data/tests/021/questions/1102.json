@@ -1,0 +1,14 @@
+{
+  "number": 1102,
+  "questionId": 82385,
+  "questionNumber": "219782",
+  "stemHtml": "<p>You are flying a multi-engine propeller aircraft. During the cruise, the critical engine fails. Which configuration creates the most stress on the rudder?</p>",
+  "options": {
+    "a": "<p>Aft CG, skid toward the critical engine.</p>",
+    "b": "<p>Aft CG, skid away from the critical engine.</p>",
+    "c": "<p>Fwd CG, skid toward the critical engine.</p>",
+    "d": "<p>Fwd CG, skid away from the critical engine.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

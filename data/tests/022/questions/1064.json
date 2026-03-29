@@ -1,0 +1,14 @@
+{
+  "number": 1064,
+  "questionId": 162926,
+  "questionNumber": "225020",
+  "stemHtml": "<p>In order to operate correctly what does a Terrain Awareness and Warning System (TAWS) require?</p>",
+  "options": {
+    "a": "<p>Terrain information from a terrain database and aircraft position from GNSS or IRS.</p>",
+    "b": "<p>Terrain information from the navigation database and position from the FMS.</p>",
+    "c": "<p>Terrain information only from GNSS and barometric altitude.</p>",
+    "d": "<p>Radar altimeter information only.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

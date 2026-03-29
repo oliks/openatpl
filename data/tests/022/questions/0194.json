@@ -1,0 +1,14 @@
+{
+  "number": 194,
+  "questionId": 120099,
+  "questionNumber": "226275",
+  "stemHtml": "<p>When carrying out an ILS autoland approach, if a glideslope signal failure occurs at 80 ft, which is below the Alert Height, what is the correct course of action action?</p>",
+  "options": {
+    "a": "<p>Revert to a visual landing using the localizer only.</p>",
+    "b": "<p>Continue autoland, as 80 ft is too low for a failure to affect the landing.</p>",
+    "c": "<p>Continue the landing manually.</p>",
+    "d": "<p>A warning will trigger and a go-around must be initiated.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

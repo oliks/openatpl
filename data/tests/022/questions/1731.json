@@ -1,0 +1,14 @@
+{
+  "number": 1731,
+  "questionId": 84719,
+  "questionNumber": "226073",
+  "stemHtml": "<p>Complete the following sentence:</p>\r\n\r\n<p>Your aircraft is equipped with TCAS II and another aircraft in close proximity is also equipped with TCAS II. The intruder will be displayed as a (1) _____ on the ND, and a (2) _____ aural message will be generated in case of a climbing RA.</p>",
+  "options": {
+    "a": "(1) yellow circle; (2) CHANGE FROM CLIMB TO DESCENT.",
+    "b": "(1) solid amber diamond; (2) CLIMB - CLIMB.",
+    "c": "(1) solid red square; (2) CLIMB - CLIMB.",
+    "d": "(1) red square; (2) INITIATE LEVEL OFF."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

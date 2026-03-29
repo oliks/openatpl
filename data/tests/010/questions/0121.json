@@ -1,0 +1,14 @@
+{
+  "number": 121,
+  "questionId": 102052,
+  "questionNumber": "102576",
+  "stemHtml": "<p>Regarding pavement strength, you are at the apron prior to taxi-out and assess your aircraft ACN to be 45. \u2013 According to the aerodrome chart, the reported PCN for the taxiway you have to take is 45. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Ask for an alternate taxi route because you are unable to use this route.</p>",
+    "b": "<p>Continue to use the taxi route as the PCN must be equal to or greater than the ACN.</p>",
+    "c": "<p>Contact ATC and ask for their advice.</p>",
+    "d": "<p>A specific waiver from the aerodrome operator is needed.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

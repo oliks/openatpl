@@ -1,0 +1,14 @@
+{
+  "number": 180,
+  "questionId": 81486,
+  "questionNumber": "229066",
+  "stemHtml": "The pilot wants to use the FMS to fly an RNAV approach, but gets the message: \u2018\u2019NO RAIM\u2019\u2019. The pilot also detects that the ground course and ground speed data reported by the IRS are invalid. The pilot\u2026",
+  "options": {
+    "a": "<p>must fly the approach using raw data from ground-based navigation aids (e.g. ILS).</p>",
+    "b": "can still use the FMS to fly the RNAV approach, RAIM is only applicable to GPS approaches and ground track and speed information is NOT needed for an RNAV approach.",
+    "c": "must use the ground speed information from the GPS and calculate the approach path by means of performance tables in the Flight Manual.",
+    "d": "can still use the FMS to fly the RNAV approach, RAIM is only applicable to GPS approaches."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

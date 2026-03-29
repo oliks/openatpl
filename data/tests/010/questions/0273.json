@@ -1,0 +1,14 @@
+{
+  "number": 273,
+  "questionId": 164487,
+  "questionNumber": "101692",
+  "stemHtml": "<p>An aircraft passes the holding fix at 15:30. ATC issues a clearance with an Expected Approach Time (EAT) of 15:38. To comply with clearance, at what time should the pilot cross the fix to leave the holding pattern?</p>",
+  "options": {
+    "a": "<p>At 15:38, to comply with the EAT given by ATC.</p>",
+    "b": "<p>At 15:39, because it is better to pass the fix slightly later than the specified time.</p>",
+    "c": "<p>At 15:37, to allow enough time to complete a full 360\u00b0 turn if needed.</p>",
+    "d": "<p>At any time, provided ATC clearance is maintained.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1524,
+  "questionId": 83570,
+  "questionNumber": "212214",
+  "stemHtml": "<p>You are flying a twin-engined aircraft with an AC electrical system fed by two engine driven generators when one generator has a complete failure. Which of the following statements is correct in reference to the subsequent power distribution.</p><p>1. In an AC electrical system with a split-bus design, the load from the failed generator is automatically taken over by the remaining generator through the automatic AC bus-transfer function<br>2. In an AC electrical system with a parallel bus design, the load from the failed generator is directly taken over by the aircraft's battery providing DC electrical power to the bus</p>",
+  "options": {
+    "a": "Both 1 and 2 are incorrect.",
+    "b": "1 is correct, 2 is incorrect.",
+    "c": "1 is incorrect, 2 is correct.",
+    "d": "Both 1 and 2 are correct."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

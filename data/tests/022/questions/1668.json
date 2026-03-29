@@ -1,0 +1,14 @@
+{
+  "number": 1668,
+  "questionId": 80206,
+  "questionNumber": "228790",
+  "stemHtml": "<p>What is drift in Inertial Navigation Systems?</p>",
+  "options": {
+    "a": "<p>It is caused by mass imbalance.</p>",
+    "b": "<p>It is caused by gimbal error.</p>",
+    "c": "<p>It is due to earth rotation.</p>",
+    "d": "<p>It is the main error.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

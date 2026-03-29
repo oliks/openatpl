@@ -1,0 +1,24 @@
+{
+  "number": 27,
+  "questionId": 112000,
+  "questionNumber": "224014",
+  "stemHtml": "<p>Refer to figure.  <br />  \rThe annex shows a TCAS VSI indication from a Primary Flight Display. What immediate action should the pilot take?</p>",
+  "options": {
+    "a": "<p>Set throttle to idle only.</p>",
+    "b": "<p>Maintain level flight and monitor the traffic.</p>",
+    "c": "<p>Initiate a descent to achieve a vertical speed within the green band to comply with the RA.</p>",
+    "d": "<p>Begin climbing to avoid potential conflict.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 71751,
+      "uniqueKey": "a61e1975-ac3c-4fe0-8ae9-60f0bc391291",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=a61e1975-ac3c-4fe0-8ae9-60f0bc391291",
+      "publicUrl": "/attachments/022/a61e1975-ac3c-4fe0-8ae9-60f0bc391291.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/a61e1975-ac3c-4fe0-8ae9-60f0bc391291.png"
+    }
+  ]
+}

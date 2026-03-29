@@ -1,0 +1,14 @@
+{
+  "number": 1741,
+  "questionId": 67964,
+  "questionNumber": "212309",
+  "stemHtml": "<p>To ensure correct load sharing between AC generators operating in parallel\u2026</p>",
+  "options": {
+    "a": "only reactive loads need to be matched.",
+    "b": "only real loads need to be matched.",
+    "c": "both real and reactive loads must be matched.",
+    "d": "the matching of loads is unimportant."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

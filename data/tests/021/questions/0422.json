@@ -1,0 +1,14 @@
+{
+  "number": 422,
+  "questionId": 68359,
+  "questionNumber": "218414",
+  "stemHtml": "<p>What are the possible causes and indications of a tailpipe fire?</p>",
+  "options": {
+    "a": "<p>Fuel mis-scheduling or strong tailwinds can cause fuel ignition in the tailpipe. The turbine temperature increases above the certified limit.</p>",
+    "b": "<p>Fuel may puddle in the turbine casings and exhaust during start-up or shutdown, and then ignite. This can result in a highly visible jet of flame out of the back of the engine.</p>",
+    "c": "<p>Fuel may puddle in the turbine casings and exhaust during start-up or shutdown, and then ignite. On the flight deck, an engine fire warning is generated.</p>",
+    "d": "<p>Fuel may puddle in the turbine casings and exhaust during start-up or shutdown, and then ignite. However, the EGT remains unchanged.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

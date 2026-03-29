@@ -1,0 +1,14 @@
+{
+  "number": 542,
+  "questionId": 101864,
+  "questionNumber": "215924",
+  "stemHtml": "<p>A Captain and an engineer are performing a walk-around together when they discover a 3 amp blown fuse. The engineer only has 10amp and 5 amp fuses left to use, and the Captain gives them permission to replace the 3 amp fuse with the 5 amp fuse. What is a potential problem associated with this?</p>",
+  "options": {
+    "a": "<p>This is acceptable and no problems will occur as there is only a 2 amp difference.</p>",
+    "b": "<p>The circuit will overheat and the fuse will blow immediately.</p>",
+    "c": "<p>The component will fail.</p>",
+    "d": "<p>Overcurrents will go undetected for a period of time, and the fuse may take longer to blow due to the higher rating.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1823,
+  "questionId": 82679,
+  "questionNumber": "222016",
+  "stemHtml": "<p>Refer to figure.    <br />    \rA pilot requests that the aircraft is to be refuelled so that the total fuel on board is 70 US gal. Looking at the systems display from the annex, has the aircraft been adequately refuelled?</p>",
+  "options": {
+    "a": "<p>Yes, the amount of fuel on board is about 72 US gal.</p>",
+    "b": "<p>No, the fuel indicator shows that there is only 272 Ib of fuel on board.</p>",
+    "c": "<p>No, the fuel indicator shows that there are 272 US gal of fuel on board.</p>",
+    "d": "<p>No, the amount of fuel on board is only 50 US gal.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 66520,
+      "uniqueKey": "c8abe212-1634-4bfa-94b5-efa0c1149ad4",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=c8abe212-1634-4bfa-94b5-efa0c1149ad4",
+      "publicUrl": "/attachments/022/c8abe212-1634-4bfa-94b5-efa0c1149ad4.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/c8abe212-1634-4bfa-94b5-efa0c1149ad4.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1701,
+  "questionId": 107735,
+  "questionNumber": "229924",
+  "stemHtml": "<p>A Total Air Temperature (TAT) probe has a recovery factor of 0.95. What is the measured temperature equal to?</p>",
+  "options": {
+    "a": "<p>95% of the ram air temperature (RAT)</p>",
+    "b": "<p>Ram air temperature (RAT) +95% of the RAM-rise</p>",
+    "c": "<p>Static air temperature (SAT) +95% of the RAM-rise</p>",
+    "d": "<p>95% of the static air temperature (SAT)</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1337,
+  "questionId": 102770,
+  "questionNumber": "211003",
+  "stemHtml": "<p>The swept volume is\u2026</p>",
+  "options": {
+    "a": "<p>The length of the stroke \u00d7 the piston crown area.</p>",
+    "b": "<p>The volume remaining above the piston at TDC.</p>",
+    "c": "<p>The volume of cylinder above BDC.</p>",
+    "d": "<p>The total volume.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

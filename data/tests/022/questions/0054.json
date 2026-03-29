@@ -1,0 +1,14 @@
+{
+  "number": 54,
+  "questionId": 68975,
+  "questionNumber": "224904",
+  "stemHtml": "<p>A Mach trim system\u2026</p>",
+  "options": {
+    "a": "<p>is activated by the pilot when reaching the limiting Mach number to trim attitude.</p>",
+    "b": "<p>compensates for Mach tuck by trimming the stabiliser down.</p>",
+    "c": "<p>compensates for Mach tuck caused by the rearward movement of the aircraft centre of pressure as an aircraft accelerates.</p>",
+    "d": "<p>compensates for the forward movement of the centre of pressure, due to the forward movement of the shock wave, as speed increases.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

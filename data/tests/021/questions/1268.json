@@ -1,0 +1,14 @@
+{
+  "number": 1268,
+  "questionId": 110061,
+  "questionNumber": "213137",
+  "stemHtml": "<p>Consider an aircraft hydraulic system. The function of a non-return valve is to...</p>",
+  "options": {
+    "a": "<p>allow full flow of hydraulic fluid in one direction, and reduced flow in the other direction.</p>",
+    "b": "<p>allow the flow of hydraulic fluid in one direction, but to prevent flow in the opposite direction.</p>",
+    "c": "<p>prevent spillage of hydraulic fluid, in case of a leak in the hydraulic system.</p>",
+    "d": "<p> </p>\r\n\r\n<p>shut off the flow of hydraulic fluid into the engine compartment, in case of an engine fire.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

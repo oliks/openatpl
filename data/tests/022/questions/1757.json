@@ -1,0 +1,14 @@
+{
+  "number": 1757,
+  "questionId": 68511,
+  "questionNumber": "229888",
+  "stemHtml": "<p>Given:</p><p>Pt = total pressure  <br />  Ps = static pressure  <br />  Pd = dynamic pressure</p><p>The airspeed indicator measures:</p><div> </div>",
+  "options": {
+    "a": "Pt \u2013 Pd",
+    "b": "Ps - Pt",
+    "c": "Pt - Ps",
+    "d": "Pd \u2013 Ps"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

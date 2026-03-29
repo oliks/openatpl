@@ -1,0 +1,14 @@
+{
+  "number": 125,
+  "questionId": 80109,
+  "questionNumber": "212689",
+  "stemHtml": "What happens during a Rejected Take-Off (RTO)?",
+  "options": {
+    "a": "Manual braking is always better than autobrake.",
+    "b": "If armed, the autobrake will engage across all speeds when the throttles are moved to idle.",
+    "c": "The autobrake will automatically disconnect once the aircraft has come to a complete stop.",
+    "d": "The autobrake will apply maximum braking pressure above a specific speed when the throttles are moved to idle."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

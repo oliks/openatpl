@@ -1,0 +1,14 @@
+{
+  "number": 641,
+  "questionId": 110121,
+  "questionNumber": "212725",
+  "stemHtml": "<p>A medium transport jet is cruising at FL380 when a failure occurs in the bleed air system, causing the cabin altitude to decrease. The pilots follow the appropriate checklists and isolate the failure, but the cabin altitude continues to decrease. What is the appropriate course of action?</p>",
+  "options": {
+    "a": "<p>Initiate a climb to prevent exceeding the maximum differential pressure.</p>",
+    "b": "<p>Initiate a descent to prevent exceeding the maximum differential pressure.</p>",
+    "c": "<p>Manually deploy the passenger oxygen masks.</p>",
+    "d": "<p>Maintain the current altitude and monitor the situation.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

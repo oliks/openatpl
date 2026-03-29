@@ -1,0 +1,14 @@
+{
+  "number": 1756,
+  "questionId": 82793,
+  "questionNumber": "223770",
+  "stemHtml": "<p>What is the main purpose of Dutch roll filter?</p>",
+  "options": {
+    "a": "<p>To distinguish the yaw of Dutch Roll from yaw in a turn.</p>",
+    "b": "<p>To distinguish between roll and yaw in preventing Dutch roll.</p>",
+    "c": "<p>To prevent yaw damper from reacting too quickly to Dutch roll.</p>",
+    "d": "<p>To prevent the yaw damper over-reacting to Dutch roll.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1280,
+  "questionId": 163089,
+  "questionNumber": "214847",
+  "stemHtml": "<p>What is the normal operating mode of a dual-channel FADEC system?</p>",
+  "options": {
+    "a": "<p>Both channels operate simultaneously and share control equally.</p>",
+    "b": "<p>One channel has permanent priority over the other.</p>",
+    "c": "<p>One channel is active while the other is in standby and automatically takes over in case of failure.</p>",
+    "d": "<p>Both channels operate independently without redundancy.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

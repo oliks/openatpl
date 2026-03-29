@@ -1,0 +1,14 @@
+{
+  "number": 416,
+  "questionId": 81222,
+  "questionNumber": "215915",
+  "stemHtml": "<p>Circuit Breakers must be able to withstand the transient overcurrents that occur when switching on\u2026</p>",
+  "options": {
+    "a": "electric motors (inductive loads)",
+    "b": "heating elements",
+    "c": "ignition boxes",
+    "d": "strobe lights (intermittent loads)"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

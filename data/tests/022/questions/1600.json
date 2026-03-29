@@ -1,0 +1,14 @@
+{
+  "number": 1600,
+  "questionId": 68914,
+  "questionNumber": "227691",
+  "stemHtml": "<p>The flight envelope protection system prevents the aircraft from exceeding the limits of the following parameters (among others):</p><p>1 \u2013 cabin altitude <br /> 2 \u2013 bank angle <br /> 3 \u2013 angle of attack <br /> 4 \u2013 speed <br /> 5 \u2013 pitch angle</p><p>The combination that regroups all of the correct statements is:</p>",
+  "options": {
+    "a": "1, 2, 4.",
+    "b": "1, 2, 3, 4, 5.",
+    "c": "2, 3, 4, 5.",
+    "d": "2, 5."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

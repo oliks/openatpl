@@ -1,0 +1,14 @@
+{
+  "number": 25,
+  "questionId": 82247,
+  "questionNumber": "223572",
+  "stemHtml": "In a dual FMS architecture, what happens if one of the FMS fails?",
+  "options": {
+    "a": "Pilots have to make an FMS reset as soon as possible.",
+    "b": "If one FMS fails, the second will be lost as well.",
+    "c": "The operative FMS will continue sending inputs to the failed FMS in order to recover it.",
+    "d": "Redundancy is lost, the operative FMS will fully take over."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

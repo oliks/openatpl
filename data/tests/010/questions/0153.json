@@ -1,0 +1,14 @@
+{
+  "number": 153,
+  "questionId": 107408,
+  "questionNumber": "109566",
+  "stemHtml": "<p>When should Flight Information Region (FIR) services be provided?</p>\r\r<p>1. To any flight in contact with ATC. <br /> \r2. To any flight with a flight plan filed. <br /> \r3. To any flight with hijacking/unlawful interference. <br /> \r4. To any flight 15 minutes late from ETA. <br /> \r5. To any flight whose last communication was 15 minutes ago.</p>",
+  "options": {
+    "a": "<p>1, 2, 3.</p>",
+    "b": "<p>1, 2, 4.</p>",
+    "c": "<p>1, 4, 5.</p>",
+    "d": "<p>2, 3, 4.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

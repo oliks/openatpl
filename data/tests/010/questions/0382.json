@@ -1,0 +1,14 @@
+{
+  "number": 382,
+  "questionId": 67180,
+  "questionNumber": "103060",
+  "stemHtml": "<p>Communications Failure - Flight Procedures: You are on a flight in accordance with IFR in IMC, exactly on the current flight plan route. At 18:36 UTC you receive and acknowledge the following instruction from the radar controller:</p><p>\"Turn immediately, fly heading 050\u00b0 until further advised\".</p><p>At 18:37 UTC you discover a communication failure. Two way radio communication cannot be established again.</p>",
+  "options": {
+    "a": "You continue on Heading 050 for 15 minutes.",
+    "b": "You have to return to your current flight plan route.",
+    "c": "You continue on Heading 050 for 30 minutes.",
+    "d": "You continue on Heading 050."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

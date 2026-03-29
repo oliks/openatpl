@@ -1,0 +1,14 @@
+{
+  "number": 1065,
+  "questionId": 68868,
+  "questionNumber": "229694",
+  "stemHtml": "By what means are messages from an Aeroplane Condition Monitoring System (ACMS) transmitted to the maintenance base?",
+  "options": {
+    "a": "Conventional analogue radios, with crew notification.",
+    "b": "The Flight Data Recorder, when the aircraft is on the ground.",
+    "c": "The commander, through VHF or HF voice communication.",
+    "d": "Digital datalink, without crew notification."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

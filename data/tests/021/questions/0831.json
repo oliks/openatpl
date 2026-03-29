@@ -1,0 +1,14 @@
+{
+  "number": 831,
+  "questionId": 82816,
+  "questionNumber": "213023",
+  "stemHtml": "<p>The purpose of \u201cengine trending\u201d for a gas turbine engine is...</p>",
+  "options": {
+    "a": "<p>to test an aircraft's performance at various temperatures and seeing how it compares to the rest of the fleet.</p>",
+    "b": "<p>to test a single specific engine parameter, such as spool-up time, and comparing that parameter to the expected value in the AFM.</p>",
+    "c": "<p>to flight test the aircraft in high density altitude conditions and see if the engine is able to reach the expected limits in the documentation.</p>",
+    "d": "<p>to measure and analyse the current engine parameters and performance so that the future life of the engine can be predicted.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

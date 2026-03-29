@@ -1,0 +1,14 @@
+{
+  "number": 863,
+  "questionId": 96208,
+  "questionNumber": "109301",
+  "stemHtml": "<p>An ACAS RA is triggered, ordering a climb with a rate of 2000 ft/min and a few seconds later an ACAS RA is triggered ordering a descent with a rate of -2000 ft/min. What is the correct course of action?</p>",
+  "options": {
+    "a": "<p>Immediately follow the RA, keeping flight path deviation to a minimum such that the RA requirement is maintained.</p>",
+    "b": "<p>Stay at FL340 because the net result of following the two RAs is zero vertical change.</p>",
+    "c": "<p>Visually confirm the conflicting traffic before initiating the climb to ensure minimum deviation from the flight path.</p>",
+    "d": "<p>The second, contradictory RA is considered erroneous and should be ignored, maintaining the initial descent command.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

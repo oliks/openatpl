@@ -1,0 +1,14 @@
+{
+  "number": 127,
+  "questionId": 116438,
+  "questionNumber": "212213",
+  "stemHtml": "<p>A system called active clearance control is fitted on many modern turbofan engines. How does this system work?</p>",
+  "options": {
+    "a": "<p>Compressor blades are heated by APU bleed air to reduce the gap between the blade tip and the outer casing.</p>",
+    "b": "<p>It cools the outer casing of the turbine section to minimise the gap between the turbine blade tips and the outer casing.</p>",
+    "c": "<p>The outer casing of the turbine section is heated to allow for more cooling airflow to the turbine blades.</p>",
+    "d": "<p>It cools the individual turbine blades from inside to make sure they do not scrape the outer casing.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

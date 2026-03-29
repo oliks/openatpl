@@ -1,0 +1,14 @@
+{
+  "number": 591,
+  "questionId": 81188,
+  "questionNumber": "217083",
+  "stemHtml": "<p style=\"margin-right:10px\">A mode degradation due to failing subsystems within a fly by wire flight control system increases the workload of the flight crew. Degradation to which flight control modes/laws would have the highest impact on the flight crew's workload?</p>",
+  "options": {
+    "a": "Secondary mode",
+    "b": "Alternate law",
+    "c": "Normal law",
+    "d": "Direct law"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

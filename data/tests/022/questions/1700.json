@@ -1,0 +1,14 @@
+{
+  "number": 1700,
+  "questionId": 68677,
+  "questionNumber": "227171",
+  "stemHtml": "<p>The FMS vertical navigation management is generally performed based on\u2026</p>",
+  "options": {
+    "a": "the baro altitude input from the ADC.",
+    "b": "the geometric altitude input from the Terrain Awareness and Warning System (TAWS).",
+    "c": "the GPS altitude computed by the GPS receiver.",
+    "d": "a mix of baro and GPS altitudes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

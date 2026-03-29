@@ -1,0 +1,14 @@
+{
+  "number": 1787,
+  "questionId": 84824,
+  "questionNumber": "221383",
+  "stemHtml": "<p>What is the purpose of the aircraft performance database? It provides the FMC with information\u2026</p>",
+  "options": {
+    "a": "That would normally be determined by referring to charts, by including the location of navigation aids, aerodromes, and instrument procedures.",
+    "b": "That would normally be determined by referring to the AFM, by including performance penalties for fight control failures.",
+    "c": "Required to calculate take-off and landing performance, by including aerodrome and runway-specific obstacles.",
+    "d": "Required to calculate pitch and thrust commands, by including aircraft drag and engine characteristics."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1738,
+  "questionId": 142532,
+  "questionNumber": "214544",
+  "stemHtml": "<p>The crew of a twin-turbofan aircraft are flying through heavy turbulence, when they observe increased EGT and fluctuations in thrust on one engine. What might this indicate?</p>",
+  "options": {
+    "a": "<p>Erroneous engine throttle inputs due to the turbulence.</p>",
+    "b": "<p>Vibrations in the engine drive shafts due to the aeroplane being buffeted by the turbulence.</p>",
+    "c": "<p>Engine compressor stall due to disrupted airflow into the engine intakes.</p>",
+    "d": "<p>Reduced cooling and lubrication to the engines due to the oil flow being disrupted.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

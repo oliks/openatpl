@@ -1,0 +1,14 @@
+{
+  "number": 20,
+  "questionId": 163584,
+  "questionNumber": "219269",
+  "stemHtml": "<p>A turbofan engine uses two distinct airstreams for thrust reversal purposes. Hot air (core / hot stream) reverser is associated with (1) _____, and cold air (bypass / cold stream) reverser with (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) Cascade vanes; (2) Clamshell doors</p>",
+    "b": "<p>(1) Clamshell doors; (2) Cascade vanes</p>",
+    "c": "<p>(1) Bucket target doors; (2) Translating cowl only</p>",
+    "d": "<p>(1) Pivoting doors; (2) Fixed blocker doors</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

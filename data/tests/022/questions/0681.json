@@ -1,0 +1,14 @@
+{
+  "number": 681,
+  "questionId": 108245,
+  "questionNumber": "225275",
+  "stemHtml": "<p>Which combination of AFCS modes would have to be engaged to follow a vertical and horizontal flight path at a desired speed?</p>",
+  "options": {
+    "a": "<p>Flight path angle, vertical speed and heading</p>",
+    "b": "<p>LNAV and VNAV</p>",
+    "c": "<p>Longitudinal navigation</p>",
+    "d": "<p>Speed and Altitude Hold</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

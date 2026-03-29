@@ -1,0 +1,14 @@
+{
+  "number": 1155,
+  "questionId": 160121,
+  "questionNumber": "227606",
+  "stemHtml": "<p>Regarding autopilot and flight director (FD) systems.  Can they be used simultaneously?</p>",
+  "options": {
+    "a": "<p>No, it is not possible to use the flight director and autopilot at the same time.</p>",
+    "b": "<p>No, because the flight director disconnects automatically when the autopilot is engaged.</p>",
+    "c": "<p>Yes, the flight director displays the guidance commands that the autopilot is following.</p>",
+    "d": "<p>Yes, the FD can only be used with the autopilot engaged.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

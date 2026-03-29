@@ -1,0 +1,14 @@
+{
+  "number": 1563,
+  "questionId": 68448,
+  "questionNumber": "224804",
+  "stemHtml": "<p>When pressing the EVENT-button on the flight data recorder control panel\u2026</p>",
+  "options": {
+    "a": "the recording is automatically stopped upon this event.",
+    "b": "the recording is marked, enabling this event to be found rapidly at a subsequent analysis.",
+    "c": "the recording is rewound so that whatever happens after this event is recorded.",
+    "d": "a event mark is set on the recording, after that the recording is automatically stopped."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

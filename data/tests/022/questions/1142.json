@@ -1,0 +1,14 @@
+{
+  "number": 1142,
+  "questionId": 86136,
+  "questionNumber": "223810",
+  "stemHtml": "<p>Which of the following functions might not be available if the installed EFB malfunctions?</p>",
+  "options": {
+    "a": "<p>Reception and transmission of CPDLC messages.</p>",
+    "b": "<p>Automatic transmission of ACARS messages.</p>",
+    "c": "<p>Take-off and landing performance calculations.</p>",
+    "d": "<p>Display of ECAM or EICAS alerts.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

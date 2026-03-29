@@ -1,0 +1,14 @@
+{
+  "number": 1537,
+  "questionId": 83424,
+  "questionNumber": "104914",
+  "stemHtml": "According to ICAO Doc. 4444, describe what actions a pilot shall make after receiving a broadcast about another aircraft's emergency descent.",
+  "options": {
+    "a": "Navigate as deemed appropriate by the pilot and acknowledge to the appropriate ATS unit that the notification about the emergency descent was received.",
+    "b": "<p>Immediately acknowledge the receipt of the broadcast and request further instructions.</p>",
+    "c": "Continue according to current clearance and maintain a listening watch on the frequency in use for any further instructions from the ATS unit, and watch for conflicting traffic both visually and by reference to ACAS (if equipped).",
+    "d": "Navigate as deemed appropriate by the pilot and turn on all aircraft exterior lights (commensurate with appropriate operating limitations)."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

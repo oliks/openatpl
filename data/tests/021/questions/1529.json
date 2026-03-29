@@ -1,0 +1,14 @@
+{
+  "number": 1529,
+  "questionId": 106106,
+  "questionNumber": "219541",
+  "stemHtml": "<p>When starting a turbine engine, the igniters were incorrectly left off, and a wet start occurred. The pilot aborted the start sequence, waited a while, and then initiated the start sequence again with the igniters correctly selected on. After ignition in the second start sequence, what will happen?</p>",
+  "options": {
+    "a": "<p>A wet start will happen again, because the excessive fuel from the previous start attempt has not been removed.</p>",
+    "b": "<p>The fuel deposits from the previous start attempt in the combustion chamber will burn up instantaneously, resulting in an explosion and a rapid rise of TGT.</p>",
+    "c": "<p>The engine will operate with significantly lower TGT value, until all the excessive fuel from the previous start attempt has been burnt.</p>",
+    "d": "<p>The turbine engine will continue to operate within normal range, since the excessive fuel is drained by drain valves in the combustion section.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

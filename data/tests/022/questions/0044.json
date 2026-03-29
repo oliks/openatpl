@@ -1,0 +1,14 @@
+{
+  "number": 44,
+  "questionId": 68630,
+  "questionNumber": "225757",
+  "stemHtml": "<p>The Flight Warning System (FWS):</p><p>1 \u2013 draws the attention of the crew to the existence of an abnormal condition <br>2 \u2013 supplies indications to the crew to identify an abnormal condition <br>3 \u2013 transmits automatically to ATC urgency messages <br>4 \u2013 can not generate alerts in case of engine malfunctions <br>5 \u2013 prioritises warnings</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "2, 4, 5.",
+    "b": "<p>1, 4.</p>",
+    "c": "1, 2, 5.",
+    "d": "1, 3, 4."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

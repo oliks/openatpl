@@ -1,0 +1,14 @@
+{
+  "number": 1028,
+  "questionId": 107850,
+  "questionNumber": "211482",
+  "stemHtml": "<p>How can you accelerate the exhaust gas velocity to generate more thrust, assuming the exhaust gas becomes supersonic?</p>",
+  "options": {
+    "a": "<p>Through a convergent-divergent nozzle, which consists of a convergent section followed by a divergent section.</p>",
+    "b": "<p>Through a convergent section with swirls that generate a turbulent exhaust flow.</p>",
+    "c": "<p>By using a noise suppressor to manage the exhaust flow.</p>",
+    "d": "<p>By employing a divergent section placed after the turbine section.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

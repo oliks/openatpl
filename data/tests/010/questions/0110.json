@@ -1,0 +1,14 @@
+{
+  "number": 110,
+  "questionId": 81332,
+  "questionNumber": "104363",
+  "stemHtml": "<p dir=\"ltr\">A person attempting to enter the territory of a State has been confirmed as inadmissible. How much time does the Operator have to ensure the removal of this person?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">The time frame for the removal is specified in ICAO Annex 9 (Facilitation).</p>",
+    "b": "<p dir=\"ltr\">The State determines the time frame for the removal, which is binding on the aircraft Operator.</p>",
+    "c": "<p dir=\"ltr\">The aircraft Operator determines how much time the removal requires and informs the State.</p>",
+    "d": "The State consults the aircraft Operator and allows the Operator a reasonable amount of time."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

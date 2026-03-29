@@ -1,0 +1,14 @@
+{
+  "number": 319,
+  "questionId": 68642,
+  "questionNumber": "227671",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Pt = total pressure</span>  <br />  \nPs = static pressure  <br />  \nPd = dynamic pressure</p>\n\n<div> </div>",
+  "options": {
+    "a": "Pd = Pt + Ps",
+    "b": "Ps = Pt + Pd",
+    "c": "Pt = Pd + Ps",
+    "d": "Pd = Pt / Ps"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

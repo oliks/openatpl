@@ -1,0 +1,14 @@
+{
+  "number": 1570,
+  "questionId": 68207,
+  "questionNumber": "213202",
+  "stemHtml": "How can sufficient control-capability be maintained in case of a malfunction/jam in the flight control system?",
+  "options": {
+    "a": "By engaging the autopilot system.",
+    "b": "By coupling more than one flight control surface to a single actuator.",
+    "c": "By having multiple actuators coupled to a single flight control surface.",
+    "d": "By implementing an actuator-disconnect system so that all actuators can be disconnected from the control surface."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

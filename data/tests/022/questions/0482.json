@@ -1,0 +1,14 @@
+{
+  "number": 482,
+  "questionId": 68811,
+  "questionNumber": "224610",
+  "stemHtml": "The uplink datalink message \"AT [position] CLIMB TO [altitude] AND MAINTAIN\" is part of the:",
+  "options": {
+    "a": "ADS application.",
+    "b": "AFN application.",
+    "c": "CPDLC application.",
+    "d": "TAWS application."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

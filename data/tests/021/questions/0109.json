@@ -1,0 +1,14 @@
+{
+  "number": 109,
+  "questionId": 96501,
+  "questionNumber": "216675",
+  "stemHtml": "<p>A pilot sees a very high oil temperature indication on IDG 1 and follows the associated abnormal checklist, which results in them disconnecting IDG 1 from the engine. Which of the following is correct, after disconnecting the IDG?</p>",
+  "options": {
+    "a": "<p>The generator will stop providing electricity and can only be reconnected on the ground by maintenance personnel.</p>",
+    "b": "IDG 1 will continue to provide electricity even when disconnected from the AC bus bar.",
+    "c": "<p>IDG 1 will continue to provide electricity even when mechanically disconnected from the AC bus bar, but cannot be re-connected in flight.</p>",
+    "d": "The IDG will stop providing electricity, but can be re-connected in flight after a sufficient cooling period."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

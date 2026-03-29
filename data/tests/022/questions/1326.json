@@ -1,0 +1,14 @@
+{
+  "number": 1326,
+  "questionId": 81859,
+  "questionNumber": "221272",
+  "stemHtml": "<p>How does an IRS work?</p>",
+  "options": {
+    "a": "<p>It consists of gyros and accelerometers. The gyros keep the platform level and the accelerometers calculate acceleration.</p>",
+    "b": "<p>The IRS is located close to the aircraft C/G and it uses laser gyros to calculate angular rotations.</p>",
+    "c": "<p>The IRS is located a bit away from the aircraft C/G and it uses laser gyros to calculate accelerations.</p>",
+    "d": "<p>The IRS is most reliable using lower frequency laser beams.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

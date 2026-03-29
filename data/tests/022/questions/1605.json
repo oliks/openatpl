@@ -1,0 +1,14 @@
+{
+  "number": 1605,
+  "questionId": 68717,
+  "questionNumber": "226454",
+  "stemHtml": "<p>When two waypoints are entered on the FMS flight plan page, a track between the two fixes is computed and can be displayed on the Navigation Map Display (ND). This leg created is\u2026</p>",
+  "options": {
+    "a": "<p>two rhumb-lines joined by a straight segment.</p>",
+    "b": "<p>two great circle arcs joined by a straight segment.</p>",
+    "c": "<p>a great circle arc.</p>",
+    "d": "<p>a rhumb-line.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

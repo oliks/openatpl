@@ -1,0 +1,14 @@
+{
+  "number": 327,
+  "questionId": 112906,
+  "questionNumber": "221313",
+  "stemHtml": "<p>Which statement is correct when:</p>\r\r<p>P = Power <br /> \rT = Torque <br /> \rn = RPM <br /> \rGS = Groundspeed <br /> \rTAS = True Airspeed</p>\r\r<p> </p>\r\r<p> </p>\r\r<p> </p>",
+  "options": {
+    "a": "<p>T = P / n</p>",
+    "b": "<p>T = P x n</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>",
+    "c": "<p>T = P x GS</p>",
+    "d": "<p>T = n x TAS</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

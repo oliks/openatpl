@@ -1,0 +1,14 @@
+{
+  "number": 778,
+  "questionId": 101089,
+  "questionNumber": "109293",
+  "stemHtml": "<p>Can the pilot change from IFR to VFR, during an IFR flight in VMC in controlled airspace?</p>",
+  "options": {
+    "a": "<p>Yes. ATS shall be notified, and the pilot will use the specific expression \"CANCELLING MY IFR FLIGHT\".</p>",
+    "b": "<p>No. IFR flights in VMC are prohibited and the pilot shall fly in VFR.</p>",
+    "c": "<p>No. IFR flights in VMC must remain under IFR and CANNOT change to VFR.</p>",
+    "d": "<p>Yes. Nevertheless, the pilot must be invited by ATS to change from IFR to VFR. The ATS will use the specific expression \"SUGGESTING TO CANCEL IFR\".</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

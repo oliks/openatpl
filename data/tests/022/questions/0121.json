@@ -1,0 +1,14 @@
+{
+  "number": 121,
+  "questionId": 82682,
+  "questionNumber": "226602",
+  "stemHtml": "What does it mean when an autopilot mode is captured?",
+  "options": {
+    "a": "The autopilot mode in question is not currently available.",
+    "b": "The aircraft is heading for the relevant parameter.",
+    "c": "The flight crew has overridden the autopilot by manual control.",
+    "d": "The aircraft has reached the relevant parameter."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

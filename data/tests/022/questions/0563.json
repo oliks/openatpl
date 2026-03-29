@@ -1,0 +1,14 @@
+{
+  "number": 563,
+  "questionId": 111196,
+  "questionNumber": "229799",
+  "stemHtml": "<p>If an AoA sensor is damaged it may affect the (1) _____. Slotted probe AoA sensors are protected from icing by (2) _____ means.</p>",
+  "options": {
+    "a": "<p>(1) ADC; (2) electrical</p>",
+    "b": "<p>(1) TAT Probe; (2) chemical</p>",
+    "c": "<p>(1) IRS; (2) pneumatic</p>",
+    "d": "<p>(1) INS; (2) passive</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

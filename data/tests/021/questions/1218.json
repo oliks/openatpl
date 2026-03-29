@@ -1,0 +1,14 @@
+{
+  "number": 1218,
+  "questionId": 68192,
+  "questionNumber": "211289",
+  "stemHtml": "<p>The FADEC (Full Authority Digital Engine Control):</p><p>1 \u2013 provides fully automatic engine starting<br>2 \u2013 modifies aircraft airspeed in order to allow for the lowest fuel consumption<br>3 \u2013 counters any yaw movement in case of engine failure<br>4 \u2013 provides thrust reverser control</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "1, 4.",
+    "b": "1, 2, 4.",
+    "c": "<p>2.</p>",
+    "d": "1, 2, 3, 4."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

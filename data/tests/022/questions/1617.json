@@ -1,0 +1,14 @@
+{
+  "number": 1617,
+  "questionId": 106979,
+  "questionNumber": "226562",
+  "stemHtml": "<p>Which one of these changes would trigger an ADS-C \u2018on event\u2019 downlink?</p>",
+  "options": {
+    "a": "<p>Change in altitude.</p>",
+    "b": "<p>Change in thrust.</p>",
+    "c": "<p>Change in the altimeter setting.</p>",
+    "d": "<p>Change in the flight plan.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

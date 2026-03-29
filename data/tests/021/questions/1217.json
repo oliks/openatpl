@@ -1,0 +1,14 @@
+{
+  "number": 1217,
+  "questionId": 83125,
+  "questionNumber": "211045",
+  "stemHtml": "<p>What will happen if there is a single input data failure on a FADEC gas turbine engine?</p>",
+  "options": {
+    "a": "The electronic engine control unit uses a constant data value for computation.",
+    "b": "<p>The engine continues to operate normally.</p>",
+    "c": "The engine is set at a fail-safe thrust.",
+    "d": "The engine stops."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

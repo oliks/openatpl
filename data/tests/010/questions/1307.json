@@ -1,0 +1,14 @@
+{
+  "number": 1307,
+  "questionId": 102132,
+  "questionNumber": "106318",
+  "stemHtml": "<p>Alerting service is provided to all aircraft...</p>",
+  "options": {
+    "a": "<p>under air traffic control.</p>",
+    "b": "<p>with a flight plan.</p>",
+    "c": "<p>with no radio communication in the last 15 minutes.</p>",
+    "d": "<p>not landed after 15 minutes of expected time of arrival.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

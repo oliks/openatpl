@@ -1,0 +1,14 @@
+{
+  "number": 922,
+  "questionId": 104550,
+  "questionNumber": "104279",
+  "stemHtml": "<p>What is the difference between two runways in the point from which the approach lighting system (ALS) is measured, assuming that runway 03 has a displaced threshold of 150 m and runway 21 has not?</p>",
+  "options": {
+    "a": "<p>No difference, ALS is measured from the threshold.</p>",
+    "b": "<p>ALS is measured from the threshold in one runway and 150 meters before the displaced threshold in another.</p>",
+    "c": "<p>ALS is measured from the displaced threshold in both runways.</p>",
+    "d": "<p>ALS is measured from the end of the runway in both cases.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

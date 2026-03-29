@@ -1,0 +1,14 @@
+{
+  "number": 801,
+  "questionId": 84467,
+  "questionNumber": "229557",
+  "stemHtml": "<p>The copilot's PFD LCD fails. What happens?</p>",
+  "options": {
+    "a": "<p>Reconfiguration is not required since the captain\u2019s PFD is still working.</p>",
+    "b": "Reconfiguration is not possible since the screen is not working.",
+    "c": "<p>The PFD of the copilot is shown on the captain's ND.</p>",
+    "d": "<p>The PFD of the copilot is shown on the co-pilot's ND.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

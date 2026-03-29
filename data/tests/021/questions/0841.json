@@ -1,0 +1,14 @@
+{
+  "number": 841,
+  "questionId": 68344,
+  "questionNumber": "216295",
+  "stemHtml": "Which of these statements about an auto-brake system (ABS) is correct?",
+  "options": {
+    "a": "An auto-brake system automatically stops operating below a certain low (e.g.15 kt) ground speed during landing.",
+    "b": "For a given touchdown speed (GS) on a dry runway without use of reverse thrust the stopping distance is solely dependent on the selected ABS setting and weight.",
+    "c": "When the pilot forgets to arm the auto-brake system, this will not generate a take-off warning during take-off.",
+    "d": "An armed auto-brake system will always try to achieve the selected deceleration level directly after main wheel touchdown."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

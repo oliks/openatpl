@@ -1,0 +1,14 @@
+{
+  "number": 640,
+  "questionId": 81579,
+  "questionNumber": "229319",
+  "stemHtml": "<p>What data can be shown on a Head-Up Display (HUD) unit?</p>",
+  "options": {
+    "a": "Attitude, altitude, waypoints.",
+    "b": "Attitude, altitude, and speed only.",
+    "c": "Attitude, altitude, heading, FMA, GPWS, and wind shear commands.",
+    "d": "Attitude, altitude, and speed but not the speed trend vector as it can easily be seen on the PFD."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

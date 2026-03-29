@@ -1,0 +1,14 @@
+{
+  "number": 1328,
+  "questionId": 80118,
+  "questionNumber": "215894",
+  "stemHtml": "In a modern transport aircraft, what happens in the event of a total AC generator failure?",
+  "options": {
+    "a": "<p>An emergency generator powered by the batteries produces 115 V AC for essential AC services.</p>",
+    "b": "<p>A static inverter converts 24 V DC from the batteries to 115 V AC for essential AC services.</p>",
+    "c": "<p>A static inverter converts 24 V DC from the batteries to 27 V AC for essential AC services.</p>",
+    "d": "<p>A TRU converts 28 V DC to 115 V AC for essential AC services.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

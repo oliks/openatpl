@@ -1,0 +1,14 @@
+{
+  "number": 935,
+  "questionId": 86087,
+  "questionNumber": "221665",
+  "stemHtml": "Which of the following functions is not compromised if you have an EFB failure?",
+  "options": {
+    "a": "Performance calculations.",
+    "b": "Mass and balance calculations.",
+    "c": "Information about the status of the AFCS.",
+    "d": "Access to aeronautical charts and OM."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

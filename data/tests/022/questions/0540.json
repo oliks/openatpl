@@ -1,0 +1,14 @@
+{
+  "number": 540,
+  "questionId": 82259,
+  "questionNumber": "227248",
+  "stemHtml": "<p>Which procedures should you carry out and in what order after receiving a master warning?</p><p>1. Silence the alarm  <br />  2. Inform ATC  <br />  3. Carry out procedures from SOP  <br />  4. Disconnect A/P  <br />  5. Acknowledge the failure</p>",
+  "options": {
+    "a": "5, 1, 3",
+    "b": "5, 1, 4, 3",
+    "c": "2, 5, 3, 1",
+    "d": "5, 1, 3, 2"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

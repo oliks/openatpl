@@ -1,0 +1,14 @@
+{
+  "number": 114,
+  "questionId": 68956,
+  "questionNumber": "224463",
+  "stemHtml": "<p>During a loss of GPS signal, the FMS position\u2026</p>",
+  "options": {
+    "a": "<p>will deviate immediately form the actual position.</p>",
+    "b": "<p>may deviate gradually from the actual position.</p>",
+    "c": "<p>will be calculated using the data from the current navigation database.</p>",
+    "d": "<p>will remain stable because GPS is only a secondary sensor for normal operations.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

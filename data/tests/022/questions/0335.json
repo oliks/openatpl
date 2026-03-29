@@ -1,0 +1,14 @@
+{
+  "number": 335,
+  "questionId": 68697,
+  "questionNumber": "224069",
+  "stemHtml": "To obtain the instantaneous position from the accelerations:",
+  "options": {
+    "a": "integrating twice acceleration with respect to time is sufficient.",
+    "b": "it is necessary to integrate twice the acceleration with respect to time, and to know the initial position only.",
+    "c": "it is necessary to integrate twice the acceleration with respect to time, and to know the initial speed only.",
+    "d": "it is necessary to integrate twice the acceleration with respect to time, and to know the initial position and the initial speed."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

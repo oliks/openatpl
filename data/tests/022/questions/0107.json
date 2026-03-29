@@ -1,0 +1,14 @@
+{
+  "number": 107,
+  "questionId": 107120,
+  "questionNumber": "227744",
+  "stemHtml": "<p>The Captain's ASI indicates a 5 knot faster airspeed than that of the Co-Pilot's ASI. Should the crew be concerned about this difference, and what action or information is available to them?</p>",
+  "options": {
+    "a": "<p>Yes, the crew can adjust the readings from the ADC. </p>",
+    "b": "<p>Yes, the ground speed can be confirmed from the INS and/or GNSS. </p>",
+    "c": "<p>Yes, the two readings can be aligned via the MCDU. </p>",
+    "d": "<p>NO, small differences are normal and therefore NO additional information or action is available for the crew. </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

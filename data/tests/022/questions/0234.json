@@ -1,0 +1,14 @@
+{
+  "number": 234,
+  "questionId": 106015,
+  "questionNumber": "221172",
+  "stemHtml": "<p>Your Mach Number is 0.7, and you are flying at constant CAS. After considerable time passed, all other variables remained the same, but the temperature SAT of -35<strong>\u00b0</strong>C increased to -30<strong>\u00b0</strong>C.</p>",
+  "options": {
+    "a": "Mach will increase because it is a function of temperature.",
+    "b": "Mach decreases but, after some time, increases once again because of increasing TAT.",
+    "c": "<p>Mach remains constant because at a constant CAS and pressure altitude, Mach is independent of temperature.</p>",
+    "d": "Mach will decrease because LSS will increase with increases in temperature."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

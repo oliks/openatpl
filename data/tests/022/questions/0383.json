@@ -1,0 +1,14 @@
+{
+  "number": 383,
+  "questionId": 69175,
+  "questionNumber": "222786",
+  "stemHtml": "<p>The autothrottle system controls engine thrust in response to\u2026</p>",
+  "options": {
+    "a": "<p>Mode requests from the flight crew and from the Flight Management Computer.</p>",
+    "b": "<p>Mode requests from the flight crew and from the Flight Mode Annunciator.</p>",
+    "c": "Flight Management Computer calculations and the Onboard Performance Tool.",
+    "d": "<p>Flight Management Computer calculations and the autopilot.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

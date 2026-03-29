@@ -1,0 +1,14 @@
+{
+  "number": 664,
+  "questionId": 110302,
+  "questionNumber": "217024",
+  "stemHtml": "<p>Which of the following statements is correct if one cell of an aircraft battery catches fire due to thermal runaway?</p>",
+  "options": {
+    "a": "<p>The fire will spread through the battery until the pilot turns off the battery switch, at which point the fire will stop burning.</p>",
+    "b": "<p>The fire will spread to neighbouring cells and spread through the battery, destroying it.</p>",
+    "c": "<p>The fire will be isolated in the cell in question and NOT spread further, although it might cause minor damage to neighbouring cells. </p>",
+    "d": "<p>Aircraft batteries are constructed in such a way that they regenerate themselves after a thermal runaway, so any fire will be limited to small flames and is difficult to detect. </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

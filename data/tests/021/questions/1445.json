@@ -1,0 +1,14 @@
+{
+  "number": 1445,
+  "questionId": 80758,
+  "questionNumber": "214739",
+  "stemHtml": "<p>A gaseous loop fire detector uses the following principle: <br>An increase in surrounding temperature will\u2026</p>",
+  "options": {
+    "a": "Decrease the pressure inside a gas-filled tube. When reaching the lower threshold, the gas-filled tube collapses and pressure switch will activate the alarm.",
+    "b": "Increase the temperature inside a gas-filled tube, which narrows the volume of the tube. The alarm is activated when the tube collapses.",
+    "c": "Increase the temperature inside a gas-filled tube, which expands the volume of the tube. The alarm is activated when the tube breaks.",
+    "d": "Increase the pressure inside a gas-filled tube. When reaching the upper threshold, a pressure switch will activate the alarm."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

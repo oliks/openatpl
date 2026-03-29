@@ -1,0 +1,14 @@
+{
+  "number": 1667,
+  "questionId": 68211,
+  "questionNumber": "216638",
+  "stemHtml": "What option describes an irreversible flight control system?",
+  "options": {
+    "a": "The flight controls can only be moved in one direction from the control lever in the cockpit.",
+    "b": "The flight controls are directly linked with a cable to the control lever in the cockpit, which also provides direct feedback to the pilot when the aerodynamic surface controls are moved.",
+    "c": "If the cockpit controls are moved, the aerodynamic surface controls move, but the system is without a direct mechanical feedback from the control surface to the cockpit controls.",
+    "d": "There is a direct mechanical linkage connecting the control lever and the autopilot."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

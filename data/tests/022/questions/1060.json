@@ -1,0 +1,14 @@
+{
+  "number": 1060,
+  "questionId": 108674,
+  "questionNumber": "224339",
+  "stemHtml": "<p>Why is the TCAS II connected to the ADC?</p>",
+  "options": {
+    "a": "<p>To receive altitude and airspeed data for accurate collision avoidance calculations.</p>",
+    "b": "<p>To integrate navigation data and provide route planning.</p>",
+    "c": "<p>To ensure communication with ATC during evasive manoeuvres.</p>",
+    "d": "<p>To calculate ground speed for wake turbulence separation.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

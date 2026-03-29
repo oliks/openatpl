@@ -1,0 +1,24 @@
+{
+  "number": 1020,
+  "questionId": 81799,
+  "questionNumber": "226118",
+  "stemHtml": "Refer to figure. <br /> In this image of a typical FMA why is \"VOR/LOC\u201d in a smaller font of a different colour?",
+  "options": {
+    "a": "To help them distinguish between engaged modes and armed modes. MCP SPD HDG and ALT are engaged, and VOR/LOC is armed.",
+    "b": "Because all modes are in a small font when first selected. After 5 seconds the font changes and the caption replaces the last mode in use in this example HDG.",
+    "c": "Because modes selected by buttons on the MCP are always in a large green font Managed modes selected via the FMC are in a small white font until the programmed parameter is achieved, when they change to a large white font.",
+    "d": "Because modes based on ground radio navigation facilities are in a different font size to remind the pilot that they need to be tuned before use."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 42802,
+      "uniqueKey": "C2E9A313-C6DB-4A50-A3F2-BCDC7D0690FB",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=C2E9A313-C6DB-4A50-A3F2-BCDC7D0690FB",
+      "publicUrl": "/attachments/022/C2E9A313-C6DB-4A50-A3F2-BCDC7D0690FB.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/C2E9A313-C6DB-4A50-A3F2-BCDC7D0690FB.png"
+    }
+  ]
+}

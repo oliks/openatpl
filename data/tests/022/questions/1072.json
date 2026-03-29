@@ -1,0 +1,14 @@
+{
+  "number": 1072,
+  "questionId": 104509,
+  "questionNumber": "223715",
+  "stemHtml": "<p>You encounter severe turbulence on final approach. What are your actions with regards to thrust control?</p>",
+  "options": {
+    "a": "<p>Keep the autothrottle ON to maintain altitude.</p>",
+    "b": "<p>Keep the autothrottle ON to maintain pitch changes.</p>",
+    "c": "<p>Respond rapidly to the oscillations.</p>",
+    "d": "<p>Disconnect the autothrottle and take over power manually by applying only small corrections to prevent overspeed.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 357,
+  "questionId": 108165,
+  "questionNumber": "229392",
+  "stemHtml": "<p>EPR (Engine Pressure Ratio) is an engine thrust parameter, when will it be displayed on the engine instruments screen?</p>",
+  "options": {
+    "a": "<p>It is always displayed.</p>",
+    "b": "<p>It appears as a pop-up only when a parameter is exceeded.</p>",
+    "c": "<p>It is displayed as a secondary parameter only when the pilot selects the secondary page.</p>",
+    "d": "<p>It is displayed only during specific thrust settings, such as takeoff or climb.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

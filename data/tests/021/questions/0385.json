@@ -1,0 +1,14 @@
+{
+  "number": 385,
+  "questionId": 81765,
+  "questionNumber": "211205",
+  "stemHtml": "<p>Which of the following formulas describes how the torque of an electrical motor is determined by the supplied voltage and current and the resulting RPM.</p>\r\n\r\n<p>T = Torque, U = Voltage, H = RPM, I = Current.</p>",
+  "options": {
+    "a": "T = U \u00d7 H \u00d7 I",
+    "b": "T = (U \u00d7 I) / H",
+    "c": "T = U \u00d7 H / I",
+    "d": "T = U \u00d7 I"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

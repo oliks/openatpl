@@ -1,0 +1,14 @@
+{
+  "number": 400,
+  "questionId": 105278,
+  "questionNumber": "103949",
+  "stemHtml": "<p>If a pilot forgets to close the ATS flight plan and 30 minutes have passed since the estimated arrival time of the aircraft, what will be the result?</p>",
+  "options": {
+    "a": "<p>ATC service would be disrupted and It will start an expensive search and rescue without a reason.</p>",
+    "b": "<p>Nothing will happen.</p>",
+    "c": "<p>Closing the flight plan is a kind of good airmanship, so there's no further action if the pilot don't close the flight plan.</p>",
+    "d": "<p>ATC will call the pilot to close the flight plan and there will not be any further action.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

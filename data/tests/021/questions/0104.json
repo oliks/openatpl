@@ -1,0 +1,14 @@
+{
+  "number": 104,
+  "questionId": 78303,
+  "questionNumber": "213920",
+  "stemHtml": "<p>What effect would an accumulator have on the Automatic Cut-Out Valve (ACOV) when installed in a hydraulic system?</p>",
+  "options": {
+    "a": "<p>Have no effect in time between \"cut-out\" and \"cut-in\" position.</p>",
+    "b": "<p>Reduce the time between \"cut-out\" and \"cut-in\" position.</p>",
+    "c": "<p>Reduce the time between \"cut-in\" and \"cut-out\" position.</p>",
+    "d": "<p>Extend the time between \"cut-out\" and \"cut-in\" position.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

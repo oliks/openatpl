@@ -1,0 +1,14 @@
+{
+  "number": 1833,
+  "questionId": 81356,
+  "questionNumber": "221506",
+  "stemHtml": "<p>The flight director computer continuously\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Compares the current attitude with the computed attitude.</p>",
+    "b": "<p dir=\"ltr\">Computes the required attitude for the autopilot synchronisation.</p>",
+    "c": "<p dir=\"ltr\">Compares the computed attitude with the ACAS signals.</p>",
+    "d": "<p>Compares the computed attitude with the EGPWS signals.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

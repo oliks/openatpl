@@ -1,0 +1,14 @@
+{
+  "number": 312,
+  "questionId": 68841,
+  "questionNumber": "228407",
+  "stemHtml": "Under normal conditions, in a dual FMS architecture, the master FMC sends its commands to the: (NB: FMC = Flight Management Computer)",
+  "options": {
+    "a": "the first officer instruments.",
+    "b": "the captain instruments.",
+    "c": "autopilot, flight director, and autothrottle/collective.",
+    "d": "the captain autopilot."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

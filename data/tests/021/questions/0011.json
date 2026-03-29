@@ -1,0 +1,14 @@
+{
+  "number": 11,
+  "questionId": 102798,
+  "questionNumber": "215699",
+  "stemHtml": "<p>Which of these statements regarding a Fly-By-Wire flight control system utilizing sidesticks for manual control are correct or incorrect?</p>\r\r<p>1. In the case of a dual control input from both sidesticks these inputs are mixed. In this situation, the signal from the left sidestick (Commander) is electronically prioritised over the commands coming from the right sidestick <br /> \r2. The resulting control input of a dual control input from both sidesticks is electronically limited to the maximum deflection limit of one sidestick</p>",
+  "options": {
+    "a": "<p>1 is incorrect, 2 is correct.</p>",
+    "b": "<p>1 is correct, 2 is incorrect.</p>",
+    "c": "<p>Both 1 and 2 are incorrect.</p>",
+    "d": "<p>Both 1 and 2 are correct.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

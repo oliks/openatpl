@@ -1,0 +1,14 @@
+{
+  "number": 171,
+  "questionId": 108455,
+  "questionNumber": "229903",
+  "stemHtml": "<p>Is a pilot able to change the airport data in the navigational database of the FMS?</p>",
+  "options": {
+    "a": "<p>Yes, and to retrieve old information (original database) there is a \u201crecycle bin\u201d option. There you cancel what you just inserted.</p>",
+    "b": "<p>Yes, but to go back (retrieve) to previous data you need to reload the \u201cold\u201d database.</p>",
+    "c": "<p>Yes, the data can be changed, and to retrieve the old database you need to switch on and off the FMS.</p>",
+    "d": "<p>No, data CANNOT be changed.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

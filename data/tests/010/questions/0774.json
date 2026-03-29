@@ -1,0 +1,14 @@
+{
+  "number": 774,
+  "questionId": 84362,
+  "questionNumber": "107113",
+  "stemHtml": "<p>Consider the following statements about instrument operations on parallel runways. What is correct for departing and arriving aircraft?</p><p>1. Independent operations means both runways are used exclusively for departures <br /> 2. Independent operations means one runway is used exclusively for departures while the other runway is used for a mixture of arrivals and departures <br /> 3. Mixed operations means both runways are used for mixed arrivals and departures <br /> 4. Dependent parallel approaches are simultaneous instrument operations <br /> 5. Independent parallel approaches are simultaneous instrument operations <br /> 6. Semi mixed independent parallel approaches are simultaneous instrument operations</p>",
+  "options": {
+    "a": "<p>Departure: 2 and 3; Arrival: 2 and 4</p>",
+    "b": "<p>Departure: 1 and 3; Arrival: 4 and 5</p>",
+    "c": "<p>Departure: 1 and 3; Arrival: 5 and 6</p>",
+    "d": "Departure: 2 and 3; Arrival: 4 and 6"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 339,
+  "questionId": 105437,
+  "questionNumber": "223046",
+  "stemHtml": "<p>Given:</p><p>P = power. <br>T = torque. n = RPM.</p><p>The correct relationship is\u2026</p>",
+  "options": {
+    "a": "<p>n = T / P.</p>",
+    "b": "<p>n = P / T.</p>",
+    "c": "<p>n = P x T.</p>",
+    "d": "<p>n = T x TAS.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

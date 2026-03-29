@@ -1,0 +1,14 @@
+{
+  "number": 1143,
+  "questionId": 81768,
+  "questionNumber": "228476",
+  "stemHtml": "<p>During a ground stop the Commander notices that the FMS position is NOT in agreement with the actual aircraft position. What is the correct procedure to rectify this error? The Commander needs to\u2026</p>",
+  "options": {
+    "a": "<p>note the difference and manually correct calculations for the rest of the flight.</p>",
+    "b": "<p>contact maintenance personnel to recalibrate the system.</p>",
+    "c": "<p>use the CDU to enter the correct position into the system.</p>",
+    "d": "<p>activate the GNSS to allow the position to be automatically corrected.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

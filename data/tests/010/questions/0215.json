@@ -1,0 +1,14 @@
+{
+  "number": 215,
+  "questionId": 82214,
+  "questionNumber": "109468",
+  "stemHtml": "<p>The pilots hear the RA aural alert \u201cDESCEND, DESCEND NOW\u201d. Seconds after, a second RA aural alert sounds \u201cCLIMB, CLIMB NOW\u201d. What should the pilots do?</p>",
+  "options": {
+    "a": "<p>Ignore RA, it\u2019s clearly U/S.</p>",
+    "b": "<p>Stay level because both RAs cancel each other out.</p>",
+    "c": "<p>Try to make visual contact and then perform RA.</p>",
+    "d": "Follow RA and bear in mind flight path deviation."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 83,
+  "questionId": 82884,
+  "questionNumber": "222362",
+  "stemHtml": "<p>How can the TCS (Touch Control Steering) system be activated?</p>",
+  "options": {
+    "a": "<p>By using a touchpad instead of a control stick/wheel to control the aircraft.</p>",
+    "b": "<p>By pressing a button to disengage the flight controls from the autopilot.</p>",
+    "c": "<p>By using a separate set of flight controls to provide the autopilot with new control inputs.</p>",
+    "d": "<p>When the pilot touches the flight controls, the autopilot is automatically disengaged.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

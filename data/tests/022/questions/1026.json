@@ -1,0 +1,14 @@
+{
+  "number": 1026,
+  "questionId": 68775,
+  "questionNumber": "225768",
+  "stemHtml": "<p>The GPWS warns the crew in case of:</p><p>1 \u2013 excessive descent rate <br /> 2 \u2013 excessive terrain closure rate <br /> 3 \u2013 potential mid-air collision threat <br /> 4 \u2013 serious mid-air collision threat <br /> 5 \u2013 unsafe terrain clearance with landing gear not down <br />  <br /> The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "1, 2, 5.",
+    "b": "1, 2, 4, 5.",
+    "c": "4",
+    "d": "1, 2, 3, 5."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

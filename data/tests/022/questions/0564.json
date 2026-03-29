@@ -1,0 +1,14 @@
+{
+  "number": 564,
+  "questionId": 101695,
+  "questionNumber": "227786",
+  "stemHtml": "<p>On a Fly-By-Wire aircraft equipped with side-sticks, how will the aircraft respond to an impending stall?</p>",
+  "options": {
+    "a": "<p>The side-sticks will shake to warn the pilots.</p>",
+    "b": "<p>The side-stick will be automatically pushed fully forwards to reduce the angle of attack.</p>",
+    "c": "<p>TOGA thrust will be automatically applied.</p>",
+    "d": "<p>The system will revert to direct law to allow the pilot to take full control.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

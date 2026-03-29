@@ -1,0 +1,14 @@
+{
+  "number": 384,
+  "questionId": 84916,
+  "questionNumber": "223746",
+  "stemHtml": "<p>How is the risk of stalling affected if an aeroplane climbs at constant Mach Number?</p>",
+  "options": {
+    "a": "<p>It is unaffected, as the TAS will remain the same.</p>",
+    "b": "<p>It decreases, as the TAS of the aircraft is increasing.</p>",
+    "c": "<p>It increases up to around FL200, and then decreases.</p>",
+    "d": "<p>It increases, as the TAS of the aircraft is decreasing.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

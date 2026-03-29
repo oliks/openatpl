@@ -1,0 +1,14 @@
+{
+  "number": 1211,
+  "questionId": 68396,
+  "questionNumber": "218600",
+  "stemHtml": "<p>The flap load relief system\u2026</p>",
+  "options": {
+    "a": "Extends the slats automatically when the angle of attack becomes too high.",
+    "b": "Blocks the flaps in the current position when a flap asymmetry is detected.",
+    "c": "Retracts the flaps when the airspeed is becoming too high and exceeds a certain limit.",
+    "d": "Extends the flaps automatically when the angle of attack becomes too high."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

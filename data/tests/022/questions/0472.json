@@ -1,0 +1,14 @@
+{
+  "number": 472,
+  "questionId": 82500,
+  "questionNumber": "227260",
+  "stemHtml": "<p>In a barometric type Instantaneous Vertical Speed Indicator (IVSI), what is used to quickly respond to altitude changes and provide instant climb/descent indications?</p>",
+  "options": {
+    "a": "<p>An accelerometer mechanically linked to the capsule, to expand it faster.</p>",
+    "b": "<p>An accelerometer to temporarily change the pressure in the capsule.</p>",
+    "c": "<p>A piston to temporarily change the diameter of the metering unit.</p>",
+    "d": "<p>Information from an air data inertial reference system.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

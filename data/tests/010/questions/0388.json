@@ -1,0 +1,14 @@
+{
+  "number": 388,
+  "questionId": 80267,
+  "questionNumber": "108626",
+  "stemHtml": "An aircraft arriving at Paris CDG receives the following ATIS: <br />  <br /> \"This is CDG Information India recorded at 1431 UTC. <br /> Approach 4E, En ILS 09L and Approach 4E, 4N ILS 08R. <br /> Landing Runway: 09L and 08R. <br /> Transition level 70. <br /> Wind: 180\u00b0/13 kt <br /> Present weather: CAVOK. <br /> Temperature: 13. <br /> Dew point: 2. <br /> QNH: 1003. <br /> Confirm ATIS India received on first contact. \" <br />  <br /> According to ICAO Annex 11, this arrival ATIS is...",
+  "options": {
+    "a": "Incorrect because the type of approach is mentioned.",
+    "b": "Incorrect because the RVRs are NOT mentioned.",
+    "c": "Incorrect because the SNOWTAM is missing.",
+    "d": "Correct."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

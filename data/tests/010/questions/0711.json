@@ -1,0 +1,14 @@
+{
+  "number": 711,
+  "questionId": 81329,
+  "questionNumber": "104902",
+  "stemHtml": "<p>A runway-in-use for landing operations has been selected for noise abatement purposes. For this runway a full ILS CAT I is available and the runway condition is reported dry. The surface wind is calm, the visibility is 5000 m and the ceiling is 5000 ft. This runway-in-use can\u2026</p>",
+  "options": {
+    "a": "<p>NO longer be used when the ceiling lowers to 2500 ft.</p>",
+    "b": "<p dir=\"ltr\">Be refused by the Pilot-In-Command for safety reasons.</p>",
+    "c": "<p>NO longer be used when the visibility decreases to 2500 m.</p>",
+    "d": "<p dir=\"ltr\">Still be selected for this purpose with a Localiser-only approach.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

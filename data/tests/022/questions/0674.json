@@ -1,0 +1,14 @@
+{
+  "number": 674,
+  "questionId": 109045,
+  "questionNumber": "221908",
+  "stemHtml": "<p>You are climbing to 9000 ft with the autopilot engaged and a 2500 ft/min rate of climb. Passing 7500 ft ATC tells you to stop climb at 8000 ft. Passing 7900 ft the pilot selects ALT HOLD mode. What is the result?</p>",
+  "options": {
+    "a": "<p>Aircraft will overshoot 8000 ft to comply with acceleration limits, slowly level off then descend back to the altitude where ALT HOLD was pressed</p>",
+    "b": "<p>Aircraft rapidly levels off at 8000 ft</p>",
+    "c": "<p>ALT HOLD is prevented from engaging when there\u2019s a risk of exceeding g-load and pilot will descend to 8000 ft</p>",
+    "d": "<p>Aircraft will overshoot 8000 ft as compliance with acceleration limits will be prioritized over levelling off, then pilot intervention will be required to descend.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 657,
+  "questionId": 103810,
+  "questionNumber": "219267",
+  "stemHtml": "<p>In the event of a flap overspeed, a flap load relief system will...</p>",
+  "options": {
+    "a": "<p>partially extend the flight spoilers to reduce the load factor, to prevent flap damage.</p>",
+    "b": "<p>retract the trailing-edge flaps to an intermediate position, to protect the flaps.</p>",
+    "c": "<p>lock movement of the flap lever towards the extended direction, to avoid a flap overload.</p>",
+    "d": "<p>block trailing-edge flap movement if an asymmetry or misalignment is detected, to limit the flap loads.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

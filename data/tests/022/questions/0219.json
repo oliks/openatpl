@@ -1,0 +1,14 @@
+{
+  "number": 219,
+  "questionId": 80183,
+  "questionNumber": "229171",
+  "stemHtml": "What is the main purpose of the autothrottle on take-off?",
+  "options": {
+    "a": "To constantly adjust the thrust on the take off roll.",
+    "b": "To set and hold a commanded thrust setting.",
+    "c": "To hold an attitude after take off.",
+    "d": "To hold a speed once airborne."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

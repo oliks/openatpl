@@ -1,0 +1,14 @@
+{
+  "number": 1472,
+  "questionId": 67983,
+  "questionNumber": "215411",
+  "stemHtml": "<p>A single acting actuator\u2026</p>",
+  "options": {
+    "a": "<p>is a one shot actuator used for emergency systems only.</p>",
+    "b": "<p>travels one direction under one application of hydraulic power and in the opposite direction under a second application of hydraulic power.</p>",
+    "c": "<p>is powered in one direction only by hydraulic power, the return movement being under another force.</p>",
+    "d": "<p>cannot be used for variable position operations as it is designed to lock in the extremities of travel.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

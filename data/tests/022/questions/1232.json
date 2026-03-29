@@ -1,0 +1,14 @@
+{
+  "number": 1232,
+  "questionId": 140950,
+  "questionNumber": "221275",
+  "stemHtml": "<p>What is the primary purpose of a data bus in aircraft systems?</p>",
+  "options": {
+    "a": "<p>To distribute electrical power between different avionics components</p>",
+    "b": "<p>To provide a backup path for electrical current in case of generator failure</p>",
+    "c": "<p>To transfer data between systems on dedicated communication buses</p>",
+    "d": "<p>To transfer data using the power bus</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

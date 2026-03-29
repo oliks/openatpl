@@ -1,0 +1,14 @@
+{
+  "number": 1078,
+  "questionId": 81406,
+  "questionNumber": "212889",
+  "stemHtml": "Which modes of operation exist in Fly-By-Wire systems?",
+  "options": {
+    "a": "The normal mode, the direct mode and mechanical backup.",
+    "b": "The alternate (or secondary) mode, the direct mode and mechanical backup.",
+    "c": "The normal mode, the alternate (or secondary) mode and the direct mode.",
+    "d": "The normal mode, the alternate (or secondary) mode, the direct mode and mechanical backup."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

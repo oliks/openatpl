@@ -1,0 +1,14 @@
+{
+  "number": 1525,
+  "questionId": 79227,
+  "questionNumber": "215947",
+  "stemHtml": "<p>Given the following data, electrical power is defined as:</p>\n\n<p>E = electrical energy (work)  <br />  \nI = current  <br />  \nt = time</p>",
+  "options": {
+    "a": "<p>(P = E / t)</p>",
+    "b": "<p>(P = E / I)</p>",
+    "c": "<p>(P = I / E)</p>",
+    "d": "<p>(P = E x t)</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

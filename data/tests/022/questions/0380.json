@@ -1,0 +1,14 @@
+{
+  "number": 380,
+  "questionId": 84797,
+  "questionNumber": "223524",
+  "stemHtml": "<p>At the beginning of the flight, when initialising the FMS, you have the option to choose between the current and the upcoming version of the navigation database. You select the upcoming version of the database by accident and without noticing. This decision\u2026</p>",
+  "options": {
+    "a": "<p>Will lead to a blockage of the FMS computer. The screen will be frozen and the computer has to be reset by the pilot.</p>",
+    "b": "<p>Could lead to an unsafe situation by including waypoints, SID and STAR data that are only available at a later date.</p>",
+    "c": "<p>Will be announced by the FMS as WRONG DATABASE VERSION so that the pilot can correct the situation.</p>",
+    "d": "<p>Has no further implications. In the background logic the FMS will use the current database.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

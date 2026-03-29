@@ -1,0 +1,14 @@
+{
+  "number": 1235,
+  "questionId": 81987,
+  "questionNumber": "218296",
+  "stemHtml": "<p>You are flying a FBW (Fly-By-Wire) aircraft in a steep turn. It is fitted with flight envelope protection intended to protect against bank angles over 30 degrees. An undetected fault triggers the system and the bank angle protection system is activated inadvertently, what will happen?</p>",
+  "options": {
+    "a": "<p>Force will be required over 20 degrees angle of bank.</p>",
+    "b": "<p>The aircraft will roll to wings level.</p>",
+    "c": "<p>The aircraft downgrades to direct law.</p>",
+    "d": "<p>Force will be required to achieve an angle of bank.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

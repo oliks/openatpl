@@ -1,0 +1,14 @@
+{
+  "number": 36,
+  "questionId": 84451,
+  "questionNumber": "227026",
+  "stemHtml": "<p>An armed mode changes to an active mode. What does this mean?</p>",
+  "options": {
+    "a": "<p>The aircraft changes its guidance function and the change is highlighted on the FMA.</p>",
+    "b": "<p>The pilot needs to make a new selection on the autopilot control panel.</p>",
+    "c": "<p>The armed mode remains armed and the active mode becomes active.</p>",
+    "d": "<p>A warning will sound to drive pilots' attention.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

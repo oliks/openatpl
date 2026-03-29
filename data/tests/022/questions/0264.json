@@ -1,0 +1,14 @@
+{
+  "number": 264,
+  "questionId": 81797,
+  "questionNumber": "228225",
+  "stemHtml": "<p>Situation:</p>\r\r<p>Flight Director (FD) engaged <br /> \rHDG hold engaged <br /> \rALT hold engaged <br /> \rThe FD command bars indicate a pitch up and a roll to the left</p>\r\r<p>The pilot has to follow the\u2026</p>",
+  "options": {
+    "a": "<p>FD command bars.</p>",
+    "b": "<p>FD command bars, but only if the AFCS is also engaged.</p>",
+    "c": "<p>opposite of the FD command bars, but only if the AFCS is also engaged.</p>",
+    "d": "<p>opposite of the FD command bars.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

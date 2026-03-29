@@ -1,0 +1,14 @@
+{
+  "number": 1574,
+  "questionId": 157877,
+  "questionNumber": "227241",
+  "stemHtml": "<p>On the PFD of a modern commercial air transport aircraft, which of the following items are typically displayed?</p><p>1. Calibrated airspeed (CAS)  <br /> 2. True airspeed (TAS)  <br /> 3. Flight path vector (FPV)  <br /> 4. Decision altitude/height  <br /> 5. Failure flags and messages  <br /> 6. Terrain information  <br /> 7. ETA at next waypoint  <br /> 8. ACAS/TCAS information  <br /> 9. Fuel flow</p>",
+  "options": {
+    "a": "<p>1, 3, 4, 5 and 8</p>",
+    "b": "<p>1, 2, 3, 4, 6, 8 and 9</p>",
+    "c": "<p>1, 2, 4 and 5</p>",
+    "d": "<p>1, 2, 6, 7, 8 and 9</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

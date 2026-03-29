@@ -1,0 +1,14 @@
+{
+  "number": 98,
+  "questionId": 112501,
+  "questionNumber": "216339",
+  "stemHtml": "<p>Which of the following statements are correct/incorrect?</p><p>1. In the case of a dual engine failure, the air used for pressurisation may be used to restart the engines  <br />  2. An aircraft can be pressurised using bleed air from the main engines, the APU, or the air starter unit (ASU)</p>",
+  "options": {
+    "a": "<p>1 is correct; 2 is correct.</p>",
+    "b": "<p>1 is incorrect; 2 is correct.</p>",
+    "c": "<p>1 is correct; 2 is incorrect.</p>",
+    "d": "<p>1 is incorrect; 2 is incorrect.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

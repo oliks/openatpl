@@ -1,0 +1,14 @@
+{
+  "number": 152,
+  "questionId": 108731,
+  "questionNumber": "227066",
+  "stemHtml": "<p>In a Fly-By-Wire aircraft, what system has priority over the pitch trim?</p>",
+  "options": {
+    "a": "<p>Manual trim has priority over automatic trim, and it will disconnect the autopilot if a certain threshold is reached.</p>",
+    "b": "<p>Manual trim has priority over automatic trim, and it will not disconnect the autopilot if a certain threshold is reached.</p>",
+    "c": "<p>Autopilot has priority over the automatic trim and will not disengage the autopilot if a certain threshold is reached.</p>",
+    "d": "<p>Autopilot has priority over the automatic trim but will disengage if manual trim is commenced over a certain threshold.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

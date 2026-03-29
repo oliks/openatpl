@@ -1,0 +1,14 @@
+{
+  "number": 1693,
+  "questionId": 81757,
+  "questionNumber": "219348",
+  "stemHtml": "<p>The Airbus A320 has Fly By Wire flight controls. Imagine manually flying an Airbus A320 at low altitude and low airspeed, at the critical angle of attack. How can the pilots make the aircraft climb?</p>",
+  "options": {
+    "a": "<p>By trimming for a nose-up attitude.</p>",
+    "b": "<p>By engaging AP in vertical speed mode.</p>",
+    "c": "<p>Simply by pulling back on the sidestick.</p>",
+    "d": "<p>By moving the thrust levers forward to increase speed.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

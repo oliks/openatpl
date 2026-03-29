@@ -1,0 +1,14 @@
+{
+  "number": 1210,
+  "questionId": 80884,
+  "questionNumber": "228391",
+  "stemHtml": "What do you understand by \u201cunreliable airspeed\u201d?",
+  "options": {
+    "a": "Airspeed indications affected by pitot/static system errors, but without triggering a warning and being automatically removed from displays and computations.",
+    "b": "Airspeed indications affected by pitot/static system errors, triggering a warning and being automatically removed from displays and computations.",
+    "c": "A procedure dealing with the recovery of the ASI only.",
+    "d": "A modern commercial aviation EFIS feature."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

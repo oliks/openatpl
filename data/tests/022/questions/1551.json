@@ -1,0 +1,14 @@
+{
+  "number": 1551,
+  "questionId": 80203,
+  "questionNumber": "221534",
+  "stemHtml": "An aircraft and an intruding aircraft both are TCAS II equipped. <br /> How does the TCAS determine the bearing of the intruding aircraft?",
+  "options": {
+    "a": "By measuring the time lapse between the transmission of an interrogation signal and the reception of a reply signal.",
+    "b": "Using the bearing function of the on-board weather radar.",
+    "c": "By comparing the gps positions of the two aircraft.",
+    "d": "Using a specific directional antenna."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

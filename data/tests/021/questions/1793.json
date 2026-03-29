@@ -1,0 +1,14 @@
+{
+  "number": 1793,
+  "questionId": 106063,
+  "questionNumber": "214372",
+  "stemHtml": "<p>How do auto-slat systems function and what is their main purpose?</p>",
+  "options": {
+    "a": "<p>Electrically operated auto-slats are linked to the angle of attack probe and retract only during cruise. Otherwise, they remain extended to prevent icing from forming on the leading edge.</p>",
+    "b": "<p>Spring-powered auto-slats are extended by aerodynamic suction to delay the stalling angle of attack and are retracted by spring force to minimize drag.</p>",
+    "c": "<p>Hydraulically powered auto-slats are extended if the aircraft's angle of attack approaches the stall, in order to delay the stalling angle of attack. They retract when the condition no longer exists to minimise drag.</p>",
+    "d": "<p>Pneumatically operated auto-slats are heated by bleed air to prevent icing on the leading edge. They are operated by the landing gear lever, extending when the gear is selected down and retracting when up is selected.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

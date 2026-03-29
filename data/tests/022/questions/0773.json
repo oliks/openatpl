@@ -1,0 +1,14 @@
+{
+  "number": 773,
+  "questionId": 81739,
+  "questionNumber": "224474",
+  "stemHtml": "<p>In computer architecture, which of these statements about a bus are correct or incorrect?</p><p>1. A bus ensures sequencing and coordination of operations\u00a0<br>2. A bus transfers data between computer components</p>",
+  "options": {
+    "a": "1 is correct, 2 is incorrect",
+    "b": "1 is correct, 2 is correct",
+    "c": "1 is incorrect, 2 is incorrect",
+    "d": "1 is incorrect, 2 is correct"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

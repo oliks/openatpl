@@ -1,0 +1,14 @@
+{
+  "number": 1199,
+  "questionId": 108515,
+  "questionNumber": "225273",
+  "stemHtml": "<p>An airline\u2019s AOC can communicate with an aircraft in flight to send information relating to the flight plan, weather, or operational constraints by (1)<strong> </strong>_____ method, and the technology used is (2)<strong> </strong>_____.</p>",
+  "options": {
+    "a": "<p>(1) Voice; (2) ACARS</p>",
+    "b": "<p>(1) Voice; (2) CPDLC</p>",
+    "c": "<p>(1) Datalink; (2) ACARS</p>",
+    "d": "<p>(1) Datalink; (2) CPDLC</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

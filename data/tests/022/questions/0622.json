@@ -1,0 +1,14 @@
+{
+  "number": 622,
+  "questionId": 101537,
+  "questionNumber": "229152",
+  "stemHtml": "How does the yaw damper operate in manual flight with the Flight Director (FD) on as well as with the autopilot engaged?",
+  "options": {
+    "a": "The yaw damper is disabled when FD is selected, and manual rudder control must be used to manage yaw.",
+    "b": "The yaw damper provides stability during manual control and autopilot use, as long as the FD is on.",
+    "c": "The yaw damper only operates during manual flight, and is inhibited when the autopilot is engaged.",
+    "d": "Yaw damper operation remains the same whether the FD is on or not, offering stability during manual flight and with the autopilot engaged."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

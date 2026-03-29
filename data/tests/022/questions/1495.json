@@ -1,0 +1,14 @@
+{
+  "number": 1495,
+  "questionId": 110479,
+  "questionNumber": "226523",
+  "stemHtml": "<p>Which of these statements is correct regarding the number of antennas required for a radio altimeter?</p>",
+  "options": {
+    "a": "<p>One antenna transmitting and receiving at the same time.</p>",
+    "b": "<p>Two antennas are used to generate a stronger signal.</p>",
+    "c": "<p>Two antennas, one for transmission and one for reception, sufficiently spaced to avoid interference.</p>",
+    "d": "<p>A single antenna which is also used by the EGPWS.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

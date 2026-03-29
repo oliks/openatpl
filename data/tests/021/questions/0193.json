@@ -1,0 +1,14 @@
+{
+  "number": 193,
+  "questionId": 84563,
+  "questionNumber": "213130",
+  "stemHtml": "<p>In a Fly-By-Wire aircraft controlled with a sidestick, the sticks are not physically connected, so both pilots can perform independent control inputs. Which of the following statements correctly describes how unintended dual control inputs are prevented?</p>",
+  "options": {
+    "a": "<p>The left-hand seat sidestick (Commander) has a priority push button which, when pushed, deactivates the control inputs from the right sidestick. The right side stick has no push-button.</p>",
+    "b": "<p>One pilot announces 'I have control' and the other pilot must neutralise his/her side stick control input. Only the pilot relinquishing control can deactivate his/her sidestick.</p>",
+    "c": "<p>A selector switch (positions left/right/both) in the main centre console is used to select the control inputs from one side stick and deactivate the other side stick.</p>",
+    "d": "<p>Both sidesticks have a priority push-button which, when pushed, deactivates the control inputs from the other sidestick.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

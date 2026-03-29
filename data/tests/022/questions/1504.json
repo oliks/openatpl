@@ -1,0 +1,14 @@
+{
+  "number": 1504,
+  "questionId": 69020,
+  "questionNumber": "229861",
+  "stemHtml": "<p>As a result of the failure of the ADC, the inertial navigation system will no longer provide information about\u2026</p>",
+  "options": {
+    "a": "the drift angle.",
+    "b": "the wind direction and velocity.",
+    "c": "the ground speed.",
+    "d": "the time (TIME) at the next waypoint (WPT)."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

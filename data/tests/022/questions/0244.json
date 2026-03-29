@@ -1,0 +1,14 @@
+{
+  "number": 244,
+  "questionId": 66495,
+  "questionNumber": "222100",
+  "stemHtml": "<p>Deviation on the standby compass is\u2026</p>",
+  "options": {
+    "a": "zero on the magnetic Equator.",
+    "b": "positive if the Compass North is to the west of Magnetic North.",
+    "c": "dependent on the heading of the aircraft.",
+    "d": "independent of the latitude of the aircraft\u2019s position."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

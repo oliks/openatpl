@@ -1,0 +1,14 @@
+{
+  "number": 271,
+  "questionId": 101961,
+  "questionNumber": "226085",
+  "stemHtml": "<p>Which option gives the most complete list of possible position inputs that can be used by the FMS?</p>",
+  "options": {
+    "a": "<p>GPS, IRS, VOR, DME, LOC.</p>",
+    "b": "<p>GPS, IRS, DME.</p>",
+    "c": "<p>GPS, IRS, DME, VOR.</p>",
+    "d": "<p>GPS, IRS, DME, NDB.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

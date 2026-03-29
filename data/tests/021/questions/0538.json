@@ -1,0 +1,14 @@
+{
+  "number": 538,
+  "questionId": 81190,
+  "questionNumber": "217712",
+  "stemHtml": "<p>Concerning turbine engines, a distorted inlet airflow (i.e. due to heavy in-flight turbulence) can cause (1) _____ in the air inlet, which could lead to (2) _____ within the compressor section.</p>",
+  "options": {
+    "a": "(1) an airflow separation; (2) abrupt compressor RPM droppage.",
+    "b": "(1) inlet icing; (2) abrupt compressor RPM droppage.",
+    "c": "(1) an airflow separation; (2) compressor stall.",
+    "d": "(1) inlet icing; (2) compressor stall."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

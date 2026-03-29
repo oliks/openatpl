@@ -1,0 +1,14 @@
+{
+  "number": 1672,
+  "questionId": 66765,
+  "questionNumber": "105325",
+  "stemHtml": "<p>If an IFR flight operated in IMC in a controlled airspace, where radar is not used in the provision of air traffic control, encounters a communication failure, it shall maintain the last assigned...</p>",
+  "options": {
+    "a": "<p>speed and level for a period of 10 minutes and thereafter descend in VMC and continue the flight to the nearest suitable aerodrome.</p>",
+    "b": "<p>speed and level for a period of 20 minutes and thereafter adjust level and speed in accordance with the filed flight plan.</p>",
+    "c": "<p>level for a period of 5 minutes and thereafter continue in accordance with the filed flight plan.</p>",
+    "d": "<p>speed and level for a period of 10 minutes and thereafter descend and land at the nearest suitable aerodrome.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

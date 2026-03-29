@@ -1,0 +1,14 @@
+{
+  "number": 651,
+  "questionId": 163746,
+  "questionNumber": "223189",
+  "stemHtml": "<p>Insects have blocked the static ports. \u00a0During take off the VSI will (1) _____ this will become apparent (2) _____. \u00a0It's hard to notice initially because of (3) _____ and it will \u00a0(4) _____ \u00a0pilot workload.</p>",
+  "options": {
+    "a": "<p>(1) read zero; (2) when the aircraft starts moving; (3) position error; (4) not affect</p>",
+    "b": "<p>(1) read zero; (2) when the aircraft starts climbing; (3) lag error; (4) increase</p>",
+    "c": "<p>(1) underread; (2) when the aircaft starts climbing; (3) instrument error; (4) not affect</p>",
+    "d": "<p>(1) Overread; (2) when the aircaft starts moving; (3) lag error; (4) have little effect on</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 578,
+  "questionId": 83126,
+  "questionNumber": "211890",
+  "stemHtml": "<p>It is NOT recommended to reset a tripped circuit breaker during flight because\u2026</p>",
+  "options": {
+    "a": "<p>This should only be done when the aircraft is on the ground with the main battery turned off.</p>",
+    "b": "The overload condition may still be present and the electrical damage could become worse.",
+    "c": "The member of the flight crew must leave the flight deck.",
+    "d": "There is a risk of electrocution."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

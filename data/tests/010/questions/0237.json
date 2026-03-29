@@ -1,0 +1,14 @@
+{
+  "number": 237,
+  "questionId": 108141,
+  "questionNumber": "102507",
+  "stemHtml": "<p>Two heavy aircraft are executing approaches on two parallel runways (08L and 08R). Due to poor visibility, both aircraft execute a missed approach. What is true about their missed approach tracks?</p>",
+  "options": {
+    "a": "<p>Both tracks must diverge.</p>",
+    "b": "<p>Both tracks should diverge by at least 60 degrees.</p>",
+    "c": "<p>Both tracks should proceed parallel because simultaneous parallel approaches are in use.</p>",
+    "d": "<p>Both tracks should diverge by at least 30 degrees.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

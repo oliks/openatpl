@@ -1,0 +1,14 @@
+{
+  "number": 1006,
+  "questionId": 69235,
+  "questionNumber": "227712",
+  "stemHtml": "<p>The ADC uses, among others, the following parameters as input data\u2026</p>",
+  "options": {
+    "a": "<p>TAS, baro altitude, TAT.</p>",
+    "b": "<p>Static pressure, total pressure, TAT.</p>",
+    "c": "<p>Mach number, baro altitude, CAS.</p>",
+    "d": "<p>Total pressure, static pressure, TAT, EGT.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

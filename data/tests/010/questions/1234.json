@@ -1,0 +1,14 @@
+{
+  "number": 1234,
+  "questionId": 80479,
+  "questionNumber": "106000",
+  "stemHtml": "<p>According to ICAO Annex 17, what is the definition of \u201cSecurity Control\u201d?</p>",
+  "options": {
+    "a": "The application of technical or other means which are intended to identify and/or detect weapons, explosives or other dangerous devices, articles or substances which may be used to commit an act of unlawful interference.",
+    "b": "A means by which the introduction of weapons, explosives or other dangerous devices, articles or substances which may be used to commit an act of unlawful interference can be prevented.",
+    "c": "A check on a person\u2019s identity and previous experience including where legally permissible, any criminal history.",
+    "d": "A secret or public trial of an aviation security measure which simulates an attempt to commit an unlawful act."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

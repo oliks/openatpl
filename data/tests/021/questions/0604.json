@@ -1,0 +1,14 @@
+{
+  "number": 604,
+  "questionId": 84555,
+  "questionNumber": "216658",
+  "stemHtml": "In a DC (Direct Current) circuit, what will happen if the current gets too high and is not detected?",
+  "options": {
+    "a": "The voltage will subsequently increase, and could blow a fuse.",
+    "b": "<p>The wire and insulation will overheat and could cause a fire.</p>",
+    "c": "The increased magnetic field will interfere with other circuits nearby.",
+    "d": "The circuit breaker will trip, disconnecting the generator from its drive unit."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1004,
+  "questionId": 80207,
+  "questionNumber": "228274",
+  "stemHtml": "What effect could the loss of GPS signal have on the FMS?",
+  "options": {
+    "a": "The aircraft position could be different from what is calculated.",
+    "b": "None as it uses radio aids for position, not GPS.",
+    "c": "It will use the IRS position.",
+    "d": "No effect."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 448,
+  "questionId": 162686,
+  "questionNumber": "224557",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>The screen on the right in the figure is an example of a (1) _____ it is configured to always show (2) _____. If the right screen fails, the left screen will automatically adapt to show (3) _____.</p>",
+  "options": {
+    "a": "<p>(1) Electronic Flight Instrument System (EFIS); (2) Navigation data; (3) Flight controls synoptic</p>",
+    "b": "<p>(1) Multi-Function Display (MFD); (2) Engine data; (3) Engine data</p>",
+    "c": "<p>(1)Primary Flight Display (PFD); (2) Attitude and air data; (3) Navigation map</p>",
+    "d": "<p>(1) Engine Indication and Crew Alerting System (EICAS/ECAM); (2) Flight management data; (3) Weather radar</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 72858,
+      "uniqueKey": "e5702dff-d3c9-444e-b39b-45e26c2a5adc",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=e5702dff-d3c9-444e-b39b-45e26c2a5adc",
+      "publicUrl": "/attachments/022/e5702dff-d3c9-444e-b39b-45e26c2a5adc.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/e5702dff-d3c9-444e-b39b-45e26c2a5adc.png"
+    }
+  ]
+}

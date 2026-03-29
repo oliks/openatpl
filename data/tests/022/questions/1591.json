@@ -1,0 +1,14 @@
+{
+  "number": 1591,
+  "questionId": 160318,
+  "questionNumber": "226371",
+  "stemHtml": "<p>What is the purpose of the selsyn device in a remote reading compass (RRC) and what indication does the instrument provide as a result?</p>",
+  "options": {
+    "a": "<p>The Selsyn compares magnetic heading from the flux valve with the directional gyro (compass) heading, and the system provides a corrected magnetic heading indication.</p>",
+    "b": "<p>The Selsyn compares true heading with magnetic heading, and the system provides a true heading indication corrected for magnetic variation.</p>",
+    "c": "<p>The Selsyn compares compass heading with true heading from the directional gyro, and the system provides a true heading reference.</p>",
+    "d": "<p>The Selsyn compares true heading from the flux valve with magnetic heading from the compass, and the system provides direct torque information to the compass card.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

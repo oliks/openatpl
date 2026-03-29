@@ -1,0 +1,14 @@
+{
+  "number": 1136,
+  "questionId": 149568,
+  "questionNumber": "229852",
+  "stemHtml": "<p>How does a remote reading compass operate when in FREE mode?</p>",
+  "options": {
+    "a": "<p>The magnetic input is active but decoupled, and the pilot manually slaves the compass towards magnetic north.</p>",
+    "b": "<p>It acts as a Directional Gyro (DG), operating freely without magnetic correction.</p>",
+    "c": "<p>It automatically realigns to magnetic north through the flux valve.</p>",
+    "d": "<p>It corrects for earth\u2019s magnetic dip and deviation automatically.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

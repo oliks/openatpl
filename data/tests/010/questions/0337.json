@@ -1,0 +1,14 @@
+{
+  "number": 337,
+  "questionId": 103478,
+  "questionNumber": "107175",
+  "stemHtml": "<p>An aircraft lands at an aerodrome after being hijacked. As an ATC, what should you do?</p>",
+  "options": {
+    "a": "<p>Provide the aircraft with clearances and navigation aids to depart again, ensuring a swift resolution to the hijack situation.</p>",
+    "b": "<p>Keep the aircraft on the ground at all costs, negotiating only if there is an immediate danger to human life.</p>",
+    "c": "<p>Coordinate with the hijackers to meet their demands as quickly as possible to avoid conflict.</p>",
+    "d": "<p>Isolate the aircraft in a secure area of the airport and alert local law enforcement and counter-terrorism units immediately.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

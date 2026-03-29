@@ -1,0 +1,14 @@
+{
+  "number": 91,
+  "questionId": 107333,
+  "questionNumber": "224117",
+  "stemHtml": "<p>How does an INS (Inertial Navigation System) platform move in relation to space?</p>",
+  "options": {
+    "a": "<p>Freely in space but aligned with True North.</p>",
+    "b": "<p>Free of the azimuth.</p>",
+    "c": "<p>Always aligned with True North.</p>",
+    "d": "<p>Freely in space without any alignment.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

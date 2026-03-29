@@ -1,0 +1,14 @@
+{
+  "number": 1378,
+  "questionId": 80212,
+  "questionNumber": "225742",
+  "stemHtml": "What does the three-axis magnetometer provide in an AHRS?",
+  "options": {
+    "a": "The orientation of magnetic North only.",
+    "b": "The vertical component of the earth's magnetic field.",
+    "c": "The horizontal component of the earth's magnetic field.",
+    "d": "The horizontal and vertical components of the earth's magnetic field."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

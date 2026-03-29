@@ -1,0 +1,14 @@
+{
+  "number": 135,
+  "questionId": 159468,
+  "questionNumber": "213711",
+  "stemHtml": "<p>When a generator is running, the indication on the left-zero ammeter shows (1) _____ and the centre-zero ammeter shows (2) _____. If the generator fails, the left-zero ammeter shows (3) _____ and the centre-zero ammeter shows (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) Generator load; (2) Battery charge; (3) Zero; (4) Battery discharge\u00a0<br>\u00a0</p>",
+    "b": "<p>(1) Battery voltage; (2) Generator load; (3) Full-scale deflection; (4) Battery charge</p>",
+    "c": "<p>(1) Battery charge only; (2) Generator output; (3) Negative deflection; (4) No battery flow\u00a0<br>\u00a0</p>",
+    "d": "<p>(1) Generator load; (2) No indication; (3) Zero; (4) Zero</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

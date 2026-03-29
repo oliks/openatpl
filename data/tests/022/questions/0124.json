@@ -1,0 +1,14 @@
+{
+  "number": 124,
+  "questionId": 109335,
+  "questionNumber": "225588",
+  "stemHtml": "<p>A pilot compares the directional gyro (DG) heading with the magnetic compass and finds out they are not aligned. What is the correct action to be taken?</p>",
+  "options": {
+    "a": "<p>Synchronise the DG to the magnetic compass heading</p>",
+    "b": "<p>Re align the IRS via outside references</p>",
+    "c": "<p>Ignore the compass and continue using the DG</p>",
+    "d": "<p>Land as soon as possible and synchronise the DG as you cannot synchronise it mid-flight</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

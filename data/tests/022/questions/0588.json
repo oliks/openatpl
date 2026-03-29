@@ -1,0 +1,14 @@
+{
+  "number": 588,
+  "questionId": 111062,
+  "questionNumber": "223083",
+  "stemHtml": "<p>For a Fly-By-Wire (FBW) aircraft equipped with Flight Envelope Protection (FEP), which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>It cannot avoid or exit high-speed flight.</p>",
+    "b": "<p>It offers high Angle of Attack (AoA) protection regardless of control law.</p>",
+    "c": "<p>It is impossible to stall the aircraft in normal law by pilot input.</p>",
+    "d": "<p>It disables the autopilot when approaching bank angle limits.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 422,
+  "questionId": 107891,
+  "questionNumber": "101364",
+  "stemHtml": "<p>You are executing a SID that requires the aircraft to climb to 6000 ft within 10 NM. During the SID you notice that the aircraft cannot meet this SID requirement due to performance limitations. What is the appropriate course of action?</p>",
+  "options": {
+    "a": "<p>Inform ATC that you are UNABLE to comply with ALL parts of the SID, but ATC will ask you to continue complying with the criteria of the SID.</p>",
+    "b": "<p>Inform ATC that you are UNABLE to comply with the SID criteria and will receive an amended clearance, if practicable.</p>",
+    "c": "<p>Continue to climb despite failing to meet the SID criteria, as instructed by the departure controller.</p>",
+    "d": "<p>Ignore the SID criteria and follow a different departure route without informing ATC.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 751,
+  "questionId": 81219,
+  "questionNumber": "225100",
+  "stemHtml": "<p dir=\"ltr\">Approaching top of descent, the destination aerodrome ATIS includes RVRs around 200 m, with Low Visibility Procedures (LVP) in force. The Commander's windscreen heat failed, with an annunciated alert, in the cruise. The screen is clear. What implications does the failure have on the briefing for the approach and landing?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Because the failure was annunciated, if there is any consequent autoland capability downgrade, this will also be annunciated. In case autoland capability remains unchanged, a CAT III approach may be flown.</p>",
+    "b": "<p dir=\"ltr\">A check of the manuals is required, in case the defect causes a reduction in the aircraft's approach capability. Diversion, or a higher height and/or RVR might be necessary.</p>",
+    "c": "<p dir=\"ltr\">All aircraft systems are required to be serviceable for low visibility procedures, so diversion to a CAT I aerodrome will be necessary.</p>",
+    "d": "The autoland capability should NOT be affected by the windscreen heating failure, therefore NO action is necessary."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

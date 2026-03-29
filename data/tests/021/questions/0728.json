@@ -1,0 +1,14 @@
+{
+  "number": 728,
+  "questionId": 82764,
+  "questionNumber": "214426",
+  "stemHtml": "<p>In a large transport aircraft with fully powered primary flight controls, redundancy can be achieved by\u2026</p>",
+  "options": {
+    "a": "<p>fixing both control columns to each other so that increased force can be exerted by both pilots for manual reversion.</p>",
+    "b": "<p>multiple flight control computers linked to multiple actuators supplied by different power sources.</p>",
+    "c": "<p>duplex parallel control runs per control axis linked to the control surfaces actuator which is supplied by the hydraulic system.</p>",
+    "d": "<p>accurate rigging of the flight control services during maintenance.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

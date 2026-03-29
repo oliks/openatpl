@@ -1,0 +1,14 @@
+{
+  "number": 557,
+  "questionId": 153741,
+  "questionNumber": "227526",
+  "stemHtml": "<p>In a commercial air transport aircraft, how does the stall warning system use inputs from the angle of attack vane?</p>",
+  "options": {
+    "a": "<p>Measure the aircraft\u2019s pitch attitude.</p>",
+    "b": "<p>Detect the direction of the relative airflow to determine if the critical AoA is being approached.</p>",
+    "c": "<p>Measure true airspeed for stall speed calculations.</p>",
+    "d": "<p>Monitor flap and slat positions.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

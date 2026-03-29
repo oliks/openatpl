@@ -1,0 +1,14 @@
+{
+  "number": 1515,
+  "questionId": 82570,
+  "questionNumber": "225611",
+  "stemHtml": "An Inertial Reference System (IRS) has...",
+  "options": {
+    "a": "mechanical rate-integrating gyroscopes, and it uses a mechanically stabilised platform.",
+    "b": "solid-state, high-precision, angular rate sensors, and it supplies data to an Inertial Navigation System (INS).",
+    "c": "solid-state, high-precision, angular rate sensors, and it uses a mathematically maintained stable platform.",
+    "d": "mechanical rate-integrating gyroscopes, and it receives data from the Flight Management Computer (FMC)."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

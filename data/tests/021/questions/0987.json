@@ -1,0 +1,14 @@
+{
+  "number": 987,
+  "questionId": 85020,
+  "questionNumber": "219814",
+  "stemHtml": "Which of these statements is correct with regards to primary flight controls?",
+  "options": {
+    "a": "<p>Fully powered controls provide the pilot with feel feedback from the control surfaces without the need for an artificial feel system.</p>",
+    "b": "Partially powered controls allow the pilot to feel some of the actual aerodynamic loads of the control surface.",
+    "c": "Partially powered systems do not provide any kind of redundancy in case of hydraulic pressure loss.",
+    "d": "In a partially powered system, some of the control surfaces are powered, but not all."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

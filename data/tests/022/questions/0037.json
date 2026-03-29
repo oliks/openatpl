@@ -1,0 +1,24 @@
+{
+  "number": 37,
+  "questionId": 100418,
+  "questionNumber": "222956",
+  "stemHtml": "<p>Refer to figure.       <br />      An aircraft is in the cruise with the flight director (FD) on and autopilot engaged. The pilot makes selections for the automatic flight control system (AFCS) to descend the aircraft to an altitude of 11 000 feet (FL110) with a V/S of 600 fpm. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "The FD and the autopilot have different modes and control panels. The FD can only be used when flying manually.",
+    "b": "The available modes are the same, but the autopilot control panel is different to that of the FD. The pilot has to program the parameters required separately for each.",
+    "c": "The available modes and the control panel are the same for both the FD and the autopilot. The FD will display on the PFD the commands that are being followed by the autopilot in order to achieve the programmed parameters.",
+    "d": "The FD and the autopilot share the same control panel, but the available modes are different. The FD bars shown on the PFD are unreliable when both FD and autopilot are engaged."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 71447,
+      "uniqueKey": "26ff5de5-2fa7-4212-9a38-45483bcddc97",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=26ff5de5-2fa7-4212-9a38-45483bcddc97",
+      "publicUrl": "/attachments/022/26ff5de5-2fa7-4212-9a38-45483bcddc97.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/26ff5de5-2fa7-4212-9a38-45483bcddc97.png"
+    }
+  ]
+}

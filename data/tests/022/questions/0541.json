@@ -1,0 +1,14 @@
+{
+  "number": 541,
+  "questionId": 69285,
+  "questionNumber": "221604",
+  "stemHtml": "<p>With regard to a dual Flight Management System (FMS), which statement is correct?</p>\n\n<p>FMC = Flight Management Computer</p>",
+  "options": {
+    "a": "In `Dual Mode` both FMCs independently process the pilots` inputs, there is zero cross-checking between the FMCs.",
+    "b": "Both FMS independently process the respective pilot\u2019s inputs in \u201cdual mode\u201d, and cross-checking between them does not occur.",
+    "c": "In `Single Mode` both FMCs are decoupled, and there is zero cross-checking between them.",
+    "d": "In `Independent Mode` both FMCs are decoupled, and there is zero cross-checking between them."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

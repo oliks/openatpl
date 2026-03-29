@@ -1,0 +1,14 @@
+{
+  "number": 1055,
+  "questionId": 109466,
+  "questionNumber": "224859",
+  "stemHtml": "<p>In high density traffic areas, how does TCAS prioritize aircraft detection?</p>",
+  "options": {
+    "a": "<p>It sends out interrogation signals more frequently to detect the closest aircraft.</p>",
+    "b": "<p>It prioritizes detection of the fastest aircraft relative to your position.</p>",
+    "c": "<p>It focuses on aircraft at the same altitude regardless of distance.</p>",
+    "d": "<p>It reduces the detection range to less than 10 NM.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

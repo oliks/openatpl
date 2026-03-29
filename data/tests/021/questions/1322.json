@@ -1,0 +1,14 @@
+{
+  "number": 1322,
+  "questionId": 78757,
+  "questionNumber": "211885",
+  "stemHtml": "<p>Which of the following statements is true regarding Fly-By-Wire systems?</p>",
+  "options": {
+    "a": "Digital signals are converted into analogue signals by the PCU.",
+    "b": "PCUs are operated by analogue signals.",
+    "c": "Flight controls are connected to control surfaces by direct wire linkages.",
+    "d": "Control wires feed pilot control movements into the PCUs."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

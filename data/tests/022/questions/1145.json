@@ -1,0 +1,14 @@
+{
+  "number": 1145,
+  "questionId": 104819,
+  "questionNumber": "227848",
+  "stemHtml": "<p>Yaw damper is a system used to\u2026</p>",
+  "options": {
+    "a": "<p>prevent Dutch roll, by moving the ailerons while the control column stays fixed.</p>",
+    "b": "<p>prevent Dutch roll, by moving the rudder while the rudder pedals remain fixed.</p>",
+    "c": "<p>increase the Mach Number to improve aerodynamic damping of any subsequent Dutch roll motion.</p>",
+    "d": "<p>provide stability during manual control and autopilot use, as long as the FD is on.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

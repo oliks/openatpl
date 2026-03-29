@@ -1,0 +1,14 @@
+{
+  "number": 1493,
+  "questionId": 80223,
+  "questionNumber": "229944",
+  "stemHtml": "<p>What does the logarithmic scale of a Vertical Speed Indicator (VSI) mean?</p>",
+  "options": {
+    "a": "<p>A small rate of change in ROC and ROD can be read more accurately than a large rate of change.</p>",
+    "b": "<p>A large rate of change is displayed more accurately than a small rate of change.</p>",
+    "c": "<p>All rates of climb and descent are displayed with the same accuracy.</p>",
+    "d": "<p>The VSI only reads correctly under ISA conditions.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

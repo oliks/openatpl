@@ -1,0 +1,14 @@
+{
+  "number": 727,
+  "questionId": 128411,
+  "questionNumber": "228199",
+  "stemHtml": "<p>When manoeuvring an aircraft with the autopilot in CWS Mode, autopilot control is (1) _____. The aircraft is being controlled by (2) _____ through the (3) _____. Inputs in this mode must (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) Temporarily Bypassed (2) The Pilot (3) MCP (4) Overcome those of the AP</p>",
+    "b": "<p>(1) Engaged (2) HDG/Alt Bugs (3) MCP (4) Overcome those of the AP</p>",
+    "c": "<p>(1) Temporarily Bypassed (2) The Pilot (3) Control Column (4) Be proportional to those used in manual flight</p>",
+    "d": "<p>(1) Disengaged (2) The Pilot (3) Control Column (4) Be proportional to those used in manual flight.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

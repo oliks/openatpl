@@ -1,0 +1,14 @@
+{
+  "number": 1643,
+  "questionId": 83654,
+  "questionNumber": "213749",
+  "stemHtml": "You are flying an aircraft in which all the generators have failed, but you still have battery power. What should be considered?",
+  "options": {
+    "a": "The batteries have a limited charge, so electrical components will not be able to operate indefinitely.",
+    "b": "There are no special considerations since all components previously powered by the generators will receive power from the batteries automatically.",
+    "c": "The most important instrument to be monitored now is the temperature of the batteries to avoid any thermal runaway.",
+    "d": "All electrical components will become unusable for the remainder of the flight."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1226,
+  "questionId": 107624,
+  "questionNumber": "225035",
+  "stemHtml": "<p>A pilot is flying manually, with the flight directors engaged, on the flight planned route towards a VOR that is 120 NM away from the current position. ATC then gives the pilot a right hand turn onto an assigned heading, shortening the route to only 90 NM. The pilot monitoring (PM) performs their actions, what do you need to do as a pilot flying (PF)?</p>",
+  "options": {
+    "a": "<p>You should initiate a right-hand turn as instructed by the ATC; the flight directors will catch up by the turn.</p>",
+    "b": "<p>You should check the FMA and if the desired modes are not confirmed, ask the pilot monitoring to select the correct heading/track, and cross-check the selection again.</p>",
+    "c": "<p>Order the pilot monitoring to reset the flight directors as they will automatically start the right turn after you initiate it.</p>",
+    "d": "<p>Considering the current manual flying conditions, you shouldn\u2019t follow the flight director orders.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1392,
+  "questionId": 83690,
+  "questionNumber": "229524",
+  "stemHtml": "<p>The outputs of the EGPWS are:</p><p>1. Pitch up command to the AFCS<br>2. Spoken aural alert<br>3. Spoken aural warning<br>4. Aural klaxon alert<br>5. Terrain shown on ND</p><p>The combination containing all correct statements is...</p>",
+  "options": {
+    "a": "2 and 3.",
+    "b": "1, 2 and 4.",
+    "c": "2, 3 and 5.",
+    "d": "4 and 5."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1022,
+  "questionId": 69079,
+  "questionNumber": "222954",
+  "stemHtml": "A flight control system is fail-operational if, in the event of a failure:",
+  "options": {
+    "a": "the landing is not completed automatically.",
+    "b": "the approach only can be completed automatically.",
+    "c": "there is no significant out-of-trim condition or deviation of flight path or attitude but the landing is not completed automatically.",
+    "d": "the approach, flare and landing can be completed automatically."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 980,
+  "questionId": 81386,
+  "questionNumber": "221583",
+  "stemHtml": "<p>Complete the following sentence:</p>\r\n\r\n<p>A gyroscope with a vertical spin axis can (1) _____ and a gyroscope with a horizontal spin axis can (2) _____.</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">(1) drift and topple; (2) only drift</p>",
+    "b": "<p dir=\"ltr\">(1) only topple; (2) only drift</p>",
+    "c": "<p dir=\"ltr\">(1) drift and topple; (2) also drift and topple</p>",
+    "d": "<p>(1) only topple; (2) drift and topple</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1222,
+  "questionId": 68466,
+  "questionNumber": "228655",
+  "stemHtml": "<p>The GPWS warns the crew in case of:</p><p>1 \u2013 deviation above or below the selected altitude  <br /> 2 \u2013 deviation below the selected altitude  <br /> 3 \u2013 unsafe terrain clearance with flaps not in landing configuration  <br /> 4 \u2013 unsafe terrain clearance with landing gear not down</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "2, 3.",
+    "b": "2, 3, 4.",
+    "c": "1, 4.",
+    "d": "3, 4."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

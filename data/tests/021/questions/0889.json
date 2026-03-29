@@ -1,0 +1,24 @@
+{
+  "number": 889,
+  "questionId": 79727,
+  "questionNumber": "216523",
+  "stemHtml": "<p>Refer to figure. <br>If TRU 1 fails, DC BUS 1 can be fed via\u2026</p>",
+  "options": {
+    "a": "The ESS TRU.",
+    "b": "The ESS DC BUS.",
+    "c": "TRU 2, via the AC BUS 2.",
+    "d": "GEN 2, AC BUS 2, TRU 2, DC BUS 2 and X-TIE."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 49156,
+      "uniqueKey": "50153E75-0E25-4526-A4B2-0779372BC97E",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=50153E75-0E25-4526-A4B2-0779372BC97E",
+      "publicUrl": "/attachments/021/50153E75-0E25-4526-A4B2-0779372BC97E.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/021/50153E75-0E25-4526-A4B2-0779372BC97E.png"
+    }
+  ]
+}

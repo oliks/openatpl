@@ -1,0 +1,14 @@
+{
+  "number": 696,
+  "questionId": 68545,
+  "questionNumber": "222459",
+  "stemHtml": "<p>An air data computer:</p><p>1\u2013 supplies GS and drift angle <br>2 \u2013 determines TAT and true altitude <br>3 \u2013 receives static pressure and total pressure <br>4 \u2013 supplies TAS to the INS computer <br>5 \u2013 determines Mach number and OAT</p><p>The combination that regroups all of the correct statements is\u2026</p>",
+  "options": {
+    "a": "2, 3, 4.",
+    "b": "1, 2.",
+    "c": "3, 4, 5.",
+    "d": "2, 5."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

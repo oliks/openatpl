@@ -1,0 +1,14 @@
+{
+  "number": 67,
+  "questionId": 103352,
+  "questionNumber": "225513",
+  "stemHtml": "<p>When considering a Flight Director system, the vertical bar of the pitch and roll crossbars provides information regarding the...</p>",
+  "options": {
+    "a": "<p>Direction and the value of the deviation in degrees to be applied to the bank angle to follow the selected flight path.</p>",
+    "b": "<p>Direction and magnitude of the corrections to be applied to the roll attitude of the aircraft to follow the selected flight path.</p>",
+    "c": "<p>Direction of the localiser compared to the aircraft's current position.</p>",
+    "d": "<p>Direction and magnitude of the corrections to be applied to the pitch angle of the aircraft to follow the selected flight path.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 633,
+  "questionId": 109689,
+  "questionNumber": "217133",
+  "stemHtml": "<p>You are flying a twin engine jet aeroplane when both engine driven AC generators fail. The aircraft is fitted with an auxiliary power unit (APU). What is the best action to take?</p>",
+  "options": {
+    "a": "<p>Start the APU so that it can power AC consumers.</p>",
+    "b": "<p>Deploy the RAT to generate emergency electrical power.</p>",
+    "c": "<p>Use the batteries to power essential DC systems.</p>",
+    "d": "<p>Continue flying without taking action, as essential systems will remain operational indefinitely.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

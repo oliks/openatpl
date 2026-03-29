@@ -1,0 +1,14 @@
+{
+  "number": 1432,
+  "questionId": 115834,
+  "questionNumber": "103926",
+  "stemHtml": "<p>The pilot of an aircraft has submitted a flight plan for a VFR flight and is flying towards an uncontrolled airfield. Should the pilot close the flight plan after arrival to the airfield?</p>",
+  "options": {
+    "a": "<p>The aircraft is under flight radar and the flight plan will automatically be closed.</p>",
+    "b": "<p>The pilot should inform the aerodrome operator as soon as possible after landing.</p>",
+    "c": "<p>After landing, the pilot should contact the closest ATS and close their flight plan.</p>",
+    "d": "<p>The flight plan will automatically be closed when landing on an uncontrolled airfield.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

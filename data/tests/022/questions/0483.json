@@ -1,0 +1,14 @@
+{
+  "number": 483,
+  "questionId": 85617,
+  "questionNumber": "224977",
+  "stemHtml": "In Fly-By-Wire aircraft, when the overspeed function is active, it will...",
+  "options": {
+    "a": "disconnect the flight controls from the aerodynamic surfaces until the airspeed reduces below the trigger speed.",
+    "b": "cause tactile feedback, such as vibration, to the flight controls and prevent further acceleration using flight control system inputs.",
+    "c": "prevent a speed increase by over-riding manual or automatic control input, until the airspeed falls below the threshold speed.",
+    "d": "require a constant nose-down control input in order to make an increase in speed."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

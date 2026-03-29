@@ -1,0 +1,14 @@
+{
+  "number": 1573,
+  "questionId": 66783,
+  "questionNumber": "104982",
+  "stemHtml": "According to ICAO Annex 2, in the event that a controlled flight inadvertently deviates from its current flight plan, the appropriate ATS unit has to be informed?",
+  "options": {
+    "a": "about any deviation in TAS.",
+    "b": "if the time estimate for the next reporting point is found to be in error in excess of more than one minute from the time notified to ATS.",
+    "c": "about any track deviation from the centre line of an established ATS route only when that deviation exceeds 2 NM for more than one minute.",
+    "d": "<p>if the average true air speed varies by plus or minus 5% of the true air speed given in the flight plan.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

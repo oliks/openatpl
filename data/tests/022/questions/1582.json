@@ -1,0 +1,14 @@
+{
+  "number": 1582,
+  "questionId": 104924,
+  "questionNumber": "228587",
+  "stemHtml": "<p>What is the primary purpose of a Flight Data Recorder (FDR)?</p>",
+  "options": {
+    "a": "<p>To record cockpit conversations</p>",
+    "b": "<p>To provide real-time weather updates to the pilots</p>",
+    "c": "<p>To transmit distress signals in case of an emergency</p>",
+    "d": "<p>To record flight parameters such as altitude, airspeed, and heading</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

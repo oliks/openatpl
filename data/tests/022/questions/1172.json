@@ -1,0 +1,14 @@
+{
+  "number": 1172,
+  "questionId": 69084,
+  "questionNumber": "221775",
+  "stemHtml": "<p>The FMS navigation database includes the following data:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 obstacles</span> <br /> \n2 \u2013 waypoints <br /> \n3 \u2013 SID, STAR <br /> \n4 \u2013 terrain <br /> \n5 \u2013 magnetic variation</p>\n\n<p>The combination that regroups all of the correct statements is:</p>",
+  "options": {
+    "a": "1, 3, 5.",
+    "b": "2, 3, 5.",
+    "c": "1, 2, 4.",
+    "d": "1, 2, 3."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1687,
+  "questionId": 68469,
+  "questionNumber": "226875",
+  "stemHtml": "<p>Total Air Temperature (TAT) is\u2026</p>",
+  "options": {
+    "a": "<p>Higher or equal to Static Air Temperature (SAT).</p>",
+    "b": "TAT is a function of altitude and SAT.",
+    "c": "Higher or equal to static air temperature (SAT), depending on altitude and SAT.",
+    "d": "<p>Lower than Static Air Temperature (SAT).</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

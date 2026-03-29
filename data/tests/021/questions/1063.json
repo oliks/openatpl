@@ -1,0 +1,14 @@
+{
+  "number": 1063,
+  "questionId": 85083,
+  "questionNumber": "215693",
+  "stemHtml": "<p>An AC generator provides a constant output voltage, when the electrical load increases. What will the voltage regulator do?</p>",
+  "options": {
+    "a": "<p>Increase the excitation current.</p>",
+    "b": "<p>Decrease the excitation current.</p>",
+    "c": "<p>Change the direction of the excitation current.</p>",
+    "d": "<p>Nothing, the voltage will not need to change.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

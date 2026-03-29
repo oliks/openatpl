@@ -1,0 +1,24 @@
+{
+  "number": 1806,
+  "questionId": 81360,
+  "questionNumber": "229340",
+  "stemHtml": "<p dir=\"ltr\">Refer to figure. <br /> In flight, the IRS detects a critical fault with excessive position error. Regarding the mode selector switch, what should the crew select?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">OFF than NAV, to realign the system.</p>",
+    "b": "<p dir=\"ltr\">NAV and monitor the position error.</p>",
+    "c": "<p dir=\"ltr\">ATT, to retain attitude information.</p>",
+    "d": "OFF, since the system is unreliable."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 50346,
+      "uniqueKey": "CA0ACB27-1D2E-4C0A-9DA5-8F2394668930",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=CA0ACB27-1D2E-4C0A-9DA5-8F2394668930",
+      "publicUrl": "/attachments/022/CA0ACB27-1D2E-4C0A-9DA5-8F2394668930.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/022/CA0ACB27-1D2E-4C0A-9DA5-8F2394668930.jpg"
+    }
+  ]
+}

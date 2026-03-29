@@ -1,0 +1,14 @@
+{
+  "number": 1826,
+  "questionId": 81795,
+  "questionNumber": "229896",
+  "stemHtml": "<p>According to CS-25, in case of an EFIS failure, standby instruments must normally be\u2026</p>",
+  "options": {
+    "a": "<p>available without additional flight crew action.</p>",
+    "b": "<p>switched on manually by the flight crew.</p>",
+    "c": "<p>switched on manually. or in case of a combination of failures, switched on automatically.</p>",
+    "d": "<p>available upon activation by the Commander or Co-pilot.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

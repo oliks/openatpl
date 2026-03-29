@@ -1,0 +1,14 @@
+{
+  "number": 282,
+  "questionId": 67565,
+  "questionNumber": "218902",
+  "stemHtml": "<p>To reverse the direction of rotation of a shunt-wound DC electric motor, it is necessary to\u2026</p>",
+  "options": {
+    "a": "connect a phase-shift capacitor to the field circuit.",
+    "b": "reverse the polarity of either the stator or the rotor.",
+    "c": "do nothing because a DC motor cannot be reversed.",
+    "d": "reverse the polarity of the motor connections."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1128,
+  "questionId": 110323,
+  "questionNumber": "104524",
+  "stemHtml": "<p>In what type of aeronautical publication will the following information, published on the 29<strong><sup>th</sup></strong> September 2016, be published?</p><p>A nest of eight lit tower cranes will be operating within 0.087 NM of 513001N 0000139E, to a maximum height of 279 ft AGL/295ft AMSL until 31 December 2016. A lit tower crane will be operating in the vicinity of London City Airport, position 513243N 0000028W (Stratford), to a maximum height of 614 ft AGL/630ft AMSL until 31 March 2017. <br>Two lit tower cranes will be operating in the vicinity of London City Airport, position 512940N 0000403E (Woolwich Riverside), to a maximum height of 308 ft AGL/324 ft AMSL until 1 February 2019.</p><p> </p>",
+  "options": {
+    "a": "<p>NOTAM</p>",
+    "b": "<p>Trigger NOTAM</p>",
+    "c": "<p>AIP Amendment</p>",
+    "d": "<p>AIP Supplement</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

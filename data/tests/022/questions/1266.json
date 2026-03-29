@@ -1,0 +1,14 @@
+{
+  "number": 1266,
+  "questionId": 100770,
+  "questionNumber": "229848",
+  "stemHtml": "<p>A crew is operating an Airbus 320 aircraft with both right and left fuel tanks filled to their maximum capacity, which is the same for both tanks. During the flight, the co-pilot observes that the upper display indicates 900 kg of remaining fuel in the left tank, while the right tank still holds approximately 2500 kg of fuel. What should the crew do in this situation?</p>",
+  "options": {
+    "a": "<p>The crew should exercise caution when considering opening the cross-feed valve due to the elevated risk of a fuel leak, which could potentially result in total fuel loss.</p>",
+    "b": "<p>The crew should promptly open the crossfeed valve to redistribute the fuel.</p>",
+    "c": "<p>The engine with the higher fuel quantity should be shut down immediately, followed by opening the cross-feed valve.</p>",
+    "d": "<p>The crew should promptly assume that the fuel pump for the right engine is not supplying fuel and initiate a \"Mayday Fuel\" distress call.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

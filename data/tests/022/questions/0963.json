@@ -1,0 +1,14 @@
+{
+  "number": 963,
+  "questionId": 102964,
+  "questionNumber": "221907",
+  "stemHtml": "<p>A MRJT fleet which consists of different model planes will be operated by one pilot. What crucial details about the FMS does the pilot need to check?</p>",
+  "options": {
+    "a": "<p>Check performance data matches the correct aircraft type and model.</p>",
+    "b": "<p>Review the airline's baggage policy.</p>",
+    "c": "<p>Check latitude and longitudes are correct for airport and gate number.</p>",
+    "d": "<p>Check the arrival gate for each destination.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

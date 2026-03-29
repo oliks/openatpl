@@ -1,0 +1,14 @@
+{
+  "number": 1761,
+  "questionId": 155038,
+  "questionNumber": "221552",
+  "stemHtml": "<p>Regarding IRS outputs and inputs, which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>FMS provides data to IRS.</p>",
+    "b": "<p>Aircraft has either FMS and IRS, they are NEVER together.</p>",
+    "c": "<p>IRS provides data to IRS.</p>",
+    "d": "<p>IRS provides data to FMS.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 758,
+  "questionId": 100361,
+  "questionNumber": "214067",
+  "stemHtml": "<p>Why is there redundancy in a FADEC system?</p>",
+  "options": {
+    "a": "To avoid loss of all thrust if one channel fails.",
+    "b": "To ensure that engine parameters displays are not lost should one channel fail.",
+    "c": "So that analogue signals can be converted to digital data even if a single FADEC channel fails.",
+    "d": "To ensure the engine parameter recording for post-flight maintenance purposes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

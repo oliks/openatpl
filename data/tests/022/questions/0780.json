@@ -1,0 +1,14 @@
+{
+  "number": 780,
+  "questionId": 69228,
+  "questionNumber": "228714",
+  "stemHtml": "<p>The altimeter indicates true altitude\u2026     <br />      </p>",
+  "options": {
+    "a": "<p>when the temperature on the ground is +15\u00b0C with a lapse rate of 2\u00b0C per 1000 feet, and correct QFE is set.     <br />      </p>",
+    "b": "<p>when pressure at mean sea level is 1 013.25 hPa, with a ground temperature of +15\u00b0C and a density equal to 1.225 kg/m<sup>3</sup>.     <br />      </p>",
+    "c": "<p>when the temperature on the ground is +15\u00b0C with a lapse rate of 2\u00b0C per 1000 feet, and correct QNH is set.     <br />      </p>",
+    "d": "in standard atmosphere conditions only."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

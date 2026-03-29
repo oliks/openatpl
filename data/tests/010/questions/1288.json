@@ -1,0 +1,24 @@
+{
+  "number": 1288,
+  "questionId": 108507,
+  "questionNumber": "103659",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is executing the ILSz approach on Runway 03. What is the location of the Missed Approach Point (MAPt)?</p>",
+  "options": {
+    "a": "<p>Where the DA intercepts the glide path, being at 273ft.</p>",
+    "b": "<p>At the threshold where the NT DME reads 0NM.</p>",
+    "c": "<p>550m from the threshold as performance categories A, B, C, D specify.</p>",
+    "d": "<p>At 4.000ft and radial 301.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 64166,
+      "uniqueKey": "713cf43f-2b97-4fef-a660-a3c521194e03",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=713cf43f-2b97-4fef-a660-a3c521194e03",
+      "publicUrl": "/attachments/010/713cf43f-2b97-4fef-a660-a3c521194e03.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/010/713cf43f-2b97-4fef-a660-a3c521194e03.jpg"
+    }
+  ]
+}
