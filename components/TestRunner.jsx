@@ -4,7 +4,7 @@
 
 "use client";
 
-import { useCallback, useEffect, useMemo, useState, useTransition } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import dynamic from "next/dynamic";
 
@@ -163,10 +163,20 @@ function buildProgressPayload({
 
 export default function TestRunner({
   testMeta,
-  questions,
+  questionEntries,
   sessionKey,
 }) {
   const router = useRouter();
+
+  /* ---------- question entries as lightweight question stubs ---------- */
+  const questions = useMemo(
+    () => questionEntries.map((e) => ({ id: e.id, correctOption: e.correctOption, file: e.file })),
+    [questionEntries]
+  );
+
+  /* ---------- on-demand question loading ---------- */
+  const questionCache = useRef({});
+  const [loadedQuestion, setLoadedQuestion] = useState(null);
 
   /* ---------- local state ---------- */
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -350,9 +360,30 @@ export default function TestRunner({
     return () => clearInterval(id);
   }, [hydrated, finishedAt]);
 
+  /* ---------- fetch current question on demand ---------- */
+  const currentEntry = questions[currentIndex];
+  useEffect(() => {
+    if (!currentEntry?.file) return;
+    const cached = questionCache.current[currentEntry.id];
+    if (cached) { setLoadedQuestion(cached); return; }
+
+    let cancelled = false;
+    const subject = testMeta.id;
+    fetch(`/api/question?subject=${subject}&file=${encodeURIComponent(currentEntry.file)}`)
+      .then(r => r.json())
+      .then(data => {
+        if (cancelled) return;
+        const q = { ...currentEntry, ...data, id: currentEntry.id };
+        questionCache.current[currentEntry.id] = q;
+        setLoadedQuestion(q);
+      })
+      .catch(() => {});
+    return () => { cancelled = true; };
+  }, [currentEntry, testMeta.id]);
+
   /* ---------- compute derived data ---------- */
-  const currentQuestion = questions[currentIndex];
-  const evalq = currentQuestion ? evaluateQuestion(currentQuestion, answers) : null;
+  const currentQuestion = loadedQuestion?.id === currentEntry?.id ? loadedQuestion : currentEntry;
+  const evalq = currentEntry ? evaluateQuestion(currentEntry, answers) : null;
   const selected = evalq?.selected ?? null;
   const correct = evalq?.correct ?? null;
   const attachments = Array.isArray(currentQuestion?.attachments)

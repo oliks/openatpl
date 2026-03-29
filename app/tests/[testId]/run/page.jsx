@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import TestRunner from "@/components/TestRunner";
-import { getTestById, selectQuestions, loadSelectedQuestions } from "@/lib/test-bank";
+import { getTestById, selectQuestions } from "@/lib/test-bank";
 
 export const dynamic = "force-dynamic";
 
@@ -71,16 +71,9 @@ export default async function RunTestPage({ params, searchParams }) {
     notFound();
   }
 
-  // Only load the selected question files from disk
-  const selectedQuestions = await loadSelectedQuestions(test, selectedEntries);
-
-  if (!selectedQuestions.length) {
-    notFound();
-  }
-
   const sessionKey = savedTestId
     ? `saved|${savedTestId}`
-    : `${test.id}|${selectedQuestions.length}|rand|${seed}|scope-${scopedEntries.length}`;
+    : `${test.id}|${selectedEntries.length}|rand|${seed}|scope-${scopedEntries.length}`;
 
   return (
     <main className="runner-shell">
@@ -99,10 +92,10 @@ export default async function RunTestPage({ params, searchParams }) {
           id: test.id,
           name: testDisplayName,
           subject: test.subject,
-          selectedCount: selectedQuestions.length,
+          selectedCount: selectedEntries.length,
           totalCount: test.totalQuestions,
         }}
-        questions={selectedQuestions}
+        questionEntries={selectedEntries}
       />
     </main>
   );
