@@ -1,7 +1,7 @@
 {
   "number": 952,
-  "questionId": 70413,
-  "questionNumber": "333980",
+  "questionId": "033-0952",
+  "questionNumber": "033-0952",
   "stemHtml": "<p>Given:</p><p>Maximum Take-off Mass: 62 800 kg <br>Maximum Zero Fuel Mass: 51 250 kg <br>Maximum Landing Mass: 54 900 kg <br>Maximum Taxi Mass: 63 050 kg <br>Trip fuel: 1800 kg <br>Alternate fuel: 1400 kg <br>Holding fuel (final reserve): 1225 kg <br>Contingency (5% of trip fuel): 90 kg<br>Dry Operating Mass: 34 000 kg <br>Traffic Load: 13 000 kg <br>Catering: 750 kg <br>Baggage: 3500 kg</p><p>What is the Take-off Mass?</p>",
   "options": {
     "a": "<p>51 515 kg</p>",

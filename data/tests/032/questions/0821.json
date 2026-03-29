@@ -1,7 +1,7 @@
 {
   "number": 821,
-  "questionId": 80351,
-  "questionNumber": "326561",
+  "questionId": "032-0821",
+  "questionNumber": "032-0821",
   "stemHtml": "<p>For planning purposes, determine the net distance travelled down to 4000 ft for a single-engine piston aircraft following an engine failure at 8000 ft. Given the following data:</p><p>TAS: 120 kts <br>GS: 150 kts <br>Gross gradient of descent 11% <br>Gross/net gradient decrement 0.5% <br>Still air distance (ft) = (Height difference (ft) x 100) / % net gradient <br>Ground distance = still air distance x (groundspeed / TAS)</p>",
   "options": {
     "a": "5.7 NM",

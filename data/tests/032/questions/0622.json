@@ -1,7 +1,7 @@
 {
   "number": 622,
-  "questionId": 100207,
-  "questionNumber": "322819",
+  "questionId": "032-0622",
+  "questionNumber": "032-0622",
   "stemHtml": "<p>Refer to figure. <br /> A flight crew of a performance class A aeroplane are preparing for departure. Only the Captain has run the performance figures using an application on their electronic flight bag (EFB), and has not crosschecked the results with the first officer, who is busy preparing the departure routing. That aircraft's take-off mass is 68 000 kg, so is under the MTOM with reduced thrust setting of 68 262 kg that the Captain has calculated. The V-speeds for departure can be seen on the annex above, which is a small extract from the EFB performance tool. The V<sub><strong>MCG</strong> </sub>is 118 kt.</p><p>When inputting the V-speeds into the FMS, the Captain enters 140 kt for V<strong><sub>1</sub></strong>. During take-off, the pilot monitoring calls V<strong><sub>1</sub></strong> at the FMS selected V<strong><sub>1</sub></strong> speed, at which point an engine failure occurs. The engine failure is detected and acted upon at an airspeed of 143 kt.</p><p>What would be the most likely scenario in this event?</p>",
   "options": {
     "a": "The pilot flying will continue the take-off as they are above V<sub>1</sub> and the take-off distance required will be shorter than the one calculated by the EFB, but the pilots will be unable maintain the aeroplane within 30 ft of the runway centreline.",

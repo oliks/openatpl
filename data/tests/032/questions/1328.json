@@ -1,7 +1,7 @@
 {
   "number": 1328,
-  "questionId": 81290,
-  "questionNumber": "324832",
+  "questionId": "032-1328",
+  "questionNumber": "032-1328",
   "stemHtml": "<p>A jet aeroplane has three configurations available for take-off.</p><p>T/O 1: 1 stage of slats and flaps<br>T/O 2: 2 stages of slats and flaps<br>T/O 3: 3 stages of slats and 3 stages of flaps</p><p>The runway is NOT limiting but the given departure requires a climb gradient of 6.8% to 2000 ft. Which T/O configuration will be most appropriate to achieve the best climb gradient?</p>",
   "options": {
     "a": "<p dir=\"ltr\">T/O 3 because it results in greater climb speeds and greater rate of climb than when using T/O1.</p>",

@@ -1,7 +1,7 @@
 {
   "number": 1472,
-  "questionId": 81883,
-  "questionNumber": "229673",
+  "questionId": "022-1472",
+  "questionNumber": "022-1472",
   "stemHtml": "<p>An aircraft with a dual FMS configuration is ready to descend, according to the profile of an instrument approach procedure. An amber message is generated on the Crew Alerting System (CAS) concerning the failure of No.1 (Flight Management Computer FMC1). Following the failure of FMC1, which of the following are correct?</p><p>1. Both FMS units operate in independent mode (degraded operation)       <br />       2. FMS2 operates in single mode, while FMS1 has failed       <br />       3. FMS2 computations are unreliable due to faulty data sent from FMS1       <br />       4. The crew shall revert to other navigational sources, if required</p>",
   "options": {
     "a": "2 and 4",

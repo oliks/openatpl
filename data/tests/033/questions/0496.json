@@ -1,7 +1,7 @@
 {
   "number": 496,
-  "questionId": 96774,
-  "questionNumber": "334872",
+  "questionId": "033-0496",
+  "questionNumber": "033-0496",
   "stemHtml": "<p>An aircraft is flying VFR in mountainous terrain with the highest obstacle in the region having an elevation of 7220 ft. The weather deteriorates and the aircraft has to go IFR and climb to a safe level. Given the following information, what is the minimum usable IFR flight level, complying with the semi-circular rule and providing the required 2000 ft obstacle clearance?</p><p>OAT = ISA -10\u00b0C<br>QNH (provided from an airport close to sea level) = 990 hPa<br>Track = 175\u00b0(M)<br>Magnetic variation 15\u00b0E<br>Drift: 8\u00b0 left<br>Assume 30 ft/hPa</p>",
   "options": {
     "a": "FL90",

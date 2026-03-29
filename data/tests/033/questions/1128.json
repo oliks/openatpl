@@ -1,7 +1,7 @@
 {
   "number": 1128,
-  "questionId": 70316,
-  "questionNumber": "335480",
+  "questionId": "033-1128",
+  "questionNumber": "033-1128",
   "stemHtml": "<p>Refer to figure. <br /> \rA twin-jet aeroplane is being operated for a Commercial Air Transport flight. The Reduced Contingency Fuel (RCF) procedure is being applied. Given the following information, find the sum of the required Trip Fuel and Contingency Fuel.</p>\r\r<p>TAS: 400 kt <br /> \rWind DEP-DP-DEST: 50 kt tailwind <br /> \rWind DP-A: 20 kt tailwind <br /> \rFuel consumption: 1500 kg/h <br /> \rAlternate Fuel for DEST: 1000 kg <br /> \rAlternate Fuel for A: 900 kg <br /> \rAdditional Fuel for DEST: not required <br /> \rAdditional Fuel for A: 900 kg <br /> \rExtra Fuel: not required</p>",
   "options": {
     "a": "<p>3395 kg</p>",

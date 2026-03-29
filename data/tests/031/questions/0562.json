@@ -1,7 +1,7 @@
 {
   "number": 562,
-  "questionId": 81375,
-  "questionNumber": "315939",
+  "questionId": "031-0562",
+  "questionNumber": "031-0562",
   "stemHtml": "<p>A flight crew of a turbojet aeroplane prepares a Commercial Air Transport flight using the following information. Determine the allowed take-off mass for this flight:</p>\r\r<p>Maximum Take-Off Mass: 62 800 kg <br /> \rMaximum Landing Mass: 54 900 kg <br /> \rMaximum Zero Fuel Mass:50 300 kg <br /> \rTake-off Mass is NOT performance limited <br /> \rPerformance-Limited Landing Mass at destination: 53 950 kg <br /> \rBlock Fuel: 9720 kg <br /> \rTaxi Fuel: 120 kg <br /> \rTrip Fuel: 6160 kg <br /> \rReserve Fuel (contingency, alternate and final): 2660 kg</p>",
   "options": {
     "a": "<p dir=\"ltr\">59 120 kg</p>",

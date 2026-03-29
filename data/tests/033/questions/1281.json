@@ -1,7 +1,7 @@
 {
   "number": 1281,
-  "questionId": 79097,
-  "questionNumber": "339867",
+  "questionId": "033-1281",
+  "questionNumber": "033-1281",
   "stemHtml": "<p>Determine the maximum attainable flight time and range, given the following information:</p><p>Average fuel flow: 80 lb/h <br /> Available fuel: 270 lb <br /> TAS: 89 kt <br /> Wind component: 10 kt tailwind</p><p>The flight time is (1) _____ and the range is (2) _____.</p>",
   "options": {
     "a": "(1) 3 hours 23 minutes; (2) 335 NM.",

@@ -1,7 +1,7 @@
 {
   "number": 448,
-  "questionId": 71053,
-  "questionNumber": "331975",
+  "questionId": "033-0448",
+  "questionNumber": "033-0448",
   "stemHtml": "<p>Given the following information, determine the flight time for a flight leg from \u201cA\u201d to \u201cB\u201d:</p>\n\n<p>Distance: 300 NM  <br />  \nWind (true): 340\u00b0/40 kt  <br />  \nMagnetic course: 300\u00b0  <br />  \nVariation: 20 E  <br />  \nTAS: 440 kt</p>",
   "options": {
     "a": "43 minutes",

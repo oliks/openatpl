@@ -1,7 +1,7 @@
 {
   "number": 857,
-  "questionId": 124215,
-  "questionNumber": "326325",
+  "questionId": "032-0857",
+  "questionNumber": "032-0857",
   "stemHtml": "<p>You are planning for departure in a multi engine piston aircraft under performance class B. It is a CAVOK day with the following conditions.</p>\r\r<p>TAS: 140 kt <br /> \rHeadwind Component: 10 kt <br /> \rAll Engines Opearting Rate of Climb at Take-off Power: 2100 ft/min <br /> \rStill Air Distance = (height difference / net gradient) x 100 <br /> \rGround Distance = Still Air Distance x (GS / TAS) <br /> \r1 NM = 6080 ft</p>\r\r<p>Calculate the distance taken to reach 1000 ft above the runway elevation, from the departure end of the TODA, for the purpose of obstacle clearance.</p>",
   "options": {
     "a": "<p>0.98 NM</p>",

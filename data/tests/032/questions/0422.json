@@ -1,7 +1,7 @@
 {
   "number": 422,
-  "questionId": 81915,
-  "questionNumber": "326650",
+  "questionId": "032-0422",
+  "questionNumber": "032-0422",
   "stemHtml": "<p>Refer to figure or CAP 698 Figure 4.31.<br>Determine the advised cooling schedule and minimum brake cooling time after landing for the following performance data:</p><p>Estimated landing mass: 90 000 lb <br>V<strong><sub>REF</sub></strong>: 125 kt <br>Corrections to V<strong><sub>REF</sub></strong> for landing speed: (V<strong><sub>REF</sub></strong> \u2013 3 kt) <br>Corrections to V<strong><sub>REF</sub></strong> for wind component: minus 50% of a headwind or plus 150% for a tailwind <br>Headwind component: 4 kt <br>Pressure Altitude: 2000 ft <br>OAT: + 10\u00b0C <br>Braking configuration: Autobrake 2 <br>Reverse Thrust: Normal #2 Detent <br>Taxi miles: 1 mile <br>Add one million foot pounds for each taxi mile to obtain total energy.</p>",
   "options": {
     "a": "<p>Cooling Schedule II, cooling recommended, recommended 22 minutes ground cooling before take-off.</p>",

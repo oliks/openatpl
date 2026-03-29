@@ -1,7 +1,7 @@
 {
   "number": 66,
-  "questionId": 108949,
-  "questionNumber": "333028",
+  "questionId": "033-0066",
+  "questionNumber": "033-0066",
   "stemHtml": "<p>Given the following information:</p><p>Price ratio: 0.898\u00a0<br>Air distance: 2650 NAM\u00a0<br>Maximum Takeoff Mass (MTOM): 208 000 kg\u00a0<br>Maximum Landing Mass (MLM): 184 500 kg\u00a0<br>Planned Takeoff Fuel: 30 000 kg\u00a0<br>Trip Fuel: 23 000 kg</p><p>What is the planned Take-off Mass (TOM), and does it comply with MTOM and MLM limits?</p>",
   "options": {
     "a": "<p>Planned TOM: 208 000 kg; complies with MTOM but exceeds MLM.</p>",

@@ -1,7 +1,7 @@
 {
   "number": 209,
-  "questionId": 69405,
-  "questionNumber": "315633",
+  "questionId": "031-0209",
+  "questionNumber": "031-0209",
   "stemHtml": "<p>Given that:</p><p>Maximum structural take-off mass: 146 000 kg <br>Maximum structural landing mass: 93 900 kg <br>Maximum zero fuel mass: 86 300 kg <br>Trip fuel: 27 000 kg <br>Taxi fuel: 1000 kg <br>Contingency fuel: 1350 kg <br>Alternate fuel: 2650 kg <br>Final reserve fuel: 3000 kg</p><p>Determine the maximum actual take-off mass in order not to exceed the given limits.</p>",
   "options": {
     "a": "146 000 kg.",

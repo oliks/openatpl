@@ -1,7 +1,7 @@
 {
   "number": 1027,
-  "questionId": 70646,
-  "questionNumber": "331714",
+  "questionId": "033-1027",
+  "questionNumber": "033-1027",
   "stemHtml": "<p>Given the following information for a Commercial Air Transport flight, what action should be taken by the commander?</p><p>Take-Off Fuel: 3300 lb\u00a0<br>Trip Fuel: 1800 lb\u00a0<br>Alternate 1 Fuel: 800 lb\u00a0<br>Alternate 2 Fuel: 500 lb\u00a0<br>Final Reserve Fuel: 600 lb\u00a0<br>Total Distance to Destination: 800 NM\u00a0<br>Remaining Fuel after 400 NM: 2300 lb</p>",
   "options": {
     "a": "Declare an emergency as the remaining fuel is less than the Final Reserve Fuel at Alternate 1.",

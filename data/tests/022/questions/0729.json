@@ -1,7 +1,7 @@
 {
   "number": 729,
-  "questionId": 82787,
-  "questionNumber": "223113",
+  "questionId": "022-0729",
+  "questionNumber": "022-0729",
   "stemHtml": "<p>You are the pilot flying of an aeroplane established on an ILS to perform an Autoland. Your aircraft is equipped with two autopilots, which are both engaged, and the Autoland capability of the aeroplane is fail operational. Passing 2000 ft ONE IRS fails, with the only technical consequence being a downgraded landing capability. Given the information below, what are the consequences of this failure and what should you do?</p>\r\r<p>Approach minima: 0 ft <br /> \rAlert height: 100 ft</p>",
   "options": {
     "a": "<p>There is NO annunciation of the failure because the operation of the autopilots is NOT affected, but the landing capability is now limited fail-operational. The pilots should continue the approach to Autoland.</p>",

@@ -1,7 +1,7 @@
 {
   "number": 580,
-  "questionId": 96127,
-  "questionNumber": "328905",
+  "questionId": "032-0580",
+  "questionNumber": "032-0580",
   "stemHtml": "<p>An operator is planning a flight to an aerodrome where its pavements show signs of failure. He/she should depart also from this aerodrome later. Given the following information, are there any associated hazards to this operation? (For simplicity purposes, the subgrade categories, tyre pressure limits, and codes for the evaluation methods have been omitted).</p><p>Apron PCN: 43 <br>Taxiway PCN: 37 <br>Runway PCN: 46 <br>ACN for the planned landing mass: 36 <br>ACN for the planned take-off mass: 42</p>",
   "options": {
     "a": "The above operation has NO associated hazards as the planned landing mass ACN is lower than all three published PCNs.",

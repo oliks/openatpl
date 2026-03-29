@@ -1,7 +1,7 @@
 {
   "number": 481,
-  "questionId": 69574,
-  "questionNumber": "313416",
+  "questionId": "031-0481",
+  "questionNumber": "031-0481",
   "stemHtml": "<p>Given:</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\" style=\"letter-spacing:0.7px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Dry Operating mass:</td>\n\t\t\t<td style=\"text-align:right\">85 000</td>\n\t\t\t<td>kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Performance Limited Take-off Mass:</td>\n\t\t\t<td style=\"text-align:right\">127 000</td>\n\t\t\t<td>kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Performance Limited Landing Mass:</td>\n\t\t\t<td style=\"text-align:right\">98 500</td>\n\t\t\t<td>kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Maximum Zero Fuel Mass:</td>\n\t\t\t<td style=\"text-align:right\">89 800</td>\n\t\t\t<td>kg</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Fuel requirements for flight:</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Trip Fuel:</td>\n\t\t\t<td style=\"text-align:right\">29 300</td>\n\t\t\t<td>kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Contingency and final reserve fuel:</td>\n\t\t\t<td style=\"text-align:right\">3 600</td>\n\t\t\t<td>kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Alternate Fuel:</td>\n\t\t\t<td style=\"text-align:right\">2 800</td>\n\t\t\t<td>kg</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>The maximum Traffic Load (TL) that can be carried on this flight is:</p>",
   "options": {
     "a": "6 300 kg",

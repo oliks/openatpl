@@ -1,7 +1,7 @@
 {
   "number": 1299,
-  "questionId": 70311,
-  "questionNumber": "322327",
+  "questionId": "032-1299",
+  "questionNumber": "032-1299",
   "stemHtml": "<p>The departure airport reports an air temperature of -5\u00b0C. Using the data below, which statement is correct? (SEL OAT is equivalent to the assumed temperature of FLEX)</p><p>V<strong><sub>1</sub></strong>: 132 kt <br>Flaps: 5 degrees <br>V<strong><sub>R</sub></strong>: 132 kt <br>SEL OAT: +59\u00b0C <br>V<strong><sub>2</sub></strong>: 139 kt</p>",
   "options": {
     "a": "<p>The SEL value will only be considered when it is lower than the air temprature at the airport. it is the lowest of either the SEL OAT or the airport air temprature that determines the take-off thrust for the engines.</p>",

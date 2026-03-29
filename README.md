@@ -106,8 +106,8 @@ Each subject has an `index.json` that lists all questions:
     {
       "number": 1,
       "file": "questions/0001.json",
-      "questionId": 107825,
-      "questionNumber": "327467",
+      "questionId": "032-0001",
+      "questionNumber": "032-0001",
       "correctOption": "a"
     }
   ]
@@ -121,8 +121,8 @@ Each question is a standalone JSON file:
 ```json
 {
   "number": 1,
-  "questionId": 107825,
-  "questionNumber": "327467",
+  "questionId": "032-0001",
+  "questionNumber": "032-0001",
   "stemHtml": "<p>What is the minimum TOD?</p>",
   "options": {
     "a": "<p>2860 ft</p>",
@@ -144,8 +144,8 @@ Each question is a standalone JSON file:
 | Field | Required | Description |
 |-------|----------|-------------|
 | `number` | Yes | Sequential number within the subject |
-| `questionId` | Yes | Unique question identifier |
-| `questionNumber` | No | External reference number |
+| `questionId` | Yes | Unique identifier in format `{subjectCode}-{number}` (e.g. `"032-0001"`) |
+| `questionNumber` | Yes | Same as `questionId` |
 | `stemHtml` | Yes | Question text (HTML) |
 | `options` | Yes | Answer choices keyed `a` through `f` (HTML) |
 | `correctOption` | Yes | Letter of the correct answer or `null` if unknown |
@@ -279,6 +279,24 @@ data/tests/                    # Question bank data
 public/attachments/            # Question images
 .github/workflows/ci.yml       # PR checks (lint, build, validate)
 ```
+
+## Disclaimer
+
+Questions in this repository are contributed by the community based on publicly available EASA ATPL study material. OpenATPL is not affiliated with, endorsed by, or connected to EASA, any national aviation authority, or any commercial question bank provider.
+
+This project is intended solely as a free study aid for student pilots. The questions are reconstructed from memory by exam candidates and may not reflect the exact wording or content of any official examination.
+
+### Content Removal (DMCA / Takedown)
+
+If you believe any content in this repository infringes on your intellectual property rights, please open a [GitHub issue](https://github.com/oliks/openatpl/issues) or contact us [directly](mailto:oliver@skupinainovace.com). We take all claims seriously and will promptly review and remove any content that is found to be infringing.
+
+Please include in your request:
+- Identification of the copyrighted work you believe is being infringed
+- The specific files or content you want removed
+- Your contact information
+- A statement that you have a good faith belief that the use is not authorised
+
+We aim to respond to all valid requests within 48 hours.
 
 ## Support the Project
 

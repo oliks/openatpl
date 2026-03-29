@@ -1,7 +1,7 @@
 {
   "number": 606,
-  "questionId": 83772,
-  "questionNumber": "334079",
+  "questionId": "033-0606",
+  "questionNumber": "033-0606",
   "stemHtml": "<p>A pilot is planning a flight from aerodrome M to aerodrome N and, so as to increase the traffic load, uses the Reduced Contingency Fuel procedure for his/her fuel calculations, selecting a decision point (DP) and an aerodrome R as optional refuel station. Given the information below, calculate the minimum fuel required from aerodrome M to N.</p><p>Taxi Fuel at aerodrome M: 180 kg\u00a0<br>Final Reserve Fuel: 1300 kg\u00a0<br>Trip fuel from M to N via DP: 8500 kg\u00a0<br>Trip fuel from M to R: 7800 kg\u00a0<br>Trip Fuel from DP to N : 3500 kg\u00a0<br>Do NOT take into account Alternate and Extra Fuel.\u00a0<br>An ERA for the optional refuel station is NOT available.</p>",
   "options": {
     "a": "<p>9670 kg</p>",

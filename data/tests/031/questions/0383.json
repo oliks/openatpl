@@ -1,7 +1,7 @@
 {
   "number": 383,
-  "questionId": 69404,
-  "questionNumber": "313877",
+  "questionId": "031-0383",
+  "questionNumber": "031-0383",
   "stemHtml": "<p>Determine the maximum permitted Take-Off Mass (TOM), given the fuel load below:</p><p>Maximum structural take-off mass: 48 000 kg <br>Maximum structural landing mass: 44 000 kg <br>Maximum zero fuel mass: 36 000 kg <br>Taxi fuel: 600 kg <br>Contingency fuel: 900 kg <br>Alternate fuel: 800 kg <br>Final reserve fuel: 1100 kg <br>Trip fuel: 9000 kg</p>",
   "options": {
     "a": "48 400 kg",

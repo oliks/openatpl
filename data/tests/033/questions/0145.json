@@ -1,7 +1,7 @@
 {
   "number": 145,
-  "questionId": 163359,
-  "questionNumber": "331365",
+  "questionId": "033-0145",
+  "questionNumber": "033-0145",
   "stemHtml": "<p>For a flight on 4th of July, a NOTAM states that the destination airport B closes at 18:00 (local time). Given the following information, what is the latest departure standard time from airport A to arrive before the airport B closes?</p><p>ST A = UTC +1  <br /> ST B = UTC +2  <br /> Flight time = 4 hr 25 min  <br />  </p>",
   "options": {
     "a": "<p>12:35 ST</p>",

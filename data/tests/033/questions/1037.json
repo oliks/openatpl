@@ -1,7 +1,7 @@
 {
   "number": 1037,
-  "questionId": 78906,
-  "questionNumber": "331229",
+  "questionId": "033-1037",
+  "questionNumber": "033-1037",
   "stemHtml": "<p>Given the following data for the pre-flight calculations, determine the required alternate fuel for a Commercial Air Transport flight with a Performance Class A aeroplane. Assume the Basic Fuel Scheme WITHOUT variations applies.</p>\r\n\r\n<p>Fuel for missed approach at destination: 300 kg<br />\r\nFuel for climb to cruising level: 850 kg<br />\r\nCruise distance to alternate: 170 NAM<br />\r\nFuel consumption (cruise): 6 kg/NAM<br />\r\nFuel for descent to alternate: 120 kg<br />\r\nFuel for approach and landing at alternate: 210 kg<br />\r\nFuel flow for holding at alternate: 2 200 kg/hr<br />\r\nFuel for missed approach at alternate: 170 kg</p>\r\n",
   "options": {
     "a": "<p>2200 kg</p>",

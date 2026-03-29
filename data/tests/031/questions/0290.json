@@ -1,7 +1,7 @@
 {
   "number": 290,
-  "questionId": 103891,
-  "questionNumber": "316568",
+  "questionId": "031-0290",
+  "questionNumber": "031-0290",
   "stemHtml": "<p>Prior to departure, the load controller informs the pilot about a LMC of 4763 kg loaded in the aft cargo compartment. Can the pilot accept it?</p><p>Take-off fuel: 8000 kg <br>Take-off CG: 44% <br>Take-off Mass: 60 000 kg <br>Underload: 5687 kg (bigger than the LMC) <br>CG limit: 16% - 46% <br>Operating Mass: 55 000 kg</p><p>MAC length: 4 m <br>Arm of the aft cargo compartment: 15.5 m aft of the datum <br>Distance of MAC trailing edge: 16 m aft of the datum</p>",
   "options": {
     "a": "<p>No, because only the passengers can accept LMC.</p>",

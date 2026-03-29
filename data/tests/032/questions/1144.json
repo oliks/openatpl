@@ -1,7 +1,7 @@
 {
   "number": 1144,
-  "questionId": 135810,
-  "questionNumber": "328225",
+  "questionId": "032-1144",
+  "questionNumber": "032-1144",
   "stemHtml": "<p>Given the following information, if the engine of a single-engined aeroplane fails at this altitude, what should be the expected net glide ground distance for a glide to MSL?</p><p>Altitude: 11 000 ft<br>L/D: 20 <br>Elevation: 0 ft<br>Wind: 0 kt<br>Assume 1 NM = 6080 ft <br>Still Air Distance = (Height difference / Net gradients) x 100 </p>",
   "options": {
     "a": "<p>33 NM</p>",

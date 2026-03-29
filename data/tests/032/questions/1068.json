@@ -1,7 +1,7 @@
 {
   "number": 1068,
-  "questionId": 84073,
-  "questionNumber": "328367",
+  "questionId": "032-1068",
+  "questionNumber": "032-1068",
   "stemHtml": "<p>A high tension cable is located 1 NM from the DER (departure end of runway). Calculate the obstacle clearance for a class B single engine piston aircraft with the following conditions.</p><p>Climb Gradient: 5% <br /> TAS: 133 kt <br /> Tailwind Component: 10 kt <br /> Cable Height: 104 ft <br /> Height Difference = ((GD x climb gradient) / 100) x (TAS/GS)</p>",
   "options": {
     "a": "179 ft",

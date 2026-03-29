@@ -1,7 +1,7 @@
 {
   "number": 747,
-  "questionId": 83354,
-  "questionNumber": "327159",
+  "questionId": "032-0747",
+  "questionNumber": "032-0747",
   "stemHtml": "<p>Refer to figure or CAP 698 file 4.20.<br>Given the following information for a medium range jet transport aeroplane, determine the regulated take-off mass for the new runway:</p><p>OAT: +15\u00b0C<br>Airfield pressure altitude: 0 ft<br>Nil Wind<br>Flap setting: 5\u00b0<br>TORA: 7000 ft</p><p>The normal Take-off mass limits relevant for this flight are:</p><p>Maximum Structural Limit: 62 800 kg<br>Field Length Limit: 60 500 kg<br>Climb Limit: 64 000 kg<br>Tyre Speed Limit: greater than 84 000 kg</p><p>Due to wind direction change, ATC changes the runway in use, which will have the same conditions described previously, except for the following:</p><p>Wind: 10 kt headwind<br>Obstacle height: 360 ft<br>Obstacle distance from the break release point: 21 000 ft</p>",
   "options": {
     "a": "64 000 kg",

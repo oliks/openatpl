@@ -1,7 +1,7 @@
 {
   "number": 1342,
-  "questionId": 164038,
-  "questionNumber": "333257",
+  "questionId": "033-1342",
+  "questionNumber": "033-1342",
   "stemHtml": "<p>Refer to figure.<br>An aircraft is at the gate and the pilot is asked to reposition it to a temporary parking stand to clear the gate for another operator. The departure slot is 40 minutes from the time the aircraft starts to taxi to the temporary stand. When the aircraft arrives to the temporary stand, should shut down, and later taxi for departure. Given the following information, calculate the required total taxi fuel.\u00a0</p><p>Taxi time to temporary parking stand: 7 min<br>Taxi time for departure: 13 min<br>APU is started 5 min before the first taxi and shut down when starting taxiing from the temporary stand for departure<br>Minimum taxi fuel company's policy: 70 kg</p>",
   "options": {
     "a": "<p>206 kg</p>",

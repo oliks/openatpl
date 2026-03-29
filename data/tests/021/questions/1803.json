@@ -1,7 +1,7 @@
 {
   "number": 1803,
-  "questionId": 68255,
-  "questionNumber": "217688",
+  "questionId": "021-1803",
+  "questionNumber": "021-1803",
   "stemHtml": "<p>Consider a jet engine whose control is based on the Engine Pressure Ratio (EPR):</p><p>1. with a constant EPR, the thrust decreases when the altitude increases <br>2. with a constant EPR, the thrust is independent of the Mach number <br>3. at same environmental conditions, a given EPR setting maintains the thrust irrespective of engine wear due to ageing<br>4. the EPR is determined by the total pressure difference between the turbine outlet and the compressor inlet <br>5. on take-off, in the event of icing not detected by the crew, the indicated EPR is lower than the real EPR </p><p>The combination that regroups all of the correct statements is\u2026</p>",
   "options": {
     "a": "1, 3.",

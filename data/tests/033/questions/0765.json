@@ -1,7 +1,7 @@
 {
   "number": 765,
-  "questionId": 82902,
-  "questionNumber": "339408",
+  "questionId": "033-0765",
+  "questionNumber": "033-0765",
   "stemHtml": "<p>Given the following information, calculate the true altitude of the aircraft to ensure that the Minimum Obstacle Clearance is available.</p><p>Minimum Obstacle Clearance Altitude (MOCA): 4870 ft <br>Cruise: FL60 <br>Local aerodrome QNH: 995 hPa <br>Local aerodrome elevation: 2430 ft <br>OAT: ISA -15\u00b0C <br>Assume 1 hPa = 30 ft</p>",
   "options": {
     "a": "5278 ft",

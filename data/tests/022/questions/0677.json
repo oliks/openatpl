@@ -1,7 +1,7 @@
 {
   "number": 677,
-  "questionId": 82895,
-  "questionNumber": "222955",
+  "questionId": "022-0677",
+  "questionNumber": "022-0677",
   "stemHtml": "<p>An aircraft fitted with a basic version of EGPWS is cruising at FL80 in clear skies. The terrain along this part of the route has a maximum elevation of 1000 ft. Suddenly, the caution \u2018TOO LOW TERRAIN\u2019 sounds unexpectedly. The pilot looks out and the distance to the terrain below remains as expected for the altitude compared to the elevation. Given the information below.</p><p>Attitude indicator: level flight <br /> Radio altimeter: setting 1013 hPa, reading 400 ft</p><p>What is the most probable cause for this caution to sound?</p>",
   "options": {
     "a": "<p>The radio altimeter is faulty, giving an incorrect indication that triggers the caution.</p>",

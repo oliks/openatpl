@@ -1,7 +1,7 @@
 {
   "number": 300,
-  "questionId": 70480,
-  "questionNumber": "332763",
+  "questionId": "033-0300",
+  "questionNumber": "033-0300",
   "stemHtml": "<p>Use the following information to determine the increase in fuel required for a cruise leg for a Medium-Range Jet Transport (MRJT) flight.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Cruise leg distance: 135 NM</span>  <br />  \nPlanned cruise TAS: 450 kt  <br />  \nForecast wind component: +25 kt  <br />  \nPlanned cruise fuel consumption: 5 kg/NAM  <br />  \nRevised forecast wind component: -25 kt</p>",
   "options": {
     "a": "0 kg",

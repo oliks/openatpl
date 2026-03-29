@@ -1,7 +1,7 @@
 {
   "number": 588,
-  "questionId": 100168,
-  "questionNumber": "325072",
+  "questionId": "032-0588",
+  "questionNumber": "032-0588",
   "stemHtml": "<p>Refer to figure.<br>Given the following information, calculate the expected obstacle clearance overhead the antenna for a single engine piston aircraft at its FLLTOM (Field Length Limited Take-Off Mass) on a straight out departure from Runway 27 in VMC.</p><p>Aerodrome elevation: MSL<br>Climb gradient: 6%<br>True Airspeed: 110 kt<br>Headwind component: 20 kt<br>1NM = 6080 ft<br>Height Difference = [(Ground Distance x TAS)/GS] x Gradient(%)/100</p>",
   "options": {
     "a": "496 ft",

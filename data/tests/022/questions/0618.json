@@ -1,7 +1,7 @@
 {
   "number": 618,
-  "questionId": 69005,
-  "questionNumber": "222962",
+  "questionId": "022-0618",
+  "questionNumber": "022-0618",
   "stemHtml": "<p>Given:</p><p>Ts = static air temperature (SAT) <br>Tt = total air temperature (TAT) <br>Kr = recovery coefficient <br>M = Mach number</p><p>The approximate total temperature can be expressed by the formula.</p>",
   "options": {
     "a": "Tt = Ts (1-0.2 M<sup>2</sup>)",

@@ -1,7 +1,7 @@
 {
   "number": 257,
-  "questionId": 69436,
-  "questionNumber": "314976",
+  "questionId": "031-0257",
+  "questionNumber": "031-0257",
   "stemHtml": "<p>Given an aeroplane with:</p><p>Maximum Structural Landing Mass: 68 000 kg <br>Maximum Zero Fuel Mass: 70 200 kg <br>Maximum Structural Take-off Mass: 78 200 kg <br>Dry Operating Mass: 48 000 kg <br>Scheduled Trip Fuel: 7000 kg <br>Reserve Fuel: 2800 kg</p><p>Assuming performance limitations are not restricting, the maximum permitted take-off mass and maximum traffic load are respectively\u2026</p>",
   "options": {
     "a": "<p>75 000 kg and 17 200 kg.</p>",

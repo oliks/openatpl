@@ -1,7 +1,7 @@
 {
   "number": 783,
-  "questionId": 103297,
-  "questionNumber": "221652",
+  "questionId": "022-0783",
+  "questionNumber": "022-0783",
   "stemHtml": "<p>While preparing the cockpit, the pilot initiated the route loading process into the Flight Management System (FMS). Due to a distraction, the pilot inadvertently replaced the current navigation database with a newer version before its designated activation date. Is this problematic, and if so, why?</p>",
   "options": {
     "a": "<p>It can be an issue because certain waypoints and airways might have changed their coordinates, and the aircraft will follow an incorrect routing. </p>",

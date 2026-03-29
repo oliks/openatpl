@@ -1,7 +1,7 @@
 {
   "number": 254,
-  "questionId": 69576,
-  "questionNumber": "316929",
+  "questionId": "031-0254",
+  "questionNumber": "031-0254",
   "stemHtml": "<p>A jet transport has the following structural limits:</p><figure class=\"table\"><table><tbody><tr><td>Maximum Ramp Mass:</td><td style=\"text-align:right;\">63 060</td><td>kg</td></tr><tr><td>Maximum Take-off Mass:</td><td style=\"text-align:right;\">62 800</td><td>kg</td></tr><tr><td>Maximum Landing Mass:</td><td style=\"text-align:right;\">54 900</td><td>kg</td></tr><tr><td>Maximum Zero Fuel Mass:</td><td style=\"text-align:right;\">51 300</td><td>kg</td></tr></tbody></table></figure><p>The aeroplane fuel is loaded accordance with the following requirements:</p><figure class=\"table\"><table><tbody><tr><td>Taxi Fuel:</td><td style=\"text-align:right;\">400</td><td>kg</td></tr><tr><td>Trip Fuel:</td><td style=\"text-align:right;\">8400</td><td>kg</td></tr><tr><td>Contingency and Final Reserve Fuel:</td><td style=\"text-align:right;\">1800</td><td>kg</td></tr><tr><td>Alternate Fuel:</td><td style=\"text-align:right;\">1100</td><td>kg</td></tr></tbody></table></figure><p>If the Dry Operating Mass (DOM) is 34 930 kg, determine the maximum Traffic Load (TL) that can be carried on the flight if departure and landing airfields are not performance limited.</p>",
   "options": {
     "a": "17 070 kg",

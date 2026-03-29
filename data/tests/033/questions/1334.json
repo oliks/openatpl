@@ -1,7 +1,7 @@
 {
   "number": 1334,
-  "questionId": 104420,
-  "questionNumber": "334258",
+  "questionId": "033-1334",
+  "questionNumber": "033-1334",
   "stemHtml": "<p>Given the following information, determine the quantity of barrels of 45 gallons required, considering the actual fuel at the destination for the Commercial flight. Assume the Basic Fuel Scheme WITHOUT variations applies.</p>\r\r<p>Assume that the actual fuel consumption is maintained at the same rate.  <br /> \rTotal distance from A to B: 320 NM  <br /> \rFuel remaining after 1 hour 15 minutes: 859 US gal  <br /> \rDistance travelled after 1 hour 15 minutes: 119 NM  <br /> \rAverage TAS: 115 kt  <br /> \rWind component: 20 kt headwind  <br /> \rTrip Fuel: 1280 US gal  <br /> \rPlanned average fuel flow: 380 US gal/h  <br /> \rExtra fuel: 0 gal  <br /> \rDiscretionary Fuel: 0 gal</p>",
   "options": {
     "a": "<p>2</p>",

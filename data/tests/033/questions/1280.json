@@ -1,7 +1,7 @@
 {
   "number": 1280,
-  "questionId": 144799,
-  "questionNumber": "337407",
+  "questionId": "033-1280",
+  "questionNumber": "033-1280",
   "stemHtml": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,105);\">Given the following information, what is the minimum fuel required for an IFR flight to an airport of a piston-engined aircraft, ignoring the contingency fuel?</span> </p><p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,105);\">Fuel flow: 40 litres/hr</span> <br><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,105);\">Flight time to destination aerodrome: 01:45</span> <br><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,105);\">Flight time to the alternate: 00:35</span></p>",
   "options": {
     "a": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(74,74,105);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Poppins, sans-serif;font-size:13.0509px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">90 litres</span></span></p>",

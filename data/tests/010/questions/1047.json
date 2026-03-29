@@ -1,7 +1,7 @@
 {
   "number": 1047,
-  "questionId": 83909,
-  "questionNumber": "108243",
+  "questionId": "010-1047",
+  "questionNumber": "010-1047",
   "stemHtml": "<p>ATC transmit the following taxi clearance to an aircraft:</p>\r\n\r\n<p>\u201cFGACC, runway 27, wind 220 degrees 10 knots visibility 8 km, QNH 1019, transition level 45, time 06, squawk will be 3636. Taxi to holding point runway 27 via taxiway Bravo, cross runway 22, give way to Airbus crossing left to right\u201d.</p>\r\n\r\n<p>In accordance with ICAO Doc 4444, if the pilot is able to comply, what must his/her reply be?</p>",
   "options": {
     "a": "\u201cTaxi to holding point runway 27 via taxiway Bravo. Squawk 3636, QNH 1019, wind 220 degrees 10 knots, transition level 45, time 06, FGACC\u201d.",

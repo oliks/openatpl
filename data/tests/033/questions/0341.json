@@ -1,7 +1,7 @@
 {
   "number": 341,
-  "questionId": 83738,
-  "questionNumber": "333852",
+  "questionId": "033-0341",
+  "questionNumber": "033-0341",
   "stemHtml": "<p>Given the following information, calculate the revised estimated Landing Mass at the destination for the Commercial Air Transport flight with a Performance Class A aeroplane. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>DOM: 4515 kg<br>Traffic Load: 2540 kg<br>Remaining Usable Fuel: 960 kg<br>Remaining Trip Fuel to the destination: 350 kg<br>Alternate Fuel: 240 kg<br>Final Reserve: 250 kg<br>Extra fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
   "options": {
     "a": "<p>7665 kg</p>",

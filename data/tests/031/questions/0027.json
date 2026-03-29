@@ -1,7 +1,7 @@
 {
   "number": 27,
-  "questionId": 85700,
-  "questionNumber": "313745",
+  "questionId": "031-0027",
+  "questionNumber": "031-0027",
   "stemHtml": "<p>Given the following information, calculate the centre of gravity of a jet as %MAC...</p><p>MAC Leading edge: 13.21 m aft of datum <br>MAC Trailing edge: 15.63 m aft of datum</p><p>Weighing of aircraft: <br>Tail jack: 3345.25 kg <br>Right main wheel: 19 720.57 kg <br>Left main wheel: 19 730.69 kg</p><p>Locations: <br>Center of gravity: 13.65 m aft of datum <br>Tail jack: 21.34 m aft of datum <br>Nose jack: 4.22 m aft of datum <br>Main wheels: 16.98 m aft of datum</p>",
   "options": {
     "a": "<p>Not enough data to calculate the CG position.</p>",

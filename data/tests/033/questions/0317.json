@@ -1,7 +1,7 @@
 {
   "number": 317,
-  "questionId": 70737,
-  "questionNumber": "338525",
+  "questionId": "033-0317",
+  "questionNumber": "033-0317",
   "stemHtml": "<p>On a given flight path, it is possible to choose between four flight levels FL, each associated with a mandatory flight Mach number M. The flight conditions, static air temperature SAT and headwind component HWC are given below:</p><p>FL 370: M = 0.80, SAT = -60\u00b0 C, HWC = 15 kt <br /> FL 330: M = 0.78, SAT = -60\u00b0 C, HWC= 5 kt <br /> FL 290: M = 0.80, SAT = -55\u00b0 C, HWC = 15 kt <br /> FL 270: M = 0.76, SAT = -43\u00b0 C, HWC = 0</p><p>The Flight Level allowing the highest Ground Speed is..</p><div><div> </div></div>",
   "options": {
     "a": "FL330.",

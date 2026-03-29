@@ -1,7 +1,7 @@
 {
   "number": 472,
-  "questionId": 81372,
-  "questionNumber": "318080",
+  "questionId": "031-0472",
+  "questionNumber": "031-0472",
   "stemHtml": "<p>The following planning data are given for a Commercial Air Transport flight. Determine the underload of this flight:</p><p>Maximum Take-Off Mass: 62 800 kg <br>Performance-Limited Take-off Mass at departure: 61 600 kg <br>Dry Operating Mass: 34 550 kg <br>Block Fuel: 10 970 kg <br>Taxi Fuel: 130 kg <br>Trip Fuel: 6150 kg <br>Reserve Fuel (contingency, alternate and final): 2430 kg <br>Passengers and baggage mass: 10 220 kg <br>Freight mass: 2480 kg</p>",
   "options": {
     "a": "<p>3510 kg</p>",

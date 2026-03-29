@@ -1,7 +1,7 @@
 {
   "number": 3,
-  "questionId": 96364,
-  "questionNumber": "334435",
+  "questionId": "033-0003",
+  "questionNumber": "033-0003",
   "stemHtml": "<p>Determine the lowest usable flight level for an IFR flight provided that the MOCA is 3300 ft and the transition altitude is 3000 ft, given:</p><p>QNH: 1020 hPa\u00a0<br>Temperature: -7\u00b0C\u00a0<br>The airport elevation is: 27 ft\u00a0<br>Magnetic course: 182\u00b0<br>Variation: 8\u00b0E</p>",
   "options": {
     "a": "<p>FL60</p>",

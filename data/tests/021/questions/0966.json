@@ -1,7 +1,7 @@
 {
   "number": 966,
-  "questionId": 80879,
-  "questionNumber": "215785",
+  "questionId": "021-0966",
+  "questionNumber": "021-0966",
   "stemHtml": "<p>A complex aircraft has four independent AC generators, namely:</p><p>GEN 1 (ENG 1) <br /> GEN 2 (ENG 2) <br /> APU GEN <br /> EMER GEN</p><p>How are the generators connected to a split bus system?</p>",
   "options": {
     "a": "In parallel, with all 4 generators connected to the same part of the split bus bar. Power is then shared along the length of the split bus bar.",

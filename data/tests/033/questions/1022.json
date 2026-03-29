@@ -1,7 +1,7 @@
 {
   "number": 1022,
-  "questionId": 159748,
-  "questionNumber": "339323",
+  "questionId": "033-1022",
+  "questionNumber": "033-1022",
   "stemHtml": "<p>You\u2019re flying Amsterdam (EHAM) to Alicante (LEAL). In the FMS you entered a forecast wind of 340\u00b0/60 kt, but the real wind is 260\u00b0/60 kt. The FMS is NOT updated with the new wind information. How this mismatch affects the FMS\u2019s ETA and fuel predictions?</p>",
   "options": {
     "a": "<p>FMS calculates a later than actual landing time, fuel consumption calculation too high.  <br />   </p>",

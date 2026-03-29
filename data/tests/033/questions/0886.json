@@ -1,7 +1,7 @@
 {
   "number": 886,
-  "questionId": 83040,
-  "questionNumber": "339362",
+  "questionId": "033-0886",
+  "questionNumber": "033-0886",
   "stemHtml": "<p>Given the following information for a Commercial Air Transport operation, calculate the maximum possible Extra Fuel to be uplifted, if the Commander wants to climb directly to the optimum altitude of 37 000 ft.</p><p>Maximum Take-off Mass (MTOM) to climb at FL370: 68 000 kg <br>Maximum Zero Fuel Mass (MZFM): 62 731 kg <br>Actual Zero Fuel Mass (AZFM): 59 031 kg <br>Regulated Take-Off Mass (RTOM): 76 000 kg <br>Maximum Landing Mass (MLM): 66 360 kg <br>Fuel Tank Capacity: 16 000 kg <br>Taxi Fuel: 240 kg <br>Trip Fuel: 4761 kg <br>Minimum Block Fuel: 8000 kg</p>",
   "options": {
     "a": "4330",

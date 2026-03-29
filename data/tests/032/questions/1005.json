@@ -1,7 +1,7 @@
 {
   "number": 1005,
-  "questionId": 81102,
-  "questionNumber": "329138",
+  "questionId": "032-1005",
+  "questionNumber": "032-1005",
   "stemHtml": "<p>An aeroplane is conducting a 6 hour sector flying from North Africa to Europe. The initial cruising altitude is FL340 with the recommended maximum being FL390. Normally the optimum cruising altitude is 500 ft to 2500 ft below the recommended maximum and the recommended maximum altitude increases by 100 ft for every 10 minutes of flight time as the fuel burns off. On this occasion the FMS computes an optimum altitude of FL340 for the entire flight. What could be the reason for it not recommending a step climb to FL370 or higher?</p>",
   "options": {
     "a": "The FMS has not been programmed properly with the correct aeroplane weights, thus giving inaccurate information.",

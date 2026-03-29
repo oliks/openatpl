@@ -1,7 +1,7 @@
 {
   "number": 985,
-  "questionId": 83245,
-  "questionNumber": "326272",
+  "questionId": "032-0985",
+  "questionNumber": "032-0985",
   "stemHtml": "<p>An aeroplane is maintaining FL350 at M0.78 (262 kt CAS), when an engine failure forces the pilot to commence a driftdown procedure. The three driftdown strategies below, assume that MCT (Maximum Continuous thrust) is set on the remaining engine(s) prior to commencing the driftdown, if possible. Which one of the statements is correct ?</p>Standard strategy: M0.78/300 kt  <br />  Obstacle strategy: Minimum drag speed V<sub>MD</sub> (241 kt CAS)  <br />  ETOPS strategy: M0.80/340 kt",
   "options": {
     "a": "The Standard strategy gives the shortest time in the descent to reach the drift-down level-off altitude.",

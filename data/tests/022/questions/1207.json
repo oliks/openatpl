@@ -1,7 +1,7 @@
 {
   "number": 1207,
-  "questionId": 84838,
-  "questionNumber": "225255",
+  "questionId": "022-1207",
+  "questionNumber": "022-1207",
   "stemHtml": "<p>An Air-Data Inertial Reference Unit (ADIRU) has separate controls for switching the air-data and inertial reference part ON or OFF. The pilot accidentally switches OFF the incorrect system when following a procedure to address a fault. What is correct?</p><p>(For this question, only consider the system as a standalone part NOT including other aircraft systems that may also be affected by the scenario.)</p><p>1. If the air-data part is switched OFF instead of the inertial reference part, there is NO effect as the data can be recovered when the air-data part is switched back ON<br>2. If the air-data part is switched OFF instead of the inertial reference part, the function is severely limited as the air-data part CANNOT be initialised when switched back ON<br>3. If the inertial reference part is switched OFF instead of the air-data part, the function is severely limited as the inertial reference part CANNOT be fully re-aligned when switched back ON<br>4. If the inertial reference part is switched OFF instead of the air-data part, there is NO effect as the data can be recovered when the inertial reference part is switched back ON</p>",
   "options": {
     "a": "2 and 4.",

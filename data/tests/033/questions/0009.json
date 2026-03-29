@@ -1,7 +1,7 @@
 {
   "number": 9,
-  "questionId": 70666,
-  "questionNumber": "333785",
+  "questionId": "033-0009",
+  "questionNumber": "033-0009",
   "stemHtml": "<p>For pre-flight planning purposes, what is the minimum Usable Fuel required for the Commercial Air Transport flight, given the following information? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Estimated taxi time: 13 minutes<br>APU fuel flow: 115 kg/h<br>Taxi fuel flow: 11 kg/min<br>Sum of Trip Fuel and Contingency Fuel: 5420 kg<br>Destination Alternate Fuel: 1400 kg<br>Final Reserve Fuel: 1250 kg<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg<br>Estimated length of time of APU use: 38 minutes</p>",
   "options": {
     "a": "8070 kg",

@@ -1,7 +1,7 @@
 {
   "number": 553,
-  "questionId": 69581,
-  "questionNumber": "312415",
+  "questionId": "031-0553",
+  "questionNumber": "031-0553",
   "stemHtml": "<p>A revenue flight is to be made by a jet transport. The following are the aeroplane structural limits:</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\" style=\"letter-spacing:0.7px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Maximum Ramp Mass:</td>\n\t\t\t<td style=\"text-align:right\">69 900 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Maximum Take-off Mass:</td>\n\t\t\t<td style=\"text-align:right\">69 300 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Maximum Landing Mass:</td>\n\t\t\t<td style=\"text-align:right\">58 900 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Maximum Zero Fuel Mass:</td>\n\t\t\t<td style=\"text-align:right\">52 740 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Dry Operating Mass:</td>\n\t\t\t<td style=\"text-align:right\">34 900 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td> </td>\n\t\t\t<td> </td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Trip Fuel:</td>\n\t\t\t<td style=\"text-align:right\">11 800 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Taxi Fuel:</td>\n\t\t\t<td style=\"text-align:right\">500 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Contingency and final reserve fuel:</td>\n\t\t\t<td style=\"text-align:right\">1 600 kg</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Alternate Fuel:</td>\n\t\t\t<td style=\"text-align:right\">1 900 kg</td>\n\t\t</tr>\n\t</tbody>\n</table>\nTake-off and Landing Mass are not performance limited. The maximum Traffic Load (TL) that can be carried is:",
   "options": {
     "a": "19 500 kg",

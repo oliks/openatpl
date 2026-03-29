@@ -1,7 +1,7 @@
 {
   "number": 283,
-  "questionId": 69391,
-  "questionNumber": "315192",
+  "questionId": "031-0283",
+  "questionNumber": "031-0283",
   "stemHtml": "<p>Given the following information for a Commercial Air Transport operation, calculate the maximum possible Extra Fuel to be uplifted.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Maximum Zero Fuel Mass (MZFM): 2000 kg</span>  <br />  \nActual Zero Fuel Mass (AZFM): 2000 kg  <br />  \nRegulated Take-Off Mass (RTOM): 3000 kg  <br />  \nMaximum Landing Mass (MLM): 2200 kg  <br />  \nFuel Tank Capacity: 550 kg  <br />  \nTrip Fuel (TF): 190 kg  <br />  \nMinimum Block Fuel (BF): 300 kg</p>",
   "options": {
     "a": "<p>Not able to carry Extra Fuel</p>",

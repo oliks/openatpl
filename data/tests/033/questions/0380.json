@@ -1,7 +1,7 @@
 {
   "number": 380,
-  "questionId": 70621,
-  "questionNumber": "335347",
+  "questionId": "033-0380",
+  "questionNumber": "033-0380",
   "stemHtml": "<p>Given the following information, calculate the change in planned Trip Fuel with updated forecast meteorological conditions.</p><p>Trip distance: 150 NGM\u00a0<br>Planned average trip TAS: 120 kt\u00a0<br>Planned average Trip Fuel consumption: 3 kg/NAM\u00a0<br>Change in OAT: 10\u00b0C higher\u00a0<br>Change in wind component: increase from +5 kt to +10 kt\u00a0<br>Effect on TAS: 2 kt increase for every 5\u00b0C increase in OAT\u00a0<br>Effect on Trip Fuel: 0.5% increase for every 10\u00b0C increase in OAT</p><p>The change in planned Trip Fuel will be\u2026</p>",
   "options": {
     "a": "13.5 kg less.",

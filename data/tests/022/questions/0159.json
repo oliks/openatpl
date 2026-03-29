@@ -1,7 +1,7 @@
 {
   "number": 159,
-  "questionId": 81754,
-  "questionNumber": "229688",
+  "questionId": "022-0159",
+  "questionNumber": "022-0159",
   "stemHtml": "In a typical FMS architecture including two FMCs, two CDUs and one cross-talk bus when the system operates in the normal DUAL mode, one (1) _____ is the master and the other is the slave. Both (2) _____ exchange data together and synchronise via a cross-talk bus.",
   "options": {
     "a": "(1) CDU; (2) FMCS",
