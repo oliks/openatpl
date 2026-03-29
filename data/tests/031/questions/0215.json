@@ -1,0 +1,14 @@
+{
+  "number": 215,
+  "questionId": 69435,
+  "questionNumber": "318990",
+  "stemHtml": "<p>With respect to aeroplane loading in the planning phase, which of the following statements is always correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">LM = Landing Mass</span>  <br />  \nTOM = Take-off Mass  <br />  \nMTOM = Maximum Take-off Mass  <br />  \nZFM = Zero Fuel Mass  <br />  \nMZFM = Maximum Zero Fuel Mass  <br />  \nDOM = Dry Operating Mass</p>",
+  "options": {
+    "a": "<p>MZFM = Traffic Load + DOM</p>",
+    "b": "LM = TOM \u2013 Trip Fuel",
+    "c": "<p>MTOM = ZFM + Full Tank Fuel Mass</p>",
+    "d": "Reserve Fuel = TOM \u2013 Trip Fuel"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

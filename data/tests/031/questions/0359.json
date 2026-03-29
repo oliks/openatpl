@@ -1,0 +1,24 @@
+{
+  "number": 359,
+  "questionId": 110532,
+  "questionNumber": "317400",
+  "stemHtml": "<p>Refer to figure. <br>Determine if the CG % MAC position at the Zero Fuel Mass (ZFM) is in limits, given:</p><p>Take-off Mass: 61 080 kg <br>Zero Fuel Mass: 49 000 kg <br>Take-off Fuel 12 080 kg <br>Fuel index: -6.9 <br>Zero fuel index: 70.0</p>",
+  "options": {
+    "a": "<p>Yes, it is within limits and located at an aft CG position.</p>",
+    "b": "<p>Yes, it is within limits and located at a forward CG position.</p>",
+    "c": "<p>No, it is not within limits.</p>",
+    "d": "<p>The CG position can not be calculated.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 66945,
+      "uniqueKey": "8bd41648-a0be-4d13-8c07-2a468e30cfd1",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8bd41648-a0be-4d13-8c07-2a468e30cfd1",
+      "publicUrl": "/attachments/031/8bd41648-a0be-4d13-8c07-2a468e30cfd1.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/8bd41648-a0be-4d13-8c07-2a468e30cfd1.jpg"
+    }
+  ]
+}

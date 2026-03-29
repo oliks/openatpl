@@ -1,0 +1,14 @@
+{
+  "number": 343,
+  "questionId": 84339,
+  "questionNumber": "314073",
+  "stemHtml": "<p>Given the following information, what is the Underload/Overload?</p><p>Maximum Structural Take-Off Mass: 6400 kg <br>Performance Limited Take-Off Mass: 6400 kg <br>Performance Limited Landing Mass: 5430 kg <br>Operating Mass: 4480 kg <br>Take-Off Fuel: 1440 kg <br>Trip Fuel: 1090 kg <br>Mass of the crew and their baggage: 235 kg <br>Traffic Load: 1870 kg</p>",
+  "options": {
+    "a": "An Underload of 170 kg",
+    "b": "<p>An Overload of 300 kg</p>",
+    "c": "An Overload of 185 kg",
+    "d": "An Underload of 50 kg"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

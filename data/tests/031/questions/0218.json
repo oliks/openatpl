@@ -1,0 +1,24 @@
+{
+  "number": 218,
+  "questionId": 111510,
+  "questionNumber": "316800",
+  "stemHtml": "<p>Refer to figure or to CAP 696 Figure 4.12. <br /> \rGiven the following information, calculate the Zero Fuel Mass (ZFM) index:</p>\r\r<p>Take-off Mass: 51 720 kg <br /> \rTake-off Fuel: 10 080 kg <br /> \rFuel index: -2.1 <br /> \rZero Fuel Mass: 41 640 kg <br /> \rDry Operating Mass: 39 000 kg <br /> \rDry Operating Index: 38.0 <br /> \rBasic empty Mass: 38 690 kg <br /> \rBasic empty Index: 43.0 <br /> \rPassenger: 30 Males seated <br /> \rCPT 0a: 10 passengers <br /> \rCPT 0f: 10 passengers <br /> \rCPT 0g: 10 passengers <br /> \rNo Cargo or baggage</p>",
+  "options": {
+    "a": "<p>52.9</p>",
+    "b": "<p>45.8</p>",
+    "c": "<p>47.9</p>",
+    "d": "<p>50.8</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 67752,
+      "uniqueKey": "524494ef-0d17-4fa6-a472-be673468879f",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=524494ef-0d17-4fa6-a472-be673468879f",
+      "publicUrl": "/attachments/031/524494ef-0d17-4fa6-a472-be673468879f.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/524494ef-0d17-4fa6-a472-be673468879f.jpg"
+    }
+  ]
+}

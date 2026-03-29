@@ -1,0 +1,24 @@
+{
+  "number": 471,
+  "questionId": 100308,
+  "questionNumber": "311117",
+  "stemHtml": "<p>Refer to figure or CAP696 file 4.11.  <br />  Is the aircraft configuration within limits if it possesses a Zero Fuel Mass (ZFM) of 50 000 kg and its Center of Gravity (CG) is positioned at 28% of the Mean Aerodynamic Chord (MAC)?</p>",
+  "options": {
+    "a": "<p>Yes, the configuration is within limits.</p>",
+    "b": "<p>No, the CG exceeds the forward limit.</p>",
+    "c": "<p>No, the CG exceeds the aft limit.</p>",
+    "d": "No, the ZFM exceeds the ZFM limit."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 72730,
+      "uniqueKey": "6d3e25b1-ee1d-41e6-b1b7-8cfd45714708",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6d3e25b1-ee1d-41e6-b1b7-8cfd45714708",
+      "publicUrl": "/attachments/031/6d3e25b1-ee1d-41e6-b1b7-8cfd45714708.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/6d3e25b1-ee1d-41e6-b1b7-8cfd45714708.png"
+    }
+  ]
+}

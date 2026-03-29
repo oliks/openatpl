@@ -1,0 +1,24 @@
+{
+  "number": 298,
+  "questionId": 69400,
+  "questionNumber": "318391",
+  "stemHtml": "<p>Refer to figure. <br /> \rUsing the graph, and given the following parameters, what is the loaded Centre of Gravity (CG) of this aircraft?</p>\r\r<p>BEM: 1200 kg <br /> \rBEM CG: 3.00 <br /> \rFront pax: 200 kg <br /> \rCargo on the floor: 50 kg <br /> \rFuel: 250 kg</p>",
+  "options": {
+    "a": "<p>2.99 m</p>",
+    "b": "<p>2.97 m</p>",
+    "c": "<p>3.00 m</p>",
+    "d": "<p>3.03 m</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 62494,
+      "uniqueKey": "3451dc97-50a7-40d4-9661-13183dc0edb1",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=3451dc97-50a7-40d4-9661-13183dc0edb1",
+      "publicUrl": "/attachments/031/3451dc97-50a7-40d4-9661-13183dc0edb1.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/3451dc97-50a7-40d4-9661-13183dc0edb1.png"
+    }
+  ]
+}

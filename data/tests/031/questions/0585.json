@@ -1,0 +1,14 @@
+{
+  "number": 585,
+  "questionId": 102742,
+  "questionNumber": "311208",
+  "stemHtml": "<p>After the weighing procedure of an aircraft with the results given below, what is the CG position of the BEM with reference to the main landing gear?</p>\r\r<p>Nose landing gear jack point: 4 350 kg <br /> \rEach main landing gear jack point: 15 005 kg <br /> \rLongitudinal distance between the nose landing gear and the main landing gears: 12.2 metres <br /> \rDATUM is located at the mainwheels</p>",
+  "options": {
+    "a": "<p>9.19 m aft of datum</p>",
+    "b": "<p>9.19 m forward of datum</p>",
+    "c": "<p>1.54 m aft of datum</p>",
+    "d": "<p>1.54 m forward of datum</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

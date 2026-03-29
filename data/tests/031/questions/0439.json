@@ -1,0 +1,14 @@
+{
+  "number": 439,
+  "questionId": 158681,
+  "questionNumber": "318365",
+  "stemHtml": "<p>Given the following information, determine the CG location if 20 passengers (total mass = 1600 kg) are moved from station 16 to station 23.</p><p>Aeroplane mass: 36 000 kg <br>Centre of gravity (CG) at station: 17 m</p>",
+  "options": {
+    "a": "<p>It moves aft to 20.22 m</p>",
+    "b": "<p>It moves aft to 17.157 m</p>",
+    "c": "<p>It moves forward to 16.843 m</p>",
+    "d": "<p>It moves aft to 17.31 m</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

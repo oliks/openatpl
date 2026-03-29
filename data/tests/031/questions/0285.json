@@ -1,0 +1,14 @@
+{
+  "number": 285,
+  "questionId": 69406,
+  "questionNumber": "315820",
+  "stemHtml": "<p>Given: Total mass: 7500 kg <br /> \rCentre of gravity (cg) location station: 80.5 <br /> \rAft cg limit station: 79.5</p>\r\r<p>How much cargo must be shifted from the aft cargo compartment at station 150 to the forward cargo compartment at station 30 in order to move the cg location to the aft limit?</p>\r\r<div> </div>",
+  "options": {
+    "a": "<p>68.9 kg.</p>",
+    "b": "<p>65.8 kg.</p>",
+    "c": "<p>62.5 kg.</p>",
+    "d": "<p>73.5 kg.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

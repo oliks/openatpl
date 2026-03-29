@@ -1,0 +1,14 @@
+{
+  "number": 204,
+  "questionId": 79565,
+  "questionNumber": "315148",
+  "stemHtml": "When you are finished loading your aircraft, you find that the CG is 2 inches forward of the CG limit. The CG limits are between 12% and 16% MAC and MAC is 40 inches and LEMAC is 200 inches aft of datum. What can you do to get CG within limits if the total aircraft mass is 62 800 kg?",
+  "options": {
+    "a": "Add 1670.21 kg in aft compartment 280 inches aft of datum.",
+    "b": "Remove 679.65 kg from the forward cargo hold 20 inches aft of datum.",
+    "c": "Move 483.07 kg from forward cargo hold 20 inches aft of datum to the aft cargo hold 280 inches aft of datum.",
+    "d": "All of the options are correct."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

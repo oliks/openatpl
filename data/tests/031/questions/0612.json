@@ -1,0 +1,14 @@
+{
+  "number": 612,
+  "questionId": 69338,
+  "questionNumber": "311050",
+  "stemHtml": "<p>Given the following information, what is the minimum additional load in whole kilograms that must be loaded into either compartment 1 or 2, to bring the CG into limits for take-off?</p>\r\r<p>Aircraft take-off mass: 1785 kg <br /> \rInitial CG position: +2.08 m <br /> \rForward CG limit: +2.14 m <br /> \rAft CG limit: +2.41 m <br /> \rCompartment 1: +1.23 m <br /> \rCompartment 2: +4.76 m</p>",
+  "options": {
+    "a": "<p>31 kg into compartment 2.</p>",
+    "b": "<p>41 kg into compartment 2.</p>",
+    "c": "<p>108 kg into compartment 2.</p>",
+    "d": "<p>118 kg into compartment 1.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

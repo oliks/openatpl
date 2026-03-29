@@ -1,0 +1,24 @@
+{
+  "number": 555,
+  "questionId": 69367,
+  "questionNumber": "318106",
+  "stemHtml": "<p>Refer to figure. <br /> \rDetermine the CG location at take off in the following conditions:</p>\r\r<p>Basic empty mass: 3 210 lb <br /> \rOne pilot: 160 lb <br /> \rFront seat passenger: 200 lb <br /> \rCentre seat passengers: 290 lb (total) <br /> \rOne passenger rear seat: 110 lb <br /> \rBaggage in zone 1: 100 lb <br /> \rBaggage in zone 4: 50 lb <br /> \rZero Fuel Mass: 4 120 lb <br /> \rMoment at Zero Fuel Mass: 377 751 lb in <br /> \rBlock fuel: 100 US Gal. <br /> \rTrip fuel: 55 US Gal. <br /> \rFuel for start up and taxi: 3 US Gal. <br /> \rFuel density: 6 lb/US Gal.</p>",
+  "options": {
+    "a": "<p>93.60 inches aft of datum</p>",
+    "b": "<p>91.92 inches aft of datum</p>",
+    "c": "<p>91.69 inches aft of datum</p>",
+    "d": "<p>91.84 inches in front of datum</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 49981,
+      "uniqueKey": "37BEEE8D-F86B-4D48-B665-55BF29DDCE7F",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=37BEEE8D-F86B-4D48-B665-55BF29DDCE7F",
+      "publicUrl": "/attachments/031/37BEEE8D-F86B-4D48-B665-55BF29DDCE7F.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/37BEEE8D-F86B-4D48-B665-55BF29DDCE7F.jpg"
+    }
+  ]
+}

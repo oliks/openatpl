@@ -1,0 +1,14 @@
+{
+  "number": 294,
+  "questionId": 163187,
+  "questionNumber": "311359",
+  "stemHtml": "<p>What is the formula to calculate the CG as a percentage of the Mean Aerodynamic Chord?</p>",
+  "options": {
+    "a": "<p>((l - lemac) / mac) x 100</p>",
+    "b": "<p>((lemac - l) / mac) x 100</p>",
+    "c": "<p>((l - mac) / lemac) x 100</p>",
+    "d": "<p>((mac - l) / lemac) x 100</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

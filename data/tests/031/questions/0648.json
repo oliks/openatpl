@@ -1,0 +1,33 @@
+{
+  "number": 648,
+  "questionId": 81538,
+  "questionNumber": "318032",
+  "stemHtml": "<p>Refer to figures. <br /> The pilot of a light twin-engined aeroplane receives the attached loading manifest, is the aeroplane within the limits at the Zero Fuel Mass (ZFM), ramp mass (RM), and Take-Off mass (TOM)?</p>",
+  "options": {
+    "a": "No, it is beyond the forward CG limits at RM.",
+    "b": "Yes, it is within the mass and balance limits.",
+    "c": "No, it is outside of the allowed CG range at TOM.",
+    "d": "No, it exceeds the maximum ZFM."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 42458,
+      "uniqueKey": "A7CCD45A-FCCD-4D73-8A11-624310DFA542",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=A7CCD45A-FCCD-4D73-8A11-624310DFA542",
+      "publicUrl": "/attachments/031/A7CCD45A-FCCD-4D73-8A11-624310DFA542.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/A7CCD45A-FCCD-4D73-8A11-624310DFA542.png"
+    },
+    {
+      "id": 43737,
+      "uniqueKey": "15F25800-C131-425E-B6AF-65AF0523939E",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=15F25800-C131-425E-B6AF-65AF0523939E",
+      "publicUrl": "/attachments/031/15F25800-C131-425E-B6AF-65AF0523939E.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/15F25800-C131-425E-B6AF-65AF0523939E.png"
+    }
+  ]
+}

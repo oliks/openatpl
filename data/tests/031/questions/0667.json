@@ -1,0 +1,14 @@
+{
+  "number": 667,
+  "questionId": 104585,
+  "questionNumber": "311798",
+  "stemHtml": "<p>A standard trim sheet is provided including the values of ZFM index, ZFM, TOF (Take-Off Fuel), and fuel correction indexes. What is the appropriate procedure to determine the CG in MAC% of the TOM (Take-Off Mass)?</p>",
+  "options": {
+    "a": "<p>Calculate the TOM, apply the fuel correction to the ZFM index, and determine the CG from the trim sheet.</p>",
+    "b": "<p>Use the ZFM and TOF to find the TOM, then use the ZFM index to find the CG directly.</p>",
+    "c": "<p>Determine the TOM, add the fuel correction index to the ZFM, and read the CG from the trim sheet.</p>",
+    "d": "<p>Calculate the TOM, subtract the fuel correction index from the ZFM index, and determine the CG from the trim sheet.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

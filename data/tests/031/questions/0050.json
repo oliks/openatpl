@@ -1,0 +1,14 @@
+{
+  "number": 50,
+  "questionId": 82696,
+  "questionNumber": "316944",
+  "stemHtml": "<p>Given the following weighing data.</p>\r\r<p>Mass on nose wheel: 285 kg <br /> \rMass on left main wheels: 1465 kg <br /> \rMass on right main wheels: 1395 kg <br /> \rDistance between the nose and main wheels: 7 ft 8 in.</p>\r\r<p>Calculate the aircraft\u2019s CG position.</p>",
+  "options": {
+    "a": "<p>83.7 in aft of the nosewheel.</p>",
+    "b": "<p>7 ft 1 in aft of the nosewheel.</p>",
+    "c": "<p>9.2 in forward of the main wheels.</p>",
+    "d": "<p>18.3 in forward of the main wheels.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

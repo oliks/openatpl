@@ -1,0 +1,14 @@
+{
+  "number": 536,
+  "questionId": 79567,
+  "questionNumber": "313146",
+  "stemHtml": "<p>If you want to depart with maximum allowable take off fuel, determine the amount of extra fuel can you refuel, given: <br><br>Dry operating mass: 45 000 kg <br>Maximum structural take-off mass: 143 000 kg <br>Maximum performace limited take-off mass: 140 000 kg <br>Maximum zero fuel mass: 92 000 kg <br>Maximum structural landing mass: 95 000 kg <br>Trip fuel: 12 600 kg <br>Taxi fuel: 120 kg <br>Contingency fuel: 1400 kg <br>Alternate fuel: 3100 kg <br>Final reserve fuel: 3000 kg <br>Captains fuel: 3300 kg <br>Traffic load: 16 000 kg</p>",
+  "options": {
+    "a": "19 000 kg",
+    "b": "23 200 kg",
+    "c": "34 000 kg",
+    "d": "42 200 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

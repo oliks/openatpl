@@ -1,0 +1,14 @@
+{
+  "number": 19,
+  "questionId": 84646,
+  "questionNumber": "315009",
+  "stemHtml": "The maximum load specified in the loading sheet is exceeded by 10%. Which action should be taken?",
+  "options": {
+    "a": "Take-off carefully.",
+    "b": "<p>Reduce Load.</p>",
+    "c": "<p>Increase speed by 10%.</p>",
+    "d": "<p>None, since a 10% greater load is still within the specified safety margin.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

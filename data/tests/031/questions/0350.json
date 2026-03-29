@@ -1,0 +1,14 @@
+{
+  "number": 350,
+  "questionId": 103259,
+  "questionNumber": "315177",
+  "stemHtml": "<p>An aeroplane with one nose landing gear and two main landing gears is weighed on jacks. Based on the following readouts, what is the aircraft BEM and CG position?</p><p>Nose jack positioned at 161 inches aft of datum reading: 6848 kg <br>Each main wheel jack positioned at 757 inches aft of datum reading: 11 873 kg</p>",
+  "options": {
+    "a": "<p>30 594 kg and 558.3 in</p>",
+    "b": "<p>18 721 kg and 918.0 in</p>",
+    "c": "<p>30 594 kg and 623.6 in</p>",
+    "d": "<p>18 721 kg and 539.0 in</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 51,
+  "questionId": 82133,
+  "questionNumber": "317261",
+  "stemHtml": "<p>What is the correct formula to calculate the CG position as a percentage of the mean aerodynamic chord if the CG is at a distance L from the datum?</p><p>MAC: the length of the mean aerodynamic chord<br>LEMAC: the distance of the mean aerodynamic chord leading edge from the datum<br>TEMAC: the distance of the mean aerodynamic chord trailing edge from the datum</p>",
+  "options": {
+    "a": "<p>((TEMAC - L)/MAC) x 100</p>",
+    "b": "<p>((L - LEMAC)/MAC) x 100</p>",
+    "c": "<p>((TEMAC - MAC)/L) x 100</p>",
+    "d": "<p>((LEMAC - L)/MAC) x 100</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

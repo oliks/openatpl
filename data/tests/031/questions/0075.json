@@ -1,0 +1,14 @@
+{
+  "number": 75,
+  "questionId": 109517,
+  "questionNumber": "319103",
+  "stemHtml": "<p>Which is the correct formula for calculating taxi/ramp mass?</p>",
+  "options": {
+    "a": "<p>Operating mass + Traffic Load (TL) + Taxi fuel</p>",
+    "b": "<p>Takeoff Mass (TOM) + Extra fuel</p>",
+    "c": "<p>Takeoff Mass (TOM) + Discretionary fuel</p>",
+    "d": "<p>Operating mass + Take-off fuel + Taxi fuel</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 490,
+  "questionId": 111486,
+  "questionNumber": "311317",
+  "stemHtml": "<p>After the weighing of an aircraft by the maintenance personnel, the following data is obtained from reaction forces on the jacking points:</p><p>Each of the 2 main landing gear jack points: 156 500 N\u00a0<br>Aft fuselage jack point: 65 200 N</p><p>The longitudinal distance between the main landing gear jack points and the aft fuselage jack point is 12.8 m. Assuming the datum line is positioned at the main landing gears, the Basic Empty Mass is (1) _____, and its associated longitudinal CG position is (2) _____ of the datum.\u00a0<br>(Consider g = 10 m/s<strong><sup>2</sup></strong>, and calculation accuracy: rounded to the nearest one decimal place)</p>",
+  "options": {
+    "a": "<p>(1) 22 170 kg; (2) 3.8 m aft</p>",
+    "b": "<p>(1) 378 200 kg; (2) 2.2 m forward</p>",
+    "c": "<p>(1) 37 820 kg; (2) 2.2 m aft</p>",
+    "d": "<p>(1) 37 820 kg; (2) 3.8 m aft</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

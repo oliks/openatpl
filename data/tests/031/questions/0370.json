@@ -1,0 +1,14 @@
+{
+  "number": 370,
+  "questionId": 106438,
+  "questionNumber": "314509",
+  "stemHtml": "<p>Based on the following data, what is the maximum Traffic Load allowed?</p>\r\r<p>Maximum Structural Take-Off Mass: 7250 kg  <br /> \rPerformance Limited Take-Off Mass: 6840 kg  <br /> \rPerformance Limited Landing Mass: 6300 kg  <br /> \rDry Operating Mass: 3640 kg  <br /> \rCrew and operational equipment: 410 kg  <br /> \rTake-Off Fuel: 950 kg  <br /> \rTrip Fuel: 420 kg</p>",
+  "options": {
+    "a": "<p>2250 kg</p>",
+    "b": "<p>2660 kg</p>",
+    "c": "<p>2130 kg</p>",
+    "d": "<p>1840 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

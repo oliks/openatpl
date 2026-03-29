@@ -1,0 +1,14 @@
+{
+  "number": 61,
+  "questionId": 79093,
+  "questionNumber": "318780",
+  "stemHtml": "A piece of cargo of 1.3 m<sup>2</sup> and a mass of 600 kg is loaded on two pallets with dimensions of 0.2 m x 1.2 m each. Considering that the maximum area loading equals 367 kg/m<sup>2</sup>, can this cargo be transported in the cargo hold?",
+  "options": {
+    "a": "Yes, only if the pallets are placed laterally on both ends of the cargo.",
+    "b": "Yes, because the base area of the cargo sufficiently distributes the load to comply with the maximum area load.",
+    "c": "Yes, if the pallets are aligned longitudinally.",
+    "d": "No, because the maximum area load is exceeded."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

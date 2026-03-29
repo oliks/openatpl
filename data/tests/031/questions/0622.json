@@ -1,0 +1,14 @@
+{
+  "number": 622,
+  "questionId": 69569,
+  "questionNumber": "313229",
+  "stemHtml": "<p>The following data is extracted from an aeroplane loading manifest:</p><figure class=\"table\"><table><tbody><tr><td>Take-off Mass (Performance Limited):</td><td style=\"text-align:right;\">93 500</td><td>kg</td></tr><tr><td>Expected Landing Mass at destination:</td><td style=\"text-align:right;\">81 700</td><td>kg</td></tr><tr><td>Maximum Certificated Landing Mass:</td><td style=\"text-align:right;\">86 300</td><td>kg</td></tr><tr><td>Take-off Fuel on board:</td><td style=\"text-align:right;\">16 500</td><td>kg</td></tr></tbody></table></figure><p>During the flight a diversion is made to an en-route alternate which is not performance limited for landing. Fuel remaining at landing is 10 300 kg. The Landing Mass\u2026</p>",
+  "options": {
+    "a": "is 83 200 kg which is in excess of the regulated Landing Mass and could result in overrunning the runway.",
+    "b": "is 87 300 kg which is acceptable in this case because this is a diversion and not a normal scheduled landing.",
+    "c": "is 87 300 kg and excess structural stress could result.",
+    "d": "must be reduced to 81 700 kg in order to avoid a high speed approach."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

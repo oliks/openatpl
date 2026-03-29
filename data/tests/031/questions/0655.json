@@ -1,0 +1,14 @@
+{
+  "number": 655,
+  "questionId": 80270,
+  "questionNumber": "317986",
+  "stemHtml": "<p>Determine the balance arm, given:</p><p>Moment: 5000 N.mm <br>Mass: 500 kg <br><i>Assume g = 10 m/sec2</i></p>",
+  "options": {
+    "a": "0.1 mm",
+    "b": "1 mm",
+    "c": "10 mm",
+    "d": "100 mm"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

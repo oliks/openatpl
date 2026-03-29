@@ -1,0 +1,14 @@
+{
+  "number": 305,
+  "questionId": 81367,
+  "questionNumber": "316407",
+  "stemHtml": "<p dir=\"ltr\">An aircraft has 100 lb of ballast installed in the forward cargo hold located 22.5 inches aft of the datum. The load and balance calculation gives a TOM of 4 000 lb, and the CG at 85 inches aft of the datum.</p>\r\n\r\n<p dir=\"ltr\">What should the pilot do to the ballast to move the CG to 86 inches aft of the datum?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Remove 20 lb.</p>",
+    "b": "<p dir=\"ltr\">Remove 63 lb.</p>",
+    "c": "<p dir=\"ltr\">Add 35 lb.</p>",
+    "d": "<p>Add 82 lb.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

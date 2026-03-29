@@ -1,0 +1,24 @@
+{
+  "number": 14,
+  "questionId": 82150,
+  "questionNumber": "314572",
+  "stemHtml": "<p>Refer to figure. <br /> You are about to depart for a domestic commercial flight, with an aircraft having a capacity of 2 flight crew members and 10 passengers. As part of your pre-flight calculations, you need to compute the Traffic Load in accordance with standard passenger and baggage masses as defined in the annex. What is the Traffic Load, given the following information?</p>Flight crew: 2 <br /> Male passengers: 2 <br /> Female passengers: 3 <br /> Baggage: 6 pieces, with a total mass of 63 kg <br /> Hand baggage: 3 pieces <br /> Standard mass for a flight crew member: 85 kg",
+  "options": {
+    "a": "469 kg",
+    "b": "639 kg",
+    "c": "699 kg",
+    "d": "529 kg"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 50134,
+      "uniqueKey": "A0A1E9EF-287C-4CD2-9CAE-A979DB304AAE",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=A0A1E9EF-287C-4CD2-9CAE-A979DB304AAE",
+      "publicUrl": "/attachments/031/A0A1E9EF-287C-4CD2-9CAE-A979DB304AAE.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/031/A0A1E9EF-287C-4CD2-9CAE-A979DB304AAE.jpg"
+    }
+  ]
+}

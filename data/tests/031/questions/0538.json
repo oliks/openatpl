@@ -1,0 +1,14 @@
+{
+  "number": 538,
+  "questionId": 81296,
+  "questionNumber": "314423",
+  "stemHtml": "<p>Determine the allowed mass for take-off for a Medium Range Jet Transport Aeroplane (MRJT). Given:</p><p>Maximum Zero Fuel Mass (MZFM): 61 688 kg <br>Maximum Take-off Mass (MTOM): 66 990 kg <br>Maximum Landing Mass (MLM): 65 317 kg <br>Performance Limited Take-off Mass (TOM): 64 900 kg <br>Performance Limited Landing Mass (LM): 67 300 kg <br>Trip Fuel: 3800 kg <br>Block Fuel: 6000 kg</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">66 990 kg</p>",
+    "b": "<p dir=\"ltr\">69 117 kg</p>",
+    "c": "<p dir=\"ltr\">67 688 kg</p>",
+    "d": "64 900 kg"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

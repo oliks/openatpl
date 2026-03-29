@@ -1,0 +1,14 @@
+{
+  "number": 506,
+  "questionId": 103614,
+  "questionNumber": "318510",
+  "stemHtml": "<p>A pilot, aiming for a flight at the Maximum Structural Take-off Mass (MSTOM), anticipates requiring either 3300 or 3200 pounds of fuel. Upon shutdown, they find 830 pounds of remaining fuel with a specific gravity of 0.82. How many liters of fuel are required during refueling?</p>",
+  "options": {
+    "a": "<p>Approximately 1365 liters, if planning for 3300 pounds of fuel.</p>",
+    "b": "<p>Approximately 1365 liters, if planning for 3200 pounds of fuel.</p>",
+    "c": "<p>Approximately 830 liters regardless of the planned fuel quantity.</p>",
+    "d": "<p>Approximately 2470 liters for either planned fuel quantity.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

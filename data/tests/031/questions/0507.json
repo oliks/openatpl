@@ -1,0 +1,14 @@
+{
+  "number": 507,
+  "questionId": 84152,
+  "questionNumber": "315286",
+  "stemHtml": "<p>Given the following information, calculate the maximum Traffic Load that can be carried:</p><p>Maximum Structural Take off Mass: 4200 kg <br>Performance Limited Take off Mass: 4200 kg <br>Performance Limited Landing Mass: 3610 kg <br>Dry Operating Mass: 2230 kg <br>Block Fuel: 865 kg <br>Trip Fuel: 440 kg <br>Taxi Fuel: 15 kg</p>",
+  "options": {
+    "a": "<p>1170 kg</p>",
+    "b": "<p>970 kg</p>",
+    "c": "<p>1155 kg</p>",
+    "d": "<p>1120 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

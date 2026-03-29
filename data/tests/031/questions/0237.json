@@ -1,0 +1,14 @@
+{
+  "number": 237,
+  "questionId": 108186,
+  "questionNumber": "317641",
+  "stemHtml": "<p>A cargo airline is contracted to carry construction materials. A beam measuring 8 feet in length, with a constant density, is placed on supports with a total weight of 40 kg. The running loads for the sections of the hold where the beam will be placed are as follows:</p><p>500\u2013560 inches aft (5 feet): 5 kg per inch <br>561\u2013578 inches aft (1.5 feet): 10 kg per inch <br>579\u2013599 inches aft (20 inches): 3 kg per inch</p><p>What is the maximum weight of the beam, considering the given specifications?</p>",
+  "options": {
+    "a": "<p>248 kg</p>",
+    "b": "<p>412 kg</p>",
+    "c": "<p>824 kg</p>",
+    "d": "<p>928 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

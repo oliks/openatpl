@@ -1,0 +1,14 @@
+{
+  "number": 485,
+  "questionId": 69602,
+  "questionNumber": "313714",
+  "stemHtml": "<p>Given the following aircraft weighing data, determine the CG position:</p><p>Mass on nose gear: 435 kg <br>Mass on right main gear: 2385 kg <br>Mass on left main gear: 2415 kg <br>Distance between nose and main gear: 583 cm</p>",
+  "options": {
+    "a": "48 cm aft of main gear",
+    "b": "530 cm aft of nose gear",
+    "c": "1.06 m forward of main gear",
+    "d": "48 cm forward of main gear"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

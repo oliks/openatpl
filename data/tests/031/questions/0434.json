@@ -1,0 +1,14 @@
+{
+  "number": 434,
+  "questionId": 69326,
+  "questionNumber": "317664",
+  "stemHtml": "<p>An aircraft has three holds situated 10 inches, 100 inches and 250 inches aft of the datum, identified as holds A, B and C respectively.The total aircraft mass is 3500 kg and the CG is 70 inches aft of the datum.The CG limits are from 40 inches to 70 inches aft of the datum. How much load must be removed from hold C to ensure that the CG is positioned on the forward limit?</p>",
+  "options": {
+    "a": "<p>350 kg.</p>",
+    "b": "<p>250 kg.</p>",
+    "c": "<p>400 kg.</p>",
+    "d": "<p>500 kg.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

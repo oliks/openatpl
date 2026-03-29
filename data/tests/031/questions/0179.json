@@ -1,0 +1,14 @@
+{
+  "number": 179,
+  "questionId": 69334,
+  "questionNumber": "311080",
+  "stemHtml": "<p>Which of the following is the correct method to determine the \"Underload\"?</p>",
+  "options": {
+    "a": "<p>Allowable TOM \u2013 DOM \u2013 Useful Load = Underload</p>",
+    "b": "<p>Actual TOM \u2013 DOM \u2013 Useful Load = Underload</p>",
+    "c": "<p>Allowable LM + Trip Fuel \u2013 DOM = Underload</p>",
+    "d": "<p>Allowable TOM + Useful Load \u2013 DOM = Underload</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}
