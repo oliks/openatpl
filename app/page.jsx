@@ -13,6 +13,7 @@ export default async function HomePage() {
       <section className="hero">
         <div className="eyebrow">Open Source ATPL Bank</div>
         <h1>EASA 2020 ECQB Bank Practice</h1>
+        <p className="hero-tagline">👨‍✈️ For Pilots, By Pilots</p>
         <p>
           This is an open source ATPL question bank focused on EASA 2020 ECQB practice. Progress is saved locally
           in your browser memory only, with no accounts, no subscriptions, no fees, just questions.

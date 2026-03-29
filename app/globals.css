@@ -214,6 +214,15 @@ a {
   line-height: 1.08;
 }
 
+.hero-tagline {
+  margin: -0.2rem 0 0;
+  font-family: var(--font-heading), sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0.02em;
+}
+
 .hero p {
   margin: 0;
   color: var(--ink-soft);
