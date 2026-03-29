@@ -1,0 +1,14 @@
+{
+  "number": 1167,
+  "questionId": 114692,
+  "questionNumber": "324709",
+  "stemHtml": "<p>You are departing a desert area early in the morning, planning a climb to 8000 ft. The rate of climb calculated from the AFM is 1500 ft/min, but passing 6000 ft you notice a decreased rate of climb of 1260 ft/min. What is the most likely reason?</p>",
+  "options": {
+    "a": "<p>There is greater excess thrust.</p>",
+    "b": "<p>You are experiencing an engine failure.</p>",
+    "c": "<p>You are climbing through an inversion layer.</p>",
+    "d": "<p>The cold air decreases engine performance.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

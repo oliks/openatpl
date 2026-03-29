@@ -1,0 +1,24 @@
+{
+  "number": 663,
+  "questionId": 84383,
+  "questionNumber": "329216",
+  "stemHtml": "<p>Refer to figure or CAP file 4.7.<br>The Medium-Range Jet Transport aeroplane (MRJT) is scheduled to depart from Madrid airport. Given the following information, determine the brake release weight.</p><p>V<strong><sub>1</sub></strong>: 149 kt<br>Pressure altitude: 1998 ft<br>Outside Air Temperature: + 35\u00b0C<br>Runway Slope: 0.8% DOWN<br>Wind: 3 kt tailwind</p>",
+  "options": {
+    "a": "Cannot be determined.",
+    "b": "Approximately 66 000 kg.",
+    "c": "Approximately 68 000 kg.",
+    "d": "Significantly in excess of 68 000 kg."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 51210,
+      "uniqueKey": "80F6AB6D-5BF5-463B-8B48-5143FA3FD661",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=80F6AB6D-5BF5-463B-8B48-5143FA3FD661",
+      "publicUrl": "/attachments/032/80F6AB6D-5BF5-463B-8B48-5143FA3FD661.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/80F6AB6D-5BF5-463B-8B48-5143FA3FD661.gif"
+    }
+  ]
+}

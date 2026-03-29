@@ -1,0 +1,14 @@
+{
+  "number": 847,
+  "questionId": 96124,
+  "questionNumber": "324998",
+  "stemHtml": "Before a departure with a Performance Class A twin-jet aeroplane, the pilots calculate the take-off performance. As the Actual Take-off Mass is less than the performance limiting masses for the existing conditions, it is decided to use reduced (FLEX) thrust. An air temperature of 45\u00b0C is used for the performance calculation, but the actual OAT is 20\u00b0C. Compared to the calculated take-off distance using 45\u00b0C, the actual take-off distance will be\u2026",
+  "options": {
+    "a": "<p>Shorter. The engines will produce slightly greater thrust at 20\u00b0C, and the take-off speeds expressed in TAS will be lower at that OAT.</p>",
+    "b": "<p>Longer. The take-off thrust will be reduced because an assumed temperature 25\u00b0C higher than the OAT is used, while the take-off speeds expressed in IAS will be the same in both cases.</p>",
+    "c": "<p>The same. The engines will produce the same thrust at 20\u00b0C and 45\u00b0C. and the take-off speeds expressed in IAS will be the same in both cases.</p>",
+    "d": "<p>The same. The engines will be producing greater thrust at 20\u00b0C, but this will be counteracted by the higher take-off speeds expressed in TAS at that OAT.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

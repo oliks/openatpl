@@ -1,0 +1,14 @@
+{
+  "number": 519,
+  "questionId": 70065,
+  "questionNumber": "321760",
+  "stemHtml": "<p>Given that the characteristics of a three engined turbojet aeroplane are as follows:</p><p>Thrust = 50 000 Newton / Engine<br>g = 10 m/s<sup>2</sup><br>Drag = 72 569 N<br>Minimum steady gradient of climb (2<strong><sup>nd</sup></strong> segment) = 2.7%<br>SIN (Angle of climb) = (Thrust - Drag) / Weight</p><p>The Maximum Take-Off Mass under the 2<strong><sup>nd</sup></strong> segment conditions is\u2026</p>",
+  "options": {
+    "a": "74 064 kg.",
+    "b": "286 781 kg.",
+    "c": "209 064 kg.",
+    "d": "101 596 kg."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

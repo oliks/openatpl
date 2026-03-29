@@ -1,0 +1,14 @@
+{
+  "number": 1098,
+  "questionId": 84309,
+  "questionNumber": "329453",
+  "stemHtml": "A light twin piston-engined aeroplane is cruising at 2000 ft when one of its engines fails. Whilst the pilot is performing the necessary actions to secure the engine, they observe that the aircraft is in a very slow descent, even with their operative engine at maximum continuous power. What is the reason for this?",
+  "options": {
+    "a": "The power required has reduced because drag is increased by the stationary propeller and the required control inputs to maintain direction, and the remaining engine has sufficient excess power.",
+    "b": "The power available has reduced because the feathered propeller only produces a small amount of thrust compared to normal and therefore the power required is less than the power available.",
+    "c": "The pilot must NOT have feathered the propeller of the failed engine, because ALL twin-engined aeroplanes that are certified in accordance with CS-23 must be able to climb within their environmental envelope.",
+    "d": "<p>The increased drag from the propeller of the failed engine and the required control inputs to maintain direction mean that the power from the remaining engine is insufficient to maintain altitude.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

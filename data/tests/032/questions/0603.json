@@ -1,0 +1,14 @@
+{
+  "number": 603,
+  "questionId": 70050,
+  "questionNumber": "324047",
+  "stemHtml": "<p>The determination of the maximum mass on brake release, of an aeroplane & certified under CS 25 with 5\u00b0, 15\u00b0 and 25\u00b0 flaps angles on take-off, leads to the following values with zero wind:</p><figure class=\"table\" style=\"width:400px;\"><table><tbody><tr><td><strong>Flap angle:</strong></td><td style=\"text-align:center;\"><strong>5\u00b0</strong></td><td style=\"text-align:center;\"><strong>15\u00b0</strong></td><td style=\"text-align:center;\"><strong>25\u00b0</strong></td></tr><tr><td><strong>Runway limitation:</strong></td><td style=\"text-align:center;\">66 000 kg</td><td style=\"text-align:center;\">69 500 kg</td><td style=\"text-align:center;\">71 500 kg</td></tr><tr><td><strong>2<sup>nd</sup> segment climb limitation:</strong></td><td style=\"text-align:center;\">72 200 kg</td><td style=\"text-align:center;\">69 000 kg</td><td style=\"text-align:center;\">61 800 kg</td></tr></tbody></table></figure><p>Wind correction: Head wind: +120 kg / kt<br>Tail wind: -360 kg / kt</p><p>Given that the tail wind component is equal to 5 kt, the maximum mass on brake release and corresponding flap angle will be\u2026</p>",
+  "options": {
+    "a": "69 700 kg / 25\u00b0",
+    "b": "72 200 kg / 5\u00b0",
+    "c": "67 700 kg / 15\u00b0",
+    "d": "69 000 kg / 15\u00b0"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

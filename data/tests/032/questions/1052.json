@@ -1,0 +1,14 @@
+{
+  "number": 1052,
+  "questionId": 107337,
+  "questionNumber": "328387",
+  "stemHtml": "<p>A flight crew has calculated the ASD for Runway 18 according to a METAR showing wind calm. Shortly before departure the ATIS states that the wind is 020/08 kt. How will the ASD be affected by the change in wind?</p>",
+  "options": {
+    "a": "<p>ASD increases</p>",
+    "b": "<p>No change in ASD</p>",
+    "c": "<p>ASD stays constant due to increased braking efficiency</p>",
+    "d": "<p>ASD decrease</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

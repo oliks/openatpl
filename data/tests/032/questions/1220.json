@@ -1,0 +1,24 @@
+{
+  "number": 1220,
+  "questionId": 70163,
+  "questionNumber": "325873",
+  "stemHtml": "<p>Refer to figure or CAP698 file 3.6.<br>Mass: 4300 lb<br>Headwind: 25 kt<br>Temperature: 28\u00b0C<br>Pressure Altitude: 3000 ft</p><p>Given the following parameters, determine the all engine and the engine out Rate Of Climb RoC.</p>",
+  "options": {
+    "a": "<p>All engine ROC = 1219 fpm and engine out RoC = 240 fpm.</p>",
+    "b": "<p>All engine ROC = 2130 fpm and engine out RoC = 419 fpm.</p>",
+    "c": "<p>All engine ROC = 1675 fpm and engine out RoC = 330 fpm.</p>",
+    "d": "<p>All engine ROC = 1450 fpm and engine out RoC = 215 fpm.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 51019,
+      "uniqueKey": "F5075861-859B-4672-92A4-A7F72FA018F1",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=F5075861-859B-4672-92A4-A7F72FA018F1",
+      "publicUrl": "/attachments/032/F5075861-859B-4672-92A4-A7F72FA018F1.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/F5075861-859B-4672-92A4-A7F72FA018F1.jpg"
+    }
+  ]
+}

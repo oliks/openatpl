@@ -1,0 +1,14 @@
+{
+  "number": 763,
+  "questionId": 80368,
+  "questionNumber": "329688",
+  "stemHtml": "<p>On a transatlantic flight, the captain asks the First Officer why a final step climb from FL340 to FL380 ten minutes before top of descent might not be an efficient use of the fuel. Select a possible explanation.</p>",
+  "options": {
+    "a": "<p>A 4000 ft climb might consume more fuel than would be saved by being at the higher altitude for a short period.</p>",
+    "b": "The headwind present at FL 340 might be more favourable than the still air conditions at FL380.",
+    "c": "Even in still air, cruising at the higher optimum level would decrease the specific range.",
+    "d": "There might be stronger tailwinds at FL380."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

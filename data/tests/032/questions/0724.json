@@ -1,0 +1,24 @@
+{
+  "number": 724,
+  "questionId": 69666,
+  "questionNumber": "326155",
+  "stemHtml": "<p>Refer to figure or CAP698 file 4.25. <br>Given the following information and assuming a drift down after engine failure, what is the time travelled and fuel burned during the drift down?</p><p>Drift down from pressure altitude: 33 000 ft <br>Drift down to pressure altitude: 20 000 ft <br>Gross Mass at engine failure: 55 000 kg <br>ISA conditions No wind</p>",
+  "options": {
+    "a": "23 min, 70 kg.",
+    "b": "2 min, 50 kg.",
+    "c": "23 min, 750 kg.",
+    "d": "130 min, 750 kg."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 50955,
+      "uniqueKey": "D66ACFCA-36E1-4B15-BCD1-04817B351704",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=D66ACFCA-36E1-4B15-BCD1-04817B351704",
+      "publicUrl": "/attachments/032/D66ACFCA-36E1-4B15-BCD1-04817B351704.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/D66ACFCA-36E1-4B15-BCD1-04817B351704.jpg"
+    }
+  ]
+}

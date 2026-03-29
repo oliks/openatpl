@@ -1,0 +1,14 @@
+{
+  "number": 411,
+  "questionId": 111622,
+  "questionNumber": "327837",
+  "stemHtml": "<p>When determining the minimum climb gradient for the fourth segment of the Net Take Off Flight Path for a jet aeroplane, the following parameters should be considered:</p><p>1. Undercarriage up <br>2. Undercarriage down <br>3. Wing flaps retracted <br>4. Wing flaps in take-off position <br>5. All engines at maximum continuous thrust<br>6. Operative engine(s) at maximum continuous thrust</p>",
+  "options": {
+    "a": "<p>1, 3 and 5</p>",
+    "b": "<p>2, 4 and 6</p>",
+    "c": "<p>1, 4 and 6</p>",
+    "d": "<p>1, 3 and 6</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

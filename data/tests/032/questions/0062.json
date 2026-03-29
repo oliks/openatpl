@@ -1,0 +1,14 @@
+{
+  "number": 62,
+  "questionId": 70150,
+  "questionNumber": "329729",
+  "stemHtml": "<p>Given:</p><p>V<strong><sub>S</sub></strong>= Stalling speed <br>V<strong><sub>MCA</sub></strong>= Air minimum control speed <br>V<strong><sub>MU</sub></strong>= Minimum unstick speed (disregarding engine failure) <br>V<strong><sub>1</sub></strong>= take-off decision speed <br>V<strong><sub>R</sub></strong>= Rotation speed <br>V<strong><sub>2</sub></strong> min.= Minimum take-off safety speed <br>V<strong><sub>LOF</sub></strong>= Lift-off speed</p><p>The correct formula is\u2026</p>",
+  "options": {
+    "a": "<p>V<sub>2MIN</sub>.< V<sub>MCA</sub>> V<sub>MU</sub></p>",
+    "b": "<p>V<sub>S</sub>< V<sub>MCA</sub>< V<sub>2 MIN</sub></p>",
+    "c": "<p>V<sub>R</sub>< V<sub>MCA</sub>< V<sub>LOF</sub></p>",
+    "d": "<p>V<sub>MU</sub><= V<sub>MCA</sub>< V<sub>1</sub></p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

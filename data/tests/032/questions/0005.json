@@ -1,0 +1,14 @@
+{
+  "number": 5,
+  "questionId": 83488,
+  "questionNumber": "329036",
+  "stemHtml": "Assuming the same runway and associated conditions, which statement below best describes the reason for the differences between the performance figures produced by the modern performance software in an Electronic Flight Bag (EFB), when compared to those derived from the Regulated Take-Off Weight (RTOW) tables?",
+  "options": {
+    "a": "The EFB figures are more accurate because a computer is able to consider more accurate parameters and apply these without interpolation.",
+    "b": "EFB calculations are more accurate and will therefore produce more conservative performance figures than retrieved from RTOW tables.",
+    "c": "Performance figures from the RTOW tables are more conservative as they include a safety factor of 1.15 that is NOT applied in the EFB calculations.",
+    "d": "The RTOW tables are typically older and therefore NOT suitable for use in a modern aeroplane where a lot of processes are automated."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

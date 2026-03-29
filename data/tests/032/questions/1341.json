@@ -1,0 +1,24 @@
+{
+  "number": 1341,
+  "questionId": 117957,
+  "questionNumber": "323634",
+  "stemHtml": "<p>Refer to figure. <br /> \rIn which of the following options are BOTH statements correct regarding the forces acting on the aeroplane in the above figure?</p>",
+  "options": {
+    "a": "<p>Climb angle of the aircraft (3) can be calculated from the equation: sin(y) = (thrust - drag) / weight. In steady, unaccelerated climb, weight is always less than lift (1).</p>",
+    "b": "<p>In steady, unaccelerated climb, drag (6) is always greater than thrust (5). (6) is the backwards component of weight.</p>",
+    "c": "<p>The weight can be resolved into two components: one that opposes lift (9), and one that opposes thrust (4 or 7). Excess thrust (8) is required to balance the backwards component of weight.</p>",
+    "d": "<p>Weight (2) acts parallel to the flight path and Lift (1) acts parallel with drag (6). The angle between the flight path and the horizontal (3) is referred to as as the angle of climb (\u03b3).</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 68767,
+      "uniqueKey": "576d5276-a798-4be5-b68a-0654857eae94",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=576d5276-a798-4be5-b68a-0654857eae94",
+      "publicUrl": "/attachments/032/576d5276-a798-4be5-b68a-0654857eae94.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/576d5276-a798-4be5-b68a-0654857eae94.png"
+    }
+  ]
+}

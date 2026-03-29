@@ -1,0 +1,14 @@
+{
+  "number": 653,
+  "questionId": 110427,
+  "questionNumber": "327221",
+  "stemHtml": "<p>A departure procedure require a climb gradient of 3.6% to 1300 ft in order to maintain obstacle clearance. Given the information below, estimate the minimum rate of climb required.</p><p>TAS: 125 kt <br>Average tailwind component: 6 kt</p>",
+  "options": {
+    "a": "<p>475 ft/min</p>",
+    "b": "<p>465 ft/min</p>",
+    "c": "<p>575 ft/min</p>",
+    "d": "<p>430 ft/min</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

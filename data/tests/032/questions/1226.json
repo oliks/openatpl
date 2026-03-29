@@ -1,0 +1,14 @@
+{
+  "number": 1226,
+  "questionId": 69988,
+  "questionNumber": "323948",
+  "stemHtml": "Which formula about climb gradient (in %) is correct? Gradient in % =...",
+  "options": {
+    "a": "ground difference / (altitude difference x 100)",
+    "b": "<p>arctg (altitude difference / ground distance)</p>",
+    "c": "(altitude difference x 100) / ground distance",
+    "d": "(rate of climb or descent) x ground speed"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

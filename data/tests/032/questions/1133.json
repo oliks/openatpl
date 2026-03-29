@@ -1,0 +1,24 @@
+{
+  "number": 1133,
+  "questionId": 78271,
+  "questionNumber": "323465",
+  "stemHtml": "<p>Refer to figure.  <br />  Given the following information, determine the gradient and vertical speed after take-off:</p><p>OAT: 20\u00b0C  <br />  Pressure altitude: 0 ft  <br />  Take-off mass: 12 000 lbs  <br />  Wind: 5 kt tailwind  <br />  Flaps: Clean  <br />  <em>Assume V<sub>2</sub> is the climb speed.</em></p>",
+  "options": {
+    "a": "5.7% and 713 ft/min.",
+    "b": "6.3% and 750 ft/min.",
+    "c": "5.7% and 685 ft/min.",
+    "d": "5.7% and 678 ft/min."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 47630,
+      "uniqueKey": "6454A7DC-F6CD-4B43-9AF1-725CE8EEAFC6",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6454A7DC-F6CD-4B43-9AF1-725CE8EEAFC6",
+      "publicUrl": "/attachments/032/6454A7DC-F6CD-4B43-9AF1-725CE8EEAFC6.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/6454A7DC-F6CD-4B43-9AF1-725CE8EEAFC6.jpg"
+    }
+  ]
+}

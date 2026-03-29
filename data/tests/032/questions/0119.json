@@ -1,0 +1,24 @@
+{
+  "number": 119,
+  "questionId": 83430,
+  "questionNumber": "328001",
+  "stemHtml": "<p>Refer to figure or CAP 698 file 4.31.<br>Given the following information, determine the advised cooling schedule and minimum brake cooling time after landing for the following performance data:</p><p>Estimated landing mass: 100 000 Ib<br>V<strong><sub>REF</sub></strong>: 138 kt<br>Correction to V<strong><sub>REF</sub></strong> ( V<strong><sub>REF</sub></strong><sub> </sub>- 3kt )<br>Correction to V<strong><sub>REF</sub></strong> for wind component minus 50% of headwind or plus 150% for a tailwind.<br>Headwind component: 10 kt<br>Pressure altitude: 996 ft<br>OAT: + 25\u00b0C<br>Breaking configuration: Auto Brake 3<br>Reverse thrust: Normal Reverse #2 detent<br>Taxi miles: 4 NM<br>Add one million foot pounds for each taxi mile to obtain the total energy.</p>",
+  "options": {
+    "a": "Cooling schedule I normal, NO special cooling procedure required.",
+    "b": "Cooling III required, 30 minutes ground cooling before take-off.",
+    "c": "Cooling II required, 18 minutes ground cooling before take-off.",
+    "d": "Cooling II required, 40 minutes ground cooling before take-off."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 48582,
+      "uniqueKey": "2CDF7903-6B98-4C5C-AA06-8CE22680EAD9",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=2CDF7903-6B98-4C5C-AA06-8CE22680EAD9",
+      "publicUrl": "/attachments/032/2CDF7903-6B98-4C5C-AA06-8CE22680EAD9.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/2CDF7903-6B98-4C5C-AA06-8CE22680EAD9.png"
+    }
+  ]
+}

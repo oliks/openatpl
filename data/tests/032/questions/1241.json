@@ -1,0 +1,14 @@
+{
+  "number": 1241,
+  "questionId": 107230,
+  "questionNumber": "327409",
+  "stemHtml": "<p>Determine the LDA for runway 09, given:</p>\r\r<p>TORA: 2100 m <br /> \rStopway: 200 m <br /> \rClearway: 480 m</p>",
+  "options": {
+    "a": "<p>2580 m</p>",
+    "b": "<p>2300 m</p>",
+    "c": "<p>2780 m</p>",
+    "d": "<p>2100 m</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

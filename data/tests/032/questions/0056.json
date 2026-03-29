@@ -1,0 +1,14 @@
+{
+  "number": 56,
+  "questionId": 69665,
+  "questionNumber": "324398",
+  "stemHtml": "<p>Which of the following factors must be used for determining the en-route flight path with one engine inoperative?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. Affected engine (critical or not)</span> <br /> \n2. Altitude <br /> \n3. Ambient temperature <br /> \n4. Weight at the time of engine failure <br /> \n5. Weight change during drift down</p>",
+  "options": {
+    "a": "2, 3, and 4 only.",
+    "b": "3, 4, and 5 only.",
+    "c": "1, 2, and 3 only.",
+    "d": "1, 2, 3, and 4."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

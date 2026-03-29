@@ -1,0 +1,14 @@
+{
+  "number": 584,
+  "questionId": 84043,
+  "questionNumber": "326356",
+  "stemHtml": "<p>A multi-engine turboprop aircraft with a max take-off weight of 5300 kg is under performance class B. Given the following speeds, what is its V<strong><sub>R</sub> </strong>and V<strong><sub>2</sub></strong>.</p><p>V<strong><sub>SO</sub></strong>: 63 kt<br>V<strong><sub>S1</sub></strong>: 69 kt<br>V<strong><sub>S</sub></strong>: 77 kt<br>V<strong><sub>MC</sub></strong>: 70 kt</p>",
+  "options": {
+    "a": "V<sub>R</sub>: 95 kt, V<sub>2</sub>: 102 kt",
+    "b": "V<sub>R</sub>: 85 kt, V<sub>2</sub>: 92 kt",
+    "c": "V<sub>R</sub>: 69 kt, V<sub>2</sub>: 76 kt",
+    "d": "V<sub>R</sub>: 76 kt, V<sub>2</sub>: 83 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

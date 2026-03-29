@@ -1,0 +1,24 @@
+{
+  "number": 459,
+  "questionId": 124790,
+  "questionNumber": "321329",
+  "stemHtml": "<p>Refer to figure. <br>Given the following information, calculate the expected obstacle clearance overhead the power lines for a single engine piston aircraft at its FLLTOM (Field Length Limited Take-Off Mass) on a straight out departure from Runway 09 in VMC.</p><p>Aerodrome elevation: MSL <br>Climb gradient: 8% <br>True airspeed: 110 kt <br>Headwind component: 20 kt <br>1 NM = 6080 ft <br>Height difference = [(Ground distance x TAS)/GS] x Gradient(%)/100</p>",
+  "options": {
+    "a": "<p>319 ft</p>",
+    "b": "<p>492 ft</p>",
+    "c": "<p>542 ft</p>",
+    "d": "<p>892 ft</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 72555,
+      "uniqueKey": "958902de-79e0-4f87-a9da-a7491985c0fe",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=958902de-79e0-4f87-a9da-a7491985c0fe",
+      "publicUrl": "/attachments/032/958902de-79e0-4f87-a9da-a7491985c0fe.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/958902de-79e0-4f87-a9da-a7491985c0fe.png"
+    }
+  ]
+}

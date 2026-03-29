@@ -1,0 +1,14 @@
+{
+  "number": 788,
+  "questionId": 81899,
+  "questionNumber": "323533",
+  "stemHtml": "This formula for calculating the dynamic hydroplaning speed distinguishes between rotating and non-rotating tyres. Which of the following statements best describes the most limiting speed for an aircraft operating on a wet runway?",
+  "options": {
+    "a": "Hydroplaning speed is lowest for low-pressure rotating tyres and can be calculated using the aircraft mass multiplied by the tyre pressure.",
+    "b": "The hydroplaning speed of rotating tyres is lower, because there is a higher risk of hydroplaning during the roll-out phase.",
+    "c": "Hydroplaning speed depends only on the amount of standing water and tyre rotation, and can be calculated using the aircraft mass multiplied by the amount of standing water.",
+    "d": "The hydroplaning speed of non-rotating tyres is lower, because there is a higher risk of hydroplaning immediately following wheel spin-up during touchdown."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 380,
+  "questionId": 69921,
+  "questionNumber": "321869",
+  "stemHtml": "<p>In case of an engine failure with a multi-engine aeroplane, how are the changes from V<strong><sub>X</sub></strong> to V<strong><sub>XSE</sub></strong> and from V<strong><sub>Y</sub></strong> to V<strong><sub>YSE</sub></strong>?</p>",
+  "options": {
+    "a": "V<sub>XSE</sub> is higher than V<sub>X</sub> and V<sub>YSE</sub> is lower than V<sub>Y</sub>",
+    "b": "V<sub>XSE</sub> is higher than V<sub>X</sub> and V<sub>YSE</sub> is higher than V<sub>Y</sub>",
+    "c": "V<sub>XSE</sub> is lower than V<sub>X</sub> and V<sub>YSE</sub> is lower than V<sub>Y</sub>",
+    "d": "V<sub>XSE</sub> is lower than V<sub>X</sub> and V<sub>YSE</sub> is higher than V<sub>Y</sub>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

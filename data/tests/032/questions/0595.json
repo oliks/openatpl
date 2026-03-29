@@ -1,0 +1,14 @@
+{
+  "number": 595,
+  "questionId": 70026,
+  "questionNumber": "326961",
+  "stemHtml": "<p>The take-off distance of an aircraft is 600 m in a standard atmosphere, no wind at 0 ft pressure-altitude. Using the following corrections:</p><p>\u00b1 20 m / 1000 ft field elevation <br>- 5 m / kts headwind <br>+10 m / kts tailwind <br>\u00b115 m / % runway slope <br>\u00b1 5 m / \u00b0C deviation from standard temperature.</p><p>The take-off distance from an airport at 1000 ft elevation, temperature 17\u00b0C, QNH 1013,25 hPa, 1% up-slope, 10 kts tailwind is:</p>",
+  "options": {
+    "a": "755 m",
+    "b": "555 m",
+    "c": "715 m",
+    "d": "685 m"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

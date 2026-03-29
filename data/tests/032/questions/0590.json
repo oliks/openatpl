@@ -1,0 +1,24 @@
+{
+  "number": 590,
+  "questionId": 69629,
+  "questionNumber": "324113",
+  "stemHtml": "Refer to figure or CAP file 4.24.<br />\r\nWith regard to the drift down performance of the twin jet aeroplane, why does the curve representing 35 000 kg gross mass in the chart for drift down net profiles start at approximately 4 minutes at FL370?",
+  "options": {
+    "a": "All the curves start at the same point, which is situated outside the chart.",
+    "b": "Because at this mass it takes approximately 4 minutes to decelerate to the optimum speed for drift down at the original cruising level.",
+    "c": "Due to higher TAS at this mass it takes more time to develop the optimal rate of descent, because of the inertia involved.",
+    "d": "Because at this mass the engines slow down at a slower rate after failure, there is still some thrust left during 4 minutes."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 50975,
+      "uniqueKey": "68161D60-C245-4AD4-8400-D6AB8F9D1115",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=68161D60-C245-4AD4-8400-D6AB8F9D1115",
+      "publicUrl": "/attachments/032/68161D60-C245-4AD4-8400-D6AB8F9D1115.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/68161D60-C245-4AD4-8400-D6AB8F9D1115.jpg"
+    }
+  ]
+}

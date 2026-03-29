@@ -1,0 +1,14 @@
+{
+  "number": 256,
+  "questionId": 100224,
+  "questionNumber": "323019",
+  "stemHtml": "<p>To meet the All Engines Operating landing requirements, an aircraft (Class A) must achieve a climb gradient of (1) _____, with the engines at the power or thrust that is available (2) _____ after initiation of movement of the power or thrust controls from the minimum flight idle to the go-around power or thrust setting.</p>",
+  "options": {
+    "a": "(1) 3.2%; (2) 5 seconds.",
+    "b": "<p>(1) 3.4%; (2) 10 seconds.</p>",
+    "c": "(1) 3.2%; (2) 10 seconds.",
+    "d": "(1) 3.2%; (2) 8 seconds."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

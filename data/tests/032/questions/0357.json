@@ -1,0 +1,14 @@
+{
+  "number": 357,
+  "questionId": 109061,
+  "questionNumber": "327262",
+  "stemHtml": "<p>According AMC1 CAT.POL.A.205 (\"LOSS OF RUNWAY LENGTH DUE TO ALIGNMENT\"), the length of the runway that is declared for the calculation of take-off distance available (TODA), accelerate-stop distance available (ASDA) and take-off run available (TORA) does NOT account for line-up of the aeroplane in the direction of take-off on the runway in use.</p>\r\n\r\n<p>Accountability is usually required for a (1) _____ taxiway entry to the runway and (2) _____ turnaround on the runway.</p>",
+  "options": {
+    "a": "<p>(1) 90\u00b0, (2) 90\u00b0</p>",
+    "b": "<p>(1) 90\u00b0, (2) 180\u00b0</p>",
+    "c": "<p>(1) 45\u00b0, (2) 180\u00b0</p>",
+    "d": "<p>(1) 45\u00b0, (2) 90\u00b0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

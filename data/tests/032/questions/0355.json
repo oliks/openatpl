@@ -1,0 +1,14 @@
+{
+  "number": 355,
+  "questionId": 69892,
+  "questionNumber": "323251",
+  "stemHtml": "Which of the following statements is correct regarding an unbalanced field with a range of V<strong><sub>1</sub></strong> speeds?",
+  "options": {
+    "a": "An increase in the selected V<sub>1</sub> decreases the all-engine and one-engine-out take-off distance.",
+    "b": "A reduction in the selected V<sub>1</sub> increases the acceleration-stop distance.",
+    "c": "If the selected V<sub>1</sub> is increased, the all-engine take-off distance remains unaffected.",
+    "d": "The selected V<sub>1</sub> must be equal to, or greater than, the balanced V<sub>1</sub> speed."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

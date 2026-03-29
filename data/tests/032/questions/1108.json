@@ -1,0 +1,24 @@
+{
+  "number": 1108,
+  "questionId": 96641,
+  "questionNumber": "321739",
+  "stemHtml": "<p>Refer to figure or CAP698 Figure 4.5.<br />\r\nGiven the following take-off conditions, determine the Climb Limit Brake Release Mass:</p>\r\n\r\n<p>Airport pressure altitude: 3000 ft<br />\r\nAirport OAT: 30\u00b0C<br />\r\nConfiguration: Flap 5<br />\r\nPACKS: OFF<br />\r\nEngine anti-ice: OFF</p>\r\n",
+  "options": {
+    "a": "77 900 kg",
+    "b": "64 200 kg",
+    "c": "58 000 kg",
+    "d": "<p>57 100 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 55799,
+      "uniqueKey": "7e025958-181c-41a5-a732-3e3d6fba38a2",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=7e025958-181c-41a5-a732-3e3d6fba38a2",
+      "publicUrl": "/attachments/032/7e025958-181c-41a5-a732-3e3d6fba38a2.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/7e025958-181c-41a5-a732-3e3d6fba38a2.gif"
+    }
+  ]
+}

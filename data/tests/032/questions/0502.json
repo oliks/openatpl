@@ -1,0 +1,14 @@
+{
+  "number": 502,
+  "questionId": 69931,
+  "questionNumber": "328334",
+  "stemHtml": "<p>A twin-engine piston aeroplane with all engines operating commences take-off and the following information is given:</p><p>Maximum take-off mass: 4750 kg <br>Airport elevation: 500 ft <br>Obstacle elevation: 644 ft <br>Distance from the end of the take-off distance to the obstacle: 2000 m <br>Temperature: ISA <br>QNH: 1018 hPa <br>SID: Straight departure, no specific climb requirements published</p><p>What is the regulatory minimum vertical clearance between aircraft and obstacle?</p>",
+  "options": {
+    "a": "35 ft",
+    "b": "50 ft",
+    "c": "175 ft",
+    "d": "694 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

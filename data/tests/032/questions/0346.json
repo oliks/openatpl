@@ -1,0 +1,14 @@
+{
+  "number": 346,
+  "questionId": 81898,
+  "questionNumber": "321454",
+  "stemHtml": "Delays are expected at the arrival aerodrome at which a jet transport aeroplane plans to land. By managing the en-route airspeed, the pilot can increase the flight endurance by flying at\u2026",
+  "options": {
+    "a": "minimum drag speed (V<sub>MD</sub>) at an intermediate flap configuration, due to the lower V<sub>MD</sub> speed value.",
+    "b": "<p>long Range Cruise speed (LRC), at clean configuration, which corresponds to the minimum required total thrust.</p>",
+    "c": "<p>long Range Cruise speed (LRC), at an intermediate flap configuration, due to the lower LRC speed value.</p>",
+    "d": "minimum drag speed (V<sub>MD</sub>) at clean configuration, which corresponds to the minimum required total thrust."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

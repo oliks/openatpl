@@ -1,0 +1,24 @@
+{
+  "number": 1024,
+  "questionId": 70099,
+  "questionNumber": "326559",
+  "stemHtml": "<p>Refer to figure or CAP698 file 3.7.<br>Given the following conditions</p><p>OAT: - 20\u00b0C<br>Pressure altitude: 14 000 ft<br>Gross mass: 4000 lb<br>Mixture: full rich</p><p>Other conditions as associated in the header of the graph.\u201d What is the two engine rate of climb?</p>",
+  "options": {
+    "a": "970 ft/min",
+    "b": "170 ft/min",
+    "c": "1300 ft/min",
+    "d": "1550 ft/min"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 51099,
+      "uniqueKey": "43904157-F1CD-41BB-83FF-F85A37F90A24",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=43904157-F1CD-41BB-83FF-F85A37F90A24",
+      "publicUrl": "/attachments/032/43904157-F1CD-41BB-83FF-F85A37F90A24.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/43904157-F1CD-41BB-83FF-F85A37F90A24.jpg"
+    }
+  ]
+}

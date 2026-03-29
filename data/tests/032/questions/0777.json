@@ -1,0 +1,14 @@
+{
+  "number": 777,
+  "questionId": 80369,
+  "questionNumber": "327235",
+  "stemHtml": "For a Class A aircraft, following an engine failure during take-off, what is the net take-off flight path?",
+  "options": {
+    "a": "It is the same as the gross take-off flight path as there is no margin after an engine failure.",
+    "b": "It is the actual flight path reduced by a safety margin.",
+    "c": "It is the minimum flight path to just clear the obstacles.",
+    "d": "It is the actual flight path that the aeroplane will follow."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

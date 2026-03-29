@@ -1,0 +1,24 @@
+{
+  "number": 1094,
+  "questionId": 84135,
+  "questionNumber": "327057",
+  "stemHtml": "<p>Refer to figure. <br>Given the following information, calculate the obstacle clearance for a departure on runway track from RWY 27 in a class B SEP aircraft:</p><p>Climb Gradient: 4.5% <br>TAS: 115 kt <br>Wind: 230\u00b0/14 kt <br>Height Difference = ((GD x climb gradient) / 100) x (TAS/GS) <br>1 NM = 6080 ft</p>",
+  "options": {
+    "a": "903 ft",
+    "b": "953 ft",
+    "c": "961 ft",
+    "d": "753 ft"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 50404,
+      "uniqueKey": "365257DB-E173-45B6-91C7-4670A7D6509B",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=365257DB-E173-45B6-91C7-4670A7D6509B",
+      "publicUrl": "/attachments/032/365257DB-E173-45B6-91C7-4670A7D6509B.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/365257DB-E173-45B6-91C7-4670A7D6509B.jpg"
+    }
+  ]
+}

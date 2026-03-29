@@ -1,0 +1,14 @@
+{
+  "number": 637,
+  "questionId": 161955,
+  "questionNumber": "323478",
+  "stemHtml": "<p>For a multi-engined piston aeroplane, the climb gradient from 50 ft above the take-off reference point to the cloud base is assumed to be the (1) _____ multiplied by a factor of 0.77. After entering the cloud base and no longer in VMC, the climb gradient is assumed to be the (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) all-engine climb gradient; (2) all-engine climb gradient</p>",
+    "b": "<p>(1) OEI climb gradient; (2) all-engine climb gradient</p>",
+    "c": "<p>(1) OEI climb gradient; (2) OEI climb gradient</p>",
+    "d": "<p>(1) all-engine climb gradient; (2) OEI climb gradient</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

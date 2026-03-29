@@ -1,0 +1,33 @@
+{
+  "number": 741,
+  "questionId": 84444,
+  "questionNumber": "324815",
+  "stemHtml": "<p>Refer to figures or CAP698 MRJT take-off density subgraph and file 4.9.<br>Given the following information, determine the V<strong><sub>1</sub></strong> - V<strong><sub>R</sub></strong> - V<strong><sub>2</sub></strong> speeds for an MRJT aeroplane.</p><p>Runway: 27<br>Runway slope: 0.1% DOWN<br>OAT: +42\u00b0C<br>Pressure Altitude: 111 ft<br>RTOM: 59 300 kg<br>Actual Take-Off Mass: 50 810 kg<br>W/V: 180\u00b0/10 kt<br>Flaps: 15\u00b0</p>",
+  "options": {
+    "a": "V<sub>1</sub> - 132 kt, V<sub>R</sub> - 134 kt, V<sub>2</sub> - 143 kt.",
+    "b": "V<sub>1</sub> - 146 kt, V<sub>R</sub> - 149 kt, V<sub>2</sub> - 155 kt.",
+    "c": "V<sub>1</sub> - 139 kt, V<sub>R</sub> - 140 kt, V<sub>2</sub> - 146 kt.",
+    "d": "V<sub>1</sub> - 125 kt, V<sub>R</sub> - 126 kt, V<sub>2</sub> - 135 kt."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 51344,
+      "uniqueKey": "70AE3B47-A6E6-446C-B361-C9EC6BAE5EE3",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=70AE3B47-A6E6-446C-B361-C9EC6BAE5EE3",
+      "publicUrl": "/attachments/032/70AE3B47-A6E6-446C-B361-C9EC6BAE5EE3.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/70AE3B47-A6E6-446C-B361-C9EC6BAE5EE3.png"
+    },
+    {
+      "id": 51352,
+      "uniqueKey": "7EFF2B40-E2E6-4A52-9D5F-D1BEDFE0CC13",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=7EFF2B40-E2E6-4A52-9D5F-D1BEDFE0CC13",
+      "publicUrl": "/attachments/032/7EFF2B40-E2E6-4A52-9D5F-D1BEDFE0CC13.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/7EFF2B40-E2E6-4A52-9D5F-D1BEDFE0CC13.jpg"
+    }
+  ]
+}

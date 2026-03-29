@@ -1,0 +1,14 @@
+{
+  "number": 252,
+  "questionId": 79098,
+  "questionNumber": "328728",
+  "stemHtml": "<p>Determine the Specific Range (SR), given:</p>\n\n<p>Fuel flow: 28 Imp Gal/hr  <br />  \nSpecific gravity: 0.72  <br />  \nTAS: 154 MPH</p>",
+  "options": {
+    "a": "1.67 NM air distance / kg.",
+    "b": "0.68 NM air distance / kg.",
+    "c": "1.46 NM air distance / kg.",
+    "d": "2.4 NM air distance / kg."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

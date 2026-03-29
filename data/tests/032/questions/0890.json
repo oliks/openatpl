@@ -1,0 +1,14 @@
+{
+  "number": 890,
+  "questionId": 70125,
+  "questionNumber": "325588",
+  "stemHtml": "What is the effect of a low QNH on aircraft performance at take off? It...",
+  "options": {
+    "a": "improves the climb gradient due to the lower pressure altitude.",
+    "b": "decreases the take off roll due to the lower True Air Speed TAS.",
+    "c": "increases the take off roll due to the decrease in thrust available.",
+    "d": "increases the obstacle margin due to the difference between the local QNH and 1013.2 hPa."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

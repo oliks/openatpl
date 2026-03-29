@@ -1,0 +1,14 @@
+{
+  "number": 312,
+  "questionId": 103285,
+  "questionNumber": "329119",
+  "stemHtml": "<p>The flight crew of a jet aircraft experiencing ice buildup on pitot probes during the climb fail to recognise the unreliable speed indications and opt to reduce the thrust to control the indicated airspeed (IAS). What could the potential consequence of this be?</p>",
+  "options": {
+    "a": "<p>The aircraft will be at increased risk of stalling due to the reduced thrust, exacerbating the situation.</p>",
+    "b": "<p>The autopilot will automatically detect the issue and prevent a dangerous situation from occurring.</p>",
+    "c": "<p>There will be no adverse effects as the aircraft systems are designed to compensate for such discrepancies automatically.</p>",
+    "d": "<p>The aircraft will begin descending and experience a subsequent loss of speed control.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

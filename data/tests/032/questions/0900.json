@@ -1,0 +1,14 @@
+{
+  "number": 900,
+  "questionId": 100299,
+  "questionNumber": "329860",
+  "stemHtml": "A jet aircraft is experiencing buffet whilst flying at its aerodynamic ceiling (coffin corner). What is the recommended recovery for this?",
+  "options": {
+    "a": "Maintain current thrust setting and descend. Increasing TAS is acceptable, but a decreased TAS will cause a stall.",
+    "b": "Reduce thrust, maintain IAS and descent. Any increase or decrease in IAS could increase the buffet.",
+    "c": "Reduce thrust, maintain current TAS and descend. Either increasing or decreasing TAS could cause high-speed or low-speed buffet.",
+    "d": "Maintain thrust and commence a turn at a 30\u00ba bank angle. The drag increase will cause a descent without significantly affecting the manoeuvre margins."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

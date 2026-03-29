@@ -1,0 +1,14 @@
+{
+  "number": 190,
+  "questionId": 85661,
+  "questionNumber": "325993",
+  "stemHtml": "<p>The flight crew of an MRJT aeroplane have calculated the following landing performance figures for each of the aircraft's allowable landing flap settings...</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><strong>Flap settings:</strong></td>\r\n\t\t\t<td style=\"text-align:center\"><strong>Flaps 5</strong></td>\r\n\t\t\t<td style=\"text-align:center\"><strong>Flaps 15</strong></td>\r\n\t\t\t<td style=\"text-align:center\"><strong>Flaps 30</strong></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>Landing climb limited mass:</strong></td>\r\n\t\t\t<td style=\"text-align:center\">56 430 kg</td>\r\n\t\t\t<td style=\"text-align:center\">55 500 kg</td>\r\n\t\t\t<td style=\"text-align:center\">50 300 kg</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>Approach climb limited mass:</strong></td>\r\n\t\t\t<td style=\"text-align:center\">57 400 kg</td>\r\n\t\t\t<td style=\"text-align:center\">56 140 kg</td>\r\n\t\t\t<td style=\"text-align:center\">52 740 kg</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>Runway length limited mass:</strong></td>\r\n\t\t\t<td style=\"text-align:center\">51 780 kg</td>\r\n\t\t\t<td style=\"text-align:center\">54 100 kg</td>\r\n\t\t\t<td style=\"text-align:center\">56 000 kg</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>Actual landing mass: 53450 kg<br />\r\nMaximum structural landing mass: 56000 kg</p>\r\n\r\n<p>Select the correct flap setting to use for landing.</p>\r\n",
+  "options": {
+    "a": "Flaps 5",
+    "b": "Flaps 15",
+    "c": "Flaps 30",
+    "d": "All the flap settings are compatible with this landing"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

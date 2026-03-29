@@ -1,0 +1,24 @@
+{
+  "number": 665,
+  "questionId": 84858,
+  "questionNumber": "324357",
+  "stemHtml": "<p>Refer to figure or CAP698 file 4.6. <br /> Given the following information:</p><p>Runway 06 <br /> Airport Elevation: 1500 ft <br /> QNH: 1013 hPa <br /> OAT: +35\u00b0C <br /> W/V: 060/12 <br /> Take-off configuration: Flaps 15 <br /> Tyre rating: 210 MPH <br /> Power Management Computer (PMC): ON</p><p>Find the tyre speed limit take-off mass.</p>",
+  "options": {
+    "a": "81 300 kg",
+    "b": "84 600 kg",
+    "c": "87 900 kg",
+    "d": "79 800 kg"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 52178,
+      "uniqueKey": "0E96ACAA-33C9-41A2-A656-6DE135D1568F",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=0E96ACAA-33C9-41A2-A656-6DE135D1568F",
+      "publicUrl": "/attachments/032/0E96ACAA-33C9-41A2-A656-6DE135D1568F.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/0E96ACAA-33C9-41A2-A656-6DE135D1568F.jpg"
+    }
+  ]
+}

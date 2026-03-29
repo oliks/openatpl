@@ -1,0 +1,14 @@
+{
+  "number": 592,
+  "questionId": 83345,
+  "questionNumber": "322515",
+  "stemHtml": "<p>Which option describes, for a Class B performance category single engine piston aeroplane, a restriction on determining the take-off speed V<strong><sub>R</sub></strong>?</p>",
+  "options": {
+    "a": "V<sub>R</sub> must be equal to or greater than V<sub>SO</sub>.",
+    "b": "V<sub>R</sub> must be equal to or greater than V<sub>S1</sub>.",
+    "c": "V<sub>R</sub> and V<sub>2</sub> both must be equal to or greater than V<sub>S</sub>.",
+    "d": "V<sub>R</sub> must be equal to or greater than V<sub>S</sub> and V<sub>2</sub> must be equal to or greater than 1.3 x V<sub>SO</sub>."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

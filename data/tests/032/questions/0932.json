@@ -1,0 +1,14 @@
+{
+  "number": 932,
+  "questionId": 100757,
+  "questionNumber": "322251",
+  "stemHtml": "<p>A multi-engine piston aircraft is in a constant-speed descent from 2000 feet. If the descent was started at V<strong><sub>MC</sub></strong>, at a lower altitude, the aircraft may become (1) _____ due to the (2) _____ in V<strong><sub>MC</sub></strong> with decreasing pressure altitude.</p>",
+  "options": {
+    "a": "<p>(1) controllable, (2) increase</p>",
+    "b": "(1) controllable, (2) decrease",
+    "c": "<p>(1) uncontrollable, (2) increase </p>\r\n\r\n<p> </p>",
+    "d": "(1) uncontrollable, (2) decrease"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

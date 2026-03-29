@@ -1,0 +1,14 @@
+{
+  "number": 986,
+  "questionId": 82463,
+  "questionNumber": "328120",
+  "stemHtml": "<p>CS-23 and CS-25 use the term \u201cnet take off flight path\u201d to describe certain performance elements. The net take-off flight path (Gradient) is the\u2026</p>",
+  "options": {
+    "a": "Actual flight path of the aeroplane reduced by a safety margin.",
+    "b": "Correction applied to flight path gradient to correct for non ISA conditions.",
+    "c": "Increased flight path gradient to introduce a safety margin on the flight test data.",
+    "d": "Flight path of the aeroplane with No safety margins applied."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

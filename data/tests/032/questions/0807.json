@@ -1,0 +1,14 @@
+{
+  "number": 807,
+  "questionId": 70290,
+  "questionNumber": "329979",
+  "stemHtml": "<p>Given the following values, calculate the slope of runway 34:</p><p>Runway 16 <br>ASDA = 1700 m <br>TODA = 1800 m <br>TORA = 1400 m <br>Threshold elevation = 146 ft</p><p>Runway 34 <br>ASDA = 1600 m <br>TODA = 2000 m <br>TORA = 1500 m <br>Threshold elevation 34 ft</p>",
+  "options": {
+    "a": "<p>2.44% downslope</p>",
+    "b": "<p>2.44% upslope</p>",
+    "c": "<p>2.28% downslope</p>",
+    "d": "<p>2.28% upslope</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1154,
+  "questionId": 69981,
+  "questionNumber": "326519",
+  "stemHtml": "<p>Refer to figure or CAP698 file 2.3. <br>Given the following information, what are the RoC and climb gradient?</p><p>Climb speed: 110 kt TAS <br>Gross Mass: 3100 lb <br>OAT : + 13\u00b0C <br>QNH : 1030 hpa <br>Altitude: 6000 ft</p>",
+  "options": {
+    "a": "<p>1100 ft, 9.6%</p>",
+    "b": "<p>1080 ft, 9.7%</p>",
+    "c": "<p>1140 ft, 10.6%</p>",
+    "d": "<p>1140 ft, 10.1%</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 51027,
+      "uniqueKey": "C9D4000D-0D80-4C21-976A-D3C1AB1509A8",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=C9D4000D-0D80-4C21-976A-D3C1AB1509A8",
+      "publicUrl": "/attachments/032/C9D4000D-0D80-4C21-976A-D3C1AB1509A8.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/C9D4000D-0D80-4C21-976A-D3C1AB1509A8.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 103,
+  "questionId": 70109,
+  "questionNumber": "328472",
+  "stemHtml": "<p>Refer to figure or CAP698 file 3.7.<br />\r\nGiven the conditions below</p>\r\n\r\n<p>OAT: 10\u00b0C<br />\r\nPressure altitude: 2000 ft<br />\r\nGross mass: 3750 lb<br />\r\nOther conditions as associated in the header of the graph.</p>\r\n\r\n<p>What is the one engine inoperative rate of climb?</p>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "430 ft/min",
+    "b": "500 ft/min",
+    "c": "200 ft/min",
+    "d": "890 ft/min"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 51103,
+      "uniqueKey": "547387C4-922D-4F60-8A45-127F1487AEE1",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=547387C4-922D-4F60-8A45-127F1487AEE1",
+      "publicUrl": "/attachments/032/547387C4-922D-4F60-8A45-127F1487AEE1.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/547387C4-922D-4F60-8A45-127F1487AEE1.jpg"
+    }
+  ]
+}

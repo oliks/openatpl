@@ -1,0 +1,14 @@
+{
+  "number": 379,
+  "questionId": 84337,
+  "questionNumber": "329104",
+  "stemHtml": "<p>Which of the following statements is correct regarding V<strong><sub>MBE</sub></strong>?</p>",
+  "options": {
+    "a": "It must never be lower than 1.1 x V<sub>LOF</sub> to ensure safe climb.",
+    "b": "<p>It is limited by the stall speed in take-off configuration.</p>",
+    "c": "It must never be higher than V<sub>1</sub>, in order to be able to stop within the required limits.",
+    "d": "It can be the upper limit of the V<sub>1</sub>, if a higher value of V<sub>1</sub> would go outside the safety margin."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

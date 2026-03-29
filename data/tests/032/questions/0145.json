@@ -1,0 +1,24 @@
+{
+  "number": 145,
+  "questionId": 83358,
+  "questionNumber": "324477",
+  "stemHtml": "<p>Refer to figure. <br /> Following a quick turnaround prior to the next departure after a landing, a flight crew must determine the brake cooling time before taxiing again. From the annex and the given information below, determine the brake cooling time required.</p>Airport OAT: 0\u00b0C <br /> Brake Energy: 44 (MJ) <br /> Brake Cooling Fan: Unavailable",
+  "options": {
+    "a": "42 min",
+    "b": "130 min",
+    "c": "140 min",
+    "d": "39 min"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 48188,
+      "uniqueKey": "3A671CC2-C777-4429-B0A6-C51D04906E77",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=3A671CC2-C777-4429-B0A6-C51D04906E77",
+      "publicUrl": "/attachments/032/3A671CC2-C777-4429-B0A6-C51D04906E77.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/3A671CC2-C777-4429-B0A6-C51D04906E77.png"
+    }
+  ]
+}

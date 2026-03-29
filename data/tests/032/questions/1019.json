@@ -1,0 +1,14 @@
+{
+  "number": 1019,
+  "questionId": 107894,
+  "questionNumber": "323141",
+  "stemHtml": "<p>What happens if a pilot rotates shortly before reaching V<sub><strong>R</strong></sub>?</p>",
+  "options": {
+    "a": "<p>TODR decreases due to the decrease in V<sub>LOF</sub></p>",
+    "b": "<p>TODR stays the same</p>",
+    "c": "<p>TODR increases due to the early increase in drag</p>",
+    "d": "<p>It is impossible to determine whether TODR will increase or decrease</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 456,
+  "questionId": 112076,
+  "questionNumber": "323886",
+  "stemHtml": "<p>When deciding to perform a take-off using the increased V<strong><sub>2</sub></strong> procedure, what must be taken into account?</p>",
+  "options": {
+    "a": "<p>V<sub>1</sub> and V<sub>MBE</sub> need to be re-calculated to ensure they are within limits.</p>",
+    "b": "<p>TODR will decrease but ASDR will increase.</p>",
+    "c": "<p>The reduced thrust will require a lower V<sub>1</sub> and therefore a decrease in ASDR and TODR.</p>",
+    "d": "<p>Climb gradient will be reduced.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

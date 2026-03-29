@@ -1,0 +1,14 @@
+{
+  "number": 1339,
+  "questionId": 109900,
+  "questionNumber": "328085",
+  "stemHtml": "<p>During a climb, what is the changeover altitude?</p>",
+  "options": {
+    "a": "<p>The altitude at which you switch from a climb at constant IAS to a climb at constant Mach.</p>",
+    "b": "<p>The altitude at which you pitch down in order to achieve a preselected Mach number.</p>",
+    "c": "<p>The altitude where you switch from Mach number to indicated airspeed (IAS) in a climb.</p>",
+    "d": "<p>The altitude at which the aircraft automatically transitions to cruise altitude.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

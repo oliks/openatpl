@@ -1,0 +1,14 @@
+{
+  "number": 737,
+  "questionId": 134570,
+  "questionNumber": "325112",
+  "stemHtml": "<p>Given the following information, determine the defactored landing distance for a multi-engined Performance Class B aeroplane operated for Commercial Air Transport.</p><p>Landing distance available: 1200 ft <br>Runway surface: Paved asphalt <br>Runway condition: Dry <br>Runway slope: 2% downslope <br>The landing distance should be increased by 5% for each 1% downslope</p>",
+  "options": {
+    "a": "<p>839 ft</p>",
+    "b": "<p>651 ft</p>",
+    "c": "<p>763 ft</p>",
+    "d": "<p>1001 ft</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

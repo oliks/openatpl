@@ -1,0 +1,24 @@
+{
+  "number": 616,
+  "questionId": 160325,
+  "questionNumber": "325800",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>A flight crew must determine the brake cooling time before taxiing again after landing. From the annex and the information given below, determine the brake cooling time required.</p><p>OAT: 5\u00b0C\u00a0<br>Brake Energy: 40 MJ</p>",
+  "options": {
+    "a": "<p>131 mins, without brake cooling fan.</p>",
+    "b": "<p>0 mins.</p>",
+    "c": "<p>39 mins, without brake cooling fan.</p>",
+    "d": "<p>131 mins, with brake cooling fan.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 72413,
+      "uniqueKey": "54f702e4-4144-4c54-b030-909d659f1a10",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=54f702e4-4144-4c54-b030-909d659f1a10",
+      "publicUrl": "/attachments/032/54f702e4-4144-4c54-b030-909d659f1a10.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/54f702e4-4144-4c54-b030-909d659f1a10.png"
+    }
+  ]
+}

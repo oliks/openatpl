@@ -1,0 +1,33 @@
+{
+  "number": 201,
+  "questionId": 70063,
+  "questionNumber": "327246",
+  "stemHtml": "<p>Refer to annex. <br>For the M<strong><sub>RJT1</sub></strong> aircraft calculate the take-off speeds V<strong><sub>1</sub></strong>, V<strong><sub>R</sub></strong> and V<strong><sub>2 </sub></strong>given:</p><p>Mass 60 000 kgs <br>PA: 1500 ft <br>OAT: +25\u00b0C <br>Flaps: 5\u00b0 <br>5 kts TW <br>1% downslope</p>",
+  "options": {
+    "a": "V<sub>1</sub>=143, V<sub>R</sub>=146, V<sub>2</sub>=153",
+    "b": "V<sub>1</sub>=143, V<sub>R</sub>=148, V<sub>2</sub>=155",
+    "c": "V<sub>1</sub>=145, V<sub>R</sub>=148, V<sub>2</sub>=155",
+    "d": "V<sub>1</sub>=145, V<sub>R</sub>=147, V<sub>2</sub>=155"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 26653,
+      "uniqueKey": "4DB8CE6C-C7D8-40B5-B90A-4AAFA837D27C",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4DB8CE6C-C7D8-40B5-B90A-4AAFA837D27C",
+      "publicUrl": "/attachments/032/4DB8CE6C-C7D8-40B5-B90A-4AAFA837D27C.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/4DB8CE6C-C7D8-40B5-B90A-4AAFA837D27C.gif"
+    },
+    {
+      "id": 26654,
+      "uniqueKey": "2A2C979C-B093-48C8-B006-E8EE5930E325",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=2A2C979C-B093-48C8-B006-E8EE5930E325",
+      "publicUrl": "/attachments/032/2A2C979C-B093-48C8-B006-E8EE5930E325.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/2A2C979C-B093-48C8-B006-E8EE5930E325.gif"
+    }
+  ]
+}

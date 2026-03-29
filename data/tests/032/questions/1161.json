@@ -1,0 +1,14 @@
+{
+  "number": 1161,
+  "questionId": 103061,
+  "questionNumber": "327961",
+  "stemHtml": "<p>How would you calculate \"excess thrust required\" in a descent at constant speed?</p>",
+  "options": {
+    "a": "<p>Thrust minus Lift</p>",
+    "b": "<p>Lift minus Drag</p>",
+    "c": "<p>Thrust minus Drag</p>",
+    "d": "<p>Drag minus Thrust</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

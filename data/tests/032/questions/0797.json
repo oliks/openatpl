@@ -1,0 +1,24 @@
+{
+  "number": 797,
+  "questionId": 84096,
+  "questionNumber": "324764",
+  "stemHtml": "<p>Refer to figure or CAP 698 file 4.6. <br>Given the following information:</p><ul><li>Outside air temperature: 25\u00b0C</li><li>Pressure altitude: 7000 ft</li><li>Tailwind component: 3 kt</li><li>Flaps: 5\u00b0</li><li>PMC: OFF</li></ul><p>Find the FLAPS 5 TYRE SPEED LIMIT MASS for an aircraft which is fitted with 210 mph tyres.</p>",
+  "options": {
+    "a": "73 050 kg",
+    "b": "56 850 kg",
+    "c": "57 900 kg",
+    "d": "59 450 kg"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 50234,
+      "uniqueKey": "2660AE53-EA93-45B6-8EB5-FDE0BCCC2989",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=2660AE53-EA93-45B6-8EB5-FDE0BCCC2989",
+      "publicUrl": "/attachments/032/2660AE53-EA93-45B6-8EB5-FDE0BCCC2989.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/2660AE53-EA93-45B6-8EB5-FDE0BCCC2989.jpg"
+    }
+  ]
+}

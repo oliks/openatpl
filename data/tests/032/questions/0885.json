@@ -1,0 +1,14 @@
+{
+  "number": 885,
+  "questionId": 84439,
+  "questionNumber": "328423",
+  "stemHtml": "In the CS-25 specifications V<sub><strong>REF</strong></sub> must not be lower than the greater of 1.23 V<sub><strong>SR0</strong></sub>, V<sub><strong>MCL</strong></sub> or any other speed that provides a minimum level of controllability. In this context, V<sub><strong>SR0</strong></sub> is a speed NOT less than...",
+  "options": {
+    "a": "the stall speed in a specific configuration where the aeroplane remains controllable and possible to recover.",
+    "b": "the minimum steady flight speed at which the aeroplane is controllable when in the landing configuration.",
+    "c": "the speed when the aeroplane shows the distinctive behaviour associated with defining a stall, when in the landing configuration.",
+    "d": "the speed when the aeroplane, in landing configuration, reaches CLMAX and the load factor is equal to or greater than 1."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

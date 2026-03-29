@@ -1,0 +1,14 @@
+{
+  "number": 534,
+  "questionId": 69935,
+  "questionNumber": "322063",
+  "stemHtml": "Consider a climb with a piston engine aeroplane. What will happen to the fuel flow if the pilot maintains the same power setting?",
+  "options": {
+    "a": "The temperature decreases and thereby compensates for the decreasing air density which is caused by the decreasing pressure. Therefore the fuel flow remains the same.",
+    "b": "The temperature decreases and thereby over-compensates for the decreasing air density which is caused by the decreasing pressure. This results in a decreasing fuel flow.",
+    "c": "With increasing altitude air density decreases and the power output of the engine decreases. This has to be compensated for by an increased fuel flow.",
+    "d": "With increasing altitude air density decreases, therefore less fuel is required for combustion, so the fuel flow decreases."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

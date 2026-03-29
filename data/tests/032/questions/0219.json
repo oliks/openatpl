@@ -1,0 +1,24 @@
+{
+  "number": 219,
+  "questionId": 96374,
+  "questionNumber": "322853",
+  "stemHtml": "<p>Refer to figure. <br /> Determine the time, distance, and fuel required to descend to the drift-down altitude using the attached table. Consider the following data:</p><p>Altitude at engine failure: 39 000 ft <br /> Weight at engine failure: 36 000 Ib</p>",
+  "options": {
+    "a": "30 min; 150 NM; 800 Ib",
+    "b": "36 min; 140 NM; 760 Ib",
+    "c": "32 min; 145 NM; 740 Ib",
+    "d": "34 min; 156 NM; 830 Ib"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 55605,
+      "uniqueKey": "8a0a8eac-b01f-46f5-8530-8bc7d42b8892",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8a0a8eac-b01f-46f5-8530-8bc7d42b8892",
+      "publicUrl": "/attachments/032/8a0a8eac-b01f-46f5-8530-8bc7d42b8892.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/032/8a0a8eac-b01f-46f5-8530-8bc7d42b8892.jpg"
+    }
+  ]
+}
