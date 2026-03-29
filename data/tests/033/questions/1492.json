@@ -1,0 +1,24 @@
+{
+  "number": 1492,
+  "questionId": 83066,
+  "questionNumber": "332694",
+  "stemHtml": "<p>Refer to figure Jeppesen GSPRM Training Route Manual - Chart \"E(LO) 2\".<br>An aircraft is planned to fly from the reporting point NORBO (N55\u00b036', W004\u00b046') to Dean Cross DME (DCS) (N54\u00b043', W003\u00b020') along airway T256. Select the appropriate magnetic course(s) and distances(s) to be entered into the navigation flight plan.</p>",
+  "options": {
+    "a": "NORBO - T256 - DCS: 144\u00b0, 61 NM. It changes into 136 M along T256 after NGY.",
+    "b": "NORBO - T256 - NGY: 144\u00b0, 32 NM and NGY - T256 - DCS: 136\u00b0, 39 NM.",
+    "c": "NORBO - T256 - DCS: 144\u00b0, 68 NM.",
+    "d": "NORBO - T256 - OSMEG: 144\u00b0, 35 NM and OSMEG - T256 - DCS: 136\u00b0, 36 NM."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 45420,
+      "uniqueKey": "21EDF1A3-B6B7-460E-9E77-17C0F8CA9742",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=21EDF1A3-B6B7-460E-9E77-17C0F8CA9742",
+      "publicUrl": "/attachments/033/21EDF1A3-B6B7-460E-9E77-17C0F8CA9742.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/21EDF1A3-B6B7-460E-9E77-17C0F8CA9742.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 913,
+  "questionId": 70691,
+  "questionNumber": "335856",
+  "stemHtml": "<p>Given the following information for a Commercial Air Transport operation, calculate the maximum possible Extra Fuel, including any fuel penalty, that can be uplifted.</p><p>MTOM: 233 000 kg <br>MLM: 182 000 kg <br>MZFM: 170 000 kg <br>DOM: 122 550 kg <br>Traffic Load: 35 367 kg <br>Trip Fuel: 62 332 kg <br>Planned T/O Fuel: 67 885 kg <br>Taxi Fuel: 300 kg <br>Fuel penalty for carrying Extra Fuel: 394 kg per 1000 kg of Extra Fuel <br>Fuel tank capacity: 110 000 kg</p>",
+  "options": {
+    "a": "<p>18 530 kg</p>",
+    "b": "7198 kg",
+    "c": "6898 kg",
+    "d": "<p>12 751 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

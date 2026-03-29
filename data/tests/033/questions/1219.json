@@ -1,0 +1,24 @@
+{
+  "number": 1219,
+  "questionId": 70694,
+  "questionNumber": "335355",
+  "stemHtml": "<p>Refer to figure.<br>Given the following information, determine the Trip Fuel for a Commercial Air Transport flight with a turbine engined aeroplane. Consider that the flight is planned without a destination alternate, and that the landing at destination is planned with the minimum regulatory fuel on touchdown.</p><p>Trip Distance: 350 NM<br>Total Fuel Flow for Holding Planning: 4000 kg/h<br>Zero Fuel Mass ZFM: 53 000 kg<br>Average Wind Component: 25 kt Headwind<br>No Additional Fuel is required.<br>No Extra Fuel is required.</p><p>The flight is to be planned according to the basic fuel policy procedure.</p>",
+  "options": {
+    "a": "2300 kg",
+    "b": "2400 kg",
+    "c": "3000 kg",
+    "d": "2200 kg"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 54200,
+      "uniqueKey": "7F41F49A-BE88-4131-9613-11125F6F589C",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=7F41F49A-BE88-4131-9613-11125F6F589C",
+      "publicUrl": "/attachments/033/7F41F49A-BE88-4131-9613-11125F6F589C.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7F41F49A-BE88-4131-9613-11125F6F589C.jpg"
+    }
+  ]
+}

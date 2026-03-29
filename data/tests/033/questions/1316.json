@@ -1,0 +1,24 @@
+{
+  "number": 1316,
+  "questionId": 82920,
+  "questionNumber": "331004",
+  "stemHtml": "<p>Refer to figure or E(LO)6 chart from the Jeppesen GSPRM 2017. What is the best route for an aircraft flying from VALENCIA (VLC) VOR/DME (39\u00b0 29'N, 000\u00b0 29'W) to ALMERIA (AMR) VOR/DME (36\u00b0 49'N, 002\u00b0 15'W) with the LE(R)-63 not activated?</p>",
+  "options": {
+    "a": "VLC - A34 - ALT - D - AMR",
+    "b": "VLC - G850 - AMR",
+    "c": "VLC - B28 - R47- BLN - M192 - AMR",
+    "d": "<p>VLC - A34 - ALT - W810 - VSJ - W820 - AMR</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 45080,
+      "uniqueKey": "427DE58A-E290-4F93-8660-3EABBAB97417",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=427DE58A-E290-4F93-8660-3EABBAB97417",
+      "publicUrl": "/attachments/033/427DE58A-E290-4F93-8660-3EABBAB97417.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/427DE58A-E290-4F93-8660-3EABBAB97417.jpg"
+    }
+  ]
+}

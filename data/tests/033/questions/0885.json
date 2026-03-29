@@ -1,0 +1,14 @@
+{
+  "number": 885,
+  "questionId": 81870,
+  "questionNumber": "331625",
+  "stemHtml": "What is an advantage of using GNSS FMC equipment in flight?",
+  "options": {
+    "a": "In-flight weather is more easily detected and avoided.",
+    "b": "The aircraft systems require less data from the Air Data Computer.",
+    "c": "There is NO need for a route check as this is an automatic function.",
+    "d": "<p>Updated wind to keep ETA prediction and remaining fuel calculation accurate.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

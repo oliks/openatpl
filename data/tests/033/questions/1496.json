@@ -1,0 +1,14 @@
+{
+  "number": 1496,
+  "questionId": 70461,
+  "questionNumber": "337621",
+  "stemHtml": "<p>During the validity period of the NOTAM given below, what route shall be filed in the ATS flight plan for an aircraft that is RNAV equipped and has EDDH as the destination?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q) EDGG/QANLC/I/NBO/E/245/660/5140N00746E020 B) FROM: 15/12/18 14:20 C) TO: 16/03/18 23:59 EST E) RNAV-ROUTE UZ907 BTN ABAMI AND OSDIK NOT AVBL FOR DEST EDDV, EDDH, EDHI, EDHL, EDHK, EDDW, EDWB, EDWE, EDWI. THESE FLIGHTS SHALL FILE ABAMI UM170 OSN.</span></p>",
+  "options": {
+    "a": "UM170 from ABAMI to OSDIK.",
+    "b": "UM170 from ABAMI to OSN.",
+    "c": "UZ907 from ABAMI to OSDIK.",
+    "d": "UZ907 from ABAMI to OSN."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 329,
+  "questionId": 70828,
+  "questionNumber": "335837",
+  "stemHtml": "<p>For an IFR flight from the departure aerodrome A to the destination aerodrome B, the reduced contingency fuel has been applied, considering a Decision Point DP and an optional refuel destination C. Given the following information, how much Trip Fuel is required?</p>\r\r<p>Distance from A to B: 2100 NM <br /> \rDistance from A to C: 1150 NM <br /> \rDistance from A to DP: 980 NM <br /> \rTAS: 410 kt <br /> \rFuel flow: 2800 kg/h <br /> \rTailwind Component: 12 kt</p>",
+  "options": {
+    "a": "<p>6502 kg</p>",
+    "b": "<p>13 934 kg</p>",
+    "c": "<p>7630 kg</p>",
+    "d": "<p>14 341 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

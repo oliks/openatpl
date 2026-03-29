@@ -1,0 +1,24 @@
+{
+  "number": 778,
+  "questionId": 107878,
+  "questionNumber": "337203",
+  "stemHtml": "<p>Refer to figure or Tromso, Norway (ENTC) SID chart 10-3A from the Jeppesen GSPRM 2017.<br>According to your calculations, your aircraft can climb with a gradient of 6.5% up to 4000 ft. Considering your aircraft's performance, which route should you take when departing from Tromso?</p>",
+  "options": {
+    "a": "<p>TC707, TC708, TC710, LOMVI with a speed restriction of 185 kt up to TC707</p>",
+    "b": "<p>TC707, TC708, TC710, LOMVI with a speed restriction of 185 kt up to TC708</p>",
+    "c": "<p>TC707, TC704, TC706, BAREG with a speed restriction of 185 kt up to TC707 then 210 kt up to TC704</p>",
+    "d": "<p>TC707, TC704, TC706, BAREG with a speed restriction of 210 kt up to TC704</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 63076,
+      "uniqueKey": "1aada191-3466-4433-a3e4-a836489057ab",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=1aada191-3466-4433-a3e4-a836489057ab",
+      "publicUrl": "/attachments/033/1aada191-3466-4433-a3e4-a836489057ab.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1aada191-3466-4433-a3e4-a836489057ab.jpg"
+    }
+  ]
+}

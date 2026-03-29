@@ -1,0 +1,14 @@
+{
+  "number": 1148,
+  "questionId": 79130,
+  "questionNumber": "331289",
+  "stemHtml": "<p>Provided that safe altitude in respect of MOCA is maintained while cruising at FL90, determine the True Altitude.</p><p>Given:</p><p>MOCA: 5600 ft <br>QNH: 1002 hPa <br>Airport elevation: 2480 ft <br>OAT: ISA-10\u00b0C <br>Assume 1 hPa/30 ft.</p>",
+  "options": {
+    "a": "<p>8420 ft.</p>",
+    "b": "<p>8670 ft.</p>",
+    "c": "<p>8920 ft.</p>",
+    "d": "<p>9330 ft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

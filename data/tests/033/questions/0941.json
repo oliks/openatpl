@@ -1,0 +1,33 @@
+{
+  "number": 941,
+  "questionId": 70526,
+  "questionNumber": "333676",
+  "stemHtml": "<p>Refer to figures.\u00a0<br>Assuming a departure/destination fuel price ratio of 0.91, the commander decides to optimize fuel tankering by using the following data:</p><p>Cruise flight level: FL 350\u00a0<br>Air distance to be covered: 2500 NM\u00a0<br>Planned take-off mass: 200 000 kg (with the minimum prescribed fuel quantity of 38 000 kg that includes a trip fuel of 29 000 kg)\u00a0<br>Maximum Landing Mass: 180 000 kg\u00a0<br>Maximum Take-off Mass: 205 000 kg\u00a0<br>Maximum tank capacity: 40 000 kg</p><p>The additional fuel quantity will be\u2026</p>",
+  "options": {
+    "a": "<p>3000 kg</p>",
+    "b": "0 kg",
+    "c": "<p>4000 kg</p>",
+    "d": "<p>2000 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 60713,
+      "uniqueKey": "869f73ae-3890-416c-8a1d-621798904e5c",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=869f73ae-3890-416c-8a1d-621798904e5c",
+      "publicUrl": "/attachments/033/869f73ae-3890-416c-8a1d-621798904e5c.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/869f73ae-3890-416c-8a1d-621798904e5c.jpg"
+    },
+    {
+      "id": 60714,
+      "uniqueKey": "abdcf846-d37d-4ebf-83c4-efdbc188f541",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=abdcf846-d37d-4ebf-83c4-efdbc188f541",
+      "publicUrl": "/attachments/033/abdcf846-d37d-4ebf-83c4-efdbc188f541.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/abdcf846-d37d-4ebf-83c4-efdbc188f541.jpg"
+    }
+  ]
+}

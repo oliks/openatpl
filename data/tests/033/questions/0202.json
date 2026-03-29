@@ -1,0 +1,24 @@
+{
+  "number": 202,
+  "questionId": 108623,
+  "questionNumber": "338304",
+  "stemHtml": "<p>Refer to figure or Chart \"E(LO) 13\" from Jeppesen GSPRM 2017. <br>You are flying from Elba VOR (ELB, N42\u00b043' E010\u00b023') to Bastia VOR (BTA, N42\u00b034' E009\u00b028'). When and who should you contact for authorisation to enter the next FIR, if it has not yet been provided?</p>",
+  "options": {
+    "a": "<p>AT or BEFORE waypoint MOULE, contact Marseille on 130.955.</p>",
+    "b": "<p>AT waypoint XOPTA, contact Marseille on 130.955.</p>",
+    "c": "<p>AFTER waypoint MOULE, contact Marseille on 133.800.</p>",
+    "d": "<p>AT BTA VOR, contact Marseille on 133.800.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 64291,
+      "uniqueKey": "c7d152c3-e097-4667-abc8-956409d625b2",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=c7d152c3-e097-4667-abc8-956409d625b2",
+      "publicUrl": "/attachments/033/c7d152c3-e097-4667-abc8-956409d625b2.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c7d152c3-e097-4667-abc8-956409d625b2.jpg"
+    }
+  ]
+}

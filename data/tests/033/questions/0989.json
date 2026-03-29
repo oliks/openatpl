@@ -1,0 +1,24 @@
+{
+  "number": 989,
+  "questionId": 159118,
+  "questionNumber": "333670",
+  "stemHtml": "<p>Refer to figure. <br>The annex shows a typical fuel plan with operational impact factors as produced by a flight planning tool. When arriving at the plane the commander is informed that some additional cargo has been loaded. This extra weight means that the aeroplane is NOT to reach its planned cruising level. Use the data below to determine the revised trip fuel.</p><p>Cargo: +1350 kg <br>Cruising level: -2000 ft <br>Cruising speed according to the flight plan</p>",
+  "options": {
+    "a": "<p>15 237 kg</p>",
+    "b": "<p>15 132 kg</p>",
+    "c": "<p>14 720 kg</p>",
+    "d": "<p>15 190 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 71718,
+      "uniqueKey": "50038ee2-0bf9-4318-9f49-4254ec3ded71",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=50038ee2-0bf9-4318-9f49-4254ec3ded71",
+      "publicUrl": "/attachments/033/50038ee2-0bf9-4318-9f49-4254ec3ded71.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/50038ee2-0bf9-4318-9f49-4254ec3ded71.png"
+    }
+  ]
+}

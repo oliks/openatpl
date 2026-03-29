@@ -1,0 +1,14 @@
+{
+  "number": 1477,
+  "questionId": 82031,
+  "questionNumber": "336617",
+  "stemHtml": "For non-augmented GNSS operations, why must the availability of the GNSS service be checked before use?",
+  "options": {
+    "a": "Non-augmented GNSS operations must be registered with the service provider in advance.",
+    "b": "The GNSS receiver must be programmed with the availability check.",
+    "c": "There is NO indication on the flight deck in the case of the loss of a required satellite signal.",
+    "d": "Only specific satellites produce the required signals for non-augmented operations."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

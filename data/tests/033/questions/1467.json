@@ -1,0 +1,14 @@
+{
+  "number": 1467,
+  "questionId": 84368,
+  "questionNumber": "339686",
+  "stemHtml": "<p>Given the following NOTAM, what is its validity period?</p>\r\n\r\n<p>Q) EGPX/QMRLC/IV/NBO/A/000/999/5557N00322W005 B) FROM: 15/01/01 21:30 C) TO: 15/03/31 21:30 E) RWY 12/30 CLOSED TP FIXED WING AIRCRAFT, ROTOR AIRCRAFT CAN USE THE HELICOPTER AIMING POINT (HAP) DURING DAYLIGHT HOURS.</p>\r\n",
+  "options": {
+    "a": "1 year",
+    "b": "24 hours",
+    "c": "<p>3 months</p>",
+    "d": "48 hours"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

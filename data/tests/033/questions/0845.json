@@ -1,0 +1,14 @@
+{
+  "number": 845,
+  "questionId": 101382,
+  "questionNumber": "337554",
+  "stemHtml": "<p>An aircraft is flying at FL80, where the OAT is ISA - 18\u00b0C. The QNH given by a meteorological station with an elevation of 300 ft AMSL is 1020 hPa. Calculate the approximate True Altitude of the aircraft.</p><p>Assume 1 hPa = 30 ft.</p>",
+  "options": {
+    "a": "<p>7735 ft</p>",
+    "b": "<p>7640 ft</p>",
+    "c": "<p>8210 ft</p>",
+    "d": "<p>8780 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

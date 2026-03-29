@@ -1,0 +1,14 @@
+{
+  "number": 62,
+  "questionId": 81713,
+  "questionNumber": "334797",
+  "stemHtml": "What is an LPV approach?",
+  "options": {
+    "a": "<p>An SBAS-augmented GNSS approach providing localizer performance with vertical guidance.</p>",
+    "b": "An approach with LNAV minima that is flown using the CDFA technique.",
+    "c": "An approach with vertical guidance based only on BaroVNAV.",
+    "d": "An approach with LNAV/VNAV minima in reference with ground based facility."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

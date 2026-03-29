@@ -1,0 +1,14 @@
+{
+  "number": 462,
+  "questionId": 82600,
+  "questionNumber": "335070",
+  "stemHtml": "Your vertical autopilot guidance is down, you choose to do LNAV instead of LNAV/VNAV. This final is...",
+  "options": {
+    "a": "precision with 3D guidance.",
+    "b": "non-precision with 3D guidance.",
+    "c": "<p>precision with 2D guidance.</p>",
+    "d": "non-precision with 2D guidance."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 167,
+  "questionId": 70447,
+  "questionNumber": "339534",
+  "stemHtml": "<p>Refer to figure. <br /> The information below is taken from the route section of an ICAO ATS Flight Plan. Determine the speed flown between the waypoints PINEK and BEGAS.</p><p>N0441F360 VASTO UN858 AKUDA DCT PINEK/N0451F380 DCT BEGAS/M077F380 T9 LASNO/M077F370 DCT EMPER/N0440F370 DCT ELTIG DCT BUNED BUNED1X</p>",
+  "options": {
+    "a": "380 knots TAS",
+    "b": "441 knots TAS",
+    "c": "451 knots TAS",
+    "d": "Mach 0.77"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 47814,
+      "uniqueKey": "65C61BFD-5F06-43DD-BFD9-C903DACAAD5A",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=65C61BFD-5F06-43DD-BFD9-C903DACAAD5A",
+      "publicUrl": "/attachments/033/65C61BFD-5F06-43DD-BFD9-C903DACAAD5A.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/65C61BFD-5F06-43DD-BFD9-C903DACAAD5A.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 933,
+  "questionId": 71018,
+  "questionNumber": "334208",
+  "stemHtml": "<p>A flight has been diverted off the planned route due to the bad weather. ATC clears the flight to re-join the planned route at TUSKA. The pilot wishes to decide early, if there is enough fuel to safely complete the flight or if a fuel diversion is needed, so he/she checks the fuel at 18:06 UTC. Following the data, what is minimum fuel required at 18:06 UTC to complete the planned flight?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Minimum fuel at TUSKA to complete the flight: 144 litres</span>  <br />  \nAverage fuel flow: 45 kg/h  <br />  \nETO TUSKA: 18:43 UTC  <br />  \nFuel density: 0.72 kg/lt</p>",
+  "options": {
+    "a": "164 litres",
+    "b": "183 litres",
+    "c": "105 litres",
+    "d": "172 litres"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 123,
+  "questionId": 82302,
+  "questionNumber": "333974",
+  "stemHtml": "Refer to figure. <br /> Select the correct option regarding NOTAM A1557/14:",
+  "options": {
+    "a": "The coordinates provided make up a zone where cranes are within.",
+    "b": "The coordinates are for each crane.",
+    "c": "The cranes form an H pattern (according to their coordinates).",
+    "d": "The coordinates are from each crane and the cranes are 160 ft MSL."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 54796,
+      "uniqueKey": "fda75e55-3657-401c-92cb-0e8505fd787e",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=fda75e55-3657-401c-92cb-0e8505fd787e",
+      "publicUrl": "/attachments/033/fda75e55-3657-401c-92cb-0e8505fd787e.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/fda75e55-3657-401c-92cb-0e8505fd787e.jpg"
+    }
+  ]
+}

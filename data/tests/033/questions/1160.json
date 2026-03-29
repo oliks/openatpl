@@ -1,0 +1,24 @@
+{
+  "number": 1160,
+  "questionId": 163903,
+  "questionNumber": "335617",
+  "stemHtml": "<p>Refer to figure.<br>According to the flight plan/log, the aircraft was airborne at 14:05. When it arrives overhead position Cerignola at 14:53, the pilot updates the navigation log accordingly with the actual data, while monitoring the flight progress. Where should the times 14:53 and 15:13 be entered?</p>",
+  "options": {
+    "a": "<p>The time of 14:53 should be entered into position 3 and the difference between positions 1 and 3 is added to 14:53 and entered into position 4.</p>",
+    "b": "<p>The time of 14:53 should be entered into position 3 and the difference between positions 2 and 3 is added to 14:53 and entered into position 4.</p>",
+    "c": "<p>The time of 14:53 should be entered into position 2 and the time of 15:41 should be entered into position 3 for the next ATO.</p>",
+    "d": "<p>The time of 14:53 should be entered into position 3 and the time of 15:13 should be entered into position 4 for the ETO at Bari.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 73311,
+      "uniqueKey": "8fbb9dc5-9507-4ccd-ae5d-17ed0e6692af",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8fbb9dc5-9507-4ccd-ae5d-17ed0e6692af",
+      "publicUrl": "/attachments/033/8fbb9dc5-9507-4ccd-ae5d-17ed0e6692af.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8fbb9dc5-9507-4ccd-ae5d-17ed0e6692af.png"
+    }
+  ]
+}

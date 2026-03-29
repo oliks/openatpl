@@ -1,0 +1,24 @@
+{
+  "number": 1012,
+  "questionId": 83663,
+  "questionNumber": "331568",
+  "stemHtml": "<p>Refer to figure or VFR chart ED-4 from the Jeppesen GSPRM 2017. <br>Considering the following scenario, select the correct statement. In the Item 8 \"FLIGHT RULES\" the letter \"Z\" has been inserted in an ATC flight plan of a VFR departure from the Lahr aerodrome (EDTL, N48 22\u2019 E07 50\u2019). Enroute to the compulsory VFR reporting point \"ECHO\" in VMC conditions , the pilot requests IFR clearance. The ATC controller verifies the departing aircraft's transponder code, confirms a positive radar identification and provides the IFR clearance with further instructions, with the aircraft still being in VMC at 1500 ft AGL.</p>",
+  "options": {
+    "a": "<p>In VMC conditions while flying IFR inside controlled airspace the Pilot-in-Command is solely responsible for terrain separation.</p>",
+    "b": "<p>When issuing an IFR clearance inside controlled airspace, the ATC controller is responsible for providing terrain separation.</p>",
+    "c": "<p>The ATC flight plan should have been filled with the letter I (for IFR) in item 8.</p>",
+    "d": "<p>IFR flight inside class E airspace is NOT allowed.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 49248,
+      "uniqueKey": "07D65714-C97F-4DE1-BFB2-5CC0E89367F4",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=07D65714-C97F-4DE1-BFB2-5CC0E89367F4",
+      "publicUrl": "/attachments/033/07D65714-C97F-4DE1-BFB2-5CC0E89367F4.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/07D65714-C97F-4DE1-BFB2-5CC0E89367F4.jpg"
+    }
+  ]
+}

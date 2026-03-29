@@ -1,0 +1,24 @@
+{
+  "number": 639,
+  "questionId": 70783,
+  "questionNumber": "333638",
+  "stemHtml": "<p>Refer to figure.</p>\r\n\r\n<p>Given the following informationfrom Item 15 of an ATS Flight Plan, what information is shown for position BEDRA?</p>\r\n\r\n<p>N0476F340 MODRU Z717 GOBNO UZ717 MAS UM617 SOGRI UL608 DENUT UL610 GILDA UL620 SAM/N0472F360 UN20 GAPLI/M081F360 DCT BEDRA/M081F380 DCT 48N020W 46N030W 44N040W 40N050W 36N060W/M081F400 DCT BALOO DCT ANTIG M328 SLEMA DCT ZFP/N0466F400 BR70V TURBO AR10 DHP J79 EYW DCT CANOA UB646 VINKA UB879 CUN DCT</p>",
+  "options": {
+    "a": "The temperature forecast is minus 81\u00b0 F.",
+    "b": "The planned level changes from FL340 to FL380.",
+    "c": "The speed is planned at Mach 0.81.",
+    "d": "The aircraft may be cleared direct to CUN from BEDRA."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 47797,
+      "uniqueKey": "AEC249E2-F3D8-4BE6-9B53-AE4D761988DB",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=AEC249E2-F3D8-4BE6-9B53-AE4D761988DB",
+      "publicUrl": "/attachments/033/AEC249E2-F3D8-4BE6-9B53-AE4D761988DB.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/AEC249E2-F3D8-4BE6-9B53-AE4D761988DB.png"
+    }
+  ]
+}

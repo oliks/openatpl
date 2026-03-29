@@ -1,0 +1,14 @@
+{
+  "number": 17,
+  "questionId": 78849,
+  "questionNumber": "334663",
+  "stemHtml": "<p>A mountain 6011 ft AMSL will be crossed. What is the lowest VFR ICAO level the aircraft must fly to obtain a clearance of 2000 ft?</p><p>Given:</p><p>Variation: 10\u00b0W <br>Aircraft's Track: 356\u00b0T <br>Aircraft's HDG: 355\u00b0M <br>QNH: 990 hPa <br><i>Assume 1 hPa = 30 ft</i></p>",
+  "options": {
+    "a": "FL085",
+    "b": "FL090",
+    "c": "FL095",
+    "d": "FL115"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1347,
+  "questionId": 70625,
+  "questionNumber": "332872",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">CAS: 190 kt</span>  <br />  \nAltitude: 9000 ft  <br />  \nTemperature: ISA -10\u00b0 C  <br />  \nTrue Course TC: 350\u00b0  <br />  \nW/V: 320/40  <br />  \nDistance from departure to destination: 350 NM  <br />  \nEndurance: 3 hours  <br />  \nActual time of departure: 11:05 UTC</p>\n\n<p>The distance from departure to Point of Equal Time PET is:</p>\n\n<div> </div>",
+  "options": {
+    "a": "203 NM",
+    "b": "167 NM",
+    "c": "183 NM",
+    "d": "147 NM"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

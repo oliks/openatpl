@@ -1,0 +1,14 @@
+{
+  "number": 1215,
+  "questionId": 81815,
+  "questionNumber": "338742",
+  "stemHtml": "<p>An aircraft is routing in IMC towards Aberdeen aerodrome from the south-east, where the Minimum Sector Altitude (MSA) is 2500 feet. While routing towards the ATF NDB at 3000 feet on the Aberdeen QNH, the following instruction is received by the pilot from the Approach Radar controller:</p>\r\n\r\n<p>\u2018\u2019Turn left, heading 285 degrees, descend 2300 feet. Radar vectors for the ILS Runway 34\u2019\u2019.</p>\r\n\r\n<p>The pilot should\u2026</p>",
+  "options": {
+    "a": "Turn left to head 285\u00b0(T) and descend to 2500 feet altitude, because this is the MSA. Inform the controller about the change.",
+    "b": "Maintain heading and altitude, and request new descent instructions, because 2300 feet is below MSA.",
+    "c": "Turn left to head 285\u00b0(M) and descend to 2300 feet. The minimum radar vectoring altitude may be below MSA.",
+    "d": "Turn left to head 285\u00b0(M) but maintain 3000 feet and request new descent instructions, because 2300 feet is below MSA."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

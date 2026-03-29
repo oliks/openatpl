@@ -1,0 +1,24 @@
+{
+  "number": 126,
+  "questionId": 70686,
+  "questionNumber": "333912",
+  "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.5.3.1.</p><p>Given:</p><p>Long range cruise Outside air temperature OAT: -45\u00b0C in FL350 <br>Mass at the beginning of the leg: 40 000 kg <br>Mass at the end of the leg: 39 000 kg</p><p>Find the true airspeed TAS and the distance NAM for the twin engine aeroplane.</p>",
+  "options": {
+    "a": "TAS 423 kts, 936 NAM",
+    "b": "TAS 423 kts, 227 NAM",
+    "c": "TAS 431 kts, 1 163 NAM",
+    "d": "TAS 433 kts, 227 NAM"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 21051,
+      "uniqueKey": "B873B96F-FADD-4F78-A3F3-FEFAF1C5EB13",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=B873B96F-FADD-4F78-A3F3-FEFAF1C5EB13",
+      "publicUrl": "/attachments/033/B873B96F-FADD-4F78-A3F3-FEFAF1C5EB13.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/B873B96F-FADD-4F78-A3F3-FEFAF1C5EB13.gif"
+    }
+  ]
+}

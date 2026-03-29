@@ -1,0 +1,24 @@
+{
+  "number": 585,
+  "questionId": 70698,
+  "questionNumber": "335542",
+  "stemHtml": "<p>Refer to figure. <br>Given the following information about a Commercial Air Transport flight, what is the required Taxi Fuel?</p><p>Expected taxi time: 10 min <br>APU: ON for 10 min <br>Company policy: For flight planning purposes, Taxi Fuel shall be calculated as at least 60 kg.</p>",
+  "options": {
+    "a": "55 kg",
+    "b": "70 kg",
+    "c": "60 kg",
+    "d": "75 kg"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 52549,
+      "uniqueKey": "6D815C58-C7AB-4407-BF1C-87DC81070C80",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6D815C58-C7AB-4407-BF1C-87DC81070C80",
+      "publicUrl": "/attachments/033/6D815C58-C7AB-4407-BF1C-87DC81070C80.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/6D815C58-C7AB-4407-BF1C-87DC81070C80.jpg"
+    }
+  ]
+}

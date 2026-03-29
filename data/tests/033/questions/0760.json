@@ -1,0 +1,14 @@
+{
+  "number": 760,
+  "questionId": 83006,
+  "questionNumber": "339286",
+  "stemHtml": "<p>Given the following information, what is the time to reach at the Point of Safe Return (PSR)?</p><p>Departure Time: 14:00 <br /> Wind: 270\u00ba/30 kt <br /> Flight Track: 270\u00ba <br /> TAS: 100 kt <br /> Safe Endurance: 3 h</p>",
+  "options": {
+    "a": "14:40",
+    "b": "14:03",
+    "c": "15:57",
+    "d": "15:03"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

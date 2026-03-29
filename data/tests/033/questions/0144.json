@@ -1,0 +1,14 @@
+{
+  "number": 144,
+  "questionId": 103326,
+  "questionNumber": "338738",
+  "stemHtml": "<p>Can you insert a road junction or railroad as a waypoint for the Global Navigation Satellite System (GNSS) flight plan?</p>",
+  "options": {
+    "a": "<p>Yes, by inserting the coordinates or referencing to an existing GNSS point.</p>",
+    "b": "<p>Yes, but you must request permission from the national authority.</p>",
+    "c": "<p>Yes, by inserting the coordinates of the airport reference point, then bearing and distance from it.</p>",
+    "d": "<p>No, GNSS waypoints cannot be created.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

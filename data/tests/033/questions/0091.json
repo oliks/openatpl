@@ -1,0 +1,14 @@
+{
+  "number": 91,
+  "questionId": 70600,
+  "questionNumber": "332273",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from departure to destination: 1100 NM</span> <br /> \nTrue track: 280\u00b0 <br /> \nW/V: 100/80 <br /> \nTAS: 440 kt</p>\n\n<p>What is the distance and time of the PET from the departure point?</p>\n\n<div> </div>",
+  "options": {
+    "a": "Distance: 550 NM Time: 75 min",
+    "b": "Distance: 650 NM Time: 108 min",
+    "c": "Distance: 450 NM Time: 52 min",
+    "d": "Distance: 650 NM Time: 75 min"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

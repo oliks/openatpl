@@ -1,0 +1,14 @@
+{
+  "number": 1173,
+  "questionId": 70719,
+  "questionNumber": "336140",
+  "stemHtml": "<p>What does the following NOTAM indicate?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Q EUAD/QOLAS/IV/M/E/000/004/5626N00214W001 A EUAD B FROM: 26 Jan 2016 17:32C TO: 26 Feb 2016 23:59 E AIR NAV OBST UK0150J492F BLDG INCH CAPE O/S MET MAST SINGLE LGT U/S, PSN 562624.274N 0021429.366W, ELEV 381FT AMSL</span></p>",
+  "options": {
+    "a": "An obstacle light is unserviceable.",
+    "b": "A building has been removed.",
+    "c": "A building has been put in place.",
+    "d": "A lighted mast has been placed on a building."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

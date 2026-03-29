@@ -1,0 +1,24 @@
+{
+  "number": 942,
+  "questionId": 70708,
+  "questionNumber": "332470",
+  "stemHtml": "<p>Refer to figure or Flight Planning Manual MRJT 1 Figure 4.5.1). <br>Find: Time, Fuel, Still Air Distance and TAS for an enroute climb 280/0.74 to FL350. Given:</p><p>Brake release mass 64 000 kg <br>ISA -10\u00b0 C <br>Airport elevation 3000 ft</p>",
+  "options": {
+    "a": "24 min, 1850 kg, 139 Nautical Air Miles NAM, 383 kt",
+    "b": "24 min, 1775 kg, 139 Nautical Air Miles NAM, 383 kt",
+    "c": "24 min, 1850 kg, 148 Nautical Miles NM, 391 kt",
+    "d": "24 min, 1950 kg, 139 Nautical Air Miles NAM, 383 kt"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 21069,
+      "uniqueKey": "12D1F6C7-E14B-4C57-939D-3E6DAA97F033",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=12D1F6C7-E14B-4C57-939D-3E6DAA97F033",
+      "publicUrl": "/attachments/033/12D1F6C7-E14B-4C57-939D-3E6DAA97F033.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/12D1F6C7-E14B-4C57-939D-3E6DAA97F033.gif"
+    }
+  ]
+}

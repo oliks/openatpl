@@ -1,0 +1,14 @@
+{
+  "number": 474,
+  "questionId": 104995,
+  "questionNumber": "334821",
+  "stemHtml": "<p>You are planning a flight for 4th of December 2019 and checking the NOTAMs for the destination aerodrome Brussels (EBBR). What is the effect of the following NOTAM for the time of arrival 18:00 UTC?</p><p>Q)EBBU/QGAAU/I/NBO/A/000/999/5338N00959E030 <br>A)EBBR <br>B)1912041845 <br>C)1912042045 <br>E)EGNOS IS NOT AVAILABLE FOR LPV</p>",
+  "options": {
+    "a": "<p>You won't be affected at the time of arrival.</p>",
+    "b": "<p>SBAS will not be available at Brussels to use LPV minima.</p>",
+    "c": "<p>You can not execute 3D RNAV approaches to Brussels due to the SBAS outage.</p>",
+    "d": "<p>ABAS will be unavailable for all approaches.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 973,
+  "questionId": 109474,
+  "questionNumber": "337069",
+  "stemHtml": "<p>Your ETO overhead the next waypoint is 15:46 Zulu, and ATC asks you to be there at 15:43 Zulu. How do you handle the FMS to meet the requested time?</p>",
+  "options": {
+    "a": "<p>Program a new speed into the FMS, which will calculate a new ETO that matches the time requested by ATC.</p>",
+    "b": "<p>The FMS cannot recalculate ETO changes during the flight; you must manually calculate and adjust speed.</p>",
+    "c": "<p>The FMS can only calculate times for the initial flight plan and does not support recalculations.</p>",
+    "d": "<p>Ignore the ATC request, as the FMS is not equipped to handle inflight ETO changes.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

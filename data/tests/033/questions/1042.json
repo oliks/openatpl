@@ -1,0 +1,14 @@
+{
+  "number": 1042,
+  "questionId": 84683,
+  "questionNumber": "334549",
+  "stemHtml": "<p>A flight from aerodrome H to aerodrome G is planned using the Reduced Contingency Fuel (RCF) procedure aiming to increase the traffic load. The decision point along the route is DP and aerodrome R is the optional refuelling destination. Given the following data, calculate the minimum fuel required for from H to G.</p><p>Taxi fuel at aerodrome H: 160 kg <br>Final Reserve Fuel: 1200 kg <br>Trip fuel from H to G via DP: 7800 kg <br>Trip fuel from H to R via DP: 7250 kg <br>Trip fuel from DP to G: 3050 kg</p><p>Alternate fuel and Extra Fuel is NOT required and an En-Route Alternate aerodrome (ERA) for the optional refuel station is NOT available.</p>",
+  "options": {
+    "a": "<p>8973 kg</p>",
+    "b": "<p>9313 kg</p>",
+    "c": "<p>9550 kg</p>",
+    "d": "<p>8828 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

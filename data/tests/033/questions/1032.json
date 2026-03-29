@@ -1,0 +1,14 @@
+{
+  "number": 1032,
+  "questionId": 82779,
+  "questionNumber": "338459",
+  "stemHtml": "<p>A pilot is planning a flight for 4th of December 2019 and checks the NOTAMs for his/her destination aerodrome Hamburg (EDDH). What is the relevance of the following NOTAM for the time from 1315Z to 1625Z?</p>Q)EDWW/QGAAU/I/NBO/A/000/999/5338N00959E030 <br /> A)EDDH <br /> B)1912041315 <br /> C)1912041625 <br /> E)EGNOS IS NOT AVAILABLE FOR LPV",
+  "options": {
+    "a": "ABAS will NOT be available at Hamburg to use LPV minima.",
+    "b": "ABAS will NOT be available to aircraft on any approaches to Hamburg.",
+    "c": "SBAS will NOT be available at Hamburg to use LPV minima.",
+    "d": "SBAS outage prevents 3D RNAV approaches to Hamburg."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

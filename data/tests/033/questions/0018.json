@@ -1,0 +1,14 @@
+{
+  "number": 18,
+  "questionId": 84512,
+  "questionNumber": "333514",
+  "stemHtml": "What statement below is correct regarding the difference between an RNAV STAR and an RNAV STAR overlay?",
+  "options": {
+    "a": "An RNAV STAR overlay will have a shorter route distance than an RNAV STAR as it has less constraints.",
+    "b": "An RNAV STAR overlay will follow the same route as a STAR that is defined by ground based navigation aids.",
+    "c": "An RNAV STAR overlay CANNOT follow the same route as a STAR that is defined by ground based navigation aids.",
+    "d": "An RNAV STAR overlay will have a longer route distance than an RNAV STAR as it has less constraints."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 345,
+  "questionId": 82452,
+  "questionNumber": "337243",
+  "stemHtml": "<p>Refer to figure ABERDEEN - Chart 10-1R from Jeppesen GSPRM 2017.<br>You are approaching Aberdeen airport from 18 NM SW. What minimum radar altitudes are you passing?</p>",
+  "options": {
+    "a": "<p>4100 ft to 3200 ft to 2800 ft to 2300 ft.</p>",
+    "b": "<p>4100 ft to 2800 ft to \u00a02300 ft to 1700 ft.</p>",
+    "c": "<p>2300 ft to 2000 ft to 2300 ft.</p>",
+    "d": "<p>2500 ft to 2300 ft to 1700 ft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 44165,
+      "uniqueKey": "1D507A16-C415-4C41-8640-C9B6328C8122",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=1D507A16-C415-4C41-8640-C9B6328C8122",
+      "publicUrl": "/attachments/033/1D507A16-C415-4C41-8640-C9B6328C8122.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1D507A16-C415-4C41-8640-C9B6328C8122.jpg"
+    }
+  ]
+}

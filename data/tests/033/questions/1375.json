@@ -1,0 +1,14 @@
+{
+  "number": 1375,
+  "questionId": 111483,
+  "questionNumber": "338233",
+  "stemHtml": "<p>The operator instructs the Pilot to carry 5000 kg of additional fuel due to a refueling issue at the destination airport. How much of this fuel is actually available for the return flight?</p>",
+  "options": {
+    "a": "<p>More than 5000 kg because you have contingency fuel onboard.</p>",
+    "b": "<p>Less than 5000 kg due to increased consumption from the added weight.</p>",
+    "c": "<p>Exactly 5000 kg.</p>",
+    "d": "<p>All 5000 kg will be used before arrival at the destination.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

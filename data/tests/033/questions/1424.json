@@ -1,0 +1,14 @@
+{
+  "number": 1424,
+  "questionId": 142200,
+  "questionNumber": "335043",
+  "stemHtml": "<p>What does the NOTAM \"BASIC GNSS UNAVBL in a given area on Jan 5 from 17:30 to 20:00 UTC\" imply for any aircraft operating in that area and time period?</p>",
+  "options": {
+    "a": "<p>Aircraft cannot rely on GNSS for navigation during 17:30 to 20:00 UTC on Jan 5 and must use alternative means of navigation.</p>",
+    "b": "<p>The NOTAM is advisory; pilots may continue to use GNSS if a preflight RAIM prediction shows availability.</p>",
+    "c": "<p>Only SBAS corrections are unavailable; basic GNSS remains authorized for en-route and approach, provided RAIM is available.</p>",
+    "d": "<p>GNSS may still be used en-route, but is prohibited only for instrument approaches during 17:30 to 20:00 UTC on Jan 5.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 611,
+  "questionId": 71038,
+  "questionNumber": "332935",
+  "stemHtml": "<p>Given the following information, find the flight time and distance.</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\" style=\"letter-spacing:0.7px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Fuel flow:</td>\n\t\t\t<td>9.6 USG/h</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>TAS:</td>\n\t\t\t<td>100 kt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Wind:</td>\n\t\t\t<td>15 kt TWC</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Fuel on board:</td>\n\t\t\t<td>50 USG</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+  "options": {
+    "a": "5 h 12 min and 599 NM",
+    "b": "5 h 12 min and 521 NM",
+    "c": "5 h 20 min and 521 NM",
+    "d": "5 h 20 min and 599 NM"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

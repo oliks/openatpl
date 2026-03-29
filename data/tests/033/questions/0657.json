@@ -1,0 +1,14 @@
+{
+  "number": 657,
+  "questionId": 164186,
+  "questionNumber": "333434",
+  "stemHtml": "<p>You are flying at FL80 over a hilly area with the highest obstacle at 5800 ft. The QNH at a nearby aerodrome (elevation 2000 ft) is 1003 hPa, and the temperature at the aerodrome is -11\u00b0C. Considering the Minimum Obstacle Clearance Altitude (MOCA), is your vertical separation from the obstacle sufficient?</p>",
+  "options": {
+    "a": "<p>Yes, because the obstacle clearance is more than 1000 ft.</p>",
+    "b": "<p>Yes, because FL80 corresponds to approximately 8000 ft regardless of temperature.</p>",
+    "c": "<p>No, because the pressure and temperature corrections reduce your altitude below the obstacle height.</p>",
+    "d": "<p>No, because the corrected true altitude provides only about 1649 ft of clearance.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

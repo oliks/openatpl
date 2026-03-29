@@ -1,0 +1,24 @@
+{
+  "number": 660,
+  "questionId": 82208,
+  "questionNumber": "333280",
+  "stemHtml": "<p>Refer to figure or GSPRM Jeppesen Chart E(LO)2.\u00a0<br>A flight is planned along route T420, course 330\u00b0, FL360, inbound TRENT VOR/DME (TNT, N 53.1\u00b0 W 1.7\u00b0). A descent should be initiated to pass waypoint ELVOS at FL200. Calculate the Top of Descent (TOD) relating to TRENT, given the following information:</p><p>ROD: 2300 ft/min\u00a0<br>GS: 345 kt<br>Wind component: 35 kt tailwind</p>",
+  "options": {
+    "a": "65 NM",
+    "b": "<p>69 NM</p>",
+    "c": "40 NM",
+    "d": "44 NM"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 43717,
+      "uniqueKey": "1F86CE57-1074-407D-A22B-326FE82AB530",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=1F86CE57-1074-407D-A22B-326FE82AB530",
+      "publicUrl": "/attachments/033/1F86CE57-1074-407D-A22B-326FE82AB530.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/1F86CE57-1074-407D-A22B-326FE82AB530.jpg"
+    }
+  ]
+}

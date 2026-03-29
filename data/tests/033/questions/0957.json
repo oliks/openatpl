@@ -1,0 +1,14 @@
+{
+  "number": 957,
+  "questionId": 70349,
+  "questionNumber": "339809",
+  "stemHtml": "<p>Given:</p><p>Distance from departure to destination: 150 NM  <br />  Safe Endurance: 3.2 h  <br />  TAS: 90 kt  <br />  Ground Speed Out: 100 kt  <br />  Ground Speed Home: 80 kt</p><p>What is the distance and time of the PSR from the departure point?</p>",
+  "options": {
+    "a": "Distance: 142 NM Time: 85 min",
+    "b": "Distance: 8 NM Time: 5 min",
+    "c": "Distance: 71 NM Time: 47 min",
+    "d": "Distance: 67 NM Time: 50 min"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

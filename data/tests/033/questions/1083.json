@@ -1,0 +1,24 @@
+{
+  "number": 1083,
+  "questionId": 83003,
+  "questionNumber": "331187",
+  "stemHtml": "Refer to figure. <br /> An extract from a typical flight plan produced by an airline flight planning tool. Assume that the fuel flow remains the same as experienced between OKEPI and OKIRA and that the actual times between the waypoints are as planned. What is the estimated remaining fuel overhead MOKIP?",
+  "options": {
+    "a": "5540 kg",
+    "b": "5499 kg",
+    "c": "5319 kg",
+    "d": "5550 kg"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 56828,
+      "uniqueKey": "42ff0417-4cab-4770-9e2f-69a74f62bccf",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=42ff0417-4cab-4770-9e2f-69a74f62bccf",
+      "publicUrl": "/attachments/033/42ff0417-4cab-4770-9e2f-69a74f62bccf.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/42ff0417-4cab-4770-9e2f-69a74f62bccf.jpg"
+    }
+  ]
+}

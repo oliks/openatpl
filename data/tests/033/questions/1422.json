@@ -1,0 +1,24 @@
+{
+  "number": 1422,
+  "questionId": 103249,
+  "questionNumber": "335297",
+  "stemHtml": "<p>Refer to figure. <br>A crew is directed by Operations to tanker fuel at the departure aerodrome due to difficulties with the fuel supply at the destination aerodrome B.</p><p>Given the data below, what is the optimum quantity of fuel that should be tankered?</p><p>Fuel price at departure aerodrome: 0.77 $ <br>Fuel price at destination: 0.87 $ <br>Air distance: 1500 NM <br>Planned Take-off mass without tankering: 51 000 kg <br>Cruising level: FL330 <br>Planned cruise speed: M0.74 <br>Maximum TOM: 62 800 kg</p>",
+  "options": {
+    "a": "<p>2500 kg</p>",
+    "b": "<p>0 kg</p>",
+    "c": "<p>11 800 kg</p>",
+    "d": "<p>6800 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 59328,
+      "uniqueKey": "9ea0a144-f876-48c4-8efc-8653ff09c7f9",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=9ea0a144-f876-48c4-8efc-8653ff09c7f9",
+      "publicUrl": "/attachments/033/9ea0a144-f876-48c4-8efc-8653ff09c7f9.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/9ea0a144-f876-48c4-8efc-8653ff09c7f9.png"
+    }
+  ]
+}

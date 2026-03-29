@@ -1,0 +1,14 @@
+{
+  "number": 817,
+  "questionId": 113298,
+  "questionNumber": "333111",
+  "stemHtml": "<p>Your route between waypoints is navigated using VORs, but the destination aerodrome only provides a GNSS-based approach. From which point in the flight must GNSS coverage be available?</p>\r\r<p>Time of departure: 13:20 UTC <br /> \rTime of approach: 14:45 UTC <br /> \rTime of arrival: 14:50 UTC</p>",
+  "options": {
+    "a": "<p>12:20 UTC</p>",
+    "b": "<p>13:20 UTC</p>",
+    "c": "<p>14:45 UTC</p>",
+    "d": "<p>14:50 UTC</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

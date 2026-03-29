@@ -1,0 +1,24 @@
+{
+  "number": 451,
+  "questionId": 70959,
+  "questionNumber": "335003",
+  "stemHtml": "<p>Refer to figure Chart \"E LO 1\" from Jeppesen GSPRM 2017. <br>Find the true course for a flight from KIRKWALL (EGPA, N58\u00b058' W002\u00b054') / KOKAL intersection to ABERDEEN (ADN, N57\u00b019' W0002\u00b016').</p>",
+  "options": {
+    "a": "<div> Via airway N560, track 198\u00b0, to WIK, then via airway Y904, track 164\u00b0, to ADN.</div>\r\n\r\n<div> </div>",
+    "b": "Via airway N560, track 192\u00b0, to WIK, then via airway Y904, track 158\u00b0, to ADN.",
+    "c": "<div>Via airway N560, track 195\u00b0, to WIK, then via airway Y904, track 161\u00b0, to ADN.</div>",
+    "d": "Via airway N560, track 193\u00b0, to WIK, then via airway Y904, track 159\u00b0, to ADN."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 26630,
+      "uniqueKey": "7AA75E3C-F415-4FCC-8B93-D64C46E6EC50",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=7AA75E3C-F415-4FCC-8B93-D64C46E6EC50",
+      "publicUrl": "/attachments/033/7AA75E3C-F415-4FCC-8B93-D64C46E6EC50.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7AA75E3C-F415-4FCC-8B93-D64C46E6EC50.jpg"
+    }
+  ]
+}

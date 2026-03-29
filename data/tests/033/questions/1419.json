@@ -1,0 +1,14 @@
+{
+  "number": 1419,
+  "questionId": 83782,
+  "questionNumber": "331283",
+  "stemHtml": "<p>Given the following information, select the correct statement regarding the Alternate Fuel for a Commercial Air Transport flight for which an En-Route Alternate (ERA) aerodrome is considered.</p><p>ERA for 3% Contingency fuel: LFPR <br>Destination aerodrome: DESA <br>Destination alternate aerodrome: ALTB</p>",
+  "options": {
+    "a": "<p>Alternate Fuel must be sufficient to fly from a point en-route to LFPR and then from DESA to ALTB, so it includes the flight time to all alternate aerodromes.</p>",
+    "b": "<p>The fuel for a diversion to LFPR is included in the Trip Fuel. Alternate Fuel must be sufficient to fly from DESA to ALTB.</p>",
+    "c": "<p>Alternate Fuel must be sufficient to fly from LFPR to DESA in the event of an en-route diversion to LFPR and then sufficient to fly from DESA to ALTB.</p>",
+    "d": "<p>Alternate Fuel must be sufficient to fly from DESA to LFPR or from DESA to ALTB, whichever requires the greater amount of fuel.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,33 @@
+{
+  "number": 1016,
+  "questionId": 95843,
+  "questionNumber": "337508",
+  "stemHtml": "Refer to figures.<br />\r\nWhat does it mean if the letter \"G\" is entered in the ATS flight plan, item 10?",
+  "options": {
+    "a": "VHF RTF, VOR, and ILS",
+    "b": "GNSS",
+    "c": "VOR, GNSS, and ILS",
+    "d": "GBAS landing system"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 54818,
+      "uniqueKey": "e2b9b3c3-de1d-46c1-9c02-c45ae670f9da",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=e2b9b3c3-de1d-46c1-9c02-c45ae670f9da",
+      "publicUrl": "/attachments/033/e2b9b3c3-de1d-46c1-9c02-c45ae670f9da.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/e2b9b3c3-de1d-46c1-9c02-c45ae670f9da.png"
+    },
+    {
+      "id": 54819,
+      "uniqueKey": "89fd13fd-708f-497f-877b-59bfcf316c1a",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=89fd13fd-708f-497f-877b-59bfcf316c1a",
+      "publicUrl": "/attachments/033/89fd13fd-708f-497f-877b-59bfcf316c1a.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/89fd13fd-708f-497f-877b-59bfcf316c1a.jpg"
+    }
+  ]
+}

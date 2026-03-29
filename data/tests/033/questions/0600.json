@@ -1,0 +1,14 @@
+{
+  "number": 600,
+  "questionId": 83773,
+  "questionNumber": "335825",
+  "stemHtml": "During the pre-flight planning procedure of a Commercial Air Transport flight, the pilot reviews the serviceability of the GNSS via NOTAMs. What is the optimum decision, if, according to a NOTAM, fluctuations of the signal reception will take place during the RNP approach at the destination aerodrome at the time of arrival?",
+  "options": {
+    "a": "Carry on with the flight as there are two GPS receivers on board, which can compensate for signal fluctuation.",
+    "b": "<p>Prepare another approach based on radio navigation aids, as a back-up in case the GNSS signal is lost in flight.</p>",
+    "c": "Postpone the flight because the lack of GNSS achievability is very dangerous.",
+    "d": "Cancel the flight and reschedule it when the GNSS signal reception is fully functioning as an RNP approach must be flown."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

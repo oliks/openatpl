@@ -1,0 +1,14 @@
+{
+  "number": 1226,
+  "questionId": 81868,
+  "questionNumber": "332253",
+  "stemHtml": "<p>When reviewing the wind charts in the briefing room, you notice that the average wind in cruise will be 25 kt tailwind. Given the following data, what will be the flight time to destination?</p><p><span style=\"letter-spacing:0.7px\">Time to top of climb: 28 minutes</span> <br /> <span style=\"letter-spacing:0.7px\">Cruise leg: 760 NM, FL 330  TAS 470 kt ISA -10\u00b0C</span> <br /> <span style=\"letter-spacing:0.7px\">Time from top of descent to landing: 20 minutes</span></p>",
+  "options": {
+    "a": "2 hours 20 minutes",
+    "b": "2 hours 25 minutes",
+    "c": "1 hour 32 minutes",
+    "d": "1 hour 37 minutes"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

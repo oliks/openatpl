@@ -1,0 +1,14 @@
+{
+  "number": 624,
+  "questionId": 107604,
+  "questionNumber": "335870",
+  "stemHtml": "<p>When should a temperature correction be applied to the altitude at the IAF to provide adequate terrain clearance?</p>",
+  "options": {
+    "a": "<p>when the temperature at the airport is significantly lower than ISA</p>",
+    "b": "<p>when the temperature at the top of cruise is lower than ISA</p>",
+    "c": "<p>when the temperature at the top of descent is higher than ISA</p>",
+    "d": "<p>when the temperature at the runway surface is significantly higher than ISA</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

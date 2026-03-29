@@ -1,0 +1,14 @@
+{
+  "number": 434,
+  "questionId": 71001,
+  "questionNumber": "331865",
+  "stemHtml": "<p>When planning a flight according to the predetermined point procedure, what is the minimum amount of fuel that a piston-engined aircraft needs to carry? The greater of\u2026</p>",
+  "options": {
+    "a": "1. Taxi fuel, trip fuel to destination + contingency, additional fuel if required but at least 2 hours at cruise consumption above the destination and not less than final reserve fuel<br />\r\n2. Taxi fuel, trip fuel to the destination alternate + contingency, additional fuel if required but at least 30 minutes at holding speed at 1 500 ft above alternate elevation and not less than final reserve fuel",
+    "b": "1. Taxi fuel, trip fuel to predetermined point via destination, trip fuel from predetermined point to alternate, final reserve fuel<br />\r\n2. Taxi fuel, trip fuel to predetermined point via alternate, trip fuel from predetermined point to destination, final reserve fuel",
+    "c": "1. Taxi fuel, trip fuel to destination + contingency, fuel to destination alternate, final reserve fuel<br />\r\n2. Taxi fuel, trip fuel to the alternate + contingency, fuel from alternate back to destination, final reserve fuel",
+    "d": "1. Taxi fuel, trip fuel to destination + contingency, additional fuel if required for at least 45 min + 15% of flight time at cruising level or 2 hours, whichever is less and not less than final reserve fuel<br />\r\n2. Taxi fuel, trip fuel to the destination alternate + contingency, additional fuel if required but at least fuel to fly for 45 minutes and not less than final reserve fuel"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

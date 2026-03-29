@@ -1,0 +1,14 @@
+{
+  "number": 203,
+  "questionId": 108465,
+  "questionNumber": "332761",
+  "stemHtml": "<p>Given the following data, what is the TAS of the aeroplane?</p><p>FL390 <br>OAT: ISA -10 C <br>Mach Number: M 0.77 <br>Wind component: -42 kt</p>",
+  "options": {
+    "a": "<p>460 kt</p>",
+    "b": "<p>450 kt</p>",
+    "c": "<p>420 kt</p>",
+    "d": "<p>430 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

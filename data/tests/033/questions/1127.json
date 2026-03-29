@@ -1,0 +1,14 @@
+{
+  "number": 1127,
+  "questionId": 82799,
+  "questionNumber": "338534",
+  "stemHtml": "<p>Given the following information, what is the Air distance (NAM) covered?</p><p>TAS: 120 kt <br /> Headwind component: 20 kt <br /> Ground Distance: 200 NGM</p>",
+  "options": {
+    "a": "240 NAM",
+    "b": "200 NAM",
+    "c": "167 NAM",
+    "d": "220 NAM"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

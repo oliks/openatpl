@@ -1,0 +1,33 @@
+{
+  "number": 1272,
+  "questionId": 101715,
+  "questionNumber": "337034",
+  "stemHtml": "<p>Refer to figures or to Stuttgart charts 10-3P and 10-3C from the Jeppesen GSPRM 2017. <br /> \rThe pilot is advised by ATC to expect either DKB 9B RNAV SID (OVERLAY) or DKB 9B SID. Which of the following applies to DKB 9B RNAV SID (OVERLAY)?</p>",
+  "options": {
+    "a": "<p>It utilises on-board GPS to fly the DKB 9B SID.</p>",
+    "b": "<p>It may be flown only with reference to VOR and DME.</p>",
+    "c": "<p>It requires both the pilots and the aircraft to have an RNAV 1 certification.</p>",
+    "d": "<p>It requires the on-board ADF to be serviceable.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 58120,
+      "uniqueKey": "bf71782b-0997-4187-becd-1a3d78ffcaaa",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=bf71782b-0997-4187-becd-1a3d78ffcaaa",
+      "publicUrl": "/attachments/033/bf71782b-0997-4187-becd-1a3d78ffcaaa.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/bf71782b-0997-4187-becd-1a3d78ffcaaa.jpg"
+    },
+    {
+      "id": 58121,
+      "uniqueKey": "7e32f359-a66e-4ab3-b82f-b5373447426d",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=7e32f359-a66e-4ab3-b82f-b5373447426d",
+      "publicUrl": "/attachments/033/7e32f359-a66e-4ab3-b82f-b5373447426d.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7e32f359-a66e-4ab3-b82f-b5373447426d.jpg"
+    }
+  ]
+}

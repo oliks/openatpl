@@ -1,0 +1,14 @@
+{
+  "number": 240,
+  "questionId": 85042,
+  "questionNumber": "335780",
+  "stemHtml": "<p>Determine the change in planned Trip Fuel when applying the updated wind information, given:</p><p>Average TAS: 118 kt <br /> Trip Distance: 57 NGM <br /> Forecast wind component: -15 kt <br /> Actual wind component: +5 kt <br /> Average fuel consumption is: 3 kg/NAM</p><p>What is the revised planned Trip Fuel?</p>",
+  "options": {
+    "a": "<p>60 kg less than originally planned<span style=\"letter-spacing:0.7px\">.</span></p>",
+    "b": "<p>39 kg less than originally planned.</p>",
+    "c": "<p>32 kg less than originally planned.</p>",
+    "d": "28 kg less than originally planned."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

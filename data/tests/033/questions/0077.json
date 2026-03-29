@@ -1,0 +1,14 @@
+{
+  "number": 77,
+  "questionId": 70720,
+  "questionNumber": "337897",
+  "stemHtml": "<p>The Trip Fuel for a Commercial Air Transport flight includes fuel from\u2026</p>",
+  "options": {
+    "a": "top of climb to top of descent, excluding step climbs and descents during the cruise.",
+    "b": "the block position to landing including the expected departure, arrival, approach, climb and descent.",
+    "c": "take-off to landing including the expected departure, arrival, approach, climb and descent.",
+    "d": "the end of the departure route to the beginning of the arrival route, including the climb and descent."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 534,
+  "questionId": 79138,
+  "questionNumber": "333388",
+  "stemHtml": "<p>The captain decided to load an extra 120 kg of fuel before the take-off:</p><p>Take-off fuel: 910 Kg<br>Trip fuel: 730 Kg<br>Zero Fuel Weight (ZFW): 3230 kg<br>Maximum Landing Weight (MLW): 3860 kg<br>Maximum Take-off Weight (MTOW): 4290 kg</p>",
+  "options": {
+    "a": "Proceed to an hold to lose 30 kg to be able to complete the landing.",
+    "b": "The take-off is NOT possible under this condition.",
+    "c": "No need to hold, there's no operational impact.",
+    "d": "Proceed to an hold to lose 120 kg to be able to complete the landing."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,42 @@
+{
+  "number": 918,
+  "questionId": 70943,
+  "questionNumber": "338360",
+  "stemHtml": "<p>Refer to figures or NANTES - Charts 19-1, 19-2, 19-3 from Jeppesen GSPRM 2017.\u00a0<br>What is correct concerning VFR transit flights?</p>",
+  "options": {
+    "a": "<div>VFR transit fights have to follow either the western or the eastern route.</div>",
+    "b": "<p>Transit flights have to maintain an altitude between 1000 ft and 1500 ft AMSL; altitudes above and below are reserved for arrivals and departures.</p>",
+    "c": "ATC can instruct aircraft to report passing one or more of the waypoints along the route.",
+    "d": "<p>It is recommended to conduct arrivals at 1500 ft AMSL and departures at 1000 ft AMSL.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 26568,
+      "uniqueKey": "680F8E1F-62D7-4A92-A056-3FE2030F6578",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=680F8E1F-62D7-4A92-A056-3FE2030F6578",
+      "publicUrl": "/attachments/033/680F8E1F-62D7-4A92-A056-3FE2030F6578.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/680F8E1F-62D7-4A92-A056-3FE2030F6578.jpg"
+    },
+    {
+      "id": 26569,
+      "uniqueKey": "80D42B1E-12E3-48E8-A0B0-3EB5E2B3F799",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=80D42B1E-12E3-48E8-A0B0-3EB5E2B3F799",
+      "publicUrl": "/attachments/033/80D42B1E-12E3-48E8-A0B0-3EB5E2B3F799.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/80D42B1E-12E3-48E8-A0B0-3EB5E2B3F799.jpg"
+    },
+    {
+      "id": 26570,
+      "uniqueKey": "5A83D460-C8F1-4310-ACEB-E00C839D8D38",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=5A83D460-C8F1-4310-ACEB-E00C839D8D38",
+      "publicUrl": "/attachments/033/5A83D460-C8F1-4310-ACEB-E00C839D8D38.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5A83D460-C8F1-4310-ACEB-E00C839D8D38.jpg"
+    }
+  ]
+}

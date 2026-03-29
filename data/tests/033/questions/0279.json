@@ -1,0 +1,14 @@
+{
+  "number": 279,
+  "questionId": 78443,
+  "questionNumber": "339519",
+  "stemHtml": "<p>Determine the maximum extra fuel which can be uplifted.<br>\u00a0Given:</p><p>MTOM: 56 000 lb\u00a0<br>MLM: 45 000 lb\u00a0<br>MZFM: 42 000 lb\u00a0<br>DOM: 25 000 lb\u00a0<br>Traffic Load: 9500 lb\u00a0<br>Trip Fuel: 10 000 lb\u00a0<br>Planned TOF: 15 000 lb\u00a0<br>Taxi Fuel: 300 lb\u00a0<br>Fuel penalty: 200 lb each 1000 lb\u00a0<br>Tank capacity: 27 000 lb</p>",
+  "options": {
+    "a": "<p>6500 lb</p>",
+    "b": "<p>6600 lb</p>",
+    "c": "11 700 lb",
+    "d": "<p>5500 lb</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

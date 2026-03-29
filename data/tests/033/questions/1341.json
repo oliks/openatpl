@@ -1,0 +1,42 @@
+{
+  "number": 1341,
+  "questionId": 70932,
+  "questionNumber": "337761",
+  "stemHtml": "<p>Refer to figures or NANTES - Charts 19-1, 19-2, 19-3 from Jeppesen GSPRM 2017. <br>On a VFR flight, you need to transit around Nantes airport. Who shall you contact to inform about your intentions?</p>",
+  "options": {
+    "a": "Nantes Information",
+    "b": "<div>Nantes Approach</div>",
+    "c": "Nantes Tower",
+    "d": "Nantes/Atlantique"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 26545,
+      "uniqueKey": "8A13F039-2F25-4BF3-92A3-F66B4DDA3B39",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=8A13F039-2F25-4BF3-92A3-F66B4DDA3B39",
+      "publicUrl": "/attachments/033/8A13F039-2F25-4BF3-92A3-F66B4DDA3B39.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/8A13F039-2F25-4BF3-92A3-F66B4DDA3B39.jpg"
+    },
+    {
+      "id": 26546,
+      "uniqueKey": "D60A24B9-FD3E-47EC-8CF7-F67EC534F3A0",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=D60A24B9-FD3E-47EC-8CF7-F67EC534F3A0",
+      "publicUrl": "/attachments/033/D60A24B9-FD3E-47EC-8CF7-F67EC534F3A0.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D60A24B9-FD3E-47EC-8CF7-F67EC534F3A0.jpg"
+    },
+    {
+      "id": 26547,
+      "uniqueKey": "E1251ECB-C33D-441B-811C-E2F88DD886EF",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=E1251ECB-C33D-441B-811C-E2F88DD886EF",
+      "publicUrl": "/attachments/033/E1251ECB-C33D-441B-811C-E2F88DD886EF.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/E1251ECB-C33D-441B-811C-E2F88DD886EF.jpg"
+    }
+  ]
+}

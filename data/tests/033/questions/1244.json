@@ -1,0 +1,14 @@
+{
+  "number": 1244,
+  "questionId": 162575,
+  "questionNumber": "331670",
+  "stemHtml": "<p>LPV is a (1) _____ approach with vertical guidance from (2) _____ and lateral guidance from (3) _____.</p>",
+  "options": {
+    "a": "<p>(1) precision; (2) GNSS; (3) GBAS\u00a0<br>\u00a0</p>",
+    "b": "<p>(1) precision; (2) SBAS; (3) SBAS\u00a0<br>\u00a0</p>",
+    "c": "<p>(1) non-precision; (2) GNSS; (3) GBAS\u00a0<br>\u00a0</p>",
+    "d": "<p>(1) non-precision; (2) SBAS; (3) SBAS</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

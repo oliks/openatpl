@@ -1,0 +1,14 @@
+{
+  "number": 305,
+  "questionId": 112134,
+  "questionNumber": "333378",
+  "stemHtml": "<p>You are planning an IFR flight where a destination alternate is not possible, what is the regulatory fuel overhead the destination? You must carry...</p>",
+  "options": {
+    "a": "<p>Discretionary fuel, only if required by the commander.</p>",
+    "b": "<p>No additional fuel, but you need to double the contingency fuel.</p>",
+    "c": "<p>Additional fuel, and you need to apply the isolated aerodrome procedure.</p>",
+    "d": "<p>No additional fuel and no contingency fuel.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

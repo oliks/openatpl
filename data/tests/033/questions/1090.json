@@ -1,0 +1,24 @@
+{
+  "number": 1090,
+  "questionId": 106271,
+  "questionNumber": "337049",
+  "stemHtml": "<p>Refer to figure or chart E(LO)2 from Jeppesen GSPRM 2017.\u00a0<br>Find the magnetic bearing and distance from Trent (TNT) VOR/DME (53\u00b003'N 001\u00b040'W) to waypoint TIMPO (52\u00b033'N 001\u00b010'W).</p>",
+  "options": {
+    "a": "<p>329\u00b0M / 35 NM</p>",
+    "b": "<p>149\u00b0M / 25 NM</p>",
+    "c": "<p>329\u00b0M / 25 NM</p>",
+    "d": "<p>149\u00b0M / 35 NM</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 61425,
+      "uniqueKey": "f318d687-e16a-4880-94a4-d98a835e81fc",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=f318d687-e16a-4880-94a4-d98a835e81fc",
+      "publicUrl": "/attachments/033/f318d687-e16a-4880-94a4-d98a835e81fc.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f318d687-e16a-4880-94a4-d98a835e81fc.jpg"
+    }
+  ]
+}

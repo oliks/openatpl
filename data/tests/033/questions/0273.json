@@ -1,0 +1,14 @@
+{
+  "number": 273,
+  "questionId": 159811,
+  "questionNumber": "331376",
+  "stemHtml": "<p>The crew plans a short flight departing from a small airfield that has no ICAO identifier and intends to return shortly afterward. What information must be inserted in Flight Plan Item 13?</p>",
+  "options": {
+    "a": "<p>//// in ITEM 13 with departure airfield name in ITEM18\u00a0</p>",
+    "b": "<p>XXXX in ITEM 13 with the name of the airfield name in ITEM 18\u00a0<br>\u00a0</p>",
+    "c": "<p>ZZZZ in ITEM 13 with the name of the airfield name in ITEM 18</p>",
+    "d": "<p>AAAA in ITEM 13 with the name of the airfield in ITEM 18</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

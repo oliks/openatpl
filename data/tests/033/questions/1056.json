@@ -1,0 +1,14 @@
+{
+  "number": 1056,
+  "questionId": 109329,
+  "questionNumber": "333390",
+  "stemHtml": "<p>You receive a NOTAM stating that GNSS may be unavailable from 19/02 to 28/02, daily between 2000 and 2359 around the location (N32\u00b021' E017\u00b033'). The following are the areas affected at different flight levels.</p><p>Radius 40 NM at FL400 and above <br>Radius 25 NM at FL200 <br>Radius 20 NM at FL150 <br>Radius 10 NM at FL100</p><p>Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>GNSS will be unavailable until 19/02 at all flight levels</p>",
+    "b": "<p>GNSS will be unavailable until 28/02 at all flight levels </p>",
+    "c": "<p>GNSS will sometimes be unavailable between 19/02 and 28/02</p>",
+    "d": "<p>GNSS will be out of order on 23/02</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

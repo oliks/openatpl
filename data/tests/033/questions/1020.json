@@ -1,0 +1,24 @@
+{
+  "number": 1020,
+  "questionId": 70578,
+  "questionNumber": "338416",
+  "stemHtml": "<p>Refer to figure or CAP 697 Figure 4.5.3.2 for Pressure Altitude 35 000 ft. <br>What will be the change in air range available from 1000 kg of fuel for the following situation if the OAT increases from -55\u00b0C to -45\u00b0C?</p><p>Aircraft mass at start of cruise leg: 50 000 kg <br>Cruise level: FL350 <br>Cruise speed: Mach 0.74 <br>Forecast OAT at FL350: -55\u00b0 C <br>Wind component at FL350: -25 kt</p>",
+  "options": {
+    "a": "An increase of 10 NAM.",
+    "b": "A reduction of 1 NAM.",
+    "c": "A reduction of 11 NAM.",
+    "d": "An increase of 4 NAM."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 54672,
+      "uniqueKey": "54b84474-c840-45dc-8429-f756b5187552",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=54b84474-c840-45dc-8429-f756b5187552",
+      "publicUrl": "/attachments/033/54b84474-c840-45dc-8429-f756b5187552.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/54b84474-c840-45dc-8429-f756b5187552.jpg"
+    }
+  ]
+}

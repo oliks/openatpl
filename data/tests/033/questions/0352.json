@@ -1,0 +1,33 @@
+{
+  "number": 352,
+  "questionId": 70544,
+  "questionNumber": "338946",
+  "stemHtml": "<p>(For this question use annex 033-036 and 033-038 rev. 05.11.2004).  <br />  \nAssuming the following data below, what is the time needed to carry out such a flight?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Ground distance to be covered: 2000 NM</span>  <br />  \nCruise flight level: FL330  <br />  \nCruising speed: Mach 0.82 (true airspeed: 470 kt)  <br />  \nHead wind component: 30 kt  <br />  \nPlanned destination landing mass: 160 000 kg  <br />  \nTemperature: ISA  <br />  \nCG: 37%  <br />  \nTotal anti-ice: ON  <br />  \nPack flow: HI</p>",
+  "options": {
+    "a": "4 hours 43 minutes",
+    "b": "5 hours 02 minutes",
+    "c": "4 hours 26 minutes",
+    "d": "4 hours 10 minutes"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 20850,
+      "uniqueKey": "47079159-2CF4-4326-B03F-8F81297E1123",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=47079159-2CF4-4326-B03F-8F81297E1123",
+      "publicUrl": "/attachments/033/47079159-2CF4-4326-B03F-8F81297E1123.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/47079159-2CF4-4326-B03F-8F81297E1123.gif"
+    },
+    {
+      "id": 20851,
+      "uniqueKey": "5BEFCBB2-4AB6-44FF-A046-FE4A94597E12",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=5BEFCBB2-4AB6-44FF-A046-FE4A94597E12",
+      "publicUrl": "/attachments/033/5BEFCBB2-4AB6-44FF-A046-FE4A94597E12.gif",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5BEFCBB2-4AB6-44FF-A046-FE4A94597E12.gif"
+    }
+  ]
+}

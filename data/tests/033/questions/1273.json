@@ -1,0 +1,14 @@
+{
+  "number": 1273,
+  "questionId": 83007,
+  "questionNumber": "332090",
+  "stemHtml": "What is the difference between an RNAV SID and an RNAV overlay SID?",
+  "options": {
+    "a": "The RNAV overlay SID will take less time due to less constraints.",
+    "b": "The RNAV overlay SID will take more time due to less constraints.",
+    "c": "The RNAV overlay SID will follow the same track as the conventional procedure.",
+    "d": "The RNAV overlay SID is a longer route than the RNAV SID."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

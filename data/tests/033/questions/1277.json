@@ -1,0 +1,24 @@
+{
+  "number": 1277,
+  "questionId": 83027,
+  "questionNumber": "333369",
+  "stemHtml": "<p>Refer to figure Stuttgart 10-3P chart from Jeppesen GSPRM 2017.<br>What is the minimum equipment required to fly the DKB9B SID procedure, referring to the BRNAV requirement?</p>",
+  "options": {
+    "a": "GPS only",
+    "b": "VOR/DME",
+    "c": "DME; NDB",
+    "d": "DME; GPS or VOR/DME"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 45476,
+      "uniqueKey": "49A3E6A8-8FF2-4F8D-AFEB-972F92EAE39A",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=49A3E6A8-8FF2-4F8D-AFEB-972F92EAE39A",
+      "publicUrl": "/attachments/033/49A3E6A8-8FF2-4F8D-AFEB-972F92EAE39A.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/49A3E6A8-8FF2-4F8D-AFEB-972F92EAE39A.jpg"
+    }
+  ]
+}

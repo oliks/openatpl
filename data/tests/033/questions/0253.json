@@ -1,0 +1,14 @@
+{
+  "number": 253,
+  "questionId": 78430,
+  "questionNumber": "334943",
+  "stemHtml": "<p>Determine the lowest suitable ICAO IFR cruise level, given:</p>\n\n<p>Track 185\u00b0(T), Variation 5\u00b0E and Heading 182\u00b0 (M).</p>",
+  "options": {
+    "a": "FL 280",
+    "b": "FL 290",
+    "c": "FL 300",
+    "d": "FL270"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

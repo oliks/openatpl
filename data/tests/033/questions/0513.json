@@ -1,0 +1,14 @@
+{
+  "number": 513,
+  "questionId": 70920,
+  "questionNumber": "335248",
+  "stemHtml": "<p>For an ATC flight plan filed before the flight, the indicated time of departure is\u2026</p>",
+  "options": {
+    "a": "<div>The time overhead the first reporting point after take-off.</div>",
+    "b": "The time of take-off.",
+    "c": "<div>The time at which the flight plan is filed.</div>",
+    "d": "<div>The estimated off-block time.</div>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

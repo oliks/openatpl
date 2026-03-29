@@ -1,0 +1,14 @@
+{
+  "number": 376,
+  "questionId": 107835,
+  "questionNumber": "337361",
+  "stemHtml": "<p>An airline has decided to implement fuel checks every 20 mins. Why is checking fuel consumption important?</p>",
+  "options": {
+    "a": "<p>Better prediction of final reserve fuel</p>",
+    "b": "<p>To fly economically</p>",
+    "c": "<p>To check actual fuel consumption for a better fuel prediction on arrival</p>",
+    "d": "<p>To ensure the aircraft\u2019s weight remains within legal limits</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

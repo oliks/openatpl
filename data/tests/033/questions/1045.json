@@ -1,0 +1,14 @@
+{
+  "number": 1045,
+  "questionId": 108607,
+  "questionNumber": "336167",
+  "stemHtml": "<p>A pilot is being radar vectored in controlled airspace below the Minimum Safe Altitude (MSA) but above the Minimum Vectoring Altitude (MVA). The temperature is ISA -10\u00b0C. Who is responsible for terrain separation and what should the commander do?</p>",
+  "options": {
+    "a": "<p>ATC is responsible and commander should reject instruction if it is dangerous, because temperature below ISA.</p>",
+    "b": "<p>Commander is responsible for terrain separation and commander should accept.</p>",
+    "c": "<p>ATC is responsible and commander should always accept.</p>",
+    "d": "<p>Commander is responsible and commander should always accept.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

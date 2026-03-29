@@ -1,0 +1,24 @@
+{
+  "number": 1333,
+  "questionId": 109270,
+  "questionNumber": "332341",
+  "stemHtml": "<p>Refer to figure.<br>A flight plan has been filed with the following information:</p><p>Item 10: SFGHWXYZ/SB1 <br>Item 13: 1520 <br>Item 15: N0447F370 <br>Item 16: 0102</p><p>Which of the following statements is true?</p>",
+  "options": {
+    "a": "<p>PBN equipped, total time 62 mins</p>",
+    "b": "<p>HF equipped, departure time 1520</p>",
+    "c": "<p>NOT GNSS equipped, TAS 447</p>",
+    "d": "<p>NOT RVSM approved, GS 447</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 65165,
+      "uniqueKey": "7eed1832-623d-4be1-8564-998cfc07b9d6",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=7eed1832-623d-4be1-8564-998cfc07b9d6",
+      "publicUrl": "/attachments/033/7eed1832-623d-4be1-8564-998cfc07b9d6.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/7eed1832-623d-4be1-8564-998cfc07b9d6.png"
+    }
+  ]
+}

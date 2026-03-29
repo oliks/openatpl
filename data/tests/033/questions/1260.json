@@ -1,0 +1,24 @@
+{
+  "number": 1260,
+  "questionId": 84188,
+  "questionNumber": "337893",
+  "stemHtml": "<p>Refer to figure or E(LO)6 chart from the Jeppesen GSPRM 2017.<br>You are doing a VFR flight from VALENCIA (VLC) VOR/DME (39\u00b029'N 000\u00b029'W) to ALMERIA (AMR) VOR/DME (36\u00b049'N, 002\u00b015'W). The LE(R)-63 is not activated and you choose to fly an ATS conditional route. What is the best route?</p>",
+  "options": {
+    "a": "VLC - A34 - ALT - D - AMR",
+    "b": "VLC - G850 - AMR",
+    "c": "VLC - B28 - R47- BLN - M192 - AMR",
+    "d": "VLC - A34 - ALT - W810 - VSJ - W820 - AMR"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 50504,
+      "uniqueKey": "74A6D9DF-89DC-4326-8462-B9601FF8FCCA",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=74A6D9DF-89DC-4326-8462-B9601FF8FCCA",
+      "publicUrl": "/attachments/033/74A6D9DF-89DC-4326-8462-B9601FF8FCCA.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/74A6D9DF-89DC-4326-8462-B9601FF8FCCA.jpg"
+    }
+  ]
+}

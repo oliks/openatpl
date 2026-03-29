@@ -1,0 +1,14 @@
+{
+  "number": 422,
+  "questionId": 109306,
+  "questionNumber": "338722",
+  "stemHtml": "<p>Given the following information, find the contingency fuel (based on 5 minutes) for a Commercial Air Transport flight with a twin-jet aeroplane to an isolated aerodrome.</p><p>Fuel consumption en-route: 2100 kg/h <br>Fuel consumption in holding: 1200 kg/h <br>No en-route alternate exists</p>",
+  "options": {
+    "a": "<p>4200 kg</p>",
+    "b": "<p>100 kg</p>",
+    "c": "<p>175 kg</p>",
+    "d": "<p>600 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

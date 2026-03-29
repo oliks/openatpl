@@ -1,0 +1,14 @@
+{
+  "number": 1335,
+  "questionId": 83670,
+  "questionNumber": "333756",
+  "stemHtml": "An aircraft intends to fly initially with 140 kt TAS at low level, until it climbs to FL70 to join an airway from the waypoint GRICE. If the aircraft is planned to maintain the TAS 140 kt along the airway, how must this change in flight level at GRICE be entered into the Item 15 (ROUTE) of the ATS flight plan?",
+  "options": {
+    "a": "GRICE/F070N140",
+    "b": "GRICE/F070",
+    "c": "GRICE/FL70",
+    "d": "GRICE/N0140F070"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

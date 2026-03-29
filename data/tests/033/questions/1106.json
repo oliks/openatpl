@@ -1,0 +1,14 @@
+{
+  "number": 1106,
+  "questionId": 79735,
+  "questionNumber": "336560",
+  "stemHtml": "<p>Determine the true altitude to make sure that the Minimum Obstacle Clearance Altitude (MOCA) is maintained.<br>Given:</p><p>MOCA: 3700 ft <br>Cruising level: FL050 <br>OAT: ISA -15\u00b0C <br>QNH: 1004 hPa <br>Aerodrome elevation: 1500 ft</p>",
+  "options": {
+    "a": "<p>4300 ft</p>",
+    "b": "<p>4530 ft</p>",
+    "c": "<p>4900 ft</p>",
+    "d": "<p>5030 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

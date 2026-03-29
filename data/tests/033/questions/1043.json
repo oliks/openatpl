@@ -1,0 +1,14 @@
+{
+  "number": 1043,
+  "questionId": 70819,
+  "questionNumber": "332118",
+  "stemHtml": "<p>Consider the following NOTAM. Which of the following statements correctly describes the content of item E?</p>\n\n<p><span style=\"letter-spacing:0.7px\">QEDGG/QIXLT/I/BO/A/000/999/5002N00834E005 B FROM: 13/10/24 09:21 E ILS 25C LO, IDENT FR, 297KHZ, RANGE LIMITED TO 10NM. REF AIP AD2 EDDF 1-10 The range of the</span></p>",
+  "options": {
+    "a": "<p>Locator is limited to 10 NM.</p>",
+    "b": "<p>Identification is limited to 10 NM.</p>",
+    "c": "<p>Localiser is limited to 10 NM.</p>",
+    "d": "ILS is limited to 10 NM."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

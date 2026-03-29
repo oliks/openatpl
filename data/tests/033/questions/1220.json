@@ -1,0 +1,14 @@
+{
+  "number": 1220,
+  "questionId": 78456,
+  "questionNumber": "339453",
+  "stemHtml": "<p>Provided that the flight is performed as planned, determine the in-flight revised landing mass at the destination, given:</p><p>Dry Operating Mass (DOM): 30 510 kg <br>Traffic Load: 8000 kg <br>Remaining Usable Fuel: 3788 kg <br>Remaining Trip Fuel: 1725 kg <br>Final reserve fuel: 883 kg <br>Alternate fuel: 1075 kg</p>",
+  "options": {
+    "a": "42 260 kg",
+    "b": "40 573 kg",
+    "c": "40 486 kg",
+    "d": "42 298 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

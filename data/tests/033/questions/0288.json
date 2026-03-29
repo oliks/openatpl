@@ -1,0 +1,24 @@
+{
+  "number": 288,
+  "questionId": 70569,
+  "questionNumber": "338259",
+  "stemHtml": "<p>Refer to figure. <br /> Given:Planned and actual data as shown in the Flight Log excerpt.</p><p>Actual Ground Speed (GS) on the leg BETA to GAMMA will be 110 KT.If all other flight parameters remain unchanged, what actual fuel remaining should be expected at waypoint GAMMA?</p>",
+  "options": {
+    "a": "2310 kg",
+    "b": "2000 kg",
+    "c": "2160 kg",
+    "d": "2062 kg"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 52759,
+      "uniqueKey": "C7DAD760-AD3B-4B73-B991-756D4341E38B",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=C7DAD760-AD3B-4B73-B991-756D4341E38B",
+      "publicUrl": "/attachments/033/C7DAD760-AD3B-4B73-B991-756D4341E38B.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/C7DAD760-AD3B-4B73-B991-756D4341E38B.jpg"
+    }
+  ]
+}

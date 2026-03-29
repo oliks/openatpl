@@ -1,0 +1,14 @@
+{
+  "number": 646,
+  "questionId": 107438,
+  "questionNumber": "333291",
+  "stemHtml": "<p>A pilot is planning a flight and has three different UTC times: the time of take-off, the expected time of approach, and the expected time of landing. During which of the provided UTC times should the pilot check the availability of the GNSS satellite for the only available approach?</p>",
+  "options": {
+    "a": "<p>Time of take-off</p>",
+    "b": "<p>Time of expected approach</p>",
+    "c": "<p>Time of expected landing</p>",
+    "d": "<p>GNSS availability should be checked before departure</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

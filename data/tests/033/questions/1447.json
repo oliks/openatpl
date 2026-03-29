@@ -1,0 +1,14 @@
+{
+  "number": 1447,
+  "questionId": 160111,
+  "questionNumber": "338746",
+  "stemHtml": "<p>Which statement best explains what a basic RAIM check verifies with regard to SBAS availability?</p>",
+  "options": {
+    "a": "<p>Basic RAIM checks GNSS satellite geometry and also verifies SBAS augmentation availability. <br />  </p>",
+    "b": "<p>Basic RAIM only checks GNSS availability; it does not check SBAS augmentation, which must be verified separately (e.g., via NOTAM). <br />  </p>",
+    "c": "<p>Basic RAIM checks SBAS availability automatically if the aircraft is equipped with WAAS/EGNOS receivers. <br />  </p>",
+    "d": "<p>Basic RAIM is no longer required when flying in SBAS-covered areas.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

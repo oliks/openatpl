@@ -1,0 +1,14 @@
+{
+  "number": 818,
+  "questionId": 81463,
+  "questionNumber": "339221",
+  "stemHtml": "<p dir=\"ltr\">The following Instrument Approach Operations are classified as 3D Approach Operations:</p><p dir=\"ltr\">1. RNP APCH (GNSS and baro VNAV) <br /> 2. GLS <br /> 3. PAR <br /> 4. RNP 1 <br /> 5. ILS <br /> 6. RNP APCH (SBAS)</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">1, 2, 3, 5 and 6.</p>",
+    "b": "<p dir=\"ltr\">2, 3, 4, 5 and 6.</p>",
+    "c": "<p dir=\"ltr\">Only 1, 5 and 6.</p>",
+    "d": "1, 3, 4 and 6."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

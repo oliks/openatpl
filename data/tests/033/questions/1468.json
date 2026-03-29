@@ -1,0 +1,24 @@
+{
+  "number": 1468,
+  "questionId": 139281,
+  "questionNumber": "335951",
+  "stemHtml": "<p>Refer to figure. <br /> \rA Performance Class A aeroplane flies for a Commercial Air Transport operation. The flight is conducted as scheduled, but during the final approach at the destination aerodrome, the flight crew initiates a missed approach and diverts to the destination alternate. During the missed approach the landing gear remains retracted, but the landing gear door remains extended. Given the following information, calculate the revised estimated landing mass at the destination alternate aerodrome, applying the Basic Fuel Scheme.</p>\r\r<p>DOM: 43 550 kg <br /> \rTraffic Load: 17 460 kg <br /> \rTaxi Fuel: 400 kg <br /> \rTake-off Fuel: 13 173 kg <br /> \rTrip Fuel: 8850 kg <br /> \rContingency Fuel: 443 kg <br /> \rAlternate Fuel: 1500 kg <br /> \rFinal Reserve Fuel: 1380 kg <br /> \rExtra Fuel and Discretionary Fuel: 1000 kg</p>",
+  "options": {
+    "a": "<p>63 833 kg</p>",
+    "b": "<p>63 608 kg</p>",
+    "c": "<p>63 165 kg</p>",
+    "d": "<p>62 608 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 70794,
+      "uniqueKey": "570933c5-6b3b-47fe-bc40-6551b7772acd",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=570933c5-6b3b-47fe-bc40-6551b7772acd",
+      "publicUrl": "/attachments/033/570933c5-6b3b-47fe-bc40-6551b7772acd.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/570933c5-6b3b-47fe-bc40-6551b7772acd.png"
+    }
+  ]
+}

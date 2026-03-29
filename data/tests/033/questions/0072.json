@@ -1,0 +1,24 @@
+{
+  "number": 72,
+  "questionId": 115780,
+  "questionNumber": "331525",
+  "stemHtml": "<p>Refer to figure. <br /> \rBased on the flight log from TOC to FLEVO, the aircraft reaches FLEVO with an actual fuel remaining of 5400 kg. Given this situation, what would be the appropriate course of action?</p>",
+  "options": {
+    "a": "<p>Divert immediately.</p>",
+    "b": "<p>Monitor for 10 minutes.</p>",
+    "c": "<p>Continue normally.</p>",
+    "d": "<p>Ignore the anomaly.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 68516,
+      "uniqueKey": "842bafab-47fd-4e78-83ce-e54747c0edd3",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=842bafab-47fd-4e78-83ce-e54747c0edd3",
+      "publicUrl": "/attachments/033/842bafab-47fd-4e78-83ce-e54747c0edd3.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/842bafab-47fd-4e78-83ce-e54747c0edd3.png"
+    }
+  ]
+}

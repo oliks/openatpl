@@ -1,0 +1,14 @@
+{
+  "number": 314,
+  "questionId": 96696,
+  "questionNumber": "332276",
+  "stemHtml": "What is the difference between the Grid MORA and the Route MORA?",
+  "options": {
+    "a": "The Route MORA provides sufficient terrain clearance 5 nm on each side of the route, the Grid MORA provides it out to 25 nm in each direction from the route.",
+    "b": "The Route MORA only ever provides 1000 ft clearance with the highest terrain, whereas the Grid MORA provides 2000 ft terrain clearance over mountainous areas.",
+    "c": "The Route MORA provides sufficient terrain clearance 10 nm each side of the route, the grid MORA provides sufficient terrain clearance for a particular segment of the latitude/longitude grid.",
+    "d": "The Grid MORA cannot be used when flying off a published airway, but the Route MORA can be."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": 868,
+  "questionId": 83644,
+  "questionNumber": "334232",
+  "stemHtml": "<p>Refer to figure or Amsterdam chart 10-3C from the Jeppesen GSPRM 2017.\u00a0<br>Which of the following statements correctly describes the RNAV SID ANDIK 2F?</p>",
+  "options": {
+    "a": "Turn to track 040\u00b0 after waypoint EH\u00d82\u00d8.",
+    "b": "<p>Turn before EH\u00d82\u00d8 to heading 054\u00b0 and proceed to intercept radial 015\u00b0 from PAM VOR.</p>",
+    "c": "<p>Turn before EH\u00d82\u00d8 to track 054\u00b0 and proceed towards the next point in the FMS (EH\u00d843).</p>",
+    "d": "Turn to track 040\u00b0 before reaching EH\u00d82\u00d8."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 49500,
+      "uniqueKey": "D097DC07-461D-4EB3-84AB-6692DEA516E4",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=D097DC07-461D-4EB3-84AB-6692DEA516E4",
+      "publicUrl": "/attachments/033/D097DC07-461D-4EB3-84AB-6692DEA516E4.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/D097DC07-461D-4EB3-84AB-6692DEA516E4.jpg"
+    }
+  ]
+}

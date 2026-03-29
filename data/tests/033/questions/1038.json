@@ -1,0 +1,14 @@
+{
+  "number": 1038,
+  "questionId": 108570,
+  "questionNumber": "335415",
+  "stemHtml": "<p>If the landing gear is retracted and the landing gear doors stay open the fuel burn is an extra 15%. How does this affect the FMC?</p>",
+  "options": {
+    "a": "<p>The FMC is unable to adjust for the increase in fuel burn so fuel calculation is not precise.</p>",
+    "b": "<p>The FMS remains reliable because it recalculates fuel consumption and compensates the increased fuel flow.</p>",
+    "c": "<p>The FMC reduces thrust on the engines to compensate for the increased fuel consumption.</p>",
+    "d": "<p>The FMS remains reliable and the contingency fuel covers the increased fuel consumption.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

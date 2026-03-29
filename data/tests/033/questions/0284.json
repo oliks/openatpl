@@ -1,0 +1,24 @@
+{
+  "number": 284,
+  "questionId": 105018,
+  "questionNumber": "335509",
+  "stemHtml": "<p>Refer to figure or use the chart \"E(LO) 5 from the Jeppesen GSPRM 2017.<br>A route connects the waypoint AMGAR (42\u00b033'18.40\"N 003\u00b015'12.00\"W) with TABANERA VOR (42\u00b001'39.00\"N, 004\u00b006'33.00\"W). What kind of route is this?</p>",
+  "options": {
+    "a": "<p>ATS route used by non B-RNAV equipped aircraft.</p>",
+    "b": "<p>Direct ATS route.</p>",
+    "c": "<p>RNAV ATS route.</p>",
+    "d": "<p>Conditional ATS route.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 60527,
+      "uniqueKey": "f2e7bbba-b7a1-48a4-b34b-06b687dbebad",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=f2e7bbba-b7a1-48a4-b34b-06b687dbebad",
+      "publicUrl": "/attachments/033/f2e7bbba-b7a1-48a4-b34b-06b687dbebad.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/f2e7bbba-b7a1-48a4-b34b-06b687dbebad.jpg"
+    }
+  ]
+}

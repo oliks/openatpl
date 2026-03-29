@@ -1,0 +1,24 @@
+{
+  "number": 947,
+  "questionId": 71048,
+  "questionNumber": "331995",
+  "stemHtml": "<p>Refer to figure. <br>An ICAO flight plan provides the following information:</p><p>Item 18: EET/EINN0210</p><p>What does it mean?</p>",
+  "options": {
+    "a": "<p>Estimated elapsed time to EINN is 210 minutes.</p>",
+    "b": "<p>Estimated elapsed time to destination EINN is 2 hours and 10 minutes.</p>",
+    "c": "<p>EINN FIR boundary will be crossed after 2 hours and 10 minutes.</p>",
+    "d": "Speed change at EINN to 204 kt."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 47898,
+      "uniqueKey": "BF45FBB0-8845-4CCA-92D8-0422442A33F5",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=BF45FBB0-8845-4CCA-92D8-0422442A33F5",
+      "publicUrl": "/attachments/033/BF45FBB0-8845-4CCA-92D8-0422442A33F5.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/BF45FBB0-8845-4CCA-92D8-0422442A33F5.png"
+    }
+  ]
+}

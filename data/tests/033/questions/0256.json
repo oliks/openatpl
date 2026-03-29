@@ -1,0 +1,24 @@
+{
+  "number": 256,
+  "questionId": 107352,
+  "questionNumber": "332353",
+  "stemHtml": "<p>Refer to figure or CAP 697 figure 4.3.6. <br>Given the following information, find the required Alternate Fuel to reach both alternates for an IFR Commercial Air Transport flight of duration 8 hours to a destination for which the operator has nominated two destination alternates ALTN1 and ALTN2. At the destination, meteorological information is available, weather conditions are expected to be above the planning minima within ETA +/- 1 hour, two runways are available and usable, the ceiling will be 1500 ft, and the ground visibility 4 km.</p><p>Distance to ALTN1: 200 NM <br>Wind to ALTN1: 50 kt HWC <br>Distance to ALTN2: 275 NM <br>Wind to ALTN2: 30 kt TWC <br>Landing Mass at alternates: 55.0 t</p>",
+  "options": {
+    "a": "<p>1950 kg</p>",
+    "b": "<p>2050 kg</p>",
+    "c": "<p>2350 kg</p>",
+    "d": "<p>2150 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 62363,
+      "uniqueKey": "2b26f406-ea14-437d-9178-40b2bc5e5286",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=2b26f406-ea14-437d-9178-40b2bc5e5286",
+      "publicUrl": "/attachments/033/2b26f406-ea14-437d-9178-40b2bc5e5286.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2b26f406-ea14-437d-9178-40b2bc5e5286.jpg"
+    }
+  ]
+}

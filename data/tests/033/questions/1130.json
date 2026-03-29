@@ -1,0 +1,24 @@
+{
+  "number": 1130,
+  "questionId": 115454,
+  "questionNumber": "336726",
+  "stemHtml": "<p>Refer to figure or Amsterdam Chart 11-3 from Jeppesen GSPRM 2017. <br /> \rWhich of the following statements is correct, for an aircraft category C?</p>",
+  "options": {
+    "a": "<p>After passing LCTR, descend to a height of 2000 feet.</p>",
+    "b": "<p>Descend to 3000 feet at LTCR.</p>",
+    "c": "<p>After passing LCTR, turn outbound heading 310\u00b0, then intercept the localizer inbound on 183\u00b0 after 1 minute.</p>",
+    "d": "<p>Once established on the glide path, descent can be initiated at the pilot's discretion.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 68443,
+      "uniqueKey": "646a4800-645d-4ae5-9b29-dbb595b52df8",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=646a4800-645d-4ae5-9b29-dbb595b52df8",
+      "publicUrl": "/attachments/033/646a4800-645d-4ae5-9b29-dbb595b52df8.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/646a4800-645d-4ae5-9b29-dbb595b52df8.jpg"
+    }
+  ]
+}

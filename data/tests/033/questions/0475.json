@@ -1,0 +1,14 @@
+{
+  "number": 475,
+  "questionId": 70984,
+  "questionNumber": "333060",
+  "stemHtml": "<p>Refer to the following NOTAM and choose the corresponding answer:</p>\r\n\r\n<p>SVC TEMPO TWR LCL TFC/CLRNC DELIVERY 121.0 FRI-SAT 1311131400 - 1311141500EST</p>\r\n\r\n<div> </div>",
+  "options": {
+    "a": "<div>The tower will be available except on Fridays and Saturdays.</div>\r\n\r\n<div> </div>",
+    "b": "Temporarily an additional frequency 121.0 will be available.",
+    "c": "<div>A temporary tower service will be available for controlling local traffic and clearance delivery on freq 121.0, from Friday 13th at 14 00 to Saturday 14th at 15 00.</div>",
+    "d": "<div>The tower will be controlling traffic and clearance delivery will be available on 121.0</div>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

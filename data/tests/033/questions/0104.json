@@ -1,0 +1,24 @@
+{
+  "number": 104,
+  "questionId": 80415,
+  "questionNumber": "337130",
+  "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017. <br>Choose the correct statement on a standard day regarding the airspace above Stuttgart Airport (EDDS, N48\u00b041.4', E009\u00b013.3').</p>",
+  "options": {
+    "a": "<p>At 4000 ft AMSL you would be in class C airspace.</p>",
+    "b": "<p>At 4000 ft AMSL you would be in class D airspace.</p>",
+    "c": "<p>At 2000 ft AMSL you would be in class E airspace.</p>",
+    "d": "<p>At 5000 ft AMSL you would be in class G airspace.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 41948,
+      "uniqueKey": "97B8B67E-7464-4ABC-B48C-4AAEA18833FF",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=97B8B67E-7464-4ABC-B48C-4AAEA18833FF",
+      "publicUrl": "/attachments/033/97B8B67E-7464-4ABC-B48C-4AAEA18833FF.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/97B8B67E-7464-4ABC-B48C-4AAEA18833FF.jpg"
+    }
+  ]
+}

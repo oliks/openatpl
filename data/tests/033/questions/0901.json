@@ -1,0 +1,24 @@
+{
+  "number": 901,
+  "questionId": 70896,
+  "questionNumber": "331892",
+  "stemHtml": "<p>Refer to figure or chart \"E LO 2\" from Jeppesen GSPRM 2017.\u00a0<br>A flight is planned along route T420, course 330\u00b0, FL380, inbound TRENT VOR/DME (TNT). A descent should be initiated to pass waypoint ELVOS in FL200. Calculate the Top of Descent (ToD) relating to TRENT for a ground speed of 200 kt and a rate of descent of 1500 ft/min.</p><p>(Note: when using the original chart from GSPRM both locations can be found in chart section 7 C)</p>",
+  "options": {
+    "a": "55 NM",
+    "b": "40 NM",
+    "c": "65 NM",
+    "d": "109 NM"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 26455,
+      "uniqueKey": "5BB34905-E3C1-429B-92F0-87416404341D",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=5BB34905-E3C1-429B-92F0-87416404341D",
+      "publicUrl": "/attachments/033/5BB34905-E3C1-429B-92F0-87416404341D.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/5BB34905-E3C1-429B-92F0-87416404341D.jpg"
+    }
+  ]
+}

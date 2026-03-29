@@ -1,0 +1,24 @@
+{
+  "number": 34,
+  "questionId": 109291,
+  "questionNumber": "334796",
+  "stemHtml": "<p>Refer to figure or to Amsterdam chart 10-3C from the Jeppesen GSPRM 2017. <br>An aircraft is cleared for the ANDIK2F SID to an altitude of 6000 ft and is then is reauthorized to climb to FL330. You are climbing with an average TAS of 381 kts and a 20 kt tailwind. The climb is 103 NAM (Nautical Air Miles). What is the total distance covered after waypoint ANDIK until top-of-climb?</p>",
+  "options": {
+    "a": "<p>76 NGM</p>",
+    "b": "<p>100 NGM</p>",
+    "c": "<p>70 NAM</p>",
+    "d": "<p>90 NGM</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 65205,
+      "uniqueKey": "2b6b784f-2f4e-4850-8c6c-a236f15538fd",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=2b6b784f-2f4e-4850-8c6c-a236f15538fd",
+      "publicUrl": "/attachments/033/2b6b784f-2f4e-4850-8c6c-a236f15538fd.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/2b6b784f-2f4e-4850-8c6c-a236f15538fd.jpg"
+    }
+  ]
+}

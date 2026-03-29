@@ -1,0 +1,14 @@
+{
+  "number": 32,
+  "questionId": 108965,
+  "questionNumber": "333585",
+  "stemHtml": "<p>Given two destination alternates, specific distances, wind conditions, and fuel consumption graphs, what is the minimum alternate fuel required, if the weather at the destination is above planning minima?</p>",
+  "options": {
+    "a": "<p>Use the alternate closest to the destination to calculate the minimum fuel.</p>",
+    "b": "<p>Calculate for both alternates and use the higher minimum fuel value.</p>",
+    "c": "<p>Use the average of the required fuel for both alternates.</p>",
+    "d": "<p>No alternate fuel is required as the weather is above planning minima.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

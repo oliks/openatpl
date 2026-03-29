@@ -1,0 +1,24 @@
+{
+  "number": 648,
+  "questionId": 110312,
+  "questionNumber": "339704",
+  "stemHtml": "<p>Refer to figure. <br /> \rGiven the information in the Flight Log excerpt, calculate the total fuel used from BRAVO to DELTA, provided that the flight conditions on the flight legs from BRAVO to CHARLIE and the fuel consumption remain unchanged.</p>",
+  "options": {
+    "a": "<p>2907 lb</p>",
+    "b": "<p>949 lb</p>",
+    "c": "<p>624 lb</p>",
+    "d": "<p>793 lb</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 68372,
+      "uniqueKey": "4c7fe488-c0e7-48fe-9a4f-e3f8cc4d0ae6",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4c7fe488-c0e7-48fe-9a4f-e3f8cc4d0ae6",
+      "publicUrl": "/attachments/033/4c7fe488-c0e7-48fe-9a4f-e3f8cc4d0ae6.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4c7fe488-c0e7-48fe-9a4f-e3f8cc4d0ae6.png"
+    }
+  ]
+}

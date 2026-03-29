@@ -1,0 +1,24 @@
+{
+  "number": 89,
+  "questionId": 70678,
+  "questionNumber": "333942",
+  "stemHtml": "<p>Refer to figure  or Flight Planning Manual MRJT 1 Figure 4.3.3C). <br>Given: Twin jet aeroplane</p><p>Ground distance to destination aerodrome: 1600 NM <br>Headwind component: 50 kt <br>FL 330 Cruise 0.78 Mach <br>ISA Deviation: +20\u00b0 C <br>Landing mass: 55 000 kg</p><p>Find: Fuel required and trip time with simplified flight planning.</p>",
+  "options": {
+    "a": "<p>11 600 kg, 04 h 15 min</p>",
+    "b": "<p>12 000 kg, 03 h 51 min</p>",
+    "c": "<p>11 400 kg, 04 h 12 min</p>",
+    "d": "<p>12 400 kg, 04 h 00 min</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "id": 21045,
+      "uniqueKey": "0ADD95B9-3C29-449A-82B1-B44B6FAE1D57",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=0ADD95B9-3C29-449A-82B1-B44B6FAE1D57",
+      "publicUrl": "/attachments/033/0ADD95B9-3C29-449A-82B1-B44B6FAE1D57.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/0ADD95B9-3C29-449A-82B1-B44B6FAE1D57.jpg"
+    }
+  ]
+}

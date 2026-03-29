@@ -1,0 +1,24 @@
+{
+  "number": 735,
+  "questionId": 84367,
+  "questionNumber": "333104",
+  "stemHtml": "<p>Refer to figure. <br /> \rGiven the information in the Flight Log excerpt, calculate the actual fuel consumption rate from BRAVO to DELTA, provided that the flight conditions on the flight legs from BRAVO to CHARLIE and the fuel consumption remain unchanged.</p>",
+  "options": {
+    "a": "<p>1118 lb/h</p>",
+    "b": "<p>325 lb/h</p>",
+    "c": "<p>780 lb/h</p>",
+    "d": "<p>949 lb/h</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "id": 68373,
+      "uniqueKey": "fbbcd6eb-a467-47ca-b521-dbbb4a3a7d42",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=fbbcd6eb-a467-47ca-b521-dbbb4a3a7d42",
+      "publicUrl": "/attachments/033/fbbcd6eb-a467-47ca-b521-dbbb4a3a7d42.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/fbbcd6eb-a467-47ca-b521-dbbb4a3a7d42.png"
+    }
+  ]
+}

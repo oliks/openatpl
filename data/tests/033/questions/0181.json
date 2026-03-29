@@ -1,0 +1,14 @@
+{
+  "number": 181,
+  "questionId": 82838,
+  "questionNumber": "336571",
+  "stemHtml": "<p>An aircraft is flying under VFR on a track of 168\u00b0M. The elevation of the highest obstacle within 5 NM of the intended track of the aircraft is 4200 ft. Given the following information, provided by an aerodrome at 1400 ft elevation, what is the minimum flight level which will give an obstacle clearance 1000 ft?</p>QNH: 1026 hPa <br /> Temperature: 12\u00b0C below ISA <br /> Assume 1 hPa = 30 ft",
+  "options": {
+    "a": "FL60",
+    "b": "FL55",
+    "c": "FL65",
+    "d": "FL50"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1237,
+  "questionId": 110432,
+  "questionNumber": "333682",
+  "stemHtml": "<p>Given the following information, what is the GS of the aeroplane?</p><p>FL390 <br>OAT: -40\u00b0C <br>Mach number: M 0.82 <br>Wind component: -42 kt</p>",
+  "options": {
+    "a": "<p>488 kt</p>",
+    "b": "<p>446 kt</p>",
+    "c": "<p>530 kt</p>",
+    "d": "<p>452 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

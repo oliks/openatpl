@@ -1,0 +1,14 @@
+{
+  "number": 316,
+  "questionId": 81711,
+  "questionNumber": "338579",
+  "stemHtml": "<p>Given the following data for the pre-flight calculations, determine the required Alternate Fuel for a Commercial Air Transport flight. Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Fuel for a missed approach at destination: 280 kg<br>Fuel for the climb to cruise level: 900 kg<br>Cruise distance to the alternate: 230 NM<br>Cruise fuel consumption: 6.5 kg / NAM<br>Fuel for the descent to the alternate: 125 Kg<br>Fuel for the Approach and Landing at the Alternate: 220 kg<br>Holding fuel flow at the alternate: 2000 kg /h<br>Fuel for a missed approach at the alternate: 230 kg<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
+  "options": {
+    "a": "<p>3020 kg</p>",
+    "b": "<p>3250 kg</p>",
+    "c": "<p>4020 kg</p>",
+    "d": "<p>2740 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

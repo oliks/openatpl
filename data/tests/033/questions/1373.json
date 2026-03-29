@@ -1,0 +1,24 @@
+{
+  "number": 1373,
+  "questionId": 84290,
+  "questionNumber": "339528",
+  "stemHtml": "<p>Refer to figure. <br>You experience a total RNAV system failure enroute to your destination, Amsterdam Schiphol aerodrome. During descent, Schiphol Arrival assigns you the NORKU 2A arrival. Can you accept this STAR?</p>",
+  "options": {
+    "a": "No, because it is an RNAV STAR.",
+    "b": "No, because it is an RNAV STAR. However, you can request REKKEN 2A.",
+    "c": "You can follow NORKU 2A because it is a conventional STAR.",
+    "d": "Yes, if you given vectors to OSKUR."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "id": 50746,
+      "uniqueKey": "4DD31358-AFC0-4F3D-8682-3F4B77A4EA6C",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=4DD31358-AFC0-4F3D-8682-3F4B77A4EA6C",
+      "publicUrl": "/attachments/033/4DD31358-AFC0-4F3D-8682-3F4B77A4EA6C.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/4DD31358-AFC0-4F3D-8682-3F4B77A4EA6C.jpg"
+    }
+  ]
+}

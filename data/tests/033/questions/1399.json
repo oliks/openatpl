@@ -1,0 +1,14 @@
+{
+  "number": 1399,
+  "questionId": 96680,
+  "questionNumber": "335132",
+  "stemHtml": "<p>During a flight, a pilot decides to make an unplanned diversion due to passenger illness. The route to the alternate requires them to turn 90 degrees away from the planned track and fly for 50 NM. What altitude should the pilot choose to ensure a safe clearance from terrain and man-made structures?</p>",
+  "options": {
+    "a": "Minimum Off-Route Altitude (MORA).",
+    "b": "Grid Minimum Off-Route Altitude (GRID MORA), because it provides clearance from terrain and man-made obstacles over a wider area.",
+    "c": "<p>GRID MORA only provides a clearance of 2000 ft in areas where the highest elevations are 5000 ft MSL or lower.</p>",
+    "d": "MORA, because it provides clearance over terrain and man-made structures on either side of the route centreline up to 2000 ft."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 722,
+  "questionId": 70912,
+  "questionNumber": "331264",
+  "stemHtml": "<p>Calculate the maximum possible extra fuel, based on the flight and aircraft data given below.</p><p>MTOM: 476 100 lb\u00a0<br>MLM: 387 350 lb\u00a0<br>MZFM: 362 700 lb\u00a0<br>Planned ZFM: 323 450 lb\u00a0<br>Trip fuel: 72 460 lb\u00a0<br>Take-off fuel:124 830 lb\u00a0<br>Fuel penalty:630 lb/1000 lb</p>",
+  "options": {
+    "a": "31 162 lb",
+    "b": "27 820 lb",
+    "c": "18793 lb",
+    "d": "11 530 lb"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 388,
+  "questionId": 86378,
+  "questionNumber": "336180",
+  "stemHtml": "What will be the effect of an incorrect cruise level entry into the FMC?",
+  "options": {
+    "a": "The FMC will calculate incorrect speeds, times and fuel flows.",
+    "b": "The incorrect entry will be detected and the input will be prevented.",
+    "c": "The aircraft will NOT be able to reach the ATC assigned cruise level.",
+    "d": "There will be NO effect as the FMC will make an automatic correction."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

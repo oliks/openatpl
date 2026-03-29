@@ -1,0 +1,33 @@
+{
+  "number": 586,
+  "questionId": 107601,
+  "questionNumber": "336072",
+  "stemHtml": "<p>Refer to figures and/or to Air Traffic Control section page GSP-470 from Jeppesen GSPRM 2017. One of the images shows an extract of an ATC Flight Plan as presented in a briefing pack produced by a flight planning program. Decode the text associated with ITEM 16 that is highlighted in red.</p>",
+  "options": {
+    "a": "<p>ESPA is the departure aerodrome, 6 hours 5 minutes is the endurance, and ESNU is the destination aerodrome.</p>",
+    "b": "<p>ESPA is the destination aerodrome, 6 hours 5 minutes is the flight time, and ESNU is the alternate aerodrome.</p>",
+    "c": "<p>ESPA is the departure aerodrome, 06:05 UTC is the estimated off-block time, and ESNU is the destination aerodrome.</p>",
+    "d": "<p>ESPA is the destination aerodrome, 6 hours 5 minutes is the endurance, and ESNU is the alternate aerodrome.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "id": 62755,
+      "uniqueKey": "6853eddc-ec59-4317-97ce-b98cfd8526fe",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=6853eddc-ec59-4317-97ce-b98cfd8526fe",
+      "publicUrl": "/attachments/033/6853eddc-ec59-4317-97ce-b98cfd8526fe.jpg",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/6853eddc-ec59-4317-97ce-b98cfd8526fe.jpg"
+    },
+    {
+      "id": 62757,
+      "uniqueKey": "c4e28ada-0353-4b85-8580-bbf788344721",
+      "annexWithGif": false,
+      "imageType": 0,
+      "sourceUrl": "https://atplquestions.com/image/download?image=c4e28ada-0353-4b85-8580-bbf788344721",
+      "publicUrl": "/attachments/033/c4e28ada-0353-4b85-8580-bbf788344721.png",
+      "localPath": "/Users/home/Desktop/openatpl/public/attachments/033/c4e28ada-0353-4b85-8580-bbf788344721.png"
+    }
+  ]
+}

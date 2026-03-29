@@ -1,0 +1,14 @@
+{
+  "number": 574,
+  "questionId": 70344,
+  "questionNumber": "335324",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from departure to destination: 1500 NM</span>  <br />  \nSafe Endurance: 4.5 h  <br />  \nTAS: 450 kt  <br />  \nGround Speed Out: 480 kt  <br />  \nGround Speed Home: 410 kt</p>\n\n<p>What is the time of the PSR from the departure point?</p>",
+  "options": {
+    "a": "101 min",
+    "b": "66 min",
+    "c": "63 min",
+    "d": "124 min"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 109,
+  "questionId": 70820,
+  "questionNumber": "333875",
+  "stemHtml": "<p>For pre-flight planning purposes, what is the total fuel required for the IFR Commercial Air Transport flight from A to B with alternate C with a turbine engine aircraft, given the following information? Assume the Basic Fuel Scheme WITHOUT variations applies.</p><p>Taxi Fuel: 250 kg<br>Trip Fuel: 4520 kg<br>Alternate Fuel: 236 kg<br>Fuel flow for Final Reserve Fuel: 2510 kg/h<br>Extra Fuel: 0 kg<br>Discretionary Fuel: 0 kg</p>",
+  "options": {
+    "a": "7115 kg",
+    "b": "6237 kg",
+    "c": "6487 kg",
+    "d": "6261 kg"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

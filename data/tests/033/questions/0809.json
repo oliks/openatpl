@@ -1,0 +1,14 @@
+{
+  "number": 809,
+  "questionId": 101112,
+  "questionNumber": "332656",
+  "stemHtml": "<p>Given the following information, what Taxi Fuel is required for a Commercial Air Transport flight?</p><p>Planned APU usage: 10 minutes <br /> Planned taxi time: 10 minutes <br /> Taxi fuel: 5 kg/min  <br /> APU fuel flow: 120 kg/h <br /> Engine startup: 5 kg</p>",
+  "options": {
+    "a": "70 kg",
+    "b": "75 kg",
+    "c": "65 kg",
+    "d": "50 kg"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

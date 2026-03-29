@@ -1,0 +1,14 @@
+{
+  "number": 601,
+  "questionId": 162486,
+  "questionNumber": "333943",
+  "stemHtml": "<p>A refueling request for 250 US gallons is misinterpreted, resulting in 250 Imperial gallons being uploaded instead. Given a specific gravity of 0.75 kg/l, calculate the excess fuel mass added beyond the original request. <br />  </p>",
+  "options": {
+    "a": "<p>190 kg</p>",
+    "b": "<p>143 kg</p>",
+    "c": "<p>946 kg</p>",
+    "d": "<p>253 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}
