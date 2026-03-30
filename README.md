@@ -66,7 +66,7 @@ data/tests/
       ...
 public/attachments/
   010/
-    <uniqueKey>.jpg           # Question attachment images
+    010-att-0001.jpg          # Attachment images ({subjectCode}-att-{number})
 ```
 
 ### manifest.json
@@ -133,9 +133,8 @@ Each question is a standalone JSON file:
   "correctOption": "a",
   "attachments": [
     {
-      "uniqueKey": "5a413b42-c023-49af-aa3a-062fc731da8a",
-      "sourceUrl": "https://example.com/image.jpg",
-      "publicUrl": "/attachments/032/5a413b42-c023-49af-aa3a-062fc731da8a.jpg"
+      "uniqueKey": "032-att-0001",
+      "publicUrl": "/attachments/032/032-att-0001.jpg"
     }
   ]
 }
@@ -155,9 +154,8 @@ Each question is a standalone JSON file:
 
 | Field | Description |
 |-------|-------------|
-| `uniqueKey` | Unique identifier for the image file |
-| `publicUrl` | Path relative to `public/` (e.g. `/attachments/032/<key>.jpg`) |
-| `sourceUrl` | Original source URL (for reference only) |
+| `uniqueKey` | Attachment identifier (e.g. `032-att-0001`) |
+| `publicUrl` | Path relative to `public/` (e.g. `/attachments/032/032-att-0001.jpg`) |
 
 Place image files in `public/attachments/<subjectCode>/`.
 
