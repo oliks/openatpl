@@ -457,11 +457,20 @@ export default function TestRunner({
   const updateAnswer = useCallback((opt) => {
     if (!currentQuestion) return;
     const key = String(currentQuestion.id);
+    let isNew = false;
     setAnswers(prev => {
       if (normalizeOption(prev[key])) return prev;
+      isNew = true;
       return { ...prev, [key]: opt };
     });
-  }, [currentQuestion]);
+    // Auto-advance on correct answer after a short delay
+    const cor = normalizeOption(currentQuestion.correctOption);
+    if (isNew && cor && opt === cor) {
+      setTimeout(() => {
+        startTransition(() => setCurrentIndex(i => Math.min(i + 1, questions.length - 1)));
+      }, 600);
+    }
+  }, [currentQuestion, questions.length]);
 
   const goToIndex = useCallback((idx) => {
     startTransition(() => setCurrentIndex(clamp(idx, 0, questions.length - 1)));
