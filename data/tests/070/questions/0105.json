@@ -1,0 +1,14 @@
+{
+  "number": 105,
+  "questionId": "070-0105",
+  "questionNumber": "070-0105",
+  "stemHtml": "<p>An aeroplane is planned to perform a short flight where the maximum planned altitude is FL260. During flight preparations, the crew realises that the aeroplane is NOT RVSM compliant due to a technical malfunction that has been deferred to the MEL. What, if any, altitude restrictions apply for the flight?</p>",
+  "options": {
+    "a": "<p>A lower altitude must be planned, below FL200, because the aeroplane CANNOT fly at FL260 until the technical malfunction is repaired.</p>",
+    "b": "The planned minimum flight altitude must be increased to ensure adequate obstacle clearance.",
+    "c": "The aeroplane is NOT airworthy and the flight CANNOT be completed.",
+    "d": "None, as the flight is planned to operate below RVSM airspace."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 814,
+  "questionId": "090-0814",
+  "questionNumber": "090-0814",
+  "stemHtml": "<p>In METAR and SPECI reports, the wind direction is reported in degrees true. The wind passed by the tower to aircraft for landing or take-off purposes is reported in degrees\u2026</p>",
+  "options": {
+    "a": "<div>compass.</div>",
+    "b": "<div>magnetic.</div>",
+    "c": "<div>true.</div>",
+    "d": "grid.<br>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

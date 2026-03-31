@@ -1,0 +1,14 @@
+{
+  "number": 1988,
+  "questionId": "081-1988",
+  "questionNumber": "081-1988",
+  "stemHtml": "<div>In a straight and steady power-on descent, thrust is...</div>\r\n",
+  "options": {
+    "a": "<div>less than drag only when the throttle is closed, because then the force of thrust is removed.</div>",
+    "b": "<div>greater than drag, because lift is giving a rearward component in the same direction as drag.</div>",
+    "c": "<div>less than drag, because weight is giving a forward component in the same direction as thrust.</div>",
+    "d": "equal to drag when the descent is steady, unaccelerated, and without any power changes."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

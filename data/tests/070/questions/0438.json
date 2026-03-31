@@ -1,0 +1,14 @@
+{
+  "number": 438,
+  "questionId": "070-0438",
+  "questionNumber": "070-0438",
+  "stemHtml": "<p>A pilot performs their line check in the middle of the month. From when will the period of validity be counted?</p>",
+  "options": {
+    "a": "<p>Valid from the end of the month.</p>",
+    "b": "<p>Valid from the start of the month. </p>",
+    "c": "<p>Valid from the date of the line check.</p>",
+    "d": "<p>The validity starts one month after the line check. </p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

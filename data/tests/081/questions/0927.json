@@ -1,0 +1,14 @@
+{
+  "number": 927,
+  "questionId": "081-0927",
+  "questionNumber": "081-0927",
+  "stemHtml": "<p>For this question, consider high speed aerodynamics. An aeroplane accelerates from low speed to a speed just below M<strong><sub>CRIT</sub></strong> in straight and level flight. What changes to the airflow around the aeroplane can you expect to take place?</p>",
+  "options": {
+    "a": "<p>The airflow becomes more turbulent due to the presence of areas of Increased compressibility slowing down the speed of the airflow.</p>",
+    "b": "<p>The total pressure will Increase as shock waves start forming In areas where there is significant local acceleration, causing wave drag.</p>",
+    "c": "<p>The total pressure will increase slightly due to compressibility of the air which, for example, gives an artificially high reading of CAS.</p>",
+    "d": "<p>The airflow has a greater tendency to separate as small and weak shock waves start to form In areas of Increased compressibility.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

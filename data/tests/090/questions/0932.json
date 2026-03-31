@@ -1,0 +1,14 @@
+{
+  "number": 932,
+  "questionId": "090-0932",
+  "questionNumber": "090-0932",
+  "stemHtml": "<p>While flying inland from the coast, you encounter an incoming mass of colder air. Will this affect VHF radio communication?</p>",
+  "options": {
+    "a": "<p>No noticeable effect will occur, as VHF is immune to atmospheric changes.</p>",
+    "b": "<p>VHF signals will reflect off the cold air layer and extend their range.</p>",
+    "c": "<p>Signal attenuation will increase, reducing communication range.</p>",
+    "d": "<p>Signal quality improves due to the denser air.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

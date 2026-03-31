@@ -1,0 +1,14 @@
+{
+  "number": 273,
+  "questionId": "090-0273",
+  "questionNumber": "090-0273",
+  "stemHtml": "<p>During a radar approach, you are following an ATC instruction and have started a right turn from 210 degrees onto North. What instruction would you expect the controller to give you, if the controller now wants you to head 335 degrees instead?</p>",
+  "options": {
+    "a": "<p>G-ACZG, MODIFY HEADING THREE THREE FIVE DEGREES.</p>",
+    "b": "<p>G-ACZG, LEAVE THREE SIX ZERO DEGREES HEADING THREE THREE FIVE DEGREES.</p>",
+    "c": "<p>G-ACZG, FOLLOW HEADING THREE THREE FIVE DEGREES.</p>",
+    "d": "<p>G-ACZG, STOP TURN HEADING THREE THREE FIVE DEGREES.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

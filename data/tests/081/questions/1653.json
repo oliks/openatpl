@@ -1,0 +1,14 @@
+{
+  "number": 1653,
+  "questionId": "081-1653",
+  "questionNumber": "081-1653",
+  "stemHtml": "The pilot's control input in a Fly-By-Wire system is:",
+  "options": {
+    "a": "linked by mechanical cables directly to the flight control surface.",
+    "b": "converted into an electrical signal and linked via a computer to the flight control surface.",
+    "c": "linked mechanically to a computer and then to the flight control surface.",
+    "d": "linked by electrical wires directly to the flight control surface."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

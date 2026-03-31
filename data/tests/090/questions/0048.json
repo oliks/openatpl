@@ -1,0 +1,14 @@
+{
+  "number": 48,
+  "questionId": "090-0048",
+  "questionNumber": "090-0048",
+  "stemHtml": "<p>An aircraft is conducting a VFR flight and a two-way communication with Europe information on 126.930 is established. The departure aerodrome is Bonn, destination is Spa, and alternative is Luxembourg, using the following frequencies: </p><p>Bonn Tower: 134.930 <br /> Spa Radio: 124.540 <br /> Luxembourg Tower: 118.105</p><p>The pilot suddenly experiences an engine failure. Which frequency shall be used for the first transmission of a \"MAYDAY\" call?</p>",
+  "options": {
+    "a": "<p>124.540</p>",
+    "b": "<p>126.930</p>",
+    "c": "<p>134.930</p>",
+    "d": "118.105"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

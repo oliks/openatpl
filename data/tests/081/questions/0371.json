@@ -1,0 +1,14 @@
+{
+  "number": 371,
+  "questionId": "081-0371",
+  "questionNumber": "081-0371",
+  "stemHtml": "<p>You are in the cruise, allowing the aircraft to accelerate with the autopilot engaged. The pilot observes the control trim moving continuously, and the aircraft is struggling to maintain level flight. What should the pilot do in this situation?</p>",
+  "options": {
+    "a": "<p>Leave the autopilot connected as any intervention from the pilot will worsen the situation.</p>",
+    "b": "<p>Disconnect the autopilot and try to recover the situation.</p>",
+    "c": "<p>Protect the movement of the CG so it doesn't exceed the limits.</p>",
+    "d": "<p>Switch off the electrical master switch to remove power to the system.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

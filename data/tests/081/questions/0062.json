@@ -1,0 +1,14 @@
+{
+  "number": 62,
+  "questionId": "081-0062",
+  "questionNumber": "081-0062",
+  "stemHtml": "<p>Consider two elevator control systems:</p>\r\n\r\n<p>1. is fitted with a trim tab.<br />\r\n2. is fitted with fully powered hydraulic controls and an adjustable horizontal stabiliser.</p>\r\n\r\n<p>For both cases and starting from a trimmed condition, how will the neutral position of the control column change, after trimming for a speed decrease?</p>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "1 does not change, 2 moves aft.",
+    "b": "1 moves forward, 2 moves forward.",
+    "c": "1 moves aft, 2 does not change.",
+    "d": "1 does not change, 2 does not change."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

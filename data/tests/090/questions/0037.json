@@ -1,0 +1,14 @@
+{
+  "number": 37,
+  "questionId": "090-0037",
+  "questionNumber": "090-0037",
+  "stemHtml": "<p>An aircraft is climbing to FL200. How often is it required to transmit automated weather reports?</p>",
+  "options": {
+    "a": "<p>Required every 15 minutes.</p>",
+    "b": "<p>Required every 30 minutes.</p>",
+    "c": "<p>Required every 30 seconds.</p>",
+    "d": "<p>Not required, but recommended above FL290.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

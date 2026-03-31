@@ -1,0 +1,14 @@
+{
+  "number": 738,
+  "questionId": "081-0738",
+  "questionNumber": "081-0738",
+  "stemHtml": "<p>Determine the thrust, in a straight and steady descent, with a glide angle of 30 degrees. Consider the following values:</p><p>Mass: 10 455 kg <br>Lift: 103 230 N <br>Drag: 87 500 N <br>Assume that g=10 m/s<strong><sup>2</sup></strong></p>",
+  "options": {
+    "a": "<p>35 225 N</p>",
+    "b": "<p>90 543 N</p>",
+    "c": "<p>52 275 N</p>",
+    "d": "<p>104 550 N</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

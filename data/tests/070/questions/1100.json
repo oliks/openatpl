@@ -1,0 +1,19 @@
+{
+  "number": 1100,
+  "questionId": "070-1100",
+  "questionNumber": "070-1100",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is overflying a mountainous area when the pilot observes the clouds shown in the attached figure. Mountain waves are frequently associated with this area. Therefore, a pilot flying in areas where these types of clouds are observed should consider the\u2026</p>",
+  "options": {
+    "a": "<p>Impact on the mass and balance of the aeroplane since the upward and downward components of the airflow may cause significant pitching of the aeroplane.</p>",
+    "b": "<p>Likelihood of significant clear air icing as a result of the air being forced over the mountains, creating an effect where ice may form outside clouds.</p>",
+    "c": "<p>Performance of the aeroplane as the downward component at the back of the waves may be greater than the achievable rate of climb.</p>",
+    "d": "<p>Risks of entering the area where the waves exist because the rate of climb may exceed what the aeroplane is capable of controlling.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0016",
+      "publicUrl": "/attachments/070/070-att-0016.jpg"
+    }
+  ]
+}

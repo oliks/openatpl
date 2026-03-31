@@ -1,0 +1,14 @@
+{
+  "number": 387,
+  "questionId": "090-0387",
+  "questionNumber": "090-0387",
+  "stemHtml": "<p>The pilot of an aircraft reports as 'Blue Echo Golf'. Is that the correct way to transmit the aircraft callsign?</p>",
+  "options": {
+    "a": "<p>Yes, it follows the standard callsign format.</p>",
+    "b": "<p>No, it should be 'Bravo Echo Golf.'</p>",
+    "c": "<p>No, because 'Golf' is not a standard phonetic alphabet word.</p>",
+    "d": "<p>Yes, because the name of the carrier can be 'Blue'.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

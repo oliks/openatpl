@@ -1,0 +1,14 @@
+{
+  "number": 2075,
+  "questionId": "081-2075",
+  "questionNumber": "081-2075",
+  "stemHtml": "<p>A student pilot is performing slow flight exercises at a constant altitude. They reduce speed whilst pulling the stick back to maintain altitude. As the aircraft has excellent stall characteristics, the aircraft eventually stalls and starts to descend at a constant speed, with the pilot still pulling the stick fully backwards. Select the correct statement about drag before and after the stall.</p>",
+  "options": {
+    "a": "<p>Induced drag increases until the stall, then decreases to zero, and total drag continues to decrease to zero.</p>",
+    "b": "<p>Induced drag increases until the stall, then decreases slightly, while total drag continues to increase beyond the stall.</p>",
+    "c": "<p>Parasite drag decreases until the stall, and then reaches zero during the stall.</p>",
+    "d": "<p>Parasite drag increases to its maximum during the stall, then decrease sharply thereafter.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

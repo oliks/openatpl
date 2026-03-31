@@ -1,0 +1,14 @@
+{
+  "number": 213,
+  "questionId": "070-0213",
+  "questionNumber": "070-0213",
+  "stemHtml": "<p>Before departure, the pilot-in-command must ensure that the cabin is secure. How can the check of \"cabin secure\" be done?</p>",
+  "options": {
+    "a": "<p>The commander must personally perform the \u201ccabin secure\u201d check visually, to make sure passengers are seated and luggage is properly stowed.</p>",
+    "b": "<p>The commander must personally perform the \u201ccabin secure\u201d check, to confirm that all luggage is properly stowed.</p>",
+    "c": "<p>The commander gives the task to secure the cabin to cabin crew who check all luggage is properly stowed, and the cabin crew will give confirmation when it\u2019s done.</p>",
+    "d": "<p>Only a pilot can confirm that the exits and corridor are unobstructed and all luggage is properly stowed.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1226,
+  "questionId": "070-1226",
+  "questionNumber": "070-1226",
+  "stemHtml": "<p>An aircraft is subjected to Unlawful Interference. The flight crew advises ATC of this fact and starts descending. Should the flight crew advise ATC about this flight path change?</p>",
+  "options": {
+    "a": "<p>Yes, but should advise before starting descending if possible.</p>",
+    "b": "<p>No, because it\u2019s an unlawful interference.</p>",
+    "c": "<p>No, because they are already advised.</p>",
+    "d": "<p>Yes, if the level used is a normal IFR.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

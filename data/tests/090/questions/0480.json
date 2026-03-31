@@ -1,0 +1,14 @@
+{
+  "number": 480,
+  "questionId": "090-0480",
+  "questionNumber": "090-0480",
+  "stemHtml": "<div>The radar controller transmits the following traffic information to you:\u201dFOXTROT ALPHA GOLF DELTA ZULU, TRAFFIC TWO O\u2019CLOCK EIGHT MILES, CLOSING,SAME LEVEL.\u201d What would be an appropriate reply?</div>",
+  "options": {
+    "a": "<div>\"FOXTROT ALPHA GOLF DELTA ZULU, REQUEST LEAVE HEADING.\"</div>",
+    "b": "<p>\"NEGATIVE CONTACT, REQUEST VECTORS, FOXTROT ALPHA GOLF DELTA ZULU.\"</p>",
+    "c": "<div>\"ACKNOWLEDGED, WE ARE LOOKING, FOXTROT APLHA GOLF DELTA ZULU.\"</div>",
+    "d": "\"FOXTROT APLHA GOLF DELTA ZULU, REPORT HEADING.\""
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 600,
+  "questionId": "070-0600",
+  "questionNumber": "070-0600",
+  "stemHtml": "<p>Two airplanes are conducting the same approach procedure. How will the tip vortices of the first airplane influence the following aircraft?</p>",
+  "options": {
+    "a": "<p>At first they become stronger as the first airplane slows down, but they become weaker as the flaps are extended.</p>",
+    "b": "<p>At first they become weaker as the first airplane slows down, but they become stronger as the flaps are extended.</p>",
+    "c": "<p>The tip vortices will remain constant as the aircraft slows down and extends the flaps.</p>",
+    "d": "Increase exponentially."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

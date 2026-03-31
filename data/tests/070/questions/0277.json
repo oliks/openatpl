@@ -1,0 +1,14 @@
+{
+  "number": 277,
+  "questionId": "070-0277",
+  "questionNumber": "070-0277",
+  "stemHtml": "<p>An IFR flight is flying from Athens to Milan. The weather at the destination is below the applicable minima. The pilot may not take off unless the weather at the expected time of (1) _____ at (2) _____ is above the planning minima.</p>",
+  "options": {
+    "a": "<p>(1) arrival; (2) the alternates</p>",
+    "b": "<p>(1) takeoff; (2) the alternates</p>",
+    "c": "<p>(1) arrival; (2) Milan</p>",
+    "d": "<p>(1) take-off; (2) Athens</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 115,
+  "questionId": "070-0115",
+  "questionNumber": "070-0115",
+  "stemHtml": "<p>When conducting simulated evacuation drills, which are correct? (Choose 4 out of 6) <br /> \r <br /> \r1. Curtains must be in the take-off position <br /> \r2. Seat belt and harnesses must be worn <br /> \r3. Aircraft over 44 seats must be evacuated in 180 seconds <br /> \r4. Aircraft attitude must be stable and landing gear extended <br /> \r5. Cabin baggage must be stowed in overhead lockers and the aisles kept clear for safety reasons <br /> \r6. All cabin crew are sat at their stations, awaiting the signal to start the evacuation</p>",
+  "options": {
+    "a": "<p>1, 2, 4 and 5</p>",
+    "b": "<p>2, 3, 5 and 6</p>",
+    "c": "<p>1, 2, 4 and 6</p>",
+    "d": "<p>3, 4, 5 and 6</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

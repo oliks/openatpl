@@ -1,0 +1,19 @@
+{
+  "number": 2095,
+  "questionId": "081-2095",
+  "questionNumber": "081-2095",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe annex shows three distinct aerofoils named based on their design. Which type of aircraft would typically incorportate a wing with aerofoil NACA 64-206?</p>",
+  "options": {
+    "a": "<p>Slow- and medium-speed aeroplanes which require predictable handling characteristics across their speed range.</p>",
+    "b": "<p>Aeroplanes that fly at supersonic speeds which require a very high M<sub>CRIT</sub>, while reducing the effects of shockwaves.</p>",
+    "c": "<p>High-speed subsonic aeroplanes which require a high M<sub>CRIT</sub>, while preserving good low-speed handling qualities.</p>",
+    "d": "<p>Training aeroplanes that should possess good low-speed handling and must have easily manageable stall characteristics.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0091",
+      "publicUrl": "/attachments/081/081-att-0091.png"
+    }
+  ]
+}

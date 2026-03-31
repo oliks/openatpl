@@ -1,0 +1,19 @@
+{
+  "number": 763,
+  "questionId": "081-0763",
+  "questionNumber": "081-0763",
+  "stemHtml": "<p>Refer to figure. <br>Which of the following happens between points 3 and 4 on the flight profile shown?</p>",
+  "options": {
+    "a": "<p>The M<sub>CRIT</sub> increases because the AoA decreases.</p>",
+    "b": "<p>The M<sub>CRIT</sub> remains constant as the Mach number decreases.</p>",
+    "c": "<p>The AoA increases, causing the M<sub>CRIT</sub> to decrease.</p>",
+    "d": "<p>The aircraft is decelerating, which reduces the Mach number without affecting M<sub>CRIT</sub>.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0058",
+      "publicUrl": "/attachments/081/081-att-0058.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 501,
+  "questionId": "081-0501",
+  "questionNumber": "081-0501",
+  "stemHtml": "<p>For a constant-speed propeller, how will the propeller efficiency change from the brake-release point to the start of the climb?</p>",
+  "options": {
+    "a": "<p>It increases until reaching the optimum angle of attack then remains at maximum.</p>",
+    "b": "<p>It increases until reaching the optimum angle of attack then decreases.</p>",
+    "c": "<p>It decreases until reaching the optimum angle of attack then increases.</p>",
+    "d": "<p>It decreases until reaching the optimum angle of attack then remains constant.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

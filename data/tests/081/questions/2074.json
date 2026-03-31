@@ -1,0 +1,14 @@
+{
+  "number": 2074,
+  "questionId": "081-2074",
+  "questionNumber": "081-2074",
+  "stemHtml": "<p>A pilot of a single engine aircraft performs a glide approach, maintaining a constant IAS. From 500 ft, the headwind gradually changes from 15 kt to 5 kt. What changes will the pilot have to make to the pitch of the aircraft, and how will this affect the glide path angle?</p>",
+  "options": {
+    "a": "<p>Pitch down, and this will significantly increase the glide angle. The pilot will undershoot the threshold.</p>",
+    "b": "<p>No pitch change, and the glide angle will remain constant.</p>",
+    "c": "<p>No pitch change, and the glide angle will become shallower. The pilot will overshoot the threshold.</p>",
+    "d": "<p>Pitch up, and this will significantly decrease the glide angle.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

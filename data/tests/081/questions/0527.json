@@ -1,0 +1,14 @@
+{
+  "number": 527,
+  "questionId": "081-0527",
+  "questionNumber": "081-0527",
+  "stemHtml": "<p>You are cruising at FL250, maintaining a constant CAS of 300 kt. The indicated Mach number is 0.7, with a static air temperature (SAT) of -35\u00b0C. If the SAT increases to -30\u00b0C and all other variables remain the same, the Mach number will\u2026</p>",
+  "options": {
+    "a": "<p>increase because Mach number is a function of the local speed of sound, which increases with ambient temperature.</p>",
+    "b": "<p>decrease but, after some time, increases once again because of increasing TAT.</p>",
+    "c": "<p>remain constant because at a constant CAS and pressure altitude, Mach is independent of temperature.</p>",
+    "d": "<p>decrease because LSS will increase with increases in temperature.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

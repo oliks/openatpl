@@ -1,0 +1,14 @@
+{
+  "number": 1560,
+  "questionId": "081-1560",
+  "questionNumber": "081-1560",
+  "stemHtml": "<p>Whilst climbing in a jet aircraft, all the pitot tubes become frozen over. The IAS is gradually increasing and eventually reaches the maximum operating airspeed. Which of the following is correct?</p>",
+  "options": {
+    "a": "<p>If the pilots do not recognise the unreliable airspeed condition, reducing thrust to control the IAS may cause the aircraft to stall.</p>",
+    "b": "<p>The air data computers should notice this fault and apply a suitable correction to get the correct IAS indication.</p>",
+    "c": "<p>The auto-throttle system will prevent you from exceeding limitations.</p>",
+    "d": "<p>If the autopilot is engaged, it will detect the malfunction and fly the actual airspeed, no matter the pitot blockages.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

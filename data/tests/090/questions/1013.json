@@ -1,0 +1,14 @@
+{
+  "number": 1013,
+  "questionId": "090-1013",
+  "questionNumber": "090-1013",
+  "stemHtml": "<p>F-GTPO is already in contact with Lille Tower and sends the following message: \"PAN PAN, PAN PAN, PAN PAN, Lille, F-GTPO, losing engine power, requesting immediate landing runway 20, right hand base for runway 20.\" Which of the following statements is correct as regards the compliance of the message with the standards for urgency transmissions?</p>",
+  "options": {
+    "a": "<p>Urgency transmissions shall be made on the 121.500 MHz frequency.</p>",
+    "b": "<p>In urgency transmissions the name of the station addressed shall be omitted or abbreviated to save time.</p>",
+    "c": "<p>Urgency transmissions shall be made on the air-ground frequency in use at the time.</p>",
+    "d": "<p>The urgency standard phrase is MAYDAY instead of PAN PAN.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

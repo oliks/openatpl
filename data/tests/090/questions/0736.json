@@ -1,0 +1,14 @@
+{
+  "number": 736,
+  "questionId": "090-0736",
+  "questionNumber": "090-0736",
+  "stemHtml": "What phraseology would ATC use to notify the failure of a single CPDLC message?",
+  "options": {
+    "a": "(All stations) CPDLC failure (instructions).",
+    "b": "(All stations) stop sending CPDLC requests (until advised) (reason).",
+    "c": "Disregard CPDLC (message type) message, Break (correct clearance, instruction, information or request).",
+    "d": "CPDLC message failure (appropriate clearance, instruction, information or request)."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

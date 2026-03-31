@@ -1,0 +1,19 @@
+{
+  "number": 1725,
+  "questionId": "081-1725",
+  "questionNumber": "081-1725",
+  "stemHtml": "<p>Refer to figure. <br>If an aircraft is descending with idle power set, and using pitch to control speed following the trajectory shown in the annex, how will M<strong><sub>CRIT</sub></strong> (Critical Mach Number) change between positions 3 and 4?</p>",
+  "options": {
+    "a": "<p>M<sub>CRIT </sub>will increase due to a decreasing angle of attack and changing trajectory.</p>",
+    "b": "<p>M<sub>CRIT </sub>will decrease due to an increasing angle of attack and changing trajectory.</p>",
+    "c": "<p>M<sub>CRIT </sub>will decrease due to an decreasing load factor.</p>",
+    "d": "<p>M<sub>CRIT </sub>will increase due to a decreasing load factor.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0190",
+      "publicUrl": "/attachments/081/081-att-0190.jpg"
+    }
+  ]
+}

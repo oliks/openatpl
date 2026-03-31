@@ -1,0 +1,14 @@
+{
+  "number": 2400,
+  "questionId": "081-2400",
+  "questionNumber": "081-2400",
+  "stemHtml": "<p>In aircraft aerodynamics, what is the \"static margin\"?</p>",
+  "options": {
+    "a": "<p>The ratio of the tailplane\u2019s lift coefficient to the wing\u2019s lift coefficient.</p>",
+    "b": "<p>The percentage of the mean aerodynamic chord (MAC) from the leading edge to the centre of gravity.</p>",
+    "c": "<p>The distance between the centre of gravity (CG) and the neutral point.</p>",
+    "d": "<p>The difference in angle between the aircraft\u2019s longitudinal axis and the relative airflow.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

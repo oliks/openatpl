@@ -1,0 +1,14 @@
+{
+  "number": 380,
+  "questionId": "070-0380",
+  "questionNumber": "070-0380",
+  "stemHtml": "<p>An aircraft is on stand awaiting departure clearance at an airport with severe weather conditions. The aircraft has been anti-iced and the hold-over time (HOT) has not yet expired. According to the clean aircraft concept, what should the commander do?</p>",
+  "options": {
+    "a": "<p>Request a full de-icing and anti-icing procedure.</p>",
+    "b": "<p>Visually inspect the wings from inside the plane before the take-off run.</p>",
+    "c": "<p>Visually inspect the wings from the outside of the aircraft when at the de-icing bay.</p>",
+    "d": "<p>Wait for the hold-over time to expire before taking any action.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

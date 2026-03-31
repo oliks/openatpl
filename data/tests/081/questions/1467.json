@@ -1,0 +1,19 @@
+{
+  "number": 1467,
+  "questionId": "081-1467",
+  "questionNumber": "081-1467",
+  "stemHtml": "Refer to figure.\r\n<p>The pilot currently follows flight path 2 but desires to follow flight path 3. Despite having a bank angle of 25 degrees, the operator restricts the bank angle to 30 degrees for passenger comfort. What action should the pilot take?</p>",
+  "options": {
+    "a": "<p>Increase the bank angle to 30\u00ba and decrease speed if necessary to limit the turn radius.</p>",
+    "b": "Increase the bank angle to 30\u00ba and pull back on the stick.",
+    "c": "<p>Maintain bank angle 30\u00ba to maintain a margin but increase speed to increase the rate of turn.</p>",
+    "d": "Reduce bank angle to 15\u00ba to maintain a margin but increase speed to increase the rate of turn."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0208",
+      "publicUrl": "/attachments/081/081-att-0208.jpg"
+    }
+  ]
+}

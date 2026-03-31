@@ -1,0 +1,14 @@
+{
+  "number": 744,
+  "questionId": "070-0744",
+  "questionNumber": "070-0744",
+  "stemHtml": "<p>You are flying an aircraft when suddenly your right engine (number 2) and the right hand side of the aircraft catches fire. You land and the fire fighting services start extinguishing the fire on the right side. The cabin crew are unable to establish contact with the flight deck. What is the correct thing to do?</p>",
+  "options": {
+    "a": "<p>Wait for the commander to commence a Passenger announcement.</p>",
+    "b": "<p>Expedite evacuation via all emergency exits.</p>",
+    "c": "<p>Evacuate by the left side of the aircraft.</p>",
+    "d": "<p>Wait until firefighting will be over and no fire is detected.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

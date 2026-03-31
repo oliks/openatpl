@@ -1,0 +1,14 @@
+{
+  "number": 1500,
+  "questionId": "081-1500",
+  "questionNumber": "081-1500",
+  "stemHtml": "<p>During a descent at a constant Mach number, which of these limiting speeds is the first to be reached without any pilot intervention?</p>",
+  "options": {
+    "a": "<p>Max operating airspeed (V<sub>MO</sub>).</p>",
+    "b": "<p>Max operating Mach number (M<sub>MO</sub>).</p>",
+    "c": "<p>Never exceed speed (V<sub>NE</sub>).</p>",
+    "d": "<p>Shock stall speed (V<sub>SX</sub>).</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

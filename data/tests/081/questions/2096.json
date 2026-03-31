@@ -1,0 +1,14 @@
+{
+  "number": 2096,
+  "questionId": "081-2096",
+  "questionNumber": "081-2096",
+  "stemHtml": "<p>Which considerations have to be taken into account by the pilot when flying a multi-engine aircraft with a failed left engine, causing a sideslip, and the nose pointed to the right?</p>",
+  "options": {
+    "a": "<p>The pilot should apply full rudder input to the left to counteract the sideslip and nose deviation to the right caused by the left engine failure.</p>",
+    "b": "Throttle should be reduced on the operating engine to correct the sideslip.",
+    "c": "<p>The angle of attack AoA of the fin increases when there is an increase in rudder input to the operating engine side of the aircraft.</p>\r\n\r\n<p> </p>",
+    "d": "The pilot should apply full power on the operating engine to counteract the left engine failure, without any additional consequences."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

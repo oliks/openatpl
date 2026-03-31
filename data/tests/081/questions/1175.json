@@ -1,0 +1,14 @@
+{
+  "number": 1175,
+  "questionId": "081-1175",
+  "questionNumber": "081-1175",
+  "stemHtml": "<p>Indicated airspeed is determined from the pitot-static system by measuring the difference between\u2026</p>",
+  "options": {
+    "a": "<p>ram pressure and static pressure in order to derive dynamic pressure.</p>",
+    "b": "<p>ram pressure and dynamic pressure in order to derive static pressure.</p>",
+    "c": "<p>total pressure and static pressure in order to derive dynamic pressure.</p>",
+    "d": "<p>total pressure and dynamic pressure in order to derive static pressure.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

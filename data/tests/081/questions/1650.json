@@ -1,0 +1,19 @@
+{
+  "number": 1650,
+  "questionId": "081-1650",
+  "questionNumber": "081-1650",
+  "stemHtml": "<p>Refer to figure. <br /> \rMatch the wing profiles in the figure to their corresponding line on the CL vs AoA graph.</p>",
+  "options": {
+    "a": "<p>Profile A - 1; Profile B - 2; Profile C - 3.</p>",
+    "b": "<p>Profile A - 1; Profile B - 3; Profile C - 2.</p>",
+    "c": "<p>Profile A - 2; Profile B - 3; Profile C - 1.</p>",
+    "d": "<p>Profile A - 3; Profile B - 1; Profile C - 2.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0200",
+      "publicUrl": "/attachments/081/081-att-0200.jpg"
+    }
+  ]
+}

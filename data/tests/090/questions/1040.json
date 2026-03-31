@@ -1,0 +1,14 @@
+{
+  "number": 1040,
+  "questionId": "090-1040",
+  "questionNumber": "090-1040",
+  "stemHtml": "<p>An aircraft with the registration H-APPG contacted ATC using the call sign \u201cBLUE PAPA GOLF.\u201d Was this abbreviation correct?</p>",
+  "options": {
+    "a": "<p>Yes, if the company call sign is BLUE.</p>",
+    "b": "<p>No, the abbreviation should only include the first letter of the registration mark and the last two letters (H-PG).</p>",
+    "c": "<p>Yes, the abbreviation is correct as long as it follows IATA conventions.</p>",
+    "d": "<p>No, abbreviations are not allowed for registration marks.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

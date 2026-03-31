@@ -1,0 +1,14 @@
+{
+  "number": 485,
+  "questionId": "070-0485",
+  "questionNumber": "070-0485",
+  "stemHtml": "<p>A passenger has illegally brought a loaded firearm into the cabin. After landing, you made the mandatory occurrence report through the operator, but are there any other reports that must be made?</p>",
+  "options": {
+    "a": "<p>Yes, a report must be made to the ATS unit.</p>",
+    "b": "<p>Yes, a report must be made to the AIS.</p>",
+    "c": "<p>Yes, a report must be made to the designated competent authorities. </p>",
+    "d": "<p>No, no further reports must be made.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

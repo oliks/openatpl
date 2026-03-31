@@ -1,0 +1,14 @@
+{
+  "number": 2391,
+  "questionId": "081-2391",
+  "questionNumber": "081-2391",
+  "stemHtml": "According to CS-23 and CS-25 an aeroplane must have controllable stall characteristics and be able to recover control at or slightly beyond the stalling angle of attack. Which of the statements that follow is a factor that, if certain design measures are not taken, might hinder the ability to meet the mentioned requirements?",
+  "options": {
+    "a": "Straight wings tend to stall at the root first, which creates a large nose-down pitching moment.",
+    "b": "Tapered wings tend to stall at the tips first, making the aeroplane too stable in roll.",
+    "c": "Highly cambered aerofoils tend to provide little or NO warning when approaching the stall.",
+    "d": "Aft swept wings tend to stall at the tips first, which may create a nose-up pitching moment."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

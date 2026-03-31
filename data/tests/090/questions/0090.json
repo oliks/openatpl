@@ -1,0 +1,14 @@
+{
+  "number": 90,
+  "questionId": "090-0090",
+  "questionNumber": "090-0090",
+  "stemHtml": "ATC have given you a clearance as follows: \"Foxtrot Alfa Charlie India Papa is cleared to Bravo November Echo via Lima 5, Alfa 3, at Flight Level 150 to climb to Flight Level 170 after Delta Victor Romeo.\" What must you read back to the controller?",
+  "options": {
+    "a": "Foxtrot India Papa to Bravo November Echo at Flight Level 150.",
+    "b": "Cleared to Bravo November Echo at Flight Level 150, to climb to Flight Level 170 after Delta Victor Romeo, Foxtrot India Papa.",
+    "c": "Foxtrot Alfa Charlie India Papa is cleared to Bravo November Echo at Flight Level 170 after Delta Victor Romeo.",
+    "d": "Cleared to Bravo November Echo via Lima 5, Alfa 3, at Flight Level 150 to climb to Flight Level 170 after Delta Victor Romeo, Foxtrot Alfa Charlie India Papa."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

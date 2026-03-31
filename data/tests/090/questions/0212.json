@@ -1,0 +1,14 @@
+{
+  "number": 212,
+  "questionId": "090-0212",
+  "questionNumber": "090-0212",
+  "stemHtml": "D-CURE receives the following information from the Tower: \"Runway 10 in use, wind 110 degrees 4 knots, cloud and visibility OK, QNH 1009, temperature 6 degrees, dew point 2 degrees\". What is the correct read-back?",
+  "options": {
+    "a": "Runway 10 QNH 1009 D-CURE",
+    "b": "QNH 1009 D-CURE",
+    "c": "Runway 10 D-CURE",
+    "d": "Runway 10 QNH 1009"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

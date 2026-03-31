@@ -1,0 +1,14 @@
+{
+  "number": 708,
+  "questionId": "090-0708",
+  "questionNumber": "090-0708",
+  "stemHtml": "<p>An aircraft A deviates from its ATC clearance in order to follow an ACAS RA. Simultaneously, an aircraft B declares an emergency. The flight crew of aircraft A is ready to report the ACAS RA to the ATS unit. The flight crew of aircraft A should...</p>",
+  "options": {
+    "a": "<p>wait for aircraft B to complete its message, as a DISTRESS message takes priority over all other messages.</p>",
+    "b": "<p>interfere in order to Immediately report the ACAS RA, as similar messages take priority over all other messages.</p>",
+    "c": "<p>interfere in order to immediately report the ACAS RA, as this message is considered an URGENCY message.</p>",
+    "d": "<p>wait for the other aircraft to complete its message, because aircraft B commenced its transmission earlier.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 639,
+  "questionId": "070-0639",
+  "questionNumber": "070-0639",
+  "stemHtml": "<p>An aircraft is taxiing out to the runway for departure after a quick turnaround at Geneva, Switzerland (LSGG), and freezing rain starts to fall. In this scenario, what effect might have on the planned take-off?</p>",
+  "options": {
+    "a": "<p>There will be NO possible effects on any of the cockpit indications, although the aircraft external surfaces should be checked for any ice deposits and the \u201cclean aircraft\u201d requirements satisfied before attempting to take-off.</p>",
+    "b": "There is a high probability that the pitot tubes and static vents may have become blocked, but  this will NOT affect the take-off speed indications, since the aircraft has already begun to taxi; the take-off may be performed.",
+    "c": "Ice may have formed on the pitot tubes, therefore the take-off speeds must be increased, and the rotation performed at a rate slightly below the normal.",
+    "d": "Ice may have formed on the pitot tubes, giving false airspeed indications; de-icing and anti-icing will therefore be required."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

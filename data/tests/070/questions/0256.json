@@ -1,0 +1,14 @@
+{
+  "number": 256,
+  "questionId": "070-0256",
+  "questionNumber": "070-0256",
+  "stemHtml": "<p>You encounter an engine failure with your single engine airplane overhead a dense forest. Choose the best configuration for an emergency landing\u2026</p>",
+  "options": {
+    "a": "<p>Flaps up, gear up and aim for low trees.</p>\r\n",
+    "b": "Flaps down, gear down and aim for low trees.",
+    "c": "Flaps up, gear up and aim for high trees.",
+    "d": "Flaps up, gear down and aim for high trees."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

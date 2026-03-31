@@ -1,0 +1,14 @@
+{
+  "number": 932,
+  "questionId": "070-0932",
+  "questionNumber": "070-0932",
+  "stemHtml": "<p>Which of the following indications might be affected by ice forming on pitot tubes, static ports, or angle of attack vanes?</p><p>1. Airspeed <br>2. Exhaust Gas Temperature (EGT) <br>3. Angle of Attack (AoA) <br>4. Altitude <br>5. Radio altitude</p>",
+  "options": {
+    "a": "1, 2, 3, 4",
+    "b": "1, 3, 4",
+    "c": "1, 3, 5",
+    "d": "1, 2, 3, 4, 5"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

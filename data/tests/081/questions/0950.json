@@ -1,0 +1,14 @@
+{
+  "number": 950,
+  "questionId": "081-0950",
+  "questionNumber": "081-0950",
+  "stemHtml": "<p>Given the following information, calculate the Thrust vector in a straight and steady power-on descent with an angle of 30\u00b0.</p>\n\n<p>Mass: 9 450 kg <br /> \nLift: 92 500 N <br /> \nDrag: 93 500 N <br /> \ng: 10 m/s<sup>2</sup></p>",
+  "options": {
+    "a": "46 250 N",
+    "b": "93 500 N",
+    "c": "88 775 N",
+    "d": "46 450 N"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 557,
+  "questionId": "081-0557",
+  "questionNumber": "081-0557",
+  "stemHtml": "<p>When an aircraft leaves ground effect, the upwash will (1) _____, the induced drag will (2) _____, the AoA must (3) _____ to maintain the same lift force, and the force on the controls will be (4) ______.</p>",
+  "options": {
+    "a": "<p>(1) decrease; (2) increase; (3) increase; (4) heavier</p>",
+    "b": "<p>(1) decrease; (2) remain constant; (3) increase; (4) lighter</p>",
+    "c": "<p>(1) increase; (2) increase; (3) increase; (4) the same</p>",
+    "d": "<p>(1) remain constant; (2) decrease; (3) decrease; (4) lighter</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

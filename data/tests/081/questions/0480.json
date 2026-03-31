@@ -1,0 +1,14 @@
+{
+  "number": 480,
+  "questionId": "081-0480",
+  "questionNumber": "081-0480",
+  "stemHtml": "<p>Why does propeller pitch vary from hub to tip?</p>",
+  "options": {
+    "a": "<p>To keep a constant AoA along the blade.</p>",
+    "b": "<p>To keep the thrust constant along the blade.</p>",
+    "c": "<p>To ensure that the tip produces most thrust.</p>",
+    "d": "<p>To ensure the angle of attack is greatest at the tip.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

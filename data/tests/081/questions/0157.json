@@ -1,0 +1,14 @@
+{
+  "number": 157,
+  "questionId": "081-0157",
+  "questionNumber": "081-0157",
+  "stemHtml": "Using conventional flight controls, you are manually piloting a jet transport aircraft as you decelerate from M0.76 to M0.73. A supercritical wing design is used on the aircraft. To maintain altitude as the plane decelerates, you must continuously apply a small nose-down trim. As you decrease your speed through M 0.73, you find that there is a need for progressive nose-up trim. This could have several causes, including...",
+  "options": {
+    "a": "<p>that the shock waves are increasing in strength, creating an increased nose down pitching moment, which requires a greater nose-up trim </p>\r\n\r\n<p> </p>",
+    "b": "the slight pitch down moment due to shock waves reduces and the airplane returns to normal trim behavior below M<sub><strong>CRIT</strong></sub>",
+    "c": "<p>shock waves forming at the rear of aerofoil creating increased lift at the back of the profile and therefore a nose down pitch moment </p>\r\n\r\n<p> </p>",
+    "d": "all the speed reduces below M<sub><strong>CRIT</strong></sub>, the shock waves increase in strength and create a nose-down pitching moment"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

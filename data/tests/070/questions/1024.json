@@ -1,0 +1,14 @@
+{
+  "number": 1024,
+  "questionId": "070-1024",
+  "questionNumber": "070-1024",
+  "stemHtml": "<p>A passenger wishes to transport several lithium power banks, which are used to run or charge other devices. Consider the requirements for transport of lithium batteries by air, which of the following is correct? These power banks:</p>",
+  "options": {
+    "a": "<p>Are permitted to be brought on board, on condition that they remain in the cabin and are connected at all times to the passenger's Portable Electronic Devices in order to prevent a short circuit.</p>",
+    "b": "<p>Are only permitted to be transported in passenger or cargo aircraft If they are connected at all times to Portable Electronic Devices, in order to reduce the risk of fire.</p>",
+    "c": "<p>Are considered as batteries and only a small number of spare batteries can be carried in hand luggage. Otherwise they must be separately shipped in a cargo aircraft.</p>",
+    "d": "<p>Must be packed in accordance with the packing instructions for the transport of batteries and can only be transported in the passenger's baggage in the hold.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

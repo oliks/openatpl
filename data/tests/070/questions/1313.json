@@ -1,0 +1,14 @@
+{
+  "number": 1313,
+  "questionId": "070-1313",
+  "questionNumber": "070-1313",
+  "stemHtml": "<p>A pilot operates a scheduled flight from airport A to a destination airport B. On arrival at airport B, the passengers disembark on the apron and then the pilot positions the aircraft to the hangars for scheduled maintenance. When does the flight time end?</p>",
+  "options": {
+    "a": "<p>When parked on the apron</p>",
+    "b": "<p>\ufeff\ufeff\ufeffWhen the plane lands</p>",
+    "c": "<p>When you take the aircraft to the hangars</p>",
+    "d": "<p>When passengers disembark at the apron</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

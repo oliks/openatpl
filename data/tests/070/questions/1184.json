@@ -1,0 +1,14 @@
+{
+  "number": 1184,
+  "questionId": "070-1184",
+  "questionNumber": "070-1184",
+  "stemHtml": "<p>There will be a flight within NAT HLA. What PBCS (Performance Based Communications and Surveillance) minimum equipment is needed to achieve the conditions required with ATS?</p>",
+  "options": {
+    "a": "<p>VHF communications 118 MHz to 137 MHz</p>",
+    "b": "<p>RNP 1</p>",
+    "c": "<p>CPDLC and ADS-C</p>",
+    "d": "<p>VOR and ILS</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

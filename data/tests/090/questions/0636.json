@@ -1,0 +1,14 @@
+{
+  "number": 636,
+  "questionId": "090-0636",
+  "questionNumber": "090-0636",
+  "stemHtml": "<p>The pilot of a single engine piston aircraft on an IFR flight experiences an engine failure. He/she has just finished transmitting a distress message to Bern radar, which has been acknowledged already. The pilot suddenly hears the following transmission from Bern radar: \"All stations stop transmitting, mayday\". What does this mean to him/her?</p>",
+  "options": {
+    "a": "He/she should stop transmitting until he/she hears the message \"Distress traffic ended\" on the frequency.",
+    "b": "<p>He/she should continue talking to Bern radar and provide updates on his/her intentions.</p>",
+    "c": "He/she should stop transmitting until all other aircraft have left the frequency.",
+    "d": "Only if the situation becomes worse should he/she continue talking to Bern radar."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

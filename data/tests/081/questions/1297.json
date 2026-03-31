@@ -1,0 +1,14 @@
+{
+  "number": 1297,
+  "questionId": "081-1297",
+  "questionNumber": "081-1297",
+  "stemHtml": "What is the effect of exceeding M<sub>CRIT</sub> on the stick force stability of an aeroplane with swept-back wings without any form of stability augmentation?",
+  "options": {
+    "a": "A decrease, due to loss of lift in the wing root area.",
+    "b": "No effect, because M<sub>CRIT</sub> is not relevant when considering stick force stability.",
+    "c": "No effect, because stick force stability is independent of Mach number.",
+    "d": "An increase, due to shock wave formation in the wing root area."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

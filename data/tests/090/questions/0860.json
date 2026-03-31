@@ -1,0 +1,14 @@
+{
+  "number": 860,
+  "questionId": "090-0860",
+  "questionNumber": "090-0860",
+  "stemHtml": "<p>You are cleared to fly FL100 in an airspace where procedural separation is applied. However, your flight plan states FL310. You try to contact ATC to change flight level, but you do not get a response. After squawking 7600 you should\u2026</p>",
+  "options": {
+    "a": "<p>Remain at FL100 for 20 minutes then proceed with flight plan.</p>",
+    "b": "<p>Remain at FL100 for 10 minutes then proceed with flight plan.</p>",
+    "c": "<p>Continue to climb according to the flight plan.</p>",
+    "d": "<p>Remain at FL100 for 1 minute then proceed with flight plan.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

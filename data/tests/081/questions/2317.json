@@ -1,0 +1,19 @@
+{
+  "number": 2317,
+  "questionId": "081-2317",
+  "questionNumber": "081-2317",
+  "stemHtml": "<p>Refer to figure.  <br />  \rConsidering the NACA 6 series aerofoils shown, which of the following statements is true?</p>",
+  "options": {
+    "a": "<p>NACA 65-415 is best suited to high speed flight due to high thickness.</p>",
+    "b": "<p>NACA 63-415 is an appropriate aerofoil for transonic and supersonic flight due to high camber and thickness.</p>",
+    "c": "<p>NACA 63-206 is ideal for high speed flight due to reduced shockwave intensity, improved specific range and high altitude characteristics</p>",
+    "d": "<p>NACA 63-206 is best suited for low-speed subsonic flight.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0243",
+      "publicUrl": "/attachments/081/081-att-0243.png"
+    }
+  ]
+}

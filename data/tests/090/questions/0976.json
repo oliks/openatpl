@@ -1,0 +1,14 @@
+{
+  "number": 976,
+  "questionId": "090-0976",
+  "questionNumber": "090-0976",
+  "stemHtml": "<div>RADAR instructs aircraft XYABC: \"XBC reset squawk 1015\". What does this mean?</div>\r\n",
+  "options": {
+    "a": "<div>XBC has been identified by SSR code 1015</div>",
+    "b": "<div>XBC is requested to press IDENT</div>",
+    "c": "<div>XBC has been identified at 10:15 (UTC)</div>",
+    "d": "XBC is requested to reselect SSR code 1015<br>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

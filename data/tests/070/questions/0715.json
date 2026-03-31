@@ -1,0 +1,14 @@
+{
+  "number": 715,
+  "questionId": "070-0715",
+  "questionNumber": "070-0715",
+  "stemHtml": "<p>The Pilot in Command (PIC) arrives at the aircraft, while an engineer is leaving and a technician is about to install a component in the engine. The tech log book is already correctly filled in and signed. What should the PIC do?</p>",
+  "options": {
+    "a": "<p>PIC has to call the engineer so that he verifies verbally that the work has been completed correctly.</p>",
+    "b": "<p> Ask the technician to confirm that the component has been installed according to necessary procedures.</p>",
+    "c": "<p>Everything is completed and the aircraft is ready to depart.</p>",
+    "d": "<p> The entry is invalid because the tech log book was filled in before the work was done.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1338,
+  "questionId": "070-1338",
+  "questionNumber": "070-1338",
+  "stemHtml": "<p>What is the minimum required block fuel given the following information? Trip fuel is 8500 kg. Contingency fuel (5% of trip) is 425 kg. Alternate fuel is 1200 kg. Final reserve is 1100 kg. Additional fuel for anticipated delays is 300 kg. </p>",
+  "options": {
+    "a": "<p>11 525 kg</p>",
+    "b": "<p>11 825 kg</p>",
+    "c": "<p>12 025 kg <br />  </p>",
+    "d": "<p>12 525 kg</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

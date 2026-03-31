@@ -1,0 +1,19 @@
+{
+  "number": 2354,
+  "questionId": "081-2354",
+  "questionNumber": "081-2354",
+  "stemHtml": "<p>Refer to figure.  <br />  The figure shows the streamlines for a low subsonic airflow. The (1) _____ streamlines between points 2 and 3 indicate a(n) (2) _____ in airflow velocity.</p>",
+  "options": {
+    "a": "<p>(1) diverging; (2) decrease</p>",
+    "b": "<p>(1) converging; (2) decrease</p>",
+    "c": "<p>(1) diverging; (2) increase</p>",
+    "d": "<p>(1) converging; (2) increase</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0211",
+      "publicUrl": "/attachments/081/081-att-0211.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2067,
+  "questionId": "081-2067",
+  "questionNumber": "081-2067",
+  "stemHtml": "<div>An aircraft demonstrates positive static directional stability. How does this relate to the interaction between the aircraft\u2019s yawing moment coefficient, C<sub>N</sub>, and sideslip angle, B (beta)?</div>",
+  "options": {
+    "a": "<div>C<sub>N</sub> is positive and the aircraft experiences a negative sideslip angle.</div>",
+    "b": "<div>C<sub>N</sub>=0 and the aircraft experiences a negative sideslip angle.</div>",
+    "c": "<div>C<sub>N</sub> is positive and the aircraft experiences a positive sideslip angle.</div>",
+    "d": "C<sub>N</sub> is negative and the aircraft experiences a positive sideslip angle."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 223,
+  "questionId": "090-0223",
+  "questionNumber": "090-0223",
+  "stemHtml": "<p>During the occurence of a distress or emergency situation, the appropriate ATC station should notify other ATC stations concerned. Why is that crucial?</p>",
+  "options": {
+    "a": "<p>To prevent the second ATC station from inadvertently transferring additional traffic to the frequency where the emergency is occurring, potentially complicating the situation.</p>",
+    "b": "<p>To ensure that the second ATC station is aware and can coordinate with aircraft in the vicinity to assist as necessary, enhancing the overall response to the emergency.</p>",
+    "c": "<p>To comply with international aviation regulations requiring information sharing during emergencies.</p>",
+    "d": "<p>To help the second ATC station prepare for potential changes in airspace usage and traffic patterns as a result of the emergency traffic being transferred to their frequency.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

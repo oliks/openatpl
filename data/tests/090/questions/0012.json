@@ -1,0 +1,14 @@
+{
+  "number": 12,
+  "questionId": "090-0012",
+  "questionNumber": "090-0012",
+  "stemHtml": "<p>Can an callsign starting with the telephony designator of the aircraft company be abbreviated?</p>",
+  "options": {
+    "a": "<p>Yes, it can always be abbreviated.</p>",
+    "b": "<p>No, a call sign can never be abbreviated.</p>",
+    "c": "<p>Yes, it can be abbreviated, provided it contains the last four letters of the registration mark.</p>",
+    "d": "<p>No, you cannot abbreviate a call sign that starts with the telephony designator of an operator.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

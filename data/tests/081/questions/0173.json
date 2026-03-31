@@ -1,0 +1,14 @@
+{
+  "number": 173,
+  "questionId": "081-0173",
+  "questionNumber": "081-0173",
+  "stemHtml": "<p>Considering the data below, calculate the value of the Coefficient of Lift for an aircraft flying at stall speed.</p>\r\n\r\n<p>Mass: 1400 kg<br />\r\nG: 9.8 m/s<sup>2 </sup><br />\r\nV<sub>S</sub>: 70 kt<br />\r\nDensity: 1.225 kg/m<sup>3</sup><br />\r\nWing area:13.5 m<sup>2</sup></p>\r\n",
+  "options": {
+    "a": "0.78",
+    "b": "0.338",
+    "c": "There is insufficient information to answer the question",
+    "d": "1.28"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

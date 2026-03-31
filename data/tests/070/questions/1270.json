@@ -1,0 +1,14 @@
+{
+  "number": 1270,
+  "questionId": "070-1270",
+  "questionNumber": "070-1270",
+  "stemHtml": "<p>For a westbound transatlantic flight, the flight plan is for Track D which is a Performance Based Communications and Surveillance (PBCS) track with a minimum available flight level of FL350. What is required to operate on this track at FL350? </p>",
+  "options": {
+    "a": "<p>Operator and aircraft approval are needed because it is a PBCS track.</p>",
+    "b": "<p>Only ADS-C.</p>",
+    "c": "<p>Only CPDLC.</p>",
+    "d": "<p>NAT HLA and RVSM approval but no specific equipment fit.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

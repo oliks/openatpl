@@ -1,0 +1,14 @@
+{
+  "number": 179,
+  "questionId": "090-0179",
+  "questionNumber": "090-0179",
+  "stemHtml": "<p>You are flying a VFR flight in VMC and are in contact with ATC. Suddenly you experience a communication failure. ATC cannot now give you further instructions but would expect you to...</p>",
+  "options": {
+    "a": "<p>Continue your flight as best as possible according to your flight plan</p>",
+    "b": "<p>Land at the nearest suitable aerodrome</p>",
+    "c": "<p>Maintain your last assigned level and heading for 20 minutes</p>",
+    "d": "<p>Descend immediately to circuit altitude and orbit until communications are restored</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

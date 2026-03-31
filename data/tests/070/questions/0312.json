@@ -1,0 +1,19 @@
+{
+  "number": 312,
+  "questionId": "070-0312",
+  "questionNumber": "070-0312",
+  "stemHtml": "<p>Refer to figure. <br>Due to a cabin pressurization defect, the maximum differential pressure is limited to 2 psi. Assuming you don't want the cabin altitude being greater than 14 000 feet, the maximum achievable flight altitude is approximately\u2026</p>",
+  "options": {
+    "a": "20 000 ft",
+    "b": "<p>8600 ft</p>",
+    "c": "<p>2900 ft</p>",
+    "d": "12 000 ft"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0010",
+      "publicUrl": "/attachments/070/070-att-0010.png"
+    }
+  ]
+}

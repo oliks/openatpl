@@ -1,0 +1,14 @@
+{
+  "number": 3,
+  "questionId": "070-0003",
+  "questionNumber": "070-0003",
+  "stemHtml": "<p>While approaching a mountainous airfield, the captain of a transport aircraft notices a fast and high increase in the indicated airspeed without any change in the pre-selected engine and attitude parameters. The preceding crews had reported the occurrence of wind shear in final phase. You must\u2026</p>",
+  "options": {
+    "a": "<p>take a level flight attitude to reduce speed, then come back to glide path from above.</p>",
+    "b": "<p>reduce rapidly the selected thrust in order to reach 1.2 V<sub>S</sub> and try a precision landing.</p>",
+    "c": "<p>maintain the aircraft on the glide path, accept a positive speed deviation, monitor the speed evolution.</p>",
+    "d": "<p>reduce rapidly the selected thrust, maintain on the glide path.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

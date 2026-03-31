@@ -1,0 +1,14 @@
+{
+  "number": 93,
+  "questionId": "070-0093",
+  "questionNumber": "070-0093",
+  "stemHtml": "<div>Consider the European Regulations on Air Operations. Which of the following statements correctly describes the radio communication equipment required for operations under IFR?</div>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "<div>The radio communication equipment must be capable of one or two-way communication, meeting the communication requirements in defined portions of airspace.</div>\r\n",
+    "b": "<div>There must be at least one radio communication system and it must be in accordance with the applicable certification requirements.</div>\r\n",
+    "c": "<div>There must be at least one radio communication system and it must be in accordance with the applicable airspace requirements.</div>\r\n",
+    "d": "The radio communication equipment must be in accordance with the applicable airspace requirements and include at least two independent radio communication systems."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

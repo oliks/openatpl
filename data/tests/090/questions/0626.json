@@ -1,0 +1,14 @@
+{
+  "number": 626,
+  "questionId": "090-0626",
+  "questionNumber": "090-0626",
+  "stemHtml": "<p>Decode the following RVR from a METAR message:<br>R28/1000U</p>",
+  "options": {
+    "a": "<p>Runway 28, 1000 metres, unchanged</p>",
+    "b": "<p>Runway 28, under 1000 metres</p>",
+    "c": "<p>Runway 28, 1000 metres upper limit</p>",
+    "d": "<p>Runway 28, 1000 metres changing upwards</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

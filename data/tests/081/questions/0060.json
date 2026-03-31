@@ -1,0 +1,14 @@
+{
+  "number": 60,
+  "questionId": "081-0060",
+  "questionNumber": "081-0060",
+  "stemHtml": "<p>You are climbing to your planned cruise altitude in IMC, during winter in icing conditions. As you approach your planned cruise altitude, your IAS and mach number indications are normal but there is a reduction in engine parameters and rate of climb indications. What is the reason for this decreased performance?</p>",
+  "options": {
+    "a": "<p>The pitot tubes are blocked. </p>",
+    "b": "<p>The planned flight level is too high. </p>",
+    "c": "<p>Extensive airframe icing. </p>",
+    "d": "<p>The gross mass is too high.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

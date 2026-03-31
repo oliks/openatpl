@@ -1,0 +1,14 @@
+{
+  "number": 294,
+  "questionId": "090-0294",
+  "questionNumber": "090-0294",
+  "stemHtml": "If two-way communication with Air Traffic Services is lost, the aircraft will be instructed to acknowledge by making a specified manoeuvre, or to make SSR code and/or ADS-B transmission changes. What other instructions could the aircraft receive to determine whether the receiver is functioning or not?",
+  "options": {
+    "a": "To operate altimeter reference changes.",
+    "b": "To operate IDENT.",
+    "c": "To operate the aircraft lights.",
+    "d": "To contact the Air Traffic Services unit by phone."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

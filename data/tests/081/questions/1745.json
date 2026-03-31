@@ -1,0 +1,14 @@
+{
+  "number": 1745,
+  "questionId": "081-1745",
+  "questionNumber": "081-1745",
+  "stemHtml": "<p>Consider a symmetrical aerofoil with a control surface in the trailing edge such as a vertical stabiliser with a rudder attached. When the rudder is deflected to the left or right, it (1) _____ the camber, producing a force in the (2) _____ direction of the deflection.</p>",
+  "options": {
+    "a": "<p>(1) increases; (2) same</p>",
+    "b": "<p>(1) increases; (2) opposite</p>",
+    "c": "<p>(1) decreases; (2) opposite</p>",
+    "d": "<p>(1) decreases; (2) same</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

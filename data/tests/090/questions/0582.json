@@ -1,0 +1,14 @@
+{
+  "number": 582,
+  "questionId": "090-0582",
+  "questionNumber": "090-0582",
+  "stemHtml": "<p>In aviation, what are hPa (hectopascals) used for?</p>",
+  "options": {
+    "a": "<p>To determine fog formation and visibility.</p>",
+    "b": "<p>To determine cloud height for use in METAR reports.</p>",
+    "c": "<p>To calculate wind velocity at different altitudes.</p>",
+    "d": "<p>To express atmospheric pressure values such as QNH and QFE.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 68,
+  "questionId": "081-0068",
+  "questionNumber": "081-0068",
+  "stemHtml": "<p>While performing a take-off under icing conditions, the pilot rotates the aircraft at the correct speed and rate, but notices that the aircraft does NOT lift off as expected. What could be the cause?</p>",
+  "options": {
+    "a": "<p>The angle of attack during rotation exceeds the lower, icing-induced critical angle of attack, preventing the aircraft from becoming airborne.</p>",
+    "b": "<p>Ice can distort the flow of air over the wing, increasing the angle of attack for maximum lift and significantly increasing drag.</p>",
+    "c": "<p>The rotation speed is too fast, significantly increasing drag and preventing the aircraft to lift off.</p>",
+    "d": "<p>The rotation rate is too fast, increasing the critical angle of attack and preventing the aircraft to lift off.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

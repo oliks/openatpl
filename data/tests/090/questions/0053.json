@@ -1,0 +1,14 @@
+{
+  "number": 53,
+  "questionId": "090-0053",
+  "questionNumber": "090-0053",
+  "stemHtml": "<p>What does the instruction \"Fastair 345 standby 118.9 for TOWER\" mean?</p>",
+  "options": {
+    "a": "<p>Fastair 345 should standby on the current frequency.</p>",
+    "b": "<p>Fastair 345 should contact TOWER on 118.9.</p>",
+    "c": "<p>Fastair 345 should listen on frequency 118.9 on which TOWER will initiate further communications.</p>",
+    "d": "<p>Fastair 345 should change frequency to 118.9 on which aerodrome data are being broadcast.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

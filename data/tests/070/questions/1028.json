@@ -1,0 +1,14 @@
+{
+  "number": 1028,
+  "questionId": "070-1028",
+  "questionNumber": "070-1028",
+  "stemHtml": "<p>ICAO Annex 6 describes the content associated with the completion of a maintenance release. The purpose of the maintenance release for an aircraft is\u2026</p>",
+  "options": {
+    "a": "<p>It is a document confirming that the daily check has been completed by a qualified engineer, that the aircraft is free from technical faults, and is released for service.</p>",
+    "b": "<p>The maintenance release procedure confirms that the aircraft is prepared and safe for maintenance to be conducted on the airframe and / or on-board systems.</p>",
+    "c": "<p>To confirm that any maintenance work conducted on an aircraft has been completed satisfactorily in accordance with approved data and procedures.</p>",
+    "d": "<p>It is a document that is used by the pilots to prepare an aircraft prior to conducting a flight test following a maintenance procedure.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

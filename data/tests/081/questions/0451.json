@@ -1,0 +1,14 @@
+{
+  "number": 451,
+  "questionId": "081-0451",
+  "questionNumber": "081-0451",
+  "stemHtml": "<div>How does V<sub>MCG</sub> change with an increase in field elevation and temperature? V<sub>MCG</sub>...</div>\r\n",
+  "options": {
+    "a": "<div>decreases, because the amount of thrust developed by the operating engine is reduced.</div>",
+    "b": "<div>increases, because at a lower density a larger IAS is necessary to generate the required rudder force.</div>",
+    "c": "<div>decreases, because V<sub>MCG</sub> is expressed as an IAS and that decreases with decreasing density.</div>",
+    "d": "increases, because V<sub>MCG</sub> is related to V? and that increases when the density decreases."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

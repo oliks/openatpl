@@ -1,0 +1,19 @@
+{
+  "number": 377,
+  "questionId": "081-0377",
+  "questionNumber": "081-0377",
+  "stemHtml": "<p>Refer to figure. <br /> \rMatch the following descriptions with the flaps depicted in the attached figure:</p>\r\r<p>a. This flap has a simple hinge towards the rear. <br /> \rb. This flap can be used for take-off/landing and changes camber and area. <br /> \rc. This flap has a gap towards the rear. <br /> \rd. This flap changes camber but the area stays the same. When fully extended produces more C<sub>D</sub> than C<sub>L</sub>.</p>",
+  "options": {
+    "a": "<p>a - 1; b - 3; c - 2; d - 4.</p>",
+    "b": "<p>a - 2; b - 4; c - 1; d - 3.</p>",
+    "c": "<p>a - 1; b - 2; c - 3; d - 4.</p>",
+    "d": "<p>a - 4; b - 3; c - 2; d - 1.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0127",
+      "publicUrl": "/attachments/081/081-att-0127.jpg"
+    }
+  ]
+}

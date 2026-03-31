@@ -1,0 +1,19 @@
+{
+  "number": 2315,
+  "questionId": "081-2315",
+  "questionNumber": "081-2315",
+  "stemHtml": "Refer to figure Tromso chart 11-2 from Jeppesen GSPRM 2017.<br />\r\nDuring the missed approach for Tromso, Norway (ENTC) ILS Rwy 19, the initial turn for an approach category C aeroplane must be performed at a speed not exceeding 160 kt, as otherwise you might...",
+  "options": {
+    "a": "exceed the maximum speed for the final missed approach segment for the aircraft approach category.",
+    "b": "NOT be able to complete the missed approach turn within 7.7 DME TR in tailwind conditions and thus fly close to terrain.",
+    "c": "exceed the calculated radius of turn and thus fly outside the protected area of the procedure.",
+    "d": "NOT be able to comply with the missed approach minimum climb gradient requirements."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0164",
+      "publicUrl": "/attachments/081/081-att-0164.jpg"
+    }
+  ]
+}

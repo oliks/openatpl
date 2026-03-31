@@ -1,0 +1,14 @@
+{
+  "number": 517,
+  "questionId": "070-0517",
+  "questionNumber": "070-0517",
+  "stemHtml": "<p>An aircraft has been flying with one of its two transponders defective and the failure has been deferred in accordance with the MEL. During a 30 minute turnaround, an engineer replaces the defective transponder with a new one. Prior to commencing the next commercial air transport flight, what must the commander ensure?</p>",
+  "options": {
+    "a": "<p>NO additional documentation is required. When the engineer performing the deferral in accordance with the MEL signed for the pending change of the transponder, this included clearance for the maintenance release at a later point.</p>",
+    "b": "<p>The commander must visually inspect to ensure that the transponder has been changed in accordance with the prescribed procedure prior to signing the maintenance release.</p>",
+    "c": "<p>The engineer must certify to have changed the transponder in accordance with the prescribed procedures and maintenance release must be signed for by an authorised person.</p>",
+    "d": "<p>There is NO requirement for any additional documentation since the defective transponder was deferred according to the MEL and needed to be changed at the first opportunity.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

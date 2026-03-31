@@ -1,0 +1,14 @@
+{
+  "number": 338,
+  "questionId": "090-0338",
+  "questionNumber": "090-0338",
+  "stemHtml": "<p>You are parked on stand in Nantes. What is the callsign of the facility that would complete the following transmission: \u2018Nantes _____, request ATC clearance'</p>",
+  "options": {
+    "a": "<p>Dispatch</p>",
+    "b": "<p>Departure</p>",
+    "c": "<p>Delivery</p>",
+    "d": "<p>Tower</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

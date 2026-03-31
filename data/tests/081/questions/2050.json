@@ -1,0 +1,14 @@
+{
+  "number": 2050,
+  "questionId": "081-2050",
+  "questionNumber": "081-2050",
+  "stemHtml": "<p>Assuming no flow separation, which of these statements about the flow around an aerofoil as the angle of attack decreases are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. The stagnation point moves down.</span>  <br />  \nII. The point of lowest static pressure moves forward.</p>",
+  "options": {
+    "a": "I is incorrect, II is correct.",
+    "b": "I is correct, II is correct.",
+    "c": "I is correct, II is incorrect.",
+    "d": "I is incorrect, II is incorrect."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

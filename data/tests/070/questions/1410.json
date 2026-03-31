@@ -1,0 +1,14 @@
+{
+  "number": 1410,
+  "questionId": "070-1410",
+  "questionNumber": "070-1410",
+  "stemHtml": "<p>Why does the packaging of Dangerous Goods (DG) for air transport need to adhere to the specifications outlined in the ICAO Technical Instructions (TI)?</p>",
+  "options": {
+    "a": "<p>If the goods are suitably packaged and labelled, they can be accepted for transport by the Operator, with or without a specific approval for DG.</p>",
+    "b": "<p>In order for them to be accepted for transport, and if the Operator holds a specific approval for DG, the Operator can decide whether to place them in the cabin with passengers or in the hold.</p>",
+    "c": "<p>If the package is labelled 'Cargo Aircraft Only (CAO)', so long as the packaging complies with the TI it can be transported on a passenger aircraft.</p>",
+    "d": "<p>In order for them to be accepted for transport, and the Operator accepting them must hold a specific approval for DG.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 435,
+  "questionId": "090-0435",
+  "questionNumber": "090-0435",
+  "stemHtml": "<p>You are on an IFR flight in IMC. You have been cleared to descend from FL370 to FL60 at the initial approach fix (IAF) for an ILS approach to runway 08 at the destination. ATC requested that you report passing FL180. You receive no acknowledgement from ATC when passing FL180 and suspect a communication failure. What action should you pilot take?</p>",
+  "options": {
+    "a": "<p>Maintain FL180 and proceed to fly the current flight plan route to the appropriate designated navigation aid to fix serving the destination aerodrome, before commencing descent.</p>",
+    "b": "<p>Proceed to the IAF, descending to FL60, and hold over the IAF to arrive at, or as close as possible to, the estimated time of arrival resulting from the current flight plan.</p>",
+    "c": "<p>Proceed to fly the current flight plan and land within 20 minutes after the estimated time of arrival.</p>",
+    "d": "<p>Continue the descent to FL60, squawk 7600 and land as soon as possible.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

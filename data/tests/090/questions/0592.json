@@ -1,0 +1,14 @@
+{
+  "number": 592,
+  "questionId": "090-0592",
+  "questionNumber": "090-0592",
+  "stemHtml": "<p>The following elements of an AIREP may be omitted from the standard position report:</p>\r\r<p>(i) Estimated time of arrival <br /> \r(ii) Aircraft identification <br /> \r(iii) Endurance <br /> \r(iv) Wind <br /> \r(v) Flight level or altitude <br /> \r(vi) Next position and ETA <br /> \r(vii) Air temperature <br /> \r(viii) Position</p>",
+  "options": {
+    "a": "<p>(i), (iii), (iv), (vi) and (vii).</p>",
+    "b": "<p>(i), (iii), (iv) and (vii).</p>",
+    "c": "<p>(i), (iii) and (iv).</p>",
+    "d": "<p>(iv) and (vii).</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 727,
+  "questionId": "090-0727",
+  "questionNumber": "090-0727",
+  "stemHtml": "What is the wind reported in this METAR LPPT 150505Z 21010KT 9999 BKN016 M09/M16 Q1006 NOSIG=?",
+  "options": {
+    "a": "<p>210\u00b0 true heading at 010 kt</p>",
+    "b": "<p>210\u00b0 true heading at 10 kt</p>",
+    "c": "<p>210\u00b0 magnetic heading at 10 kt</p>",
+    "d": "<p>210\u00b0 magnetic heading at 010 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

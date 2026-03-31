@@ -1,0 +1,14 @@
+{
+  "number": 470,
+  "questionId": "081-0470",
+  "questionNumber": "081-0470",
+  "stemHtml": "<p>Considering low speed and high speed subsonic airflows, why is subsonic flow subdivided into these two flow regimes?</p>",
+  "options": {
+    "a": "<p>Bernoulli's Principle can be applied to both low and high speed flow, however low speed flow is turbulent, and high speed flow is laminar.</p>",
+    "b": "<p>As flow speed increases, the effects of compressibility come into effect which change the relationship between speed and static pressure.</p>",
+    "c": "<p>Once the Mach number exceeds 0.4, shockwaves start to form due to the effects of compressibility.</p>",
+    "d": "<p>Subsonic airflow follows Bernoulli\u2019s principle; compressibility effects start in the transonic range</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

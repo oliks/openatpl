@@ -1,0 +1,14 @@
+{
+  "number": 116,
+  "questionId": "070-0116",
+  "questionNumber": "070-0116",
+  "stemHtml": "<p>Using the following METAR:</p><p>181245Z 25025G30 3000 RA+ BKN0008 OVC0020 WS020 10/08 TEMPO 2000 RA</p><p>Which of the following options are correct?</p><p>1. Aquaplaning is possible <br>2. Thunderstorms are due <br>3. Visibility is reducing <br>4. Low clouds could make approaches and landing difficult <br>5. Strong winds can be expected<br>6. Wind direction is variable</p>",
+  "options": {
+    "a": "<p>1, 3, 4 and 5</p>",
+    "b": "<p>1, 2, 4 and 5</p>",
+    "c": "<p>2, 3, 5 and 6</p>",
+    "d": "<p>2, 4, 5 and 6</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

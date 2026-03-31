@@ -1,0 +1,14 @@
+{
+  "number": 338,
+  "questionId": "081-0338",
+  "questionNumber": "081-0338",
+  "stemHtml": "<p>Determine the thrust in N if you are in a 30 degree climb, given: </p><p>Lift: 127 436 N <br>Drag: 120 500 N <br>Mass: 15 000 kg</p>",
+  "options": {
+    "a": "<p>120 500 N</p>",
+    "b": "<p>128 000 N</p>",
+    "c": "<p>194 075 N</p>",
+    "d": "<p>247 935 N</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

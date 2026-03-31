@@ -1,0 +1,14 @@
+{
+  "number": 621,
+  "questionId": "090-0621",
+  "questionNumber": "090-0621",
+  "stemHtml": "<p>A VFR flight departs from an aerodrome when one of the passengers feels very sick. The captain decides to return to the airfield and transmits the following...</p>\r\n\r\n<p>\"PanPan PanPan PanPan, Stuttgart Information, Fastair 321, due to sick passenger, returning to Stuttgart, position 12 NM north of Stuttgart, FL90\"</p>\r\n\r\n<p>This message is an example of...</p>",
+  "options": {
+    "a": "<p>A flight regularity message</p>",
+    "b": "<p>An urgency message</p>",
+    "c": "<p>A flight safety message</p>",
+    "d": "<p>A distress message</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

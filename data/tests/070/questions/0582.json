@@ -1,0 +1,14 @@
+{
+  "number": 582,
+  "questionId": "070-0582",
+  "questionNumber": "070-0582",
+  "stemHtml": "<p>Consider the definitions for water-based contaminants contained in ICAO Annex 14 and the European Aerodromes Regulation. Sort the following 3 contaminants in order of DECREASING braking performance, with (1) has less impact than (2), and (3) has the highest impact.</p>",
+  "options": {
+    "a": "<p>(1) wet ice; (2) ice; (3) compacted snow.</p>",
+    "b": "<p>(1) ice; (2) compacted snow; (3) wet ice.</p>",
+    "c": "<p>(1) compacted snow; (2) ice; (3) wet ice.</p>",
+    "d": "<p>(1) ice; (2) wet ice; (3) compacted snow.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

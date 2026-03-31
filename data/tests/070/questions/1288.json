@@ -1,0 +1,14 @@
+{
+  "number": 1288,
+  "questionId": "070-1288",
+  "questionNumber": "070-1288",
+  "stemHtml": "<p>An aircraft is equipped with 2 HFEs (hand held fire extinguishers) in the flight deck. May the aircraft be dispatched if one of the HFEs is broken?</p>",
+  "options": {
+    "a": "Yes but the remaining HFE must be larger.",
+    "b": "<p>Yes, if this is approved by the competent authority</p>",
+    "c": "<p>The aircraft can depart with one HFE available.</p>",
+    "d": "<p>The aircraft can not depart with one HFE available.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

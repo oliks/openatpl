@@ -1,0 +1,14 @@
+{
+  "number": 1125,
+  "questionId": "070-1125",
+  "questionNumber": "070-1125",
+  "stemHtml": "<p>According to the following SNOWTAM, what is the estimated braking action for ENAT and Runway 11?</p><p>ENAT/ALTA <br>SNOWTAM 0504 <br>A) ENAT <br>B) 03280731 <br>C) 11 F) 47/47/47 G) 8/8/8 H) 4/4/4 N) A B E/CLSD ALL REMAINING TWYS/47 <br>R) APRON GA EAST/CLSD ALL REMAINING APRONS/47 <br>T) CONTAMINATION/100/100/100/PERCENT</p>",
+  "options": {
+    "a": "Medium",
+    "b": "Medium/good",
+    "c": "Medium/poor",
+    "d": "Poor"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

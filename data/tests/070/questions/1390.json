@@ -1,0 +1,14 @@
+{
+  "number": 1390,
+  "questionId": "070-1390",
+  "questionNumber": "070-1390",
+  "stemHtml": "<p>You encounter severe windshear when on final approach at 500 ft AGL. As a result, the pitch attitude increases to 15\u00b0 nose up and the airspeed is decreasing. Which of the following are the memory items initial action?</p>",
+  "options": {
+    "a": "<p>Advance thrust to go-around, rotate to 15\u00b0 pitch, respect stick shaker.</p>",
+    "b": "<p>Set TOGA, rotate toward 15\u00b0 pitch (but not exceeding stick shaker), level wings.</p>",
+    "c": "<p>Disconnect autopilot, set TOGA, maintain current attitude until shear passes.</p>",
+    "d": "<p>Immediate go-around, full thrust, 10\u00b0 nose up.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

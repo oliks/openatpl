@@ -1,0 +1,14 @@
+{
+  "number": 279,
+  "questionId": "081-0279",
+  "questionNumber": "081-0279",
+  "stemHtml": "<p>Which statement is correct?</p>\n\n<p>I. Propeller gyroscopic effect occurs during aeroplane yaw changes. <br /> \nII. Propeller gyroscopic effect is most noticeable during low speed flight at high propeller RPM.</p>",
+  "options": {
+    "a": "<div>I is incorrect, II is incorrect.</div>",
+    "b": "<div>I is incorrect, II is correct.</div>",
+    "c": "<div>I is correct, II is incorrect.</div>",
+    "d": "I is correct, II is correct."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

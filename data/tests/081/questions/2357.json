@@ -1,0 +1,14 @@
+{
+  "number": 2357,
+  "questionId": "081-2357",
+  "questionNumber": "081-2357",
+  "stemHtml": "<p>Given the following information,calculate the climb angle...</p><p>Thrust: 200 000 N     <br />     Mass: 50 000 kg     <br />     Drag: 50 000 N     <br />     (assume g = 10 m/s<sup>2</sup>)</p>",
+  "options": {
+    "a": "30.0\u00b0",
+    "b": "17.5\u00b0",
+    "c": "5.7\u00b0",
+    "d": "0.0\u00b0"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

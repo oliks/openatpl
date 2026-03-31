@@ -1,0 +1,14 @@
+{
+  "number": 900,
+  "questionId": "070-0900",
+  "questionNumber": "070-0900",
+  "stemHtml": "<p>An aeroplane enroute to the oceanic entry point BEGAS receives an Oceanic Clearance to enter via point BERUX. The pilot of the aeroplane must\u2026</p>",
+  "options": {
+    "a": "<p>Request and obtain a re-clearance from ATC to fly to BERUX</p>",
+    "b": "<p>Fly to BEGAS, and when reaching BEGAS fly on to BERUX</p>",
+    "c": "<p>Turn towards BERUX 5 minutes before reaching BEGAS</p>",
+    "d": "<p>Programme the FMS to fly direct to BERUX from the waypoint BEGAS</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

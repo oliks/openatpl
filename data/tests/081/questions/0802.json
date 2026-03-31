@@ -1,0 +1,14 @@
+{
+  "number": 802,
+  "questionId": "081-0802",
+  "questionNumber": "081-0802",
+  "stemHtml": "<p>The drag coefficient at constant angle of attack:</p>",
+  "options": {
+    "a": "<p>starts to decrease rapidly above the drag divergence Mach number.</p>",
+    "b": "<p>starts to increase rapidly above the drag divergence Mach number.</p>",
+    "c": "<p>starts to increase rapidly above M<sub>CRIT</sub>.</p>",
+    "d": "<p>increases only when M<sub>CRIT</sub> is above unity.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

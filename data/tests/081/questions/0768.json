@@ -1,0 +1,14 @@
+{
+  "number": 768,
+  "questionId": "081-0768",
+  "questionNumber": "081-0768",
+  "stemHtml": "Large jet aeroplanes are often made with supercritical aerofoils, rather than conventional aerofoils. Which of the following is one of the benefits of this, with regards to flying at speeds greater than M<strong><sub>CRIT</sub></strong>?",
+  "options": {
+    "a": "The aeroplane may fly at a greater Mach number and, initially, only experience a slight increase in drag.",
+    "b": "Flying faster than M<sub>CRIT</sub> will NOT cause any shock waves around the profile until the aeroplane reaches Mach 1.0.",
+    "c": "The aeroplane will have stronger, opposing shock waves that will cancel each other out and reduce drag.",
+    "d": "<p>Flying faster than M<sub>CRIT</sub> reduces the amount of wave drag as the shock waves are weaker than when flying below M<sub>CRIT</sub>.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

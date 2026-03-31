@@ -1,0 +1,14 @@
+{
+  "number": 501,
+  "questionId": "090-0501",
+  "questionNumber": "090-0501",
+  "stemHtml": "<p>It is 21:20 local time (09:20 PM) in a time zone with UTC+2. How would ATC correctly give you the time?</p>",
+  "options": {
+    "a": "<p>19:20</p>",
+    "b": "<p>23:20</p>",
+    "c": "<p>09:20 PM</p>",
+    "d": "<p>21:20</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

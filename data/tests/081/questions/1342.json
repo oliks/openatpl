@@ -1,0 +1,14 @@
+{
+  "number": 1342,
+  "questionId": "081-1342",
+  "questionNumber": "081-1342",
+  "stemHtml": "<p>Which of these statements about drag divergence Mach number are correct or incorrect?</p>\r\n\r\n<p>1. M<sub>CRIT</sub> is lower than the drag divergence Mach number.<br />\r\n2. Assuming a given angle of attack and for M < 1 the drag coefficient C<sub>D</sub> decreases above the drag divergence Mach number.</p>\r\n",
+  "options": {
+    "a": "1 is incorrect, 2 is correct.",
+    "b": "1 is correct, 2 is incorrect.",
+    "c": "1 is correct, 2 is correct.",
+    "d": "1 is incorrect, 2 is incorrect."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

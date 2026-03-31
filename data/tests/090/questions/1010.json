@@ -1,0 +1,14 @@
+{
+  "number": 1010,
+  "questionId": "090-1010",
+  "questionNumber": "090-1010",
+  "stemHtml": "<p>Your maximum possible rate of climb is 1500 ft/min and the controller asks if you can increase climb to 1000 ft/min. What is your reply?</p>",
+  "options": {
+    "a": "<p>Roger</p>",
+    "b": "<p>Wilco</p>",
+    "c": "<p>Copied</p>\r\n\r\n<p> </p>",
+    "d": "<p>Affirm</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

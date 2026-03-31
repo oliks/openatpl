@@ -1,0 +1,14 @@
+{
+  "number": 1185,
+  "questionId": "081-1185",
+  "questionNumber": "081-1185",
+  "stemHtml": "<p>Which statement concerning the local flow pattern around a wing is correct?</p>",
+  "options": {
+    "a": "<p>By fitting winglets to the wing tip, the strength of the wing tip vortices is reduced which in turn reduces induced drag.</p>",
+    "b": "<p>Slat extension, at a constant angle of attack and normal extension speeds, will increase the lift coefficient, which will also increase the induced drag coefficient.</p>",
+    "c": "<p>Sweepback reduces drag since, compared with a straight wing of equal area, the span increases.</p>",
+    "d": "<p>Vortex generators on the wing partially block the spanwise flow over the wing leading to a reduction in induced drag.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

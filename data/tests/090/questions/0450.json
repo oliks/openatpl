@@ -1,0 +1,14 @@
+{
+  "number": 450,
+  "questionId": "090-0450",
+  "questionNumber": "090-0450",
+  "stemHtml": "How can a flight crew ensure that their SELCAL system is functioning correctly?",
+  "options": {
+    "a": "The built-in test equipment (BITE) check is 100% accurate, so should be relied upon as a sole means of testing.",
+    "b": "The crew should call a company aircraft on the ATC frequency to test that their SELCAL system is working correctly.",
+    "c": "The crew should make an 'All Stations' call using SELCAL to make sure they heard by all aircraft on the frequency.",
+    "d": "The crew should contact the appropriate ATC unit to request a SELCAL check, giving their code if necessary."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

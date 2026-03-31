@@ -1,0 +1,19 @@
+{
+  "number": 621,
+  "questionId": "070-0621",
+  "questionNumber": "070-0621",
+  "stemHtml": "<p>Refer to figure. <br /> \rGiven the following information, select the lowest required weather conditions for the aerodrome to be used as an ETOPS en-route alternate aerodrome with the following approaches available: Approach type: ILS CAT I (DH: 240 feet, RVR/Visibility: 550 metres) Approach type: LOC DME (MDH: 420 feet, RVR/Visibility: 1200 metres)</p>",
+  "options": {
+    "a": "<p>Ceiling 240 feet and visibility 550 metres.</p>",
+    "b": "<p>Ceiling 420 feet and visibility 1200 metres.</p>",
+    "c": "<p>Ceiling 200 feet and visibility 800 metres.</p>",
+    "d": "<p>Ceiling 440 feet and visibility 1350 metres.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0024",
+      "publicUrl": "/attachments/070/070-att-0024.jpg"
+    }
+  ]
+}

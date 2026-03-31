@@ -1,0 +1,14 @@
+{
+  "number": 714,
+  "questionId": "081-0714",
+  "questionNumber": "081-0714",
+  "stemHtml": "<p>An aircraft with trailing edge flaps and leading-edge slats is flying at a speed close to the flap-limited stall speed when the flaps are extended to the landing configuration. The slats on the left wing remain retracted. If the speed is decreased, what are the possible consequences?</p>",
+  "options": {
+    "a": "The right wing could stall when the slats are extended, after the extension of the trailing edge flaps.",
+    "b": "The right wing could stall when the trailing edge flaps are extended and speed increases.",
+    "c": "The left wing could stall when the slats are extended, after the extension of the trailing edge flaps.",
+    "d": "The left wing could stall when the trailing edge flaps are extended and speed decreases."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

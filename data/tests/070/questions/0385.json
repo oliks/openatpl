@@ -1,0 +1,14 @@
+{
+  "number": 385,
+  "questionId": "070-0385",
+  "questionNumber": "070-0385",
+  "stemHtml": "<p>An aircraft is forced to perform an emergency landing. The Checklist after landing is as follows:</p><p>Parking Brake_____Set <br /> Engines___________Shutdown <br /> Cabin_____________Evacuate</p><p>Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The evacuation checklist is never mandatory, it shall be completed if time permits only as the most important step is to evacuate the passengers as soon as possible using the slides.</p>",
+    "b": "Evacuation should come before the engine shutdown since it takes time for the passengers to evacuate. By the time passengers have evacuated, the engines will have stopped.",
+    "c": "The order of the evacuation checklist does not matter, the commander may opt to evacuate the cabin before setting the parking brake.",
+    "d": "The checklist is used to ensure the outside of the aircraft is safe before evacuating passengers out of the relatively safe cabin."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

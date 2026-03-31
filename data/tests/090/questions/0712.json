@@ -1,0 +1,14 @@
+{
+  "number": 712,
+  "questionId": "090-0712",
+  "questionNumber": "090-0712",
+  "stemHtml": "<p>You are cruising at FL290. Your aircraft is equipped with all the necessary equipment, ADS-B and a mode-S transponder. How frequent are the automatic weather broadcasts?</p>",
+  "options": {
+    "a": "<p>Not required, as automatic weather broadcasts are only required above FL290.</p>",
+    "b": "<p>Not required, as automatic weather broadcasts are only required during climb.</p>",
+    "c": "<p>Every 15 minutes.</p>",
+    "d": "<p>Every 30 seconds.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

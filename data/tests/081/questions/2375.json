@@ -1,0 +1,14 @@
+{
+  "number": 2375,
+  "questionId": "081-2375",
+  "questionNumber": "081-2375",
+  "stemHtml": "Ignoring thrust effects in a steady straight climb at a climb angle \"gamma\", the lift of an aeroplane with weight W is:",
+  "options": {
+    "a": "W \u00d7 (1-tan gamma)",
+    "b": "W \u00d7 cos (gamma)",
+    "c": "W \u00d7 (1-sin gamma)",
+    "d": "W \u00f7 cos (gamma)"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

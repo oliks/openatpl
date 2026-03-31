@@ -1,0 +1,14 @@
+{
+  "number": 148,
+  "questionId": "081-0148",
+  "questionNumber": "081-0148",
+  "stemHtml": "<p>Assuming incompressible flow, when considering streamlines in the vicinity of an aerofoil, which of the following answers is correct?</p>",
+  "options": {
+    "a": "<p>Converging streamlines indicate that the speed of the flow is increasing and that the static pressure is decreasing.</p>",
+    "b": "<p>Diverging streamlines indicate that the speed of the flow is decreasing and that the static pressure is decreasing.</p>",
+    "c": "<p>Diverging streamlines indicate that the speed of the flow is increasing and that the static pressure is increasing.</p>",
+    "d": "<p>Converging streamlines indicate that the speed of the flow is decreasing and that the static pressure is increasing.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

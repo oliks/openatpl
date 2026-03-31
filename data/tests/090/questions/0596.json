@@ -1,0 +1,14 @@
+{
+  "number": 596,
+  "questionId": "090-0596",
+  "questionNumber": "090-0596",
+  "stemHtml": "<p>What does QDM mean?</p>",
+  "options": {
+    "a": "<p>True bearing from the station to the aircraft.</p>",
+    "b": "<p>True bearing from the aircraft to the station.</p>",
+    "c": "<p>Magnetic bearing from the station to the aircraft.</p>",
+    "d": "<p>Magnetic bearing from the aircraft to the station.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

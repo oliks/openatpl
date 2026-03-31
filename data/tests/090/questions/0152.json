@@ -1,0 +1,14 @@
+{
+  "number": 152,
+  "questionId": "090-0152",
+  "questionNumber": "090-0152",
+  "stemHtml": "<p>What information is included in D-ATIS?</p>",
+  "options": {
+    "a": "<p>It's the same as in ATIS.</p>",
+    "b": "<p>There is additional information about Runway State in comparison to ATIS.</p>",
+    "c": "<p>There is no information about Runway State in comparison to ATIS.</p>",
+    "d": "<p>D-ATIS provides additional meteorological data compared to ATIS.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

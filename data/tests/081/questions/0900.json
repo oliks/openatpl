@@ -1,0 +1,14 @@
+{
+  "number": 900,
+  "questionId": "081-0900",
+  "questionNumber": "081-0900",
+  "stemHtml": "<p>An aeroplane with mechanical flight controls is fitted with an electronic stabiliser trim system. During the cruise, with the autopilot maintaining straight and level flight, the pilot notices that the trim wheel is continuously running in one direction and the control column is slowly moving in the opposite direction. It is essential that the pilot...</p>",
+  "options": {
+    "a": "<p>prevents any further movement of the CG before the static longitudinal stability of the aeroplane reaches a state that is outside of its limits.</p>",
+    "b": "<p>keeps the autopilot and electric trim engaged as the pilot may be overcome by the out-of-trim forces that are normal when using automatic systems.</p>",
+    "c": "<p>disconnects the autopilot and takes manual control since the pilot can counteract any trim movement by using the elevator in manual flight.</p>",
+    "d": "<p>disengages the electric trim function as the autopilot is masking the problem and controllability may become compromised.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

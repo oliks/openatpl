@@ -1,0 +1,14 @@
+{
+  "number": 53,
+  "questionId": "081-0053",
+  "questionNumber": "081-0053",
+  "stemHtml": "<p>When pressure altitude increases, the stall speed (IAS) will:</p>",
+  "options": {
+    "a": "increase due to decreasing M<sub>CRIT</sub>.",
+    "b": "increase due to increasing compressibility effects as a result of increasing Mach number.",
+    "c": "decrease due to decreasing temperature and decreasing Mach number.",
+    "d": "decrease due to increasing M<sub>CRIT</sub>."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

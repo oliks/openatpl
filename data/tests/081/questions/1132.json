@@ -1,0 +1,19 @@
+{
+  "number": 1132,
+  "questionId": "081-1132",
+  "questionNumber": "081-1132",
+  "stemHtml": "<p>Refer to figure.<br>What is the function of the device shown in the image above?</p>",
+  "options": {
+    "a": "<p>It is a mass balance weight, fitted to prevent aileron flutter.</p>",
+    "b": "<p>It is a trailing edge flap, fitted to increase aileron effectiveness.</p>",
+    "c": "<p>It is a trim tab, used to reduce pilot control forces by aerodynamically assisting the aileron.</p>",
+    "d": "<p>It is a balance tab, to shift the aileron's CG closer to the hinge line.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0045",
+      "publicUrl": "/attachments/081/081-att-0045.png"
+    }
+  ]
+}

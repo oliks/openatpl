@@ -1,0 +1,14 @@
+{
+  "number": 88,
+  "questionId": "081-0088",
+  "questionNumber": "081-0088",
+  "stemHtml": "<p>What are the fences on top of the wing used for?</p>",
+  "options": {
+    "a": "<p>To prevent spanwise airflow along the wing, which could otherwise lead to tip stalling.</p>",
+    "b": "<p>To produce a spanwise flow of high energy air, in order to reduce the amount of chordwise airflow on the wing.</p>",
+    "c": "<p>To generate a vortex from the engine nacelle, acting as a chordwise fence, reducing the spanwise airflow of the wing.</p>",
+    "d": "<p>To produce strong vortices over the lower surface of the wing, in order to keep its boundary layer attached.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2321,
+  "questionId": "081-2321",
+  "questionNumber": "081-2321",
+  "stemHtml": "<p>What will happen to the rate of descent if an aircraft descending at V<sub><strong>MD</strong> </sub>slows down?</p>V<strong><sub>MD</sub></strong>: speed for minimum drag. <br /> V<strong><sub>MP</sub></strong>: speed for minimum power required.",
+  "options": {
+    "a": "It will increase.",
+    "b": "it will increase until V<sub>MP</sub> is reached, and then decrease.",
+    "c": "it will decrease.",
+    "d": "It will decrease until V<sub>MP</sub> is reached, and then increase."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

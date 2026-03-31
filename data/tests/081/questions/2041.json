@@ -1,0 +1,14 @@
+{
+  "number": 2041,
+  "questionId": "081-2041",
+  "questionNumber": "081-2041",
+  "stemHtml": "<p>Considering subsonic incompressible airflow through a Venturi, which statement is correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. The static pressure in the throat is the same as in the undisturbed airflow.</span>  <br />  \n2. The speed of the airflow in the throat is lower than in the undisturbed airflow.</p>",
+  "options": {
+    "a": "1 is incorrect, 2 is correct.",
+    "b": "1 is incorrect, 2 is incorrect.",
+    "c": "1 is correct, 2 is incorrect.",
+    "d": "1 is correct, 2 is correct."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 587,
+  "questionId": "070-0587",
+  "questionNumber": "070-0587",
+  "stemHtml": "A wheel was due to be replaced. As the commander approaches the aircraft he finds a wheel on the trolley, however nothing is logged in the tech log. What should the commander do?",
+  "options": {
+    "a": "Ask maintenance to sign it off.",
+    "b": "If the commander signs it off then it is good to go.",
+    "c": "Ask the maintance for verbal confirmation that the work has been done.",
+    "d": "It does not need to be logged."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 529,
+  "questionId": "090-0529",
+  "questionNumber": "090-0529",
+  "stemHtml": "<p>You are approaching your destination aerodrome and you ask permission to enter the control zone. The instructions from ATC include the data listed below. Which of the following item(s) must the pilot read back?</p><p>1. Runway in use 24L <br>2. Squawk 6312 <br>3. QNH 1018 <br>4. Wind 230\u00b0/15 kt</p>",
+  "options": {
+    "a": "<p>1, 2 and 3.</p>",
+    "b": "<p>2, 3 and 4.</p>",
+    "c": "<p>1 and 2.</p>",
+    "d": "3 only."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

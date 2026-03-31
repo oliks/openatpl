@@ -1,0 +1,14 @@
+{
+  "number": 1204,
+  "questionId": "070-1204",
+  "questionNumber": "070-1204",
+  "stemHtml": "<p>Two aeroplanes from two different Operators are flying the same route. Throughout the flight, the aeroplane behind experiences occasional wake vortices from the aeroplane ahead. When will the aircraft flying behind experience the most wake turbulence?</p><p>When the aeroplane in front is flying at\u2026</p>",
+  "options": {
+    "a": "<p>Its final approach speed during the approach to the destination when full flaps are selected.</p>",
+    "b": "<p>Its minimum clean speed after departure as this is when the aeroplane is at its heaviest.</p>",
+    "c": "<p>Its initial approach speed with intermediate flaps during the approach to the destination.</p>",
+    "d": "<p>Close to its maximum speed during the cruise phase, when the angle of attack is small.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

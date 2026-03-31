@@ -1,0 +1,14 @@
+{
+  "number": 1090,
+  "questionId": "081-1090",
+  "questionNumber": "081-1090",
+  "stemHtml": "<p>The subsonic speed range\u2026</p>",
+  "options": {
+    "a": "<p>implies both subsonic and supersonic speeds exist in the flow around the aeroplane.</p>",
+    "b": "<p>ends at M=1.</p>",
+    "c": "<p>ends at a Mach number just above M=1.</p>",
+    "d": "<p>ends at M<sub>CRIT</sub>.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

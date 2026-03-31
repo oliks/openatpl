@@ -1,0 +1,14 @@
+{
+  "number": 270,
+  "questionId": "090-0270",
+  "questionNumber": "090-0270",
+  "stemHtml": "<p>You are flying in an area where Controller-Pilot Data Link Communications (CPDLC) are being used and you send the following message:</p>\r\n\r\n<p>\u2018\u2018REQUEST WEATHER DEVIATION UP TO 15 NM LEFT OF ROUTE\u2019\u2019</p>\r\n\r\n<p>Which of these options is the most probable initial CPDLC response from ATC?</p>",
+  "options": {
+    "a": "<p>\"ROGER\"</p>",
+    "b": "<p>\"STANDBY\"</p>",
+    "c": "<p>\"WILCO\"</p>",
+    "d": "<p>\"AFFIRM\"</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

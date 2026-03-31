@@ -1,0 +1,14 @@
+{
+  "number": 220,
+  "questionId": "070-0220",
+  "questionNumber": "070-0220",
+  "stemHtml": "An aircraft is approaching its destination and the landing is planned to take place within 30 minutes. The flight crew have 1 hour left until they reach their maximum daily Flight Duty Period (FDP). Suddenly the Commander receives a message from the Operator asking him/her to divert to another destination for maintenance purposes. Reaching this destination would take 2 hours from the present position of the aircraft, thus exceeding the maximum daily FDP for the flight crew. Could this diversion be performed?",
+  "options": {
+    "a": "No, because the maximum allowable extension of the daily FDP is 30 minutes, which will not be enough to perform this diversion.",
+    "b": "Yes, the Commander may increase the daily FDP if unforeseen circumstances arise, in consultation with the crew.",
+    "c": "No, the maximum daily FDP may not be exceeded, so the aeroplane must continue to it's planned destination.",
+    "d": "Yes, the Operator can always order the flight crew to exceed the maximum FDP, at their discretion."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

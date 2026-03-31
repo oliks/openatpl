@@ -1,0 +1,14 @@
+{
+  "number": 1063,
+  "questionId": "081-1063",
+  "questionNumber": "081-1063",
+  "stemHtml": "<p>In the cruise, the pilot of a large commercial jet aircraft notices the trim wheels turning in one direction whilst the aircraft yoke moves in the opposite direction. What should the pilot do?</p><p>(1) Disengage the autopilot because the autopilot may be defective. <br /> (2) Disengage the electric trim switches, as the autopilot masks the trim runaway and a problem with controlling the aircraft may arise.</p>",
+  "options": {
+    "a": "(1) Correct; (2) Incorrect",
+    "b": "(1) Correct; (2) Correct",
+    "c": "(1) Incorrect; (2) Correct",
+    "d": "(1) Incorrect; (2) Incorrect"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

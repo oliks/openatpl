@@ -1,0 +1,14 @@
+{
+  "number": 2301,
+  "questionId": "081-2301",
+  "questionNumber": "081-2301",
+  "stemHtml": "<p>The secondary propeller effects of a single engine piston aircraft include torque effect, slipstream and asymmetric blade effect, and impact the aircraft differently during a go-around when compared with cruise flight. In a go-around, these secondary propeller effects will result in (1) _____ yaw/roll displacement and will required (2) _____ control inputs to maintain control of the aircraft.</p>",
+  "options": {
+    "a": "<p>(1) increased; (2) smaller</p>",
+    "b": "<p>(1) decreased; (2) smaller</p>",
+    "c": "<p>(1) decreased; (2) larger</p>",
+    "d": "<p>(1) increased; (2) larger</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

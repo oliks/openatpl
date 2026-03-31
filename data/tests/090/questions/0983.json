@@ -1,0 +1,14 @@
+{
+  "number": 983,
+  "questionId": "090-0983",
+  "questionNumber": "090-0983",
+  "stemHtml": "<p>You are instructed by ATC to set squawk 4414, but then have a radio failure. What do you do?</p>",
+  "options": {
+    "a": "<p>Maintain the squawk 4414.</p>",
+    "b": "<p>Squawk 7600 for radio failure.</p>",
+    "c": "<p>Maintain 4414 until a level change and then change to 7600.</p>",
+    "d": "<p>Turn your transponder to standby.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

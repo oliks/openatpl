@@ -1,0 +1,14 @@
+{
+  "number": 687,
+  "questionId": "090-0687",
+  "questionNumber": "090-0687",
+  "stemHtml": "The time is 11:23 and Radar Control requests an estimate for next reporting point at AAL VOR/DME. If the estimated elapsed time to AAL is 12 minutes, what is the correct transmission is?",
+  "options": {
+    "a": "Estimate AAL at three-five.",
+    "b": "Estimate AAL at eleven-thirty-five.",
+    "c": "Estimate AAL VOR/DME in one-two minutes.",
+    "d": "Have one-two minutes to go to AAL."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1233,
+  "questionId": "070-1233",
+  "questionNumber": "070-1233",
+  "stemHtml": "<p>When operating a flight with freelance cabin crew, which statement is correct? <br>The cabin crew member(s)...</p>",
+  "options": {
+    "a": "<p>CANNOT operate as a sole cabin crew or be nominated as the cabin crew member who is accountable to the Pilot-in-Command.</p>",
+    "b": "<p>CANNOT operate as the only cabin crew member on board if they also work for another Operator, even if it is on the same aircraft type.</p>",
+    "c": "<p>Must have received Operator-specific training, even it they are qualified to operate on the same aircraft type by another Operator.</p>",
+    "d": "<p>May operate on an unlimited number of aircraft types provided the exit layouts are similar and they operate to the same SOPs.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

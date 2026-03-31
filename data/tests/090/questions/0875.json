@@ -1,0 +1,14 @@
+{
+  "number": 875,
+  "questionId": "090-0875",
+  "questionNumber": "090-0875",
+  "stemHtml": "<p>During flight, the flight crew hears a click on the ATC frequency but no voice. Nevertheless the frequency is blocked. What is most likely the reason?</p>",
+  "options": {
+    "a": "<p>The modulating wave is received but the carrier wave is missing.</p>",
+    "b": "<p>An interference with another station calling has occurred.</p>",
+    "c": "<p>The aircraft communications equipment has failed.</p>",
+    "d": "<p>The carrier wave is received but is not modulated.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

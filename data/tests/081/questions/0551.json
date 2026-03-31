@@ -1,0 +1,14 @@
+{
+  "number": 551,
+  "questionId": "081-0551",
+  "questionNumber": "081-0551",
+  "stemHtml": "<p>Which of these statements about the equilibrium of forces and moments at V<sub>MCA</sub> are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. Because V</span><sub style=\"letter-spacing:0.7px\">MCA</sub><span style=\"letter-spacing:0.7px\"> must be determined for the case where the critical engine suddenly fails, there is no need to obtain equilibrium of moments about the normal axis.</span>  <br />  \nII. Equilibrium of forces along the lateral axis requires either bank angle or side slip or a combination of both.</p>\n\n<div> </div>",
+  "options": {
+    "a": "I is correct, II is correct.",
+    "b": "I is incorrect, II is correct.",
+    "c": "I is incorrect, II is incorrect.",
+    "d": "I is correct, II is incorrect."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

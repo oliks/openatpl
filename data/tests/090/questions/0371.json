@@ -1,0 +1,14 @@
+{
+  "number": 371,
+  "questionId": "090-0371",
+  "questionNumber": "090-0371",
+  "stemHtml": "<p>An aircraft receives a TCAS RA and executes the evasion manoeuvre. The TCAS then gives a 'Clear of Conflict' message but before the pilot can transmit to ATC, another aircraft reports an urgency. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Remain at the new altitude and fly a holding pattern until the urgent transmission has ended, then advise ATC and request a new FL.</p>",
+    "b": "<p>Return to the previous altitude and wait until the urgency has ended, then report TCAS RA to ATC when time allows.</p>",
+    "c": "<p>Remain at the new altitude until the urgent transmission has ended, then advise ATC and request a new FL.</p>",
+    "d": "<p>Return to the previous flight level and interrupt the urgency transmission to report the TCAS advisory.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

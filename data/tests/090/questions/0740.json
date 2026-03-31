@@ -1,0 +1,14 @@
+{
+  "number": 740,
+  "questionId": "090-0740",
+  "questionNumber": "090-0740",
+  "stemHtml": "<p>\u201cALL STATION STOP SENDING CPDLC MESSAGES UNTIL ADVISED\u201d. What should be your action?</p>",
+  "options": {
+    "a": "<p>Revert to voice and request confirmation of CPDLC message.</p>",
+    "b": "<p>Revert to voice and request appropriate frequency.</p>",
+    "c": "<p>Revert to voice communication.</p>",
+    "d": "<p>Send \u201cWILCO\u201d message via CPDLC and revert to voice.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

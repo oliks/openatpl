@@ -1,0 +1,14 @@
+{
+  "number": 858,
+  "questionId": "081-0858",
+  "questionNumber": "081-0858",
+  "stemHtml": "What is the fundamental difference between a trim tab and a servo tab?",
+  "options": {
+    "a": "A servo tab affects the stick force stability, whereas a trim tab does not.",
+    "b": "The functioning of a trim tab is based on aerodynamic balancing, whereas a servo tab is usually adjusted via a screwjack.",
+    "c": "A trim tab is automatically adjusted when its particular control surface moves, whereas a servo tab is moved independently of its particular control surface.",
+    "d": "The main purpose of a trim tab is to reduce stick force to zero in steady flight, a servo tab only reduces stick force."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

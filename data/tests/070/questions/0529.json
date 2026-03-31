@@ -1,0 +1,14 @@
+{
+  "number": 529,
+  "questionId": "070-0529",
+  "questionNumber": "070-0529",
+  "stemHtml": "<p>During an ILS procedure, if the reported RVR / visibility is less than the applicable minima, the approach shall not be continued\u2026</p>",
+  "options": {
+    "a": "<p>Below 1000 ft above the aerodrome or into the final approach segment if DA/H is more than 1000 ft above the aerodrome.</p>",
+    "b": "<p>Beyond the middle marker, or 500 ft above the aerodrome/heliport if there is no middle marker.</p>",
+    "c": "<p>Below the FAF, or 1500 ft above the aerodrome/heliport if there is no FAF.</p>",
+    "d": "<p>Below the final path intersection.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 946,
+  "questionId": "090-0946",
+  "questionNumber": "090-0946",
+  "stemHtml": "Before departure the pilot is informed of changing weather conditions at the destination airport. <br /> During the flight in the cruise, with approximately 500 NM to go, the pilot wishes to check the destination weather. Where/how could this information be obtained?",
+  "options": {
+    "a": "ATIS using the designated frequency of an airport en-route, on Very High Frequencies (VHF).",
+    "b": "D-ATIS by using Satcom and data link equipment such as ACARS.",
+    "c": "The scheduled VOLMET on Super High Frequencies (SHF).",
+    "d": "ATIS on High Frequencies (HF)."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

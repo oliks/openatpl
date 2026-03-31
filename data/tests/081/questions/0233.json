@@ -1,0 +1,14 @@
+{
+  "number": 233,
+  "questionId": "081-0233",
+  "questionNumber": "081-0233",
+  "stemHtml": "<p>In the event of a dual-channel failure of the Mach trim system in flight, what is the appropriate course of action?</p>",
+  "options": {
+    "a": "<p>It is solely up to the Commander to decide if the aircraft may be flown.</p>",
+    "b": "<p>The aircraft may be flown at or below a specified lower altitude.</p>",
+    "c": "<p>The aircraft may be flown at or below a specified lower Mach number.</p>",
+    "d": "<p>The aircraft cannot fly passengers, however it may be flown to a maintenance facility at a lower speed, at or below the changeover altitude.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

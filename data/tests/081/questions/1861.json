@@ -1,0 +1,19 @@
+{
+  "number": 1861,
+  "questionId": "081-1861",
+  "questionNumber": "081-1861",
+  "stemHtml": "Refer to figure.<br />\r\nTwo points are marked on the wing: V<sub>1</sub> and V<sub>2</sub>. Given an air velocity of V, select the correct option.",
+  "options": {
+    "a": "V<sub>1</sub> = 0<br />\r\nV<sub>2</sub> > V",
+    "b": "V<sub>1</sub> > V<br />\r\nV<sub>2</sub> = 0",
+    "c": "V<sub>1</sub> = 0<br />\r\nV<sub>2</sub> < V",
+    "d": "V<sub>1</sub> < V<br />\r\nV<sub>2</sub> = 0"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0043",
+      "publicUrl": "/attachments/081/081-att-0043.png"
+    }
+  ]
+}

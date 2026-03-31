@@ -1,0 +1,19 @@
+{
+  "number": 797,
+  "questionId": "081-0797",
+  "questionNumber": "081-0797",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich of the NACA 6-series aerofoils in the figure above would be most suitable for supersonic flight?</p>",
+  "options": {
+    "a": "<p>NACA 64-212</p>",
+    "b": "<p>NACA 63-206</p>",
+    "c": "<p>NACA 63-212</p>",
+    "d": "<p>NACA 66-210</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0202",
+      "publicUrl": "/attachments/081/081-att-0202.png"
+    }
+  ]
+}

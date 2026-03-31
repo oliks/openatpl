@@ -1,0 +1,19 @@
+{
+  "number": 2238,
+  "questionId": "081-2238",
+  "questionNumber": "081-2238",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe trailing edge flaps are stuck in the position shown in the picture. Which high-lift device is causing the asymmetry, and what could be a possible consequence of this?</p>",
+  "options": {
+    "a": "<p>Flap asymmetry and right-wing stalls</p>",
+    "b": "<p>Flap asymmetry and left-wing stalls</p>",
+    "c": "<p>Slat asymmetry and left-wing stalls</p>\r\n\r\n<p> </p>",
+    "d": "<p>Slat asymmetry and right-wing stalls</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0126",
+      "publicUrl": "/attachments/081/081-att-0126.png"
+    }
+  ]
+}

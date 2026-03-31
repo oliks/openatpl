@@ -1,0 +1,19 @@
+{
+  "number": 1502,
+  "questionId": "081-1502",
+  "questionNumber": "081-1502",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following correctly regroups the distances represented in the annex for a propeller blade?</p>",
+  "options": {
+    "a": "<p>1 - Helix angle; 2 - Angle of attack; 3 - Blade angle</p>",
+    "b": "<p>1 - Attack pitch; 2 - Helix angle; 3 - Blade angle</p>",
+    "c": "<p>1 - Effective pitch; 2 - Slip; 3 - Geometric pitch</p>",
+    "d": "<p>1 - Geometric pitch; 2 - Slip; 3 - Effective pitch</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0151",
+      "publicUrl": "/attachments/081/081-att-0151.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1071,
+  "questionId": "081-1071",
+  "questionNumber": "081-1071",
+  "stemHtml": "<p>Consider an aeroplane equipped with both leading edge slats and trailing edge flaps. What is the effect of the extension of leading-edge slats?</p>",
+  "options": {
+    "a": "<p>A greater reduction of the stalling speed, compared to the reduction achieved by the extension of the trailing-edge flaps.</p>",
+    "b": "<p dir=\"ltr\">A reduction of the stalling speed, while extension of the trailing-edge flaps will increase the stalling speed.</p>",
+    "c": "<p dir=\"ltr\">An increase of the stalling speed, while extension of the trailing-edge flaps will reduce the stalling speed.</p>",
+    "d": "<p>A lesser reduction of the stalling speed, compared to the reduction achieved by the extension of the trailing-edge flaps.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

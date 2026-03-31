@@ -1,0 +1,14 @@
+{
+  "number": 689,
+  "questionId": "081-0689",
+  "questionNumber": "081-0689",
+  "stemHtml": "<p>Imagine a symmetrical airfoil plotted on a C<strong><sub>L</sub></strong>-\u03b1 chart, with angle of attack (AoA) represented on the horizontal \"x\" axis and lift on the vertical \"y\" axis. How might you pinpoint the location of C<strong><sub>LMAX</sub></strong> along this curve?</p>",
+  "options": {
+    "a": "<p>At the tangent with origin.</p>",
+    "b": "<p>At the graph's peak.</p>",
+    "c": "<p>Where the angle of attack (AoA) equals the maximum.</p>",
+    "d": "<p>At the intersection with the x-axis.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

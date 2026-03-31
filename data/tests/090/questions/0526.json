@@ -1,0 +1,14 @@
+{
+  "number": 526,
+  "questionId": "090-0526",
+  "questionNumber": "090-0526",
+  "stemHtml": "<p>Which of the following is correct concerning a METAR?</p>",
+  "options": {
+    "a": "<p>Observations are made at intervals of 20 minutes.</p>",
+    "b": "<p>The reported visibility is the minimum observed around the horizon.</p>",
+    "c": "<p>Wind direction is reported in degrees true.</p>",
+    "d": "<p>The only cloud type required to be reported is cumulonimbus.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

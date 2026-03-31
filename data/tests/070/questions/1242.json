@@ -1,0 +1,14 @@
+{
+  "number": 1242,
+  "questionId": "070-1242",
+  "questionNumber": "070-1242",
+  "stemHtml": "You are a commander of a flight, where an anti-icing and de-icing procedure has been applied. There is freezing precipitation. Because you have to use a different runway for take-off, there is a delay. You can see a film of contamination on the wing, but the holdover time is not yet exceeded. Your next action is:",
+  "options": {
+    "a": "Switch on all the aircraft anti-icing and de-icing systems until clear of icing conditions when airborne.",
+    "b": "You taxi back for de-icing and anti-icing.",
+    "c": "You contact ATC and ask for further advice.",
+    "d": "You continue to the take-off position and take-off, provided the holdover time is not exceeded."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

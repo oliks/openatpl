@@ -1,0 +1,14 @@
+{
+  "number": 1388,
+  "questionId": "070-1388",
+  "questionNumber": "070-1388",
+  "stemHtml": "<p>NAT operation requirements specify the need for training of flight crew prior to operating in NAT HLA. Elements to be included in training\u2026</p>",
+  "options": {
+    "a": "Use of additional, special features of flight management system (FMS) require when operating in remote area such as NAT HLA.",
+    "b": "How to manage the use of automation to a fail-operation status, reduce the likelihood of aircraft deviation of its desired flight plan.",
+    "c": "Manual control in the event of entering the NAT HLA with NO functioning autopilot, in order to facilitate continuous flight adhering to the required levels of navigation and high keeping accuracy.",
+    "d": "The method and procedures for accurately using the control display unit (CDU) in order to reduce the likelihood of navigation errors."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 966,
+  "questionId": "070-0966",
+  "questionNumber": "070-0966",
+  "stemHtml": "A pilot requests an oceanic clearance: \"ABC 123 request Oceanic Clearance. Estimating Renso at 8:31. Request Mach 0.80, FL320, second choice track Bravo.\" Is this oceanic request correct?",
+  "options": {
+    "a": "Yes, because flight level, Mach number and route are contained.",
+    "b": "Yes, because identification, Mach number, flight level, and ETA over a specific point is contained.",
+    "c": "No, because there is no first choice track contained.",
+    "d": "No, because there is no maximum acceptable flight level contained."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

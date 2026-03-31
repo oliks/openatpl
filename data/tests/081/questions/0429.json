@@ -1,0 +1,19 @@
+{
+  "number": 429,
+  "questionId": "081-0429",
+  "questionNumber": "081-0429",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe annex shows a transport category aircraft in two situations. The aeroplane's mass may be considered constant. On the speed scale, the top of the red and black strip shows the stall speed for a given situation. In Situation 1, the stall warning has just started to sound. In Situation 2, the stall warning does NOT sound, and the first sign of an approaching stall is likely to be...</p>",
+  "options": {
+    "a": "<p>buffet caused by a high angle of attack, since at high altitude the CAS is unreliable as a reference due to compressibility.</p>",
+    "b": "<p>lack of pitch authority, due to the shock waves forming across the upper surface of the wing, reducing the airflow over the horizontal stabiliser.</p>",
+    "c": "<p>an uncommanded pitch-up motion, when the stall develops in the area of greatest camber due to the formation of shock waves at high altitude.</p>",
+    "d": "<p>an uncommanded pitch-down motion, as the stall develops at the wing tips first for aeroplanes with swept-back wings.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0204",
+      "publicUrl": "/attachments/081/081-att-0204.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 92,
+  "questionId": "090-0092",
+  "questionNumber": "090-0092",
+  "stemHtml": "<p>During the cruise at FL330, a pilot requests a climb to FL350 via CPDLC. However, ATC rejects this request as FL350 is occupied by another aircraft. What message is sent from ATC to the pilot via CPDLC to indicate that this request is denied?</p>",
+  "options": {
+    "a": "<p>NEGATIVE CLIMB </p>",
+    "b": "<p>UNABLE </p>",
+    "c": "<p>DENIED</p>",
+    "d": "<p>NOT APPROVED</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

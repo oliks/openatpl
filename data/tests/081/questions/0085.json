@@ -1,0 +1,14 @@
+{
+  "number": 85,
+  "questionId": "081-0085",
+  "questionNumber": "081-0085",
+  "stemHtml": "In addition to ailerons, spoilers might be used at the same time to assist in lateral control. When doing so, how will the spoilers behave?",
+  "options": {
+    "a": "<p>Down-going wing spoilers rise proportionally to aileron input, disturbing the airflow over the wing, reducing lift, and creating a roll moment.</p>\r\n",
+    "b": "<p>Down-going wing spoilers fully rise with aileron input, disturbing the airflow over the wing, reducing lift, and creating a roll moment.</p>\r\n",
+    "c": "<p>Up-going wing spoilers rise proportionally to aileron input, locally increasing drag, assisting to counteracting adverse yaw.</p>\r\n",
+    "d": "<p>Up-going wing spoilers fully rise with aileron input, increasing total drag, reducing lift, and creating a roll moment.</p>\r\n"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

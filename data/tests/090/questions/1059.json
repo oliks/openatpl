@@ -1,0 +1,14 @@
+{
+  "number": 1059,
+  "questionId": "090-1059",
+  "questionNumber": "090-1059",
+  "stemHtml": "<p>The controller instructs you to \"STOP SQUAWK CHARLIE, WRONG INDICATION\". This means that the controller\u2026</p>",
+  "options": {
+    "a": "<p>is informing you that he/she can only determine your bearing within 10 degrees.</p>",
+    "b": "<p>wants you to turn off the altitude reporting function on your transponder.</p>",
+    "c": "<p>wants you to switch off your transponder completely.</p>",
+    "d": "<p>has an incorrect position indication for your aircraft on his/her primary radar.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

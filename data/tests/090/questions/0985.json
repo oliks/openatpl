@@ -1,0 +1,14 @@
+{
+  "number": 985,
+  "questionId": "090-0985",
+  "questionNumber": "090-0985",
+  "stemHtml": "<p>An aircraft is flying under radar control over Germany, and the controller instructs the pilot to maintain 280 kt. Upon arriving at the FIR\u2019s limits and crossing the border, what should the pilot report to Brussels Control?</p>",
+  "options": {
+    "a": "Only your callsign and the Flight Level.",
+    "b": "No need to inform the controller of the speed restriction.",
+    "c": "<p>Inform the controller of the assigned speed from the previous contact.</p>",
+    "d": "<p>You need to provide the aircraft registration, your position, and the time at which you have crossed the FIR only.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

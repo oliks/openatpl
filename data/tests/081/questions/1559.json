@@ -1,0 +1,14 @@
+{
+  "number": 1559,
+  "questionId": "081-1559",
+  "questionNumber": "081-1559",
+  "stemHtml": "<p>In order to provide an adequate \"buffet boundary\" at the commencement of the cruise a speed of 1.3 V<sub>S</sub> is used. At a mass of 120000 kg this is a CAS of 180 knots. If the mass of the aeroplane is increased to 135000 kg the value of 1.3 V<strong><sub>S</sub></strong> will be\u2026</p>",
+  "options": {
+    "a": "increased to 191 knots, drag will decrease and air distance per kg of fuel will increase.",
+    "b": "increased to 191 knots, drag will increase and air distance per kg of fuel will decrease.",
+    "c": "unaffected as V<sub>S</sub> always occurs at the same angle of attack.",
+    "d": "increased to 202 knots but, since the same angle of attack is used, drag and range will remain the same."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

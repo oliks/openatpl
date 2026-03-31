@@ -1,0 +1,14 @@
+{
+  "number": 912,
+  "questionId": "081-0912",
+  "questionNumber": "081-0912",
+  "stemHtml": "Consider a Fly-By-Wire (FBW) large transport aircraft on the cruise, with its CG more aft than initially calculated. What could be a possible consequence of this?",
+  "options": {
+    "a": "<p>The aircraft's stability will be improved due to the more aft CG.</p>",
+    "b": "The aircraft's pitch authority will decrease, leading to decreased manoeuvrability.",
+    "c": "<p>The calculated forces for a given pitch input can be too large, potentially exceeding limits.</p>",
+    "d": "The aircraft's roll control will become more sensitive, improving handling."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

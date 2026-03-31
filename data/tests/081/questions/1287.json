@@ -1,0 +1,14 @@
+{
+  "number": 1287,
+  "questionId": "081-1287",
+  "questionNumber": "081-1287",
+  "stemHtml": "<p>You are flying a large jet aircraft equipped with fly-by-wire (FBW) at Mach 0.80 when suddenly the FBW experiences a failure leading to manual pitch trim reversion. Why must the speed now be limited to M 0.77?</p>",
+  "options": {
+    "a": "<p>The pilots are not used to flying large jets manually.</p>",
+    "b": "<p>At high speed, variation in CG position is no longer compensated by the FBW system.</p>",
+    "c": "<p>The FBW no longer provides flight envelope protection, and the flight mechanics become unpredictable above M<sub>crit</sub>.</p>",
+    "d": "<p>At high speeds, the aerodynamic forces on the control surfaces become too large and could lead to oscillations.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

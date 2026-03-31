@@ -1,0 +1,14 @@
+{
+  "number": 25,
+  "questionId": "070-0025",
+  "questionNumber": "070-0025",
+  "stemHtml": "<p>A cargo shipment is on its way to the airport, when damage occurs. The operator is informed about the damage. Who has the responsibility of making sure the cargo is denied or accepted before being loaded?</p>",
+  "options": {
+    "a": "<p>The customs check will make sure that the cargo will be thoroughly checked and accepted.</p>",
+    "b": "<p>The personnel carrying out the Acceptance Check will check the damage and eventually remove it or repack it.</p>",
+    "c": "<p>The Pilot in command has the responsibility for checking the damage, and may accept or deny it.</p>",
+    "d": "<p>The cargo will be accepted without further inspection.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

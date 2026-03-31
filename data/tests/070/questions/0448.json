@@ -1,0 +1,14 @@
+{
+  "number": 448,
+  "questionId": "070-0448",
+  "questionNumber": "070-0448",
+  "stemHtml": "<p>How many independent radio-communication systems are required for IFR operations, or VFR operations over routes that are NOT navigated by reference to visual landmarks?</p>",
+  "options": {
+    "a": "<p>Three: two for normal operations and an additional emergency system.</p>",
+    "b": "<p>Only one.</p>",
+    "c": "<p>At least two.</p>",
+    "d": "<p>It depends on the classification of the airspace to be flown through on the planned flight.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

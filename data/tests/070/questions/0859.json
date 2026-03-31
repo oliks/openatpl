@@ -1,0 +1,14 @@
+{
+  "number": 859,
+  "questionId": "070-0859",
+  "questionNumber": "070-0859",
+  "stemHtml": "<p>When is an altitude deviation report required when operating in the North Atlantic High Level Airspace (NAT HLA)?</p><p>1. When deviating altitude more than 200 ft in RVSM only  <br /> 2. When deviating altitude more than 300 ft in Non RVSM only  <br /> 3. When deviating altitude more than 300 ft, whatever the airspace  <br /> 4. When deviating from your route in a contingency  <br /> 5. When deviating altitude 300 ft for weather</p>",
+  "options": {
+    "a": "<p>1 and 2</p>",
+    "b": "<p>3 only</p>",
+    "c": "<p>3, 4 and 5</p>",
+    "d": "<p>1 and 4</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

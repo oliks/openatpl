@@ -1,0 +1,19 @@
+{
+  "number": 132,
+  "questionId": "081-0132",
+  "questionNumber": "081-0132",
+  "stemHtml": "Refer to figure. <br /> The annex illustrates an aeroplane suffering an engine failure, while flying at the normal cruising speed. After dealing appropriately with the failure, the pilot prepares the aeroplane for landing. The pilot maintains wings level as the aeroplane is slowing down; as the airspeed decreases, larger variations in rudder input are required to maintain direction, even if thrust remains constant. One reason for this is because the\u2026",
+  "options": {
+    "a": "amount of sideslip decreases with speed, making the airflow arrive at the vertical stabiliser at a smaller angle, thereby reducing the rudder\u2019s effectiveness.",
+    "b": "amount of sideslip increases as speed decreases, making the airflow arrive at the vertical stabiliser at a greater angle, thereby reducing the rudder\u2019s effectiveness.",
+    "c": "left side of the vertical stabiliser is stalling since the rudder increases the effective camber to the point where the airflow separates, thereby reducing the rudder\u2019s effectiveness.",
+    "d": "right side of the vertical stabiliser is stalling, since the sideslip, combined with the rudder input, results in an airflow that is beyond the stabiliser\u2019s critical angle of attack."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0117",
+      "publicUrl": "/attachments/081/081-att-0117.jpg"
+    }
+  ]
+}

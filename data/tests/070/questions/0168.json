@@ -1,0 +1,14 @@
+{
+  "number": 168,
+  "questionId": "070-0168",
+  "questionNumber": "070-0168",
+  "stemHtml": "<p>The co-pilot is the Pilot Flying (PF) during an approach to an unfamiliar aerodrome. Weather conditions are VMC. While joining the Final Approach segment the Ground Proximity Warning System</p>\r\n\r\n<p>sounds. The co-pilot, as the PF of the aircraft, should\u2026</p>",
+  "options": {
+    "a": "<div>start looking outside the flight deck to identify the obstacle or terrain causing the alert, to visually avoid it.</div>",
+    "b": "<div>continue the approach. The decision for corrective actions rests with the Commander of the aircraft.</div>",
+    "c": "<div>change the lateral track of the aircraft by at least 15 degrees left or right, but maintain the vertical path.</div>",
+    "d": "<p>take immediate corrective action to establish safe flight conditions.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

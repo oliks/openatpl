@@ -1,0 +1,19 @@
+{
+  "number": 302,
+  "questionId": "081-0302",
+  "questionNumber": "081-0302",
+  "stemHtml": "<p>Refer to figure.  <br />  \rThe attached figure shows an aeroplane in cruise flight suffering an engine failure with significant damage. The aircraft speed is reducing, and the pilot needs to increase the rudder input to counteract the asymmetric yawing moment. Why is this?</p>",
+  "options": {
+    "a": "<p>As airspeed reduces, the live engine produces a stronger yawing moment.</p>",
+    "b": "<p>The right sideslip is causing the vertical stabiliser to stall.</p>",
+    "c": "<p>Rudder effectiveness is reduced due to a higher fin AoA at low speeds.</p>",
+    "d": "<p>The left sideslip is causing the vertical stabiliser to stall.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0223",
+      "publicUrl": "/attachments/081/081-att-0223.jpg"
+    }
+  ]
+}

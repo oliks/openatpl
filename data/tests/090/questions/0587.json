@@ -1,0 +1,14 @@
+{
+  "number": 587,
+  "questionId": "090-0587",
+  "questionNumber": "090-0587",
+  "stemHtml": "<p>What clouds are reported in the ATIS?</p>",
+  "options": {
+    "a": "<p>all clouds near the landing area.</p>",
+    "b": "<p>all clouds above the aerodrome.</p>",
+    "c": "<p>all clouds up to 5 000 ft.</p>",
+    "d": "all clouds up to 5 000 ft or MSA, whichever is highest."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

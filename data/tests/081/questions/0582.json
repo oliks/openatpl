@@ -1,0 +1,14 @@
+{
+  "number": 582,
+  "questionId": "081-0582",
+  "questionNumber": "081-0582",
+  "stemHtml": "<div>Considering bank angle and engine thrust, what limits are to be taken into account when defining V<sub>MC</sub> (minimum control speed with critical engine inoperative)?</div>",
+  "options": {
+    "a": "<div>Not more than 5\u00b0 of bank, idle thrust.</div>",
+    "b": "<div>Not more than 15\u00b0 of bank, maximum available take-off thrust.</div>",
+    "c": "<div>Not more than 5\u00b0 of bank, maximum available take-off thrust.</div>",
+    "d": "Not more than 15\u00b0 of bank, idle thrust."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 967,
+  "questionId": "081-0967",
+  "questionNumber": "081-0967",
+  "stemHtml": "<p>A large jet aircraft is designed to be operated with a positive longitudinal stability and is equipped with a Fly-By-Wire (FBW) system. Prior to each flight, the pilots input the aircraft mass and CG location into the Flight Management System (FMS). The aircraft's FMS then informs the FBW system of this data, allowing for the correct control forces and limitations to be used, giving flight envelope protection and ensuring stability is maintained.</p>\r\n\r\n<p>Consider what will happen to the aircraft's high altitude handling characteristics if the pilot inputs the INCORRECT CG position into the FMS, located forward of the actual CG position. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "Due to the design criteria applied, the longitudinal stability of the aircraft is always ensured, irrespective of the location of the CG.",
+    "b": "The actual longitudinal stability is lower than calculated by the FBW system, and the system may allow for control surface deflections that result in instability.",
+    "c": "The aircraft consumes more fuel than expected during the cruise phase of the flight, as the FBW system deflects the horizontal stabiliser more to counteract the error of the pilot.",
+    "d": "The pitch rates commanded by the FBW system are lower at higher altitudes compared to the pitch rates required to ensure that the longitudinal stability remains positive."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

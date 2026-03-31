@@ -1,0 +1,14 @@
+{
+  "number": 711,
+  "questionId": "070-0711",
+  "questionNumber": "070-0711",
+  "stemHtml": "<p>Given: </p><p>SNOWTAM 0183 <br>A) ESSA <br>B) 01230720 <br>C) 01L <br>F) 5/5/5 <br>G) 02/02/02 <br>H) 4/3/3 <br>N) 25/MEDIUM 02MM CONTAMINATION 50 PERCENT <br>C) 01R <br>F) 5/5/5 <br>G) 01/02/02 <br>H) 5/5/4 <br>N) 25/MEDIUM 02MM CONTAMINATION 50 PERCENT <br>C) 08 <br>F) 6/6/5 <br>G) 01/01/01 <br>H) 4/4/4 <br>N) 25/MEDIUM 01MM CONTAMINATION 25 PERCENT <br>R) 25/POOR 08MM CONTAMINATION 100 PERCENT <br>T) DE ICING FLUIDS ON RWY 01L 01R AND 08 </p><p>Which landing runway provides the best estimated surface friction?</p>",
+  "options": {
+    "a": "<p>Runway 08 </p>",
+    "b": "<p>Runway 01L</p>",
+    "c": "<p>Any runway, as all runways provide medium surface friction</p>",
+    "d": "<p>Runway 01R </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

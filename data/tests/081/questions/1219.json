@@ -1,0 +1,14 @@
+{
+  "number": 1219,
+  "questionId": "081-1219",
+  "questionNumber": "081-1219",
+  "stemHtml": "Consider an aircraft flying in unaccelerated level flight in the speed stable region. How does the drag change following a sudden increase in CAS with no change in thrust available, and what will happen to the airspeed after this?",
+  "options": {
+    "a": "The total drag increases and the airspeed will decrease.",
+    "b": "The total drag increases and the airspeed will further increase.",
+    "c": "<p>The total drag decreases and the airspeed will decrease.</p>",
+    "d": "The parasite drag decreases and the airspeed will further increase."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

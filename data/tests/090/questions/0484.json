@@ -1,0 +1,14 @@
+{
+  "number": 484,
+  "questionId": "090-0484",
+  "questionNumber": "090-0484",
+  "stemHtml": "<p>Which call signs would be appropriate for an aircraft (a Piper Cherokee 6) with registration HB-GPD and the flight identifier BLUE 4978?</p>\r\r<p>1. BLUE 78 <br /> \r2. HB PD <br /> \r3. H PD <br /> \r4. BLUE 4978 <br /> \r5. PIPER 78 <br /> \r6. PIPER PD</p>",
+  "options": {
+    "a": "<p>1, 4, 6</p>",
+    "b": "<p>6 only</p>",
+    "c": "<p>3, 4, 5</p>",
+    "d": "<p>3, 4, 6</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

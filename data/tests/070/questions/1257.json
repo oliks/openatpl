@@ -1,0 +1,19 @@
+{
+  "number": 1257,
+  "questionId": "070-1257",
+  "questionNumber": "070-1257",
+  "stemHtml": "<p>Refer to figure. <br>An aircraft, equipped with 3 LRNS displays the message \u201cGPS POSITION LOST\u201d on the Navigation Display (ND). The aircraft is in the NAT HLA. What does this indicate about the FMC mode?</p>",
+  "options": {
+    "a": "<p>FMC navigation accuracy is downgraded</p>",
+    "b": "<p>The crew shall monitor their position using the IRS</p>",
+    "c": "<p>Due to the GPS failure, the aircraft cannot operate within the NAT HLA</p>",
+    "d": "<p>FMC requires the reinitialization of position data</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0036",
+      "publicUrl": "/attachments/070/070-att-0036.jpg"
+    }
+  ]
+}

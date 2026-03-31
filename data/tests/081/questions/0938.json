@@ -1,0 +1,19 @@
+{
+  "number": 938,
+  "questionId": "081-0938",
+  "questionNumber": "081-0938",
+  "stemHtml": "Refer to figure. <br /> How are the speeds (shown in the figure) at point 1 and point 2 related to the relative wind/airflow V?",
+  "options": {
+    "a": "V<sub>1</sub> < V<sub>2</sub> and V<sub>2</sub> < V",
+    "b": "V<sub>1</sub> = 0 and V<sub>2</sub> > V",
+    "c": "V<sub>1</sub> = 0 and V<sub>2</sub> = V",
+    "d": "V<sub>1</sub> > V<sub>2</sub> and V<sub>2</sub> < V"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0161",
+      "publicUrl": "/attachments/081/081-att-0161.png"
+    }
+  ]
+}

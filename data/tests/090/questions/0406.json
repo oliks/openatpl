@@ -1,0 +1,14 @@
+{
+  "number": 406,
+  "questionId": "090-0406",
+  "questionNumber": "090-0406",
+  "stemHtml": "<p>A pilot needs to announce the wake turbulence category to the ATS unit.</p>\r\n",
+  "options": {
+    "a": "<p>If the MTOM exceeds 110 000 kg, always.</p>",
+    "b": "<p>If the MTOM exceeds 136 000 kg, always.</p>",
+    "c": "<p>If the MTOM exceeds 136 000 kg, upon every initial call on a new frequency.</p>",
+    "d": "<p>If the MTOM exceeds 110 000 kg, upon every initial call on a new frequency.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

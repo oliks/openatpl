@@ -1,0 +1,14 @@
+{
+  "number": 1295,
+  "questionId": "070-1295",
+  "questionNumber": "070-1295",
+  "stemHtml": "<p>A crew is performing the last flight of the day, which is a humanitarian aid mission with only cargo on board. Which of the following is correct regarding the security check?</p>",
+  "options": {
+    "a": "<p>This does not need to be done because it is always the decision of the commander if a security check has to be performed or not.</p>",
+    "b": "<p>This must be carried out, but does not have to be done until just before arriving, since there are no passengers on board.</p>",
+    "c": "<p>This must be done before departure to avoid the risk of unlawful interference.</p>",
+    "d": "<p>This can be skipped, since the cargo is not expected to be suspicious.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

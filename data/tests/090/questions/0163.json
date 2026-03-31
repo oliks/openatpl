@@ -1,0 +1,14 @@
+{
+  "number": 163,
+  "questionId": "090-0163",
+  "questionNumber": "090-0163",
+  "stemHtml": "<p>The departure aerodrome ATIS is unserviceable. In your message to request departure information, which of the following items must be used and in what sequence?</p>\r\n\r\n<p>1. Station being addressed<br />\r\n2. Planned altitude or level<br />\r\n3. Regional QNH<br />\r\n4. Route intentions<br />\r\n5. Information request<br />\r\n6. Aircraft call sign<br />\r\n7. Aircraft type</p>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "1, 5, 6, 2",
+    "b": "6, 1, 7, 2",
+    "c": "6, 7, 3, 4",
+    "d": "1, 6, 4, 5"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

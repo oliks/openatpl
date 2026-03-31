@@ -1,0 +1,14 @@
+{
+  "number": 1008,
+  "questionId": "070-1008",
+  "questionNumber": "070-1008",
+  "stemHtml": "<p>A turbojet aeroplane is experiencing a mid-air emergency forcing the aeroplane to make an emergency landing at the nearest suitable aerodrome. The aeroplane remains undamaged after the landing, however the pilot decides that an emergency evacuation of the passengers is required. The emergency evacuation checklist states the following:</p><p>Parking brake: SET <br /> All engines: OFF <br /> Evacuation: INITIATE</p><p>Which of the following statements is correct?</p>",
+  "options": {
+    "a": "Setting the parking brake should be last on the checklist since pilots are trained to set the parking brake whenever the aeroplane has stopped.",
+    "b": "The evacuation command should be first followed by the engine shutdown since it takes time until the first passenger exits the cabin.",
+    "c": "<p>The evacuation command should be first since passengers leaving the aeroplane will tend to follow the normal, safe paths.</p>",
+    "d": "This checklist ensures that the outside of the aeroplane is safe before people leave the relative safety of the cabin."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

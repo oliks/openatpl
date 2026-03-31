@@ -1,0 +1,14 @@
+{
+  "number": 284,
+  "questionId": "070-0284",
+  "questionNumber": "070-0284",
+  "stemHtml": "<p>While flying in the NAT OTS (North Atlantic Organised Track System), you need to deviate to avoid weather by 4 NM from the track centreline. You can not get clearance from ATC. Which of the following options should you do?\u00a0</p><p>1. Look out for other aircraft both visually and on ACAS\u00a0<br>2. Declare an emergency on 121.500 MHz and inform other pilots on 123.450 MHz\u00a0<br>3. Inform other nearby aircraft on 121.500 MHz\u00a0<br>4. If possible deviate away from the track\u00a0<br>5. Climb or descend by 300 ft\u00a0<br>6. Ensure all aircraft lights are on</p>",
+  "options": {
+    "a": "<p>1, 3, 4 and 6</p>",
+    "b": "<p>2, 3, 5 and 6</p>",
+    "c": "<p>1, 3, 4 and 5</p>",
+    "d": "<p>1, 2, 4 and 6</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1307,
+  "questionId": "070-1307",
+  "questionNumber": "070-1307",
+  "stemHtml": "<p>What happens when the static pressure supply, to a Vertical Speed Indicator, becomes blocked during a descent?</p>",
+  "options": {
+    "a": "<p>Under-reads.</p>",
+    "b": "<p>Indicates altitude at which blockage occurred.</p>",
+    "c": "<p>Reading gradually reduces to zero.</p>",
+    "d": "<p>Over-reads.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

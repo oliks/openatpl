@@ -1,0 +1,14 @@
+{
+  "number": 93,
+  "questionId": "090-0093",
+  "questionNumber": "090-0093",
+  "stemHtml": "<p>A pilot is uncertain of their present position. The pilot asks the tower controller of a nearby aerodrome for the QDM. The pilot will receive the...</p>",
+  "options": {
+    "a": "<p>true heading (zero wind) to the aerodrome.</p>",
+    "b": "<p>magnetic bearing from the aerodrome. </p>",
+    "c": "<p>magnetic heading (zero wind) to the aerodrome. </p>",
+    "d": "<p>true bearing from the aerodrome.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

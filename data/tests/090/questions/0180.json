@@ -1,0 +1,14 @@
+{
+  "number": 180,
+  "questionId": "090-0180",
+  "questionNumber": "090-0180",
+  "stemHtml": "<p>Your call sign is AIRFLY12345. You are in contact with Barcelona approach flying at FL350 passing overhead BCN VOR. The aircraft suffers a depressurisation. How do you communicate the distress situation?</p>",
+  "options": {
+    "a": "<p>Mayday, mayday, mayday, Barcelona approach, AIRFLY12345, depressurisation problem, descending FL100, passing VOR, mayday.</p>",
+    "b": "Mayday, mayday, mayday, Barcelona approach, AIRFLY12345, passing BCN VOR, descending FL100, depressurisation problem.",
+    "c": "Mayday, mayday, mayday, Barcelona approach, AIRFLY12345, depressurisation problem, descending FL100, passing BCN VOR.",
+    "d": "Barcelona Approach AIRFLY12345 depressurisation problem descending FL100, VOR passed, mayday."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

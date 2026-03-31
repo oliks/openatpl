@@ -1,0 +1,14 @@
+{
+  "number": 46,
+  "questionId": "081-0046",
+  "questionNumber": "081-0046",
+  "stemHtml": "What happens to the pressure coefficient (CP) when the flow velocity (Mach number) is higher than the critical Mach number (M<sub>CRIT</sub>)?",
+  "options": {
+    "a": "<p>CP decreases</p>",
+    "b": "CP remains constant",
+    "c": "<p>CP increases</p>",
+    "d": "CP fluctuates rapidly"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

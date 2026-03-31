@@ -1,0 +1,14 @@
+{
+  "number": 546,
+  "questionId": "090-0546",
+  "questionNumber": "090-0546",
+  "stemHtml": "<p>To assist a radar controller to identify your aircraft, you are asked for your position. The LUGBERRY VOR station is 5 miles north of you. How do you report your position in relation to it?</p>",
+  "options": {
+    "a": "<p>POSITION LUGBERRY VOR FIVE MILES NORTH, G-ACZG</p>",
+    "b": "<p>POSITION FIVE MILES SOUTH OF LUGBERRY VOR, G-ACZG</p>",
+    "c": "<p>ONE EIGHT ZERO FIVE FROM LUGBERRY VOR, G-ACZG</p>",
+    "d": "<p>LUGBERRY VOR FIVE MILES ONE EIGHT ZERO, G-ACZG</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

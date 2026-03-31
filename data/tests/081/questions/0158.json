@@ -1,0 +1,14 @@
+{
+  "number": 158,
+  "questionId": "081-0158",
+  "questionNumber": "081-0158",
+  "stemHtml": "<p>Which of these statements about flutter are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. If flutter occurs, IAS should be kept constant.</span> <br /> \nII. Resistance to flutter increases with reducing wing stiffness.</p>",
+  "options": {
+    "a": "I is incorrect, II is correct.",
+    "b": "I is correct, II is incorrect.",
+    "c": "I is incorrect, II is incorrect.",
+    "d": "I is correct, II is correct."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

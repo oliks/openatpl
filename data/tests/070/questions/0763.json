@@ -1,0 +1,14 @@
+{
+  "number": 763,
+  "questionId": "070-0763",
+  "questionNumber": "070-0763",
+  "stemHtml": "<p>According to OPS regulations, an operator shall not operate a turbine propeller powered aeroplane with a maximum certificated take-off mass in excess of 5700 kg or having a maximum approved passenger seating configuration of more than nine seats or a turbojet powered aeroplane unless it is equipped with an altitude alerting system capable of alerting the flight crew when\u2026</p>",
+  "options": {
+    "a": "<p>Exceeding the service ceiling of the aeroplane.</p>",
+    "b": "<p>Cabin altitude exceeds 10 000 ft (cabin pressure below 700 hPa).</p>",
+    "c": "<p>Deviating from a preselected altitude.</p>",
+    "d": "<p>Flying over terrain that exceeds the maximum one-engine-inoperative cruising altitude.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 573,
+  "questionId": "090-0573",
+  "questionNumber": "090-0573",
+  "stemHtml": "<p>The controller gives you this instruction: \"HOTAIR ALFA GOLF, RESET SQUAWK CHARLIE 3363?\". What should you do?</p>",
+  "options": {
+    "a": "<p>Reselect the code of 3363, ensure pressure altitude is being transmitted, and transmit \u201cRESETTING CHARLIE 3363, HOTAIR ALFA GOLF\u201d</p>",
+    "b": "<p>Reselect the code of 3363, and transmit \u201cWILCO, HOTAIR ALFA GOLF\u201d</p>",
+    "c": "<p>Check visually that 3363 is displayed on your transponder with altitude also selected, and transmit \u201cSQUAWKING CHARLIE 3363, HOTAIR ALFA GOLF\u201d</p>",
+    "d": "<p>Check visually that 3363 is displayed on your transponder, select \u201cIDENT\u201d on your transponder, and transmit \u201cRESETTING CHARLIE 3363, HOTAIR ALFA GOLF\u201d</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

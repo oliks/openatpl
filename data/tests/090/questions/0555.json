@@ -1,0 +1,14 @@
+{
+  "number": 555,
+  "questionId": "090-0555",
+  "questionNumber": "090-0555",
+  "stemHtml": "<p>A controller instructs an aircraft call sign BIGJET 347 to transfer communication to another aeronautical station upon reaching a specified level. Which of the following phraseology is in accordance with agreed procedures?</p>",
+  "options": {
+    "a": "<p>BIGJET 347 when reaching FL120 contact Donlon Control 119.725.</p>",
+    "b": "<p>BIGJET 347 contact Donlon on 119.725 upon reaching FL120, Donlon Control.</p>",
+    "c": "<p>BIGJET 347 when flying at Level 120 contact Donlon on 119.725.</p>",
+    "d": "<p>BIGJET 347 at FL120 call Donlon Centre on 119.725.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

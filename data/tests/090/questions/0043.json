@@ -1,0 +1,14 @@
+{
+  "number": 43,
+  "questionId": "090-0043",
+  "questionNumber": "090-0043",
+  "stemHtml": "<p>What are your actions if you are the first station acknowledging a distress message?</p>\r\r<p>1. Maintain radio silence <br /> \r2. Immediately acknowledge the distress message <br /> \r3. Relay information to the appropriate ATS unit <br /> \r4. Take control of the communications or specifically and clearly transfer that responsibility, advising the aircraft if a transfer is made <br /> \r5. Switch to alternate frequency for further communication with ATC</p>",
+  "options": {
+    "a": "<p>3, 5</p>",
+    "b": "<p>1, 5</p>",
+    "c": "<p>1, 3, 4</p>",
+    "d": "<p>2, 3, 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

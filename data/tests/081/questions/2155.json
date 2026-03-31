@@ -1,0 +1,14 @@
+{
+  "number": 2155,
+  "questionId": "081-2155",
+  "questionNumber": "081-2155",
+  "stemHtml": "<p>Considering the information below, calculate the value of the coefficient of lift for an aircraft flying at stall speed.</p><p>Mass: 1580 kg <br>G: 9.8 m/s<strong><sup>2</sup></strong> <br>V<strong><sub>s</sub></strong>: 70 kt <br>Density: 1.225 kg/m<strong><sup>3</sup></strong> <br>Wing area: 13.7 m<strong><sup>2</sup></strong> <br>1 kt = 0.514 m/s</p>",
+  "options": {
+    "a": "<p>0.38</p>",
+    "b": "<p>1.20</p>",
+    "c": "<p>1.89</p>",
+    "d": "<p>1.42</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1354,
+  "questionId": "081-1354",
+  "questionNumber": "081-1354",
+  "stemHtml": "<p>Given the following information, calculate the Lift, in a straight and steady glide with a glide angle of 30 degrees.</p>\r\r<p>Weight: 12 380 kg <br /> \rDrag: 9550 kg</p>",
+  "options": {
+    "a": "<div>2830 kg</div>",
+    "b": "<div>6190 kg</div>",
+    "c": "<div>10 721 kg</div>",
+    "d": "<p>12 380 kg</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

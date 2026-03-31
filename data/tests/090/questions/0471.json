@@ -1,0 +1,14 @@
+{
+  "number": 471,
+  "questionId": "090-0471",
+  "questionNumber": "090-0471",
+  "stemHtml": "<p>Three different types of call sign can be used:</p>\n\n<p>1- Registration number  <br />  \n2- Operator + code  <br />  \n3- .. ?</p>",
+  "options": {
+    "a": "Operator + registration number",
+    "b": "Operator + aircraft model",
+    "c": "Aircraft manufacturer + registration number",
+    "d": "Aircraft model + shortened registration number"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

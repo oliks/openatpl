@@ -1,0 +1,14 @@
+{
+  "number": 1086,
+  "questionId": "070-1086",
+  "questionNumber": "070-1086",
+  "stemHtml": "<p>For a specific route in another state, the operator has established a minimum safe altitude. However, the state of operation has a different minimum safe altitude for the same route. Which minimum safe altitude should be used?</p>",
+  "options": {
+    "a": "<p>The operator's published minimum safe altitude</p>",
+    "b": "<p>Average between altitudes</p>",
+    "c": "<p>The lowest of the altitudes</p>",
+    "d": "<p>The highest of the altitudes</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

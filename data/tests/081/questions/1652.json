@@ -1,0 +1,19 @@
+{
+  "number": 1652,
+  "questionId": "081-1652",
+  "questionNumber": "081-1652",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe buffet onset boundary chart is provided for an aircraft flying at FL290 at a mass of 120 tonnes. What are the low and high buffet margins for this flight level for a load factor of 1.5g?</p>",
+  "options": {
+    "a": "<p>M0.65; M0.79</p>",
+    "b": "<p>M0.63; M0.77</p>",
+    "c": "<p>M0.65; greater than M0.84</p>",
+    "d": "<p>M0.63; greater than M0.84</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0031",
+      "publicUrl": "/attachments/081/081-att-0031.jpg"
+    }
+  ]
+}

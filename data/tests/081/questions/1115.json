@@ -1,0 +1,14 @@
+{
+  "number": 1115,
+  "questionId": "081-1115",
+  "questionNumber": "081-1115",
+  "stemHtml": "<p>A transonic Mach number is a Mach number\u2026</p>",
+  "options": {
+    "a": "<p>between the buffet onset Mach number and the Mach number corresponding to total supersonic flow.</p>",
+    "b": "<p>at which only supersonic local speeds occur.</p>",
+    "c": "<p>at which both subsonic and supersonic local speeds occur.</p>",
+    "d": "<p>in the range between M<sub>CRIT</sub> and M<sub>MO</sub>.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

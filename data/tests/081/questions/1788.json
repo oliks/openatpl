@@ -1,0 +1,14 @@
+{
+  "number": 1788,
+  "questionId": "081-1788",
+  "questionNumber": "081-1788",
+  "stemHtml": "<p>Which of these statements about the transonic speed range is correct ?</p>",
+  "options": {
+    "a": "<p>The transonic speed range starts at M=0.5 and ends at M<sub>CRIT</sub>.</p>",
+    "b": "<p>The airflow everywhere around the aeroplane is subsonic.</p>",
+    "c": "<p>The airflow everywhere around the aeroplane is supersonic.</p>",
+    "d": "<p>The transonic speed range starts at M<sub>CRIT</sub> and extends to Mach numbers above M=1.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

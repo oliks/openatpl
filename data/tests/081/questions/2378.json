@@ -1,0 +1,14 @@
+{
+  "number": 2378,
+  "questionId": "081-2378",
+  "questionNumber": "081-2378",
+  "stemHtml": "<p>The speed for minimum glide angle occurs at an angle of attack that corresponds to. (assume zero thrust)</p>",
+  "options": {
+    "a": "C<sub>LMAX</sub>.",
+    "b": "<div>(C<sub>L</sub>\u00b3/C<sub>D</sub>\u00b2)<sub>MAX</sub>.</div>\r\n",
+    "c": "<div>(C<sub>L</sub>/C<sub>D</sub>)<sub>MAX</sub>.</div>\r\n",
+    "d": "<div>(C<sub>L</sub>/C<sub>D</sub>\u00b2)<sub>MAX</sub>.</div>\r\n"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1888,
+  "questionId": "081-1888",
+  "questionNumber": "081-1888",
+  "stemHtml": "<p>Refer to figure. <br /> \rA pilot is planning a long-haul flight and uses a copy of the attached annex. What can they do with the information on this chart?</p>",
+  "options": {
+    "a": "<p>Compare the mass of the aircraft with the planned cruising altitude in order to find relevant buffet boundaries.</p>",
+    "b": "<p>Compare the mass of the aircraft with the bank angle to calculate maximum bank angles during the take-off flight path.</p>",
+    "c": "<p>Calculate the minimum altitude that can be cruised at and still have enough fuel to reach the destination safely.</p>",
+    "d": "<p>Calculate the stall speed in the landing configuration.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0185",
+      "publicUrl": "/attachments/081/081-att-0185.jpg"
+    }
+  ]
+}

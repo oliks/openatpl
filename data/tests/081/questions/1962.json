@@ -1,0 +1,14 @@
+{
+  "number": 1962,
+  "questionId": "081-1962",
+  "questionNumber": "081-1962",
+  "stemHtml": "The pilots prepare and trim the aircraft for take-off, setting the trim for a CG position at 12% of the MAC. But due to an error, the real position of the CG is at 24% of the MAC. What could this cause?",
+  "options": {
+    "a": "The length of the runway may not be sufficient to take-off.",
+    "b": "Large stick forces are required to achieve rotation.",
+    "c": "Risk of over rotation that can lead to a tail strike.",
+    "d": "Reduced climb performance after take-off."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

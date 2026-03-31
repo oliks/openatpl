@@ -1,0 +1,14 @@
+{
+  "number": 91,
+  "questionId": "070-0091",
+  "questionNumber": "070-0091",
+  "stemHtml": "<p>Find the correct decode using the following extract from a SNOWTAM for LFPG. </p><p>SNOWTAM 0125 <br>LFPG<br>02170530 R25R 2/3/2 100/100/100 08/05/08 SLUSH/WET SNOW/SLUSH <br>02170530 R25C 3/3/2 100/100/100 06/06/08 WET SNOW/WET SNOW/SLUSH <br>02170530 R25L 3/3/2 100/100/100 06/06/10 WET SNOW/WET SNOW/SLUSH</p>",
+  "options": {
+    "a": "<p>Runway 25 R has WET ICE on the second third of the runway, with a depth of 5 mm</p>",
+    "b": "<p>Runway 25 C has WET SNOW on the first third of the runway, with a depth of 8 mm</p>",
+    "c": "<p>Runway 25 C has WET SNOW on the last third of the runway, with a depth of 6 mm</p>",
+    "d": "<p>Runway 25 L has WET SNOW on the first third of the runway, with a depth of 6 mm</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

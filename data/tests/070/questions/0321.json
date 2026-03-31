@@ -1,0 +1,14 @@
+{
+  "number": 321,
+  "questionId": "070-0321",
+  "questionNumber": "070-0321",
+  "stemHtml": "<p>An aircraft has ETOPS approval for 180 minutes but during the pre-flight check, a defective left ignition module is found. The MEL explains that the flight can be performed when the igniters are both working and  set to BOTH but also informs that with a defective igniter, the flight can be performed with ETOPS below 90 minutes. Which of the following statements are correct? </p>",
+  "options": {
+    "a": "<p>The flight can be performed if at any point on the route, the time to reach an alternate is below 90 minutes</p>",
+    "b": "<p>The flight can be performed if at any point on the route, the time to reach an alternate is below 180 minutes</p>",
+    "c": "<p>The flight can be performed if at any point on the route, the time to reach an alternate is between 90 and 180 minutes</p>",
+    "d": "<p>Regardless of the MEL restrictions, with the igniters set to BOTH, the flight can be performed with ETOPS of 180 minutes</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

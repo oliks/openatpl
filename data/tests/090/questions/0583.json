@@ -1,0 +1,14 @@
+{
+  "number": 583,
+  "questionId": "090-0583",
+  "questionNumber": "090-0583",
+  "stemHtml": "The flight crew of an aircraft executes the pre-landing checklist, and they realise that the landing gear may not be fully extended. The crew decides to request a low pass near the tower to confirm the landing gear status. What is the correct sequence for the elements of their report?",
+  "options": {
+    "a": "<p>Pan pan (x3), station being called, aircraft callsign, reason, intentions.</p>",
+    "b": "Pan pan (x3), aircraft callsign, station being called, reason, intentions.",
+    "c": "Mayday (x3), station being called, reason, intentions, aircraft callsign.",
+    "d": "Mayday (x3), station being called, aircraft callsign, reason, intentions."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

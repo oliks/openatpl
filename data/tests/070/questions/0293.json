@@ -1,0 +1,19 @@
+{
+  "number": 293,
+  "questionId": "070-0293",
+  "questionNumber": "070-0293",
+  "stemHtml": "<p>Refer to figure. <br /> An Operator has approval to carry Dangerous Goods. During the preflight walk around, the Pilot-in-Command observes the loading of a cargo compartment. He/She notices that there are three packages labelled with Label 2 with different Transport Indexes (Tis), and one package labelled with Label 4. The packages are NOT part of a shipment under a special arrangement. Is it permitted to carry these packages?</p>",
+  "options": {
+    "a": "Their transport is only permitted if the Competent Authority approval allows the mixing of packages with different Tis.",
+    "b": "Yes, the packages can be transported WITHOUT an additional specific Competent Authority approval.",
+    "c": "No, their transport is NOT permitted because one package includes fissile material.",
+    "d": "No, their transport is NOT permitted because the packages have different Tis."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0026",
+      "publicUrl": "/attachments/070/070-att-0026.jpg"
+    }
+  ]
+}

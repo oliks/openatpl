@@ -1,0 +1,14 @@
+{
+  "number": 671,
+  "questionId": "070-0671",
+  "questionNumber": "070-0671",
+  "stemHtml": "<p>En-route to the destination, the pilot has calculated his/her landing distance required including all performance factors to be 1300 m. The operator does NOT approve landings on runways with poor braking action. The braking action for the destination runways are as below, can the pilot land at the destination?</p><p>RWY 03L - 2100 m (POOR/MEDIUM/MEDIUM) <br /> RWY 21R - 2100 m (MEDIUM/MEDIUM/POOR)</p>",
+  "options": {
+    "a": "<p>YES, RWY 21R, because the last third can be disregarded.</p>",
+    "b": "<p>YES, RWY 03L, as there is enough space to land after the poor braking action.</p>",
+    "c": "<p>NO, the pilot must divert to the alternate aerodrome.</p>",
+    "d": "YES, it is commander\u2019s discretion as per regulation."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

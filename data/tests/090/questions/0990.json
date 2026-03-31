@@ -1,0 +1,14 @@
+{
+  "number": 990,
+  "questionId": "090-0990",
+  "questionNumber": "090-0990",
+  "stemHtml": "<p>Two aircraft are experiencing communication failure. Aircraft A is on a VFR flight on the downwind leg to land at a controlled aerodrome. Aircraft B is also on a VFR flight cruising at FL55. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>A look out shall be kept by the pilot of aircraft A as instructions may be issued by visual signals.</p>",
+    "b": "If aircraft B is a VFR flight above the clouds, it may descend through the clouds to land at the nearest suitable aerodrome.",
+    "c": "For both aircraft, the general communication failure procedures of the ICAO \u201cRules of the Air\u201d override any published local procedures.",
+    "d": "The arrival report can be omitted by the pilot of aircraft A, as there is an ATC unit at the aerodrome, but one must still be filed at the aerodrome reporting office at the aerodrome of departure."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2283,
+  "questionId": "081-2283",
+  "questionNumber": "081-2283",
+  "stemHtml": "<p>Which of these statements about the gust load factor on an aeroplane are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. When the slope of the lift versus angle of attack curve increases, the gust load factor increases.</span>  <br />  \nII. When the wing loading increases, the gust load factor decreases.</p>",
+  "options": {
+    "a": "I is correct, II is incorrect.",
+    "b": "I is incorrect, II is correct.",
+    "c": "I is correct, II is correct.",
+    "d": "I is incorrect, II is incorrect."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

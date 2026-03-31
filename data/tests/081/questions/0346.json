@@ -1,0 +1,14 @@
+{
+  "number": 346,
+  "questionId": "081-0346",
+  "questionNumber": "081-0346",
+  "stemHtml": "<div>When using aileron-rudder coupling to prevent adverse yaw, when the aircraft is rolled to the right, the left aileron is deflected...</div>\r\n",
+  "options": {
+    "a": "<div>down, the right aileron is deflected up, and the rudder is automatically deflected to the right.</div>",
+    "b": "<div>up, the right aileron is deflected down, and the rudder is automatically deflected to the right.</div>",
+    "c": "<div>up, the right aileron is deflected down, and the rudder is automatically deflected to the left.</div>",
+    "d": "down, the right aileron is deflected up, and the rudder is automatically deflected to the left."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

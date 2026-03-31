@@ -1,0 +1,14 @@
+{
+  "number": 1227,
+  "questionId": "070-1227",
+  "questionNumber": "070-1227",
+  "stemHtml": "<p>A CAT operator is notified by one of their pilots of a data inconsistency that has been discovered in the aeronautical database installed in one of their aeroplanes. The operator should...</p>",
+  "options": {
+    "a": "<p>do nothing, such errors have NO practical impact and will be corrected with the next scheduled update.</p>",
+    "b": "<p>report the issue to the competent authority.</p>",
+    "c": "<p>report the issue to the database provider.</p>",
+    "d": "<p>correct the error in the database.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 31,
+  "questionId": "090-0031",
+  "questionNumber": "090-0031",
+  "stemHtml": "<p>Globe Air 261 is flying from Dubai to London Gatwick. It is in contact with Maastricht control and requests descent. What is the correct pronunciation of the response?</p>",
+  "options": {
+    "a": "<p>TWO SIXER WUN, cleared to descend flight level WUN HUN-dred AITY.</p>",
+    "b": "<p>Globe Air TWO SIX WUN, cleared to descend and maintain flight level TOO FOW-er FIFE.</p>",
+    "c": "<p>Globe Air TOO SIX WUN, cleared to descend flight level TOO FOW-er FIFE.</p>",
+    "d": "<p>TWO SIXER WUN, cleared to descend flight level WUN AIT.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

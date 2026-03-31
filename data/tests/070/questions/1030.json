@@ -1,0 +1,14 @@
+{
+  "number": 1030,
+  "questionId": "070-1030",
+  "questionNumber": "070-1030",
+  "stemHtml": "<p>When en-route from Cairo to Larnaca, the flight crew is suddenly subjected to unlawful interference by two hijackers. The commander sets the transponder Mode A Code 7500 without being noticed. ATC then asks the flight crew over the radio to confirm the code 7500. However, the flight crew does NOT reply. How should the crew\u2019s decision NOT to respond be interpreted by ATC?</p>",
+  "options": {
+    "a": "<p>The crew is occupied by other tasks and will reply as soon as possible.</p>",
+    "b": "The use of Code 7500 is intentional and correctly selected by the crew.",
+    "c": "<p>The crew made an error and selected the false code.</p>",
+    "d": "The aircraft is experiencing communication failure."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

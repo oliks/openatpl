@@ -1,0 +1,14 @@
+{
+  "number": 561,
+  "questionId": "090-0561",
+  "questionNumber": "090-0561",
+  "stemHtml": "<p>The ATC informs the pilot that there is traffic at 11 o'clock. The pilot doesn't see it but has it on TCAS. How should the pilot reply?</p>",
+  "options": {
+    "a": "<p>Looking out, F-ABCD</p>",
+    "b": "<p>Watching out, F-ABCD</p>",
+    "c": "<p>TCAS TA, F-ABCD</p>",
+    "d": "Monitoring TCAS, F-ABCD"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

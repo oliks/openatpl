@@ -1,0 +1,14 @@
+{
+  "number": 490,
+  "questionId": "090-0490",
+  "questionNumber": "090-0490",
+  "stemHtml": "<p>You suspect that the FMS may be affected by erroneous inputs from some receivers. To confirm your position you propose to plot true bearings from two radio stations with VDF facilities. What should you request from each station?</p>",
+  "options": {
+    "a": "QNH",
+    "b": "QDM",
+    "c": "QTE",
+    "d": "QDR"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

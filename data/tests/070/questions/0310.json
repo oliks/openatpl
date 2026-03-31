@@ -1,0 +1,14 @@
+{
+  "number": 310,
+  "questionId": "070-0310",
+  "questionNumber": "070-0310",
+  "stemHtml": "<p>While flying in the NAT HLA, a flight crew receives a clearance which differs from their logged flight plan. What is the risk associated with this?</p>",
+  "options": {
+    "a": "<p>The only way to change the flight plan is manually, which can lead to errors in inputting the data.</p>",
+    "b": "<p>A significant proportion of navigation errors investigated in the NAT involve an aircraft which has followed its flight plan rather than its differing clearance.</p>",
+    "c": "<p>The crew should report that they are unable to follow the clearance, and can only operate along the original flight plan to prevent navigation errors.</p>",
+    "d": "<p>The crew can only accept the clearance if the new routing can be flown using ground navigation aids to verify position errors.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

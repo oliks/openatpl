@@ -1,0 +1,19 @@
+{
+  "number": 1007,
+  "questionId": "081-1007",
+  "questionNumber": "081-1007",
+  "stemHtml": "<p>Refer to figure. <br /> \rUsing the continuity equation for incompressible flow, what will be the velocity of the airflow leaving the section?</p>",
+  "options": {
+    "a": "<p>25 m/s</p>",
+    "b": "<p>200 m/s</p>",
+    "c": "<p>400 m/s</p>",
+    "d": "<p>1200 m/s</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0107",
+      "publicUrl": "/attachments/081/081-att-0107.png"
+    }
+  ]
+}

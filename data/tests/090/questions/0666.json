@@ -1,0 +1,14 @@
+{
+  "number": 666,
+  "questionId": "090-0666",
+  "questionNumber": "090-0666",
+  "stemHtml": "<p>In the cruise a flight crew hears a click on the ATC frequency, no speaking can be heard but the frequency is blocked, and no other transmissions can be heard. What is most likely to be happening?</p>",
+  "options": {
+    "a": "<p>The transmitting station is sending a signal, but the carrier wave is NOT being modulated.</p>",
+    "b": "<p>The receiving station is sending a radio signal, but the carrier wave is NOT being modulated.</p>",
+    "c": "<p>The carrier wave, which is modulated by the transmitter, is NOT being broadcast by the ATC station.</p>",
+    "d": "<p>The transmitting station is sending the upper and lower sidebands only, the carrier wave is missing.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

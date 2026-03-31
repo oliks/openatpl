@@ -1,0 +1,14 @@
+{
+  "number": 777,
+  "questionId": "090-0777",
+  "questionNumber": "090-0777",
+  "stemHtml": "Shortly after the initial contact the following transmission is heard on 118.550 MHz, the Lille Tower frequency: \"Mayday, Mayday, Mayday, Lille Tower, F-GTPO, complete engine failure, attempting a forced landing on a grass strip parallel to runway 20, currently right hand downwind for runway 20, 1000 ft.\" Is the transmission following the standards for declaring an emergency?",
+  "options": {
+    "a": "Even if the necessary elements are transmitted in the specified order, emergency transmissions shall be made on 121.500 MHz.",
+    "b": "Emergency transmissions shall always be made on 121.500 MHz, and the position report shall be placed just after the call sign of the aircraft transmitting, if possible.",
+    "c": "Even if the transmission is made on the frequency in use at the time, the position report shall be placed just after the call sign of the aircraft transmitting, if possible.",
+    "d": "The necessary elements are transmitted in the specified order and on the frequency in use at the time."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

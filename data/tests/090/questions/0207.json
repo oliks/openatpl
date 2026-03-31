@@ -1,0 +1,14 @@
+{
+  "number": 207,
+  "questionId": "090-0207",
+  "questionNumber": "090-0207",
+  "stemHtml": "<p>A pilot is flying in airspace where no Air Traffic Control service or advisory service is provided. Should the pilot suffer a receiver failure, apart from preceding all transmissions with \"Transmitting blind due to receiver failure\", which of the following actions must be taken?</p>\r\r<p>1. Transmit reports at scheduled times <br /> \r2. Repeat each message after transmitting it <br /> \r3. Advise the time of the next intended transmission <br /> \r4. Transmit information regarding the pilot-in-command\u2019s intention for continuation of the flight <br /> \r5. Set the appropriate SSR code <br /> \r6. Attempt to re-establish communications using the company frequency</p>",
+  "options": {
+    "a": "<div>1, 3, 4, 5</div>",
+    "b": "<div>2, 4, 5, 6</div>",
+    "c": "<div>2, 3, 5, 6</div>",
+    "d": "<p>1, 2, 3, 5</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

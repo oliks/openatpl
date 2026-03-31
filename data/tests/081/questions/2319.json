@@ -1,0 +1,19 @@
+{
+  "number": 2319,
+  "questionId": "081-2319",
+  "questionNumber": "081-2319",
+  "stemHtml": "<p>Refer to figure. <br>An aircraft is in a state of steady, straight, and level flight at a designated speed and mass, denoted as point A on the graph. Decreasing the angle of attack leads to a decrease in the Coefficient of Lift (C<strong><sub>L</sub></strong>) from point B to point A on the graph. To sustain steady, straight, and level flight, the indicated speed of the aircraft should be (1) _____ to maintain (2) _____ constant. <br>(Assume a constant aircraft mass, no alterations in configuration, and subsonic flight conditions.)</p>",
+  "options": {
+    "a": "<p>(1) increased; (2) drag</p>",
+    "b": "<p>(1) reduced; (2) drag</p>",
+    "c": "<p>(1) increased; (2) lift</p>",
+    "d": "<p>(1) reduced; (2) lift</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0194",
+      "publicUrl": "/attachments/081/081-att-0194.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 548,
+  "questionId": "090-0548",
+  "questionNumber": "090-0548",
+  "stemHtml": "<p>Complete the following sentence:</p><p>A Controller receives a (1)_____ call that takes priority over all other messages and instructs all other stations to (2)_____.</p>",
+  "options": {
+    "a": "(1) MAYDAY; (2) change frequency.",
+    "b": "(1) PAN PAN; (2) stop transmitting.",
+    "c": "(1) PAN PAN; (2) change frequency.",
+    "d": "<p>(1) MAYDAY; (2) stop transmitting.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

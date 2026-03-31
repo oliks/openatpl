@@ -1,0 +1,19 @@
+{
+  "number": 334,
+  "questionId": "081-0334",
+  "questionNumber": "081-0334",
+  "stemHtml": "<p>Refer to figure. <br /> \rWith the aircraft on the ground, what is the angle depicted as number 1 in the figure?</p>",
+  "options": {
+    "a": "<p>Angle of attack.</p>",
+    "b": "<p>Angle of incidence.</p>",
+    "c": "<p>Relative airflow angle.</p>",
+    "d": "<p>Thrust line angle.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0188",
+      "publicUrl": "/attachments/081/081-att-0188.png"
+    }
+  ]
+}

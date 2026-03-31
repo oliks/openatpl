@@ -1,0 +1,19 @@
+{
+  "number": 774,
+  "questionId": "081-0774",
+  "questionNumber": "081-0774",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is in a state of steady, straight, and level flight at a designated speed and mass, denoted as point A on the graph. Increasing the angle of attack leads to an increase in the Coefficient of Lift (C<sub>L</sub>) to point B on the graph. To sustain steady, straight, and level flight, the indicated speed of the aircraft should be (1) _____ to uphold the (2) _____ constant. <br /> \r<em>(Assume a constant aircraft mass, no alterations in configuration, and subsonic flight conditions.)</em></p>",
+  "options": {
+    "a": "<p>(1) increased; (2) lift.</p>",
+    "b": "<p>(1) increased; (2) drag.</p>",
+    "c": "<p>(1) reduced; (2) lift.</p>",
+    "d": "<p>(1) reduced; (2) drag.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0094",
+      "publicUrl": "/attachments/081/081-att-0094.jpg"
+    }
+  ]
+}

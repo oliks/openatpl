@@ -1,0 +1,19 @@
+{
+  "number": 1335,
+  "questionId": "070-1335",
+  "questionNumber": "070-1335",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is re-positioning from Europe to Canada, and it is planned to enter the NAT HLA at DOGAL and follow westbound track G which begins there. 20 minutes before reaching DOGAL, one of the aircraft's two FMSs fails, and cannot be reset. Which of the following must the pilots do?</p>",
+  "options": {
+    "a": "<p>Advise ATC of the failure and continue the flight as planned but with increased monitoring due to lack of redundancy.</p>",
+    "b": "<p>Remain outside NAT HLA unless ATC approves a reroute via GOMUP-KFV-OZN and onwards.</p>",
+    "c": "<p>Request a random route outside of the OTS since flight along the OTS requires 2 serviceable LRNSs, but a random route only requires 1.</p>",
+    "d": "<p>Request a flight level that is either above or below the NAT HLA, but track G may still be followed.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0008",
+      "publicUrl": "/attachments/070/070-att-0008.jpg"
+    }
+  ]
+}

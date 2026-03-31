@@ -1,0 +1,14 @@
+{
+  "number": 1815,
+  "questionId": "081-1815",
+  "questionNumber": "081-1815",
+  "stemHtml": "<p>What is the effect of icing or other airframe contaminants on the value of C<sub><strong>LMAX</strong> </sub>and critical alpha?</p>",
+  "options": {
+    "a": "<p>C<sub>LMAX </sub>increases, critical alpha increases</p>",
+    "b": "<p>C<sub>LMAX </sub>decreases, critical alpha increases</p>",
+    "c": "<p>C<sub>LMAX </sub>decreases, critical alpha decreases</p>",
+    "d": "<p>C<sub>LMAX </sub>increases, critical alpha decreases</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

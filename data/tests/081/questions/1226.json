@@ -1,0 +1,14 @@
+{
+  "number": 1226,
+  "questionId": "081-1226",
+  "questionNumber": "081-1226",
+  "stemHtml": "An aeroplane is equipped with 2 basic yaw dampers that operate independently of the flight controls. Due to a hydraulic leak, one of the yaw dampers becomes unserviceable. The aeroplane is allowed to fly as long as one yaw damper is operational, however the pilots must not commence flight if both yaw dampers are unserviceable. Why must the aeroplane have at least one serviceable yaw damper?",
+  "options": {
+    "a": "The yaw damper reduces the pilots workload by coordinating turns and improving the static lateral stability of the aeroplane.",
+    "b": "The yaw damper enables the aeroplane to perform an Autoland since it uses rudder in order to maintain direction during landing.",
+    "c": "The aeroplane becomes uncontrollable if there is NO yaw damper to improve slightly weak static directional stability.",
+    "d": "The aeroplane suffers from Dutch roll but remains controllable if the remaining yaw damper fails during flight."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

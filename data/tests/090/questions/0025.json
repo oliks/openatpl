@@ -1,0 +1,14 @@
+{
+  "number": 25,
+  "questionId": "090-0025",
+  "questionNumber": "090-0025",
+  "stemHtml": "<p>Apart from 'PAN PAN' typically repeated three times, an urgency message should consist of which of the following?</p><p>1. Name of the station being addressed <br>2. Aircraft identification <br>3. Description of the urgency condition <br>4. Pilot's intentions <br>5. Current position, altitude, and direction</p>",
+  "options": {
+    "a": "<p>Elements 2 and 4 must be reported while the other elements are optional.</p>",
+    "b": "<p>As many elements as are required by the situation.</p>",
+    "c": "<p>Element 5 must be reported while the other elements are optional.</p>",
+    "d": "<p>Elements 3 and 4 must be reported while the other elements are optional.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

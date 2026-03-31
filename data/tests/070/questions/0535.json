@@ -1,0 +1,14 @@
+{
+  "number": 535,
+  "questionId": "070-0535",
+  "questionNumber": "070-0535",
+  "stemHtml": "<p>In accordance with OPS regulations, for a pressurised aeroplane, the minimum requirement for supplemental oxygen needed to supply 100% of the passengers following a cabin pressurisation failure, is:</p>",
+  "options": {
+    "a": "<p>the entire flight time after 30 minutes at pressure altitude greater than 10000 ft but not exceeding 13000ft.</p>",
+    "b": "<p>the entire flight time where the cabin pressure altitude exceeds 15000 ft, but in no case less than 10 minutes.</p>",
+    "c": "<p>the entire flight time when the cabin pressure altitude exceeds 13000 ft.</p>",
+    "d": "<p>30 minutes.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

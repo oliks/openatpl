@@ -1,0 +1,14 @@
+{
+  "number": 1365,
+  "questionId": "081-1365",
+  "questionNumber": "081-1365",
+  "stemHtml": "While cruising at M 0.78, an airliner receives a TCAS RA climb command. The manoeuvre causes the angle of attack to temporarily increase. What is the effect on critical alpha?",
+  "options": {
+    "a": "Critical alpha decreases due to compressibility.",
+    "b": "Critical alpha increases due to compressibility.",
+    "c": "Critical alpha does not change.",
+    "d": "The RA must be ignored, due to the risk of immediate stall."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

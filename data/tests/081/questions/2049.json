@@ -1,0 +1,14 @@
+{
+  "number": 2049,
+  "questionId": "081-2049",
+  "questionNumber": "081-2049",
+  "stemHtml": "<p>While carrying out pre-flight preparations in a twin engine aeroplane, you notice that the yaw damper has failed. After consulting the Minimum Equipment List (MEL), you see that flight is permitted with this failure, but is restricted to a maximum altitude of FL170. What is the reason for this?</p>",
+  "options": {
+    "a": "<p>At high altitude, aerodynamic damping decreases, so the aircraft could experience oscillations in yaw and roll.</p>",
+    "b": "<p>The yaw damper exists to ensure that turns are coordinated, and there is more sideslip at high altitudes due to reduced air density.</p>",
+    "c": "<p>The yaw damper asissts the pilot in directional control after an engine failure, and the rudder is less effective at high altitude.</p>",
+    "d": "<p>Smaller control deflections are required at high altitude, so the yaw damper becomes more powerful. </p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

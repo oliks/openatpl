@@ -1,0 +1,14 @@
+{
+  "number": 500,
+  "questionId": "090-0500",
+  "questionNumber": "090-0500",
+  "stemHtml": "<p>A pilot requests a SELCAL check from ATC. The controller responds and confirms sending the SELCAL code, however there is no cockpit indication received. What should the pilot now report to ATC?</p>",
+  "options": {
+    "a": "<p>Try again</p>",
+    "b": "<p>SELCAL not received, try again</p>",
+    "c": "<p>Negative SELCAL, try again</p>",
+    "d": "<p>No SELCAL, try again</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

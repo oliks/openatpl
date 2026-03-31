@@ -1,0 +1,19 @@
+{
+  "number": 1314,
+  "questionId": "070-1314",
+  "questionNumber": "070-1314",
+  "stemHtml": "<p>Refer to figure. <br>Due to a cabin pressurisation defect the maximum differential pressure is limited to 3 PSI. Assuming the oxygen masks will be deployed at 14 000 feet, the maximum achievable flight altitude is approximately\u2026</p>",
+  "options": {
+    "a": "<p>26 000 ft</p>",
+    "b": "<p>22 000 ft</p>",
+    "c": "<p>23 500 ft</p>",
+    "d": "<p>21 500 ft</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0023",
+      "publicUrl": "/attachments/070/070-att-0023.jpg"
+    }
+  ]
+}

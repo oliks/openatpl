@@ -1,0 +1,14 @@
+{
+  "number": 486,
+  "questionId": "081-0486",
+  "questionNumber": "081-0486",
+  "stemHtml": "<p>Modern jet aeroplanes usually fly at speeds faster than M<strong><sub>CRIT</sub></strong>, since the increase in speed is more significant than the increase in drag. How is this achieved?</p>",
+  "options": {
+    "a": "The aeroplanes are capable of flying at a higher altitude where the air is less dense and therefore the effects of the shock waves are less severe and create less wave drag.",
+    "b": "The aeroplanes are flown at lower altitudes where the TAS is higher for a given Mach number and therefore experience a delay in the onset of shock waves and wave drag.",
+    "c": "By using a supercritical aerofoil to reduce the severity of shock waves and the amount of wave drag at a given Mach number, when compared to a conventional aerofoil.",
+    "d": "By using an advanced wing technology with a greater curvature underneath to balance the acceleration over the top and therefore reduce the severity of the shock waves."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1021,
+  "questionId": "090-1021",
+  "questionNumber": "090-1021",
+  "stemHtml": "<p>Information about an aerodrome with an ATIS is also included in the list of VOLMET reports. The QNH is transmitted in\u2026</p>",
+  "options": {
+    "a": "both the ATIS and the VOLMET reports.",
+    "b": "only the VOLMET report.",
+    "c": "neither the ATIS nor the VOLMET report.",
+    "d": "only the ATIS report."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

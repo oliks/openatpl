@@ -1,0 +1,14 @@
+{
+  "number": 2278,
+  "questionId": "081-2278",
+  "questionNumber": "081-2278",
+  "stemHtml": "<p>When increasing Mach Number just above M<strong><sub>CRIT</sub></strong>, how will the C<strong><sub>L</sub></strong> and C<strong><sub>LMAX</sub></strong> change?</p>",
+  "options": {
+    "a": "<p>C<sub>L</sub> decreases and C<sub>LMAX</sub> decreases.</p>",
+    "b": "<p>C<sub>L</sub> increases and C<sub>LMAX</sub> decreases.</p>",
+    "c": "<p>C<sub>L</sub> increases and C<sub>LMAX</sub> increases.</p>",
+    "d": "<p>C<sub>L</sub> decreases and C<sub>LMAX</sub> increases.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

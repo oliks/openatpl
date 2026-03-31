@@ -1,0 +1,19 @@
+{
+  "number": 281,
+  "questionId": "081-0281",
+  "questionNumber": "081-0281",
+  "stemHtml": "<p>Refer to figure. <br /> \rA crew is requested by ATC to descend. They select a lower altitude and engage vertical speed (V/S) mode on the aircraft's autopilot and reduce thrust to enable the descent, but the autopilot fails to initiate the descent leaving the airspeed to gradually decrease without the pilots noticing. The mechanical stall warning activates indicating that the aircraft is flying at a high angle of attack, but the aircraft has NOT yet entered a stall. What actions can the pilots take to recover?</p>",
+  "options": {
+    "a": "<p>At full thrust, aeroplane 1 accelerates while maintaining an almost horizontal pitch</p>",
+    "b": "<p>At full thrust, aeroplane 2, in addition to pitching down, it may be necessary to reduce thrust to ensure a nose down pitch rate</p>",
+    "c": "<p>At idle thrust, aeroplane 1 will recover from the low speed conditions with only minor adjustments to pitch.</p>",
+    "d": "<p>At idle thrust, aeroplane 2 will recover from the low speed conditions with only minor adjustments to pitch.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0100",
+      "publicUrl": "/attachments/081/081-att-0100.jpg"
+    }
+  ]
+}

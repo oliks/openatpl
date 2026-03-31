@@ -1,0 +1,14 @@
+{
+  "number": 2424,
+  "questionId": "081-2424",
+  "questionNumber": "081-2424",
+  "stemHtml": "An aircraft is climbing at a constant IAS close to V<sub>MO</sub> above FL230. What could the flight crew do to avoid accidentally exceeding M<sub>MO</sub>? The flight crew must...",
+  "options": {
+    "a": "decelerate past V<sub>S0</sub> to avoid exceeding M<sub>MO</sub>.",
+    "b": "stop flying at a constant IAS and fly at a constant TAS.",
+    "c": "stop flying at a constant IAS and fly at a constant Mach number.",
+    "d": "accelerate past V<sub>MO</sub> to avoid exceeding M<sub>MO</sub>."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

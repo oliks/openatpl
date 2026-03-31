@@ -1,0 +1,14 @@
+{
+  "number": 804,
+  "questionId": "070-0804",
+  "questionNumber": "070-0804",
+  "stemHtml": "<p>Two pilots are preparing for a flight in a multi-crew aircraft. They plan to fly to a location where the approach and landing will need to be carried out under low-visibility conditions. To execute the approach procedure...</p>",
+  "options": {
+    "a": "<p>The Commander and the Co-Pilot must hold valid instrument ratings and have completed at least one approach to CAT I minima within the last 365 days.</p>",
+    "b": "<p>Both pilots must hold valid instrument ratings but only the Commander must have completed at least one approach to CAT I minima within the previous 365 days.</p>",
+    "c": "<p>The Commander and the Co-Pilot must hold valid instrument ratings and be trained, checked and current on the applicable low-visibility operations.</p>",
+    "d": "<p>Both pilots must hold valid instrument ratings but only the Commander must have completed the Operator's LVO training and checking programme.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

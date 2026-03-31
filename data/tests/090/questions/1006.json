@@ -1,0 +1,14 @@
+{
+  "number": 1006,
+  "questionId": "090-1006",
+  "questionNumber": "090-1006",
+  "stemHtml": "<p>An aircraft is flying in an area where Controller-Pilot Data Link Communications (CPDLC) are being used. For which of the following CPDLC messages would the pilots make the response \u201cROGER\u201d?</p>",
+  "options": {
+    "a": "<p>\"Cross 10 West at BANIM and maintain FL350 at Mach 0.81\"</p>",
+    "b": "<p>\"Expect flight level change passing 10 West\"</p>",
+    "c": "<p>\"At 10 West climb to FL350\"</p>",
+    "d": "<p>\"Maintain FL350\"</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 242,
+  "questionId": "081-0242",
+  "questionNumber": "081-0242",
+  "stemHtml": "<p>Given:</p><p>Aeroplane mass: 50000 kg.  <br />  Lift/Drag ratio: 10.  <br />  Thrust per engine: 60000 N.  <br />  Assumed g: 10 m/s\u00b2</p><p>For a straight, steady, wings level climb of a twin engine aeroplane, the all-engines climb gradient is:</p><div> </div>",
+  "options": {
+    "a": "14%.",
+    "b": "11.7%.",
+    "c": "15.7%.",
+    "d": "3.7%."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

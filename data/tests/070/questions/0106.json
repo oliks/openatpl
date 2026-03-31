@@ -1,0 +1,14 @@
+{
+  "number": 106,
+  "questionId": "070-0106",
+  "questionNumber": "070-0106",
+  "stemHtml": "<p>For a flight in the NAT HLA, a UTC time check and Master Clock resynchronisation must be accomplished. When is this procedure done?</p>",
+  "options": {
+    "a": "<p>Anytime before entering oceanic airspace, including in-flight.</p>",
+    "b": "<p>During the pre-flight briefing, regardless of aircraft location.</p>",
+    "c": "<p>Immediately after receiving the oceanic clearance.</p>",
+    "d": "<p>Prior to take-off, while the aircraft is on the ground.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

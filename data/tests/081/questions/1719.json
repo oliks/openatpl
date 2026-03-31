@@ -1,0 +1,14 @@
+{
+  "number": 1719,
+  "questionId": "081-1719",
+  "questionNumber": "081-1719",
+  "stemHtml": "An aeroplane has a C<sub>L</sub> (lift coefficient) of 0.6 and a C<sub>DI</sub> (induced drag coefficient) value of 0.1 in level flight. The aeroplane slows down while maintaining level flight. The lift coefficient increased by a factor of 1.5 to maintain lift at the lower speed. If there is NO change in configuration, what is the new C<sub>DI</sub>?",
+  "options": {
+    "a": "0.067",
+    "b": "0.150",
+    "c": "0.225",
+    "d": "0.122"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

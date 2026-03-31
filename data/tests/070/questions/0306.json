@@ -1,0 +1,14 @@
+{
+  "number": 306,
+  "questionId": "070-0306",
+  "questionNumber": "070-0306",
+  "stemHtml": "<p>A flight is planned for dispatch. According to the MEL, a defect means that the aircraft is not RVSM compliant and is limited to an level restriction of less than FL260. The final cruising level of FL250 is chosen. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The flight should be cancelled due to non-compliance with RVSM requirements.</p>",
+    "b": "<p>The aircraft must descend to a lower altitude immediately to avoid violating RVSM regulations.</p>",
+    "c": "<p>The altitude should be replanned.</p>",
+    "d": "<p>There is no further altitude restriction as the aircraft will not operate in RVSM airspace.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

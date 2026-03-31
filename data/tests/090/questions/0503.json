@@ -1,0 +1,14 @@
+{
+  "number": 503,
+  "questionId": "090-0503",
+  "questionNumber": "090-0503",
+  "stemHtml": "<p>You receive an urgency message on the international distress frequency, but no other station answers. You are required, amongst other actions, to\u2026</p>",
+  "options": {
+    "a": "<div>retransmit the urgency message as it was originally transmitted on the frequency with which you are in communication with ATC, but do not communicate directly with the aircraft that made the original transmission.</div>",
+    "b": "<div>retransmit the urgency message as it was originally transmitted on the international distress frequency using your own call sign, but do not communicate directly with the aircraft that made the original transmission.</div>",
+    "c": "<div>acknowledge the message to the aircraft in the state of urgency, then take immediate action to make all necessary information available to the appropriate Air Traffic Service unit.</div>",
+    "d": "acknowledge the message to the aircraft in the state of urgency, and await for instructions from the pilot of the calling aircraft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

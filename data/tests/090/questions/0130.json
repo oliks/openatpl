@@ -1,0 +1,14 @@
+{
+  "number": 130,
+  "questionId": "090-0130",
+  "questionNumber": "090-0130",
+  "stemHtml": "<p>An aircraft is flying an approach and experiences severe turbulence between FL100 and FL70. The pilot reports this information to ATC as soon as possible. This report shall be classified as a/an...</p>\r\n",
+  "options": {
+    "a": "<p>Flight regularity message     </p>",
+    "b": "<p>Meteorological message      </p>",
+    "c": "<p>Flight safety message</p>",
+    "d": "Urgency message"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

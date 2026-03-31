@@ -1,0 +1,19 @@
+{
+  "number": 785,
+  "questionId": "081-0785",
+  "questionNumber": "081-0785",
+  "stemHtml": "<p>Refer to figure. <br /> \rOut of the aerofoil designs above, which type of aeroplane would be most likely to use aerofoil 1?</p>",
+  "options": {
+    "a": "<p>Aeroplanes that fly at subsonic speeds which require a high M<sub>CRIT</sub>, in order to reduce the effects of shockwaves.</p>",
+    "b": "<p>Training aeroplanes that should possess good low-speed handling and stall characteristics.</p>",
+    "c": "<p>Slow and medium speed aeroplanes which require predictable handling across a wide speed range.</p>",
+    "d": "<p>High-speed subsonic aeroplanes which require a high M<sub>CRIT</sub>, while preserving good low-speed handling qualities.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0021",
+      "publicUrl": "/attachments/081/081-att-0021.png"
+    }
+  ]
+}

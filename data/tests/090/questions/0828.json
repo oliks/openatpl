@@ -1,0 +1,14 @@
+{
+  "number": 828,
+  "questionId": "090-0828",
+  "questionNumber": "090-0828",
+  "stemHtml": "<p>You are the Pilot Flying FASTAIR 345. While in the cruise, the pilot of FASTAIR 345 receives a Traffic Advisory (TA) from his/her TCAS. Does he/she need to report this to ATC?</p>",
+  "options": {
+    "a": "<p>YES, and because the traffic is shown on the TCAS display the correct phrase to use is: \"FASTAIR 345, traffic in sight\".</p>",
+    "b": "<p>NO, NONE of the advisories to the pilot from TCAS need be reported, as the ATC has a separate alerting system.</p>",
+    "c": "YES, the TA must be reported using the following standard phraseology: \"FASTAIR 345, TCAS TA\".",
+    "d": "NO, but Resolution Advisories requiring a deviation from the ATC clearance must be reported."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

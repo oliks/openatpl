@@ -1,0 +1,14 @@
+{
+  "number": 689,
+  "questionId": "090-0689",
+  "questionNumber": "090-0689",
+  "stemHtml": "An aircraft is flying to Naples airport on an ILS approach. The visibility is poor and its position is less than 4 NM from the threshold of runway 24. The following ATC messages should be expected next...",
+  "options": {
+    "a": "FASTBIRD 166, CLEARED TO LAND RUNWAY 24, WIND 270 DEGREES 15 KNOTS.",
+    "b": "FASTBIRD 166, REPORT FINAL RUNWAY 24, WIND 360 DEGREES 18 KNOTS.",
+    "c": "FASTBIRD 166, ILS APPROACH TO RUNWAY 24, CLEARED TO LAND.",
+    "d": "FASTBIRD 166, REPORT RUNWAY 24 IN SIGHT, WIND 270 DEGREES 15 KNOTS."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 342,
+  "questionId": "090-0342",
+  "questionNumber": "090-0342",
+  "stemHtml": "What phrase should ATC use when transmitting the runway visual range (RVR) for runway 16?",
+  "options": {
+    "a": "RVR at the beginning of runway 16 is ... meters.",
+    "b": "RVR runway 16 ... meters diagonal ... meters diagonal ... meters.",
+    "c": "RVR runway 16 touchdown ... meters, mid-point ... meters, stop end ... meters.",
+    "d": "The values of the transmissometer are ... meters and ... meters."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

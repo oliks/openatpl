@@ -1,0 +1,14 @@
+{
+  "number": 1031,
+  "questionId": "090-1031",
+  "questionNumber": "090-1031",
+  "stemHtml": "<p>You are in an emergency and equipped with datalink. You want to know the meteorological conditions at different alternates. What is the fastest way ?</p>",
+  "options": {
+    "a": "<p>D-VOLMET</p>",
+    "b": "<p>VOLMET HF</p>",
+    "c": "<p>ATIS VHF</p>",
+    "d": "<p>Contact the Flight Information Service (FIS)</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

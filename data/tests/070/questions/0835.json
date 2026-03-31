@@ -1,0 +1,14 @@
+{
+  "number": 835,
+  "questionId": "070-0835",
+  "questionNumber": "070-0835",
+  "stemHtml": "<p>While in the cruise at FL350 in RVSM airspace, you receive a TCAS Resolution Advisory (RA) \u201cCLIMB\u201d. The command is to climb at 1500 ft/minute. What do you do regarding the ATC clearance?</p>",
+  "options": {
+    "a": "<p>Follow the RA immediately, inform ATC as soon as possible after starting the climb.</p>",
+    "b": "<p>Request climb clearance from ATC before following RA \u2014 RVSM requires altitude adherence.</p>",
+    "c": "<p>Follow RA only if you can confirm no traffic at FL360+.</p>",
+    "d": "<p>Level off at FL355 and request clearance to FL360.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

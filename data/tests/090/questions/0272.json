@@ -1,0 +1,14 @@
+{
+  "number": 272,
+  "questionId": "090-0272",
+  "questionNumber": "090-0272",
+  "stemHtml": "<p>What does the word \"report\" mean?</p>",
+  "options": {
+    "a": "<p>Repeat all of this message back to me exactly as received.</p>",
+    "b": "<p>Proceed with your message.</p>",
+    "c": "<p>Pass me the following information.</p>",
+    "d": "<p>Listen out on (frequency).</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

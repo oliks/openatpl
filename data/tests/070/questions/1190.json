@@ -1,0 +1,14 @@
+{
+  "number": 1190,
+  "questionId": "070-1190",
+  "questionNumber": "070-1190",
+  "stemHtml": "<p>The requirements for position plotting in the NAT HLA are\u2026</p>",
+  "options": {
+    "a": "1. Draw the intended route on a chart and check for gross errors; and   <br />   2. Regularly plot the aircraft's position during the sortie as a navigational cross check.",
+    "b": "<p>1. Highlight only the Three Sisters routes; and\u00a0<br>2. Only plot positions derived from ground based navigation aids.</p>",
+    "c": "1. Draw the intended route on a chart and check for gross errors; and  <br />  2. Regularly plot the aircraft's position during the sortie using the FMS along track and cross track outputs.",
+    "d": "1. Draw route as planned; and <br /> 2. Plot only positions confirmed by VOR/DME or DME / DME."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

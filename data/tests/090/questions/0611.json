@@ -1,0 +1,14 @@
+{
+  "number": 611,
+  "questionId": "090-0611",
+  "questionNumber": "090-0611",
+  "stemHtml": "<p>An aircraft is in the descent towards the destination and is cleared down to 5000 feet. The altimeter currently shows 8000 feet, with standard pressure 1013 hPa set. The transition level is FL70. What vertical position should the pilot report to the Air Traffic Controller?</p>",
+  "options": {
+    "a": "<p>Passing 8000 feet on QNH 1013 descending to 5000 feet on local QNH </p>",
+    "b": "<p>Passing 8000 feet descending to 5000 feet </p>",
+    "c": "<p>Passing flight level 80 descending to altitude 5000 feet </p>",
+    "d": "<p>Passing flight level 80 descending flight level 50 </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

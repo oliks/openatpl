@@ -1,0 +1,14 @@
+{
+  "number": 57,
+  "questionId": "070-0057",
+  "questionNumber": "070-0057",
+  "stemHtml": "<p>An aircraft starts the take-off run but at 60 knots IAS, the pilot rejects the take-off. What shall the flight crew do next in respect to the brakes?</p>",
+  "options": {
+    "a": "<p>If the tires/wheels didn\u2019t explode/ignite you can take-off immediately.</p>",
+    "b": "<p>ATC needs to be asked for brake cooling before second take-off.</p>",
+    "c": "<p>If the aircraft has carbon brakes, you can take-off immediately.</p>",
+    "d": "<p>Calculate the time for brake cooling, wait as necessary and then take-off.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1135,
+  "questionId": "081-1135",
+  "questionNumber": "081-1135",
+  "stemHtml": "On a climb, if you keep the thrust setting constant while maintaining a fixed vertical speed, what will happen to the aeroplane\u2019s IAS?",
+  "options": {
+    "a": "It will increase, because the pilot will have to reduce pitch attitude to maintain vertical speed, which will tend to increase as TAS increases with altitude.",
+    "b": "It will decrease, because the pilot will have to increase pitch attitude to maintain vertical speed as Excess Thrust decreases with altitude.",
+    "c": "It will increase, because the rearward component of Lift decreases with altitude, and as the thrust setting remains constant, the aeroplane will accelerate.",
+    "d": "<p>It will decrease, because Drag increases with altitude, and as the trust settings remains constant, the aeroplane will decelerate.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

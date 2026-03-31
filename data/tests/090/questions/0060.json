@@ -1,0 +1,14 @@
+{
+  "number": 60,
+  "questionId": "090-0060",
+  "questionNumber": "090-0060",
+  "stemHtml": "<p>Which information can aircraft in flight obtain by VOLMET?</p>",
+  "options": {
+    "a": "<p>SIGMET.</p>",
+    "b": "<p>Runway reports.</p>",
+    "c": "<p>SPECIAL and TAF.</p>",
+    "d": "<p>Aviation routine weather reports (METAR) of specific airports.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 699,
+  "questionId": "081-0699",
+  "questionNumber": "081-0699",
+  "stemHtml": "<p>An airplane cruises with a Mach number slightly higher than M<strong><sub>CRIT</sub></strong>, what are the benefits?</p>",
+  "options": {
+    "a": "A higher speed for a small increase in C<sub>D</sub>.",
+    "b": "There are no benefits and it is highly dangerous to exceed M<sub>CRIT</sub>.",
+    "c": "No shockwaves are present upon passing M<sub>CRIT</sub>, they don't develop until Mach 2.",
+    "d": "The lowest safety speed in relation to shock stall."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

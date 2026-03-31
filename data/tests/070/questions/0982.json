@@ -1,0 +1,14 @@
+{
+  "number": 982,
+  "questionId": "070-0982",
+  "questionNumber": "070-0982",
+  "stemHtml": "<p>You need to request a North Atlantic (NAT) oceanic clearance by voice. The standard message must contain the following information. The aircraft identification, an estimate for the oceanic entry point, requested Mach number, requested flight level, and the first and second choice routes or tracks. To make the request complete, which additional item must also be included?</p>",
+  "options": {
+    "a": "<p>The aircraft\u2019s SELCAL code    </p>",
+    "b": "<p>The minimum acceptable flight level </p>",
+    "c": "<p>The maximum acceptable flight level </p>",
+    "d": "<p>The estimated fuel on board at the entry point</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

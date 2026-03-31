@@ -1,0 +1,14 @@
+{
+  "number": 1071,
+  "questionId": "090-1071",
+  "questionNumber": "090-1071",
+  "stemHtml": "<p>As the pilot of G-ACME, you need to know your magnetic bearing to the aerodrome at Karlsgrab. What message should you transmit to the aerodrome ATS unit?</p>",
+  "options": {
+    "a": "<p>Karlsgrab Approach, Golf Alfa Charlie Mike Echo request QNH.</p>",
+    "b": "<p>Karlsgrab Approach, Golf Alfa Charlie Mike Echo request QGH.</p>",
+    "c": "<p>Karlsgrab Homer, Golf Alfa Charlie Mike Echo request QDR.</p>",
+    "d": "<p>Karlsgrab Homer, Golf Alfa Charlie Mike Echo request QDM.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

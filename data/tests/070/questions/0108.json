@@ -1,0 +1,14 @@
+{
+  "number": 108,
+  "questionId": "070-0108",
+  "questionNumber": "070-0108",
+  "stemHtml": "<p>Which of the following options is the correct combination regarding variables that reduces anti-icing holdover time?</p><p>1. Strong ambient wind speed<br>2. Low humidity<br>3. Light winds<br>4. Low OAT<br>5. High humidity</p>",
+  "options": {
+    "a": "<p>1, 2 and 3.</p>",
+    "b": "<p>1, 4 and 5.</p>",
+    "c": "<p>2,3 and 4.</p>",
+    "d": "3, 4 and 5."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

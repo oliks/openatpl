@@ -1,0 +1,14 @@
+{
+  "number": 1068,
+  "questionId": "090-1068",
+  "questionNumber": "090-1068",
+  "stemHtml": "<div>Select the option that lists only those items in a message sent by ATC to an aircraft that are required to be read back.</div>",
+  "options": {
+    "a": "<div>Descend to 3000 ft, wind 240\u00b0, 15 kt, gusts 30 kt, turn right heading 210\u00b0, reduce speed to 160 kt, squawk 1723 and braking action poor.</div>",
+    "b": "<div>Descend to 3000 ft, turn right heading 210\u00b0, reduce speed to 160 kt and squawk 1723.</div>",
+    "c": "<div>Descend to 3000 ft, turn right heading 210\u00b0, reduce speed to 160 kt, squawk 1723 and braking action poor.</div>",
+    "d": "Descend to 3000 ft, wind 240\u00b0, 15 kt, gusts 30 kt, turn right heading 210\u00b0 and squawk 1723.<br>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

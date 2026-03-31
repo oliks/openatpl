@@ -1,0 +1,19 @@
+{
+  "number": 1182,
+  "questionId": "081-1182",
+  "questionNumber": "081-1182",
+  "stemHtml": "<p>Refer to figure. <br>A jet transport aircraft flying in the cruise climbs from FL360 to FL380. The climb to the new level is performed with a constant Mach number. What is the effect of the change in level on the buffet margin?</p>",
+  "options": {
+    "a": "<p>There will be NO effect on the buffet margin, and buffet will occur at the same load factor.</p>",
+    "b": "<p>The buffet margin will be larger, and buffet will occur at a lower load factor.</p>",
+    "c": "<p>The low speed and high speed margin will decrease, while maintaining the same load factor.</p>",
+    "d": "<p>The buffet margin will be larger, and buffet will occur at a higher load factor.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0026",
+      "publicUrl": "/attachments/081/081-att-0026.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1037,
+  "questionId": "081-1037",
+  "questionNumber": "081-1037",
+  "stemHtml": "<p>Refer to figure.  <br />  The image illustrates the same aeroplane flying at two different angles of attack (AoA), 2\u00b0 and 12\u00b0. Assuming that the aircraft flies straight and level in both cases, what of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The aeroplane with an AoA of 12\u00b0 has a lower M<sub>CRIT</sub>, and a larger buffet margin compared to the aeroplane with an AoA of 2\u00b0.</p>",
+    "b": "<p>The aeroplane with an AoA of 12\u00b0 has a higher M<sub>CRIT</sub>, and a smaller buffet margin compared to the aeroplane with an AoA of 2\u00b0.</p>",
+    "c": "<p>The aeroplane with an AoA of 12\u00b0 has a higher M<sub>CRIT</sub>, and a larger buffet margin compared to the aeroplane with an AoA of 2\u00b0.</p>",
+    "d": "<p>The aeroplane with an AoA of 12\u00b0 has a lower M<sub>CRIT</sub>, and a smaller buffet margin compared to the aeroplane with an AoA of 2\u00b0.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0232",
+      "publicUrl": "/attachments/081/081-att-0232.png"
+    }
+  ]
+}

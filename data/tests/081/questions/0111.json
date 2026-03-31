@@ -1,0 +1,19 @@
+{
+  "number": 111,
+  "questionId": "081-0111",
+  "questionNumber": "081-0111",
+  "stemHtml": "<p>Refer to figure. <br /> Consider a subsonic airflow moving steadily through the Venturi Tube with no leaks, as represented in the image. \"1, 2, 3, 4\" identify areas of different speeds. Which of the following sequences correctly identifies the areas in order of increasing airspeed?</p>",
+  "options": {
+    "a": "1, 4, 2, 3",
+    "b": "<p>1, 2, 4, 3</p>",
+    "c": "3, 2, 4, 1",
+    "d": "4, 3, 2, 1"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0116",
+      "publicUrl": "/attachments/081/081-att-0116.png"
+    }
+  ]
+}

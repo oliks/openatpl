@@ -1,0 +1,14 @@
+{
+  "number": 923,
+  "questionId": "070-0923",
+  "questionNumber": "070-0923",
+  "stemHtml": "<p>In preparation for a NAT HLA crossing from Shannon to Gander, you need to ensure the accuracy of the time-keeping device. According to NAT Doc 007, what is the mandatory pre-flight time procedure?</p>",
+  "options": {
+    "a": "<p>Note the local time at departure and convert to UTC mentally.</p>",
+    "b": "<p>UTC time check and resynchronisation of the aircraft Master Clock (typically FMS).</p>",
+    "c": "<p>Verify the FMS time against the aircraft's analogue standby clock.</p>",
+    "d": "<p>Request current UTC from Oceanic ATC prior to entry.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

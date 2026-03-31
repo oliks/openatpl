@@ -1,0 +1,14 @@
+{
+  "number": 648,
+  "questionId": "070-0648",
+  "questionNumber": "070-0648",
+  "stemHtml": "An aircraft is flying on route T9 and one of its two FMSs used for LRNS fails. What can the aircraft do?",
+  "options": {
+    "a": "It must carry out the contingency procedure and divert.",
+    "b": "It can continue on T9 as only one LRNS is required.",
+    "c": "It must inform ATC and ask for a re-routing.",
+    "d": "<p>It must descend below FL285.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

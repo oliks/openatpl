@@ -1,0 +1,14 @@
+{
+  "number": 2161,
+  "questionId": "081-2161",
+  "questionNumber": "081-2161",
+  "stemHtml": "An aircraft with swept wings is better suited to cruising at higher Mach numbers due to reduced speed in the direction (1) _____ to the wing span, compared to the (2) _____. This speed varies with the (3) _____ of the sweep angle.",
+  "options": {
+    "a": "(1) perpendicular; (2) free stream flow; (3) sine",
+    "b": "(1) perpendicular; (2) free stream flow; (3) cosine",
+    "c": "(1) parallel; (2) free stream flow; (3) sine",
+    "d": "(1) parallel; (2) free stream flow; (3) tangent"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 182,
+  "questionId": "081-0182",
+  "questionNumber": "081-0182",
+  "stemHtml": "<p>Comparing two aircraft, one with rectangular wings and one with swept wings, both with similar leading edge sharpness. If both aircraft exceed M<strong><sub>CRIT</sub></strong> by the same margin, what happens to the critical angle of attack?</p>",
+  "options": {
+    "a": "<p>The swept wing will experience a greater reduction in the critical angle of attack compared to the rectangular wing.</p>",
+    "b": "<p>The rectangular wing will experience a greater reduction in the critical angle of attack compared to the swept wing.</p>",
+    "c": "<p>There is no change in critical angle of attack when operating above M<sub>CRIT.</sub></p>",
+    "d": "<p>Both wings will experience the same reduction in the critical angle of attack.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

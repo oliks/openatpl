@@ -1,0 +1,14 @@
+{
+  "number": 2222,
+  "questionId": "081-2222",
+  "questionNumber": "081-2222",
+  "stemHtml": "<p>What is the relation of V<strong><sub>MO</sub> </strong>and V<strong><sub>C</sub></strong>?</p>",
+  "options": {
+    "a": "<p>V<sub>MO</sub> > V<sub>C</sub></p>",
+    "b": "<p>V<sub>MO</sub> \u2264 V<sub>C</sub></p>",
+    "c": "<p>V<sub>MO</sub> = V<sub>C</sub></p>",
+    "d": "<p>V<sub>MO</sub> < V<sub>C</sub></p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 821,
+  "questionId": "090-0821",
+  "questionNumber": "090-0821",
+  "stemHtml": "<p>What should the pilot report to the ATC in case he/she suspects that the landing gear is not fully extended and wishes to request a fly-by from the tower to cross-check the landing gear position?</p>",
+  "options": {
+    "a": "<p>PAN PAN, PAN PAN, PAN PAN, [Tower] [Callsign] landing gear is not properly jammed, request low approach for a check if it's fully down.</p>",
+    "b": "<p>PAN PAN, [Tower] [Callsign] landing gear is not properly jammed, request low approach for a check if it's fully down.</p>",
+    "c": "<p>MAYDAY, MAYDAY, MAYDAY, [Tower] [Callsign] landing gear is not properly jammed, request low approach for a check if it's fully down.</p>",
+    "d": "<p>[Tower] [Callsign] landing gear is not properly jammed, request low approach for a check if it's fully down.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

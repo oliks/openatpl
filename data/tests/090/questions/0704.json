@@ -1,0 +1,14 @@
+{
+  "number": 704,
+  "questionId": "090-0704",
+  "questionNumber": "090-0704",
+  "stemHtml": "<p>ATC transmits: \u201cQNH 1009.\u201d<br>Read back from the pilot: \u201cQNH 1019.\u201d</p><p>Which of the following is the correct reply from ATC?\u00a0</p>",
+  "options": {
+    "a": "<p>Negative, QNH 1009</p>",
+    "b": "<p>Negative, correction, QNH 1009</p>",
+    "c": "<p>Acknowledged</p>",
+    "d": "<p>Correct</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

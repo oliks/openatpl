@@ -1,0 +1,14 @@
+{
+  "number": 361,
+  "questionId": "081-0361",
+  "questionNumber": "081-0361",
+  "stemHtml": "Consider a modern large aeroplane fitted with a Fly-By-Wire (FBW) system. Following a failure, the Flight Control System Control Laws fall one level to the first level of degradation. What would be one of the most noticeable consequences?",
+  "options": {
+    "a": "The autopilot is NOT available, but all protections remain in place.",
+    "b": "<p>The autopilot may or may not be available, depending on the specific failure.</p>",
+    "c": "The autopilot is required to remain available according to airworthiness regulations but, depending on the specific failure, some protections may be lost.",
+    "d": "A reversion to the mechanical back-up mode."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 150,
+  "questionId": "090-0150",
+  "questionNumber": "090-0150",
+  "stemHtml": "<p>A pilot is flying a single-engine piston aircraft and is approaching the planned destination. Both the destination and destination alternate aerodromes are reporting IMC for the rest of the day. As the aircraft is inbound to the Initial Approach Fix (IAF), the radio fails and communications is lost. The pilot sets the transponder Mode A code 7600 and should also...</p>",
+  "options": {
+    "a": "<p>continue to the IAF, and then complete a normal instrument approach procedure as specified for the IAF. </p>",
+    "b": "<p>continue to the IAF, hold for 30 minutes, and then complete a normal instrument approach procedure as specified for the IAF. </p>",
+    "c": "<p>divert to the planned destination alternate aerodrome and wait there in a hold for the weather to improve. </p>",
+    "d": "<p>cancel the flight under IFR immediately, continue under VFR to the destination aerodrome and wait for light signals from the Tower. </p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

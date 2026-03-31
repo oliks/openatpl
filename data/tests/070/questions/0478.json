@@ -1,0 +1,14 @@
+{
+  "number": 478,
+  "questionId": "070-0478",
+  "questionNumber": "070-0478",
+  "stemHtml": "<p>A non-pressurised aeroplane which is fitted with 12 passenger seats is intending to fly in all weather conditions during day and night. Does it require an airborne weather radar (AWR)?</p>",
+  "options": {
+    "a": "Yes, if thunderstorms are expected.",
+    "b": "No, only pressurised aircraft require weather radars.",
+    "c": "No, the number of seats is not high enough for that requirement.",
+    "d": "Yes, all flights at night or in IMC require weather radars."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

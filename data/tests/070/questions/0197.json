@@ -1,0 +1,14 @@
+{
+  "number": 197,
+  "questionId": "070-0197",
+  "questionNumber": "070-0197",
+  "stemHtml": "<p>An aeroplane has a tyre pressure of 16 bars. Assuming a rotating tyre, there is a risk of dynamic hydroplaning as soon as:</p>\r\r<p>1. Water height is more than the depth of the tyre grooves. <br /> \r2. Speed is greater than 137 kt. <br /> \r3. Water height is equal to the half of the depth of the tyre grooves. <br /> \r4. Speed is greater than 117 kt.</p>",
+  "options": {
+    "a": "<p>1 and 2.</p>",
+    "b": "<p>1 and 4.</p>",
+    "c": "<p>2 and 3.</p>",
+    "d": "<p>3 and 4.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

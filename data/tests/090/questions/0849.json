@@ -1,0 +1,14 @@
+{
+  "number": 849,
+  "questionId": "090-0849",
+  "questionNumber": "090-0849",
+  "stemHtml": "<p>When a TCAS conflict has been solved, what is the correct procedure to be followed? </p><p>The pilot shall report \u201cclear of conflict\u201d and then\u2026</p>",
+  "options": {
+    "a": "<p>Turn direct to the next waypoint of the FMS flight plan and select the closest altitude which does not cause a new TCAS conflict.</p>",
+    "b": "<p>Return to the assigned routing and altitude in the most direct manner unless otherwise instructed by ATC.</p>",
+    "c": "<p>Enter a holding pattern and resume previous altitude until further advised by ATC.</p>",
+    "d": "<p>Continue on present heading and maintain altitude until further advised by ATC.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

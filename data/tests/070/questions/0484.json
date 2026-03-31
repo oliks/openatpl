@@ -1,0 +1,14 @@
+{
+  "number": 484,
+  "questionId": "070-0484",
+  "questionNumber": "070-0484",
+  "stemHtml": "<p>You are routing towards DOGAL in order to follow NAT track G to Canada as filed. You have requested oceanic clearance. The data below captions the clearance you\u2019ve received. What considerations should you make?</p><p>Oceanic clearance with a reroute, shanwick oceanic clears EASA104 to TORONTO PEARSON via PIKIL NAT track D.</p>",
+  "options": {
+    "a": "<p>The pilots must change the entry waypoint in the FMS but the subsequent waypoints are identical.</p>",
+    "b": "<p>Apply the applicable SOPs for a reroute to minimise the threat of gross navigation errors.</p>",
+    "c": "<p>The waypoints in the FMS are NOT correct and the FMS will provide Inaccurate guidance.</p>",
+    "d": "<p>Continue routing towards DOGAL before Intercepting NAT track D from that position.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

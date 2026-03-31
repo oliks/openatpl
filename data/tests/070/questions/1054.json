@@ -1,0 +1,14 @@
+{
+  "number": 1054,
+  "questionId": "070-1054",
+  "questionNumber": "070-1054",
+  "stemHtml": "<p>Company A and Company B sign a Dry-Lease Contract. Company A leases the aircrafts from Company B and they register them with the Competent Authority so that the aircraft now have the national registration. The Pilots are ready to fly the aircraft when it becomes apparent that the Navigation database of the FMS is not the same as the database of Company A. Are the Pilots allowed to commence the Flight?</p>",
+  "options": {
+    "a": "<p>Yes, because the Navigation database doesn't have an impact on the operation.</p>",
+    "b": "<p>Yes, as long as the navigation database is current and all the procedures loaded.</p>",
+    "c": "<p>Yes, even if the Navigation database is out of date.</p>",
+    "d": "<p>No, the Navigation database must be current and aligned with the Navigation Database of the Company.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

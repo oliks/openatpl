@@ -1,0 +1,14 @@
+{
+  "number": 920,
+  "questionId": "090-0920",
+  "questionNumber": "090-0920",
+  "stemHtml": "<p>In the data link process, the purpose of the logon is to provide the ATS unit with\u2026</p>",
+  "options": {
+    "a": "Information on the relevant Controller-Pilot Data Link Communications (CPDLC) systems and the version used in the applications, as well as flight plan data requested by the data link.",
+    "b": "Information on the systems supported by the aircraft, the unique identification of the aircraft, and additional information to correlate with the flight plan.",
+    "c": "<p>The navigation aid equipment installed on the aircraft.</p>",
+    "d": "Only the unique identification of the aircraft."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

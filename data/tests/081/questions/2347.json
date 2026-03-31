@@ -1,0 +1,19 @@
+{
+  "number": 2347,
+  "questionId": "081-2347",
+  "questionNumber": "081-2347",
+  "stemHtml": "<p>Refer to figure. <br>Which statement is correct regarding the pitching moment coefficient C<sub>M</sub> versus angle of attack diagram?</p>",
+  "options": {
+    "a": "<div>Line 3 shows an aeroplane with reducing static longitudinal stability at high angles of attack.</div>",
+    "b": "<div>Line 4 shows an aeroplane with reducing static longitudinal stability at very high angles of attack.</div>",
+    "c": "<div>Line 4 shows an aeroplane with greater static longitudinal stability at low angles of attack than that in shown line 3.</div>",
+    "d": "Line 1 shows an aeroplane with increasing static longitudinally instability at very high angles of attack."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0085",
+      "publicUrl": "/attachments/081/081-att-0085.jpg"
+    }
+  ]
+}

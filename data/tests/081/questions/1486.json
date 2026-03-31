@@ -1,0 +1,14 @@
+{
+  "number": 1486,
+  "questionId": "081-1486",
+  "questionNumber": "081-1486",
+  "stemHtml": "<p>An aircraft is flying a 3\u00ba approach path with engines at idle. Given the following information, calculate the drag.</p><p>Weight: 650 000 N. <br /> Thrust: 30 000 N.</p>",
+  "options": {
+    "a": "4 000 N",
+    "b": "64 000 N",
+    "c": "150 000 N",
+    "d": "679 100 N"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

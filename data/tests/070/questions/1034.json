@@ -1,0 +1,14 @@
+{
+  "number": 1034,
+  "questionId": "070-1034",
+  "questionNumber": "070-1034",
+  "stemHtml": "<p>An aircraft on a bi-directional route in the NAT region is experiencing turbulence from an aircraft ahead and above. According to the Strategic Lateral Offset Procedure (SLOP), to reduce the effects of this wake turbulence, can the pilot of the affected aircraft offset, and if yes, how?</p>",
+  "options": {
+    "a": "<p>Climb 1000ft or ask ATC for a revised clearance.</p>",
+    "b": "Offsetting due to wake turbulence is NOT permitted.",
+    "c": "<p>Offset left of the cleared track centre-line by turning 30 degrees.</p>",
+    "d": "<p>Offset right of the cleared track centre-line by 2nm.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

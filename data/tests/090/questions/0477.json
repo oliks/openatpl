@@ -1,0 +1,14 @@
+{
+  "number": 477,
+  "questionId": "090-0477",
+  "questionNumber": "090-0477",
+  "stemHtml": "<p>You are flying an aircraft with the callsign Jetset 376, at 2000 ft with the altimeter setting 1015 hPa. ATC asks you to report your level. What is the correct answer?</p>",
+  "options": {
+    "a": "<p>Jetset 376, maintaining level 2000 ft.</p>",
+    "b": "<p>Jetset 376, maintaining 2000 ft.\u00a0</p>",
+    "c": "<p>Jetset 376 is maintaining level 2000 ft on QNH 1015.</p>",
+    "d": "<p>Jetset 376, 2000 ft, QNH 1015.\u00a0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

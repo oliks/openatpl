@@ -1,0 +1,14 @@
+{
+  "number": 561,
+  "questionId": "081-0561",
+  "questionNumber": "081-0561",
+  "stemHtml": "<p>Which of the following statements is true in an aircraft with Fly-By-Wire flight controls equipped with both soft and hard protections?</p>",
+  "options": {
+    "a": "<p>Hard protections increases the force required to move the control stick.</p>",
+    "b": "<p>Soft protections prevent the pilot from exceeding critical flight parameters.</p>",
+    "c": "<p>Soft protections increase the force required to move the control stick.</p>",
+    "d": "<p>Hard protections allow the pilot to override the limits.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

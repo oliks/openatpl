@@ -1,0 +1,14 @@
+{
+  "number": 1128,
+  "questionId": "070-1128",
+  "questionNumber": "070-1128",
+  "stemHtml": "<p>According to OPS regulations, an operator must select two destination alternates when the appropriate weather reports or forecasts for the destination, or any combination thereof, indicate that the weather conditions will be below the applicable planning minima, during a period\u2026</p>",
+  "options": {
+    "a": "<p>commencing 1 hour before and ending 2 hours after the estimated time of arrival.</p>",
+    "b": "<p>commencing 2 hours before and ending 2 hours after the estimated time of arrival.</p>",
+    "c": "<p>commencing at the estimated time of arrival and ending 1 hour after.</p>",
+    "d": "<p>commencing 1 hour before and ending 1 hour after the estimated time of arrival.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

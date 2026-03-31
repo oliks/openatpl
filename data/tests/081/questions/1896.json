@@ -1,0 +1,19 @@
+{
+  "number": 1896,
+  "questionId": "081-1896",
+  "questionNumber": "081-1896",
+  "stemHtml": "<p>Refer to figure. <br>Considering a symmetrical airfoil, how would the graph change if extending trailing edge flaps to the take-off position? And what impact will it have on C<strong><sub>L</sub></strong>/C<strong><sub>D</sub></strong>?</p>",
+  "options": {
+    "a": "<p>Arrow 3. C<sub>L</sub>/C<sub>D</sub> increases.</p>",
+    "b": "<p>Arrow 3. C<sub>L</sub>/C<sub>D </sub>decreases.</p>",
+    "c": "<p>Arrow 2. C<sub>L</sub>/C<sub>D </sub>decreases.</p>",
+    "d": "<p>Arrow 4. C<sub>L</sub>/C<sub>D </sub>increases.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0236",
+      "publicUrl": "/attachments/081/081-att-0236.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 449,
+  "questionId": "070-0449",
+  "questionNumber": "070-0449",
+  "stemHtml": "<p>The flight crew is suddenly subjected to unlawful interference by two hijackers while flying from Cairo to Larnaca. Without anyone noticing, the commander sets the transponder Mode A Code 7500. Is this action correct?</p>",
+  "options": {
+    "a": "<p>No, the correct code would be Mode C Code 7500.</p>",
+    "b": "<p>No, the correct code would be Mode C Code 7700.</p>",
+    "c": "<p>No, the correct code would be Mode C Code 7600.</p>",
+    "d": "<p>Yes.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

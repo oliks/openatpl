@@ -1,0 +1,14 @@
+{
+  "number": 302,
+  "questionId": "090-0302",
+  "questionNumber": "090-0302",
+  "stemHtml": "<p>How are the temperature and dew point reported in a METAR?</p>",
+  "options": {
+    "a": "<p>Dew point in Fahrenheit and the temperature in Celsius</p>",
+    "b": "<p>Dew point in Kelvin and the temperature in degrees Celsius</p>",
+    "c": "<p>Both the temperature and dew point are reported in degrees Fahrenheit</p>",
+    "d": "<p>Both the temperature and dew point are reported in degrees Celsius</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

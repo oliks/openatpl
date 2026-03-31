@@ -1,0 +1,14 @@
+{
+  "number": 866,
+  "questionId": "070-0866",
+  "questionNumber": "070-0866",
+  "stemHtml": "<p>During a commercial flight at 2000 ft AGL with a multi-engined piston aircraft, both engines catch fire, and the aircraft is NOT equipped with engine fire extinguishing systems. What would be an appropriate course of action, unless stated otherwise in the AFM?</p>",
+  "options": {
+    "a": "<p>Shut off the fuel supply and enter a V<sub>NE</sub> dive for approximately 1000 ft to try and extinguish the fires. If successful, attempt to restart the engines and prepare for an immediate precautionary landing; if the fires continue, carry out the Engine Fire checklist.</p>",
+    "b": "Carry out the Engine Fire checklist to shut down the engines, prepare for an immediate forced landing, and extend the flaps only when it is assured that the emergency landing area can be reached.",
+    "c": "<p>Immediately declare an emergency with an appropriate aeronautical radio station, turn off the ignition, shut off the fuel supply, and carry out a forced landing, only extending the flaps when it is assured that the emergency landing area can be reached.</p>",
+    "d": "<p>Turn off the ignition and wait to see if this action extinguishes the fires. If the fire goes out, prepare for an immediate precautionary landing, but if the fire continues, immediately shut down and isolate the engines in accordance with the Engine Fire checklist.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2080,
+  "questionId": "081-2080",
+  "questionNumber": "081-2080",
+  "stemHtml": "<p>An aeroplane leaving ground effect after take-off will experience a(n) (1) _____ in upwash, require a(n) (2) _____ of the AoA to maintain lift. It will also experience a(n) (3) _____ in downwash over the horizontal stabiliser and require a (4) _____ elevator input for a given change in pitch due to the change in downwash over the horizontal stabiliser. </p>",
+  "options": {
+    "a": "<p>(1) increase, (2) increase, (3) increase, (4) greater  </p>",
+    "b": "<p>(1) decrease, (2) decrease, (3) increase, (4) lesser</p>",
+    "c": "<p>(1) increase, (2) increase, (3) decrease, (4) greater </p>",
+    "d": "<p>(1) increase, (2) decrease, (3) decrease, (4) lesser </p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 72,
+  "questionId": "081-0072",
+  "questionNumber": "081-0072",
+  "stemHtml": "<p>Which of these statements about drag divergence Mach number are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. M<sub>CRIT</sub> is equal to the drag divergence Mach number.</span>  <br />  \n2. Assuming a given angle of attack and for M < 1 the drag coefficient CD remains practically constant above the drag divergence Mach number.</p>",
+  "options": {
+    "a": "1 is correct, 2 is correct.",
+    "b": "1 is incorrect, 2 is correct.",
+    "c": "1 is incorrect, 2 is incorrect.",
+    "d": "1 is correct, 2 is incorrect."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

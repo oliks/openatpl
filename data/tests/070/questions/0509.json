@@ -1,0 +1,14 @@
+{
+  "number": 509,
+  "questionId": "070-0509",
+  "questionNumber": "070-0509",
+  "stemHtml": "<p>You have just applied anti-ice/de-ice on your aircraft. The temperature is +1\u00b0C and there is light snow. A Boeing 747 is in front of you and using high thrust. The co-pilot notices that snow is starting to appear on the windshield. Type 1 fluid (iso) is used. What should the crew do?</p>",
+  "options": {
+    "a": "Go back and apply de-icing and anti-ice fluid.",
+    "b": "Request a clearance and expedite taxi for earlier take-off (hold over time not exceeded).",
+    "c": "Go back and de-ice.",
+    "d": "Go back and anti-ice."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

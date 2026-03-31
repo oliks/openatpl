@@ -1,0 +1,19 @@
+{
+  "number": 150,
+  "questionId": "070-0150",
+  "questionNumber": "070-0150",
+  "stemHtml": "<p>Refer to figure. <br>A company intends to transport radioactive goods in the cargo compartment under the floor of a passenger aircraft. The package has a transport index of 5 and a height of 0.6 m. The cargo compartment has a height of 1.2 m. What is the appropriate decision regarding these goods?</p>",
+  "options": {
+    "a": "<p>The goods cannot be transported as they do not comply with the minimum distance requirement.</p><p> </p>",
+    "b": "<p>The goods may be transported as they are not in the passenger cabin.</p>",
+    "c": "<p>The goods cannot be transported as they are on a passenger aircraft.</p>",
+    "d": "<p>The goods cannot be transported as they are too dangerous.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0003",
+      "publicUrl": "/attachments/070/070-att-0003.png"
+    }
+  ]
+}

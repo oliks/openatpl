@@ -1,0 +1,14 @@
+{
+  "number": 1231,
+  "questionId": "070-1231",
+  "questionNumber": "070-1231",
+  "stemHtml": "<p>A technician is about to replace a generator when the PIC arrives to the aircraft. When the commander enters the flight deck and checks the tech log book, he/she realises that this has already been filled and the information is all correct. What should the PIC do?</p>",
+  "options": {
+    "a": "<p>Ask to engineer to verbally confirm that the replacement has been correctly done.</p>",
+    "b": "<p>It is enough that the technician comes to the cockpit to verbally confirm that he/she has finished the work.</p>",
+    "c": "<p>Everything is ok, the tech log is completed, therefore the aircraft is ready to go.</p>",
+    "d": "<p>The entry in the tech log is not valid, because it has been filled before the work has been finished.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

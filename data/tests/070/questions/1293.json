@@ -1,0 +1,14 @@
+{
+  "number": 1293,
+  "questionId": "070-1293",
+  "questionNumber": "070-1293",
+  "stemHtml": "<p>An aircraft with an MOPSC of 19 is scheduled for a 1 hour flight. However, the aeroplane Operator notices that the aeroplane does NOT contain a first-aid kit. What must the Operator do?</p>",
+  "options": {
+    "a": "<p>Proceed with the flight as normal, as there are NO formal requirements for first-aid kits in aeroplanes of this size.</p>",
+    "b": "Install an appropriate first-aid kit or cancel the flight, as at least one kit is required for an aeroplane of this size.",
+    "c": "<p>Proceed with the flight as normal if the aeroplane is carrying 50% or less of its total passenger capacity.</p>",
+    "d": "Leave the decision as to whether to proceed with the flight or NOT to the Commander."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

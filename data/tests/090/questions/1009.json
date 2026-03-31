@@ -1,0 +1,14 @@
+{
+  "number": 1009,
+  "questionId": "090-1009",
+  "questionNumber": "090-1009",
+  "stemHtml": "<p>After requesting detailed hold instructions, what information should the pilot expect to receive?</p>",
+  "options": {
+    "a": "<p>Name of navaid and radial, distance of leg (optional), altitude (optional), direction of turn (optional), expected landing time.</p>",
+    "b": "<p>Name of fix, level (optional),inbound track (optional),direction of turn (optional),time of leg (optional), expected approach clearance time.</p>",
+    "c": "<p>Name of fix, inbound heading (optional), direction of turn (optional), altitude of hold, time of leg (optional), estimated time of arrival, additional instructions.</p>",
+    "d": "<p>Name of fix, level (optional), outbound heading, direction of turn (optional), expected approach clearance time (optional).</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

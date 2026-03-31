@@ -1,0 +1,14 @@
+{
+  "number": 888,
+  "questionId": "070-0888",
+  "questionNumber": "070-0888",
+  "stemHtml": "<p>An Operator has a fleet of jet aeroplanes of one type. Some aeroplanes have steel brakes and others carbon brakes. How might the taxi procedures for the two variants vary?</p>\r\n\r\n<p>The aeroplanes with steel brakes should be taxied at a:</p>",
+  "options": {
+    "a": "Lower speed by keeping the brakes gently applied to minimise the number of applications; the aeroplane with carbon brakes should be allowed to accelerate to a higher speed prior to keeping the brakes gently applied to then maintain a constant taxi speed.",
+    "b": "Constant speed with the application of prolonged braking to gently allow the brakes to warm up to their optimum operating temperature; the aeroplanes with carbon brakes should have their taxi speed controlled by frequent, short brake applications.",
+    "c": "Lower speed using frequent, short brake applications, whereas the aeroplanes with carbon brakes should be left to accelerate to a higher taxi speed before slowing right down to limit the number of brake applications.",
+    "d": "Speed where the use of the brakes is kept to an absolute minimum in order to prevent brake fade; a similar procedure should be used for the aeroplanes with carbon brakes to prevent the brakes from overheating and oxidising."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

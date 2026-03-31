@@ -1,0 +1,14 @@
+{
+  "number": 737,
+  "questionId": "070-0737",
+  "questionNumber": "070-0737",
+  "stemHtml": "<p>You are close to your stall buffet boundary and you encounter Severe turbulence. You need to deviate less than 5 NM from your originally cleared track. You are flying in NAT airspace and are unable to establish communications with ATC. What should be the procedure?</p>",
+  "options": {
+    "a": "<p>Turn with a maximum bank of 30 degrees and maintain 500 ft clearance.</p>",
+    "b": "<p>Maintain track and descend as soon as possible maintaining 300 ft clearance.</p>",
+    "c": "<p>Maintain the assigned flight level.</p>",
+    "d": "You must fly the turbulence penetration speed as deviation is not permitted with no ATC clearance."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

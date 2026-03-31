@@ -1,0 +1,14 @@
+{
+  "number": 871,
+  "questionId": "090-0871",
+  "questionNumber": "090-0871",
+  "stemHtml": "<p>What does the \u2018RAIM ALERT\u2019 indicate in the context of GPS navigation?</p>",
+  "options": {
+    "a": "<p>The GPS signal is unreliable, and the system cannot ensure the integrity required for navigation.</p>",
+    "b": "<p>The GPS system has lost all satellite signals.</p>",
+    "c": "<p>The GPS system is still operational but requires the pilot to crosscheck with other navigation aids.</p>",
+    "d": "<p>The GPS signal is functioning normally, and navigation can proceed without restrictions.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

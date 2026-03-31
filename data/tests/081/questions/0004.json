@@ -1,0 +1,19 @@
+{
+  "number": 4,
+  "questionId": "081-0004",
+  "questionNumber": "081-0004",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhat are the moments created by the engine thrust, assuming no flight control augmentation?</p>",
+  "options": {
+    "a": "<p>Aircraft A = Nose up; Aircraft B = Nose down</p>",
+    "b": "<p>Aircraft A = Nose down; Aircraft B = Nose down</p>",
+    "c": "<p>Aircraft A = Nose up; Aircraft B = Nose up</p>",
+    "d": "<p>Aircraft A = Nose down; Aircraft B = Nose up</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0210",
+      "publicUrl": "/attachments/081/081-att-0210.png"
+    }
+  ]
+}

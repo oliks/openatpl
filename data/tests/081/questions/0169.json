@@ -1,0 +1,14 @@
+{
+  "number": 169,
+  "questionId": "081-0169",
+  "questionNumber": "081-0169",
+  "stemHtml": "You are in cruise flight and maintaining a constant pressure altitude (flight level) and IAS, which keeps you flying close to M<sub>CRIT</sub>. You suddenly encounter a cold air mass. What is most probable to happen?",
+  "options": {
+    "a": "Mach speed stays constant.",
+    "b": "Mach speed increases or decreases, depending on the exact temperature of the cold air mass.",
+    "c": "Mach speed decreases, and you could stall if you do not intervene.",
+    "d": "Mach speed increases"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

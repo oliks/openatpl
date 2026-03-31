@@ -1,0 +1,19 @@
+{
+  "number": 1305,
+  "questionId": "081-1305",
+  "questionNumber": "081-1305",
+  "stemHtml": "<p>Refer to figure.  <br />  \rWith reference to the attached annex for an aircraft in a steady climb, which of the following statements is correct...</p>",
+  "options": {
+    "a": "<p>(1) is equal to Lift; (5) is equal to Lift + Weight * cos(\u03b3)</p>",
+    "b": "<p>(5) is equal to Lift; (8) is equal to Drag + Weight * sin(\u03b3)</p>",
+    "c": "<p>(8) is equal to Thrust; (3) is equal to Drag</p>",
+    "d": "<p>(4) is equal to Thrust; (7) is equal to Weight</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0245",
+      "publicUrl": "/attachments/081/081-att-0245.jpg"
+    }
+  ]
+}

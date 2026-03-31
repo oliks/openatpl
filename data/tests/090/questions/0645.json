@@ -1,0 +1,14 @@
+{
+  "number": 645,
+  "questionId": "090-0645",
+  "questionNumber": "090-0645",
+  "stemHtml": "<p>A pilot in-flight wants to know their current position in relation to a station. The pilot requests the QTE and the controller responds that it is 190 degrees. What does this indicate?</p>\r\n\r\n<p> </p>",
+  "options": {
+    "a": "<p>True bearing from the station and the pilot has to apply variation to plot it on a map.</p>",
+    "b": "<p>True bearing from the station and the pilot does NOT have to apply variation to plot it on a map.</p>",
+    "c": "<p>Magnetic bearing to the station (no wind).</p>",
+    "d": "<p>Magnetic bearing from the station (no wind).</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

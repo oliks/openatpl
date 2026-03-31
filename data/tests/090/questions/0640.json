@@ -1,0 +1,14 @@
+{
+  "number": 640,
+  "questionId": "090-0640",
+  "questionNumber": "090-0640",
+  "stemHtml": "<p>You received the following instruction from ATC: \u201cSUN AIR 764, RESET SQUAWK MODE Charlie 5503\u201d. What is your correct action and reply?</p>",
+  "options": {
+    "a": "<p>You reset code 5503, ensure pressure altitude is selected and reply \u201cresetting squawk 5503 mode Charlie\u201d</p>",
+    "b": "<p>You reset code 5503 and reply \u201cresetting squawk 5503\u201d</p>",
+    "c": "<p>You reset code 5503, ensure pressure altitude is selected and reply: \u201cresetting mode Charlie 5503, Sun Air 764\u201d</p>",
+    "d": "<p>You reply \u201cresetting squawk 5503 Sun Air 764\"</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

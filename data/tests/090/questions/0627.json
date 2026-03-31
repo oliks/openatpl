@@ -1,0 +1,14 @@
+{
+  "number": 627,
+  "questionId": "090-0627",
+  "questionNumber": "090-0627",
+  "stemHtml": "<p dir=\"ltr\">You are Pilot-In-Command of a scheduled international commercial air transport flight, flying at FL140. Your aircraft is equipped with all the necessary communication and navigation equipment. After 30 minutes of flight at cruising altitude, you notice the unserviceability of the air-ground data link. Weather conditions at the moment are moderate to severe icing. What is correct regarding the meteorological observation?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Because the data link is unserviceable, a special meteorological observation should be transmitted via voice communications.</p>",
+    "b": "<p dir=\"ltr\">Because the data link is unserviceable, you are exempted from transmitting both routine and special meteorological observations.</p>",
+    "c": "<p dir=\"ltr\">The routine meteorological observations that are normally transmitted every 15 minutes should now be sent via voice communications.</p>",
+    "d": "<p>You should attempt to restart the data link system so that routine meteorological observations can be sent. If this remains unserviceable, a special transponder code should be selected.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

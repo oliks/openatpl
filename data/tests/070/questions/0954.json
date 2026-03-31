@@ -1,0 +1,14 @@
+{
+  "number": 954,
+  "questionId": "070-0954",
+  "questionNumber": "070-0954",
+  "stemHtml": "<p>Your aircraft isn't equipped with an altitude alerting system. What can't you do?</p>",
+  "options": {
+    "a": "<p>Fly in accordance with IFR.</p>",
+    "b": "<p>Fly in controlled airspace.</p>",
+    "c": "<p>Fly in RVSM airspace.</p>",
+    "d": "<p>Fly in accordance with VFR.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

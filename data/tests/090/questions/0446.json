@@ -1,0 +1,14 @@
+{
+  "number": 446,
+  "questionId": "090-0446",
+  "questionNumber": "090-0446",
+  "stemHtml": "<p dir=\"ltr\">An aircraft is approaching Otopeni, the destination aerodrome, and has received the following ATIS broadcast.What is the runway in use for arrivals and on which frequency will you contact approach?</p><p dir=\"ltr\">\u2018\u2019OTOPENI INFORMATION OSCAR. <br /> TIME 12:50 <br /> EXPECT AN ILS APPROACH. <br /> ARRIVALS RUNWAY 08 RIGHT. DEPARTURES RUNWAY 08 LEFT <br /> TRANSITION ALTITUDE 4000 FT. <br /> WORK IN PROGRESS ON APRON TWO. <br /> SURFACE WIND 250, 14 KNOTS. <br /> VISIBILITY 10 KILOMETRES OR MORE. <br /> SCATTERED 2400 FEET, BROKEN 4600 FEET. <br /> CUMULONIMBUS DETECTED. <br /> TEMPERATURE +19, DEW POINT +4. <br /> QNH 1007 <br /> NO SIGNIFICANT CHANGE <br /> ACKNOWLEDGE RECEIPT OF INFORMATION OSCAR WITH APP ON 119.415. <br /> DEPARTURE WITH DELIVERY ON 121.955.\u2018\u2019</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">RWY 08L, frequency 121.955</p>",
+    "b": "<p dir=\"ltr\">RWY 08L, frequency 119.415</p>",
+    "c": "<p dir=\"ltr\">RWY 08R, frequency 121.955</p>",
+    "d": "RWY 08R, frequency 119.415"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1999,
+  "questionId": "081-1999",
+  "questionNumber": "081-1999",
+  "stemHtml": "Which of the following aircraft design characteristics is desirable during a flight with a long time spent in straight and level flight and only gentle manoeuvring?",
+  "options": {
+    "a": "An aeroplane with neutral stability to reduce the workload of the pilot, since flying requires lower control forces.",
+    "b": "An aeroplane with neutral stability, because it will tend to move less in turbulence since it will remain in its new attitude.",
+    "c": "A statically stable aeroplane where the aeroplane shows a natural tendency to return to its pre-disturbed position.",
+    "d": "A statically unstable aeroplane to reduce the workload of the pilot with lower control forces to maintain an attitude."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

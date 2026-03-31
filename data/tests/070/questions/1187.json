@@ -1,0 +1,14 @@
+{
+  "number": 1187,
+  "questionId": "070-1187",
+  "questionNumber": "070-1187",
+  "stemHtml": "<p>A snowtam is published for an airfield in Germany which shows three runways and their respective runway condition codes as follows: </p><p>07L: 3/3/2  <br /> 07R: 3/3/1  <br /> 25: 2/2/2</p><p>Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>Runway 07R is medium, medium, poor.</p>",
+    "b": "<p>Runway 25 is poor, poor, poor.</p>",
+    "c": "<p>Runway 07L is medium, medium/poor, medium/poor.</p>",
+    "d": "<p>Runway 25 is good, good, good.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

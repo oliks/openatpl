@@ -1,0 +1,14 @@
+{
+  "number": 780,
+  "questionId": "090-0780",
+  "questionNumber": "090-0780",
+  "stemHtml": "<p>After following a Resolution Advisory (RA) manoeuvre, the pilot should...</p>",
+  "options": {
+    "a": "<p>notify the ATC to check if the aircraft needs to return to its initial clearance.</p>",
+    "b": "<p>delay ATC notification because Controller-Pilot Data Link Communications (CPDLC) provide information in real time.</p>",
+    "c": "<p>notify ATC because only the pilot knows when ACAS issues RAs.</p>",
+    "d": "<p>have ATC testify about the serious incident for legal reasons.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

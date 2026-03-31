@@ -1,0 +1,19 @@
+{
+  "number": 1488,
+  "questionId": "081-1488",
+  "questionNumber": "081-1488",
+  "stemHtml": "<p>Refer to figure. <br /> Given the wing planform represented in the diagram with the following dimensions, calculate the aspect ratio:</p><p>Wingspan: 12.5 m <br /> Tip chord: 1 m <br /> Root chord: 1.5 m</p>",
+  "options": {
+    "a": "12.5",
+    "b": "8.3",
+    "c": "4",
+    "d": "10"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0157",
+      "publicUrl": "/attachments/081/081-att-0157.jpg"
+    }
+  ]
+}

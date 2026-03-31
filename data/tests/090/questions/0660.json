@@ -1,0 +1,14 @@
+{
+  "number": 660,
+  "questionId": "090-0660",
+  "questionNumber": "090-0660",
+  "stemHtml": "<p>The crew of a flight operated under the callsign Gulfstream HTK is cleared for departure via RNAV departure route PONTI4G. Due to degraded equipment, the aircraft does not meet the navigational accuracy for this specific RNAV procedure. The correct phrase to advise ATC of that issue would be...</p>",
+  "options": {
+    "a": "<p>Gulfstream HTK NEGATIVE PONTI4G DEPARTURE DUE EQUIPMENT</p>",
+    "b": "<p>Gulfstream HTK UNABLE PONTI4G DEPARTURE DUE RNAV TYPE</p>",
+    "c": "<p>Gulfstream HTK UNABLE RNAV DUE EQUIPMENT</p>",
+    "d": "<p>Gulfstream HTK NEGATIVE RNAV</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

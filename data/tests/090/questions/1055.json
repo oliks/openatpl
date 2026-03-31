@@ -1,0 +1,14 @@
+{
+  "number": 1055,
+  "questionId": "090-1055",
+  "questionNumber": "090-1055",
+  "stemHtml": "<p>You have declared an emergency, and landed. ATC then transfers you to another frequency. What is the primary reason for such frequency transfer?</p>",
+  "options": {
+    "a": "<p>To ensure confidentiality, a special frequency is used that cannot be monitored by 'Live ATC' services or aviation band scanners.</p>",
+    "b": "<p>To allow for direct contact between the emergency aircraft and rescue and firefighting services on a discrete frequency.</p>",
+    "c": "<p>ATC removes the emergency aircraft from the Tower frequency in order to restore the regular flow of traffic.</p>",
+    "d": "<p>The support from ATC for the emergency traffic ends once the emergency aircraft has landed.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

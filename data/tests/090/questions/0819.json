@@ -1,0 +1,14 @@
+{
+  "number": 819,
+  "questionId": "090-0819",
+  "questionNumber": "090-0819",
+  "stemHtml": "<p>ATC reports to G-ABCD 'Radar Identifcation is lost'. The correct readback is...</p>",
+  "options": {
+    "a": "<p>'Identification lost, G-ABCD' - and turn off transponder to avoid confusion.</p>",
+    "b": "<p>'Roger G-ABCD' - and turn off transponder to avoid confusion.</p>",
+    "c": "<p>'Identification lost G-ABCD' - and don't do anything. Standby and wait for further instructions for separation.</p>",
+    "d": "<p>'Roger G-ABCD' - and don't do anything. Standby and wait for further instructions for separation.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

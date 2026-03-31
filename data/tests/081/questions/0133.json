@@ -1,0 +1,19 @@
+{
+  "number": 133,
+  "questionId": "081-0133",
+  "questionNumber": "081-0133",
+  "stemHtml": "<p>Refer to figure. <br /> \rMatch the various wing types with their corresponding C<strong><sub>L</sub></strong> - alpha curves.</p>",
+  "options": {
+    "a": "<p>A - 3; B - 1; C - 2</p>",
+    "b": "<p>A - 1; B - 2; C - 3</p>",
+    "c": "<p>A - 2; B - 1; C - 3</p>",
+    "d": "<p>A - 2; B - 3; C - 1</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0087",
+      "publicUrl": "/attachments/081/081-att-0087.png"
+    }
+  ]
+}

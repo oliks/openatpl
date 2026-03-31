@@ -1,0 +1,14 @@
+{
+  "number": 429,
+  "questionId": "090-0429",
+  "questionNumber": "090-0429",
+  "stemHtml": "<p>During a flight over the sea, you check the ATIS of an airfield at the coast. How is the reception of the ATIS affected if cold air is moving over the relatively warmer sea leading to an inversion?</p>",
+  "options": {
+    "a": "<p>It improves because of refraction.</p>",
+    "b": "<p>It worsens because of refraction.</p>",
+    "c": "<p>No noticeable effect will occur, as VHF is immune to atmospheric changes.</p>",
+    "d": "<p>The ionosphere causes the signal to scatter.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

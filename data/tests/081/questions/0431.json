@@ -1,0 +1,14 @@
+{
+  "number": 431,
+  "questionId": "081-0431",
+  "questionNumber": "081-0431",
+  "stemHtml": "Given two identical aeroplanes with wing mounted engines, one fitted with jet engines and the other with counter rotating propellers, which of these statements is correct about roll behaviour after an engine failure?",
+  "options": {
+    "a": "The propeller aeroplane has more roll tendency.",
+    "b": "Both aeroplanes have the same roll tendency.",
+    "c": "The roll tendency on the propeller powered aeroplane is more pronounced when the left engine fails than when the right engine fails.",
+    "d": "The propeller aeroplane has less roll tendency."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

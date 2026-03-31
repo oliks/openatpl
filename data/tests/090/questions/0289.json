@@ -1,0 +1,14 @@
+{
+  "number": 289,
+  "questionId": "090-0289",
+  "questionNumber": "090-0289",
+  "stemHtml": "<p>What is the correct option about the following D-ATIS? <br><br>WSSS ARR ATIS F <br>0130 METAR <br>Exp ILS Apch segregrated PARL Ops in use <br>ARR RWY 02L DEP 02C <br>Taxiing guidance lights on all taxiways are on for lighting inspection <br>Junction of TWY EP and A3 including rapid exit TWY E3 Southbound CLSD due WIP <br>Wind 040 10 KT GUST 23 WIND DIR 360 V 040 <br>10 KM FEW 800 FT FEW 1300 FT CB BKN 1800 FT <br>T 27 / DP 26 QNH 1020 NOSIG <br>ARR to ACK INFO F with APP on 120.3</p>",
+  "options": {
+    "a": "<p>The ATIS is for arriving aircraft only, there are some CB clouds with a base of 1300 ft, and runway 02 left is used for arrivals.</p>",
+    "b": "<p>The ATIS is for departing and arriving traffic; Runway 02C is in use for departures; departures have to acknowledge they have received information F with Approach Control.</p>",
+    "c": "<p>Runway 02L is in use for departures; visibility is 10 km or more; wind direction is 010\u00b0 and wind speed is 4 kt.</p>",
+    "d": "<p>ATIS message F is current; the temperature is 26\u00b0C; and no significant changes are expected regarding weather conditions in the next two hours.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

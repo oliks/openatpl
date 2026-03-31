@@ -1,0 +1,14 @@
+{
+  "number": 1429,
+  "questionId": "081-1429",
+  "questionNumber": "081-1429",
+  "stemHtml": "<p>During landing, the pilot flares using a 5\u00b0 pitch-up technique, intending to utilise ground effect to touchdown softly. Which of the following statements is most correct?</p>",
+  "options": {
+    "a": "<p>This is an inappropriate technique for all aircraft, as it may stall during the pull-up manoeuvre.</p>",
+    "b": "<p>This is an inappropriate technique for this aircraft and may lead to a tailstrike or hard landing.</p>",
+    "c": "<p>This is an appropriate technique for all aircraft to touch down, but it increases the landing distance.</p>",
+    "d": "<p>This technique is only appropriate for this aircraft as long as the critical angle of attack is not exceeded in ground effect.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

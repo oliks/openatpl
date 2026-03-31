@@ -1,0 +1,14 @@
+{
+  "number": 1186,
+  "questionId": "081-1186",
+  "questionNumber": "081-1186",
+  "stemHtml": "<p>A light twin-engine aeroplane suffers an engine failure, and the pilot should normally feather the propeller. However, the pilot does NOT feather the propeller. Which of the following options describes the result?</p>",
+  "options": {
+    "a": "<p>Control will be more difficult, and the descent flight-path angle will be smaller.</p>",
+    "b": "<p>Yawing moment will be less, and the climb flight-path angle will be smaller.</p>",
+    "c": "<p>Yawing moment will be less, and the descent gradient will be greater.</p>",
+    "d": "<p>Control will be more difficult, and the climb gradient will be lower.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

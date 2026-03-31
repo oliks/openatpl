@@ -1,0 +1,14 @@
+{
+  "number": 488,
+  "questionId": "090-0488",
+  "questionNumber": "090-0488",
+  "stemHtml": "<p>What does the instruction \"Fastair 345, standby for TOWER 118.9?\" mean?</p>",
+  "options": {
+    "a": "<p>Fastair 345 shall squawk standby and then establish radio contact with TOWER on frequency 118.9.</p>",
+    "b": "<p>Fastair 345 shall change to frequency 118.9 on which information is being broadcast.</p>",
+    "c": "<p>Fastair 345 shall establish radio contact with TOWER on frequency 118.9.</p>",
+    "d": "<p>Fastair shall change to frequency 118.9 and listen out, but the TOWER will initiate further communications.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

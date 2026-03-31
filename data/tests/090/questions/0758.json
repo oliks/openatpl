@@ -1,0 +1,14 @@
+{
+  "number": 758,
+  "questionId": "090-0758",
+  "questionNumber": "090-0758",
+  "stemHtml": "What must be completed by the flight crew prior to using controller pilot data-link communication (CPDLC)?",
+  "options": {
+    "a": "The log on (notification phase), including Flight Number.",
+    "b": "Establish two-way voice communications before declaring CPDLC.",
+    "c": "The log on (notification phase), including aircraft unique identifier.",
+    "d": "Nothing - simply start using the CPDLC functions."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

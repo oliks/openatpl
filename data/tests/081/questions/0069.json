@@ -1,0 +1,14 @@
+{
+  "number": 69,
+  "questionId": "081-0069",
+  "questionNumber": "081-0069",
+  "stemHtml": "<p>Which of the following statements is correct regarding the speeds V<strong><sub>NO</sub></strong> and V<strong><sub>C</sub></strong>?</p>",
+  "options": {
+    "a": "<p>V<sub>NO</sub> must be equal to or greater than V<sub>C</sub>.</p>",
+    "b": "<p>V<sub>NO</sub> must be equal to V<sub>C</sub>.</p>",
+    "c": "<p>V<sub>NO</sub> must NOT be greater than 0.8 x V<sub>C</sub>.</p>",
+    "d": "<p>V<sub>NO</sub> must NOT be greater than V<sub>C</sub>.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

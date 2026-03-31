@@ -1,0 +1,19 @@
+{
+  "number": 500,
+  "questionId": "081-0500",
+  "questionNumber": "081-0500",
+  "stemHtml": "<p>Refer to figure.  <br /> If the first line represents the polar curve of a clean wing, which device could be used to move from curve 1 to curve 2?</p>",
+  "options": {
+    "a": "<p>Landing gear</p>",
+    "b": "<p>Lift dumpers</p>",
+    "c": "<p>Speed brakes</p>",
+    "d": "<p>Leading edge flaps</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0071",
+      "publicUrl": "/attachments/081/081-att-0071.png"
+    }
+  ]
+}

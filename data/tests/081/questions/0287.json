@@ -1,0 +1,14 @@
+{
+  "number": 287,
+  "questionId": "081-0287",
+  "questionNumber": "081-0287",
+  "stemHtml": "From the buffet onset graph of a given jet transport aeroplane it is determined that at FL 310 at a given mass buffet free flight is possible between M = 0.74 and M = 0.88. In what way would these numbers change if the aeroplane is suddenly pulled up e.g. in a traffic avoidance manoeuvre?",
+  "options": {
+    "a": "Both Mach numbers increase.",
+    "b": "Both Mach numbers decrease.",
+    "c": "The lower Mach number decreases and the higher Mach number increases.",
+    "d": "The lower Mach number increases and the higher Mach number decreases."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

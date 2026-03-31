@@ -1,0 +1,14 @@
+{
+  "number": 755,
+  "questionId": "090-0755",
+  "questionNumber": "090-0755",
+  "stemHtml": "<p>A pilot encounters turbulence and is unable to maintain an RNAV route as a result. ATC asks if he/she is able to navigate that route. What should he/she transmit?</p>",
+  "options": {
+    "a": "<p>Unable [route] RNAV due turbulence.</p>",
+    "b": "Unable [route] due RNAV type.",
+    "c": "RNAV [route] not possible.",
+    "d": "Negative RNAV."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

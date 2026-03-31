@@ -1,0 +1,14 @@
+{
+  "number": 303,
+  "questionId": "090-0303",
+  "questionNumber": "090-0303",
+  "stemHtml": "<p>Which of the following is correct for an aircraft operating a medical flight, when using the radio?</p>",
+  "options": {
+    "a": "<p>PAN PAN MEDICAL before its callsign, has priority over all messages except distress.</p>",
+    "b": "<p>MAYDAY, MAYDAY, MEDICAL before its callsign, has priority over all messages except distress.</p>",
+    "c": "<p>PAN, PAN, PAN before its callsign, has priority over all messages except urgency.</p>",
+    "d": "<p>MAYDAY, MAYDAY, MAYDAY before its callsign, has priority over all messages except urgency.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 150,
+  "questionId": "081-0150",
+  "questionNumber": "081-0150",
+  "stemHtml": "<p>Which of the following statements are correct with regards to fin angle of attack, sideslip, and rudder effectiveness, following an engine failure?</p><p>1. The greater the sideslip, the greater the fin angle of attack. <br>2. Excessive sideslip may cause a fin stall. <br>3. The greater the sideslip, the greater the rudder effectiveness. <br>4. Excessive sideslip may cause fin stall, but only at a low aeroplane mass.</p>",
+  "options": {
+    "a": "<div>1 and 2</div>",
+    "b": "<div>1 and 4</div>",
+    "c": "<div>2 and 3</div>",
+    "d": "<p>3 and 4</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

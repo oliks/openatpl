@@ -1,0 +1,14 @@
+{
+  "number": 995,
+  "questionId": "090-0995",
+  "questionNumber": "090-0995",
+  "stemHtml": "<p>Given the following full callsigns, what is the correct abbreviated callsign that may be used by ATC?</p><p>Speedbird 6172 <br /> N31029 <br /> Cessna GBSZT <br /> GBFRM</p>",
+  "options": {
+    "a": "Speedbird 72",
+    "b": "Cessna BZT",
+    "c": "N329",
+    "d": "GRM"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

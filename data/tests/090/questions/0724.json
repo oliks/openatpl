@@ -1,0 +1,14 @@
+{
+  "number": 724,
+  "questionId": "090-0724",
+  "questionNumber": "090-0724",
+  "stemHtml": "<p>An aircraft is in cruise flight at FL350 when the crew receives a TCAS RA \u201cDescend, descend\u201d. The pilot starts an immediate descent and informs ATC about the TCAS RA manoeuvre. Eventually, the TCAS reports \u201cClear of conflict\u201d. What should the pilot do next?</p>",
+  "options": {
+    "a": "<p>The pilot shall initiate a climb back to FL350 and report \u201cTCAS RA clear of conflict. FL350 RESUMED\u201d once he/she has returned to FL350.</p>",
+    "b": "<p>The pilot shall initiate a climb back to FL350 and immediately report \u201cClear of conflict. Returning to FL350\u201d.</p>",
+    "c": "<p>The pilot shall maintain the current altitude, inform ATC using the phrase \u201cTCAS descent complete\u201d and request further instructions.</p>",
+    "d": "<p>The pilot shall maintain the vertical speed and report \u201cTCAS RA complete. Request vectors.\u201d</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

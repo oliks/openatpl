@@ -1,0 +1,14 @@
+{
+  "number": 102,
+  "questionId": "081-0102",
+  "questionNumber": "081-0102",
+  "stemHtml": "<p>Given that you are cruising in a light, single engine aircraft which suffers an engine failure. You have two options, both 12 NM from the aircraft in different directions, and both at mean sea level, airport A and airport B. Considering the following conditions, and discounting any height loss for manoeuvring, which airport(s) can your aircraft potentially reach?</p><p>Cruising altitude: 8000 ft <br>Flying to airport A: 15 kt headwind <br>Flying to airport B: 15 kt tailwind <br>TAS: 150 kt <br>L/D ratio: 9/1 <br>Assume 1 NM = 6000 ft</p>",
+  "options": {
+    "a": "<p>You can reach Airport A but not Airport B.</p>",
+    "b": "<p>You cannot reach either airport.</p>",
+    "c": "<p>You can reach Airport B but not Airport A.</p>",
+    "d": "<p>You can reach both airports.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

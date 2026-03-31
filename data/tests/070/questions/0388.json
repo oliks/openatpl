@@ -1,0 +1,14 @@
+{
+  "number": 388,
+  "questionId": "070-0388",
+  "questionNumber": "070-0388",
+  "stemHtml": "<p>NAT operating procedures describe requirements for the submission of weather data when using datalink communications and Automatic Dependant Surveillance (ADS). Which meteorological phenomena should be reported by the pilot, either via Controller Pilot Data Link communications (CPDLC) free text or voice?</p>\r\r<p>1. Wind speed and direction <br /> \r2. OAT <br /> \r3. Mod or Sev turb <br /> \r4. Mod or Sev Icing <br /> \r5. Volcanic Ash <br /> \r6. Thunderstorms</p>",
+  "options": {
+    "a": "<p>1, 2, 3 and 4.</p>",
+    "b": "<p>1, 2, 4 and 5.</p>",
+    "c": "<p>2, 3, 5 and 6.</p>",
+    "d": "<p>3, 4, 5 and 6.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

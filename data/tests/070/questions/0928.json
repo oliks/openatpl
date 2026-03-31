@@ -1,0 +1,14 @@
+{
+  "number": 928,
+  "questionId": "070-0928",
+  "questionNumber": "070-0928",
+  "stemHtml": "<p>Taking into consideration Northern Oceanic Transition Area (NOTA) and Shannon Oceanic Transition Area (SOTA) - which one is in NAT HLA and which one has the same instrument requirements as NAT HLA?</p>",
+  "options": {
+    "a": "<p>Neither NOTA and SOTA is in NAT HLA, hence no instruments requirement like in NAT.</p>",
+    "b": "<p>Either NOTA and SOTA is in NAT HLA, hence instruments requirement like in NAT.</p>",
+    "c": "<p>SOTA is in NAT HLA, however requirements only apply if continuing into NAT HLA.</p>",
+    "d": "<p>NOTA is NAT HLA, hence instruments requirement like in NAT.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

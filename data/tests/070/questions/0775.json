@@ -1,0 +1,14 @@
+{
+  "number": 775,
+  "questionId": "070-0775",
+  "questionNumber": "070-0775",
+  "stemHtml": "<p>A pilot working for a CAT Operator has performed 185 duty hours in the last 27 consecutive days. On the 28th day, the Operator\u2019s crewing department calls asking the pilot to operate a flight with a total duty of 8 hours later that same day. What would be the correct decision, according to the EU Regulation on Air Operations?</p>",
+  "options": {
+    "a": "<p>NOT operate the flight, since duty shall NOT exceed 100 hours in any 28 consecutive days.</p>",
+    "b": "NOT operate the flight, since duty shall NOT exceed 190 hours in any 28 consecutive days.",
+    "c": "Operate the flight, since duty is limited to 195 hours in any 28 consecutive days.",
+    "d": "Operate the flight, since duty is limited to 200 hours in any 28 consecutive days."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

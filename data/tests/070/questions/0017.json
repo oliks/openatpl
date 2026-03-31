@@ -1,0 +1,14 @@
+{
+  "number": 17,
+  "questionId": "070-0017",
+  "questionNumber": "070-0017",
+  "stemHtml": "<p>An operator has an approval to carry Dangerous Goods. During the loading of an aircraft, a dangerous goods package is found to be leaking liquid. Can the package be transported?</p>",
+  "options": {
+    "a": "<p>YES, provided the aircraft is able to carry wet cargo.</p>",
+    "b": "<p>NO, the package CANNOT be transported.</p>",
+    "c": "<p>YES, the package CAN be transported without restrictions.</p>",
+    "d": "<p>YES, if the problem is annotated in the dangerous goods transport document.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

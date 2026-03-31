@@ -1,0 +1,14 @@
+{
+  "number": 2406,
+  "questionId": "081-2406",
+  "questionNumber": "081-2406",
+  "stemHtml": "A crew is operating a fly-by-wire aircraft which offers protections to ensure stability with regards to aeroplane mass and centre of gravity. If the crew enters the wrong CG location pre-flight, what may happen during take-off?",
+  "options": {
+    "a": "The aircraft might become unstable in certain configurations.",
+    "b": "The aircraft will never become unstable due to regulations preventing this.",
+    "c": "Fuel consumption will increase because the aircraft moves the stabiliser to correct for the incorrect CG position.",
+    "d": "Drag increases because the aircraft will try to trim for the actual CG."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

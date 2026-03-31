@@ -1,0 +1,14 @@
+{
+  "number": 389,
+  "questionId": "081-0389",
+  "questionNumber": "081-0389",
+  "stemHtml": "<p>Which of these statements about induced drag are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. An elliptical spanwise lift distribution generates more induced drag than a rectangular lift distribution.</span> <br /> \nII. Induced drag decreases with decreasing aspect ratio.</p>",
+  "options": {
+    "a": "I is incorrect, II is correct.",
+    "b": "I is incorrect, II is incorrect.",
+    "c": "I is correct, II is incorrect.",
+    "d": "I is correct, II is correct."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

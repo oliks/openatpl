@@ -1,0 +1,14 @@
+{
+  "number": 499,
+  "questionId": "090-0499",
+  "questionNumber": "090-0499",
+  "stemHtml": "<p>ATC instructs the pilot: \u201cGOLF ALPHA CHARLIE BRAVO ROMEO TRANSMIT FOR IDENTIFICATION AND REPORT HEADING\u201d. The pilot should\u2026</p>",
+  "options": {
+    "a": "<p>Press the IDENT button and transmit; GOLF ALPHA CHARLIE BRAVO ROMEO HEADING;</p>",
+    "b": "<p>Transmit; GOLF ALPHA CHARLIE BRAVO ROMEO, TRANSMITTING FOR IDENTIFICATION PURPOSES, HEADING;</p>",
+    "c": "<p>Reselect Mode S and transmit; GOLF ALPHA CHARLIE BRAVO ROMEO HEADING;</p>",
+    "d": "<p>Set the transponder to STBY and transmit; GOLF ALPHA CHARLIE BRAVO ROMEO HEADING;</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

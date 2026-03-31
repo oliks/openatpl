@@ -1,0 +1,14 @@
+{
+  "number": 314,
+  "questionId": "090-0314",
+  "questionNumber": "090-0314",
+  "stemHtml": "<p>ATC request that you descend to 1000 feet on the QNH 1030 hPa. Choose the correct reply\u2026</p>",
+  "options": {
+    "a": "<p>Descending to altitude 1000ft, on the QNH 1030 hectopascals.</p>",
+    "b": "<p>Descending to altitude 1000 feet, QNH 1030.</p>",
+    "c": "<p>Descending to level 1000ft, QNH 1030.</p>",
+    "d": "<p>Wilco, QNH 1030.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

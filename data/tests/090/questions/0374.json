@@ -1,0 +1,14 @@
+{
+  "number": 374,
+  "questionId": "090-0374",
+  "questionNumber": "090-0374",
+  "stemHtml": "As the pilot of an arriving VFR flight, you are approaching your destination aerodrome, where an ATIS broadcast is provided. After initiating contact with the approach control unit, how do you request instructions before entering its area of jurisdiction?",
+  "options": {
+    "a": "EC-IOS, PA28, VFR FROM MADRID TO BARCELONA, 3000 FEET, CONTROL ZONE BOUNDARY 08, BARCELONA 12, INFORMATION WHISKEY.",
+    "b": "EC-IOS, INFORMATION WHISKEY, PA28, 3000 FEET, ESTIMATES BARCELONA AT 1312, DEPARTED MADRID.",
+    "c": "EC-IOS, INBOUND FROM MADRID, 3000 FEET, INFORMATION WHISKEY.",
+    "d": "BARCELONA APPROACH, THIS IS EC-IOS APPROACHING FROM SOUTH ON 3000 FEET, REQUEST LATEST WEATHER INFORMATION AND RUNWAY-IN-USE."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 170,
+  "questionId": "090-0170",
+  "questionNumber": "090-0170",
+  "stemHtml": "<p>ATC: \u2018\u2019Globe Air 345, line up and wait runway 23 left\u2019\u2019</p><p>The correct response to the above message from ATC is\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Line up and wait runway 23 left, Globe Air 345.</p>",
+    "b": "<p dir=\"ltr\">Globe Air 345 line up.</p>",
+    "c": "<p dir=\"ltr\">Line up runway 23, Globe Air 345.</p>",
+    "d": "Globe Air 345 line up and wait runway 23 left, awaiting take-off clearance."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

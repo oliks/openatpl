@@ -1,0 +1,19 @@
+{
+  "number": 409,
+  "questionId": "081-0409",
+  "questionNumber": "081-0409",
+  "stemHtml": "Refer to figure. <br /> The attached graph represents a wing in two configurations: the black line in clean configuration and the blue line with a lift augmentation device extended. What type of profile does the basic wing have and what type of lift augmentation device is used?",
+  "options": {
+    "a": "Symmetrical wing with flaps extended.",
+    "b": "Symmetrical wing with leading edge device extended.",
+    "c": "Asymmetrical wing with flaps extended.",
+    "d": "Asymmetrical wing with leading edge device extended."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0018",
+      "publicUrl": "/attachments/081/081-att-0018.jpg"
+    }
+  ]
+}

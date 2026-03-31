@@ -1,0 +1,14 @@
+{
+  "number": 1311,
+  "questionId": "070-1311",
+  "questionNumber": "070-1311",
+  "stemHtml": "<div>List the actions to be taken in the event of a carburettor fire in a piston-engined aircraft during start, if the engine has already started.</div>",
+  "options": {
+    "a": "<div>Mixture \u2013 idle cut-off, Throttle \u2013 full open, Fuel selector - OFF, Fire extinguisher \u2013 discharge.</div>",
+    "b": "<p>Mixture \u2013 idle cut-off, evacuate the aircraft.</p>",
+    "c": "<p>Mixture \u2013 idle cut-off, Throttle \u2013 full open, Fire extinguisher \u2013 discharge.</p>",
+    "d": "<p>Allow the engine to run and monitor. If the fire continues, perform the engine fire on ground checklist.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

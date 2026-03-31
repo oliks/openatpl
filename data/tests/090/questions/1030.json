@@ -1,0 +1,14 @@
+{
+  "number": 1030,
+  "questionId": "090-1030",
+  "questionNumber": "090-1030",
+  "stemHtml": "<p>The pilot needs to know their current position and requests the TRUE bearing from the station. What does the pilot receive?</p>",
+  "options": {
+    "a": "<p>The QTE which can be plotted on the chart WITHOUT correction.</p>",
+    "b": "<p>The QTE which needs to be corrected if plotted on the chart.</p>",
+    "c": "<p>The QFE.</p>",
+    "d": "<p>The QUJ which can be plotted on the chart WITHOUT correction.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

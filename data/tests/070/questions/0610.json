@@ -1,0 +1,14 @@
+{
+  "number": 610,
+  "questionId": "070-0610",
+  "questionNumber": "070-0610",
+  "stemHtml": "<p>An aeroplane is intended to be operated at FL 390. Given that:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Maximum approved passenger seating configuration = 230</span>  <br />  \nNumber of seats on board = 200  <br />  \nScheduled number of passengers on board = 180</p>\n\n<p>According to OPS regulations, the minimum required number of cabin oxygen masks (dispensing units) shall be:</p>\n\n<div> </div>",
+  "options": {
+    "a": "200",
+    "b": "180",
+    "c": "230",
+    "d": "220"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

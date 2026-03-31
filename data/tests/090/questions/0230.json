@@ -1,0 +1,14 @@
+{
+  "number": 230,
+  "questionId": "090-0230",
+  "questionNumber": "090-0230",
+  "stemHtml": "An aircraft flying under IFR in VMC experiences communication failure. Can the aircraft complete the IFR flight?",
+  "options": {
+    "a": "No, the flight must continue in VMC.",
+    "b": "No, the flight must return to the departure aerodrome in VMC.",
+    "c": "It is mandatory to continue the flight in IFR.",
+    "d": "<p>Yes, if the PIC considers it advisable to continue the flight as IFR.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

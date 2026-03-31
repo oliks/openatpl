@@ -1,0 +1,14 @@
+{
+  "number": 599,
+  "questionId": "090-0599",
+  "questionNumber": "090-0599",
+  "stemHtml": "Cherokee XY-ABC receives the following instruction: \"X-BC, climb straight ahead until 2500 feet before turning right, wind 270 degrees 6 knots, cleared for take-off\". What is the correct read back?",
+  "options": {
+    "a": "Straight ahead, 2500 feet right turn, wind west 6 knots, cleared for take-off, X-BC.",
+    "b": "Straight ahead, at 2500 feet right turn, cleared for take-off, X-BC.",
+    "c": "Right turn after 2500, roger, X-BC.",
+    "d": "Wilco, cleared for take-off, X-BC."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1986,
+  "questionId": "081-1986",
+  "questionNumber": "081-1986",
+  "stemHtml": "<p>You are in cruise flight, maintaining a constant flight level and IAS, which keeps you flying close to M<strong><sub>CRIT</sub></strong>. You suddenly encounter a warm air mass. Which of the following will occur?</p>",
+  "options": {
+    "a": "<p>Mach number stays constant.</p>",
+    "b": "<p>Mach number decreases, and the aircraft could stall if you do not intervene.</p>",
+    "c": "<p>Mach number increases, and you may exceed M<sub>CRIT</sub>.</p>",
+    "d": "<p>Mach number increases or decreases, depending on the exact temperature of the warm air mass.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

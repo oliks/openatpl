@@ -1,0 +1,14 @@
+{
+  "number": 5,
+  "questionId": "090-0005",
+  "questionNumber": "090-0005",
+  "stemHtml": "<p>When on the apron at Bucharest Otopeni, you ask TWR for a radio check. Otopeni TWR replies: \u201cQuickjet 123 Tower reading you five\u201d</p><p>According to the readability scale, your transmission is\u2026</p>",
+  "options": {
+    "a": "<p>Readable but with difficulty.</p>",
+    "b": "<p>Readable now and then.</p>",
+    "c": "<p>Perfectly readable.</p>",
+    "d": "Readable."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

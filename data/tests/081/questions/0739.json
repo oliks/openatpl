@@ -1,0 +1,14 @@
+{
+  "number": 739,
+  "questionId": "081-0739",
+  "questionNumber": "081-0739",
+  "stemHtml": "<p>Which of these statements about drag divergence Mach number are correct or incorrect?</p>\r\n\r\n<p>1. The drag divergence Mach number is lower than M<sub>CRIT</sub>.<br />\r\n2. Below the drag divergence Mach number and for a given angle of attack the drag coefficient C<sub>D</sub> is practically constant as the Mach number changes.</p>\r\n",
+  "options": {
+    "a": "1 is incorrect, 2 is incorrect.",
+    "b": "1 is incorrect, 2 is correct.",
+    "c": "1 is correct, 2 is correct.",
+    "d": "1 is correct, 2 is incorrect."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

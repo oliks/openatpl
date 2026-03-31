@@ -1,0 +1,14 @@
+{
+  "number": 977,
+  "questionId": "090-0977",
+  "questionNumber": "090-0977",
+  "stemHtml": "A pilot is flying under the IFR rules in VMC conditions when you experience communication failure. What actions should the pilot take?",
+  "options": {
+    "a": "Squawk 7700 and continue in accordance with the flight plan.",
+    "b": "Continue in VMC to the destination aerodrome and land within 30 min after the estimated time of arrival in the flight plan.",
+    "c": "Continue in VMC, land at the nearest suitable aerodrome and report your arrival to the appropriate air traffic control unit.",
+    "d": "Continue to the destination aerodrome, adding 500 ft to all the altitudes in the flight plan."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

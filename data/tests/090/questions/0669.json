@@ -1,0 +1,14 @@
+{
+  "number": 669,
+  "questionId": "090-0669",
+  "questionNumber": "090-0669",
+  "stemHtml": "<p>You are flying aircraft A on the final approach, when aircraft B transmits an urgency message. The controller has not yet given you a landing clearance and seems to have forgotten about you. What would be your actions as the pilot of Aircraft A?</p>",
+  "options": {
+    "a": "<p>Act according to lost communication procedures and land.</p>",
+    "b": "<p>Avoid transmitting but remind the controller of your position on the frequency if it does not interfere with the urgency traffic</p>",
+    "c": "<p>Remind the controller of your position even if it interferes with urgency messages.</p>",
+    "d": "<p>Immediately go around.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

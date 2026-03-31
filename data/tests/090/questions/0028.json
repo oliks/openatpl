@@ -1,0 +1,14 @@
+{
+  "number": 28,
+  "questionId": "090-0028",
+  "questionNumber": "090-0028",
+  "stemHtml": "<p>ATC: \u201cAre you able to maintain a parallel offset route?\u201d. The ATC controller wants to know if you can...</p>",
+  "options": {
+    "a": "<p>Fly at a certain distance parallel to your assigned route.</p>",
+    "b": "<p>Change onto an airway running parallel to your assigned route.</p>",
+    "c": "<p>Overtake a slow-flying aircraft which is following the same track.</p>",
+    "d": "<p>Change course to avoid an aircraft flying on the same track in opposite direction.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

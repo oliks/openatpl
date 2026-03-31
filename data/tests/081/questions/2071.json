@@ -1,0 +1,14 @@
+{
+  "number": 2071,
+  "questionId": "081-2071",
+  "questionNumber": "081-2071",
+  "stemHtml": "<p>Bernoulli's equation is: <br>(Note: rho is density; P<strong><sub>STAT</sub></strong> is static pressure; P<strong><sub>DYN</sub></strong> is dynamic pressure; P<strong><sub>TOT</sub></strong> is total pressure)</p>",
+  "options": {
+    "a": "<p>P<sub>STAT</sub> + &frac12;rho &times; IAS<sup>2</sup> = constant</p>\r\n",
+    "b": "<p>P<sub>STAT</sub> + &frac12;rho &times; TAS<sup>2</sup> = constant</p>\r\n",
+    "c": "<p>P<sub>DYN</sub> + &frac12;rho &times; IAS<sup>2</sup> = constant</p>\r\n",
+    "d": "<p>P<sub>TOT</sub> + &frac12;rho &times; TAS<sup>2</sup> = constant</p>\r\n"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

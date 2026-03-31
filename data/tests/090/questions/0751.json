@@ -1,0 +1,14 @@
+{
+  "number": 751,
+  "questionId": "090-0751",
+  "questionNumber": "090-0751",
+  "stemHtml": "<div>A pilot is departing from Lille, in F-GTPO, where runways 26 and 20 are in use. The pilot receives the following message: F-PO, behind the landing Airbus, line up and wait runway 26 behind.Which one of the following is correct?</div>",
+  "options": {
+    "a": "<p>The message was preceded by: \"F-PO, report the Airbus on final in sight\" and the pilot\u2019s reply \"F-PO, Airbus in sight\". Following the message, the pilot\u2019s read back is: \"Behind the Airbus, line up and wait runway 26 behind, F-PO\".</p>",
+    "b": "<p>The message was preceded by: \"F-PO, ready for immediate departure\". Following the message, the pilot\u2019s read back is: \"Behind the Airbus, line up and wait runway 26 behind, F-PO\".</p>",
+    "c": "<p>The message was preceded by: \"F-PO, report the Airbus on final in sight\" and the pilot\u2019s reply \"F-PO, Airbus in sight\". Following the message, the pilot\u2019s read back is: \"Behind the Airbus, line up and wait, F-PO\".</p>",
+    "d": "<p>The pilot\u2019s read back is: \"Behind the Airbus, line up and wait, F-PO\".<br>\u00a0</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

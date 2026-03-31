@@ -1,0 +1,14 @@
+{
+  "number": 229,
+  "questionId": "090-0229",
+  "questionNumber": "090-0229",
+  "stemHtml": "<p>An aircraft is approaching Alicante airport and wishes to carry out an RNAV approach to runway 28 via the initial approach fix, VILNA. The correct phraseology for the request is\u2026</p>",
+  "options": {
+    "a": "<p>Globe Air 213, request RNAV approach via VILNA, runway 28.</p>",
+    "b": "<p>Alicante approach, Globe air 213 request approach clearance to carry out an RNAV approach to runway 28.</p>",
+    "c": "<p>Globe Air 213 request RNAV approach clearance to runway 28.</p>",
+    "d": "<p>Alicante approach, Globe Air 213 we request an RNAV approach via the initial approach fix to runway 28.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

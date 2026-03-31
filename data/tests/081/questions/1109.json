@@ -1,0 +1,19 @@
+{
+  "number": 1109,
+  "questionId": "081-1109",
+  "questionNumber": "081-1109",
+  "stemHtml": "<p>Refer to figure. <br>Regarding the Buffet Onset Boundary Chart in the annex, and given: </p><p>Aircraft mass: 110 t <br>Bank angle: 45\u00b0 <br>Flight level: FL370</p><p>Which of the following statements are correct or incorrect?</p><p>1. Flying at M = 0.80 is within the buffet free range<br>2. The maximum altitude that can be achieved with respect to buffet onset is higher at M = 0.76 than at M = 0.82</p>",
+  "options": {
+    "a": "<p>1) is incorrect; 2) is correct</p>",
+    "b": "<p>1) is correct; 2) is correct</p>",
+    "c": "<p>1) is correct; 2) is incorrect</p>",
+    "d": "<p>1) is incorrect; 2) is incorrect</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0064",
+      "publicUrl": "/attachments/081/081-att-0064.jpg"
+    }
+  ]
+}

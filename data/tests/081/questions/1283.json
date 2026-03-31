@@ -1,0 +1,14 @@
+{
+  "number": 1283,
+  "questionId": "081-1283",
+  "questionNumber": "081-1283",
+  "stemHtml": "<p>An aircraft accelerates towards the transonic speed region. What happens to C<strong><sub>LMAX</sub></strong> and critical angle of attack?</p>",
+  "options": {
+    "a": "<p>C<sub>LMAX</sub> will decrease and the critical angle of attack will increase.</p>",
+    "b": "<p>C<sub>LMAX</sub> will increase and the critical angle of attack will decrease.</p>",
+    "c": "<p>C<sub>LMAX</sub> will increase and the critical angle of attack will increase.</p>",
+    "d": "<p>C<sub>LMAX</sub> will decrease and the critical angle of attack will decrease.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

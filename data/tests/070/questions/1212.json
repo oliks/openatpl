@@ -1,0 +1,14 @@
+{
+  "number": 1212,
+  "questionId": "070-1212",
+  "questionNumber": "070-1212",
+  "stemHtml": "<p>A person is part of an organisation and wishes to sit on the jumpseat. Is he/she allowed?</p>",
+  "options": {
+    "a": "<p>He/She shall not occupy a jumpseat under any circumstances.</p>",
+    "b": "<p>He/She can because he/she is an employee in the same company.</p>",
+    "c": "<p>He/She can only if permitted by operator procedures.</p>",
+    "d": "He/She can only occupy a jumpseat if the pilot-in-command permits according to operator procedures."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

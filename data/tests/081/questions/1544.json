@@ -1,0 +1,14 @@
+{
+  "number": 1544,
+  "questionId": "081-1544",
+  "questionNumber": "081-1544",
+  "stemHtml": "<p>The V<strong><sub>A</sub></strong> speed of a light aircraft is 147 kt. Determine the aircraft's limit load factor, given the following information from the airspeed indicator.</p>\r\r<p>Green arc: 73 kt - 165 kt <br /> \rWhite arc: 55 kt - 85 kt <br /> \rV<strong><sub>NE</sub></strong>: 185 kt</p>",
+  "options": {
+    "a": "<p>The limit load factor cannot be calculated from this information</p>",
+    "b": "<p>2.5 G</p>",
+    "c": "<p>3.3 G</p>",
+    "d": "<p>4.06 G</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 983,
+  "questionId": "070-0983",
+  "questionNumber": "070-0983",
+  "stemHtml": "<p>There is a hijacker who just got in the flight crew compartment and they destroyed all the radio instruments. What should you do?</p>",
+  "options": {
+    "a": "<p>Ask the cabin crew to restrain the hijacker.</p>",
+    "b": "<p>Do nothing for the safety of passengers.</p>",
+    "c": "<p>Try to contact ATC via CPDLC.</p>",
+    "d": "<p>You should advise via ADS-B.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

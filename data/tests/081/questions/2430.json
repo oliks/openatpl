@@ -1,0 +1,14 @@
+{
+  "number": 2430,
+  "questionId": "081-2430",
+  "questionNumber": "081-2430",
+  "stemHtml": "<p>You are flying with a constant thrust setting in the unstable speed region and encounter a wind shear which changes a headwind into a tailwind. What will happen?</p>",
+  "options": {
+    "a": "Nothing will happen, but should fly carefully from this point and forward",
+    "b": "Airspeed will decrease because the total drag is more",
+    "c": "Airspeed will increases because the total drag is less",
+    "d": "The aeroplane will stall due to insufficient lift"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 227,
+  "questionId": "070-0227",
+  "questionNumber": "070-0227",
+  "stemHtml": "<p>You are the commander of a commercial flight and are informed that an able-bodied person is sitting in an emergency exit row while holding a dog. What is the appropriate course of action to take in this situation?</p>",
+  "options": {
+    "a": "<p>No action is required, as this is allowed according to EASA Air-OPS regulations.</p>",
+    "b": "<p>Place the dog on a different seat away from the emergency exit.    </p>",
+    "c": "<p>The able-bodied person and the dog must be reseated away from the emergency exit.  </p>",
+    "d": "<p>According to EASA Air-OPS, dogs are not allowed in the passenger cabin. The dog must be placed in a box and transported in the hold bay.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

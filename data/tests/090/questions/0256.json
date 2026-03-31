@@ -1,0 +1,14 @@
+{
+  "number": 256,
+  "questionId": "090-0256",
+  "questionNumber": "090-0256",
+  "stemHtml": "<p>What is the correct phraseology for a temporary suspension of transponder operation?</p>",
+  "options": {
+    "a": "<p>Squawk ident</p>",
+    "b": "<p>Squawk standby</p>",
+    "c": "<p>XPDR off</p>",
+    "d": "<p>XPDR standby</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

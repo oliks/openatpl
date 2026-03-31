@@ -1,0 +1,14 @@
+{
+  "number": 98,
+  "questionId": "090-0098",
+  "questionNumber": "090-0098",
+  "stemHtml": "<p>An aircraft with the call sign F-PO is cruising at FL50. The pilot requests a descent to 3000 ft with a QFE of 1005 hPa. The transition altitude of the area is published in the AIP. How should the ATC respond to the pilot's request?</p>",
+  "options": {
+    "a": "<p> \"F-PO is cleared to descend to FL50 to 3000 ft, QFE 1005.\"</p>",
+    "b": "<p>\"F-PO, descend to height 3000 ft QFE 1005.\"</p>",
+    "c": "<p>\"F-PO is cleared to descend from FL50 to 3000 ft, QFE 1005.\"</p>",
+    "d": "<p>\"F-PO, you are cleared to descend from FL50, transition altitude 3000 ft, QFE 1005.\"</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 528,
+  "questionId": "090-0528",
+  "questionNumber": "090-0528",
+  "stemHtml": "<p>Your flight plan has been filed with the call sign \"GOLF ALFA CHARLIE ZULU GOLF\". At 15:15, Air Traffic Control instructed you to \"CHANGE YOUR CALL SIGN TO SKYFALL ZULU GOLF\" with no additional information. When should you change back to using \"GOLF ALFA CHARLIE ZULU GOLF\"?</p>",
+  "options": {
+    "a": "<p>Automatically on passing the next reporting point, or when instructed by ATC to do so.</p>",
+    "b": "<p>When instructed to REVERT TO FLIGHT PLAN CALL SIGN GOLF ALFA CHARLIE ZULU GOLF.</p>",
+    "c": "<p>When instructed by ATC to do so, or automatically at 15:45.</p>",
+    "d": "<p>Automatically on making the next frequency change, or when instructed by ATC to do so.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

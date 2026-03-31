@@ -1,0 +1,14 @@
+{
+  "number": 245,
+  "questionId": "070-0245",
+  "questionNumber": "070-0245",
+  "stemHtml": "<p>For IFR flights, when is it required to select two destination alternate aerodromes?</p>",
+  "options": {
+    "a": "<p>Only for flights longer than 6 hours.</p>",
+    "b": "<p>Only when carrying passengers.</p>",
+    "c": "<p>When the destination weather is below the applicable minima, or when no destination weather is available.</p>",
+    "d": "<p>For all international flights regardless of weather.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

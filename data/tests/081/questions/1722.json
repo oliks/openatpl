@@ -1,0 +1,14 @@
+{
+  "number": 1722,
+  "questionId": "081-1722",
+  "questionNumber": "081-1722",
+  "stemHtml": "<p>Flying to the same destination on two different days, ATC requests a speed of 220 kt in the descent. On day 1, the aircraft is light and has a V<strong><sub>MD</sub></strong> of 203 kt. On day 2, the aircraft is heavier and has a V<strong><sub>MD</sub></strong> of 218 kt. At 220 kt, which aircraft has a longer glide range?</p>",
+  "options": {
+    "a": "<p>The lighter aircraft will have more range because it is further above V<sub>MD</sub>.</p>",
+    "b": "<p>The lighter aircraft will have more range because it needs less lift.</p>",
+    "c": "<p>The heavier aircraft will have a higher AoA and higher lift which reduces the rate of descent.</p>",
+    "d": "<p>The heavier aircraft, as the aircraft descends closer to the speed for best lift/drag ratio, and it will be more difficult to control the speed in the descent. </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

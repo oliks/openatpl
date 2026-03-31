@@ -1,0 +1,14 @@
+{
+  "number": 872,
+  "questionId": "090-0872",
+  "questionNumber": "090-0872",
+  "stemHtml": "ATC transmits the following taxi clearance: \u201cF-GACC, runway 27, wind 220 degrees 10 knots visibility 8 km, QNH 1019, transition level 45, time 06, squawk will be 3636. Taxi to holding point runway 27 via taxiway Bravo, cross runway 22, give way to Airbus crossing left to right\u201d. According to ICAO Doc 4444, what is the correct readback by the pilot of the aircraft?",
+  "options": {
+    "a": "\u201cTaxi to holding point runway 27 via taxiway Bravo, cross runway 22, giving way to Airbus. Squawk 3636, QNH 1019, transition level 45, F-GACC\u201d.",
+    "b": "\u201cTaxi to holding point runway 27, cross runway 22, giving way to Airbus. Squawk 3636, QNH 1019, time 06, F-GACC\u201d.",
+    "c": "\u201cTaxi via taxiway Bravo, cross runway 22, giving way to Airbus. Squawk 3636, QNH 1019, transition level 45, F-GACC\u201d.",
+    "d": "\u201cTaxi to holding point runway 27 via taxiway Bravo. Squawk 3636, QNH 1019, wind 220 degrees 10 knots, transition level 45, time 06, F-GACC\u201d."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

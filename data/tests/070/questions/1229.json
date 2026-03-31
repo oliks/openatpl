@@ -1,0 +1,14 @@
+{
+  "number": 1229,
+  "questionId": "070-1229",
+  "questionNumber": "070-1229",
+  "stemHtml": "<p>Can CAT III approaches be conducted without a radio altimeter?</p>",
+  "options": {
+    "a": "No, a radio altimeter is required for a CAT III approaches.",
+    "b": "Yes, by using GNSS.",
+    "c": "Yes, by using a dual pressure altimeter.",
+    "d": "Yes, by using pressure altitude augmented by GPS."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

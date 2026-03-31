@@ -1,0 +1,14 @@
+{
+  "number": 436,
+  "questionId": "090-0436",
+  "questionNumber": "090-0436",
+  "stemHtml": "Prior to commencing the approach, the pilot of an aircraft says to the Air Traffic Services Unit (ATSU) at the planned destination aerodrome: \"Please, call a taxi for us. We will arrive on schedule at 10:45.\" Can this be considered a Flight Regularity Message?",
+  "options": {
+    "a": "No, because individual requirements of passengers or crew shall NOT be admissible in this type of message.",
+    "b": "Yes, because this is information for a representative of the aircraft`s operating agency and may be relayed by the ATSU.",
+    "c": "No, because this type of message can only be passed once the aircraft is on the ground and passed onto the DELIVERY controller.",
+    "d": "Yes, provided the ATSU has responsibility for ground handling services at the planned destination aerodrome."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

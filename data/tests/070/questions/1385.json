@@ -1,0 +1,19 @@
+{
+  "number": 1385,
+  "questionId": "070-1385",
+  "questionNumber": "070-1385",
+  "stemHtml": "<p>Refer to figure. <br>Given the following information, choose the lowest possible flap setting for landing on a wet runway, in order to avoid dynamic hydroplaning. The landing performance calculation is based on immediate and maximum brake application after main-gear touchdown.</p><p>Landing Mass: 45 000 kg <br>Tyre pressure: 200 psi</p>",
+  "options": {
+    "a": "FLAPS 30.",
+    "b": "FLAPS 40.",
+    "c": "FLAPS 15.",
+    "d": "No flap setting is suitable at this landing mass to avoid the possibility of dynamic hydroplaning."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0005",
+      "publicUrl": "/attachments/070/070-att-0005.jpg"
+    }
+  ]
+}

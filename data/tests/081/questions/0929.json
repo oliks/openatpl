@@ -1,0 +1,14 @@
+{
+  "number": 929,
+  "questionId": "081-0929",
+  "questionNumber": "081-0929",
+  "stemHtml": "<p>While flying a jet transport aeroplane straight and level with the autopilot engaged, the pilot observes decreasing airspeed and several warnings which indicate that the stall is incipient. What is the correct course of action?</p>",
+  "options": {
+    "a": "<p>Treat it like a full stall, and initiate the stall recovery procedure without delay. </p>",
+    "b": "<p>Wait until the stick pusher activates, and then initiate the full stall recovery.</p>",
+    "c": "<p>Leave the autopilot engaged and allow it to recover from the condition.</p>",
+    "d": "<p>Maintain level flight, and initiate the stall recovery only when altitude is lost.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

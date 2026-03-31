@@ -1,0 +1,14 @@
+{
+  "number": 1117,
+  "questionId": "070-1117",
+  "questionNumber": "070-1117",
+  "stemHtml": "<p>An RVR of 550m is required for landing. The current METAR report is: \"RVR Runway 27 400 m, Runway 09 600 m.\" The wind is 260\u00b0/15kt. Can you land on runway 27?</p>",
+  "options": {
+    "a": "<p>Yes, the crosswind component is within limits.\u00a0</p>",
+    "b": "<p>No, RVR is below minima regardless of wind.</p>",
+    "c": "<p>Yes, you can use the higher RVR from runway 09 if within 1 hour.</p>",
+    "d": "<p>No, but you can request a special VFR approach.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

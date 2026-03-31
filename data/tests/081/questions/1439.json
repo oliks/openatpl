@@ -1,0 +1,14 @@
+{
+  "number": 1439,
+  "questionId": "081-1439",
+  "questionNumber": "081-1439",
+  "stemHtml": "<p>Considering the data below, calculate the value of the Coefficient of Lift for an aircraft flying straight and level at the given airspeed.</p><p>Mass: 1100 kg <br>G: 9.8 m/s<strong><sup>2</sup></strong> <br>TAS: 200 kt <br>Density: 1.225 kg/m<strong><sup>3</sup></strong> <br>Wing area: 13.5 m<strong><sup>2</sup></strong></p>",
+  "options": {
+    "a": "<p>0.033</p>",
+    "b": "<p>0.003</p>",
+    "c": "<p>0.013</p>",
+    "d": "<p>0.123</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

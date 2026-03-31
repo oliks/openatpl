@@ -1,0 +1,14 @@
+{
+  "number": 433,
+  "questionId": "090-0433",
+  "questionNumber": "090-0433",
+  "stemHtml": "<p>A pilot is flying VFR in controlled airspace when he/she notices a receiver failure. Which of the following actions must the pilot take?</p><p>1. Squawk 7500<br>2. Transmit reports at the scheduled times or positions<br>3. Precede the transmitted reports with the phrase \u201cTRANSMITTING BLIND DUE TO RECEIVER FAILURE\u201d<br>4. Transmit the reports on the frequency in use<br>5. Duplicate the reports on the emergency frequency 121.5 MHz<br>6. Exit the controlled airspace as soon as practicable</p>",
+  "options": {
+    "a": "<p>1, 2, 3 and 6</p>",
+    "b": "<p>2, 3 and 4</p>",
+    "c": "1 and 6",
+    "d": "<p>2, 3, 4 and 5</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

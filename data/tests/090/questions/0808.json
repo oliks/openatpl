@@ -1,0 +1,14 @@
+{
+  "number": 808,
+  "questionId": "090-0808",
+  "questionNumber": "090-0808",
+  "stemHtml": "<p>You are yet to use the CPDLC during your flight. Before entering the KARLSRUHE UAC FIR, it is required to establish a connection with their CPDLC. What should your action be?</p>",
+  "options": {
+    "a": "<p>Wait for the Logon request and then respond with Logon</p>",
+    "b": "<p>Send a request to Ground Control</p>",
+    "c": "<p>Initiate a CPDLC session without a Logon</p>",
+    "d": "<p>Contact ATC by voice and skip the Logon process</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

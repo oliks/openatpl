@@ -1,0 +1,14 @@
+{
+  "number": 1138,
+  "questionId": "070-1138",
+  "questionNumber": "070-1138",
+  "stemHtml": "<p>A flight is planned from Northern Europe to the Canary islands via the T16 route in the NAT HLA. The aircraft is equipped with two LRNSs (Long Range Navigation Systems) but one LRNS fails prior to entering NAT HLA. Which of the following is correct?</p>",
+  "options": {
+    "a": "<p>If the crew can obtain special approval in time from Shanwick, they may be able to route via T16 as planned.</p>",
+    "b": "<p>The flight can operate as planned as routes T9, T16 and T213 only require one LRNS.</p>",
+    "c": "<p>The aircraft cannot enter NAT HLA to fly route T16, but could re-route using domestic airspace.</p>",
+    "d": "<p>The crew cannot continue the flight as two functioning LRNSs are required in all of NAT HLA.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

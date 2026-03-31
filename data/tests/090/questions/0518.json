@@ -1,0 +1,14 @@
+{
+  "number": 518,
+  "questionId": "090-0518",
+  "questionNumber": "090-0518",
+  "stemHtml": "Which signal should a radiotelephony distress message start with?",
+  "options": {
+    "a": "DISTRESS, DISTRESS, DISTRESS",
+    "b": "MAYDAY, MAYDAY, MAYDAY",
+    "c": "URGENCY, URGENCY, URGENCY",
+    "d": "PAN PAN, PAN PAN, PAN PAN"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

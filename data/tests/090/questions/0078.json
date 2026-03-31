@@ -1,0 +1,14 @@
+{
+  "number": 78,
+  "questionId": "090-0078",
+  "questionNumber": "090-0078",
+  "stemHtml": "<p>The tower provides the following ATC clearance:</p>\r\n\r\n<p>\"JETAIR 136 CLEARED TO BURY, VIA E40 FL280 BOLDEN 3 DELTA DEPARTURE, SQUAWK 5501\"</p>\r\n\r\n<p>What is the correct read back by the pilot?</p>",
+  "options": {
+    "a": "<p>VIA E40 FL280 BOLDEN 3 DELTA DEPARTURE, SQUAWK 5501 JETAIR 136.</p>",
+    "b": "<p>CLEARED TO BURY, VIA ROUTE E40 FL280 BOLDEN 3DELTA STANDARD DEPARTURE JETAIR 136.</p>",
+    "c": "<p>CLEARED TO BURY, VIA E40 FL280 BOLDEN 3 DELTA DEPARTURE, SQUAWK 5501 JETAIR 136.</p>",
+    "d": "<p>CLEARED TO BURY, SQUAWK 5501 JETAIR 136.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

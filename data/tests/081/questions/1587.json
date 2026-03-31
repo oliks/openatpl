@@ -1,0 +1,14 @@
+{
+  "number": 1587,
+  "questionId": "081-1587",
+  "questionNumber": "081-1587",
+  "stemHtml": "<p>Calculate the turn radius for an aircraft with a TAS of 120 kt and a 45\u00b0 bank angle. <br>(Assume g = 10 m/s<strong><sup>2</sup></strong>)</p>",
+  "options": {
+    "a": "<p>220 m</p>",
+    "b": "<p>1440 m</p>",
+    "c": "<p>5429 m</p>",
+    "d": "<p>381 m</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

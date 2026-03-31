@@ -1,0 +1,14 @@
+{
+  "number": 602,
+  "questionId": "090-0602",
+  "questionNumber": "090-0602",
+  "stemHtml": "Which option correctly lists, in descending order of priority, the message categories handled by the aeronautical mobile service?",
+  "options": {
+    "a": "Urgency, Direction finding, Flight safety, Meteorological.",
+    "b": "Urgency, Flight safety, Direction finding, Meteorological.",
+    "c": "<p>Urgency, Flight regularity, Direction finding, Meteorological.</p>",
+    "d": "<p>Urgency, Direction finding, Flight regularity, Meteorological.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

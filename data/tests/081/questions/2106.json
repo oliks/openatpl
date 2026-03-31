@@ -1,0 +1,14 @@
+{
+  "number": 2106,
+  "questionId": "081-2106",
+  "questionNumber": "081-2106",
+  "stemHtml": "An aircraft is descending from FL290 at a constant Mach number close to M<sub>MO</sub>. What must the flight crew do to avoid accidentally exceeding V<sub>MO</sub>?",
+  "options": {
+    "a": "At the changeover altitude the flight crew must stop flying at a Mach number and fly at an increased IAS.",
+    "b": "At the transition level the flight crew must stop flying at a Mach number and fly at a constant IAS.",
+    "c": "At the transition level the flight crew must stop flying at a Mach number and fly at an increased IAS.",
+    "d": "At the changeover altitude the flight crew must stop flying at a Mach number and fly at a constant IAS."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

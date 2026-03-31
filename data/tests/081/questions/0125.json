@@ -1,0 +1,14 @@
+{
+  "number": 125,
+  "questionId": "081-0125",
+  "questionNumber": "081-0125",
+  "stemHtml": "<p>You are flying above V<strong><sub>NO</sub></strong> for a short period of time (no longer than 2 minutes), but remain below V<strong><sub>NE</sub></strong>. Is this acceptable?</p>",
+  "options": {
+    "a": "<p>Yes, when exercising caution and flying in smooth air conditions.</p>",
+    "b": "<p>No, as structural damage can occur even in smooth air.</p>",
+    "c": "<p>Yes, but only when remaining within the green arc.</p>",
+    "d": "<p>Yes, when making normal manoeuvres, and only in moderate turbulence.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

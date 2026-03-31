@@ -1,0 +1,14 @@
+{
+  "number": 214,
+  "questionId": "070-0214",
+  "questionNumber": "070-0214",
+  "stemHtml": "<p>During a flight at FL380, an aeroplane suffers a malfunction which leads to the failure of all autopilots. The flight crew are unable to restore them. What actions must the crew perform, if any?</p>",
+  "options": {
+    "a": "<p>ATC must be advised that the aircraft is no longer in compliance with flight in RVSM airspace and the flight crew should expect to be instructed to descend to below FL290.</p>",
+    "b": "The flight crew should divert to the nearest suitable airport where a safe landing can be made due to the excessive workload required by manual flight.",
+    "c": "The flight crew must declare a MAYDAY as the aeroplane will suffer from reduced manoeuvrability and navigation ability due to the failure of all autopilots.",
+    "d": "No action is required as the controllability of the aeroplane is unaffected, although pilot workload is increased significantly."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

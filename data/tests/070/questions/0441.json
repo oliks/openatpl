@@ -1,0 +1,14 @@
+{
+  "number": 441,
+  "questionId": "070-0441",
+  "questionNumber": "070-0441",
+  "stemHtml": "<p>A light aircraft pilot is approaching an aerodrome with the intention to land. ATC gives this pilot the choice of the landing runway and advises that the necessary separation will be provided. Given the following wind and traffic information per runway, which runway should the pilot choose to mitigate the effects of wake turbulence?</p>\r\r<p>For runway 33R, the wind is northerly at 10 knots and the landing is behind a helicopter <br /> \rFor runway 33L, the wind is northerly at 10 knots the landing is behind a light, fixed-wing aircraft <br /> \rFor runway 21, the wind is variable at 3 knots and the landing is behind a B777 <br /> \rFor runway 03, the wind is calm and the landing is behind an A318</p>",
+  "options": {
+    "a": "<p>Runway 33R</p>",
+    "b": "<p>Runway 33L</p>",
+    "c": "<p>Runway 03</p>",
+    "d": "<p>Runway 21</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 6,
+  "questionId": "081-0006",
+  "questionNumber": "081-0006",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhat is the angle represented in the attached figure?</p>",
+  "options": {
+    "a": "<p>Sideslip angle</p>",
+    "b": "<p>Angle of attack</p>",
+    "c": "<p>Bank angle</p>",
+    "d": "<p>Helix angle</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0001",
+      "publicUrl": "/attachments/081/081-att-0001.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1019,
+  "questionId": "090-1019",
+  "questionNumber": "090-1019",
+  "stemHtml": "The route forecast included the chance of isolated thunderstorms. While flying in nimbostratus cloud, the pilot sees a flash of lightning. What communication, if any, should the pilot make to Air Traffic Services?",
+  "options": {
+    "a": "A PAN call on the frequency in use because the pilot`s message is urgent.",
+    "b": "The pilot should include the information in the next position report, which is due in 15 minutes.",
+    "c": "<p>A special observation report because the pilot has encountered an embedded thunderstorm, and the standard report can be omitted.</p>",
+    "d": "The observation report can be omitted because thunderstorms were forecast."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

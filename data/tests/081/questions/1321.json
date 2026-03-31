@@ -1,0 +1,14 @@
+{
+  "number": 1321,
+  "questionId": "081-1321",
+  "questionNumber": "081-1321",
+  "stemHtml": "Which of the following statements is correct in the event of computer failure on a fly-by-wire (FBW) aircraft?",
+  "options": {
+    "a": "Some form of back-up mode is required in the event of total computer failure.",
+    "b": "In \u201cDirect Law\u201d, mechanical linkage to all control surfaces remains available.",
+    "c": "Control of the aircraft is lost if the computer system fails completely.",
+    "d": "Any form of computer failure will affect the aircraft handling."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

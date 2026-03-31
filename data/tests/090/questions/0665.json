@@ -1,0 +1,14 @@
+{
+  "number": 665,
+  "questionId": "090-0665",
+  "questionNumber": "090-0665",
+  "stemHtml": "<div>Complete the definition of an instrument approach procedure: Instrument approach procedure means a series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the...</div>\r\n\r\n<div> </div>",
+  "options": {
+    "a": "<div>end of a defined departure route to a point from which a landing can be completed.</div>",
+    "b": "<div>beginning of a defined arrival route to a point from which a landing can be completed.</div>",
+    "c": "<div>beginning of a defined arrival route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en-route obstacle clearance criteria apply.</div>",
+    "d": "<p>end of a defined departure route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en-route obstacle clearance criteria apply.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

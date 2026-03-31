@@ -1,0 +1,14 @@
+{
+  "number": 56,
+  "questionId": "070-0056",
+  "questionNumber": "070-0056",
+  "stemHtml": "<p>A flight crew has been on standby duty for 4 hours at an airport. This standby will count as _____ of duty time.</p>",
+  "options": {
+    "a": "<p>None, (as airport standby does not count as duty time).</p>",
+    "b": "<p>2 hours (as airport standby counts as 50% duty time).</p>",
+    "c": "<p>4 hours, (as airport standby counts in full as duty time).</p>",
+    "d": "<p>6 hours, (as airport standby counts as 150% duty time).</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

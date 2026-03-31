@@ -1,0 +1,19 @@
+{
+  "number": 255,
+  "questionId": "070-0255",
+  "questionNumber": "070-0255",
+  "stemHtml": "<p>Refer to figure.<br />Which class of dangerous goods is represented by this label?\u00a0</p>",
+  "options": {
+    "a": "<p>Gas</p>",
+    "b": "<p>Oxidisers and peroxides</p>",
+    "c": "<p>Flammable solids</p>",
+    "d": "<p>Flammable liquids</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0040",
+      "publicUrl": "/attachments/070/070-att-0040.jpg"
+    }
+  ]
+}

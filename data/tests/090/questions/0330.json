@@ -1,0 +1,14 @@
+{
+  "number": 330,
+  "questionId": "090-0330",
+  "questionNumber": "090-0330",
+  "stemHtml": "<p>To avoid maintaining a listening watch when using HF radio frequencies a selective calling system (SELCAL) is used. The SELCAL code letters for Globe Air 621 are 'ALBM'. What is the correct phraseology for requesting a SELCAL check?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Gander radio, Globe Air 621, request to confirm the correct tone.</p>",
+    "b": "<p dir=\"ltr\">Globe Air 621 request SELCAL check from Gander radio, ALBM.</p>",
+    "c": "<p>Gander radio, Globe Air 621 request SELCAL check.</p>",
+    "d": "<p dir=\"ltr\">Globe Air 621 on 8891, request SELCAL check ALBM.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

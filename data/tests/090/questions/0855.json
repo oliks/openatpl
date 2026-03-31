@@ -1,0 +1,14 @@
+{
+  "number": 855,
+  "questionId": "090-0855",
+  "questionNumber": "090-0855",
+  "stemHtml": "<p>During a student's early solo navigation mission to destination Freetown, they have a list of frequencies written down to assist with communications, including the FREETOWN TOWER frequency:</p><p>TOWER: \"126.305\" (\"2\" looks like a \"1\")<br>GROUND: \"135.7\"<br>VOR: \"116.350\"</p><p>However, the student encounters difficulty interpreting their handwriting. Unsure about the correct frequency, the student tunes to \"116.305\". Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>This is the FRT VOR frequency and the pilot will hear the morse code for the VOR.</p>\r\n",
+    "b": "<p>The frequency is correct, the pilot will hear the TOWER.</p>\r\n",
+    "c": "<p>This is not possible, because it is a VOR frequency.</p>",
+    "d": "<p>The radio will automatically correct the frequency.</p>\r\n"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

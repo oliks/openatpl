@@ -1,0 +1,14 @@
+{
+  "number": 52,
+  "questionId": "081-0052",
+  "questionNumber": "081-0052",
+  "stemHtml": "<p>A pilot is performing a flight in a twin engine aeroplane with mechanical flight controls. The aeroplane makes one flight at its MTOM of 1990 kg with a CG near the aft limit. On the following flight, the pilot is the only occupant on board, and the aeroplane is approximately 400 kg lighter and the CG has moved towards the forward limit. How will this change the feel of the aircraft as experienced by the pilot?</p>",
+  "options": {
+    "a": "<p>There is NO change to the feel since the CG remains within its limitations and mass has NO effect on the stick force per g.</p>",
+    "b": "There is NO change to the feel since the increased stick force per g, caused by the lighter mass, is offset by the forward CG.",
+    "c": "The stick force per g is reduced since the aeroplane is lighter, but the forward CG makes this reduction less noticeable to the pilot.",
+    "d": "The stick force per g is increased since the lighter aeroplane and forward CG both reduce the manoeuvrability of the aeroplane."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

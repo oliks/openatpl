@@ -1,0 +1,14 @@
+{
+  "number": 386,
+  "questionId": "081-0386",
+  "questionNumber": "081-0386",
+  "stemHtml": "<p>Complete the following statement:</p>\r\n\r\n<p>Consider a wing with geometric positive dihedral in a sideslip. The dihedral (1) _____ contributes to static lateral stability, because the wing (2) _____ the wind is subject to an increase in angle of attack causing an increase in lift.</p>",
+  "options": {
+    "a": "<p>(1) positively; (2) away from</p>",
+    "b": "(1) negatively; (2) away from",
+    "c": "(1) positively; (2) into",
+    "d": "(1) negatively; (2) into"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

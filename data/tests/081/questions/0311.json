@@ -1,0 +1,14 @@
+{
+  "number": 311,
+  "questionId": "081-0311",
+  "questionNumber": "081-0311",
+  "stemHtml": "<p>Which of the following occur for a wing in the clean configuration when trailing edge flaps are extended?</p><p>1. C<strong><sub>LMAX</sub></strong> increases <br>2. C<strong><sub>L</sub></strong>/C<strong><sub>D</sub></strong><sub> </sub>increases <br>3. Camber increases <br>4. Critical angle of attack decreases</p>",
+  "options": {
+    "a": "<p>1, 2</p>",
+    "b": "<p>2, 4</p>",
+    "c": "<p>1, 2, 4</p>",
+    "d": "<p>1, 3, 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

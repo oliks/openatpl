@@ -1,0 +1,14 @@
+{
+  "number": 472,
+  "questionId": "090-0472",
+  "questionNumber": "090-0472",
+  "stemHtml": "The Commander of an aircraft is requested to contact the Tower of an airport in Bern. Choose the correct call sign for the station.",
+  "options": {
+    "a": "<p>\"Tower Bern\" or \"Bern Tower\" as the call sign is composed of the area of responsibility and the geographical location, in any sequence. </p>",
+    "b": "<p>\"Bern\" or, if there are other stations nearby, \"Bern-(something)\", as the call sign is composed of the name of the location and an optional suffix.</p>",
+    "c": "<p>\"Bern Tower\" as the call sign is composed of the name of the location followed by a suffix indicating the type of service being provided.</p>",
+    "d": "<p>As there is NO binding standard on call signs for ground stations, the Commander should NOT guess and consult the flight documentation. </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

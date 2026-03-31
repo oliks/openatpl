@@ -1,0 +1,14 @@
+{
+  "number": 264,
+  "questionId": "090-0264",
+  "questionNumber": "090-0264",
+  "stemHtml": "<p>During flight, you want to confirm your position and so request a magnetic bearing from the station. Which of the following is true if you plot a line on a chart WITHOUT correcting for variation?</p>",
+  "options": {
+    "a": "<p>You have requested QDR and plot a line on a chart WITHOUT correcting for variation.</p>",
+    "b": "<p>You have requested QDM and plot a line on a chart WITHOUT correcting for variation.</p>",
+    "c": "<p>You have requested QDR and plot a line on a chart corrected for variation.</p>",
+    "d": "<p>You have requested QDM and plot a line on a chart corrected for variation.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

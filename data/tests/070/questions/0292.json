@@ -1,0 +1,23 @@
+{
+  "number": 292,
+  "questionId": "070-0292",
+  "questionNumber": "070-0292",
+  "stemHtml": "<p>Refer to figures. <br /> \rGiven:</p>\r\r<p>Flight in a twin-engine aircraft from PARIS to WASHINGTON ETOPS authorisation: 105 minutes at 420 kt</p>\r\r<p>TRACK A: Flight time 08 h 03 <br /> \rTRACK B: Flight time 08 h 10 <br /> \rTRACK C: Flight time 08 h 15 <br /> \rTRACK D: Flight time 08 h 20</p>\r\r<p>Only three alternates are available: SHANNON, SANTA MARIA, ST JOHN TORBAY.</p>\r\r<p>The track to be chosen will be\u2026</p>\r\r<p> </p>",
+  "options": {
+    "a": "<p>Track B.</p>",
+    "b": "<p>Track A.</p>",
+    "c": "<p>Track C.</p>",
+    "d": "<p>Track D.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0007",
+      "publicUrl": "/attachments/070/070-att-0007.jpg"
+    },
+    {
+      "uniqueKey": "070-att-0039",
+      "publicUrl": "/attachments/070/070-att-0039.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 50,
+  "questionId": "090-0050",
+  "questionNumber": "090-0050",
+  "stemHtml": "What does the term \"blind transmission\" mean?",
+  "options": {
+    "a": "A transmission of information relating to air navigation that is not addressed to a specific station or stations.",
+    "b": "A transmission where no reply is required from the receiving station.",
+    "c": "A transmission from one station to another station in circumstances where two-way communication cannot be established but it is believed that the called station is able to receive the transmission.",
+    "d": "A transmission of messages relating to en-route weather information which may affect the safety of aircraft operations that is not addressed to a specific station or stations."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

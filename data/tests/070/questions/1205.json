@@ -1,0 +1,14 @@
+{
+  "number": 1205,
+  "questionId": "070-1205",
+  "questionNumber": "070-1205",
+  "stemHtml": "<p>While flying in North Atlantic High Level Airspace (HLA), which of the following could result in a navigation error?</p>",
+  "options": {
+    "a": "<p>Flying using only conventional navigation aids instead of Long-Range Navigation Systems (LRNS).</p>",
+    "b": "<p>Receiving a clearance that deviates from the original route or flight level.</p>",
+    "c": "<p>Failing to cross-check position reports with ADS-C or CPDLC.</p>",
+    "d": "<p>Failing to report passing oceanic waypoints on VHF.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

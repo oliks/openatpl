@@ -1,0 +1,19 @@
+{
+  "number": 559,
+  "questionId": "081-0559",
+  "questionNumber": "081-0559",
+  "stemHtml": "<p>Refer to figure. <br /> \rTwo identical aircraft are flying at the same Mach number. Which of the following statements is true with regard to M<strong><sub>CRIT</sub></strong>?</p>",
+  "options": {
+    "a": "<p>Aircraft 1 has a higher M<sub>CRIT </sub>due to higher mass or higher altitude.</p>",
+    "b": "<p>Aircraft 2 has a higher M<sub>CRIT </sub>due to higher mass or higher altitude.</p>",
+    "c": "<p>Aircraft 1 and Aircraft 2 have the same M<sub>CRIT</sub>.</p>",
+    "d": "<p>Aircraft 1 has a higher M<sub>CRIT</sub> due to lower mass or lower altitude.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0004",
+      "publicUrl": "/attachments/081/081-att-0004.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 254,
+  "questionId": "070-0254",
+  "questionNumber": "070-0254",
+  "stemHtml": "<p>In pre-flight preparations, it becomes evident that the altitude alerting system on the aircraft is inoperative. No engineering support is available at the airport. As a consequence of this failure, which operational restrictions are now applicable?</p>",
+  "options": {
+    "a": "<p>GPS altitude must be available as a back-up to the barometric altimeters.</p>",
+    "b": "<p>The flight must be conducted outside of RVSM airspace.</p>",
+    "c": "<p>The aeroplane is grounded.</p>",
+    "d": "<p>The aeroplane is unable to perform an autoland.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

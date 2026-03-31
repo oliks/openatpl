@@ -1,0 +1,14 @@
+{
+  "number": 2449,
+  "questionId": "081-2449",
+  "questionNumber": "081-2449",
+  "stemHtml": "<p>Consider the streamline pattern around an aeroplane. Which of the following options is correct with regards to the general appearance of the streamlines?</p>",
+  "options": {
+    "a": "<p>The streamlines typically follow the direction of the lateral axis of the aeroplane and remain attached along the entire length of the aeroplane.</p>",
+    "b": "<p>The streamlines typically follow the contours of the fuselage, but they will have a slight spanwise flow producing a lift-like force.</p>",
+    "c": "<p>Around the entire aft section of the fuselage, the streamlines typically follow the corkscrew pattern of the wing tip vortices.</p>",
+    "d": "<p>Across the entire wingspan of the main wings, the streamlines typically follow the corkscrew pattern of the wing tip vortices.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

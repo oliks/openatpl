@@ -1,0 +1,14 @@
+{
+  "number": 985,
+  "questionId": "081-0985",
+  "questionNumber": "081-0985",
+  "stemHtml": "<p>Given the following characteristic points on a jet engine aeroplane\u2019s polar curve:</p>\r\r<p>1 - C<sub>L</sub><strong><sub>MAX</sub></strong> <br /> \r2 - long range cruise (zero wind) <br /> \r3 - maximum lift to drag ratio <br /> \r4 - minimum rate of descent (assume zero thrust) <br /> \r5 - maximum range cruise (zero wind)</p>\r\r<p>Arrange these points in order of increasing angle of attack:</p>",
+  "options": {
+    "a": "<div>3, 2, 5, 1, 4.</div>",
+    "b": "<div>1, 2, 4, 3, 5.</div>",
+    "c": "<div>2, 5, 3, 4, 1.</div>",
+    "d": "<p>4, 5, 2, 3, 1.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

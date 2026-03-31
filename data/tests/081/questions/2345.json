@@ -1,0 +1,14 @@
+{
+  "number": 2345,
+  "questionId": "081-2345",
+  "questionNumber": "081-2345",
+  "stemHtml": "<p>Consider an aircraft flying in unaccelerated level flight in the speed stable region. What would be the result on Indicated Airspeed (IAS) and drag following a sudden decrease in aircraft speed with no change in thrust available?</p>",
+  "options": {
+    "a": "<p>IAS would further decrease due to the increased drag.</p>",
+    "b": "<p>IAS would increase due to the increased drag.</p>",
+    "c": "<p>IAS would increase due to the decreased drag.</p>",
+    "d": "<p>IAS would further decrease due to the decreased drag.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

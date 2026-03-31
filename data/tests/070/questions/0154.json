@@ -1,0 +1,14 @@
+{
+  "number": 154,
+  "questionId": "070-0154",
+  "questionNumber": "070-0154",
+  "stemHtml": "The same aircraft has been flown by the same crew all day. After visiting the operations offices, they head to the plane for the day's final flight. The flight is being used to transport humanitarian aid in the passenger cabin. The security search of the aircraft...",
+  "options": {
+    "a": "<p>can be omitted, as the crew have already conducted similar searches of this aircraft for previous flights. </p>",
+    "b": "should be carried out, but as NO passengers will be on board, it may be completed prior to arrival at the destination.",
+    "c": "<p>should be carried out prior to departure, in order to detect prohibited articles that could jeopardise its security.</p>",
+    "d": "can be omitted, as NO passengers will be on board and therefore passenger safety is NOT relevant for this flight."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

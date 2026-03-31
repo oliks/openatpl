@@ -1,0 +1,14 @@
+{
+  "number": 1033,
+  "questionId": "090-1033",
+  "questionNumber": "090-1033",
+  "stemHtml": "The controller says: \"GlobeAir 123, when passing GLESK, contact Aberdeen approach on 126.475\". What will be the readback?",
+  "options": {
+    "a": "<p>\u201cAt Glesk, contact Aberdeen approach on 126.475, GlobeAir 123\u201d</p>",
+    "b": "<p>\"Wilco, GlobeAir 123\"</p>",
+    "c": "<p>\"Contact 126.475, GlobeAir 123\"</p>",
+    "d": "<p>\"When at GLESK, contact Aberdeen Approach, GlobeAir 123\"</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

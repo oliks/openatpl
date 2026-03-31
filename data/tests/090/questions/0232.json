@@ -1,0 +1,14 @@
+{
+  "number": 232,
+  "questionId": "090-0232",
+  "questionNumber": "090-0232",
+  "stemHtml": "<p>Complete the following statement:</p>\r\n\r\n<p>An Air Traffic Control Unit\u2026</p>",
+  "options": {
+    "a": "<p>May require to change the call sign for safety reasons when there is a risk of confusion between two or more similar call signs providing the aircraft is on a repetitive flight plan.</p>",
+    "b": "May instruct an aircraft to temporarily change its call sign for safety reasons when there is a risk of confusion between two or more similar call signs.",
+    "c": "May not ask an aircraft to change its call sign after accepting the flight plan.",
+    "d": "Must not ask an aircraft to change its call sign."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

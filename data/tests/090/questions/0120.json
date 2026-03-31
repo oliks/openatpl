@@ -1,0 +1,14 @@
+{
+  "number": 120,
+  "questionId": "090-0120",
+  "questionNumber": "090-0120",
+  "stemHtml": "<p>During the cruise, in the mid Atlantic, you want to get a weather update. Considering line-of-sight limitations, which frequencies should you use?</p><p>1. 3000 kHz <br>2. 10 000 kHz <br>3. 123.450 MHz (within the 118-136 MHz VHF range) <br>4. 126.900 MHz (within the 118-136 MHz VHF range)</p>",
+  "options": {
+    "a": "<p>1 and 2</p>",
+    "b": "<p>1 and 3</p>",
+    "c": "<p>3 and 4</p>",
+    "d": "<p>2 and 4</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

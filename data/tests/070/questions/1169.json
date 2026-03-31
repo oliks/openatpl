@@ -1,0 +1,19 @@
+{
+  "number": 1169,
+  "questionId": "070-1169",
+  "questionNumber": "070-1169",
+  "stemHtml": "Refer to figure. <br /> During preparation for your flight, you find that your AUTOPILOT doesn't work. Following your OM, you decide to consult the MEL for your aircraft in section 22-01A. Can you carry out a CAT II instrument approach, within the requirements of the MEL?",
+  "options": {
+    "a": "No, because at least one autopilot is required to carry out this type of approach.",
+    "b": "Yes, this procedure doesn't need an autopilot to carry out this type of approach.",
+    "c": "No, two autopilots are required to be functioning.",
+    "d": "Yes, CAT II approaches can be flown manually."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0002",
+      "publicUrl": "/attachments/070/070-att-0002.png"
+    }
+  ]
+}

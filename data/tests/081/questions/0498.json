@@ -1,0 +1,14 @@
+{
+  "number": 498,
+  "questionId": "081-0498",
+  "questionNumber": "081-0498",
+  "stemHtml": "<p>A flight instructor is demonstrating stall and stall recovery during a lesson. As a part of the exercise, the instructor demonstrates the use of excessive pitch-down stick input during the initial portion of the recovery. Recovering from the dive, the pilot applies excessive back force on the stick, which forces the aeroplane to enter a secondary (accelerated) stall. Considering the aeroplane limitations given below, what speed range should the aeroplane be operated in order to safely carry out this demonstration?</p><p>V<strong><sub>S</sub>:</strong> 45 kt <br>V<strong><sub>A</sub>:</strong> 100 kt <br>V<strong><sub>NO</sub>:</strong> 125 kt <br>V<strong><sub>NE</sub>:</strong> 160 kt.</p>",
+  "options": {
+    "a": "<p>45 kt to 100 kt.</p>",
+    "b": "<p>100 kt to 125 kt.</p>",
+    "c": "<p>45 kt to 125 kt.</p>",
+    "d": "<p>100 kt to 160 kt.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

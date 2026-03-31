@@ -1,0 +1,14 @@
+{
+  "number": 18,
+  "questionId": "081-0018",
+  "questionNumber": "081-0018",
+  "stemHtml": "<p>For a given CG position, the aeroplane has an M<strong><sub>CRIT</sub></strong> of Mach 0.82. With an aft movement of the CG, the M<sub><strong>CRIT</strong></sub> would (1) _____, as the local air velocity on the top surface of the wing would (2) _____, due to the (3) _____ angle of attack required to maintain level flight.</p>",
+  "options": {
+    "a": "<p>(1) decrease; (2) decrease; (3) increased.</p>",
+    "b": "<p>(1) decrease; (2) increase; (3) increased.</p>",
+    "c": "<p>(1) increase; (2) increase; (3) decreased.</p>",
+    "d": "<p>(1) increase; (2) decrease; (3) decreased.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

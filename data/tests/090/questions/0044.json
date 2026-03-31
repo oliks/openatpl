@@ -1,0 +1,14 @@
+{
+  "number": 44,
+  "questionId": "090-0044",
+  "questionNumber": "090-0044",
+  "stemHtml": "<p>You are the Pilot-In-Command of a Commercial Air Transport flight operated by European Airlines. The aircraft type is an Airbus A340 with the Austrian registration mark OE-ABC. The flight number is 665 and the telephony designator of the Operator is pronounced as \u2018\u2019E-line\u2019\u2019.</p>\r\n\r\n<p>Which of the following is a correct initial full call sign for your flight?</p>",
+  "options": {
+    "a": "<p>European Airlines D-AIGF Heavy</p>",
+    "b": "<p>European 665</p>",
+    "c": "<p>747 Jumbo OBC Heavy</p>",
+    "d": "<p>E-line 665 Heavy</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

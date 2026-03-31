@@ -1,0 +1,14 @@
+{
+  "number": 577,
+  "questionId": "070-0577",
+  "questionNumber": "070-0577",
+  "stemHtml": "<p>Which of the statements below are correct regarding the effects of wind shear on take-off reference speeds?</p>\r\r<p>1. The take-off should be rejected if unacceptable airspeed variations occur below V1 <br /> \r2. The take-off should be continued after V1 has been reached regardless of wind shear conditions <br /> \r3. Wind shear does NOT affect the take-off decision speed <br /> \r4. In severe wind shear encounters, under NO circumstances should a rotation be started before VR is reached (for most transport category aircraft types)</p>",
+  "options": {
+    "a": "<p>1 and 2 only.</p>",
+    "b": "<p>1, 2 and 3.</p>",
+    "c": "<p>1, 3 and 4.</p>",
+    "d": "<p>2 and 4.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

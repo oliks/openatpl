@@ -1,0 +1,19 @@
+{
+  "number": 123,
+  "questionId": "081-0123",
+  "questionNumber": "081-0123",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhat does the part marked 'a' represent?</p>",
+  "options": {
+    "a": "<p>V<sub>S1G</sub></p>",
+    "b": "<p>V<sub>A</sub></p>",
+    "c": "<p>V<sub>MO</sub></p>",
+    "d": "<p>V<sub>C</sub></p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0005",
+      "publicUrl": "/attachments/081/081-att-0005.jpg"
+    }
+  ]
+}

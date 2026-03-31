@@ -1,0 +1,14 @@
+{
+  "number": 448,
+  "questionId": "081-0448",
+  "questionNumber": "081-0448",
+  "stemHtml": "In the context of CS-23 certification for aircraft, what is the design manoeuvring speed (V<sub>A</sub>)?",
+  "options": {
+    "a": "<p>V<sub>A</sub> represents the maximum landing speed for the aircraft.</p>",
+    "b": "V<sub>A</sub> is the maximum speed for normal cruise flight.",
+    "c": "<p>V<sub>A</sub> represents the stall speed with full flaps.</p>\r\n\r\n<p> </p>",
+    "d": "V<sub>A</sub> is the maximum speed at which the aircraft can safely manoeuvre in response to gusts without exceeding its structural limits."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

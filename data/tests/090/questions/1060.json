@@ -1,0 +1,14 @@
+{
+  "number": 1060,
+  "questionId": "090-1060",
+  "questionNumber": "090-1060",
+  "stemHtml": "<p>There is a landing aircraft at 3 NM final while you are crossing the active runway. What would be the correct transmission if ATC needed you to move faster and then report once clear of the runway?</p><p>(1) _____ taxi, and report the runway (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) Expedite, (2) when leaving</p>",
+    "b": "<p>(1) Speed up, (2) vacated</p>",
+    "c": "<p>(1) Hurry, (2) exited</p>",
+    "d": "<p>(1) Expedite, (2) vacated</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

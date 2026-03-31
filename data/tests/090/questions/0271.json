@@ -1,0 +1,14 @@
+{
+  "number": 271,
+  "questionId": "090-0271",
+  "questionNumber": "090-0271",
+  "stemHtml": "<p>The following messages have been transmitted:</p><p>\"MADRID _____, D-EXAM READY FOR DEPARTURE\" <br>\"D-EXAM, RUNWAY 12R CLEARED FOR TAKE-OFF\"</p><p>Which station has the pilot been in contact with?</p>",
+  "options": {
+    "a": "<p>Ground</p>",
+    "b": "<p>Departure</p>",
+    "c": "<p>Tower</p>",
+    "d": "<p>Approach</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

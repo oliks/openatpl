@@ -1,0 +1,14 @@
+{
+  "number": 435,
+  "questionId": "081-0435",
+  "questionNumber": "081-0435",
+  "stemHtml": "<p>Given a constant load factor, which of these statements about the variation of induced drag with changes of speed and mass are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. When speed increases, induced drag decreases.</span> <br /> \n2. When mass increases, induced drag increases.</p>",
+  "options": {
+    "a": "1 is incorrect, 2 is correct.",
+    "b": "1 is correct, 2 is incorrect.",
+    "c": "1 is incorrect, 2 is incorrect.",
+    "d": "1 is correct, 2 is correct."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

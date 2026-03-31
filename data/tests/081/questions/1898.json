@@ -1,0 +1,19 @@
+{
+  "number": 1898,
+  "questionId": "081-1898",
+  "questionNumber": "081-1898",
+  "stemHtml": "<p>Refer to figure.  <br />  Given the wing planform represented in the diagram and the following dimensions: Span 12.5 m Root chord 1.5 m Tip chord 1.0 m. The correct values of wing area and taper ratio or aspect ratio are:</p>",
+  "options": {
+    "a": "Wing area: 18.75 m<sup>2</sup> Aspect ratio: 10",
+    "b": "Wing area: 15.625 m<sup>2</sup> Aspect ratio: 12.5",
+    "c": "Wing area: 18.75 m<sup>2</sup> Taper ratio: 1.5",
+    "d": "Wing area: 15.625 m<sup>2</sup> Taper ratio: 0.666"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0172",
+      "publicUrl": "/attachments/081/081-att-0172.jpg"
+    }
+  ]
+}

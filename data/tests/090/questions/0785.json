@@ -1,0 +1,14 @@
+{
+  "number": 785,
+  "questionId": "090-0785",
+  "questionNumber": "090-0785",
+  "stemHtml": "<p>You are flying Aircraft A when suddenly you hear a transmission from Aircraft B. Soon afterwards, you hear what sounds like an internal conversation between the commander and co-pilot of Aircraft B on the frequency. What has most likely caused this situation?</p>",
+  "options": {
+    "a": "<p>Transmitter malfunction on Aircraft A</p>",
+    "b": "<p>Receiver malfunction on Aircraft A</p>",
+    "c": "<p>A stuck microphone (PTT) on Aircraft B blocking the frequency</p>",
+    "d": "<p>Incorrect frequency selection on Aircraft A</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

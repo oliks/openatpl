@@ -1,0 +1,14 @@
+{
+  "number": 616,
+  "questionId": "090-0616",
+  "questionNumber": "090-0616",
+  "stemHtml": "You are tuning in a new frequency as assigned by ATC. After making multiple calls there is no reply and you notice the frequency is silent. What should you do next?",
+  "options": {
+    "a": "Declare a state of Urgency.",
+    "b": "Attempt to contact other traffic on the current frequency.",
+    "c": "Attempt to establish contact on the previous frequency.",
+    "d": "Transmit on the international guard frequency."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 447,
+  "questionId": "081-0447",
+  "questionNumber": "081-0447",
+  "stemHtml": "<p>The correct drag formula is:  <br />  <em>(note: RHO = density)</em></p>",
+  "options": {
+    "a": "DRAG = CD \u00d7 \u00bd (1 / RHO) \u00d7 V<sup>2</sup> \u00d7 S",
+    "b": "DRAG = CD \u00d7 \u00bd RHO \u00d7 V \u00d7 S",
+    "c": "DRAG = CD \u00d7 2 \u00d7 RHO \u00d7 V<sup>2</sup> \u00d7 S",
+    "d": "DRAG = CD \u00d7 \u00bd RHO \u00d7 V<sup>2</sup> \u00d7 S"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

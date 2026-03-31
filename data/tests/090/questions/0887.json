@@ -1,0 +1,14 @@
+{
+  "number": 887,
+  "questionId": "090-0887",
+  "questionNumber": "090-0887",
+  "stemHtml": "<p>The controller has changed your call sign from ABC 123 to ABC 999. Which statement is correct regarding reverting back to your original call sign?</p><p> </p>",
+  "options": {
+    "a": "<p>The change is temporary and used in the current airspace, you should expect to revert to your flight plan call sign at the boundary of airspace.</p>",
+    "b": "<p>You should revert back automatically at the boundary of airspace.</p>",
+    "c": "<p>It is a temporary change for 20 minutes.</p>",
+    "d": "<p>It is a permanent change and will not be reverted to the flight plan call sign until landing.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

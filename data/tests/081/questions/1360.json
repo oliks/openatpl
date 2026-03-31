@@ -1,0 +1,14 @@
+{
+  "number": 1360,
+  "questionId": "081-1360",
+  "questionNumber": "081-1360",
+  "stemHtml": "<p>When you perform a manoeuvre with a load factor of greater than 1, what effect does this have on the stall speed and what effect does it have on the C<strong><sub>LMAX</sub></strong>?</p>",
+  "options": {
+    "a": "<p>The stall speed increases, the C<sub>LMAX </sub>stays the same.</p>",
+    "b": "<p>The stall speed decrease, the C<sub>LMAX </sub>increases.</p>",
+    "c": "<p>The stall speed increase, the C<sub>LMAX</sub> decreases.</p>",
+    "d": "<p>Both stay the same.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

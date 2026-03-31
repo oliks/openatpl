@@ -1,0 +1,14 @@
+{
+  "number": 1193,
+  "questionId": "070-1193",
+  "questionNumber": "070-1193",
+  "stemHtml": "<p>A flight is to depart from an airport with runways 09 and 27. Surface wind is 270/05. An inversion is reported at 300 feet with turbulence and wind shear. The wind just above the inversion is 090/30. What is the safest departure procedure?</p>",
+  "options": {
+    "a": "<p>Take-off is not possible under these conditions.</p>",
+    "b": "<p>Depart runway 27 with maximum rate of climb possible.</p>",
+    "c": "<p>Depart runway 09 with tailwind.</p>",
+    "d": "<p>Depart runway 27 with maximum throttle during the passage through the inversion.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

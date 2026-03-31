@@ -1,0 +1,14 @@
+{
+  "number": 1173,
+  "questionId": "070-1173",
+  "questionNumber": "070-1173",
+  "stemHtml": "<p>If a crew are trained for LVO (Low Visibility Operations), what might differ in the MEL (Minimum Equipment List) for operations outside LVO?</p>",
+  "options": {
+    "a": "<p>Some items might be within the constraints of the MEL for VMC or IMC, but not approved for low visibility operations.</p>",
+    "b": "<p>MEL differences only apply during severe weather conditions.</p>",
+    "c": "<p>MEL constraints do not affect LVO-trained crew in non-LVO operations.</p>",
+    "d": "<p>The MEL applies identically to all operational scenarios, including LVO and non-LVO.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

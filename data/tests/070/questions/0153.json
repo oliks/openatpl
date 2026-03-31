@@ -1,0 +1,14 @@
+{
+  "number": 153,
+  "questionId": "070-0153",
+  "questionNumber": "070-0153",
+  "stemHtml": "<p>You have recently passed your initial training and line check for an operator and it is only your 6th flight as an inexperienced pilot. During the briefing, you realise that the captain you\u2019re scheduled to fly with has also recently passed his/her command upgrade and it is only his/her 3rd flight. Can you fly together?</p>",
+  "options": {
+    "a": "<p>Yes, since both of you have completed your respective training, you count as experienced crew.</p>",
+    "b": "<p>No, there are too many inexperienced flight crew.</p>",
+    "c": "<p>Yes, as long as the dispatcher is aware and allows it.</p>",
+    "d": "<p>Yes, you have passed your supernumerary flights therefore you can fly with an inexperienced captain.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

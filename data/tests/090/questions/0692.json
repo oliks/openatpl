@@ -1,0 +1,14 @@
+{
+  "number": 692,
+  "questionId": "090-0692",
+  "questionNumber": "090-0692",
+  "stemHtml": "<p>All but one of the following elements are required to be transmitted when an aircraft station is unable to establish communication due to receiver failure. Which element can be omitted?</p>",
+  "options": {
+    "a": "A complete repetition of the intended message.",
+    "b": "The time of the next intended transmission.",
+    "c": "The frequency on which the message is transmitted.",
+    "d": "The phrase \u201dtransmitting blind due to receiver failure\u201d."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

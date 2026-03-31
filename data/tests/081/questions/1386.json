@@ -1,0 +1,14 @@
+{
+  "number": 1386,
+  "questionId": "081-1386",
+  "questionNumber": "081-1386",
+  "stemHtml": "<div>Following an engine failure, rudder is used to counteract yaw and aileron to bank towards the live engine. For a given airspeed, aeroplane controllability will be better at a...</div>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "<div>low aeroplane mass, due to greater rudder effectiveness because of less sideslip.</div>",
+    "b": "<div>low aeroplane mass, due to greater rudder effectiveness because of greater sideslip.</div>",
+    "c": "<div>high aeroplane mass, due to greater rudder effectiveness because of greater sideslip.</div>",
+    "d": "high aeroplane mass, due to greater rudder effectiveness because of less sideslip"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

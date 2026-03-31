@@ -1,0 +1,14 @@
+{
+  "number": 1234,
+  "questionId": "070-1234",
+  "questionNumber": "070-1234",
+  "stemHtml": "<p>Upon departure from London, the flight encounters a problem which requires a return to the airport for landing and the crew declares an urgency. The aircraft is above its maximum landing mass. To reduce the mass for a safe landing\u2026</p>",
+  "options": {
+    "a": "<p>The crew should advice ATC and obtain clearance to an area and a sufficient altitude before starting dumping fuel.</p>",
+    "b": "<p>The crew can start fuel dumping immediately at their own discretion.</p>",
+    "c": "<p>There is no need to dump fuel and the flight can return immediately for a landing.</p>",
+    "d": "<p>The crew should fly directly on current heading climbing to 4000 ft to start fuel dumping.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

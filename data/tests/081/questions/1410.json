@@ -1,0 +1,14 @@
+{
+  "number": 1410,
+  "questionId": "081-1410",
+  "questionNumber": "081-1410",
+  "stemHtml": "<p>A fault develops in the Mach Trim system of an aircraft prior to flight, rendering the system inoperative. Which of the following is the correct course of action?</p>",
+  "options": {
+    "a": "<p>The aircraft must be removed from passenger service immediately, but may be flown once for maintenance, subject to speed and altitude limitations.</p>",
+    "b": "<p>The flight crew must be informed of the failure, and the aircraft may continue to carry passengers, provided speed and altitude restrictions are observed.</p>",
+    "c": "<p>The aircraft must be grounded until the Mach trim system is fully repaired, with no exceptions.</p>",
+    "d": "<p>The system is not critical and the aircraft can be flown without it, without any operational limitations.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

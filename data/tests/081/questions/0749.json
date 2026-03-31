@@ -1,0 +1,14 @@
+{
+  "number": 749,
+  "questionId": "081-0749",
+  "questionNumber": "081-0749",
+  "stemHtml": "<p>Given:</p><p>p = pressure <br>rho = density <br>T = absolute temperature</p><p>The relationship between pressure, density and absolute temperature of a given mass of air can be expressed as follows\u2026</p>",
+  "options": {
+    "a": "rho / ( T \u00d7 p) = constant",
+    "b": "p \u00d7 rho / T = constant",
+    "c": "p \u00d7 T / rho = constant",
+    "d": "p / (rho \u00d7 T) = constant"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

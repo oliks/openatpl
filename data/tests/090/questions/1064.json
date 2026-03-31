@@ -1,0 +1,14 @@
+{
+  "number": 1064,
+  "questionId": "090-1064",
+  "questionNumber": "090-1064",
+  "stemHtml": "<p>The current wind at an aerodrome is measured as 00 kt from 000 Degrees. How should the wind be reported in the ATIS?</p>",
+  "options": {
+    "a": "<p>NIL WIND</p>",
+    "b": "<p>Wind calm</p>",
+    "c": "<p>Wind 000 Degrees 00 kt</p>",
+    "d": "<p>Wind 000 Degrees, calm</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

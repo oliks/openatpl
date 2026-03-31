@@ -1,0 +1,14 @@
+{
+  "number": 296,
+  "questionId": "081-0296",
+  "questionNumber": "081-0296",
+  "stemHtml": "<p>Which of the following statements are correct with regard to a windmilling propeller on a twin-engine aeroplane?</p>\r\r<p>1. Feathering the propeller may be delayed since windmilling produces more thrust than drag <br /> \r2. The aeroplane decelerates due to the propeller drag from the failed engine <br /> \r3. The yawing moment is intensified due to the propeller drag from the failed engine <br /> \r4. Low speed controllability of the aeroplane is increased due to increased stability <br /> \r5. Wing lift distribution varies due to airflow disturbance behind the propeller on the failed engine <br /> \r6. The glide performance of the aeroplane is improved due to the increased L/D ratio</p>",
+  "options": {
+    "a": "<p>2, 3, and 5</p>",
+    "b": "<div>1, 2, and 6</div>",
+    "c": "<div>3, 4, and 5</div>",
+    "d": "<p>1, 2, and 3</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 861,
+  "questionId": "090-0861",
+  "questionNumber": "090-0861",
+  "stemHtml": "<p>An aircraft\u2019s call sign is RUSHAIR 123. In the cruise, the pilots receive the CPDLC message \"CLIMB TO FL410\". A few seconds later, they receive the following radio transmission: \"RUSHAIR 123 DISREGARD CPDLC CLIMB MESSAGE, BREAK, CLIMB FLIGHT LEVEL 380.\" What should they do?</p>",
+  "options": {
+    "a": "<p>Disregard the CPDLC instruction, read back the radio transmission and climb to FL380.</p>",
+    "b": "Disregard the voice transmission, read back the radio transmission and climb to FL410.",
+    "c": "Send \"STANDBY\" via a CPDLC message and wait for further instructions.",
+    "d": "Send \"WILCO\" via CPDLC and climb to FL410."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

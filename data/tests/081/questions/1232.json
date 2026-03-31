@@ -1,0 +1,19 @@
+{
+  "number": 1232,
+  "questionId": "081-1232",
+  "questionNumber": "081-1232",
+  "stemHtml": "<p>Refer to figure. <br /> \rIf, during the approach phase of flight, the slats are locked due to an extension malfunction, as indicated on the ECAM panel above, what is the most likely impact on the landing configuration and procedure?</p>",
+  "options": {
+    "a": "<p>The autobrakes will disengage automatically, requiring manual braking for landing.</p>",
+    "b": "<p>The aircraft will experience excessive nose-down pitch during landing, requiring higher thrust to maintain glide slope.</p>",
+    "c": "<p>The aircraft will have a higher approach speed due to reduced lift, leading to a longer landing distance.</p>",
+    "d": "<p>The landing gear will not fully extend, leading to a belly landing.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0078",
+      "publicUrl": "/attachments/081/081-att-0078.jpg"
+    }
+  ]
+}

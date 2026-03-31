@@ -1,0 +1,14 @@
+{
+  "number": 258,
+  "questionId": "090-0258",
+  "questionNumber": "090-0258",
+  "stemHtml": "<p>The notification phase (LOG ON) is a FANS application which consists in transmitting aircraft information and\u2026</p>",
+  "options": {
+    "a": "associated datalink capability, prior to operating any datalink communications with ATC.",
+    "b": "park stand to the airport pre-flight controller to request the datalink pre-departure clearance (PDC).",
+    "c": "aircraft position to the airport ground controller to request the datalink taxi clearance.",
+    "d": "aircraft position to request the datalink clearance to enter an airspace."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

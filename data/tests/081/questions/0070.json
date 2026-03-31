@@ -1,0 +1,14 @@
+{
+  "number": 70,
+  "questionId": "081-0070",
+  "questionNumber": "081-0070",
+  "stemHtml": "<p>While in a (1) _____, if the auto-throttle is set to maintain a constant (2) _____ while the autopilot pitch mode maintains a constant (3) _____, this situation can lead to buffet or stall.</p>",
+  "options": {
+    "a": "<p>(1) climb; (2) thrust setting; (3) airspeed</p>",
+    "b": "<p>(1) climb; (2) airspeed; (3) vertical speed</p>",
+    "c": "<p>(1) descent; (2) airspeed; (3) vertical speed</p>",
+    "d": "<p>(1) descent; (2) thrust setting; (3) airspeed</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

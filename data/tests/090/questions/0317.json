@@ -1,0 +1,14 @@
+{
+  "number": 317,
+  "questionId": "090-0317",
+  "questionNumber": "090-0317",
+  "stemHtml": "<p>ICAO Annex 10, Aeronautical Telecommunications, establishes different categories of air-ground messages. What is their order of priority?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. Distress messages</span>  <br />  \n2. Flight regularity messages  <br />  \n3. Flight safety messages  <br />  \n4. Messages related to direction finding  <br />  \n5. Meteorological messages  <br />  \n6. Urgency messages</p>\n\n<div> </div>",
+  "options": {
+    "a": "1, 6, 4, 3, 5, 2.",
+    "b": "1, 3, 6, 2, 5, 4.",
+    "c": "1, 6, 3, 4, 5, 2.",
+    "d": "1, 6, 3, 5, 4, 2."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

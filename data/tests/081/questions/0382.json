@@ -1,0 +1,14 @@
+{
+  "number": 382,
+  "questionId": "081-0382",
+  "questionNumber": "081-0382",
+  "stemHtml": "A modern jet transport aeroplane is cruising at 35000 ft in an area of mountain waves. The cruising speed is at M 0.79 with M<sub>MO</sub> at M 0.81 when the aeroplane suddenly experiences a positive wind shear. The autothrust is slow at reacting and the aeroplane reaches a speed of M 0.82 before starting to decelerate again. Apart from an overspeed warning, are there any other indications of the overspeed that may be apparent to the pilots?",
+  "options": {
+    "a": "<p>with the feet on the ground, a slight vibration is felt through the fuselage structure, otherwise the aeroplane observes normal behaviour.</p>",
+    "b": "the aeroplane is buffeting and a significant pitch-down moment suddenly develops, requiring an immediate corrective action to avoid entering a dive.",
+    "c": "strong shock waves will be forming, creating separation of the boundary layer, causing a significant buffet as the aeroplane enters a high-speed shock stall.",
+    "d": "unusually high levels of ambient wind noise followed by severe buffeting requiring a pitch-up input to ensure a rapid deceleration to a speed below M<sub>MO</sub>."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

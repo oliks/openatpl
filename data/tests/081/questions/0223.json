@@ -1,0 +1,14 @@
+{
+  "number": 223,
+  "questionId": "081-0223",
+  "questionNumber": "081-0223",
+  "stemHtml": "<p>Which of the following does the Fly-By-Wire control system have?</p>",
+  "options": {
+    "a": "<p>Soft protections that the pilot can override.</p>",
+    "b": "<p>Hard protections that the pilot can override.</p>",
+    "c": "<p>Soft protections that the pilot cant override.</p>",
+    "d": "<p>Hard protections, once exceeded, alternate law takes place.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

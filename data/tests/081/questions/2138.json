@@ -1,0 +1,14 @@
+{
+  "number": 2138,
+  "questionId": "081-2138",
+  "questionNumber": "081-2138",
+  "stemHtml": "<p>Considering aerofoils with an angle of attack of zero, a symmetrical aerofoil has a (1) _____ C<strong><sub>L</sub></strong>. A positively cambered aerofoil has a (2) _____ C<strong><sub>L</sub></strong>. A high-speed thin aerofoil will have (3) _____ critical angle of attack, compared to the same aerofoil with higher thickness.</p>",
+  "options": {
+    "a": "<p>(1) zero; (2) zero; (3) the same</p>",
+    "b": "<p>(1) zero; (2) positive; (3) the same</p>",
+    "c": "<p>(1) negative; (2) positive; (3) a reduced</p>",
+    "d": "<p>(1) zero; (2) positive; (3) a reduced</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 89,
+  "questionId": "070-0089",
+  "questionNumber": "070-0089",
+  "stemHtml": "<p>Which combination of options below best describes the factors that need to be taken into account when calculating minimum time routes?</p><p>1. ATC restrictions <br>2. Wind and meteorological conditions <br>3. Straight-line distance between departure and destination points <br>4. Danger, restricted, and prohibited areas and airspace restrictions</p>",
+  "options": {
+    "a": "<p>1, 2, and 3</p>",
+    "b": "<p>2 and 3</p>",
+    "c": "<p>3 and 4</p>",
+    "d": "<p>1, 2, and 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1144,
+  "questionId": "070-1144",
+  "questionNumber": "070-1144",
+  "stemHtml": "<p>A jet transport aeroplane is landing at an airport situated close to a noise-sensitive area at 23:59. Noise Abatement Procedures are in force between 20:00 to 03:00. Use of reverse thrust is\u2026</p>",
+  "options": {
+    "a": "<div>allowed after obtaining ATC permission, as the landing is performed within the Noise Abatement period.</div>",
+    "b": "<div>allowed as the Noise Abatement Procedures permit this during landing.</div>",
+    "c": "prohibited under all circumstances, as Noise Abatement Procedures are in force.<br>",
+    "d": "allowed only if a malfunction is experienced related to the braking capability of the aircraft.<br>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

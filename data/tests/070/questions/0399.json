@@ -1,0 +1,19 @@
+{
+  "number": 399,
+  "questionId": "070-0399",
+  "questionNumber": "070-0399",
+  "stemHtml": "<p>Refer to figure. <br /> A pilot is considering the possibility of having to carry out a rejected take-off on a flooded runway and is evaluating the aircraft configuration and the selection of the take-off speeds. Given the following information, choose the lowest possible flap setting that would avoid dynamic hydroplaning in case of a rejected take-off.</p><p>Take-off Mass: 70000 kg <br /> Tyre pressure: 200 psi</p>",
+  "options": {
+    "a": "FLAPS 10",
+    "b": "FLAPS 25",
+    "c": "FLAPS 5",
+    "d": "FLAPS 15"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0029",
+      "publicUrl": "/attachments/070/070-att-0029.jpg"
+    }
+  ]
+}

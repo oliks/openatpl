@@ -1,0 +1,19 @@
+{
+  "number": 1420,
+  "questionId": "081-1420",
+  "questionNumber": "081-1420",
+  "stemHtml": "<p>Refer to figure.<br>The image above shows how a change to a wing's configuration moves the polar curve of C<strong><sub>L</sub></strong> vs C<strong><sub>D</sub></strong>. In the change of configuration from curve 1 to curve 2, what happens to the C<strong><sub>LMAX</sub></strong> and the C<strong><sub>L</sub></strong>/C<strong><sub>D</sub></strong> ratio?</p>",
+  "options": {
+    "a": "<p>C<sub>LMAX</sub> increases; C<sub>L</sub>/C<sub>D</sub> ratio decreases.</p>",
+    "b": "<p>C<sub>LMAX</sub> decreases; C<sub>L</sub>/C<sub>D</sub> ratio decreases.</p>",
+    "c": "<p>C<sub>LMAX</sub> decreases; C<sub>L</sub>/C<sub>D</sub> ratio increases.</p>",
+    "d": "<p>C<sub>LMAX</sub> increases; C<sub>L</sub>/C<sub>D</sub> ratio increases.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0226",
+      "publicUrl": "/attachments/081/081-att-0226.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 639,
+  "questionId": "081-0639",
+  "questionNumber": "081-0639",
+  "stemHtml": "<p>Refer to figure. <br /> \rDuring flight, you receive the above failure message on the aircraft's ECAM display, what will be the effect on landing?</p>",
+  "options": {
+    "a": "<p>The aircraft will have a slightly higher airspeed on final approach, and will have a large risk of tailstrike.</p>",
+    "b": "<p>The landing will not be possible.</p>",
+    "c": "<p>The configuration must be changed, as this is not a normal configuration for landing.</p>",
+    "d": "<p>A reduced landing speed due to the higher C<sub>LMAX</sub> and a different flare method must be used.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0240",
+      "publicUrl": "/attachments/081/081-att-0240.jpg"
+    }
+  ]
+}

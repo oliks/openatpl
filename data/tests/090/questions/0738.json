@@ -1,0 +1,14 @@
+{
+  "number": 738,
+  "questionId": "090-0738",
+  "questionNumber": "090-0738",
+  "stemHtml": "<p>What is correct regarding the following D-ATIS?</p>\r\r<p>WSSS ATIS F <br /> \r0230 METAR <br /> \rEXP ILS APCH SEGREGATED PARL OPS IN USE <br /> \rARR RWY 02L DEP 02C <br /> \rJUNCTION OF TWY EP AND A3 INCLUDING RAPID EXIT TWY E3 SOUTHBOUND CLSD DUE WIP</p>\r\r<p>WIND 010 04 KT GUST 23 WIND DIR 320 V 040 <br /> \r10 KM FEW 1600 FT <br /> \rT 27/DP 26 QNH 1012 NOSIG <br /> \rARR TO ACK INFO F WITH APP ON 120.3 AND DEP WITH DELIVERY ON 121.65</p>",
+  "options": {
+    "a": "<p>A wind shear warning is in force for departure information F; wind direction is 010\u00b0, variable between 320\u00b0 and 040\u00b0, and wind speed is 4 kt.</p>",
+    "b": "<p>The ATIS message is based on the 0230Z METAR; some taxiways are closed due to work in progress.</p>",
+    "c": "<p>Runway 02C is in use for departures; information F is available for all traffic on 121.65 MHz.</p>",
+    "d": "<p>Dew point is 26\u00b0C; information F is available for all traffic on 120.3 MHz.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

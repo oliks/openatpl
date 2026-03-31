@@ -1,0 +1,14 @@
+{
+  "number": 1014,
+  "questionId": "081-1014",
+  "questionNumber": "081-1014",
+  "stemHtml": "<p>Considering the C<strong><sub>L</sub></strong> vs. alpha graph for two identical asymmetrical aerofoil sections, one with zero sweep angle and one with a positive sweep angle, what is true about the point where they cross the C<strong><sub>L</sub></strong> axis?</p>",
+  "options": {
+    "a": "<p>The wing with the larger sweep angle crosses the axis above the wing with no sweep.</p>",
+    "b": "<p>The wing with no sweep angle crosses the axis above the swept wing.</p>",
+    "c": "<p>Both wings cross the C<sub>L</sub> axis at the same point.</p>",
+    "d": "<p>Neither of the wings cross the C<sub>L</sub> axis.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

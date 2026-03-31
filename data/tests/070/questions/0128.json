@@ -1,0 +1,14 @@
+{
+  "number": 128,
+  "questionId": "070-0128",
+  "questionNumber": "070-0128",
+  "stemHtml": "<p>A sensor on the engine is blocked by ice. What should the pilot expect?</p>",
+  "options": {
+    "a": "<p>Error indication, limited power.</p>",
+    "b": "<p>Master warning, auto throttle disengages.</p>",
+    "c": "<p>Compressor stall.</p>",
+    "d": "<p>No indication provided.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

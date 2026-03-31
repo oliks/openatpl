@@ -1,0 +1,14 @@
+{
+  "number": 86,
+  "questionId": "090-0086",
+  "questionNumber": "090-0086",
+  "stemHtml": "What is the order of priority of the following messages in the aeronautical mobile service?",
+  "options": {
+    "a": "Flight regularity message, distress message, meteorological message.",
+    "b": "Flight safety message, meteorological message, flight regularity message.",
+    "c": "Flight safety message, direction finding message, urgency message.",
+    "d": "Meteorological message, direction finding message, flight safety message."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 333,
+  "questionId": "081-0333",
+  "questionNumber": "081-0333",
+  "stemHtml": "<p>A scheduled flight is delayed about 3 hours due to maintenance. During this time, the Outside Air Temperature increases significantly. What impact does this temperature change have on V<sub>MCG</sub>?</p>",
+  "options": {
+    "a": "V<sub>MCG</sub> decreases, due to the decreasing thrust.",
+    "b": "V<sub>MCG </sub>decreases due to the increasing density.",
+    "c": "V<sub>MCG</sub> remains constant for the same configuration.",
+    "d": "V<sub>MCG</sub> increases due to decreasing rudder effectiveness."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

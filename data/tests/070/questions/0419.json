@@ -1,0 +1,14 @@
+{
+  "number": 419,
+  "questionId": "070-0419",
+  "questionNumber": "070-0419",
+  "stemHtml": "<p>Before departure, a wing fairing panel is discovered to be missing. The Configuration Deviation List (CDL) allows dispatch with this panel missing but requires a fuel penalty and speed restriction, whereas the MEL does not list this item. Can you dispatch?</p>",
+  "options": {
+    "a": "<p>No, MEL is the only valid document for inoperative items.</p>",
+    "b": "<p>Yes, if the CDL permits it and you apply the penalties.</p>",
+    "c": "<p>No, missing panels are never permitted for ETOPS flights.</p>",
+    "d": "<p>Yes, but only with maintenance approval and captain's discretion.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

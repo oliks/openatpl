@@ -1,0 +1,14 @@
+{
+  "number": 842,
+  "questionId": "070-0842",
+  "questionNumber": "070-0842",
+  "stemHtml": "<p>During a flight within the NAT High Level Airspace (HLA) and on a westbound OTS track, a passenger becomes ill and an immediate diversion is required. Regarding a diversion to the nearest suitable airport, how should the crew mitigate for the risk posed to other aircraft if they do not receive an ATC clearance for the diversion?</p>",
+  "options": {
+    "a": "<p>Maintain altitude and make a turn to cross any adjacent tracks at 90\u00b0 to exit the track system and then turn to the diversion airport.</p>",
+    "b": "<p>Continue on the assigned track and offset the altitude by 500 ft before making a turn towards the diversion airport.</p>",
+    "c": "<p>Offset the flightpath by 5 NM prior to initiating a descent to below FL290 before turning towards the selected diversion airport.</p>",
+    "d": "<p>Continue to the next airspace boundary when there is a change of ATC centre and request a re-clearance to leave the NAT HLA tracks.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

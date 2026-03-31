@@ -1,0 +1,14 @@
+{
+  "number": 605,
+  "questionId": "090-0605",
+  "questionNumber": "090-0605",
+  "stemHtml": "What is the meaning of APV?",
+  "options": {
+    "a": "\u201cApproach performed only in VMC\u201d: the restriction of an approved procedure to land at an aerodrome only when the aerodrome`s ATS unit reports VFR meteorological conditions.",
+    "b": "\u201cApproach procedure with vertical guidance\u201d: an instrument procedure which utilises lateral and vertical guidance but does not meet the requirements established for precision approach and landing operations.",
+    "c": "\u201cAerodrome probable visibility\u201d: the visibility used in case of failure of visibility-measuring instruments at an aerodrome, based on estimates by a human observer with knowledge of the aerodrome environment.",
+    "d": "\u201cAerodrome proximity visualisation\u201d: an augmented-reality visualisation through any computer-based system of the essential elements at or in the close vicinity of an aerodrome, such as obstacles and signs."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

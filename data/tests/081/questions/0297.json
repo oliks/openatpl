@@ -1,0 +1,14 @@
+{
+  "number": 297,
+  "questionId": "081-0297",
+  "questionNumber": "081-0297",
+  "stemHtml": "<p>Which of the following statements is correct regarding the speeds V<strong><sub>MO</sub></strong> and V<strong><sub>C</sub></strong>?</p>",
+  "options": {
+    "a": "<p>V<sub>MO</sub> must be equal to V<sub>C</sub>.</p>",
+    "b": "<p>V<sub>MO</sub> must be equal to or greater than V<sub>C</sub>.</p>",
+    "c": "<p>V<sub>MO </sub>must NOT be greater than V<sub>C</sub>.</p>",
+    "d": "<p>V<sub>MO</sub> must NOT be greater than 0.8 x V<sub>C</sub>.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

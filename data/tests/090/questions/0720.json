@@ -1,0 +1,14 @@
+{
+  "number": 720,
+  "questionId": "090-0720",
+  "questionNumber": "090-0720",
+  "stemHtml": "<p>You are flying IFR and approach your destination airport in VMC. After experiencing a communication failure\u2026</p>",
+  "options": {
+    "a": "Continue the approach, land and report your arrival.",
+    "b": "Make a low approach and wait for visual signals of the ground personnel.",
+    "c": "Squawk 7700 and continue in accordance with the flight plan.",
+    "d": "Continue to the destination aerodrome, adding 500 ft to all the altitudes in the flight plan."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

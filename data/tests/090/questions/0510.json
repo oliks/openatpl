@@ -1,0 +1,19 @@
+{
+  "number": 510,
+  "questionId": "090-0510",
+  "questionNumber": "090-0510",
+  "stemHtml": "<p>Refer to figure. <br>Which approach can be expected and what hazards are given in the CPDLC message?</p>",
+  "options": {
+    "a": "<p>Expect an ILS approach for Runway 18.</p>",
+    "b": "<p>Expect an ILS approach for Runway 18 and birds in the vicinity.</p>",
+    "c": "<p>Expect a Localiser approach for Runway 18 and light wind shear on the final approach.</p>",
+    "d": "<p>Expect a Localiser approach for Runway 18, birds in the vicinity and moderate wind shear on the final approach.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "090-att-0008",
+      "publicUrl": "/attachments/090/090-att-0008.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1238,
+  "questionId": "081-1238",
+  "questionNumber": "081-1238",
+  "stemHtml": "You are the pilot flying of a commercial jet aircraft and just started your descent by using the autopilot, which controls the speed with pitch control. Passing FL340, the aeroplane passes through a jet stream and experiences a sudden positive wind shear. The speed increases momentarily to M0.85 causing the autopilot to demand a pitch up to arrest the speed increase. Since M0.85 is approximately 5 kt faster than M<sub>MO</sub>, you may...",
+  "options": {
+    "a": "feel a slight vibration as a result of the increased positive load factor creating some buffet, due to shock waves during the overspeed.",
+    "b": "experience a slight \u201cMach tuck\u201d effect as shock waves increase in strength, leading to further speed increase and loss of speed control.",
+    "c": "experience momentary loss of control due to incipient shock stall until the aeroplane recovers and speed reduces below M<sub>MO</sub>.",
+    "d": "feel significant buffeting from the shock waves, which from at speeds above M<sub>MO</sub>, further enhanced by the increased load factor."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

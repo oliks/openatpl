@@ -1,0 +1,14 @@
+{
+  "number": 1044,
+  "questionId": "070-1044",
+  "questionNumber": "070-1044",
+  "stemHtml": "<p>You are planning for an upcoming flight to a destination with no alternate available (isolated airport procedure). The trip fuel is 10 000 kg and the final reserve is 1500 kg. Under the latest fuel policy, what is the minimum required contingency fuel?</p>",
+  "options": {
+    "a": "<p>1500 kg (same as final reserve)</p>",
+    "b": "<p>3000 kg (20% of trip for isolated airport)  <br />   </p>",
+    "c": "<p>500 kg (5% of trip)</p>",
+    "d": "<p>0 kg (no alternate needed, so no contingency)</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

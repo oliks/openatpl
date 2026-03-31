@@ -1,0 +1,14 @@
+{
+  "number": 602,
+  "questionId": "070-0602",
+  "questionNumber": "070-0602",
+  "stemHtml": "<p>What is the definition for horizontal windshear?</p>",
+  "options": {
+    "a": "<p>The change of the vertical wind vector with horizontal distance, as might be determined by two or more anemometers mounted at the same height along a runway.</p>",
+    "b": "<p>The change of the horizontal wind vector with horizontal distance, as might be determined by two or more anemometers mounted at the same height along a runway.</p>",
+    "c": "<p>The change of vertical wind vector with height, as might be determined by two or more anemometers at different heights on a mast.</p>",
+    "d": "<p>The change of horizontal wind vector with height, as might be determined by two or more anemometers at different heights on a mast.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

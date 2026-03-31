@@ -1,0 +1,14 @@
+{
+  "number": 637,
+  "questionId": "070-0637",
+  "questionNumber": "070-0637",
+  "stemHtml": "<p>In accordance with OPS regulations, 100% of the passengers in a non-pressurised aircraft shall be supplied with supplemental oxygen for the entire flight time\u2026</p>",
+  "options": {
+    "a": "<p>at pressure altitudes above 10 000 ft.</p>",
+    "b": "<div>at pressure altitudes above 13 000 ft and for any period exceeding 30 minutes at pressure altitudes above 10 000 ft but not exceeding 13 000 ft.</div>",
+    "c": "<p>at pressure altitudes above 13 000 ft.</p>",
+    "d": "after 30 minutes at pressure altitudes greater than 10 000 ft but not exceeding 13 000 ft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

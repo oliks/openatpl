@@ -1,0 +1,14 @@
+{
+  "number": 562,
+  "questionId": "090-0562",
+  "questionNumber": "090-0562",
+  "stemHtml": "<div>Shortly after take-off for a cross-country flight from Walden, with the call sign Fastair 789,one of your passengers informs you about feeling unwell. You are already in the control area of Alexander Control. A message must be sent to Alexander Control. Which option is most accurately in compliance with the standards for messages on this type of situation? \"PAN PAN, PAN PAN, PAN PAN..\"</div>",
+  "options": {
+    "a": "<div>ALEXANDER CONTROL, FASTAIR 789, 20 MILES WEST OF WALDEN, ESTIMATED TIME EN ROUTE 20 MINUTES, ESTIMATED ARRIVAL 35, FL150, TRANSPONDER CHARLIE, ONE SICK PASSENGER ON BOARD, RETURNING TO WALDEN.</div>",
+    "b": "<div>ALEXANDER CONTROL, FASTAIR 789, A PASSENGER IS FEELING UNWELL, RETURNING TO WALDEN, 20 MILES WEST OF WALDEN, FL150, HEADING 280.</div>",
+    "c": "<div>MEDICAL, FASTAIR 789, A PASSENGER IS FEELING UNWELL, RETURNING TO WALDEN, 20 MILES WEST OF WALDEN, FL150, HEADING 280.</div>",
+    "d": "MEDICAL, FASTAIR 789, 20 MILES WEST OF WALDEN, ONE SICK PASSENGER ON BOARD, RETURNING TO WALDEN, ESTIMATED TIME EN ROUTE 20 MINUTES, ESTIMATED ARRIVAL 35, FL150, TRANSPONDER CHARLIE.<br>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

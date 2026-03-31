@@ -1,0 +1,14 @@
+{
+  "number": 982,
+  "questionId": "081-0982",
+  "questionNumber": "081-0982",
+  "stemHtml": "<p>Which of these statements about flutter are correct or incorrect?</p>\r\r<p>I. Aero-elastic coupling does not affect flutter characteristics. <br /> \rII. The risk of flutter increases as IAS increases.</p>",
+  "options": {
+    "a": "<p>I is incorrect, II is incorrect.</p>",
+    "b": "<p>I is incorrect, II is correct.</p>",
+    "c": "<p>I is correct, II is correct.</p>",
+    "d": "<p>I is correct, II is incorrect.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

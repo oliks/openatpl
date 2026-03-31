@@ -1,0 +1,14 @@
+{
+  "number": 300,
+  "questionId": "070-0300",
+  "questionNumber": "070-0300",
+  "stemHtml": "<p>During the cruise, an aircraft experiences an explosive decompression over mountainous terrain. The flight crew descends to 15 000 ft. ATC instructs them that they will receive further descent clearance to 10 000 ft in 15 minutes. Does the flight crew need oxygen?</p>",
+  "options": {
+    "a": "<p>Yes, all the time because the cabin altitude is above 13 000 ft.</p>",
+    "b": "The flight crew must don first-aid oxygen masks.",
+    "c": "No, because it\u2019s less than 30 minutes.",
+    "d": "Yes, but just for 30 minutes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

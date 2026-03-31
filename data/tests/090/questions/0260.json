@@ -1,0 +1,14 @@
+{
+  "number": 260,
+  "questionId": "090-0260",
+  "questionNumber": "090-0260",
+  "stemHtml": "<p>Which word shall be used to ask a station whether you have correctly received a message, clearance, instruction, etc.?</p>",
+  "options": {
+    "a": "<p>Correct.</p>",
+    "b": "<p>Verify.</p>",
+    "c": "<p>Acknowledge.</p>",
+    "d": "<p>Confirm.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

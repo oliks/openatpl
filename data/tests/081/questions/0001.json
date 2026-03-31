@@ -2,13 +2,13 @@
   "number": 1,
   "questionId": "081-0001",
   "questionNumber": "081-0001",
-  "stemHtml": "<p>As angle of attack increases beyond the critical angle, what happens to lift?</p>",
+  "stemHtml": "What is the SI unit of measurement for pressure?",
   "options": {
-    "a": "<p>Lift continues to increase</p>",
-    "b": "<p>Lift remains constant</p>",
-    "c": "<p>Lift decreases sharply (stall)</p>",
-    "d": "<p>Lift increases then gradually decreases</p>"
+    "a": "bar/dm<sup>2</sup>",
+    "b": "kg/m<sup>3</sup>",
+    "c": "lb/gal",
+    "d": "N/m<sup>2</sup>"
   },
-  "correctOption": "c",
+  "correctOption": "d",
   "attachments": []
 }

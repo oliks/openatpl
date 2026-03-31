@@ -1,0 +1,14 @@
+{
+  "number": 920,
+  "questionId": "081-0920",
+  "questionNumber": "081-0920",
+  "stemHtml": "<p>Consider an aircraft on a climb. Given the following data, calculate the climb angle:</p><p>Thrust: 500 000 N, <br /> Drag: 115 000 N, <br /> Weight: 1 700 000 N.</p>",
+  "options": {
+    "a": "21 degrees",
+    "b": "18 degrees",
+    "c": "13 degrees",
+    "d": "10 degrees"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

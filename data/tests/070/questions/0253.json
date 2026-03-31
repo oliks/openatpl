@@ -1,0 +1,14 @@
+{
+  "number": 253,
+  "questionId": "070-0253",
+  "questionNumber": "070-0253",
+  "stemHtml": "<p>During a flight from S\u00e3o Paulo (Brazil) to London (UK), in the middle of the Atlantic you can\u2019t contact ATC. You meet in front of you a big group of active CB clouds, and the pilot flying decides to fly through them. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Maintain present FL, knowing also that ice may form and give you unreliable altitude and airspeed readout.</p>",
+    "b": "<p>Accelerate to move through the layer in the least possible time.</p>",
+    "c": "<p>Climb to a optimum FL and increase your pitch.</p>",
+    "d": "<p>Try to climb above the clouds.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

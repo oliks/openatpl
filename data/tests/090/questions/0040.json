@@ -1,0 +1,14 @@
+{
+  "number": 40,
+  "questionId": "090-0040",
+  "questionNumber": "090-0040",
+  "stemHtml": "<p>What does the phrase \"Read back\" mean?</p>",
+  "options": {
+    "a": "<p>Did you correctly receive this message?</p>",
+    "b": "<p>Check and confirm with originator.</p>",
+    "c": "<p>Repeat all, or the specified part, of this message back to me exactly as received.</p>",
+    "d": "<p>Let me know that you have received and understood this message.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

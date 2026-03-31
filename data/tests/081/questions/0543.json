@@ -1,0 +1,14 @@
+{
+  "number": 543,
+  "questionId": "081-0543",
+  "questionNumber": "081-0543",
+  "stemHtml": "<p>A multi-engine aircraft with clockwise rotating propellers suffers a failure of the critical engine after takeoff. Considering the aircraft maintains a zero bank and no power changes, which situation would lead to the largest yaw, and in what direction?</p>\r\n\r\n<ul>\r\n</ul>",
+  "options": {
+    "a": "<p>Left crosswind; Left yaw</p>",
+    "b": "<p>Left crosswind; Right yaw</p>",
+    "c": "<p>Right crosswind; Right yaw</p>",
+    "d": "<p>Right crosswind; Left yaw</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1631,
+  "questionId": "081-1631",
+  "questionNumber": "081-1631",
+  "stemHtml": "<p>A light aircraft has a demonstrated stall speed (V<strong><sub>S</sub></strong>) in straight and level flight of 184 kt. If the same aircraft is flown with a 30 degree bank angle, by how much does V<strong><sub>S</sub></strong> change?</p>",
+  "options": {
+    "a": "<p>V<sub>S</sub> decreases by 31 kt.</p>",
+    "b": "<p>V<sub>S</sub> decreases by 13 kt.</p>",
+    "c": "<p>V<sub>S</sub> increases by 14 kt.</p>",
+    "d": "<p>V<sub>S</sub> increases by 29 kt.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

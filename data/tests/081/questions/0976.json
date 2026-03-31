@@ -1,0 +1,14 @@
+{
+  "number": 976,
+  "questionId": "081-0976",
+  "questionNumber": "081-0976",
+  "stemHtml": "<div>While flying slightly above the critical Mach number (M<sub>CRIT</sub>), a control surface is deflected down by a pilot input. What could happen?</div>",
+  "options": {
+    "a": "<div>The control surface\u2019s efficiency might be reduced due to shock-induced separation.</div>",
+    "b": "<div>The shock wave will disappear due to the downwards deflection of the control surface.</div>",
+    "c": "<div>The control surface\u2019s efficiency might be increased due to the shock wave itself.</div>",
+    "d": "Low speed buffet could take place due to shock-induced separation."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

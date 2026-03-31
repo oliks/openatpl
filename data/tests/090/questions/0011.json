@@ -1,0 +1,14 @@
+{
+  "number": 11,
+  "questionId": "090-0011",
+  "questionNumber": "090-0011",
+  "stemHtml": "RADAR instructs aircraft X-BC:\"X-BC squawk ident\". What does this mean?",
+  "options": {
+    "a": "X-BC should perform an identification turn of at least 020 degrees.",
+    "b": "X-BC shall reselect his assigned mode and code.",
+    "c": "Radar identification has been achieved by correlating an observed radar blip with aircraft XY-ABC.",
+    "d": "X-BC shall operate the IDENT button."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

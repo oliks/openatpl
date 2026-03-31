@@ -1,0 +1,14 @@
+{
+  "number": 1717,
+  "questionId": "081-1717",
+  "questionNumber": "081-1717",
+  "stemHtml": "Consider a multi-engine aeroplane with counter-rotating propellers turning inward. If the left engine fails, to counteract the yaw moment, you would need to apply a smaller force if compared to an aircraft equipped with two clockwise rotating propellers, because...",
+  "options": {
+    "a": "<p>at slow speed the thrust vector is closer towards the aircraft\u2019s longitudinal axis.</p>",
+    "b": "the rolling moment is in the same direction as the yawing moment.",
+    "c": "the slipstream effect acts on the rudder in the opposite way.",
+    "d": "when pitching up, gyroscopic effects make the aircraft pitch up."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

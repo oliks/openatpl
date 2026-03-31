@@ -1,0 +1,19 @@
+{
+  "number": 1036,
+  "questionId": "081-1036",
+  "questionNumber": "081-1036",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich line corresponds with a positively cambered aerofoil, and what is the condition when it is producing zero lift?</p>",
+  "options": {
+    "a": "<p>Line 1, negative angle of attack</p>",
+    "b": "<p>Line 1, positive angle of attack</p>",
+    "c": "<p>Line 2, negative angle of attack</p>",
+    "d": "<p>Line 2, positive angle of attack</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0196",
+      "publicUrl": "/attachments/081/081-att-0196.png"
+    }
+  ]
+}

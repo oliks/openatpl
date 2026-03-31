@@ -1,0 +1,14 @@
+{
+  "number": 2306,
+  "questionId": "081-2306",
+  "questionNumber": "081-2306",
+  "stemHtml": "<p>At the beginning of the approach, the flight crew notice that the horizontal stabiliser has become jammed. The commander decides that full flap should not be used and the aircraft should be landed using an intermediate flap setting. Why would they make this decision?</p>",
+  "options": {
+    "a": "<p>Using full flaps reduces nose-down pitching moment and improves trim authority.</p>",
+    "b": "<p>Using full flaps increases nose-up tendency and makes control easier.</p>",
+    "c": "<p>An intermediate flap setting reduces the nose-down pitching moment and requires less elevator authority.</p>",
+    "d": "<p>An intermediate flap setting increases drag, allowing lower approach speed without affecting pitch.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

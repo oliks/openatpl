@@ -1,0 +1,14 @@
+{
+  "number": 1210,
+  "questionId": "070-1210",
+  "questionNumber": "070-1210",
+  "stemHtml": "During the walk-around, you notice a piece of equipment is missing from the aircraft. An engineer is not available to fix the problem. Can the flight still be made?",
+  "options": {
+    "a": "Yes, if the dispatcher accounts for this change on the load sheet.",
+    "b": "Yes, if the item is not required in the MEL.",
+    "c": "Yes, if the commander decides that the item is not required for that flight.",
+    "d": "No, as the aircraft must be fully functional to undertake a flight."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

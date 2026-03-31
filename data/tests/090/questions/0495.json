@@ -1,0 +1,14 @@
+{
+  "number": 495,
+  "questionId": "090-0495",
+  "questionNumber": "090-0495",
+  "stemHtml": "ATC clearance for taxi issued by a controller will always contain a clearance limit. This is the point at which the aircraft must stop, unless further permission to proceed is given. Which of the following statements is correct regarding this type of clearance?",
+  "options": {
+    "a": "The controller would never issue taxi instructions where these would take the aircraft to a clearance limit which would involve crossing a runway.",
+    "b": "Taxi instructions never contain a clearance to cross a runway, even if the clearance limit is beyond that runway.",
+    "c": "In the case the taxi instruction requires the crossing of a runway, the clearance limit will explicitly be to hold short of that runway.",
+    "d": "When a taxi instruction contains a taxi limit beyond a runway, it shall contain an explicit clearance to cross, or an instruction to hold short of that runway."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

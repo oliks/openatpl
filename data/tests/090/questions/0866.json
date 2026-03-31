@@ -1,0 +1,14 @@
+{
+  "number": 866,
+  "questionId": "090-0866",
+  "questionNumber": "090-0866",
+  "stemHtml": "<p>An IFR flight in IMC conditions is being radar vectored when the aircraft experiences radio communication failure. Taking into consideration the applicable minimum flight altitude, the PIC should\u2026</p>",
+  "options": {
+    "a": "<div>proceed in the most direct manner possible to rejoin the flight plan route no later than the next significant point.</div>",
+    "b": "<p>maintain the last assigned heading for a period of 10 minutes, and then adjust in accordance with the flight plan.</p>",
+    "c": "<div>maintain the last assigned heading for a period of 15 minutes, and then adjust in accordance with the flight plan.</div>",
+    "d": "<p>climb to the Minimum Sector Altitude and hold for a period of 5 minutes, and then rejoin the flight plan route.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

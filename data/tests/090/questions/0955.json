@@ -1,0 +1,14 @@
+{
+  "number": 955,
+  "questionId": "090-0955",
+  "questionNumber": "090-0955",
+  "stemHtml": "<p>Which of the following is a correct comparison between D-ATIS and voice ATIS?</p>",
+  "options": {
+    "a": "<p> They contain identical information</p>",
+    "b": "<p>D-ATIS is updated in real time, voice ATIS at a specific interval</p>",
+    "c": "<p>They could differ in regard to wind information</p>",
+    "d": "<p>The ATIS includes forecast information such as TAFs</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

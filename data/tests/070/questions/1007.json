@@ -1,0 +1,14 @@
+{
+  "number": 1007,
+  "questionId": "070-1007",
+  "questionNumber": "070-1007",
+  "stemHtml": "<p>According to ICAO Annex 6, a flight data analysis programme shall contain adequate safeguards to protect the (1) _____ in accordance with (2) _____.</p>\r\n\r\n<p> </p>",
+  "options": {
+    "a": "<p>(1) completeness of the data; (2) ICAO Annex 17</p>",
+    "b": "<p>(1) completeness of the data; (2) ICAO Annex 19</p>",
+    "c": "<p>(1) source(s) of data; (2) ICAO Annex 17</p>",
+    "d": "<p>(1) source(s) of data; (2) ICAO Annex 19</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}
