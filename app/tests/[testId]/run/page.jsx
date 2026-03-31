@@ -42,9 +42,18 @@ export default async function RunTestPage({ params, searchParams }) {
 
   const explicitQuestionIds = parseQuestionIds(resolvedSearchParams?.questionIds);
   const explicitQuestionIdSet = new Set(explicitQuestionIds);
-  const scopedEntries = explicitQuestionIds.length
+  const filter = resolvedSearchParams?.filter || null;
+
+  let scopedEntries = explicitQuestionIds.length
     ? test.entries.filter((entry) => explicitQuestionIdSet.has(String(entry.id)))
     : test.entries;
+
+  // Apply filters (seen/not-seen are resolved client-side via questionIds)
+  if (filter === "with-attachment") {
+    scopedEntries = scopedEntries.filter((e) => e.hasAttachment);
+  } else if (filter === "without-attachment") {
+    scopedEntries = scopedEntries.filter((e) => !e.hasAttachment);
+  }
 
   if (!scopedEntries.length) {
     notFound();

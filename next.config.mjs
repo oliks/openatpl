@@ -8,6 +8,7 @@ const nextConfig = {
       "/tests/[testId]": ["./data/tests/**/*"],
       "/tests/[testId]/run": ["./data/tests/**/*"],
       "/api/question": ["./data/tests/**/*"],
+      "/api/subject": ["./data/tests/**/*"],
     },
   },
 };

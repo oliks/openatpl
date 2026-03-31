@@ -451,8 +451,10 @@ a {
   border: 1px solid var(--line);
   border-radius: 16px;
   box-shadow: var(--shadow);
-  padding: 1rem;
+  padding: 1.15rem;
   max-width: 560px;
+  display: grid;
+  gap: 0.75rem;
 }
 
 .slider-form {
@@ -462,8 +464,9 @@ a {
 
 .create-test-form {
   display: grid;
-  gap: 0.9rem;
+  gap: 1rem;
   min-width: 0;
+  max-width: 560px;
   overflow: hidden;
 }
 
@@ -513,6 +516,30 @@ a {
 .slider-label {
   font-family: var(--font-heading), sans-serif;
   font-size: 0.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.count-input {
+  width: 4.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.35rem 0.5rem;
+  text-align: center;
+  -moz-appearance: textfield;
+}
+
+.count-input::-webkit-inner-spin-button,
+.count-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
 
 .question-slider {
@@ -526,6 +553,75 @@ a {
   justify-content: space-between;
   font-size: 0.8rem;
   color: var(--ink-soft);
+}
+
+.field-heading {
+  font-family: var(--font-heading), sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filter-mode-toggle {
+  appearance: none;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  background: rgba(15, 122, 105, 0.08);
+  color: var(--accent);
+  font-family: var(--font-heading), sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.5rem;
+  cursor: pointer;
+}
+
+.filter-mode-toggle:hover {
+  background: rgba(15, 122, 105, 0.16);
+}
+
+.filter-group {
+  display: grid;
+  gap: 0.4rem;
+  padding-top: 0.4rem;
+}
+
+.filter-group-label {
+  font-family: var(--font-heading), sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink-soft);
+  margin-bottom: 0.15rem;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.filter-option {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-size: 0.88rem;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 0.28rem 0.1rem;
+}
+
+.filter-option input[type="radio"],
+.filter-option input[type="checkbox"] {
+  accent-color: var(--accent);
+  margin: 0;
+  cursor: pointer;
+}
+
+.filter-option:has(input:disabled) {
+  opacity: 0.45;
+  cursor: not-allowed;
 }
 
 .runner-layout {

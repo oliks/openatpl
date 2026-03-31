@@ -108,7 +108,8 @@ Each subject has an `index.json` that lists all questions:
       "file": "questions/0001.json",
       "questionId": "032-0001",
       "questionNumber": "032-0001",
-      "correctOption": "a"
+      "correctOption": "a",
+      "hasAttachment": true
     }
   ]
 }

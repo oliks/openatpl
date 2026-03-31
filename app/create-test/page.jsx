@@ -24,9 +24,7 @@ export default async function CreateTestPage() {
         <p className="muted">Choose subject and question count, then save the test.</p>
       </div>
 
-      <section className="setup-card">
-        <CreateTestForm subjects={subjects} />
-      </section>
+      <CreateTestForm subjects={subjects} />
     </main>
   );
 }

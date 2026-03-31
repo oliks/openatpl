@@ -56,9 +56,7 @@ function normalizeQuestionIds(value) {
   const unique = new Set();
   for (const item of value) {
     const normalized = String(item || "").trim();
-    if (!/^\d+$/.test(normalized)) {
-      continue;
-    }
+    if (!normalized) continue;
     unique.add(normalized);
   }
   return [...unique];
