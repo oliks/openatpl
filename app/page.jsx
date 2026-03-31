@@ -8,8 +8,32 @@ const GITHUB_URL = "https://github.com/oliks/openatpl";
 export default async function HomePage() {
   const subjects = await getAllTestsSummary();
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    name: "OpenATPL",
+    description: "Free open-source EASA ATPL question bank with 12,000+ practice questions across all 13 ATPL(A) subjects.",
+    url: "https://openatpl.io",
+    applicationCategory: "EducationalApplication",
+    operatingSystem: "Web",
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "EUR",
+    },
+    educationalLevel: "Professional",
+    audience: {
+      "@type": "Audience",
+      audienceType: "Airline Transport Pilot License students",
+    },
+  };
+
   return (
     <main className="app-shell">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <section className="hero">
         <div className="eyebrow">Open Source ATPL Bank</div>
         <h1>EASA 2020 ECQB Bank Practice</h1>

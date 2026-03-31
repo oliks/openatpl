@@ -22,25 +22,46 @@ const bodyFont = Bitter({
 });
 
 export const metadata = {
-  title: "OpenATPL Practice",
-  description: "Open-source EASA ATPL question bank and practice platform. No accounts, no subscriptions, no fees — just questions.",
+  metadataBase: new URL("https://openatpl.io"),
+  title: {
+    default: "OpenATPL — Free EASA ATPL Question Bank Practice",
+    template: "%s | OpenATPL",
+  },
+  description: "Free open-source EASA ATPL question bank with 12,000+ practice questions across all 13 ATPL(A) subjects. No accounts, no subscriptions — just questions.",
+  keywords: [
+    "ATPL", "EASA", "ATPL questions", "ATPL practice", "ATPL exam",
+    "EASA ATPL", "ECQB", "pilot exam", "airline pilot", "aviation exam",
+    "ATPL question bank", "ATPL study", "free ATPL", "ATPL test",
+    "air law", "meteorology", "navigation", "principles of flight",
+    "mass and balance", "performance", "flight planning",
+  ],
+  authors: [{ name: "OpenATPL" }],
+  creator: "OpenATPL",
   icons: {
     icon: "/favicon.ico",
     apple: "/apple-touch-icon.png",
   },
+  alternates: {
+    canonical: "https://openatpl.io",
+  },
   openGraph: {
     title: "OpenATPL — Free EASA ATPL Question Bank",
-    description: "Open-source EASA ATPL question bank and practice platform. No accounts, no subscriptions, no fees — just questions.",
+    description: "Free open-source EASA ATPL question bank with 12,000+ practice questions. No accounts, no subscriptions — just questions.",
     url: "https://openatpl.io",
     siteName: "OpenATPL",
     images: [{ url: "/gitsocial.png", width: 1280, height: 640 }],
     type: "website",
+    locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
     title: "OpenATPL — Free EASA ATPL Question Bank",
-    description: "Open-source EASA ATPL question bank and practice platform.",
+    description: "Free open-source EASA ATPL question bank with 12,000+ practice questions.",
     images: ["/gitsocial.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
 };
 
