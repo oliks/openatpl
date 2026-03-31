@@ -1,9 +1,13 @@
 import { Space_Grotesk, Bitter } from "next/font/google";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/react";
 import ThemeToggle from "@/components/ThemeToggle";
 import "./globals.css";
 
+const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_ID;
+
 const GITHUB_URL = "https://github.com/oliks/openatpl";
+const BUY_ME_A_COFFEE_USERNAME = "openatpl";
 
 const headingFont = Space_Grotesk({
   subsets: ["latin"],
@@ -49,6 +53,13 @@ export default function RootLayout({ children }) {
             __html: `(function(){try{var t=localStorage.getItem("openatpl-theme");if(t==="dark"||(t!=="light"&&matchMedia("(prefers-color-scheme:dark)").matches))document.documentElement.setAttribute("data-theme","dark")}catch(e){}})()`,
           }}
         />
+        {CLARITY_ID && (
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,"clarity","script","${CLARITY_ID}");`,
+            }}
+          />
+        )}
       </head>
       <body className={`${headingFont.variable} ${bodyFont.variable}`}>
         <header className="topbar">
@@ -72,7 +83,7 @@ export default function RootLayout({ children }) {
           data-name="BMC-Widget"
           data-cfasync="false"
           src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-          data-id="openatpl"
+          data-id={BUY_ME_A_COFFEE_USERNAME}
           data-description="Support me on Buy me a coffee!"
           data-message=""
           data-color="#0f7a69"
@@ -86,6 +97,7 @@ export default function RootLayout({ children }) {
             {" "}Contribute via <a href={GITHUB_URL} target="_blank" rel="noreferrer">GitHub</a>.
           </p>
         </footer>
+        <Analytics />
       </body>
     </html>
   );
