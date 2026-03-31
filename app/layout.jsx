@@ -3,7 +3,7 @@ import Link from "next/link";
 import ThemeToggle from "@/components/ThemeToggle";
 import "./globals.css";
 
-const GITHUB_URL = "https://github.com/openatpl/openatpl";
+const GITHUB_URL = "https://github.com/oliks/openatpl";
 
 const headingFont = Space_Grotesk({
   subsets: ["latin"],

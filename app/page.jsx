@@ -3,7 +3,7 @@ import MyTestsList from "@/components/MyTestsList";
 import { getAllTestsSummary } from "@/lib/test-bank";
 
 export const dynamic = "force-dynamic";
-const GITHUB_URL = "https://github.com/openatpl/openatpl";
+const GITHUB_URL = "https://github.com/oliks/openatpl";
 
 export default async function HomePage() {
   const subjects = await getAllTestsSummary();
