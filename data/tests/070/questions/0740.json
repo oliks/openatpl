@@ -1,0 +1,14 @@
+{
+  "number": 740,
+  "questionId": "070-0740",
+  "questionNumber": "070-0740",
+  "stemHtml": "<p>On a flight from Cape Town (South Africa) to Frankfurt (Germany), the significant weather chart shows crossing the ITCZ with CB forecast up to FL450. The crew can expect to encounter\u2026</p>",
+  "options": {
+    "a": "<p>Light turbulence, with the necessity to put the seatbelt sign on.</p>",
+    "b": "<p>Icing of all pitot probes and all static ports which will necessitate the use backup instruments.</p>",
+    "c": "<p>Icing on the AoA vanes giving wrong angle of attack indications.</p>",
+    "d": "<p>Clear air turbulence up to FL450.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

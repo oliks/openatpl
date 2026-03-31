@@ -1,0 +1,14 @@
+{
+  "number": 2297,
+  "questionId": "081-2297",
+  "questionNumber": "081-2297",
+  "stemHtml": "<p>Consider an aircraft flying at exactly the critical angle of attack of the main wing. If all other parameters remain the same, when the wing spoilers are extended, the wing will...</p>",
+  "options": {
+    "a": "<p>not stall, because its lift coefficient will increase, and its drag coefficient will decrease.</p>",
+    "b": "<p>stall, because its critical angle of attack will decrease.</p>",
+    "c": "<p>not stall, because its critical angle of attack will increase.</p>",
+    "d": "<p>stall, because its lift coefficient will decrease, and its drag coefficient will increase.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

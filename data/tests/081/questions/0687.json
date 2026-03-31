@@ -1,0 +1,14 @@
+{
+  "number": 687,
+  "questionId": "081-0687",
+  "questionNumber": "081-0687",
+  "stemHtml": "<p>Which parameters are at least required for the determination of Mach number to show on a display?</p>",
+  "options": {
+    "a": "<p>Outside air temperature and static pressure.</p>",
+    "b": "<p>Dynamic pressure and static pressure.</p>",
+    "c": "<p>Outside air temperature and dynamic pressure.</p>",
+    "d": "<p>Density altitude and dynamic pressure.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

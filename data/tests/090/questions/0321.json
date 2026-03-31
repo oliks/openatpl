@@ -1,0 +1,14 @@
+{
+  "number": 321,
+  "questionId": "090-0321",
+  "questionNumber": "090-0321",
+  "stemHtml": "<p>At what point should a flight crew switch to a discrete frequency (DEF) following their landing?</p>",
+  "options": {
+    "a": "<p>ATC will transfer you when they deem it appropriate.</p>",
+    "b": "<p>When on the ground on the frequency stated in AIP.</p>",
+    "c": "<p>When on the ground on the frequency stated in the aerodrome charts.</p>",
+    "d": "<p>When emergency ground crew believe that the aircraft can use it.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

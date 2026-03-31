@@ -1,0 +1,14 @@
+{
+  "number": 1567,
+  "questionId": "081-1567",
+  "questionNumber": "081-1567",
+  "stemHtml": "Consider only the wing and tail moments of an aircraft. How will the following changes affect the relationship between C<sub>M</sub> and Alpha?",
+  "options": {
+    "a": "<p>Moving the tailplane aft and increasing the surface will increase the negative C<sub>M</sub> for a given AoA.</p>",
+    "b": "Moving the wing forward will have the same effect as moving the tailplane aft.",
+    "c": "Moving the tailplane forward and decreasing the surface will increase the positive C<sub>M</sub> for a given AoA.",
+    "d": "Increasing the wing area will decrease the C<sub>M</sub> variation with AoA."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1142,
+  "questionId": "081-1142",
+  "questionNumber": "081-1142",
+  "stemHtml": "<p>You are flying at V<strong><sub>MD</sub></strong> and encounter turbulence which leads to difficulty in aircraft handling. What should you do?</p>",
+  "options": {
+    "a": "<p>Increase speed slightly above V<sub>MD</sub>.</p>",
+    "b": "<p>Decrease speed slightly below V<sub>MD</sub>.</p>",
+    "c": "<p>Maintain current speed at V<sub>MD</sub>.</p>",
+    "d": "<p>Reduce speed to below the stall speed to avoid damage.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

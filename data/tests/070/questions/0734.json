@@ -1,0 +1,14 @@
+{
+  "number": 734,
+  "questionId": "070-0734",
+  "questionNumber": "070-0734",
+  "stemHtml": "<p>Given the following information, state the maximum time to be used in order to determine the furthest distance that an adequate take-off alternate aerodrome may be situated from the departure aerodrome for a two-engine aeroplane. Assume the departure aerodrome cannot be used as a take-off alternate due to meteorological reasons.</p><p>1- Approved ETOPS operational diversion time: 180 minutes <br>2- The times are determined using the One-Engine-Inoperative cruising speed according to the AFM, in still-air standard conditions based on the actual take-off mass<br>3- No MEL restrictions apply</p>",
+  "options": {
+    "a": "<div>60 minutes</div>",
+    "b": "<div>120 minutes</div>",
+    "c": "<div>90 minutes</div>",
+    "d": "<p>180 minutes</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2121,
+  "questionId": "081-2121",
+  "questionNumber": "081-2121",
+  "stemHtml": "<div>If the density altitude increases, what happens to the Minimum Control Speed (V<sub>MC</sub>)?</div>",
+  "options": {
+    "a": "<div>As thrust increases, V<sub>MC</sub> increases.</div>",
+    "b": "<div>As density increases, V<sub>MC</sub> decreases.</div>",
+    "c": "<div>As thrust decreases, V<sub>MC</sub> decreases.</div>",
+    "d": "As density decreases, V<sub>MC</sub> increases."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

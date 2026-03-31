@@ -1,0 +1,19 @@
+{
+  "number": 2268,
+  "questionId": "081-2268",
+  "questionNumber": "081-2268",
+  "stemHtml": "<p>Refer to figure. <br /> \rIgnoring any change in altitude (not significant), an aircraft is flying with autopilot engaged, idle power set, and using pitch to control speed. How will M<strong><sub>CRIT</sub></strong> (Critical Mach Number) change according to the positions on the diagram above?</p>",
+  "options": {
+    "a": "<p>M<sub>CRIT</sub> will decrease between positions 3 and 4 due to decreasing AoA.</p>",
+    "b": "<p>M<sub>CRIT</sub> is constant at positions 1 and 4, considering that mass is the same at these positions.</p>",
+    "c": "<p>M<sub>CRIT</sub> is constant at positions 2 and 3, due to a decrease in Mach Number.</p>",
+    "d": "<p>M<sub>CRIT</sub> is constant from positions 1 to 2, and another M<sub>CRIT</sub> is constant from positions 3 to 4.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0044",
+      "publicUrl": "/attachments/081/081-att-0044.jpg"
+    }
+  ]
+}

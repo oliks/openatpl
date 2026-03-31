@@ -1,0 +1,14 @@
+{
+  "number": 633,
+  "questionId": "090-0633",
+  "questionNumber": "090-0633",
+  "stemHtml": "<p>You are trying to communicate with ATC when they cut your transmission and you hear \"Stop transmitting, Mayday\". What should you do?</p>",
+  "options": {
+    "a": "<p>Stop transmitting because there is someone in distress </p>",
+    "b": "<p>Try to transmit you message from where you were interupted</p>",
+    "c": "<p>Transmit your message from the beginning</p>",
+    "d": "<p>Broadcast the distress message to all stations</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

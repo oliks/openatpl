@@ -1,0 +1,14 @@
+{
+  "number": 996,
+  "questionId": "070-0996",
+  "questionNumber": "070-0996",
+  "stemHtml": "<p>An aircraft cowling is scheduled for maintenance work. The maintenance release has been signed and completed with the date and details of the work carried out.The work has not however been started but eventually an engineer arrives to complete the repair. Can the flight commence?</p>",
+  "options": {
+    "a": "<p>No, because the maintenance release was signed before the work was done. A new maintenance release must now be filed before the flight can commence.<strong> </strong></p>",
+    "b": "<p>Yes, after the engineer verbally confirms to the commander in person that the work has been completed.</p>",
+    "c": "<p>Only if the commander completes an inspection of the work and is satisfied with its completion.</p>",
+    "d": "<p>Yes, because a maintenance release has already been filed.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

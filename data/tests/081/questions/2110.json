@@ -1,0 +1,14 @@
+{
+  "number": 2110,
+  "questionId": "081-2110",
+  "questionNumber": "081-2110",
+  "stemHtml": "<p>A light aircraft with mechanical flight controls occasionally experiences uncomfortable pitch oscillations after encountering normal turbulence. The pilot does not feel any vibrations, but does notice some excessive slack or play in the elevator linkages after the flight. What potential hazards could this situation cause if not addressed by maintenance?</p>",
+  "options": {
+    "a": "<p>This phugoid-type oscillation is likely to increase in magnitude and the aeroplane may enter a stall or encounter an overspeed situation if the oscillation worsens.</p>",
+    "b": "<p>A poorly balanced control surface is creating excessive restoring forces and this short-period motion may cause excessive stress on the airframe.</p>",
+    "c": "<p>The flutter may gradually worsen, and the elevator may vibrate so vigorously that it comes off the hinges and separates from the aeroplane in flight.</p>",
+    "d": "<p>Compared to a phugoid, the short period motion leads to a change in pitch and speed, which, if NOT corrected, may lead to a stall or overspeed situation.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 19,
+  "questionId": "070-0019",
+  "questionNumber": "070-0019",
+  "stemHtml": "<p>Refer to figure. <br>A crate with the label shown is about to be loaded in an aircraft. The Dangerous Goods label is slightly damaged. According to the orange label, the box must be loaded\u2026</p>",
+  "options": {
+    "a": "in a cargo compartment on its own.",
+    "b": "in cargo aircraft only.",
+    "c": "in a passenger aircraft, prior to passengers boarding.",
+    "d": "with caution, and by hand only, not on a mechanical platform."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0030",
+      "publicUrl": "/attachments/070/070-att-0030.jpg"
+    }
+  ]
+}

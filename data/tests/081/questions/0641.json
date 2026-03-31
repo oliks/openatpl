@@ -1,0 +1,14 @@
+{
+  "number": 641,
+  "questionId": "081-0641",
+  "questionNumber": "081-0641",
+  "stemHtml": "<p>The C<strong><sub>m</sub></strong> (pitching moment) vs alpha (angle of attack) graph is mainly determined by aerofoil and aircraft design, and therefore the pilot has limited influence over the graph. One of the parameters that the pilot can influence is the position of the\u2026</p>",
+  "options": {
+    "a": "<p>aerodynamic centre, by using flaps.</p>",
+    "b": "<p>centre of gravity, which affects the rate of change of C<sub>m</sub> with a change in AoA.</p>",
+    "c": "<p>neutral point, for positive or negative C<sub>m</sub>.</p>",
+    "d": "<p>centre of pressure, by changing alpha to achieve appropriate C<sub>m</sub> value.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

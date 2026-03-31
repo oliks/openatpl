@@ -1,0 +1,14 @@
+{
+  "number": 949,
+  "questionId": "070-0949",
+  "questionNumber": "070-0949",
+  "stemHtml": "<p>A pilot is performing the pre-flight preparations on an aircraft whose first Certificate of Airworthiness was issued in 2010. This is the first time the pilot is operating an aircraft where a Flight Data Recorder (FDR) is required. The following is a requirement about the operation of the FDR\u2026</p>",
+  "options": {
+    "a": "<p>Regardless of pilot action, recording will start and stop automatically to ensure the FDR can record data at all times when the aeroplane is capable of moving under its own power.</p>",
+    "b": "<p>The FDR sensors must be switched on, as data are recorded from sensors that are independent from the information shown to the flight crew, to improve integrity of the recording.</p>",
+    "c": "Regardless of pilot action, the FDR automatically records at any time when there are persons on board the aeroplane to determine liability in the event of a failure of any system.",
+    "d": "<p>The FDR must be manually started when the flight crew begin the pre-flight preparations and then manually stopped when the doors are opened after landing, to preserve the data.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

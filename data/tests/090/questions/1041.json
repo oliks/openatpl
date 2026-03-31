@@ -1,0 +1,14 @@
+{
+  "number": 1041,
+  "questionId": "090-1041",
+  "questionNumber": "090-1041",
+  "stemHtml": "<p>You receive the following from ATC:</p>\r\n\r\n<p>\u201cG-ABCD, turn right heading 050, traffic in your 11 o\u2019clock position from left to right, Gulfstream G450, climbing\u201d. You now have a TCAS TA (Traffic Advisory).</p>\r\n\r\n<p>What would be your reply?</p>",
+  "options": {
+    "a": "<p>Unable, TCAS TA, G-ABCD.</p>",
+    "b": "<p>Heading right, G-ABCD.</p>",
+    "c": "<p>Turn right heading 050, G-ABCD.</p>",
+    "d": "<p>Heading 050, G-ABCD.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

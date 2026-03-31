@@ -1,0 +1,14 @@
+{
+  "number": 31,
+  "questionId": "070-0031",
+  "questionNumber": "070-0031",
+  "stemHtml": "<p>An aircraft may be required to carry additional survival equipment. The range and quantity of this equipment depends on the number of persons on board and the route to be flown. What is the correct reason for carrying this additional survival equipment?</p>",
+  "options": {
+    "a": "<p>The area being flown over is designated as one in which aircraft must carry survival equipment for dropping to other aircraft.</p>",
+    "b": "<p>The aircraft is carrying extra passengers under a company procedure for Last Minute Changes (LMCs).</p>",
+    "c": "<p>The aircraft is being operated in areas in which search and rescue would be especially difficult.</p>",
+    "d": "<p>This is required backup equipment in case the main equipment does NOT work.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1031,
+  "questionId": "081-1031",
+  "questionNumber": "081-1031",
+  "stemHtml": "<p>Consider an aircraft flying straight and level with a constant thrust setting in the speed unstable region of the drag curve. Suddenly, the aircraft encounters windshear and the headwind changes to a tailwind. What happens to the indicated airspeed and total drag?</p>",
+  "options": {
+    "a": "<p>The airspeed remains constant, and there is no change in total drag.</p>",
+    "b": "<p>The airspeed increases. The parasite drag increases more than the induced drag decreases which leads to an increase in total drag.</p>",
+    "c": "<p>The airspeed decreases. The parasite drag decreases, but induced drag increases more than the decrease in parasite drag so the total drag increases.</p>",
+    "d": "<p>The airspeed decreases. The parasite drag decreases by more than the induced drag increases, so the total drag decreases.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

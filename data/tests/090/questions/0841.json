@@ -1,0 +1,14 @@
+{
+  "number": 841,
+  "questionId": "090-0841",
+  "questionNumber": "090-0841",
+  "stemHtml": "<p>An aircraft on an IFR flight in IMC conditions, and flying in airspace where procedural separation is being applied, experiences radio communication failure. When passing over a compulsory reporting point, what action should the PIC take?</p>",
+  "options": {
+    "a": "<p>Maintain last assigned speed and level, or minimum flight altitude if higher, for a period of 10 minutes. Thereafter adjust speed and level in accordance with the flight plan.</p>",
+    "b": "<p>Maintain last assigned level, or minimum flight altitude if higher, turn right by 30 degrees and parallel to the flight plan route with a 5 NM offset, until reaching the destination aerodrome.</p>",
+    "c": "<p>Maintain last assigned speed and level, or minimum flight altitude if higher, for a period of 20 minutes. Thereafter adjust speed and level in accordance with the flight plan.</p>",
+    "d": "<p>Maintain last assigned speed and initiate a 300 ft per minute climb until reaching VMC conditions, then divert to the nearest suitable aerodrome.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

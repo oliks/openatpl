@@ -1,0 +1,14 @@
+{
+  "number": 600,
+  "questionId": "081-0600",
+  "questionNumber": "081-0600",
+  "stemHtml": "<p>An aeroplane maintains straight and level flight at a speed of 2V<strong><sub>S</sub></strong>. A vertical gust causes a load factor of 3. If the same aircraft at the same weight was instead at a speed of 1.4V<strong><sub>S</sub></strong>,<sub> </sub>determine the load factor, n, caused by the same gust.</p>",
+  "options": {
+    "a": "<p>Not greater than 1.96, because the aeroplane will stall with any higher load factor than this at 1.4V<sub>S</sub></p>",
+    "b": "<p>n = 2.1</p>",
+    "c": "<p>n = 3.6</p>",
+    "d": "<p>n = 2.4</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

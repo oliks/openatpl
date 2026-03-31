@@ -1,0 +1,14 @@
+{
+  "number": 276,
+  "questionId": "070-0276",
+  "questionNumber": "070-0276",
+  "stemHtml": "<p>Is there any case where a CAT Operator may operate within the constraints of the MMEL instead of using an MEL?</p>",
+  "options": {
+    "a": "<p>Yes, if this arrangement is approved by the competent authority.</p>",
+    "b": "<p>No, the MMEL is never approved by the competent authorities since all operators must create their own MEL.</p>",
+    "c": "<p>Yes, the operator can choose to use the MMEL instead of the MEL if it suits their needs better.</p>\r\n",
+    "d": "No, as the MMEL is written based on the MEL."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

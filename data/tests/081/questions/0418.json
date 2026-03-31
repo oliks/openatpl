@@ -1,0 +1,14 @@
+{
+  "number": 418,
+  "questionId": "081-0418",
+  "questionNumber": "081-0418",
+  "stemHtml": "You are planning an IFR flight and have to comply with published speeds for your aircraft category at the arrival aerodrome. What can happen if the aircraft is faster than the published speed upon arrival?",
+  "options": {
+    "a": "The aircraft may be bank angle or stall speed limited.",
+    "b": "The aircraft may be rate of turn or stall speed limited.",
+    "c": "The aircraft may fly outside the limits of the safe zone due to its turn radius.",
+    "d": "The aircraft may fly outside the limits of the safe zone and be roll rate limited."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

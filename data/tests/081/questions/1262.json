@@ -1,0 +1,14 @@
+{
+  "number": 1262,
+  "questionId": "081-1262",
+  "questionNumber": "081-1262",
+  "stemHtml": "<p>Some wings are designed with a smaller angle of incidence towards the wing tip or a profile with a different camber towards the wing tip. The reason for this is to...</p>",
+  "options": {
+    "a": "<p>ensure that the entire wing stall occurs when the aeroplane is at a specific pitch angle, and to create an aeroplane with predictable stall characteristics.</p>",
+    "b": "<p>delay the stall at the wing tip to reduce the likelihood of the aeroplane experiencing significant rolling moments when stalled.</p>",
+    "c": "<p>reduce the stalling angle of attack at the wing tips to ensure the wing tips stall first so there is a more gradual loss of lift when stalling.</p>",
+    "d": "<p>evenly spread the lift across the wing planform and increase its efficiency, resulting in minimum drag at the optimum angle of attack.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

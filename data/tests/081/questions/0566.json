@@ -1,0 +1,14 @@
+{
+  "number": 566,
+  "questionId": "081-0566",
+  "questionNumber": "081-0566",
+  "stemHtml": "<p>You are descending and your altitude is decreasing. Why does the aircraft's buffet margin increase?</p>",
+  "options": {
+    "a": "M<sub>MIN</sub> and M<sub>MAX</sub> both decrease",
+    "b": "The difference between M<sub>MIN</sub> and M<sub>MAX</sub> increases",
+    "c": "The difference between M<sub>MIN</sub> and M<sub>MAX</sub> decreases",
+    "d": "M<sub>MIN</sub> and M<sub>MAX</sub> both increase"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

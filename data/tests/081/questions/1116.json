@@ -1,0 +1,14 @@
+{
+  "number": 1116,
+  "questionId": "081-1116",
+  "questionNumber": "081-1116",
+  "stemHtml": "<p>CS-23 and CS-25 specify the requirements for an aircraft's design manoeuvring speed (V<strong><sub>A</sub></strong>). Given that V<strong><sub>A</sub></strong> is an equivalent airspeed (EAS), it should remain relevant at most altitudes. However, for jet aeroplanes with conventional flight controls, its value may become unreliable at high altitude because the\u2026</p>",
+  "options": {
+    "a": "<p>airspeed indication is based on a Mach number at high altitude, making V<sub>A</sub> as an EAS irrelevant.</p>",
+    "b": "<p>higher stall speed and low control forces make it easier to produce a high load factor.</p>",
+    "c": "<p>airspeed indication is invalid due to the compressibility effects at high subsonic Mach numbers.</p>",
+    "d": "<p>the wings may enter a shock stall if flying at the low-altitude V<sub>A</sub> since the aeroplane will exceed M<sub>CRIT</sub>.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

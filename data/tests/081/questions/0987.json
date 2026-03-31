@@ -1,0 +1,14 @@
+{
+  "number": 987,
+  "questionId": "081-0987",
+  "questionNumber": "081-0987",
+  "stemHtml": "<p>When flying icing conditions, which of the following may occur to cause a stall without any prior warning in the cockpit?</p>",
+  "options": {
+    "a": "<p>The AoA sensor frozen in a position with extremely high angle of attack.</p>",
+    "b": "<p>Pitot tubes frozen over in the descent, giving erroneous indications of very low speed.</p>",
+    "c": "<p>Ice formation on the horizontal stabiliser leading edge.</p>",
+    "d": "<p>Clear ice on the wing, reducing the critical angle of attack by disturbing the airflow over the aerofoil.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

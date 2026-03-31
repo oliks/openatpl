@@ -1,0 +1,19 @@
+{
+  "number": 786,
+  "questionId": "081-0786",
+  "questionNumber": "081-0786",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe image illustrates the same aeroplane flying at two different angles of attack (AoA), 2\u00b0 and 12\u00b0, and a simplified representation of the streamlines in the 3D airflow around the wing. Assuming that the aircraft flies at the same speed and altitude but at the two different angles of attack shown, which of the following statements regarding wingtip vortices is correct?</p>",
+  "options": {
+    "a": "<p>When the aeroplane is flying at 12\u00b0 AoA, the wingtip vortices will be stronger because of a greater pressure differential between the lower and upper sides of the wing.</p>",
+    "b": "<p>When the aeroplane is flying at 2\u00b0 AoA, it will have stronger wingtip vortices because their rotational energy will reduce the amount of downwash behind the wing.</p>",
+    "c": "<p>When the aeroplane is flying at 12\u00b0 AoA it must be lighter, and will have weaker wingtip vortices since its AoA reduces the energy difference between the wingtips.</p>",
+    "d": "<p>The wingtip vortices will have the same strength in both situations since the aeroplane is flying at the same airspeed and the wings will produce the same amount of lift.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0191",
+      "publicUrl": "/attachments/081/081-att-0191.jpg"
+    }
+  ]
+}

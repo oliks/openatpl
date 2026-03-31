@@ -1,0 +1,19 @@
+{
+  "number": 991,
+  "questionId": "081-0991",
+  "questionNumber": "081-0991",
+  "stemHtml": "Refer to figure.  <br />  A pilot is flying an aeroplane that is in a level, coordinated turn while maintaining a constant airspeed is attempting to follow flight path number 3, but finds that the load factor is becoming increasingly uncomfortable in order to achieve the required rate of turn. What could the pilot do in an attempt to reduce the load factor?",
+  "options": {
+    "a": "The pilot should follow flight path number 1, which will require less nose-up elevator and thrust to maintain altitude and speed.",
+    "b": "The pilot should remain on flight path number 3 and apply more rudder as this enables a reduction in bank angle, which reduces the load factor.",
+    "c": "Reduce speed as the load factor is a function of lift and proportional to the square of the airspeed in a level, coordinated turn.",
+    "d": "The pilot should reduce both speed and the amount of nose-up elevator, while maintaining the required bank angle."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0118",
+      "publicUrl": "/attachments/081/081-att-0118.jpg"
+    }
+  ]
+}

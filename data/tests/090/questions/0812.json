@@ -1,0 +1,14 @@
+{
+  "number": 812,
+  "questionId": "090-0812",
+  "questionNumber": "090-0812",
+  "stemHtml": "<p>A pilot switched his/her radio to the ground monitoring the frequency. Select a PBN related message\u2026</p>",
+  "options": {
+    "a": "<p>Primair 350, cleared destination via the DSX5U departure, ACU9C transition, climb initially 4000 ft and squawk 1000.</p>",
+    "b": "<p>Tower, Primair 350, UNABLE RNAV due equipment. <strong> </strong><strong> </strong></p>",
+    "c": "<p>Primair 350, hold position and monitor tower.</p>",
+    "d": "<p>Primair 350, taxi holding point Alpha runway 30.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

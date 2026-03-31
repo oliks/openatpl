@@ -1,0 +1,14 @@
+{
+  "number": 680,
+  "questionId": "081-0680",
+  "questionNumber": "081-0680",
+  "stemHtml": "<p>If the actual CG position is further forward than the CG which is entered in the FMS pre-flight, which of the following is true?</p>",
+  "options": {
+    "a": "<p>Fuel consumption is less than expected.</p>",
+    "b": "<p>Fuel consumption is unaffected.</p>",
+    "c": "<p>Fuel consumption is greater than expected.</p>",
+    "d": "<p>The elevator will not be capable of full control due to this error.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

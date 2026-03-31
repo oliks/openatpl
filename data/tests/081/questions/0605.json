@@ -1,0 +1,14 @@
+{
+  "number": 605,
+  "questionId": "081-0605",
+  "questionNumber": "081-0605",
+  "stemHtml": "<p>A light aircraft flying straight and level has a stall speed of 114 kt. It banks to an angle of 25\u00b0. Calculate the load factor and stall speed in this turn:</p>",
+  "options": {
+    "a": "<p>Load factor = 1.10; Stall speed = 126 kt.</p>",
+    "b": "<p>Load factor = 1.10; Stall speed = 132 kt.</p>",
+    "c": "<p>Load factor = 1.10; Stall speed = 120 kt.</p>",
+    "d": "<p>Load factor = 1.15; Stall speed = 107 kt.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 459,
+  "questionId": "090-0459",
+  "questionNumber": "090-0459",
+  "stemHtml": "<p>After a failure of a single CPDLC message, you revert to voice and have to readback a clearance received from ATC. What phrase should you use in your transmission?</p>",
+  "options": {
+    "a": "<p>DISREGARD CPDLC message (correct readback)</p>",
+    "b": "<p>CPDLC message failure, (correct readback)</p>",
+    "c": "<p>CPDLC failure, (correct readback)</p>",
+    "d": "<p>stop sending CPDLC, (correct readback)</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 233,
+  "questionId": "070-0233",
+  "questionNumber": "070-0233",
+  "stemHtml": "<p>For a Commander to commence a take-off, the visibility at the aerodrome of departure must be equal to or better than the applicable departure minima...</p>",
+  "options": {
+    "a": "<p>irrespective of the applicable minima for landing at the departure aerodrome, provided an en-route alternate aerodrome is available within 25% of the total flight plan distance from the destination aerodrome.</p>",
+    "b": "<p>and equal to or better than the applicable minima for landing at the departure aerodrome, unless two suitable take-off alternate aerodromes are available.</p>",
+    "c": "<p>and equal to or better than the applicable minima for landing at the departure aerodrome, unless a suitable take-off alternate aerodrome is available.</p>",
+    "d": "<p>irrespective of the applicable minima for landing at the departure aerodrome, and with no need to designate a suitable take-off alternate aerodrome.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

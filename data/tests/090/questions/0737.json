@@ -1,0 +1,14 @@
+{
+  "number": 737,
+  "questionId": "090-0737",
+  "questionNumber": "090-0737",
+  "stemHtml": "In  the event of CPDLC failure for all aircraft, what communication shall be transmitted by the ATC unit?",
+  "options": {
+    "a": "All stations CPDLC failure (instructions)",
+    "b": "<p>Disregard CPDLC</p>",
+    "c": "CPDLC message failure",
+    "d": "(All stations) stop sending CPDLC requests (until advised) (reason)"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1012,
+  "questionId": "090-1012",
+  "questionNumber": "090-1012",
+  "stemHtml": "<p>When approaching the destination airfield, the pilot is listening to the broadcast ATIS message. Regarding clouds, assuming there are no CBs reported, what will this ATIS message report?</p>",
+  "options": {
+    "a": "All clouds at all altitudes in the vicinity of the destination airfield, and in areas where approach procedures are defined.",
+    "b": "Clouds below 1500 m (5000 ft) or below the highest minimum sector altitude, whichever is greater.",
+    "c": "<p>Information about all clouds in the TMA concerned.</p>",
+    "d": "Only clouds below 1500 m (5000 ft)."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

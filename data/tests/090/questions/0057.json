@@ -1,0 +1,14 @@
+{
+  "number": 57,
+  "questionId": "090-0057",
+  "questionNumber": "090-0057",
+  "stemHtml": "A pilot is flying an aircraft which is not fitted with ACARS. How can the pilot obtain routine weather reports (METARs) for specific airports?",
+  "options": {
+    "a": "Maintain listening watch on the VOLMET frequency.",
+    "b": "Request SIGMET on the international guard frequency.",
+    "c": "Maintain listening watch on the AFIS frequency.",
+    "d": "Enquire via voice on the frequency allocated to ATIS."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1177,
+  "questionId": "070-1177",
+  "questionNumber": "070-1177",
+  "stemHtml": "<p>According to ICAO Annex 6, a Take-off Alternate is an alternate aerodrome at which an aircraft would be able to...</p>",
+  "options": {
+    "a": "<p>take-off, if it is not possible to use the aerodrome of departure.</p>",
+    "b": "<p>land, in the event that a diversion becomes necessary while en route, and where a subsequent take-off shall meet all performance requirements.</p>",
+    "c": "<p>land, if a subsequent take-off from the destination aerodrome may become impossible or inadvisable.</p>",
+    "d": "<p>land, should this become necessary shortly after take-off and it is not possible to use the aerodrome of departure.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

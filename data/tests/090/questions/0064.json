@@ -1,0 +1,14 @@
+{
+  "number": 64,
+  "questionId": "090-0064",
+  "questionNumber": "090-0064",
+  "stemHtml": "<p>RADAR instructs aircraft X-BC:\"X-BC squawk standby\". What does this mean?</p>",
+  "options": {
+    "a": "<p>X-BC is requested to standby for radar vectors.</p>",
+    "b": "<p>X-BC is requested to standby as the radar controller is busy.</p>",
+    "c": "<p>X-BC is requested to standby on the frequency.</p>",
+    "d": "<p>X-BC is requested to switch to standby position.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

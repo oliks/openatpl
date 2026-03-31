@@ -1,0 +1,14 @@
+{
+  "number": 801,
+  "questionId": "090-0801",
+  "questionNumber": "090-0801",
+  "stemHtml": "<div>A pilot is flying IFR in class D airspace and receives the following message on the radio: \"Sunny Air 125, unknown traffic 12 o`clock 3 miles opposite direction 600 feet below descending\". The pilot is not in sight of this traffic. He/she reads back...</div>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "<div>&quot;Unknown traffic 12 o`clock 3 miles 600 feet below descending copied, looking out&quot;, then files a report on this near collision.</div>\r\n",
+    "b": "<div>&quot;Looking out, Sunny Air 125&quot;, then advises the Air Traffic Services when in sight.</div>\r\n",
+    "c": "<div>&quot;Unknown traffic ahead 3 miles 600 feet below descending, not in sight&quot;, then advises Air Traffic Services when in sight.</div>\r\n",
+    "d": "&quot;Unknown traffic ahead 3 miles 600 feet below descending, looking out&quot;, then advises Air Traffic Services when in sight."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

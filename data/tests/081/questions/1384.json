@@ -1,0 +1,14 @@
+{
+  "number": 1384,
+  "questionId": "081-1384",
+  "questionNumber": "081-1384",
+  "stemHtml": "<p>What is the recommended action following failure of the yaw damper(s) of a jet aeroplane, flying at normal cruise altitude and speed prior to encountering Dutch roll problems?</p>",
+  "options": {
+    "a": "<p>Increase Mach number to improve aerodynamic damping of any subsequent Dutch roll motion.</p>",
+    "b": "<p>Manually recover any subsequent Dutch roll motion using rudder.</p>",
+    "c": "<p>Reduce altitude and Mach number.</p>",
+    "d": "<p>No action is required.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

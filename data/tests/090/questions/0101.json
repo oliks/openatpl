@@ -1,0 +1,14 @@
+{
+  "number": 101,
+  "questionId": "090-0101",
+  "questionNumber": "090-0101",
+  "stemHtml": "<p>You have received a TCAS RA to descend at 2000 ft/min. You are currently at 11 000 ft. What should you broadcast to ATC?</p>",
+  "options": {
+    "a": "<p>Radar, G-ACBD, TCAS RA.</p>",
+    "b": "<p>Radar, G-ACBD, descending. Resolution advisory.</p>",
+    "c": "<p>Radar, G-ACBD, TCAS alert.</p>",
+    "d": "<p>Radar, G-ACBD, TCAS conflict. </p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 570,
+  "questionId": "070-0570",
+  "questionNumber": "070-0570",
+  "stemHtml": "<p>Which equipment is necessary to operate in RVSM airspace?</p>\n\n<p>1) two independent altitude measurement systems <br /> \n2) a GPS with altitude reporting system <br /> \n3) an altitude alerting system <br /> \n4) an automatic altitude control system <br /> \n5) a secondary surveillance radar (SSR) transponder with altitude reporting system that can be connected to the altitude measurement system in use for altitude control</p>",
+  "options": {
+    "a": "1), 4)",
+    "b": "1), 2), 3)",
+    "c": "1), 3), 4), 5)",
+    "d": "1), 2), 3), 4), 5)"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

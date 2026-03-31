@@ -1,0 +1,14 @@
+{
+  "number": 1311,
+  "questionId": "081-1311",
+  "questionNumber": "081-1311",
+  "stemHtml": "You are flying at FL 380 and encounter a thunderstorm up ahead. You can\u2019t fly around it, what do you do?",
+  "options": {
+    "a": "<p>Fly at your V<sub>B</sub> speed</p>",
+    "b": "Fly at your V<sub><span style=\"font-size:12.5px\">RA</span></sub> speed",
+    "c": "<p>Fly at your V<sub>S1</sub> speed</p>",
+    "d": "Fly at your V<sub>A</sub> speed"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 765,
+  "questionId": "070-0765",
+  "questionNumber": "070-0765",
+  "stemHtml": "<p>You are flying FL330 and about to enter NAT airspace. You receive the following NAT oceanic clearance from the ATC:</p><p>\"Speedbird 69 cleared to London Heathrow via Track WHISKEY, cross PILLU FL350, Mach .83, request FL350\". Regarding climb from FL330 to FL350 the correct answer is\u2026</p>",
+  "options": {
+    "a": "<p>You can start climb after passing PILLU.</p>",
+    "b": "<p>You can commence climb freely anytime before PILLU.</p>",
+    "c": "<p>You must obtain separate clearance from ATC to commence climb.</p>",
+    "d": "<p>You must immediately commence climb.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

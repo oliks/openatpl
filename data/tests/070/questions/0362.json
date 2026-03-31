@@ -1,0 +1,14 @@
+{
+  "number": 362,
+  "questionId": "070-0362",
+  "questionNumber": "070-0362",
+  "stemHtml": "<p>10 passengers board a helicopter for a Commercial Air Transport flight to an island. 7 of the passengers are considered to be PRMs (Passengers with Reduced Mobility). The commander may...</p>",
+  "options": {
+    "a": "<p>commence the flight because the number of PRMs does not exceed 80% of the total passenger count.</p>",
+    "b": "<p>commence the flight, provided that all PRMs are informed about how to operate the seat belts and the location of life jackets.</p>",
+    "c": "<p>NOT commence the flight as the number of PRMs exceeds the number of passengers capable of assisting them in the event of an emergency.</p>",
+    "d": "<p>NOT commence the flight as an overwater flight is a potential threat for PRMs in the event of an emergency.</p>\r\n"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

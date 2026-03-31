@@ -1,0 +1,14 @@
+{
+  "number": 555,
+  "questionId": "081-0555",
+  "questionNumber": "081-0555",
+  "stemHtml": "<p>Which of these statements about V<sub>MCG</sub> determination are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. In order to simulate a wet runway, nose wheel steering may not be used during V</span><sub style=\"letter-spacing:0.7px\">MCG</sub><span style=\"letter-spacing:0.7px\"> determination.</span>  <br />  \nII. During V<sub>MCG</sub> determination, the CG should be on the forward limit.</p>",
+  "options": {
+    "a": "I is incorrect, II is incorrect.",
+    "b": "I is incorrect, II is correct.",
+    "c": "I is correct, II is correct.",
+    "d": "I is correct, II is incorrect."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 789,
+  "questionId": "090-0789",
+  "questionNumber": "090-0789",
+  "stemHtml": "<p>After a frequency change, it is important to listen out carefully on the active frequency before transmitting\u2026</p>",
+  "options": {
+    "a": "To allow the controller to call in case he/she was already looking for your aircraft before you changed to this new frequency.",
+    "b": "To make sure the radio is receiving and therefore also transmitting properly on this new frequency.",
+    "c": "<p>To confirm that the correct frequency is selected by using the call sign of the ground station.</p>",
+    "d": "To ensure that the transmission does NOT interrupt a dialogue or block another transmission."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

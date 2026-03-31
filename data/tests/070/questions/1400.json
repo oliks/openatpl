@@ -1,0 +1,14 @@
+{
+  "number": 1400,
+  "questionId": "070-1400",
+  "questionNumber": "070-1400",
+  "stemHtml": "<p>When reporting for a flight duty, the Commander is notified that one of the passengers is a deportee being accompanied by an escort. The reason why the Commander has been notified in advance is that...</p>",
+  "options": {
+    "a": "<p>the escort must be carrying a loaded weapon and therefore pose an increased risk in the cabin, otherwise there is NO requirement to notify about a deportee.</p>",
+    "b": "<p>the escort is the person who is responsible for ensuring that the passenger is seated in such a way that the passenger does NOT impede an evacuation.</p>",
+    "c": "<p>the deportee is a Special Category Passenger (SCP) who is carried under special conditions which the Operator has defined in its Operations Manual.</p>",
+    "d": "<p>a deportee is the classification used in the regulations for a Person of Reduced Mobility (PRM) who benefits from having an escort to assist during the flight.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

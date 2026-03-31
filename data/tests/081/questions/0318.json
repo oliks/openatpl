@@ -1,0 +1,19 @@
+{
+  "number": 318,
+  "questionId": "081-0318",
+  "questionNumber": "081-0318",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe illustration depicts two aircraft, namely aeroplane 1 and aeroplane 2, both equipped with an identical fly-by-wire system designed to consistently uphold the aircraft's trajectory unless manually altered by the pilot or autopilot. However, following sensor failures in each aircraft, the fly-by-wire systems undergo a downgrade, leading the aeroplanes to switch to a conventional-style backup control. In this mode, there is a direct correlation between the control column position and the corresponding control surface position. What implications does this have for the pilots?</p>",
+  "options": {
+    "a": "<p>Both aeroplanes 1 and 2 will have similar behaviour since they are statically stable and in both cases the aeroplane will return to its trimmed position after configuration or thrust changes.</p>",
+    "b": "<p>Aeroplane 1 will feel significantly different in pitch with large trim changes as a result of thrust changes, while aeroplane 2 may suffer control reversal and loss of control feel.</p>",
+    "c": "<p>Both aeroplanes 1 and 2 will have significantly different behaviour and control feel due to the absence of a computer compensating for the effects of changing configuration or thrust.</p>",
+    "d": "<p>Aeroplane 1 will behave and feel very similar to normal, while aeroplane 2 will have significant changes in pitch control and feel, with a risk of entering pilot-induced oscillations.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0214",
+      "publicUrl": "/attachments/081/081-att-0214.jpg"
+    }
+  ]
+}

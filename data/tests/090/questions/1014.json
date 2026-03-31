@@ -1,0 +1,14 @@
+{
+  "number": 1014,
+  "questionId": "090-1014",
+  "questionNumber": "090-1014",
+  "stemHtml": "<p>What elements form the call sign of a ground station?</p>",
+  "options": {
+    "a": "<p>Depending on the rules of the State where the station is located, the elements may include a prefix for the frequency (e.g. 118.725), its location, and a suffix (e.g. RADAR) indicating the type of service being provided.</p>",
+    "b": "<p>The location, followed by a suffix (e.g. 118.725) that ensures different ground stations at the same location can be distinguished.</p>",
+    "c": "<p>A prefix (e.g. GROUND) indicating the type of service being provided, followed by the name of the station's location.</p>",
+    "d": "<p>The location, followed by a suffix (e.g. DELIVERY) indicating the type of service being provided by that station.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

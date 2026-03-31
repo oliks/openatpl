@@ -1,0 +1,14 @@
+{
+  "number": 232,
+  "questionId": "070-0232",
+  "questionNumber": "070-0232",
+  "stemHtml": "<p>Which of the following correctly describes an en-route alternate aerodrome?</p>",
+  "options": {
+    "a": "<p>An aerodrome identified as a diversion option only for medical emergencies.</p>",
+    "b": "<p>An aerodrome used for refuelling on long-haul flights.</p>",
+    "c": "<p>An aerodrome located at the midpoint of the planned route.</p>",
+    "d": "<p>An aerodrome designated in the flight plan to which a flight may proceed in the event of an emergency en-route.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

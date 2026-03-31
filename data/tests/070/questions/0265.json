@@ -1,0 +1,14 @@
+{
+  "number": 265,
+  "questionId": "070-0265",
+  "questionNumber": "070-0265",
+  "stemHtml": "<p>An aircraft is scheduled to depart from an airfield which is closing soon. The current METAR is reporting freezing fog. The airport's de-ice and anti-ice equipment is out of service due to a flat tyre. The company has expressed that the flight must remain on schedule. What shall the pilots do?</p>",
+  "options": {
+    "a": "<p>Remain at the airport until the equipment is available.</p>",
+    "b": "No requirement to de-ice to continue with departure.",
+    "c": "<p>Increase take off speeds by 10 kt.</p>",
+    "d": "<p>Contact dispatch and inform them about the possible delay and night operation.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

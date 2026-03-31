@@ -1,0 +1,14 @@
+{
+  "number": 79,
+  "questionId": "090-0079",
+  "questionNumber": "090-0079",
+  "stemHtml": "<p>You have a clearance to climb to FL330, but then lose RVSM capabilities due to an equipment malfunction. Later you resolve the issue, so what would you now say to ATC?</p>",
+  "options": {
+    "a": "<p>Request climb to FL 330</p>",
+    "b": "<p>Able to climb to FL 330</p>",
+    "c": "<p>Able to fly RVSM</p>",
+    "d": "<p>Affirm RVSM</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

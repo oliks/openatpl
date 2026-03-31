@@ -1,0 +1,14 @@
+{
+  "number": 76,
+  "questionId": "090-0076",
+  "questionNumber": "090-0076",
+  "stemHtml": "<p>A passenger on board requires medical assistance. What is the correct sequence of transmission for the following elements of the radio call?</p>\r\r<p>1. Pan pan (x3) <br /> \r2. Air Europe 123 <br /> \r3. Heading 160 at FL280 <br /> \r4. Pan pan medical (x3) <br /> \r5. Passenger in need of medical assistance <br /> \r6. KOELN Radar <br /> \r7. Request radar vectors for KOELN</p>",
+  "options": {
+    "a": "<p>1, 6, 2, 5, 7, and 3.</p>",
+    "b": "<p>2, 1, 6, 3, 7 and 5.</p>",
+    "c": "<p>4, 6, 2, 3, 5 and 7.</p>",
+    "d": "<p>6, 4, 3, 7, 1 and 2.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

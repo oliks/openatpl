@@ -1,0 +1,14 @@
+{
+  "number": 1191,
+  "questionId": "070-1191",
+  "questionNumber": "070-1191",
+  "stemHtml": "<p>Shortly before touchdown at a busy airport you hear a few soft bangs coming from the aircraft's nose. After a normal landing and whilst exiting the runway to the taxiway you observe that the airspeed indicator still indicates an airspeed close to your landing reference speed.</p><p>An immediate valid action with respect to safety at this airport would be to\u2026</p>",
+  "options": {
+    "a": "<p>Verify the aircraft speed by using a secondary means such as the GNSS.</p>",
+    "b": "<p>Inform the airport operator that the reported local QNH is NOT correct.</p>",
+    "c": "<p>Verify if the altimeter displays the correct airport reference altitude.</p>",
+    "d": "<p>Notify ATC of a possible bird strike.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

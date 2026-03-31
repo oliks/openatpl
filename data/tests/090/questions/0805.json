@@ -1,0 +1,14 @@
+{
+  "number": 805,
+  "questionId": "090-0805",
+  "questionNumber": "090-0805",
+  "stemHtml": "<p>An aircraft receives the following message: \"F-PO, identification lost due to radar failure.\" Which of the following responses is correct?</p>",
+  "options": {
+    "a": "<p>\u201cIdentification lost, F-PO\u201d and the pilot may receive further instructions to establish and maintain procedural separation.</p>",
+    "b": "<p>\u201cIdentification lost, F-PO\u201d and the pilot shall disconnect the transponder as it may be the cause of the radar failure.</p>",
+    "c": "<p>\u201cRoger, F-PO\u201d and the pilot may receive further instructions to establish and maintain procedural separation.</p>",
+    "d": "<p>\u201cRoger, F-PO\u201d and the pilot shall disconnect the transponder as it may be the cause of the radar failure.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

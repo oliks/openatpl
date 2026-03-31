@@ -1,0 +1,14 @@
+{
+  "number": 1471,
+  "questionId": "081-1471",
+  "questionNumber": "081-1471",
+  "stemHtml": "<p>During training flights, it is normal to demonstrate accelerated stalls. These are carried out at speeds below 90 kt and are induced by using excessive stick inputs to pull up during stall recovery. Spiral dives are also manoeuvres which are demonstrated during training flights. In this case, as the spiral dive develops, the speed is allowed to increase to 130 kt. Considering the aeroplane limitations given below, which statement is correct?</p><p>V<strong><sub>S</sub>:</strong> 45 kt <br>V<strong><sub>A</sub>: </strong>100 kt <br>V<strong><sub>NO</sub>:</strong> 125 kt <br>V<strong><sub>NE</sub>:</strong> 160 kt</p>",
+  "options": {
+    "a": "<p>Careful application of the elevator must be used to recover from the spiral dive in order to avoid an excessive load factor.</p>",
+    "b": "<p>The aeroplane may suffer an excessive load factor and damage during the stall recovery exercises.</p>",
+    "c": "<p>If too much elevator is used to recover from the spiral dive, the aeroplane may stall and enter a spin.</p>",
+    "d": "<p>The rudder must be used to roll the wings level from the spiral dive, as the ailerons may cause excessive wing bending.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

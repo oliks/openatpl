@@ -1,0 +1,19 @@
+{
+  "number": 2445,
+  "questionId": "081-2445",
+  "questionNumber": "081-2445",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe following two images show the buffet margins of the same aircraft. Aircraft A has a larger gap between the yellow bars than Aircraft B has. Considering Aircraft B with the smaller gap, what does this indicate about the aircraft\u2019s buffet margin?</p>",
+  "options": {
+    "a": "<p>The aircraft is operating closer to its critical angle of attack</p>",
+    "b": "<p>The aircraft is experiencing less turbulence</p>",
+    "c": "<p>The aircraft has a higher safety margin</p>",
+    "d": "<p>The aircraft is flying at a lower altitude</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0244",
+      "publicUrl": "/attachments/081/081-att-0244.jpg"
+    }
+  ]
+}

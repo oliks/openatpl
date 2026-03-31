@@ -1,0 +1,14 @@
+{
+  "number": 3,
+  "questionId": "090-0003",
+  "questionNumber": "090-0003",
+  "stemHtml": "<div>After requesting departure information on an airport where no ATIS is provided, the following information is transmitted:FASTAIR 345, DEPARTURE RUNWAY 32, WIND 290 DEGREES 4 KNOTS, QNH 1022, TEMPERATURE 10, DEWPOINT 5, RVR 550 METRES, TIME 27. What is the unit used to report the air temperature in this meteorological report?</div>",
+  "options": {
+    "a": "<div>Degrees Kelvin (K)</div>",
+    "b": "<div>Total Air Temperature (TAT) units</div>",
+    "c": "<p>Degrees Celsius (\u00b0C)</p>",
+    "d": "<p>Degrees Fahrenheit (\u00b0F)<br> </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

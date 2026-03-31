@@ -1,0 +1,14 @@
+{
+  "number": 12,
+  "questionId": "070-0012",
+  "questionNumber": "070-0012",
+  "stemHtml": "<p>Can the pilot give access to the aircraft documentation to someone representing the competent authority?</p>",
+  "options": {
+    "a": "<p>The commander should ask for the permission of their superior in order to show the aircraft documentation.</p>",
+    "b": "<p>The pilot can grant full access to the aircraft documentation to anyone asking for it since they are of public concern.</p>",
+    "c": "<p>The pilot can grant them full access to the aircraft documentation as they represent the competent authority.</p>",
+    "d": "<p>The pilot must deny access to the aircraft documentation.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

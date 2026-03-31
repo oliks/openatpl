@@ -1,0 +1,14 @@
+{
+  "number": 201,
+  "questionId": "070-0201",
+  "questionNumber": "070-0201",
+  "stemHtml": "<p>You are at your home base and have had less than 12 hours rest. Your company calls and wants to activate you for airport standby now. Is this possible?</p>",
+  "options": {
+    "a": "<p>No, your company can not call you for standby because you must have 12 hours rest at home base.</p>",
+    "b": "<p>Yes, your company can call you for airport standby immediately. However, you can not be activated for a flight until your 12 hours rest are accomplished.</p>",
+    "c": "<p>Yes, your company can call you in to fly immediately regardless of the rest period duration.</p>",
+    "d": "<p>No, your company can not call you for standby because you must have 10 hours rest at home base.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

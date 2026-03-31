@@ -1,0 +1,14 @@
+{
+  "number": 669,
+  "questionId": "081-0669",
+  "questionNumber": "081-0669",
+  "stemHtml": "Flying a jet transport aircraft, your fuel consumption is higher than expected. You calculate that you have enough to arrive safely, so decide to keep flying to your destination. ATC clears you to descend at your discretion. Whilst calculating your top of descent, what speed would you choose to descend at and why?",
+  "options": {
+    "a": "<p>Minimum drag speed: To maximise distance in the descent</p>",
+    "b": "<p>Minimum drag speed: For minimum rate of descent.</p>",
+    "c": "<p>Minimum power speed: For the minimum rate of descent (increasing time at higher altitude).</p>",
+    "d": "<p>Minimum power speed: For more time in the air.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

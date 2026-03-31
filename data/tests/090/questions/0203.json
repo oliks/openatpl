@@ -1,0 +1,14 @@
+{
+  "number": 203,
+  "questionId": "090-0203",
+  "questionNumber": "090-0203",
+  "stemHtml": "<p>An aircraft is approaching Otopeni, the destination aerodrome, and has received the following ATIS broadcast. What is the additional operational information in the following ATIS?</p><p>\u2018\u2019OTOPENI INFORMATION OSCAR.\u00a0<br>TIME 12:50\u00a0<br>EXPECT AN ILS APPROACH.\u00a0<br>ARRIVALS RUNWAY 08 RIGHT. DEPARTURES RUNWAY 08 LEFT\u00a0<br>TRANSITION ALTITUDE 4000 FT.\u00a0<br>WORK IN PROGRESS ON APRON TWO.\u00a0<br>SURFACE WIND 250, 14 KNOTS.\u00a0<br>VISIBILITY 10 KILOMETRES OR MORE.\u00a0<br>SCATTERED 2400 FEET, BROKEN 4600 FEET.\u00a0<br>CUMULONIMBUS DETECTED.\u00a0<br>TEMPERATURE +19, DEW POINT +4.\u00a0<br>QNH 1007\u00a0<br>NO SIGNIFICANT CHANGE\u00a0<br>ACKNOWLEDGE RECEIPT OF INFORMATION OSCAR WITH APP ON 119.415.\u00a0<br>DEPARTURE WITH DELIVERY ON 121.955.\u2018\u2019</p>",
+  "options": {
+    "a": "WORK IN PROGRESS ON APRON TWO.",
+    "b": "<p>TEMPERATURE +19 and QNH 1007.</p>",
+    "c": "ARRIVALS RUNWAY 08 LEFT. DEPARTURES RUNWAY 08 RIGHT.",
+    "d": "<p>DEPARTURE WITH DELIVERY ON 121.955.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

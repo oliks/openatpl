@@ -1,0 +1,14 @@
+{
+  "number": 624,
+  "questionId": "090-0624",
+  "questionNumber": "090-0624",
+  "stemHtml": "<p>You are flying at FL 340 and have the performance to climb to FL 360. The controller asks you via CPDLC if you are able to climb. What is the correct response via CPDLC?</p>",
+  "options": {
+    "a": "<p>Affirm</p>",
+    "b": "<p>Wilco</p>",
+    "c": "<p>Unable</p>",
+    "d": "<p>Roger</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

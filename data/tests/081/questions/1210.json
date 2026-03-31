@@ -1,0 +1,14 @@
+{
+  "number": 1210,
+  "questionId": "081-1210",
+  "questionNumber": "081-1210",
+  "stemHtml": "<p>You are flying an aircraft with a fixed pitch propeller with a constant power setting. What happens to the blade AoA and thrust produced when the airspeed (TAS) decreases while in flight?</p>",
+  "options": {
+    "a": "<p>Increases; Increases</p>",
+    "b": "<p>Increases; Decreases</p>",
+    "c": "<p>Decreases; Decreases</p>",
+    "d": "<p>Decreases; Increases</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

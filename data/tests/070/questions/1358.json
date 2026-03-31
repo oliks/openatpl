@@ -1,0 +1,14 @@
+{
+  "number": 1358,
+  "questionId": "070-1358",
+  "questionNumber": "070-1358",
+  "stemHtml": "<p>While flying from Cairo to Rome, two hijackers enter the flight deck and demand that you divert to an airfield 200 NM off track. You try to inform ATC about the hijack, but during the breach, all radios were destroyed. How could you try to inform ATC?</p>",
+  "options": {
+    "a": "<p>Try to contact ATC via CPDLC.</p>",
+    "b": "<p>Try to contact ATC via ADS-B.</p>",
+    "c": "<p>You should not contact ATC.</p>",
+    "d": "<p>Try to squawk \"7600\" on your mode A transponder.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

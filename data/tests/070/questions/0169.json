@@ -1,0 +1,14 @@
+{
+  "number": 169,
+  "questionId": "070-0169",
+  "questionNumber": "070-0169",
+  "stemHtml": "<p>You are planning to land on a contaminated runway. According to the Runway Condition Assessment Matrix (RCAM), the SNOWTAM reports the equivalent of MEDIUM braking action for the entire runway. However, based on pilot reports, the breaking action is GOOD / MEDIUM / MEDIUM for the landing runway. In order to increase stopping margins, what landing technique should you consider?</p>",
+  "options": {
+    "a": "<p>Use the wheel brakes first and then select reverse thrust when the brakes are becoming less effective.</p>",
+    "b": "<p>Descend below the glideslope and touch down as close to the landing threshold as possible.</p>",
+    "c": "<p>Use reverse thrust when the speed is high and change to wheel braking when the speed reduces.</p>",
+    "d": "<p>Avoid floating and apply more wheel braking earlier as their effect is better early in the landing roll.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

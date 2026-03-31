@@ -1,0 +1,14 @@
+{
+  "number": 771,
+  "questionId": "090-0771",
+  "questionNumber": "090-0771",
+  "stemHtml": "<p>An aircraft with the call sign Flugprop 565 is in the cruise at FL180 heading south, passing the waypoint RODRI, in contact with Brussels Control. Suddenly a fire develops on board and immediately the pilot decides to descend to FL70 and divert to the nearest suitable airport Brussels-Charleroi (EBCI), located to the right of track. What is the recommended order to communicate this emergency situation to ATC?</p>",
+  "options": {
+    "a": "<p>Mayday, Mayday, Mayday, Brussels Control, Flugprop 565, passing RODRI, fire on board, descending FL70 and turning right to Charleroi, diverting, Mayday, Mayday, Mayday.</p>",
+    "b": "<p>Mayday, Mayday, Mayday, Brussels Control, Flugprop 565, fire on board, diverting to Charleroi, position RODRI, descending FL70, heading 180\u00b0.</p>",
+    "c": "<p>Mayday, Mayday, Mayday, Brussels Control, turning right to Charleroi due to fire on board, descending FL70, passing RODRI, diverting, Flugprop 565.</p>",
+    "d": "<p>Brussels Control, Flugprop 565, Mayday, Mayday, Mayday, descending FL70, turning right to Charleroi, passing RODRI, fire on board.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1383,
+  "questionId": "070-1383",
+  "questionNumber": "070-1383",
+  "stemHtml": "<p>NAT procedures have requirements for the submission of weather data when using datalink communications and Automatic Dependant Surveillance (ADS). Which meteorological phenomena should be reported by crew, either via Controller Pilot Data Link Communications (CPDLC) free text or voice?</p>",
+  "options": {
+    "a": "<p>wind speed and direction, OAT, moderate or severe turbulence and moderate or severe icing</p>",
+    "b": "<p>wind speed and direction, OAT, moderate or severe icing and thunderstorms</p>",
+    "c": "<p>OAT, moderate or severe icing and thunderstorms</p>",
+    "d": "<p>moderate or severe turbulence, moderate or severe icing and volcanic ash</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

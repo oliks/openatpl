@@ -1,0 +1,14 @@
+{
+  "number": 109,
+  "questionId": "070-0109",
+  "questionNumber": "070-0109",
+  "stemHtml": "<p>What is required for an ETOPS approval?</p>",
+  "options": {
+    "a": "<p>The aeroplane/engine combination has an ETOPS-type design and reliability approval for the intended operation.</p>",
+    "b": "<p>The operator is ETOPS certified in the AOC, and so all aircraft in the fleet can perform ETOPS operations.</p>",
+    "c": "<p>The operator\u2019s maintenance program includes a generic ETOPS approval that applies to all aircraft types in the fleet.</p>",
+    "d": "<p>ETOPS is automatically granted if the aircraft has a twin-engine configuration and is operating over water.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

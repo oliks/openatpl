@@ -1,0 +1,14 @@
+{
+  "number": 1089,
+  "questionId": "081-1089",
+  "questionNumber": "081-1089",
+  "stemHtml": "<p>A pilot plans a flight with the CG at the aft limit. During the flight, the aircraft burns 400 kg of fuel, and the CG moves forward. How will this affect the stick force stability?</p>",
+  "options": {
+    "a": "<p>Increased stick force stability due to the CG movement.</p>",
+    "b": "<p>Decreased stick force stability due to the CG movement.</p>",
+    "c": "<p>Increased stick force stability due to the reduced weight.</p>",
+    "d": "<p>Stick force stability doesn\u2019t change since the centre of gravity stays within its limit.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

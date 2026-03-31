@@ -1,0 +1,14 @@
+{
+  "number": 1011,
+  "questionId": "090-1011",
+  "questionNumber": "090-1011",
+  "stemHtml": "<p>The local time is 23:31. A response to a time check request from Fastair 345 , assuming local time is UTC, after the callsign would be\u2026</p>",
+  "options": {
+    "a": "<p>twenty three thirty one UTC.</p>",
+    "b": "<p>two three three one UTC.</p>",
+    "c": "<p>two three three one.</p>",
+    "d": "<p>twenty three thirty one.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

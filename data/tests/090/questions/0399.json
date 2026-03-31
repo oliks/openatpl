@@ -1,0 +1,14 @@
+{
+  "number": 399,
+  "questionId": "090-0399",
+  "questionNumber": "090-0399",
+  "stemHtml": "You have been contracted by the government to carry a cargo consisting solely of medical supplies and personnel to a conflict area. To ensure priority, what message should you pass when in contact with an ATS unit?",
+  "options": {
+    "a": "You are only entitled to priority if you are a registered ambulance aircraft, and as such it is sufficient to state the appropriate call sign.",
+    "b": "After the prefix PAN PAN three times, state your call sign, the fact you are carrying medical supplies and personnel, the pilot`s intentions, current position, and heading.",
+    "c": "After the prefix PAN PAN three times, followed by the word \u201cMEDICAL\u201d, state your call sign, your position, type, intended route, estimated time of arrival at destination, and current altitude.",
+    "d": "After your call sign, current position, level, heading, frequencies guarded and secondary surveillance radar modes and codes, close the transmission with the words \u201cPAN MEDICAL\u201d."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

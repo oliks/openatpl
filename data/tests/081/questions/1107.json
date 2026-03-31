@@ -1,0 +1,14 @@
+{
+  "number": 1107,
+  "questionId": "081-1107",
+  "questionNumber": "081-1107",
+  "stemHtml": "<p>When do the effects of compressibility first become relevant for a pilot?</p>",
+  "options": {
+    "a": "<p>At supersonic speeds, shockwaves cause a decrease in speed along the streamlines.</p>",
+    "b": "<p>At Mach numbers above 1.0, shockwaves create a pitch down moment decreasing stability.</p>",
+    "c": "<p>At Mach 0.4, the effects of compressibility lead to a change in density.</p>",
+    "d": "<p>At Mach 0.7, the first shockwaves form on the airframe leading to wave drag.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

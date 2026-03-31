@@ -1,0 +1,14 @@
+{
+  "number": 130,
+  "questionId": "081-0130",
+  "questionNumber": "081-0130",
+  "stemHtml": "<p dir=\"ltr\">An aircraft equipped with trailing edge flaps and leading-edge slats is about to take-off and extends the devices to the Take-Off Position. Due to a malfunction, the slats on the right wing remain retracted.</p>\r\n\r\n<p dir=\"ltr\">If the malfunction goes undetected, the possible consequences are:</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">The left wing could stall upon trailing edge flap retraction.</p>",
+    "b": "<p dir=\"ltr\">The right wing could stall shortly after rotation.</p>",
+    "c": "<p dir=\"ltr\">The left wing could stall shortly after rotation.</p>",
+    "d": "The right wing could stall upon trailing edge flap retraction."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

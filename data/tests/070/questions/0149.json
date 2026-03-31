@@ -1,0 +1,19 @@
+{
+  "number": 149,
+  "questionId": "070-0149",
+  "questionNumber": "070-0149",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>A commercial air transport flight is planned from northern Europe to the island of Tenerife via T16 airway to benefit from stronger tailwinds. One of the FMS is inoperative. The aeroplane is following the route across the NORTH SEA and an attempt to reset the FMS is not successful. What implications, if any, are there for the continuation of the flight?</p>",
+  "options": {
+    "a": "<p>Airway T16 may be used as planned since the aeroplane maintains Its navigation capability with the remaining FMS.</p>",
+    "b": "<p>The aircraft should return to the departure aerodrome as flight with only one FMS means that NO redundancy exists and is forbidden.</p>",
+    "c": "<p>The pilots must request a reroute via T290 or T9 since the aeroplane has only one serviceable LRNS.</p>",
+    "d": "<p>The pilots must avoid NAT HLA since entry to NAT HLA is forbidden with only one serviceable LRNS.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0038",
+      "publicUrl": "/attachments/070/070-att-0038.png"
+    }
+  ]
+}

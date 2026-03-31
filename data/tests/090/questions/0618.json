@@ -1,0 +1,14 @@
+{
+  "number": 618,
+  "questionId": "090-0618",
+  "questionNumber": "090-0618",
+  "stemHtml": "<p>ATC asks the pilot: \"Advise able RNAV offset\". What does this mean?</p>",
+  "options": {
+    "a": "ATC is asking he/she if he/she can fly with a new relative heading, provided by ATC.",
+    "b": "ATC is asking if he/she can accept a parallel route offset from a standard route.",
+    "c": "<p>ATC is asking if he/she can turn his/her RNAV equipment off.  </p>",
+    "d": "ATC is asking if he/she can fly in RVSM."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

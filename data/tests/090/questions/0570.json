@@ -1,0 +1,14 @@
+{
+  "number": 570,
+  "questionId": "090-0570",
+  "questionNumber": "090-0570",
+  "stemHtml": "<p>What is the appropriate action by ATC in the case of a <strong>single CPDLC message failure</strong> regarding a clearance to climb to FL70?</p><p>1. Transmit \u201cALL STATIONS, CPDLC complete failure. All communication will revert to voice.\u201d <br>2. Try to send the single CPDLC message again<br>3. Transmit that the single CPDLC message failed and clear the aircraft to climb via radio<br>4. Transmit \u201cALL STATIONS complete failure, stop sending CPDLC.\u201d</p>",
+  "options": {
+    "a": "<p>1, 2</p>",
+    "b": "<p>2, 3</p>",
+    "c": "<p>3, 4</p>",
+    "d": "<p>1, 4</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

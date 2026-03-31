@@ -1,0 +1,14 @@
+{
+  "number": 1960,
+  "questionId": "081-1960",
+  "questionNumber": "081-1960",
+  "stemHtml": "<p>Consider a constant speed propeller. Which, if any, of the following forces or moments tends to decrease the blade pitch angle (move them towards fine pitch)?</p>",
+  "options": {
+    "a": "<p>The blade pitch angle CANNOT be changed by any forces or moments.</p>",
+    "b": "The centrifugal twisting (turning) moment.",
+    "c": "<p>The aerodynamic twisting (turning) moment.</p>",
+    "d": "The thrust bending force."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

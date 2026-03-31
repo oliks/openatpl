@@ -1,0 +1,14 @@
+{
+  "number": 925,
+  "questionId": "070-0925",
+  "questionNumber": "070-0925",
+  "stemHtml": "<p>An airplane is taxiing and the ATC controller tells the pilot to stop the aircraft and hold position due to an emergency of another plane. The holdover time then expires by 2 minutes by the time the emergency is resolved. What is the correct action?</p>",
+  "options": {
+    "a": "<p>Hold position and apply anti-ice system of the aircraft.</p>",
+    "b": "<p>Take off, disregard the expired holdover time.</p>",
+    "c": "<p>Hold position.</p>",
+    "d": "<p>Request to taxi back, de-ice and anti-ice the aircraft again.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

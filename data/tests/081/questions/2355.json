@@ -1,0 +1,14 @@
+{
+  "number": 2355,
+  "questionId": "081-2355",
+  "questionNumber": "081-2355",
+  "stemHtml": "An aircraft is maintaining straight and level flight with constant power and no flaps deployed. In this condition the C<sub>L </sub>= 0.28. What will happen to C<sub>L</sub>, if the pilot extends the flaps and decreases the speed to maintain straight and level flight?",
+  "options": {
+    "a": "C<sub>L</sub> higher than 0.28 because C<sub>L</sub> always increases with the deployment of flaps.",
+    "b": "C<sub>L</sub> higher than 0.28 to keep the the same altitude.",
+    "c": "C<sub>L </sub>lower than 0.28.",
+    "d": "C<sub>L</sub> is still 0.28 because it is independent on the deployment of flaps."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 43,
+  "questionId": "070-0043",
+  "questionNumber": "070-0043",
+  "stemHtml": "<p>Observations of the prevailing meteorological conditions can help pilots decide whether to take off or to delay until conditions improve. </p><p>The following meteorological conditions would indicate the presence of low-level wind shear and would require a pilot to delay take-off:</p><p>1. Precipitation falling from the base of a cloud but evaporating before reaching the ground. <br /> 2. Wind socks responding to different winds. <br /> 3. Visible moisture and a visibility of less than 10 km. <br /> 4. Strong, gusty surface winds, especially where the aerodrome is located near hills. <br /> 5. Smoke plumes sheared, with upper and lower sections moving in different directions.</p>",
+  "options": {
+    "a": "<p>1, 2 and 4.</p>",
+    "b": "2, 3 and 4.",
+    "c": "2 and 3.",
+    "d": "1, 2, 4 and 5."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1019,
+  "questionId": "070-1019",
+  "questionNumber": "070-1019",
+  "stemHtml": "<p>According to OPS regulations, the minimum required navigational equipment is as follows for operations under IFR or VFR along routes not navigable by reference to visual landmarks\u2026</p>",
+  "options": {
+    "a": "<p>GPS for low-level flights; one area navigation equipment If the flight is to be flown, requiring area navigation; and one VOR receiver.</p>",
+    "b": "<p>One VOR receiver; and one area navigation equipment If the flight is to be flown requiring area navigation.</p>",
+    "c": "<p>Two VOR receivers if the route is to be flown using VOR navaids only; two NDB receivers if the route is to be flown using NDB navaids only; and one GPS for low-level flights.</p>",
+    "d": "<p>Two VOR receivers if the route is to be flown using VOR navaids only; two NDB receivers if the route is to be flown using NDB navaids only; and one area navigation equipment if the flight is to be flown requiring area navigation.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

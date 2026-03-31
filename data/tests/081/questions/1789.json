@@ -1,0 +1,14 @@
+{
+  "number": 1789,
+  "questionId": "081-1789",
+  "questionNumber": "081-1789",
+  "stemHtml": "<p>Which of the following formulas is correct ONLY for small angles of climb (\u03b3)?</p>",
+  "options": {
+    "a": "<p>L = W * cos(\u03b3)</p>",
+    "b": "<p>Sin(\u03b3) = (T - D) / W</p>",
+    "c": "<p>Gradient (%) = ((T - D) / W) * 100</p>",
+    "d": "<p>T = D + W * sin(\u03b3)</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

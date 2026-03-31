@@ -1,0 +1,14 @@
+{
+  "number": 195,
+  "questionId": "090-0195",
+  "questionNumber": "090-0195",
+  "stemHtml": "<p>You are performing an IFR flight and are about to transmit a compulsory report when you hear a PAN PAN message. Which of the following answers are correct?</p>",
+  "options": {
+    "a": "Urgency message has lower priority than your message.",
+    "b": "Urgency message has higher priority than your message.",
+    "c": "Urgency message has higher priority than all messages.",
+    "d": "Urgency message has higher priority than a distress message."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

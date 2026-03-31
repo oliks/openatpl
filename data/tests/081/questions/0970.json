@@ -1,0 +1,14 @@
+{
+  "number": 970,
+  "questionId": "081-0970",
+  "questionNumber": "081-0970",
+  "stemHtml": "<p>Calculate the climb angle:</p>\n\n<p>Thrust: 200 000  <br />  \nDrag: 50 000  <br />  \nWeight: 700 000</p>",
+  "options": {
+    "a": "<div>21 degrees</div>",
+    "b": "<div>20 degrees</div>",
+    "c": "<div>12 degrees</div>",
+    "d": "45 degrees"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

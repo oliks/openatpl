@@ -1,0 +1,14 @@
+{
+  "number": 1012,
+  "questionId": "070-1012",
+  "questionNumber": "070-1012",
+  "stemHtml": "<p>Area Navigation (RNAV) and Required Navigation Performance (RNP) are fundamentally similar but they differ in the requirements for on-board performance monitoring and alerting. Despite the differences in the requirements, renaming RNP routes to RNAV routes would incur huge costs.</p>\r\n\r\n<p>According to ICAO Doc 9613, which RNP designation does RNAV 10 retain?</p>",
+  "options": {
+    "a": "<p>1</p>",
+    "b": "<p>1-10</p>",
+    "c": "<p>10</p>",
+    "d": "<p>10-1</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

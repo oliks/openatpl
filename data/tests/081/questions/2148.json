@@ -1,0 +1,14 @@
+{
+  "number": 2148,
+  "questionId": "081-2148",
+  "questionNumber": "081-2148",
+  "stemHtml": "<p>Calculate the new value of drag force, given: An airplane flying at 100 kt at an angle (alpha 1) of 4\u00ba, has a drag coefficient (C<sub>D1</sub>) of 0.028. Total drag force is 900 N.<br />\r\nThe airplane decelerates to 55 kt, flying at an angle of attack (alpha 2) of 15\u00ba, when drag coefficient (C<sub>D2</sub>) is 0.148.</p>\r\n",
+  "options": {
+    "a": "1 272 N",
+    "b": "1 305 N",
+    "c": "1 420 N",
+    "d": "3 475 N"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

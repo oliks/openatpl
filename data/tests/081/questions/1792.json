@@ -1,0 +1,14 @@
+{
+  "number": 1792,
+  "questionId": "081-1792",
+  "questionNumber": "081-1792",
+  "stemHtml": "<p>An aircraft is performing an approach with one engine inoperative. The outside air temperature at sea level is -10\u00b0C. The aircraft is unstable on final and the pilot decides to perform a go around. What is the effect on V<strong><sub>MC</sub></strong>?</p>",
+  "options": {
+    "a": "<p>Less rudder control effectiveness due to higher air density, so V<sub>MC</sub> increases.</p>",
+    "b": "<p>High engine performance due to higher air density, therefore V<sub>MC</sub> increases.</p>",
+    "c": "<p>High engine performance due to higher air density, therefore V<sub>MC</sub> decreases.</p>",
+    "d": "<p>More rudder control effectiveness due to higher air density, so V<sub>MC</sub> decreases.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

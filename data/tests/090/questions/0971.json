@@ -1,0 +1,14 @@
+{
+  "number": 971,
+  "questionId": "090-0971",
+  "questionNumber": "090-0971",
+  "stemHtml": "<p>An aircraft with a callsign RUSHAIR 142 is tuned on Bern ground frequency and receives the report \"RUSHAIR 142, How do you read?\". If the transmission is perfectly readable, the pilot will reply...</p>",
+  "options": {
+    "a": "<p>Bern Ground, Rushair 142, read you good.</p>",
+    "b": "<p>Bern Ground, Rushair 142, read you five.</p>",
+    "c": "<p>Bern Ground, Rushair 142, read you clear.</p>",
+    "d": "<p>Bern Ground, Rushair 142, read you one.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

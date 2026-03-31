@@ -1,0 +1,19 @@
+{
+  "number": 1665,
+  "questionId": "081-1665",
+  "questionNumber": "081-1665",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe ECAM display shows a fault as seen in the attached figure. The slats are fully extended, but the flaps are faulty and locked in the retracted position. This occurs whilst setting the flaps before takeoff. What is the consequence of this fault?</p>",
+  "options": {
+    "a": "<p>The aircraft will stall immediately upon rotation</p>",
+    "b": "<p>No consequence as the calculated V<sub>R</sub> speed would take this into account.</p>",
+    "c": "<p>A longer take off run, but other than that the aircraft would behave normally.</p>",
+    "d": "<p>A higher chance of tailstrike on rotation.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0206",
+      "publicUrl": "/attachments/081/081-att-0206.jpg"
+    }
+  ]
+}

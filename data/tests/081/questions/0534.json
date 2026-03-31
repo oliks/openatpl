@@ -1,0 +1,14 @@
+{
+  "number": 534,
+  "questionId": "081-0534",
+  "questionNumber": "081-0534",
+  "stemHtml": "<p>You are flying a jet transport aeroplane at the maximum cruise altitude, limited by the 1.3g buffet margin when you suddenly encounter clear air turbulence (CAT). Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The instantaneous gust loading from CAT may increase the load factor to exceed 1.3g.</p>",
+    "b": "<p>The aircraft's optimum altitude immediately decreases, prompting a descent.</p>",
+    "c": "<p>The instantaneous load factor remains 1.0g because CAT has no effect on load factor.</p>",
+    "d": "<p>The aircraft will stall because the available buffet margin is reduced to zero.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

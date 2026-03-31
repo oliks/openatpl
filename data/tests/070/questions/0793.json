@@ -1,0 +1,14 @@
+{
+  "number": 793,
+  "questionId": "070-0793",
+  "questionNumber": "070-0793",
+  "stemHtml": "<p>ICAO defines specific departure procedures for noise prevention. A hospital is located close to a runway on the extended centre line. To prevent aircraft noise, which flight technique describes the ICAO procedure to prevent aircraft noise at the hospital?</p>",
+  "options": {
+    "a": "<p>Initially climb WITHOUT accelerating or reducing thrust. At 1500 ft AGL reduce thrust. At or above 3000 ft AGL reduce the climb rate to accelerate and retract flaps/ slats.</p>",
+    "b": "<p>Climb with maximum thrust and accelerate to retract flaps and slats as soon as possible. Continue the climb in a clean configuration. Maintain 250 KIAS below FL100.</p>",
+    "c": "<p>Initially climb with maximum thrust and WITHOUT accelerating. At or above 800 ft AGL reduce thrust and accelerate to retract the flaps/slats.</p>",
+    "d": "<p>After lift-off immediately reduces thrust. Maintain V<sub>2</sub>+10 KIAS and at or above 3000 ft AGL reduce the climb rate to accelerate and retract flaps/slats.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

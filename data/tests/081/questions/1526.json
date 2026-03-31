@@ -1,0 +1,19 @@
+{
+  "number": 1526,
+  "questionId": "081-1526",
+  "questionNumber": "081-1526",
+  "stemHtml": "<p>Refer to figure. <br /> \rHow does the drag polar differ between wings with high and low aspect ratios?</p>",
+  "options": {
+    "a": "<p>The aspect ratio depends only on the airplane\u2019s configuration.</p>",
+    "b": "<p>The low-aspect ratio polar 1 will move down and to the right when the aspect ratio is increased.</p>",
+    "c": "<p>A high aspect ratio wing will not influence the shift of the polar curve.</p>",
+    "d": "<p>The low-aspect ratio polar 2 will move up and to the left when the aspect ratio is increased.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0033",
+      "publicUrl": "/attachments/081/081-att-0033.png"
+    }
+  ]
+}

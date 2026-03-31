@@ -1,0 +1,14 @@
+{
+  "number": 1351,
+  "questionId": "070-1351",
+  "questionNumber": "070-1351",
+  "stemHtml": "<p>When preparing for a flight, does the pilot need to look for information on recent bird activity around an airport?</p>",
+  "options": {
+    "a": "<p>No, because birds in the air are common and do NOT need to be reported.</p>",
+    "b": "<p>Yes, from METAR and TAF.</p>",
+    "c": "<p>Yes, from NOTAM and ATIS.</p>",
+    "d": "<p>By calling the tower controller by telephone.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

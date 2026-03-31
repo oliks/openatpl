@@ -1,0 +1,14 @@
+{
+  "number": 1175,
+  "questionId": "070-1175",
+  "questionNumber": "070-1175",
+  "stemHtml": "<p>If the static source of an altimeter becomes blocked during a climb, the instrument will\u2026</p>",
+  "options": {
+    "a": "<p>gradually return to zero.</p>",
+    "b": "<p>continue to indicate the reading at which the blockage occurred.</p>",
+    "c": "<p>under-read by an amount equivalent to the reading at the time that the instrument became blocked.</p>",
+    "d": "<p>over-read.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

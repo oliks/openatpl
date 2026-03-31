@@ -1,0 +1,14 @@
+{
+  "number": 770,
+  "questionId": "070-0770",
+  "questionNumber": "070-0770",
+  "stemHtml": "<p>Using the following SNOWTAM information and considering braking action, which taxiway should be selected?</p><p>A) XXXX B) 12060720 C) TWYA D) 2600 E) 50LR F) 4/5/4 G) 10/10/10 H) 3/3/3 J) 30/5L K) YES L) TOTAL M) 0900 P) YES S) 11070920 T) FIRST 300M OF TWY A COVERED BY 50 MM SNOW, CONTAMINATION 100%\u00a0<br>A) XXXX B) 12060720 C) TWYB D) 2600 E) 50LR F) 3/3/3 G) 10/10/10 H) 3/3/3 J) 30/5L K) YES L) TOTAL M) 0900P) YES S) 11070920 T) FIRST 300M OF TWY B COVERED BY 50 MM SNOW, CONTAMINATION 100%\u00a0<br>A) XXXX B) 12060720 C) TWYC D) 2600 E) 50LR F) 2/2/2 G) 10/10/10 H) 3/3/3 J) 30/5L K) YES L) TOTAL M) 0900 P) YES S) 11070920 T) FIRST 300M OF TWY C COVERED BY 50 MM SNOW, CONTAMINATION 100%\u00a0<br>A) XXXX B) 12060720 C) TWYD D) 2600 E) 50LR F) 5/5/5 G) 10/10/10 H) 3/3/3 J) 30/5L K) YES L) TOTAL M) 0900 P) YES S) 11070920 T) FIRST 300M OF TWY D COVERED BY 50 MM SNOW, CONTAMINATION 100%</p>",
+  "options": {
+    "a": "<p>Taxiway B</p>",
+    "b": "<p>Taxiway A</p>",
+    "c": "<p>Taxiway C</p>",
+    "d": "<p>Taxiway D</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

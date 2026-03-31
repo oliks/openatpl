@@ -1,0 +1,14 @@
+{
+  "number": 1168,
+  "questionId": "070-1168",
+  "questionNumber": "070-1168",
+  "stemHtml": "<p>A pilot is on vacation and is enjoying a lot of alcohol during their holiday. The pilot plans to stop drinking on the last day in order to prepare for a return to work. However, the operator's Flight Ops Department call the pilot to roster him a day early at around 20:00. The pilot last drank alcohol around 12:00 on that same day. Can he still fly? </p>",
+  "options": {
+    "a": "<p>Yes, because his last drink was at least 8 hours ago.</p>",
+    "b": "<p>No, he can not.</p>",
+    "c": "<p>Yes, the pilot can fly as long as he feels fit and not under the influence of alcohol, regardless of when he last drank.</p>",
+    "d": "<p>Yes, the pilot can fly as long as he consumes non-alcoholic beverages before the flight to sober up.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

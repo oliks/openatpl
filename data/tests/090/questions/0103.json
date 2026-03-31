@@ -1,0 +1,14 @@
+{
+  "number": 103,
+  "questionId": "090-0103",
+  "questionNumber": "090-0103",
+  "stemHtml": "<p>During an IFR flight in VMC, if the aircraft encounters a sudden communication failure, the pilot must adhere to standard emergency procedures. What actions should be taken by the pilot?</p>",
+  "options": {
+    "a": "<p>Set 7500 on the transponder and continue according to the flight plan.</p>",
+    "b": "<p>Set 7700 on the transponder and continue to the destination as filed.</p>",
+    "c": "<p>Continue flying towards the destination as planned.</p>",
+    "d": "<p>Continue in VMC and land at the nearest suitable aerodrome, then report the arrival as soon as possible.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

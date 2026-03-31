@@ -1,0 +1,14 @@
+{
+  "number": 1002,
+  "questionId": "090-1002",
+  "questionNumber": "090-1002",
+  "stemHtml": "<p>An aircraft on an IFR flight in IMC, and flying in airspace where radar service is provided, experiences radio communication failure. The PIC must set the transponder on 7600, maintain the last assigned speed and\u2026</p>",
+  "options": {
+    "a": "<p>level, or minimum flight altitude if higher, for a period of 10 minutes. Thereafter he/she must adjust speed and level in accordance with the flight plan.</p>",
+    "b": "<p>initiate a 300 ft per minute climb until reaching VMC conditions, then divert to the nearest suitable aerodrome.</p>",
+    "c": "<p>turn right by 30 degrees if flying odd flight levels, or turn left by 30 degrees if flying even flight levels.</p>",
+    "d": "<p>level, or minimum flight altitude if higher, for a period of 20 minutes. Thereafter, he/she must adjust speed and level in accordance with the flight plan.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

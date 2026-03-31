@@ -1,0 +1,14 @@
+{
+  "number": 989,
+  "questionId": "070-0989",
+  "questionNumber": "070-0989",
+  "stemHtml": "Ice blocks the pressure sensors in cruise and what happens?",
+  "options": {
+    "a": "master caution will sound.",
+    "b": "auto pilot and autothrottle will automatically disconnect.",
+    "c": "the autothrottle receives erroneous information and may demand less thrust.",
+    "d": "airspeed and altimeter are affected but autothrottle is not affected."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

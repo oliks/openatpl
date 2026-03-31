@@ -1,0 +1,14 @@
+{
+  "number": 676,
+  "questionId": "090-0676",
+  "questionNumber": "090-0676",
+  "stemHtml": "<div>You have been contracted by a government agency to transport passengers who are all medical personnel to an area of conflict. To ensure priority, what message should you pass when in contact with an ATS unit?After the urgency signal PAN PAN three times followed by the radiotelephony signal..</div><div><br></div>",
+  "options": {
+    "a": "<div>\"Medical\", state your call sign, your position, estimated time of arrival at destination, and current transponder setting.</div>",
+    "b": "<div>\"Special handling\", state your call sign, your position, intended route, estimated time of arrival at destination, and current altitude.</div>",
+    "c": "<div>\"Special handling\", state your call sign, your position, intended route, current altitude, and transponder capability. </div>",
+    "d": "<p>\"Medical\", state your call sign, your position, number and type of medical transports, intended route, estimated time of arrival at destination, and current altitude.<br> </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

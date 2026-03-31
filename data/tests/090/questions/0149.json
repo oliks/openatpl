@@ -1,0 +1,14 @@
+{
+  "number": 149,
+  "questionId": "090-0149",
+  "questionNumber": "090-0149",
+  "stemHtml": "What is the correct option about the following D-ATIS? <br />  <br /> WSSS Dep ATIS F <br /> 0130 METAR <br /> Exp ILS Apch segregrated PARL Ops in use <br /> ARR RWY 02L DEP 02C <br /> Taxiing guidance lights on all taxiways are on for lighting inspection <br /> Junction of TWY EP and A3 including rapid exit TWY E3 Southbound CLSD due WIP <br /> Wind 010 04 KT GUST 23 WIND DIR 320 V 040 <br /> 10 KM FEW 1600 FT <br /> T 27 / DP 26 QNH 1012 NOSIG <br /> ARR to ACK INFO E with APP on 120.3 and DEP with DELIVERY on 121.65",
+  "options": {
+    "a": "The ATIS is for departing and arriving traffic; Runway 02C is in use for departures; departures have to acknowledge they have received information F with Approach Control.",
+    "b": "<p>ATIS message F is current; the temperature is 26\u00b0C; and no significant changes are expected regarding weather conditions in the next two hours.</p>",
+    "c": "<p>The ATIS is for an aerodrome with ICAO code WSSS; taxiway E3 southbound is closed; clouds reported are FEW at 1600 ft.</p>",
+    "d": "Runway 02L is in use for departures; visibility is 10 km or more; wind direction is 010\u00b0 and wind speed is 4 kt."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

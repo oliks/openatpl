@@ -1,0 +1,14 @@
+{
+  "number": 2227,
+  "questionId": "081-2227",
+  "questionNumber": "081-2227",
+  "stemHtml": "<p>Choose the correct statements with regard to the forces acting parallel and perpendicular to the flight path, for an aeroplane in a straight and steady power-on descent. (L = Lift, D = Drag, T = Thrust, W = Weight, y = descent angle, x = multiplied by)</p>\r\r<p>1. L and W act perpendicular to the flight path.  <br />  \r2. L and (W x cos y) act perpendicular to the flight path.  <br />  \r3. T, D and (L x cos y) act parallel to the flight path.  <br />  \r4. T, D and (W x sin y) act parallel to the flight path.</p>",
+  "options": {
+    "a": "<div>1 and 3</div>",
+    "b": "<div>2 and 3</div>",
+    "c": "<div>1 and 4</div>",
+    "d": "<p>2 and 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

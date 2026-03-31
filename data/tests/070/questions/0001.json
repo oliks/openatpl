@@ -2,13 +2,18 @@
   "number": 1,
   "questionId": "070-0001",
   "questionNumber": "070-0001",
-  "stemHtml": "<p>What is the minimum fuel reserve for a turbojet aeroplane under IFR?</p>",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is operating a flight within NAT HLA when the pilot notices a message appear on the EFIS. The message is regarding the navigation accuracy and the pilot then enters the \u201cposition monitor\u201d page available via the FMS to investigate further. As a result of the information they read on the screen of the CDU, what, if any, actions should the pilots take?</p>",
   "options": {
-    "a": "<p>30 minutes at holding speed</p>",
-    "b": "<p>45 minutes at normal cruise consumption</p>",
-    "c": "<p>60 minutes at normal cruise consumption</p>",
-    "d": "<p>30 minutes at normal cruise consumption</p>"
+    "a": "<p>Revert to dead reckoning navigation starting at the last plotted position since all navigation systems have failed and show incorrect information.</p>",
+    "b": "<p>Identify and isolate the faulty system and establish whether it is possible to continue the flight as originally planned but with reduced redundancy.</p>",
+    "c": "<p>Notify ATC of the total navigation system failure and continue the flight while monitoring the performance of the faulty FMS in backup mode.</p>",
+    "d": "<p>Immediately descend to exit the NAT HLA since the navigation accuracy is uncertain and separation to adjacent traffic CANNOT be assured.</p>"
   },
   "correctOption": "b",
-  "attachments": []
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0009",
+      "publicUrl": "/attachments/070/070-att-0009.jpg"
+    }
+  ]
 }

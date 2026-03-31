@@ -1,0 +1,14 @@
+{
+  "number": 746,
+  "questionId": "081-0746",
+  "questionNumber": "081-0746",
+  "stemHtml": "<p>Regarding a positively cambered aerofoil section, which statement is correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. The angle of attack has a negative value when the lift coefficient equals zero.</span>  <br />  \nII. A nose down pitching moment exists when the lift coefficient equals zero.</p>",
+  "options": {
+    "a": "I is correct and II is incorrect.",
+    "b": "I is incorrect and II is incorrect.",
+    "c": "I is correct and II is correct.",
+    "d": "I is incorrect and II is correct."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

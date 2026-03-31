@@ -1,0 +1,14 @@
+{
+  "number": 614,
+  "questionId": "090-0614",
+  "questionNumber": "090-0614",
+  "stemHtml": "<p>An aircraft with a call-sign D-EASA is flying VFR in the CTR of an international airport that operates with two TOWER frequencies. The pilot was initially instructed to contact the first TOWER frequency. A few minutes later, TOWER reports \"DSA, new QNH 1014, contact TOWER on... (second frequency)\". What should the pilot readback?</p>",
+  "options": {
+    "a": "<p>the new QNH only.</p>",
+    "b": "<p>just \"ROGER\", the other instructions do NOT need to be read back.</p>",
+    "c": "<p>both the new QNH and the new frequency.</p>",
+    "d": "<p>the new frequency only.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

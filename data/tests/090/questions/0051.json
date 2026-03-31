@@ -1,0 +1,14 @@
+{
+  "number": 51,
+  "questionId": "090-0051",
+  "questionNumber": "090-0051",
+  "stemHtml": "<p>When a SELCAL check is executed on the primary frequency, what should the pilot do?</p>",
+  "options": {
+    "a": "<p>Report 'SELCAL successful'.</p>",
+    "b": "<p>Report 'SELCAL OK'.</p>",
+    "c": "<p>No reply is required.</p>",
+    "d": "<p>Upon completetion, the pilot should test the secondary frequency.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

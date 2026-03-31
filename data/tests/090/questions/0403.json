@@ -1,0 +1,14 @@
+{
+  "number": 403,
+  "questionId": "090-0403",
+  "questionNumber": "090-0403",
+  "stemHtml": "<p>The logon is the first step in the data link process for CPDLC. Who can initiate the LOGON?</p>",
+  "options": {
+    "a": "<p>It needs to be requested beforehand in order to be used.</p>",
+    "b": "<p>From the cockpit either by the captain or copilot.</p>",
+    "c": "<p>The flight crew can not request it and only the ATS unit can send a request.</p>",
+    "d": "<p>Initiated either by the flight crew or automatically following a contact request from another ATS unit.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

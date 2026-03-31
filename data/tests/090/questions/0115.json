@@ -1,0 +1,14 @@
+{
+  "number": 115,
+  "questionId": "090-0115",
+  "questionNumber": "090-0115",
+  "stemHtml": "<p>In the event of a communication failure, which of the following statements are correct?</p><p>1. Before transmitting blind, the aircraft station shall attempt to establish communication on the emergency frequency<br>2. After recognising the voice communications failure, the aircraft station shall attempt to establish contact on the previous channel used<br>3. An aircraft operating within a network shall monitor the appropriate VHF channel for calls from nearby aircraft<br>4. In case all other attempts fail to establish contact, the aircraft station shall make blind transmissions on the emergency frequency</p>",
+  "options": {
+    "a": "1 and 3",
+    "b": "1 and 4",
+    "c": "2 and 3",
+    "d": "2 and 4"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

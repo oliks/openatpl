@@ -1,0 +1,19 @@
+{
+  "number": 102,
+  "questionId": "070-0102",
+  "questionNumber": "070-0102",
+  "stemHtml": "<p>Refer to figure. <br>An aeroplane completed the anti-icing procedure at 18:00 UTC with Type II fluid and a 75/25 concentration (mixture), when the weather conditions were Light Freezing Drizzle and OAT -5\u00b0C. At 18:25 UTC it is observed that the weather conditions have changed to Light Snow and OAT -4\u00b0C. What is the correct answer regarding to Hold-over Time?</p>",
+  "options": {
+    "a": "<div>The Hold-over Time has expired.</div>",
+    "b": "<div>The Hold-over Time will expire in 8 minutes to 20 minutes.</div>",
+    "c": "<div>The Hold-over Time will expire in 20 minutes.</div>",
+    "d": "<p>The Hold-over Time will expire in 5 minutes.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0033",
+      "publicUrl": "/attachments/070/070-att-0033.jpg"
+    }
+  ]
+}

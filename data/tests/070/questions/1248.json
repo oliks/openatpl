@@ -1,0 +1,14 @@
+{
+  "number": 1248,
+  "questionId": "070-1248",
+  "questionNumber": "070-1248",
+  "stemHtml": "<p>An aircraft is en-route to the North Atlantic High Level Airspace (NAT HLA). Before oceanic entry onto the Organised Track System (OTS), one of two Flight Management Systems (FMS) fails. Why is this significant?</p>",
+  "options": {
+    "a": "<p>The FMS is a Long Range Navigation System (LRNS), of which a minimum number must be operational for unrestricted access</p>",
+    "b": "<p>Strategic lateral offset procedures (SLOP) cannot be conducted without dual FMSs</p>",
+    "c": "<p>The aircraft can continue without restriction since one FMS is still available</p>",
+    "d": "<p>Revert to dead reckoning navigation starting at the last plotted position since all navigation systems have failed and show incorrect information</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

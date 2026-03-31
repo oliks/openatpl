@@ -1,0 +1,14 @@
+{
+  "number": 969,
+  "questionId": "070-0969",
+  "questionNumber": "070-0969",
+  "stemHtml": "<p>An aircraft is cruising at FL370 when the pilot suddenly starts feeling a slight discomfort in the ear and a \u201cpopping\u201d sensation. What could be the cause?</p>",
+  "options": {
+    "a": "<p>If the oxygen masks in the cabin do NOT immediately deploy, it could be an indication failure.</p>",
+    "b": "<p>If the cabin pressure increases, it could be due to an entry door or cargo door opening.</p>",
+    "c": "<p>If the cabin altitude is also rising, there could be a pressurisation system failure.</p>",
+    "d": "If the oxygen pressure is also dropping, there could be an oxygen system failure."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

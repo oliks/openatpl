@@ -1,0 +1,14 @@
+{
+  "number": 1010,
+  "questionId": "081-1010",
+  "questionNumber": "081-1010",
+  "stemHtml": "<p>Which of these statements about the gust load factor on an aeroplane are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. When the wing area increases, the gust load factor decreases.</span>  <br />  \nII. When the EAS increases, the gust load factor decreases.</p>",
+  "options": {
+    "a": "I is correct, II is incorrect.",
+    "b": "I is incorrect, II is incorrect.",
+    "c": "I is correct, II is correct.",
+    "d": "I is incorrect, II is correct."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

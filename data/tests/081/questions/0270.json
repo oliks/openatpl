@@ -1,0 +1,14 @@
+{
+  "number": 270,
+  "questionId": "081-0270",
+  "questionNumber": "081-0270",
+  "stemHtml": "<p>A firefighting aircraft is designed to fill up an onboard tank with water, then release the water in flight. Does the limit load factor change after releasing the water?</p>",
+  "options": {
+    "a": "<p>No, as the limit load factor depends on atmospheric pressure and airspeed.</p>",
+    "b": "<p>Yes, a lighter aircraft will have a higher limit load factor.</p>",
+    "c": "<p>Yes, a lighter aircraft will have a lower limit load factor.</p>",
+    "d": "<p>No, the limit load factor is a theoretical number and does not change with aircraft weight.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

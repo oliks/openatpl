@@ -1,0 +1,14 @@
+{
+  "number": 1523,
+  "questionId": "081-1523",
+  "questionNumber": "081-1523",
+  "stemHtml": "<p>A jet aircraft has a minimum drag speed (V<strong><sub>MD</sub></strong>) of 218 kt. An air traffic controller gives the pilots of this aircraft a clearance to descend and reduce speed to 200 kt. On the following day, the pilots are told to descend and reduce speed to 220 kt instead. In which of these scenarios will the aircraft have the greatest range?</p>",
+  "options": {
+    "a": "<p>Best range is achieved at 200 kt, because it is slower than V<sub>MD</sub>.</p>",
+    "b": "<p>Best range is achieved at 220 kt, because it is closest to V<sub>MD</sub>.</p>",
+    "c": "<p>Both give the same range, because range depends only on altitude.</p>",
+    "d": "<p>Best range is achieved at 200 kt, because induced drag decreases at lower speeds.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

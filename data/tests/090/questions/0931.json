@@ -1,0 +1,14 @@
+{
+  "number": 931,
+  "questionId": "090-0931",
+  "questionNumber": "090-0931",
+  "stemHtml": "<p>Aircraft A is on final approach when Aircraft B makes a distress call. The controller forgets about Aircraft A, while managing the traffic in distress. What could be the best action of the pilot of Aircraft A?</p>",
+  "options": {
+    "a": "<p>Remind the controller of his position, if this is possible without interfering with the distress traffic.</p>",
+    "b": "<p>Go around and maintain radio silence, as distress traffic has priority over all other traffic.</p>",
+    "c": "<p>Do the procedure for communications failure.</p>",
+    "d": "<p>Remind the controller of his position, even if it interferes with the distress traffic.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

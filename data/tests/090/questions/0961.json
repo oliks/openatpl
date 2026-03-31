@@ -1,0 +1,14 @@
+{
+  "number": 961,
+  "questionId": "090-0961",
+  "questionNumber": "090-0961",
+  "stemHtml": "If you are requested to \"Report flight conditions\", what does that mean?",
+  "options": {
+    "a": "Indicate weather conditions as wind, visibility, temperature.",
+    "b": "Indicate whether you are flying in IMC or in VMC.",
+    "c": "Indicate whether you are flying IFR or VFR.",
+    "d": "Indicate if visibility is sufficient for landing."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

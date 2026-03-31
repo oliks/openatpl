@@ -1,0 +1,14 @@
+{
+  "number": 608,
+  "questionId": "090-0608",
+  "questionNumber": "090-0608",
+  "stemHtml": "<p>As the pilot of aircraft G-ABCD operating in the vicinity of Bern airport, you want to request the true bearing from the station. What is the correct phrasing for this transmission?</p>",
+  "options": {
+    "a": "<p>G-ABCD, Bern Approach, request true bearing. G-ABCD, I say again, request true bearing.</p>",
+    "b": "<p>Bern Approach, G-ABCD, request QDM G-ABCD.</p>",
+    "c": "<p>Bern Approach request QTE.</p>",
+    "d": "<p>True bearing, true bearing, Bern approach, G-ABCD, request true bearing, G-ABCD</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 111,
+  "questionId": "090-0111",
+  "questionNumber": "090-0111",
+  "stemHtml": "<p>What is the correct way for a pilot of an aircraft registered as D-DENE, to report that there is a degradation of aircraft navigation performance which means that a GNSS approach CANNOT now be performed?</p>",
+  "options": {
+    "a": "<p>Unable RNAV due equipment.</p>",
+    "b": "<p>D-NE... negative RNAV due equipment.</p>",
+    "c": "<p>RNAV not possible.</p>",
+    "d": "<p>We are not RNAV equipped.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

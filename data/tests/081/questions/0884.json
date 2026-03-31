@@ -1,0 +1,14 @@
+{
+  "number": 884,
+  "questionId": "081-0884",
+  "questionNumber": "081-0884",
+  "stemHtml": "<p>During an idle thrust descent at a constant indicated airspeed (IAS) in the clean configuration, what will happen if the pilots deploy the speed brakes?</p>",
+  "options": {
+    "a": "<p>Both the rate of descent and descent angle will increase, even if the speed is constant.</p>",
+    "b": "<p>The rate of descent will increase, but the angle of descent will only increase if the pilot reduces the speed.</p>",
+    "c": "<p>The rate of descent will increase, but the angle of descent will only increase if the pilot increases the speed.</p>",
+    "d": "<p>The angle of descent will increase, but the rate of descent will also increase, provided the pilot reduces the speed.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

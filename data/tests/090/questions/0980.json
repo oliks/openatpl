@@ -1,0 +1,14 @@
+{
+  "number": 980,
+  "questionId": "090-0980",
+  "questionNumber": "090-0980",
+  "stemHtml": "<p>What are the methods of sending messages via SATCOM?</p>",
+  "options": {
+    "a": "<p>CPDLC via ACARS.</p>",
+    "b": "<p>VHF only.</p>",
+    "c": "<p>HF only.</p>",
+    "d": "<p>VHF and HF.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

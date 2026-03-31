@@ -1,0 +1,14 @@
+{
+  "number": 964,
+  "questionId": "090-0964",
+  "questionNumber": "090-0964",
+  "stemHtml": "<p>ATC had instructed an aircraft to alter it's call sign from 'AIC515' to 'AIC999', but now needs the aircraft to revert to the original call sign. The next waypoint is waypoint BRAVO. What is the appropriate instruction by ATC?</p>",
+  "options": {
+    "a": "<p>\"AIC515, revert to original flight plan.\"</p>",
+    "b": "<p>\"AIC999, revert to original flight plan callsign AIC515 at waypoint BRAVO.\"</p>",
+    "c": "<p>\"AIC515, revert to original flight plan callsign AIC999 at waypoint BRAVO.\"</p>",
+    "d": "<p>\"AIC999, change back to original callsign.\"</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2235,
+  "questionId": "081-2235",
+  "questionNumber": "081-2235",
+  "stemHtml": "Refer to figure. <br /> Two airplanes with distinct design configurations are depicted in the illustration. Certain parameters must be taken into consideration in order to certify the aircraft. Which of the following best represents a feature that could need to be incorporated into the designs for the aircraft in order for them to be certified?",
+  "options": {
+    "a": "Aeroplane 1 requires a stick pusher to prevent the aeroplane from reaching an excessively high AoA as it is likely to display undesirable behaviour during a stall.",
+    "b": "Aeroplane 2 requires an automatic trim system since the large pitch-power couple caused by the location of the engines may overcome the authority of the elevator.",
+    "c": "Aeroplane 1 requires a fly-by-wire system with envelope protection because the design lacks static stability due to the placement of the engines giving an aft CG.",
+    "d": "Aeroplane 2 requires a fly-by- wire system to control the large destabilising pitch-up moment caused by changing engine thrust, expecially during a go-around."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0015",
+      "publicUrl": "/attachments/081/081-att-0015.jpg"
+    }
+  ]
+}

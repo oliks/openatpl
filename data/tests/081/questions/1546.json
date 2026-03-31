@@ -1,0 +1,14 @@
+{
+  "number": 1546,
+  "questionId": "081-1546",
+  "questionNumber": "081-1546",
+  "stemHtml": "<div>For a given gust speed and aircraft TAS, what is the impact of the lift curve\u2019s slope on the gust load factor?</div>\r\n\r\n<div> </div>",
+  "options": {
+    "a": "<div>The steeper the lift curve\u2019s slope, the greater the gust load factor.</div>",
+    "b": "<div>The steeper the lift curve\u2019s slope, the smaller the gust load factor.</div>",
+    "c": "<div>The lift curve\u2019s slope has no impact on the gust load factor.</div>",
+    "d": "The shallower the lift curve\u2019s slope, the greater the gust load factor."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

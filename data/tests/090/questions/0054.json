@@ -1,0 +1,14 @@
+{
+  "number": 54,
+  "questionId": "090-0054",
+  "questionNumber": "090-0054",
+  "stemHtml": "RADAR informs aircraft X-BC: \"X-BC identified\". What does this mean?",
+  "options": {
+    "a": "X-BC should perform an identification turn.",
+    "b": "Radar identification has been achieved.",
+    "c": "X-BC is not visible on the radar screen.",
+    "d": "X-BC should operate the IDENT-button."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

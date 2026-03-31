@@ -1,0 +1,14 @@
+{
+  "number": 485,
+  "questionId": "081-0485",
+  "questionNumber": "081-0485",
+  "stemHtml": "<p>During cruise flight, the autopilot is being used to maintain the selected altitude. The pilot receives their descent clearance and selects idle thrust, which is normal for a descent, but forgets to select any descent mode in the autopilot system. As the autopilot continues to maintain the selected altitude\u2026</p>",
+  "options": {
+    "a": "<p>the aeroplane will lose speed, resulting in a progressively higher nose attitude and rapidly increasing drag unless the pilot immediately takes action to prevent excessive speed loss.</p>",
+    "b": "<p>the wings will have progressively increasing values of C<sub>L</sub> and induced drag, but the total drag remains constant due to reducing parasite drag; thus the speed remains constant.</p>",
+    "c": "<p>the controls become more responsive, and the pilot must, if performing a manual recovery, use the controls with care to avoid overstressing the airframe.</p>",
+    "d": "<p>the speed will stabilise at V<sub>MD</sub> since, at this point, the optimum relationship exists between the induced and parasite drag, and the aeroplane is speed stable at V<sub>MD</sub>.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

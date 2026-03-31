@@ -1,0 +1,14 @@
+{
+  "number": 746,
+  "questionId": "090-0746",
+  "questionNumber": "090-0746",
+  "stemHtml": "<p>The ATC wishes to direct the flight crew to manually initiate a logon to the subsequent ATSU after a failed ATSU transfer attempt. What is the appropriate phraseology?</p>",
+  "options": {
+    "a": "<p>DISCONNECT CPDLC THEN LOGON TO [facility designation].</p>",
+    "b": "<p>CPDLC FAILURE.</p>",
+    "c": "<p>CPDLC WILL BE SHUTDOWN. DISCONNECT CPDLC. CONTINUE ON VOICE.</p>",
+    "d": "<p>RESUME NORMAL CPDLC OPERATIONS. LOGON TO [facility designation].</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

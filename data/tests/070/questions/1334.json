@@ -1,0 +1,14 @@
+{
+  "number": 1334,
+  "questionId": "070-1334",
+  "questionNumber": "070-1334",
+  "stemHtml": "<p>Is it permitted for an aircraft to be carrying bombs on board?</p>",
+  "options": {
+    "a": "<p>Yes, provided they are declared to the commander before departure.</p>",
+    "b": "<p>Yes, if authorised by the state of the operator only.</p>",
+    "c": "<p>Yes, if permitted by the ICAO technical instructions and the operator holds an approval in accordance with those instructions.</p>",
+    "d": "<p>No, bombs are always forbidden on board aircraft.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

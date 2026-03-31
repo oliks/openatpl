@@ -1,0 +1,14 @@
+{
+  "number": 186,
+  "questionId": "090-0186",
+  "questionNumber": "090-0186",
+  "stemHtml": "<p>While crossing a large mountain range, you encounter moderate turbulence. Is there an obligation to report this?</p>",
+  "options": {
+    "a": "No, pilots are not obliged to report on weather conditions. However, if the conditions could affect the safety of other aircraft the pilot can decide to provide a report via voice communication.",
+    "b": "If an air-ground data link is available, a special aircraft observation must be reported. If only voice communication is available no report should be made, to avoid frequency congestion.",
+    "c": "<p>Yes, a special aircraft observation shall be made by air-ground datalink. Where air-ground data link is not available it shall be reported via voice communication.</p>",
+    "d": "No. Reporting is obligatory in case of severe turbulence, or in case of severe mountain wave associated with moderate turbulence."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

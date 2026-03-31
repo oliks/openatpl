@@ -1,0 +1,14 @@
+{
+  "number": 1253,
+  "questionId": "070-1253",
+  "questionNumber": "070-1253",
+  "stemHtml": "<p>An adequate ETOPS En-Route Alternate Aerodrome should be available within the Operator's approved diversion time\u2026</p>",
+  "options": {
+    "a": "<p>and shall not be further away from any point on the route than the distance flown in 30 minutes, at the one-engine-inoperative cruise speed.</p>",
+    "b": "<p>and take into account route characteristics and the commander`s experience.</p>",
+    "c": "<p>or a diversion time based on the MEL-generated serviceability status of the aeroplane, whichever is shorter.</p>",
+    "d": "<p>or a diversion time based on the AFM and the MEL-generated serviceability status of the aeroplane, whichever is shorter.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

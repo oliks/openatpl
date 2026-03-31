@@ -1,0 +1,14 @@
+{
+  "number": 1246,
+  "questionId": "081-1246",
+  "questionNumber": "081-1246",
+  "stemHtml": "<p>Consider an aircraft flying in unaccelerated level flight in the speed stable region. What would be the result on the drag following a sudden increase in aircraft speed with no change in thrust available?</p>",
+  "options": {
+    "a": "<p>The total drag increases.</p>",
+    "b": "<p>The total drag decreases.</p>",
+    "c": "<p>The induced drag increases.</p>",
+    "d": "<p>The parasite drag Increases until It equals the Induced drag.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

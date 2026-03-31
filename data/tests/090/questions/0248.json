@@ -1,0 +1,14 @@
+{
+  "number": 248,
+  "questionId": "090-0248",
+  "questionNumber": "090-0248",
+  "stemHtml": "<p>What is the meaning of the phrase \"Radar service terminated\"?</p>",
+  "options": {
+    "a": "<p>You are now leaving the Terminal Area.</p>",
+    "b": "<p>ATC wants you to reset transponder.</p>",
+    "c": "<p>You will no longer be provided with radar control.</p>",
+    "d": "<p>ATC wants you to continue VFR.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

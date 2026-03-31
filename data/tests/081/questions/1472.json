@@ -1,0 +1,19 @@
+{
+  "number": 1472,
+  "questionId": "081-1472",
+  "questionNumber": "081-1472",
+  "stemHtml": "<p>Refer to figure. <br /> The image shows a flap position indicator display, which indicates the positions of the left and right trailing-edge flaps. After departure, one of the flaps has jammed during retraction and the flap position indicator displays the above indication. What control inputs are required to maintain straight flight?</p>",
+  "options": {
+    "a": "<p>Right aileron and rudder input.</p>",
+    "b": "Left aileron input and opposite rudder.",
+    "c": "Left aileron and rudder input.",
+    "d": "Right aileron input and opposite rudder."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0066",
+      "publicUrl": "/attachments/081/081-att-0066.png"
+    }
+  ]
+}

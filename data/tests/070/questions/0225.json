@@ -1,0 +1,14 @@
+{
+  "number": 225,
+  "questionId": "070-0225",
+  "questionNumber": "070-0225",
+  "stemHtml": "<p>An A320 has been de-iced and anti-iced and is ready for departure. However, the holdover time (HOT) has expired by five minutes while the aircraft is at the holding point in a queue for take-off. What is the correct action for the pilot in command?</p>",
+  "options": {
+    "a": "<p>\u00a0Do an outside inspection of the wing and go back for De-Icing/Anti-Icing if deemed necessary.</p>",
+    "b": "<p>Proceed with the take-off as the snowfall will not accumulate on the aircraft.</p>",
+    "c": "<p>The crew must taxi back to be de-iced and anti-iced again, as the holdover time has expired and therefore takeoff cannot proceed under these conditions.</p>",
+    "d": "<p>Proceed with the take-off, as the delay is minimal and the wing is likely still clear.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

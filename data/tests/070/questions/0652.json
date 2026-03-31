@@ -1,0 +1,14 @@
+{
+  "number": 652,
+  "questionId": "070-0652",
+  "questionNumber": "070-0652",
+  "stemHtml": "<p>Under which of the following conditions will noise abatement procedures be carried out?</p><p>1. Visibility 3000 m<br>2. Recent rain but runway dry<br>3. Tailwind 2 kt<br>4. Crosswind 10 kt<br>5. Windshear<br>6. Contaminated runway</p>",
+  "options": {
+    "a": "<p>1, 2, 4 and 5</p>",
+    "b": "<p>1, 2, 3 and 4</p>",
+    "c": "<p>2, 4, 5 and 6</p>",
+    "d": "<p>2, 3, 5 and 6</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

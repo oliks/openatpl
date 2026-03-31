@@ -1,0 +1,14 @@
+{
+  "number": 1135,
+  "questionId": "070-1135",
+  "questionNumber": "070-1135",
+  "stemHtml": "<p>What is the primary risk if an aircraft enters the NAT HLA with an unsynchronised Master Clock?</p>",
+  "options": {
+    "a": "<p>Loss of RNP 4 approval status</p>",
+    "b": "<p>Inability to log on to CPDLC</p>",
+    "c": "<p>Automatic rejection of ADS-C position reports</p>",
+    "d": "<p>Erosion of longitudinal separation between aircraft</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

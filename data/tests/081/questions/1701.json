@@ -1,0 +1,14 @@
+{
+  "number": 1701,
+  "questionId": "081-1701",
+  "questionNumber": "081-1701",
+  "stemHtml": "<p>Which of the following speed limits are applicable for large jet or turboprop aircraft: V<strong><sub>MO</sub></strong>, V<strong><sub>NE</sub></strong>, M<strong><sub>MO</sub></strong>, V<strong><sub>NO</sub></strong>?</p>",
+  "options": {
+    "a": "<p>V<sub>MO </sub>and V<sub>NO</sub></p>",
+    "b": "<p>V<sub>NE</sub> and V<sub>NO</sub></p>",
+    "c": "<p>V<sub>NO </sub>and M<sub>MO</sub></p>",
+    "d": "<p>V<sub>MO</sub> and M<sub>MO</sub></p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

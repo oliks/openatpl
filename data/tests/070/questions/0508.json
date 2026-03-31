@@ -1,0 +1,14 @@
+{
+  "number": 508,
+  "questionId": "070-0508",
+  "questionNumber": "070-0508",
+  "stemHtml": "<p>What happens if one autopilot fails?</p>",
+  "options": {
+    "a": "RNP AR approaches below 0.3 RNP are forbidden.",
+    "b": "Autoland is only possible in fail-passive mode.",
+    "c": "RNP AR approaches are still allowed.",
+    "d": "RNP AR approaches are forbidden."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

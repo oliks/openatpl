@@ -1,0 +1,14 @@
+{
+  "number": 654,
+  "questionId": "090-0654",
+  "questionNumber": "090-0654",
+  "stemHtml": "<p>What is the priority of the message \"...RUNWAY 09, CLEARED FOR IMMEDIATE TAKE-OFF...\"?</p>",
+  "options": {
+    "a": "<p>The same as \"REQUEST QDM\".</p>",
+    "b": "<p>Greater than \"REQUEST QDM\".</p>",
+    "c": "<p>The same as \"CAUTION, WORK IN PROGRESS ON THE TAXIWAY\".</p>",
+    "d": "<p>The same as \"TAXI TO HOLDING POINT RUNWAY 09\".</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

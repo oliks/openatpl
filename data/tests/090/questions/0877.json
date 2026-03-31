@@ -1,0 +1,14 @@
+{
+  "number": 877,
+  "questionId": "090-0877",
+  "questionNumber": "090-0877",
+  "stemHtml": "<p>The registration of an aircraft is D-EENE. The call sign of the aircraft in flight is D-EENE (same as the registration). A SELCAL check has already been performed. According to ICAO Annex 10 (Volume II), when the ATSU initiates a SELCAL transmission, the pilot should reply\u2026</p>",
+  "options": {
+    "a": "D-EENE, listening.",
+    "b": "<p>D-EENE, go ahead.</p>",
+    "c": "<p>D-EENE, SELCAL received.</p>",
+    "d": "<p>D-EENE, SELCAL is on.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

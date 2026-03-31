@@ -1,0 +1,14 @@
+{
+  "number": 272,
+  "questionId": "070-0272",
+  "questionNumber": "070-0272",
+  "stemHtml": "<p>In a one-step de-icing/anti-icing, the holdover time (HOT) starts (1) _____, and decreases with (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) At the end of the de-icing application; (2) high humidity.</p>",
+    "b": "<p>(1) At the start of the anti-icing application; (2) low humidity.</p>",
+    "c": "<p>(1) At the start of the de-icing / anti-icing application; (2) high humidity.</p>",
+    "d": "<p>(1) At the end of the de-icing / anti-icing application; (2) low humidity.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

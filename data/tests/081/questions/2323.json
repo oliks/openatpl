@@ -1,0 +1,14 @@
+{
+  "number": 2323,
+  "questionId": "081-2323",
+  "questionNumber": "081-2323",
+  "stemHtml": "A pilot is teaching a student the effects of individual control inputs. First, the pilot deflects the ailerons only, holding a constant deflection. Eventually, the aircraft enters a spiral dive. After recovering, the pilot then inputs a constant rudder deflection only. This also causes a spiral dive. Which of the following statements is correct regarding aircraft stability?",
+  "options": {
+    "a": "The ailerons are the main contributors to lateral stability and the rudder is the main contributor to directional stability.",
+    "b": "The ailerons are secondary contributors to directional stability and the rudder is a secondary contributor to lateral stability.",
+    "c": "<p>Lateral stability and directional stability interact through sideslip, which is created when using either aileron or rudder alone.</p>",
+    "d": "Since the aeroplane enters an un-coordinated spiral dive, it is a result of both the lateral and directional stabilities being too weak."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

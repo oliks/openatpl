@@ -1,0 +1,14 @@
+{
+  "number": 226,
+  "questionId": "081-0226",
+  "questionNumber": "081-0226",
+  "stemHtml": "The pilot of a modern, large turbojet aeroplane sets the vertical speed mode of the autopilot to carry out a climb. What must he/she be particularly careful of?",
+  "options": {
+    "a": "The autopilot may select a rate of climb outside the maximum permissible limit of the aeroplane.",
+    "b": "The engines may overspeed as the autothrottle attempts to maintain airspeed.",
+    "c": "The aeroplane may overspeed in an attempt to maintain the rate of climb.",
+    "d": "If the climb is prolonged, there is a risk that the airspeed may reduce towards the stall."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1001,
+  "questionId": "070-1001",
+  "questionNumber": "070-1001",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft Operator within the EU wishes to apply for an AOC. Which of the following most accurately identifies the \u201cIssuing Authority\"?</p>",
+  "options": {
+    "a": "<p>It is the Competent Authority/ies of the Member States where the Operator flies.</p>",
+    "b": "<p>It is EASA or the relevant Member State Competent Authority.</p>",
+    "c": "<p>It is the International Civil Aviation Organisation (ICAO).</p>",
+    "d": "<p>It is the aircraft Operator applying for the AOC.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0004",
+      "publicUrl": "/attachments/070/070-att-0004.jpg"
+    }
+  ]
+}

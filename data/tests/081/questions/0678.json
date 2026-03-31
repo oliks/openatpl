@@ -1,0 +1,14 @@
+{
+  "number": 678,
+  "questionId": "081-0678",
+  "questionNumber": "081-0678",
+  "stemHtml": "<p>The pilot of a large jet transport aircraft sets the trimmable horizontal stabiliser for take-off. The take-off is delayed due to deteriorating weather conditions at the destination airport. The commander decides to uplift additional fuel, which shifts the CG aft of the initial position used to calculate the takeoff trim setting. How should the trailing edge of the horizontal stabiliser be moved to adjust for the CG shift?</p>",
+  "options": {
+    "a": "<p>Up</p>",
+    "b": "<p>Down</p>",
+    "c": "<p>It does not need to move if the CG is between the AFT and FWD limits</p>",
+    "d": "<p>The position of the CG does not affect the movement of the stabiliser</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

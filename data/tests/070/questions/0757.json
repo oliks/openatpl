@@ -1,0 +1,14 @@
+{
+  "number": 757,
+  "questionId": "070-0757",
+  "questionNumber": "070-0757",
+  "stemHtml": "<p>The flight crew performs an in-flight fuel check and they determine that the usable fuel at destination is LESS than the alternate fuel plus final reserve. What should the PIC do?</p><p>1. Assure a safe landing at the destination or divert to an alternate<br>2. Declare an emergency and divert to an alternate<br>3. Assure a safe landing with NOT LESS THAN final reserve fuel remaining<br>4. Assure a safe landing with NOT LESS THAN contingency fuel remaining</p>",
+  "options": {
+    "a": "<p>1 and 3.</p>",
+    "b": "<p>1 and 4.</p>",
+    "c": "<p>2 and 3.</p>",
+    "d": "<p>2 and 4.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

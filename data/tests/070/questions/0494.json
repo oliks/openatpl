@@ -1,0 +1,14 @@
+{
+  "number": 494,
+  "questionId": "070-0494",
+  "questionNumber": "070-0494",
+  "stemHtml": "If a package containing dangerous goods gets damaged while being loaded onto the aircraft, should it be allowed to fly?",
+  "options": {
+    "a": "No, the package should be removed under the operator's responsibility.",
+    "b": "No, the package should be removed under the sender's responsibility.",
+    "c": "Yes, if the package is inspected and the dangerous goods are safe and untouched, it can fly.",
+    "d": "Yes, once the dangerous goods have been accepted by load control, they may fly regardless of their condition."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

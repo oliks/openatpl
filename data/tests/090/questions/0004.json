@@ -1,0 +1,14 @@
+{
+  "number": 4,
+  "questionId": "090-0004",
+  "questionNumber": "090-0004",
+  "stemHtml": "<p>The METAR of Miami International Airport (MIA) provides the local pressure in inches of mercury (in.Hg) as 28.95. How should the pilot decode the given altimeter setting?</p>",
+  "options": {
+    "a": "<p>980.6 hPa</p>",
+    "b": "<p>28.95 in.Hg</p>",
+    "c": "<p>0.9806 bar</p>",
+    "d": "<p>75.63 kPa</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

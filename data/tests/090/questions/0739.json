@@ -1,0 +1,14 @@
+{
+  "number": 739,
+  "questionId": "090-0739",
+  "questionNumber": "090-0739",
+  "stemHtml": "<p>Refer to the following METAR: <br /> LFPG 161250Z 27015KT 9999 SCT016 OVC024 M09/M12 Q1006 NOSIG</p><p>What is correct about the wind?</p>",
+  "options": {
+    "a": "<p>270\u00b0(M) / 15 km/h</p>",
+    "b": "270\u00b0(T) / 15 km/h",
+    "c": "<p>270\u00b0(M) / 15 kt</p>",
+    "d": "270\u00b0(T) / 15 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 848,
+  "questionId": "090-0848",
+  "questionNumber": "090-0848",
+  "stemHtml": "<p>An aircraft with the call sign OAL 126 has just departed from Bern Airport. During the departure, the pilot notices smoke on the flight deck due to an electrical fire that continues to increase and cannot be stopped. What should the pilot report?</p>",
+  "options": {
+    "a": "<p>MAYDAY (x3), Bern Tower OAL126, electrical fire, request vectors for downwind to land immediately.</p>",
+    "b": "<p>PAN PAN (x3), Bern Tower OAL126, electrical fire, request vectors for downwind.</p>",
+    "c": "<p>MAYDAY (x3), Bern Tower OAL126, request vectors for downwind to land immediately.</p>",
+    "d": "<p>PAN PAN (x3), Bern Tower OAL126, electrical fire, request to land immediately.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

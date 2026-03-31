@@ -1,0 +1,14 @@
+{
+  "number": 120,
+  "questionId": "081-0120",
+  "questionNumber": "081-0120",
+  "stemHtml": "<div>Consider a multi-engine aeroplane. In order to achieve the best possible climb performance, which of the following methods is used to maintain control after an engine failure?</div>\r\n\r\n<div> </div>",
+  "options": {
+    "a": "<div>Rudder to stop yaw, aileron to maintain wings level.</div>",
+    "b": "Rudder to stop yaw, aileron to bank towards the live engine.",
+    "c": "<div>Rudder to stop yaw, aileron to bank towards the failed engine.</div>",
+    "d": "Aileron to stop yaw, rudder to keep the slip indicator centred."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

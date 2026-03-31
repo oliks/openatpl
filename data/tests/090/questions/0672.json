@@ -1,0 +1,14 @@
+{
+  "number": 672,
+  "questionId": "090-0672",
+  "questionNumber": "090-0672",
+  "stemHtml": "<p>Here is an extract of an exchange of radio-communication between the pilot of F-GTPO and Lille Tower: \"F-PO, squawk 6101.\" \"6101, F-PO.\" \"F-PO, radar identified, cleared to Lille via route SA then leave controlled airspace via route N.\" \"Cleared to Lille via route SA then leave controlled airspace via route N, F-PO.\" After a short while, F-PO is entering controlled airspace. \"F-PO, Lille Tower, radio check 118.550.\" No answer. \"F-PO, Lille Tower, if you read me, squawk IDENT.\" No answer but the controller`s radar shows that IDENT has been operated.</p><p>Assume that specific procedures for communication failure procedures have NOT been established for Lille Tower.</p><p>Which of the following statements are correct?</p><p>1. F-PO shall exit controlled airspace as soon as possible because he/she has a communication failure<br>2. F-PO is a controlled flight and must continue its transit to follow its clearance, unless this is incompatible with the regulation applicable for communication failure<br>3. F-PO will NOT receive any instruction from Lille Tower that will alter its transit clearance, other traffic will be instructed away from F-PO to maintain separation as applicable<br>4. F-PO may receive additional instructions from Lille Tower and the clearances can be acknowledged by operating the transponder</p><p> </p>",
+  "options": {
+    "a": "1 and 3",
+    "b": "1 and 4",
+    "c": "2 and 3",
+    "d": "2 and 4"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

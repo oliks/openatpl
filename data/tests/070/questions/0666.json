@@ -1,0 +1,14 @@
+{
+  "number": 666,
+  "questionId": "070-0666",
+  "questionNumber": "070-0666",
+  "stemHtml": "<p>How is the uncleared part of a contaminated runway reported in a SNOWTAM?</p>",
+  "options": {
+    "a": "<p>By a four figure group added to item D, which gives the length in meters.</p>",
+    "b": "<p>As a percentage of the total length of the runway available as the first item of a SNOWTAM.</p>",
+    "c": "<p>In plain language at item T (the final paragraph) of a SNOWTAM.</p>",
+    "d": "<p>It is not reported.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

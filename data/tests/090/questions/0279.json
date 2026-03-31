@@ -1,0 +1,14 @@
+{
+  "number": 279,
+  "questionId": "090-0279",
+  "questionNumber": "090-0279",
+  "stemHtml": "<div _ngcontent-ng-c859741441=\"\"><p><span _ngcontent-ng-c859741441=\"\">Which of the following is the correct format for writing time?</span></p><div _ngcontent-ng-c859741441=\"\"> </div><div _ngcontent-ng-c859741441=\"\"> </div></div>",
+  "options": {
+    "a": "<p>\u201chh:mm\u201d, UTC, 24 hour clock</p>",
+    "b": "<p>\u201chh:mm\u201d, local time, 24 hour clock</p>",
+    "c": "<p>\u201chh:mm:am\u201d, UTC, 12 hour clock</p>",
+    "d": "<p>\u201chh:mm:pm\u201d, local time, 12 hour clock</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

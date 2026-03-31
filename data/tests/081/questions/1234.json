@@ -1,0 +1,14 @@
+{
+  "number": 1234,
+  "questionId": "081-1234",
+  "questionNumber": "081-1234",
+  "stemHtml": "A plain flap will increase C<sub>LMAX</sub> by:",
+  "options": {
+    "a": "increasing the camber of the aerofoil.",
+    "b": "increasing angle of attack.",
+    "c": "centre of lift movement.",
+    "d": "boundary layer control."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

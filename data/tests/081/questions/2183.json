@@ -1,0 +1,14 @@
+{
+  "number": 2183,
+  "questionId": "081-2183",
+  "questionNumber": "081-2183",
+  "stemHtml": "<p>When are outboard ailerons (if present) de-activated?</p>",
+  "options": {
+    "a": "<p>Landing gear retracted.</p>",
+    "b": "<p>Flaps (and/or slats) extended or speed below a certain value.</p>",
+    "c": "<p>Flaps (and slats) retracted or speed above a certain value.</p>",
+    "d": "<p>Landing gear extended.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

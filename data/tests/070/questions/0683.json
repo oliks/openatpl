@@ -1,0 +1,14 @@
+{
+  "number": 683,
+  "questionId": "070-0683",
+  "questionNumber": "070-0683",
+  "stemHtml": "<p>An aircraft experiences a rapid decompression at 34 000 ft. What is the correct order of procedures in the cockpit?</p><p>1. Announce the descent<br>2. Commence the descent to 10 000 ft or MSA, whichever is the highest<br>3. Don the oxygen masks</p>",
+  "options": {
+    "a": "<p>3, 2, and 1. </p>",
+    "b": "<p>2, 1, and 3. </p>",
+    "c": "<p>2, 3, and 1. </p>",
+    "d": "<p>1, 2, and 3.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

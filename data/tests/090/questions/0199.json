@@ -1,0 +1,14 @@
+{
+  "number": 199,
+  "questionId": "090-0199",
+  "questionNumber": "090-0199",
+  "stemHtml": "<p>A pilot has just noted the latest ATIS for the destination aerodrome on the 20th day of the month.</p><p>\"Dusseldorf Information Bravo, MET report time one zero two zero, expect ILS approach, runway in use two three left and two three right, new procedures for localiser critical areas apply, expect short time ILS interference, transition level six zero, wind three six zero degrees four knots, visibility one zero kilometres, present weather light rain, cloud few one thousand five hundred feet, scattered two thousand feet, broken four thousand feet, temperature one three, dew point one one, QNH one zero one four hecto-pascal, trend NOSIG, information Bravo out.\"</p><p>From which of the following METARs has this ATIS message been created?</p>",
+  "options": {
+    "a": "201020Z T06036004KT 9999 -RA FEW015 SCT020 BKN040 13/11 Q1014=",
+    "b": "201020Z 36004KT 9999 -RA FEW015 SCT020 BKN040 13/11 Q1014 NOSIG=",
+    "c": "201020Z 36004KT 1000 R23 -RA FEW015 SCT020 BKN040 13/11 Q1014 NOSIG=",
+    "d": "201020Z 36004KT 9999 RA FEW015 SCT020 BKN040 13/11 Q1014="
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 402,
+  "questionId": "070-0402",
+  "questionNumber": "070-0402",
+  "stemHtml": "<p>An aircraft wishes to fly the PBCS routes in the NAT HLA. What are the requirements?</p>",
+  "options": {
+    "a": "<p>3 LRNS.</p>",
+    "b": "<p>ADS-C and CPDLC.</p>",
+    "c": "<p>Increased RVSM capability.</p>",
+    "d": "<p>No special requirements.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

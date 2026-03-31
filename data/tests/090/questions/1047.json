@@ -1,0 +1,14 @@
+{
+  "number": 1047,
+  "questionId": "090-1047",
+  "questionNumber": "090-1047",
+  "stemHtml": "<p>The controller instructs you to \"SQUAWK CHARLIE\". What does that mean? The controller...</p>",
+  "options": {
+    "a": "<div>wants you to switch off your transponder.</div>",
+    "b": "<div>is informing you that he/she can only determine your bearing within 10 degrees.</div>",
+    "c": "<div>is requesting transmission of your pressure altitude from your transponder.</div>",
+    "d": "is unable to see your aircraft on his/her primary radar.<br>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

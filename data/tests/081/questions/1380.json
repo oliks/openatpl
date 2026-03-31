@@ -1,0 +1,14 @@
+{
+  "number": 1380,
+  "questionId": "081-1380",
+  "questionNumber": "081-1380",
+  "stemHtml": "<p>How is the take-off distance of an airplane affected, when taking-off with maximum allowed take-off flaps?</p>",
+  "options": {
+    "a": "<p>Increases, because the lift-drag ratio decreases, creating more aerodynamic resistance</p>",
+    "b": "<p>Decreases, because the lift-drag ratio increases, allowing for a higher rate of climb</p>",
+    "c": "<p>Decreases, because the effect on lift-off speed is more significant than the extra drag created</p>",
+    "d": "<p>Increases, because the effect on lift-off speed is less than the drag created, slowing the aircraft's acceleration</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 519,
+  "questionId": "090-0519",
+  "questionNumber": "090-0519",
+  "stemHtml": "<p>An ATC unit, maintaining two-way communication with the traffic operating on the frequency, fails to establish normal communication with a specific aircraft. What is the most appropriate action for the ATC to take in this circumstance?</p>",
+  "options": {
+    "a": "<p>Call the specific aircraft on the secondary frequency.</p>",
+    "b": "<p>Call the specific aircraft on 243.0 MHz.</p>",
+    "c": "<p>Use other aircraft as a relay on the current frequency. </p>",
+    "d": "<p>Use the HF band, because it has a greater effective range.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1561,
+  "questionId": "081-1561",
+  "questionNumber": "081-1561",
+  "stemHtml": "<p>You are flying from airport A to airport B with a single engine piston when you experience an engine failure. Calculate the minimum height (above airport B) at A to reach a point 300 m above airport B, given:</p>\r\r<p>Elevation of airport A = Elevation of airport B  <br />  \rDistance from A to B: 60 km  <br />  \rL/D ratio: 30</p>",
+  "options": {
+    "a": "<p>2 000 m</p>",
+    "b": "<p>2 300 m</p>",
+    "c": "<p>2 500 m</p>",
+    "d": "<p>1 800 m</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

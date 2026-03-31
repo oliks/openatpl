@@ -1,0 +1,14 @@
+{
+  "number": 156,
+  "questionId": "081-0156",
+  "questionNumber": "081-0156",
+  "stemHtml": "<p>A crew is requested by ATC to descend. They select a lower altitude and set throttle to idle, but mistakenly leave the autopilot in Altitude Hold Mode <span style=\"letter-spacing:0.7px\">leaving the airspeed to gradually decrease. The crew do not notice the decreasing speed. What will happen to the angle of attack in this situation?</span></p>",
+  "options": {
+    "a": "<p>The angle of attack increases and there is a risk of stalling</p>",
+    "b": "<p>The angle of attack remains constant</p>",
+    "c": "<p>The angle of attack increases but there is no risk of stalling</p>",
+    "d": "<p>The angle of attack reduces</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 161,
+  "questionId": "081-0161",
+  "questionNumber": "081-0161",
+  "stemHtml": "<p>A crew calculate landing speeds for a full flap landing (30<strong>\u00b0</strong>) but, due to distraction, omit to extend flaps further than the approach setting (15<strong>\u00b0</strong>). Which of the following statements is correct assuming the correct glidepath was flown to touchdown?</p>",
+  "options": {
+    "a": "<p>Landing distance available may be insufficient and a tail strike is more likely.</p>",
+    "b": "<p>Aircraft attitude on the glideslope will be lower than expected.</p>",
+    "c": "<p>Thrust setting on the approach will be higher than expected.</p>",
+    "d": "<p>There is less risk of a runway overrun.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

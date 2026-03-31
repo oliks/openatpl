@@ -1,0 +1,14 @@
+{
+  "number": 2158,
+  "questionId": "081-2158",
+  "questionNumber": "081-2158",
+  "stemHtml": "<p>During the approach, the horizontal stabiliser becomes jammed in position. The aircraft's fly-by-wire flight controls will automatically switch to direct law so the aeroplane has to be flown completely manually for a short time before landing. Whilst on the approach, the fly-by-wire flight controls automatically maintain the correct pitch attitude by applying a continuous pitch-up command to the elevators. What will the effect be on control authority of changing to direct law just before landing?</p>",
+  "options": {
+    "a": "<p>The autopilot maintains the pitch attitude even in direct law.</p>",
+    "b": "<p>The pilot will have the most control authority in this law, except during a go-around.</p>",
+    "c": "<p>The approach will be easier for the pilots to fly in direct law due to better control authority.</p>",
+    "d": "<p>The control authority will be decreased in both directions.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 804,
+  "questionId": "090-0804",
+  "questionNumber": "090-0804",
+  "stemHtml": "<p>You are flying a VFR flight in VMC in a controlled airspace. Suddenly, you experience a radio failure. You should (1) _____ and land (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) Continue in VMC, and (2) at the nearest suitable airport.</p>",
+    "b": "<p>(1) Stay in the control zone, and (2) as soon as possible.</p>",
+    "c": "<p>(1) Fly at the minimum safe altitude, and (2) at the first aerodrome in sight.</p>",
+    "d": "<p>(1) Descend below the control zone, and (2) at your destination.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1455,
+  "questionId": "081-1455",
+  "questionNumber": "081-1455",
+  "stemHtml": "<p>A student pilot is flying with an instructor in a single engine aircraft. The instructor is demonstrating the effects of a stall shortly after take-off, specifically the effects of a stall during a turn. What are the initial effects of the stall in this scenario, and correct recovery procedures?</p>",
+  "options": {
+    "a": "<p>The slipstream covers up the buffeting, so reduce power in order to better diagnose stall symptoms.</p>",
+    "b": "<p>The right or the left wing might drop depending on aircraft design, lower the nose and use rudder to stop any roll if necessary.</p>",
+    "c": "<p>Reduce power, roll wings level and perform a normal power-off stall recovery.</p>",
+    "d": "<p>The outer wing may drop, roll wings level to increase elevator authority before pushing the control column forward.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

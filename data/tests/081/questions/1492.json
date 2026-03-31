@@ -1,0 +1,14 @@
+{
+  "number": 1492,
+  "questionId": "081-1492",
+  "questionNumber": "081-1492",
+  "stemHtml": "<p>For the given data, calculate the value of the manoeuvring speed V<sub>A</sub> for a large transport jet aircraft with a maximum takeoff mass of 344 tonnes.</p><p>V<sub>S0</sub> = 140 kt <br /> V<sub>S1</sub> = 208 kt</p>",
+  "options": {
+    "a": "<p>198 kt</p>",
+    "b": "294 kt",
+    "c": "<p>221 kt</p>",
+    "d": "<p>330 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

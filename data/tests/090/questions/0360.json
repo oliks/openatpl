@@ -1,0 +1,14 @@
+{
+  "number": 360,
+  "questionId": "090-0360",
+  "questionNumber": "090-0360",
+  "stemHtml": "<p>What is the likely result of a microphone button stuck in the transmit position?</p><p>1. The pilot loses the ability to transmit <br>2. In the aircraft with the stuck button, the pilot hears the intercom and static back ground noise <br>3. ATC can still receive transmissions from other traffic <br>4. ATC can only receive the transmission from the aircraft with the stuck button <br> </p>",
+  "options": {
+    "a": "<p>4 only</p>",
+    "b": "<p>1 and 3</p>",
+    "c": "<p>2 and 3</p>",
+    "d": "<p>2 and 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

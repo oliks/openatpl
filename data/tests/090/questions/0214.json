@@ -1,0 +1,14 @@
+{
+  "number": 214,
+  "questionId": "090-0214",
+  "questionNumber": "090-0214",
+  "stemHtml": "<p>An aircraft receives a TCAS RA and executes the climbing manoeuvre. Before the pilot can report the situation to ATC, another aircraft makes a MAYDAY call. What should the crew now do?</p>",
+  "options": {
+    "a": "<p>Wait until the emergency message ends before transmitting as the distress message has priority.</p>",
+    "b": "<p>Wait before transmitting as the aircraft in distress transmitted their message first.</p>",
+    "c": "<p>Wait before transmitting as they are clear of conflict and the situation is resolved.</p>",
+    "d": "<p>Interrupt the distress call as ATC need to be informed of your climbing manoeuvre.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

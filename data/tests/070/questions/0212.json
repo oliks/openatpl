@@ -1,0 +1,14 @@
+{
+  "number": 212,
+  "questionId": "070-0212",
+  "questionNumber": "070-0212",
+  "stemHtml": "<p>According to OPS regulations, a pilot may not continue a Category I approach below DH unless at least one visual reference for the intended runway is distinctly visible and identifiable to the pilot. What is the most complete combination of accepted visual references?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1 \u2013 one element of the approach light system</span>  <br />  \n2 \u2013 the threshold  <br />  \n3 \u2013 end of runway lights  <br />  \n4 \u2013 the visual glide slope indicator</p>",
+  "options": {
+    "a": "1, 3, 4",
+    "b": "1, 2, 3, 4",
+    "c": "1, 2, 4",
+    "d": "2, 3, 4"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

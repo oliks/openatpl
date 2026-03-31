@@ -1,0 +1,14 @@
+{
+  "number": 1822,
+  "questionId": "081-1822",
+  "questionNumber": "081-1822",
+  "stemHtml": "<p>Given the following information, calculate the lift coefficient for an aircraft in straight and level flight, flying in a clean configuration just above the clean stall speed.</p>Density: 1.225 kg/m\u00b3 <br /> TAS: 73 kt <br /> Mass: 7 300 kg <br /> Wing area: 49 m<sup>2</sup> <br /> G: 9.81 m/s<sup>2</sup>",
+  "options": {
+    "a": "C<sub>L</sub> = 0.045",
+    "b": "C<sub>L</sub> = 0.17",
+    "c": "C<sub>L</sub> = 0.45",
+    "d": "C<sub>L</sub> = 1.69"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

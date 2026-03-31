@@ -1,0 +1,14 @@
+{
+  "number": 1416,
+  "questionId": "070-1416",
+  "questionNumber": "070-1416",
+  "stemHtml": "<p>The European Regulation on Air Operations states that for operations under IFR, or under VFR over routes NOT navigated by reference to visual landmarks, additional VOR or ADF systems are required on any route, or part thereof, where navigation is based on these respective signals. If neither of these are available, can the route still be flown?</p>",
+  "options": {
+    "a": "<p>No, the carriage of VOR and ADF is mandatory.</p>",
+    "b": "<p>Yes, if safe navigation can be performed with alternative equipment.</p>",
+    "c": "<p>No, because the propagation characteristics of each system are different.</p>",
+    "d": "<p>Yes, provided position reporting with an appropriate ATC station can be performed.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

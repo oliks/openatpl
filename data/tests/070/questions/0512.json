@@ -1,0 +1,14 @@
+{
+  "number": 512,
+  "questionId": "070-0512",
+  "questionNumber": "070-0512",
+  "stemHtml": "<p>Is smoking allowed on board a private charter flight?</p>",
+  "options": {
+    "a": "<p>Never, as it endangers the safety of the flight.</p>",
+    "b": "<p>Only during short-haul flights with approval from EASA.</p>",
+    "c": "<p>When the operator allows it and commander deems it safe to do so.</p>",
+    "d": "<p>Vaping is permitted only but cigarettes, cigars and pipes are not allowed. </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

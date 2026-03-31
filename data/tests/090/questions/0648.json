@@ -1,0 +1,14 @@
+{
+  "number": 648,
+  "questionId": "090-0648",
+  "questionNumber": "090-0648",
+  "stemHtml": "<p>ATC sent you a CPDLC message but it has failed. What is their response?</p>\r\r<p>1. CPDLC failure (reissue clearance) <br /> \r2. CPDLC message failure (reissue clearance) <br /> \r3. Reissue clearance over voice comms <br /> \r4. All stations CPDLC failure (reissue clearance)</p>",
+  "options": {
+    "a": "<p>1</p>",
+    "b": "<p>2 and 3</p>",
+    "c": "<p>1 and 4</p>",
+    "d": "<p>4</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

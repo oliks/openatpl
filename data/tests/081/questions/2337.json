@@ -1,0 +1,14 @@
+{
+  "number": 2337,
+  "questionId": "081-2337",
+  "questionNumber": "081-2337",
+  "stemHtml": "<p>What happens if a pilot flying a clockwise rotating propeller performs a go around?</p>",
+  "options": {
+    "a": "<p>Asymmetric thrust is generated, leading to an increased left yaw.</p>",
+    "b": "<p>Asymmetric thrust is generated, leading to an increased right yaw.</p>",
+    "c": "<p>Symmetrical thrust is generated, leading to an increased right yaw.</p>",
+    "d": "<p>Symmetrical thrust is generated, leading to an increased left yaw.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

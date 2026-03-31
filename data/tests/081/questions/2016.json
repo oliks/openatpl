@@ -1,0 +1,14 @@
+{
+  "number": 2016,
+  "questionId": "081-2016",
+  "questionNumber": "081-2016",
+  "stemHtml": "<p>Aircraft A has a lift-to-drag ratio (L/D) of 10:1, and Aircraft B has an L/D of 15:1. Which question correctly compares the two aircrafts' glide characteristics?</p>",
+  "options": {
+    "a": "<p>Aircraft A has a shallower glide angle.</p>",
+    "b": "<p>Aircraft B has a shallower glide angle.</p>",
+    "c": "<p>They both have the same glide angle.</p>",
+    "d": "<p>There is not enough information to ascertain their relative glide profiles.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 107,
+  "questionId": "090-0107",
+  "questionNumber": "090-0107",
+  "stemHtml": "<div>Consider the following METAR:LFPG 150505Z 27015KT 9999 SCT016 OVC024 M09/M12 Q1006 NOSIG. Which option is correct?</div><div><br></div>",
+  "options": {
+    "a": "<div>The time of the report is 15:05 UTC, there are scattered clouds at 1600 ft AMSL, and the dew point is 9\u00b0 Fahrenheit.</div>",
+    "b": "<div>The wind is westerly at 15 kt, the temperature is 9\u00b0 Celsius below zero, and the QNH is 7 hPa less than ISA (International Standard Atmosphere).</div>",
+    "c": "<div>Visibility is greater than 10 km, the cloud base is at 2400 ft, and the temperature is 6\u00b0 Celsius less than ISA (International Standard Atmosphere).</div>",
+    "d": "The time of the report is 05:05 UTC, the temperature is 9\u00b0 Celsius, and the weather is expected to remain the same.<br>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

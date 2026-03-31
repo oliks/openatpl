@@ -1,0 +1,14 @@
+{
+  "number": 2282,
+  "questionId": "081-2282",
+  "questionNumber": "081-2282",
+  "stemHtml": "Fly-by-wire flight control systems convert pilot control inputs into electrical signals, which are processed and sent to electrically controlled hydraulic actuators, operating the control surfaces. Which control surface is operated when the pilot inputs a pitch command?",
+  "options": {
+    "a": "Ailerons",
+    "b": "Rudder",
+    "c": "Elevators",
+    "d": "CG"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 698,
+  "questionId": "090-0698",
+  "questionNumber": "090-0698",
+  "stemHtml": "<p>What is the most probable reason for a controller to issue the following message?</p>\r\n\r\n<p>'G-ABCD disregard CPDLC route clearance direct DASNI message, break, cleared direct ALKIS, rest of route unchanged.'</p>",
+  "options": {
+    "a": "<p>To correct the direct-to clearance and re-issue a clearance direct to ALKIS.</p>",
+    "b": "<p>To inform of a complete CPDLC system failure and revert to voice communication.</p>",
+    "c": "<p>To inform of a single-message failure and pass the new clearance direct to ALKIS.</p>",
+    "d": "<p>To correct the direct-to clearance and re-issue a clearance direct to DASNI.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

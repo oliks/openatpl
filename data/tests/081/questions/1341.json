@@ -1,0 +1,14 @@
+{
+  "number": 1341,
+  "questionId": "081-1341",
+  "questionNumber": "081-1341",
+  "stemHtml": "<p>What locations are the most susceptible to ice build-up during flight?</p>",
+  "options": {
+    "a": "<p>Parts of the aircraft that have a small radius, bend sharply, and hence have a higher curvature, such as narrow leading edges of the wings and tail, probes and antennas.</p>",
+    "b": "<p>The windscreens and other cockpit windows.</p>",
+    "c": "<p>Parts of the aircraft that have a large radius, and hence are gently curving, with a lower curvature, such as leading edge of a thick wing, the radome, and the fuselage.</p>",
+    "d": "<p>The radome, all the leading edges, upper wing surfaces, and the fuselage.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 726,
+  "questionId": "070-0726",
+  "questionNumber": "070-0726",
+  "stemHtml": "<p>Flight in RVSM airspace has certain requirements. Which of following are conditions to access this airspace? </p><p>1. Two independent altitude measuring systems<br>2. SSR altitude reporting transponder <br>3. ACAS II <br>4. Altitude alert system</p>",
+  "options": {
+    "a": "<p>1 and 2 only</p>",
+    "b": "<p>2, 3, 4</p>",
+    "c": "<p>1 and 4 only</p>",
+    "d": "<p>1, 2, 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

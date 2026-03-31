@@ -1,0 +1,14 @@
+{
+  "number": 864,
+  "questionId": "081-0864",
+  "questionNumber": "081-0864",
+  "stemHtml": "Assuming no compressibility effects, the correct relationship between stall speed, limit load factor (n) and V<sub>A</sub> is:",
+  "options": {
+    "a": "V<sub>A</sub> >= V<sub>S</sub> * SQRT (n).",
+    "b": "V<sub>A</sub> <= V<sub>S</sub> * SQRT (n).",
+    "c": "V<sub>A</sub> <= V<sub>S</sub> * 1/n.",
+    "d": "V<sub>A</sub> >= V<sub>S</sub> * 1/n."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

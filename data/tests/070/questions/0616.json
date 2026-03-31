@@ -1,0 +1,14 @@
+{
+  "number": 616,
+  "questionId": "070-0616",
+  "questionNumber": "070-0616",
+  "stemHtml": "<p>You are operating in the Gander Oceanic area and communications were initially established via HF radio. Later you receive a SELCAL alert, but due to atmospheric conditions no contact can be made on HF. What should you do?</p>",
+  "options": {
+    "a": "<p>Use VHF to contact Gander Oceanic Control Centre as a response to the SELCAL.</p>",
+    "b": "<p>Use 123.450 MHz to contact Gander Oceanic Control Centre to relay to Gander Radio.</p>",
+    "c": "<p>Use SATVOICE since loss of HF is an emergency.</p>",
+    "d": "<p>Use SATVOICE since SELCAL is only a routine call.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

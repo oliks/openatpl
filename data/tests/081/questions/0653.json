@@ -1,0 +1,14 @@
+{
+  "number": 653,
+  "questionId": "081-0653",
+  "questionNumber": "081-0653",
+  "stemHtml": "<p>You are comparing the polar curves of two different wings on the same graph. Both curves have the same C<strong><sub>D</sub></strong> values throughout, but one of the curves has a greater C<strong><sub>L</sub></strong> for every C<strong><sub>D</sub></strong><sub> </sub>value. What is true about this curve?</p>",
+  "options": {
+    "a": "<p>It has a higher drag coefficient.</p>",
+    "b": "<p>It has a lower maximum C<sub>L</sub>/C<sub>D</sub> ratio.</p>",
+    "c": "<p>It has a greater maximum C<sub>L</sub>/C<sub>D</sub> ratio.</p>",
+    "d": "<p>It has the same glide range as the other wing. </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

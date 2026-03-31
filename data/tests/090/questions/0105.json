@@ -1,0 +1,14 @@
+{
+  "number": 105,
+  "questionId": "090-0105",
+  "questionNumber": "090-0105",
+  "stemHtml": "<p>While flying in the vicinity of Bern, a pilot wants to obtain the magnetic bearing to the airport. What call should the pilot make for this information?</p>",
+  "options": {
+    "a": "<p>Bern approach, XY-ABC, request QDM.</p>",
+    "b": "<p>Bern approach and QTE.</p>",
+    "c": "<p>Tower and magnetic bearing, XY-ABC, magnetic bearing XY-ABC.</p>",
+    "d": "<p>Bern approach, XY-ABC, request magnetic bearing information from the airport.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

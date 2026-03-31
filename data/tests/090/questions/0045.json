@@ -1,0 +1,14 @@
+{
+  "number": 45,
+  "questionId": "090-0045",
+  "questionNumber": "090-0045",
+  "stemHtml": "<p>An aircraft encountering radio communication failure on an IFR flight in IMC has to land, if possible, within a predetermined time after the estimated time of arrival (ETA) or the last acknowledged expected approach time (EAT), whichever is later. What is the predetermined time in minutes? </p>",
+  "options": {
+    "a": "<p>15</p>",
+    "b": "<p>20</p>",
+    "c": "<p>30</p>",
+    "d": "<p>AET + 30</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

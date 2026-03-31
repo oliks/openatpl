@@ -1,0 +1,14 @@
+{
+  "number": 662,
+  "questionId": "090-0662",
+  "questionNumber": "090-0662",
+  "stemHtml": "The pilot of an aircraft approaching UUDY asks ATC for the latest RVR. Based on the current METAR, what is the controller\u2019s response?<br />UUDY 291200Z 14006G11MPS 0600 R14/1400U FG SCT010 OVC020 03/M04 Q1003.",
+  "options": {
+    "a": "RVR runway one four 1400 meter upward tendency",
+    "b": "RVR runway one four 1400 meter unchanged",
+    "c": "RVR runway one four 1400 meter will rise during next 2 hours",
+    "d": "RVR runway one four 1400 meter doward tendency"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

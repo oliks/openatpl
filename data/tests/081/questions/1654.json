@@ -1,0 +1,14 @@
+{
+  "number": 1654,
+  "questionId": "081-1654",
+  "questionNumber": "081-1654",
+  "stemHtml": "A pilot is asked by ATC to descend to FL120 at a point 50 NM away. He/she realizes he/she won\u2019t make it. What should the pilot do?",
+  "options": {
+    "a": "<p>Descend at M<sub>MO</sub> until changeover altitude, switch to IAS as long as you don\u2019t exceed V<sub>MO</sub>. Use speed brakes if needed.</p>",
+    "b": "Descend at M<sub>MO</sub> all the way down to FL120. Use speed brakes if needed.",
+    "c": "Descend at V<sub>MO</sub> all the way to FL120 without speed brakes.",
+    "d": "Descend at constant TAS."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

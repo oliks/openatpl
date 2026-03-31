@@ -1,0 +1,14 @@
+{
+  "number": 581,
+  "questionId": "090-0581",
+  "questionNumber": "090-0581",
+  "stemHtml": "<p>During an IFR flight, ATC passes the pilot the following message: <br /> \"D-EASA, reset squawk 5416, new QNH 1022, contact Bern Control on 124.680\".</p><p>What should the pilot's read back contain?</p>",
+  "options": {
+    "a": "<p>The new assigned frequency and the new QNH. The controller can see the squawk on the radar screen.</p>",
+    "b": "The squawk, the new QNH and the new assigned frequency.",
+    "c": "<p>The new assigned frequency only.</p>",
+    "d": "The new QNH only."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

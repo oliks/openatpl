@@ -1,0 +1,14 @@
+{
+  "number": 122,
+  "questionId": "090-0122",
+  "questionNumber": "090-0122",
+  "stemHtml": "Your flight plan has been filed with the call sign GOLF ALFA CHARLIE ZULU GOLF. Air Traffic Control has instructed you to \"CHANGE YOUR CALLSIGN TO SKYFALL ZULU GOLF\" (Skyfall is your company name). Why would they have done so? ",
+  "options": {
+    "a": "ATC would refrain from asking you to do so.",
+    "b": "Only for safety reasons.",
+    "c": "If your company has asked them to do so.",
+    "d": "If you have asked them to do so."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

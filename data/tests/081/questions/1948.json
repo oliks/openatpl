@@ -1,0 +1,19 @@
+{
+  "number": 1948,
+  "questionId": "081-1948",
+  "questionNumber": "081-1948",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhat does each line represent?</p>",
+  "options": {
+    "a": "<p>Line 1: Total Drag <br /> \rLine 2: Induced Drag <br /> \rLine 3: Parasite Drag</p>",
+    "b": "<p>Line 1: Total Drag <br /> \rLine 2: Parasite Drag <br /> \rLine 3: Induced Drag</p>",
+    "c": "<p>Line 1: Parasite Drag <br /> \rLine 2: Total Drag <br /> \rLine 3: Induced Drag</p>",
+    "d": "<p>Line 1: Induced Drag <br /> \rLine 2: Parasite Drag <br /> \rLine 3: Total Drag</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0059",
+      "publicUrl": "/attachments/081/081-att-0059.png"
+    }
+  ]
+}

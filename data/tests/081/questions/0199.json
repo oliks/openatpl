@@ -1,0 +1,19 @@
+{
+  "number": 199,
+  "questionId": "081-0199",
+  "questionNumber": "081-0199",
+  "stemHtml": "<p>Refer to figure. <br /> \rIgnoring any change in altitude (not significant), an aircraft is flying with autopilot engaged, idle power set, and using pitch to control speed. What happens to the airflow characteristics when the aircraft moves from position 3 to position 4?</p>",
+  "options": {
+    "a": "<p>V<sub>S</sub> increases, M<sub>CRIT</sub> increases due to increasing load factor. </p>",
+    "b": "<p>Existing shockwaves increase in strength due to increasing AoA.</p>",
+    "c": "<p>Existing shockwaves decrease in strength due to decreasing AoA.</p>",
+    "d": "<p>V<sub>S</sub> increases, M<sub>CRIT</sub> decreases due to increasing load factor. </p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0140",
+      "publicUrl": "/attachments/081/081-att-0140.jpg"
+    }
+  ]
+}

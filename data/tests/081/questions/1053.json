@@ -1,0 +1,14 @@
+{
+  "number": 1053,
+  "questionId": "081-1053",
+  "questionNumber": "081-1053",
+  "stemHtml": "<p>Given the following information, calculate the Lift for an aircraft in a straight and steady power-on descent with an angle of 30\u00b0.</p><p>Weight: 11350 N <br /> Thrust: 8450 N <br /> Drag: 11010 N</p>",
+  "options": {
+    "a": "<div>9829 N</div>",
+    "b": "<div>11350 N</div>",
+    "c": "<div>5675 N</div>",
+    "d": "7318 N"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

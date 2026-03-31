@@ -1,0 +1,14 @@
+{
+  "number": 1192,
+  "questionId": "070-1192",
+  "questionNumber": "070-1192",
+  "stemHtml": "<p>For EU aircraft with a Certificate of Airworthiness (CofA) issued before 2019, which of the following criteria must be met for installation of EGPWS/TAWS?</p>",
+  "options": {
+    "a": "<p>MTOM of more than 5700 kg and a MOPSC of more than 19</p>",
+    "b": "<p>MTOM of more than 5700 kg and MOPSC of 9 or less.</p>",
+    "c": "<p>MTOM of more than 5700 kg or MOPSC of more than 9.</p>",
+    "d": "<p>MTOM of 5700 kg or less and MOPSC of 19 or less.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

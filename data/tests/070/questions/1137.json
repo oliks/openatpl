@@ -1,0 +1,19 @@
+{
+  "number": 1137,
+  "questionId": "070-1137",
+  "questionNumber": "070-1137",
+  "stemHtml": "<p>Refer to figure. <br>What kind of information is indicated by 3840 in column 2 (see red circle) of the Dangerous Goods List of the Technical Instructions (ICAO Doc 9284)?</p>",
+  "options": {
+    "a": "<div>UN number.</div>",
+    "b": "<div>Hazard class.</div>",
+    "c": "<div>UN packing group.</div>",
+    "d": "Special provisions."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0025",
+      "publicUrl": "/attachments/070/070-att-0025.jpg"
+    }
+  ]
+}

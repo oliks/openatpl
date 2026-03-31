@@ -1,0 +1,14 @@
+{
+  "number": 649,
+  "questionId": "090-0649",
+  "questionNumber": "090-0649",
+  "stemHtml": "<p>After achieving two-way communication, Mudfield Radar gives the following instruction: \"GOLF ALFA CHARLIE ZULU GOLF, TRANSMIT FOR IDENTIFICATION AND REPORT HEADING\". The pilot should...</p>",
+  "options": {
+    "a": "<p>Select IDENT on the transponder and transmit: \u201cHEADING TWO SEVEN ZERO, GOLF ALFA CHARLIE ZULU GOLF.\u201d</p>",
+    "b": "<p>Transmit the following message: \u201cHEADING TWO SEVEN ZERO, GOLF ALFA CHARLIE ZULU GOLF.\u201d</p>",
+    "c": "<p>Reselect Mode S on the transponder and transmit: \u201cHEADING TWO SEVEN ZERO, GOLF ALFA CHARLIE ZULU GOLF.\u201d</p>",
+    "d": "<p>Select SBY on the transponder and transmit: \u201cHEADING TWO SEVEN ZERO, GOLF ALFA CHARLIE ZULU GOLF.\u201d</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2192,
+  "questionId": "081-2192",
+  "questionNumber": "081-2192",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe image illustrates the same aeroplane flying at two different angles of attack (AoA), 2\u00b0 and 12\u00b0, and a simplified representation of the streamlines in the 3D airflow around the wing. Assuming that the aircraft flies at the same speed and altitude but at the two different angles of attack shown, which of the angles of attack produces the most induced drag?</p>",
+  "options": {
+    "a": "<p>12\u00b0 AoA produces more induced drag, because of the greater pressure differential than at 2\u00b0 AoA</p>",
+    "b": "<p>2\u00b0 AoA produces more induced drag, because of the lower pressure differential than at 12\u00b0 AoA</p>",
+    "c": "<p>12\u00b0 AoA produces more total drag than 2\u00b0 AoA, but less induced drag.</p>",
+    "d": "<p>As the aircraft maintains the same speed, the induced drag is the same for both angles of attack.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0025",
+      "publicUrl": "/attachments/081/081-att-0025.jpg"
+    }
+  ]
+}

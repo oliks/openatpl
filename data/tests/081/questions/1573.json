@@ -1,0 +1,14 @@
+{
+  "number": 1573,
+  "questionId": "081-1573",
+  "questionNumber": "081-1573",
+  "stemHtml": "<p>A light aircraft is flying straight and level at 110 kts and a C<sub>L</sub> of 0.42. Calculate the new C<sub>L</sub>, if the pilot immediately pulls into a climb with a load factor of 2.2.</p>\r\r<p>C<sub>LMAX</sub> = 1.1 <br /> \rAircraft mass = 1300 kg</p>",
+  "options": {
+    "a": "<p>0.92</p>",
+    "b": "<p>0.5</p>",
+    "c": "<p>0.19</p>",
+    "d": "<div>Not able to calculate C<sub>L</sub> with the information provided</div>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

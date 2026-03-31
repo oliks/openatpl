@@ -1,0 +1,14 @@
+{
+  "number": 192,
+  "questionId": "090-0192",
+  "questionNumber": "090-0192",
+  "stemHtml": "<p>Two aircraft are flying overhead a VOR. Aircraft X is at 1500 ft and aircraft Y is at 15 000 ft. Both are 80 NM away from the destination airfield. Both aircraft have tuned their VHF radio to the ATIS frequency of the destination. The quality and reception of the receiver signal\u2026</p>",
+  "options": {
+    "a": "<p>will be better for aircraft Y because it is flying higher.</p>",
+    "b": "<p>will be better for aircraft X because it is flying lower.</p>",
+    "c": "<p>altitude does not influence VHF radio communications.</p>",
+    "d": "<p>will be the same for both aircraft X and Y because they are both 80 NM away from the destination.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

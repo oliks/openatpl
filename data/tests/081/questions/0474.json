@@ -1,0 +1,14 @@
+{
+  "number": 474,
+  "questionId": "081-0474",
+  "questionNumber": "081-0474",
+  "stemHtml": "<p>During flight, some of the data inputs to the fly-by-wire (FBW) system become inaccurate. Which of the following statements applies?</p>",
+  "options": {
+    "a": "<p>The aircraft will have to be flown using a manual backup mode, as the FBW computer can not detect or handle this problem.</p>",
+    "b": "<p>Some protections may be lost and the FBW may operate in a degraded mode, but can still be used. </p>",
+    "c": "<p>The redundancy of modern FBW computers means that normal operation can continue and this will not present any problems. </p>",
+    "d": "<p>Because the FBW computers receive inputs from different sources on the aircraft, the system can detect and correct the errors and will operate normally. </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

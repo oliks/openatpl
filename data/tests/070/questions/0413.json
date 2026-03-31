@@ -1,0 +1,14 @@
+{
+  "number": 413,
+  "questionId": "070-0413",
+  "questionNumber": "070-0413",
+  "stemHtml": "<p>An aircraft has been flying with a defective transponder and the failure has been deferred in accordance with the MEL. During a short turnaround, an engineer replaces the defective transponder with a new one. Prior to commencing the next flight, what must the commander ensure?</p>",
+  "options": {
+    "a": "<p>The operator and commander shall sign the maintenance release to confirm the work was carried out to the transponder manufacturer's required standards.</p>",
+    "b": "<p>The operator shall sign the maintenance release.</p>",
+    "c": "<p>The maintenance organisation signs the maintenance release to confirm the work was carried out to the maintenance organisation's required standards.</p>",
+    "d": "<p>The commander only shall sign the maintenance release.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

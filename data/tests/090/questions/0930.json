@@ -1,0 +1,14 @@
+{
+  "number": 930,
+  "questionId": "090-0930",
+  "questionNumber": "090-0930",
+  "stemHtml": "<p>The RNAV system of an aircraft has malfunctioned, and as a result the ILS does not arm or engage. ATC reports \"F-CD expect ILS Runway 23R\". How should the pilot respond?</p>",
+  "options": {
+    "a": "<p>Negative on the ILS due to RNAV failure.</p>",
+    "b": "<p>Not possible due to RNAV issues.</p>",
+    "c": "<p>Unable ILS due to RNAV failure.</p>",
+    "d": "<p>Sorry, I cannot comply due to RNAV failure.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

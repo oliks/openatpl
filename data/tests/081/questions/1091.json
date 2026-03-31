@@ -1,0 +1,14 @@
+{
+  "number": 1091,
+  "questionId": "081-1091",
+  "questionNumber": "081-1091",
+  "stemHtml": "<p>Calculate the Mach number, given the following information:</p><p>TAS: 451 kt\u00a0<br>Temperature: -58\u00b0C\u00a0<br>Assume LSS = 39\u221aK</p>",
+  "options": {
+    "a": "<p>0.942</p>",
+    "b": "<p>0.788</p>",
+    "c": "<p>0.698</p>",
+    "d": "<p>0.579</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

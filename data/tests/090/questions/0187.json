@@ -1,0 +1,14 @@
+{
+  "number": 187,
+  "questionId": "090-0187",
+  "questionNumber": "090-0187",
+  "stemHtml": "<p>You are given a clearance for PBN approach when you get a RAIM availability fault. What should you transmit to the controller?</p>",
+  "options": {
+    "a": "<p>CANNOT due to RAIM availability.</p>",
+    "b": "<p>UNABLE due to RAIM availability.</p>",
+    "c": "<p>UNAVAILABLE RAIM.</p>",
+    "d": "<p>NEGATIVE RAIM.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

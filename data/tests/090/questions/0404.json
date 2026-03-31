@@ -1,0 +1,14 @@
+{
+  "number": 404,
+  "questionId": "090-0404",
+  "questionNumber": "090-0404",
+  "stemHtml": "<p>You are approaching Bucharest Airport with the call sign 'Quickjet 123'. ATC give the instruction \u201cQuickjet 123, standby for Bucharest Approach on 119.415\u201d. What is your response?</p>",
+  "options": {
+    "a": "<p>\"119.415, Quickjet 123\" and contact Bucharest Approach</p>",
+    "b": "<p>\"119.415, Quickjet 123\" and wait for Bucharest Approach</p>",
+    "c": "<p>Do nothing</p>",
+    "d": "<p>Make a blind transmission to Bucharest Approach</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

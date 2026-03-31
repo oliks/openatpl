@@ -1,0 +1,14 @@
+{
+  "number": 940,
+  "questionId": "090-0940",
+  "questionNumber": "090-0940",
+  "stemHtml": "<p>A flight is planned to cruise at FL260 to the destination aerodrome, which is 90 minutes away. You are equipped with a VHF radio and a transponder, but you are NOT equipped with data link equipment. Which option is correct about the transmission of routine meteorological observations?</p>",
+  "options": {
+    "a": "<p>You are exempted for this aircraft, so NO reports of this kind are required. </p>",
+    "b": "<p>You must report every 15 minutes in the en route phase of the flight.</p>",
+    "c": "<p>This is the correct method for reporting severe weather such as thunderstorm with hail. </p>",
+    "d": "<p>You must report 1 hour after your departure. </p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

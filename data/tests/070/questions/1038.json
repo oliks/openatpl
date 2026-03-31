@@ -1,0 +1,14 @@
+{
+  "number": 1038,
+  "questionId": "070-1038",
+  "questionNumber": "070-1038",
+  "stemHtml": "<p>Shortly after departing an aerodrome, you hear another pilot report small birds in the vicinity. What is the potential risk to your aircraft in this situation?</p>",
+  "options": {
+    "a": "<p>Following a bird strike that damages the aircraft, it can be costly to keep the aircraft on the ground during repairs.</p>",
+    "b": "<p>Due to the report, you may not be able to immediately return to the aerodrome should it become necessary.</p>",
+    "c": "<p>Climb performance may be limited as ICAO rules dictate you should keep the gear down in event of birds being reported.</p>",
+    "d": "<p>If you suffer a bird strike, you should continue to your destination airport.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

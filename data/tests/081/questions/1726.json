@@ -1,0 +1,14 @@
+{
+  "number": 1726,
+  "questionId": "081-1726",
+  "questionNumber": "081-1726",
+  "stemHtml": "<p>Which of these statements concerning flight in turbulence is correct?</p>",
+  "options": {
+    "a": "<p>The load factor in turbulence may fluctuate above and below 1 and can even become negative.</p>",
+    "b": "<p>In severe turbulence, speed should be reduced to approximately 1.2 V<sub>S</sub>.</p>",
+    "c": "<p>When encountering turbulence during flight, the speed should be adjusted to the design speed for maximum gust intensity V<sub>B</sub>.</p>",
+    "d": "<p>Above V<sub>B</sub> the aeroplane can never be overstressed by a gust.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 88,
+  "questionId": "070-0088",
+  "questionNumber": "070-0088",
+  "stemHtml": "<p>Which of the following factors can affect an aircraft's anti-ice holdover time?</p><p>1. Type of shower of the anti-icing fluid <br>2. Temperature and concentration of fluid <br>3. Wind strength and direction <br>4. Type of anti-icing equipment used <br>5. Temperature of the aircraft skin <br>6. External temperature</p>",
+  "options": {
+    "a": "<p>2, 3, 5, 6.</p>",
+    "b": "<p>1, 2, 3, 4, 5.</p>",
+    "c": "<p>2, 3, 4, 5, 6.</p>",
+    "d": "<p>1, 2, 4, 5, 6.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

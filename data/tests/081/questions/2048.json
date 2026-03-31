@@ -1,0 +1,14 @@
+{
+  "number": 2048,
+  "questionId": "081-2048",
+  "questionNumber": "081-2048",
+  "stemHtml": "<p>Assuming a constant angle of attack, which of the following options correctly describes the relationship between the coefficient of drag (C<strong><sub>D</sub></strong>) and the Mach Number of an aeroplane with a supercritical aerofoil?</p>",
+  "options": {
+    "a": "<p>As the aeroplane accelerates between M<sub>CRIT</sub> and Mach Drag Divergence (M<sub>DD</sub>), the C<sub>D</sub> will increase significantly to reach its maximum value by M<sub>DD</sub>.</p>",
+    "b": "<p>At speeds above M<sub>CRIT</sub>, the C<sub>D</sub> will increase in a non-linear fashion, where flying at speeds slightly above M<sub>CRIT</sub> only leads to a slight increase in C<sub>D</sub>.</p>",
+    "c": "<p>As the aeroplane accelerates between M<sub>CRIT</sub> and Mach Drag Divergence (M<sub>DD</sub>), the C<sub>D</sub> will reduce slightly until M<sub>DD</sub>, after which the C<sub>D</sub> will significantly increase.</p>",
+    "d": "<p>At speeds above Mach Drag Divergence (M<sub>DD</sub>), the C<sub>D</sub> will increase until reaching its maximum value by M<sub>CRIT</sub> or Mach 1, whichever occurs earlier.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

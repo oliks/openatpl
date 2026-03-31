@@ -1,0 +1,14 @@
+{
+  "number": 1113,
+  "questionId": "081-1113",
+  "questionNumber": "081-1113",
+  "stemHtml": "<p>Compare two identical aircraft with different weights, in level flight, flying at the same 200 kt ATC speed restriction:</p><ul><li>Aircraft A is light and has a V<strong><sub>MD</sub></strong> of 120 kt</li><li>Aircraft B is heavy and has a V<strong><sub>MD</sub></strong> of 180 kt</li></ul><p>Which aircraft would achieve the longer glide range, assuming both must maintain 200 kt?</p>",
+  "options": {
+    "a": "<p>The heavy aircraft would have the shorter glide range as it requires a higher angle of attack due to weight.</p>",
+    "b": "<p>The light aircraft would have the longer glide range as it has the lowest induced drag.</p>",
+    "c": "<p>The heavy aircraft would have the longer glide range as it has greater momentum.</p>",
+    "d": "<p>The heavy aircraft would have the longer glide range as 200 kt is closest to its V<sub>MD</sub> speed.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

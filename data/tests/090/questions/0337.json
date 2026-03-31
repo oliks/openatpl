@@ -1,0 +1,14 @@
+{
+  "number": 337,
+  "questionId": "090-0337",
+  "questionNumber": "090-0337",
+  "stemHtml": "Which elements of instructions or information shall always be read back?",
+  "options": {
+    "a": "Time check, runway-in-use, altimeter settings, level instructions, SSR codes.",
+    "b": "Runway-in-use, visibility, surface wind, heading instructions, altimeter settings.",
+    "c": "Runway-in-use, altimeter settings, SSR codes, level instructions, heading and speed instructions.",
+    "d": "Surface wind, visibility, ground temperature, runway-in-use, altimeter settings, heading and speed instructions."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

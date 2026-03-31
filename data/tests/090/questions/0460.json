@@ -1,0 +1,14 @@
+{
+  "number": 460,
+  "questionId": "090-0460",
+  "questionNumber": "090-0460",
+  "stemHtml": "<p>A pilot is on a VFR navigation flight to FREETOWN, which is a controlled aerodrome. He/she  carefully prepared all radio COM and NAV frequencies on a piece of paper, but he/she CANNOT find the paper any more. Luckily, on the VFR map, he/she finds the following frequencies: FRT TWR 126.305 FRT GND 118.680 FREETOWN FRT 116.35. Which frequency must he/she select in order to use the radio navigation aid to FREETOWN?</p>",
+  "options": {
+    "a": "<p>126.305 MHz or 118.680 MHz, depending on the CTR entry point.</p>",
+    "b": "<p>116.350 MHz.</p>",
+    "c": "118.680 MHz.",
+    "d": "126.305 MHz."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

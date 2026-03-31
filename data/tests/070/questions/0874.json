@@ -1,0 +1,14 @@
+{
+  "number": 874,
+  "questionId": "070-0874",
+  "questionNumber": "070-0874",
+  "stemHtml": "<p>Below is an extract from an aeroplane MEL concerning the operational procedure associated with the failure of one or two autopilots. The aeroplane is dispatched with one AUTOPILOT inoperative.</p><p>FLIGHT PREPARATION/LIMITATIONS. <br>When one autopilot Is Inoperative: <br>Maximum landing capability Is FAIL PASSIVE CAT 3<br>for aircraft with the RNP AR capability, RNP AR operations strictly below 0.3 NM are NOT permitted</p><p>When both autopilots are Inoperative: <br>For aircraft with the RNP AR capability, RNP AR operations are NOT permitted<br>RUM operations are NOT permitted<br>Maximum landing capability Is CAT 1</p><p>What is the effect on the RVSM capability of the aeroplane with one autopilot inoperative?</p>",
+  "options": {
+    "a": "<p>The flight must be conducted outside of RVSM airspace.</p>",
+    "b": "<p>The aeroplane is fail passive RVSM compliant.</p>",
+    "c": "<p>RNP AR operations are NOT permitted.</p>",
+    "d": "<p>There is NO effect.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

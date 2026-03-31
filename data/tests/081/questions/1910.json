@@ -1,0 +1,14 @@
+{
+  "number": 1910,
+  "questionId": "081-1910",
+  "questionNumber": "081-1910",
+  "stemHtml": "<p>An aeroplane is flying in steady, straight and level flight at its 1g stall speed. If the pilot intends to turn left using the ailerons, the aeroplane will\u2026</p>",
+  "options": {
+    "a": "<p>bank to the left provided the speed does NOT decrease below the stalling speed.</p>",
+    "b": "<p>bank to the right, because the wing with the down going aileron will exceed the critical angle of attack.</p>",
+    "c": "<p>maintain straight and level flight because the ailerons will be unresponsive due to flow separation.</p>",
+    "d": "<p>yaw to the left, because of increased drag due to flow separation on the down going aileron.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

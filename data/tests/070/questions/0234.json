@@ -1,0 +1,14 @@
+{
+  "number": 234,
+  "questionId": "070-0234",
+  "questionNumber": "070-0234",
+  "stemHtml": "<p>You are flying in RVSM airspace. What altitude deviation should be reported by the operator?</p>",
+  "options": {
+    "a": "<p>+/- 245 ft of deviation because of inaccuracy of the altimeter</p>",
+    "b": "<p>+/- 200 ft of deviation because of inaccuracy of the altimeter</p>",
+    "c": "<p>+/- 200 ft of deviation from true altitude</p>",
+    "d": "+/- 245 ft of deviation from true altitude"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

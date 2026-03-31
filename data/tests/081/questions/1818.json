@@ -1,0 +1,14 @@
+{
+  "number": 1818,
+  "questionId": "081-1818",
+  "questionNumber": "081-1818",
+  "stemHtml": "<p>What is the significance of the maximum allowed cruising altitude, based on the 1.3 g margin? At this altitude:</p>",
+  "options": {
+    "a": "<p>exceeding a load factor of 1.3 will cause permanent deformation of this aeroplane.</p>",
+    "b": "<p>a manoeuvre with a load factor of 1.3 will cause a Mach number at which accelerated low speed stall occurs.</p>",
+    "c": "<p>a manoeuvre with a load factor of 1.3 will cause M<sub>CRIT</sub> to be exceeded.</p>",
+    "d": "<p>a manoeuvre with a load factor of 1.3 will cause buffet onset.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

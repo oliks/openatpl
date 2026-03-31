@@ -1,0 +1,14 @@
+{
+  "number": 2059,
+  "questionId": "081-2059",
+  "questionNumber": "081-2059",
+  "stemHtml": "<p>Given:</p><p><span style=\"letter-spacing:0.7px\">Aeroplane mass: 50000 kg.</span>  <br />  Lift/Drag ratio: 10.  <br />  Thrust per engine: 30000 N.  <br />  Assumed g: 10 m/s\u00b2.</p><p>For a straight, steady, wings level climb of a three-engine aeroplane, the all-engines climb gradient is:</p><div> </div>",
+  "options": {
+    "a": "2.9%.",
+    "b": "9.7%.",
+    "c": "8.5%.",
+    "d": "8.0%."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

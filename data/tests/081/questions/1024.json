@@ -1,0 +1,14 @@
+{
+  "number": 1024,
+  "questionId": "081-1024",
+  "questionNumber": "081-1024",
+  "stemHtml": "<p>An aircraft is climbing at a constant IAS, close to high speed buffet boundary. What should the pilot expect during the climb?</p>",
+  "options": {
+    "a": "<p>The nose will drop suddenly due to the onset of Mach buffet.</p>",
+    "b": "<p>C<sub>L</sub> remains the same as the IAS is constant.</p>",
+    "c": "<p>C<sub>L</sub> decreases because the Mach No. is decreasing.</p>",
+    "d": "<p>C<sub>L</sub> increases because Mach No. is increasing.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

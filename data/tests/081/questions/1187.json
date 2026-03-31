@@ -1,0 +1,14 @@
+{
+  "number": 1187,
+  "questionId": "081-1187",
+  "questionNumber": "081-1187",
+  "stemHtml": "A twin engine aircraft is in the cruise when both of its engines fail simultaneously. The pilot deploys full flaps almost immediately. Was this the correct decision?",
+  "options": {
+    "a": "Yes, because the flaps increase lift, and therefore increase the glide range.",
+    "b": "Yes, because the flaps will allow the aircraft to glide for a longer duration.",
+    "c": "No, because the L/D ratio decreases and ROD increases.",
+    "d": "No, because the flaps will interfere with any attempt to restart the engines."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

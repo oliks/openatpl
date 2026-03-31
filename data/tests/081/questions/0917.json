@@ -1,0 +1,14 @@
+{
+  "number": 917,
+  "questionId": "081-0917",
+  "questionNumber": "081-0917",
+  "stemHtml": "<p>Consider two twin-engine airplanes:</p><p>Airplane 1 has clockwise-rotating propellers. <br /> Airplane 2 has inward-rotating propellers.</p><p>If, on both airplanes, the left engine fails, which will give the largest yawing moment, and from which side will it be?</p>",
+  "options": {
+    "a": "Airplane 1 will have the greatest yaw moment, and it will produce a yaw to the right.",
+    "b": "Airplane 1 will have the greatest yaw moment, and it will produce a yaw to the left.",
+    "c": "Airplane 2 will have the greatest yaw moment, and it will produce a yaw to the right.",
+    "d": "Airplane 2 will have the greatest yaw moment, and it will produce a yaw to the left."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

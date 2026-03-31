@@ -1,0 +1,14 @@
+{
+  "number": 549,
+  "questionId": "090-0549",
+  "questionNumber": "090-0549",
+  "stemHtml": "<p>Complete the following sentence:</p>\r\n\r\n<p>London control instructs you to contact Solent radar on 120.225. Solent tells you to expect an ILS approach into runway 20 at Southampton. Solent radar transmits on the (1)_____ frequency band and the ILS transmits on the (2)_____ frequency band.</p>",
+  "options": {
+    "a": "<p>(1) very high; (2) very high.</p>",
+    "b": "<p>(1) high; (2) very high.</p>",
+    "c": "<p>(1) very high; (2) high.</p>",
+    "d": "<p>(1) high; (2) high.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

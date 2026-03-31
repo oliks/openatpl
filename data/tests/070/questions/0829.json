@@ -1,0 +1,14 @@
+{
+  "number": 829,
+  "questionId": "070-0829",
+  "questionNumber": "070-0829",
+  "stemHtml": "<p>You are a commercial pilot scheduled for an early morning duty but had trouble sleeping the night before. During the night, you took a dose of Sedamine, a common sleep aid. When you report for duty, you still feel slightly groggy. According to aviation safety regulations and operational procedures, should you accept the duty?</p>",
+  "options": {
+    "a": "<p>Yes, accept the duty as long as you feel you can manage to perform your responsibilities.</p>",
+    "b": "<p>Yes, but notify your supervisor about the situation and let them decide on your fitness for duty.</p>",
+    "c": "<p>No, because the use of Sedamine can impair cognitive and motor functions, which are critical for safe operation in aviation. </p>",
+    "d": "<p>No, unless you can take a quick nap at the airport to fully recover from the medication\u2019s effects before your shift starts. </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

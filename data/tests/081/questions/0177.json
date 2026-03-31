@@ -1,0 +1,19 @@
+{
+  "number": 177,
+  "questionId": "081-0177",
+  "questionNumber": "081-0177",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following aerofoils would be most suitable for a supersonic speed?</p>",
+  "options": {
+    "a": "<p>Aerofoil 1, which will minimize the affects of shock stall and have the best performance at supersonic speeds.</p>",
+    "b": "<p>Aerofoil 2, which will perform well across a wider range of speeds (both sub and supersonic).</p>",
+    "c": "<p>Aerofoil 3, with the higher radius will increase the M<sub>CRIT</sub>.</p>",
+    "d": "<p>None of the options are ideal aerofoils for supersonic speeds.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0109",
+      "publicUrl": "/attachments/081/081-att-0109.png"
+    }
+  ]
+}

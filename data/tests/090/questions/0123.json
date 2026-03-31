@@ -1,0 +1,14 @@
+{
+  "number": 123,
+  "questionId": "090-0123",
+  "questionNumber": "090-0123",
+  "stemHtml": "Traffic on your current frequency has declared a state of urgency. After several attempts you notice the controller does not seem to be receiving the urgency message. What must you do?",
+  "options": {
+    "a": "Reply to the urgency message, advise the ATS unit, and if necessary exercise control of communications.",
+    "b": "Maintain radio silence until ATC has acknowledged the call.",
+    "c": "Relay the message on the international guard frequency.",
+    "d": "Confirm receipt of the urgency call with other stations on frequency."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

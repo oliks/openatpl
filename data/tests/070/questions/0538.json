@@ -1,0 +1,14 @@
+{
+  "number": 538,
+  "questionId": "070-0538",
+  "questionNumber": "070-0538",
+  "stemHtml": "<p>According to ICAO Annex 6, Part I, the definition of \"flight time for aeroplanes\" is\u2026<br> </p>",
+  "options": {
+    "a": "<p>The time from when the pilot commences the take-off roll by applying take-off thrust until reaching taxi speed following landing.</p>",
+    "b": "<p>The total time from the moment an aeroplane first moves for the purpose of taking-off until the moment it finally comes to rest at the end of the flight.</p>",
+    "c": "<p>The time from when the aeroplane leaves the ground until the moment it touches down at the destination.</p>",
+    "d": "<p>The time from the moment the engines are started until the moment they are shut down at the end of the flight.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 681,
+  "questionId": "090-0681",
+  "questionNumber": "090-0681",
+  "stemHtml": "When all runways at an airport are affected by wind shear, how is it reported on a METAR?",
+  "options": {
+    "a": "WS ALL RWY",
+    "b": "WS ALL RWY + ICAO Airport Code",
+    "c": "WS + Runway Designator for each runway",
+    "d": "This information is not reported"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

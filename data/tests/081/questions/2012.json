@@ -1,0 +1,14 @@
+{
+  "number": 2012,
+  "questionId": "081-2012",
+  "questionNumber": "081-2012",
+  "stemHtml": "<p>Compared to cruising at low speeds, how does a high speed aircraft's coefficient of lift (C<sub>L</sub>) and C<sub>LMAX </sub>change when cruising at high speed?</p>",
+  "options": {
+    "a": "<p>C<sub>L</sub> decreases and C<sub>LMAX</sub> increases.</p>",
+    "b": "<p>C<sub>L</sub> increases and C<sub>LMAX</sub> decreases.</p>",
+    "c": "<p>Both C<sub>L</sub> and C<sub>LMAX</sub> decrease.</p>",
+    "d": "<p>Both C<sub>L</sub> and C<sub>LMAX</sub> increase.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

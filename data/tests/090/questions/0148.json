@@ -1,0 +1,14 @@
+{
+  "number": 148,
+  "questionId": "090-0148",
+  "questionNumber": "090-0148",
+  "stemHtml": "<p>An aircraft has received the following take-off clearance: \"TC-BTO, CLIMB STRAIGHT AHEAD UNTIL 4000 FT, BEFORE TURNING RIGHT HEADING 270, REPORT RIGHT TURN. RUNWAY 09 CLEARED FOR TAKE-OFF.\"</p>\r\n\r\n<p>After take-off, the aircraft is experiencing communications receiver failure and the pilots need to transmit blind their report to ATC, followed by a complete repetition. What phraseology shall they use?</p>\r\n\r\n<p>\"TC-BTO, TRANSMITTING BLIND DUE TO RECEIVER FAILURE...</p>",
+  "options": {
+    "a": "<p>...RIGHT TURN HEADING 270 MAINTAINING 4000 FT. CONTINUING VFR FOR LANDING RWY 09.\"</p>",
+    "b": "<p>...RIGHT TURN MAINTAINING 4000 FT. NEXT REPORT AT TIME 1201. ALL STATIONS RADIO CHECK.\"</p>",
+    "c": "<p>...RIGHT TURN. CONTINUING VFR FOR LANDING RWY 09. NEXT REPORT FINAL.\"</p>",
+    "d": "<p>...RIGHT TURN HEADING 270 SPEED 160 KNOTS. CONTINUING VFR FOR LANDING RWY 09.\"</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

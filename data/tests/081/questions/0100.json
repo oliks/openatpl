@@ -1,0 +1,14 @@
+{
+  "number": 100,
+  "questionId": "081-0100",
+  "questionNumber": "081-0100",
+  "stemHtml": "<p>Which of these statements about flutter are correct or incorrect?</p><p>I. Moving the engines from the wing to the fuselage improves wing flutter suppression<br>II. Excessive free play or backlash reduces the speed at which control surface flutter occurs</p>",
+  "options": {
+    "a": "I is correct, II is correct.",
+    "b": "I is incorrect, II is incorrect.",
+    "c": "I is incorrect, II is correct.",
+    "d": "I is correct, II is incorrect."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

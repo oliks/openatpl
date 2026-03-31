@@ -1,0 +1,14 @@
+{
+  "number": 110,
+  "questionId": "070-0110",
+  "questionNumber": "070-0110",
+  "stemHtml": "<p>Runway edge and threshold lights for CAT I approaches need to be visible for the flight crew. However, a CAT IIIB approach may be conducted without the requirement to see the lights during low visibility operation. What is the reason?</p>",
+  "options": {
+    "a": "<p>The CAT IIIB approach is done with automatic landing, so there is no requirement for the lights to be seen.</p>",
+    "b": "<p>Every approach below CAT I is an approach with automatic landing.</p>",
+    "c": "<p>The lights would disturb the pilots.</p>",
+    "d": "<p>The pilots perform manual landings, but they are using instruments, so the requirement for lights is not applicable here.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

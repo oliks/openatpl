@@ -1,0 +1,14 @@
+{
+  "number": 456,
+  "questionId": "090-0456",
+  "questionNumber": "090-0456",
+  "stemHtml": "<p>A pilot is planned to fly from Aberdeen Airport to London Heathrow. He/she receives the following ATC clearance: \u2018Globe Air 123 is cleared to London Heathrow flight plan route, FL210, squawk 4577.\u2019 The correct response is\u2026</p>",
+  "options": {
+    "a": "\u201cGlobe Air 123 is cleared to London Heathrow flight plan route, FL210, squawk 4577\u201d.",
+    "b": "\u201cCleared to London Heathrow flight plan route, FL210, squawk 4577, Globe Air 123\u201d.",
+    "c": "\u201cGlobe Air 123 is cleared flight plan route, FL210, squawk 4577\u201d.",
+    "d": "<p>\u201cCleared as filed, climb to FL210, squawk 4577, Globe Air 123\u201d.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

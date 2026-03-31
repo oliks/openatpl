@@ -1,0 +1,14 @@
+{
+  "number": 2060,
+  "questionId": "081-2060",
+  "questionNumber": "081-2060",
+  "stemHtml": "<p>An aeroplane has an engine failure in flight, and the pilot flies at the slowest speed possible to remain controllable. The speed is called (1) _____, and banking toward the (2) _____ engine increases the load on the vertical fin.</p>",
+  "options": {
+    "a": "<p>(1) V<sub>MCG</sub>; (2) inoperative.</p>",
+    "b": "<p>(1) V<sub>MC</sub>; (2) inoperative.</p>",
+    "c": "<p>(1) V<sub>MCG</sub>; (2) operative.</p>",
+    "d": "<p>(1) V<sub>MC</sub>; (2) operative.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

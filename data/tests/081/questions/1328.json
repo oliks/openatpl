@@ -1,0 +1,14 @@
+{
+  "number": 1328,
+  "questionId": "081-1328",
+  "questionNumber": "081-1328",
+  "stemHtml": "<p>You are the pilot flying an aircraft equipped with a constant speed propeller. While maintaining straight and level flight, the propeller angle of attack decreases. In these conditions, the propeller governor (1) _____ the pitch and the RPM eventually (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) decreases; (2) remains the same</p>",
+    "b": "<p>(1) increases; (2) remains the same</p>",
+    "c": "<p>(1) decreases; (2) increases</p>",
+    "d": "<p>(1) increases; (2) decreases</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

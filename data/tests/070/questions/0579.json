@@ -1,0 +1,19 @@
+{
+  "number": 579,
+  "questionId": "070-0579",
+  "questionNumber": "070-0579",
+  "stemHtml": "<p>A flight is planned on a C59 type propeller aeroplane. During boarding, a cabin crew member notices that a passenger is transporting an antique musket. The passenger says that the firing mechanism has been disabled and therefore the weapon cannot be fired. Is he/she authorised to carry these muskets in the plane?</p>",
+  "options": {
+    "a": "<p>Muskets are classified as sporting weapons, he/she can transport it in his/her checked baggage without restriction.</p>",
+    "b": "A musket is not classified as a weapon, therefore he/she can carry it without restrictions.",
+    "c": "No because the C59 plane is not suitable for transport of any weapons.",
+    "d": "He/she can carry provided no ammo is carried in this flight."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0013",
+      "publicUrl": "/attachments/070/070-att-0013.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 417,
+  "questionId": "090-0417",
+  "questionNumber": "090-0417",
+  "stemHtml": "<p>A pilot needs to transmit a message to ATC that starts with \"MAYDAY\", preferably spoken three times. The elements of the message are listed below. What is the preferred sequence for transmitting the elements of the message?</p>\n\n<p>1. Current position, 2 NM south of Trent VOR, 5000 feet, heading 320\u00b0 <br /> \n2. Engine fire <br /> \n3. Scottish Control <br /> \n4. Returning back to EGNX <br /> \n5. G-ABFF</p>\n\n<p> </p>",
+  "options": {
+    "a": "<div>5, 4, 1, 2, 3</div>",
+    "b": "<div>3, 5, 2, 4, 1</div>",
+    "c": "<div>4, 2, 3, 1, 5</div>",
+    "d": "3, 2, 5, 1, 4"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 558,
+  "questionId": "081-0558",
+  "questionNumber": "081-0558",
+  "stemHtml": "<p>Refer to Alicante chart 11-2 from Jeppesen GSPRM 2017.<br>An aircraft is flying outbound on radial 298 from ALT VOR where there is a MAX speed for the base turn of the procedure. Why should this maximum speed be adhered to?</p>",
+  "options": {
+    "a": "<p>To avoid proximity with nearby terrain. If exceeded, the turn radius will increase and aircraft will fly close to terrain west of the airport.</p>",
+    "b": "<p>There is a risk of overshooting the turn, ending up too high before final approach fix.</p>",
+    "c": "<p>If the speed is adhered to, the aircraft will line up exactly with the ILS approach track.</p>",
+    "d": "The turn radius will decrease and aircraft will fly closer to the airport."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0158",
+      "publicUrl": "/attachments/081/081-att-0158.png"
+    }
+  ]
+}

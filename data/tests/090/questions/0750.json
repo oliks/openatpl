@@ -1,0 +1,14 @@
+{
+  "number": 750,
+  "questionId": "090-0750",
+  "questionNumber": "090-0750",
+  "stemHtml": "<p dir=\"ltr\">A pilot requires a detailed description of a holding procedure. In which order should ATC provide this information?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Fix, inbound track, right or left turns, level, time of leg (if necessary).</p>",
+    "b": "<p dir=\"ltr\">Fix, level, inbound track, right or left turns, time of leg (if necessary).</p>",
+    "c": "<p dir=\"ltr\">Fix, level, right or left turns, level, inbound track, time of leg (if necessary).</p>",
+    "d": "<p>Fix, inbound track, level, right or left turns, time of leg (if necessary).</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

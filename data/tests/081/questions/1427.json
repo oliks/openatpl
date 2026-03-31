@@ -1,0 +1,14 @@
+{
+  "number": 1427,
+  "questionId": "081-1427",
+  "questionNumber": "081-1427",
+  "stemHtml": "<p>CS-23 and CS-25 require that an aeroplane must be statically stable and specify the acceptable range of stability and manoeuvrability. An aircraft's stability is affected by the CG location and the gross weight of the aircraft, amongst other factors. For a given aeroplane, the manoeuvrability...</p>",
+  "options": {
+    "a": "<p>cannot be affected by the pilot or operator as it is determined by the aircraft design.</p>",
+    "b": "<p>is determined by the size of the control surfaces only, not the CG position or the weight.</p>",
+    "c": "<p>is significantly higher when the centre of gravity is at the forward limit, and/or when the aeroplane is heavy.</p>",
+    "d": "<p>tends to be reduced when the aeroplane is heavy or has a forward centre of gravity location.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

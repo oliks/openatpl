@@ -1,0 +1,14 @@
+{
+  "number": 720,
+  "questionId": "081-0720",
+  "questionNumber": "081-0720",
+  "stemHtml": "An aircraft wing has a C<sub><strong>L</strong></sub> of 0.38. The pilot deploys a stage of flaps, then decreases speed to maintain the same altitude. Which of the following is correct?",
+  "options": {
+    "a": "The new C<sub>L </sub>is greater than 0.38 because flaps always increase the C<sub>L</sub>.",
+    "b": "The new C<sub>L</sub> must be greater than 0.38 to maintain the same altitude.",
+    "c": "The new C<sub>L </sub>is less than 0.38.",
+    "d": "The new C<sub>L </sub>is 0.38 because you're still at the same altitude."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

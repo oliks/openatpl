@@ -1,0 +1,14 @@
+{
+  "number": 693,
+  "questionId": "070-0693",
+  "questionNumber": "070-0693",
+  "stemHtml": "<p>An aeroplane is flying along airway T16 within the NAT HLA and is communicating with Shanwick Oceanic control using CPDLC. When passing GONAN, the CPDLC connection is automatically transferred to Santa Maria Oceanic control. What is correct?</p>",
+  "options": {
+    "a": "<p>The pilot does NOT need to take any further action once the CPDLC connection with Santa Maria Oceanic control is established.</p>",
+    "b": "<p>The pilot is then required to perform a CPDLC facility notification/log-on with Santa Maria, to acknowledge the automatic transfer.</p>",
+    "c": "<p>The pilot is then required to contact Santa Maria Oceanic control using VHF radio in the 118.000 MHz to 136.975 MHz frequency band.</p>",
+    "d": "The pilot is then required to establish contact with Santa Maria Oceanic control using HF radio in the 2.8 MHz to 18 MHz frequency band."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

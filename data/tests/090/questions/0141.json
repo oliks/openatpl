@@ -1,0 +1,14 @@
+{
+  "number": 141,
+  "questionId": "090-0141",
+  "questionNumber": "090-0141",
+  "stemHtml": "<p>When are you exempted from making routine meteorology voice reports?</p>",
+  "options": {
+    "a": "<p>Never.</p>",
+    "b": "<p>If you are flying in uncontrolled airspace.</p>",
+    "c": "<p>When your aircraft is ADS-C equipped, unless ATC requests you.</p>",
+    "d": "<p>When you did not LOGON to CPDLC.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

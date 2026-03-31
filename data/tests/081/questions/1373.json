@@ -1,0 +1,14 @@
+{
+  "number": 1373,
+  "questionId": "081-1373",
+  "questionNumber": "081-1373",
+  "stemHtml": "Just after take-off, a pilot inadvertently retracts the flaps instead of the landing gear. What are the consequences?",
+  "options": {
+    "a": "The take-off may be continued normally as the aeroplane has already lifted-off.",
+    "b": "None, because in accordance with the certification requirements, an interlock prevents retracting the flaps if the gear is down.",
+    "c": "The aeroplane will stall if the speed is lower than the stall speed in clean configuration.",
+    "d": "The rate of climb will be increased as drag will be less than with take-off flaps."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

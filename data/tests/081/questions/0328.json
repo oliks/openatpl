@@ -1,0 +1,14 @@
+{
+  "number": 328,
+  "questionId": "081-0328",
+  "questionNumber": "081-0328",
+  "stemHtml": "<div>Which definition of propeller parameters is correct?</div>",
+  "options": {
+    "a": "<div>Blade angle is the angle between the blade chord line and the propeller axis.</div>",
+    "b": "<div>Angle of attack is the angle between the blade chord line and the propeller vertical plane.</div>",
+    "c": "<div>Helix angle is the angle between the actual path of the propeller and the plane of rotation.</div>",
+    "d": "Geometric pitch is the actual distance a propeller would advance in one revolution."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

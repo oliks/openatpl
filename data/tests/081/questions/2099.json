@@ -1,0 +1,14 @@
+{
+  "number": 2099,
+  "questionId": "081-2099",
+  "questionNumber": "081-2099",
+  "stemHtml": "A wing is often designed having a different profile shape and/or a different angle of incidence along its span, creating a washout effect. Why is that?",
+  "options": {
+    "a": "To ensure that the wing tip stalls after the wing root to increase the stability in roll and reduce the likelihood of a wing-drop.",
+    "b": "This increases the lift towards the wing tip, thereby ensuring a more even distribution of lift along the spanwise direction, Increasing efficiency.",
+    "c": "This reduces the drag produced by the wing as the entire wing can operate at its optimum angle of attack along the spanwise direction.",
+    "d": "To reduce the effect of wing-tip vortices and therefore ensure a more even distribution of lift along the chordwise direction."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

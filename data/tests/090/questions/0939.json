@@ -1,0 +1,14 @@
+{
+  "number": 939,
+  "questionId": "090-0939",
+  "questionNumber": "090-0939",
+  "stemHtml": "<p>An aircraft has the following characteristics.</p>\r\r<p>Aircraft type: Boeing 747 <br /> \rRegistration marking: F-ACME <br /> \rFlight identification number: 1234</p>\r\r<p>What is the correct call sign for that aircraft?</p>",
+  "options": {
+    "a": "<p>Air France F-ACME.</p>",
+    "b": "<p>AF-1234.</p>",
+    "c": "<p>Air France ACME.</p>",
+    "d": "<p>Boeing 747.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

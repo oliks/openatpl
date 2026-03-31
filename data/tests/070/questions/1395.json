@@ -1,0 +1,14 @@
+{
+  "number": 1395,
+  "questionId": "070-1395",
+  "questionNumber": "070-1395",
+  "stemHtml": "<p>You are working for an airline that\u2019s been contracted to deliver humanitarian aid. You\u2019ve been flying all day with the same aircraft and are heading back from headquarters to do your last flight of the day. No passengers are on board, only cargo. Do you need to perform a security check on the cargo?</p>",
+  "options": {
+    "a": "<p>Yes, it still needs to be checked to find any dangerous goods that could endanger safety.</p>",
+    "b": "<p>No, it can be omitted because the crew have been flying it all day.</p>",
+    "c": "No, it can be omitted as there\u2019s no pax.",
+    "d": "No, as long as it\u2019s done before arrival."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 99,
+  "questionId": "070-0099",
+  "questionNumber": "070-0099",
+  "stemHtml": "Refer to figure.\r\n<p>What type of hazardous materials does the label indicate?</p>",
+  "options": {
+    "a": "Flammable solids",
+    "b": "<p>Oxidizing agent</p>\r\n",
+    "c": "Flammable liquids",
+    "d": "Explosives"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0014",
+      "publicUrl": "/attachments/070/070-att-0014.png"
+    }
+  ]
+}

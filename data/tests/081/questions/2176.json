@@ -1,0 +1,14 @@
+{
+  "number": 2176,
+  "questionId": "081-2176",
+  "questionNumber": "081-2176",
+  "stemHtml": "Generally, ailerons are fitted towards the wing-tips. However, some aeroplanes are fitted with outboard and inboard ailerons. At high flight speeds only the inboard ailerons are used, this is done to...",
+  "options": {
+    "a": "reduce the rolling moments which might generate excessive bending forces at their wing root if the outboard ailerons were to be used.",
+    "b": "ensure that the wing does NOT twist through aero elastic effects which would modify the local angle of attack and generate roll reversal.",
+    "c": "reduce the effects of adverse yaw which are greater when using outboard ailerons.",
+    "d": "increase flight control redundancy in the aeroplane\u2019s roll control should the outboard aileron system fail."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

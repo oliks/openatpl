@@ -1,0 +1,14 @@
+{
+  "number": 95,
+  "questionId": "090-0095",
+  "questionNumber": "090-0095",
+  "stemHtml": "What does the instruction \"Fastair 345 reset 1240?\" mean?",
+  "options": {
+    "a": "Fastair 345 is requested to set new code 1240.",
+    "b": "Fastair 345 is requested to reselect assigned code 1240.",
+    "c": "Fastair 345 is informed that radar service is terminated at time 12:40.",
+    "d": "Fastair 345 is instructed to stop squawk 1240 immediately."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 622,
+  "questionId": "090-0622",
+  "questionNumber": "090-0622",
+  "stemHtml": "<p>FLUGPROP 546 is receiving their departure clearance which requires the use of GNSS, which the crew cannot accept as their equipment does not meet the functional requirements. What is the correct response to the clearance \"Cleared via ODEMI SIX VICTOR departure, squawk 1046\"? <br>(callsigns are omitted)</p>",
+  "options": {
+    "a": "<p>Negative ODEMI SIX VICTOR due RNAV type, squawk 1046.</p>",
+    "b": "<p>Unable RNAV.</p>",
+    "c": "<p>Unable ODEMI SIX VICTOR due RNAV type.</p>",
+    "d": "<p>Negative RNAV, squawk 1046.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

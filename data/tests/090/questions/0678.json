@@ -1,0 +1,14 @@
+{
+  "number": 678,
+  "questionId": "090-0678",
+  "questionNumber": "090-0678",
+  "stemHtml": "<p>ATC instruct you: \"G-ACZG, TURN RIGHT IMMEDIATELY SIXTY DEGREES TO AVOID TRAFFIC ELEVEN OCLOCK FOUR MILES.\" What do you do?</p>",
+  "options": {
+    "a": "<p>Look for the traffic, and when you have seen it, acknowledge and turn right onto the new heading.</p>",
+    "b": "<p>Acknowledge the instruction then check visually that it is safe to turn before starting a turn right onto the new heading.</p>",
+    "c": "<p>Immediately select the maximum angle of bank possible and pull back to make the 60-degree turn as rapidly as possible.</p>",
+    "d": "<p>Start a standard rate turn right onto the new heading immediately, and acknowledge the instruction when time permits.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

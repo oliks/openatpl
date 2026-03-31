@@ -1,0 +1,14 @@
+{
+  "number": 715,
+  "questionId": "081-0715",
+  "questionNumber": "081-0715",
+  "stemHtml": "<p>What is correct about a slat? </p><p>A deployed slat will\u2026</p>",
+  "options": {
+    "a": "<p>Increase the boundary layer energy, move the suction peak from the fixed part of the wing to the slat, so that the stall is postponed to higher angles of attack.</p>",
+    "b": "<p>Increase the boundary layer energy and increase the suction peak on the fixed part of the wing, so that the stall is postponed to higher angles of attack.</p>",
+    "c": "<p>Increase the camber of the aerofoil and increase the effective angle of attack, so that C<sub>LMAX</sub> is reached at higher angles of attack.</p>",
+    "d": "<p>Decrease the boundary layer energy and decrease the suction peak on the slat, so that C<sub>LMAX</sub> is reached at lower angles of attack.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

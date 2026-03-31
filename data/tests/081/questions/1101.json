@@ -1,0 +1,14 @@
+{
+  "number": 1101,
+  "questionId": "081-1101",
+  "questionNumber": "081-1101",
+  "stemHtml": "<p>While cruising at constant Mach number and with autothrottle operative, an aircraft experiences wind shear. Due to autothrottle delay, the aircraft's speed momentarily increased beyond M<strong><sub>MO</sub></strong>. Apart from the aural warning, what can happen given these conditions?</p>",
+  "options": {
+    "a": "The pilot has to abruptly recover the pitch down tendency.",
+    "b": "<p>Dutch roll.</p>",
+    "c": "Buffet.",
+    "d": "Increase in noise."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

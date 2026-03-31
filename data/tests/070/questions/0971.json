@@ -1,0 +1,14 @@
+{
+  "number": 971,
+  "questionId": "070-0971",
+  "questionNumber": "070-0971",
+  "stemHtml": "<p>An aircraft is under unlawful interference involving an explosive device. The crew have already alerted the ATC unit. Shortly afterwards, the crew want to descend to mitigate the effects of a decompression from an explosion of the device. </p>",
+  "options": {
+    "a": "<p>They do NOT need to alert the ATC unit as the ATC unit is already aware of the situation.</p>",
+    "b": "<p>They do NOT need to alert the ATC unit as the aircraft is subject to unlawful interference. </p>",
+    "c": "<p>They should alert the ATC unit of the descent prior to descending.</p>",
+    "d": "<p>They should inform ATC if they are descending to an IFR flight level.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

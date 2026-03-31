@@ -1,0 +1,14 @@
+{
+  "number": 1704,
+  "questionId": "081-1704",
+  "questionNumber": "081-1704",
+  "stemHtml": "<p>An aeroplane is climbing with a constant IAS. What happens to the Mach number and the stall speed?</p>",
+  "options": {
+    "a": "<p>Mach number increases, and the stall speed increases because of the increased C<sub>LMAX</sub>.</p>",
+    "b": "<p>Mach number increases, and the stall speed increases because of the decreased C<sub>LMAX</sub>.</p>",
+    "c": "<p>Mach number decreases, and the stall speed increases because of the decreased C<sub>LMAX</sub>.</p>",
+    "d": "<p>Mach number decreases, and the stall speed increases because of the increased C<sub>LMAX</sub>.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

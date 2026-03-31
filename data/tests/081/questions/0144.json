@@ -1,0 +1,14 @@
+{
+  "number": 144,
+  "questionId": "081-0144",
+  "questionNumber": "081-0144",
+  "stemHtml": "<p>An aeroplane is equipped with a spring tab. As the airspeed increases, the assistance from the spring tab (1) _____ . At high speed, the pilot moves the (2) _____ which then moves the (3) _____.</p>",
+  "options": {
+    "a": "<p>(1) increases; (2) the tab; (3) the control surface</p>",
+    "b": "<p>(1) decreases; (2) the tab; (3) the control surface</p>",
+    "c": "<p>(1) increases; (2) the control surface; (3) the tab</p>",
+    "d": "<p>(1) decreases; (2) the control surface; (3) the tab</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 261,
+  "questionId": "090-0261",
+  "questionNumber": "090-0261",
+  "stemHtml": "What is the reason for LOG-ON with CPDLC?",
+  "options": {
+    "a": "The logon function is a means of exchanging application information between an aircraft and a specific ATSU. It also provides flight data to that ATSU.",
+    "b": "<p>The aircraft identification provided when initiating the logon exactly matches the aircraft identification of the filed flight plan.</p>",
+    "c": "The logon function is a means of exchanging information between an aircraft and the Tower. It also provides flight data to that tower.",
+    "d": "Under certain circumstances, it may be operationally desirable for an ATS unit to set up an ADSC connection without a preceding logon."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

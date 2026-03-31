@@ -1,0 +1,14 @@
+{
+  "number": 831,
+  "questionId": "090-0831",
+  "questionNumber": "090-0831",
+  "stemHtml": "<p>A pilot reports to ATC \u201cDisconnected from LOVV. Logging in to LOVL\u201d. What does the pilot want to inform ATC?</p>",
+  "options": {
+    "a": "<p>The pilot is requesting a CPDLC systems check.</p>",
+    "b": "<p>The pilot is trying to contact LOVL as the aircraft has failed to connect to LOVV.</p>",
+    "c": "<p>The pilot is requesting that ATC log on to LOVL.</p>",
+    "d": "<p>The pilot has manually disconnected from LOVV and the aircraft is connecting to LOVL.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

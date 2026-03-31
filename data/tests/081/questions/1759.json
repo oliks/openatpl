@@ -1,0 +1,14 @@
+{
+  "number": 1759,
+  "questionId": "081-1759",
+  "questionNumber": "081-1759",
+  "stemHtml": "<p>How does stall speed (IAS) vary with altitude?</p>",
+  "options": {
+    "a": "<p>It remains constant.</p>",
+    "b": "<p>It increases with increasing altitude, because the density decreases.</p>",
+    "c": "<p>It remains constant at lower altitudes but increases at higher altitudes due to compressibility effects.</p>",
+    "d": "<p>It remains constant at lower altitudes but decreases at higher altitudes due to compressibility effects.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

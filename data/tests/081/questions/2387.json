@@ -1,0 +1,14 @@
+{
+  "number": 2387,
+  "questionId": "081-2387",
+  "questionNumber": "081-2387",
+  "stemHtml": "<p>Consider a medium range jet transport aircraft. Just after take-off, the airplane suffers a left engine failure. To counteract the effect of asymmetric thrust, the pilot should yaw towards the (1) _____ engine and banking towards the dead engine will (2) _____ the fin/rudder loading.</p>",
+  "options": {
+    "a": "<p>(1) live; (2) decrease</p>",
+    "b": "<p>(1) live; (2) increase</p>",
+    "c": "<p>(1) dead; (2) increase</p>",
+    "d": "<p>(1) dead; (2) decrease</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

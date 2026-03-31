@@ -1,0 +1,14 @@
+{
+  "number": 420,
+  "questionId": "081-0420",
+  "questionNumber": "081-0420",
+  "stemHtml": "<p>Consider two aircraft A and B. Aircraft A has a light to drag (L/D) ratio of 15:1, and aircraft B has a lift to drag ratio of 18:1. Which of the following statements is true in the event of an engine failure?</p>",
+  "options": {
+    "a": "<p>Aircraft B has a steeper glide angle.</p>",
+    "b": "<p>Aircraft A has a steeper glide angle.</p>",
+    "c": "<p>Aircraft A and B have the same glide angles.</p>",
+    "d": "<p>There is not enough information to determine the glide angle of either aircraft.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

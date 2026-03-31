@@ -1,0 +1,14 @@
+{
+  "number": 23,
+  "questionId": "090-0023",
+  "questionNumber": "090-0023",
+  "stemHtml": "<p>An aeroplane is approaching the aerodrome and the Tower expects a (1)_____ approach whose station transmits on the (2)_____ frequency band with a wavelength between 100 m and 1 km.</p>",
+  "options": {
+    "a": "<p>(1) VOR; (2) Very high</p>",
+    "b": "<p>(1) DME; (2) Ultra high</p>",
+    "c": "<p>(1) NDB; (2) Medium</p>",
+    "d": "(1) ILS; (2) Low"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

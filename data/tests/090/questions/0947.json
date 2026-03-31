@@ -1,0 +1,14 @@
+{
+  "number": 947,
+  "questionId": "090-0947",
+  "questionNumber": "090-0947",
+  "stemHtml": "<p dir=\"ltr\">An aircraft is approaching Otopeni, the destination aerodrome, and has received the following ATIS broadcast. Who would you call to inform that you have received the ATIS?</p><p dir=\"ltr\">\u2018\u2019OTOPENI INFORMATION OSCAR. <br /> TIME 12:50 <br /> EXPECT AN ILS APPROACH. <br /> ARRIVALS RUNWAY 08 RIGHT. DEPARTURES RUNWAY 08 LEFT <br /> TRANSITION ALTITUDE 4000 FT. <br /> WORK IN PROGRESS ON APRON TWO. <br /> SURFACE WIND 250, 14 KNOTS. <br /> VISIBILITY 10 KILOMETRES OR MORE. <br /> SCATTERED 2400 FEET, BROKEN 4600 FEET. <br /> CUMULONIMBUS DETECTED. <br /> TEMPERATURE +19, DEW POINT +4. <br /> QNH 1007 <br /> NO SIGNIFICANT CHANGE <br /> ACKNOWLEDGE RECEIPT OF INFORMATION OSCAR WITH APP ON 119.415. <br /> DEPARTURE WITH DELIVERY ON 121.955.\u2018\u2019</p>",
+  "options": {
+    "a": "<p>Approach, 119.415</p>",
+    "b": "<p>Approach, 121.955</p>",
+    "c": "<p>Departure, 119.415</p>",
+    "d": "Departure, 121.955"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

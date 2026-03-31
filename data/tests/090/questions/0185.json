@@ -1,0 +1,14 @@
+{
+  "number": 185,
+  "questionId": "090-0185",
+  "questionNumber": "090-0185",
+  "stemHtml": "<p>Regarding the use of the words \"Over\" and/or \"Out\", which of the following is correct?</p>",
+  "options": {
+    "a": "<p>\"Over\" and \"out\" are never used in aeronautical communications.</p>",
+    "b": "<p>\"Over\" and \"out\" are ICAO standard terminology but are not used in VHF communications.</p>",
+    "c": "<p>\"Over\" and \"out\" are not ICAO standard terminology but may occasionally be heard in aeronautical communications.</p>",
+    "d": "<p>\u201cOver\u201d has to be used at the end of every VHF transmission to indicate that the transmission is over and that an answer is expected.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 776,
+  "questionId": "090-0776",
+  "questionNumber": "090-0776",
+  "stemHtml": "<p>At the Tenerif\u2019s Accident of 1977 two aircraft collided when one aircraft started the take off run while the other was taxiing onto the runway (taxiway was occupied). The aircraft taking off reported, \u201cwe are now at take-off\u201d and the tower replied \u201cOK\u2026, stand by for take-off. I will call you\u201d. Simultaneously, the other aircraft taxiing onto the runway reported, \u201cah\u2026hu..we are still taxiing down the runway\u201d. What is the reason these last two transmissions might NOT have reached the take-off aircraft?</p>",
+  "options": {
+    "a": "<p>If neither of the two messages was received, there must have been a failure of the receiver of the aircraft taking off. There is NO other possible explanation.</p>",
+    "b": "<p>A technical reason is NOT to be suspected. Most likely, the crew was absorbed by the takeoff and probably failed to notice the calls.</p>",
+    "c": "<p>As simultaneous transmissions on one frequency are NOT possible, they can block each other out. NOTHING or just interference noises might have been heard instead.</p>",
+    "d": "<p>The message of the Tower must have been received. The transmissions of ground stations have a general priority to supersede other simultaneous transmissions.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

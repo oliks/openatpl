@@ -1,0 +1,14 @@
+{
+  "number": 1326,
+  "questionId": "070-1326",
+  "questionNumber": "070-1326",
+  "stemHtml": "<p>An aircraft flying in NAT HLA in Shanwick and is in active contact via CPDLC. During crossover to Santa Maria, the crew automatically connects via CPDLC with Santa Maria. Which of the following is correct?</p>",
+  "options": {
+    "a": "<p>The pilot is then required to contact Santa Maria Oceanic control using VHF radio in the 118.000 MHz to 136.975 MHz frequency band.</p>",
+    "b": "<p>Contact Santa Maria via radiocommunication, using HF radio in the 2.8 MHz to 18 MHz frequency band.</p>",
+    "c": "<p>You need to contact/log on with Santa Maria to confirm automatic change.</p>",
+    "d": "<p>Do nothing as contact via CPDLC is transferred automatically.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

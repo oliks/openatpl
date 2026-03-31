@@ -1,0 +1,14 @@
+{
+  "number": 999,
+  "questionId": "070-0999",
+  "questionNumber": "070-0999",
+  "stemHtml": "<p>While flying on NAT Track Z at FL360, you experience severe turbulence and decide to deviate 20 NM to the left of track. Due to a HF radio failure you cannot reach ATC immediately, so what is your first action?</p>",
+  "options": {
+    "a": "<p>Squawk 7600 and deviate immediately for safety.</p>",
+    "b": "<p>Deviate immediately, then broadcast on VHF blind on 121.5 and 123.45 with your intentions.</p>",
+    "c": "<p>Maintain track and altitude until HF contact established\u2014deviation without clearance is prohibited.</p>",
+    "d": "<p>Climb or descend 300 ft and offset 15 NM as per standard contingency.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

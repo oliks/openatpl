@@ -1,0 +1,14 @@
+{
+  "number": 1994,
+  "questionId": "081-1994",
+  "questionNumber": "081-1994",
+  "stemHtml": "<p>Which of these statements about the limiting value of 5 degrees bank angle during V<sub>MCA</sub> determination are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. When the bank angle is decreased from 5 degrees to 0 degrees, the value of V</span><sub style=\"letter-spacing:0.7px\">MCA</sub><span style=\"letter-spacing:0.7px\"> will remain approximately constant.</span>  <br />  \nII. When the bank angle is increased beyond 5 degrees, there is a increasing risk of fin stall.</p>",
+  "options": {
+    "a": "I is correct, II is correct.",
+    "b": "I is incorrect, II is incorrect.",
+    "c": "I is correct, II is incorrect.",
+    "d": "I is incorrect, II is correct."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

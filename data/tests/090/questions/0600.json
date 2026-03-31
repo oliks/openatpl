@@ -1,0 +1,14 @@
+{
+  "number": 600,
+  "questionId": "090-0600",
+  "questionNumber": "090-0600",
+  "stemHtml": "<p>You have just contacted APPROACH and get the message \u201cGULFAIR 655, standby for Precision frequency\u201d. What is your next action?</p>",
+  "options": {
+    "a": "You acknowledge the message and wait.",
+    "b": "You don\u2019t say anything and wait until they call you up.",
+    "c": "You switch to the Precision frequency.",
+    "d": "<p>You confirm that you have understood the message.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

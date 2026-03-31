@@ -1,0 +1,19 @@
+{
+  "number": 422,
+  "questionId": "081-0422",
+  "questionNumber": "081-0422",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe two aircraft have different designs, but are of similar size and passenger capacity. What could be said with regards to the certification of the 2 aeroplanes?</p>",
+  "options": {
+    "a": "<p>Aircraft A needs fly-by-wire flight controls to ensure that it will not over-rotate during the go-around.</p>",
+    "b": "<p>Aircraft B requires fly-by-wire flight controls to avoid the stall from uncommanded pitch up during the go-around.</p>",
+    "c": "<p>Aircraft B needs a stick pusher system to avoid reaching an angle of attack that is too high, due to the potential for unwanted behaviour in the stall.</p>",
+    "d": "<p>Aircraft A requires a mach trimmer but aircraft B would be immune to mach tuck, so does not.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0012",
+      "publicUrl": "/attachments/081/081-att-0012.jpg"
+    }
+  ]
+}

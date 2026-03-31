@@ -1,0 +1,14 @@
+{
+  "number": 725,
+  "questionId": "090-0725",
+  "questionNumber": "090-0725",
+  "stemHtml": "A pilot in flight hears an urgency message but does not hear any station replying. What action must the pilot take?",
+  "options": {
+    "a": "Stop transmitting on the frequency until the Air Traffic Services provide replies.",
+    "b": "Acknowledge the urgency message.",
+    "c": "Squawk 7700 and re-transmit all urgency messages received on the emergency frequency 121.5 MHz.",
+    "d": "Return to the previous frequency to avoid interfering with urgency communications."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

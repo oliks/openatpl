@@ -1,0 +1,14 @@
+{
+  "number": 522,
+  "questionId": "090-0522",
+  "questionNumber": "090-0522",
+  "stemHtml": "<p>Bristol D-ATIS A, 1120 UTC. Arrival RWY 20R, departure RWY 02L. CAUTION: Work in Progress on apron area. QNH 1005 hPa. Acknowledge receipt information A on first contact with approach. Contact approach on frequency 122.525 and departure on frequency 118.3. End of D-ATIS A.</p>\r\n\r\n<p>What is the D-ATIS part referred to as \u201cother essential operational information\u201d?</p>",
+  "options": {
+    "a": "WORK IN PROGRESS ON APRON AREA.",
+    "b": "DEPARTURE RWY 02L, ARRIVAL RWY 20R.",
+    "c": "QNH 1005 hPa.",
+    "d": "APPROACH FREQUENCY 122.525."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

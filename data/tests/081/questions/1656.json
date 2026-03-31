@@ -1,0 +1,14 @@
+{
+  "number": 1656,
+  "questionId": "081-1656",
+  "questionNumber": "081-1656",
+  "stemHtml": "<p>What is the relationship between the maximum operating Mach number (M<strong><sub>MO</sub></strong>) and V<strong><sub>C</sub></strong>?</p>",
+  "options": {
+    "a": "<p>M<sub>MO</sub> must be greater than V<sub>C</sub></p>",
+    "b": "<p>M<sub>MO</sub> must not be greater than V<sub>C</sub></p>",
+    "c": "<p>M<sub>MO</sub> is equal to V<sub>C</sub></p>",
+    "d": "<p>M<sub>MO</sub> is never limited by V<sub>C</sub></p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

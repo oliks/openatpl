@@ -1,0 +1,14 @@
+{
+  "number": 244,
+  "questionId": "090-0244",
+  "questionNumber": "090-0244",
+  "stemHtml": "<p>Regarding the use of squawk code 7601, this should be used by\u2026</p>",
+  "options": {
+    "a": "<p>An aircraft with radio communication failure, IFR in IMC, planning to land at the nearest suitable airport.</p>",
+    "b": "<p>An aircraft with radio communication failure, IFR in VMC, planning to land at the nearest suitable airport.</p>",
+    "c": "<p>An aircraft with radio communication failure, IFR in VMC, planning to continue to the destination airport.  <br />   </p>",
+    "d": "<p>An aircraft with radio communication failure, IFR in IMC, planning to continue to the destination airport.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

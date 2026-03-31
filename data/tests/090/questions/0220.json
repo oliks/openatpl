@@ -1,0 +1,14 @@
+{
+  "number": 220,
+  "questionId": "090-0220",
+  "questionNumber": "090-0220",
+  "stemHtml": "<p>Regarding special VFR departures, which of the following phrases can you expect to hear?</p>",
+  "options": {
+    "a": "<div>special VFR to LEMD, passing Wicken VOR, climbing 3000 feet.</div>",
+    "b": "<div>leave control zone special VFR via route Whiskey, 3000 feet or below, report Whiskey one.</div>",
+    "c": "<div>via route Whiskey, cleared 3000 feet or below, report Whiskey one as special VFR.</div>",
+    "d": "<p>cleared to leave the control zone, VFR under special routing conditions via route Whiskey, 3000 feet or below, report Whiskey one.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

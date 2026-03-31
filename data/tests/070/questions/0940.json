@@ -1,0 +1,14 @@
+{
+  "number": 940,
+  "questionId": "070-0940",
+  "questionNumber": "070-0940",
+  "stemHtml": "<p>A class C cargo compartment is equipped with a smoke detection system and a fixed extinguishing system. According to standard regulatory procedures for a fire warning, what is the correct primary action sequence?</p>",
+  "options": {
+    "a": "<p>Air flow is shut off, and a crew member enters the compartment with a portable extinguisher to fight the fire.</p>",
+    "b": "<p>Cabin air conditioning is shut off, and both fixed fire extinguishing bottles are discharged simultaneously for maximum effect.</p>",
+    "c": "<p>Air flow should be reduced, or if possible, shut off. One fixed extinguisher is discharged immediately, followed by the second one after a short interval to ensure maximum concentration.</p>",
+    "d": "<p>Airflow to the compartment is shut off, and the first fixed extinguisher bottle is discharged, retaining the second bottle.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

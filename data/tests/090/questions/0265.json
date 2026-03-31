@@ -1,0 +1,14 @@
+{
+  "number": 265,
+  "questionId": "090-0265",
+  "questionNumber": "090-0265",
+  "stemHtml": "<p>An aircraft in flight wants to obtain weather information for the destination airport. If available, how can a D-VOLMET be obtained?</p>",
+  "options": {
+    "a": "<p>Via ADS-B.</p>",
+    "b": "<p>By tuning a specific VHF frequency.</p>",
+    "c": "<p>By tuning a specific HF frequency.</p>",
+    "d": "Via data link."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

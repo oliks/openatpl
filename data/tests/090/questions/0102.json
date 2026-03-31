@@ -1,0 +1,14 @@
+{
+  "number": 102,
+  "questionId": "090-0102",
+  "questionNumber": "090-0102",
+  "stemHtml": "You are on a routine flight, when suddenly your passenger falls ill, you have to land. How do you inform ATC and call for priority handling?",
+  "options": {
+    "a": "You continue your flight",
+    "b": "Call Pan Medical",
+    "c": "You initiate your call with MAYDAY (3 times)",
+    "d": "Declare a state of urgency and initiate your call with PANPAN, PANPAN, PANPAN"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

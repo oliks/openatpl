@@ -1,0 +1,14 @@
+{
+  "number": 1208,
+  "questionId": "070-1208",
+  "questionNumber": "070-1208",
+  "stemHtml": "<p>During boarding the flight crew is approached by the dispatcher and asked if there is a possibility to accommodate a person on the (previously unoccupied) flight deck jumpseat. There are NO spare passenger seats in the cabin and the person who wishes to travel works for the Operator but NOT in a flying capacity. </p>\r\n\r\n<p>According to the EU Regulations, what are the options? </p>",
+  "options": {
+    "a": "The Commander may authorise the use of spare seats at cabin crew stations if the Operations Manual allows, but only operating crew members may occupy the jumpseat.",
+    "b": "No persons other than operating crew members are allowed entry to the flight deck. However, the Commander may use his/her discretion for company staff.",
+    "c": "The person may travel on the jumpseat, provided it is in accordance with the company's Operations Manual, however, the Commander alone makes the final decision.",
+    "d": "Only persons who are on the crew manifest, i.e. an operating or deadheading crew member or an official inspector, are allowed to be on the flight deck during flight."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

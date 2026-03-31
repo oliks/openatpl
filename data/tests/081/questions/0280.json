@@ -1,0 +1,14 @@
+{
+  "number": 280,
+  "questionId": "081-0280",
+  "questionNumber": "081-0280",
+  "stemHtml": "<p>During the take-off roll, when the pilot raises the tail in a tail wheeled, clockwise (seen from pilot's perspective) rotating propeller driven aeroplane , a strong left yaw is generated, forcing the pilot to apply almost full right rudder to keep the aeroplane on the centreline. Before the tail is raised, the left yaw is caused by (I) and after the tail is raised the left yaw is caused by (II).</p>",
+  "options": {
+    "a": "<p>(I) spiralling slipstream; (II) gyroscopic precession</p>",
+    "b": "<p>(I) gyroscopic precession; (II) asymmetric blade effect</p>",
+    "c": "<p>(I) spiralling slipstream; (II) asymmetric blade effect</p>",
+    "d": "<p>(I) torque reaction; (II) asymmetric blade effect</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

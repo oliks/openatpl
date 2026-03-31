@@ -1,0 +1,14 @@
+{
+  "number": 1082,
+  "questionId": "081-1082",
+  "questionNumber": "081-1082",
+  "stemHtml": "<p>Consider two specific points on an aerofoil, the centre of pressure (CP) and the aerodynamic centre (AC). Which of the following statements is correct with regards to how their positions change?</p>",
+  "options": {
+    "a": "<p>Both points are in the same location, but the CP only considers the lift and drag forces, while the AC considers lift, drag, and pitching moment forces.</p>",
+    "b": "<p>The location of the CP will vary with changes in angle of attack. It is usually situated aft of the AC, which remains in a constant position throughout the normal angle of attack range.</p>",
+    "c": "<p>The locations of both the CP and AC are a function of lift and drag and their locations will be affected by speed, moving aft with increasing speed if the angle of attack remains constant.</p>",
+    "d": "<p>The CP is usually situated ahead of the AC as this is where the point of lowest pressure is found, while the AC indicates the position of least pitching moment.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

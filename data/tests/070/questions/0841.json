@@ -1,0 +1,14 @@
+{
+  "number": 841,
+  "questionId": "070-0841",
+  "questionNumber": "070-0841",
+  "stemHtml": "<p>During an LVO approach, the automatic flight control system suddenly fails, but there is no significant deviation in flight path, attitude, or trim. What type of system failure is this if the pilot must take control and continue the approach manually?</p>",
+  "options": {
+    "a": "<p>Fail-passive system</p>",
+    "b": "<p>Fail-operational system</p>",
+    "c": "<p>Hybrid operational system</p>",
+    "d": "<p>Pilot autoland system</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

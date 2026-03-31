@@ -1,0 +1,14 @@
+{
+  "number": 21,
+  "questionId": "070-0021",
+  "questionNumber": "070-0021",
+  "stemHtml": "<p>You are the commander of a flight carrying 60 veterans aged from their late sixties to early seventies. Among them are six amputees, two wheelchair users, three partially sighted passengers, and one deaf passenger. There are also 10 unaccompanied children travelling, aged between seven and ten. Who needs to be notified, and when?</p>",
+  "options": {
+    "a": "<p>Before the aircraft doors close, the commander must be notified that there are 70 special passengers including 10 unaccompanied children.</p>",
+    "b": "<p>Before boarding, the commander must be notified that there are 6 amputees, 2 wheelchair users, 3 partially sighted passengers, 1 deaf passenger and 10 unaccompanied children.</p>",
+    "c": "<p>The take-off and destination aerodrome fire services must be notified by the commander that there are 70 SCPs with 11 PRMs.</p>",
+    "d": "<p>The operator must inform the fire services that there are 6 amputees, 2 wheelchair users, 3 partially sighted passengers, 1 deaf passenger and 10 unaccompanied children.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

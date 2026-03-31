@@ -1,0 +1,14 @@
+{
+  "number": 735,
+  "questionId": "090-0735",
+  "questionNumber": "090-0735",
+  "stemHtml": "<p>You receive the following instruction: \"G-CD runway 27 cleared for take-off\". The priority is\u2026</p>",
+  "options": {
+    "a": "higher than \u201cG-CD line up runway 27\u201d",
+    "b": "the same as \u201cG-CD leave control zone via November\u201d",
+    "c": "the same as \u201cG-CD request QDM\u201d",
+    "d": "less than \u201cG-CD taxi to holding point runway 27\u201d"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 469,
+  "questionId": "090-0469",
+  "questionNumber": "090-0469",
+  "stemHtml": "<p>If you are tuned to 121.500 MHz using 8.33 kHz channel spacing, what adjacent frequencies are available?</p>",
+  "options": {
+    "a": "<p>Lower adjacent frequency: 121.495 MHz, Higher adjacent frequency: 121.505 MHz</p>",
+    "b": "<p>Lower adjacent frequency: 121.450 MHz, Higher adjacent frequency: 121.550 MHz</p>",
+    "c": "<p>Lower adjacent frequency: 121.485 MHz, Higher adjacent frequency: 121.515 MHz</p>",
+    "d": "<p>Lower adjacent frequency: 121.475 MHz, Higher adjacent frequency: 121.525 MHz</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

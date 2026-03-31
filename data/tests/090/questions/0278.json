@@ -1,0 +1,14 @@
+{
+  "number": 278,
+  "questionId": "090-0278",
+  "questionNumber": "090-0278",
+  "stemHtml": "<p>An aircraft is cleared to climb to FL100. When level at FL100, the pilot asks for further climb, but realises that they are experiencing a radio communication failure. The flight is IFR in IMC and under ATS Surveillance. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Maintain FL100 for 5 minutes.</p>",
+    "b": "<p>Maintain FL100 for 10 minutes.</p>",
+    "c": "<p>Do nothing.</p>",
+    "d": "<p>Squawk 7600 and maintain FL100 for 20 minutes from the time the squawk is set, then follow the flight plan.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

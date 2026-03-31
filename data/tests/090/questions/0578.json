@@ -1,0 +1,14 @@
+{
+  "number": 578,
+  "questionId": "090-0578",
+  "questionNumber": "090-0578",
+  "stemHtml": "<p>As the pilot of G-ACME, you need to know your true bearing to the aerodrome at Karlsgrab. What message should you transmit to the aerodrome ATS unit?</p>",
+  "options": {
+    "a": "<p>Karlsgrab Homer, Golf Alfa Charlie Mike Echo request QDR.</p>",
+    "b": "<p>Karlsgrab Approach, Golf Alfa Charlie Mike Echo request QGH.</p>",
+    "c": "<p>Karlsgrab Homer, Golf Alfa Charlie Mike Echo request QTE.</p>",
+    "d": "<p>Karlsgrab Approach, Golf Alfa Charlie Mike Echo request QUJ.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

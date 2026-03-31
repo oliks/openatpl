@@ -1,0 +1,14 @@
+{
+  "number": 137,
+  "questionId": "070-0137",
+  "questionNumber": "070-0137",
+  "stemHtml": "<p>You are flying a route which takes you close to the Magnetic North Pole and within the Canadian Northern Domestic Airspace. Which of the following considerations should be made?</p>",
+  "options": {
+    "a": "<p>To check their position only NDBs should be used to obtain bearings and these should then be converted to true bearings using the magnetic variation at the station.</p>",
+    "b": "<p>Their DR position should be cross-checked with a bearing from a VOR, which should then be converted to true using the magnetic variation at the aircraft.</p>",
+    "c": "<p>The Earth's vertical field strength is reduced and the ability of the compass to accurately sense Magnetic North is reduced.</p>",
+    "d": "<p>The magnetic compass may be unreliable or unusable; basic inertial navigation requires NO special procedures.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

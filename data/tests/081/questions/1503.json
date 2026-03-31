@@ -1,0 +1,14 @@
+{
+  "number": 1503,
+  "questionId": "081-1503",
+  "questionNumber": "081-1503",
+  "stemHtml": "<p style=\"margin-right:9px\">Regarding the load factor, an aircraft's maximum allowable load factor is determined by the manufacturer. For a particular aircraft, the maximum load limit with flaps extended is half of the load factor in the clean configuration. Which of the following options completes the statement correctly? In level and unaccelerated flight...</p>",
+  "options": {
+    "a": "the difference between maximum load limit for flaps extended and clean wing is necessary as structural strength of the wing is lower with flaps extended.",
+    "b": "<p>flying with flaps extended produces more load factor than flying in a clean configuration.</p>",
+    "c": "the margin between actual load factor and maximum load factor decreases with increased bank angle.",
+    "d": "<p>the load factor at which structural damage occurs can never be more than +2.0G when flaps are extended.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

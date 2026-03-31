@@ -1,0 +1,14 @@
+{
+  "number": 49,
+  "questionId": "090-0049",
+  "questionNumber": "090-0049",
+  "stemHtml": "<p>What type of signal can be expected if a pilot tunes the radio equipment to a frequency of 112.5 MHz?</p>",
+  "options": {
+    "a": "<p>It is an invalid frequency for aviation use.</p>",
+    "b": "<p>It is a VOR frequency used for navigation.</p>",
+    "c": "<p>It is a frequency used for air-to-air communication between aircraft.</p>",
+    "d": "<p>The pilot will hear the signal much louder than normal voice channels.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

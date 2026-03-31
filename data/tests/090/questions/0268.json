@@ -1,0 +1,14 @@
+{
+  "number": 268,
+  "questionId": "090-0268",
+  "questionNumber": "090-0268",
+  "stemHtml": "<p>An aircraft is cleared to fly offset using RNAV with no specified limits. While flying the offset path, the pilots experience a communication failure. What is the correct course of action?</p>",
+  "options": {
+    "a": "<p>Deviate from the current course and try to establish communications with an alternative ATC station.</p>",
+    "b": "<p>Circle in your current position while trying to fix the communication failure.</p>",
+    "c": "<p>Maintain the last assigned speed and level for a period of 10 minutes.</p>",
+    "d": "<p>Return to the flight plan route no later than the next significant point.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

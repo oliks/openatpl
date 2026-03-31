@@ -1,0 +1,14 @@
+{
+  "number": 439,
+  "questionId": "070-0439",
+  "questionNumber": "070-0439",
+  "stemHtml": "<p>Your aircraft has just arrived and is on a quick turn-around, during the walkaround you notice ice on the ground and freezing rain on the windshield, you\u2026</p>",
+  "options": {
+    "a": "<p>Take-off with all de-icing and anti-icing equipment on.</p>",
+    "b": "<p>Have the aircraft inspected as the flight control surfaces might be jammed by frozen water residues in the tracks.</p>",
+    "c": "<p>Take off anyway as the turn-around is quick.</p>",
+    "d": "<p>Have your aircraft de-iced requesting double the usual amount of spraying of flight control surface tracks, slots and other possible places of ice accumulation.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

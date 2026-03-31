@@ -1,0 +1,14 @@
+{
+  "number": 58,
+  "questionId": "090-0058",
+  "questionNumber": "090-0058",
+  "stemHtml": "<p>You have been granted a weather deviation by the controller via CPDLC. Once you have passed the weather and have re-joined the original cleared route, what message do you send via CPDLC?</p>",
+  "options": {
+    "a": "<p>Clear of weather.</p>",
+    "b": "<p>Back on route.</p>",
+    "c": "<p>Original routing resumed. </p>",
+    "d": "<p>Clear of weather, rejoined the planned route.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

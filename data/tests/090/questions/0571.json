@@ -1,0 +1,14 @@
+{
+  "number": 571,
+  "questionId": "090-0571",
+  "questionNumber": "090-0571",
+  "stemHtml": "<p>Upon reporting runway vacated, the tower controller passes taxi instructions specifying the route the aircraft should follow to get to its parking position, which the pilot reads back correctly. The controller then instructs the pilot to \"MONITOR GROUND 121.7\". What should the pilot now do?</p>",
+  "options": {
+    "a": "Follow the correctly acknowledged taxi instructions and listen out on the ground frequency.",
+    "b": "Stop when the entire aircraft has crossed the runway-holding position line and call the ground controller on the ground frequency with the aircraft`s call sign only.",
+    "c": "Follow the correctly acknowledged taxi instructions and call the ground controller on the ground frequency with the aircraft`s call sign only.",
+    "d": "Stop when the entire aircraft has crossed the runway-holding position line, having selected the ground frequency, wait for the ground controller to call."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

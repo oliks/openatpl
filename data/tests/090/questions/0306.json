@@ -1,0 +1,14 @@
+{
+  "number": 306,
+  "questionId": "090-0306",
+  "questionNumber": "090-0306",
+  "stemHtml": "<div>During radar vectoring, the controller asks the pilot of XY-ABC to turn on to heading 360\u00b0. What is the correct read back of this instruction?</div>",
+  "options": {
+    "a": "<div>Heading three hundred sixty, X-BC.</div>",
+    "b": "<div>A read back is not necessary as XY-ABC has been identified.</div>",
+    "c": "<div>Heading three six zero, X-BC.</div>",
+    "d": "Heading north, X-BC.<br>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

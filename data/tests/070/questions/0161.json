@@ -1,0 +1,14 @@
+{
+  "number": 161,
+  "questionId": "070-0161",
+  "questionNumber": "070-0161",
+  "stemHtml": "<p>During the cockpit preparation of the first flight of the day, you\u2019re reading the MEL items effective for the aircraft you\u2019re about to fly and it states that one of the two autopilots is inoperative. The respective MEL item states that RNP AR approaches requiring less than 0.3 NM of accuracy are prohibited with 1 AP inoperative, and a further degradation with a failure of the second autopilot would prohibit flights in RVSM. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The aircraft needs to be checked by a certified engineer before the captain accepts it.</p>",
+    "b": "RNP AR approach is not allowed with the current dispatch conditions.",
+    "c": "RNP AR approach is still allowed.",
+    "d": "The aircraft is AOG."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

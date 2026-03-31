@@ -1,0 +1,14 @@
+{
+  "number": 867,
+  "questionId": "090-0867",
+  "questionNumber": "090-0867",
+  "stemHtml": "<p>The ATC receives the message \u201cDisconnected from LOVV. Connecting to LOVL\u201d. What is the meaning of that transmission?</p>",
+  "options": {
+    "a": "<p>The pilot is informed that he manually disconnected from CPDLC LOVV and connected to CPDLC LOVL.</p>",
+    "b": "<p>The aircraft has automatically disconnected from CPDLC LOVV and is connecting to CPDLC LOVL.</p>",
+    "c": "<p>The pilot is informed that the aircraft has automatically switched from CPDLC LOVV to CPDLC LOVL.</p>",
+    "d": "<p> </p>\r\n\r\n<p>The aircraft is currently not connected to any CPDLC station.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

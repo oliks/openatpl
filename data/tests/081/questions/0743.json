@@ -1,0 +1,14 @@
+{
+  "number": 743,
+  "questionId": "081-0743",
+  "questionNumber": "081-0743",
+  "stemHtml": "<p>A jet transport aircraft flying in congested airspace is cleared to fly at close to its maximum altitude for its current gross mass. At that altitude, the aircraft encounters clear air turbulence which increases the AoA for a short time with no change in airspeed or mach number. What is the effect of the increase in AoA?</p>",
+  "options": {
+    "a": "<p>Increased low speed buffet margin.</p>",
+    "b": "<p>Decreased high speed buffet margin.</p>",
+    "c": "<p>Increased critical mach number.</p>",
+    "d": "<p>Increased drag divergence mach number.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

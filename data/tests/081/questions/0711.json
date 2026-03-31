@@ -1,0 +1,14 @@
+{
+  "number": 711,
+  "questionId": "081-0711",
+  "questionNumber": "081-0711",
+  "stemHtml": "<p>A student pilot is flying with an instructor in a single engine aircraft. The instructor is demonstrating the effects of a stall shortly after take-off, specifically the effects of a stall during a turn. What are the initial effects of the stall in this scenario, and correct recovery procedures?</p>",
+  "options": {
+    "a": "<p>Increased yaw towards the stalled wing; recover by reducing the angle of attack and applying the opposite rudder</p>",
+    "b": "<p>Increased roll towards the stalled wing; recover by increasing power and rolling wing level</p>",
+    "c": "<p>Increased pitch up; recover by reducing power and leveling the wings</p>",
+    "d": "<p>Decreased yaw towards the stalled wing; recover by applying opposite aileron and reducing power</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

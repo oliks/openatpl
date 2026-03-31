@@ -1,0 +1,14 @@
+{
+  "number": 237,
+  "questionId": "090-0237",
+  "questionNumber": "090-0237",
+  "stemHtml": "Radio signals are attenuated as they pass through the troposphere. Assuming they are transmitted at the same strength, which of the following VHF signals is likely to suffer least attenuation?",
+  "options": {
+    "a": "<p>An air-to-ground message from an aircraft flying at 30 000 feet.</p>",
+    "b": "<p>An air-to-air communication between two aircraft flying at 10 000 feet.</p>",
+    "c": "<p>A ground-to-air message to an aircraft flying at 30 000 feet.</p>",
+    "d": "<p>An air-to-air communication between two aircraft flying at 30 000 feet.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

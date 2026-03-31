@@ -1,0 +1,14 @@
+{
+  "number": 30,
+  "questionId": "090-0030",
+  "questionNumber": "090-0030",
+  "stemHtml": "<p>What is the item that must always be read back to ATC?</p>",
+  "options": {
+    "a": "<p>Presence of birds at the aerodrome</p>",
+    "b": "Transmission readability",
+    "c": "<p>PAPI unserviceability</p>",
+    "d": "<p>Runway-in-use</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

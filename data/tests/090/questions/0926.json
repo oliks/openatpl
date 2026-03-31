@@ -1,0 +1,14 @@
+{
+  "number": 926,
+  "questionId": "090-0926",
+  "questionNumber": "090-0926",
+  "stemHtml": "A pilot is flying a scheduled international commercial air transport flight, climbing to FL100. The aircraft is equipped with all the necessary communication and navigation equipment. Weather conditions at the moment are moderate to severe icing. When shall auto-reports be made?",
+  "options": {
+    "a": "These are not required below FL195.",
+    "b": "Required every 30 seconds.",
+    "c": "Required every 15 minutes.",
+    "d": "Not required, but should be made for the first 10 minute in cruise."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

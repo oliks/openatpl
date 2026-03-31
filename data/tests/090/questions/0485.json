@@ -1,0 +1,14 @@
+{
+  "number": 485,
+  "questionId": "090-0485",
+  "questionNumber": "090-0485",
+  "stemHtml": "<p>During the taxi out to the runway, an aircraft receives the following report from ATC: \"All stations, ATHINAI Ground, CPDLC failure, standby for Ground 121.750\". ATC is informing all aircraft of a...</p>",
+  "options": {
+    "a": "<p>complete CPDLC system failure and to contact Ground on frequency 121.750.</p>",
+    "b": "<p>single CPDLC message failure and to contact Ground on frequency 121.750.</p>",
+    "c": "<p>single CPDLC message failure and to wait to be called by Ground. </p>",
+    "d": "<p>complete CPDLC system failure and to wait to be called by Ground. </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

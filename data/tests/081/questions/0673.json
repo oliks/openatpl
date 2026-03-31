@@ -1,0 +1,19 @@
+{
+  "number": 673,
+  "questionId": "081-0673",
+  "questionNumber": "081-0673",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe following two images show the buffet margins of the same aircraft. Image A has a larger gap between the yellow bars than Image B. Why might the difference between the buffet margins exist between aircraft A and aircraft B?</p>",
+  "options": {
+    "a": "<p>Aircraft B is at a higher flight level than aircraft A.</p>",
+    "b": "<p>Aircraft B is at a lower flight level than aircraft A.</p>",
+    "c": "<p>Aircraft A has a higher mass than aircraft B.</p>",
+    "d": "<p>Aircraft A and B are at the same flight level, but the load factor of aircraft A is higher than B.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0152",
+      "publicUrl": "/attachments/081/081-att-0152.jpg"
+    }
+  ]
+}

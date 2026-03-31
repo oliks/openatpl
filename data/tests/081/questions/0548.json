@@ -1,0 +1,14 @@
+{
+  "number": 548,
+  "questionId": "081-0548",
+  "questionNumber": "081-0548",
+  "stemHtml": "<p>When comparing two asymmetric aerofoils, aerofoil A is made for a low speed aircraft and aerofoil B made for a high speed aircraft, which of the following is correct with regards to their C<strong><sub>L</sub></strong> vs AoA graphs.</p>",
+  "options": {
+    "a": "<p>The curve of aerofoil A is shallower and intersects the C<sub>L</sub>\u200b axis higher than the curve of aerofoil B.</p>",
+    "b": "<p>The curve of aerofoil A is steeper and intersects the C<sub>L</sub>\u200b axis higher than the curve of aerofoil B.</p>",
+    "c": "<p>The curve of aerofoil B is steeper and intersects the C<sub>L</sub>\u200b axis higher than the curve of aerofoil A.</p>",
+    "d": "<p>The curve of aerofoil B is shallower and intersects the C<sub>L\u200b</sub> axis higher than the curve of aerofoil A.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

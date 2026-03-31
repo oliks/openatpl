@@ -1,0 +1,19 @@
+{
+  "number": 834,
+  "questionId": "070-0834",
+  "questionNumber": "070-0834",
+  "stemHtml": "<p>Refer to figure. <br /> A flight is planned on a MU2 type propeller aeroplane. During boarding, a cabin crew member notices that a passenger is transporting an antique musket. The passenger says that the firing mechanism has been disable and therefore the weapon cannot be fired. Which of the following options is available to the pilot?</p>",
+  "options": {
+    "a": "<p>According to the Operations Manual, a disabled antique weapon is NOT considered a sporting weapon and may therefore be carried in the cabin.</p>",
+    "b": "The musket CANNOT be carried or the type of aeroplane must be changed because sporting weapons CANNOT be carried on the MU2.",
+    "c": "<p>If there is NO ammunition accompanying the musket, it may be transported WITHOUT restrictions.</p>",
+    "d": "Sporting weapons may be stored in the passenger cabin provided they are in a lockable container."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0012",
+      "publicUrl": "/attachments/070/070-att-0012.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 463,
+  "questionId": "090-0463",
+  "questionNumber": "090-0463",
+  "stemHtml": "<p>You are on one of your first solo navigation missions to destination Freetown. In the cockpit the usual radio and navigation frequencies are listed on a small card. Being a little stressed by the situation (solo flight, radio communication etc), you look for the tower frequency and find FREETOWN FRT 112.25 MHz on the frequency card. You start changing to this frequency on the radio. Which of the following is true?</p>",
+  "options": {
+    "a": "A radio frequency has been entered, but instead of contacting Freetown Tower it appears to be the Ground frequency.",
+    "b": "112.25 is an obsolete 25 kHz radio frequency, which has to be converted first to 8.33 kHz.",
+    "c": "The correct frequency has been entered for the pilot to contact Freetown Tower.",
+    "d": "112.25 is a VOR frequency, which cannot be selected on the VHF radio."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

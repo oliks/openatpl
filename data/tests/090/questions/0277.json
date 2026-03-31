@@ -1,0 +1,14 @@
+{
+  "number": 277,
+  "questionId": "090-0277",
+  "questionNumber": "090-0277",
+  "stemHtml": "<p>You are the Pilot-In-Command of a Commercial Air Transport flight operated by European Airlines. The aircraft type is a Boeing 747 with the registration mark OK-ABC. The flight number is 941 and the telephony designator of the Operator is pronounced as \u2018\u2019E-line\u2019\u2019. Which of the following is a correct initial full call sign for your flight?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">E-LINE ABC</p>",
+    "b": "<p dir=\"ltr\">European 941</p>",
+    "c": "<p dir=\"ltr\">747 Jumbo OBC Heavy</p>",
+    "d": "<p>Boeing OKABC Heavy</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

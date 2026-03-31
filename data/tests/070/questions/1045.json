@@ -1,0 +1,14 @@
+{
+  "number": 1045,
+  "questionId": "070-1045",
+  "questionNumber": "070-1045",
+  "stemHtml": "<p>A technician has fixed a flap fairing while their colleague was doing a normal maintenance check. All entries in the technical log, including the maintenance release, have only been signed by the second technician declaring that both works have been successfully completed. What should the captain do?</p>",
+  "options": {
+    "a": "<p>The commander can sign the Commander's acceptance in the technical log and depart.</p>",
+    "b": "<p>Accept the aircraft and take-off as long as the tech log is signed.</p>",
+    "c": "<p>Not accept the aircraft as the first technician did not sign.</p>",
+    "d": "<p>Request a special check from a third technician.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

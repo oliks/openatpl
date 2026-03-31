@@ -1,0 +1,14 @@
+{
+  "number": 530,
+  "questionId": "090-0530",
+  "questionNumber": "090-0530",
+  "stemHtml": "<p>Approaching an aerodrome, you establish contact on the frequency, but later you hear a continuous crackling/static noise. After some time, you then hear a short conversation. Are you receiving the frequency correctly?</p>",
+  "options": {
+    "a": "<p>No, the aircraft receiver is defective.</p>",
+    "b": "<p>Yes, but another aircraft has a stuck microphone transmitting continuously.</p>",
+    "c": "<p>No, the aircraft transmitter is defective.</p>",
+    "d": "<p>Yes, transmissions are blocking each other out.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

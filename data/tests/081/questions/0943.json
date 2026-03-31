@@ -1,0 +1,14 @@
+{
+  "number": 943,
+  "questionId": "081-0943",
+  "questionNumber": "081-0943",
+  "stemHtml": "<p>Calculate the thrust in a power-on descent for a 10 455 kg aeroplane, given the following information.</p><p>Drag: 95 500 N <br>Lift: 103 000 N <br>Descent angle: 30\u00b0 <br>(Assume g = 10 m/s<strong><sup>2</sup></strong>)</p>",
+  "options": {
+    "a": "<p>47 750 N</p>",
+    "b": "<p>82 705 N</p>",
+    "c": "<p>52 275 N</p>",
+    "d": "<p>43 225 N</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

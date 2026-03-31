@@ -1,0 +1,14 @@
+{
+  "number": 640,
+  "questionId": "081-0640",
+  "questionNumber": "081-0640",
+  "stemHtml": "<p>You are flying in the cruise while maintaining a constant IAS and altitude, when the temperature drops. What happens to the Mach number?</p>",
+  "options": {
+    "a": "<p>Mach increases without pilot intervention.</p>",
+    "b": "<p>Mach number stays constant.</p>",
+    "c": "<p> </p>\r\n\r\n<p>Mach number increases and there is a risk of a high speed buffet.</p>",
+    "d": "<p>Mach number decreases and there is a risk of a low speed buffet.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

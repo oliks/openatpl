@@ -1,0 +1,14 @@
+{
+  "number": 291,
+  "questionId": "090-0291",
+  "questionNumber": "090-0291",
+  "stemHtml": "<p>A pilot is under radar control, flying in IMC, and has just reached the cleared altitude. 8 NM before the mandatory reporting point he/she suddenly suffers a radio failure, and sets the appropriate SSR code. Given the sequence of events, how long must the pilot maintain the last cleared altitude or minimum flight altitude (whichever is higher)?</p>",
+  "options": {
+    "a": "<p>20 minutes from failing to report at the compulsory report point.</p>",
+    "b": "<p>12 minutes from setting the SSR code.</p>",
+    "c": "<p>10 minutes from setting the SSR code.</p>",
+    "d": "<p>12 minutes from reaching the last cleared altitude.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

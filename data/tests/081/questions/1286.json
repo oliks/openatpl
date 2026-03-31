@@ -1,0 +1,14 @@
+{
+  "number": 1286,
+  "questionId": "081-1286",
+  "questionNumber": "081-1286",
+  "stemHtml": "<p>Using conventional flight controls, you are manually piloting a jet transport aircraft as you accelerate from M 0.60 to M<strong><sub>MO</sub></strong> of M 0.81. A supercritical wing design is used on the aircraft. To maintain altitude as the plane accelerates, you must continuously apply a small nose-down trim. As you increase your speed through M 0.74, you'll see that the airplane gradually needs less nose-down trim to maintain altitude. This could have several causes, including...</p>",
+  "options": {
+    "a": "that shock waves form, resulting in greater rear loading of the aerofoil, and creating a slightly increasing nose-down pitching moment.",
+    "b": "that the aeroplane is designed to be statically unstable in transonic flight to help accelerate through the increased drag from shock waves.",
+    "c": "reaching the maximum of nose-down trim that is available, making the horizontal -stabiliser stall, which results in the nose dropping.",
+    "d": "that the aeroplane is entering a state of overspeed and the shock waves have resulted in a shock stall, making the aeroplane dive."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

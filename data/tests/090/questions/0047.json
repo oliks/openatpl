@@ -1,0 +1,14 @@
+{
+  "number": 47,
+  "questionId": "090-0047",
+  "questionNumber": "090-0047",
+  "stemHtml": "When an aircraft station is unable to establish communication due to receiver failure, what procedure should be taken?",
+  "options": {
+    "a": "Transmit at regular times or positions, the phrase \u201cTransmitting blind due to receiver failure\u201d",
+    "b": "<p>Change to frequency 121.5 MHZ and squawk 7700</p>",
+    "c": "Transmit reports at scheduled times or positions, preceded by the phrase \u201cTransmitting blind due to receiver failure\u201d",
+    "d": "<p>Land at the nearest uncontrolled airfield</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 486,
+  "questionId": "090-0486",
+  "questionNumber": "090-0486",
+  "stemHtml": "<p>An aircraft is flying at FL50 and requests a descent to an altitude of 3000 ft. The aircraft\u2019s call sign is F-PO and the transition level is published in the national AIP. To grant this descent, what would be the correct response from ATC?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">\u2018\u2019F-PO, CLEARED FROM FL50 3000 FT QFE 1005\u2019\u2019</p>",
+    "b": "<p dir=\"ltr\">\u2018\u2019F-PO, IS CLEARED TO DESCEND TO 3000 FT QFE 1005\u2019\u2019</p>",
+    "c": "<p dir=\"ltr\">\u2018\u2019DESCEND TO 3000 FT QNH 1002, F-PO\u2019\u2019</p>",
+    "d": "<p>\u2018\u2019F-PO, DESCEND TO ALTITUDE 3000 FT QNH 1002\u2019\u2019</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

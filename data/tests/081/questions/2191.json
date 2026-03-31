@@ -1,0 +1,14 @@
+{
+  "number": 2191,
+  "questionId": "081-2191",
+  "questionNumber": "081-2191",
+  "stemHtml": "<p>Regarding airflow around a wing, there are several specific points which can be defined. One of these is the separation point, which is where the...</p>",
+  "options": {
+    "a": "<p>boundary layer breaks down and disappears due to the turbulent flow that follows behind the separation point.</p>",
+    "b": "<p>velocity of the boundary layer becomes zero at the surface, and after which the boundary layer detaches from the wing surface.</p>",
+    "c": "<p>boundary layer becomes turbulent and thickens, and this point will move forward along the upper surface if the angle of attack is reduced.</p>",
+    "d": "<p>laminar airflow becomes turbulent, which creates a stall due to the rapid increase of the adverse pressure gradient.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1057,
+  "questionId": "070-1057",
+  "questionNumber": "070-1057",
+  "stemHtml": "<p>During the pre-flight preparation, a pilot who is operating a Commercial Air Transport flight with passengers, notices a fault with the only GPS receiver on board. The pilot has access to both the MEL and the MMEL, and finds the notes as shown below. How should the effect of the fault be addressed?</p><p>MMEL: May be inoperative provided it is NOT required for navigation<br>MEL: May be inoperative for VFR-by-day only; or; positioning flights if NOT required for navigation</p>",
+  "options": {
+    "a": "<p>The pilot may conduct the flight with NO restrictions if the flight remains in VMC and alternative means for navigation are used.</p>",
+    "b": "<p>The restriction in the MMEL applies because this is the master document produced by the aeroplane manufacturer.</p>",
+    "c": "<p>This flight may be conducted as planned if it is daylight and the flight is planned according to VFR only.</p>",
+    "d": "<p>Restrictions in the MEL are less strict than the MMEL and therefore the MEL must be used in this case.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

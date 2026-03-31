@@ -1,0 +1,14 @@
+{
+  "number": 1129,
+  "questionId": "070-1129",
+  "questionNumber": "070-1129",
+  "stemHtml": "<p>According to ICAO Doc 4444 , a wake turbulence non-radar separation minima of 3 minutes shall be applied\u2026</p>",
+  "options": {
+    "a": "<p>between a LIGHT aircraft and a SUPER aircraft making a missed approach and the LIGHT aircraft utilising an opposite-direction runway for take-off.</p>",
+    "b": "<p>to LIGHT aircraft taking-off behind a MEDIUM aircraft from an intermediate part of a parallel runway separated by less than 760 m.</p>",
+    "c": "<p>to a departing MEDIUM aircraft following a HEAVY aircraft arrival when operating on a runway with a displaced landing threshold.</p>",
+    "d": "<p>to an arriving LIGHT aircraft following a MEDIUM aircraft departure when operating on a runway with a displaced landing threshold, if the projected flight paths are expected to cross.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

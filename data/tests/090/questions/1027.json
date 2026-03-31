@@ -1,0 +1,14 @@
+{
+  "number": 1027,
+  "questionId": "090-1027",
+  "questionNumber": "090-1027",
+  "stemHtml": "ATC pass the following message: \"Fastair 345 traffic 1 o clock, 3 miles opposite track, 600 ft above and climbing\". The pilot does not have the traffic in sight. What should be his/her response?",
+  "options": {
+    "a": "<p>\"Traffic 1 o clock, 3 miles opposite track. 600 ft and descending. Looking for the traffic Fastair 345\"</p>",
+    "b": "\"Fastair 345 traffic 1 o clock, 3 miles opposite track. I do not have the traffic in sight\"",
+    "c": "\"Traffic 1 o clock, 3 miles opposite track. Negative traffic. Fastair 345\"",
+    "d": "<p>\"Looking out Fastair 345\"</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

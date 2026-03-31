@@ -1,0 +1,14 @@
+{
+  "number": 363,
+  "questionId": "081-0363",
+  "questionNumber": "081-0363",
+  "stemHtml": "Its a cold day, the pilot did not do de-ice nor anti-ice the aircraft. How will ice accretion affect the aircraft performance?",
+  "options": {
+    "a": "The drag will increase due to contamination, but the aircraft will take off normally.",
+    "b": "The drag will increase, it is fine as long the aircraft can become airborne.",
+    "c": "The drag will increase due to contamination and C<sub>LMAX</sub> will reduce.",
+    "d": "Stall speed increases, the drag decreases."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2083,
+  "questionId": "081-2083",
+  "questionNumber": "081-2083",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe aeroplane, for which data are provided by the Buffet Onset Boundary Chart, is flying at FL350 through the tropics in the late afternoon. Ahead of the aeroplane is an extended line of thunderstorms. If the 1.4 g buffet range is Mach 0.79 to 0.81, which of the following answers is the most appropriate operational decision?</p>",
+  "options": {
+    "a": "<p>Descend to FL330 where the 1.4 g buffet margin is Mach 0.73 to greater than Mach 0.84 and navigate laterally between the thunderstorm cells.</p>",
+    "b": "<p>Continue as planned because the threat of stall has already been mitigated against by using the 1.4 g buffet margin.</p>",
+    "c": "<p>Navigate laterally between the thunderstorm cells, ensuring straight and level flight at a load factor of 1, which will ensure a buffet margin of Mach 0.62 to greater than Mach 0.84.</p>",
+    "d": "<p>Navigate laterally between the thunderstorm cells, limiting the angle of bank to no more than 30\u00b0, which will ensure a buffet margin of Mach 0.67 to greater than Mach 0.84.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0069",
+      "publicUrl": "/attachments/081/081-att-0069.jpg"
+    }
+  ]
+}

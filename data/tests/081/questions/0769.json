@@ -1,0 +1,14 @@
+{
+  "number": 769,
+  "questionId": "081-0769",
+  "questionNumber": "081-0769",
+  "stemHtml": "<p>An aircraft comes out of a large maintenance overhaul which included both wings being disassembled and reassembled, but they were accidentally reassembled with slightly different angles of incidence. During the post-maintenance check flight, the pilot must fly close to the stall speed. Which of the following may happen in this situation?</p>",
+  "options": {
+    "a": "<p>The stall behaviour is not affected by the angle of incidence, so the aircraft will stall as intended.</p>",
+    "b": "<p>Both wings will stall simultaneously, so there will be no wing drop.</p>",
+    "c": "<p>The wing that was reassembled with a lower angle of incidence stalls first, causing a wing drop.</p>",
+    "d": "<p>The wing that was reassembled with a higher angle of incidence stalls first, causing a wing drop.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

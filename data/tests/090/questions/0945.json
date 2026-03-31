@@ -1,0 +1,14 @@
+{
+  "number": 945,
+  "questionId": "090-0945",
+  "questionNumber": "090-0945",
+  "stemHtml": "<p>If the ATC cannot establish radio contact with an aircraft in flight on any frequency on which the aircraft is believed to be listening, what is the controllers correct course of action?</p>",
+  "options": {
+    "a": "<p>Let the aircraft follow its clearance and ignore the lack of communication.</p>",
+    "b": "<p>Use another aircraft to relay the message.</p>",
+    "c": "<p>Try to make contact on a secondary frequency.</p>",
+    "d": "<p>Do not try to make contact since the pilots might be dealing with some critical emergency.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

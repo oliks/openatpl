@@ -1,0 +1,14 @@
+{
+  "number": 1852,
+  "questionId": "081-1852",
+  "questionNumber": "081-1852",
+  "stemHtml": "<p>A twin piston engine aircraft is loaded in such a way that during flight, as fuel is consumed, the CG moves to the neutral point. Which of these is true if the engine fails at this point?</p>",
+  "options": {
+    "a": "<p>The CG is on neutral point, so there will not be any yawing moment.</p>",
+    "b": "<p>The yawing moment about the CG alters depending on the linear position of CG.</p>",
+    "c": "<p>The yawing moment about the CG remains constant regardless of linear position of CG.</p>",
+    "d": "<p>As the CG is on the neutral point, the yawing moment will be greater than rudder\u2019s ability to control it.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

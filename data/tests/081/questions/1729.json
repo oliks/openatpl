@@ -1,0 +1,14 @@
+{
+  "number": 1729,
+  "questionId": "081-1729",
+  "questionNumber": "081-1729",
+  "stemHtml": "Which statement is correct regarding the Drag Divergence Mach number (MDRAG DIVERGENCE)?",
+  "options": {
+    "a": "Drag Divergence Mach number is close to, and always less than M<sub>CRIT</sub>.",
+    "b": "Drag Divergence Mach number is greater than M<sub>CRIT</sub>, except for supercritical wings where it is slightly less than M<sub>CRIT</sub>.",
+    "c": "Drag Divergence Mach number is slightly less than M<sub>CRIT</sub>, except for supercritical wings where it is greater than M<sub>CRIT</sub>.",
+    "d": "Drag Divergence Mach number is close to, and always greater than M<sub>CRIT</sub>."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

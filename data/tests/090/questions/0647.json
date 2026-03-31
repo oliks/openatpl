@@ -1,0 +1,14 @@
+{
+  "number": 647,
+  "questionId": "090-0647",
+  "questionNumber": "090-0647",
+  "stemHtml": "<p>A pilot receives the following message from ATC: \u201cD-NB, squawk 5412, climb to altitude 4500 ft\u201d.What is the correct reply to this message?</p>",
+  "options": {
+    "a": "<p>\u201csquawk five four one two, climbing to altitude four thousand five hundred feet, D-NB\u201d.</p>",
+    "b": "<p>\u201csquawk fifty-four twelve, climbing to altitude forty-five hundred feet, D-NB\u201d.</p>",
+    "c": "<p>\u201csquawk five four one two, climbing to altitude four five hundred feet, D-NB\u201d.</p>",
+    "d": "\u201csquawk five four one two, climbing to altitude four five zero zero feet, D-NB\u201d."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

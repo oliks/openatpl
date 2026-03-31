@@ -1,0 +1,14 @@
+{
+  "number": 943,
+  "questionId": "090-0943",
+  "questionNumber": "090-0943",
+  "stemHtml": "<p>ATC instructs an aircraft to perform a 360\u00b0 turn to the right due to some slower traffic proceeding ahead. The correct sequence of the corresponding radio calls is\u2026</p>",
+  "options": {
+    "a": "<p>F-AX, turn right complete turn. Turn right complete turn, F-AX</p>",
+    "b": "<p>F-AX, turn thirty six zero right. Turn thirty six zero right, F-AX</p>",
+    "c": "<p>F-AX, rotate to the right now. Rotate to the right now, F-AX</p>",
+    "d": "<p>F-AX, make a three sixty turn right. Three sixty right, F-AX</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

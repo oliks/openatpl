@@ -1,0 +1,14 @@
+{
+  "number": 732,
+  "questionId": "090-0732",
+  "questionNumber": "090-0732",
+  "stemHtml": "<p>During a flight, the pilot is requested by ATC to report the time overhead the next waypoint 'EUCAA'. According to the flight management computer, this time will be 10:18 UTC or 09:18 standard time. It is now 09:08 standard time. How would the pilot correctly report the time overhead?</p>",
+  "options": {
+    "a": "<p>Overhead EUCAA at zero-niner-one-eight. </p>",
+    "b": "<p>Overhead EUCAA at one-eight. </p>",
+    "c": "<p>Overhead EUCAA at one-zero minutes. </p>",
+    "d": "<p>Overhead EUCAA at ten-eighteen. </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

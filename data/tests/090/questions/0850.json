@@ -1,0 +1,14 @@
+{
+  "number": 850,
+  "questionId": "090-0850",
+  "questionNumber": "090-0850",
+  "stemHtml": "A pilot is departing from Lille in F-GTPO approaching the holding point with three aircraft ahead. The pilot receives the following message: \"F-PO, contact Lille Tower 118.550\"? What course of action must the pilot take?",
+  "options": {
+    "a": "Read back: \u201c118.550, F-PO\u201d, switch to 118.550 MHz, and wait for Lille Tower to initiate communications on this frequency.",
+    "b": "Read back: \u201cContacting 118.550, F-PO\u201d, switch to 118.550 MHz, and wait for Lille Tower to initiate communications on this frequency.",
+    "c": "Read back: \u201c118.550, F-PO\u201d, switch to 118.550 MHz, and call Lille Tower to notify his/her presence on this frequency.",
+    "d": "Read back: \u201cCalling 118.550, F-PO\u201d, switch to 118.550 MHz, and call Lille Tower to notify his/her presence on this frequency."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

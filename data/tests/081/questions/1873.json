@@ -1,0 +1,14 @@
+{
+  "number": 1873,
+  "questionId": "081-1873",
+  "questionNumber": "081-1873",
+  "stemHtml": "<div>A turboprop aeroplane has suffered an engine failure. The use of bank angle towards the live engine to tilt the lift vector...</div>\r\n",
+  "options": {
+    "a": "<div>counteracts the roll caused by uneven lift distribution due to the loss of slipstream on the side of the failed engine.</div>",
+    "b": "<div>increases the sideslip-induced side force on the fin, in order to minimise V<sub>MC</sub>.</div>",
+    "c": "<div>increases the rudder side force, giving more rudder authority to stop the yaw.</div>",
+    "d": "balances the rudder side force, creating a sideways component opposite to the rudder force."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

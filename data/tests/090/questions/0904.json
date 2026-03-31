@@ -1,0 +1,14 @@
+{
+  "number": 904,
+  "questionId": "090-0904",
+  "questionNumber": "090-0904",
+  "stemHtml": "<p>You are flying on a cross country VFR flight and notice that you cannot hear other stations but they can most likely hear you (receiver issue). How do you proceed?</p>",
+  "options": {
+    "a": "<p>I will start my transmissions with \u201cTransmitting blind due to receiver failure\u201d and state my intentions and next transmission time/location, saying this twice and all subsequent transmissions will be only be said once. </p>",
+    "b": "<p>I will start my transmissions with \u201cTransmitting blind due to receiver failure\u201d and state my intentions and next transmission time/location, saying this twice and all subsequent transmissions will be repeated twice.</p>",
+    "c": "<p>I will start my transmission with \u201cTransmitting blind due to receiver failure\u201d only on my first call and will then continue communications normally, providing only position reports. </p>",
+    "d": "<p>I will start my transmission with \u201cTransmitting blind due to receiver failure\u201d only on my first call and will then continue communications normally, providing only position reports and my intentions. </p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 550,
+  "questionId": "081-0550",
+  "questionNumber": "081-0550",
+  "stemHtml": "<p>You are flying an aircraft with supercritical wings high in the troposphere, when you are instructed to climb. You are maintaining a low Mach number due to an ATC speed restriction when you commence the climb. What is likely to happen?</p>",
+  "options": {
+    "a": "<p>Low speed buffet at M<sub>CRIT</sub> due to temperature increase</p>",
+    "b": "<p>High speed buffet at M<sub>CRIT</sub> due to compressibility</p>",
+    "c": "<p>Low speed buffet at V<sub>S1</sub> due to compressibility</p>",
+    "d": "<p>High speed buffet at V<sub>S1</sub> due to temperature increase</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

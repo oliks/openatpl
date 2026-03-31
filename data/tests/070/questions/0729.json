@@ -1,0 +1,14 @@
+{
+  "number": 729,
+  "questionId": "070-0729",
+  "questionNumber": "070-0729",
+  "stemHtml": "An airplane is flying on a NAT route and its ETA for a specific waypoint was 07:53. The flight crew realizes that they won&rsquo;t reach that point at the submitted ETA and they will probably arrive at 07:57. What should they do?",
+  "options": {
+    "a": "Inform their company.",
+    "b": "Nothing because a delay of 5 minutes is acceptable.",
+    "c": "Inform ATC.",
+    "d": "Change their flight plan."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

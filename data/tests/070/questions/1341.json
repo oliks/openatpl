@@ -1,0 +1,14 @@
+{
+  "number": 1341,
+  "questionId": "070-1341",
+  "questionNumber": "070-1341",
+  "stemHtml": "An aircraft wants to fly from Europe to USA via Nat HLA track D, entry point PIKIL, and the track is a PBCS track with reduced lateral separation. Which of the following statements is correct?",
+  "options": {
+    "a": "The aircraft must meet increased RVSM separation, in addition to increased navigation accuracy.",
+    "b": "<p>The commander must consider that the aircraft will be more affected by wake turbulence of the preceding aircraft, since they fly closer to each other.</p>",
+    "c": "<p>The aircraft must meet additional requirements on CPDLC and ADS-C, particularly regarding the time of response to any requests.</p>",
+    "d": "The aircraft must have the required PBN for the route being flown, and have 3 working LRNS for redundancy."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

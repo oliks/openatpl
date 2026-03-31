@@ -1,0 +1,14 @@
+{
+  "number": 1010,
+  "questionId": "070-1010",
+  "questionNumber": "070-1010",
+  "stemHtml": "<p>During the flight, the altitude alerting system is faulty. According to MEL, the aircraft can continue the flight, however...</p>",
+  "options": {
+    "a": "<p>Cannot fly IFR.</p>\r\n",
+    "b": "Flight in RVSM space is prohibited.",
+    "c": "<p>Autoland cannot be completed.</p>\r\n",
+    "d": "<p>Cannot fly in controlled airspace.</p>\r\n"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

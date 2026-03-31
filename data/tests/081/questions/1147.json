@@ -1,0 +1,14 @@
+{
+  "number": 1147,
+  "questionId": "081-1147",
+  "questionNumber": "081-1147",
+  "stemHtml": "<p>Considering the operation of a clockwise rotating propeller, complete the following sentences about propeller torque. <br /> \rWhen the propeller is windmilling, propeller torque acts (1) _____. During negative pitch (reverse thrust) operation, propeller torque acts (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) clockwise; (2) clockwise</p>",
+    "b": "<p>(1) anti-clockwise; (2) anti-clockwise</p>",
+    "c": "<p>(1) clockwise; (2) anti-clockwise</p>",
+    "d": "<p>(1) anti-clockwise; (2) clockwise</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

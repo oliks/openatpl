@@ -1,0 +1,14 @@
+{
+  "number": 1625,
+  "questionId": "081-1625",
+  "questionNumber": "081-1625",
+  "stemHtml": "<p>A jet transport aircraft is climbing with a constant CAS, and then transitions to flying a constant Mach No. Assuming no significant thrust reduction occurs, how do the following parameters change?</p>",
+  "options": {
+    "a": "<p>Rate of climb increases, coefficient of lift increases, angle of attack increases, pitch increases</p>",
+    "b": "<p>Rate of climb remains constant, coefficient of lift remains constant, angle of attack remains constant, pitch remains constant.</p>",
+    "c": "<p>Rate of climb increases, coefficient of lift remains constant, angle of attack decreases, pitch remains constant.</p>",
+    "d": "<p>Rate of climb remains constant, coefficient of lift increases, angle of attack increases, pitch decreases.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

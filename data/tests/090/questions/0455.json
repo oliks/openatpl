@@ -1,0 +1,14 @@
+{
+  "number": 455,
+  "questionId": "090-0455",
+  "questionNumber": "090-0455",
+  "stemHtml": "<p>The pilot of an aircraft has received a take-off clearance:</p>\r\n\r\n<p>\u201cYR-BTO, CLIMB STRAIGHT AHEAD UNTIL 6000 FT, BEFORE TURNING RIGHT, HEADING 110. REPORT PASSING 4000 FT: RUNWAY 08L CLEARED FOR TAKE-OFF\u201d</p>\r\n\r\n<p>The flight crew is experiencing a communications receiver failure after take-off. The aircraft is below 4000 ft and the flight crew should transmit blind their next report followed by a complete repetition.</p>\r\n\r\n<p>What is the correct phraseology? \u201cYR-BTO, TRANSMITTING BLIND DUE TO RECEIVER FAILURE\u2026</p>",
+  "options": {
+    "a": "<p>AT 4000 FT, NEXT REPORT AT 6000 FT. ALL STATIONS RADIO CHECK.\u201d</p>",
+    "b": "<p>PASSING 4000 FT, NEXT REPORT 6000 FT. CONTINUING FLIGHT AS PLANNED.\u201d</p>",
+    "c": "<p>AT 4000 FT, NEXT REPORT AT 6000 FT. HEADING 110 SPEED 160 KNOTS.\u201d</p>",
+    "d": "<p>PASSING 6000 FT, NEXT REPORT AT 1201. CONTINUING FLIGHT AS PLANNED.\"</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

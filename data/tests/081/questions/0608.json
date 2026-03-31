@@ -1,0 +1,14 @@
+{
+  "number": 608,
+  "questionId": "081-0608",
+  "questionNumber": "081-0608",
+  "stemHtml": "<p>A pilot is flying an aeroplane whose clean configuration stall speed is 60 kt. While cruising at 95 kt the pilot has to take avoiding action against another aeroplane. The pilot banks the aeroplane sharply and during this manoeuvre, the aeroplane stalls. Why did the aeroplane stall at 95 kt?</p>",
+  "options": {
+    "a": "<p>A large movement of the ailerons causes both wings to stall at the tips.</p>",
+    "b": "<p>In a turn, the aeroplane weight increases, which increases the stall speed.</p>",
+    "c": "<p>A wing stalls when its critical angle of attack is exceeded, regardless of speed.</p>",
+    "d": "<p>The change in airflow due to rapid rolling causes the up-moving wing to stall.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

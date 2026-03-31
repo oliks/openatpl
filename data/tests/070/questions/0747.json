@@ -1,0 +1,14 @@
+{
+  "number": 747,
+  "questionId": "070-0747",
+  "questionNumber": "070-0747",
+  "stemHtml": "<p>The principles of pavement classification numbers (PCNs) and aircraft classification numbers (ACNs) are described by ICAO Annex 14. These numbers describe the strength of a surface and the impact an aircraft will have on a surface. <br>Select the correct option.</p>",
+  "options": {
+    "a": "The ACN of an aircraft is independent of the actual weight of the aircraft and tyre pressure and is always reported for maximum weight.",
+    "b": "An aircraft with a given ACN value may operate on a surface with a lower PCN value if certain operational limitations are met.",
+    "c": "The published PCN value must be equal to or lower than the aircraft's ACN value to allow for continuous and unlimited operation.",
+    "d": "The PCN value must be exactly equal to the ACN value of an aircraft in order to allow for unrestricted operation of that aircraft."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

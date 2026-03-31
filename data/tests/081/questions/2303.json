@@ -1,0 +1,14 @@
+{
+  "number": 2303,
+  "questionId": "081-2303",
+  "questionNumber": "081-2303",
+  "stemHtml": "<p>When comparing the effectiveness of leading edge (LE) flaps and trailing edge (TE) flaps in reducing an aircraft's stall speed, which statement is correct?</p>",
+  "options": {
+    "a": "<p>Leading edge flaps reduce stall speed more effectively than trailing edge flaps because they enhance the wing\u2019s curvature, increasing lift at lower speeds.</p>",
+    "b": "<p>Trailing edge flaps reduce stall speed more effectively than leading edge flaps by increasing the wing area and camber, enhancing lift.</p>",
+    "c": "<p>Both leading edge and trailing edge flaps have the same effect on reducing stall speed by equally increasing the wing's lift capabilities.</p>",
+    "d": "<p>Neither leading edge nor trailing edge flaps significantly reduce the stall speed; they primarily affect the aircraft's drag.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

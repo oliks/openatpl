@@ -1,0 +1,14 @@
+{
+  "number": 407,
+  "questionId": "081-0407",
+  "questionNumber": "081-0407",
+  "stemHtml": "<p>What is the relationship between M<strong><sub>DD</sub></strong> (Drag Divergence Mach Number) and M<strong><sub>CRIT</sub></strong> (Critical Mach Number)?</p>",
+  "options": {
+    "a": "<p>M<sub>DD</sub> is always greater than M<sub>CRIT</sub>.</p>",
+    "b": "<p>M<sub>DD</sub> is always less than M<sub>CRIT</sub>.</p>",
+    "c": "<p>M<sub>CRIT</sub> and M<sub>DD</sub> are equal.</p>",
+    "d": "<p>There is no relationship between M<sub>DD</sub> and M<sub>CRIT.</sub></p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

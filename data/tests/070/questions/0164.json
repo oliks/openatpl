@@ -1,0 +1,14 @@
+{
+  "number": 164,
+  "questionId": "070-0164",
+  "questionNumber": "070-0164",
+  "stemHtml": "<p>A light aircraft is about to depart from a busy aerodrome. Simultaneous runway operations for departure are in progress, and clearance delivery asks the pilot which runway he/she prefers for departure. Considering the wind information given below, which runway should the pilot choose to reduce the potential of wake turbulence effects?</p><p>For runway 25R, the wind is variable at 5 kt<br>For runway 25C, the wind is calm<br>For runway 25L, the wind is westerly at 3 kt<br>For runway 18, the wind is south-westerly at 12 kt</p>",
+  "options": {
+    "a": "<p>Runway 25L</p>",
+    "b": "<p>Runway 25R</p>",
+    "c": "<p>Runway 25C</p>",
+    "d": "<p>Runway 18</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

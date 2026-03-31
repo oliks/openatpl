@@ -2,13 +2,13 @@
   "number": 1,
   "questionId": "090-0001",
   "questionNumber": "090-0001",
-  "stemHtml": "<p>What does the term 'WILCO' mean in radiotelephony?</p>",
+  "stemHtml": "<p>Which of the following should be spelled with the phonetic alphabet?</p>",
   "options": {
-    "a": "<p>I understand your message</p>",
-    "b": "<p>I understand your message and will comply</p>",
-    "c": "<p>Please repeat your message</p>",
-    "d": "<p>Message received</p>"
+    "a": "<p>VOR, DME and waypoints.</p>",
+    "b": "<p>Aeroplane type.</p>",
+    "c": "<p>Radiotelephony designator.</p>",
+    "d": "<p>The designator for the automatic terminal information service (ATIS).</p>"
   },
-  "correctOption": "b",
+  "correctOption": "d",
   "attachments": []
 }

@@ -1,0 +1,14 @@
+{
+  "number": 2123,
+  "questionId": "081-2123",
+  "questionNumber": "081-2123",
+  "stemHtml": "<div>Aileron reversal can occur at...</div>\r\n\r\n<div> </div>\r\n",
+  "options": {
+    "a": "<div>low speeds when wing with the up-going aileron exceeds that wing\u2019s critical Angle Of Attack.</div>",
+    "b": "<div>low speeds when the wing with the down-going aileron twists, increasing that wing\u2019s camber.</div>",
+    "c": "<div>high speeds when the wing with the down-going aileron twists, reducing that wing\u2019s Lift Coefficient.</div>",
+    "d": "high speeds when the wing with the up-going aileron causes sufficient drag, leading to adverse yaw."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

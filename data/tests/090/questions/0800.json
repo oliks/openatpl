@@ -1,0 +1,14 @@
+{
+  "number": 800,
+  "questionId": "090-0800",
+  "questionNumber": "090-0800",
+  "stemHtml": "An aircraft station fails to establish radio contact with an aeronautical station on the designated frequency. What action is required by the pilot?",
+  "options": {
+    "a": "Return to the airport of departure.",
+    "b": "Continue the flight to the destination airport without any communication.",
+    "c": "Attempt to establish contact with the station on an alternative frequency.",
+    "d": "Land at the nearest airport without an ATC unit."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2185,
+  "questionId": "081-2185",
+  "questionNumber": "081-2185",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>The ECAM display in the annex shows that the slats are deployed, but the flaps are locked and stowed in the up position. Compared to landing with a clean wing, which of the following should the pilot expect when landing in this configuration?</p>",
+  "options": {
+    "a": "<p>A lower landing speed because C<sub>LMAX</sub> is significantly increased. However, the pitch angle will be much higher, necessitating an adapted flare technique.</p>",
+    "b": "<p>The wing's ability to generate lift will increase marginally, but the AoA for C<sub>LMAX</sub> will be lower because of the wing's less than optimal profile and drooped leading edge.</p>",
+    "c": "<p>Increased landing speed to avoid tailstrike on touchdown. However the drag increase due to leading edge slats will improve speed control and result in a shorter landing distance.</p>",
+    "d": "<p>The airplane will behave the same. The landing attitude will be lower because slats lower the AoA for C<sub>LMAX</sub>.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0227",
+      "publicUrl": "/attachments/081/081-att-0227.jpg"
+    }
+  ]
+}

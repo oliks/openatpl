@@ -1,0 +1,14 @@
+{
+  "number": 308,
+  "questionId": "090-0308",
+  "questionNumber": "090-0308",
+  "stemHtml": "<p>You have been instructed by a ground station to change the frequency. Which of the following statements is/are correct?</p>\r\n\r\n<p>A) You may change without notifying the station<br />\r\nB) You may change after having notified the station<br />\r\nC) You may change in a distress/emergency situation</p>\r\n",
+  "options": {
+    "a": "Only C",
+    "b": "Only B",
+    "c": "A and C",
+    "d": "Only A"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

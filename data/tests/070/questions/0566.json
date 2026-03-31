@@ -1,0 +1,14 @@
+{
+  "number": 566,
+  "questionId": "070-0566",
+  "questionNumber": "070-0566",
+  "stemHtml": "<p>The aerodrome operating minima for a VOR/DME approach are:</p><p>MDH = 360 ft Required <br>RVR = 1500 metres. <br>Reported RVR is 1800 metres</p><p>According to OPS regulations, the pilot may continue the final approach beyond the outer marker, or equivalent position\u2026</p>",
+  "options": {
+    "a": "<p>regardless of the ceiling reported.</p>",
+    "b": "<p>if the ceiling reported is higher than 360 ft.</p>",
+    "c": "<p>if the ceiling reported is higher than 240 ft.</p>",
+    "d": "<p>if the ceiling reported is higher than 240 ft during the day and 360 ft at night.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

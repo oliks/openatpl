@@ -1,0 +1,14 @@
+{
+  "number": 1007,
+  "questionId": "090-1007",
+  "questionNumber": "090-1007",
+  "stemHtml": "<p>You are at the holding point when you receive this clearance from the tower: \u201cFastair 345, after departure, climb to 4000 feet, turn right heading 270, report when turning. Runway 09, cleared for take-off.\u201d After take-off at 4000 feet, you realize that you have a radio failure. At the turn, you make a blind transmission and say it twice. What is this transmission?</p>",
+  "options": {
+    "a": "<p>Fastair 345 continue VFR landing runway 09.</p>",
+    "b": "<p>Fastair 345 heading 270 altitude 4000 feet.</p>",
+    "c": "<p>Fastair 345 continue VFR heading 270, reporting 12:01. All stations stop transmitting.</p>",
+    "d": "<p>Fastair 345 continue VFR heading 270, next report final Runway 09 at time 1600.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

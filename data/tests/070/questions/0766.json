@@ -1,0 +1,14 @@
+{
+  "number": 766,
+  "questionId": "070-0766",
+  "questionNumber": "070-0766",
+  "stemHtml": "<p>A pilot who last flew 60 days ago, wants to take passengers on a non commercial flight. Are there any currency requirements they need to consider?</p>",
+  "options": {
+    "a": "<p>No, provided the pilot made 3 take offs and landings in the preceding 120 days.</p>",
+    "b": "<p>No, as long as the pilot completes 3 takeoffs, landings and approaches in the preceding 90 days.</p>",
+    "c": "<p>Yes, because the pilot needs to have one take off and landing in the preceding 30 days.</p>",
+    "d": "<p>Yes, because the pilot needs to make an extra flight before taking passengers.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

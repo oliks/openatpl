@@ -1,0 +1,14 @@
+{
+  "number": 1221,
+  "questionId": "070-1221",
+  "questionNumber": "070-1221",
+  "stemHtml": "<p>Given the following information, select the lowest required weather conditions for the aerodrome to be used as an ETOPS en-route alternate aerodrome with the following approaches available:</p><p>Approach type: ILS CAT I, DH: 240 feet, RVR/Visibility: 550 metres <br>Approach type: LOC DME, MDH: 420 feet, RVR/Visibility: 1200 metres</p><p>SPA.ETOPS.115 ETOPS en-route alternate aerodrome planning minima</p><p>Table 1 - Planning minima for ETOPS en route alternate aerodrome:</p><p>Type of approach Planning minima <br>Precision approach DA/H + 200 ft; RVR/VIS + 800 m* <br>Non-precision approach or Circling approach MDA/H + 400 ft* RVR/VIS + 1500 m</p><p>* VIS: visibility; MDA/H: minimum descent altitude / height</p>",
+  "options": {
+    "a": "Ceiling 240 ft and visibility 550 m.",
+    "b": "Ceiling 200 ft and visibility 800 m.",
+    "c": "<p>Ceiling 440 ft and visibility 1350 m.</p>",
+    "d": "<p>Ceiling 420 ft and visibility 1200 m.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

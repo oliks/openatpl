@@ -1,0 +1,14 @@
+{
+  "number": 155,
+  "questionId": "090-0155",
+  "questionNumber": "090-0155",
+  "stemHtml": "<p>An aircraft is cruising at FL330 when the pilot receives the aural alert \u201cTraffic, traffic\u201d. On his/her navigation display, he/she observes an amber circle labelled \u2193+8. Which one of the following statements is correct?</p>",
+  "options": {
+    "a": "TCAS has issued a resolution advisory. The pilot is instructed to descend at a vertical rate of more than 800 ft/min to avoid the conflict traffic. He shall inform ATC with the phrase \u201cTCAS RA\u201d.",
+    "b": "TCAS has issued a traffic advisory. The conflict traffic is 800 ft above and the pilot is instructed to descend in order to increase the clearance. He shall inform ATC by the phrase \u201cTCAS DESCENT\u201d.",
+    "c": "TCAS has issued a traffic advisory for conflicting traffic 800 ft above and descending towards the aeroplane. The pilot shall try to establish visual contact to the conflict traffic and be prepared for possible resolution advisories.",
+    "d": "TCAS has issued a resolution advisory. The conflict traffic is 800 ft below and climbing towards the aeroplane. The pilot shall immediately initiate a climb and inform ATC using the phrase \u201cTCAS CLIMB\u201d."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

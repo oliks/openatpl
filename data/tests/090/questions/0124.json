@@ -1,0 +1,14 @@
+{
+  "number": 124,
+  "questionId": "090-0124",
+  "questionNumber": "090-0124",
+  "stemHtml": "<p>Routine meteorological observations made by an aircraft in the cruise at FL100 are done\u2026</p>",
+  "options": {
+    "a": "Automatically by the aircraft if datalink equipped.",
+    "b": "<p>Manually by the pilot on VHF voice radio.</p>",
+    "c": "<p>Manually by the pilot on datalink.</p>",
+    "d": "Either by the pilot or the aircraft."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

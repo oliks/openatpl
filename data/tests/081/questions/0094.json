@@ -1,0 +1,14 @@
+{
+  "number": 94,
+  "questionId": "081-0094",
+  "questionNumber": "081-0094",
+  "stemHtml": "<p>Consider a jet transport aircraft flying in icing conditions, which two statements below are correct with regards to unexpected stalls?</p><p>1. During automatic flight, the pitot and static ports can become frozen over leading to an error of the ADC and subsequently a lack of warning to the pilots when the critical AoA is reached.\u00a0<br>2. The large amount of ice forming on the tail plane causes an increase in mass and thus an uncontrollable pitch up.\u00a0<br>3. The flow-back ice forming on the wings will decrease the critical AoA leading to an unexpected stall.\u00a0<br>4. Ice formation on the main fuselage body will be more critical in causing a stall vs ice formation on the wings.</p>",
+  "options": {
+    "a": "<p>1 and 3</p>",
+    "b": "<p>1 and 4</p>",
+    "c": "<p>2 and 4</p>",
+    "d": "<p>2 and 3</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 903,
+  "questionId": "090-0903",
+  "questionNumber": "090-0903",
+  "stemHtml": "<p>An aircraft on an oceanic routing without data link wants to obtain information about the weather conditions at the destination and alternate airports. How can the crew obtain this information?</p>",
+  "options": {
+    "a": "<p>D-ATIS via ACARS.</p>",
+    "b": "<p>VOLMET - VHF.</p>",
+    "c": "<p>VOLMET - HF.</p>",
+    "d": "<p>Request from ATC via voice communication.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

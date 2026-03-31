@@ -1,0 +1,14 @@
+{
+  "number": 778,
+  "questionId": "090-0778",
+  "questionNumber": "090-0778",
+  "stemHtml": "<p>The pilot of an aircraft flying for the operator Blue Heron, reports as 'Blue Echo Golf'. Is that the correct way to transmit the aircraft callsign?</p>",
+  "options": {
+    "a": "<p>No, because 'Golf' is not a standard phonetic alphabet word.</p>",
+    "b": "<p>No, because 'Echo' is not a standard phonetic alphabet word.</p>",
+    "c": "<p>Yes, because 'Blue' is a standard phonetic alphabet word.</p>",
+    "d": "<p>Yes, if the telephony designator of the aircraft operating agency is \"blue\".</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1292,
+  "questionId": "070-1292",
+  "questionNumber": "070-1292",
+  "stemHtml": "<p>En route to destination, the reported braking efficiency report is given. Your airline does not approve landings on POOR conditions. The LDR is 1 300 m. What action should you take?</p>",
+  "options": {
+    "a": "Land on RWY 23, length 2 100 m, with braking efficiency report POOR/MED/MED, but perform a touch and go first.",
+    "b": "Land on RWY 23, length 2 100 m, with braking efficiency report POOR/MED/MED.",
+    "c": "Land on RWY 05, length 2 100 m, with braking efficiency report MED/MED/POOR.",
+    "d": "Divert to alternate."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

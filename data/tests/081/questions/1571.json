@@ -1,0 +1,14 @@
+{
+  "number": 1571,
+  "questionId": "081-1571",
+  "questionNumber": "081-1571",
+  "stemHtml": "<p>What is the position of the elevator in relation to the trimmable horizontal stabiliser of a power assisted aeroplane that is in trim?</p>",
+  "options": {
+    "a": "<p>The elevator is always deflected slightly downwards in order to have sufficient remaining flare capability.</p>",
+    "b": "<p>The elevator deflection (compared with the stabiliser position) is always zero.</p>",
+    "c": "<p>At a forward CG the elevator is deflected upward and at an aft CG the elevator is deflected downward.</p>",
+    "d": "<p>The position depends on speed, the position of slats and flaps and the position of the centre of gravity.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

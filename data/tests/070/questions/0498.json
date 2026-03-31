@@ -1,0 +1,14 @@
+{
+  "number": 498,
+  "questionId": "070-0498",
+  "questionNumber": "070-0498",
+  "stemHtml": "<p>An aircraft is flying from Vancouver, Canada to Paris, France. The selected route through the NAT HLA crosses Greenland and Iceland, where the Grid MORA is 14 200 ft. There is a minor problem with the pressurisation system, which necessitates an immediate descent to a lower level. What would be the initial action if prior clearance CANNOT be obtained?</p>",
+  "options": {
+    "a": "Start descending immediately to a lower level, then turn left or right to avoid any other traffic which would be following the Strategic Lateral Offset Procedures (SLOP).",
+    "b": "Turn at least 45 degrees to leave the assigned route, the direction of the turn to be decided by the nearest suitable alternate for diversion.",
+    "c": "Leave the assigned route by turning at least 30 degrees away from the highest ground in order to maintain terrain clearance.",
+    "d": "Descend at a maximum rate to a lower level and turn right to be clear of any other traffic."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

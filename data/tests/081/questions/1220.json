@@ -1,0 +1,14 @@
+{
+  "number": 1220,
+  "questionId": "081-1220",
+  "questionNumber": "081-1220",
+  "stemHtml": "<p>Imagine that in flight, your altitude changes instantaneously from 6000 ft to 10 000 ft. Assuming that your IAS remains constant at 110 kts at both altitudes, what will happen to the aircraft's total drag and how will the drag vs IAS curve move?</p>",
+  "options": {
+    "a": "<p>The total drag stays the same; The drag vs IAS curve doesn't move.</p>",
+    "b": "<p>The total drag increases; The drag vs IAS curve moves down.</p>",
+    "c": "<p>The total drag stays the same; The drag vs IAS curve moves up and to the left.</p>",
+    "d": "<p>The total drag decreases; The drag vs IAS curve moves down and to the left.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

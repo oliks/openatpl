@@ -1,0 +1,14 @@
+{
+  "number": 535,
+  "questionId": "090-0535",
+  "questionNumber": "090-0535",
+  "stemHtml": "<p>An aircraft with the call sign F-TH is flying at 2000 ft with an altimeter setting of 1010 hPa. ATC asks the pilot to report his/her current level. How should the pilot respond?</p>",
+  "options": {
+    "a": "<p>Maintaining level 2000 ft, F-TH.</p>",
+    "b": "<p>Maintaining 2000 ft, F-TH.</p>",
+    "c": "<p>F-TH is maintaining level 2000 ft on QNH 1010.</p>",
+    "d": "<p>Currently maintaining 2000 ft, QNH 1010, F-TH.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

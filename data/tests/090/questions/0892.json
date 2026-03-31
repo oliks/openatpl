@@ -1,0 +1,14 @@
+{
+  "number": 892,
+  "questionId": "090-0892",
+  "questionNumber": "090-0892",
+  "stemHtml": "<div>After the words PAN PAN three times, an ideal urgency message should contain information on certain elements, preferably given in a specific order. Which option most accurately describes the ideal urgency message?</div>",
+  "options": {
+    "a": "<div>Last known position, airspeed, pilot\u2019s intentions, altitude.</div>",
+    "b": "<div>Call sign, last known position, time at that position, altitude, pilot\u2019s intentions.</div>",
+    "c": "<div>Name of the station addressed, call sign, nature of the urgency condition, pilot\u2019s intentions, position, level and heading.</div>",
+    "d": "Name of the station addressed, nature of urgency condition, call sign, heading, airspeed, pilot\u2019s intentions, any other useful information.<br>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

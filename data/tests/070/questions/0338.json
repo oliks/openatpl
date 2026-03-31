@@ -1,0 +1,14 @@
+{
+  "number": 338,
+  "questionId": "070-0338",
+  "questionNumber": "070-0338",
+  "stemHtml": "<p>According to ICAO Annex 6, what is a destination alternate aerodrome? It is an aerodrome to which a flight may proceed when\u2026</p>",
+  "options": {
+    "a": "<p>It becomes inadvisable to land at the aerodrome of intended landing.</p>",
+    "b": "<p>The destination weather is below minima before departure.</p>",
+    "c": "<p>The aircraft has insufficient fuel to reach the destination.</p>",
+    "d": "<p>ATC requests a diversion due to traffic congestion.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

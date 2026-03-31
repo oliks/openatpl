@@ -1,0 +1,14 @@
+{
+  "number": 116,
+  "questionId": "090-0116",
+  "questionNumber": "090-0116",
+  "stemHtml": "<p>After your transmission, ATC tells you \u201cblocked\u201d. What does it mean?</p>",
+  "options": {
+    "a": "<p>You are holding down the push to talk button.</p>",
+    "b": "<p>Simultaneous transmissions have occurred and you have to repeat your transmission.</p>",
+    "c": "<p>A pilot has blocked the pathway.</p>",
+    "d": "<p>Ensure any restriction is not blocked by a pilot acknowledgement.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 782,
+  "questionId": "070-0782",
+  "questionNumber": "070-0782",
+  "stemHtml": "<p>The aircraft has been subject of unlawful interference, the pilots have made a successful communication with ATC. Then they change their flight level...</p>",
+  "options": {
+    "a": "<p>They do not need to establish contact with ATC and may descend to any level, regulation does not apply to them.</p>",
+    "b": "<p>They do not need to notify ATC about the level change as positive contact has been previously established.</p>",
+    "c": "<p>They do not need to notify ATC about the level change as they're subject of an act of unlawful interference.</p>",
+    "d": "<p>They shall notify ATC about the level change so that ATC can minimise conflict with other aircraft.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

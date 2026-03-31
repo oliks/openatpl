@@ -1,0 +1,19 @@
+{
+  "number": 399,
+  "questionId": "081-0399",
+  "questionNumber": "081-0399",
+  "stemHtml": "<p>Refer to figure. <br /> \rLine 1 shows the C<sub><strong>L</strong></sub> vs Alpha graph of an aerofoil in clean configuration. What can we say about the aerofoil and the configuration represented by line 3?</p>",
+  "options": {
+    "a": "<p>Symmetrical airfoil with trailing edge flaps.</p>",
+    "b": "<p>Symmetrical airfoil with leading edge flaps.</p>",
+    "c": "<p>Asymmetrical airfoil with leading edge flaps.</p>",
+    "d": "<p>Asymmetrical airfoil with trailing edge flaps.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0014",
+      "publicUrl": "/attachments/081/081-att-0014.jpg"
+    }
+  ]
+}

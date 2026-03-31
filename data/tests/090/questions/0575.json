@@ -1,0 +1,14 @@
+{
+  "number": 575,
+  "questionId": "090-0575",
+  "questionNumber": "090-0575",
+  "stemHtml": "<p>A pilot is performing a VFR flight. He/she is just about to contact ATC for clearance to cross controlled airspace when he/she hears the following radio transmission: \u201cMayday, Mayday, Mayday, Langen Radar, D-ILAA, engine failure, request vectors to nearest airport, position 20 nm west of Augsburg\u201d. What should he/she do?</p>",
+  "options": {
+    "a": "Contact ATC and request your clearance immediately to avoid blocking the frequency. Inform ATC of your intention to stay outside of controlled airspace.",
+    "b": "Do not transmit on the frequency until the distress traffic is terminated or transferred to another frequency. Stay outside of controlled airspace.",
+    "c": "<p>Immediately respond to the Mayday message and ask for further details.</p>",
+    "d": "Change frequency to 121.5, and stand by for further instructions."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

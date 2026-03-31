@@ -1,0 +1,14 @@
+{
+  "number": 1046,
+  "questionId": "090-1046",
+  "questionNumber": "090-1046",
+  "stemHtml": "<p>Having joined the traffic circuit at a controlled aerodrome, all attempts to establish communication with the tower have failed. Which of the following options would you take to mitigate for communication failure? <br /> \r <br /> \r1. Set the transponder code to 7600, if a radar service is provided <br /> \r2. Set the transponder code to 7700, if a radar service is provided <br /> \r3. Transmit your messages twice on the TWR frequency(ies) <br /> \r4. Transmit your messages twice on the APP frequency(ies) <br /> \r5. Precede your transmissions by the phrase \"TRANSMITTING BLIND\" <br /> \r6. Lower the landing gear (if relevant to your aircraft) and show steady landing lights <br /> \r7. Maintain your current heading and speed for the next 5 minutes <br /> \r8. Perform regular radio checks to all stations</p>",
+  "options": {
+    "a": "<p>2, 4, and 8</p>",
+    "b": "<p>2, 3, and 7</p>",
+    "c": "<p>1, 3, and 5</p>",
+    "d": "<p>1, 4, and 6</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

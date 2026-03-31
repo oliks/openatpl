@@ -1,0 +1,14 @@
+{
+  "number": 343,
+  "questionId": "081-0343",
+  "questionNumber": "081-0343",
+  "stemHtml": "<p>One of the main advantages of using swept back wings for transonic flight is that the velocity of airflow (1) _____ to the wing is (2) _____ than the (3) _____ airflow. The resultant change in velocity is directly proportional to the (4) _____ of the sweepback angle.</p>",
+  "options": {
+    "a": "<p>(1) freestream; (2) less; (3) parallel; (4) tangent</p>",
+    "b": "<p>(1) parallel; (2) more; (3) freestream; (4) sine</p>",
+    "c": "<p>(1) perpendicular; (2) less; (3) freestream; (4) cosine</p>",
+    "d": "<p>(1) freestream; (2) more; (3) perpendicular; (4) sine</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

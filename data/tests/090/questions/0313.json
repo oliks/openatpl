@@ -1,0 +1,14 @@
+{
+  "number": 313,
+  "questionId": "090-0313",
+  "questionNumber": "090-0313",
+  "stemHtml": "<p>An aircraft is flying at a cruise altitude of 2000 ft and at a distance of about 60 NM from its destination the pilot wants to listen to the ATIS. The message is very distorted and only parts of it can be received. What should the pilot do in order to have better reception?</p>",
+  "options": {
+    "a": "<p>Select the frequency of APPROACH because they are responsible for the higher airspace.</p>",
+    "b": "<p>Fly at a higher altitude to increase the range of the reception.</p>",
+    "c": "<p>Increase the volume of his/her headset.</p>",
+    "d": "<p>Increase the volume of the receiver.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

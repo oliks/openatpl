@@ -1,0 +1,14 @@
+{
+  "number": 383,
+  "questionId": "070-0383",
+  "questionNumber": "070-0383",
+  "stemHtml": "<div class=\"WordSection1\">En-route to the destination, with only one hour left until the limit on flight duty is reached, and 30 min to reach the destination, the operator contacts you and tells you to divert to an alternate 2 hours away for unforeseen circumstance. Are you allowed?</div>",
+  "options": {
+    "a": "<div class=\"WordSection1\">No, never.</div>",
+    "b": "<div class=\"WordSection1\">Yes, the commander can choose to extend the FDT for unforeseen circumstances and\r\n<div class=\"WordSection1\">he/she shall consult all crew members on their alertness levels.</div>\r\n</div>",
+    "c": "<div class=\"WordSection1\">\r\n<div class=\"WordSection1\">Yes, provided that approval from the authority is obtained.</div>\r\n</div>",
+    "d": "<div class=\"WordSection1\">No, the commander can only extend the FDT in case of emergency.</div>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

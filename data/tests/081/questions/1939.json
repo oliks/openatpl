@@ -1,0 +1,14 @@
+{
+  "number": 1939,
+  "questionId": "081-1939",
+  "questionNumber": "081-1939",
+  "stemHtml": "An aeroplane climbs to cruising level with a constant pitch attitude and maximum climb thrust (assume no supercharger). How do the following variables change during the climb? (gamma = flight path angle)",
+  "options": {
+    "a": "Gamma decreases, angle of attack increases, IAS decreases.",
+    "b": "Gamma remains constant, angle of attack remains constant, IAS decreases.",
+    "c": "Gamma decreases, angle of attack increases, IAS remains constant.",
+    "d": "Gamma decreases, angle of attack remains constant, IAS decreases."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

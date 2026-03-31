@@ -1,0 +1,14 @@
+{
+  "number": 1309,
+  "questionId": "081-1309",
+  "questionNumber": "081-1309",
+  "stemHtml": "<p>You are in a power-on descent with a glide angle of 30\u00b0. Determine the thrust vector in kg, given:</p>\r\r<p>Weight: 11 000 N <br /> \rDrag: 8500 N <br /> \rLift: 10 500 N</p>",
+  "options": {
+    "a": "<p>3000</p>",
+    "b": "<p>306</p>",
+    "c": "<p>331</p>",
+    "d": "<p>-250</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 144,
+  "questionId": "090-0144",
+  "questionNumber": "090-0144",
+  "stemHtml": "<p>The aircraft's call sign is RUSHAIR 142. In the cruise, the pilots receive the following radio transmission. \u201cALL STATIONS, STOP SENDING CPDLC REQUESTS UNTIL ADVISED\u201d. What should they do?</p>",
+  "options": {
+    "a": "<p>Perform a CPDLC Log-off and Log-on again to resume normal CPDLC operation.</p>",
+    "b": "Stop sending CPDLC requests and revert to voice communication.",
+    "c": "Revert to voice communication and ask for a frequency change.",
+    "d": "Send \u201cWILCO\u201d via CPDLC and wait for further instructions."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

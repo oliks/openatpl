@@ -1,0 +1,14 @@
+{
+  "number": 1032,
+  "questionId": "081-1032",
+  "questionNumber": "081-1032",
+  "stemHtml": "<p>A manufacturer shortens the fuselage of a 9 seat plane to a 6 seat plane. They make the vertical fin and horizontal stabiliser bigger. How is directional stability influenced?</p>",
+  "options": {
+    "a": "There is no impact on stability.",
+    "b": "<p>Negative, since the bigger stabiliser produces more drag.</p>",
+    "c": "<p>Positive, since the higher vertical fin.</p>",
+    "d": "<p>Rudder effectiveness decreases because a larger rudder deflection is required.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

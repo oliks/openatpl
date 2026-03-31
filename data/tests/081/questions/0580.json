@@ -1,0 +1,19 @@
+{
+  "number": 580,
+  "questionId": "081-0580",
+  "questionNumber": "081-0580",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe image illustrates the same aeroplane flying at two different angles of attack (AoA), 2\u00b0 and 12\u00b0, and a simplified representation of the streamlines in the 3D airflow around the wing. The pilot of the aeroplane reduces airspeed while increasing pitch from an AoA of 2\u00b0 to an AoA of 12\u00b0 in order to maintain straight and level flight. At the end of the speed reduction, the lift vector will have...</p>",
+  "options": {
+    "a": "<p>changed direction by a value greater than 10\u00b0, with the lift vector pointing more rearwards because of a larger induced AoA.</p>",
+    "b": "<p>changed direction by a value smaller than 10\u00b0, with the lift vector pointing more forwards because of a smaller induced AoA.</p>",
+    "c": "<p>maintained its direction referenced to the chord line because the direction of the vector follows any changes to the AoA.</p>",
+    "d": "<p>increased its magnitude while maintaining its vertical direction because the direction of the lift vector is independent of the AoA.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0003",
+      "publicUrl": "/attachments/081/081-att-0003.jpg"
+    }
+  ]
+}

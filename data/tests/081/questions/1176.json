@@ -1,0 +1,14 @@
+{
+  "number": 1176,
+  "questionId": "081-1176",
+  "questionNumber": "081-1176",
+  "stemHtml": "<div>A twin engine jet transport aeroplane is taking off from runway 27 with a wind of 210\u00b0/15 kt and an outside Air Temperature (OAT) of 20 \u00b0C. The failure of which engine would require the largest control inputs to maintain runway centreline?</div>",
+  "options": {
+    "a": "<div>It makes no difference.</div>",
+    "b": "<div>Failure of the left engine.</div>\r\n\r\n<div> </div>",
+    "c": "It depends on the direction of rotation of the engines.",
+    "d": "Failure of the right engine."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

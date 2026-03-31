@@ -1,0 +1,14 @@
+{
+  "number": 1025,
+  "questionId": "090-1025",
+  "questionNumber": "090-1025",
+  "stemHtml": "ATC request the pilot to do routine AIREPS every hour. He/she encounters turbulence, the passengers are restrained by their seatbelts. <br /> His/her next AIREP is due shortly. What action must he/she take?",
+  "options": {
+    "a": "Make a special AIREP and include the moderate turbulence in your next AIREP.",
+    "b": "As this is only moderate turbulence a report is not required.",
+    "c": "Omit the routine report and submit a special AIREP.",
+    "d": "Report the turbulence in your next AIREP."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

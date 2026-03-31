@@ -1,0 +1,14 @@
+{
+  "number": 2361,
+  "questionId": "081-2361",
+  "questionNumber": "081-2361",
+  "stemHtml": "<p>A medium range jet aircraft has its cargo load displaced to a location further aft than on the expected loadsheet. The stabilizer trim setting has not been corrected for this error. What is most likely to happen during take off?</p>",
+  "options": {
+    "a": "<p>The stick force increases, and there will be a tendency for the aircraft to over rotate and a possible tail strike</p>",
+    "b": "<p>Stick force is reduced, and there will be a tendency for the aircraft to over rotate and a possible tail strike</p>",
+    "c": "<p>Stick force is unchanged</p>",
+    "d": "<p>The flight controls are reversed. A push will now be required to overcome the over rotating moment</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

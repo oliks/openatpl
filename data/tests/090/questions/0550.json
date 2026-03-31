@@ -1,0 +1,14 @@
+{
+  "number": 550,
+  "questionId": "090-0550",
+  "questionNumber": "090-0550",
+  "stemHtml": "<p>You are approaching to land and are experiencing communications receiver failure. You decide to continue the flight as planned, with an approach on RWY27. Next in your flight plan is a descent from 6 000 ft to 2 000 ft. You head to transmit blind your report to ATC, followed by a complete repetition. The phraseology you will use is\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">NEXT REPORT AT TIME 1201, ALL STATIONS RECEIVING RADIO CHECK.</p>",
+    "b": "<p dir=\"ltr\">NEXT REPORT FINAL RWY 27, ALL STATIONS RECEIVING RADIO CHECK.</p>",
+    "c": "<p>NEXT REPORT FINAL RWY 27, HEADING 270, CONTINUING FLIGHT AS PLANNED.</p>",
+    "d": "HEADING 270, CONTINUING FLIGHT AS PER FLIGHT PLAN."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

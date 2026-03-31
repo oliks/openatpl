@@ -1,0 +1,14 @@
+{
+  "number": 1666,
+  "questionId": "081-1666",
+  "questionNumber": "081-1666",
+  "stemHtml": "<p>A pilot is extending flaps and configuring the aircraft for landing, when they feel that the aircraft is out-of-trim and too nose-heavy. They consider using stabiliser trim to reduce control pressure and improve handling during the flare. It is (1) _____ to re-trim the aircraft during the approach and will cause the (2) _____ to have (3) _____ authority.</p>",
+  "options": {
+    "a": "<p>(1) not recommended; (2) stabiliser; (3) less</p>",
+    "b": "<p>(1) recommended; (2) elevator; (3) more</p>",
+    "c": "<p>(1) recommended; (2) stabiliser; (3) more</p>",
+    "d": "<p>(1) not recommended; (2) elevator; (3) less</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

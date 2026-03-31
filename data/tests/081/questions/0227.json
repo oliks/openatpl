@@ -1,0 +1,14 @@
+{
+  "number": 227,
+  "questionId": "081-0227",
+  "questionNumber": "081-0227",
+  "stemHtml": "<p>A pilot encounters intense aerodynamic buffeting during flight. What is the most likely outcome if no corrective action is taken?</p>",
+  "options": {
+    "a": "<p>The aircraft will stall.</p>",
+    "b": "<p>The airspeed will remain the same.</p>",
+    "c": "<p>The airframe will overstress.</p>",
+    "d": "<p>The buffet will eventually reduce if the same airspeed is maintained.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

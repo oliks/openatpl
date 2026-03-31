@@ -1,0 +1,14 @@
+{
+  "number": 1647,
+  "questionId": "081-1647",
+  "questionNumber": "081-1647",
+  "stemHtml": "<p>You are carrying out flight tests for a new aircraft, determining its stability characteristics. You use the ailerons only to roll the wings to a bank angle of no more than 20 degrees without using the rudder and upon releasing the controls, the aircraft begins to descend as the airspeed and bank angle increase. What may be the possible cause of this?</p>",
+  "options": {
+    "a": "<p>Excessive lateral stability, causing a spiral dive to develop.</p>",
+    "b": "<p>Excessive directional stability, causing a spin to develop.</p>",
+    "c": "<p>Excessive lateral stability, causing a spin to develop.</p>",
+    "d": "<p>Excessive directional stability, causing a spiral dive to develop.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

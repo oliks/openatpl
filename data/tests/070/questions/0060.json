@@ -1,0 +1,14 @@
+{
+  "number": 60,
+  "questionId": "070-0060",
+  "questionNumber": "070-0060",
+  "stemHtml": "<p>During a quick turnaround in Cologne, the ATIS reports an air temperature of -10\u00b0C and freezing rain. The aircraft has landed with clear ice under the wings. There is only a short time before the next departure, what shall the commander do?</p>",
+  "options": {
+    "a": "<p>Calculate the best cost-effectiveness between on-time departure and de-ice operation.</p>",
+    "b": "<p>Order a complete de-ice, following the Clean Aircraft Concept.</p>",
+    "c": "<p>Order a partial de-ice, only under the wings, to gain time.</p>",
+    "d": "Realise the quickest turnaround possible to avoid icing."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

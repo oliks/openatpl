@@ -1,0 +1,19 @@
+{
+  "number": 1295,
+  "questionId": "081-1295",
+  "questionNumber": "081-1295",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe figure represents the speed scale on the PFD of a large transport jet in two different situations. The bottom of the upper red stripes marks the M<strong><sub>MO</sub></strong> speed, and the top of the lower red stripes marks a function of the stall speed, NOT the actual stall speed. The left side of the figure shows the aircraft maintaining straight and level flight in clean air, and the right side shows the situation after entering turbulence. How should the pilots react to this situation?</p>",
+  "options": {
+    "a": "<p>Immediately pull the nose up to reduce speed below M<sub>MO</sub>.</p>",
+    "b": "<p>In light buffeting, maintain pitch and power setting and consider the use of the speedbrakes.</p>",
+    "c": "<p>Immediately increase thrust to regain control of the aircraft.</p>",
+    "d": "<p>Ignore the turbulence and do nothing.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0218",
+      "publicUrl": "/attachments/081/081-att-0218.png"
+    }
+  ]
+}

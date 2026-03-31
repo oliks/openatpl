@@ -1,0 +1,19 @@
+{
+  "number": 36,
+  "questionId": "081-0036",
+  "questionNumber": "081-0036",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe diagram shows a C<strong><sub>L</sub></strong> vs Angle of Attack (AoA) graph with 3 positions, (POS 1, POS 2 and POS 3), each spaced 3 degrees of AoA apart. Assuming the same aircraft flying at the same weight, how does the change in angle of attack affect the aircraft's speed between these positions?</p>",
+  "options": {
+    "a": "<p>When pitching up 3\u00b0 from POS 2, the pilot must reduce the speed by a factor of 2.</p>",
+    "b": "<p>When pitching down 3\u00b0 from POS 2, the speed increases more than the increase when pitching down 3\u00b0 from POS 3.</p>",
+    "c": "<p>The speed remains constant on all positions on the graph, until the stall occurs.</p>",
+    "d": "<p>Speed is highest at POS 2 and decreases from POS 2 to POS 3 and also from POS 2 to POS 1.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0141",
+      "publicUrl": "/attachments/081/081-att-0141.png"
+    }
+  ]
+}

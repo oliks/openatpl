@@ -1,0 +1,19 @@
+{
+  "number": 1069,
+  "questionId": "081-1069",
+  "questionNumber": "081-1069",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe two aircraft in the figure above are identical aircraft types, and are flying at the same Mach number. Their wings are not designed for sustained high speed flight. Which of the following is correct?</p>",
+  "options": {
+    "a": "<p>Aircraft 1 has a higher low-speed stall speed and therefore a higher buffet margin.</p>",
+    "b": "<p>Aircraft 2 has a lower high-speed stall speed and therefore a higher buffet margin.</p>",
+    "c": "<p>Aircraft 2 must have a higher mass, and has a lower buffet margin.</p>",
+    "d": "<p>Aircraft 1 has a lower buffet margin.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0225",
+      "publicUrl": "/attachments/081/081-att-0225.png"
+    }
+  ]
+}

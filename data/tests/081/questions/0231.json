@@ -1,0 +1,19 @@
+{
+  "number": 231,
+  "questionId": "081-0231",
+  "questionNumber": "081-0231",
+  "stemHtml": "<p>Refer to figure. <br /> \rOn approach, the aircraft's ECAM display shows \u201cFlaps Locked\u201d, but with slats working normally. What will the pilots experience in this case, compared to landing with a clean wing.</p>",
+  "options": {
+    "a": "<p>An increased landing distance, as the pilot must use a higher approach speed.</p>",
+    "b": "<p>A higher AoA and increased drag, leading to an increased risk of tailstrike but a shorter landing distance.</p>",
+    "c": "<p>Greater lift production but a lower AoA at C<sub>LMAX</sub>.</p>",
+    "d": "<p>The aircraft will behave exactly like a clean wing but with more drag.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0063",
+      "publicUrl": "/attachments/081/081-att-0063.jpg"
+    }
+  ]
+}

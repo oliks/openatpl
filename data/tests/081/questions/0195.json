@@ -1,0 +1,14 @@
+{
+  "number": 195,
+  "questionId": "081-0195",
+  "questionNumber": "081-0195",
+  "stemHtml": "<p>Which statement regarding the manoeuvre and gust load diagram in the clean configuration is correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. The gust load diagram has a symmetrical shape with respect to the n = 1 line for speeds above V</span><sub style=\"letter-spacing:0.7px\">B</sub><span style=\"letter-spacing:0.7px\">.</span>  <br />  \nII. The manoeuvre load diagram does not extend beyond the speed V<sub>C</sub>.</p>",
+  "options": {
+    "a": "I is incorrect, II is incorrect.",
+    "b": "I is incorrect, II is correct.",
+    "c": "I is correct, II is incorrect.",
+    "d": "I is correct, II is correct."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

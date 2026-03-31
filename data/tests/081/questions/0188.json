@@ -1,0 +1,14 @@
+{
+  "number": 188,
+  "questionId": "081-0188",
+  "questionNumber": "081-0188",
+  "stemHtml": "<p>A de-icing /anti-icing procedure is carried out in two-steps. When does the hold-over time (HOT) start and how does humidity affect the HOT?</p>",
+  "options": {
+    "a": "<p>At the beginning of the anti-icing step, high humidity decreases the HOT.</p>",
+    "b": "<p>At the beginning of the de-icing step, high humidity increases the HOT.</p>",
+    "c": "<p>At the end of the anti-icing step high humidity decreases the HOT. </p>",
+    "d": "<p>At the beginning of the anti-icing step, high humidity increases the HOT.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

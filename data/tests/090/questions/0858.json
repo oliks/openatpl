@@ -1,0 +1,14 @@
+{
+  "number": 858,
+  "questionId": "090-0858",
+  "questionNumber": "090-0858",
+  "stemHtml": "<p>You received the following instruction from ATC: \"G-SF, descend to height 2000 ft, QFE 1008\". Choose the correct reply\u2026</p>",
+  "options": {
+    "a": "<p>G-SF, descend to 2000 ft, QFE 1008.</p>",
+    "b": "<p>Descend to height 2000 ft, QFE 1008, G-SF.</p>",
+    "c": "<p>Descend to altitude 2000 ft, QFE 1008, G-SF.</p>",
+    "d": "<p>Descend to 2000 ft, 1008, G-SF.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

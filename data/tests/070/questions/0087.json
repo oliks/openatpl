@@ -1,0 +1,14 @@
+{
+  "number": 87,
+  "questionId": "070-0087",
+  "questionNumber": "070-0087",
+  "stemHtml": "<p>What happens regarding your compass when flying in Northern Canada?</p>",
+  "options": {
+    "a": "<p>Unreliable compass and in the case of Inertial navigation no special procedure is required.</p>",
+    "b": "<p>Due to reduced vertical field strength, the compass is unreliable.</p>",
+    "c": "<p>Plot DR fix using a VOR, variation at aircraft must be applied.</p>",
+    "d": "<p>Plot DR fix using NDB, variation at station must be applied.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

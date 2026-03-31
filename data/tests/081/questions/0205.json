@@ -1,0 +1,14 @@
+{
+  "number": 205,
+  "questionId": "081-0205",
+  "questionNumber": "081-0205",
+  "stemHtml": "<p>Just after rotation, an aircraft suffers a stabiliser jam. What are the effects on controllability?</p>",
+  "options": {
+    "a": "The aircraft will become uncontrollable, the control column is jammed",
+    "b": "<p>The effects are minor until the pilots change speed or configuration</p>",
+    "c": "The aircraft will pitch immediate nose down",
+    "d": "The aircraft will pitch immediate nose up"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

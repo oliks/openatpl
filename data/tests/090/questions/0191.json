@@ -1,0 +1,14 @@
+{
+  "number": 191,
+  "questionId": "090-0191",
+  "questionNumber": "090-0191",
+  "stemHtml": "<p>Which of the following correctly compares the information received from D-ATIS and voice ATIS?</p>",
+  "options": {
+    "a": "<p>The D-ATIS includes forecast information such as TAFs.</p>",
+    "b": "<p>Voice ATIS only will include pressure settings such as the QNH.</p>",
+    "c": "<p>D-ATIS is updated continuously while ATIS is updated at regular intervals.</p>",
+    "d": "<p>The encoded part of the ATIS is identical.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

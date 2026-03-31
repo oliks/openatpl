@@ -1,0 +1,14 @@
+{
+  "number": 26,
+  "questionId": "081-0026",
+  "questionNumber": "081-0026",
+  "stemHtml": "<p>Which of these statements about induced drag are correct or incorrect?</p>\n\n<p><span style=\"letter-spacing:0.7px\">I. Induced drag increases as angle of attack increases.</span>  <br />  \nII. At constant load factor, induced drag increases with increasing aeroplane mass.</p>",
+  "options": {
+    "a": "I is correct, II is incorrect.",
+    "b": "I is incorrect, II is incorrect.",
+    "c": "I is correct, II is correct.",
+    "d": "I is incorrect, II is correct."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

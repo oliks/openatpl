@@ -1,0 +1,14 @@
+{
+  "number": 1508,
+  "questionId": "081-1508",
+  "questionNumber": "081-1508",
+  "stemHtml": "<p>An aircraft is flying slowly at 2000 ft when it experiences an approaching stall. The angle of attack indicator in the flight deck shows an indication of -10\u00b0 relative to the critical angle of attack. What actions should the pilot take to recover?</p>",
+  "options": {
+    "a": "<p>Reduce angle of attack (pitch nose down) until below the critical AoA.</p>",
+    "b": "<p>Add thrust and pitch up to avoid losing altitude.</p>",
+    "c": "<p>Maintain pitch attitude and add thrust only.</p>",
+    "d": "<p>Apply rudder to counter any yaw and maintain heading.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

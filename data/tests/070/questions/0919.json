@@ -1,0 +1,14 @@
+{
+  "number": 919,
+  "questionId": "070-0919",
+  "questionNumber": "070-0919",
+  "stemHtml": "<p>A flight in the NAT HLA is en-route from Madrid, Spain to Washington, D.C. Due to unexpected severe weather conditions, the aircraft needs to deviate from its original track. The deviation course is 10 NM to the right. The aircraft is required to (1) _____ for (2) _____ feet.</p>",
+  "options": {
+    "a": "<p>(1) Climb; (2) 1000.</p>",
+    "b": "<p>(1) Descend; (2) 300.</p>",
+    "c": "<p>(1) Descend; (2) 500.</p>",
+    "d": "<p>(1) Climb; (2) 300.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

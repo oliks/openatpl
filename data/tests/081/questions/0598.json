@@ -1,0 +1,14 @@
+{
+  "number": 598,
+  "questionId": "081-0598",
+  "questionNumber": "081-0598",
+  "stemHtml": "<p>Given the following data, calculate the Drag in a straight and steady glide descent, with a glide angle of 30.</p><p>Mass: 12 385 kg <br>Lift: 102 900 N <br>Thrust: 0 N <br>Assume that g= 10 m/s</p>",
+  "options": {
+    "a": "<p>61 900 N</p>",
+    "b": "<p>107 214 N</p>",
+    "c": "<p>146 450 N</p>",
+    "d": "<p>191 764 N</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

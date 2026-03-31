@@ -1,0 +1,14 @@
+{
+  "number": 400,
+  "questionId": "070-0400",
+  "questionNumber": "070-0400",
+  "stemHtml": "<p>A crew preparing for a low visibility approach with RVR 200 m experience a window heat failure, but the screen is clear. What should the crew do?</p>",
+  "options": {
+    "a": "<p>They must divert to an alternate airport.</p>",
+    "b": "<p>Nothing, window heat does not affect auto-land capabilities.</p>",
+    "c": "<p>They should wait until RVR improves for CAT I minima.</p>",
+    "d": "<p>They should ask ATC advice before starting the approach preparation.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

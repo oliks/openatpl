@@ -1,0 +1,14 @@
+{
+  "number": 331,
+  "questionId": "090-0331",
+  "questionNumber": "090-0331",
+  "stemHtml": "<p>A pilot is flying in airspace with no Air Traffic Control service or advisory service being provided. Which of the following actions must be taken if the pilot suffers a receiver failure?</p>",
+  "options": {
+    "a": "<p>Precede all transmissions with \"Transmitting blind due to receiver failure\", transmit reports at scheduled times and repeat each message.</p>",
+    "b": "<p>The first transmission uses \u201cTransmitting blind due to receiver failure\u201d spoken twice and subsequent transmissions are all simple location reports.</p>",
+    "c": "<p>The first transmission uses \u201cTransmitting blind due to receiver failure\u201d spoken twice and no other transmissions will be made unless you are changing frequency.</p>",
+    "d": "<p>Precede the first transmission using \u201cTransmitting blind due to receiver failure\u201d spoken twice and no other transmissions will be made unless you are changing level or heading.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

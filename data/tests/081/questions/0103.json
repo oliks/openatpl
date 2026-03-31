@@ -1,0 +1,19 @@
+{
+  "number": 103,
+  "questionId": "081-0103",
+  "questionNumber": "081-0103",
+  "stemHtml": "Refer to figure.  <br />  The attached figure shows an aeroplane in cruise flight suffering an engine failure with significant damage. The pilot knows that if they enter the clouds it will cause significant turbulence making it more difficult to handle the failure. To avoid entering the clouds and to maintain its current flight path tracking, the pilot must apply...",
+  "options": {
+    "a": "right rudder to balance any yawing moments and maintain straight flight, and right aileron to generate a sideslip towards the live engine, achieving a net zero sideslip.",
+    "b": "right rudder as this will cause the aeroplane to continue coordinated flight as the rudder will offset the left yawing moment from the live engine.",
+    "c": "right aileron as this will cause the aeroplane to sideslip towards the live engine and offset the yaw created by the live engine as well as achieving coordinated flight.",
+    "d": "left rudder as this will cause the aeroplane to sideslip towards the live engine and reduce the effect of asymmetric thrust along the flight path."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0053",
+      "publicUrl": "/attachments/081/081-att-0053.jpg"
+    }
+  ]
+}

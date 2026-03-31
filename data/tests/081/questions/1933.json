@@ -1,0 +1,19 @@
+{
+  "number": 1933,
+  "questionId": "081-1933",
+  "questionNumber": "081-1933",
+  "stemHtml": "<p>Refer to figure. <br>If an aeroplane is flying such that the speed stability is negative, the CAS is in the region of the curve where...</p>",
+  "options": {
+    "a": "<p>Induced drag equals parasite drag.</p>",
+    "b": "<p>Parasite drag is higher that induced drag (Region 2).</p>",
+    "c": "<p>Parasite drag lower that induced drag (Region 1).</p>",
+    "d": "<p>Induced drag equals 1.3 times parasite drag.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0132",
+      "publicUrl": "/attachments/081/081-att-0132.jpg"
+    }
+  ]
+}

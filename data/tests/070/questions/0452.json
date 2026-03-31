@@ -1,0 +1,19 @@
+{
+  "number": 452,
+  "questionId": "070-0452",
+  "questionNumber": "070-0452",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>A runway has the following approaches available: an ILS (minima 200 ft) and a GNSS LNAV/VNAV (minima 250 ft). A new crane is erected in the approach area, increasing the OCH by 50 ft, resulting in a new OCH of 216 ft. Based on this information, which statement is correct?</p>",
+  "options": {
+    "a": "<p>You can continue both approaches without revising the minima</p>",
+    "b": "<p>You cannot conduct either approach with the published minima, so both must be revised</p>",
+    "c": "<p>The minima for the ILS must be revised due to the crane, but the GNSS (LNAV/VNAV) minima do not need to be changed</p>",
+    "d": "<p>The minima for the GNSS approach must be revised due to the crane, but the ILS is sufficiently accurate and does not require a change</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0021",
+      "publicUrl": "/attachments/070/070-att-0021.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 655,
+  "questionId": "081-0655",
+  "questionNumber": "081-0655",
+  "stemHtml": "How does the True Airspeed (TAS) vary during a descent above the troposphere with a constant Mach number?",
+  "options": {
+    "a": "<p>TAS increases due to decreased air density. </p>",
+    "b": "TAS decreases due to decreased air density.",
+    "c": "<p>TAS remains the same.</p>",
+    "d": "TAS fluctuates unpredictably."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

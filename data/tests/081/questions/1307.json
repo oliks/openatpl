@@ -1,0 +1,14 @@
+{
+  "number": 1307,
+  "questionId": "081-1307",
+  "questionNumber": "081-1307",
+  "stemHtml": "<p>Considering low and high speed airflow regimes, what is the effect of flow speed on the use of Bernoulli's Principle?</p>",
+  "options": {
+    "a": "<p>Bernoulli's principle can be used at all speeds, but compressibility is promoted at speeds above Mach 0.3 - 0.4.</p>",
+    "b": "<p>The effects of high speed are visible, as compressibility starts to be promoted.</p>",
+    "c": "<p>Bernoulli's principle can be used between Mach 0.4 up to Mach 0.8.</p>",
+    "d": "<p>Bernoulli's principle applies at subsonic speeds, but not supersonic speeds.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

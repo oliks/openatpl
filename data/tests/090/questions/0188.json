@@ -1,0 +1,14 @@
+{
+  "number": 188,
+  "questionId": "090-0188",
+  "questionNumber": "090-0188",
+  "stemHtml": "Select the option that states correctly how the following numbers are to be transmitted in a radio message: Squawk 2400, altitude 2400 ft.",
+  "options": {
+    "a": "Squawk two four zero zero, altitude two four zero zero.",
+    "b": "Squawk two thousand four hundred, altitude two four zero zero.",
+    "c": "Squawk two four zero zero, altitude two thousand four hundred.",
+    "d": "Squawk two thousand four hundred, altitude two thousand four hundred."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

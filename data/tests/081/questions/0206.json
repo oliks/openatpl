@@ -1,0 +1,14 @@
+{
+  "number": 206,
+  "questionId": "081-0206",
+  "questionNumber": "081-0206",
+  "stemHtml": "<p>You are flying from town A to airport B with a single engine piston when you experience an engine failure. Calculate the minimum altitude at A to reach to airport B, given:</p><p>Elevation of town A and airport B: 300 m <br>Distance from A to B: 60 km <br>L/D ratio: 30</p>",
+  "options": {
+    "a": "<p>2 000 m</p>",
+    "b": "<p>2 300 m</p>",
+    "c": "<p>2 500 m</p>",
+    "d": "1 800 m"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

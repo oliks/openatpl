@@ -1,0 +1,14 @@
+{
+  "number": 970,
+  "questionId": "070-0970",
+  "questionNumber": "070-0970",
+  "stemHtml": "<p>You have been cleared for an ILS approach with a Decision Height (DH) of 250 ft. Noise abatement is not a determining factor in runway nomination when the ceiling is lower than (1) _____ above aerodrome elevation or the visibility is less than (2) _____?</p>",
+  "options": {
+    "a": "<p>(1) 300 ft; (2) 1.5 km</p>",
+    "b": "<p>(1) 500 ft; (2) 1.9 km </p>",
+    "c": "<p>(1) 1500 ft; (2) 3 km </p>",
+    "d": "<p>(1) 800 ft; (2) 3 km</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

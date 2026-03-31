@@ -1,0 +1,14 @@
+{
+  "number": 505,
+  "questionId": "090-0505",
+  "questionNumber": "090-0505",
+  "stemHtml": "F-GTPO is out of radio-range of Lille Approach. Lille Approach has asked Bigjet 347 to relay F-GTPO`s transfer of communications to the Paris Area Control Centre on 128.055 MHz. What is the message of Bigjet 347?",
+  "options": {
+    "a": "\u201cBigjet 347 relaying Lille Approach for F-GTPO, contact Paris Control 128.05\u201d",
+    "b": "\u201cBigjet 347 relaying Lille Approach for F-GTPO, call Paris Control 128.055\u201d",
+    "c": "\u201cF-GTPO, Bigjet 347, Lille Approach requests you to call 128.055\u201d",
+    "d": "\u201cF-GTPO, Bigjet 347, Lille Approach requests you to contact Paris Control 128.055\u201d"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

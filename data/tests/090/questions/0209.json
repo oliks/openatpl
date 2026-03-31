@@ -1,0 +1,14 @@
+{
+  "number": 209,
+  "questionId": "090-0209",
+  "questionNumber": "090-0209",
+  "stemHtml": "<p>During the cruise a pilot receives a TCAS Resolution Advisory (RA), which he/she follows. At the same time ATC gives a new contradictory clearance. The pilot should reply (1) _____ and the Controller should respond (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) Unable, TCAS RA; (2) Affirm</p>",
+    "b": "<p>(1) Unable, TCAS RA; (2) Roger</p>",
+    "c": "<p>(1) Unable, TCAS; (2) Roger</p>",
+    "d": "(1) TCAS RA; (2) Affirm"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

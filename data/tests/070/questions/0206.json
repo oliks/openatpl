@@ -1,0 +1,14 @@
+{
+  "number": 206,
+  "questionId": "070-0206",
+  "questionNumber": "070-0206",
+  "stemHtml": "<p>A new pilot joined an airline. He/she has just completed his/her checks, but is flying with a captain who is commencing his/her line check. The new pilot is placed on the commander seat. On this flight, what is the role of the new pilot?</p>",
+  "options": {
+    "a": "<p>The captain commencing the line check is the pilot-in-command for this flight.</p>",
+    "b": "<p>The new pilot is the commander because he/she is on the commander's seat.</p>",
+    "c": "<p>He/she will be a commander if the operator dedicates him/her to be.</p>",
+    "d": "<p>Both are commanders for this flight.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

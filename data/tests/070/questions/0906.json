@@ -1,0 +1,19 @@
+{
+  "number": 906,
+  "questionId": "070-0906",
+  "questionNumber": "070-0906",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn IFR Commercial Air Transport flight is planned to a destination aerodrome \u201cA\u201d. Given the available approaches and associated minima for aerodrome \"B\", what weather conditions should the appropriate weather reports and/or forecasts indicate, so that aerodrome \"B\" can be used as a destination alternate?</p>",
+  "options": {
+    "a": "<p>The visibility must be reported at or above 2800 m and the cloud ceiling at or above 750 ft.</p>",
+    "b": "<p>The visibility must be reported at or above 1800 m and the cloud ceiling at or above 550 ft.</p>",
+    "c": "<p>The visibility must be reported at or above 2200 m and the cloud ceiling at or above 610 ft.</p>",
+    "d": "<p>The visibility must be reported at or above 1200 m and the cloud ceiling at or above 410 ft.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "070-att-0017",
+      "publicUrl": "/attachments/070/070-att-0017.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2015,
+  "questionId": "081-2015",
+  "questionNumber": "081-2015",
+  "stemHtml": "Refer to figure. \r\n<p>The two aeroplanes from the annex have conventional flight controls but different design principles. On a manually flown approach, they are instructed by ATC to go-around, which requires a change in pitch attitude from +2\u00b0 to approximately +12\u00b0, whilst maintaining speed. The pilots in both aeroplanes select full thrust, which makes aeroplane 1...</p>\r\n\r\n<p> </p>",
+  "options": {
+    "a": "pitch up, requiring a push force to maintain the climb attitude, while aeroplane 2 requires a pull force to counteract the pitching motion caused by the engines.",
+    "b": "and aeroplane 2 pitch up since they are statically speed-stable, requiring only small control inputs by the pilots in order to refine the appropriate attitude and speed.",
+    "c": "accelerate, unless a slight pull force is applied to achieve the climb attitude, while aeroplane 2 requires a push force to prevent over-rotation and speed loss.",
+    "d": "<p>and aeroplane 2 require a pull force to achieve the appropriate attitude and speed since they are statically stable and resist moving from the trimmed position.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0177",
+      "publicUrl": "/attachments/081/081-att-0177.jpg"
+    }
+  ]
+}

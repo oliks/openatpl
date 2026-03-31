@@ -1,0 +1,14 @@
+{
+  "number": 213,
+  "questionId": "081-0213",
+  "questionNumber": "081-0213",
+  "stemHtml": "<p>Complete the following statement about two asymmetrical aerofoils, an aerofoil made for a low speed aircraft and one made for a high speed aircraft, and their effect on the coefficient of lift vs angle of attack graph.</p><p>The high speed aerofoil intersects the C<strong><sub>L</sub></strong> axis at a (1) _____ position and has a (2) _____ C<strong><sub>LMAX</sub></strong> than the low speed aerofoil.</p>",
+  "options": {
+    "a": "<p>(1) Lower; (2) Lower</p>",
+    "b": "<p>(1) Lower; (2) Higher</p>",
+    "c": "<p>(1) Higher; (2) Higher</p>",
+    "d": "<p>(1) Higher; (2) Lower</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

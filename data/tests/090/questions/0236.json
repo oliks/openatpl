@@ -1,0 +1,14 @@
+{
+  "number": 236,
+  "questionId": "090-0236",
+  "questionNumber": "090-0236",
+  "stemHtml": "<p>Complete the definition of an instrument approach procedure: An instrument approach procedure means a series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the (1) _____, or where applicable, from the (2) _____ of a defined arrival route to a point from which a (3) _____ can be completed.</p>",
+  "options": {
+    "a": "<p>(1) Initial Approach Fix; (2) Beginning; (3) Landing</p>",
+    "b": "<p>(1) Initial Approach Fix; (2) Beginning; (3) Missed Approach</p>",
+    "c": "<p>(1) Final Approach Fix; (2) Beginning; (3) Missed Approach</p>",
+    "d": "<p>(1) Intermediate Fix; (2) End; (3) Landing</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

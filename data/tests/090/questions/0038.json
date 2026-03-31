@@ -1,0 +1,14 @@
+{
+  "number": 38,
+  "questionId": "090-0038",
+  "questionNumber": "090-0038",
+  "stemHtml": "<p>A pilot is in aircraft D-CURE. Select the correct read back to the following message \"Runway in use 10, Wind 130/10kts, Braking action poor, QNH 1008\"...</p>\r\n",
+  "options": {
+    "a": "<p>RWY 10, Wind 130/10kts, QNH 1008, DCURE</p>",
+    "b": "<p>RWY 10, QNH 1008, DCURE</p>",
+    "c": "<p>RWY 10, RE</p>",
+    "d": "QNH 1008"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

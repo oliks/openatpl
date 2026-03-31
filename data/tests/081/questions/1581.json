@@ -1,0 +1,19 @@
+{
+  "number": 1581,
+  "questionId": "081-1581",
+  "questionNumber": "081-1581",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>The ECAM display shows a fault as seen in the attached figure while the crew are configuring for landing. The slats are fully extended, but the flaps are faulty and locked in the retracted position. What is the consequence of this fault compared to landing in the normal configuration?</p>",
+  "options": {
+    "a": "<p>The aircraft can not land until the configuration is changed.</p>",
+    "b": "<p>A shorter landing distance, and increased risk of tailstrike.</p>",
+    "c": "<p>A longer landing distance only.</p>",
+    "d": "<p>A longer landing distance, and a higher chance of a tailstrike.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "081-att-0230",
+      "publicUrl": "/attachments/081/081-att-0230.jpg"
+    }
+  ]
+}

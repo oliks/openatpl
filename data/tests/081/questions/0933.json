@@ -1,0 +1,14 @@
+{
+  "number": 933,
+  "questionId": "081-0933",
+  "questionNumber": "081-0933",
+  "stemHtml": "<p>You are in a power-on descent with a glide angle of 30\u00b0. Given:</p>\r\r<p>Mass: 12 000 kg <br /> \rDrag: 12 330 N <br /> \rThrust: 11 030 N</p>\r\r<p>Calculate the lift.</p>",
+  "options": {
+    "a": "<p>60 000 N</p>",
+    "b": "<p>103 923 N</p>",
+    "c": "<p>103 290 N</p>",
+    "d": "<p>10 390 N</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

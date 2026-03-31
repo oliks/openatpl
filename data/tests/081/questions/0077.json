@@ -1,0 +1,14 @@
+{
+  "number": 77,
+  "questionId": "081-0077",
+  "questionNumber": "081-0077",
+  "stemHtml": "<p>A Pilot is testing out the stalling characteristics of his aeroplane close to the stall. Calculate the coefficient of lift?</p><p>Wing area: 13.5 m<sup>2</sup>  <br />  Density: 1.225 kg/m<sup>3</sup>  <br />  Speed: 70 kts  <br />  Mass: 1300 kg  <br />  Assume g = 9.81</p>",
+  "options": {
+    "a": "<div>1.19</div>",
+    "b": "<p>0.78</p>",
+    "c": "<div>There is not enough information to calculate the coefficient of lift</div>",
+    "d": "<p>0.31</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1026,
+  "questionId": "090-1026",
+  "questionNumber": "090-1026",
+  "stemHtml": "<p>ATC: \u201cFASTAIR 345 TAXI VIA BRAVO TO HOLDING POINT RUNWAY 36L.\u2019\u2019</p><p>What is the correct response?</p><p>\u00a0</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">FASTAIR 345 TAXI HOLDING POINT RUNWAY 36L VIA TAXIWAY BRAVO.</p>",
+    "b": "<p dir=\"ltr\">FASTAIR 345 TAXI TO THE HOLDING POINT VIA BRAVO.</p>",
+    "c": "<p dir=\"ltr\">TAXI RUNWAY 36L FASTAIR 345.</p>",
+    "d": "<p>TAXI VIA BRAVO TO HOLDING POINT RUNWAY 36L FASTAIR 345.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 598,
+  "questionId": "070-0598",
+  "questionNumber": "070-0598",
+  "stemHtml": "<p>An aircraft is flying from London, Heathrow, UK to New York, JFK, USA and is within the NAT High Level Airspace at FL360. A hydraulic warning light has come on, which may necessitate a change of level. The in-flight contingency procedure requires an offset from the assigned route.</p><p>If prior clearance cannot be obtained, what would be the initial action?</p>",
+  "options": {
+    "a": "<p>A turn to the right of track of at least 45\u00b0 towards the nearest alternate, which is Keflavik, Iceland.</p>",
+    "b": "<p>A turn to the right of track of at least 30\u00b0 towards the nearest alternate, which is Keflavik, Iceland.</p>",
+    "c": "<p>Turn to the right of track in order to avoid any nearby traffic, which would follow the Strategic Offset Procedure (SLOP).</p>",
+    "d": "<p>A turn to the left or right of track by at least 45\u00b0 and immediately initiate a descent to a lower level.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

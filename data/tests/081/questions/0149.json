@@ -1,0 +1,14 @@
+{
+  "number": 149,
+  "questionId": "081-0149",
+  "questionNumber": "081-0149",
+  "stemHtml": "<p>When supersonic airflow passes through a normal shock wave, how do the following conditions change?</p><p>I. static pressure<br>II. density<br>III. local speed of sound</p>",
+  "options": {
+    "a": "<p>I. static pressure increases, II. density increases, III. local speed of sound increases</p>",
+    "b": "<p>I. static pressure decreases, II. density decreases, III. local speed of sound decreases</p>",
+    "c": "<p>I. static pressure increases, II. density increases, III. local speed of sound decreases</p>",
+    "d": "<p>I. static pressure remains constant, II. density decreases, III. local speed of sound increases</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

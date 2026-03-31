@@ -1,0 +1,14 @@
+{
+  "number": 803,
+  "questionId": "090-0803",
+  "questionNumber": "090-0803",
+  "stemHtml": "<p>What are the three types of aircraft radiotelephony call signs?</p><p>(1) The characters corresponding to the registration marking of the aircraft<br>(2) The telephony designator of the aircraft operating agency, followed by the last four characters of the registration marking of the aircraft and <br>(3) ...</p>",
+  "options": {
+    "a": "The telephony designator of the aircraft operating agency, followed by the flight identification.",
+    "b": "The name of the aircraft manufacturer, followed by the full registration marking of the aircraft.",
+    "c": "The full registration plus the manufacturer's model.",
+    "d": "The aircraft model plus full aircraft registration."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

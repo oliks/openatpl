@@ -1,0 +1,14 @@
+{
+  "number": 488,
+  "questionId": "081-0488",
+  "questionNumber": "081-0488",
+  "stemHtml": "<p>An aeroplane on final approach is flying at a CAS lower than V<sub>MD</sub>, which means it is speed unstable. If the speed suddenly decreases, what effect do parasite and induced drag have on total drag?</p>",
+  "options": {
+    "a": "<p>Parasite drag increases, induced drag reduces by the same amount, so total drag stays the same.</p>",
+    "b": "<p>Parasite drag reduces, induced drag increases by a larger amount, so total drag increases.</p>",
+    "c": "<p>Parasite drag reduces, induced drag increases by a smaller amount, so total drag reduces.</p>",
+    "d": "<p>Parasite drag increases, induced drag reduces by a smaller amount, so total drag increases.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

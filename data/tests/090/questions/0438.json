@@ -1,0 +1,14 @@
+{
+  "number": 438,
+  "questionId": "090-0438",
+  "questionNumber": "090-0438",
+  "stemHtml": "<p>An aircraft is being vectored by Air Traffic Control on to a (1) _____ final at (2) _____. A report must be made by the pilot in any case at (3) _____ at (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) long, (2) 8 miles, (3) final, (4) 4 miles</p>",
+    "b": "<p>(1) long, (2) 4 miles, (3) final, (4) 8 miles</p>",
+    "c": "<p>(1) final, (2) 8 miles, (3) long, (4) 4 miles</p>",
+    "d": "<p>(1) final, (2) 4 miles, (3) long, (4) 8 miles</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

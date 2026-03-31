@@ -1,0 +1,14 @@
+{
+  "number": 87,
+  "questionId": "081-0087",
+  "questionNumber": "081-0087",
+  "stemHtml": "<p>Which of the following statements are correct about clamshell speed brakes?</p>\r\r<p>1. Clamshell speed brakes allow the turbine engine RPM to not reduce as much during the approach, making go-arounds easier <br /> \r2. Clamshell speed brakes can disrupt airflow over the tailplane, making them a less common design choice <br /> \r3. Clamshell speed brakes are often designed as a convenient housing for the APU exhaust <br /> \r4. Clamshell speed brakes increase parasite drag, which reduces V<strong><sub>MD</sub></strong> and improves speed stability <br /> \r5. Clamshell speed brakes increase total drag, providing greater speed control during the approach</p>",
+  "options": {
+    "a": "<p>1, 2 and 3.</p>",
+    "b": "<p>2, 3 and 4.</p>",
+    "c": "<p>3, 4 and 5.</p>",
+    "d": "<p>1, 4 and 5.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

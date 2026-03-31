@@ -1,0 +1,14 @@
+{
+  "number": 967,
+  "questionId": "070-0967",
+  "questionNumber": "070-0967",
+  "stemHtml": "<p>Using the following extract from a SNOWTAM for runway 25L, find the runway third with the lowest runway condition code (RWYCC) and determine the type of contamination and depth reported on this runway third? </p><p>SNOWTAM 0125 <br>LFPG <br>02170530 R25L 3/3/2 100/100/100 05/05/10 WET SNOW/WET SNOW/SLUSH <br> </p>",
+  "options": {
+    "a": "<p>Wet snow, 5 mm</p>",
+    "b": "<p>Wet snow, 10 mm</p>",
+    "c": "<p>Slush, 10 mm</p>",
+    "d": "<p>Dry snow, 10 mm</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

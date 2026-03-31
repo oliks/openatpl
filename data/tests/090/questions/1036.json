@@ -1,0 +1,14 @@
+{
+  "number": 1036,
+  "questionId": "090-1036",
+  "questionNumber": "090-1036",
+  "stemHtml": "<p>A pilot is passing a CTR with two tower frequencies while operating a plane with the callsign D-TKSA. They were let into the airspace by the first one. They then hear the words \"D-SA, new QNH 1015, contact Tower 119.575\".</p>\r\n\r\n<p>What items should be included in the readback?</p>",
+  "options": {
+    "a": "Only the new frequency.",
+    "b": "Only the new QNH.",
+    "c": "Both the new QNH and the new frequency.",
+    "d": "No readback is required."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

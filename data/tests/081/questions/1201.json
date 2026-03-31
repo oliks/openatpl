@@ -1,0 +1,14 @@
+{
+  "number": 1201,
+  "questionId": "081-1201",
+  "questionNumber": "081-1201",
+  "stemHtml": "<p>Complete the following statements with respect to wing planform and initial stall sequence. The initial stall tendency is that a rectangular wing (1) _____, an elliptical wing (2) _____, a moderately tapered wing (3) _____, and a swept wing with high taper (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) stalls first at the wing tip; (2) stalls evenly along the wing; (3) stalls first at the mid-section; (4) stalls first at the wing root</p>",
+    "b": "<p>(1) stalls first at the wing root; (2) stalls first at the wing root; (3) stalls first at the wing tip; (4) stalls evenly along the wing</p>",
+    "c": "<p>(1) stalls first at the wing tip; (2) stalls evenly along the wing; (3) stalls first at the wing tip; (4) stalls first at the wing tip</p>",
+    "d": "<p>(1) stalls first at the wing root; (2) stalls evenly along the wing; (3) stalls first at the mid-section; (4) stalls first at the wing tip</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1699,
+  "questionId": "081-1699",
+  "questionNumber": "081-1699",
+  "stemHtml": "You are flying with the autopilot climbing in vertical speed mode, what may happen?",
+  "options": {
+    "a": "Airspeed will decrease as the autopilot pitches up to keep the vertical speed.",
+    "b": "Airspeed will decrease until the autopilot pitches down on approaching V<sub>S</sub> to prevent stall.",
+    "c": "The autopilot disconnects before stall onset.",
+    "d": "It is not possible to climb at a constant vertical speed."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

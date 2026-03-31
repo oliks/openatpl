@@ -1,0 +1,14 @@
+{
+  "number": 2211,
+  "questionId": "081-2211",
+  "questionNumber": "081-2211",
+  "stemHtml": "Both CS-23 and CS-25 specifications state that an aeroplane must have sufficient controllability at and just above the critical angle of attack to aid in stall recovery. Which of the following statements identifies a consideration which could influence the stall handling characteristics, unless particular design measures are taken to avoid this?",
+  "options": {
+    "a": "High-wing aeroplane tend to have a greater pitch-up tendency, as an aeroplane progressively pitches up.",
+    "b": "Supercritical aerofoils may increase the pitch-up tendency when compared to traditional cambered aerofoils.",
+    "c": "Aft-fuselage mounted engines have a large pitching moment when thrust is increased during the recovery.",
+    "d": "The vertical position of the horizontal stabiliser may affect the ability to recover, in particular a T-tail design."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

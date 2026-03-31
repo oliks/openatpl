@@ -1,0 +1,14 @@
+{
+  "number": 727,
+  "questionId": "070-0727",
+  "questionNumber": "070-0727",
+  "stemHtml": "<p>For a westbound transatlantic flight, the Operational Flight Plan states \"ROUTE MIRRORING OTS Track D\" and the flight level planned for the final cruise is FL340. Track D is a Performance Based Communications and Surveillance (PBCS) track with a minimum available flight level of FL350. What should the crew do?</p>",
+  "options": {
+    "a": "<p>Descend to FL280 and stay outside the OTS.</p>",
+    "b": "<p>Climb to FL340 when approved.</p>",
+    "c": "<p>Climb to FL350.</p>",
+    "d": "<p>Fly Track D as planned, since they have ADS-C and CPDLC.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

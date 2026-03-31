@@ -1,0 +1,14 @@
+{
+  "number": 593,
+  "questionId": "090-0593",
+  "questionNumber": "090-0593",
+  "stemHtml": "<p>In the event of an urgency situation needing a PAN PAN call, how should radio communication between the aircraft and ATC be managed?</p>",
+  "options": {
+    "a": "<p>The pilot may select any frequency they find suitable for the situation.</p>",
+    "b": "<p>ATC will always transfer the aircraft to a discrete frequency to avoid congested traffic.</p>",
+    "c": "<p>Communication should continue on the frequency currently in use.</p>",
+    "d": "<p>The pilot should switch to the emergency frequency 121.5 MHz.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

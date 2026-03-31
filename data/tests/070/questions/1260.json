@@ -1,0 +1,14 @@
+{
+  "number": 1260,
+  "questionId": "070-1260",
+  "questionNumber": "070-1260",
+  "stemHtml": "<p>According to EASA AIR OPS regulations, an operator must ensure that, for the duration of each flight, the following will be kept on the ground\u2026</p><p>1- a copy of the operational flight plan <br>2- information about reconciliation amounts <br>3- copies of the relevant part(s) of the aircraft technical log <br>4- route-specific NOTAM documentation <br>5- navigation lists <br>6- necessary charts <br>7- mass and balance documentation <br>8- special loads notification</p>",
+  "options": {
+    "a": "1, 2, 3, 4, 5, 6, 7, 8",
+    "b": "1, 3, 4, 7, 8",
+    "c": "2, 3, 4, 5, 7, 8",
+    "d": "1, 3, 4, 5, 6, 7, 8"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

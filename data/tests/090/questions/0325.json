@@ -1,0 +1,14 @@
+{
+  "number": 325,
+  "questionId": "090-0325",
+  "questionNumber": "090-0325",
+  "stemHtml": "<p>Which phrase shall be used if the repetition of an entire message is required?</p>",
+  "options": {
+    "a": "<p>What was your message?</p>",
+    "b": "<p>Say again.</p>",
+    "c": "<p>Repeat your last transmission.</p>",
+    "d": "<p>Repeat your message.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

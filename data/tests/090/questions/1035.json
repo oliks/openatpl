@@ -1,0 +1,14 @@
+{
+  "number": 1035,
+  "questionId": "090-1035",
+  "questionNumber": "090-1035",
+  "stemHtml": "Which option contains the ideal set of information for an urgency message and provides it in the preferred sequence?",
+  "options": {
+    "a": "PAN PAN PAN, BREST CENTRE this is FOXTROT BRAVO GOLF GOLF ALFA, at FL150 heading 95, crew member unwell, request diversion to Brest.",
+    "b": "PAN PAN PAN, BREST CENTRE this is FOXTROT BRAVO GOLF GOLF ALFA, 5 miles east of Ushant, crew member unwell, request diversion to Brest, heading 95.",
+    "c": "PAN PAN, PAN PAN, PAN PAN, BREST CENTRE this is FOXTROT BRAVO GOLF GOLF ALFA, crew member unwell, request diversion to Brest, 5 miles east of Ushant at FL150 heading 95.",
+    "d": "PAN PAN, PAN PAN, PAN PAN, this is FOXTROT BRAVO GOLF GOLF ALFA, 5 miles east of Ushant, crew member unwell, request diversion to Brest, heading 95."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

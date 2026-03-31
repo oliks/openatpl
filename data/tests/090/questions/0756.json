@@ -1,0 +1,14 @@
+{
+  "number": 756,
+  "questionId": "090-0756",
+  "questionNumber": "090-0756",
+  "stemHtml": "<p>VOLMET is meteorological information for aircraft in flight. How can D-VOLMET be obtained?</p>",
+  "options": {
+    "a": "<p>Datalink.</p>",
+    "b": "<p>The FADEC system.</p>",
+    "c": "<p>The transponder.</p>",
+    "d": "<p>ADS-B.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

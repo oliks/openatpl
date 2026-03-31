@@ -1,0 +1,14 @@
+{
+  "number": 417,
+  "questionId": "081-0417",
+  "questionNumber": "081-0417",
+  "stemHtml": "<p>Whilst flying a two-engined aircraft, there is a failure of the left engine. The pilot subsequently applies right rudder to counteract the yaw moment from the asymmetric thrust. How much force will the pilot need to apply on the rudder, if the IAS remains constant and air density increases?</p>",
+  "options": {
+    "a": "<p>Apply less force on the rudder, as the efficiency of the rudder increases.</p>",
+    "b": "<p>Apply more force on the rudder, as the efficiency of the rudder decreases.</p>",
+    "c": "<p>Apply less force on the rudder, as the thrust of the operative engine decreases.</p>",
+    "d": "<p>Apply more force on the rudder, as the thrust of the operative engine increases.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

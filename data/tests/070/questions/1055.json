@@ -1,0 +1,14 @@
+{
+  "number": 1055,
+  "questionId": "070-1055",
+  "questionNumber": "070-1055",
+  "stemHtml": "<p>May a flight still be conducted, if during the pre-flight check, one of the flight instruments in an aircraft is found to be inoperative?</p>\r\n",
+  "options": {
+    "a": "<p>Yes, if the Commander accepts the risk of conducting the flight without the instrument in question.</p>",
+    "b": "Yes, if there is a back-up instrument available in the flight crew compartment.",
+    "c": "<p>No, conducting a flight with an inoperative flight instrument is NOT allowed.</p>",
+    "d": "<p>Yes, if the MEL allows for the instrument in question to be inoperative.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

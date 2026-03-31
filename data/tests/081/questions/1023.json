@@ -1,0 +1,14 @@
+{
+  "number": 1023,
+  "questionId": "081-1023",
+  "questionNumber": "081-1023",
+  "stemHtml": "<p>During a demonstration of the effect of controls, the pilot manoeuvres the aeroplane applying aileron input only. This control input will make the aeroplane roll...</p>",
+  "options": {
+    "a": "and skid towards the higher wing due to the inertia of the aeroplane, and the amount of skid is dependent on the relationship between the bank angle and speed.",
+    "b": "and sideslip towards the lower wing due to the sideways components of lift, and gravity and the sideslip angle will increase with the increasing bank angle.",
+    "c": "towards the wing with the downward defecting aileron, and the roll rate will be proportional to the movement of the control column.",
+    "d": "towards the wing with the upward deflecting aileron, and the rolling motion will stop at a bank angle that is directly related to the stick position."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

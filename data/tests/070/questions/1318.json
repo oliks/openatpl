@@ -1,0 +1,14 @@
+{
+  "number": 1318,
+  "questionId": "070-1318",
+  "questionNumber": "070-1318",
+  "stemHtml": "<p>During an APV instrument approach operation (a class A 3D approach), when the aircraft reaches the relevant minima, the pilot can only identify components of the approach lighting system. In this situation, he/she...</p>",
+  "options": {
+    "a": "<p>Can only continue the approach below the minima and complete the landing if the visual glide slope indicator is also identified. </p>",
+    "b": "<p>Can continue the approach but can only land if a second set of visual references is identified before 100 ft AGL. </p>",
+    "c": "<p>CANNOT continue below the minima and the approach must be discontinued. </p>",
+    "d": "<p>Can continue the approach below the minima and can complete the landing. </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

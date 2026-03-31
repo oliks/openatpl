@@ -1,0 +1,14 @@
+{
+  "number": 451,
+  "questionId": "090-0451",
+  "questionNumber": "090-0451",
+  "stemHtml": "<p>An aircraft is on the approach to land and has just reported \"CLIPPER 347, FINAL\". Which of the following transmissions can it expect to hear next?</p>",
+  "options": {
+    "a": "<p>CLIPPER 347, RUNWAY 27 CLEARED TO LAND, WIND 290 DEGREES AT 10 KNOTS.</p>",
+    "b": "<p>CLIPPER, CLEARED TO LAND, WIND CALM.</p>",
+    "c": "<p>AIRPLANE CALLING, RUNWAY 27 CLEARED TO LAND, WIND 260 DEGREES AT 12 KNOTS.</p>",
+    "d": "<p>CLIPPER 347, LAND ON RUNWAY 27.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

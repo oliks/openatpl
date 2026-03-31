@@ -1,0 +1,14 @@
+{
+  "number": 1045,
+  "questionId": "090-1045",
+  "questionNumber": "090-1045",
+  "stemHtml": "<p>A TCAS Resolution Advisory (RA) response maneuver is completed and a return to the ATC clearance or instruction is initiated. Choose the correct pilot and controller interchange:</p>\r\n\r\n<p>(1) Clear of conflict, returning to FL240<br />\r\n(2) Clear of conflict, resuming FL240<br />\r\n(3) Roger<br />\r\n(4) Affirmative</p>\r\n",
+  "options": {
+    "a": "<p>(1) Pilot; (4) Controller.</p>",
+    "b": "<p>(2) Pilot; (3) Controller.</p>",
+    "c": "<p>(2) Pilot; (4) Controller.</p>",
+    "d": "<p>(1) Pilot; (3) Controller.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

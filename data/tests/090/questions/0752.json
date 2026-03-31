@@ -1,0 +1,14 @@
+{
+  "number": 752,
+  "questionId": "090-0752",
+  "questionNumber": "090-0752",
+  "stemHtml": "<p>ATC: 'G-AC expect ILS approach Runway 24'</p>\r\n\r\n<p>The correct read-back for the above communication from ATC is\u2026</p>",
+  "options": {
+    "a": "<p>\"ILS approach runway 24 acknowledged G-AC\"</p>",
+    "b": "<p>\"Expecting ILS approach runway 24 G-AC\"</p>",
+    "c": "<p>\"ILS approach runway 24 confirmed G-AC\"</p>",
+    "d": "<p>\"Runway 24 cleared to land G-AC\"</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

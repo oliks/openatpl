@@ -1,0 +1,14 @@
+{
+  "number": 684,
+  "questionId": "090-0684",
+  "questionNumber": "090-0684",
+  "stemHtml": "<p>Pilot: \u201cDONLON _____, G-ABDC at holding point runway 03, ready for departure.\u201d<br>Controller: \u201cG-ABDC cleared for take off runway 03.\u201d</p><p>What service was the pilot communicating with?</p>",
+  "options": {
+    "a": "Tower",
+    "b": "Ground",
+    "c": "Approach",
+    "d": "Dispatch"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

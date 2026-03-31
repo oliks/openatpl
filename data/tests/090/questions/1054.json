@@ -1,0 +1,14 @@
+{
+  "number": 1054,
+  "questionId": "090-1054",
+  "questionNumber": "090-1054",
+  "stemHtml": "<p>The following items shall always be read back to ATC\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">TWY lights are unserviceable.</p>",
+    "b": "<p dir=\"ltr\">Work in progress on the movement area.</p>",
+    "c": "ATC route clearances.",
+    "d": "<p dir=\"ltr\">Radio checks.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

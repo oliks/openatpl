@@ -1,0 +1,19 @@
+{
+  "number": 276,
+  "questionId": "090-0276",
+  "questionNumber": "090-0276",
+  "stemHtml": "<p>Refer to figure.<br>The morse code identifier for the KORSA VOR/DME (N55\u00b026.4' E011\u00b037.9') is\u2026</p>",
+  "options": {
+    "a": "<p><strong>-.-.</strong> and <strong>-..</strong> and <strong>.- </strong></p>",
+    "b": "<p><strong>-.- </strong>and<strong> --- </strong>and <strong>... </strong></p>",
+    "c": "<p>nil (no Morse code available)</p>",
+    "d": "<p><strong>-.- </strong>and<strong> --- </strong>and<strong> .-.</strong></p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "090-att-0007",
+      "publicUrl": "/attachments/090/090-att-0007.jpg"
+    }
+  ]
+}
