@@ -382,7 +382,8 @@ export default function TestRunner({
   }, [currentEntry, testMeta.id]);
 
   /* ---------- compute derived data ---------- */
-  const currentQuestion = loadedQuestion?.id === currentEntry?.id ? loadedQuestion : currentEntry;
+  const isQuestionLoaded = loadedQuestion?.id === currentEntry?.id && loadedQuestion?.stemHtml;
+  const currentQuestion = isQuestionLoaded ? loadedQuestion : currentEntry;
   const evalq = currentEntry ? evaluateQuestion(currentEntry, answers) : null;
   const selected = evalq?.selected ?? null;
   const correct = evalq?.correct ?? null;
@@ -603,12 +604,20 @@ export default function TestRunner({
           </div>
 
           <article className="question-panel">
-            <div
-              className="stem"
-              dangerouslySetInnerHTML={{
-                __html: currentQuestion?.stemHtml ?? "<p>Question text unavailable.</p>",
-              }}
-            />
+            {!isQuestionLoaded ? (
+              <div className="stem stem-loading">
+                <div className="skeleton-line" style={{ width: "90%" }} />
+                <div className="skeleton-line" style={{ width: "70%" }} />
+                <div className="skeleton-line" style={{ width: "80%" }} />
+              </div>
+            ) : (
+              <div
+                className="stem"
+                dangerouslySetInnerHTML={{
+                  __html: currentQuestion?.stemHtml ?? "<p>Question text unavailable.</p>",
+                }}
+              />
+            )}
             {preview.length > 0 && (
               <section className="attachment-section">
                 <div className="attachment-grid">
@@ -644,7 +653,7 @@ export default function TestRunner({
             onDismiss={() => setShowSupport(false)}
           />
 
-          {!showSupport && (
+          {!showSupport && isQuestionLoaded && (
             <div className="option-list">
               {questionOptionLetters(currentQuestion)
                 .map(opt => ({
