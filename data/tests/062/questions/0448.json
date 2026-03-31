@@ -1,0 +1,14 @@
+{
+  "number": 448,
+  "questionId": "062-0448",
+  "questionNumber": "062-0448",
+  "stemHtml": "Which statement about the interrogation by the DME-interrogator is correct?",
+  "options": {
+    "a": "The interrogation starts directly after the correct DME-frequency has been selected on the frequency-selecting-panel by the pilot.",
+    "b": "The interrogation can only take place if the Echo Protection Circuit has been locked.",
+    "c": "The interrogation starts when the interrogator has been warmed up sufficiently, whether pulse-pairs are received or not.",
+    "d": "The interrogation does not start before pulse-pairs of the tuned DME-station are received."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

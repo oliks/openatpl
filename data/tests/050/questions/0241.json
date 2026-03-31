@@ -1,0 +1,14 @@
+{
+  "number": 241,
+  "questionId": "050-0241",
+  "questionNumber": "050-0241",
+  "stemHtml": "<p>You receive this D-ATIS message for EDDF (Frankfurt)</p>\r\n\r\n<p>EDDF ARR ATIS M 0850Z EXPECT ILS Y APCH RWY 07L OR ILS APCH RWY 07R INDEPENDENT PARALLEL APPROACHES IN PROGRESS 08005KT 9999 FEW025 T07 DP02 QNH1014 TREND NOSIG AUTHORISED DRONE OPERATING 5NM SW OF EDDF BELOW 400' END OF ATIS M</p>\r\n\r\n<p>Which of the following statements is correct regarding this message?</p>",
+  "options": {
+    "a": "<p>This ATIS mike applies to both departing and arriving aircraft at EDDF.</p>",
+    "b": "<p>When confirming receipt of this ATIS message to ATC, the message designator \"mike\", the QNH, and acknowledgement of the drone operating in the vicinity of the airport must be read back.</p>",
+    "c": "<p>ATIS mike, valid for the next two hours, is NOT available.</p>",
+    "d": "<p>This is for aircraft on approach, outside air temperature is +7\u00baC and information \"Mike\".</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

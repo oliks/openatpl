@@ -1,0 +1,14 @@
+{
+  "number": 162,
+  "questionId": "062-0162",
+  "questionNumber": "062-0162",
+  "stemHtml": "What is the effect of FM broadcast stations that transmit on frequencies just below 108 MHz on the performance of ILS.",
+  "options": {
+    "a": "These transmissions may interfere with the ILS localizer and glide path signals which may lead to erroneous deviation indications.",
+    "b": "These transmissions may activate the FM immune filter which results in the appearance of the localizer failure flag.",
+    "c": "These transmissions may interfere with the ILS localizer signal which may lead to erroneous localizer deviation indication.",
+    "d": "These transmissions may activate the FM immune filter which results in the appearance of the localizer and glide path failure flag."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

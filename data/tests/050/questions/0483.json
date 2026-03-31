@@ -1,0 +1,14 @@
+{
+  "number": 483,
+  "questionId": "050-0483",
+  "questionNumber": "050-0483",
+  "stemHtml": "<p>In automatic METAR reports, over what time period is the mean wind value averaged?</p>",
+  "options": {
+    "a": "<p>2 minutes <br />  </p>",
+    "b": "<p>5 minutes <br />  </p>",
+    "c": "<p>10 minutes <br />  </p>",
+    "d": "<p>1 minutes</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

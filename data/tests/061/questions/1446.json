@@ -1,0 +1,14 @@
+{
+  "number": 1446,
+  "questionId": "061-1446",
+  "questionNumber": "061-1446",
+  "stemHtml": "<p>An aircraft is climbing with constant CAS. The pilot decides to continue the climb with constant Mach instead. Given the following data, calculate the current TAS and the Mach number:</p>\r\n\r\n<p>CAS: 280 kt (IAS corrected for instrument and position error)<br />\r\nPressure Altitude: 18 000 ft<br />\r\nOAT: -25&deg;C<br />\r\nCompressibility correction factor: 0.98</p>\r\n",
+  "options": {
+    "a": "<p>TAS: 360 kt; M: 0.59</p>",
+    "b": "<p>TAS: 403 kt; M: 0.64</p>",
+    "c": "<p>TAS: 367 kt; M: 0.63</p>",
+    "d": "<p>TAS: 360 kt; M: 0.54</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1000,
+  "questionId": "061-1000",
+  "questionNumber": "061-1000",
+  "stemHtml": "<p>Two routes of equal chart length are plotted on a Mercator chart. Route 1 is plotted at latitude of 25<strong>\u00b0</strong>N and route 2 at 65\u00b0N. The difference in longitude is the same for both routes and equal to 30\u00b0. Which statement is correct?</p>",
+  "options": {
+    "a": "<p>Route 1 is longer than route 2 by 871 NM.</p>",
+    "b": "<p>Route 1 is longer than route 2 by 760 NM.</p>",
+    "c": "<p>Route 2 is longer than route 1 by 871 NM.</p>",
+    "d": "<p>Route 1 has the same length as route 2.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

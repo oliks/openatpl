@@ -1,0 +1,14 @@
+{
+  "number": 22,
+  "questionId": "062-0022",
+  "questionNumber": "062-0022",
+  "stemHtml": "<p>Which of the following options correctly lists the possible actions taken by the VOR ground monitoring station when an error is detected? </p><p>1. Radiation will cease <br>2. The ident will be removed <br>3. The VOR will broadcast 5 dots in place of the ident to indicate failure <br>4. The navigation signal will be removed <br>5. The faulty radial will be isolated, with the remainder still usable</p>",
+  "options": {
+    "a": "<p>1, 3 and 4</p>",
+    "b": "<p>1, 4 and 5</p>",
+    "c": "<p>2, 3 and 4</p>",
+    "d": "<p>1, 2 and 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

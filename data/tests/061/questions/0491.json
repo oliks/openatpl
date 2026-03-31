@@ -1,0 +1,14 @@
+{
+  "number": 491,
+  "questionId": "061-0491",
+  "questionNumber": "061-0491",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance from point A to B: 420 NM</span> <br /> \nGround speed: 140 knots <br /> \nTAS: 120 knots</p>\n\n<p>Calculate the flight time from position A to B.</p>",
+  "options": {
+    "a": "2 h 40 minutes",
+    "b": "3 h",
+    "c": "1 h 37 minutes",
+    "d": "3 h 30 minutes"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

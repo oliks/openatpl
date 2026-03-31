@@ -1,0 +1,14 @@
+{
+  "number": 733,
+  "questionId": "061-0733",
+  "questionNumber": "061-0733",
+  "stemHtml": "<p>Using a flight computer, calculate the CAS based on the following data.</p><p>TAS: 151 kt <br>Altitude: 7000 ft <br>OAT: -15\u00b0C</p>",
+  "options": {
+    "a": "<p>163 kt</p>",
+    "b": "<p>140 kt</p>",
+    "c": "<p>133 kt</p>",
+    "d": "<p>172 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

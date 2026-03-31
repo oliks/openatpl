@@ -1,0 +1,14 @@
+{
+  "number": 17,
+  "questionId": "062-0017",
+  "questionNumber": "062-0017",
+  "stemHtml": "Which statement is correct with respect to the range of an NDB?",
+  "options": {
+    "a": "In order to double the range of an NDB, the transmission power should be increased with a factor 16.",
+    "b": "With propagation over sea the range will be greater than the range with propagation over land.",
+    "c": "During the night the range of an NDB will decrease due to the interference of the direct- and earth reflected wave.",
+    "d": "The range depends on the altitude of the aircraft."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

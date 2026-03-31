@@ -1,0 +1,14 @@
+{
+  "number": 1302,
+  "questionId": "062-1302",
+  "questionNumber": "062-1302",
+  "stemHtml": "<p>Given:</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>VOR station position:</td>\n\t\t\t<td style=\"text-align:left\">61\u00b0N 025\u00b0E (variation 13\u00b0E)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Aircraft position:</td>\n\t\t\t<td style=\"text-align:left\">59\u00b0N 025\u00b0E (variation 20\u00b0E)</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat VOR radial is the aircraft on?",
+  "options": {
+    "a": "167\u00b0",
+    "b": "160\u00b0",
+    "c": "347\u00b0",
+    "d": "193\u00b0"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

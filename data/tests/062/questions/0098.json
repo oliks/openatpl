@@ -1,0 +1,14 @@
+{
+  "number": 98,
+  "questionId": "062-0098",
+  "questionNumber": "062-0098",
+  "stemHtml": "A GNSS approach may achieve lower minima by using correction signals from a nearby ground station within the limits of a small, defined geographical area (historically known as LAAS, Local Area Augmentation System). An example of such an approach is...",
+  "options": {
+    "a": "GLS approach (GBAS Landing System) to CAT I, II or III standard.",
+    "b": "ILS approach (Instrument Landing System) to CAT I, II or III standard.",
+    "c": "APV (Approach Procedure with Vertical guidance) to CATI, II or III standard.",
+    "d": "LNAV/VNAV approach procedure to CAT I, II or III standard."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

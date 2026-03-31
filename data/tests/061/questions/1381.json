@@ -1,0 +1,14 @@
+{
+  "number": 1381,
+  "questionId": "061-1381",
+  "questionNumber": "061-1381",
+  "stemHtml": "<p>Calculate the ETA at the destination, given:</p>\r\n\r\n<p>An aircraft departing from the western hemisphere, flying along the equator to the eastern hemisphere, crossing the date line on a westerly heading. The difference between the location and the destination is 15\u00b0 of longitude. Date and time of departure is 12:00 LMT on the 14th of August. Aircraft travels at an average ground speed of 300 kt.</p>",
+  "options": {
+    "a": "<p>10:00 LMT, 15th of August</p>",
+    "b": "<p>10:00 LMT, 14th of August</p>",
+    "c": "<p>14:00 LMT, 14th of August</p>",
+    "d": "<p>14:00 LMT, 15th of August</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

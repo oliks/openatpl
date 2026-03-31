@@ -1,0 +1,14 @@
+{
+  "number": 1359,
+  "questionId": "061-1359",
+  "questionNumber": "061-1359",
+  "stemHtml": "<p>Determine the wind direction (\u00b0M) and velocity, given:</p><p>OAT: +10\u00b0C <br>Time overhead VOR 1: 12:10 UTC <br>Time overhead VOR 2: 12:18 UTC <br>Distance VOR 1 - VOR 2: 25 NM <br>Track VOR 1 - VOR 2: 355\u00b0(M) <br>Heading: 005\u00b0(M) <br>CAS: 140 kt <br>Altitude: FL55</p>",
+  "options": {
+    "a": "135\u00b0M and 41 kt",
+    "b": "139\u00b0M and 49 kt",
+    "c": "139\u00b0M and 45 kt",
+    "d": "142\u00b0M and 43 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

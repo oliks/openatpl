@@ -1,0 +1,14 @@
+{
+  "number": 112,
+  "questionId": "062-0112",
+  "questionNumber": "062-0112",
+  "stemHtml": "Aircraft 1 is flying using a PBN navigation specification. Aircraft 2 is flying based on conventional navigation aids. One of the main differences between the aeroplanes is that aircraft 1...",
+  "options": {
+    "a": "is using computed data instead of raw data.",
+    "b": "is using raw data instead of computed data.",
+    "c": "is always using GPS.",
+    "d": "is reliant on the presence of VORs and NDBs."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

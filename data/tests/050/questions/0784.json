@@ -1,0 +1,14 @@
+{
+  "number": 784,
+  "questionId": "050-0784",
+  "questionNumber": "050-0784",
+  "stemHtml": "<p dir=\"ltr\">There is heavy drizzle at the destination airport. How do you expect the visibility in the short final to be?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">If there is fog, visibility could be as low as 500 m, but with NO fog the visibility could be at least 3 000 m.</p>",
+    "b": "<p dir=\"ltr\">Visibility could be up to 2 000 m, but will be reduced when the sun is low on the horizon.</p>",
+    "c": "The visibility should be at least 2 000 m.",
+    "d": "The visibility could be as low as 500 m."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

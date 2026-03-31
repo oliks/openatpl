@@ -1,0 +1,14 @@
+{
+  "number": 1591,
+  "questionId": "050-1591",
+  "questionNumber": "050-1591",
+  "stemHtml": "<p>On a flight at FL50, using the following data from a nearby airport at an elevation of 1600 ft, determine the approximate minimum terrain separation:</p><p>QNH: 979 hPa <br /> Temperature at the airport: -10\u00baC <br /> Highest terrain: 2 320 ft <br /> Assume 30 ft per 1 hPa</p>",
+  "options": {
+    "a": "<p>1 220 ft</p>",
+    "b": "<p>1 470 ft</p>",
+    "c": "<p>1 360 ft</p>",
+    "d": "2 190 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

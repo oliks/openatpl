@@ -1,0 +1,14 @@
+{
+  "number": 797,
+  "questionId": "062-0797",
+  "questionNumber": "062-0797",
+  "stemHtml": "An aircraft is equipped with a DME receiver that can provide a read-out of ground speed. It is climbing on a heading of 270\u00b0(T), and is crossing the 330 radial from a VOR/DME station. The ground speed calculated by the DME computer is...",
+  "options": {
+    "a": "<p>Inaccurate because the aircraft is moving away from the station and the slant range error becomes more significant with distance.</p>",
+    "b": "<p>Exactly correct because the aircraft slant range is increasing at the ground speed due to the climb.</p>",
+    "c": "<p>Greater than the actual ground speed because the change in slant range is greater than the change in ground distance.</p>",
+    "d": "<p>Less than the actual ground speed because the change in slant range is smaller than the change in ground distance.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

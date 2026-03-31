@@ -1,0 +1,14 @@
+{
+  "number": 1153,
+  "questionId": "062-1153",
+  "questionNumber": "062-1153",
+  "stemHtml": "<p>Why may an aircraft that is approved for a RNP or RNAV specification with a stringent accuracy requirement, NOT automatically be approved for another navigation specification that has a less stringent accuracy requirement?</p>",
+  "options": {
+    "a": "<p>Because the aircraft might NOT meet all the functional requirements.</p>",
+    "b": "<p>Because monitoring and indication systems may not be suitable for that type of specification.</p>",
+    "c": "<p>Because operation is only permitted for one type of specification.</p>",
+    "d": "<p>Because there is only a limited number of aircraft permitted for certain navigation specification at a time.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

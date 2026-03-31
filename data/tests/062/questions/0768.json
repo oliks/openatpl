@@ -1,0 +1,14 @@
+{
+  "number": 768,
+  "questionId": "062-0768",
+  "questionNumber": "062-0768",
+  "stemHtml": "<p>Given the following information, where does the HSI course deviation bar appear?</p>\n\n<p>Heading: 160\u00b0  <br />  \nVOR radial: 240\u00b0  <br />  \nSelected course: 250\u00b0</p>",
+  "options": {
+    "a": "<div>Behind the aeroplane symbol with the FROM flag showing.</div>",
+    "b": "<div>Ahead of the aeroplane symbol with the FROM flag showing.</div>",
+    "c": "<div>Behind the aeroplane symbol with the TO flag showing.</div>",
+    "d": "Ahead of the aeroplane symbol with the TO flag showing."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

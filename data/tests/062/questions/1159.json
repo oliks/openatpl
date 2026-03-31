@@ -1,0 +1,14 @@
+{
+  "number": 1159,
+  "questionId": "062-1159",
+  "questionNumber": "062-1159",
+  "stemHtml": "What aircraft system will reply to SSR interrogations?",
+  "options": {
+    "a": "Automatic Dependant Surveillance Broadcast (ADS-B)",
+    "b": "Flight Management Computer (FMC)",
+    "c": "Air Data Computer (ADC)",
+    "d": "Mode S transponder"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

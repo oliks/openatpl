@@ -1,0 +1,14 @@
+{
+  "number": 93,
+  "questionId": "062-0093",
+  "questionNumber": "062-0093",
+  "stemHtml": "<p>Which of the following statements is true?</p>",
+  "options": {
+    "a": "<p>A DVOR is a second-generation system which rotates the signal around an array of fixed antennas to electronically generate directional information.</p>",
+    "b": "<p>A BVOR can be a CVOR or DVOR and only broadcasts information by voice rather than Morse code.</p>",
+    "c": "<p>A TVOR is used for aircraft tests on the ground.</p>",
+    "d": "<p>A VOT is a VOR but only carries spoken information and is used for ATIS.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

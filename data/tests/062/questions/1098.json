@@ -1,0 +1,14 @@
+{
+  "number": 1098,
+  "questionId": "062-1098",
+  "questionNumber": "062-1098",
+  "stemHtml": "<p>What is one of the primary tasks of the space segment of NAVSTAR/GPS?</p>",
+  "options": {
+    "a": "<p>Transmitting signals to suitable receivers and monitoring the orbital planes autonomously.</p>",
+    "b": "<p>Monitoring the satellites' orbits and status.</p>",
+    "c": "<p>Transmitting signals which can be used, by suitable receivers, to determine time, position and velocity.</p>",
+    "d": "<p>Computing the user position from the receiver user messages and transmitting the computed position back to the user segment.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

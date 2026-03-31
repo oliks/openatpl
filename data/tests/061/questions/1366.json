@@ -1,0 +1,19 @@
+{
+  "number": 1366,
+  "questionId": "061-1366",
+  "questionNumber": "061-1366",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is flying VFR from Waypoint Echo to Waypoint Hotel. The Pilot discovers that the aircraft is flying above the windmill instead of the Hotel waypoint. What is the most likely cause?</p>",
+  "options": {
+    "a": "<p>Increase in northerly wind.</p>",
+    "b": "<p>Increase in southerly wind.</p>",
+    "c": "<p>the pilot accelerating to a higher speed under calm wind conditions.</p>",
+    "d": "<p>the pilot flying with reduced speed under calm wind conditions.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0097",
+      "publicUrl": "/attachments/061/061-att-0097.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1318,
+  "questionId": "050-1318",
+  "questionNumber": "050-1318",
+  "stemHtml": "<p>If a flight crew believes they are flying through an area with a high concentration of ice crystals, what is the most effective way to use airborne weather radar to avoid the hazardous conditions?</p>",
+  "options": {
+    "a": "<p>Change the radar return to above the aircraft to identify the ice crystal precipitation and fly downwind of it.</p>",
+    "b": "<p>Analyse the radar returns at the aircraft level to identify the ice crystal intensity ahead and fly around it.</p>",
+    "c": "<p>Identify the ice crystal zone by looking for the greatest ice crystal radar return and fly beneath it.</p>",
+    "d": "<p>Using the radar tilt, identify the main convection core and fly upwind of it.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

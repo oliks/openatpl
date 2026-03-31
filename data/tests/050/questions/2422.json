@@ -1,0 +1,19 @@
+{
+  "number": 2422,
+  "questionId": "050-2422",
+  "questionNumber": "050-2422",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>You plan a 5 hour flight on 12th March 2017 from Hahn (H) (50\u00b0N 007\u00b0E) to Brest (B) (49\u00b0N 004\u00b0W), taking off at 17:00 UTC. The planned cruise altitude must be higher than 3300 feet altitude. At what altitude must the aircraft fly to avoid moderate to severe icing?</p>",
+  "options": {
+    "a": "<p>3500 ft</p>",
+    "b": "<p>5500 ft</p>",
+    "c": "<p>4500 ft</p>",
+    "d": "<p>You can't avoid icing on this route</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0116",
+      "publicUrl": "/attachments/050/050-att-0116.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 155,
+  "questionId": "061-0155",
+  "questionNumber": "061-0155",
+  "stemHtml": "<p>Refer to figure. <br /> After the TOC, the aircraft track remains 047\u00b0 but the heading changes from 058\u00b0 to 055\u00b0. What could be the reason for this requction of 3\u00b0 to the heading to maintain the same track?</p>",
+  "options": {
+    "a": "<p>Wind from the left decreased.</p>",
+    "b": "<p>Wind from the right increased.</p>",
+    "c": "<p>Magnetic variation changed.</p>",
+    "d": "<p>TAS increased.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0041",
+      "publicUrl": "/attachments/061/061-att-0041.png"
+    }
+  ]
+}

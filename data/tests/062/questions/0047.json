@@ -1,0 +1,14 @@
+{
+  "number": 47,
+  "questionId": "062-0047",
+  "questionNumber": "062-0047",
+  "stemHtml": "The pilot is plotting the aircraft position using a VOR and a DME. The DME is 500 meters away from the VOR. The position fix formed will be a straight VOR position line crossing a DME position line, which itself is a:",
+  "options": {
+    "a": "Parabolic arc centered on the DME.",
+    "b": "Parabolic arc centered on the VOR.",
+    "c": "Circle centered on the DME.",
+    "d": "Circle centered on the VOR."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

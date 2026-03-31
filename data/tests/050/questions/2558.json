@@ -1,0 +1,14 @@
+{
+  "number": 2558,
+  "questionId": "050-2558",
+  "questionNumber": "050-2558",
+  "stemHtml": "<p>How may the grid forecast data be defined?</p>",
+  "options": {
+    "a": "<p>Latitude/longitude and vertical data (height or pressure).</p>",
+    "b": "<p>Latitude/longitude and time reference data.</p>",
+    "c": "<p>Latitude and longitude data.</p>",
+    "d": "<p>Pressure altitude data.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

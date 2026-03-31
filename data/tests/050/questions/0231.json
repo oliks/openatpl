@@ -1,0 +1,14 @@
+{
+  "number": 231,
+  "questionId": "050-0231",
+  "questionNumber": "050-0231",
+  "stemHtml": "<p>What is the meaning of the following weather message?</p>\n\n<p>CNL WS WRNG 1 211130/211330=</p>",
+  "options": {
+    "a": "This message cancels all weather warnings issued on the 21st of January between 11:30 and 13:30 UTC.",
+    "b": "The first wind shear warning on the 21st of that month with an occasional intensity has a forecast validity from 11:30 until 13:30 UTC.",
+    "c": "The weather warning with the number 121 concerning a cyclone at low levels has a validity time from 11:30 until 13:30 UTC.",
+    "d": "The first wind shear warning on the 21st of that month, issued at 11:30 UTC has been cancelled on the same day at 13:30 UTC."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

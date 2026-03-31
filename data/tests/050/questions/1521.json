@@ -1,0 +1,14 @@
+{
+  "number": 1521,
+  "questionId": "050-1521",
+  "questionNumber": "050-1521",
+  "stemHtml": "What is a trend forecast?",
+  "options": {
+    "a": "An aerodrome forecast valid for 9 hours",
+    "b": "A routine report",
+    "c": "A landing forecast appended to METAR/SPECI, valid for 2 hours",
+    "d": "A route forecast valid for 24 hours"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

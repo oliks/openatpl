@@ -1,0 +1,14 @@
+{
+  "number": 872,
+  "questionId": "062-0872",
+  "questionNumber": "062-0872",
+  "stemHtml": "The influence of the ionosphere on the accuracy of NAVSTAR/GPS is..",
+  "options": {
+    "a": "minimised by computing the average of all signals.",
+    "b": "negligible.",
+    "c": "only significant if the satellites are located at a small elevation angle above the horizon.",
+    "d": "reduced in Standard Positioning Service (SPS) receivers by using a model of the ionosphere transmitted by the satellites."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

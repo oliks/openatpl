@@ -1,0 +1,14 @@
+{
+  "number": 188,
+  "questionId": "061-0188",
+  "questionNumber": "061-0188",
+  "stemHtml": "<p>Determine the Wind Velocity (\u00baT), assuming ISA conditions. Given:</p><p>Cruising level: FL410 <br>Magnetic heading: 130\u00b0 <br>Calibrated airspeed: 237 kt <br>Magnetic track: 122\u00b0 <br>Wind component: +25 kt <br>Variation: 40\u00b0W<br>Compressibility factor: 0.95</p>",
+  "options": {
+    "a": "154\u00ba/70 kt",
+    "b": "237\u00ba/70 kt",
+    "c": "197\u00ba/70 kt",
+    "d": "277\u00ba/70 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

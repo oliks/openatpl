@@ -1,0 +1,19 @@
+{
+  "number": 1630,
+  "questionId": "050-1630",
+  "questionNumber": "050-1630",
+  "stemHtml": "<p>Refer to figure. <br /> \rGiven the significant weather chart attached, what hazards can be expected above Perth (32\u00b0S 116\u00b0E)?</p>",
+  "options": {
+    "a": "<p>No significant flight hazards, only a jet stream will be visible over Perth.</p>",
+    "b": "<p>Moderate turbulence above FL310 due to the jet stream.</p>",
+    "c": "<p>Severe turbulence at FL310 in the core of the jet stream.</p>",
+    "d": "<p>Moderate turbulence at FL350, above the height of the jet stream.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0194",
+      "publicUrl": "/attachments/050/050-att-0194.gif"
+    }
+  ]
+}

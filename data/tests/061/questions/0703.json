@@ -1,0 +1,19 @@
+{
+  "number": 703,
+  "questionId": "061-0703",
+  "questionNumber": "061-0703",
+  "stemHtml": "<p>Refer to E(LO)2 chart from the Jeppesen GSPRM 2017. An aircraft is flying overhead RNAV point SHAPP (N54\u00b0 30'00'', W002\u00b0 37'38'') and has a relative bearing of 282\u00b0 to CARLISLE NDB (328 CL, N54\u00b0 56'25'', W002\u00b0 48'20''). What is the magnetic heading of the aircraft, if the magnetic variation is 2\u00b0 W at CL NDB?</p>",
+  "options": {
+    "a": "067\u00b0 (M)",
+    "b": "261\u00b0 (M)",
+    "c": "271\u00b0 (M)",
+    "d": "057\u00b0 (M)"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0183",
+      "publicUrl": "/attachments/061/061-att-0183.jpg"
+    }
+  ]
+}

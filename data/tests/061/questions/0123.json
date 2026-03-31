@@ -1,0 +1,19 @@
+{
+  "number": 123,
+  "questionId": "061-0123",
+  "questionNumber": "061-0123",
+  "stemHtml": "<p>Refer to figure. <br /> Determine the Ground Speed (GS) of an aircraft traveling from WINDFARM to WIMEREUX, given that it arrives at WIMEREUX at 14:42.</p>",
+  "options": {
+    "a": "136 kt",
+    "b": "125 kt",
+    "c": "127 kt",
+    "d": "104 kt"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0058",
+      "publicUrl": "/attachments/061/061-att-0058.png"
+    }
+  ]
+}

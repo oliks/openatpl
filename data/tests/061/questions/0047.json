@@ -1,0 +1,14 @@
+{
+  "number": 47,
+  "questionId": "061-0047",
+  "questionNumber": "061-0047",
+  "stemHtml": "<p>Calculate the TAS and the Local Speed of Sound LSS given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">FL350</span>  <br />  \nMach 0.80  <br />  \nOAT -55\u00b0C</p>",
+  "options": {
+    "a": "TAS 461 kt and LSS 576 kt",
+    "b": "TAS 461 kt and LSS 296 kt",
+    "c": "TAS 237 kt and LSS 296 kt",
+    "d": "TAS 490 kt and LSS 461 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

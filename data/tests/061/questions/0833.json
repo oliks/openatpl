@@ -1,0 +1,14 @@
+{
+  "number": 833,
+  "questionId": "061-0833",
+  "questionNumber": "061-0833",
+  "stemHtml": "<p>An aircraft is at position 53\u00b0N, 006\u00b0W and has a landmark at position 52\u00b047\u2019N, 004\u00b045\u2019W, with a relative bearing of 060\u00b0. Given:</p><p>Compass Heading = 051\u00b0 <br /> Variation = 16\u00b0W <br /> Deviation = 2\u00b0E</p><p>What is the true bearing of the position line to be plotted from the landmark to the aircraft on a Lambert chart with standard parallels at 37\u00b0N and 65\u00b0N?</p>",
+  "options": {
+    "a": "276\u00b0",
+    "b": "277\u00b0",
+    "c": "250\u00b0",
+    "d": "278\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

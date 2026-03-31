@@ -1,0 +1,14 @@
+{
+  "number": 146,
+  "questionId": "062-0146",
+  "questionNumber": "062-0146",
+  "stemHtml": "In relation to the NAVSTAR/GPS satellite navigation system, what is involved in the differential technique (D-GPS)?",
+  "options": {
+    "a": "Signals from satellites are received by 2 different antennas which are located a fixed distance apart. This enables a suitable receiver on the aircraft to recognise and correct for multipath errors.",
+    "b": "Fixed ground stations compute position errors and transmit correction data to a suitable receiver on the aircraft.",
+    "c": "The difference between signals transmitted on the L1 and L2 frequencies are processed by the receiver to determine an error correction.",
+    "d": "Receivers from various manufacturers are operated in parallel to reduce the characteristic receiver noise error."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

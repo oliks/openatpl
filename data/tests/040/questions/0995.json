@@ -1,0 +1,14 @@
+{
+  "number": 995,
+  "questionId": "040-0995",
+  "questionNumber": "040-0995",
+  "stemHtml": "<p>On a particular flight, the captain will be pilot flying and the copilot will be pilot monitoring. Before departure, both pilots have their radios tuned to the ground frequency. When they receive their taxi instructions, neither pilot hears the clearance. Who has committed an error?</p>",
+  "options": {
+    "a": "<p>Both pilots. While the pilot monitoring was in charge of active communication, also the pilot flying had to listen for instructions via radio.<strong> </strong><strong> </strong></p>",
+    "b": "The captain, because it was his responsibility as a commander to make sure his copilot monitored the frequency.",
+    "c": "<p>The ground controller, because he issued his clearance at a time where none of the pilots were actively listening.</p>",
+    "d": "The copilot, because he failed to closely monitor radio traffic, which was his obligation as the pilot monitoring."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

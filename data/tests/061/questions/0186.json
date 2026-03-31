@@ -1,0 +1,14 @@
+{
+  "number": 186,
+  "questionId": "061-0186",
+  "questionNumber": "061-0186",
+  "stemHtml": "<p>Determine the aircraft's final position, given:</p>\r\n\r\n<p>An aircraft takes-off from position 55\u00b0S 090\u00b0W and flies south for 333 NM, then to the west for 33 NM, thereafter northwards for 3 860 NM and finally westwards for 33 NM.</p>",
+  "options": {
+    "a": "03\u00b047'N 091\u00b040'W",
+    "b": "14\u00b053'N 091\u00b040'W",
+    "c": "14\u00b053'N 091\u00b020'W",
+    "d": "03\u00b047'S 091\u00b020'W"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

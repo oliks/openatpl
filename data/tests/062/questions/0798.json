@@ -1,0 +1,14 @@
+{
+  "number": 798,
+  "questionId": "062-0798",
+  "questionNumber": "062-0798",
+  "stemHtml": "<p>Your aircraft is at 2000 ft and you are trying to communicate by radio with an airport at 280 ft when you are 55 NM away. Are you within radio range of the airport?</p>",
+  "options": {
+    "a": "<p>No</p>",
+    "b": "<p>Yes</p>",
+    "c": "<p>Yes if you use a lower frequency</p>",
+    "d": "<p>Yes if you use a higher frequency</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

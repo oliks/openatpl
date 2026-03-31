@@ -1,0 +1,14 @@
+{
+  "number": 1123,
+  "questionId": "062-1123",
+  "questionNumber": "062-1123",
+  "stemHtml": "<p>You are enroute to an airport when you receive a NOTAM stating that EGNOS would not be available at your estimated time of arrival. What should you do?</p>",
+  "options": {
+    "a": "<p>Check RAIM to ensure GNSS availability and continue to LNAV/VNAV minima.</p>",
+    "b": "<p>Use a conventional approach as you can not use GNSS.</p>",
+    "c": "<p>Check RAIM to ensure GNSS availability and continue to LPV minima.</p>",
+    "d": "<p>Check RAIM and continue to LPV minima if LNAV/VNAV is not available.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

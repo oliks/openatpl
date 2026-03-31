@@ -1,0 +1,14 @@
+{
+  "number": 770,
+  "questionId": "062-0770",
+  "questionNumber": "062-0770",
+  "stemHtml": "<p>An aeroplane is following a terminal procedure requiring the use of RNP 1. The following message appears on the Navigation Display (ND) accompanied by an aural signal:</p><p>\"NAV ACCUR DOWNGRAD\"</p><p>What is the significance of this message?</p>",
+  "options": {
+    "a": "Some GNSS signals have been lost and RAIM is no longer available.",
+    "b": "The aeroplane is outside the coverage of navigation aids.",
+    "c": "The navigation accuracy is less than required accuracy of +/- 1 NM.",
+    "d": "The FMS position is now based on the IRS position alone; EPE may be less than 1 NM."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

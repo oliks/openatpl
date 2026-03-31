@@ -1,0 +1,14 @@
+{
+  "number": 2588,
+  "questionId": "050-2588",
+  "questionNumber": "050-2588",
+  "stemHtml": "<p dir=\"ltr\">Why is the wind in the METAR different from the wind broadcasted by the ATIS?</p>",
+  "options": {
+    "a": "<p>In the ATIS, it is the average of the last 2 min. In the METAR, the surface wind is the average of the last 10 minutes.</p>",
+    "b": "<p>In the ATIS, it is the average of the last 10 min. In the METAR, the surface wind is the average of the last 2 minutes. </p>",
+    "c": "<p>In the ATIS, it is the average of the last 5 min. In the METAR, the surface wind is the average of the last 10 minutes. </p>",
+    "d": "Because the surface wind is measured at different locations and heights."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

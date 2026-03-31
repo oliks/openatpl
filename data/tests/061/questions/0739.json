@@ -1,0 +1,14 @@
+{
+  "number": 739,
+  "questionId": "061-0739",
+  "questionNumber": "061-0739",
+  "stemHtml": "<p>Given the following information, determine the difference in longitude between the position X and Y plotted on a Lambert chart...</p><p>Constant of the cone: 0.63 <br>Initial track on point X: 292\u00b0 (variation 28\u00b0W) <br>Initial track on point Y: 101\u00b0 (variation 18\u00b0W) <br>Mean latitude: 44\u00b041'N</p>",
+  "options": {
+    "a": "<p>10</p>",
+    "b": "<p>8</p>",
+    "c": "<p>4</p>",
+    "d": "<p>17</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2485,
+  "questionId": "050-2485",
+  "questionNumber": "050-2485",
+  "stemHtml": "Given: <br /> Pressure altitude: 2500 ft <br /> You are at a height of 2000 ft. Nearby aerodrome QFE is set. <br /> Temperature: ISA+18 <br /> What is your true height above the aerodrome?",
+  "options": {
+    "a": "2144",
+    "b": "1856",
+    "c": "2320",
+    "d": "2680"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

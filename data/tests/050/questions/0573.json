@@ -1,0 +1,14 @@
+{
+  "number": 573,
+  "questionId": "050-0573",
+  "questionNumber": "050-0573",
+  "stemHtml": "<p>What type of precipitation might occur at 17:30 UTC?</p>\n\n<p><span style=\"letter-spacing:0.7px\">MKJP 160430Z 1606/1706 36010KT 9999 FEW025 BECMG 1613/1615 14020G34KT FEW015CB SCT025 PROB30 TEMPO 1617/1620 2500 +SHRA SCT010 BKN012CB BECMG 1622/1624 34010KT FEW025=</span></p>",
+  "options": {
+    "a": "Heavy rain showers",
+    "b": "Continuous moderate rain",
+    "c": "Light drizzle",
+    "d": "Intermittent light rain"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

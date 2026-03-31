@@ -1,0 +1,14 @@
+{
+  "number": 646,
+  "questionId": "061-0646",
+  "questionNumber": "061-0646",
+  "stemHtml": "Given the following information, calculate the heading (T) and groundspeed:  <br />  TAS: 465 kt  <br />  Track: 007\u00b0T  <br />  Wind velocity: 300\u00b0T /80 kt",
+  "options": {
+    "a": "Heading: 357\u00b0T, groundspeed: 502 kt",
+    "b": "Heading: 001\u00b0T, groundspeed: 435 kt",
+    "c": "Heading: 017\u00b0T, groundspeed: 490 kt",
+    "d": "Heading: 358\u00b0T, groundspeed: 428 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

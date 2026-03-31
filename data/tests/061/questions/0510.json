@@ -1,0 +1,19 @@
+{
+  "number": 510,
+  "questionId": "061-0510",
+  "questionNumber": "061-0510",
+  "stemHtml": "<p>Refer to figure or E(LO)2 Chart from Jeppesen GSPRM 2107.\u00a0<br>Determine the initial track (M\u00b0) and the distance (NM) from ISLE OF MAN VOR/DME (IOM, 54\u00b004'N 004\u00b046'W) to DEAN CROSS DME (DCS, N54\u00b043' W003\u00b020').</p>",
+  "options": {
+    "a": "<p>050\u00b0M and 75 NM</p>",
+    "b": "<p>053\u00b0M and 63 NM</p>",
+    "c": "<p>050\u00b0M and 63 NM</p>",
+    "d": "<p>053\u00b0M and 75 NM</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0029",
+      "publicUrl": "/attachments/061/061-att-0029.png"
+    }
+  ]
+}

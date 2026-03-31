@@ -1,0 +1,14 @@
+{
+  "number": 2196,
+  "questionId": "050-2196",
+  "questionNumber": "050-2196",
+  "stemHtml": "<p>You are planning a flight which passes through LIMP (Parma). There are no reports of CB activity on the Significant Weather Charts (SIGWX) or SIGMETs, however you notice significant thunderstorm activity on a specialised weather website for an area close to your intended routing. How should you proceed?</p>",
+  "options": {
+    "a": "<p>Non-official weather information sources may be used in addition to official ones for your flight planning, for example when considering possible diversions or holdings.</p>",
+    "b": "<p>The SIGWX chart may be incorrect and you can always contact WAFC for further clarification or additional information. Only official weather information sources may be used for operational flight planning, non-official weather information sources should not be used.</p>",
+    "c": "<p>Only official sources may be relied upon for weather information. Additional information from non-official weather sources should be ignored.</p>",
+    "d": "<p>You can expect thunderstorms along your route and plan accordingly.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

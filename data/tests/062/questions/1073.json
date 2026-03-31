@@ -1,0 +1,14 @@
+{
+  "number": 1073,
+  "questionId": "062-1073",
+  "questionNumber": "062-1073",
+  "stemHtml": "<p>An aircraft is flying an RNP APCH supported by SBAS. In which of the following situations would the contingency procedure of discontinuing the approach apply?</p>\r\r<p>1. Communications failure <br /> \r2. Loss of integrity monitoring <br /> \r3. TCAS Traffic Advisory (TA) <br /> \r4. A significant difference between the GPS position and DME distance to go <br /> \r5. The receiver fails to engage the correct approach mode</p>",
+  "options": {
+    "a": "<p>1, 3 and 5</p>",
+    "b": "<p>2, 3 and 5</p>",
+    "c": "<p>1, 2 and 4</p>",
+    "d": "<p>2, 4 and 5</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

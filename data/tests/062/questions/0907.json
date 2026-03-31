@@ -1,0 +1,14 @@
+{
+  "number": 907,
+  "questionId": "062-0907",
+  "questionNumber": "062-0907",
+  "stemHtml": "<p>An aircraft is flying a magnetic heading of 120\u00ba and the RBI shows the NDB at a relative bearing of 270\u00ba. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>Turning into a magnetic heading of 030\u00ba, the magnetic bearing from the beacon will be 030\u00ba</p>",
+    "b": "<p>The magnetic bearing from the beacon is 030\u00ba</p>",
+    "c": "<p>The magnetic bearing to the beacon is 030\u00ba</p>",
+    "d": "<p>Turning on to a magnetic heading of 030\u00ba, the magnetic bearing to the beacon will be 210\u00ba</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

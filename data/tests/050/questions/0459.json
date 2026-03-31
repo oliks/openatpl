@@ -1,0 +1,14 @@
+{
+  "number": 459,
+  "questionId": "050-0459",
+  "questionNumber": "050-0459",
+  "stemHtml": "During a flight over the sea at FL 100 from Marseille (QNH 1012 hPa) to Palma de Mallorca (QNH 1012 hPa), the true altitude is constantly increasing. What action, if any, should be taken?",
+  "options": {
+    "a": "Compensate by heading further to the left",
+    "b": "None, the reason for the change is that the air over Palma is warmer than the air over Marseille",
+    "c": "Have your altimeter checked, because its readings are obviously wrong",
+    "d": "Recheck the QNH because one of the QNH values must be wrong"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

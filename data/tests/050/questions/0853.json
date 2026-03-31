@@ -1,0 +1,14 @@
+{
+  "number": 853,
+  "questionId": "050-0853",
+  "questionNumber": "050-0853",
+  "stemHtml": "<p>A flight with a jet aeroplane from Munich to London is planned with a departure time of 2250 local time. Which type of satellite imagery available with observation time close to ETD is best to locate the clouds and the exact position of a cold front forecast for this night over Western Europe?</p>",
+  "options": {
+    "a": "<p>Visual (VIS), geo-stationary</p>",
+    "b": "<p>Visual (VIS), polar orbiting</p>",
+    "c": "<p>Water vapour (WV), geo-stationary or polar orbiting</p>",
+    "d": "<p>Infrared (IR), polar orbiting</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

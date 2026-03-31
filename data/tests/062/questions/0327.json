@@ -1,0 +1,14 @@
+{
+  "number": 327,
+  "questionId": "062-0327",
+  "questionNumber": "062-0327",
+  "stemHtml": "<p>An aircraft is flying over water towards a VOR/DME station. When the pilots are approaching the station, the warning flag on their CDI pops up. What is the reason for that?</p>",
+  "options": {
+    "a": "<p>The receiver in your aircraft senses that the values are wrong, that is why it shows an error flag.</p>",
+    "b": "<p>The ground station measures that the indications exceed certain limits and shuts them down.</p>",
+    "c": "<p>Skywaves and ground waves interfere and cancel themselves.</p>",
+    "d": "The wrong VOR frequency has been tuned in."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

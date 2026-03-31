@@ -1,0 +1,14 @@
+{
+  "number": 887,
+  "questionId": "062-0887",
+  "questionNumber": "062-0887",
+  "stemHtml": "<p>The navigation message of a GPS satellite contains the parameters of the model of the ionosphere. This enables\u2026</p>",
+  "options": {
+    "a": "the use of the satellites with the least tropospheric delay.",
+    "b": "the authorised users to work on the L1 and L2 frequencies.",
+    "c": "the receiver to choose the satellites with the best geometric dilution of precision.",
+    "d": "the receiver to calculate the delay of GPS signals passing through the ionosphere."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

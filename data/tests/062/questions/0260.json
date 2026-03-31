@@ -1,0 +1,14 @@
+{
+  "number": 260,
+  "questionId": "062-0260",
+  "questionNumber": "062-0260",
+  "stemHtml": "<p>One of the advantages of the Secondary Surveillance Radar (SSR) systems over the Primary Surveillance Radar (PSR) systems is that SSR can provide more information. How does this happen?</p>",
+  "options": {
+    "a": "<p>ATC SSR systems can interrogate aircraft transponders and elicit replies.</p>",
+    "b": "<p>ATC SSR systems have moving target indicator capability, which eliminates clutter so more aircraft can be tracked.</p>",
+    "c": "<p>ATC SSR systems permanently interrogate aircraft within range, so the tracking is not interrupted.</p>",
+    "d": "<p>ATC SSR systems can reply to an aircraft interrogation and provide requested information.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

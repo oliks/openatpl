@@ -1,0 +1,14 @@
+{
+  "number": 964,
+  "questionId": "050-0964",
+  "questionNumber": "050-0964",
+  "stemHtml": "For a high level commercial air transport flight across the North Atlantic, the weather forecast indicated cloud and occasional moderate turbulence below the planned cruising level. However, some time into the flight the aircraft received a SIGMET broadcast indicating that a small area of moderate to severe clear air turbulence exists in a location close to the planned route. This information about the previously unexpected turbulence provides the flight crew with valuable advance warning, allowing them to make an early change to their track. What is the most likely basis of this SIGMET?",
+  "options": {
+    "a": "The turbulence reported in the SIGMET, issued by the Meteorological Watch Office, is most likely to have been based on pilot reports.",
+    "b": "The significant area of turbulence was very likely to have been detected by a weather satellite.",
+    "c": "An area of significant clear air turbulence was detected by long range ground-based radar and when this information was relayed to the appropriate Meteorological Watch Office a SIGMET was issued in response.",
+    "d": "The Meteorological Watch Office revised their computer modelling, which indicated a small area of significant turbulence that had not been evident before."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

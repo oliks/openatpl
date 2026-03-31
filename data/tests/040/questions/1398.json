@@ -1,0 +1,14 @@
+{
+  "number": 1398,
+  "questionId": "040-1398",
+  "questionNumber": "040-1398",
+  "stemHtml": "The crew of a business jet have completed the pre-flight checks and are ready to start the engines. The passenger arrives late and the crew complete the start and taxi checks. In order to keep to the original time for take-off the PIC requests an immediate take-off clearance which is granted. To save time, the PIC completes the pre-take-off checks from memory while taxiing and does not use the checklist. After take-off, the crew realise that the pitot heat, an item on the checklist, had been forgotten. <br /> From the following statements, select the one describe the type of error which is being described in this scenario:",
+  "options": {
+    "a": "By failing to follow the normal checklist procedure, the PIC made a mistake and also an error of judgement. This resulted in an execution slip when the pitot heat check was omitted.",
+    "b": "The PIC's decision to complete the pre-take-off checks from memory was a violation. As a result, a lapse occured in the execution, which was failing to check the pitot heat setting.",
+    "c": "The PIC made a rule-based error by NOT following the normal checklist procedure. In addition, he/she made a knowledge-based mistake by failing to check the pitot heat setting.",
+    "d": "Failing to follow the challenge and reply checklist procedure was a rule based error. The consequent failure to check the pitot heat setting was a lapse in execution."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

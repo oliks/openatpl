@@ -1,0 +1,14 @@
+{
+  "number": 736,
+  "questionId": "062-0736",
+  "questionNumber": "062-0736",
+  "stemHtml": "<p>Refer to figure.<br>Consider two pulses that form part of a pulse string. Different parts of the pulse string are highlighted in red. The highlighted part of Pulse string 1 represents (1) _____, the red highlighted part of Pulse string 2 represents (2) _____, and the red highlighted line of Pulse string 3 represents (3) _____.</p>",
+  "options": {
+    "a": "<p>(1) the Pulse Recurrence Frequency (PRF); (2) the pulse length; (3) the Pulse Recurrence Interval (PRI)</p>",
+    "b": "<p>(1) the pulse length; (2) the pulse power; (3) continuous power</p>",
+    "c": "<p>(1) the pulse length; (2) the Pulse Recurrence Frequency (PRF); (3) the pulse power</p>",
+    "d": "<p>(1) the Pulse Recurrence Interval (PRI); (2) continuous power; (3) the pulse length</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

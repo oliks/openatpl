@@ -1,0 +1,14 @@
+{
+  "number": 37,
+  "questionId": "061-0037",
+  "questionNumber": "061-0037",
+  "stemHtml": "<p>For climb problems, the wind direction and velocity used is:</p>",
+  "options": {
+    "a": "<p>The wind direction and velocity at the altitude 1/2 of the cruising altitude.</p>",
+    "b": "<p>At the altitude one third of the cruising altitude.</p>",
+    "c": "<p>The average wind direction and velocity from MSL up to the TOC.</p>",
+    "d": "<p>At the altitude two thirds of the cruising altitude.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

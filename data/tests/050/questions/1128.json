@@ -1,0 +1,19 @@
+{
+  "number": 1128,
+  "questionId": "050-1128",
+  "questionNumber": "050-1128",
+  "stemHtml": "<p>Refer to figure. <br /> \rAccording to the chart, which weather conditions can be expected for your flight to the Netherlands?</p>",
+  "options": {
+    "a": "<p>No significant weather is expected in most parts of Holland.</p>",
+    "b": "<p>Thunderstorms are expected over the entire Netherlands.</p>",
+    "c": "<p>Strong winds and turbulence are expected due to a low-pressure system.</p>",
+    "d": "<p>Heavy snowfall will impact visibility across Holland.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0063",
+      "publicUrl": "/attachments/050/050-att-0063.png"
+    }
+  ]
+}

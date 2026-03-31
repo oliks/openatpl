@@ -1,0 +1,14 @@
+{
+  "number": 135,
+  "questionId": "062-0135",
+  "questionNumber": "062-0135",
+  "stemHtml": "<p>The satellite navigation system NAVSTAR GPS uses two navigation frequencies, L1 and L2. <br /> Choose the correct statement:</p><p><em>SPS: standard positioning service <br /> PPS: precise positioning service</em></p>",
+  "options": {
+    "a": "The L1 frequency is used for PPS and the L2 frequency is used for SPS.",
+    "b": "Only the L1 frequency is used for PPS.",
+    "c": "Only the L2 frequency is used for PPS.",
+    "d": "Both L1 and L2 frequencies are used for PPS."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 839,
+  "questionId": "062-0839",
+  "questionNumber": "062-0839",
+  "stemHtml": "Which statement from the choice below characterises a Satellite Based Augmentation System (SBAS)?",
+  "options": {
+    "a": "SBAS is an augmentation device for Ground Based Augmentation Systems.",
+    "b": "The SBAS monitor stations send corrected positions to the users within the range of the station.",
+    "c": "SBAS is able to provide approach and landing operations with vertical guidance.",
+    "d": "The ground reference station transmits corrections directly to the user by VHF/UHF data-link."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

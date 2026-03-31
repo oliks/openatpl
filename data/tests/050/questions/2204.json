@@ -1,0 +1,19 @@
+{
+  "number": 2204,
+  "questionId": "050-2204",
+  "questionNumber": "050-2204",
+  "stemHtml": "Refer to figure.    <br />    Which of the following runway state messages, added to a METAR, could be decoded as follows? All runways have deposits of dry snow, to an extent of 11% to 25% of the runway covered, to a depth of 50 mm, with a braking coefficient of 0.35.",
+  "options": {
+    "a": "<p>88425093</p>",
+    "b": "88425035",
+    "c": "99204536",
+    "d": "77240564"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0122",
+      "publicUrl": "/attachments/050/050-att-0122.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 401,
+  "questionId": "062-0401",
+  "questionNumber": "062-0401",
+  "stemHtml": "<p>What is the primary function of the SBAS (Satellite-Based Augmentation System)?</p>",
+  "options": {
+    "a": "<p>It provides corrections for individual satellites.</p>",
+    "b": "<p>It monitors and corrects all satellite navigation systems.</p>",
+    "c": "<p>It only improves the accuracy of ground-based navigation aids.</p>",
+    "d": "<p>It provides corrections only for a specific satellite constellation (like GPS or Galileo).</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

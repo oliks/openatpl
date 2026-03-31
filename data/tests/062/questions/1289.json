@@ -1,0 +1,14 @@
+{
+  "number": 1289,
+  "questionId": "062-1289",
+  "questionNumber": "062-1289",
+  "stemHtml": "<p>You are in receipt of an ATC clearance and flying a procedure designated as RNP 1. Select the true statement from the following options.</p>",
+  "options": {
+    "a": "<p>You are allowed to insert latitude and longitude waypoints into the flight plan manually</p>",
+    "b": "<p>You are not allowed to add waypoints defined by bearing, distance, and place unless part of the published procedure</p>",
+    "c": "<p>You may freely modify waypoints as long as RNP criteria are maintained</p>",
+    "d": "<p>You must manually reprogram all RNP waypoints using the current aircraft position references</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

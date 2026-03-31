@@ -1,0 +1,14 @@
+{
+  "number": 451,
+  "questionId": "062-0451",
+  "questionNumber": "062-0451",
+  "stemHtml": "<p>What is the reason a DME-interrogator makes use of an irregular transmission sequence?</p>",
+  "options": {
+    "a": "<p>In this way the DME-transponder is able to determine from which aircraft each sequence of pulse pairs is received.</p>",
+    "b": "<p>In this way the DME-interrogator is able to distinguish between his own reply pulse pairs and the reply pulse pairs of other aircraft.</p>",
+    "c": "<p>In this way the DME-interrogator is able to estimate the size of the error in the range measurement.</p>",
+    "d": "<p>In this way the DME-transponder is able to apply the correct delay time to each sequence of pulse pairs received.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

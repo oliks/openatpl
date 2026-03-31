@@ -1,0 +1,14 @@
+{
+  "number": 1117,
+  "questionId": "062-1117",
+  "questionNumber": "062-1117",
+  "stemHtml": "<p>A Direct (Sector 3) entry procedure to a holding pattern is described in ICAO Doc 8168 as follows: 'Sector 3 procedure (direct entry): Having reached the fix, the aircraft is turned right to follow the holding pattern.' If a holding pattern uses an NDB as the fix, the aircraft will need to fly directly towards, and then overfly, the NDB before commencing a turn. Regardless of the type of ADF, what indications will the pilot have for when to commence this turn?</p>",
+  "options": {
+    "a": "<p>The NDB distance indicator will indicate a distance of 0 NM, depending on the altitude when passing overhead.</p>",
+    "b": "<p>The head of the needle will point approximately straight down when flying TO the fix and then rotate through 180\u00b0 when passing overhead.</p>",
+    "c": "<p>The needle will indicate the appropriate course and the TO/FROM indicator will change to a FROM indication when passing overhead.</p>",
+    "d": "<p>The head of the needle will point approximately straight up when flying TO the fix and then rotate through 180\u00b0 when passing overhead.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

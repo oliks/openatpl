@@ -1,0 +1,14 @@
+{
+  "number": 434,
+  "questionId": "062-0434",
+  "questionNumber": "062-0434",
+  "stemHtml": "<p>Regarding NAVSTAR/GPS which of the following statements is correct?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. It takes 7 minutes for a GPS receiver to receive all the data frames in the navigation message</span> <br /> \n2. The almanac contains only the orbital data of the specific satellite <br /> \n3. The clock correction parameters are data for correction of the satellite clock <br /> \n4. The UTC parameters are factors determining the difference between GMT and UTC</p>",
+  "options": {
+    "a": "1",
+    "b": "4",
+    "c": "2",
+    "d": "3"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

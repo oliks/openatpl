@@ -1,0 +1,14 @@
+{
+  "number": 1907,
+  "questionId": "050-1907",
+  "questionNumber": "050-1907",
+  "stemHtml": "<p>Given the following METAR, an aircraft intends to take-off from Runway 23, with magnetic variation of 10\u00b0E. What is the wind direction relative to the aircraft's take-off direction?</p><p>SA1430 21019KT 7000 SKC 21/03 Q1024 =</p>",
+  "options": {
+    "a": "<p>40\u00b0 from left</p>",
+    "b": "<p>30\u00b0 from right</p>",
+    "c": "<p>30\u00b0 from left</p>",
+    "d": "<p>10\u00b0 from left</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

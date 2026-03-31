@@ -1,0 +1,14 @@
+{
+  "number": 279,
+  "questionId": "062-0279",
+  "questionNumber": "062-0279",
+  "stemHtml": "<p>An aerodrome has several different radio navigation aids available. The NDB has a frequency of 332, the G/S (Glide Slope) has a frequency of 333, and the LOC (Localizer) has a frequency of 109.3. Which of the following statements is true concerning the similarity between the frequencies of the NDB and G/S?</p>",
+  "options": {
+    "a": "<p>The NDB is 332 kHz in the MF range, and the G/S is 333 MHz in the UHF range.</p>",
+    "b": "<p>Pilots should exercise caution when tuning the approach aid frequency to avoid mistakes as the frequencies are very close to each other.</p>",
+    "c": "<p>The NDB is 332 GHz in the MF range, and the G/S is 333 kHz in the VHF range.</p>",
+    "d": "<p>Both the NDB and G/S operate in the UHF range, with frequencies of 332 MHz and 333 MHz respectively.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

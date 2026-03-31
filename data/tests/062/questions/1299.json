@@ -1,0 +1,14 @@
+{
+  "number": 1299,
+  "questionId": "062-1299",
+  "questionNumber": "062-1299",
+  "stemHtml": "You are on an RNP APCH to an airfield using SBAS. What are the lowest minima that can be used?",
+  "options": {
+    "a": "LNAV minima.",
+    "b": "LNAV/VNAV minima.",
+    "c": "LPV (localiser performance with vertical guidance) minima.",
+    "d": "CAT I minima."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

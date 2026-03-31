@@ -1,0 +1,14 @@
+{
+  "number": 2556,
+  "questionId": "050-2556",
+  "questionNumber": "050-2556",
+  "stemHtml": "<p>What is the lowest possible cloud base forecast for ETA 17:00 UTC at Kingston?</p>\n\n<p>TAF MKJP 160430Z 1606/1706 36010KT 9999 FEW025 BECMG 1613/1615 14020G34KT FEW015CB SCT025 PROB30 TEMPO 1615/1620 2500 +SHRA SCT010 BKN012CB BECMG 1622/1624 34010KT FEW025=</p>",
+  "options": {
+    "a": "1500 m",
+    "b": "1500 ft",
+    "c": "1000 ft",
+    "d": "1000 m"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

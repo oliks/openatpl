@@ -1,0 +1,14 @@
+{
+  "number": 1171,
+  "questionId": "062-1171",
+  "questionNumber": "062-1171",
+  "stemHtml": "In order to navigate an aircraft under the specifications of PBN, the pilot must ensure that the onboard navigation database\u2026",
+  "options": {
+    "a": "is updated by NOTAMs via ACARS.",
+    "b": "contains an up-to-date WGS-84 model.",
+    "c": "is valid for the current AIRAC cycle.",
+    "d": "contains the latest GPS navigation message."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

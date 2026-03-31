@@ -1,0 +1,14 @@
+{
+  "number": 42,
+  "questionId": "062-0042",
+  "questionNumber": "062-0042",
+  "stemHtml": "<p>For which of the following approach types is GBAS (Ground-based Augmentation System) used?</p>\r\r<p>1. VOR/DME <br /> \r2. ILS CAT I <br /> \r3. SBAS <br /> \r4. RNP (LNAV/VNAV) <br /> \r5. GLS</p>",
+  "options": {
+    "a": "<p>5 only</p>",
+    "b": "<p>1 and 2</p>",
+    "c": "<p>3, 4 and 5</p>",
+    "d": "<p>4 and 5</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2354,
+  "questionId": "050-2354",
+  "questionNumber": "050-2354",
+  "stemHtml": "<p>Refer to figure. <br /> Refer to the boxed area on the provided FL390 wind and temperature chart and identify the prevailing ISA temperature deviation and the true wind direction over south-west Ireland.</p>",
+  "options": {
+    "a": "<p>Plus 3\u00b0C and 160\u00b0(T).</p>",
+    "b": "<p>Minus 3.5\u00b0C and 180\u00b0(T).</p>",
+    "c": "<p>Plus 3\u00b0C and 180\u00b0(T).</p>",
+    "d": "<p>Minus 3.5\u00b0C and 160\u00b0(T).</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0166",
+      "publicUrl": "/attachments/050/050-att-0166.png"
+    }
+  ]
+}

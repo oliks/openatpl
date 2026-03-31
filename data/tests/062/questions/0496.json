@@ -1,0 +1,14 @@
+{
+  "number": 496,
+  "questionId": "062-0496",
+  "questionNumber": "062-0496",
+  "stemHtml": "Within the PBN concept, how can \"accuracy\" be defined?",
+  "options": {
+    "a": "Being in compliance with the reference ellipsoid WGS-95.",
+    "b": "Having total system error that is expected to be achieved at least 50% of the time.",
+    "c": "A comparison between the required position and the true position.",
+    "d": "<p>Being within 1 NM laterally and within 500 ft vertically of the required position.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

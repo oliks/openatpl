@@ -1,0 +1,14 @@
+{
+  "number": 811,
+  "questionId": "061-0811",
+  "questionNumber": "061-0811",
+  "stemHtml": "<p style=\"\">A pilot is planning a flight from position X to position Z via the shortest distance between X and Z.Given the following information, calculate the final true track between the two positions.</p><p style=\"\">Position X: 37\u00b0N, 010\u00b0E <br /> Position Z: In the northern hemisphere, but exact coordinates are NOT provided. <br /> Convergency between X and Z: 20\u00b0 <br /> Initial true track direction: 122\u00b0</p>",
+  "options": {
+    "a": "102\u00b0",
+    "b": "132\u00b0",
+    "c": "112\u00b0",
+    "d": "142\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

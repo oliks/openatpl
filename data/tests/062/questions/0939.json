@@ -1,0 +1,14 @@
+{
+  "number": 939,
+  "questionId": "062-0939",
+  "questionNumber": "062-0939",
+  "stemHtml": "<p>In a small aircraft, when the VOR frequency is tuned to a VOR station and the aircraft is flying within the line of sight of the station, the identification Morse code is typically transmitted. However, there may be instances where the ident is no longer heard. What could be the reason for the ground station to stop transmitting the identification Morse code?</p>",
+  "options": {
+    "a": "<p>The transmission of the VOR beacon has gone out of the required accuracy limits.</p>",
+    "b": "<p>There are more than 100 users in the vicinity of the beacon.</p>",
+    "c": "<p>The ident is not required for navigation on VOR radials, so sometimes it is removed.</p>",
+    "d": "<p>To avoid damage to the radios of small aircraft, as this can be caused at short ranges by the reception of the powerful ident modulation.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

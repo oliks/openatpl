@@ -1,0 +1,14 @@
+{
+  "number": 675,
+  "questionId": "061-0675",
+  "questionNumber": "061-0675",
+  "stemHtml": "<p>An aircraft leaves Guam (13\u00b000'N 143\u00b045E) at 20:00 Standard Time on the 30th April to fly to Los Angeles, California, USA, (33\u00b050N 117\u00b015W). The flight time is 11 hours 15 minutes. What is the Standard Time (ST) and date of arrival in Los Angeles?</p><p>Consider the following:</p><p>Guam is 10 hours different from UTC and does NOT keep daylight-saving time. <br>Los Angeles is 8 hours different from UTC and keeps daylight-saving time. <br>Assume daylight-saving time applies from the 11th March to the 4th November.</p>",
+  "options": {
+    "a": "<p>05:15 ST, 1<sup>st</sup> May.</p>",
+    "b": "<p>14:15 ST, 30<sup>th</sup> April.</p>",
+    "c": "<p>02:15 ST, 1<sup>st</sup> May.</p>",
+    "d": "<p>21:15 ST, 30<sup><sub>th</sub></sup> April.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

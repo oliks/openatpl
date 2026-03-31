@@ -1,0 +1,14 @@
+{
+  "number": 1328,
+  "questionId": "062-1328",
+  "questionNumber": "062-1328",
+  "stemHtml": "<p>The Final Approach Segment (FAS) data block as transmitted by a Ground Based Augmentation System (GBAS) contains a set of parameters used for which of the following purposes?</p>",
+  "options": {
+    "a": "<p>Providing guidance to interceptions of the Instrument Landing System (ILS).</p>",
+    "b": "<p>Defining the final approach path for lateral and vertical guidance.</p>",
+    "c": "<p>Defining an approach path for horizontal guidance only.</p>",
+    "d": "<p>Providing guidance in the terminal area.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

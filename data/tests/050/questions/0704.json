@@ -1,0 +1,19 @@
+{
+  "number": 704,
+  "questionId": "050-0704",
+  "questionNumber": "050-0704",
+  "stemHtml": "<p>Refer to figure.    <br />   You can see two very different clouds from the flight deck. Cloud 2 appears dense and quite dark with a large vertical extent, whilst Cloud 1 appears lighter and more dispersed. Based on their appearance, what size of raindrops could you expect from each cloud?</p>",
+  "options": {
+    "a": "<p>Cloud 1: Small to large; Cloud 2: Large</p>",
+    "b": "<p>Cloud 1: Small; Cloud 2: Small</p>",
+    "c": "<p>Cloud 1: Small; Cloud 2: Large</p>",
+    "d": "<p>Cloud 1: Large; Cloud 2: Small</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0379",
+      "publicUrl": "/attachments/050/050-att-0379.jpeg"
+    }
+  ]
+}

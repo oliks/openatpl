@@ -1,0 +1,14 @@
+{
+  "number": 458,
+  "questionId": "062-0458",
+  "questionNumber": "062-0458",
+  "stemHtml": "<p>Refer to figure or Chart 11-7 Galbraith Lake from the Jeppesen GSPRM 2017. <br>If a pilot wants to fly an MLS approach, he/she must cross-check that the data on the FMS and entered in the MCDU (Multifunction Control and Display Unit) or the MMR (Multi-Mode Receiver) CDU (Control and Display Unit) corresponds to the information on the approach plate. Select the option which correctly lists the correct approach data for Channel, course, glideslope, and MLS identification.</p>",
+  "options": {
+    "a": "<p>Channel: 111.7; Course: 130\u00b0; Glideslope: 3\u00b0; MLS identification GBH</p>",
+    "b": "<p>Channel: 536; Course: 310\u00b0; Glideslope: 3.9\u00b0; MLS identification: MGLM</p>",
+    "c": "<p>Channel: 111.7; Course: 310\u00b0; Glideslope: 3\u00b0; MLS identification: MGLM</p>",
+    "d": "<p>Channel: 536; Course: 130\u00b0; Glideslope: 3.6\u00b0; MLS identification: MGLM</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

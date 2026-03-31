@@ -1,0 +1,14 @@
+{
+  "number": 1725,
+  "questionId": "050-1725",
+  "questionNumber": "050-1725",
+  "stemHtml": "<p>Which of the following is a correct description of GAMET information?</p>",
+  "options": {
+    "a": "<p>Information issued by an MO concerning expected occurrence of weather phenomena which may affect the safety of low-level operations, not already included in the forecast for the FIR.</p>",
+    "b": "An area forecast in abbreviated plain language for low level flights for an FIR or sub-area thereof.",
+    "c": "<p>Information issued by the MWO concerning occurrence or expected occurrence of weather phenomena which may affect low-level operations, not already included in the forecast for the FIR.</p>",
+    "d": "Information issued by a MWO concerning occurrence or expected occurrence of weather phenomena which may affect the safety of aircraft operations."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

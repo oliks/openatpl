@@ -1,0 +1,14 @@
+{
+  "number": 125,
+  "questionId": "061-0125",
+  "questionNumber": "061-0125",
+  "stemHtml": "<p>Given the following information, calculate the Average Groundspeed during the climb from an aerodrome with elevation of 3000 ft to a Top of Climb at FL200:</p>Temperature: ISA conditions <br /> Surface W/V at 3000 ft: 220/15kt <br /> W/V at FL80: 240\u00ba/35 kt <br /> W/V at FL140: 260\u00ba/45kt <br /> W/V at FL200: 280\u00ba/115 kt <br /> Average TAS: 150 kt <br /> Average Track: 300\u00baT",
+  "options": {
+    "a": "147 kt",
+    "b": "<p>125 kt</p>",
+    "c": "<p>100 kt</p>",
+    "d": "<p>113 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

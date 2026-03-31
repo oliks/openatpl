@@ -1,0 +1,14 @@
+{
+  "number": 934,
+  "questionId": "062-0934",
+  "questionNumber": "062-0934",
+  "stemHtml": "<p>How many satellites are required for GBAS to function correctly?</p>",
+  "options": {
+    "a": "<p>4 satellites are required for GBAS operations.</p>",
+    "b": "<p>GBAS uses the signals from at least 3 geostationary satellites.</p>",
+    "c": "<p>GBAS requires at least 5 satellites to detect and exclude the possible faulty satellite.</p>",
+    "d": "<p>GBAS uses the exact same satellites as the receiver in the aircraft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

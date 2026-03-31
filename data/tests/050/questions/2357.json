@@ -1,0 +1,14 @@
+{
+  "number": 2357,
+  "questionId": "050-2357",
+  "questionNumber": "050-2357",
+  "stemHtml": "<p>Which of the following statements correctly describes the theoretical development of the geostrophic wind within the Northern Hemisphere?</p>",
+  "options": {
+    "a": "<p>An air parcel initially at rest will move from high pressure to low pressure because of the coriolis force, but as the air moves it is deflected to the right and is eventually balanced by the pressure gradient force.</p>",
+    "b": "<p>As a surface pressure difference begins, air will start to move towards the lower pressure. As the wind gains speed, the pressure gradient force deflection increases to the right until it equals the coriolis force and the wind now blows perpendicular to the isobars.</p>",
+    "c": "<p>The pressure gradient force moves the air towards the low pressure, but surface friction starts to pull the air anticlockwise, eventually causing the wind to blow parallel to the isobars with the low pressure positioned downstream to the left.</p>",
+    "d": "<p>As the air starts to move and is accelerated by the pressure gradient force, it is increasingly veering by the coriolis force until both forces are balanced and opposite to each other.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

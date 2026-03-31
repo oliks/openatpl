@@ -1,0 +1,19 @@
+{
+  "number": 1555,
+  "questionId": "061-1555",
+  "questionNumber": "061-1555",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is flying VFR from Waypoint Echo to Waypoint Hotel. The Pilot discovers that the aircraft is flying above the mast left off the track, instead of the Hotel waypoint at the calculated Estimated Time Overhead (ETO). Which might be a possible reason for that?</p>",
+  "options": {
+    "a": "<p>Stronger northerly wind.</p>",
+    "b": "<p>Stronger southerly wind.</p>",
+    "c": "<p>Decrease in groundspeed due to headwind.</p>",
+    "d": "<p>Increase in groundspeed due to tailwind.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0182",
+      "publicUrl": "/attachments/061/061-att-0182.jpg"
+    }
+  ]
+}

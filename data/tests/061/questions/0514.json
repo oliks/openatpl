@@ -1,0 +1,14 @@
+{
+  "number": 514,
+  "questionId": "061-0514",
+  "questionNumber": "061-0514",
+  "stemHtml": "<p>Given the following information, calculate the Wind correction Angle (WCA) for an aircraft with a cruise TAS of 120 kt experiencing a crosswind component of 10 kt from the left:</p>",
+  "options": {
+    "a": "<p>12\u00ba left</p>",
+    "b": "12\u00ba right",
+    "c": "5\u00ba right",
+    "d": "5\u00ba left"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

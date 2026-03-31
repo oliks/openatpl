@@ -1,0 +1,14 @@
+{
+  "number": 881,
+  "questionId": "061-0881",
+  "questionNumber": "061-0881",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Hdg 230\u00b0T</span>  <br />  \nGS 340 kt  <br />  \n<span style=\"letter-spacing:0.7px\">W/V 270\u00b0 / 40 kt</span></p>\n\n<p>Calculate the Track and TAS.</p>",
+  "options": {
+    "a": "Track = 226\u00b0 ,TAS = 370 kt",
+    "b": "Track = 225\u00b0, TAS = 310 kt",
+    "c": "Track = 234\u00b0, TAS = 308 kt",
+    "d": "Track = 234\u00b0, TAS = 371 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

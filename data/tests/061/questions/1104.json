@@ -1,0 +1,14 @@
+{
+  "number": 1104,
+  "questionId": "061-1104",
+  "questionNumber": "061-1104",
+  "stemHtml": "<p>Given the following information, calculate the approximate groundspeed.</p><p>Mach Number: 0.68<br>OAT (SAT): \u221235\u00b0C<br>TAT: \u221215\u00b0C\u00a0<br>ISA Dev. : +25\u00b0C<br>Wind: Zero</p>",
+  "options": {
+    "a": "<p>390 kt</p>",
+    "b": "<p>410 kt</p>",
+    "c": "<p>430 kt</p>",
+    "d": "<p>450 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

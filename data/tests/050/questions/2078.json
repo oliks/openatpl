@@ -1,0 +1,19 @@
+{
+  "number": 2078,
+  "questionId": "050-2078",
+  "questionNumber": "050-2078",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is planned to fly from Tashkent ('T', approximately 41\u00baN, 69\u00baE ) to Lusaka ('L', approximately 15\u00b0S, 28\u00b0E). The cruising FL increases from initially FL340 to FL450 halfway through the flight. What hazardous weather would you encounter en-route?</p>",
+  "options": {
+    "a": "<p>The pilot will NOT encounter icing during cruise flight.</p>",
+    "b": "<p>The pilot will experience severe turbulence in the first 600 NM after the top of climb.</p>",
+    "c": "<p>The pilot will encounter ice crystals during the whole flight.</p>",
+    "d": "<p>The pilot will encounter ice crystals 600 NM before descent.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0024",
+      "publicUrl": "/attachments/050/050-att-0024.png"
+    }
+  ]
+}

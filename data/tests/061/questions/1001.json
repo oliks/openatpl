@@ -1,0 +1,14 @@
+{
+  "number": 1001,
+  "questionId": "061-1001",
+  "questionNumber": "061-1001",
+  "stemHtml": "<p>Given the following data, what is the actual track of the aircraft?</p><p>Planned track: 031\u00b0 <br>Planned wind correction angle: 6\u00b0R <br>Actual in-flight drift: 4\u00b0L</p>",
+  "options": {
+    "a": "<p>029\u00b0</p>",
+    "b": "<p>035\u00b0</p>",
+    "c": "<p>037\u00b0</p>",
+    "d": "<p>033\u00b0</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 980,
+  "questionId": "061-0980",
+  "questionNumber": "061-0980",
+  "stemHtml": "<p>Given the following information, calculate the track and groundspeed:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Heading: 265\u00b0</span>  <br />  \nTAS: 290 kt  <br />  \nW/V: 210\u00b0/35 kt</p>\n\n<div> </div>",
+  "options": {
+    "a": "260\u00b0 and 315 kt",
+    "b": "271\u00b0 and 272 kt",
+    "c": "259\u00b0 and 305 kt",
+    "d": "259\u00b0 and 272 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

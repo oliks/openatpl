@@ -1,0 +1,14 @@
+{
+  "number": 1200,
+  "questionId": "050-1200",
+  "questionNumber": "050-1200",
+  "stemHtml": "<p>What is included in the runway state message?</p><p>1. Separator. <br /> 2. Runway. <br /> 3. Type of deposit. <br /> 4. Braking action. <br /> 5. Contamination. <br /> 6. Depth.</p>",
+  "options": {
+    "a": "1, 2, 3, 4, 5 and 6.",
+    "b": "1, 2, 3, 4 and 5.",
+    "c": "1, 2, 3, 5 and 6.",
+    "d": "2, 3, 4, 5 and 6."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

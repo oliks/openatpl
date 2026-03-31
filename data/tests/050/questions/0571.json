@@ -1,0 +1,14 @@
+{
+  "number": 571,
+  "questionId": "050-0571",
+  "questionNumber": "050-0571",
+  "stemHtml": "<p>Two correctly functioning altimeters indicate an elevation of 164 ft with the local QNH of 1018 hPa set. However, a standby altimeter on the same aircraft shows a reading of 243 ft. What QNH is set on the standby altimeter? <br>Assume 1 hPa corresponds to 27 ft.</p>",
+  "options": {
+    "a": "<p>1013 hPa</p>",
+    "b": "<p>1021 hPa</p>",
+    "c": "<p>1015 hPa</p>",
+    "d": "<p>1028 hPa</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 355,
+  "questionId": "061-0355",
+  "questionNumber": "061-0355",
+  "stemHtml": "<p>What is the definition of the Geodetic Longitude?</p>",
+  "options": {
+    "a": "<p>The angle in the equatorial plane between the line a that connects the Earth's centre with the prime meridian and the line b that connects the centre with the meridian on which the point lies.</p>",
+    "b": "<p>The distance in the equatorial plane between the line a that connects the Earth's centre with the prime meridian and the line b that connects the centre with the meridian on which the point lies.</p>",
+    "c": "<p>The angle in the equatorial plane between the line a that connects the Earth's centre with the prime meridian and the line b that connects the centre with the anti-meridian of the point.</p>",
+    "d": "<p>The distance in the equatorial plane between the line a that connects the Earth's centre with the prime meridian and the line b that connects the centre with the anti-meridian of the point.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 803,
+  "questionId": "062-0803",
+  "questionNumber": "062-0803",
+  "stemHtml": "<p>Why must the aircraft's URE (User Range Error) be known?</p>",
+  "options": {
+    "a": "<p>To determine true air speed.</p>",
+    "b": "<p>To communicate with ATC.</p>",
+    "c": "<p>To calculate the fuel efficiency and expected burn.</p>",
+    "d": "<p>To ensure an accurate GPS position.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

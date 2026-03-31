@@ -1,0 +1,14 @@
+{
+  "number": 742,
+  "questionId": "061-0742",
+  "questionNumber": "061-0742",
+  "stemHtml": "<p>ATC instructs you to arrive 5 minutes later than your ETA in your flight plan. Given the following conditions, what was the ground speed (GS) prior to the ATC instruction?</p><p>Altitude: FL100 <br>ISA: +10 <br>CAS: 137 kt <br>Headwind Component (HWC): 20 kt</p>",
+  "options": {
+    "a": "<p>134 kt</p>",
+    "b": "<p>144 kt</p>",
+    "c": "<p>154 kt</p>",
+    "d": "<p>164 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 175,
+  "questionId": "050-0175",
+  "questionNumber": "050-0175",
+  "stemHtml": "<p>Before departure, the flight crew received no indication of thunderstorm activity near LIPM in the official weather briefing, and the METAR indicated CAVOK conditions. Despite this, the captain\u2019s personal lightning-detection app displayed intense thunderstorm activity in the vicinity of the airport. What is the most appropriate course of action?</p>",
+  "options": {
+    "a": "<p>Request a reroute.</p>",
+    "b": "<p>Proceed as planned and assess the situation closer to the airport using the same app.</p>",
+    "c": "<p>Proceed as planned, as the app is not an official source of information.</p>",
+    "d": "<p>Delay the flight.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1649,
+  "questionId": "050-1649",
+  "questionNumber": "050-1649",
+  "stemHtml": "<p>During their pre-flight setup, a pilot sets an incorrect altimeter subscale setting of 978 hPa. Given the following information, what will the altimeter read when on the ground with the incorrect subscale setting?</p><p>Airfield elevation: 270 ft <br /> Correct QNH: 988 hPa <br /> (Assume 30 ft per hPa)</p>",
+  "options": {
+    "a": "-30 ft",
+    "b": "570 ft",
+    "c": "1380 ft",
+    "d": "240 ft"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

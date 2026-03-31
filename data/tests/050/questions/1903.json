@@ -1,0 +1,14 @@
+{
+  "number": 1903,
+  "questionId": "050-1903",
+  "questionNumber": "050-1903",
+  "stemHtml": "<p>Apart from radiation, convection, and the release of latent heat, what other factors influence the exchange of heat between the surface and the atmosphere?</p>",
+  "options": {
+    "a": "<p>The molecular transfer of heat to or from the surface into the atmosphere takes place by conduction regardless of any temperature difference between the surface and the air in contact with it.</p>",
+    "b": "<p>In the mixing layer, eddy currents within the turbulence transfer heat from the surface upwards and, if they persist throughout the layer, the surface temperature gradually decreases.</p>",
+    "c": "<p>The process of conduction is the primary mechanism by which heat is transferred from the surface vertically within the atmosphere to low or medium levels.</p>",
+    "d": "<p>In order for heat transfer to take place between the surface and the lower atmosphere, both conduction and turbulence are necessary.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

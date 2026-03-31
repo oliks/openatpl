@@ -1,0 +1,14 @@
+{
+  "number": 723,
+  "questionId": "062-0723",
+  "questionNumber": "062-0723",
+  "stemHtml": "<p>ATC receives the following transmission; \"Tower, G-ABCD, request QDM, G-ABCD.\u201d What is the pilot requesting?</p>",
+  "options": {
+    "a": "<p>Magnetic bearing from the station to the aircraft</p>",
+    "b": "<p>True bearing from the station to the aircraft</p>",
+    "c": "<p>Magnetic bearing from the aircraft to the station</p>",
+    "d": "<p>True bearing from the aircraft to the station</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

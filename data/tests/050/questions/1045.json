@@ -1,0 +1,19 @@
+{
+  "number": 1045,
+  "questionId": "050-1045",
+  "questionNumber": "050-1045",
+  "stemHtml": "<p>Refer to figure.<br>Based on the temperature profile shown, at which location would you find the cloud top?</p>",
+  "options": {
+    "a": "<p>FL300 at location A</p>",
+    "b": "<p>FL280 at location C</p>",
+    "c": "<p>FL240 at location B</p>",
+    "d": "<p>FL360 at location D</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0098",
+      "publicUrl": "/attachments/050/050-att-0098.png"
+    }
+  ]
+}

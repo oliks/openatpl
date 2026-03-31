@@ -1,0 +1,14 @@
+{
+  "number": 1160,
+  "questionId": "062-1160",
+  "questionNumber": "062-1160",
+  "stemHtml": "<p>Which of the following statements is correct regarding a pilot's ability to modify terminal route information from the navigation database during PBN operations?</p>",
+  "options": {
+    "a": "<p>The pilot is never allowed to modify terminal route information.</p>",
+    "b": "<p>Terminal route information can only be modified through the AIRAC cycle.</p>",
+    "c": "<p>The pilot can only modify terminal route information when flying in uncontrolled airspace.</p>",
+    "d": "<p>The pilot can only modify terminal route information on receipt of an ATC clearance.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 8,
+  "questionId": "062-0008",
+  "questionNumber": "062-0008",
+  "stemHtml": "<p>When creating an FMS waypoint using a VOR/DME reference, which of the following three elements must be entered?</p>",
+  "options": {
+    "a": "<p>Select the waypoint page, enter the GPS track, and enter the altitude.</p>",
+    "b": "<p>Select the VOR/DME station, enter the magnetic bearing, and enter the slant range.</p>",
+    "c": "<p>Select the VOR/DME station, enter the true bearing, and enter the air distance.</p>",
+    "d": "<p>Select the VOR/DME station, enter the radial, and enter the ground distance (DME distance).</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

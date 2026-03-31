@@ -1,0 +1,14 @@
+{
+  "number": 649,
+  "questionId": "050-0649",
+  "questionNumber": "050-0649",
+  "stemHtml": "\nIn the ICAO standard atmosphere, which of the following alternatives indicates the correct vertical temperature distribution in the lowest 11 km?\n\n\n\n\n\n",
+  "options": {
+    "a": "13\u00b0C at mean sea level, decreasing at 2\u00b0C per 1 000 feet.",
+    "b": "15.2\u00b0C at mean sea level, decreasing at 0.65\u00b0C per 100 metres.",
+    "c": "15\u00b0C at mean sea level, decreasing at 0.65\u00b0C per 100 metres.",
+    "d": "15\u00b0C at mean sea level, decreasing at 0.65\u00b0C per 100 feet."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

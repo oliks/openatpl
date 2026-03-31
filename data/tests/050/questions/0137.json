@@ -1,0 +1,14 @@
+{
+  "number": 137,
+  "questionId": "050-0137",
+  "questionNumber": "050-0137",
+  "stemHtml": "<p>An aerodrome on the coast (Faro, Portugal) reported the following METAR:</p>\r\n\r\n<p>LPFR 070650Z 26010KT 0100FG VV/// 05/05 Q1006</p>\r\n\r\n<p>What change is likely, on its own, to produce an improvement in visibility above the limits stated for fog?</p>",
+  "options": {
+    "a": "<p>Humidity reducing because drizzle falls.</p>",
+    "b": "<p>A cold front crossing the area.</p>",
+    "c": "<p>A reduction in gradient wind.</p>",
+    "d": "<p>Calm wind.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

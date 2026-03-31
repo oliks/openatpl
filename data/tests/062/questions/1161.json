@@ -1,0 +1,14 @@
+{
+  "number": 1161,
+  "questionId": "062-1161",
+  "questionNumber": "062-1161",
+  "stemHtml": "<p>How does a Doppler VOR uses the doppler effect to create a signal?</p>",
+  "options": {
+    "a": "<p>The DVOR electronically rotates the variable signal</p>",
+    "b": "<p>The DVOR electronically rotates the reference signal</p>",
+    "c": "<p>The DVOR increases accuracy by using binary phase shift keying (BPSK)</p>",
+    "d": "<p>The DVOR uses doppler effect to cancel out returning sky waves</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

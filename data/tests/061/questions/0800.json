@@ -1,0 +1,19 @@
+{
+  "number": 800,
+  "questionId": "061-0800",
+  "questionNumber": "061-0800",
+  "stemHtml": "<p>Refer to figure. <br>The table is an extract from a flight plan. Calculate the average TAS between AA and EE.</p>",
+  "options": {
+    "a": "<p>252.9 kt</p>",
+    "b": "<p>250.9 kt</p>",
+    "c": "<p>256.9 kt</p>",
+    "d": "<p>254.25 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0085",
+      "publicUrl": "/attachments/061/061-att-0085.png"
+    }
+  ]
+}

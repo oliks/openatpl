@@ -1,0 +1,14 @@
+{
+  "number": 725,
+  "questionId": "062-0725",
+  "questionNumber": "062-0725",
+  "stemHtml": "An aircraft is following a defined RNP 2 route and approaching a waypoint where a track change of 40\u00b0 is required. The route is part of a route system with 4 parallel routes and reliable lateral separation between the aeroplanes on the different routes is essential. Which of the following types of FMS coding of the waypoint will ensure lateral separation between aircraft also during the turn?",
+  "options": {
+    "a": "Fixed Radius Transition (FRT)",
+    "b": "Fly-over waypoint",
+    "c": "Radius to Fix (RF) path terminator",
+    "d": "Fly-by waypoint"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

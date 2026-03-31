@@ -1,0 +1,14 @@
+{
+  "number": 1217,
+  "questionId": "061-1217",
+  "questionNumber": "061-1217",
+  "stemHtml": "<p>An aircraft is descending from FL280 at a constant Mach number of 0.70 in ISA conditions. At the beginning of the descent, the pilot, after checking the instruments, reads a CAS of 274 kt and a TAS of 416 kt. At some point during the descent, when he/she re-checks the instruments, which value of TAS and CAS would he/she expect to read?</p>",
+  "options": {
+    "a": "<p>CAS: 251 kt and TAS: 430 kt</p>",
+    "b": "<p>CAS: 324 kt and TAS: 430 kt</p>",
+    "c": "<p>CAS: 324 kt and TAS: 410 kt</p>",
+    "d": "<p>CAS: 251 kt and TAS: 410 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2491,
+  "questionId": "050-2491",
+  "questionNumber": "050-2491",
+  "stemHtml": "<p>An aircraft is cruising at FL100. A nearby meteorological station which is situated at an elevation of 1500 ft gives a QNH of 990 hPa. The aircraft measures an OAT of 0\u00b0C. Calculate the aircraft's clearance from the highest obstacle on their route, which is a mountain of 5000 ft elevation. <br>(Assume 1 hPa = 30 ft)</p>",
+  "options": {
+    "a": "1 200 ft",
+    "b": "4 200 ft",
+    "c": "1 400 ft",
+    "d": "4 500 ft"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

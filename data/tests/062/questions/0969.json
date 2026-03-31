@@ -1,0 +1,14 @@
+{
+  "number": 969,
+  "questionId": "062-0969",
+  "questionNumber": "062-0969",
+  "stemHtml": "A Primary Route Surveillance Radar provides...",
+  "options": {
+    "a": "4-digit squawk code, NO direction, NO range, NO Altitude.",
+    "b": "<p>Direction by measuring Antenna Azimuth, Range by signal travel during time, NO altitude.</p>",
+    "c": "Altitude by angle elevation, Direction by Antenna's angle of Azimuth, NO range.",
+    "d": "Range by interrogating DME transponder, Altitude by interrogating MODE-C Transponder, NO direction."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

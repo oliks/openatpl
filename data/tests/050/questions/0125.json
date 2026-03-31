@@ -1,0 +1,14 @@
+{
+  "number": 125,
+  "questionId": "050-0125",
+  "questionNumber": "050-0125",
+  "stemHtml": "<p>Which of the following statements is an interpretation of the METAR?</p>\r\n\r\n<p>25020G38KT 1200 +TSGR BKN006 BKN015CB 23/18 Q1016 BECMG NSW=</p>",
+  "options": {
+    "a": "Wind 250\u00b0, thunderstorm with moderate hail, QNH 1016 hPa.",
+    "b": "Broken, cloud base 600 feet and 1 500 feet, temperature 18\u00b0C.",
+    "c": "Mean wind speed 20-38 knots, meteorological visibility 1 200 metres, temperature 23\u00b0C.",
+    "d": "<p>Gusts of 38 knots, heavy thunderstorm with hail, dew point 18\u00b0C</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

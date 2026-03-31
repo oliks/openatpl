@@ -1,0 +1,19 @@
+{
+  "number": 635,
+  "questionId": "050-0635",
+  "questionNumber": "050-0635",
+  "stemHtml": "<p>Refer to figure.<br />When descending between two waypoints at FL150, an aircraft\u2019s weather radar shows green and yellow returns associated with a developing cumulonimbus cloud. The outside air temperature (OAT) is +3\u00b0C. What level of potential ice accretion can be expected?</p>",
+  "options": {
+    "a": "<p>No icing.</p>",
+    "b": "<p>Light icing.</p>",
+    "c": "<p>Moderate icing.</p>",
+    "d": "<p>Severe icing.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0164",
+      "publicUrl": "/attachments/050/050-att-0164.png"
+    }
+  ]
+}

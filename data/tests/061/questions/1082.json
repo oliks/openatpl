@@ -1,0 +1,14 @@
+{
+  "number": 1082,
+  "questionId": "061-1082",
+  "questionNumber": "061-1082",
+  "stemHtml": "<p>Based on the following data, what is the Wind Correction Angle (WCA)?</p><p>Track: 080\u00b0(T)   <br />   Crosswind component: 14 kt from left to right   <br />   TAS: 210 kt</p>",
+  "options": {
+    "a": "<p>-15\u00b0</p>",
+    "b": "<p>+4\u00b0</p>",
+    "c": "<p>-4\u00b0</p>",
+    "d": "<p>+15\u00b0</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1307,
+  "questionId": "061-1307",
+  "questionNumber": "061-1307",
+  "stemHtml": "<p>Given the following information, what is the magnetic bearing of the NDB measured from the aircraft?</p><p>Magnetic heading: 311\u00b0  <br />  Drift angle: 10\u00b0 left  <br />  Relative bearing of NDB: 270\u00b0</p>",
+  "options": {
+    "a": "211\u00b0",
+    "b": "180\u00b0",
+    "c": "208\u00b0",
+    "d": "221\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

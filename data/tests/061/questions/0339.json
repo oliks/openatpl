@@ -1,0 +1,14 @@
+{
+  "number": 339,
+  "questionId": "061-0339",
+  "questionNumber": "061-0339",
+  "stemHtml": "<p>Considering the following data, calculate the average wind direction and speed W/V. Maintaining a true heading of 052\u00b0, an aircraft overflies two fixes 34 NM apart from each other.</p>\r\n\r\n<p>Average true direction from the first fix to the second one: 047\u00b0 TAS of 130 kt is maintained. Time to fly between the two fixes: 13 minutes.</p>",
+  "options": {
+    "a": "218\u00b0/28 kt",
+    "b": "205\u00b0/30 kt",
+    "c": "246\u00b0/28 kt",
+    "d": "259\u00b0/30 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

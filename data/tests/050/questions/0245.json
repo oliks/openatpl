@@ -1,0 +1,14 @@
+{
+  "number": 245,
+  "questionId": "050-0245",
+  "questionNumber": "050-0245",
+  "stemHtml": "<p>Which of the four answers is a correct interpretation of data from the following METAR?</p>\n\n<p><span style=\"letter-spacing:0.7px\">LSZH 050820Z 16003KT 0400 R14/P1500 R16/1000N FZFG VV003 M02/M02 Q1026 BECMG 2000 BR=</span></p>",
+  "options": {
+    "a": "RVR for runway 16 1000 m with no distinct tendency, visibility increasing in the next 2 hours to 2000 m, vertical visibility 300 m, temperature -2\u00b0C.",
+    "b": "Visibility 400 m, RVR for runway 16 1000 m with no distinct tendency, dew point -2\u00b0C, freezing fog.",
+    "c": "RVR for runway 14 1500 m, visibility 400 m, QNH 1026 hPa, wind 160\u00b0 at 3 kt.",
+    "d": "Visibility 1000 m, RVR 400 m, freezing level at 300 m, variable winds, temperature 2\u00b0C."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

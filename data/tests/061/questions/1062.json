@@ -1,0 +1,14 @@
+{
+  "number": 1062,
+  "questionId": "061-1062",
+  "questionNumber": "061-1062",
+  "stemHtml": "<p>A pilot uses a Lambert conformal chart for navigation. At a waypoint (A), the course of the route is changed by the FMS in order to follow the next route segment, which is indicated as a straight line on the chart. What is the initial great circle track angle (M) after the passage of waypoint A?</p>\r\r<p>Standard parallels of the Lambert chart: 45\u00b0N and 61\u00b0N. <br /> \rThe segment: from A (45\u00b0N 120\u00b0W) to B (45\u00b0N 100\u00b0W) <br /> \rMagnetic variation: 12\u00b0W</p>",
+  "options": {
+    "a": "<p>094\u00b0</p>",
+    "b": "<p>086\u00b0</p>",
+    "c": "<p>110\u00b0</p>",
+    "d": "<p>088\u00b0</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

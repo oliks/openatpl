@@ -1,0 +1,14 @@
+{
+  "number": 610,
+  "questionId": "061-0610",
+  "questionNumber": "061-0610",
+  "stemHtml": "<p>Given the following information, what is the Ground Speed of the aircraft?</p><p>TAS: 250 kt<br>Heading: 090\u00b0<br>Wind: 030\u00b0/50 kt</p>",
+  "options": {
+    "a": "229 kt",
+    "b": "278 kt",
+    "c": "239 kt",
+    "d": "<p>211 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

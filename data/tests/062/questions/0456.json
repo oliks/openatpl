@@ -1,0 +1,14 @@
+{
+  "number": 456,
+  "questionId": "062-0456",
+  "questionNumber": "062-0456",
+  "stemHtml": "<p>A-RNP incorporates the navigation specifications:</p><p>1) RNAV 1  <br />  2) RNAV 5  <br />  3) RNAV APCH  <br />  4) RNP 1 / RNP 2  <br />  5) RNP APCH</p><div> </div>",
+  "options": {
+    "a": "1, 3, 4 and 5",
+    "b": "1, 2, 4 and 5",
+    "c": "2, 3 and 4",
+    "d": "1, 2 and 3"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

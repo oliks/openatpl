@@ -1,0 +1,14 @@
+{
+  "number": 1910,
+  "questionId": "050-1910",
+  "questionNumber": "050-1910",
+  "stemHtml": "<p>An aircraft is approaching an airport (elevation 643 ft AMSL) in the following conditions: <br /> 0002KT 9999 OVC024 M20/M22 Q0993</p><p>With the QNH 993 set on the subscale, what altitude does the altimeter indicate on landing?</p>",
+  "options": {
+    "a": "<p>Impossible to say with the given information.</p>",
+    "b": "More than 643 ft.",
+    "c": "Less than 643 ft.",
+    "d": "643 ft."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

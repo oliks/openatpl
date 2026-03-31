@@ -1,0 +1,14 @@
+{
+  "number": 1144,
+  "questionId": "062-1144",
+  "questionNumber": "062-1144",
+  "stemHtml": "An aircraft is being radar vectored downwind for the ILS to runway 27 of a regional airport. The ILS for runway 27 has been tuned in and displayed on the HSI. As the aircraft passes to the South-East of the airport, the Course Deviation Indicator (CDI) moves, changing from full-scale right indication, through the centre, to full-scale left. What is the most probable cause of this movement of the CDI?",
+  "options": {
+    "a": "Siting errors bending the ILS localiser beam.",
+    "b": "Side lobes from the ILS localiser antenna.",
+    "c": "Receiving the ILS of an intersecting runway.",
+    "d": "Scalloping bending the ILS localiser beam."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1030,
+  "questionId": "062-1030",
+  "questionNumber": "062-1030",
+  "stemHtml": "<p>Which statement about the range of VHF waves is correct?</p>",
+  "options": {
+    "a": "It depends on the altitude of the aircraft and the elevation of the ground antenna.",
+    "b": "It does not depend on the elevation of the antenna of the transmitter.",
+    "c": "It does not depend on the altitude of the aircraft but only on the power of the transmitter.",
+    "d": "Obstacles like mountains between transmitter and aircraft do not affect the range."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

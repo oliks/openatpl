@@ -1,0 +1,14 @@
+{
+  "number": 1806,
+  "questionId": "050-1806",
+  "questionNumber": "050-1806",
+  "stemHtml": "<p dir=\"ltr\">An aircraft passes the transition altitude on a SID out of Dimapur, India. Determine the approximate reading expected on the altimeter if the pilot changes the subscale setting at the transition altitude. Given:</p><p dir=\"ltr\">Transition altitude: 11 000 ft <br /> Transition level: FL105 <br /> QNH: 1041 hPa <br /> Assume 27 ft per 1 hPa</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">9 740 ft</p>",
+    "b": "<p dir=\"ltr\">10 240 ft</p>",
+    "c": "<p dir=\"ltr\">11 260 ft</p>",
+    "d": "11 760 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

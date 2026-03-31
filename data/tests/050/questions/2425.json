@@ -1,0 +1,14 @@
+{
+  "number": 2425,
+  "questionId": "050-2425",
+  "questionNumber": "050-2425",
+  "stemHtml": "Ice crystals are often found in and around the anvil of a thunderstorm. If found in high densities at very low temperatures, what hazard do these present to an aircraft?",
+  "options": {
+    "a": "The crystals can accumulate on the aircraft's communication and navigation antenna systems and affect transmission and reception.",
+    "b": "Because of their size, in high densities the crystals can reflect and block propagated satellite communication and navigation signals.",
+    "c": "The crystals can accumulate inside the engine, then break away, causing a sudden loss of thrust, especially at low power settings.",
+    "d": "The crystals can accumulate on the wing and tailplane leading edges, reducing lift and increasing drag."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

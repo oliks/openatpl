@@ -1,0 +1,14 @@
+{
+  "number": 699,
+  "questionId": "050-0699",
+  "questionNumber": "050-0699",
+  "stemHtml": "<p>A flight crew is preparing for departure from Rabat-Sale Airport (GMME), Morocco on 13th October and the following message is included in their briefing pack:</p>\r\n\r\n<p>GMME AD WRNG 2 VALID 131500/131700 SS FCST=</p>\r\n\r\n<p>What information does this provide about the weather at Rabat-Sale Airport?</p>",
+  "options": {
+    "a": "There is a forecast of a sandstorm at 15:00 UTC to reduce visibility to 1700 m.",
+    "b": "This message contains information just for the en-route phase, provided by Rabat - Sale Airport.",
+    "c": "There is a forecast of a sandstorm that afternoon between 15:00 UTC and 17:00 UTC.",
+    "d": "A sandstorm was observed at 15:00 UTC and is expected to last until 17:00 UTC."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

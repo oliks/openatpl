@@ -1,0 +1,14 @@
+{
+  "number": 1404,
+  "questionId": "061-1404",
+  "questionNumber": "061-1404",
+  "stemHtml": "<p>Given the following information, which radial is the aircraft on?</p>The position of the aircraft is (N55\u00b000', W070\u00b000'). <br /> The variation at the aircraft's position is 21\u00b0W. <br /> VOR is situated at position (N50\u00b000', W065\u00b000'). <br /> The variation at the VOR is 19\u00b0W. <br /> The initial magnetic track of the great circle from the aircraft position to the VOR is 168\u00b0.",
+  "options": {
+    "a": "350 Radial",
+    "b": "348 Radial",
+    "c": "327 Radial",
+    "d": "168 Radial"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

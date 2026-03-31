@@ -1,0 +1,19 @@
+{
+  "number": 1148,
+  "questionId": "061-1148",
+  "questionNumber": "061-1148",
+  "stemHtml": "<p>Refer to figure or to the ED-4 chart from the Jeppesen GSPRM 2017.<br>At 10:07 you make a note of your position over the intersection of highways A3 and A92 (N48\u00b049.0' E012\u00b056.3'). Consider the DR positions DR-5 to DR-8 shown on the annex. Given the following information, determine your DR position at 10:16.</p><p>Compass Heading: 084\u00b0 <br>Deviation: -3\u00b0 <br>Variation: 3\u00b0E <br>Wind: Nil <br>GS: 104 kt</p>",
+  "options": {
+    "a": "<p>DR-6</p>",
+    "b": "<p>DR-5</p>",
+    "c": "<p>DR-7</p>",
+    "d": "<p>DR-8</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0288",
+      "publicUrl": "/attachments/061/061-att-0288.png"
+    }
+  ]
+}

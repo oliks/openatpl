@@ -1,0 +1,14 @@
+{
+  "number": 1659,
+  "questionId": "050-1659",
+  "questionNumber": "050-1659",
+  "stemHtml": "Which of the following options contains information that you could find in a gridded dataset?",
+  "options": {
+    "a": "The gridded forecast models are still a prototype.",
+    "b": "Flight level and temperature of the tropopause only.",
+    "c": "Flight level and temperature of the tropopause, CB, turbulence, fog and icing.",
+    "d": "Flight level and temperature of the tropopause, CB, turbulence, icing, W/V (Wind Velocity)"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

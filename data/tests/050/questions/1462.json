@@ -1,0 +1,19 @@
+{
+  "number": 1462,
+  "questionId": "050-1462",
+  "questionNumber": "050-1462",
+  "stemHtml": "<p>Refer to figure. <br>According to the WMO classification, what is the etag\u00e9 of this cloud type?</p>",
+  "options": {
+    "a": "<p>Low-level cloud.</p>",
+    "b": "<p>High-level cloud.</p>",
+    "c": "<p>Medium-level cloud.</p>",
+    "d": "<p>Low- or medium-level cloud, depending on the base of the cloud.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0075",
+      "publicUrl": "/attachments/050/050-att-0075.jpg"
+    }
+  ]
+}

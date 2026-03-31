@@ -1,0 +1,14 @@
+{
+  "number": 2509,
+  "questionId": "050-2509",
+  "questionNumber": "050-2509",
+  "stemHtml": "<p>Can TREND and TAF reports be found in scheduled HF and continuous VHF VOLMETs?</p>",
+  "options": {
+    "a": "These reports are prohibited in both HF and VHF VOLMETs.",
+    "b": "TAFs are contained in both whenever it is possible.",
+    "c": "TAFs are scheduled VOLMETs only if available.",
+    "d": "TRENDs are in both VOLMETs if available."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

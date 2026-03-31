@@ -1,0 +1,14 @@
+{
+  "number": 875,
+  "questionId": "050-0875",
+  "questionNumber": "050-0875",
+  "stemHtml": "<p>Marseille Information gives you the following meteorological information for Ajaccio and Calvi for 16:00 UTC:</p>\n\n<p>\u2022 AJACCIO: wind 360\u00b0/2 kts, visibility 2 000 m, rain, BKN stratocumulus at 1 000 ft, OVC altostratus at 8 000 ft, QNH 1023 hPa.  <br />  \n\u2022 CALVI: wind 040\u00b0/2 kts, visibility 3 000 m, mist, FEW stratus at 500 ft, SCT stratocumulus at 2 000 ft, OVC altostratus at 9 000 ft, QNH 1023 hPa.</p>\n\n<p>The ceilings (more than 4 oktas) are therefore:</p>",
+  "options": {
+    "a": "1 000 ft at Ajaccio and 500 ft at Calvi.",
+    "b": "1 000 ft at Ajaccio and 2 000 ft at Calvi.",
+    "c": "8 000 ft at Ajaccio and 9 000 ft at Calvi.",
+    "d": "1 000 ft at Ajaccio and 9 000 ft at Calvi."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

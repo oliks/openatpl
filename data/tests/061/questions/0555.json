@@ -1,0 +1,14 @@
+{
+  "number": 555,
+  "questionId": "061-0555",
+  "questionNumber": "061-0555",
+  "stemHtml": "<p>Consider the points A (10\u00b0S 10\u00b0W) and B (10\u00b0N 10\u00b0E). Which formula gives the Earth convergence between these two positions? <br>(Convergency = change in)</p>",
+  "options": {
+    "a": "<p>Longitude (0\u00b0) \u00d7 sin (20\u00b0)</p>",
+    "b": "<p>Longitude (20\u00b0) \u00d7 sin (0\u00b0)</p>",
+    "c": "<p>Longitude (20\u00b0) x sin (10\u00b0)</p>",
+    "d": "<p>Longitude (20\u00b0) x cos (171\u00b0)</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

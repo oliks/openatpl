@@ -1,0 +1,14 @@
+{
+  "number": 418,
+  "questionId": "061-0418",
+  "questionNumber": "061-0418",
+  "stemHtml": "<p>An aircraft is flying between two points (A and B). After 12 minutes of flight, the aircraft is 4 NM left of the planned track. Calculate the drift angle using the 1-in-60 rule:</p>\r\r<p>Distance A to B: 85 NM   <br /> \rAverage groundspeed: 140 kt</p>",
+  "options": {
+    "a": "<p>6\u00b0</p>",
+    "b": "<p>4\u00b0</p>",
+    "c": "<p>8\u00b0 </p>",
+    "d": "<p>12\u00b0 </p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

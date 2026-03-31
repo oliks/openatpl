@@ -1,0 +1,14 @@
+{
+  "number": 78,
+  "questionId": "050-0078",
+  "questionNumber": "050-0078",
+  "stemHtml": "<p>Check the following aerodrome routine and special meteorological reports. Why was the SPECI released?</p>\n\n<p>METAR LFPG 192200Z 35010KT 6000 VCTS -SHRA SCT006 FEW010 BKN020CB 08/07 Q1035 NOSIG <br /> \nSPECI LFPG 192215Z 32022KTG35 2000 TS +SHRA SCT005 BKN005 OVC010 08/07 Q1035</p>",
+  "options": {
+    "a": "The SPECI was released because of the thunderstorm\u2019s approach over the airport and the precipitations\u2019 intensification.",
+    "b": "The SPECI was released to notify the crew about the changing conditions.",
+    "c": "The SPECI is an intermediate message before the release of a new METAR to have more weather information.",
+    "d": "The SPECI intended to warn the flight about the rapidly changing QNH."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

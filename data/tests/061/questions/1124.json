@@ -1,0 +1,14 @@
+{
+  "number": 1124,
+  "questionId": "061-1124",
+  "questionNumber": "061-1124",
+  "stemHtml": "<p>Given that the difference in longitude between 2 points is 18\u00b0 and the latitude 50\u00b0N, what is the convergency?</p>",
+  "options": {
+    "a": "<p>sin (50\u00b0) x 18\u00b0</p>",
+    "b": "<p>cos (50\u00b0) x 18\u00b0</p>",
+    "c": "<p>cos (18\u00b0) x 50\u00b0</p>",
+    "d": "<p>sin (18\u00b0) x 50\u00b0</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1042,
+  "questionId": "062-1042",
+  "questionNumber": "062-1042",
+  "stemHtml": "Which of the following statements about the GBAS is true?",
+  "options": {
+    "a": "Ground stations transmit corrections to satellites which then adjust their position data.",
+    "b": "GBAS consists of at least three geostationary satellites and a network of ground stations .",
+    "c": "Satellites calculate corrections and transmit directly to aircraft within range.",
+    "d": "Ground stations whose positions are known are compared against calculated positions from the satellites."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

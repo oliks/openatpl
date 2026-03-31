@@ -1,0 +1,14 @@
+{
+  "number": 382,
+  "questionId": "062-0382",
+  "questionNumber": "062-0382",
+  "stemHtml": "<p>An aircraft is being vectored for a GLS approach. ATC has given a final heading in order for the aircraft to intercept the final approach course at 25 NM from the landing runway threshold. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Accept the vector because it is within the minimum software-designed coverage area for this type of approach.</p>",
+    "b": "<p>They should NOT accept the vector because it is outside the minimum software-designed coverage area for this approach</p>",
+    "c": "<p>They may accept this vector because satellite-based approaches have NO minimum software-designed coverage area limitations.</p>",
+    "d": "<p>They should NOT accept the vector because the minimum software-designed coverage area for this approach is 12 NM from the landing runway threshold.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

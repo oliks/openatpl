@@ -1,0 +1,19 @@
+{
+  "number": 1100,
+  "questionId": "050-1100",
+  "questionNumber": "050-1100",
+  "stemHtml": "<p>Refer to figure. <br>Using the annex, assess the runway conditions based on the following details:</p><p>Runway Condition Code: FIVE FIVE FIVE <br>First part of the runway: 100% frost <br>Second part of the runway: 100% frost <br>Third part of the runway: 100% frost <br>Runway: 04 </p>",
+  "options": {
+    "a": "<p>Very poor</p>",
+    "b": "<p>Poor</p>",
+    "c": "<p>Good</p>",
+    "d": "<p>Good to Medium</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0407",
+      "publicUrl": "/attachments/050/050-att-0407.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1228,
+  "questionId": "061-1228",
+  "questionNumber": "061-1228",
+  "stemHtml": "<p>Given:</p>\r\n\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\" style=\"letter-spacing:0.7px; width:160px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Course:</td>\r\n\t\t\t<td>040\u00b0(T)</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>TAS:</td>\r\n\t\t\t<td>120 kts</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Wind speed:</td>\r\n\t\t\t<td>30 kts</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>Maximum drift angle will be obtained for a wind direction of:</p>",
+  "options": {
+    "a": "145\u00b0",
+    "b": "130\u00b0",
+    "c": "115\u00b0",
+    "d": "120\u00b0"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 422,
+  "questionId": "040-0422",
+  "questionNumber": "040-0422",
+  "stemHtml": "<p>Select the scenario that best illustrates the main advantage of executing a pre-flight check and planning.</p>",
+  "options": {
+    "a": "<p>A pilot performs only a quick check and later finds he has insufficient fuel to reach a suitable alternate, leading to a critical situation.</p>",
+    "b": "<p>A pilot continues a flight despite noticing a minor oil leak during climb, resulting in a forced landing.</p>",
+    "c": "<p>A pilot skips the weather briefing because conditions look good visually and later encounters unexpected icing.</p>",
+    "d": "<p>A pilot completes full flight planning, realizes the forecast crosswind at destination will exceed aircraft limits, and cancels the flight to depart the next morning when conditions improve.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

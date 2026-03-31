@@ -1,0 +1,14 @@
+{
+  "number": 2300,
+  "questionId": "050-2300",
+  "questionNumber": "050-2300",
+  "stemHtml": "<p>Which factors can lead to the air reaching saturation?</p><p>A: Temperature <br /> B: Water vapour concentration <br /> C: Dew point</p>",
+  "options": {
+    "a": "<p>A decreases, B decreases, C decreases.</p>",
+    "b": "<p>A increases, B increases, C decreases.</p>",
+    "c": "<p>A decreases, B increases, C increases.</p>",
+    "d": "<p>A increases, B decreases, C increases.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

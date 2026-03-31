@@ -1,0 +1,14 @@
+{
+  "number": 102,
+  "questionId": "062-0102",
+  "questionNumber": "062-0102",
+  "stemHtml": "Which of the following options are the correct frequency band, propagation type, and range of usable frequencies for an ILS localiser?",
+  "options": {
+    "a": "UHF, space waves, 329.15 MHz to 335 MHz.",
+    "b": "VHF, ground waves, 108 MHz to 117.975 MHz.",
+    "c": "VHF, space waves, 108.10 MHz to 111.975 MHz.",
+    "d": "UHF, sky waves, 190 kHz to 1750 KHz."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 148,
+  "questionId": "062-0148",
+  "questionNumber": "062-0148",
+  "stemHtml": "<p>A VFR pilot is caught in bad weather and needs to navigate to an airfield in an unfamiliar area to remain in VMC and land. He finds an NDB that is located near the airfield and decides to navigate to it. Which of the following would be the correct action to take?</p>",
+  "options": {
+    "a": "<p>Tune the correct frequency on the ADF, identify the NDB, and use the RBI with the TO indication to intercept and maintain a heading towards the NDB.</p>",
+    "b": "<p>Tune the correct NDB frequency, identify the NDB, and follow the RMI needle with its head pointing to the top of the instrument to fly towards the NDB. Passage over the NDB will be confirmed when the needle swings approximately 180\u00b0.</p>",
+    "c": "<p>Tune the correct NDB frequency, identify the NDB, select the inbound course on the HSI with a TO indication to navigate towards the NDB. Passage over the NDB will be confirmed when the TO indication changes to FROM.</p>",
+    "d": "<p>Enter the position of the NDB into the GNSS and use the QDR as your inbound CRS on the HSI to navigate directly towards the airfield.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

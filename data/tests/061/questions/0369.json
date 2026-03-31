@@ -1,0 +1,19 @@
+{
+  "number": 369,
+  "questionId": "061-0369",
+  "questionNumber": "061-0369",
+  "stemHtml": "<p>Refer to figure. <br /> \rGiven the following, what is the revised ETA 'Z'?</p>\r\r<p>TAS: 120 kt <br /> \rATA at 'X': 12:32 UTC <br /> \rETA at 'Y': 12:47 UTC <br /> \rATA at 'Y': 12:50 UTC</p>",
+  "options": {
+    "a": "<p>13:03 UTC</p>",
+    "b": "<p>13:00 UTC</p>",
+    "c": "<p>12:57 UTC</p>",
+    "d": "<p>13:02 UTC</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0181",
+      "publicUrl": "/attachments/061/061-att-0181.png"
+    }
+  ]
+}

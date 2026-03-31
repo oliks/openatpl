@@ -1,0 +1,19 @@
+{
+  "number": 788,
+  "questionId": "061-0788",
+  "questionNumber": "061-0788",
+  "stemHtml": "<p>Refer to figure.<br>In accordance with the given flight log, the planned fuel at point C is 383 kg, the Minimum Fuel is 345 kg and the fuel check is 437 kg. What is true about the fuel status and what is the appropriate course of action?</p>",
+  "options": {
+    "a": "<p>Fuel is below minimum, divert to the nearest alternate aerodrome.</p>",
+    "b": "<p>Fuel is at planned level, continue as planned.</p>",
+    "c": "<p>Fuel is above planned, you can accept a delay if required.</p>",
+    "d": "<p>Fuel is critical, declare an emergency.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0270",
+      "publicUrl": "/attachments/061/061-att-0270.png"
+    }
+  ]
+}

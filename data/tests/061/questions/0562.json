@@ -1,0 +1,19 @@
+{
+  "number": 562,
+  "questionId": "061-0562",
+  "questionNumber": "061-0562",
+  "stemHtml": "Refer to chart E(LO)2 from Jeppesen GSPRM 2017. <br /> An aircraft is en-route from position A (N55\u00b043', W004\u00b017') to position B (N54\u00b053', W002\u00b053'). Using this information, determine the initial track from position A to position B and also the distance from position A to the point of crossing latitude N55\u00b000'.",
+  "options": {
+    "a": "Track: 139\u00b0(T); Distance: 68 NM",
+    "b": "Track: 136\u00b0(T); Distance: 58 NM",
+    "c": "<p>Track: 131\u00b0(M); Distance: 58 NM</p>",
+    "d": "Track: 139\u00b0(M); Distance: 48 NM"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0168",
+      "publicUrl": "/attachments/061/061-att-0168.jpg"
+    }
+  ]
+}

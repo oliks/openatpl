@@ -1,0 +1,14 @@
+{
+  "number": 1224,
+  "questionId": "062-1224",
+  "questionNumber": "062-1224",
+  "stemHtml": "To which time scale do GPS satellites align their PRN code broadcasts?",
+  "options": {
+    "a": "IAT",
+    "b": "UTC",
+    "c": "GMT",
+    "d": "Satellite Vehicle GPS time"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

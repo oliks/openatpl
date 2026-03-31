@@ -1,0 +1,14 @@
+{
+  "number": 763,
+  "questionId": "062-0763",
+  "questionNumber": "062-0763",
+  "stemHtml": "<p>A warning flag appears on the LOC of the ILS, when might this flag go away?</p>\r\r<p>1. When you activate the correct LOC frequency <br /> \r2. When the signal becomes strong enough <br /> \r3. When within the coverage area <br /> \r4. When within half-scale localiser deflection</p>",
+  "options": {
+    "a": "<p>1 only.</p>",
+    "b": "<p>1, 2 and 3.</p>",
+    "c": "<p>2, 3 and 4.</p>",
+    "d": "<p>1 and 4.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

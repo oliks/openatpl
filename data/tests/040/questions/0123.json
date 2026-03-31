@@ -1,0 +1,14 @@
+{
+  "number": 123,
+  "questionId": "040-0123",
+  "questionNumber": "040-0123",
+  "stemHtml": "<p>After a normal sleep of 8 hours you wake up at 7:00 LT (UTC+1). In the afternoon you have a nap and then you are preparing for a 9 hour eastbound flight that departs at 23:00 LT. When will your arousal levels start reducing significantly?</p>",
+  "options": {
+    "a": "<p>Between 00:00 and 00:59 UTC.</p>",
+    "b": "<p>Between 2:00 and 2:59 UTC.</p>",
+    "c": "<p>Between 5:00 and 5:59 UTC.</p>",
+    "d": "<p>Between 6:00 and 6:59 UTC.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

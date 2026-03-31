@@ -1,0 +1,14 @@
+{
+  "number": 1486,
+  "questionId": "061-1486",
+  "questionNumber": "061-1486",
+  "stemHtml": "<p>At 16:12 UTC a pilot turns overhead \"KOK\" VOR/DME onto a heading 327\u00b0(M) to track the 320\u00b0 radial at a TAS of 140 kt and a calculated ground speed of 158 kt. The pilot takes a fix from KOK at 16:42, and is on VOR radial 323\u00ba at 79.5 nm DME distance.</p><p>If the aircraft has been flown accurately on the selected heading and speed, and given the following conditions, what is the probable reason for the difference between the DR position and the fix at 16:42?</p><p>Forecast wind: 100\u00b0(T)/25 kt <br>Magnetic Variation: 0\u00b0</p>",
+  "options": {
+    "a": "Much larger tailwind component than forecast.",
+    "b": "Much smaller tailwind component than forecast.",
+    "c": "More crosswind component than forecast.",
+    "d": "Less crosswind component than forecast."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

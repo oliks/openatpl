@@ -1,0 +1,14 @@
+{
+  "number": 180,
+  "questionId": "050-0180",
+  "questionNumber": "050-0180",
+  "stemHtml": "You plan a flight over a mountain range at a true altitude of 15 000 ft AMSL. The air is on an average 15 \u00b0C colder than ISA, the pressure at sea level is 1003 hPa. What approximate indication should the altimeter (setting 1013.2 hPa) read?  <br />  \n<em>(Barometric lapse rate: 30 ft/hPa)</em>",
+  "options": {
+    "a": "13 830 ft",
+    "b": "15 690 ft",
+    "c": "14 370 ft",
+    "d": "16 230 ft"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

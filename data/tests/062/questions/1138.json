@@ -1,0 +1,14 @@
+{
+  "number": 1138,
+  "questionId": "062-1138",
+  "questionNumber": "062-1138",
+  "stemHtml": "An aircraft tracking to intercept the Instrument Landing System (ILS) localiser inbound on the approach side, outside the published ILS coverage angle..",
+  "options": {
+    "a": "can expect signals to give correct indications.",
+    "b": "will receive signals without identification coding.",
+    "c": "only glide path information is available.",
+    "d": "may receive false course indications."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

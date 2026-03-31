@@ -1,0 +1,14 @@
+{
+  "number": 499,
+  "questionId": "050-0499",
+  "questionNumber": "050-0499",
+  "stemHtml": "<p>Atmospheric stability is based off the Environmental Lapse Rate (ELR) in comparison to the Dry Adiabatic Lapse Rate (DALR) and Saturated Adiabatic Lapse Rate (SALR). Given the following temperatures at different altitudes, what is the stability of the atmosphere?</p>\r\r<p>Surface temperature: 27\u00b0C <br /> \rTemperature at 300 m: 22.5\u00b0C <br /> \rTemperature at 500 m: 20\u00b0C</p>",
+  "options": {
+    "a": "<p>Stable</p>",
+    "b": "<p>Conditionally Stable</p>",
+    "c": "<p>Unstable</p>",
+    "d": "<p>Neutrally Stable</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

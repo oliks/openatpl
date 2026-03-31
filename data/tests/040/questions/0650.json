@@ -1,0 +1,14 @@
+{
+  "number": 650,
+  "questionId": "040-0650",
+  "questionNumber": "040-0650",
+  "stemHtml": "<p>An aircraft departs at 23:00 LT from Central Europe, and is scheduled to land at 07:00 UTC (LT+1) to the United States. This is a cargo flight and the pilot has slept for 8 hours before the flight, woke up at 08:00 UTC (LT+1) and had an afternoon nap. What time will their performance and energy levels reduce significantly?</p>",
+  "options": {
+    "a": "<p>00:00 - 01:59 UTC</p>",
+    "b": "<p>01:00 - 02:59 UTC</p>",
+    "c": "<p>03:00 - 04:59 UTC</p>",
+    "d": "<p>05:00 - 07:59 UTC</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

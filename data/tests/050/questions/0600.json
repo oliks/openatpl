@@ -1,0 +1,19 @@
+{
+  "number": 600,
+  "questionId": "050-0600",
+  "questionNumber": "050-0600",
+  "stemHtml": "Refer to figure. <br /> The typical weather conditions expected around Darwin during July are:",
+  "options": {
+    "a": "NE monsoon - continuous heavy rain but little thunderstorm activity.",
+    "b": "<p>Mainly clear skies - advection fog drifting inland with the typical NE wind.</p>",
+    "c": "NW monsoon - very wet - proximity of the ITCZ causes widespread thunderstorm activity.",
+    "d": "<p>Dry season - mainly SE winds - visibility reduced by dust and haze.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0248",
+      "publicUrl": "/attachments/050/050-att-0248.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1234,
+  "questionId": "040-1234",
+  "questionNumber": "040-1234",
+  "stemHtml": "<p>How may Cholera be transmitted?</p>",
+  "options": {
+    "a": "<p>Through droplets in the air caused by the breath of an infected person.</p>",
+    "b": "<p>Through bacteria in the form of spores via a puncture in the skin.<span style=\"letter-spacing:0.7px\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b</span></p>",
+    "c": "<p>Through food or water which has been contaminated.</p>",
+    "d": "Through insect bites."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

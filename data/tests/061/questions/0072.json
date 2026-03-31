@@ -1,0 +1,14 @@
+{
+  "number": 72,
+  "questionId": "061-0072",
+  "questionNumber": "061-0072",
+  "stemHtml": "<p>An aircraft is climbing from an airport at Mean Sea Level to an altitude of 21 000 ft. <br /> Determine the wind vector which should be used to plan the climb, given:</p><p>The reported surface wind is 030\u00b0/15 kt and it is in ISA conditions. <br /> The upper winds are: <br /> FL 050: 050\u00b0/25 kt <br /> FL 100: 070\u00b0/30 kt <br /> FL 180: 090\u00b0/40 kt <br /> FL 240: 110\u00b0/50 kt</p>",
+  "options": {
+    "a": "100\u00b0/45 kt",
+    "b": "090\u00b0/40 kt",
+    "c": "080\u00b0/35 kt",
+    "d": "065\u00b0/30 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

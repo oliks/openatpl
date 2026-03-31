@@ -1,0 +1,14 @@
+{
+  "number": 373,
+  "questionId": "062-0373",
+  "questionNumber": "062-0373",
+  "stemHtml": "<p>An NDB is on a relative bearing of 316\u00b0 from an aircraft. Given:</p>\n\n<div>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Compass heading:</td>\n\t\t\t<td>270\u00b0</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>At aircraft deviation:</td>\n\t\t\t<td>2\u00b0W</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>At aircraft variation:</td>\n\t\t\t<td>30\u00b0E</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>At station variation:</td>\n\t\t\t<td>28\u00b0E</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"letter-spacing:0.7px\">Calculate the true bearing of the NDB from the aircraft:</span></p>\n</div>",
+  "options": {
+    "a": "074\u00b0",
+    "b": "252\u00b0",
+    "c": "254\u00b0",
+    "d": "072\u00b0"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

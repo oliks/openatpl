@@ -1,0 +1,14 @@
+{
+  "number": 2037,
+  "questionId": "050-2037",
+  "questionNumber": "050-2037",
+  "stemHtml": "<p>How is prevailing visibility defined?</p>",
+  "options": {
+    "a": "<p>Greatest visibility value observed over at least half of the horizon circle, not necessarily continuous.</p>",
+    "b": "<p>Minimum visibility observed over at least half of the horizon circle.</p>",
+    "c": "<p>Average visibility observed over at least half of the horizon circle.</p>",
+    "d": "<p>Average visibility over half the horizion over the past half hour.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 419,
+  "questionId": "062-0419",
+  "questionNumber": "062-0419",
+  "stemHtml": "How many satellites are required for signal reception to perform an independent three-dimensional fix, Receiver Autonomous Integrity Monitoring (RAIM), and identify and exclude any faulty satellites for failure detection?",
+  "options": {
+    "a": "<p>four</p>",
+    "b": "<p>five</p>",
+    "c": "<p>six</p>",
+    "d": "<p>three</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

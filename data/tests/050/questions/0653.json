@@ -1,0 +1,14 @@
+{
+  "number": 653,
+  "questionId": "050-0653",
+  "questionNumber": "050-0653",
+  "stemHtml": "<p>A weather briefing for a short flight from Paris Orly (LFPO) to Brussels (EBBR) on the 21st November includes the following warning message:</p><p>EBBR AD WRNG 3 VALID 211100/211700 WIND 50KT MAX 65KT OBS WKN=</p><p>The flight is due to land in Brussels at 16:30 UTC. Which of the following options best describes the conditions forecast in the message?</p>",
+  "options": {
+    "a": "<p>Strong winds on approach but weakening closer to the ground, to a maximum of 65 kt.</p>",
+    "b": "Strong surface winds, but NOT as strong as earlier in the warning period.",
+    "c": "<p>Strong surface winds, stronger than those earlier in the warning period.</p>",
+    "d": "Strong surface winds of at least 65 kt."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

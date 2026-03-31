@@ -1,0 +1,14 @@
+{
+  "number": 309,
+  "questionId": "062-0309",
+  "questionNumber": "062-0309",
+  "stemHtml": "<div class=\"WordSection1\">What does RAIM determine?</div>",
+  "options": {
+    "a": "Predicted positions of GNSS satellites to ensure that the required Geometric Dilution Of Precision (GDOP) will be available at all times.",
+    "b": "Accuracy of the computed aircraft position based on input from at least one ground-based radio transmitter.",
+    "c": "Aircraft's position in three dimensions from at least 4 available satellites and one on-board inertial system.",
+    "d": "Integrity of the GNSS navigation signals using only GPS signals or GPS signals augmented with altitude."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

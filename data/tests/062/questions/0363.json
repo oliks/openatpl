@@ -1,0 +1,14 @@
+{
+  "number": 363,
+  "questionId": "062-0363",
+  "questionNumber": "062-0363",
+  "stemHtml": "<p>Consider RNAV and RNP system functions. An \u201coffset flight path\u2019\u2019 is\u2026</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">A variable lateral offset from a defined route that can be applied for the entire length of the route, including the approach procedure.</p>",
+    "b": "<p dir=\"ltr\">A lateral offset from a defined route, and the offset must be intercepted at an angle of 45 degrees or more.</p>",
+    "c": "<p dir=\"ltr\">A lateral offset from a defined route, which is specified in increments of 1 NM up to 20 NM.</p>",
+    "d": "A parallel path that is offset only to the left of the original active route."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

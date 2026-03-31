@@ -1,0 +1,14 @@
+{
+  "number": 1317,
+  "questionId": "062-1317",
+  "questionNumber": "062-1317",
+  "stemHtml": "What happens when the ATC transponder \"IDENT\" button is pressed by the pilot?",
+  "options": {
+    "a": "The airplane's symbol on the controller's display will flash or \"fill in\".",
+    "b": "The airplane's identification will be sent to all SSRs within range.",
+    "c": "The controller will be urged to identify this airplane.",
+    "d": "Mode A will automatically be selected."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

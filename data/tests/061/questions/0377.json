@@ -1,0 +1,14 @@
+{
+  "number": 377,
+  "questionId": "061-0377",
+  "questionNumber": "061-0377",
+  "stemHtml": "<p>A pilot is planned to fly a track of 270\u00b0(T) towards ZVR VOR. At 10:20 UTC they plot their position and determine that they are on course. At 10:32 UTC, after having travelled for 60 NM, the pilot plots their position again and finds themselves 10 NM off-track towards the south. Given the following information, calculate their average drift from 10:20 UTC to 10:32 UTC.</p><p>TAS: 280 kt <br>Forecast Wind: 150\u00b0/30 kt</p>",
+  "options": {
+    "a": "<p>5\u00b0 Left</p>",
+    "b": "<p>5\u00b0 Right</p>",
+    "c": "<p>10\u00b0 Right</p>",
+    "d": "<p>10\u00b0 Left</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

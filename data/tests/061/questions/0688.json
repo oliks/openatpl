@@ -1,0 +1,19 @@
+{
+  "number": 688,
+  "questionId": "061-0688",
+  "questionNumber": "061-0688",
+  "stemHtml": "<p>Refer to figure.<br />Given the following information from the flight log, calculate the wind direction and speed affecting the flight leg from A to TOC:</p><p>Track: 047\u00b0<br />Heading: 058\u00b0<br />TAS: 145 kt<br />GS: 121 kt</p>",
+  "options": {
+    "a": "<p>100\u00b0/37 kt</p>",
+    "b": "<p>130\u00b0/30 kt</p>",
+    "c": "<p>310\u00b0/30 kt</p>",
+    "d": "<p>130\u00b0/25 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0299",
+      "publicUrl": "/attachments/061/061-att-0299.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2341,
+  "questionId": "050-2341",
+  "questionNumber": "050-2341",
+  "stemHtml": "A METAR reports a visibility of 8 km. Added to the report is a \"BECMG 4000\". What can you expect to happen to the visibility?",
+  "options": {
+    "a": "Improve from 4 000 m to 8 000 m in the next 2 hours.",
+    "b": "Vary between 4 and 8 km.",
+    "c": "Decrease to 4 km within the next 2 hours.",
+    "d": "Decrease to 4 km within 1 hour."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 21,
+  "questionId": "050-0021",
+  "questionNumber": "050-0021",
+  "stemHtml": "<p>According ICAO Annex 3 definition, \"visibility\" is the greater of:</p><p>1. The greatest distance at which a black object of suitable dimensions, situated near the ground, can be seen and recognized when observed against a bright background<br>2. The greatest distance at which lights in the vicinity of 1000 candelas can be seen and identified against an unlit background</p>",
+  "options": {
+    "a": "<p>1 is incorrect, 2 is incorrect.</p>",
+    "b": "<p>1 is incorrect, 2 is correct.</p>",
+    "c": "<p>1 is correct, 2 is incorrect.</p>",
+    "d": "<p>1 is correct, 2 is correct.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

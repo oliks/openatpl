@@ -1,0 +1,14 @@
+{
+  "number": 2554,
+  "questionId": "050-2554",
+  "questionNumber": "050-2554",
+  "stemHtml": "<p>You plan to depart from Runway 08 at 11:00 UTC out of Gatwick. The METAR reports wind from 060<strong>\u00b0</strong> at 8 kt over flat, unobstructed terrain. Due to a two-hour delay, you are now cleared for departure at 13:00 UTC. How will the wind speed and direction change by the time of departure?</p>",
+  "options": {
+    "a": "<p>Veer and increase.</p>",
+    "b": "<p>Veer and decrease.</p>",
+    "c": "<p>Back and decrease.</p>",
+    "d": "<p>Back and increase.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

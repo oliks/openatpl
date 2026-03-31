@@ -1,0 +1,14 @@
+{
+  "number": 74,
+  "questionId": "040-0074",
+  "questionNumber": "040-0074",
+  "stemHtml": "<p>An aircraft experiences a landing-gear malfunction while executing an approach for landing. The pilots are unable to determine the condition of the landing gear extension. In order to resolve the situation and prepare the aircraft for an emergency landing, they remain in the published holding pattern for one hour. When the aircraft exits the holding pattern to start its approach for landing, the aircraft runs out of fuel. The pilots failed to notice the critical fuel quantity while resolving the landing gear issue. Which statement describes the situation?</p>",
+  "options": {
+    "a": "This type of incident is unlikely to occur, because monitoring the fuel quantity and calculating the fuel consumption during flight are ordinary tasks that would be automatically carried out by the Crew.",
+    "b": "The Crew failed to follow the procedure designed for landing-gear malfunctions. In order to prevent the risk of overlooking important tasks if an abnormal situation arises, specific checklists are used. These would include routine tasks such as fuel monitoring.",
+    "c": "The Crew's attention was distracted from important yet basic operations in this situation of high workload. This is a risk that must be taken into account and addressed in training, in order to prevent safety hazards.",
+    "d": "There was a failure in the fuel warning system. The Crew focus their attention on the most critical issue and employ their resources to solve the problem, because they are aware that the aircraft systems are designed to monitor parameters and warn the crew if any limitations are exceeded."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1021,
+  "questionId": "062-1021",
+  "questionNumber": "062-1021",
+  "stemHtml": "Which of the following correctly describes the principle of Receiver Autonomous Integrity Monitoring (RAIM)?",
+  "options": {
+    "a": "is guaranteed to be available for all scheduled flight operations at mid-latitudes.",
+    "b": "requires at least five satellites with good geometry to provide the service of detecting faulty signals and alerting the crew.",
+    "c": "must be assured at all times in order to utilise Global Navigation Satellite System ( GNSS)signals in any augmentation system.",
+    "d": "is available if range from at least three satellites is supplemented by barometric aiding."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

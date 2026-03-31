@@ -1,0 +1,14 @@
+{
+  "number": 1190,
+  "questionId": "062-1190",
+  "questionNumber": "062-1190",
+  "stemHtml": "<p dir=\"ltr\">How is the Special Position Identification (SPI) pulse transmitted?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">By the SSR interrogator if it is suspected that responses are received from aircraft that are located in the direction of the side lobes of the interrogator antenna.</p>",
+    "b": "<p dir=\"ltr\">By the SSR interrogator in order to request the identification of an aircraft.</p>",
+    "c": "<p dir=\"ltr\">By the transponder as a result of the pilot pushing the IDENT button.</p>",
+    "d": "Automatically when the transponder responds to a mode A interrogation."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 425,
+  "questionId": "061-0425",
+  "questionNumber": "061-0425",
+  "stemHtml": "The chart convergency between two locations on a Lambert chart:",
+  "options": {
+    "a": "depends on the difference in longitude of the two positions only.",
+    "b": "depends on the mean latitude of the two positions and on the difference in longitude.",
+    "c": "depends on the latitude of the parallel of origin and on the difference in longitude of the two positions.",
+    "d": "depends on the latitude of the parallel of origin only."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1467,
+  "questionId": "050-1467",
+  "questionNumber": "050-1467",
+  "stemHtml": "<p>Given the following information, what will the altimeter need to indicate (with the correct QNH set) to ensure the aircraft is flying at the MSA?</p>\r\n\r\n<p>MSA = 3 500 ft<br />\r\nOAT = ISA -12&deg;C<br />\r\nQNH = 980 hPa<br />\r\nAerodrome elevation = 0 ft</p>\r\n",
+  "options": {
+    "a": "<p>3 330 ft</p>",
+    "b": "<p>3 500 ft</p>",
+    "c": "<p>3 670 ft</p>",
+    "d": "<p>4 660 ft</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

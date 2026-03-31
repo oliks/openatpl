@@ -1,0 +1,14 @@
+{
+  "number": 122,
+  "questionId": "050-0122",
+  "questionNumber": "050-0122",
+  "stemHtml": "<p>What is one of the advantages associated with gridded forecasts compared to traditional forecast products?</p>",
+  "options": {
+    "a": "These forecasts are constantly updated in real-time, and these updates may be provided to crews if their aircraft is suitably equipped to receive them.",
+    "b": "Gridded forecasts offer NO specific advantages to pilots because a traditional forecast such as a TAF offers the same information.",
+    "c": "Gridded forecasts can be merged in information processing systems with data from aircraft reports to provide improved situational awareness.",
+    "d": "Gridded forecasts use less memory in a Flight Management System, allowing more rapid refreshing of the Primary Flight Display."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

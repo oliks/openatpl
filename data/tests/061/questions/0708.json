@@ -1,0 +1,14 @@
+{
+  "number": 708,
+  "questionId": "061-0708",
+  "questionNumber": "061-0708",
+  "stemHtml": "<p>Given the following information, what RoC is required to climb to FL80?</p><p>Distance to climb: 25 NM\u00a0<br>QNH: 997 hPa\u00a0<br>Transition altitude: 5000 ft\u00a0<br>Aerodrome level: 300 ft\u00a0<br>Mean GS during the climb: 160 kt\u00a0<br>Assume 30 ft per 1 hPa</p>",
+  "options": {
+    "a": "<p>770 ft/min</p>",
+    "b": "<p>800 ft/min</p>",
+    "c": "<p>850 ft/min</p>",
+    "d": "<p>900 ft/min</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

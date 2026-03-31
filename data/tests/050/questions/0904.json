@@ -1,0 +1,14 @@
+{
+  "number": 904,
+  "questionId": "050-0904",
+  "questionNumber": "050-0904",
+  "stemHtml": "<p>During a brief and highly active positioning flight, the flight crew overlooks the selection of the appropriate QNH for the destination airfield. Given the details provided below, if they touch down at the destination airfield with the QNH from the departure airfield still set, what reading would the altimeter display upon landing?</p>\r\r<p>Departure Airfield: QNH 1010; Elevation 300 ft <br /> \rDestination Airfield: QNH 1012; Elevation 420 ft</p>\r\r<p>Assume 30 ft per 1 hPa</p>",
+  "options": {
+    "a": "<p>420 ft</p>",
+    "b": "<p>390 ft</p>",
+    "c": "<p>380 ft</p>",
+    "d": "<p>360 ft</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

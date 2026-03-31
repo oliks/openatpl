@@ -1,0 +1,14 @@
+{
+  "number": 597,
+  "questionId": "062-0597",
+  "questionNumber": "062-0597",
+  "stemHtml": "<p>For PBN operations, what is true regarding fly-by turns and fly-over turns?</p>",
+  "options": {
+    "a": "<p>Fly-by waypoints are used when the aircraft must first fly over the waypoint before starting a turn.</p>",
+    "b": "Fly-by and fly-over waypoints are compatible with both RNAV and RNP flight tracks.",
+    "c": "The fly-by turn can be used in RNP flight tracks but fly-over turns are excluded.",
+    "d": "Pilots can change a route database waypoint type from a fly-by to a fly-over."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

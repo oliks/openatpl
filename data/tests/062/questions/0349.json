@@ -1,0 +1,14 @@
+{
+  "number": 349,
+  "questionId": "062-0349",
+  "questionNumber": "062-0349",
+  "stemHtml": "<p>Which of the following errors are the most significant for NAVSTAR/GPS?</p>",
+  "options": {
+    "a": "<p>Dilution of precision and clock error.</p>",
+    "b": "<p>Ionospheric propagation and ephemeris.</p>",
+    "c": "<p>RAIM and multipath errors.</p>",
+    "d": "<p>Tropospheric propagation and dilution of precision.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

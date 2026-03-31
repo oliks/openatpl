@@ -1,0 +1,14 @@
+{
+  "number": 889,
+  "questionId": "050-0889",
+  "questionNumber": "050-0889",
+  "stemHtml": "<p>On the approach, the surface temperature is given as -5 \u00b0C. The freezing level is at 3 000 ft AGL. At 4 000 ft AGL there is a solid cloud layer from which rain is falling. According to the weather briefing, the clouds are due to an inversion caused by warm air sliding up and over an inclined front.</p>\n\n<p>Would you expect icing?</p>",
+  "options": {
+    "a": "Yes, but only between 3 000 and 4 000 ft AGL.",
+    "b": "No, flights clear of cloud experience no icing.",
+    "c": "No, absolutely no icing will occur.",
+    "d": "Yes, between ground level and 3 000 ft AGL."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1100,
+  "questionId": "062-1100",
+  "questionNumber": "062-1100",
+  "stemHtml": "<p>A VOR and an NDB are located in the same position. Both the VOR- and the ADF-readings are displayed on the RMI. The aircraft is tracking away from the beacons along the 090 radial. The magnetic variation is changing rapidly. Which of the following is correct?</p>",
+  "options": {
+    "a": "<p>The direction of the VOR pointer will change, the direction of the ADF pointer will not change.</p>",
+    "b": "<p>Both the direction of the ADF pointer and the direction of the VOR pointer will change.</p>",
+    "c": "<p>Neither the direction of the ADF pointer nor the direction of the VOR pointer will change.</p>",
+    "d": "<p>The direction of the ADF pointer will change, the direction of the VOR pointer will not change.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

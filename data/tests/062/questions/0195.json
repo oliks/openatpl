@@ -1,0 +1,14 @@
+{
+  "number": 195,
+  "questionId": "062-0195",
+  "questionNumber": "062-0195",
+  "stemHtml": "During the flight, you observe that what you saw as one return on your AWR screen, has now turned into two separate echoes. Which of the following statements is correct?",
+  "options": {
+    "a": "The AWR is malfunctioning and the information cannot be trusted.",
+    "b": "This is a function that shows areas of CAT.",
+    "c": "This is due to unwanted returns from contamination on the radome.",
+    "d": "This is normal since with decreasing range the beam width azimuth will also decrease."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

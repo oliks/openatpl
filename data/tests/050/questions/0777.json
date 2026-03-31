@@ -1,0 +1,19 @@
+{
+  "number": 777,
+  "questionId": "050-0777",
+  "questionNumber": "050-0777",
+  "stemHtml": "<div>Refer to figure.</div>\r\n\r\n<div>The weather most likely to be experienced at position \"A\" is..</div>",
+  "options": {
+    "a": "<div>snow showers - gale force wind</div>",
+    "b": "<div>advection fog</div>",
+    "c": "<div>clear skies - radiation fog forming overnight</div>",
+    "d": "<p>continuous drizzle and hill fog</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0358",
+      "publicUrl": "/attachments/050/050-att-0358.jpeg"
+    }
+  ]
+}

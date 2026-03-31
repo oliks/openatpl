@@ -1,0 +1,14 @@
+{
+  "number": 660,
+  "questionId": "062-0660",
+  "questionNumber": "062-0660",
+  "stemHtml": "\nThe ILS receiver of an aircraft flying down the exact runway centreline will receive:\n\n\n\n\n\n",
+  "options": {
+    "a": "no modulated signal because the left and the right lobes cancel each other along the centerline.",
+    "b": "90 Hz and 150 Hz lobes at equal depth.",
+    "c": "the same frequency modulated signal from both lobes with the maximum of magnitude.",
+    "d": "the maximum magnitude of the difference between the 90 Hz and 150 Hz amplitudes."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

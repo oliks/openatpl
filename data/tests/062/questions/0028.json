@@ -1,0 +1,14 @@
+{
+  "number": 28,
+  "questionId": "062-0028",
+  "questionNumber": "062-0028",
+  "stemHtml": "Within the Performance Based Navigation concept, RNP requires on-board performance monitoring and alerting. An advanced navigation system such as a Flight Management System (FMS) will assess its own position and calculate an Estimated Position Error (EPE). How can this be achieved?",
+  "options": {
+    "a": "The Inertial Reference System (IRS) provides the ultimate reference for the aircraft's position; the position determined by radio navigation will be a measure of the error of the FMS position.",
+    "b": "Aircraft with a single FMS will compare the FM position with the IRS position and will use the difference, if any, to calculate a bias that is applied to the FMS position to improve its accuracy.",
+    "c": "<p>This process requires at least two independent FMSs in order for them to compare each other\u2019s position, thereby calculating a correction to be applied to the FMS positions.</p>",
+    "d": "The FMS will use several sources of navigation information and, depending on their expected accuracy, create a comparison between these position data and the FMS position."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

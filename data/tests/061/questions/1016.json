@@ -1,0 +1,14 @@
+{
+  "number": 1016,
+  "questionId": "061-1016",
+  "questionNumber": "061-1016",
+  "stemHtml": "<p>You are flying on an easterly heading across the International Date Line. You departed on the 14<strong><sup>th</sup></strong> of August at 03:00 ST (UTC+11) and the flight time is 9 hours. What ST and local date will you arrive at your destination (UTC -2)?</p>",
+  "options": {
+    "a": "<p>23:00 ST, 13<sup>th</sup> of August    </p>",
+    "b": "<p>10:00 ST, 14<sup>th</sup> of August     </p>",
+    "c": "<p>10:00 ST, 13<sup>th</sup> of August     </p>",
+    "d": "<p>23:00 ST, 14<sup>th</sup> of August </p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

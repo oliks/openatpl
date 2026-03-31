@@ -1,0 +1,14 @@
+{
+  "number": 651,
+  "questionId": "050-0651",
+  "questionNumber": "050-0651",
+  "stemHtml": "<p>During pre-flight setup, a pilot incorrectly sets the altimeter subscale to 987 hPa instead of the correct QNH of 997 hPa. Given the airfield elevation is 270 ft and assuming a pressure lapse rate of 27 ft per hPa, what will the altimeter indicate on the ground?</p>",
+  "options": {
+    "a": "<p>0 ft</p>",
+    "b": "<p>270 ft</p>",
+    "c": "<p>540 ft</p>",
+    "d": "<p>-270 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1420,
+  "questionId": "061-1420",
+  "questionNumber": "061-1420",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich of the coloured lines represents the shortest path between the two points? <br /> \rThe (1) _____ represents the shortest distance between the two points as it is (2) _____, and the distance between the two points is smaller at (3) _____ if the difference in longitude remains the same.</p>",
+  "options": {
+    "a": "<p>(1) Great circle; (2) curved; (3) 5\u00b0N</p>",
+    "b": "<p>(2) Great circle; (2) curved; (3) 45\u00b0N</p>",
+    "c": "<p>(2) Rhumb line; (2) straight; (3) 5\u00b0N</p>",
+    "d": "<p>(2) Rhumb line; (2) straight; (3) 45\u00b0N</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0022",
+      "publicUrl": "/attachments/061/061-att-0022.png"
+    }
+  ]
+}

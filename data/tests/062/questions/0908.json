@@ -1,0 +1,14 @@
+{
+  "number": 908,
+  "questionId": "062-0908",
+  "questionNumber": "062-0908",
+  "stemHtml": "Receiver Autonomous Integrity Monitoring (RAIM) is a method used to ensure the integrity of navigational data. With GNSS, this is achieved by\u2026",
+  "options": {
+    "a": "checking the consistency of the range measurements from a group of at least five satellites.",
+    "b": "using information from additional on-board sensors such as the Inertial Reference System (IRS)",
+    "c": "averaging the position solutions obtained from five satellites.",
+    "d": "applying the ionospheric and atmospheric corrections to the range measurements from satellites."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

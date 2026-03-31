@@ -1,0 +1,14 @@
+{
+  "number": 1034,
+  "questionId": "062-1034",
+  "questionNumber": "062-1034",
+  "stemHtml": "Whenever an aircraft is flying nearby the coverage area of an ILS approach it may experience multipath signal reflections from objects within the ILS coverage area. What will the ILS indicator show in this situation?",
+  "options": {
+    "a": "Warning flags permanently indicating that the signals are NOT reliable and should NOT be followed.",
+    "b": "Frequently changing, random deflections with warning flags occasionally appearing.",
+    "c": "Steady, reverse-sense indications for both the localiser and the glideslope.",
+    "d": "Steady, normal-sense indications for both the localiser and the glideslope."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

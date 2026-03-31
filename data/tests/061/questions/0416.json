@@ -1,0 +1,19 @@
+{
+  "number": 416,
+  "questionId": "061-0416",
+  "questionNumber": "061-0416",
+  "stemHtml": "<p>Refer to figure.<br>Deviation can either have a P (Plus) or M (Minus) Sign (S). If Number (N) is the number of degrees, and Direction (D) indicates whether the deviation is E (East) or W (West), fill in the following statement.</p><p>The pilot wishes to fly on a magnetic heading of 304\u00b0. The compass heading should be determined with a deviation value of (N) _____ and a designator of either (S) _____ or (D) _____.</p>",
+  "options": {
+    "a": "<p>2\u00b0; Plus; East</p>",
+    "b": "<p>1\u00b0; Plus; West</p>",
+    "c": "<p>2\u00b0; Minus; West</p>",
+    "d": "<p>1\u00b0; Minus; East</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0264",
+      "publicUrl": "/attachments/061/061-att-0264.png"
+    }
+  ]
+}

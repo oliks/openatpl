@@ -1,0 +1,14 @@
+{
+  "number": 467,
+  "questionId": "062-0467",
+  "questionNumber": "062-0467",
+  "stemHtml": "Assume that one of the satellites used by a GPS receiver is faulty and that the PDOP has a relatively low value. When the signals of six satellites are received (including the faulty one) the RAIM software in the receiver is:",
+  "options": {
+    "a": "Able to detect that one of the satellites is faulty and is able to identify and isolate the faulty one.",
+    "b": "Able to detect that one of the satellites is faulty but is unable to identify the faulty one.",
+    "c": "NOT active, as the software needs at least eight satellites to function correctly.",
+    "d": "Unable to detect and identify the faulty satellite."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

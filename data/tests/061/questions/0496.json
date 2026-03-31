@@ -1,0 +1,14 @@
+{
+  "number": 496,
+  "questionId": "061-0496",
+  "questionNumber": "061-0496",
+  "stemHtml": "How does the scale vary on a Direct Mercator chart?",
+  "options": {
+    "a": "The scale is constant.",
+    "b": "The scale increases south of the Equator and decreases north of the Equator.",
+    "c": "The scale increases with increasing distance from the Equator.",
+    "d": "The scale decreases with increasing distance from the Equator."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

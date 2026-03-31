@@ -1,0 +1,19 @@
+{
+  "number": 1013,
+  "questionId": "061-1013",
+  "questionNumber": "061-1013",
+  "stemHtml": "<p>Refer to figure. <br>Given the following information, what are the two radials applicable to the aircraft\u2019s position?</p><p>Aircraft position: N54\u00b005\u2019 W003\u00b010\u2019 <br>POLE HILL (POL) VOR (N53\u00b045\u2019 W002\u00b006\u2019) <br>WALLASEY (WAL) VOR (N53\u00b023\u2019 W003\u00b008\u2019)</p>",
+  "options": {
+    "a": "<p>POL VOR 306\u00b0; WAL VOR 000\u00b0</p>",
+    "b": "<p>POL VOR 298\u00b0; WAL VOR 002\u00b0</p>",
+    "c": "<p>POL VOR 332\u00b0; WAL VOR 035\u00b0</p>",
+    "d": "<p>POL VOR 301\u00b0; WAL VOR 001\u00b0</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0072",
+      "publicUrl": "/attachments/061/061-att-0072.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 171,
+  "questionId": "050-0171",
+  "questionNumber": "050-0171",
+  "stemHtml": "<p>Which interpretation of the following message is correct?</p><p>LFLD AD WRNG 1 VALID 050300/050700 RIME OBS 0300Z=</p>",
+  "options": {
+    "a": "<p>AD warning forecasting rime ice to be present at the airport at 0300 z, which may also affect parked aircraft, valid from 0300 z to 0700 z.</p>",
+    "b": "<p>Rime ice was observed at 300 ft on approach.</p>",
+    "c": "<p>AD warning about rime ice which was observed at the airport at 0300 z, and may also be affecting parked aircraft, valid from 0300 z to 0700 z.</p>",
+    "d": "<p>Rime ice observed by arriving or departing traffic at 0300 z and will be predicted to stay until 0700 z.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

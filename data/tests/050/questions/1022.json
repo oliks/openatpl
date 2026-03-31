@@ -1,0 +1,14 @@
+{
+  "number": 1022,
+  "questionId": "050-1022",
+  "questionNumber": "050-1022",
+  "stemHtml": "<p>What is the lowest possible cloud base forecast for 23:00 UTC?</p>\n\n<p><span style=\"letter-spacing:0.7px\">EDDF 272200Z 2806/2824 VRB05KT 4000 BR SCT005 OVC013 BECMG 2813/2814 9000 SHRA OVC015 PROB40 TEMPO 2814/2816 VRB15G25KT 1600 TSRA OVC010CB BECMG 2816/2818 26010KT BECMG 2821/2822 CAVOK=</span></p>",
+  "options": {
+    "a": "3000 feet",
+    "b": "1500 feet",
+    "c": "5000 feet",
+    "d": "500 feet"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

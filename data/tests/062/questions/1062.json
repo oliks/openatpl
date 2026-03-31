@@ -1,0 +1,14 @@
+{
+  "number": 1062,
+  "questionId": "062-1062",
+  "questionNumber": "062-1062",
+  "stemHtml": "<p>A student pilot wants to practise an RNP APCH to LPV minima. In the planning phase, the pilot finds out he/she needs a FAS data block (FAS DB). What is the FAS data block used for? It is used to:</p>",
+  "options": {
+    "a": "Select a minimum descent altitude depending on the outside air temperature.",
+    "b": "Programme the arrival route through waypoints and path terminators.",
+    "c": "<p>Feed the GNSS receiver with the differential corrections for the area.</p>",
+    "d": "Describe the final approach path, both laterally and vertically."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

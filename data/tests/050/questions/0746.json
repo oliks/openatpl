@@ -1,0 +1,14 @@
+{
+  "number": 746,
+  "questionId": "050-0746",
+  "questionNumber": "050-0746",
+  "stemHtml": "<p>These four elements have been removed from the tropical advisory extract below: INTSF, JACQUES, 976HPA, NADI.</p><p>TC ADVISORY <br /> DTG: 20130712/1900Z <br /> TCAC:(1) _____ <br /> TC:(2) _____ <br /> TC ADVISORY NR: 2013/6 <br /> OBS PSN: 12/1800Z N2706 W07306 <br /> CB:W1 120NM OF TC CENTRE TOP FL450 <br /> MOV: SE 35 KMH <br /> INTST CHANGE:(3) _____ <br /> C:(4) _____ <br /> MAX WIND: 30MPS</p><p>The correct sequence is:</p>",
+  "options": {
+    "a": "<p>(1) INSTF; (2) NADI; (3) 976HPA; (4) JACQUES</p>",
+    "b": "<p>(1) JACQUES; (2) 976HPA; (3) NADI; (4) INTSF</p>",
+    "c": "<p>(1) 976HPA: (2) INTSF; (3) JACQUES; (4) NADI</p>",
+    "d": "(1) NADI; (2) JACQUES; (3) INTSF; (4) 976HPA"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

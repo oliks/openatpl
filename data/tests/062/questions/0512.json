@@ -1,0 +1,14 @@
+{
+  "number": 512,
+  "questionId": "062-0512",
+  "questionNumber": "062-0512",
+  "stemHtml": "What is correct regarding the sensitive and critical areas of an ILS installation?",
+  "options": {
+    "a": "The critical area is an area where movement and parking of vehicles, including aircraft, is controlled during all ILS operations, the sensitive area is a larger area where the same restrictions apply when aircraft are inside 2 NM on the approach.",
+    "b": "<p>The critical area is an area where vehicles, including aircraft, are prohibited during all ILS operations whereas the sensitive area is an area where movement and parking of vehicles, including aircraft, is controlled during all ILS operations.</p>",
+    "c": "<p>The sensitive area is an area where vehicles, including aircraft, are prohibited during all ILS operations whereas the critical area is an area where movement and parking of vehicles, including aircraft, is controlled during all ILS operations.</p>",
+    "d": "<p>The critical area is an area where vehicles, including aircraft, are prohibited during all ILS operations, the sensitive area is a larger area where the same restrictions apply when aircraft are inside 2 NM on the approach.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

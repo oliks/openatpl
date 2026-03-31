@@ -1,0 +1,14 @@
+{
+  "number": 752,
+  "questionId": "062-0752",
+  "questionNumber": "062-0752",
+  "stemHtml": "<p>When the BFO switch is used, what happens in the ADF?</p>",
+  "options": {
+    "a": "<p>The BFO circuit is activated, and the receiver accepts only A1A modulated signals.</p>",
+    "b": "<p>The BFO circuit is de-activated.</p>",
+    "c": "<p>The BFO circuit oscillates at an increased frequency in order to allow identification of A2A NDBs.</p>",
+    "d": "<p>The BFO circuit imposes a tone onto the carrier wave to make the NDB's ident audible.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

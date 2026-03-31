@@ -1,0 +1,14 @@
+{
+  "number": 1151,
+  "questionId": "062-1151",
+  "questionNumber": "062-1151",
+  "stemHtml": "<p>You are trying to get a bearing on an NDB in the HF frequency range. In theory, how can you best receive a strong enough signal?</p>",
+  "options": {
+    "a": "<p>Climb to increase your chance of capturing the sky wave.</p>",
+    "b": "<p>Climb to increase your chance of capturing the ground wave.</p>",
+    "c": "<p>Increase your distance from the NDB to better capture the ground wave.</p>",
+    "d": "<p>Fly towards the NDB to better capture the sky wave.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

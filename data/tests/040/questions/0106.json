@@ -1,0 +1,14 @@
+{
+  "number": 106,
+  "questionId": "040-0106",
+  "questionNumber": "040-0106",
+  "stemHtml": "<p>An aircraft is flying at an altitude of 2 000 feet, the aircraft must intercept the glide slope from above for an automatic ILS approach. The SPEED autothrottle mode is selected on the Mode Control Panel. Just before the descent the left (number 1) radio altimeter reading drops to -8 ft, which automatically causes the autothrottle to close (RETARD). The right (number 2) radio altimeter reads 2000 ft. The pilots see the change in the autothrottle setting but, as the number 2 radio altimeter is still operating, they assume that it still controls the autothrottle and that the RETARD mode is normal for the descent. They do NOT adjust the settings on the Mode Control Panel. On intercepting the glide slope, the pilots assume the autothrottle will automatically enter the SPEED mode, and do NOT detect that the throttles actually remain closed until the loss of airspeed becomes critical. What does this scenario indicate about the pilots' assessment of the situation?</p>",
+  "options": {
+    "a": "This scenario illustrates how complacency can jeopardise safety; although the workload level is high, the pilots' incorrect inputs to the Mode Control Panel place the aircraft in a hazardous situation.",
+    "b": "The pilots commit a manual handling error by failing to check the reason for the autothrottle RETARD and they also commit a lapse by failing to notice that the autothrottle remains closed.",
+    "c": "The pilots have good mode awareness but they commit manual handling errors and lapses by failing to follow Standard Operating Procedures and failing to carry out checks.",
+    "d": "The pilots have mode confusion and an incorrect mental model created by the cognitive illusion that the autothrottle is operating normally."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

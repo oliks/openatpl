@@ -1,0 +1,14 @@
+{
+  "number": 1442,
+  "questionId": "061-1442",
+  "questionNumber": "061-1442",
+  "stemHtml": "<p>Given the following information, calculate the required heading and ground speed applying the triangle of velocities.</p><p>Required Track: 230\u00b0(T)\u00a0<br>Wind: 315\u00b0(T)/45 kt\u00a0<br>True Airspeed (TAS): 320 kt</p>",
+  "options": {
+    "a": "<p>Heading: 239\u00b0(T); GS: 312 kt</p>",
+    "b": "<p>Heading: 230\u00b0(T); GS: 312 kt</p>",
+    "c": "<p>Heading: 222\u00b0(T); GS: 312 kt</p>",
+    "d": "<p>Heading: 222\u00b0(T); GS: 328 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1032,
+  "questionId": "050-1032",
+  "questionNumber": "050-1032",
+  "stemHtml": "<p>You are flying a route directly from Barcelona to Rome. There is a flat pressure pattern located in Barcelona and a low-pressure zone located around Rome. What is the average wind direction and how does its speed change?</p>",
+  "options": {
+    "a": "<p>Wind coming from the South, and the wind speed is increasing.</p>",
+    "b": "<p>Wind coming from the North, and the wind speed is increasing.</p>",
+    "c": "<p>Wind coming from the South, and the wind speed is decreasing.</p>",
+    "d": "<p>Wind coming from the North, and wind speed is decreasing.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

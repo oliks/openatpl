@@ -1,0 +1,14 @@
+{
+  "number": 833,
+  "questionId": "062-0833",
+  "questionNumber": "062-0833",
+  "stemHtml": "What is the effect of multipath signals (coming from the same aircraft) at the Ground VHF Direction Finder station?",
+  "options": {
+    "a": "They may result in bearing errors.",
+    "b": "Regardless the difference in distance travelled by these signals, it results in their extinction of the signals at the Ground VHF Direction Finder station.",
+    "c": "It may result in an increase of the distance at which the Ground VHF Direction Finder station receives signals from the aircraft, if the Ground Station is situated in the skip zone.",
+    "d": "It reduces the range at which the Ground VHF Direction Finder station receives signals from the aircraft."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

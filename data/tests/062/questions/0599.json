@@ -1,0 +1,14 @@
+{
+  "number": 599,
+  "questionId": "062-0599",
+  "questionNumber": "062-0599",
+  "stemHtml": "At night, the Commander notices some erratic movement of the ADF needle. Although a specific NDB has been selected, the commander can also hear a second NDB identification code. What could be the reason?",
+  "options": {
+    "a": "The sky waves are eliminated at night making more power available to the ground waves, thus increasing the range and causing interference with distant stations.",
+    "b": "The ionospheric reflections of the NDB Transmissions amplify the ground wave, increasing the range and causing interference with distant stations.",
+    "c": "The ground wave component of an NDB extends to a far greater distance than the sky wave component, causing interference.",
+    "d": "The sky wave component of an NDB extends to a far greater distance than the ground wave component, causing interference."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

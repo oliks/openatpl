@@ -1,0 +1,14 @@
+{
+  "number": 2036,
+  "questionId": "050-2036",
+  "questionNumber": "050-2036",
+  "stemHtml": "<p>Which choice accurately interprets the information provided in the METAR report for London Heathrow (EGLL)?</p>\r\n\r\n<p>EGLL 141220Z 30020G30KT 270V330 5000 SHRA SCT005 BKN012CB 04/01 Q0999 RETS WS RW R27L BECMG 32010KT 9999 NSW SCT018.</p>",
+  "options": {
+    "a": "<p>The weather reported at 141220 UTC is showers of rain from 4 to 6 oktas of CB base 1200 ft above aerodrome level.</p>",
+    "b": "<p>The information in the METAR indicates that a warm front is moving away from the airport after 141220 UTC.</p>",
+    "c": "<p>The moderate precipitation reported at 141220 UTC is expected to stop during the next 2 hours.</p>",
+    "d": "<p>The reported cloud ceiling at 141220 UTC is at 500 ft above aerodrome level.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

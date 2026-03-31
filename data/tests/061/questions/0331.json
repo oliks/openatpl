@@ -1,0 +1,14 @@
+{
+  "number": 331,
+  "questionId": "061-0331",
+  "questionNumber": "061-0331",
+  "stemHtml": "<p>Given the following information, what is the approximate position of B?</p><p>Position A: 31\u00b000\u2019S, 176\u00b017\u2019W <br>Rhumb line track from A to B: 270\u00b0 TT <br>Initial great circle track from A to B: 266.2\u00b0 TT</p>",
+  "options": {
+    "a": "31\u00b000\u2019S, 168\u00b058\u2019E",
+    "b": "31\u00b000\u2019S, 173\u00b024\u2019E",
+    "c": "31\u00b000\u2019S, 161\u00b032\u2019W",
+    "d": "31\u00b0'00\u2019S, 173\u00b024\u2019W"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

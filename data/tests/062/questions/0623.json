@@ -1,0 +1,14 @@
+{
+  "number": 623,
+  "questionId": "062-0623",
+  "questionNumber": "062-0623",
+  "stemHtml": "<p>Which of the following statements is correct with regards to the modification of terminal information in the FMS?</p>",
+  "options": {
+    "a": "<p> The terminal information can only be change with ATC clearance.</p>",
+    "b": "<p>The terminal information can only be modified through an AIRAC update.</p>",
+    "c": "<p>The terminal information is updated automatically after every flight.</p>",
+    "d": "<p>The pilot can modify terminal information during flight without restrictions.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

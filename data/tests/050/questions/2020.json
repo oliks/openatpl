@@ -1,0 +1,19 @@
+{
+  "number": 2020,
+  "questionId": "050-2020",
+  "questionNumber": "050-2020",
+  "stemHtml": "<p>Refer to figure.<br />\r\nWhat is the true average wind direction and speed in the marked area (yellow box)?</p>\r\n",
+  "options": {
+    "a": "<p>160\u00b0/15 kt</p>",
+    "b": "<p>350\u00b0/13 kt</p>",
+    "c": "<p>355\u00b0/20 kt</p>",
+    "d": "<p>175\u00b0/10 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0202",
+      "publicUrl": "/attachments/050/050-att-0202.png"
+    }
+  ]
+}

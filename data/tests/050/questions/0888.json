@@ -1,0 +1,14 @@
+{
+  "number": 888,
+  "questionId": "050-0888",
+  "questionNumber": "050-0888",
+  "stemHtml": "What is a radiosonde?",
+  "options": {
+    "a": "Equipment used for determining upper winds (velocity and direction) by transmitting different radio waves and measuring the amount of the reflected waves by the moving air. These values correlate to the speed and direction of the wind.",
+    "b": "A meteorological station on ground or water at which measurements of meteorological variables are made automatically and a radio transmitter sends automatically this information to a meteorological centre. These data from such a station are indicated in a METAR by the term auto.",
+    "c": "Equipment used for determining upper winds only (velocity and direction) by tracking a free balloon by electronic means at the observing station.",
+    "d": "Instrument intended to be carried by a balloon up through the atmosphere, equipped with devices to measure meteorological variables and provided with a radio transmitter for sending this information to the observing station."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 128,
+  "questionId": "062-0128",
+  "questionNumber": "062-0128",
+  "stemHtml": "Which statement about the errors and effects on NDB radio signals is correct?",
+  "options": {
+    "a": "Night effect is a result of interference of the surface wave and the space wave causing a reduction in range.",
+    "b": "Lightning during atmospheric disturbances may cause a reduction of the signal strength that may result in only slight bearing errors.",
+    "c": "The mountain effect is caused by reflections onto steep slopes of mountainous terrain which may cause big errors in the bearing.",
+    "d": "Shore line effects may cause a huge bearing error due to reflection of the radio signal onto steep coasts."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

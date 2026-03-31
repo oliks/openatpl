@@ -1,0 +1,14 @@
+{
+  "number": 678,
+  "questionId": "062-0678",
+  "questionNumber": "062-0678",
+  "stemHtml": "What is the function of pulse P2 in mode A/C interrogation?",
+  "options": {
+    "a": "To avoid \u201cfruiting\u201d if an aircraft is interrogated by more than one SSR interrogator at the same time.",
+    "b": "To avoid code garbling if two aircraft are located in the same direction (as seen from the interrogator) and at a distance of less than approximately 1.7 NM apart.",
+    "c": "To avoid responses from aircraft that are located in the direction of the side lobes of the interrogator antenna.",
+    "d": "To determine the interrogation mode."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

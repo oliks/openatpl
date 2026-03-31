@@ -1,0 +1,14 @@
+{
+  "number": 1009,
+  "questionId": "061-1009",
+  "questionNumber": "061-1009",
+  "stemHtml": "<p>Calculate the true wind velocity, given the following information.</p><p>Heading = 350\u00ba (M) <br /> Drift = 12L <br /> Groundspeed = 550 kt <br /> TAS = 500 kt <br /> Magnetic Variation = 10\u00baE</p>",
+  "options": {
+    "a": "109\u00b0/120 kt",
+    "b": "099\u00ba/120 kt",
+    "c": "289\u00ba/120 kt",
+    "d": "216\u00ba/50 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1336,
+  "questionId": "061-1336",
+  "questionNumber": "061-1336",
+  "stemHtml": "<p>Given the following information, calculate the TAS of the aircraft.</p>Pressure altitude: FL70 <br /> OAT: +15\u00b0C <br /> CAS: 137 kt",
+  "options": {
+    "a": "148 kt",
+    "b": "120 kt",
+    "c": "152 kt",
+    "d": "156 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

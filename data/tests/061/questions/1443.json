@@ -1,0 +1,14 @@
+{
+  "number": 1443,
+  "questionId": "061-1443",
+  "questionNumber": "061-1443",
+  "stemHtml": "<p>Given the following information,determine the difference in longitude between the position X and Y plotted on a Lambert chart...</p><p>Constant of the cone: 0.60 <br /> Initial great-circle track from X to Y: 043\u00b0 <br /> Initial great-circle track from Y to X: 235\u00b0</p>",
+  "options": {
+    "a": "6\u00b0",
+    "b": "7.2\u00b0",
+    "c": "10\u00b0",
+    "d": "20\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

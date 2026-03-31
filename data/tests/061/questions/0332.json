@@ -1,0 +1,14 @@
+{
+  "number": 332,
+  "questionId": "061-0332",
+  "questionNumber": "061-0332",
+  "stemHtml": "<p>Given the following information, calculate the heading T and flight time:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Course required: 085\u00b0T</span>  <br />  \nForecast wind velocity: 030\u00b0T /100 kt  <br />  \nTAS: 470 kt  <br />  \nDistance: 265 NM</p>",
+  "options": {
+    "a": "Heading: 075\u00b0T, 39 MIN",
+    "b": "Heading: 095\u00b0T, 31 MIN",
+    "c": "Heading: 096\u00b0T, 29 MIN",
+    "d": "Heading: 076\u00b0T, 34 MIN"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

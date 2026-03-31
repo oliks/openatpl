@@ -1,0 +1,14 @@
+{
+  "number": 1007,
+  "questionId": "062-1007",
+  "questionNumber": "062-1007",
+  "stemHtml": "<p>Multipath interference in ground-based radar systems is the result of:</p>",
+  "options": {
+    "a": "<p>multiple echo paths, and enables targets to be accurately identified.</p>",
+    "b": "<p>ionospheric reflection, which amplifies the echoes from targets.</p>",
+    "c": "<p>echoes from targets caused, for example, by ground reflection.</p>",
+    "d": "<p>line-of-sight echoes being repeated multiple times.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1339,
+  "questionId": "050-1339",
+  "questionNumber": "050-1339",
+  "stemHtml": "<p>To which type of message does the following text belong?</p>\n\n<p>MBST APCH RWY26 REP AT 1510 B747 30KTLOSS 2NM FNA=</p>",
+  "options": {
+    "a": "AIRMET",
+    "b": "Aerodrome warning",
+    "c": "Wind shear warning",
+    "d": "SIGMET"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

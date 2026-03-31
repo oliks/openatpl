@@ -1,0 +1,14 @@
+{
+  "number": 75,
+  "questionId": "050-0075",
+  "questionNumber": "050-0075",
+  "stemHtml": "What is correct about forecasts of en-route turbulence?",
+  "options": {
+    "a": "The forecasts of en-route turbulence issued by the Meteorological Watch Office for the FIR are NOT considered reliable because they depend on pilots making accurate and timely in-flight reports of turbulence, and in practice these reports are subjective and often NOT relevant to other aircraft.",
+    "b": "The most recent forecasts of en-route turbulence on significant weather charts are considered to be both reliable and accurate because they are modified automatically by pilot in-flight reports relayed via data link to the relevant Meteorological Watch Office for the applicable FIR.",
+    "c": "The accurate forecasting of the severity, extent, and levels affected by turbulence is based on modelling; because forecast documentation also covers a fixed time period it is often NOT reliable, so pilot reports of turbulence are of great value.",
+    "d": "The turbulence forecasts on significant weather charts are based on modern and comprehensive computer modelling techniques using all available data, and they are considered to be both accurate and reliable, making pilot reports redundant."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1597,
+  "questionId": "050-1597",
+  "questionNumber": "050-1597",
+  "stemHtml": "<p>Determine the lowest flight level which is safe to fly, providing at least 1 000 feet clearance. Given:</p><p>Maximum ground elevation: 2 852 ft <br /> Height of obstacle above maximum ground elevation: 385 ft</p><p>Meteorological information from a station close to sea level: <br /> QNH: 1038 hPa <br /> Temperature: +36\u00b0 C</p>",
+  "options": {
+    "a": "FL30",
+    "b": "FL35",
+    "c": "FL40",
+    "d": "FL50"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

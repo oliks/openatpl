@@ -1,0 +1,14 @@
+{
+  "number": 943,
+  "questionId": "050-0943",
+  "questionNumber": "050-0943",
+  "stemHtml": "<p>If the METAR for Paris shows a surface wind of 190\u00b0 at 9 kt, what wind direction and speed would you expect at 2000 ft AGL?</p>",
+  "options": {
+    "a": "<p>160\u00b0 / 12 kt</p>",
+    "b": "<p>160\u00b0 / 18 kt</p>",
+    "c": "<p>220\u00b0 / 18 kt</p>",
+    "d": "<p>220\u00b0 / 12 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

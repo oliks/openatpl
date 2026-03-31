@@ -1,0 +1,14 @@
+{
+  "number": 1122,
+  "questionId": "050-1122",
+  "questionNumber": "050-1122",
+  "stemHtml": "<p>Why can the following METAR not be abbreviated to \"CAVOK\"?</p>\n\n<p>DLLO 121550Z 31018G30KT 9999 FEW060TCU BKN070 14/08 Q1016 TEMPO 4000 TS=</p>\n\n<p>(Aerodrome elevation 1 000 ft, MSA for sector 000-190\u00b0 5 800 ft, for sector 190-360\u00b0 7 300 ft)</p>",
+  "options": {
+    "a": "Because visibility is forecast to be 4 000 m.",
+    "b": "Because the cloud base is below the highest minimum sector altitude.",
+    "c": "Because there are gusts reported.",
+    "d": "Because thunderstorms are forecast temporary for the next 2 hours."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

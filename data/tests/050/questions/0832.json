@@ -1,0 +1,19 @@
+{
+  "number": 832,
+  "questionId": "050-0832",
+  "questionNumber": "050-0832",
+  "stemHtml": "<p>Refer to figure. <br>A flight is scheduled from Brussels (B) at 50\u00b055\u2019N 004\u00b030\u2019E to Deauville (D) at 49\u00b000\u2019N 000\u00b000\u2019E, with departure planned for 20:00 UTC on 12 March 2017 and an estimated duration of three hours. The intended track is shown by the red line between points B and D on the chart. Using the forecast information provided, which cloud types are expected along this route, and what icing conditions are likely to be associated with them?</p>",
+  "options": {
+    "a": "<p>Scattered cumulus with bases around 3000 ft and no significant icing expected.</p>",
+    "b": "<p>Broken stratocumulus and fog layers below 300 ft, with moderate icing above 1500 ft.</p>",
+    "c": "<p>Overcast cirrostratus with light turbulence above FL100.</p>",
+    "d": "<p>Isolated cumulonimbus with severe icing above FL200.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0427",
+      "publicUrl": "/attachments/050/050-att-0427.jpg"
+    }
+  ]
+}

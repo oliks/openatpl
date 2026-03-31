@@ -1,0 +1,14 @@
+{
+  "number": 1503,
+  "questionId": "050-1503",
+  "questionNumber": "050-1503",
+  "stemHtml": "<p>Read the following METAR for station</p>\n\n<p><span style=\"letter-spacing:0.7px\">XXXX: XXXX 291230Z VRB02KT 0900 R36/1100VP1500D FZFG OVC001 M02/M02 Q1029 BECMG 1500 BR OVC002</span></p>\n\n<p>Which statement about visibility and RVR is correct?</p>\n\n<div> </div>",
+  "options": {
+    "a": "Prevailing visibility is 900 m, RVR has improved in the last 10 minutes.",
+    "b": "Minimum visibility is 900 m. RVR has improved in the last 10 minutes.",
+    "c": "Prevailing visibility is 900 m, RVR has deteriorated in the last 10 minutes.",
+    "d": "Minimum visibility is 900 m. RVR has deteriorated in the last 10 minutes."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

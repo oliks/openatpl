@@ -1,0 +1,14 @@
+{
+  "number": 1313,
+  "questionId": "061-1313",
+  "questionNumber": "061-1313",
+  "stemHtml": "<p>You are planning a flight on a Lambert chart from position X to position Z via the shortest distance between the two points. Given the following information, determine the final true track at Z.</p><p>Position X: 37\u00b0S 027\u00b0E\u00a0<br>Position Z: (Southern Hemisphere; exact coordinates not provided)\u00a0<br>Chart convergence between X and Z: 37\u00b0\u00a0<br>Initial true track at X: 112\u00b0</p>",
+  "options": {
+    "a": "<p>075\u00b0T</p>",
+    "b": "<p>149\u00b0T</p>",
+    "c": "<p>112\u00b0T</p>",
+    "d": "<p>186\u00b0T</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

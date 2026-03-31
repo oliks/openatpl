@@ -1,0 +1,14 @@
+{
+  "number": 1011,
+  "questionId": "061-1011",
+  "questionNumber": "061-1011",
+  "stemHtml": "<p>Which of the following statements are correct for navigation during a climb?</p>\r\r<p>1. The average wind direction and velocity can be taken at half the altitude difference during the climb <br /> \r2. At the transition altitude between IAS and Mach, TAS is used as a reference before switching from IAS to Mach number</p>",
+  "options": {
+    "a": "<p>1 correct; 2 incorrect</p>",
+    "b": "<p>Both are incorrect</p>",
+    "c": "<p>1 incorrect; 2 correct</p>",
+    "d": "<p>Both are correct</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

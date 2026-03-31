@@ -1,0 +1,14 @@
+{
+  "number": 396,
+  "questionId": "061-0396",
+  "questionNumber": "061-0396",
+  "stemHtml": "<p>Given the following positions, calculate the true track of the great circle route on arrival at B (to the nearest whole degree).</p><p>A: 50\u00ba00'N, 030\u00ba30'W <br /> B: 52\u00ba15'N, 038\u00ba45'W <br /> Rhumb line track from A to B: 298\u00ba(T)</p>",
+  "options": {
+    "a": "298\u00ba (T)",
+    "b": "301\u00ba (T)",
+    "c": "295\u00ba (T)",
+    "d": "304\u00ba (T)"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

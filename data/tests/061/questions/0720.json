@@ -1,0 +1,14 @@
+{
+  "number": 720,
+  "questionId": "061-0720",
+  "questionNumber": "061-0720",
+  "stemHtml": "<p>Given: A descending aircraft flies in a straight line to a DME.</p>\n\n<p><span style=\"letter-spacing:0.7px\">DME 55.0 NM</span>  <br />  \naltitude 33000 ft  <br />  \nDME 43.9 NM  <br />  \naltitude 30500 ft  <br />  \nM = 0.72  <br />  \nGS = 525 kt  <br />  \nOAT = ISA</p>\n\n<p>The descent gradient is:</p>",
+  "options": {
+    "a": "4.1%",
+    "b": "3.7%",
+    "c": "3.9%",
+    "d": "3.5%"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

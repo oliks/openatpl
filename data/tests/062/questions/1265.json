@@ -1,0 +1,14 @@
+{
+  "number": 1265,
+  "questionId": "062-1265",
+  "questionNumber": "062-1265",
+  "stemHtml": "<p>According to the ITU, to what does the abbreviation A3E correspond?</p>",
+  "options": {
+    "a": "<p>Carrier without modulation as used by non-directional radio beacons (NDBs)</p>",
+    "b": "<p>Carrier with keyed Morse code modulation as used by NDBs</p>",
+    "c": "<p>Carrier with amplitude modulated Morse code as used by NDBs</p>",
+    "d": "<p>Carrier with amplitude modulated speech used for communication (VHF-COM)</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

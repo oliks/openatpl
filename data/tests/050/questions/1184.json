@@ -1,0 +1,14 @@
+{
+  "number": 1184,
+  "questionId": "050-1184",
+  "questionNumber": "050-1184",
+  "stemHtml": "<p>An aircraft is cruising with QNH 1006 hPa set on the altimeter. ATC instructs the pilot to descend to 5000 ft on QNH 1013 hPa. The pilot descends and levels at 5000 ft, but fails to update the pressure setting and remains on QNH 1006 hPa. Assuming ISA conditions and 30 ft per hPa, what is the aircraft\u2019s true altitude?</p>",
+  "options": {
+    "a": "<p>5210 ft</p>",
+    "b": "<p>5000 ft</p>",
+    "c": "<p>4790 ft</p>",
+    "d": "<p>\u00a05189 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 155,
+  "questionId": "040-0155",
+  "questionNumber": "040-0155",
+  "stemHtml": "<p>Based on the sleep credit/debit model, sleeping for 1 hour leads to (1) _____ credit(s) and staying awake for 1 hour leads to (2) _____ debit(s). Fatigue symptoms will appear when the sleep debit is higher than (3) _____ credit(s). In case of significant sleep debt, an individual needs at least (4) _____ consecutive hours of sleep.</p>",
+  "options": {
+    "a": "<p>(1) one; (2) one; (3) two; (4) four</p>",
+    "b": "<p>(1) one; (2) two; (3) four; (4) six</p>",
+    "c": "<p>(1) two; (2) one; (3) four; (4) six</p>",
+    "d": "<p>(1) three; (2) one; (3) four; (4) eight</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

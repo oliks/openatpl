@@ -1,0 +1,14 @@
+{
+  "number": 209,
+  "questionId": "062-0209",
+  "questionNumber": "062-0209",
+  "stemHtml": "<p>Which statement correctly describes the principle of SBAS operation?</p>",
+  "options": {
+    "a": "<p>A correction signal is broadcast from geostationary satellites to GNSS receivers located in a small, local area</p>",
+    "b": "<p>A correction signal is broadcast from ground-based transmitters to GNSS receivers located in a small, local area</p>",
+    "c": "<p>A correction signal is broadcast from ground-based transmitters to GNSS receivers distributed over a wide area</p>",
+    "d": "<p>A correction signal is broadcast from geostationary satellites to GNSS receivers distributed over a wide area</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 308,
+  "questionId": "050-0308",
+  "questionNumber": "050-0308",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich cloud is depicted on the attached picture?</p>",
+  "options": {
+    "a": "<p>Cirrus</p>",
+    "b": "<p>Halo</p>",
+    "c": "<p>Altostratus</p>",
+    "d": "<p>Virga</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0019",
+      "publicUrl": "/attachments/050/050-att-0019.jpg"
+    }
+  ]
+}

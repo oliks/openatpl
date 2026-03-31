@@ -1,0 +1,14 @@
+{
+  "number": 320,
+  "questionId": "040-0320",
+  "questionNumber": "040-0320",
+  "stemHtml": "<p>The captain of an aircraft executes the descent checklist by heart without refering to the checklist. This is a violation of the SOPs. How should the first officer react according to TEM model?</p>",
+  "options": {
+    "a": "<p>Inform captain about the violation and insist on doing the checklist again properly, so nothing is missed.</p>",
+    "b": "<p>Wait for a more appropriate phase of flight, confront the captain and after landing report violation to the safety department.</p>",
+    "c": "<p>Ignore the violation since the captain has more experience and trust that everything is under control.</p>",
+    "d": "<p>Perform the checklist silently without informing the captain to avoid any potential confrontation during the flight.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

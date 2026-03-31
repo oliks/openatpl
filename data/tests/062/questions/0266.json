@@ -1,0 +1,14 @@
+{
+  "number": 266,
+  "questionId": "062-0266",
+  "questionNumber": "062-0266",
+  "stemHtml": "<div>Why should the tilt of an Airborne Weather Radar system (without auto tilt) be changed to a higher setting when descending over terrain?</div>",
+  "options": {
+    "a": "<div>The higher tilt setting will narrow the beam width, allowing for effective detection of cumulonimbus clouds at shorter range.</div>",
+    "b": "<div>If the beam\u2019s tilt remains at the setting used during cruise, the scanning range will be reduced and the strength of the reflected signals will be weaker.</div>",
+    "c": "<div>If the beam\u2019s tilt remains at the setting used during cruise, the scanning range will be reduced and significant ground clutter may be displayed.</div>",
+    "d": "The higher tilt setting will keep the beam above the aircraft\u2019s flight path.<br>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

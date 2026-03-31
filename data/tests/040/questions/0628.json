@@ -1,0 +1,14 @@
+{
+  "number": 628,
+  "questionId": "040-0628",
+  "questionNumber": "040-0628",
+  "stemHtml": "<p>A pilot is distracted by a failure of his/her navigation equipment and consequently does not execute a planned turn, but quickly realises and corrects. Afterwards, he/she lands at his/her intermediate airport and checks the weather at his/her final destination. As the weather looks good, he/she decides to take off without loading additional fuel. When he/she encounters an unexpected headwind, he/she lands it to his/her final destination with fuel only for one more landing attempt left. What were the errors committed?</p><p>(1) Forgotten turn: lapse <br>(2) Forgotten turn: violation <br>(3) Forgotten turn: slip <br>(4) Forgotten turn: rule-based error <br>(5) Fuel: knowledge-based error <br>(6) Fuel: lapse <br>(7) Fuel: violation</p>",
+  "options": {
+    "a": "<p>1 and 5.</p>",
+    "b": "<p>2 and 7.</p>",
+    "c": "<p>3 and 5.</p>",
+    "d": "<p>4 and 7.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

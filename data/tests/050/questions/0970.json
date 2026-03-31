@@ -1,0 +1,14 @@
+{
+  "number": 970,
+  "questionId": "050-0970",
+  "questionNumber": "050-0970",
+  "stemHtml": "<p>According to the following TAF, which of the following is the time period between 06:00 UTC and 21:00 UTC on the 14th day of the month during which a pilot can fly without expecting any type of precipitation?</p><p>EDDF 140500Z 1406/1512 VRB02KT CAVOK BECMG 1408/1410 13008KT 9999 SCT040 TEMPO 1411/1413 25010KT 8000 SHRA SCT033 TCU PROB30 TEMPO 1413/1415 27010KT 5000 TSRA SCT027CB BECMG 1415/1417 29015KT 7000 SHRA OVC015 BECMG 1503/1506 31010KT 8000 -RA BKN025 BECMG 1509/1512 9999 SCT030=</p>",
+  "options": {
+    "a": "From 15:00z to 18:00z",
+    "b": "From 06:00z to 11:00z",
+    "c": "<p>From 09:00z to 12:00z</p>",
+    "d": "From 07:00z to 12:00z"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

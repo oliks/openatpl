@@ -1,0 +1,19 @@
+{
+  "number": 1155,
+  "questionId": "061-1155",
+  "questionNumber": "061-1155",
+  "stemHtml": "<p>Refer to Jeppesen GSPRM Chart \"E LO 2\".  <br />  \nGiven:</p>\n\n<p>Position A: N54\u00b053\u00b4, W005\u00b018\u00b4  <br />  \nPosition B: N55\u00b018\u00b4, W003\u00b035\u00b4</p>\n\n<p>Find the initial track for the flight from A to B and determine the distance from position A to the point of crossing meridian W004\u00b000':</p>",
+  "options": {
+    "a": "067\u00b0(T), 63 NM",
+    "b": "070\u00b0(T), 63 NM",
+    "c": "064\u00b0(M), 48 NM",
+    "d": "070\u00b0(M), 48 NM"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0123",
+      "publicUrl": "/attachments/061/061-att-0123.jpg"
+    }
+  ]
+}

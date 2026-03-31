@@ -1,0 +1,19 @@
+{
+  "number": 954,
+  "questionId": "061-0954",
+  "questionNumber": "061-0954",
+  "stemHtml": "<p>Refer to chart E(LO)2_02 from Jeppesen GSPRM 2017.  <br />  \nGiven the following bearing and range information obtained from DEN HELDER (HDR) VOR/DME (52\u00b054\u00b4N, 004\u00b046\u00b4E), what is the aircraft's position? (Note: Slant range corrections should be ignored)</p>\n\n<p>Radial: 258\u00b0  <br />  \nRange: 63 NM</p>",
+  "options": {
+    "a": "52\u00b042\u00b4N, 003\u00b004\u00b4E",
+    "b": "53\u00b010\u00b4N, 003\u00b003\u00b4E",
+    "c": "52\u00b046\u00b4N, 003\u00b048\u00b4E",
+    "d": "52\u00b046\u00b4N, 003\u00b042\u00b4E"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0093",
+      "publicUrl": "/attachments/061/061-att-0093.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 919,
+  "questionId": "062-0919",
+  "questionNumber": "062-0919",
+  "stemHtml": "The output data given by a basic VOR/DME-based Area Navigation System when tracking inbound to a phantom waypoint (enroute mode) is:",
+  "options": {
+    "a": "Aircraft position in latitude and longitude.",
+    "b": "Cross-track distance and distance to go.",
+    "c": "True airspeed and drift angle.",
+    "d": "Wind velocity."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

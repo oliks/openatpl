@@ -1,0 +1,19 @@
+{
+  "number": 2559,
+  "questionId": "050-2559",
+  "questionNumber": "050-2559",
+  "stemHtml": "<p>Refer to figure. <br>At the aerodrome, the METAR reports a wind of 350\u00b0/12 kt, with Runway 34 in use. Considering a variation of 20<strong>\u00b0</strong>W, what is the wind's direction relative to the runway?</p>",
+  "options": {
+    "a": "<p>Wind from 10 degrees left.</p>",
+    "b": "<p>Wind from 10 degrees right.</p>",
+    "c": "<p>Wind from 30 degrees right.</p>",
+    "d": "<p>Wind from 40 degrees right.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0121",
+      "publicUrl": "/attachments/050/050-att-0121.jpg"
+    }
+  ]
+}

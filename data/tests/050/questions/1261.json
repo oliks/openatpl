@@ -1,0 +1,14 @@
+{
+  "number": 1261,
+  "questionId": "050-1261",
+  "questionNumber": "050-1261",
+  "stemHtml": "Which of these statements is correct regarding the difference between atmospheric turbulence and wind shear.",
+  "options": {
+    "a": "Atmospheric turbulence is the result of short duration and irregular movements of air from the undisturbed wind flow, whereas wind shear is caused by sudden and sustained changes in the wind direction and/or speed within a short distance.",
+    "b": "Wind shear and atmospheric turbulence are the same thing and both result from sustained changes in the wind direction and/or speed, however, when the changes are frequent enough to displace an aircraft from its intended flight path they are described as wind shear.",
+    "c": "Irregular short-period oscillations in the wind flow are the main cause of atmospheric turbulence, and when the turbulence is strong enough to cause fluctuations in aircraft airspeed, and/or attitude, it is described as wind shear.",
+    "d": "The short-duration gustiness caused by fluctuations in the normal wind flow is the main cause of wind shear; however, where the gustiness is sustained over longer periods it is described as atmospheric turbulence, and can occur at all levels in the atmosphere."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

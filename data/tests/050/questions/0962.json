@@ -1,0 +1,14 @@
+{
+  "number": 962,
+  "questionId": "050-0962",
+  "questionNumber": "050-0962",
+  "stemHtml": "In the weather briefing room, during the pre-flight phase of a commercial flight from Zurich to Rome, the pilot examines the following weather reports of pressing importance at the time:  <br />    <br />  EINN SHANNON 2808 SIGMET 2 VALID 0800/1100 LOC SEV TURB FCST EINN FIR BLW FL050 SOUTH OF 53N WKN =  <br />    <br />  LIMM MILAN 2809 SIGMET 2 VALID 0900/1500 MOD SEV CAT BTN FL250 AND FL430 FCST LIMM FIR STNR NC =  <br />    <br />  EGLL LONDON 2808 SIGMET NR01 VALID 0800/1200 FOR LONDON FIR ISOL CB EMBD IN LYR CLOUD FCST TOPS FL300 BTN 52N AND 54N EAST OF 002E SEV ICE SEV TURB TS ALSO FCST MOV E WKN =  <br />    <br />  What is the most appropriate decision?",
+  "options": {
+    "a": "<p>The pilot cancels the flight since the expected dangerous weather conditions along the route would demand too much of the passengers.</p>",
+    "b": "<p>Owing to these reports and taking into account the presence of heavy thunderstorms at planned FL310, the pilot selects a higher flight level (FL370).</p>",
+    "c": "The pilot shows no further interest in these reports, since they do not concern the route to be owned.",
+    "d": "<p>Because of the expected turbulence, the pilot selects a flight level below FL250.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 139,
+  "questionId": "040-0139",
+  "questionNumber": "040-0139",
+  "stemHtml": "<p>An aircraft is executing an approach to land when the tower controller instructs the pilots to initiate a go-around, since the runway is occupied by another aircraft. The pilots immediately initiate the go-around. The pilot flying is applying maximum power and pitching up the aircraft, while the pilot monitoring programms the go-around path on the FMS and waits for the pilot flying to request the required configuration changes. The tower controller then informs the pilots that the go-around is no longer necessary. What is the most probable outcome?</p>",
+  "options": {
+    "a": "<p>The pilot flying will take over the task of monitoring the flight instruments, while the pilot monitoring concentrates on the radio call.</p>",
+    "b": "<p>Both pilots will briefly discuss whether the go-around can still be aborted and a landing can be made.</p>",
+    "c": "<p>Neither pilot will consciously receive the radio message, because both of them will be too focused on performing the flight manoeuvre.</p>",
+    "d": "<p>The pilot monitoring will be distracted by the radio call, his attention would be drawn away from monitoring the instruments.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

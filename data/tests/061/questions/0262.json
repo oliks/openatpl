@@ -1,0 +1,14 @@
+{
+  "number": 262,
+  "questionId": "061-0262",
+  "questionNumber": "061-0262",
+  "stemHtml": "<p>Calculate the True Airspeed, given the following information:</p><p>Pressure altitude: 29 000 ft <br />OAT: -45<strong>\u00b0</strong>C <br />IAS: 320 kt (Instruments and position error to be neglected) <br />Compressibility factor: 0.942</p>",
+  "options": {
+    "a": "<p>485 kt</p>",
+    "b": "<p>425 kt</p>",
+    "c": "<p>440 kt</p>",
+    "d": "<p>455 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

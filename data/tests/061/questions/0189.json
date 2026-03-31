@@ -1,0 +1,14 @@
+{
+  "number": 189,
+  "questionId": "061-0189",
+  "questionNumber": "061-0189",
+  "stemHtml": "<p>Determine the Wind Correction Angle (WCA), using Mental Dead Reckoning (MDR), given:</p><p>TAS: 108 kt <br /> Crosswind component: 18 kt from the right.</p>",
+  "options": {
+    "a": "<p>10\u00b0R</p>",
+    "b": "10\u00b0L",
+    "c": "6\u00b0R",
+    "d": "6\u00b0L"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

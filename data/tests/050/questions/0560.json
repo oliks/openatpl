@@ -1,0 +1,14 @@
+{
+  "number": 560,
+  "questionId": "050-0560",
+  "questionNumber": "050-0560",
+  "stemHtml": "Which type(s) of weather phenomena justify issuing an aviation special weather report (SPECI)?",
+  "options": {
+    "a": "Severe weather, if observed at a minimum of two of the three nearest airfields.",
+    "b": "Significant changes of surface winds, visibility, cloud base height, and occurrence of severe weather.",
+    "c": "Significant changes of air pressure, temperature, visibility, cloud cover, and wind direction.",
+    "d": "An upcoming thunderstorm, which is presumed to arrive at the reporting airfield within the next 2 hours."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

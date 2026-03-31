@@ -1,0 +1,14 @@
+{
+  "number": 473,
+  "questionId": "061-0473",
+  "questionNumber": "061-0473",
+  "stemHtml": "<p>A Lambert conformal conic chart with standard parallels at 54\u00b0N and 59\u00b0N is used for navigation. The straight line between A 55\u00b000\u2032.0N, 165\u00b0 00\u2032.0E and B 58\u00b0 00\u2032.0N, 154\u00b0 00\u2032.0E is drawn in this chart. The True Track angle along the straight line in A is 301\u00b0.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Calculate the direction T of the straight line in position B.</span></p>",
+  "options": {
+    "a": "312\u00b0",
+    "b": "292\u00b0",
+    "c": "290\u00b0",
+    "d": "310\u00b0"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

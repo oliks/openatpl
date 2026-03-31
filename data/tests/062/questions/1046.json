@@ -1,0 +1,14 @@
+{
+  "number": 1046,
+  "questionId": "062-1046",
+  "questionNumber": "062-1046",
+  "stemHtml": "Complete the following sentence: <br /> The Secondary Surveillance Radar (SSR) mode S is compatible with (1)__ but also provides the information to (2)__.",
+  "options": {
+    "a": "(1) Airborne Weather Radar (AWR); (2) the Traffic alert and Collision Avoidance System (TCAS).",
+    "b": "(1) SSR modes A and C; (2) Automatic Dependent Surveillance - Broadcast (ADS-B).",
+    "c": "(1) Distance Measuring Equipment (DME); (2) enhanced vertical tracking.",
+    "d": "(1) the radio altimeter; (2) SSR mode C."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

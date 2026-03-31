@@ -1,0 +1,14 @@
+{
+  "number": 839,
+  "questionId": "050-0839",
+  "questionNumber": "050-0839",
+  "stemHtml": "<p>Determine the approximate true height of the aircraft above the airport, given:</p><p>OAT=ISA -12\u00baC <br>Pressure altitude: 2 500 ft <br>Indicated altitude: 2 000 ft with QFE set on aerodrome which is located 1 000 ft AMSL</p>",
+  "options": {
+    "a": "1 952 ft",
+    "b": "1 904 ft",
+    "c": "2 144 ft",
+    "d": "2 680 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

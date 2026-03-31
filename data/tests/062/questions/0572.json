@@ -1,0 +1,14 @@
+{
+  "number": 572,
+  "questionId": "062-0572",
+  "questionNumber": "062-0572",
+  "stemHtml": "<p>Which element exerts the greatest influence on GPS accuracy?</p>",
+  "options": {
+    "a": "<p>Satellite signal strength.</p>",
+    "b": "<p>Dilution of Precision.</p>",
+    "c": "<p>Receiver sensitivity.</p>",
+    "d": "<p>Atmospheric conditions.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

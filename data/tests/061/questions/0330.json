@@ -1,0 +1,14 @@
+{
+  "number": 330,
+  "questionId": "061-0330",
+  "questionNumber": "061-0330",
+  "stemHtml": "Based on the 1:60 rule and track deviations, what heading alteration do you have to make to fly parallel to the original track?",
+  "options": {
+    "a": "Change the heading by the value of experienced drift.",
+    "b": "Change heading by drift + angle between track to original (next) waypoint and original track.",
+    "c": "Change heading by 2 \u00d7 drift rule.",
+    "d": "Change heading by drift + 30\u00b0 rule."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

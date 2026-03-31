@@ -1,0 +1,14 @@
+{
+  "number": 1459,
+  "questionId": "050-1459",
+  "questionNumber": "050-1459",
+  "stemHtml": "<p dir=\"ltr\">A pilot plans a flight to Malmo, Sweden (ESMS) to arrive at 12:00 UTC on 29th November, the METAR states: <br /> ESMS 290610Z 30006KT 0100 FG NSC M02/M02 Q1025 NOSIG</p><p dir=\"ltr\">The TAF states: <br /> ESMS 2906/2918 31008KT 0300 FG NSC BCMG 0912 1800 BR BCMG 1215 3500 HZ BCMG 1518 2000 BR</p><p dir=\"ltr\">During the flight, the pilot is advised of the following METAR for Malmo: <br /> ESMS 290910Z 32008KT 0400 FG OVC040 M01/M01 Q1025 NOSIG</p><p dir=\"ltr\">Considering the information available on departure, what weather should the pilot expect on arrival, and should that change after receiving the 09:10 UTC METAR?</p><p dir=\"ltr\">The pilot could have expected the fog to have cleared to:</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Mist at worst for the arrival, but the cloud cover reported at 09:10 UTC is likely to cause the air to warm up, improving the visibility to better than was originally forecast.</p>",
+    "b": "<p dir=\"ltr\">Mist at worst for the arrival, but the cloud cover reported at 09:10 UTC might mean that fog conditions persist for longer than originally forecast.</p>",
+    "c": "<p dir=\"ltr\">Haze at worst for the arrival, and there is NO reason for the pilot to change his/her expectations.</p>",
+    "d": "Haze at worst for the arrival, and the increased visibility reported at 09:10 UTC."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

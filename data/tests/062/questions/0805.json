@@ -1,0 +1,14 @@
+{
+  "number": 805,
+  "questionId": "062-0805",
+  "questionNumber": "062-0805",
+  "stemHtml": "<p>An aircraft is executing the GLS RWY 19R approach. That is a GNSS (1) _____ approach using a (2) _____ station to make corrections to the signal.</p>",
+  "options": {
+    "a": "<p>(1) non-precision; (2) ground</p>",
+    "b": "<p>(1) precision; (2) satellite</p>",
+    "c": "<p>(1) precision; (2) ground</p>",
+    "d": "<p>(1) non-precision; (2) satellite</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

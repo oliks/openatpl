@@ -1,0 +1,14 @@
+{
+  "number": 1141,
+  "questionId": "061-1141",
+  "questionNumber": "061-1141",
+  "stemHtml": "<p>The aircraft is climbing to FL300 in ISA conditions, maintaining a constant CAS of 240 kt. At the beginning of the climb the instruments show the TAS is 312 kt and Mach Number is 0.52. <br /> \rWhich of the following TAS and Mach Number combinations may be expected later in the climb?</p>",
+  "options": {
+    "a": "<p>TAS 312 kt and M0.56</p>",
+    "b": "<p>TAS 347 kt and M0.56</p>",
+    "c": "<p>TAS 312 kt and M0.49</p>",
+    "d": "<p>TAS 298 kt and M0.56</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

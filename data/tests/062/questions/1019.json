@@ -1,0 +1,14 @@
+{
+  "number": 1019,
+  "questionId": "062-1019",
+  "questionNumber": "062-1019",
+  "stemHtml": "What does a satellite based augmentation system (SBAS) use to improve integrity alerting to within 6 seconds if a GNSS malfunction occurs?",
+  "options": {
+    "a": "Up to 4 geostationary satellites are used to improve accuracy to within 1 m to 2 m horizontally and to advise of any GNSS malfunction.",
+    "b": "At least 1 geostationary satellite is required to relay integrity and safety messages to the user.",
+    "c": "Error signals are sent to the GNSS satellite to correct any position error.",
+    "d": "2 geostationary satellites are used to broadcast GNSS malfunctions using the L2 frequency, which includes an additional ranging signal to augment the signals from the GPS satellites."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

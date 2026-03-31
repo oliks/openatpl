@@ -1,0 +1,14 @@
+{
+  "number": 1189,
+  "questionId": "062-1189",
+  "questionNumber": "062-1189",
+  "stemHtml": "GPS uses two frequencies, L1 and L2. Choose the correct statement from these options.",
+  "options": {
+    "a": "L1 is required for the standard positioning and timing service, SPS.",
+    "b": "L1 and L2 are both required for the Standard Positioning Service (SPS).",
+    "c": "L2 is required for civilian users in order to achieve basic accuracy.",
+    "d": "The L2C part of L2 is required to achieve the required accuracy."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

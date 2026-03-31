@@ -1,0 +1,14 @@
+{
+  "number": 285,
+  "questionId": "050-0285",
+  "questionNumber": "050-0285",
+  "stemHtml": "<p>At high altitudes, the presence of water in the form of ice crystals can pose what potential hazards, if any, to an aircraft?</p>",
+  "options": {
+    "a": "<p>Ice crystals do not present a hazard to aircraft since they do NOT adhere to the airframe surfaces.</p>",
+    "b": "The ice crystals can accumulate on antenna systems and affect the transmission and reception of communication and navigation signals.",
+    "c": "The crystals can accumulate on the wing's leading edge, changing the airflow over it and increasing the weight.",
+    "d": "The crystals can accumulate on forward-facing parts of the engine and partially melt as they pass through the engine core, causing damage."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

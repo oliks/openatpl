@@ -1,0 +1,14 @@
+{
+  "number": 1333,
+  "questionId": "050-1333",
+  "questionNumber": "050-1333",
+  "stemHtml": "<p>From the following TAF you can assume that visibility at 2055Z in Birmingham (EGBB) will be:</p>\n\n<p><span style=\"letter-spacing:0.7px\">EGBB 261000Z 2618/2712 28015G25KT 9999 SCT025 TEMPO 2618/2622 29018G35KT 4000 SHRASN BKN010CB PROB30 TEMPO 2618/2621 1500 TSGR BKN004CB BECMG 2622/2624 26010KT=</span></p>",
+  "options": {
+    "a": "more than 10 km",
+    "b": "a minimum of 1,5 km and a maximum of 5 km.",
+    "c": "a maximum of 5 km.",
+    "d": "not less than 1,5 km but could be in excess of 10 km."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

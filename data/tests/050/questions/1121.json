@@ -1,0 +1,14 @@
+{
+  "number": 1121,
+  "questionId": "050-1121",
+  "questionNumber": "050-1121",
+  "stemHtml": "<p>How do pressure patterns at around 18 000 feet (5500 m) compare to those at the surface?</p>",
+  "options": {
+    "a": "<p>The pressure patterns (H or L) can be similar to 18 000 ft, but may also be compensated by differences in humidity.</p>",
+    "b": "<p>The pressure patterns (H or L) can be similar to 18 000 ft, but may also be compensated by high wind speeds.</p>",
+    "c": "<p>The pressure patterns (H or L) can be similar to 18 000 ft, but may also be compensated by differences in temperature.</p>",
+    "d": "<p>The pressure patterns must be different due to increasing temperatures from 18 000 ft altitude to ground level.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

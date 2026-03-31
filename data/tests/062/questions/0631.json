@@ -1,0 +1,14 @@
+{
+  "number": 631,
+  "questionId": "062-0631",
+  "questionNumber": "062-0631",
+  "stemHtml": "<p>An aircraft NOT equipped with temperature-compensating system is executing an RNP APCH to a Baro-VNAV minimum. The minimum temperature to execute the procedure (TMIN) is -8\u00b0C. The temperature at the airport is +10\u00b0C. The pilots have set the appropriate FMS settings based on the charts of the approach and the aircraft follows the FMS guidance. During the final approach segment, ATC instructs the pilots to go-around immediately as a result of insufficient separation from the surrounding terrain. What caused this outcome?</p>",
+  "options": {
+    "a": "<p>Incorrect altimeter setting leading to the aircraft being lower than indicated.</p>",
+    "b": "<p>The pilots miscalculated the rate of descent and selected an inappropriate vertical speed.</p>",
+    "c": "<p>The temperature at the aerodrome is above the limiting temperature.</p>",
+    "d": "<p>The vertical path in the FMS was incorrectly coded as it is NOT shown to the pilots.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

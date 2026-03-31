@@ -1,0 +1,14 @@
+{
+  "number": 172,
+  "questionId": "061-0172",
+  "questionNumber": "061-0172",
+  "stemHtml": "<p>An aircraft is flying from position A 53\u00b024\u2019N, 015\u00b054\u2019E to B 32\u00b000\u2019N, 052\u00b051\u2019W. Given the information below, calculate the Estimated Time of Departure ETD from A, expressed in Standard Time A STA.Distance according to the flight plan: 3150 NM.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Average GS: 450 kt.</span> <br /> \nDifference between Standard Time A and UTC: 1 hour. <br /> \nDifference between Standard Time B and UTC: 4 hours. <br /> \nEstimated Time of Arrival ETA at B: 10:00 STB on the 5th August.</p>\n\n<div> </div>",
+  "options": {
+    "a": "08:00 STA 05/08.",
+    "b": "22:00 STA 04/08.",
+    "c": "00:00 STA 05/08.",
+    "d": "06:00 STA 05/08."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

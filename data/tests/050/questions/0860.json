@@ -1,0 +1,14 @@
+{
+  "number": 860,
+  "questionId": "050-0860",
+  "questionNumber": "050-0860",
+  "stemHtml": "You experience moderate Clear Air Turbulence (CAT) in the cruise over the Atlantic at FL370. If you do not submit an immediate aircraft observation to Air Traffic Control, what could be the main consequence?",
+  "options": {
+    "a": "Forecasts for the following days would be less accurate because pilot reports support and verify data obtained from weather balloon ascents, which are the primary source of information for CAT forecasts.",
+    "b": "Other aircraft in the vicinity may experience similar or worse turbulence without warning, because pilot reports are the main source of CAT information.",
+    "c": "There would be no real consequences. Forecasters would already have published a warning using information from radar sensors.",
+    "d": "ATC would be unaware that the satellite sensors which would normally detect such turbulence are unserviceable."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

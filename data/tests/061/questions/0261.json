@@ -1,0 +1,14 @@
+{
+  "number": 261,
+  "questionId": "061-0261",
+  "questionNumber": "061-0261",
+  "stemHtml": "<p>What can be said about the area represented on a Lambert projection which lies between the two standard parallels of the chart?</p>",
+  "options": {
+    "a": "<p>In this area the scale of the chart differs less than 1% from the stated scale of the chart.</p>",
+    "b": "<p>The True Track of departure and the True Track of arrival between two positions situated in this area are practically equal.</p>",
+    "c": "<p>In this area the rhumb line and great circle between two positions situated in this area practically coincide.</p>",
+    "d": "<p>Only in this area is the chart conformal.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

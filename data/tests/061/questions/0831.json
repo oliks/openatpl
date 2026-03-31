@@ -1,0 +1,14 @@
+{
+  "number": 831,
+  "questionId": "061-0831",
+  "questionNumber": "061-0831",
+  "stemHtml": "<p style=\"\">Given the following information from an Air Almanac, what is the Standard Time (ST) and date in country A, if in country B, it is 15:00 ST 15th July?</p><p style=\"\">Standard time in country A is UTC +4 hours. <br /> Standard time in country B is UTC -7 hours.</p>",
+  "options": {
+    "a": "<p>18:00 ST 15th July</p>",
+    "b": "02:00 ST 16th July",
+    "c": "22:00 ST 16th July",
+    "d": "04:00 ST 15th July"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

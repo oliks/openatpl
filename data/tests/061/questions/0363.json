@@ -1,0 +1,14 @@
+{
+  "number": 363,
+  "questionId": "061-0363",
+  "questionNumber": "061-0363",
+  "stemHtml": "<p>Given the following information, calculate the rate of descent (ROD):</p><p>Average TAS: 125 kt <br /> Average HWC: 30 kt <br /> Ground distance during the descent: 20 NM <br /> Descent from FL180 to pressure altitude 4 500 ft.</p>",
+  "options": {
+    "a": "<p>1450 ft/min</p>",
+    "b": "<p>1750 ft/min</p>",
+    "c": "<p>1050 ft/min</p>",
+    "d": "<p>1400 ft/min</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

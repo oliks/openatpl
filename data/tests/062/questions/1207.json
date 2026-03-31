@@ -1,0 +1,14 @@
+{
+  "number": 1207,
+  "questionId": "062-1207",
+  "questionNumber": "062-1207",
+  "stemHtml": "NDB station is identified by:",
+  "options": {
+    "a": "Audible signal (Morse code), 3-letter identifier for en-route NDB and 2-letter or 1-letter identifiers for locators within terminal areas.",
+    "b": "Audible signal (Morse code), 2-letter identifier for en-route NDB and 3-letter or 2-letter identifiers for locators within terminal areas.",
+    "c": "No audible signal, 3-letter identifier for en-route NDB and locators within terminal areas.",
+    "d": "No audible signal, 2-letter identifier for en-route NDB and locators within terminal areas."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

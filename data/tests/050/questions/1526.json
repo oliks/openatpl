@@ -1,0 +1,19 @@
+{
+  "number": 1526,
+  "questionId": "050-1526",
+  "questionNumber": "050-1526",
+  "stemHtml": "<p>Refer to figure. <br>The arrows on the image of a weather radar display indicate\u2026</p>",
+  "options": {
+    "a": "<p>areas without precipitation and turbulence.</p>",
+    "b": "<p>iso-echo contour areas with strong returns.</p>",
+    "c": "<p>shadow areas behind heavy precipitation cells.</p>",
+    "d": "<p>clear air turbulence areas indicated by the Turbulence mode (+T).</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0384",
+      "publicUrl": "/attachments/050/050-att-0384.png"
+    }
+  ]
+}

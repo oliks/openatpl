@@ -1,0 +1,14 @@
+{
+  "number": 404,
+  "questionId": "062-0404",
+  "questionNumber": "062-0404",
+  "stemHtml": "Your RBI is indicating a relative bearing of 270\u00b0 to an NDB. Your magnetic heading is 176\u00b0. You have tuned in a VOR, which is co-located with the NDB. If your OBI is set to 056\u00b0, what will it indicate?",
+  "options": {
+    "a": "Full scale deflection to the left, TO indication.",
+    "b": "Half scale deflection to the left, FROM indication.",
+    "c": "Half scale deflection to the right, FROM indicattion.",
+    "d": "Full scale deflection to the right, TO indication."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

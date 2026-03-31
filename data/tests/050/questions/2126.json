@@ -1,0 +1,14 @@
+{
+  "number": 2126,
+  "questionId": "050-2126",
+  "questionNumber": "050-2126",
+  "stemHtml": "<p>You have departed Brussels (EBBR) at 09:40Z to fly to Glasgow (EGPF). In the cruise at FL180 you receive the following message relating to an area the flight is expected to pass through:</p>\r\n\r\n<p>\u201cEGTT SIGMET 2 VALID 041000/041400 EGRR- EGTT LONDON FIR SEV MTW FCST WI N5300 W00130 - N5300 W00300 - N5500 W00200 FL070/200 STNR WKN\u201d.</p>\r\n\r\n<p>What hazard can be expected?</p>",
+  "options": {
+    "a": "Severe mountain waves with downdrafts exceeding 600 ft per minute and/or severe turbulence within the area bounded by the coordinates.",
+    "b": "Severe mountain waves at FL70 within the area bounded by the coordinates, with a westerly wind of 200 kt.",
+    "c": "Cumulonimbus clouds producing moderate to severe icing and turbulence, and hail in the west of the area bounded by the coordinates until 14:00 UTC.",
+    "d": "Severe mountain waves of 200 ft per minute vertical speed at FL70 within the area bounded by the coordinates."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

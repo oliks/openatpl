@@ -1,0 +1,14 @@
+{
+  "number": 105,
+  "questionId": "040-0105",
+  "questionNumber": "040-0105",
+  "stemHtml": "<p>During a standard aeromedical check-up, a young pilot has their blood pressure measured. Which of the following statements about the recorded blood pressure values is accurate?</p>",
+  "options": {
+    "a": "<p>135 / 95 mmHg \u2013 Both the systolic and diastolic values are much too high, and countermeasures must be taken to reduce it.</p>",
+    "b": "<p>120 / 70 mmHg \u2013 The diastolic value is much too low and countermeasures should be taken.</p>",
+    "c": "<p>195 / 80 mmHg \u2013 Both the systolic and diastolic values are much too high, and countermeasures must be taken.</p>",
+    "d": "<p>115 / 80 mmHg \u2013 The systolic value is too low and countermeasures should be taken.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

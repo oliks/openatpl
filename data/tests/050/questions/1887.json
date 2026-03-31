@@ -1,0 +1,19 @@
+{
+  "number": 1887,
+  "questionId": "050-1887",
+  "questionNumber": "050-1887",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe chart shows isobars and fronts at 1200 UTC on October 10. Which of the following reports reflects weather development at Zurich Airport (LSZH) ?</p>",
+  "options": {
+    "a": "<p>TAF LSZH 101500Z 1016/1101 VRB02KT 8000 NSC BECMG 1016/1018 3500 MIFG BECMG 1018/1020 1500 BCFG BECMG 1020/1022 0100 FG VV001=</p>",
+    "b": "<p>TAF LSZH 101500Z 1016/1101 23012KT 6000 RA BKN012 OVC030 TEMPO 1020/1023 22025G40KT 1600 +SNRA BKN003 OVC015=</p>",
+    "c": "<p>TAF LSZH 101500Z 1016/1101 32008KT 9999 SCT030TCU TEMPO 1022/1101 32020G32KT 3000 TSRA BKN020CB=</p>",
+    "d": "<p>TAF LSZH 101500Z 1016/1101 05020G35KT 8000 BKN015 TEMPO 1017/1020 05018KT 0300 +SHSN VV002=</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0038",
+      "publicUrl": "/attachments/050/050-att-0038.jpeg"
+    }
+  ]
+}

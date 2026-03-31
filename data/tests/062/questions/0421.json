@@ -1,0 +1,14 @@
+{
+  "number": 421,
+  "questionId": "062-0421",
+  "questionNumber": "062-0421",
+  "stemHtml": "<p>During PBN operations, the RNP for a procedure is 0.3 NM, and the ANP is 0.02 NM. Which of the statements are correct/incorrect?</p><p>1.The ANP must be 0.32 or less to be within the required limitations<br>2.The flight technical error (FTE) must be 0.28 NM or less to be within the required navigation performance</p>",
+  "options": {
+    "a": "<p>Only statement 1 is correct.</p>",
+    "b": "<p>Only statement 2 is correct.</p>",
+    "c": "<p>Both statements are correct.</p>",
+    "d": "<p>Both statements are incorrect.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

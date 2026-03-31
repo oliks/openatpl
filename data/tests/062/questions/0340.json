@@ -1,0 +1,14 @@
+{
+  "number": 340,
+  "questionId": "062-0340",
+  "questionNumber": "062-0340",
+  "stemHtml": "<p>Which of the following statements correctly describe the clock system in the Galileo Global Navigation Satellite System (GNSS)?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. There are two independent, identical atomic clocks on each satellite.</span> <br /> \n2. There are two independent, non-identical atomic clocks on each satellite. <br /> \n3. There is one master atomic clock and one reference clock on each satellite. <br /> \n4. The satellite clocks are synchronised with each other.</p>\n\n<div> </div>",
+  "options": {
+    "a": "2 and 4.",
+    "b": "1 and 3.",
+    "c": "2 only.",
+    "d": "1 only."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

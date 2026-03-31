@@ -1,0 +1,14 @@
+{
+  "number": 88,
+  "questionId": "050-0088",
+  "questionNumber": "050-0088",
+  "stemHtml": "<p>An aircraft must make an unplanned diversion and the pilot wishes to climb as little as possible. The highest obstacle on the route is a mountain with an elevation of 4430 ft, and the pilot requires 2000 ft of vertical clearance above this. The local QNH at an airport of elevation 2420 ft is 991 hPa, OAT +9\u00b0C. Calculate the minimum usable flight level in order to clear the mountain by the specified clearance.<br>(Assume 1 hPa = 30 ft)</p>",
+  "options": {
+    "a": "<p>FL75</p>",
+    "b": "<p>FL60</p>",
+    "c": "<p>FL70</p>",
+    "d": "<p>FL50</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

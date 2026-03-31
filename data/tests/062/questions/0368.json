@@ -1,0 +1,14 @@
+{
+  "number": 368,
+  "questionId": "062-0368",
+  "questionNumber": "062-0368",
+  "stemHtml": "<p>The Doppler frequency shift of the received GPS carrier frequency may be used to\u2026</p>",
+  "options": {
+    "a": "calculate the groundspeed of the aircraft.",
+    "b": "correct the calculated position for a change in receiver clock error.",
+    "c": "correct the calculated position for frequency shifts.",
+    "d": "calculate the height of the aircraft more accurately."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

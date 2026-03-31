@@ -1,0 +1,14 @@
+{
+  "number": 295,
+  "questionId": "062-0295",
+  "questionNumber": "062-0295",
+  "stemHtml": "<p>What is the reason that a DME-station can generally respond to a maximum of 100 aircraft?</p>",
+  "options": {
+    "a": "<p>The minimum allowable accuracy of the range-measurement cannot be guaranteed when more than about 100 aircraft are using the same DME-station.</p>",
+    "b": "<p>The number of reply pulse pairs per second that a DME-transponder can transmit is limited to a certain maximum value.</p>",
+    "c": "<p>The automatic ground monitoring station of each DME-station has a limited capacity.</p>",
+    "d": "<p>The memory of the DME-transponder is limited.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

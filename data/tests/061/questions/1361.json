@@ -1,0 +1,14 @@
+{
+  "number": 1361,
+  "questionId": "061-1361",
+  "questionNumber": "061-1361",
+  "stemHtml": "<p>An aircraft is flying at FL300 and the crew is preparing for the approach. Calculate the TAS when passing FL180 in a descent with constant CAS, given the following information:</p>\r\n\r\n<p>CAS in the descent: 180 kt<br />\r\nDescent: from FL300 to FL50<br />\r\nAverage wind component: 35 kt<br />\r\nOutside Air Temperature: ISA -10\u00baC</p>\r\n",
+  "options": {
+    "a": "239 kt",
+    "b": "198 kt",
+    "c": "225 kt",
+    "d": "234 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

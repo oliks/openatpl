@@ -1,0 +1,19 @@
+{
+  "number": 81,
+  "questionId": "061-0081",
+  "questionNumber": "061-0081",
+  "stemHtml": "<p>Refer to Enroute_E(LO)2_03 chart from Jeppesen GSPRM 2017.  <br />  Given:\u200b\u200b\u200b\u200b\u200b\u200b</p><p>DME ISY: 55\u00b041\u00b4N, 006\u00b015\u00b4W  <br />  Aircraft position: 54\u00b030\u00b4N, 005\u00b000\u00b4W</p><p>Find the initial magnetic track from ISY to the position of the aircraft and determine the distance between both locations.</p>",
+  "options": {
+    "a": "148\u00b0, 83 NM",
+    "b": "332\u00b0, 144 NM",
+    "c": "152\u00b0, 83 NM",
+    "d": "144\u00b0, 144 NM"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0205",
+      "publicUrl": "/attachments/061/061-att-0205.jpg"
+    }
+  ]
+}

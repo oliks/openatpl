@@ -1,0 +1,14 @@
+{
+  "number": 1024,
+  "questionId": "062-1024",
+  "questionNumber": "062-1024",
+  "stemHtml": "Which radar system can be used to detect aircraft that are not equipped with an operating transponder in flight?",
+  "options": {
+    "a": "<p>Active Transponder (AT) Radar System</p>",
+    "b": "Multilateral Surveillance (MLAT) Radar System",
+    "c": "Primary Surveillance Radar (PSR)",
+    "d": "Secondary Surveillance Radar (SSR)"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 66,
+  "questionId": "062-0066",
+  "questionNumber": "062-0066",
+  "stemHtml": "You are approaching an airport in Sweden at 73\u00baN. Due to this high latitude, the GPS is unreliable. What systems can you use?",
+  "options": {
+    "a": "AAIM with Baro.",
+    "b": "Barometric altimeter and clock only.",
+    "c": "On-board clock to aid time reference and SBAS.",
+    "d": "INS and clock."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

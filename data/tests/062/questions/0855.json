@@ -1,0 +1,14 @@
+{
+  "number": 855,
+  "questionId": "062-0855",
+  "questionNumber": "062-0855",
+  "stemHtml": "<p>Refer to figure.  <br />  \rYou are about to enter an NDB holding pattern from sector 3. When first passing overhead the NDB, what will happen to the ADF needle?</p>",
+  "options": {
+    "a": "<p>It will initially indicate TO, then once you pass the NDB it will indicate FROM.</p>",
+    "b": "<p>It will initially indicate FROM, then once you pass the NDB it will indicate TO.</p>",
+    "c": "<p>It will start pointing down and turn 180\u00ba upon passing the NDB.</p>",
+    "d": "<p>It will start pointing up and turn 180\u00ba upon passing the NDB.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

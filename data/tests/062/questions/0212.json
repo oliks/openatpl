@@ -1,0 +1,14 @@
+{
+  "number": 212,
+  "questionId": "062-0212",
+  "questionNumber": "062-0212",
+  "stemHtml": "You are flying in IMC at night above the 73\u00b0North latitude. Because of the high latitude and the GNSS satellite positions, you elect to fly an RNP APCH to LNAV/VNAV minima based on barometric VNAV with GNSS horizontal guidance. The minimum published temperature for the approach is -8\u00b0C, and your aircraft does not have automatic temperature-compensation fitted. The temperature given by the most recent ATIS is -6\u00b0C. During final approach, ATC tells you to make an immediate go around because terrain separation is no longer guaranteed. What is the most likely reason for losing minimum terrain separation?",
+  "options": {
+    "a": "The temperature has fallen below -8\u00b0C, invalidating the indicated altitudes of the current barometric VNAV setup.",
+    "b": "ATC has detected interference from the glide slope signals of the parallel runway.",
+    "c": "The GBAS signal has been lost.",
+    "d": "Loss of the GNSS signal because of the low satellite elevations above the horizon."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

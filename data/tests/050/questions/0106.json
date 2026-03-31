@@ -1,0 +1,19 @@
+{
+  "number": 106,
+  "questionId": "050-0106",
+  "questionNumber": "050-0106",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is flying at FL300 from Madrid to Keflavik, passing southwest of Ireland. What weather conditions is it likely to encounter at this location?</p>",
+  "options": {
+    "a": "<p>Moderate turbulence at FL300.</p>",
+    "b": "<p>Moderate icing at FL300.</p>",
+    "c": "<p>Moderate to Severe icing due to occasional CBs.</p>",
+    "d": "<p>Nothing is impacting their routing.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0258",
+      "publicUrl": "/attachments/050/050-att-0258.jpg"
+    }
+  ]
+}

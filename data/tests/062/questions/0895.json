@@ -1,0 +1,14 @@
+{
+  "number": 895,
+  "questionId": "062-0895",
+  "questionNumber": "062-0895",
+  "stemHtml": "Which one of the following statements about EGNOS is correct?",
+  "options": {
+    "a": "EGNOS can improve accuracy to 0,1 dm horizontally and 0,03 dm vertically.",
+    "b": "With EGNOS installed in an aircraft, the GNSS-reciever can use satellites from all Global Navigation Satellite Systems in order to get better accuracy.",
+    "c": "EGNOS consists of 3 geostationary satellites which broadcast GPS look-alike signals in order to improve accuracy.",
+    "d": "EGNOS is a local area augmentations system operation in North America."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 117,
+  "questionId": "050-0117",
+  "questionNumber": "050-0117",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhat weather conditions are expected at Paris airport (LFPO) around 0550 UTC?</p>",
+  "options": {
+    "a": "<p>23014KT 3000 +RA SCT008 OVC025 15/13 Q1004 NOSIG=</p>",
+    "b": "<p>22020G36KT 1500 TSGR SCT004 BKN007 BKN025CB 18/13 Q1009 BECMG NSW=</p>",
+    "c": "<p>20004KT 8000 SCT110 SCT250 22/08 Q1016 NOSIG=</p>",
+    "d": "<p>26012KT 9999 SCT025 SCT040 14/09 Q1018 TEMPO 5000 SHRA=</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0077",
+      "publicUrl": "/attachments/050/050-att-0077.jpeg"
+    }
+  ]
+}

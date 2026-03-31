@@ -1,0 +1,14 @@
+{
+  "number": 727,
+  "questionId": "040-0727",
+  "questionNumber": "040-0727",
+  "stemHtml": "<p>A pilot is approaching the destination airfield. Their radio is tuned to the aerodrome frequency 128.125 MHz, the transponder is set to 4272 as instructed and the altimeter is set to the local QNH of 1002 hPa. ATC issues the following clearance: \u201cG-ABCD, surface wind 130 degrees, 5 knots, cleared to land runway 09.\u201d</p>\r\n\r\n<p>The following information is currently stored in the pilot\u2019s working memory?</p>",
+  "options": {
+    "a": "<p>Communication frequency 128.125 MHz</p>",
+    "b": "<p>Wind 130 degrees, 5 knots</p>",
+    "c": "<p>QNH 1002 hPa</p>",
+    "d": "Squawk 4272"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

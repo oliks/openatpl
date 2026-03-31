@@ -1,0 +1,14 @@
+{
+  "number": 337,
+  "questionId": "040-0337",
+  "questionNumber": "040-0337",
+  "stemHtml": "<p>In which of the following drinks is caffeine contained?</p><p>1. Apple juice <br /> 2. Beer <br /> 3. Black tea <br /> 4. Energy drink <br /> 5. Green tea <br /> 6. Mineral water <br /> 7. Sparkling wine</p>",
+  "options": {
+    "a": "<p>1, 2 and 5</p>",
+    "b": "<p>3, 4 and 5</p>",
+    "c": "<p>3, 6 and 7</p>",
+    "d": "<p>2, 4 and 6</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

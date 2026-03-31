@@ -1,0 +1,14 @@
+{
+  "number": 492,
+  "questionId": "062-0492",
+  "questionNumber": "062-0492",
+  "stemHtml": "During descent ATC informs the pilot to expect the RNP Approach (RNP APCH) for Runway 09. During approach preparation the pilot notices that one waypoint of the RNP APCH is missing in the navigation database. What are his/her options?",
+  "options": {
+    "a": "An RNP APCH must NOT be flown unless it is retrievable from the on-board navigation database and conforms to the charted procedure. Request a different approach procedure from ATC.",
+    "b": "Create a new RNP APCH procedure for Runway 09 in the on-board navigation database. Check that all data conform to the charted procedures and continue the approach.",
+    "c": "Load the existing RNP APCH procedure for Runway 09 from the on-board navigation database and insert the missing waypoint manually. Check that all data conform to the charted procedures and continue the approach.",
+    "d": "An RNP APCH is permitted to be flown even if it is NOT retrievable from the on-board navigation database, so long as it is being backed up by other means of navigation. Continue the approach."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

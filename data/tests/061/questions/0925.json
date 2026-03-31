@@ -1,0 +1,14 @@
+{
+  "number": 925,
+  "questionId": "061-0925",
+  "questionNumber": "061-0925",
+  "stemHtml": "<p>Given: <br /> \rTrue track: 350\u00b0 <br /> \rTrue airspeed: 220 kt <br /> \rWind (True): 300\u00b0/50 kt</p>\r\r<p>What is the true heading and ground speed?</p>",
+  "options": {
+    "a": "<p>TH: 000\u00b0; GS: 249 kt</p>",
+    "b": "<p>TH: 315\u00b0; GS: 197 kt</p>",
+    "c": "<p>TH: 328\u00b0; GS: 221 kt</p>",
+    "d": "<p>TH: 340\u00b0; GS: 185 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 889,
+  "questionId": "062-0889",
+  "questionNumber": "062-0889",
+  "stemHtml": "During the final approach segment of an RNP APCH using SBAS augmentation, the signal-in-space errors cause a lateral position error that is beyond the limits of the approach. What must the aircraft navigation equipment provide in this scenario?",
+  "options": {
+    "a": "<p>A warning within ten seconds.</p>",
+    "b": "A reversion to a conventional approach.",
+    "c": "Guidance to the missed approach.",
+    "d": "An alert within six seconds."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

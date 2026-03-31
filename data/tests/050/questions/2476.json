@@ -1,0 +1,14 @@
+{
+  "number": 2476,
+  "questionId": "050-2476",
+  "questionNumber": "050-2476",
+  "stemHtml": "<p dir=\"ltr\">Determine the most accurate estimate of the approximate Relative Humidity, given:</p><p dir=\"ltr\">Air Temperature: +18\u00b0C <br /> Dew Point: +12\u00b0C</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">30 %</p>",
+    "b": "<p dir=\"ltr\">35 %</p>",
+    "c": "<p dir=\"ltr\">65 %</p>",
+    "d": "<p dir=\"ltr\">70 %</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 447,
+  "questionId": "061-0447",
+  "questionNumber": "061-0447",
+  "stemHtml": "<p>Given:</p>\n\n<p>Time between A and B: 12 min  <br />  \nDistance between A and B: 32 NM  <br />  \nTrue track from A to B: 259\u00b0  <br />  \nTrue heading from A to B: 270\u00b0  <br />  \nTrue airspeed: 130 kt  <br />  \nVariation: 8 \u00b0E</p>\n\n<p>Calculate the average true wind direction and speed for the flight from A to B:</p>",
+  "options": {
+    "a": "033\u00b0/41 kt",
+    "b": "138\u00b0/40 kt",
+    "c": "307\u00b0/40 kt",
+    "d": "042\u00b0/41 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

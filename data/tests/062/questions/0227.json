@@ -1,0 +1,14 @@
+{
+  "number": 227,
+  "questionId": "062-0227",
+  "questionNumber": "062-0227",
+  "stemHtml": "<p>Which of the following is/are considered precision approach(es)?</p>\r\r<p>1. RAIM/AAIM <br /> \r2. RNP AR approach <br /> \r3. ILS approach <br /> \r4. Radar approach <br /> \r5. GLS approach <br /> \r6. SBAS/GBAS</p>",
+  "options": {
+    "a": "<p>1, 2 and 5.</p>",
+    "b": "<p>2, 3 and 6.</p>",
+    "c": "<p>3 and 5.</p>",
+    "d": "<p>3 only.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

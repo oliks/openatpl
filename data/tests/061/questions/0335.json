@@ -1,0 +1,14 @@
+{
+  "number": 335,
+  "questionId": "061-0335",
+  "questionNumber": "061-0335",
+  "stemHtml": "\nThe accuracy of the, manually calculated, DR-position of an aircraft is, among other things, affected by:\n\n\n\n\n\n",
+  "options": {
+    "a": "the accuracy of the actual wind.",
+    "b": "the accuracy of the forecasted wind.",
+    "c": "the accuracy of the adjustment of the position lines for the motion of the aircraft between the last fix and the DR-position.",
+    "d": "the accuracy of the adjustment of the position lines for the motion of the aircraft between the last and the new DR-position."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

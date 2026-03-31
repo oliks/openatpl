@@ -1,0 +1,14 @@
+{
+  "number": 1324,
+  "questionId": "061-1324",
+  "questionNumber": "061-1324",
+  "stemHtml": "<p>On a Lambert Conformal chart, a great circle track from A (N45\u00b055' W070\u00b051') to B (N46\u00b002' W067\u00b050') is 104\u00b0(M). Given the following information, determine the rhumb line track (\u00b0T):</p>\r\r<p>Magnetic variation at A: 18\u00b0W <br /> \rChart constant of the cone: 0.61</p>",
+  "options": {
+    "a": "<p>087\u00b0(T)</p>",
+    "b": "<p>088\u00b0(T)</p>",
+    "c": "<p>084\u00b0(T)</p>",
+    "d": "<p>085\u00b0(T)</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 433,
+  "questionId": "062-0433",
+  "questionNumber": "062-0433",
+  "stemHtml": "<p>Which of the following is one of the most significant factors as regards GPS accuracy?</p>",
+  "options": {
+    "a": "<p>Too few satellite orbits.</p>",
+    "b": "<p>A too high dilution of precision value.</p>",
+    "c": "<p>The insufficient number of radio paths.</p>",
+    "d": "The low number of operational satellites."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

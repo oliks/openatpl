@@ -1,0 +1,14 @@
+{
+  "number": 694,
+  "questionId": "062-0694",
+  "questionNumber": "062-0694",
+  "stemHtml": "Ground Based Augmentation System (GBAS) provides data which defines the Final Approach Segment (FAS). The data is transmitted on\u2026",
+  "options": {
+    "a": "VHF to arriving aircraft to correct any anomalies in the localiser aspect of the approach.",
+    "b": "UHF providing error corrections for the glide slope.",
+    "c": "UHF to arriving aircraft, together with differential position corrections and integrity information for each satellite in view.",
+    "d": "VHF to arriving aircraft, together with differential position corrections and integrity information for each satellite."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

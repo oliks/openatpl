@@ -1,0 +1,14 @@
+{
+  "number": 1002,
+  "questionId": "062-1002",
+  "questionNumber": "062-1002",
+  "stemHtml": "When flying an RF leg without autopilot, the flight director must be used for guidance. Why?",
+  "options": {
+    "a": "The flight director will give a visual and audible alert if the actual navigation performance exceeds the RNP during the RF leg.",
+    "b": "The flight director displays guidance based on the information received from ground-based transmitters.",
+    "c": "The RNP system uploads the RF procedure to the FAC, which then provides guidance via the flight director.",
+    "d": "The RF leg is based on fixed radius turn with guidance calculated by the aircraft\u2019s RNAV system."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

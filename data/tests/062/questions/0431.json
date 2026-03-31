@@ -1,0 +1,14 @@
+{
+  "number": 431,
+  "questionId": "062-0431",
+  "questionNumber": "062-0431",
+  "stemHtml": "An aircraft is approved for RNP APCH. Will this mean that it is automatically approved for RNP 2? Why?",
+  "options": {
+    "a": "Yes, because RNP 2 is less stringent, so it is automatically included under any stricter approvals.",
+    "b": "No, because an aircraft can either be approved for RNP 2 or RNP APCH, but it can never be approved for both.",
+    "c": "No, because the aircraft may not meet all requirements for RNP 2 approval.",
+    "d": "Yes, because the navigation databases are the same for all RNP flights."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

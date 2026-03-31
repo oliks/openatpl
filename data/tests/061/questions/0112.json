@@ -1,0 +1,31 @@
+{
+  "number": 112,
+  "questionId": "061-0112",
+  "questionNumber": "061-0112",
+  "stemHtml": "<p>Refer to figures.<br />Given the following information, for a flight from Samoa to Tonga, calculate the time and date of arrival (ST) at Tonga.</p><p>Departure date at Samoa: 1st March 2004\u00a0<br />Departure time: 23:15 ST\u00a0<br />Flight time: 01:13</p>",
+  "options": {
+    "a": "<p>00:28 ST, 3rd March 2004  </p>",
+    "b": "<p>00:28 ST, 1st March 2004 </p>",
+    "c": "<p>02:28 ST, 2nd March 2004  </p>",
+    "d": "<p>22:28 ST, 1st March 2004</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0016",
+      "publicUrl": "/attachments/061/061-att-0016.png"
+    },
+    {
+      "uniqueKey": "061-att-0047",
+      "publicUrl": "/attachments/061/061-att-0047.png"
+    },
+    {
+      "uniqueKey": "061-att-0174",
+      "publicUrl": "/attachments/061/061-att-0174.png"
+    },
+    {
+      "uniqueKey": "061-att-0129",
+      "publicUrl": "/attachments/061/061-att-0129.png"
+    }
+  ]
+}

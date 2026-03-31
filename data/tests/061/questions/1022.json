@@ -1,0 +1,14 @@
+{
+  "number": 1022,
+  "questionId": "061-1022",
+  "questionNumber": "061-1022",
+  "stemHtml": "<p>Calibrated Airspeed (CAS) is the Indicated Airspeed (IAS) corrected for...</p>",
+  "options": {
+    "a": "<p>position, instrument, compressibility and density error.    </p>",
+    "b": "<p>position and instrument error.    </p>",
+    "c": "<p>position, instrument and compressibility error.    </p>",
+    "d": "<p>compressibility and density error.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 287,
+  "questionId": "061-0287",
+  "questionNumber": "061-0287",
+  "stemHtml": "<p>Refer to figure or VFR chart ED-4 from the Jeppesen GSPRM 2017. <br>A pilot is flying a leg between waypoints A (N48\u00b053' E012<strong>\u00b0</strong>59') and B (N48<strong>\u00b0</strong>26<strong>'</strong> E014<strong>\u00b0</strong>08<strong>'</strong>) at 1000 ft AGL. The planned flight time was calculated to be 26 minutes and 30 seconds. During the flight, the pilot notices that they arrive at waypoint B earlier than planned. What is the most likely reason for this?</p><p>Planning data: <br>W/V at FL100: 070<strong>\u00b0</strong>/30 kt <br>GS: 120 kt</p>",
+  "options": {
+    "a": "<p>The W/V for planning was taken from FL100, with less headwind in flight at 1000 ft AGL. </p>",
+    "b": "<p>The actual wind is veering during the flight.</p>",
+    "c": "<p>The actual wind direction is the same as the true track angle. </p>",
+    "d": "<p>The wind speed during the flight at 1000 ft AGL is higher than the wind speed of 30 kt taken for the planning. </p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0314",
+      "publicUrl": "/attachments/061/061-att-0314.gif"
+    }
+  ]
+}

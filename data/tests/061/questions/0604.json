@@ -1,0 +1,14 @@
+{
+  "number": 604,
+  "questionId": "061-0604",
+  "questionNumber": "061-0604",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Track= 355\u00b0</span>  <br />  \nTAS = 190 kt  <br />  \nW/V 270\u00b0/25 kt</p>\n\n<p>After 30 minutes of flying with the planned TAS and TH the aircraft is 3.5 NM right of track and 4.5 NM ahead of the dead reckoning position.Calculate the actual wind.</p>",
+  "options": {
+    "a": "246\u00b0/21 kt",
+    "b": "251\u00b0/25 kt",
+    "c": "254\u00b0/34 kt",
+    "d": "248\u00b0/21 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

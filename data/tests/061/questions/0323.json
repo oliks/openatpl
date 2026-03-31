@@ -1,0 +1,14 @@
+{
+  "number": 323,
+  "questionId": "061-0323",
+  "questionNumber": "061-0323",
+  "stemHtml": "<p>Calculate the W/V given the following outputs of the Inertial Navigation System and the Air Data Computer:</p>\n\n<p><span style=\"letter-spacing:0.7px\">GS: 520 kt</span>  <br />  \nTrue heading: 090\u00b0  <br />  \nDrift angle: 5\u00b0 right  <br />  \nTAS: 480 kt  <br />  \nStatic Air Temperature SAT: -51\u00b0C</p>",
+  "options": {
+    "a": "225\u00b0 T/60 kt",
+    "b": "220\u00b0 T/60 kt",
+    "c": "320\u00b0 T/60 kt",
+    "d": "325\u00b0 T/60 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 769,
+  "questionId": "062-0769",
+  "questionNumber": "062-0769",
+  "stemHtml": "<p>Which of the following is correct?</p>",
+  "options": {
+    "a": "<p>The slotted planar array has a considerably smaller beam width.</p>",
+    "b": "<p>The parabolic reflector has a considerably smaller beam width.</p>",
+    "c": "<p>A parabolic antenna is preferred over a slotted planar array on aircraft due to its smaller side lobes and superior ability to display weather phenomena and map ground terrain.</p>",
+    "d": "<p>A slotted planar array is preferred over a parabolic antenna on aircraft due to its superior ability to display weather phenomena and map ground terrain.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 182,
+  "questionId": "062-0182",
+  "questionNumber": "062-0182",
+  "stemHtml": "A flight is planned to Longyear Airport in Svalbard (lat. 78\u00b015'N), Due to the high latitude the aircraft GPS will NOT be able to achieve RAIM during the arrival phase of flight, as not enough satellites will be in view. If the aircraft is suitably equipped, which of the following systems could be used for integrity monitoring?",
+  "options": {
+    "a": "<p>AAIM using the VOR and DME.</p>",
+    "b": "GBAS using the DME only.",
+    "c": "<p>AAIM using the IRS and barometric altimeter.</p>",
+    "d": "GBAS using the INS and barometric altimeter."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

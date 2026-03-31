@@ -1,0 +1,14 @@
+{
+  "number": 888,
+  "questionId": "062-0888",
+  "questionNumber": "062-0888",
+  "stemHtml": "What is correct concerning the L1 and L2 NAVSTAR GPS transmission frequencies and codes?",
+  "options": {
+    "a": "The C/A code is for authorised (military) use only. It is transmitted on both L1 and L2.",
+    "b": "The C/A code is the only code available for civilian use. It is transmitted only on L1.",
+    "c": "The P code is the only code available for civilian use. It is transmitted only on L1.",
+    "d": "The P code is for authorised (military) use only. It is transmitted only on L2."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

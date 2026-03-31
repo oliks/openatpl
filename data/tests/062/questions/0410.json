@@ -1,0 +1,14 @@
+{
+  "number": 410,
+  "questionId": "062-0410",
+  "questionNumber": "062-0410",
+  "stemHtml": "<p>Which of the following functions is directly affected, if one satellite in a GNSS (Global Navigation Satellite System) constellation becomes unavailable?</p>",
+  "options": {
+    "a": "<p>RAIM (Receiver Autonomous Integrity Monitoring)</p>",
+    "b": "<p>WAAS (Wide Area Augmentation System)</p>",
+    "c": "<p>GLONASS (Global Navigation Satellite System)</p>",
+    "d": "<p>GPS (Global Positioning System) basic positioning</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

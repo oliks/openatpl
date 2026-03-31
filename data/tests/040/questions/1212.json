@@ -1,0 +1,14 @@
+{
+  "number": 1212,
+  "questionId": "040-1212",
+  "questionNumber": "040-1212",
+  "stemHtml": "<p>A large operator hires an experienced pilot from a smaller airline where they were a captain. At the large airline they are flying as a first officer on a different aircraft type. One day, the weather is marginal and they are flying with a newly promoted captain who has low total hours. During the approach, the young captain has an uneasy feeling about the weather conditions and calls for a go-around. The experienced FO replies \"I've made plenty of landings in worse weather, we will be fine\" and continues the approach. Moments later, the aircraft crashes into a mountain short of the runway. Which of the following options correctly describes this scenario?</p>",
+  "options": {
+    "a": "<p>Invulnerability attitude. The captain felt too safe flying with their experienced colleague and fully trusted their abilities to land the aircraft in below-minimum conditions, which led to a loss of situation awareness and consequently the crash of the aircraft.</p>",
+    "b": "<p>A laissez-faire cockpit. The captain let the first officer proceed as they liked, without executing any control over their actions or providing an opinion, up to the point at which the aircraft crashed into the mountain.</p>",
+    "c": "<p>A steep authority gradient. The inexperienced captain lacked assertiveness and was unable to put forward their opinion, which led to the FO assuming control and finally crashing the aircraft.</p>",
+    "d": "<p>A mismatch of status and role. The assigned captain has the role of commander. The experienced first officer has a higher status, assumes the commander\u2019s role during approach and executes its privileges with the consequence of crashing the aircraft.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

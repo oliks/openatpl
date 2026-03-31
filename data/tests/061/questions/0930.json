@@ -1,0 +1,14 @@
+{
+  "number": 930,
+  "questionId": "061-0930",
+  "questionNumber": "061-0930",
+  "stemHtml": "<p>Find the wind velocity (\u00b0(T)) for the given example:</p><p>Cruise level: FL050<br>Temperature: 12\u00b0C<br>Wind component: -8 kt<br>Magnetic Heading: 313\u00b0<br>Magnetic Track: 321\u00b0<br>Magnetic Variation: 12\u00b0W<br>CAS: 135 kt</p>",
+  "options": {
+    "a": "<p>249\u00b0/22 kt.</p>",
+    "b": "<p>237\u00b0/22 kt.</p>",
+    "c": "<p>261\u00b0/22 kt.</p>",
+    "d": "<p>192\u00b0/22 kt.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

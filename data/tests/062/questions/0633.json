@@ -1,0 +1,14 @@
+{
+  "number": 633,
+  "questionId": "062-0633",
+  "questionNumber": "062-0633",
+  "stemHtml": "<div>In order to provide an Air Traffic Services (ATS) surveillance service, what minimum information must be provided to the controller on the surveillance system display? Indication of position and also..</div>",
+  "options": {
+    "a": "<div>any map information needed to provide the surveillance service, aircraft speed, and (when available) the aircraft identification and level.</div>",
+    "b": "<div>an overlay of the terrain, and the aircraft identification, speed, vertical speed, and level.</div>",
+    "c": "<div>level, speed, vertical speed, an overlay of the terrain, and (when available) the aircraft identification and destination.</div>",
+    "d": "any map information needed to provide the surveillance service, and (when available) the aircraft identification and level."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

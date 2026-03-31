@@ -1,0 +1,14 @@
+{
+  "number": 14,
+  "questionId": "062-0014",
+  "questionNumber": "062-0014",
+  "stemHtml": "What is correct for PDE (Path Definition Error)?",
+  "options": {
+    "a": "Path defined by RNAV system does not correspond to the desired path.",
+    "b": "Path defined by RNAV system corresponds to the desired path.",
+    "c": "The RNAV calculated aircraft coordinates corresponds to the actual aircraft coordinates.",
+    "d": "It relates to the air crew or autopilot\u2019s ability to follow the defined path or track."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

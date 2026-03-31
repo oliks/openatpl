@@ -1,0 +1,14 @@
+{
+  "number": 2185,
+  "questionId": "050-2185",
+  "questionNumber": "050-2185",
+  "stemHtml": "An aerodrome at sea level situated next to a mountainous area has quite a high Decision Altitude due to the proximity of the terrain. This Decision Altitude (the point at which missed approach must be initiated if the required visual reference to continue the approach has NOT been established) has a minimum altitude of 3 500 ft. In accordance with the aerodrome procedures, this altitude must be temperature corrected if the aerodrome OAT is below -5\u00baC. Calculate what the lowest indication of the altimeter can be at Decision Altitude if the OAT at the aerodrome is -10\u00baC?",
+  "options": {
+    "a": "3 500 ft",
+    "b": "3 620 ft",
+    "c": "3 850 ft",
+    "d": "3 150 ft"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

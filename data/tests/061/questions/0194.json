@@ -1,0 +1,14 @@
+{
+  "number": 194,
+  "questionId": "061-0194",
+  "questionNumber": "061-0194",
+  "stemHtml": "<p>Given the following information for a flight from location B (84\u00b0S 119\u00b0E) to location A (84\u00b0S), with the route drawn as a straight line on a Polar stereographic chart, calculate the longitude of location A.</p><p>Initial track at B: 237\u00b0(T) <br>Final track at A: 303\u00b0(T)</p>",
+  "options": {
+    "a": "<p>053\u00b0E</p>",
+    "b": "<p>175\u00b0W</p>",
+    "c": "<p>066\u00b0E</p>",
+    "d": "<p>086\u00b0E</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

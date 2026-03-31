@@ -1,0 +1,14 @@
+{
+  "number": 516,
+  "questionId": "062-0516",
+  "questionNumber": "062-0516",
+  "stemHtml": "EGNOS (European Geostationary Navigation Overlay System) informs the users of any GPS malfunctions within 6 seconds to enhance safety. How are these malfunctions broadcast to EGNOS users?",
+  "options": {
+    "a": "Alerts are sent to all the satellites in view and then re-transmitted to the user.",
+    "b": "Differential corrections and integrity messages are broadcast every 3 hours.",
+    "c": "<p>Data is broadcast from geostationary satellites.</p>",
+    "d": "The data are broadcast from all satellites with navigation packages."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

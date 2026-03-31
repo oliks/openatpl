@@ -1,0 +1,14 @@
+{
+  "number": 630,
+  "questionId": "061-0630",
+  "questionNumber": "061-0630",
+  "stemHtml": "<p>Given the following information, calculate the corresponding Local Mean Time (LMT) and the date for the longitude 179\u00b000'E.</p><p>Time: 14:00 UTC\u00a0<br>Date: 20th of September</p>",
+  "options": {
+    "a": "<p>01:56 LMT 21st of September</p>",
+    "b": "<p>02:04 LMT 20th of September</p>",
+    "c": "<p>01:56 LMT 20th of September</p>",
+    "d": "<p>02:04 LMT 21st of September</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

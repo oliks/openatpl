@@ -1,0 +1,14 @@
+{
+  "number": 331,
+  "questionId": "062-0331",
+  "questionNumber": "062-0331",
+  "stemHtml": "<p>With respect to the principle of distance measurement using DME can be stated that:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. the interrogation signal is transmitted on the same frequency as the reply signal.</span>  <br />  \n2. the DME station always has a transponder delay of 50 milliseconds.  <br />  \n3. the time between the pulse pairs of the interrogation signal is at random.  <br />  \n4. In the search mode more pulse pairs per second are transmitted than in the tracking mode.</p>\n\n<p>Which of the above given statements are correct?</p>\n\n<div> </div>",
+  "options": {
+    "a": "3 and 4",
+    "b": "1 and 2",
+    "c": "1, 2, 3, and 4",
+    "d": "2, 3 and 4"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

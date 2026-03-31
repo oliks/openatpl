@@ -1,0 +1,19 @@
+{
+  "number": 94,
+  "questionId": "050-0094",
+  "questionNumber": "050-0094",
+  "stemHtml": "<p>Refer to figure. <br>What can be seen on the radar picture overhead airport EFVA?</p>",
+  "options": {
+    "a": "<p>Clear skies with scattered cirrus clouds.</p>",
+    "b": "<p>Heavy precipitation and most likely a CB.</p>",
+    "c": "<p>Warm occluded front.</p>",
+    "d": "<p>Area of high winds, likely a jet stream.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0347",
+      "publicUrl": "/attachments/050/050-att-0347.png"
+    }
+  ]
+}

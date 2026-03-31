@@ -1,0 +1,14 @@
+{
+  "number": 1062,
+  "questionId": "040-1062",
+  "questionNumber": "040-1062",
+  "stemHtml": "<p>During flight, cabin pressurisation is lost, and CANNOT be restored before the cabin altitude reaches a critical value. Which of the actions below must the flight crew carry out, and in what order?</p><p>1. Declare an emergency. <br>2. Declare an emergency, asking for QNH information <br>3. Ask for QRH information. <br>4. Put on oxygen equipment <br>5. Initiate an immediate rapid descent to the minimum safe altitude or 10 000 ft, whichever is higher. <br>6. Initiate an immediate descent to the minimum safe altitude or 10 000 ft, whichever is higher, at a medium rate of descent to avoid decompression sickness.</p>",
+  "options": {
+    "a": "First 1, followed by 5, then 4, then 3.",
+    "b": "First 4, followed by 6, then 2.",
+    "c": "First 5, followed by 4, then 2.",
+    "d": "First 4, followed by 5, then 2."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

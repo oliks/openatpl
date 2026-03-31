@@ -1,0 +1,14 @@
+{
+  "number": 414,
+  "questionId": "061-0414",
+  "questionNumber": "061-0414",
+  "stemHtml": "Two places are situated on the same parallel in the Southern Hemisphere. The great circle, rhumb line and the straight line between these places are drawn on a Polar Stereographic Projection. Which statement is correct?",
+  "options": {
+    "a": "The great circle is situated between the parallel and the straight line, because the concave side of the great circle is always pointed towards the equator.",
+    "b": "The great circle is situated between the parallel and the straight line, because the concave side of the great circle is always pointed towards the pole.",
+    "c": "The correct sequence from North to South is: Great circle, straight line, rhumb line.",
+    "d": "The rhumb line is situated between the great circle and the straight line because the shortest distance between to places on Earth is the great circle."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

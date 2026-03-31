@@ -1,0 +1,14 @@
+{
+  "number": 142,
+  "questionId": "050-0142",
+  "questionNumber": "050-0142",
+  "stemHtml": "<p>When planning a flight, you see the following METAR for Cairo, your departure aerodrome.</p><p>HECA 030900Z 34005KT 6000 NSC 37/17 Q1005 NOSIG</p><p>Complete the following sentence regarding the expected cloud cover at Cairo at this time. </p><p>No (1) _____ with a base below a height of (2) _____ above aerodrome level or below the highest minimum sector altitude, whichever is greater, and no (3) _____ at any (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) cloud covering more than half the sky, (2) 5000 ft, (3) CB, (4) level</p>",
+    "b": "<p>(1) cloud, (2) 6000 ft, (3) CB, (4) level</p>",
+    "c": "<p>(1) cloud, (2) 5000 ft, (3) CB or TCU, (4) height</p>",
+    "d": "<p>(1) cloud covering more than half the sky, (2) 6000 ft, (3) CB or TCU, (4) height</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2022,
+  "questionId": "050-2022",
+  "questionNumber": "050-2022",
+  "stemHtml": "<p>Refer to figure. <br>Identify the potential hazards for a flight from Shannon (53\u00b0N 009\u00b0W) to Warsaw (52\u00b0N 021\u00b0E) at FL120. The flight will...</p>",
+  "options": {
+    "a": "<p>Pass through an area of thunderstorms, hail, moderate or severe icing and turbulence, cross below a jet stream and associated CAT area and finally encounter an area of moderate turbulence and moderate icing.</p>",
+    "b": "<p>Cross through an area of CAT passing below the jet stream core and later through an area of moderate turbulence.</p>",
+    "c": "<p>Encounter no hazards although it will pass both above and below areas of significant weather and CAT.</p>",
+    "d": "<p>Pass below a CAT area but through an area of moderate turbulence and moderate icing.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0241",
+      "publicUrl": "/attachments/050/050-att-0241.gif"
+    }
+  ]
+}

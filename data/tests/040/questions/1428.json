@@ -1,0 +1,14 @@
+{
+  "number": 1428,
+  "questionId": "040-1428",
+  "questionNumber": "040-1428",
+  "stemHtml": "<p>A pilot is approaching a runway which is narrower than the one at their home base and has more of an upslope. What visual impression may the pilot get during the approach, and how should they proceed safely?</p>",
+  "options": {
+    "a": "<p>The pilot may have the impression that they are above the correct approach path, resulting in an increased rate of descent and possible undershoot. They should believe their instruments.</p>",
+    "b": "<p>The pilot will feel that they are further out on the descent path and may reduce thrust too late, resulting in an overshoot. They should pay careful attention to their approach speed.</p>",
+    "c": "<p>The pilot may believe that they are flying too fast, resulting in an early thrust reduction and lack of energy. They should be careful not to reduce below the specified approach speed.</p>",
+    "d": "<p>The pilot will be able to correctly assess their relative position and speed, but may be unaware of the increased landing distance required. They should consult their performance charts before the flight to ensure that the aircraft can safely land at the aerodrome.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

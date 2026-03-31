@@ -1,0 +1,19 @@
+{
+  "number": 522,
+  "questionId": "061-0522",
+  "questionNumber": "061-0522",
+  "stemHtml": "<p>Refer to figure.  <br />  According to the flight plan/log, the aircraft flies from B to C, a distance of 43 NM, in 15 minutes with a GS of 167 kt. If the actual time from B to C is 12 minutes, instead of 15, what is the revised GS and the revised ETO at C, if the planned ETO is 08:53?</p>",
+  "options": {
+    "a": "<p>GS: 215 kt; ETA: 08:50</p>",
+    "b": "<p>GS: 195 kt; ETA: 08:48</p>",
+    "c": "<p>GS: 215 kt; ETA: 08:46</p>",
+    "d": "<p>GS: 195 kt; ETA: 08:50</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0307",
+      "publicUrl": "/attachments/061/061-att-0307.png"
+    }
+  ]
+}

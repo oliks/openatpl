@@ -1,0 +1,14 @@
+{
+  "number": 1492,
+  "questionId": "061-1492",
+  "questionNumber": "061-1492",
+  "stemHtml": "<p>An aircraft departs from position A (105\u00b0E) at 01:00 LMT and flies to Tokyo (141\u00b0E). Given a flight time of 7 hours, determine the local mean time (LMT) in Tokyo upon arrival.</p>",
+  "options": {
+    "a": "<p>08:24 LMT</p>",
+    "b": "<p>10:24 LMT</p>",
+    "c": "<p>22:24 LMT</p>",
+    "d": "<p>17:24 LMT</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

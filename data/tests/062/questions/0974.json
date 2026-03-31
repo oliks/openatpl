@@ -1,0 +1,14 @@
+{
+  "number": 974,
+  "questionId": "062-0974",
+  "questionNumber": "062-0974",
+  "stemHtml": "<p>A flight crew is in the cruise, preparing to fly an RNP APCH. Which of the following should they do?</p><p>1. Load the procedure from a valid aircraft navigation database<br>2. Individually insert each waypoint's coordinates into the navigation system<br>3. Cross-check the waypoint sequence with a valid approach chart<br>4. Cross-check the lateral path with a VOR or NDB overlay approach</p>",
+  "options": {
+    "a": "1 and 3",
+    "b": "1 and 4",
+    "c": "2 and 3",
+    "d": "2 and 4"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

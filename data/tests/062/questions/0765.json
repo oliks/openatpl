@@ -1,0 +1,14 @@
+{
+  "number": 765,
+  "questionId": "062-0765",
+  "questionNumber": "062-0765",
+  "stemHtml": "Why is strict adherence to flight director guidance important when manually flying a radius to fix (RF) leg? The flight director\u2026",
+  "options": {
+    "a": "is required to provide the necessary level of guidance and precision during the turn.",
+    "b": "must be used in place of the autopilot as it provides more precise guidance.",
+    "c": "provides guidance based on a fixed radius calculated with current TAS and bank angle.",
+    "d": "allows the pilot to cross-check the DME arc guidance along the RF procedure."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1888,
+  "questionId": "050-1888",
+  "questionNumber": "050-1888",
+  "stemHtml": "<p>You are planning to fly at FL160 at 0700Z through an area covered by the following SIGMET:</p><p>WSEG12 LFPW 200358 <br>LFPW SIGMET 01 VALID 200400/200800 <br>LFPW-LFBB FIR: Severe mountain waves observed from 48N00W to 48N06W, moving east at 20 knots, between FL100 and FL200. Intensity increasing.</p><p>Based on this information, which of the following weather phenomena should you expect during your flight?</p>",
+  "options": {
+    "a": "<p>Severe turbulence</p>",
+    "b": "<p>Severe icing</p>",
+    "c": "<p>Severe mountain waves</p>",
+    "d": "<p>Thunderstorms</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

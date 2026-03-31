@@ -1,0 +1,14 @@
+{
+  "number": 1405,
+  "questionId": "061-1405",
+  "questionNumber": "061-1405",
+  "stemHtml": "<p>Given the following information, which of the following is the correct formula to calculate ground distance (GD)?</p>\r\r<p>AD: Air distance <br /> \rGD: Ground distance <br /> \rTAS: True airspeed <br /> \rGS: Ground speed</p>",
+  "options": {
+    "a": "<p>GD = (AD - TAS) \u00f7 TAS</p>",
+    "b": "<p>GD = TAS \u00f7 (GS \u00d7 AD)</p>",
+    "c": "<p>GD = (AD \u00d7 GS) \u00f7 TAS</p>",
+    "d": "<p>GD = AD \u00d7 (GS -TAS) \u00f7 GS</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1795,
+  "questionId": "050-1795",
+  "questionNumber": "050-1795",
+  "stemHtml": "<p>An aerodrome on the coast (Faro, Portugal) reported the following METAR:</p><p>LPFR 070650Z 26015KT 0100FG VV/// 05/05 Q1006</p><p>What type of fog can you expect in Faro?</p>",
+  "options": {
+    "a": "<p>Frontal fog</p>",
+    "b": "<p>Advection fog</p>",
+    "c": "<p>Radiation fog</p>",
+    "d": "<p>Orographic fog</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

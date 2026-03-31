@@ -1,0 +1,14 @@
+{
+  "number": 767,
+  "questionId": "061-0767",
+  "questionNumber": "061-0767",
+  "stemHtml": "<p>Before departure the ATIS at Buenos Aires airfield announces: Take Off Runway: 35W/V: 050\u00b0/20-30 kt Temperature: +20\u00b0C QNH: 1000 hPa On the airport chart for Buenos Aires the direction of runway 35 is given as 347\u00b0 and the magnetic variation is 5\u00b0W.</p>\n\n<p>Calculate the maximum Cross Wind Component for departure.</p>",
+  "options": {
+    "a": "9 kt",
+    "b": "27 kt",
+    "c": "18 kt",
+    "d": "14 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

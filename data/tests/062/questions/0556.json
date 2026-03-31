@@ -1,0 +1,14 @@
+{
+  "number": 556,
+  "questionId": "062-0556",
+  "questionNumber": "062-0556",
+  "stemHtml": "If the number of pulse pairs received by the DME-transponder exceeds the maximum number possible, which aircraft will always be denied a DME-range first?",
+  "options": {
+    "a": "The aircraft at the largest distance from the DME-station.",
+    "b": "The aircraft at the lowest altitude.",
+    "c": "The aircraft from which the weakest pulse pairs are received.",
+    "d": "The smallest aircraft which is using the DME-station for range measurement."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 438,
+  "questionId": "050-0438",
+  "questionNumber": "050-0438",
+  "stemHtml": "<p>Refer to figure. <br /> \rBased on the attached weather map displaying wind and temperature data at Flight Level 390 (FL390), which of the routes is most likely to experience the greatest variation in temperature?</p>",
+  "options": {
+    "a": "<p>Brussels - Reykjavik</p>",
+    "b": "<p>Las Palmas - Madrid</p>",
+    "c": "<p>Berlin - Vienna</p>",
+    "d": "<p>Rome - Paris</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0103",
+      "publicUrl": "/attachments/050/050-att-0103.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 128,
+  "questionId": "061-0128",
+  "questionNumber": "061-0128",
+  "stemHtml": "<p>Refer to figure or chart E(LO)2 (Jeppesen GSPRM 2017). <br /> Determine the initial true track and distance from BELFAST City NDB (HB) (N54\u00b037\u2032 W005\u00b053\u2032) to MACHRIHANISH (MAC) DME (N55\u00b026\u2032 W005\u00b039\u2032).</p>",
+  "options": {
+    "a": "<p>009\u00b0T / 52 NM</p>",
+    "b": "<p>015\u00b0T / 58 NM</p>",
+    "c": "<p>351\u00b0T / 52 NM</p>",
+    "d": "<p>009\u00b0T / 60 NM</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0020",
+      "publicUrl": "/attachments/061/061-att-0020.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 722,
+  "questionId": "062-0722",
+  "questionNumber": "062-0722",
+  "stemHtml": "<p>An aircraft is flying an RNP APCH supported by SBAS. In which of the following situations would the contingency procedure of discontinuing the approach apply?</p>\n\n<p>1. Communications failure  <br />  \n2. The receiver fails to engage the correct approach mode  <br />  \n3. Loss of satellite signal  <br />  \n4. TCAS Traffic Advisory (TA)  <br />  \n5. The CDI indication is greater than half scale displacement</p>\n\n<div> </div>",
+  "options": {
+    "a": "2, 3, and 5",
+    "b": "<p>2, 4, and 5</p>",
+    "c": "<p>1, 3, and 5</p>",
+    "d": "1, 2, and 4"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 330,
+  "questionId": "062-0330",
+  "questionNumber": "062-0330",
+  "stemHtml": "<p>ATC reports \u201cQDM 250 degrees Class Bravo\u201d. What does this mean?</p>",
+  "options": {
+    "a": "<p>You are on a QDR of 070\u00b0M bearing from the station +/-5\u00b0.</p>",
+    "b": "<p>You are on a QDM of 250\u00b0M bearing from the station +/-2\u00b0.</p>",
+    "c": "<p>You are approximately on 250\u00b0M bearing to the station +/-3\u00b0.</p>",
+    "d": "<p>You are exactly on 250\u00b0M bearing to the station with no deviation.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

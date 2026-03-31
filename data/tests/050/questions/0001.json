@@ -2,13 +2,13 @@
   "number": 1,
   "questionId": "050-0001",
   "questionNumber": "050-0001",
-  "stemHtml": "<p>In the Northern Hemisphere, wind around a low-pressure system blows:</p>",
+  "stemHtml": "<p>In the International Standard Atmosphere, the temperature changes by (1) _____ until reaching (2) _____, after which it remains constant until (3) _____.</p>",
   "options": {
-    "a": "<p>Clockwise and outward</p>",
-    "b": "<p>Anticlockwise and inward</p>",
-    "c": "<p>Clockwise and inward</p>",
-    "d": "<p>Anticlockwise and outward</p>"
+    "a": "<p>(1) 2\u00b0C / 1000 ft; (2) 36 000 ft; (3) 65 000 ft</p>",
+    "b": "<p>(1) 0.65\u00b0C / 100 m; (2) 18 000 ft; (3) 36 000 ft</p>",
+    "c": "<p>(1) 2\u00b0C / 100 m; (2) 36 000 ft; (3) 65 000 ft</p>",
+    "d": "<p>(1) 2\u00b0C / 1000 ft; (2) 18 000 ft; (3) 65 000 ft</p>"
   },
-  "correctOption": "b",
+  "correctOption": "a",
   "attachments": []
 }

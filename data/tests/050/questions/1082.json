@@ -1,0 +1,14 @@
+{
+  "number": 1082,
+  "questionId": "050-1082",
+  "questionNumber": "050-1082",
+  "stemHtml": "<p>Prior to flight, the pilots are reviewing the en-route weather conditions and note a SIGMET which states that severe mountain waves are expected after departure, and the SIGMET is valid until 11:00 UTC. Their flight departs at 11:45 UTC, will they encounter the mountain waves after departure?</p>",
+  "options": {
+    "a": "<p>They will not know, as the SIGMET is only valid until 11:00 UTC.</p>",
+    "b": "<p>No, the mountain waves will stop at 11:00 UTC.</p>",
+    "c": "<p>Yes, as the SIGMET is valid for 3 hours after the published end time.</p>",
+    "d": "<p>Yes, the mountain waves will be there all day.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

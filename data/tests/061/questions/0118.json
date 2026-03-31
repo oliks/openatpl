@@ -1,0 +1,14 @@
+{
+  "number": 118,
+  "questionId": "061-0118",
+  "questionNumber": "061-0118",
+  "stemHtml": "<p>Considering the data:</p>\n\n<p>Time between fixes: 8 minutes  <br />  \nDistance travelled: 18 NM  <br />  \nTAS: 125 kt  <br />  \nTrue track between fixes: 342\u00b0  <br />  \nTrue heading flown between fixes: 348\u00b0  <br />  \nVariation: 7\u00b0 west</p>\n\n<p>Determine the average true wind direction and velocity between both fixes:</p>",
+  "options": {
+    "a": "118\u00b0/17 kt",
+    "b": "111\u00b0/17 kt",
+    "c": "225\u00b0/17 kt",
+    "d": "039\u00b0/17 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 843,
+  "questionId": "061-0843",
+  "questionNumber": "061-0843",
+  "stemHtml": "<p>An aircraft departs from Athens and when reaching a waypoint at 2000 ft, the ATC instructs the pilot to climb to FL100. Given the following information, what is the required rate of climb?</p><p>Distance to climb: 25 NM<br>QNH: 997 hPa<br>Transition altitude: 5000 ft<br>Mean groundspeed during climb: 160 KT<br>Assume 30 ft per 1hPa</p>",
+  "options": {
+    "a": "<p>800 ft/min</p>",
+    "b": "<p>850 ft/min</p>",
+    "c": "<p>1300 ft/min</p>",
+    "d": "<p>950 ft/min</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

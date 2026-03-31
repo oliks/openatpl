@@ -1,0 +1,14 @@
+{
+  "number": 65,
+  "questionId": "050-0065",
+  "questionNumber": "050-0065",
+  "stemHtml": "<p>Identify the missing information in the following METAR:</p><p>211350Z 21005KT 9999 SCT040CB SCT100 26/18 TEMPO 24018G30 TS=</p>",
+  "options": {
+    "a": "<p>Visibility</p>",
+    "b": "<p>QNH</p>",
+    "c": "<p>Wind</p>",
+    "d": "<p>Temperature</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

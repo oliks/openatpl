@@ -1,0 +1,14 @@
+{
+  "number": 1845,
+  "questionId": "050-1845",
+  "questionNumber": "050-1845",
+  "stemHtml": "<p>Later in the day, which of the following airports is expected to experience deteriorating visibility?</p>\r\r<p>EGLF 191050Z 07003KT 3000 08/05 Q1019 BECMG 8000 <br /> \rEGKK 191050Z 09002KT 4000 05/04 Q1008 BECMG NSC <br /> \rEGGW 191050Z 08004KT 3000 07/04 Q1007 NOSIG <br /> \rEGLL 191050Z 09002KT 4000 BR 06/02 Q1008 BECMG 1000</p>",
+  "options": {
+    "a": "<p>EGLF</p>",
+    "b": "<p>EGKK</p>",
+    "c": "<p>EGGW</p>",
+    "d": "<p>EGLL</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

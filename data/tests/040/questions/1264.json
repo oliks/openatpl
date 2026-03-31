@@ -1,0 +1,14 @@
+{
+  "number": 1264,
+  "questionId": "040-1264",
+  "questionNumber": "040-1264",
+  "stemHtml": "A pilot is told by ATC to change their transponder squawk to a different 4-digit code, but at the same time, a cabin crew member enters the flight deck and asks a question. Once the question has been answered, the pilot realises they have forgotten the new squawk code without entering it into the transponder. What has happened?",
+  "options": {
+    "a": "The pilot could not store all 4 digits in their working memory at once.",
+    "b": "The information was lost from the working memory because of the interruption.",
+    "c": "The pilot could not recall the transponder code from their long-term memory.",
+    "d": "The pilot did not \"chunk\" the digits to make them more memorable, and therefore lost them from memory."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

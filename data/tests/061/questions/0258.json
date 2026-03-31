@@ -1,0 +1,14 @@
+{
+  "number": 258,
+  "questionId": "061-0258",
+  "questionNumber": "061-0258",
+  "stemHtml": "<p>What will be the revised ETA (to the nearest minute) overhead turning point B in the following situation? Assume that all other conditions remain unchanged.</p><p>Planned ETA over turning point B: 14:14. <br /> Planned distance from turning A to turning point B: 43 NM. <br /> Planned distance from turning A to check feature X: 10 NM. <br /> Actual time overhead check feature X: 1 minute 15 seconds late</p>",
+  "options": {
+    "a": "14:26",
+    "b": "14:18",
+    "c": "14:19",
+    "d": "14:15"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

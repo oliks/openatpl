@@ -1,0 +1,14 @@
+{
+  "number": 1165,
+  "questionId": "062-1165",
+  "questionNumber": "062-1165",
+  "stemHtml": "<p>In the VOR receiver, how is the radial determined?</p>",
+  "options": {
+    "a": "<p>By Doppler shift of the reference signal</p>",
+    "b": "<p>By time difference between the reception of the variable signal and the reference signal</p>",
+    "c": "<p>By phase difference between the variable signal and the reference signal</p>",
+    "d": "<p>By phase of the variable signal</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

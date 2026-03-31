@@ -1,0 +1,14 @@
+{
+  "number": 457,
+  "questionId": "062-0457",
+  "questionNumber": "062-0457",
+  "stemHtml": "You are approaching an aerodrome on an RNP APCH to LNAV/VNAV minima using baro-VNAV. The approach has a minimum temperature of -8\u00baC. The OAT is +10\u00baC, during final approach, ATC tells you to go around immediately due to loss of terrain separation. What could have happened?",
+  "options": {
+    "a": "You made a mistake inputting barometric data.",
+    "b": "RAIM error.",
+    "c": "GBAS signal has been lost.",
+    "d": "Loss of the GNSS signal because of the low satellite elevations above the horizon."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

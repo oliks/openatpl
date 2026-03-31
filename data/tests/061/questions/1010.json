@@ -1,0 +1,14 @@
+{
+  "number": 1010,
+  "questionId": "061-1010",
+  "questionNumber": "061-1010",
+  "stemHtml": "<p>Given the following information, what would be the average ground speed during a descent from FL200 to an aerodrome with elevation 2000 ft?</p>Average descent speed: 200 kt CAS <br /> Average ISA deviation: -7\u00b0 C <br /> Average descent track: 165\u00b0(T) <br /> W/V at 2000 ft: 030\u00b0(T)/30 kt <br /> W/V at 20 000 ft: 090\u00b0(T)/60 kt",
+  "options": {
+    "a": "242 kt",
+    "b": "250 kt",
+    "c": "234 kt",
+    "d": "208 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

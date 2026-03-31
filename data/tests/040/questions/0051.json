@@ -1,0 +1,14 @@
+{
+  "number": 51,
+  "questionId": "040-0051",
+  "questionNumber": "040-0051",
+  "stemHtml": "Analyse the following communication exchange between a pilot and an air traffic controller (ATC): <br />  <br /> (1) ATC: EZY8496, climb level 320 <br /> (2) Pilot: Climbing level 300, EZY8496 <br />  <br /> The pilot then inserts level \"300\" in the FMS. What type of error is being described? Why didn't the controller notice that the readback was not correct?",
+  "options": {
+    "a": "Explicit; and ATC did not understand the message.",
+    "b": "Explicit; and the ATC expected the readback to be correct and did not focus on it.",
+    "c": "Implicit; and the ATC could interpret the pilot's readback in different ways.",
+    "d": "Implicit; due to faulty communication equipment, he could not hear the pilot."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 32,
+  "questionId": "040-0032",
+  "questionNumber": "040-0032",
+  "stemHtml": "<div class=\"WordSection1\">How is the SHELL model relevant to the work in the cockpit?</div>",
+  "options": {
+    "a": "<div class=\"WordSection1\">The hardware-Liveware interface addresses the ability of the crew to adapt to the physical environment, such as seating, placing of the aircraft controls and air quality.</div>",
+    "b": "<div class=\"WordSection1\">The Software-Liveware interface refers to cockpit automation only, which can be a source of error where flight crew have insufficient knowledge of computer systems.</div>",
+    "c": "<div class=\"WordSection1\">The Liveware-Environment interface refers to the aircraft environment, and the crew uses standard operating procedures to functions there.</div>",
+    "d": "It helps to identify possible sources of error, and to remove possible causes of error in the performance of flying tasks."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

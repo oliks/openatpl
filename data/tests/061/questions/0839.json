@@ -1,0 +1,14 @@
+{
+  "number": 839,
+  "questionId": "061-0839",
+  "questionNumber": "061-0839",
+  "stemHtml": "<p>Given the following information for a flight navigated by dead reckoning, what is the track angle error TKE?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Planned track: 065\u00b0T</span> <br /> \nVariation: 12\u00b0 E <br /> \nDeviation: +5\u00b0 <br /> \nPlanned heading: 054\u00b0C <br /> \nIn flight drift: 8\u00b0 L</p>",
+  "options": {
+    "a": "4\u00b0 L",
+    "b": "4\u00b0 R",
+    "c": "2\u00b0 L",
+    "d": "2\u00b0 R"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

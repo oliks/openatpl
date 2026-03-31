@@ -1,0 +1,14 @@
+{
+  "number": 46,
+  "questionId": "061-0046",
+  "questionNumber": "061-0046",
+  "stemHtml": "<p>The flight log gives the following data: True track, Drift, True heading, Magnetic variation, Magnetic heading, Compass deviation, Compass heading.</p>\n\n<p>Which option lists the correct numbers in the same order as in the flight log?</p>",
+  "options": {
+    "a": "125\u00b0, 2\u00b0R, 123\u00b0, 2\u00b0W, 121\u00b0, -4\u00b0, 117\u00b0",
+    "b": "119\u00b0, 3\u00b0L, 122\u00b0, 2\u00b0E, 120\u00b0, +4\u00b0, 116\u00b0",
+    "c": "117\u00b0, 4\u00b0L, 121\u00b0, 1\u00b0E, 122\u00b0, -3\u00b0, 119\u00b0",
+    "d": "115\u00b0, 5\u00b0R, 120\u00b0, 3\u00b0W, 123\u00b0, +2\u00b0, 121\u00b0"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

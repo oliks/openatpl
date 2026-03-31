@@ -1,0 +1,14 @@
+{
+  "number": 586,
+  "questionId": "062-0586",
+  "questionNumber": "062-0586",
+  "stemHtml": "<p>When converting magnetic RMI bearings to true bearings (or vice versa), which of the following statements correctly lists the location where variation should be applied?</p>",
+  "options": {
+    "a": "<p>Ground equipment VOR; Ground equipment NDB</p>",
+    "b": "<p>Ground equipment VOR; Airborne equipment NDB</p>",
+    "c": "<p>Airborne equipment VOR; Airborne equipment NDB</p>",
+    "d": "<p>Airborne equipment VOR; Ground equipment NDB</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

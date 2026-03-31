@@ -1,0 +1,19 @@
+{
+  "number": 420,
+  "questionId": "050-0420",
+  "questionNumber": "050-0420",
+  "stemHtml": "Refer to figure.<br />\r\nYou are flying at FL200 from Perth (32\u00baS,116\u00baE) to Jakarta (06.2\u00baS,107\u00baE). What can you tell about turbulence?",
+  "options": {
+    "a": "<p>You will not have to worry about turbulence.</p>",
+    "b": "The aircraft will experience moderate to severe icing but no turbulence.",
+    "c": "During cruise, the aircraft may encounter severe turbulence.",
+    "d": "During cruise, the aircraft may encounter moderate turbulence only."
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0153",
+      "publicUrl": "/attachments/050/050-att-0153.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 591,
+  "questionId": "062-0591",
+  "questionNumber": "062-0591",
+  "stemHtml": "<p>When performing an RNP approach, which of the following situations leads to a missed approach unless sufficient visual contact is established?</p><p>1. Communications failure. <br /> 2. TCAS RA. <br /> 3. Position fix differs from the other instruments. <br /> 4. The actual navigation accuracy exceeds the required navigation accuracy. <br /> 5. The lateral deviation exceeds instrument full scale deflection.</p>",
+  "options": {
+    "a": "2, 3, 4, 5",
+    "b": "1, 2, 4",
+    "c": "1, 2, 3, 4, 5",
+    "d": "2, 4, 5"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

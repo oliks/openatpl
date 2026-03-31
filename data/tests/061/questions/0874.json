@@ -1,0 +1,14 @@
+{
+  "number": 874,
+  "questionId": "061-0874",
+  "questionNumber": "061-0874",
+  "stemHtml": "Which formula can be used to calculate the rate of climb/descent?",
+  "options": {
+    "a": "Rate of climb/descent (feet/min) = Arctg (Altitude difference (ft) \u00f7 Ground distance covered (in ft))",
+    "b": "Rate of climb/descent (feet/min) = Climb/Descent Angle (\u00b0) \u00d7 100 \u00f7 60",
+    "c": "Rate of climb/descent (feet/min) = (Altitude difference (ft) \u00d7 100) \u00f7 Ground difference (in ft)",
+    "d": "Rate of climb/descent (feet/min) = (Groundspeed (kts) \u00d7 Gradient (ft/NM)) \u00f7 60"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

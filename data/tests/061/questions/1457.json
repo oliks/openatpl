@@ -1,0 +1,14 @@
+{
+  "number": 1457,
+  "questionId": "061-1457",
+  "questionNumber": "061-1457",
+  "stemHtml": "<p>The aircraft is climbing on track of 087\u00b0T, from an initial altitude of 2000 ft to FL80. The QNH is 1013 hPa and the CAS during climb is 90 kt. Calculate the groundspeed during climb using a flight computer and the following wind and OAT data.</p><p>FL240: 270\u00b0/65 kt \u221235\u00b0C   <br />   FL180: 265\u00b0/50 kt \u221225\u00b0C   <br />   FL120: 260\u00b0/40 kt \u221215\u00b0C   <br />   FL80: 240\u00b0/30 kt \u221210\u00b0C   <br />   FL40: 220\u00b0/20 kt +00\u00b0C   <br />   SFC: Light and Variable +10\u00b0C</p>",
+  "options": {
+    "a": "<p>100 kt</p>",
+    "b": "<p>110 kt</p>",
+    "c": "<p>115 kt</p>",
+    "d": "<p>120 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 571,
+  "questionId": "061-0571",
+  "questionNumber": "061-0571",
+  "stemHtml": "<p>An aircraft is flying from A to B. The true course according to the flight log is 090\u00b0, the estimated wind is 225\u00b0T/20 kt and the TAS is 110 kt.</p>\n\n<p><span style=\"letter-spacing:0.7px\">After 15 minutes of flying with the planned TAS and TH the aircraft is 4 NM north of the intended track and 3 NM ahead of the dead reckoning position.The Track angle error TKE is\u2026</span></p>",
+  "options": {
+    "a": "4\u00b0L",
+    "b": "8\u00b0L",
+    "c": "12\u00b0R",
+    "d": "5\u00b0R"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

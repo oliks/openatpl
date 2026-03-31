@@ -1,0 +1,14 @@
+{
+  "number": 387,
+  "questionId": "062-0387",
+  "questionNumber": "062-0387",
+  "stemHtml": "The pilot notices that the ANP is 1.24 and the RNP is 1.00. What does that mean?",
+  "options": {
+    "a": "Accuracy within acceptable limits.",
+    "b": "Accuracy out of limit.",
+    "c": "Insufficient data to determine accuracy.",
+    "d": "ANP is always greater than RNP."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

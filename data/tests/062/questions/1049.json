@@ -1,0 +1,14 @@
+{
+  "number": 1049,
+  "questionId": "062-1049",
+  "questionNumber": "062-1049",
+  "stemHtml": "<p>By using EGNOS in combination with GPS\u2026</p>",
+  "options": {
+    "a": "the integrity is improved by reducing the mean failure reporting time from up to 3 hours to 6 seconds.",
+    "b": "no improvements are obtained apart from the redundancy.",
+    "c": "a better position accuracy is obtained but the integrity of the system is not improved.",
+    "d": "the errors caused by multi path and noise are eliminated."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

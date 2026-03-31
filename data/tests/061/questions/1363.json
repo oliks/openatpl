@@ -1,0 +1,14 @@
+{
+  "number": 1363,
+  "questionId": "061-1363",
+  "questionNumber": "061-1363",
+  "stemHtml": "<p>Given the following information, calculate the heading (\u00b0C) and groundspeed:</p><p>Track: 090\u00b0 (T)  <br />  TAS: 460 kt  <br />  Wind velocity: 360\u00ba(T)/100 kt  <br />  Average variation: 10\u00baE  <br />  Deviation: -2\u00ba</p>",
+  "options": {
+    "a": "Heading: 102\u00ba(C), groundspeed: 450 kt",
+    "b": "Heading: 068\u00ba(C), groundspeed: 460 kt",
+    "c": "Heading: 070\u00ba(C), groundspeed: 450 kt",
+    "d": "Heading: 078\u00ba(C), groundspeed: 450 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1260,
+  "questionId": "050-1260",
+  "questionNumber": "050-1260",
+  "stemHtml": "<p>In the following TAF, what is the forecast weather at 08:00 UTC?</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF EHAM 142300Z 1500/1509 33005KT 9999 SCT025 BKN100 BECMG 1500/1502 27015KT 4500 -SN SCT008 OVC015 TEMPO 1502/1506 0400 +SN VV002 BECMG 1504/1506 01008KT 9999 NSW SCT030 TEMPO 1507/1509 03015G25KT 1200 SHSN SCT006 SCT015CB</span></p>",
+  "options": {
+    "a": "Moderate snow showers or no significant weather",
+    "b": "Moderate snow showers or heavy snow",
+    "c": "Heavy snow or no significant weather",
+    "d": "Light snow or moderate snow showers"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

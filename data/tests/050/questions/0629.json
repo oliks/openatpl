@@ -1,0 +1,14 @@
+{
+  "number": 629,
+  "questionId": "050-0629",
+  "questionNumber": "050-0629",
+  "stemHtml": "<div>In a mountainous area, a minimum safe altitude of 8000 ft is given. An airport in the vicinity with an elevation of 0 ft reports the following data: an air temperature of -24\u00b0C at FL100, a pressure value QNH of 990 hPa. Which is the lowest usable flight level under these conditions? <br /> <em>Assume 1 hPa = 27 ft.</em></div>",
+  "options": {
+    "a": "<div>FL120.</div>",
+    "b": "<div>FL90.</div>",
+    "c": "<div>FL100.</div>",
+    "d": "FL70."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

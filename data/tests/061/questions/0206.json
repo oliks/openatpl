@@ -1,0 +1,14 @@
+{
+  "number": 206,
+  "questionId": "061-0206",
+  "questionNumber": "061-0206",
+  "stemHtml": "<p>Given the following information, what is the given TAS?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Altitude 6000 ft</span>  <br />  \nOAT: +5\u00b0C  <br />  \nIAS/CAS: 115 kt</p>",
+  "options": {
+    "a": "115 kt",
+    "b": "123 kt",
+    "c": "126 kt",
+    "d": "111 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

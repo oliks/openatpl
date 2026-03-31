@@ -1,0 +1,14 @@
+{
+  "number": 931,
+  "questionId": "062-0931",
+  "questionNumber": "062-0931",
+  "stemHtml": "You are making an approach to runway 25 at Daytona Beach which has a published ILS back-course approach. Which of the following statements is correct with respect to localiser indications on an omni-bearing indicator (OBI) and a horizontal situation indicator (HSI)?",
+  "options": {
+    "a": "The OBI will sense correctly with the front-course set. The HSI will sense correctly with the front-course set.",
+    "b": "The OBI will sense correctly with the front-course set. The HSI will sense correctly with the back-course set.",
+    "c": "Reverse sensing will always occur on the OBI regardless of the course set; the HSI will sense correctly with the back-course set.",
+    "d": "Reverse sensing will always occur on the OBI regardless of the course set; the HSI will sense correctly with the front-course set."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

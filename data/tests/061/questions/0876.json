@@ -1,0 +1,14 @@
+{
+  "number": 876,
+  "questionId": "061-0876",
+  "questionNumber": "061-0876",
+  "stemHtml": "<p>An aircraft is flying at Mach 0.84 at FL330. The static air temperature is -48\u00b0C and the headwind component is 52 kt. At 13:38 UTC the controller requests the pilot to cross the meridian of 030\u00b0W at 15:00 UTC. The distance to go is 570 NM.</p>\r\n\r\n<p>The reduced Mach number should be:</p>",
+  "options": {
+    "a": "0.80 M",
+    "b": "0.78 M",
+    "c": "0.76 M",
+    "d": "0.72 M"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1764,
+  "questionId": "050-1764",
+  "questionNumber": "050-1764",
+  "stemHtml": "<p>Given following information for a flight from London Heathrow to Cork ( EICK), what is the correct interpretation of the (1) weather, (2) cloud ceiling and (3) forecast for arrival at 13:10 UTC?  </p>\r\n\r\n<p>EICK 021300Z 17013KT 9999 VCSH SCT012 SCT015 BKN020 14/13 Q1017 NOSIG</p>\r\n\r\n<p> </p>",
+  "options": {
+    "a": "(1) showers within 10 km of the aerodrome perimeter, (2) 1 200 ft, (3) no significant weather is expected in the next 2 hours.",
+    "b": "(1) showers between 8 km and 16 km of the aerodrome reference point, (2) 2 000 ft, (3) no significant changes in the next 2 hours.",
+    "c": "(1) showers within 8 km of the aerodrome reference point, (2) 1 200 ft, (3) no significant weather is expected in the next 2 hours.",
+    "d": "(1) showers within 8 km of the aerodrome perimeter, (2) 2 000 ft, (3) no significant changes in next 1 hour."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

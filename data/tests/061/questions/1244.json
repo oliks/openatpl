@@ -1,0 +1,14 @@
+{
+  "number": 1244,
+  "questionId": "061-1244",
+  "questionNumber": "061-1244",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">FL 400,</span>  <br />  \nOAT = -65\u00b0C,  <br />  \nIAS = 260 kt  <br />  \nInstruments and position error to be neglected.Compressibility factor = 0.935</p>\n\n<p>Calculate the True Airspeed taking compressibility into account</p>",
+  "options": {
+    "a": "533 kt",
+    "b": "512 kt",
+    "c": "470 kt",
+    "d": "479 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

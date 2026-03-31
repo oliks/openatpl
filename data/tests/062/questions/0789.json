@@ -1,0 +1,14 @@
+{
+  "number": 789,
+  "questionId": "062-0789",
+  "questionNumber": "062-0789",
+  "stemHtml": "<p>Which of the following PBN approaches is a non-precision approach?</p>",
+  "options": {
+    "a": "<p>GBAS</p>",
+    "b": "<p>LNAV</p>",
+    "c": "<p>LNAV/VNAV</p>",
+    "d": "<p>LPV</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

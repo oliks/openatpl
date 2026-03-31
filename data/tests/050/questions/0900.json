@@ -1,0 +1,14 @@
+{
+  "number": 900,
+  "questionId": "050-0900",
+  "questionNumber": "050-0900",
+  "stemHtml": "An aircraft is flying over the sea at FL120, with a true altitude of 12 000 feet, local QNH is 1013 hPa. What assumption, if any, can be made about the air mass in which the aircraft is flying?",
+  "options": {
+    "a": "It is warmer than ISA.",
+    "b": "It is colder than ISA.",
+    "c": "There is insufficient information to come to any conclusion.",
+    "d": "Its average temperature is the same as ISA."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

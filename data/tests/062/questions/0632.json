@@ -1,0 +1,14 @@
+{
+  "number": 632,
+  "questionId": "062-0632",
+  "questionNumber": "062-0632",
+  "stemHtml": "Which statement is true about the navigation data in the navigation message of GPS?",
+  "options": {
+    "a": "During normal operation, the navigation data of one satellite are checked by other satellites in the constellation and, if necessary, corrected.",
+    "b": "The navigation data are valid for a period of 28 days.",
+    "c": "The navigation data are checked and, if necessary, corrected by the satellite itself.",
+    "d": "The navigation data are uploaded to the satellites by the GPS control segment."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

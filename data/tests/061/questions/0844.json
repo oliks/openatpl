@@ -1,0 +1,14 @@
+{
+  "number": 844,
+  "questionId": "061-0844",
+  "questionNumber": "061-0844",
+  "stemHtml": "<p>A flight crew is instructed by ATC to delay their arrival at their next waypoint by 5 minutes. Calculate the new GS that they must fly to achieve this.</p><p>Distance to go: 206 NM <br /> Level: FL 100 <br /> CAS: 137 kt <br /> OAT: ISA +10\u00baC <br /> Headwind component: 20 kt</p>",
+  "options": {
+    "a": "151 kt",
+    "b": "134 kt",
+    "c": "130 kt",
+    "d": "182 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

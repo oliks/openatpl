@@ -1,0 +1,19 @@
+{
+  "number": 1217,
+  "questionId": "050-1217",
+  "questionNumber": "050-1217",
+  "stemHtml": "<p>Refer to figure. <br>You are cruising at FL340, and your aircraft's maximum certified altitude is FL382. Your planned route intersects a cold front, as depicted in the attached image. Given this situation, what is the most appropriate course of action?</p>",
+  "options": {
+    "a": "<p>Use your airborne weather radar and visual cues to circumnavigate the cells. Turbulence has to be expected.</p>",
+    "b": "<p>Fly straight across the front, as apart from moderate/severe turbulence, NO other flight hazard is expected.</p>",
+    "c": "<p>Climb to FL380 and fly above the cloud tops, where only light turbulence can be expected.</p>",
+    "d": "<p>Ask ATC for help, because they have better weather radar available.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0436",
+      "publicUrl": "/attachments/050/050-att-0436.png"
+    }
+  ]
+}

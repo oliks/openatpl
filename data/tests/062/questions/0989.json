@@ -1,0 +1,14 @@
+{
+  "number": 989,
+  "questionId": "062-0989",
+  "questionNumber": "062-0989",
+  "stemHtml": "In PBN operations, on-board performance monitoring and alerting of the Path Definition Error (PDE):",
+  "options": {
+    "a": "Measures the difference between the aircraft's estimated position and its true position, and the crew are alerted if PDE is greater than the RNP specification.",
+    "b": "Is achieved by monitoring the aircraft's performance and alerting the crew if the aircraft's navigation system fails to perform accurately.",
+    "c": "Depends on the integrity of the navigation database, and PDE is assumed to be zero.",
+    "d": "Is managed by crew procedures in order to monitor the aircraft's position."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

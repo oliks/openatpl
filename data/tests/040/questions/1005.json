@@ -1,0 +1,14 @@
+{
+  "number": 1005,
+  "questionId": "040-1005",
+  "questionNumber": "040-1005",
+  "stemHtml": "Error tolerance, which is an error management strategy, aims at making..",
+  "options": {
+    "a": "it easy to rapidly recover the system to its safe state after an error has been committed.",
+    "b": "the system better able to sustain itself despite error, e.g. by minimising the consequences of errors.",
+    "c": "the system such that it minimises both the likelihood and the magnitude of the error.",
+    "d": "errors apparent as fast and as clearly as possible, thereby enabling recovery."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

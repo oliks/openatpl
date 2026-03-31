@@ -1,0 +1,14 @@
+{
+  "number": 851,
+  "questionId": "062-0851",
+  "questionNumber": "062-0851",
+  "stemHtml": "<p>SSR works by the transmission of a/an (1) _____ from a/an (2) _____. The reply is on (3) _____ frequency. In some transponders this produces a maximum of (4) _____ codes, and also allows ATC to see the aircraft's altitude based on (5) _____. Select the correct combination to complete this statement.</p>",
+  "options": {
+    "a": "<p>(1) interrogation; (2) ground transmitter; (3) a different; (4) 4096; (5) pressure altitude</p>",
+    "b": "<p>(1) pulse pair; (2) ground transmitter; (3) a different; (4) 4096; (5) QNH</p>",
+    "c": "<p>(1) interrogation; (2) aircraft; (3) the same; (4) 7777; (5) pressure altitude</p>",
+    "d": "<p>(1) pulse pair; (2) aircraft; (3) a different; (4) 4096; (5) QNH</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

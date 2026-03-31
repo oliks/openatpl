@@ -1,0 +1,14 @@
+{
+  "number": 1152,
+  "questionId": "062-1152",
+  "questionNumber": "062-1152",
+  "stemHtml": "<p>Which errors does the aircraft need to compute?</p>\r\r<p>1. PDE <br /> \r2. NSE <br /> \r3. FTE <br /> \r4. TSE</p>",
+  "options": {
+    "a": "<p>1, 2, 3.</p>",
+    "b": "<p>2, 3, 4.</p>",
+    "c": "<p>1, 3, 4.</p>",
+    "d": "<p>1, 2, 4.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

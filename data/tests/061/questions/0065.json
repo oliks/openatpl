@@ -1,0 +1,19 @@
+{
+  "number": 65,
+  "questionId": "061-0065",
+  "questionNumber": "061-0065",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>An aircraft leaves London (UK) for Vancouver (British Colombia, Canada) on the 5th of July, at 10:00 UTC. The flight time is 11 hours. What will be the local time and date of arrival at Vancouver?</p>",
+  "options": {
+    "a": "<p>05:00 DST ST, 6th July.</p>",
+    "b": "<p>13:00 DST ST, 5th July.</p>",
+    "c": "<p>14:00 DST ST, 5th July.</p>",
+    "d": "<p>06:00 DST ST, 6th July.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0056",
+      "publicUrl": "/attachments/061/061-att-0056.jpg"
+    }
+  ]
+}

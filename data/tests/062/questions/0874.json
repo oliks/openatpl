@@ -1,0 +1,14 @@
+{
+  "number": 874,
+  "questionId": "062-0874",
+  "questionNumber": "062-0874",
+  "stemHtml": "<p>Given the following information, what is the true bearing to the station from the aircraft?</p><p>Compass heading 125\u00b0<br />RBI indication 270\u00b0<br />Magnetic Variation: 3\u00b0E\u00a0<br />Compass Deviation: 5\u00b0W</p>",
+  "options": {
+    "a": "<p>213\u00b0</p>",
+    "b": "<p>033\u00b0</p>",
+    "c": "<p>037\u00b0</p>",
+    "d": "<p>217\u00b0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 823,
+  "questionId": "062-0823",
+  "questionNumber": "062-0823",
+  "stemHtml": "Which of the following options correctly lists errors that affect the accuracy and reliability of the Satellite-Assisted Navigation system (GNSS/GPS)?",
+  "options": {
+    "a": "Satellite mutual interference, frequency drift, and satellite to ground time lag.",
+    "b": "Satellite clock, satellite ephemeris, and ionospheric propagation.",
+    "c": "Satellite to ground time lag, atmospheric propagation, and satellite clock.",
+    "d": "Satellite mutual interference, satellite ephemeris, and atmospheric propagation."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

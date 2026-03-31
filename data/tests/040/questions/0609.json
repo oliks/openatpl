@@ -1,0 +1,14 @@
+{
+  "number": 609,
+  "questionId": "040-0609",
+  "questionNumber": "040-0609",
+  "stemHtml": "<p>A go-around has already been initiated, when ATC delivers a long message, changing the missed approach procedure. What is correct regarding the pilots' attention and the risks associated with the above situation? </p>",
+  "options": {
+    "a": "The ATC communication will probably be ignored, because the attention of the Pilot Not Flying is fully concentrated on monitoring the aircraft's parameters and checking the go-around procedures, while the Pilot Flying is fully engaged in controlling the aircraft.",
+    "b": "The Pilot Not Flying (PNF) copies and acknowledges the ATC instructions, while the Pilot Flying (PF) takes over the PNF's monitoring duties. Because of the additional tasks performed, the PF can suffer from cognitive overload.",
+    "c": "Listening to the ATC instruction could divert the Pilot Flying's attention from the task of controlling the aircraft. The Pilot Flying should be able to carry out both tasks successfully, because a go-around is a routine procedure.",
+    "d": "The attention of the Pilot Not Flying could be diverted from the task of monitoring the aircraft parameters, which can lead to a loss of awareness of the aircraft's state."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

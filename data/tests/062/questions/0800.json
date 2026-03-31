@@ -1,0 +1,14 @@
+{
+  "number": 800,
+  "questionId": "062-0800",
+  "questionNumber": "062-0800",
+  "stemHtml": "What is (one of) the differences between a Mode A/C/S all call and a mode A/C only all call?",
+  "options": {
+    "a": "The presence of Mode A/C addresses.",
+    "b": "The presence of Mode S addresses.",
+    "c": "The time interval between the pulses P1 and P3.",
+    "d": "The length of the pulse P4."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2646,
+  "questionId": "050-2646",
+  "questionNumber": "050-2646",
+  "stemHtml": "<p>Refer to figure.  <br />  A flight is planned to take-off from the marked aerodrome at 10:00 UTC on Tuesday 23rd April. Consider this METAR, issued on the 22nd April:  <br />  222100Z 26010KT 9999 BKN015 Q0995.</p><p>Which of the following options is most probable on the morning of the flight?</p>",
+  "options": {
+    "a": "A depression is forming on the front to the west and cloud and rain can be expected as it develops.",
+    "b": "The depression centred at 38\u00b0N, 004\u00b0E (994 hPa) is moving rapidly west; northerly winds should be expected at the aerodrome.",
+    "c": "Radiation fog can be expected to form at the aerodrome in the early morning as the wind decreases.",
+    "d": "The depression centred at 54\u00b0N, 013\u00b0W (992 hPa) is moving rapidly south; southerly winds should be expected at the aerodrome."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0312",
+      "publicUrl": "/attachments/050/050-att-0312.png"
+    }
+  ]
+}

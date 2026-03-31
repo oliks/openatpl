@@ -1,0 +1,14 @@
+{
+  "number": 1417,
+  "questionId": "050-1417",
+  "questionNumber": "050-1417",
+  "stemHtml": "<p>An aerodrome makes routine weather reports once per hour. The most recent METAR reads as this:</p>\r\n\r\n<p>131020Z 15005KT CAVOK 18/14 Q1010 NOSIG</p>\r\n\r\n<p>At 10:45 UTC, the prevailing visibility is observed to have been 3000 m in smoke for the last 10 minutes. In accordance with ICAO Annex 3, which of the following actions should the aerodrome meteorological office take?</p>",
+  "options": {
+    "a": "Take no immediate action before the next METAR in 35 minutes time.",
+    "b": "Issue an amendment (AMD) to the previous METAR.",
+    "c": "Issue a SPECI stating the revised visibility only.",
+    "d": "Issue a SPECI with all the most recent conditions, including the most recent visibility."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

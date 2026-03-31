@@ -1,0 +1,14 @@
+{
+  "number": 1430,
+  "questionId": "061-1430",
+  "questionNumber": "061-1430",
+  "stemHtml": "<p>What is the actual true track of the aircraft using the given data?</p><p>Planned track: 285\u00b0(T)     <br />     Heading: 291\u00b0(M)     <br />     Actual in-flight drift: 6\u00b0 starboard     <br />     Variation: 4\u00b0W</p>",
+  "options": {
+    "a": "<p>301\u00b0(T)</p>",
+    "b": "<p>281\u00b0(T)</p>",
+    "c": "<p>293\u00b0(T)</p>",
+    "d": "<p>291\u00b0(T)</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

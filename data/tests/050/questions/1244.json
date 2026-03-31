@@ -1,0 +1,14 @@
+{
+  "number": 1244,
+  "questionId": "050-1244",
+  "questionNumber": "050-1244",
+  "stemHtml": "<p>Flying in an air mass 10\u00b0C colder that ISA (ISA-10), the altimeter set to local QNH indicates 8 500 ft. When setting the altimeter to 1013.25 hPa the altimeter indicates 9 000 ft.</p>\r\n\r\n<p>What is the true altitude of the aircraft?</p>",
+  "options": {
+    "a": "<p>8 160 ft</p>",
+    "b": "<p>8 640 ft</p>",
+    "c": "<p>8 840 ft</p>",
+    "d": "<p>9 360 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

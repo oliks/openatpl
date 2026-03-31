@@ -1,0 +1,14 @@
+{
+  "number": 127,
+  "questionId": "062-0127",
+  "questionNumber": "062-0127",
+  "stemHtml": "Refer to figure. <br /> What should be considered when lined up on the departure runway and there are thunderstorms in the vicinity?",
+  "options": {
+    "a": "The gain control (rotary switch 3) should be set to minimum (MIN) to ensure that all returns are displayed.",
+    "b": "The radar should be tilted up (UP) (rotary switch 2) to check for any significant precipitation on the climb-out path.",
+    "c": "The ground clutter suppression (GND CTLR SPRS) switch should be set to OFF to eliminate confusion with weather returns.",
+    "d": "The radar should be tilted down (DN) (rotary switch 2) to ensure ground returns are displayed to verify that the system is working."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

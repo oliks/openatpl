@@ -1,0 +1,19 @@
+{
+  "number": 719,
+  "questionId": "061-0719",
+  "questionNumber": "061-0719",
+  "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - VFR Chart ED-4.<br />An aircraft is flying at 2400 ft overhead Linz VOR (LNZ). Is this aircraft inside or outside the LOWL Control Zone (CTR) and what is the airspace classification?</p>",
+  "options": {
+    "a": "<p>Outside CTR; Class G</p>",
+    "b": "<p>Inside CTR; Class C</p>",
+    "c": "<p>Inside CTR; Class D</p>",
+    "d": "<p>Outside CTR; Class E</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0246",
+      "publicUrl": "/attachments/061/061-att-0246.jpg"
+    }
+  ]
+}

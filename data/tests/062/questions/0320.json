@@ -1,0 +1,14 @@
+{
+  "number": 320,
+  "questionId": "062-0320",
+  "questionNumber": "062-0320",
+  "stemHtml": "<p>Your aircraft is approved for RNP APCH (LNAV). Therefore, it will automatically also be approved for RNP2 operations as they require a lower level of accuracy to RNP APCH (LNAV). Is this statement correct?</p>",
+  "options": {
+    "a": "Yes, an approval for RNP with strict accuracy requirements covers either RNP specifications with lower accuracy requirements.",
+    "b": "No, as the aircraft may fail to meet all the functional requirements for RNP2. A separate approval for RNP 2 is necessary.",
+    "c": "Yes, on condition that the pilot holds a valid instrument rating including privilege to fly PBN operations.",
+    "d": "Yes, because an operational approval is NOT required for either of the operations."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

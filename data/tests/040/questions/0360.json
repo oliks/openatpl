@@ -1,0 +1,14 @@
+{
+  "number": 360,
+  "questionId": "040-0360",
+  "questionNumber": "040-0360",
+  "stemHtml": "<p>From the given options, choose the motion sickness symptoms:</p><p>1. Hypoventilation  <br /> 2. Nausea  <br /> 3. Dizziness <br /> 4. Feeling of euphoria <br /> 5. High blood pressure</p>",
+  "options": {
+    "a": "<p>1, 4</p>",
+    "b": "<p>2, 3</p>",
+    "c": "<p>1, 5</p>",
+    "d": "<p>2, 4</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

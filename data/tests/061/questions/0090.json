@@ -1,0 +1,19 @@
+{
+  "number": 90,
+  "questionId": "061-0090",
+  "questionNumber": "061-0090",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe pilot of a light twin-engined aircraft has filled in the flight log correctly for a charter flight to Nice in France. What is the actual ground speed at TORDU? If the groundspeed at TORDU remains the same, what will be the ATO at RODRA?</p>",
+  "options": {
+    "a": "<p>GS TORDU: 171 kt <br /> \rATO RODRA: 07:11</p>",
+    "b": "<p>GS TORDU: 167 kt <br /> \rATO RODRA: 07:17</p>",
+    "c": "<p>GS TORDU: 185 kt <br /> \rATO RODRA: 07:11</p>",
+    "d": "<p>GS TORDU: 185 kt <br /> \rATO RODRA: 07:09</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0159",
+      "publicUrl": "/attachments/061/061-att-0159.png"
+    }
+  ]
+}

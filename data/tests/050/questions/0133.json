@@ -1,0 +1,14 @@
+{
+  "number": 133,
+  "questionId": "050-0133",
+  "questionNumber": "050-0133",
+  "stemHtml": "<p>METAR reports (1) _____ wind direction and over (2) _____; Control tower reports (3) _____ wind direction over (4) _____.</p>",
+  "options": {
+    "a": "<p>(1) True North; (2) 10 minutes; (3) Magnetic North; (4) 2 minutes.</p>",
+    "b": "<p>(1) Magnetic North; (2) 2 minutes; (3) True North; (4) 10 minutes.</p>",
+    "c": "<p>(1) True North; (2) 10 minutes; (3) Magnetic North; (4) 5 minutes.</p>",
+    "d": "<p>(1) Magnetic North; (2) 10 minutes; (3) True North; (4) 2 minutes.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

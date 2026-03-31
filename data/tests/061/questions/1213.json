@@ -1,0 +1,19 @@
+{
+  "number": 1213,
+  "questionId": "061-1213",
+  "questionNumber": "061-1213",
+  "stemHtml": "<p>Refer to figure. <br /> Based on the flight log, determine the total flight time from take-off (07:51) to point G (ETA 09:20).</p>",
+  "options": {
+    "a": "<p>1 hour 24 minutes</p>",
+    "b": "<p>1 hour 30 minutes</p>",
+    "c": "<p>1 hour 21 minutes</p>",
+    "d": "<p>1 hour 40 minutes</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0289",
+      "publicUrl": "/attachments/061/061-att-0289.png"
+    }
+  ]
+}

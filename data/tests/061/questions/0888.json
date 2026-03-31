@@ -1,0 +1,14 @@
+{
+  "number": 888,
+  "questionId": "061-0888",
+  "questionNumber": "061-0888",
+  "stemHtml": "<p>A Lambert Conformal conic projection has standard parallels at 37\u00b0N and 65\u00b0N. The published scale is given as 1 inch = 25 NM. <br /> \rWith respect to the scale variation for this chart, it can be stated that...</p>",
+  "options": {
+    "a": "<p>For the areas north of 65\u00b0N and south of 37\u00b0N, the scale is as stated on the chart.</p>",
+    "b": "<p>The scale within the standard parallels differs by less than 1% from the scale stated on the chart.</p>",
+    "c": "<p>For the areas north of 65\u00b0N and south of 37\u00b0N, 1 inch represents more than 25 NM.</p>",
+    "d": "<p>From the standard parallels towards the parallel of origin, the scale increases; from the standard parallels to the North and the South, the scale decreases.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

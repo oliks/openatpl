@@ -1,0 +1,19 @@
+{
+  "number": 1004,
+  "questionId": "050-1004",
+  "questionNumber": "050-1004",
+  "stemHtml": "Refer to figure. <br /> What is the approximate wind direction and speed at this time at FL50 over the mid-Atlantic (the boxed section in the annex)?",
+  "options": {
+    "a": "065\u00b0(T)/45 kt",
+    "b": "275\u00b0(T)/45 kt",
+    "c": "245\u00b0(T)/45 kt",
+    "d": "095\u00b0(T)/45 kt"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0328",
+      "publicUrl": "/attachments/050/050-att-0328.jpg"
+    }
+  ]
+}

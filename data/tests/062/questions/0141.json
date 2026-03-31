@@ -1,0 +1,14 @@
+{
+  "number": 141,
+  "questionId": "062-0141",
+  "questionNumber": "062-0141",
+  "stemHtml": "<p>Which statement is correct with respect to selections on the transponder control panel?</p>",
+  "options": {
+    "a": "<p>With the selector knobs the four digits of the squawk can be selected using the decimal symbols 0 through 9.</p>",
+    "b": "<p>The correct ICAO 24 bits aircraft address code must be inserted on the control panel.</p>",
+    "c": "<p>With ON selected a reply in the modes A, C and S can be transmitted.</p>",
+    "d": "<p>With ALT selected a reply in the modes A, C and S can be transmitted.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

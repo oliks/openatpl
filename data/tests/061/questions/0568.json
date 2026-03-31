@@ -1,0 +1,14 @@
+{
+  "number": 568,
+  "questionId": "061-0568",
+  "questionNumber": "061-0568",
+  "stemHtml": "<p>A planned route has a distance of 150 NM and a true course of 097\u00b0.The planned ground speed is 132 kt, the true heading is 101\u00b0.After 23 minutes en route a fix is overflown that is 57 NM away from the departure point and has a cross track distance from the course line of 4 NM right of course.</p>\r\n\r\n<p>Calculate the actual true track and the actual ground speed flown:</p>\r\n",
+  "options": {
+    "a": "True track = 105\u00b0, ground speed = 148 kt.",
+    "b": "True track = 101\u00b0, ground speed = 132 kt.",
+    "c": "True track = 101\u00b0, ground speed = 148 kt.",
+    "d": "True track = 105\u00b0, ground speed = 132 kt."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

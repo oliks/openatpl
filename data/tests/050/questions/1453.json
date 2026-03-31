@@ -1,0 +1,14 @@
+{
+  "number": 1453,
+  "questionId": "050-1453",
+  "questionNumber": "050-1453",
+  "stemHtml": "<p>What is meant by the term \"no significant cloud\" in a TAF or METAR report?</p>",
+  "options": {
+    "a": "<p>There are no clouds at or below 5000 ft.</p>",
+    "b": "<p>There are no CB or TCU clouds only at or below 5000 ft.</p>",
+    "c": "<p>There are no clouds at or below 6000 ft.</p>",
+    "d": "<p>There are no CB or TCU clouds only at or below 6000 ft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

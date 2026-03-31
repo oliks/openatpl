@@ -1,0 +1,14 @@
+{
+  "number": 2098,
+  "questionId": "050-2098",
+  "questionNumber": "050-2098",
+  "stemHtml": "<p>What is the lowest visibility forecast for Bangkok at ETA 14:00 UTC?</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF VTBD 271800Z 2800/2824 VRB05KT 1200 BR TEMPO 2800/2802 4000 BECMG 2802/2805 9999 NSW SCT015 BKN100 TEMPO 2811/2818 04010G20KT 4500 TSRA SCT009 BKN014 BKN018CB BECMG 2820/2824 4000=</span></p>",
+  "options": {
+    "a": "10 km or more",
+    "b": "1200 metres",
+    "c": "4500 metres",
+    "d": "6 km"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

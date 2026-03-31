@@ -1,0 +1,14 @@
+{
+  "number": 1024,
+  "questionId": "040-1024",
+  "questionNumber": "040-1024",
+  "stemHtml": "<p>Which of the following statements regarding alcohol consumption for flight crew are correct?</p>1. The blood alcohol level during a flight duty period or whilst on standby must always be 0.0 per thousand. <br /> 2. No alcohol must be consumed less than 8 hours prior to the specified beginning of the flight duty period. <br /> 3. The blood alcohol level at the start of the flight duty period must not exceed 0.2 per thousand. <br /> 4. Alcohol consumption during a flight duty period or whilst on standby must be restricted so that the blood alcohol level may never exceed 0.2 per thousand.",
+  "options": {
+    "a": "1 and 2",
+    "b": "2 and 4",
+    "c": "2 and 3",
+    "d": "3 and 4"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

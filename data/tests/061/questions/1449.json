@@ -1,0 +1,19 @@
+{
+  "number": 1449,
+  "questionId": "061-1449",
+  "questionNumber": "061-1449",
+  "stemHtml": "<p>Refer to chart E(LO)2 from Jeppesen GSPRM 2017. <br>Given the following bearing and range information obtained from POLE HILL (POL) VOR/DME (53\u00b045'N, 002\u00b006'W), what is the aircraft's position?</p><p>Radial: 017\u00b0 <br>Range: 85 NM <br>Slant range corrections should be ignored.</p>",
+  "options": {
+    "a": "53\u00b042'N, 001\u00b038'W",
+    "b": "55\u00b006'N, 001\u00b027'W",
+    "c": "55\u00b007'N, 001\u00b040'W",
+    "d": "53\u00b042'N, 001\u00b018'W"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0195",
+      "publicUrl": "/attachments/061/061-att-0195.jpg"
+    }
+  ]
+}

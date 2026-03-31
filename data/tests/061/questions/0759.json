@@ -1,0 +1,14 @@
+{
+  "number": 759,
+  "questionId": "061-0759",
+  "questionNumber": "061-0759",
+  "stemHtml": "<p>Given:</p>\n\n<p>Altitude: 7 000 ft  <br />  \nTemperature (OAT): -15\u00b0C  <br />  \nCalibrated airspeed: 140 kt</p>\n\n<p>Calculate the true airspeed:</p>",
+  "options": {
+    "a": "151 kt",
+    "b": "123 kt",
+    "c": "130 kt",
+    "d": "160 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

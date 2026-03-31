@@ -1,0 +1,14 @@
+{
+  "number": 1253,
+  "questionId": "061-1253",
+  "questionNumber": "061-1253",
+  "stemHtml": "<p>What is the definition of the Geodetic Longitude?</p>",
+  "options": {
+    "a": "<p>The distance between the plane of the meridian that passes through a point on the surface of the ellipsoid and the plane of the anti-meridian.</p>",
+    "b": "<p>The distance between the plane of the meridian that passes through a point on the surface of the ellipsoid and the plane of the prime meridian.</p>",
+    "c": "<p>The angle between the plane of the meridian that passes through a point on the surface of the ellipsoid and the plane of the prime meridian.</p>",
+    "d": "<p>The angle in the equatorial plane between the line a that connects the Earth's centre with the prime meridian and the line b that connects the centre with the anti-meridian of the point.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

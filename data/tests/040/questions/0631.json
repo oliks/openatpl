@@ -1,0 +1,14 @@
+{
+  "number": 631,
+  "questionId": "040-0631",
+  "questionNumber": "040-0631",
+  "stemHtml": "During cruise a malfunction in the Inertial Reference System disengages the autopilot, and the aircraft begins to bank. By the time the crew realises there is something wrong, the angle of bank has exceeded 35\u00b0, and the crew are already spatially disoriented. How may this be explained?",
+  "options": {
+    "a": "If the rolling acceleration is greater than 8\u00b0 per second, the vestibular receptors of the pilots may fail to detect the variation in the angle of bank, being below the sensory threshold.",
+    "b": "With flying experience, the vestibular sensory threshold of their pilots decreases, leading to reduced sensitivity to stimuli related to attitude changes of the aircraft.",
+    "c": "The aircraft's rolling acceleration is so slow that it remains below the vestibular sensory threshold, so the crew fail to detect the change in the angle of bank.",
+    "d": "A variation in the bank angle of the aircraft should be perceived when it exceeds 8\u00b0, which is the average sensory threshold for a healthy adult."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

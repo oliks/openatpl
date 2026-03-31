@@ -1,0 +1,14 @@
+{
+  "number": 1296,
+  "questionId": "061-1296",
+  "questionNumber": "061-1296",
+  "stemHtml": "<p>Given the following information, calculate the True Heading and Groundspeed.</p><p>Wind: 300\u00b0(T)/35 kt <br /> Track: 180\u00b0T <br /> TAS: 340 kt</p>",
+  "options": {
+    "a": "Heading (T) 175\u00b0; GS 358 kt",
+    "b": "Heading (T) 175\u00b0; GS 322 kt",
+    "c": "Heading (T) 184\u00b0; GS 324 kt",
+    "d": "Heading (T) 185\u00b0; GS 356 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

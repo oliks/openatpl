@@ -1,0 +1,19 @@
+{
+  "number": 2156,
+  "questionId": "050-2156",
+  "questionNumber": "050-2156",
+  "stemHtml": "<p>Refer to figure. <br /> \rOver Berlin, what intensity of turbulence and icing is forecast at FL170?</p>",
+  "options": {
+    "a": "<p>Moderate turbulence, moderate icing</p>",
+    "b": "<p>Severe turbulence, moderate icing</p>",
+    "c": "<p>Severe turbulence, severe icing</p>",
+    "d": "<p>Moderate turbulence, light icing</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0162",
+      "publicUrl": "/attachments/050/050-att-0162.png"
+    }
+  ]
+}

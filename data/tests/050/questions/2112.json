@@ -1,0 +1,14 @@
+{
+  "number": 2112,
+  "questionId": "050-2112",
+  "questionNumber": "050-2112",
+  "stemHtml": "<p>Flying in a cumulus cloud where the temperature is below zero, considering aerofoil shape and supercooled water droplet size, in which case will ice accretion be the most significant?</p>",
+  "options": {
+    "a": "<p>Aerofoil size has no effect on icing only the amount, density, and size of the droplets.</p>",
+    "b": "<p>Thin aerofoil, small droplets.</p>",
+    "c": "<p>Thin aerofoil, large droplets.</p>",
+    "d": "<p>Thick aerofoil, small droplets.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

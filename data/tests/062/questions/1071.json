@@ -1,0 +1,14 @@
+{
+  "number": 1071,
+  "questionId": "062-1071",
+  "questionNumber": "062-1071",
+  "stemHtml": "<p>Regarding ILS operations, which of the following circumstances will trigger warning flags for the LLZ and the GP?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. The measured DDM is zero</span> <br /> \n2. The absence of the 90 Hz and 150 Hz modulation simultaneously <br /> \n3. The cloud base as reported by the ATIS is below landing minima <br /> \n4. The modulation depth of either the 90 Hz or 150 Hz signal is reduced to zero</p>\n\n<div> </div>",
+  "options": {
+    "a": "3 and 4",
+    "b": "1 and 2",
+    "c": "1 and 3",
+    "d": "2 and 4"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

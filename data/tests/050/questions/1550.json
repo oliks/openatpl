@@ -1,0 +1,19 @@
+{
+  "number": 1550,
+  "questionId": "050-1550",
+  "questionNumber": "050-1550",
+  "stemHtml": "<div>Refer to figure.</div>\r\n\r\n<div>Select from the map the average temperature for the route Helsinki - Kiev at FL150.</div>\r\n\r\n<div> </div>",
+  "options": {
+    "a": "<div>-32\u00b0C</div>",
+    "b": "<div>-38\u00b0C</div>",
+    "c": "<div>-23\u00b0C</div>",
+    "d": "<p>-26\u00b0C</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0101",
+      "publicUrl": "/attachments/050/050-att-0101.png"
+    }
+  ]
+}

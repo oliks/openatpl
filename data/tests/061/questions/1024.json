@@ -1,0 +1,19 @@
+{
+  "number": 1024,
+  "questionId": "061-1024",
+  "questionNumber": "061-1024",
+  "stemHtml": "<p>Refer to figure or VFR Chart ED-4 from Jeppesen GSPRM 2017. <br>You are flying northwest from Freistadt VOR (N48\u00b026' E014\u00b008') at 13:40. After 24 minutes, you reach Grafenau (N48\u00b051\u2032 E13\u00b023\u2032). What is your groundspeed?</p>",
+  "options": {
+    "a": "<p>98 kt</p>",
+    "b": "<p>110 kt</p>",
+    "c": "<p>132 kt</p>",
+    "d": "<p>70 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0262",
+      "publicUrl": "/attachments/061/061-att-0262.jpg"
+    }
+  ]
+}

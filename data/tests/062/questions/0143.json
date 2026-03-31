@@ -1,0 +1,14 @@
+{
+  "number": 143,
+  "questionId": "062-0143",
+  "questionNumber": "062-0143",
+  "stemHtml": "What are ILS beam bends?",
+  "options": {
+    "a": "Unacceptable deviations from the localizer course and glide path.",
+    "b": "<p>They are deviations from the nominal localizer course and glide path and can be checked by flight tests.</p>",
+    "c": "Deviations from the mean localizer course which must be corrected when they are more than half course deflections.",
+    "d": "Deviations from the nominal localizer course and glide path which can be corrected by the flight management computer."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 422,
+  "questionId": "061-0422",
+  "questionNumber": "061-0422",
+  "stemHtml": "Which formula is used to calculate the convergency between two positions relatively close to each other? Convergency = Difference in longitude in..",
+  "options": {
+    "a": "minutes x cos (mean latitude).",
+    "b": "degrees x sin (mean latitude).",
+    "c": "degrees x cos (mean latitude).",
+    "d": "minutes x sin (mean latitude)."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

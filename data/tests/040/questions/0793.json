@@ -1,0 +1,14 @@
+{
+  "number": 793,
+  "questionId": "040-0793",
+  "questionNumber": "040-0793",
+  "stemHtml": "On a multi-crew commercial flight, the pilot monitoring is busy speaking to ATC when the pilot flying changes the autopilot mode, and makes the appropriate call-out, but the pilot monitoring does not hear the call-out. What has happened?",
+  "options": {
+    "a": "A communication error from the pilot flying, who must not make any call-outs while the pilot monitoring is busy with other tasks.",
+    "b": "A communication threat, because communication with ATC uses up cockpit resources and creates a risk of human overload.",
+    "c": "A procedural error from the pilot monitoring, who must not direct his attention to ATC whilst the pilot flying makes adjustments to the aircraft automation.",
+    "d": "A communication threat, because the disruption prevented the crew from communicating the changes to maintain a shared mental picture."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

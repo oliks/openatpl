@@ -1,0 +1,14 @@
+{
+  "number": 879,
+  "questionId": "062-0879",
+  "questionNumber": "062-0879",
+  "stemHtml": "<p>What happens at a DME station when more than 100 aircraft send interrogation signals?</p>",
+  "options": {
+    "a": "<p>Modify its sensitivity in order to reach the strongest pulse pairs.</p>",
+    "b": "<p>Smaller aircraft are discarded first.</p>",
+    "c": "<p>All pulse pairs are received.</p>",
+    "d": "<p>It reduces the sensitivity.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

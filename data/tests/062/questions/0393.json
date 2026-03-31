@@ -1,0 +1,14 @@
+{
+  "number": 393,
+  "questionId": "062-0393",
+  "questionNumber": "062-0393",
+  "stemHtml": "<p>The RNAV 10 specification is based on having long-range navigation systems. These include inertial systems where the actual navigation performance degrades over time. How can the RNAV 10 navigation capability time for these systems be extended?</p>",
+  "options": {
+    "a": "<p>Subscribing to the AIRAC update cycle</p>",
+    "b": "<p>Automatic updating using DME and VOR stations</p>",
+    "c": "<p>Installing a performance monitoring and alerting system</p>",
+    "d": "<p>Programming a lateral offset in the navigation computer</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

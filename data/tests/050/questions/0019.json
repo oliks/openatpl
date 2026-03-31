@@ -1,0 +1,14 @@
+{
+  "number": 19,
+  "questionId": "050-0019",
+  "questionNumber": "050-0019",
+  "stemHtml": "<p>The METAR for an airfield located 210 feet below sea level indicates a QNH of 1018 hPa. The air temperature is 26<strong>\u00b0</strong>C. What is the QFF?</p>",
+  "options": {
+    "a": "<p>Higher than the QNH.</p>",
+    "b": "<p>Lower than the QNH.</p>",
+    "c": "<p>Equal to 1018 hPa.</p>",
+    "d": "<p>Equal to 1011 hPa.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

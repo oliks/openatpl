@@ -1,0 +1,19 @@
+{
+  "number": 1054,
+  "questionId": "061-1054",
+  "questionNumber": "061-1054",
+  "stemHtml": "<p>Refer to Chart \"E LO 2\" from Jeppesen GSPRM 2017. <br /> Determine the position of the aircraft, given:</p><p>Distance from Wallasey (WAL) VOR/DME is 108 NM, and the radial is 078\u00b0. <br /> (Note: Ignore slant range corrections)</p>",
+  "options": {
+    "a": "53\u00b030'N 000\u00b008'W",
+    "b": "53\u00b038'N 001\u00b020'W",
+    "c": "53\u00b046'N 000\u00b010'W",
+    "d": "53\u00b048'N 000\u00b008'E"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0006",
+      "publicUrl": "/attachments/061/061-att-0006.jpg"
+    }
+  ]
+}

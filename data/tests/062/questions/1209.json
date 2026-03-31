@@ -1,0 +1,14 @@
+{
+  "number": 1209,
+  "questionId": "062-1209",
+  "questionNumber": "062-1209",
+  "stemHtml": "Refer to figure. <br /> What happens if the pilot presses the IDENT button?",
+  "options": {
+    "a": "The code 3264 is automatically transmitted to ATC, at regular 30-minute intervals.",
+    "b": "A distinctive display of the aircraft's position is available to ATC for 15 to 30 seconds.",
+    "c": "SSR Mode S information is available to ATC, for a period of 15 to 30 minutes.",
+    "d": "The emergency code is automatically assigned to the aircraft's SSR Mode A."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

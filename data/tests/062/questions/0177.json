@@ -1,0 +1,14 @@
+{
+  "number": 177,
+  "questionId": "062-0177",
+  "questionNumber": "062-0177",
+  "stemHtml": "<p>The GPS Standard Positioning Service (SPS) was originally designed to provide civilian users with a less accurate positioning capability than the Precise Positioning Service (PPS) which is reserved for authorised users only. What makes the SPS less accurate than the PPS?</p>",
+  "options": {
+    "a": "<p>The PPS uses more accurate atomic clocks.</p>",
+    "b": "<p>The SPS has NO correction for ionospheric propagation delay.</p>",
+    "c": "<p>The SPS uses a lower resolution grid.</p>",
+    "d": "<p>The SPS uses one carrier wave frequency.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 857,
+  "questionId": "062-0857",
+  "questionNumber": "062-0857",
+  "stemHtml": "<p>Which of the following correctly describes ILS Cat II?</p>",
+  "options": {
+    "a": "<p>A precision instrument approach and landing with a DH lower than 200 ft but not lower than 100 ft and a RVR not less than 300 m.</p>",
+    "b": "<p>A precision instrument approach and landing with either a DH lower than 100 ft or with no DH and a RVR not less than 200 m.</p>",
+    "c": "<p>A precision instrument approach and landing with a decision height not lower than 200 ft visibility not less than 800 m or a RVR not less than 550 m.</p>",
+    "d": "<p>A runway intended for the operation of class II type aircraft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

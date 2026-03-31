@@ -1,0 +1,14 @@
+{
+  "number": 1421,
+  "questionId": "050-1421",
+  "questionNumber": "050-1421",
+  "stemHtml": "<p>During a pre-flight altimeter check, the two main altimeters are set to the correct QNH of 1018 hPa and show an airfield elevation of 540 ft. However, the standby altimeter, which is serviceable, has 1013 hPa set on the subscale. What altitude does the standby altimeter display in this situation?</p><p>Assume a difference of 30 ft per 1 hPa.</p>",
+  "options": {
+    "a": "<p>0 ft</p>",
+    "b": "<p>390 ft</p>",
+    "c": "<p>540 ft</p>",
+    "d": "<p>690 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 610,
+  "questionId": "062-0610",
+  "questionNumber": "062-0610",
+  "stemHtml": "Which on-board sensor would typically be used to augment GNSS positional information as part of an Airborne-Based Augmentation System (ABAS)?",
+  "options": {
+    "a": "TCAS II",
+    "b": "EGNOS",
+    "c": "IRS",
+    "d": "ADS-B"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

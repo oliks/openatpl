@@ -1,0 +1,14 @@
+{
+  "number": 1407,
+  "questionId": "061-1407",
+  "questionNumber": "061-1407",
+  "stemHtml": "<p>On the 4th February at 08:00 Standard Time A STA an aircraft is exactly above position A. Given the following information, estimate the time and date of arrival at position B in Standard Time B STB</p>\n\n<p><span style=\"letter-spacing:0.7px\">Position A: 50\u00b000.0\u2019N, 138\u00b030.0\u2019W STA: UTC -9 hours</span> <br /> \nPosition B: 50\u00b000.0\u2019N, 175\u00b045.0\u2019 E STB: UTC +12 hours <br /> \nGround distance between A and B: 1736 NM <br /> \nAir distance between A and B exactly when the aircraft arrives over position B: 1636 NM <br /> \nAverage tailwind component for the flight: 25 kt</p>",
+  "options": {
+    "a": "15:00 STB on the 03/02.",
+    "b": "15:00 STB on the 04/02.",
+    "c": "12:00 STB on the 04/02.",
+    "d": "09:00 STB on the 05/02."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

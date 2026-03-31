@@ -1,0 +1,14 @@
+{
+  "number": 76,
+  "questionId": "040-0076",
+  "questionNumber": "040-0076",
+  "stemHtml": "<p>A pilot is informed that their Flight Duty Period (FDP) will be extended by 3 hours because of operational delays. The next scheduled duty of the pilot begins in less than 12 hours from now and is an airport standby duty. What is the appropriate course of action?</p>",
+  "options": {
+    "a": "<p>The duty schedule must be changed to ensure minimum rest requirements are met.</p>",
+    "b": "<p>The standby must be changed to home standby, since home standby counts as rest.</p>",
+    "c": "<p>The pilot may report as planned because airport standby is not an FDP.</p>",
+    "d": "<p>No change is required if the commander agrees.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 449,
+  "questionId": "050-0449",
+  "questionNumber": "050-0449",
+  "stemHtml": "<p>TAF EHAM 142300Z 1500/1509 33005KT 9999 SCT025 BKN100 BECMG 1500/1502 27015KT 4500 -SN SCT008 OVC015 TEMPO 1502/1506 0400 +SN VV002 BECMG 1504/1506 01008KT 9999 NSW SCT030 TEMPO 1507/1509 03015G25KT 1200 SHSN SCT006 SCT015CB</p>\n\n<p><span style=\"letter-spacing:0.7px\">What is the expected visibility at 03:00 UTC?</span></p>",
+  "options": {
+    "a": "Between 400 m and 10 km or more",
+    "b": "Between 4500 m and 10 km or more",
+    "c": "Between 4500 m and 400 m",
+    "d": "4500 m"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

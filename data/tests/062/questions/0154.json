@@ -1,0 +1,14 @@
+{
+  "number": 154,
+  "questionId": "062-0154",
+  "questionNumber": "062-0154",
+  "stemHtml": "In the NAVSTAR GPS system, what can authorised users calculate positions from?",
+  "options": {
+    "a": "C/A code as well as the less accurate SBAS.",
+    "b": "SBAS as well as the less accurate C/A code.",
+    "c": "SPS as well as the less accurate PPS.",
+    "d": "PPS as well as the less accurate SPS."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

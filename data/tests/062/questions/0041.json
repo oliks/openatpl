@@ -1,0 +1,14 @@
+{
+  "number": 41,
+  "questionId": "062-0041",
+  "questionNumber": "062-0041",
+  "stemHtml": "Within the PBN concept, what is the flight technical error?",
+  "options": {
+    "a": "FTE is the difference between the aircraft's estimated position and its actual position.",
+    "b": "It is part of the total system error, which relates to the air crew or autopilot's ability to follow the defined path or track, including any display error.",
+    "c": "<p>It is a system error that relates to longitudinal accuracy.</p>",
+    "d": "FTE occurs when the path defined in the RNAV system does NOT correspond to the desired path, that is the path expected to be flown over the ground."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

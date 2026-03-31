@@ -1,0 +1,14 @@
+{
+  "number": 167,
+  "questionId": "062-0167",
+  "questionNumber": "062-0167",
+  "stemHtml": "The clock correction parameters in the navigation message are used to correct..",
+  "options": {
+    "a": "both the satellite time and receiver time.",
+    "b": "the receiver time.",
+    "c": "the satellite time.",
+    "d": "for the ionospheric delay."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

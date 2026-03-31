@@ -1,0 +1,14 @@
+{
+  "number": 550,
+  "questionId": "061-0550",
+  "questionNumber": "061-0550",
+  "stemHtml": "<p>Given the following information, calculate the TAS.</p><p>Altitude: 2000 ft <br>OAT: +10\u00b0C <br>IAS/CAS: 135 kt.</p>",
+  "options": {
+    "a": "133 kt",
+    "b": "188 kt",
+    "c": "195 kt",
+    "d": "139 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

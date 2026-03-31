@@ -1,0 +1,14 @@
+{
+  "number": 968,
+  "questionId": "062-0968",
+  "questionNumber": "062-0968",
+  "stemHtml": "In a Satellite-Assisted Navigation System (GNSS/GPS), a fix is obtained by:",
+  "options": {
+    "a": "measuring the time taken for an aircraft's transmissions to travel to a number of satellites, in known positions, and return to the aircraft's receiver.",
+    "b": "the aircraft's receiver measuring the phase angle of signals received from a number of satellites in known positions.",
+    "c": "measuring the time taken for a minimum number of satellites' transmissions, in known positions, to reach the aircraft's receiver.",
+    "d": "measuring the pulse lengths of signals received from a minimum number of satellites received in a specific sequential order."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

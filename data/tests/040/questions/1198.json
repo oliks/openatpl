@@ -1,0 +1,14 @@
+{
+  "number": 1198,
+  "questionId": "040-1198",
+  "questionNumber": "040-1198",
+  "stemHtml": "<p>An aeroplane is flying at 2 500 ft. The SPEED mode is active on the autothrottle. The first radio altimeter starts to display a non-correct value (-8 ft). This behaviour of the radio altimeter will automatically cancel the SPEED mode of the auto-throttle. The pilots noticed the malfunction of the first radio altimeter but didn't notice the deactivation of the SPEED mode and, as the second radio altimeter was acting well, they continued on, using the second rad-alt. When intercepting the ILS Glide Slope, both crew believe that the autothrottle is still in SPEED mode and therefore, they do not understand why the speed is not being actively managed by the aircraft. Which of the following terms describes the crew\u2019s lack of understanding in this situation?</p>",
+  "options": {
+    "a": "High situational awareness.",
+    "b": "Automation complacency.",
+    "c": "Mode confusion.",
+    "d": "Blinkered concentration."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

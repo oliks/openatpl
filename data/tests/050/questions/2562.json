@@ -1,0 +1,14 @@
+{
+  "number": 2562,
+  "questionId": "050-2562",
+  "questionNumber": "050-2562",
+  "stemHtml": "During a flight over the sea at FL 100 from Marseille (QNH 1016 hPa) to Palma de Mallorca (QNH 1016 hPa), the true altitude is constantly decreasing. What is the probable reason for this?",
+  "options": {
+    "a": "The air over Marseille is warmer than that over Palma de Mallorca",
+    "b": "The air over Palma de Mallorca is warmer than that over Marseille",
+    "c": "One of the QNH values must be wrong",
+    "d": "The altimeter is faulty"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

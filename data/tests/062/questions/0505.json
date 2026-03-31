@@ -1,0 +1,14 @@
+{
+  "number": 505,
+  "questionId": "062-0505",
+  "questionNumber": "062-0505",
+  "stemHtml": "An aircraft is flying RNAV 2 and another aircraft is flying RNP 2. What is the difference between them?",
+  "options": {
+    "a": "RNP 2 is used in the en-route and oceanic/remote phases of flight. RNAV 2 might be used in the en-route continental, arrival and departure phases of flight.",
+    "b": "RNP 2 is used on arrival and departure phases of flight. RNAV 2 is used in the en-route and oceanic/remote phases of flight.",
+    "c": "RNP 2 is used in the en-route and oceanic/remote phases of flight. RNAV 2 is used in oceanic phases of flights or over remote areas",
+    "d": "RNP 2 might be used in the en-route continental, arrival and departure phases of flight. RNAV 2 is used in the en-route and oceanic/remote phases of flight"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

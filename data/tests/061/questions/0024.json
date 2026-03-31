@@ -1,0 +1,14 @@
+{
+  "number": 24,
+  "questionId": "061-0024",
+  "questionNumber": "061-0024",
+  "stemHtml": "<p>Using a mechanical computer, calculate the required rate of descent in the following scenario:</p><p>Descent from FL120 to FL50 <br>Distance: 25 NM <br>Wind component at FL120: 30 kt headwind <br>Wind component at FL50: 10 kt headwind <br>CAS: 100 kt <br>OAT: ISA -10\u00b0C</p>",
+  "options": {
+    "a": "<p>420 ft/min</p>",
+    "b": "<p>610 ft/min</p>",
+    "c": "<p>450 ft/min</p>",
+    "d": "<p>520 ft/min</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 4,
+  "questionId": "061-0004",
+  "questionNumber": "061-0004",
+  "stemHtml": "<p>Given the following information, what is the true course of the rhumb line at point A?</p>\n\n<p><span style=\"letter-spacing:0.7px\">A: 55\u00b0N, 000\u00b0B: 54\u00b0N, 010\u00b0E</span>  <br />  \nAverage true course of the great circle: 100\u00b0</p>",
+  "options": {
+    "a": "096\u00b0",
+    "b": "104\u00b0",
+    "c": "100\u00b0",
+    "d": "107\u00b0"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

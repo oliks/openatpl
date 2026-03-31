@@ -1,0 +1,14 @@
+{
+  "number": 241,
+  "questionId": "061-0241",
+  "questionNumber": "061-0241",
+  "stemHtml": "<p>Calculate the difference in longitude from point A to point B on the same great circle depicted on a Lambert conformal chart.</p>\r\r<p>Constant of cone: 0.75 <br /> \rGreat circle true track at A: 023\u00b0T <br /> \rGreat circle true track at B: 034\u00b0T <br /> \rMean latitude between A and B: 45\u00b0N</p>",
+  "options": {
+    "a": "<p>15\u00b033'</p>",
+    "b": "<p>8\u00b015'</p>",
+    "c": "<p>14\u00b040'</p>",
+    "d": "<p>8\u00b025'</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 222,
+  "questionId": "040-0222",
+  "questionNumber": "040-0222",
+  "stemHtml": "Which of the following is an item of information that is important for a pilot to hold in their working memory during a flight?",
+  "options": {
+    "a": "The 4 digit radio failure squawk code, when flying in a hostile environment.",
+    "b": "<p>The 4 digit emergency squawk code, especially during take-off and final approach.</p>",
+    "c": "The 4 digit squawk code assigned by ATC during flight, up to the point when the pilot sets it into the transponder.",
+    "d": "The 4 digit squawk code that has already been set into the transponder, having been assigned by ATC during the flight."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

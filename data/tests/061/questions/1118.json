@@ -1,0 +1,14 @@
+{
+  "number": 1118,
+  "questionId": "061-1118",
+  "questionNumber": "061-1118",
+  "stemHtml": "<p>Given the following information, what is the ground distance covered during a climb from pressure altitude 2500 ft to FL140 ?</p>Average Climb TAS: 125 kt <br /> Average Headwind Component during climb: 20 kt <br /> Rate of climb: 675 fpm",
+  "options": {
+    "a": "29.8 NM",
+    "b": "41.1 NM",
+    "c": "35.4 NM",
+    "d": "36.3 NM"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

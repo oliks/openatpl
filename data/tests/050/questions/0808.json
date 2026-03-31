@@ -1,0 +1,14 @@
+{
+  "number": 808,
+  "questionId": "050-0808",
+  "questionNumber": "050-0808",
+  "stemHtml": "<p>RVR is reported in steps of _____ when the RVR is less than 400 m, and _____ when the RVR is 400 m or more but less than 800 m, and _____ when the RVR is 800 m or more.</p>",
+  "options": {
+    "a": "<p>20 m; 50 m; 100 m.</p>",
+    "b": "<p>25 m; 50 m; 100 m.</p>",
+    "c": "<p>15 m; 30 m; 90 m.</p>",
+    "d": "<p>50 m; 100 m; 200 m.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

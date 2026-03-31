@@ -1,0 +1,14 @@
+{
+  "number": 2103,
+  "questionId": "050-2103",
+  "questionNumber": "050-2103",
+  "stemHtml": "<p>Determine the appropriate minimum flight level to use, given the following information:</p><p>Obstacle elevation: 7720 ft   <br />   ISA deviation: -10\u00b0C   <br />   Ambient pressure (QNH): 990 hPa   <br />   Obstacle clearance height (OCH): 2000 ft   <br />   Magnetic heading: 175\u00b0   <br />   Drift angle: 7\u00b0 right</p>",
+  "options": {
+    "a": "<p>FL110</p>",
+    "b": "<p>FL100</p>",
+    "c": "<p>FL90</p>",
+    "d": "<p>FL120</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

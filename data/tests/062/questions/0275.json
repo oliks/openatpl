@@ -1,0 +1,14 @@
+{
+  "number": 275,
+  "questionId": "062-0275",
+  "questionNumber": "062-0275",
+  "stemHtml": "<p>Refer to figure.<br />You are flying en-route using a VOR. You cannot hear the ident, but the instrument looks like the attached figure. What is your instrument telling you?</p>",
+  "options": {
+    "a": "<p>You are currently flying on radial 238.</p>",
+    "b": "<p>You are currently flying on radial 228.</p>",
+    "c": "<p>You must fly left to intercept the required radial.</p>",
+    "d": "<p>The instrument is not receiving a usable navigation signal.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

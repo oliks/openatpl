@@ -1,0 +1,14 @@
+{
+  "number": 937,
+  "questionId": "050-0937",
+  "questionNumber": "050-0937",
+  "stemHtml": "<p>During the pre-flight checks, both altimeters, primary altimeter and standby altimeter, are set to the local QNH of 1018 hPa. The elevation of the airfield is 254 ft AMSL. The standby altimeter has just been in maintenance for calibration and indicates an altitude of 173 ft.</p>\r\n\r\n<p>When the indicate altitude of this instrument is set to the airfield elevation, what is the pressure indication of the standby altimeter?</p>\r\n\r\n<p>(Assume a barometric lapse rate of 27 ft / hPa)</p>",
+  "options": {
+    "a": "1013 hPa",
+    "b": "1015 hPa",
+    "c": "1018 hPa",
+    "d": "1021 hPa"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

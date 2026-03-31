@@ -1,0 +1,19 @@
+{
+  "number": 223,
+  "questionId": "050-0223",
+  "questionNumber": "050-0223",
+  "stemHtml": "<p>Refer to figure. <br /> \rYou are planning for an approach at the above airport on the coast of the Adriatic sea with a strong wind blowing from the North-West. The approach plate for Runway 33 expects you to fly through the mountain valley. What can you expect to happen to the wind speed and true altitude when flying through the valley?</p>",
+  "options": {
+    "a": "<p>Wind speed increases; true altitude increases.</p>",
+    "b": "<p>Wind speed decreases; true altitude decreases.</p>",
+    "c": "<p>Wind speed increases; true altitude is lower than indicated altitude.</p>",
+    "d": "<p>Wind speed remains constant; true altitude is higher than indicated altitude.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0204",
+      "publicUrl": "/attachments/050/050-att-0204.jpg"
+    }
+  ]
+}

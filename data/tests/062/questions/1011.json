@@ -1,0 +1,14 @@
+{
+  "number": 1011,
+  "questionId": "062-1011",
+  "questionNumber": "062-1011",
+  "stemHtml": "<p>An operator operates multiple of the same type of aircraft. However, some of the aircraft are able to fly to LPV (Localizer performance with vertical guidance) minima while others are not able to do so. The reason for this difference in capability is that the\u2026</p>",
+  "options": {
+    "a": "FMS requires a localiser and glideslope input from the ILS receiver in order to achieve ILS Performance.",
+    "b": "ILS receiver does NOT include the enhanced localiser and glideslope function for CAT III Operations.",
+    "c": "FMS requires an additional final approach segment (FAS) data block function to fly LPV minima.",
+    "d": "ILS, SBAS and/or GBAS signals are NOT integrated to achieve a similar performance standard."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

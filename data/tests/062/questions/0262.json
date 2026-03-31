@@ -1,0 +1,14 @@
+{
+  "number": 262,
+  "questionId": "062-0262",
+  "questionNumber": "062-0262",
+  "stemHtml": "<p>What is the accuracy of bearing information provided by a VDF (VHF Direction Finding) bearing that is designated Class B?</p>",
+  "options": {
+    "a": "<p>Correct bearing \u00b12\u00b0; Wrong bearing \u00b15\u00b0</p>",
+    "b": "<p>Correct bearing \u00b15\u00b0; Wrong bearing \u00b12\u00b0</p>",
+    "c": "<p>Correct bearing \u00b15\u00b0; No wrong bearing tolerance is applicable</p>",
+    "d": "<p>Correct bearing \u00b12\u00b0; No wrong bearing tolerance is applicable</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

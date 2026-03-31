@@ -1,0 +1,14 @@
+{
+  "number": 160,
+  "questionId": "061-0160",
+  "questionNumber": "061-0160",
+  "stemHtml": "<p>Given the following, what is the True Airspeed TAS?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Mach number: 0.63</span>  <br />  \nPressure altitude: 22000 ft  <br />  \nOAT:-32\u00b0C</p>",
+  "options": {
+    "a": "370 kt",
+    "b": "427 kt",
+    "c": "380 kt",
+    "d": "404 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

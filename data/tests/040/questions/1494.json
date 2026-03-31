@@ -1,0 +1,14 @@
+{
+  "number": 1494,
+  "questionId": "040-1494",
+  "questionNumber": "040-1494",
+  "stemHtml": "<p>EU Aircrew and Air Operations Regulations require exercises for stall manoeuvres to be included in the training syllabus of airlines. When an airline decides NOT to make them part of the training manual and stall manoeuvres are NOT practiced by the pilots, what is true according to the Swiss Cheese model?</p>",
+  "options": {
+    "a": "<p>If the aircraft operated have advanced automation to limit stall conditions, the airline can exclude the exercises from its training and the Swiss Cheese model is NOT applicable.</p>",
+    "b": "<p>The airline has decided to exclude the compulsory exercises from its training, and therefore the Swiss Cheese model is NOT applicable.</p>",
+    "c": "<p>As the exercises are mandated by the EU regulations, this training gap indicates an active failure in the management of the airline and failures in the oversight by the Authority.</p>",
+    "d": "<p>The training gap could be a latent failure for those pilots who have encountered stall manoeuvres in line flying, but for other pilots this is NOT a latent failure.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

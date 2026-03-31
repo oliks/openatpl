@@ -1,0 +1,14 @@
+{
+  "number": 1196,
+  "questionId": "040-1196",
+  "questionNumber": "040-1196",
+  "stemHtml": "Select the option which is not a Procedural Error (TEM model):",
+  "options": {
+    "a": "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold short or missed taxiway or runway.",
+    "b": "Callouts: omitted/incorrect callouts.",
+    "c": "Documentation: wrong weight and balance, fuel information, ATIS, or clearance information recorded, misinterpreted items on paperwork; incorrect logbook entries or incorrect application of MEL procedures.",
+    "d": "Checklists: wrong challenge and response; items missed, checklist performed late or at the wrong time."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

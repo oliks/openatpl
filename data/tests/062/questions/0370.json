@@ -1,0 +1,14 @@
+{
+  "number": 370,
+  "questionId": "062-0370",
+  "questionNumber": "062-0370",
+  "stemHtml": "What determines the operating mode (A or C) of the SSR transponder?",
+  "options": {
+    "a": "The position of the SPI pulse.",
+    "b": "The difference in amplitude of the pulses P1/P3 and P2.",
+    "c": "The time interval between the pulses P1 and P3.",
+    "d": "The travel time of the pulses transmitted by the interrogator."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

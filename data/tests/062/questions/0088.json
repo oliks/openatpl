@@ -1,0 +1,14 @@
+{
+  "number": 88,
+  "questionId": "062-0088",
+  "questionNumber": "062-0088",
+  "stemHtml": "<p>Given the following information, what is the true bearing from the NDB to the aircraft?</p>Compass heading: 348\u00ba <br /> ADF indication (Relative Bearing Indicator): 317\u00ba <br /> Deviation: -2\u00ba <br /> Variation: 22\u00baW <br /> The convergence is negligible",
+  "options": {
+    "a": "101\u00ba (T)",
+    "b": "145\u00ba (T)",
+    "c": "125\u00ba (T)",
+    "d": "105\u00ba (T)"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

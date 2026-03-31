@@ -1,0 +1,14 @@
+{
+  "number": 1574,
+  "questionId": "050-1574",
+  "questionNumber": "050-1574",
+  "stemHtml": "<p>Based on the provided METAR for EDDF (Frankfurt, Germany), which runway is the most suitable for take-off, requiring a minimum RVR of 400 meters? </p>\r\n\r\n<p>EDDF 131050Z 20005KT 0250 FG R18/450 R25L/350 R25C/350U R25R/250U VV002 M03/M03 Q1020=</p>",
+  "options": {
+    "a": "Runway 25L",
+    "b": "Runway 25R",
+    "c": "Runway 25C",
+    "d": "Runway 18"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

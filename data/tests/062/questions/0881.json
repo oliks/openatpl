@@ -1,0 +1,14 @@
+{
+  "number": 881,
+  "questionId": "062-0881",
+  "questionNumber": "062-0881",
+  "stemHtml": "A crew is flying an RNP approach using GNSS, and the navigation display shows a value called the Estimated Position Error (EPE). What is the EPE?",
+  "options": {
+    "a": "The distance between the GNSS position and calculated actual position.",
+    "b": "The correction applied to position when using an augmentation system.",
+    "c": "A value calculated by using a statistical model of position error probabilities.",
+    "d": "An error calculated in the control segment and broadcast on the navigation message."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

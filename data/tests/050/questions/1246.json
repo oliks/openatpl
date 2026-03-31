@@ -1,0 +1,19 @@
+{
+  "number": 1246,
+  "questionId": "050-1246",
+  "questionNumber": "050-1246",
+  "stemHtml": "<p>(For this question use annex 050-027). <br /> \rAn aircraft is flying from Point A to Point B at the flight level corresponding to the pressure surface of the constant pressure chart. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The true altitude will be higher over B than over A.</p>",
+    "b": "<p>Wind speed over A is higher than over B.</p>",
+    "c": "<p>Wind speed over Paris is higher than over B.</p>",
+    "d": "<p>The true altitude will be higher over A than over B.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0212",
+      "publicUrl": "/attachments/050/050-att-0212.gif"
+    }
+  ]
+}

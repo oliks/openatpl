@@ -1,0 +1,19 @@
+{
+  "number": 1357,
+  "questionId": "061-1357",
+  "questionNumber": "061-1357",
+  "stemHtml": "<p>Refer to figure Enroute_E(LO)2. Refer to Jeppesen GSPRM Training Route Manual - Chart \"E LO 2\". <br>A routing is along airway N562 from TURNBERRY (TRN, N55\u00b019' W004\u00b047') to MACHRIHANISH (MAC, N55\u00b026' W005\u00b039'). What is the distance and magnetic course from waypoint Heron to MAC?</p>",
+  "options": {
+    "a": "106\u00b0 (T), 31 NM",
+    "b": "106\u00b0 (M), 23 NM",
+    "c": "287\u00b0 (T), 31 NM",
+    "d": "<div>287\u00b0 (M), 23 NM</div>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0106",
+      "publicUrl": "/attachments/061/061-att-0106.jpg"
+    }
+  ]
+}

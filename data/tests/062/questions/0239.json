@@ -1,0 +1,14 @@
+{
+  "number": 239,
+  "questionId": "062-0239",
+  "questionNumber": "062-0239",
+  "stemHtml": "The selection of the DME frequency for a ILS/DME installation is as follows:",
+  "options": {
+    "a": "The DME frequency is paired with the localizer frequency so only the localiser frequency is set.",
+    "b": "The pilot has to insert the channel number and also the X or Y.",
+    "c": "The DME frequency has to be selected by the pilot.",
+    "d": "When an ILS/ DME is flown then selection of the DME has always to be done manually."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

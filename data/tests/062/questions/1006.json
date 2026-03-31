@@ -1,0 +1,14 @@
+{
+  "number": 1006,
+  "questionId": "062-1006",
+  "questionNumber": "062-1006",
+  "stemHtml": "Using the pulse technique, what determines the minimum range and the maximum unambiguous range of a primary radar?",
+  "options": {
+    "a": "Minimum range: transmission frequency, maximum range: size of reflecting surface",
+    "b": "Minimum range: rotation speed of antenna, maximum range: length of the time base",
+    "c": "Minimum range: pulse length, maximum range: pulse repetition frequency",
+    "d": "Minimum range: transmission frequency, maximum range: transmitter power output"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

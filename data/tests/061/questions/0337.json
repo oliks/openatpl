@@ -1,0 +1,14 @@
+{
+  "number": 337,
+  "questionId": "061-0337",
+  "questionNumber": "061-0337",
+  "stemHtml": "<p>Given the following information, calculate the ground distance covered during climb:</p>\r\r<p>Initial climb altitude: 4000 feet <br /> \rTop of Climb: FL80 <br /> \rAverage climb TAS: 190 kt <br /> \rInitial climb GS: 195 kt <br /> \rGS at FL80: 220 kt <br /> \rRate of Climb: 1800 ft/min</p>",
+  "options": {
+    "a": "<p>7.84 NM</p>",
+    "b": "<p>7.03 NM</p>",
+    "c": "<p>7.21 NM</p>",
+    "d": "<p>8.14 NM</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

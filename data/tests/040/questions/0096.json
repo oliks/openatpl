@@ -1,0 +1,14 @@
+{
+  "number": 96,
+  "questionId": "040-0096",
+  "questionNumber": "040-0096",
+  "stemHtml": "<p>During an uneventful long-haul flight on a transoceanic route, you start to feel bored and hypovigilance begins to set in. Select from the following list of appropriate actions and countermeasures.</p>1. Strictly adhere to SOPs <br /> 2. Disconnect the autopilot and fly manually <br /> 3. Play with the different autopilot controls <br /> 4. Communicate with the other crew member(s) <br /> 5. Rehearse abnormal or emergency procedures",
+  "options": {
+    "a": "1, 2, 3, 4, 5",
+    "b": "3, 4",
+    "c": "1, 4, 5",
+    "d": "<p>2, 3, 5</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

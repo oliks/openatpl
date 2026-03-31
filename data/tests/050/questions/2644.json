@@ -1,0 +1,14 @@
+{
+  "number": 2644,
+  "questionId": "050-2644",
+  "questionNumber": "050-2644",
+  "stemHtml": "<p>The destination airport has an elevation of 210 ft BELOW MSL. Below, you can take a look at the airport\u2019s METAR:</p>\r\n\r\n<p>KDRA 271235Z 21007KT 5000 26/M03 Q1018 NOSIG</p>\r\n\r\n<p>What is correct?</p>",
+  "options": {
+    "a": "<p>QFF is greater than QNH.</p>",
+    "b": "<p>QFF is less than QNH.</p>",
+    "c": "<p>QFE is equal to 1018.</p>",
+    "d": "<p>QFF is equal to 1011.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

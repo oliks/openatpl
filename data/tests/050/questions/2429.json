@@ -1,0 +1,14 @@
+{
+  "number": 2429,
+  "questionId": "050-2429",
+  "questionNumber": "050-2429",
+  "stemHtml": "<p>Before departing from Gander International Airport (CYQX) in Canada on the 15th, a flight crew receives the following meteorological information:</p><p>CYQX AD WRNG 2 VALID 151430/151800 HVY SN 20CM OBS INTSF</p><p>Which of the following correctly describes the meaning of the message?</p>",
+  "options": {
+    "a": "Heavy snow is forecast from 14:30 UTC intensifying. A snowfall of less than 20 cm is forecast.",
+    "b": "Heavy snow has been observed and is expected to intensify, with an expected snowfall of 20 cm.",
+    "c": "Heavy snow has been observed, currently 20cm deep. It is expected to stop by 14:30 UTC.",
+    "d": "Heavy snow, 20cm deep, has been observed and is providing poor braking action on all runways."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

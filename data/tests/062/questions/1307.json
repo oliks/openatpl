@@ -1,0 +1,14 @@
+{
+  "number": 1307,
+  "questionId": "062-1307",
+  "questionNumber": "062-1307",
+  "stemHtml": "<p>A DME station at an elevation of 136 ft has been tuned and identified. The pilot, maintaining 5000 ft, must initiate a turn at a DME distance of 3 NM. However, the autopilot navigates using GPS. What distance will the GPS display from the same DME station at the start of the turn (accuracy: 0.1 NM)?</p>",
+  "options": {
+    "a": "<p>2.8</p>",
+    "b": "<p>3.0</p>",
+    "c": "<p>3.1</p>",
+    "d": "<p>2.9</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

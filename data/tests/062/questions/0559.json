@@ -1,0 +1,14 @@
+{
+  "number": 559,
+  "questionId": "062-0559",
+  "questionNumber": "062-0559",
+  "stemHtml": "<p>Which of the following statements regarding RNAV 1 and RNP 1 is correct?</p>",
+  "options": {
+    "a": "<p>RNP 1 and RNAV 1 both require monitoring and alerting function.</p>",
+    "b": "<p>Just RNP 1 requires monitoring and alerting function.</p>",
+    "c": "<p>Just RNAV 1 requires monitoring and alerting function.</p>",
+    "d": "<p>RNP 1 and RNAV 1 both require monitoring, but only RNP 1 requires alerting function.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

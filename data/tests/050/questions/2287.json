@@ -1,0 +1,19 @@
+{
+  "number": 2287,
+  "questionId": "050-2287",
+  "questionNumber": "050-2287",
+  "stemHtml": "<p>Refer to figure.<br>On the tephigram, the green line represents the Dry Adiabatic Lapse Rate because:</p>",
+  "options": {
+    "a": "The DALR is a linear decrease in air temperature with altitude at a constant rate.",
+    "b": "The dry adiabatic lapse rate is not constant, its approximate lapse rate is 3\u00b0C/1000 ft, but it can vary.",
+    "c": "The DALR is not linear as latent heat is released, and this is represented accordingly on the tephigram.",
+    "d": "The dry adiabatic cooling is not represented by the green line."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0310",
+      "publicUrl": "/attachments/050/050-att-0310.png"
+    }
+  ]
+}

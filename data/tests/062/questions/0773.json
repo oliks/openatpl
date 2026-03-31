@@ -1,0 +1,14 @@
+{
+  "number": 773,
+  "questionId": "062-0773",
+  "questionNumber": "062-0773",
+  "stemHtml": "<p>Within PBN operations, what is the make-up of the \"Total System Error\" (TSE)?</p>\r\r<p>PDE = Path Definition Error <br /> \rFTE = Flight Technical Error <br /> \rNSE = Navigation System Error</p>",
+  "options": {
+    "a": "<p>(PDE + FTE) / NSE</p>",
+    "b": "<p>PDE + FTE - NSE</p>",
+    "c": "<p>PDE x FTE x NSE</p>",
+    "d": "<p>PDE + FTE + NSE</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

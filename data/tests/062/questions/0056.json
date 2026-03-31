@@ -1,0 +1,14 @@
+{
+  "number": 56,
+  "questionId": "062-0056",
+  "questionNumber": "062-0056",
+  "stemHtml": "<p>Each range calculated by the GPS-receiver defines\u2026</p>",
+  "options": {
+    "a": "<p>a circle with its centre at the satellite.</p>",
+    "b": "<p>a circle with its centre at the receiver.</p>",
+    "c": "<p>a sphere with its centre at the receiver.</p>",
+    "d": "<p>a sphere with its centre at the satellite.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

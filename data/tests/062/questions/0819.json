@@ -1,0 +1,14 @@
+{
+  "number": 819,
+  "questionId": "062-0819",
+  "questionNumber": "062-0819",
+  "stemHtml": "The aircraft DME receiver is able to accept replies to its own transmissions and reject replies to other aircraft interrogations because..",
+  "options": {
+    "a": "the time interval between pulse pairs is unique to that particular aircraft.",
+    "b": "aircraft interrogation signals and transponder responses are 63 MHz removed from each other.",
+    "c": "transmission frequencies are 63 MHz different for each aircraft.",
+    "d": "pulse pairs are amplitude modulated with the aircraft registration."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

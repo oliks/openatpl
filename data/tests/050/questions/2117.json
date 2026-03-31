@@ -1,0 +1,14 @@
+{
+  "number": 2117,
+  "questionId": "050-2117",
+  "questionNumber": "050-2117",
+  "stemHtml": "<p>According to the following aerodrome warnings, a pilot on approach to land at (1)_____ airport has reported (2)_____.</p><p>LDRI WS WRNG 1 160520 VALID 160520/161200 WS ALL RWY FCST=  <br /> LGTS WS WRNG 1 160520 MBST APCH RWY16 REP AT 0500 A320 35KT LOSS 1NM FNA=  <br /> LGAV WS WRNG 1 160520 WS IN CLIMB OUT REP AT 0500 A320=  <br /> EDDF WS WRNG 1 160520 VALID 160520/161200 WS RWY18 FCST= </p><p> </p>",
+  "options": {
+    "a": "(1) LDRI, (2) wind shear",
+    "b": "(1) LGTS, (2) a microburst",
+    "c": "(1) EDDF, (2) wind shear",
+    "d": "(1) LGAV, (2) a microburst"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

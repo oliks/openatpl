@@ -1,0 +1,14 @@
+{
+  "number": 125,
+  "questionId": "062-0125",
+  "questionNumber": "062-0125",
+  "stemHtml": "When flying at FL290 and having ADS-B with auto-report capability, how frequently are you required to transmit reports?",
+  "options": {
+    "a": "Every 30 seconds.",
+    "b": "Only when requested by the operator.",
+    "c": "It is not required because you are below FL290.",
+    "d": "Every 15 minutes."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

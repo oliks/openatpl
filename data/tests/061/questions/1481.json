@@ -1,0 +1,14 @@
+{
+  "number": 1481,
+  "questionId": "061-1481",
+  "questionNumber": "061-1481",
+  "stemHtml": "<p>You are descending to FL180 from FL310, the wind is as follows:</p><p>FL310 230/55 <br /> FL290 240/45 <br /> FL250 190/40 <br /> FL180 200/30</p><p>For flight planning purposes, what is the most appropriate wind to use?</p>",
+  "options": {
+    "a": "200/30",
+    "b": "<p>195/40</p>",
+    "c": "245/40",
+    "d": "250/30"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

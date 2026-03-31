@@ -1,0 +1,31 @@
+{
+  "number": 421,
+  "questionId": "061-0421",
+  "questionNumber": "061-0421",
+  "stemHtml": "<p>Refer to figures.<br />Given the following information, for a flight from Guam to the Marquesas Islands, calculate the time and date of arrival (ST) at the Marquesas Islands.</p><p>Departure date at Guam: 28th February 2002\u00a0<br />Departure time: 23:14 ST\u00a0<br />Flight time: 07:27</p>",
+  "options": {
+    "a": "<p>11:11 ST, 2002 February 28</p>",
+    "b": "<p>12:11 ST, 2002 March 01</p>",
+    "c": "<p>03:11 ST, 2002 March 01</p>",
+    "d": "<p>09:11 ST, 2002 February 29</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0017",
+      "publicUrl": "/attachments/061/061-att-0017.png"
+    },
+    {
+      "uniqueKey": "061-att-0290",
+      "publicUrl": "/attachments/061/061-att-0290.png"
+    },
+    {
+      "uniqueKey": "061-att-0135",
+      "publicUrl": "/attachments/061/061-att-0135.png"
+    },
+    {
+      "uniqueKey": "061-att-0306",
+      "publicUrl": "/attachments/061/061-att-0306.png"
+    }
+  ]
+}

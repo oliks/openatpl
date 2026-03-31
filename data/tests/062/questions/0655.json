@@ -1,0 +1,14 @@
+{
+  "number": 655,
+  "questionId": "062-0655",
+  "questionNumber": "062-0655",
+  "stemHtml": "An aircraft is being radar vectored for an ILS approach and is receiving the ILS ident correctly. When on the downwind leg, the pilots observe the ILS indications changing randomly and both the localiser and glide path showing warning flags intermittently. What is the most likely reason for this?",
+  "options": {
+    "a": "The aircraft is heading in the opposite direction to the localiser thus the indications are reversed and change frequently.",
+    "b": "Lack of reception of the modulation signals due to a failure of the ground transmitters, so the aircraft receiver fails to lock onto the incoming signals.",
+    "c": "Reflections from objects within the ILS coverage area leading to multipath signals outside the coverage area.",
+    "d": "The ILS shows incorrect indications unless the aircraft is established on inbound course and on the glideslope, so such indications are normal during radar vectoring."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

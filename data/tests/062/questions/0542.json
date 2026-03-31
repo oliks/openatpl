@@ -1,0 +1,14 @@
+{
+  "number": 542,
+  "questionId": "062-0542",
+  "questionNumber": "062-0542",
+  "stemHtml": "<p>Refer to figure.  <br />  \rA pilot is taking off from Runway 16 and must navigate to waypoint ATSU and then make a turn to the next waypoint. The procedure can involve different turn techniques, and two different flight paths are depicted in each of the annexes in the figure. Which of the following statements is true regarding the procedures followed by the aircraft?</p>",
+  "options": {
+    "a": "<p>The aircraft in Annex 1 follows a Radius-to-Turn (RTT) procedure between the waypoints.</p>",
+    "b": "<p>The aircraft in Annex 2 follows a Radius-to-Turn (RTT) procedure and only turns to the next waypoint after passing the waypoint ATSU.</p>",
+    "c": "<p>The aircraft in Annex 2 turns to the next waypoint after passing the waypoint ATSU because it is a fly-over waypoint.</p>",
+    "d": "<p>The aircraft in Annex 1 uses a fly-over instead of a standard turn procedure.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

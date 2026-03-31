@@ -1,0 +1,14 @@
+{
+  "number": 1129,
+  "questionId": "061-1129",
+  "questionNumber": "061-1129",
+  "stemHtml": "<p>You crossed the international date line on an easterly heading during the 12-hour flight. Comparing departure and arrival times, the date will (1) _____ and the LMT will (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) increase by one day; (2) not change.</p>\r\n",
+    "b": "<p>(1) decrease by one day; (2) not change.</p>\r\n",
+    "c": "<p>(1) increase by one day; (2) reduce by 12 hours.</p>\r\n",
+    "d": "<p>(1) decrease by one day; (2) increase by 12 hours.</p>\r\n"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

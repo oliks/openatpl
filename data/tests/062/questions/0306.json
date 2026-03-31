@@ -1,0 +1,14 @@
+{
+  "number": 306,
+  "questionId": "062-0306",
+  "questionNumber": "062-0306",
+  "stemHtml": "There are two NDBs, one 20 NM inland, and the other 50 NM inland from the coast. Assuming that the error caused by coastal refraction is the same for both propagations, the extent of the error in a position line plotted by an aircraft that is over water will be:",
+  "options": {
+    "a": "greater from the beacon that is 20 NM inland",
+    "b": "greater from the beacon that is 50 NM inland",
+    "c": "the same from both beacons when the aircraft is on a relative bearing of 180\u00b0 and 360\u00b0",
+    "d": "the same from both beacons when the aircraft is on a relative bearing of 090\u00b0 and 270\u00b0"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

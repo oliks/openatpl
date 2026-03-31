@@ -1,0 +1,14 @@
+{
+  "number": 601,
+  "questionId": "062-0601",
+  "questionNumber": "062-0601",
+  "stemHtml": "<p>3D approach operations are very common nowadays. Which of the following options belongs to this type of approach?</p><p>1. RNP APCH (GNSS and baro VNAV) <br /> 2. GLS <br /> 3. PAR <br /> 4. RNP 1 <br /> 5. ILS <br /> 6. RNP APCH (SBAS)</p>",
+  "options": {
+    "a": "2, 3, 4, 5 and 6",
+    "b": "1, 2, 3, 5 and 6",
+    "c": "Only 1, 5 and 6",
+    "d": "1, 3, 4 and 6"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

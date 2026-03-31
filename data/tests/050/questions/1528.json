@@ -1,0 +1,19 @@
+{
+  "number": 1528,
+  "questionId": "050-1528",
+  "questionNumber": "050-1528",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is planned to fly from Bangkok ('B', approximately 13\u00baN, 100\u00baE ) to Manila ('M', approximately 15\u00b0N,121\u00b0E). Assuming the track follows the straight line (in red) depicted on the chart, and the cruising FL increases from initially FL370 to FL490 halfway through the flight, where along the route is it most likely to encounter a high concentration of hazardous ice crystals?</p>",
+  "options": {
+    "a": "<p>At cruising altitude for the first 600 NM after initial climb.</p>",
+    "b": "<p>At cruising altitude for the last 600 NM before descent.</p>",
+    "c": "<p>It is NOT expected to encounter a high concentration at cruising altitude on this route.</p>",
+    "d": "<p>Clear for the first 1500 NM or so and then likely for the rest of the cruise.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0398",
+      "publicUrl": "/attachments/050/050-att-0398.png"
+    }
+  ]
+}

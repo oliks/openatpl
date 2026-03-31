@@ -1,0 +1,14 @@
+{
+  "number": 137,
+  "questionId": "061-0137",
+  "questionNumber": "061-0137",
+  "stemHtml": "<p>An aircraft wishes to follow a straight track from point A to point C, passing through point B along the way. After travelling for 12 minutes, the pilot realizes that instead being over point B, the aircraft is 2 NM left and 3 NM ahead of position B. The pilot notes this fix position. How much should the aircraft heading change in order to regain the track in 12 minutes?</p><p>Planned track from point A: 035\u00b0(T)<br />Distance from point A to point C: 70 NM<br />Planned GS from point A to point C: 135 kt<br />Planned time between point A and point B: 12 minutes</p>",
+  "options": {
+    "a": "<p>5\u00b0 right</p>",
+    "b": "<p>4\u00b0 right</p>",
+    "c": "<p>7\u00b0 right</p>",
+    "d": "<p>8\u00b0 right</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

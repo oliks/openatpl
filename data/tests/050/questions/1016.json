@@ -1,0 +1,19 @@
+{
+  "number": 1016,
+  "questionId": "050-1016",
+  "questionNumber": "050-1016",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>You plan a 5 hour flight on 12th March 2017 at 3000 feet altitude from Hahn (H) (50\u00b0N 007\u00b0E) to Brest (B) (49\u00b0N 004\u00b0W), taking off at 17:00 UTC. What hazards could be expected along the route?</p>",
+  "options": {
+    "a": "<p>Moderate turbulence throughout the route, with severe icing along the second half.</p>",
+    "b": "<p>Moderate icing and turbulence throughout the route, with severe icing along the second half.</p>",
+    "c": "<p>Moderate turbulence throughout the route, with no reportable icing forecast at the planned altitude.</p>",
+    "d": "<p>Moderate turbulence throughout the route, with moderate icing along the second half.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0158",
+      "publicUrl": "/attachments/050/050-att-0158.png"
+    }
+  ]
+}

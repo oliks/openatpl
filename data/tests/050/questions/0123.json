@@ -1,0 +1,14 @@
+{
+  "number": 123,
+  "questionId": "050-0123",
+  "questionNumber": "050-0123",
+  "stemHtml": "An altimeter adjusted to 1013 hPa indicates an altitude of 3 600 ft. Should this altimeter be adjusted to the local QNH value of 991 hPa, the altitude indicated would be:  <br />  <em>Assume 1 hPa = 27 ft.</em>",
+  "options": {
+    "a": "4 194 ft",
+    "b": "2 922 ft",
+    "c": "3 006 ft",
+    "d": "4 278 ft"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

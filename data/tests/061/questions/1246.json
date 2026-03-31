@@ -1,0 +1,14 @@
+{
+  "number": 1246,
+  "questionId": "061-1246",
+  "questionNumber": "061-1246",
+  "stemHtml": "<p>An aircraft flies with a TAS of 240 kt and experiences a wind of 60 kt 30\u00b0 from the right of its track. Using Mental Dead Reckoning (MDR), calculate the Crosswind component (XWC) and the Headwind component (HWC).</p>",
+  "options": {
+    "a": "<p>XWC: 36 kt; HWC: 48 kt</p>",
+    "b": "<p>XWC: 54 kt; HWC: 30 kt</p>",
+    "c": "<p>XWC: 48 kt; HWC: 36 kt</p>",
+    "d": "<p>XWC: 30 kt; HWC: 54 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

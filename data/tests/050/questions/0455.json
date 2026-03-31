@@ -1,0 +1,14 @@
+{
+  "number": 455,
+  "questionId": "050-0455",
+  "questionNumber": "050-0455",
+  "stemHtml": "<p>Wind speed in case of gradient wind is\u2026</p>",
+  "options": {
+    "a": "<div>always higher than geostrophic wind speed.</div>",
+    "b": "<div>depending on curvature of the isobars.</div>",
+    "c": "<div>affected by surface roughness.</div>",
+    "d": "<p>only depending on the horizontal pressure gradient.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

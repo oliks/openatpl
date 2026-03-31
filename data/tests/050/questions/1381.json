@@ -1,0 +1,14 @@
+{
+  "number": 1381,
+  "questionId": "050-1381",
+  "questionNumber": "050-1381",
+  "stemHtml": "<p>You plan to depart from EGPF and you read the following SIGMET issued at 05:45 UTC: </p><p>\u201cEGTT SIGMET 2 VALID 120600/121000 EGRR- EGTT LONDON FIR SEV MTW FCST WI N5300 W00130 - N5300 W00300 - N5500 W00200 FL070/200 STNR WKN\u201d </p><p>What is true about this SIGMET?</p>",
+  "options": {
+    "a": "<p>SIGMET is VALID from 05:45 to 10:00 UTC.  <br />   </p>",
+    "b": "<p>SIGMET is VALID from 05:45 to 06:00 UTC.  <br />  </p>",
+    "c": "<p>SIGMET is VALID from 10:00 to 23:00 UTC.  <br />   </p>",
+    "d": "<p>SIGMET is VALID from 06:00 to 10:00 UTC.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

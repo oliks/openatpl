@@ -1,0 +1,14 @@
+{
+  "number": 155,
+  "questionId": "062-0155",
+  "questionNumber": "062-0155",
+  "stemHtml": "The accuracy of the NAVSTAR GPS position depends on the geometry of the intersecting lines. Select the correct statement:",
+  "options": {
+    "a": "There will be a good angle of intersection if the satellites, as viewed by the GPS receiver, are close together, resulting in an Increase In accuracy.",
+    "b": "If the satellites, as viewed by the GPS receiver, are close together, there will be a poor angle of intersection, resulting in a loss of accuracy.",
+    "c": "The position accuracy will Increase if the satellites, as viewed by the GPS receiver, are paced 60\u00b0 apart and close to the horizon.",
+    "d": "The worst configuration to give an accurate fix would be three satellites spaced 120\u00b0apart and a fourth satellite overhead."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

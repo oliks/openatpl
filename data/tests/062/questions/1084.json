@@ -1,0 +1,14 @@
+{
+  "number": 1084,
+  "questionId": "062-1084",
+  "questionNumber": "062-1084",
+  "stemHtml": "What is a difference between satellites used by EGNOS and those used by GPS?",
+  "options": {
+    "a": "EGNOS satellites have much shorter orbit times than GPS satellites.",
+    "b": "The signals broadcasted by EGNOS are more prone to multipath effects than GPS signals.",
+    "c": "EGNOS satellites are geostationary and GPS satellites are not.",
+    "d": "The signal format broadcasted by EGNOS differs considerably from GPS signal format."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

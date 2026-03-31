@@ -1,0 +1,14 @@
+{
+  "number": 297,
+  "questionId": "062-0297",
+  "questionNumber": "062-0297",
+  "stemHtml": "What is the definition of Receiver Autonomous Integrity Monitoring (RAIM) as a system utilised by an aviation GNSS receiver? RAIM is the...",
+  "options": {
+    "a": "use of ground-based facilities such as VOR and/or DME to verify and enhance the accuracy of its calculated position.",
+    "b": "exclusion of faulty satellites by means of comparing the satellite clock data and isolating satellites transmitting differing clock data.",
+    "c": "ability of the receiver to perform a receiver clock-error computation and enhance the accuracy of the initial pseudo-ranges.",
+    "d": "<p>use of redundant range measurements to verify the position produced by the minimum number of satellites required for a three dimensional fix.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1113,
+  "questionId": "062-1113",
+  "questionNumber": "062-1113",
+  "stemHtml": "<p>A transponder can operate in mode A, C or S. Which of the following correctly describes the number of combinations the pilot can enter in a mode A transponder?</p>",
+  "options": {
+    "a": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:0.75px;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">0-7, 4 digits 8 to the 4th power (4096)</span></span></p>",
+    "b": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:0.75px;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">1-12, 8 digits 2 to the 12th power (4096)</span></span></p>",
+    "c": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:0.75px;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">0-4, 4 digits 2 by the 12th power (4096)</span></span></p>",
+    "d": "<p>1-8, 8 digits 4 by the 12th power (16 777 216)</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

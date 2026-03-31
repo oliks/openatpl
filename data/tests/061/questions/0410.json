@@ -1,0 +1,14 @@
+{
+  "number": 410,
+  "questionId": "061-0410",
+  "questionNumber": "061-0410",
+  "stemHtml": "A destination aerodrome on the Northern Hemisphere has a higher latitude than the departure aerodrome of your flight. To determine the shortest ground distance, you have plotted a straight line between the departure and destination aerodrome. You plan to navigate the flight exactly over the plotted line to approximate the great circle. The track to your destination has a westerly direction. Which of the following statements is correct with respect to this flight?",
+  "options": {
+    "a": "Convergency decreases with increasing latitude.",
+    "b": "Due to Earth convergency, the track direction will be continuously decreasing during the flight.",
+    "c": "Due to the increase in latitude, the final track angle at the destination will be higher than at the departure.",
+    "d": "As great circle tracks are plotted as straight lines, they do NOT have a changing track direction."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

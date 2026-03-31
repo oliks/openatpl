@@ -1,0 +1,14 @@
+{
+  "number": 2630,
+  "questionId": "050-2630",
+  "questionNumber": "050-2630",
+  "stemHtml": "<p>Which of the following options is the best recommendation to avoid dangerous icing for a pilot of an aircraft, in temperate latitudes, if the planned route of the flight would take the aircraft along a warm front on the cold-air side?</p>\r\n\r\n<p>Consider the following additional information; the ceiling of the Nimbostratus clouds is at 1400 ft AGL, the freezing level on the cold-air side is at 1000 ft AGL, on the warm-air side at 2000 ft. The front is quite weak and the width of the precipitation band is 20 NM. The aircraft is equipped with serviceable anti-icing and de-icing systems. The pilot does NOT have a valid instrument rating, therefore the flight has to be made in VMC.</p>",
+  "options": {
+    "a": "<p>Fly on the cold-air side of the front just below the altitude of the freezing level of the air on the warm side.</p>",
+    "b": "<p>Stay at least 5 NM ahead of the front clear of the clouds and don't cross the front.</p>",
+    "c": "<p>Traverse the warm front perpendicular to its direction of movement and fly below the freezing level.</p>",
+    "d": "<p>Fly below the clouds and above the freezing level on the cold-air side because any precipitation encountered in this area will NOT adhere to the airframe.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

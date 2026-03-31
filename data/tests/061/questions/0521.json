@@ -1,0 +1,19 @@
+{
+  "number": 521,
+  "questionId": "061-0521",
+  "questionNumber": "061-0521",
+  "stemHtml": "<p>Refer to Jeppesen GSPRM Training Route Manual - VFR Chart ED-4. <br /> \nCalculate the distance (NM) from M\u00dcHLDORF to the top of descent (ToD), given:</p>\n\n<p>An aircraft approaching airfield M\u00dcHLDORF (EDMY, N48\u00b0 16.8' E012\u00b0 30.1') from the east on track 270\u00b0. The descent should be planned to arrive at an altitude of 3 500 ft approximately abeam of airfield ALT\u00d6TTING (N48\u00b013.0' E012\u00b038.9'). Atmospheric conditions = ISA, TAS = 110 kt, average wind = 300\u00b0(T) / 16 kt, rate of descent = 500 ft/min, cruising level = FL125.</p>",
+  "options": {
+    "a": "23 NM",
+    "b": "35 NM",
+    "c": "39 NM",
+    "d": "46 NM"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0021",
+      "publicUrl": "/attachments/061/061-att-0021.jpg"
+    }
+  ]
+}

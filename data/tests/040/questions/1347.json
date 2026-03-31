@@ -1,0 +1,14 @@
+{
+  "number": 1347,
+  "questionId": "040-1347",
+  "questionNumber": "040-1347",
+  "stemHtml": "<p>The crew of an Airbus A320 is flying towards an airport in severe thunderstorms and reported wind shear conditions. Due to several aircraft going around, delays are to be expected and the crew is cleared into a holding pattern. Preoccupied with the weather ahead of them, the crew fails to notice that they have accidentally pulled back the thrust levers too far, disabling the autothrottle. As airspeed drops, and aerodynamic buffet sets in, it is interpreted by the crew as entry into turbulence. When the aircraft actually stalls, the crew is convinced to have encountered wind shear and performs the appropriate escape manoeuvre. As the manoeuvre includes applying full thrust, the crew can successfully recover from the stall and land safely.</p>\r\n\r\n<p>What is correct regarding the initial error?</p>",
+  "options": {
+    "a": "It can be regarded as a violation, as approaches in wind shear are forbidden by most companies\u2019 SOPs.",
+    "b": "It is a latent error, because it could only manifest itself because of the wind shear conditions.",
+    "c": "Applying the SHELL model, the error was due to environmental issues.",
+    "d": "The error was due to internal factors."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

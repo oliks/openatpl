@@ -1,0 +1,14 @@
+{
+  "number": 1728,
+  "questionId": "050-1728",
+  "questionNumber": "050-1728",
+  "stemHtml": "<p>Determine the relative humidity from the information given below:</p>\r\r<p>Temperature +5\u00b0C <br /> \rDew point +3\u00b0C</p>",
+  "options": {
+    "a": "<p>90%</p>",
+    "b": "<p>85%</p>",
+    "c": "<p>65%</p>",
+    "d": "<p>25%</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

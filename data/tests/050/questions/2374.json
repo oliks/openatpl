@@ -1,0 +1,14 @@
+{
+  "number": 2374,
+  "questionId": "050-2374",
+  "questionNumber": "050-2374",
+  "stemHtml": "<p>Determine the approximate true height of the aircraft above the airport, given:</p><p>OAT: ISA -15\u00b0C <br>Pressure altitude: 2800 ft</p><p>Indicated height on the altimeter 2500 ft, with the QFE from the airport (1000 ft elevation) set on the subscale. (The altimeter has no instrument errors)</p>",
+  "options": {
+    "a": "<p>2095 ft</p>",
+    "b": "<p>2350 ft</p>",
+    "c": "<p>2650 ft</p>",
+    "d": "<p>3650 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

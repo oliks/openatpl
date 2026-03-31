@@ -1,0 +1,14 @@
+{
+  "number": 200,
+  "questionId": "062-0200",
+  "questionNumber": "062-0200",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is executing an LNAV approach. The navigation aid 'AI' is a locator and it represents the...</p>",
+  "options": {
+    "a": "<p>Final approach point - non precision approach.</p>",
+    "b": "<p>Final approach fix - non precision approach.</p>",
+    "c": "<p>ILS interception point.</p>",
+    "d": "<p>Missed approach point.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

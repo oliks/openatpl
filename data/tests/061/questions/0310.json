@@ -1,0 +1,14 @@
+{
+  "number": 310,
+  "questionId": "061-0310",
+  "questionNumber": "061-0310",
+  "stemHtml": "<p dir=\"ltr\">Compare two points at the same latitude and longitude, point A being at Mean Sea Level and point B at 10 000 ft altitude. At point B, sunrise will occur:</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Earlier, due to more light being refracted from the atmosphere.</p>",
+    "b": "<p dir=\"ltr\">Later, due to reduced visual horizon.</p>",
+    "c": "<p dir=\"ltr\">Earlier, due to the increased visual horizon.</p>",
+    "d": "Later, due to less light being refracted from the atmosphere."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

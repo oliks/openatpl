@@ -1,0 +1,14 @@
+{
+  "number": 1235,
+  "questionId": "061-1235",
+  "questionNumber": "061-1235",
+  "stemHtml": "On a Lambert conformal projection the scale at a point at 60&deg;N in the direction of True North is 1:1 000 000. What is the scale at the same point in an easterly direction?",
+  "options": {
+    "a": "The scale in this direction cannot be calculated as the longitude of the position is not given.",
+    "b": "1:500 000",
+    "c": "1:2 000 000",
+    "d": "1:1 000 000"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1017,
+  "questionId": "040-1017",
+  "questionNumber": "040-1017",
+  "stemHtml": "<p>Consider the Threat and Error Management (TEM) model. A flight crew experiences an undesired aircraft state (UAS). The most correct course of action is to\u2026</p>",
+  "options": {
+    "a": "Continue with the current configuration as an UAS is not an outcome and therefore the safety of the flight remains unaffected.",
+    "b": "Continue with the current configuration and file a safety report upon landing.",
+    "c": "Take immediate countermeasures to recover to a normal operational state.",
+    "d": "Contact the Operator and request to practice this specific situation in the next training session."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

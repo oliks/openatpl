@@ -1,0 +1,14 @@
+{
+  "number": 1094,
+  "questionId": "050-1094",
+  "questionNumber": "050-1094",
+  "stemHtml": "<p>What is the reason for this warning?</p><p>\u201c\u2026 SEV TURB OBS, 12 000 ft, 111210Z\u201d</p>",
+  "options": {
+    "a": "<p>Severe turbulence forecasted at 12 000 ft.</p>",
+    "b": "<p>Wind shear warning.</p>",
+    "c": "<p>Severe turbulence was observed at 1210 UTC.</p>",
+    "d": "<p>Severe turbulence is expected at 1210 UTC.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

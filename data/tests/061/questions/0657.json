@@ -1,0 +1,14 @@
+{
+  "number": 657,
+  "questionId": "061-0657",
+  "questionNumber": "061-0657",
+  "stemHtml": "<p>Determine the aircraft's final position, given:</p><p>An aircraft departs from 05\u00b052'N 000\u00b0E/W and flies <br>720 NM westwards <br>720 NM southwards <br>1334 km eastwards <br>500 min northwards</p>",
+  "options": {
+    "a": "<p>02\u00b012'N 000\u00b0E/W</p>",
+    "b": "<p>02\u00b012'N 011\u00b000'E</p>",
+    "c": "<p>02\u00b012'S 012\u00b004'W</p>",
+    "d": "<p>00\u00b000' N/S 000\u00b000'E/W</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

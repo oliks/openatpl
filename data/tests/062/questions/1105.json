@@ -1,0 +1,14 @@
+{
+  "number": 1105,
+  "questionId": "062-1105",
+  "questionNumber": "062-1105",
+  "stemHtml": "<p>Which of the following applications uses a VHF Data Broadcast (VDB)?</p>",
+  "options": {
+    "a": "<p>Receive ATC instructions as part of a Controller-Pilot Data Link Communication (CPDLC) system.</p>",
+    "b": "<p>Transmit error correction factors and integrity information as part of a Ground-Based Augmentation System (GBAS).</p>",
+    "c": "<p>Transmit and receive Aircraft-Based Augmentation System (ABAS) signal that can be used to augment the data provided by the primary GNSS.</p>",
+    "d": "<p>Receive Satellite-Based Augmentation System (SBAS) signals that can be used to determine the pseudo-range as if they were part of a GPS satellite constellation.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

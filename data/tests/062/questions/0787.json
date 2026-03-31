@@ -1,0 +1,14 @@
+{
+  "number": 787,
+  "questionId": "062-0787",
+  "questionNumber": "062-0787",
+  "stemHtml": "<p>An aircraft flying out of sight of land, using GNSS and ABAS (without SBAS), briefly loses power to the IRS. The navigation information of the IRS is lost due to the temporary power loss. What effect could this failure have on how GNSS is used during the flight?</p>",
+  "options": {
+    "a": "Loss of RAIM, leaving only barometric altitude for ABAS.",
+    "b": "Reducing ABAS to RAIM and barometric altitude only.",
+    "c": "Loss of all integrity monitoring of the GNSS.",
+    "d": "Reduced accuracy of the GNSS position."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1059,
+  "questionId": "062-1059",
+  "questionNumber": "062-1059",
+  "stemHtml": "GPS employs two frequencies, L1 and L2, to offer Standard Positioning Service (SPS) and Precise Positioning Service (PPS). L1 is essential for delivering...",
+  "options": {
+    "a": "PPS using only the C/A code, while SPS requires both the C/A code and the P code transmitted on L1 and L2.",
+    "b": "SPS using only the C/A code, while PPS requires the P code, which is transmitted on both L1 and L2.",
+    "c": "PPS using both the C/A code and the P code, while SPS requires the C/A code transmitted on L2.",
+    "d": "SPS using the P code, while PPS requires both the C/A code and the P code transmitted on L1 and L2."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

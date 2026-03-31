@@ -1,0 +1,19 @@
+{
+  "number": 1119,
+  "questionId": "061-1119",
+  "questionNumber": "061-1119",
+  "stemHtml": "<p>Refer to figure. <br>An aircraft is transiting through the Strasbourg area, on a leg from waypoint \"W2\" to \"S\". What is the track error angle, given the following information? </p><p>Heading: 178\u00ba (T) <br>Actual drift: 4\u00ba right</p>",
+  "options": {
+    "a": "1\u00ba right",
+    "b": "7\u00ba right",
+    "c": "5\u00ba left",
+    "d": "3\u00ba left"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0110",
+      "publicUrl": "/attachments/061/061-att-0110.jpg"
+    }
+  ]
+}

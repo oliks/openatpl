@@ -1,0 +1,14 @@
+{
+  "number": 374,
+  "questionId": "061-0374",
+  "questionNumber": "061-0374",
+  "stemHtml": "<p>Given:</p>\n\n<p>TAS: 233 kt <br /> \nTrue Heading: 115\u00b0 <br /> \nW/V: 353\u00b0(T)/17 kt</p>\n\n<p>Calculate true track (TT) and groundspeed (GS):</p>",
+  "options": {
+    "a": "111\u00b0, 224 kt",
+    "b": "117\u00b0, 235 kt",
+    "c": "112\u00b0, 229 kt",
+    "d": "118\u00b0, 242 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

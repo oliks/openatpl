@@ -1,0 +1,14 @@
+{
+  "number": 619,
+  "questionId": "040-0619",
+  "questionNumber": "040-0619",
+  "stemHtml": "<p>On 8th July 2010, the crew of a Boeing 737 from Nice to Frankfurt was cleared by the controller of Sector L14 to continue its climb to FL320. In an adjacent sector, the crew of an Airbus 319 from London to Milan were cleared to leave FL390 and to descend to FL330. The instruction was read back correctly, but the pilots incorrectly entered FL320 into the FMS. Upon being handed off to sector L14, the Airbus called the controller: <br>\"Easy 529 Yankee, descending FL320 on radar heading 150\" <br>The controller identified the traffic, however he/she did not realise the incorrect flight level reported by the Airbus. <br>Shortly after, the two aircraft were converging on FL320 and triggered potential conflict alerts on both the controller's system and the on-board TCAS of each aircraft. Corrective action had to be taken by each aircraft to re-establish separation. <br><br>Select the option which correctly states the type of communication and associated disadvantage which are illustrated by this serious incident of a \"level bust\" with resulting loss of separation.</p>",
+  "options": {
+    "a": "Implicit communication, which is prone to being biased towards hearing a message in accordance with one's mental picture of a situation.\u200b\u200b\u200b\u200b",
+    "b": "Implicit communication, which is open to interpretation due to receiving erroneous or inconsistent pieces of information.",
+    "c": "Explicit communication, which is prone to confirmation bias, that is, we hear what we expect to hear and NOT what is being said.",
+    "d": "Explicit communication, which means that the message is difficult to identify and is open to multiple interpretations."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

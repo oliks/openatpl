@@ -1,0 +1,19 @@
+{
+  "number": 561,
+  "questionId": "050-0561",
+  "questionNumber": "050-0561",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The core of the jet stream is between FL290/370.</p>",
+    "b": "<p>The wind speed is greater than 80 kts between FL290/370.</p>",
+    "c": "<p>The wind speed is slower than 80 kts between FL290/370.</p>",
+    "d": "<p>The core of the jet stream is between FL310/370.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0055",
+      "publicUrl": "/attachments/050/050-att-0055.png"
+    }
+  ]
+}

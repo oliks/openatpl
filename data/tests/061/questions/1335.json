@@ -1,0 +1,14 @@
+{
+  "number": 1335,
+  "questionId": "061-1335",
+  "questionNumber": "061-1335",
+  "stemHtml": "<p>Given the following information for a Conic projection chart on the northern hemisphere, calculate the Change of Longitude:</p>\r\nGreat Circle Track from P to Q at P = 112\u00b0T<br />\r\nGreat Circle Track from Q to P at Q = 316\u00b0T<br />\r\nConstant of cone = 0.8",
+  "options": {
+    "a": "255\u00b0",
+    "b": "24\u00b0",
+    "c": "30\u00b0",
+    "d": "226\u00b0"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

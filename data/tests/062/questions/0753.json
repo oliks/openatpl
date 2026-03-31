@@ -1,0 +1,14 @@
+{
+  "number": 753,
+  "questionId": "062-0753",
+  "questionNumber": "062-0753",
+  "stemHtml": "One of the advantages of a Satellite Based Augmentation System (SBAS) over a Ground Based Augmentation System (GBAS) is..",
+  "options": {
+    "a": "an SBAS does not, like a GBAS, need ground stations for the estimation of the pseudo-range corrections.",
+    "b": "the coverage area of an SBAS is much larger than that of a GBAS.",
+    "c": "the rate at which the pseudo-range corrections reach the users is much higher for a GBAS than for an SBAS.",
+    "d": "the pseudo-range corrections of an SBAS are much more accurate than those of a GBAS."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

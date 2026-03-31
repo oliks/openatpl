@@ -1,0 +1,14 @@
+{
+  "number": 966,
+  "questionId": "062-0966",
+  "questionNumber": "062-0966",
+  "stemHtml": "Which navigation error(s) of an on-board Required Navigation Performance (RNP) system can be monitored by the pilot?",
+  "options": {
+    "a": "Flight Technical Error (FTE) only",
+    "b": "Flight Technical Error (FTE), Navigation System Error (NSE)",
+    "c": "Earth Rate Error(ERE), Flight Technical Error (FTE)",
+    "d": "Total System Error (TSE), Flight Technical Error (FTE)"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

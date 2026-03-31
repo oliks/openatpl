@@ -1,0 +1,14 @@
+{
+  "number": 539,
+  "questionId": "062-0539",
+  "questionNumber": "062-0539",
+  "stemHtml": "How is GBAS information sent from the ground station to the aircraft?",
+  "options": {
+    "a": "VHF voice transmission.",
+    "b": "VHF datalink.",
+    "c": "UHF datalink.",
+    "d": "UHF voice transmission."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 250,
+  "questionId": "062-0250",
+  "questionNumber": "062-0250",
+  "stemHtml": "<p>Geometric Dilution of Precision (GDOP) error can be minimized when\u2026</p>",
+  "options": {
+    "a": "<p>One satellite is directly overhead and 3 others are close to the horizon 120 degrees apart.</p>",
+    "b": "<p>Three satellites are spaced by 120 degrees in the vertical plane and one satellite is directly overhead.</p>",
+    "c": "<p>Two satellites are spaced by 180 degrees in azimuth, one satellite is directly overhead, and one satellite is directly opposed to the satellite overhead.</p>",
+    "d": "<p>Four satellites are spaced by 90 degrees in azimuth.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

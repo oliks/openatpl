@@ -1,0 +1,14 @@
+{
+  "number": 2589,
+  "questionId": "050-2589",
+  "questionNumber": "050-2589",
+  "stemHtml": "<p>Consider the following METAR and SPECI observations  </p>\r\n\r\n<p>METAR EGVN 061620Z 33022G34KT 290V350 7000 TSRA FEW015 BKN025CB BKN040 24/16 Q1016 TEMPO 4000 TSGR  </p>\r\n\r\n<p>SPECI EGVN 061630Z 33022G33KT 300V350 6000 FEW015 BKN025TCU BKN040 23/16 Q1016 </p>\r\n\r\n<p>The SPECI was issued because:</p>",
+  "options": {
+    "a": "Of the change in wind speed and direction, with the consequence that aircraft performance calculations may require revision.",
+    "b": "Of the reduction of temperature, with the consequence that aircraft performance calculations may require revision.",
+    "c": "<p>Of the change in the prevailing visibility resulting from an unexpected lowering of the cloud base.  </p>",
+    "d": "The thunderstorm has finished, and the associated precipitation has ended."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 298,
+  "questionId": "062-0298",
+  "questionNumber": "062-0298",
+  "stemHtml": "It is expected for pilots to apply wind correction angles to the aircraft heading while following the tracks depicted in a procedure, as described in PANS-OPS, (Doc 8168), Procedures for Air Navigation Services \u2014 Aircraft Operations. <br /> How is this practice reflected in real world while tracking to or from a NDB?",
+  "options": {
+    "a": "Once the aircraft is established on the depicted track the head or tail of the needle will point straight up on the instrument regardless of wind conditions.",
+    "b": "The head of the needle will be pointing at 360<sup>0</sup> when the aircraft is established on the inbound or outbound track.",
+    "c": "The head or tail of the needle may point slightly left or right of the top of the instrument when maintaining the appropriate QDM or QDR.",
+    "d": "The relative bearing will be equal to the wind correction angle required to maintain the depicted track towards or away from the NDB."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

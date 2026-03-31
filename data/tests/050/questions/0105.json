@@ -1,0 +1,14 @@
+{
+  "number": 105,
+  "questionId": "050-0105",
+  "questionNumber": "050-0105",
+  "stemHtml": "<p>What advantage do gridded forecasts offer over traditional forecast?</p>",
+  "options": {
+    "a": "Gridded forecasts show more details for an aerodrome than a traditional forecast such as a TAF.",
+    "b": "Pilots can obtain updated forecasts for individual grid areas from Air Traffic Control by radio.",
+    "c": "The forecast can be displayed in a way to aid in visualising flight hazards such as turbulence.",
+    "d": "The forecast can be made available at short notice to aid last minute pre-flight planning."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

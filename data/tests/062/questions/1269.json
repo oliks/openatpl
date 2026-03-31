@@ -1,0 +1,14 @@
+{
+  "number": 1269,
+  "questionId": "062-1269",
+  "questionNumber": "062-1269",
+  "stemHtml": "<p>A pilot is given a frequency to tune of 13291. In the cockpit there are two comms panels in to which frequencies can be entered:</p>\r\r<p>1. In the first panel, 13.291 MHz can be set <br /> \r2. In the second panel, 132.910 MHz can be set</p>\r\r<p>What are the frequency types for each panel?</p>",
+  "options": {
+    "a": "<p>1. VHF; 2. UHF</p>",
+    "b": "<p>1. HF; 2. VHF</p>",
+    "c": "<p>1. MF; 2. VHF</p>",
+    "d": "<p>1. VHF; 2. HF</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

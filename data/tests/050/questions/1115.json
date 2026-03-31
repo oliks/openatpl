@@ -1,0 +1,19 @@
+{
+  "number": 1115,
+  "questionId": "050-1115",
+  "questionNumber": "050-1115",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhen analyzing a satellite image with three different cloud formations, which one suggests the presence of a jet stream?</p>",
+  "options": {
+    "a": "<p>Low-altitude, puffy cumulus clouds scattered across the sky.</p>",
+    "b": "<p>High-altitude, elongated, and narrow bands of cirrus clouds.</p>",
+    "c": "<p>Thick, layered stratus clouds covering a large area.</p>",
+    "d": "<p>Mid-level, patchy altocumulus clouds.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0355",
+      "publicUrl": "/attachments/050/050-att-0355.jpg"
+    }
+  ]
+}

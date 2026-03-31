@@ -1,0 +1,14 @@
+{
+  "number": 214,
+  "questionId": "040-0214",
+  "questionNumber": "040-0214",
+  "stemHtml": "<p>During their approach, the crew of a Lockheed Tristar noticed that a green light indicating a locked nose gear had failed to illuminate and requested permission to enter a holding pattern for troubleshooting. They were assigned a position over an uninhabited swamp area, which was completely dark that night. While all the crew members were occupied with the landing gear indicator, one of the pilots inadvertently knocked a control wheel, bringing the aircraft into a gradual descent, which went unnoticed. The air traffic controller discovered that the aircraft had descended to 900\u2009ft and asked if there was any trouble, but did not mention the altitude loss directly. The crew confirmed that everything was alright. Only seconds before the crash, the first officer realised that they were descending into the swampland, but the crash could no longer be prevented at the stage. Select the statement which is NOT true with regard to the above-mentioned accident...</p>",
+  "options": {
+    "a": "According to the SHELL model, a mismatch between liveware and hardware has contributed to the accident.",
+    "b": "One of the major errors in the chain of events was due to environmental capture.",
+    "c": "The chain of errors could have been broken by explicit communication.",
+    "d": "The accident could have been prevented by good CRM practice."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

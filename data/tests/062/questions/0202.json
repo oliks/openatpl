@@ -1,0 +1,14 @@
+{
+  "number": 202,
+  "questionId": "062-0202",
+  "questionNumber": "062-0202",
+  "stemHtml": "<p>At night, the ionosphere undergoes changes in ionisation density, leading to fluctuations in the strength of received signals in the LF/MF frequency band. This phenomenon is commonly referred to as...</p>",
+  "options": {
+    "a": "<p>fading, caused by the received ground wave and sky wave going out of phase.</p>",
+    "b": "<p>absorption mostly affects the ground wave and is dependent on the transmission power.</p>",
+    "c": "<p>super-refraction, which increases the range of the sky wave.</p>",
+    "d": "<p>attenuation and its impact are greatest on sky waves with high transmitted frequencies.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

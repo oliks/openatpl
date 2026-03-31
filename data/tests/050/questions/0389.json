@@ -1,0 +1,14 @@
+{
+  "number": 389,
+  "questionId": "050-0389",
+  "questionNumber": "050-0389",
+  "stemHtml": "<p>TC ADVISORY <br /> DTG: 20130712/1900Z <br /> TCAC: MIAMI <br /> TC: DORIAN <br /> TC ADVISORY NR: 2013/4 <br /> OBS PSN: 12/1800Z N2706 W07306 <br /> MOV: NW 18KT <br /> INTST CHANGE: INTSF <br /> C: 962 HPA <br /> MAX WIND: 030KT</p><p>According to the tropical cyclone advisory above, which of the following statements are correct?</p><p>1. Pressure 962 hpa <br /> 2. Cyclone will increase in strength <br /> 3. Max wind surface 30 MPS <br /> 4. Max Wind at 24 h 27 MPS <br /> 5. New Message will be at 2000z <br /> 6. Occurs 15 March</p>",
+  "options": {
+    "a": "1 and 2.",
+    "b": "1, 3 and 4.",
+    "c": "1 and 3.",
+    "d": "1, 3, 5 and 6."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

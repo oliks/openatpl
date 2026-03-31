@@ -1,0 +1,14 @@
+{
+  "number": 630,
+  "questionId": "062-0630",
+  "questionNumber": "062-0630",
+  "stemHtml": "<p>After tuning the correct ILS frequency, and receiving the correct ident, the pilot notice that the Localiser (LOC) and Glide Path (GP) indicators are both showing warning flags. The pilot confirms that the aircraft is within the prescribed coverage area of the ILS. What is the most probable reason for the warning flags showing?</p>",
+  "options": {
+    "a": "An incorrect course is selected on the OBI or HSI.",
+    "b": "More than full scale deflections are indicated.",
+    "c": "<p>The aircraft receives zero modulation from either frequency.</p>",
+    "d": "Another aircraft ahead, on the same ILS approach, is disturbing the transmission."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

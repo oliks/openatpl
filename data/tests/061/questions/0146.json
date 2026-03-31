@@ -1,0 +1,14 @@
+{
+  "number": 146,
+  "questionId": "061-0146",
+  "questionNumber": "061-0146",
+  "stemHtml": "<p>Given the following information, calculate the True Track (TT) and TAS.</p>\n\n<p>True Heading: 340\u00b0  <br />  \nGroundspeed: 128 kt  <br />  \nW/V: 308\u00b0(T) / 32 kt</p>",
+  "options": {
+    "a": "TT= 334\u00b0, TAS = 157 kt",
+    "b": "TT= 348\u00b0, TAS = 154 kt",
+    "c": "TT= 350\u00b0, TAS = 102 kt",
+    "d": "TT= 340\u00b0, TAS = 120 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

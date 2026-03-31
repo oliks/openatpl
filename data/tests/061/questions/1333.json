@@ -1,0 +1,19 @@
+{
+  "number": 1333,
+  "questionId": "061-1333",
+  "questionNumber": "061-1333",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>(For this question use VFR chart ED-4 from the Jeppesen GSPRM 2017).\u00a0<br>An aircraft is flying a VFR flight from STRUNKOVICE airport (LKSR, N49\u00b005.0' E14\u00b004.5') to REGENSBURG OBERHUB airport (EDNR, N49\u00b0 08.5' E012\u00b0 04.9') via VILSHOFEN airport (EDMV, N48\u00b038.1\u2032, E13\u00b011.7\u2032) and the mast of 1848 ft next to MALLERSDORF. Due to inattention of the pilot, he/she drifted to the right and confused ELSENTHAL-GRAFENAU airport (EDNF, N48\u00ba49.4',E013\u00ba22.0') for VILSHOFEN airport turning earlier right on the correct heading. When the pilot saw the mast with an elevation of 3754 ft, he/she started to doubt his/her position. What is the best action to take?</p>",
+  "options": {
+    "a": "Make a 180\u00ba turn to fly back to Strunkovice airport and restart the flight.",
+    "b": "Circle around a distinct feature and consult the chart to establish your position.",
+    "c": "<p>Tune the VOR/DME RODING frequency to determine the position.</p>",
+    "d": "<p>Continue forward on the same heading to reach your next checkpoint.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0059",
+      "publicUrl": "/attachments/061/061-att-0059.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 858,
+  "questionId": "062-0858",
+  "questionNumber": "062-0858",
+  "stemHtml": "<p>Determine the true bearing from the NDB to the aircraft, given:</p><p>Compass Heading: 241\u00b0 <br /> ADF Indication (needle head): 162\u00b0 <br /> Deviation: +3\u00b0 <br /> Variation: 13\u00b0E</p>",
+  "options": {
+    "a": "<p>233\u00ba(T)</p>",
+    "b": "213\u00b0(T)",
+    "c": "223\u00ba(T)",
+    "d": "239\u00b0(T)"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

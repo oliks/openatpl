@@ -1,0 +1,14 @@
+{
+  "number": 795,
+  "questionId": "062-0795",
+  "questionNumber": "062-0795",
+  "stemHtml": "<p>Given:</p>\n\n<p>Aircraft position 52\u00b009'S 024\u00b0E, magnetic variation 14\u00b0W, FL 310.  <br />  \nBIT VOR/DME position 54\u00b042'S 024\u00b0E, magnetic variation 14\u00b0E.</p>\n\n<p>In order to read the most accurate ground speed given by the DME receiver from his present position, the pilot must follow which BIT radial?</p>",
+  "options": {
+    "a": "166\u00b0",
+    "b": "014\u00b0",
+    "c": "194\u00b0",
+    "d": "346\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

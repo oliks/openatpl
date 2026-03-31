@@ -1,0 +1,14 @@
+{
+  "number": 934,
+  "questionId": "050-0934",
+  "questionNumber": "050-0934",
+  "stemHtml": "<p>Flight from Bordeaux to Amsterdam, ETA 2100 UTC. At ETA Amsterdam what surface wind is forecast?</p>\n\n<p>TAF EHAM 281500Z 2816/2901 14010KT 6000 -RA SCT025 BECMG 2816/2818 12015G25KT SCT008 BKN013 TEMPO 2818/2823 3000 RA BKN005 OVC010 BECMG 2823/2901 25020KT 8000 NSW BKN020 =</p>",
+  "options": {
+    "a": "250\u00b0 / 20 kts.",
+    "b": "120\u00b0 / 15 kts gusts 25 kts.",
+    "c": "300\u00b0 / 15 kts maximum wind 25 kts.",
+    "d": "140\u00b0 / 10 kts."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

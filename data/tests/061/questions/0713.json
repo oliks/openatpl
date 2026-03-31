@@ -1,0 +1,14 @@
+{
+  "number": 713,
+  "questionId": "061-0713",
+  "questionNumber": "061-0713",
+  "stemHtml": "<p>An aerodrome is located at Mean Sea Level and its traffic pattern altitude is at 2 000 ft. Given the following information, to reach downwind at the traffic pattern altitude, a 3&deg; path descent must be initiated at (1)_____ prior to downwind, and it will last for (2)_____.</p>\r\n\r\n<p>Cruise altitude: 5 500 ft<br />\r\nAverage rate of descent for a 3&deg; path: 750 ft/min</p>\r\n",
+  "options": {
+    "a": "<p>(1) 15 NM ; (2) 5 minutes 30 seconds</p>\r\n",
+    "b": "<p>(1) 12 NM ; (2) 3 minutes 30 seconds</p>",
+    "c": "<p>(1) 12 NM ; (2) 4 minutes 40 seconds</p>",
+    "d": "<p>(1) 10 NM ; (2) 3 minutes 30 seconds</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

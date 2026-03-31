@@ -1,0 +1,14 @@
+{
+  "number": 322,
+  "questionId": "062-0322",
+  "questionNumber": "062-0322",
+  "stemHtml": "<p>An aircraft is fitted with a MMR with a single control panel for use with ILS, MLS and GNSS approaches. What is the main advantage of this over individual systems for each approach type?</p>",
+  "options": {
+    "a": "<p>It allows the aircraft to use signals from ILS, GLS, MLS and GNSS simultaneously.</p>",
+    "b": "<p>It integrates multiple functions, saving space in the cockpit.</p>",
+    "c": "<p>A single receiver can process the signals from GPS, Galileo etc.</p>",
+    "d": "<p>A single module can process signals from different landing systems.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

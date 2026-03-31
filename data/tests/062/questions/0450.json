@@ -1,0 +1,14 @@
+{
+  "number": 450,
+  "questionId": "062-0450",
+  "questionNumber": "062-0450",
+  "stemHtml": "<div>Operation in RNAV 10 airspace requires as a minimum a certain number of independent and serviceable Long Range Navigation Systems (LRNSs).The minimum equipment required consists of at least..</div>",
+  "options": {
+    "a": "<div>one LRNS using input from VOR/DME or DME/DME RNAV equipment.</div>",
+    "b": "<div>two LRNSs comprising an INS, an IRS FMS or a GNSS.</div>",
+    "c": "<div>one LRNS comprising an INS, an IRS FMS or a GNSS.</div>",
+    "d": "two LRNSs using input from VOR/DME or DME/DME RNAV equipment."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

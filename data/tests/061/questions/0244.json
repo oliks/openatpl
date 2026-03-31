@@ -1,0 +1,14 @@
+{
+  "number": 244,
+  "questionId": "061-0244",
+  "questionNumber": "061-0244",
+  "stemHtml": "<p>A pilot reduces their CAS from 130 kt to 105 kt. Determine the reduction in TAS, given:</p><p>Altitude: 7000 ft <br>QNH: 1013 hPa <br>OAT: -8\u00b0C</p>",
+  "options": {
+    "a": "26 kt",
+    "b": "27 kt",
+    "c": "29 kt",
+    "d": "31 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

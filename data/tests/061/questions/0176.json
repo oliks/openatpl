@@ -1,0 +1,14 @@
+{
+  "number": 176,
+  "questionId": "061-0176",
+  "questionNumber": "061-0176",
+  "stemHtml": "<p style=\"\">Given the following information, calculate the true wind direction and speed.</p><p style=\"\">True Track: 096\u00b0 <br /> Groundspeed: 238 kt <br /> True Heading: 087\u00b0 <br /> TAS: 254 kt</p>",
+  "options": {
+    "a": "212\u00b0(T)/46 kt",
+    "b": "024\u00b0(T)/42 kt",
+    "c": "339\u00b0(T)/35 kt",
+    "d": "159\u00b0(T)/40 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1181,
+  "questionId": "062-1181",
+  "questionNumber": "062-1181",
+  "stemHtml": "<p>Which of these options correctly describes the basic principles of operation of an MLS?</p>",
+  "options": {
+    "a": "<p>The time interval between the TO and FROM scans in Azimuth and elevation determines the aircraft position within the coverage area.</p>",
+    "b": "<p>Guidance is given using the localiser and the glide path selected by the pilot, the guidance is based on the received and measured difference in depth of modulation (DDM).</p>",
+    "c": "<p>Guidance is provided based on the pilots\u2019 selection of the transmitters providing the pilot with the required localiser and glide path.</p>",
+    "d": "<p>The distance between the TO and FROM scans in azimuth and elevation determines the aircraft position, within the coverage area.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

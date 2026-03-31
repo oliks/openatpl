@@ -1,0 +1,14 @@
+{
+  "number": 1153,
+  "questionId": "061-1153",
+  "questionNumber": "061-1153",
+  "stemHtml": "<p>Calculate the average TAS to be used when calculating a climb from a pressure altitude of 2 000 ft to FL200, given the following information.</p><p>CAS = 150 kt <br /> OAT = ISA -15\u00baC</p>",
+  "options": {
+    "a": "191 kt",
+    "b": "181 kt",
+    "c": "200 kt",
+    "d": "167 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

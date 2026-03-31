@@ -1,0 +1,14 @@
+{
+  "number": 1487,
+  "questionId": "050-1487",
+  "questionNumber": "050-1487",
+  "stemHtml": "Approaching a given aerodrome, the ATC gives you the ATIS information \u201cM\u201d that also includes the cloud base, the wind gusts, the QNH, and some drone activity. What must be read back?",
+  "options": {
+    "a": "Information \u201cMike\u201d only, as all the information is already contained in the broadcast.",
+    "b": "Only the drone activity.",
+    "c": "Only the QNH.",
+    "d": "Information \u201cMike\u201d, the QNH, and acknowledge the drone activity."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

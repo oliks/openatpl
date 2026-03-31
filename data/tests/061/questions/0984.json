@@ -1,0 +1,19 @@
+{
+  "number": 984,
+  "questionId": "061-0984",
+  "questionNumber": "061-0984",
+  "stemHtml": "<p>Refer to figure. <br /> (For this question use Chart \"E(LO) 2\" from the Jeppesen GSPRM 2017).Given:</p><p>CLYDE waypoint: N55\u00b058', W004\u00b048' <br /> INPIP waypoint: N54\u00b053', W002\u00b054'</p><p>Calculate the true track from CLYDE to INPIP and the distance from CLYDE until reaching the latitude of N55\u00b0.</p>",
+  "options": {
+    "a": "315\u00b0, 92 NM",
+    "b": "135\u00b0, 92 NM",
+    "c": "315\u00b0, 81 NM",
+    "d": "135\u00b0, 81 NM"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0192",
+      "publicUrl": "/attachments/061/061-att-0192.jpg"
+    }
+  ]
+}

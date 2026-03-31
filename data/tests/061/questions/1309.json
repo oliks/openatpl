@@ -1,0 +1,14 @@
+{
+  "number": 1309,
+  "questionId": "061-1309",
+  "questionNumber": "061-1309",
+  "stemHtml": "<p>You have to determine the wind for a flight from VOR 1 to VOR 2 at FL55 with an OAT of +10\u00b0C. You passed VOR 1 at 12:10 UTC and arrived overhead VOR 2 at 12:18 UTC. Your magnetic heading is 005\u00b0 and the calibrated airspeed is 145 kt. The distance between both VORs is 25 NM and the magnetic track from VOR 1 to VOR 2 is 355\u00b0. Calculate the wind direction (M) and speed:</p>",
+  "options": {
+    "a": "217\u00b0/41 kt",
+    "b": "139\u00b0/45 kt",
+    "c": "146\u00b0/52 kt",
+    "d": "133\u00b0/41 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

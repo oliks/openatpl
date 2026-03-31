@@ -1,0 +1,14 @@
+{
+  "number": 1048,
+  "questionId": "062-1048",
+  "questionNumber": "062-1048",
+  "stemHtml": "Some of the inherent errors in NAVSTAR/GPS signals can be corrected by using a Ground Based Augmentation System (GBAS). The GBAS station\u2026",
+  "options": {
+    "a": "checks the position calculated by the received signals against its own position, then sends error signals back to the satellites, which correct the errors.",
+    "b": "transmits error information to each satellite where there is a conflict as regards position.",
+    "c": "is located in an accurately surveyed position and analyses the received signals to provide an error correction.",
+    "d": "will only calculate errors in the signals that are being viewed by the users receiver."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1156,
+  "questionId": "062-1156",
+  "questionNumber": "062-1156",
+  "stemHtml": "<p>If a published back-beam ILS approach is to be flown, what must be considered? There will be no published glideslope available and reverse sensing will occur on the Omni Bearing Indicator (OBI)..</p>",
+  "options": {
+    "a": "<p>unless the back course is set and on the HSI unless the front course is set.</p>",
+    "b": "<p>irrelevant of the course set and reversing sensing is eliminated if the front course is set on an HSI.</p>",
+    "c": "<p>irrelevant of the course set and on the HSI unless the back course is set.</p>",
+    "d": "<p>unless the front course is set and HSI unless the back course is set.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

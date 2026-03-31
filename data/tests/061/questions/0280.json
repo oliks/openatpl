@@ -1,0 +1,19 @@
+{
+  "number": 280,
+  "questionId": "061-0280",
+  "questionNumber": "061-0280",
+  "stemHtml": "<p>Refer to figure or E(HI)1 chart from the Jeppesen GSPRM 2017. <br /> \rGiven the following in flight information from SVEDA (SVD) VOR/DME (N56\u00b010.1' E012\u00b034.4'), what is the aircraft\u2019s position?</p>\r\r<p>Aircraft on radial: 033\u00b0 <br /> \rDME reading: 36 NM</p>",
+  "options": {
+    "a": "<p>N56\u00b042\u2019 E013\u00b050\u2019</p>",
+    "b": "<p>N56\u00b027\u2019 E012\u00b056\u2019</p>",
+    "c": "<p>N57\u00b020\u2019 E012\u00b050\u2019</p>",
+    "d": "<p>N56\u00b040\u2019 E013\u00b013\u2019</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0032",
+      "publicUrl": "/attachments/061/061-att-0032.jpg"
+    }
+  ]
+}

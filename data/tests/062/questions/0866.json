@@ -1,0 +1,14 @@
+{
+  "number": 866,
+  "questionId": "062-0866",
+  "questionNumber": "062-0866",
+  "stemHtml": "<p dir=\"ltr\">What data may be shown on an ATC display system?</p><p dir=\"ltr\">1. Flight number (call sign) <br /> 2. Pressure altitude <br /> 3. Radio altitude <br /> 4. Autopilot modes <br /> 5. Groundspeed</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">1, 2 and 5 only</p>",
+    "b": "<p dir=\"ltr\">3, 4 and 5 only</p>",
+    "c": "<p dir=\"ltr\">1, 2, 3 and 4</p>",
+    "d": "1, 2, 3 and 5"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

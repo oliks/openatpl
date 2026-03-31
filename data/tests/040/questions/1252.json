@@ -1,0 +1,14 @@
+{
+  "number": 1252,
+  "questionId": "040-1252",
+  "questionNumber": "040-1252",
+  "stemHtml": "<div>Which parts of the inner ear\u2019s vestibular apparatus sense the different kinds of motion of the human body?</div>",
+  "options": {
+    "a": "<div>The semicircular canals detect angular acceleration, whereas the otolith organs detect linear acceleration and gravity. </div>",
+    "b": "<div>The semicircular canals sense motion around the roll, pitch and yaw axes, whereas the otolith organs detect angular acceleration and gravity. </div>",
+    "c": "<div>The otolith organs sense motion around the roll, pitch and yaw axes, whereas the semicircular canals detect linear acceleration and gravity. </div>",
+    "d": "The otolith organs detect angular acceleration, whereas the semicircular canals detect linear acceleration but not gravity.<br>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

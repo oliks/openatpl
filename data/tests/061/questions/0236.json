@@ -1,0 +1,14 @@
+{
+  "number": 236,
+  "questionId": "061-0236",
+  "questionNumber": "061-0236",
+  "stemHtml": "<p>You are on a VFR flight and the traffic circuit altitude of your destination has to be established 5 NM before reaching the aerodrome. Given:</p><p>Ground Speed: 130 kts <br /> Cruising altitude: 4 500 ft AMSL <br /> Traffic circuit altitude: 2 500 ft AMSL <br /> Rate of descent: 500 ft/min</p><p>Calculate the shortest distance from the destination where you must initiate the descent.</p>",
+  "options": {
+    "a": "20 NM",
+    "b": "14 NM",
+    "c": "25 NM",
+    "d": "9 NM"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

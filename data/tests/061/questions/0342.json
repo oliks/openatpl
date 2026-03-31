@@ -1,0 +1,14 @@
+{
+  "number": 342,
+  "questionId": "061-0342",
+  "questionNumber": "061-0342",
+  "stemHtml": "<p>Given the following information, what would be the average groundspeed used to plan a climb from MSL (QNH 1013 hPa) to FL270?</p>\r\r<p>CAS: 280 kt <br /> \rISA deviation: +5\u00baC <br /> \rTrue Track: 045\u00ba</p>\r\r<p>W/V <br /> \rMSL: 275\u00ba(T)/10 kt <br /> \r5000 ft: 280\u00ba(T)/20 kt <br /> \r10000 ft: 300\u00ba(T)/20 kt <br /> \r15000 ft: 310\u00ba(T)/45 kt <br /> \r20000 ft: 310\u00ba(T)/45 kt <br /> \r25000 ft: 330\u00ba(T)/55 kt <br /> \r30000 ft: 330\u00ba(T)/55 kt</p>",
+  "options": {
+    "a": "<p>352 kt</p>",
+    "b": "<p>384 kt</p>",
+    "c": "<p>282 kt</p>",
+    "d": "<p>373 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

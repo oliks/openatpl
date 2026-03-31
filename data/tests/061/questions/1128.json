@@ -1,0 +1,14 @@
+{
+  "number": 1128,
+  "questionId": "061-1128",
+  "questionNumber": "061-1128",
+  "stemHtml": "<p>Given the following information, what is the Rate of Descent (RoD) for the final approach segment of the destination airport?</p><p>GP angle: 5.5\u00b0 <br>TAS: 130 kt <br>TWC: 20 kt <br>Altitude: 2000 ft</p>",
+  "options": {
+    "a": "<p>1000 ft/min</p>",
+    "b": "<p>550 ft/min</p>",
+    "c": "<p>650 ft/min</p>",
+    "d": "<p>1400 ft/min</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

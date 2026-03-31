@@ -1,0 +1,14 @@
+{
+  "number": 2072,
+  "questionId": "050-2072",
+  "questionNumber": "050-2072",
+  "stemHtml": "How does ATIS broadcasts differ from VOLMET?",
+  "options": {
+    "a": "The wind directions are given in magnetic and they may contain aerodrome information in addition to weather information.",
+    "b": "They are broadcast centrally from National Meteorological Centres.",
+    "c": "They are based on Met Office forecasts for the next two hours.",
+    "d": "They are updated every 30 minutes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

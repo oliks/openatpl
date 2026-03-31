@@ -1,0 +1,14 @@
+{
+  "number": 528,
+  "questionId": "061-0528",
+  "questionNumber": "061-0528",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAS = 270 kt</span>  <br />  \nTrue HDG = 270\u00b0  <br />  \nActual wind 205\u00b0 (T) / 30kt</p>\n\n<p>Calculate the drift angle and GS?</p>",
+  "options": {
+    "a": "6L - 256kt",
+    "b": "6R - 259kt",
+    "c": "8R - 259kt",
+    "d": "6R - 251kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

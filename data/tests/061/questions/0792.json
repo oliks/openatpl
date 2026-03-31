@@ -1,0 +1,14 @@
+{
+  "number": 792,
+  "questionId": "061-0792",
+  "questionNumber": "061-0792",
+  "stemHtml": "<p>Given the following information, determine the TAS:</p>\r\r<p>Pressure Altitude: 8000 ft <br /> \rOAT: +10\u00b0C <br /> \rCAS: 180 kt <br /> \rCompressibility factor: 0.975</p>",
+  "options": {
+    "a": "<p>175 kt</p>",
+    "b": "<p>207 kt</p>",
+    "c": "<p>203 kt</p>",
+    "d": "<p>190 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

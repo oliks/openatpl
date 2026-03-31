@@ -1,0 +1,14 @@
+{
+  "number": 681,
+  "questionId": "061-0681",
+  "questionNumber": "061-0681",
+  "stemHtml": "<p>Given the following information, what is the wind velocity (\u00b0(T))?</p>\n\n<p>TAS: 465 kt <br /> \nGS: 480 kt <br /> \nTrack: 090 (M) <br /> \nVariation: 15\u00b0 E <br /> \nWind correction angle +13\u00b0</p>",
+  "options": {
+    "a": "210\u00b0/110kt",
+    "b": "197\u00b0/110\u00b0 kt",
+    "c": "360\u00b0/110 kt",
+    "d": "015\u00b0/ 110kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

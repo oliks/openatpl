@@ -1,0 +1,14 @@
+{
+  "number": 23,
+  "questionId": "040-0023",
+  "questionNumber": "040-0023",
+  "stemHtml": "<p>According to the Threat and Error Management (TEM) model, What is the correct definition of \"undesired aircraft state\"?</p>",
+  "options": {
+    "a": "<p>It is an event or error that occurs beyond the influence of the flight crew, increases operational complexity and must be managed to maintain an acceptable margin of safety.</p>",
+    "b": "<p>Actions or inactions by the flight crew that lead to deviations from organisational or flight crew intentions or expectations.</p>",
+    "c": "<p>It is an undesired flight situation associated with a reduction in margins of safety.</p>",
+    "d": "Accidents that are the result of undesired actions or inactions by the flight crew."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

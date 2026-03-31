@@ -1,0 +1,14 @@
+{
+  "number": 2625,
+  "questionId": "050-2625",
+  "questionNumber": "050-2625",
+  "stemHtml": "<p>An aircraft plans to route over the Annapurna I at FL300, which is considered the most economical cruising level.\u00a0<br>Determine the approximate minimum terrain clearance at FL300 given the following data:\u00a0</p><p>Highest terrain elevation along the planned route: 26 545 ft\u00a0<br>Outside air temperature at FL300: -62\u00b0C\u00a0<br>QNH at a nearby airfield close to sea level: 982 hPa</p>",
+  "options": {
+    "a": "<p>548 ft</p>",
+    "b": "<p>500 ft</p>",
+    "c": "<p>480 ft</p>",
+    "d": "<p>930 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

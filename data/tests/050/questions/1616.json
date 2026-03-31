@@ -1,0 +1,14 @@
+{
+  "number": 1616,
+  "questionId": "050-1616",
+  "questionNumber": "050-1616",
+  "stemHtml": "<p>A crew is to fly across the Himalayas, and the most efficient level to fly at is FL290. What is the approximate minimum terrain clearance at FL290 given the following meteorological information?</p><p>Elevation of highest terrain close to intended routing: 25 460 ft\u00a0<br>Outside air temperature at FL290: -60\u00b0C\u00a0<br>QNH reported by nearby station close to sea level: 982 hPa</p>",
+  "options": {
+    "a": "2700 ft",
+    "b": "<p>590 ft</p>",
+    "c": "2230 ft",
+    "d": "1450 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

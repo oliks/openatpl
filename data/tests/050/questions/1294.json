@@ -1,0 +1,14 @@
+{
+  "number": 1294,
+  "questionId": "050-1294",
+  "questionNumber": "050-1294",
+  "stemHtml": "How can pilot reports of significant weather subsequently be used by the receiving meteorological office and their systems?",
+  "options": {
+    "a": "The reports can be directly used in weather prediction systems and processed into PIREPs.",
+    "b": "The relevant Meteorological Watch Office will process the report and issue a SPECI.",
+    "c": "The meteorological office will rebroadcast these reports because they are incompatible with digital weather processing systems.",
+    "d": "The reports can be processed into weather models to improve subsequent forecasts."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

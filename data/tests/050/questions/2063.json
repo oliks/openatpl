@@ -1,0 +1,19 @@
+{
+  "number": 2063,
+  "questionId": "050-2063",
+  "questionNumber": "050-2063",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe top image shows your cockpit view while cruising. The bottom right image captures the same type of clouds from a different angle, while the bottom left image displays a terrain radar (Airbus ND). Based on this information, what phenomenon can you anticipate?</p>",
+  "options": {
+    "a": "<p>Mountain waves.</p>",
+    "b": "<p>Cumulonimbus development.</p>",
+    "c": "<p>Severe turbulence associated with CBs.</p>",
+    "d": "<p>Frontal precipitation and low visibility.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0218",
+      "publicUrl": "/attachments/050/050-att-0218.jpg"
+    }
+  ]
+}

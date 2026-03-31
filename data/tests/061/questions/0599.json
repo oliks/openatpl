@@ -1,0 +1,14 @@
+{
+  "number": 599,
+  "questionId": "061-0599",
+  "questionNumber": "061-0599",
+  "stemHtml": "<p>Given the following information, calculate the drift and Wind Correction Angle WCA: Aircraft True Airspeed</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAS: 100 kt</span> <br /> \nCourse: 180\u00b0T <br /> \nWind Velocity W/V T: 100/30</p>",
+  "options": {
+    "a": "14\u00b0 left drift, +14\u00b0 WCA",
+    "b": "14\u00b0 right drift, -14\u00b0 WCA",
+    "c": "17\u00b0 left drift, +17\u00b0 WCA",
+    "d": "17\u00b0 right drift, -17\u00b0 WCA"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

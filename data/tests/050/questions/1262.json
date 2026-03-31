@@ -1,0 +1,19 @@
+{
+  "number": 1262,
+  "questionId": "050-1262",
+  "questionNumber": "050-1262",
+  "stemHtml": "<p>Refer to figure.<br />\r\nYou are flying from Brussels (B) (50&deg; 55&#39;N, 004&deg; 30&#39;E) to Deauville (D) (49&deg; 00&#39;N, 000&deg; 00&#39;E) at FL060. The route follows the red line from &quot;B&quot; to &quot;D&quot; on the chart. What type of clouds and dangers would you expect during the descent towards Deauville?</p>\r\n",
+  "options": {
+    "a": "<p>Most cloudy with a risk of moderate turbulence and moderate icing above 4 000 ft.</p>",
+    "b": "<p>Isolated cumulonimbus clouds with severe turbulence within these clouds.</p>",
+    "c": "<p>No foggy conditions at destination.</p>",
+    "d": "<p> Moderate and severe turbulence during the approach can be expected.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0139",
+      "publicUrl": "/attachments/050/050-att-0139.jpg"
+    }
+  ]
+}

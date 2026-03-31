@@ -1,0 +1,14 @@
+{
+  "number": 19,
+  "questionId": "062-0019",
+  "questionNumber": "062-0019",
+  "stemHtml": "<p>You are flying a DME arc as part of a procedure, when you begin a descent/climb. What will happen to the DME groundspeed indication?</p>",
+  "options": {
+    "a": "<p>It will increase, because the range decreases.</p>",
+    "b": "<p>It will decrease, because the range decreases.</p>",
+    "c": "<p>It will not change because the slant range is the same.</p>",
+    "d": "<p>It will increase, because the range increases.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

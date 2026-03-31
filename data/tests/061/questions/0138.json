@@ -1,0 +1,14 @@
+{
+  "number": 138,
+  "questionId": "061-0138",
+  "questionNumber": "061-0138",
+  "stemHtml": "<p>You are flying with a true heading (TH) of 79 degrees. Given that the magnetic variation is 7 degrees East and the magnetic deviation is 3 degrees West, what are the magnetic heading (MH) and compass heading (CH)?</p>",
+  "options": {
+    "a": "<p>MH 86 degrees, CH 89 degrees</p>",
+    "b": "<p>MH 72 degrees, CH 75 degrees</p>",
+    "c": "<p>MH 86 degrees, CH 83 degrees</p>",
+    "d": "<p>MH 82 degrees, CH 85 degrees</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

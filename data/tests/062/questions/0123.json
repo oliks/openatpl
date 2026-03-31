@@ -1,0 +1,14 @@
+{
+  "number": 123,
+  "questionId": "062-0123",
+  "questionNumber": "062-0123",
+  "stemHtml": "<p>An aircraft is radar vectored onto Dublin Airport CAT I ILS approach using a HSI. The final approach track is 164\u00b0 and the magnetic variation is 4\u00b0W. The pilot is expecting approximately 6\u00b0 right drift on final approach, what should they set the course selector to on the HSI?</p>",
+  "options": {
+    "a": "158\u00b0",
+    "b": "160\u00b0",
+    "c": "164\u00b0",
+    "d": "168\u00b0"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

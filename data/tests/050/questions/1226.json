@@ -1,0 +1,19 @@
+{
+  "number": 1226,
+  "questionId": "050-1226",
+  "questionNumber": "050-1226",
+  "stemHtml": "<p>Refer to figure. <br /> \rYou are in the process of planning a flight from Brussels (B) (50\u00b0 55'N, 004\u00b0 30'E) to Deauville (D) (49\u00b0 00'N, 000\u00b0 00'E) on 12th March 2017, departing at 20:00 UTC and with a flight time of approximately 3 hours. The route will follow the red line from \"B\" to \"D\" on the chart, and the minimum altitude that can be flown is 3200 feet.</p>\r\r<p>Which altitude would allow the flight to remain clear of forecast moderate or severe icing conditions along the whole route?</p>",
+  "options": {
+    "a": "<p>3 500 ft.</p>",
+    "b": "<p>5 500 ft.</p>",
+    "c": "<p>7 500 ft.</p>",
+    "d": "<p>Icing conditions cannot be avoided on this route.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0289",
+      "publicUrl": "/attachments/050/050-att-0289.jpg"
+    }
+  ]
+}

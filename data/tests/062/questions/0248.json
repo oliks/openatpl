@@ -1,0 +1,14 @@
+{
+  "number": 248,
+  "questionId": "062-0248",
+  "questionNumber": "062-0248",
+  "stemHtml": "Which statement about the satellites (that transmit the corrections to the users) of a Satellite Based Augmentation System (SBAS) is correct?",
+  "options": {
+    "a": "These satellites form a part of the constellation of the navigation satellites i.e. they have the same inclination and altitude as these satellites and can be used as navigation satellites to which pseudo-ranges can be measured.",
+    "b": "These satellites are geostationary and determine the corrections independently from a ground station network.",
+    "c": "These satellites form a part of the constellation of the navigation satellites i.e. they have the same inclination and altitude but cannot be used as navigation satellites as they transmit the correction in a different frequency band.",
+    "d": "These geostationary satellites can also be used as navigation satellites to which pseudo-ranges can be measured."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

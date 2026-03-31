@@ -1,0 +1,14 @@
+{
+  "number": 2486,
+  "questionId": "050-2486",
+  "questionNumber": "050-2486",
+  "stemHtml": "<p>What types of atmospheric features are identifiable through infrared satellite imagery, and which part of the infrared spectrum is predominantly employed for this purpose?</p>",
+  "options": {
+    "a": "<p>Detects cloud composition only; short-wave IR only</p>",
+    "b": "<p>Detects clouds and turbulence; short-wave IR only</p>",
+    "c": "<p>Detects clouds, storm systems, and frontal structures; long-wave IR</p>",
+    "d": "<p>Detects jet streams directly; short- and long-wave IR</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

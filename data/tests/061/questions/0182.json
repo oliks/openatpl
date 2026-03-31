@@ -1,0 +1,14 @@
+{
+  "number": 182,
+  "questionId": "061-0182",
+  "questionNumber": "061-0182",
+  "stemHtml": "<p>An aircraft is descending at a constant Mach number. Given the following true airspeed (TAS) and calibrated airspeed (CAS) values:</p><p>At FL 350: TAS = 350 knots, CAS = 250 knots <br>At FL 150: TAS = 450 knots, CAS = 300 knots</p><p>What happens to TAS and CAS when descending at a constant Mach Number?</p>",
+  "options": {
+    "a": "<p>TAS increases, CAS decreases</p>",
+    "b": "<p>TAS decreases, CAS increases</p>",
+    "c": "<p>Both TAS and CAS increase</p>",
+    "d": "<p>Both TAS and CAS decrease</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

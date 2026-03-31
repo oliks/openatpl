@@ -1,0 +1,14 @@
+{
+  "number": 249,
+  "questionId": "062-0249",
+  "questionNumber": "062-0249",
+  "stemHtml": "When an NDB fails which kind of warning is visible in the cockpit?",
+  "options": {
+    "a": "No warning.",
+    "b": "On a moving card ADF: a red button.",
+    "c": "On a Radio Magnetic indicator: a flag alarm.",
+    "d": "On a digital navigation display: the acronym \u2018NDB\u2019 in red."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

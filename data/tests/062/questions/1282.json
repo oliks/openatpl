@@ -1,0 +1,14 @@
+{
+  "number": 1282,
+  "questionId": "062-1282",
+  "questionNumber": "062-1282",
+  "stemHtml": "What is the reason that DME utilises pulse pairs instead of single pulses?",
+  "options": {
+    "a": "To increase the number of aircraft that can simultaneously use the DME station to determine the DME range.",
+    "b": "To increase the accuracy and reliability of the range measurement.",
+    "c": "To be able to use a separate interrogation and reply frequency, and thus to increase the number of DME stations that can transmit in the same part of the DME frequency band.",
+    "d": "To distinguish DME transmissions from transmissions of other (radar) systems utilising single pulses."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

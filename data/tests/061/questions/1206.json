@@ -1,0 +1,19 @@
+{
+  "number": 1206,
+  "questionId": "061-1206",
+  "questionNumber": "061-1206",
+  "stemHtml": "<p>Refer to E(LO)2 Chart from Jeppesen GSPRM 2017. Given the following bearing and range information obtained from HONILEY (HON) VOR/DME (52\u00b021\u2019N, 001\u00b040\u2019W). What is the aircraft\u2019s position?</p><p>Radial: 334\u00b0 <br /> Range: 44 NM <br /> Slant range corrections should be ignored.</p>",
+  "options": {
+    "a": "52\u00b045\u2019N, 002\u00b000\u2019W",
+    "b": "53\u00b002\u2019N, 002\u00b005\u2019W",
+    "c": "53\u00b000\u2019N, 002\u00b013\u2019W",
+    "d": "52\u00b046\u2019N, 001\u00b054\u2019W"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0178",
+      "publicUrl": "/attachments/061/061-att-0178.jpg"
+    }
+  ]
+}

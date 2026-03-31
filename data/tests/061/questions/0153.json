@@ -1,0 +1,19 @@
+{
+  "number": 153,
+  "questionId": "061-0153",
+  "questionNumber": "061-0153",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe Charter flight log is filled out correctly by the pilot of a light twin-engined aeroplane. Calculate the average Groundspeed from TOC to TORDU and the ETA at RODRA.</p>",
+  "options": {
+    "a": "<p>183 kt; 07:17</p>",
+    "b": "<p>171 kt; 07:05</p>",
+    "c": "<p>183 kt; 07:08</p>",
+    "d": "<p>171 kt; 07:08</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0091",
+      "publicUrl": "/attachments/061/061-att-0091.png"
+    }
+  ]
+}

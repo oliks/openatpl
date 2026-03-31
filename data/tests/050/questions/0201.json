@@ -1,0 +1,14 @@
+{
+  "number": 201,
+  "questionId": "050-0201",
+  "questionNumber": "050-0201",
+  "stemHtml": "<p>The approach altitude is 6000 ft and the approach chart stipulates that the altitude must be temperature corrected below 0 celsius. The surface temperature is -5 degrees celsius. To ensure that the aircraft is 6000 above MSL (true altitude), what indication should be read on the altimeter (with the QNH correctly set)?</p>",
+  "options": {
+    "a": "<p>5520 ft</p>",
+    "b": "<p>6000 ft</p>",
+    "c": "<p>6240 ft</p>",
+    "d": "<p>6480 ft</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

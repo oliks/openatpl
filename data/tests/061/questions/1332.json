@@ -1,0 +1,14 @@
+{
+  "number": 1332,
+  "questionId": "061-1332",
+  "questionNumber": "061-1332",
+  "stemHtml": "<p>Given the following information, what is the distance required for the descent?</p>\r\r<p>From FL100 to FL60 <br /> \rTrue Track during descent: 160\u00b0(T) <br /> \rW/V: 100\u00b0(T)/30 kt <br /> \rDecent angle: 5 degrees <br /> \rROD: 1400 ft/min</p>",
+  "options": {
+    "a": "<p>7.1 NM</p>",
+    "b": "<p>7.9 NM</p>",
+    "c": "<p>12.1 NM</p>",
+    "d": "<p>11.8 NM</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

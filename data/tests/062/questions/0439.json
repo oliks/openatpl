@@ -1,0 +1,14 @@
+{
+  "number": 439,
+  "questionId": "062-0439",
+  "questionNumber": "062-0439",
+  "stemHtml": "<p>Refer to figure.<br>A pilot suspects that the aircraft's two FMSs are giving inaccurate information and decides to cross-check the FMS position using the aircraft's radio navigation aids. Magnetic variation is 4\u00b0W at the aircraft position. At both the VOR and NDB stations magnetic variation is 14\u00b0E. From the indications in the attached figure, what are the correct QDR values of the ADF and the VOR, in that order?</p>",
+  "options": {
+    "a": "<p>163\u00b0, 244\u00b0</p>",
+    "b": "<p>159\u00b0, 258\u00b0</p>",
+    "c": "<p>155\u00b0, 272\u00b0</p>",
+    "d": "<p>258\u00b0, 159\u00b0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2611,
+  "questionId": "050-2611",
+  "questionNumber": "050-2611",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe wind direction for the above airport is given as 270\u00b0/15 kt on the VOLMET. What will the wind be on short final approach to Runway 33?</p>",
+  "options": {
+    "a": "<p>30\u00b0 from the left</p>",
+    "b": "<p>30\u00b0 from the right</p>",
+    "c": "<p>60\u00b0 from the right</p>",
+    "d": "<p>Full headwind</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0257",
+      "publicUrl": "/attachments/050/050-att-0257.png"
+    }
+  ]
+}
