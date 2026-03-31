@@ -1,0 +1,14 @@
+{
+  "number": 1306,
+  "questionId": "061-1306",
+  "questionNumber": "061-1306",
+  "stemHtml": "<p>According to ICAO annex 4, contours should be depicted in (1) _____, shorelines should be (2) _____ and large built up areas, like cities and towns, (3) _____. The empty sections is for you to choose from a drop down, options for each box were:</p><p>Brown\u00a0<br>Black\u00a0<br>Blue<br>Yellow\u00a0<br>Magenta</p>",
+  "options": {
+    "a": "<p>(1) brown; (2) blue; (3) magenta.</p>",
+    "b": "<p>(1) brown; (2) blue; (3) yellow.</p>",
+    "c": "<p>(1) black; (2) brown; (3) yellow.</p>",
+    "d": "<p>(1) yellow; (2) black; (3) magenta.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1719,
+  "questionId": "050-1719",
+  "questionNumber": "050-1719",
+  "stemHtml": "<p>You are approaching an airport located in strong wind conditions. The visual approach procedure requires you to fly into this wind through a valley on the final approach at 1500 ft.</p>\r\n\r\n<p>When flying through the valley, the wind speed will (1) _____ due to convergence and the true altitude will be (2) _____ than the indicated altitude.</p>",
+  "options": {
+    "a": "<p>(1) increase; (2) less.</p>",
+    "b": "(1) increase; (2) greater.",
+    "c": "(1) decrease; (2) greater.",
+    "d": "(1) decrease; (2) less."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

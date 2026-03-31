@@ -1,0 +1,14 @@
+{
+  "number": 345,
+  "questionId": "061-0345",
+  "questionNumber": "061-0345",
+  "stemHtml": "<p>Given:</p>\n\n<p>Position A: 25\u00b015\u00b4N, 010\u00b025\u00b4W  <br />  \nPosition B: 25\u00b015\u00b4N, 005\u00b020\u00b4E</p>\n\n<p>What is the Earth convergency between both positions?</p>",
+  "options": {
+    "a": "6.72\u00b0",
+    "b": "7.12\u00b0",
+    "c": "3.36\u00b0",
+    "d": "14.25\u00b0"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

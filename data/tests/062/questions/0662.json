@@ -1,0 +1,14 @@
+{
+  "number": 662,
+  "questionId": "062-0662",
+  "questionNumber": "062-0662",
+  "stemHtml": "<p dir=\"ltr\">The Performance Based Navigation (PBN) concept expresses performance requirements using specific terms. What is the term that defines the trust that can be placed in the correctness of the information supplied by the total system, and which includes the ability of a system to provide timely and valid alerts to the user?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Availability.</p>",
+    "b": "<p dir=\"ltr\">Continuity.</p>",
+    "c": "<p dir=\"ltr\">Accuracy.</p>",
+    "d": "Integrity."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

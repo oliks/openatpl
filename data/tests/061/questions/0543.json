@@ -1,0 +1,14 @@
+{
+  "number": 543,
+  "questionId": "061-0543",
+  "questionNumber": "061-0543",
+  "stemHtml": "<p>Given the following criteria, what are the magnetic heading M and the compass heading C?</p><p>True heading: 079\u00b0 T <br /> Variation: 7\u00b0 W <br /> Deviation: 3\u00b0 E</p>",
+  "options": {
+    "a": "086\u00b0 M and 089\u00b0 C.",
+    "b": "072\u00b0 M and 069\u00b0 C.",
+    "c": "086\u00b0 M and 083\u00b0 C.",
+    "d": "072\u00b0 M and 075\u00b0 C."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 685,
+  "questionId": "061-0685",
+  "questionNumber": "061-0685",
+  "stemHtml": "<p>Given the following wind vectors, what is the wind vector that should be used for calculating the distance of a climb from MSL to 6000 ft?</p><p>MSL W/V: 300\u00b0/20 kt <br>2000 ft W/V: 330\u00b0/30 kt <br>4000 ft W/V: 350\u00b0/40 kt <br>6000 ft W/V: 300\u00b0/20 kt</p>",
+  "options": {
+    "a": "<p>320\u00b0/40 kt</p>",
+    "b": "<p>350\u00b0/40 kt</p>",
+    "c": "<p>340\u00b0/35 kt</p>",
+    "d": "<p>320\u00b0/28 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

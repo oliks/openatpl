@@ -1,0 +1,14 @@
+{
+  "number": 562,
+  "questionId": "062-0562",
+  "questionNumber": "062-0562",
+  "stemHtml": "<p>Refer to figure. <br /> \rThe appendix shows a navigation display (ND) where the Required Navigation Performance (RNP) and Actual Navigation Performance (ANP) values are shown. Which of the following statements is a correct interpretation of these displayed values.</p>",
+  "options": {
+    "a": "<p>The navigation system is performing to an accuracy of 2.00 NM and the aeroplane is within 0.05 NM of the desired track.</p>",
+    "b": "<p>During the cruise phase, there shall be NO warning if the EPE value is 0.05 higher than the RNP value as RNP 2 applies to the approach phase.</p>",
+    "c": "<p>The aircraft is currently performing according to the RNP, but a warning will be given if the EPE increases beyond 2.00.</p>",
+    "d": "<p>The EPE cannot be shown.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

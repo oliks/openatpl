@@ -1,0 +1,14 @@
+{
+  "number": 1099,
+  "questionId": "062-1099",
+  "questionNumber": "062-1099",
+  "stemHtml": "<p>When performing an RNP approach, which of the following situations leads to a missed-approach unless sufficient visual contact is established?</p><p>1. The required RNP APCH mode fails to engage. <br /> 2. Communications failure. <br /> 3. TCAS TA. <br /> 4. The actual navigation accuracy exceeds the required navigation accuracy. <br /> 5. The lateral deviation exceeds instrument full scale deflection.</p>",
+  "options": {
+    "a": "1, 2 and 4.",
+    "b": "2, 3 and 5.",
+    "c": "3, 4 and 5.",
+    "d": "1, 4 and 5."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

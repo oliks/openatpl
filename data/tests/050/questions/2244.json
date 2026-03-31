@@ -1,0 +1,14 @@
+{
+  "number": 2244,
+  "questionId": "050-2244",
+  "questionNumber": "050-2244",
+  "stemHtml": "Which statement correctly describes the meteorology content of a D-ATIS?",
+  "options": {
+    "a": "Surface wind, horizontal and vertical visibility, present weather, each reported cloud type with height above the aerodrome, air temperature, dew point, QNH and QFE.",
+    "b": "Surface wind, visibility and if applicable RVR, present weather, cloud, air temperature, dew point, and altimeter setting.",
+    "c": "The present weather conditions stated in the current METAR with an outlook forecast valid for the next 6 hours.",
+    "d": "The present weather conditions stated in the current METAR with trend information valid for the next 30 minutes."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

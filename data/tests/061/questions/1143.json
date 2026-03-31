@@ -1,0 +1,14 @@
+{
+  "number": 1143,
+  "questionId": "061-1143",
+  "questionNumber": "061-1143",
+  "stemHtml": "<p>Calculate the Mach number, given the following:</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAS: 455 kt</span> <br /> \nOAT: -40\u00b0C</p>",
+  "options": {
+    "a": "0.77",
+    "b": "<p>0.65</p>",
+    "c": "0.75",
+    "d": "0.81"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

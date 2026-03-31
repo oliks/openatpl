@@ -1,0 +1,14 @@
+{
+  "number": 701,
+  "questionId": "062-0701",
+  "questionNumber": "062-0701",
+  "stemHtml": "<p>Which one of the statements below regarding DME is correct?</p>",
+  "options": {
+    "a": "<p>Two lines of position obtained from two different DMEs give an unambiguous fix.</p>",
+    "b": "<p>The DME operating frequencies are in the UHF band.</p>",
+    "c": "<p>The DME ground station is always co-located with a VOR station.</p>",
+    "d": "<p>The indicated distance is the ground distance measured from the aircraft\u2019s projected position on the ground to the DME ground installation.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

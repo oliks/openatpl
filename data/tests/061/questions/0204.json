@@ -1,0 +1,19 @@
+{
+  "number": 204,
+  "questionId": "061-0204",
+  "questionNumber": "061-0204",
+  "stemHtml": "<p>Refer to figure. <br /> \rDuring a VFR flight, the Pilot after some time finds him/herself overflying a lighted obstacle that was not intended to be directly overflown. What does this indicate about the actual flight conditions?</p>",
+  "options": {
+    "a": "<p>The northerly wind is stronger than expected.</p>",
+    "b": "<p>The southerly wind is stronger than expected.</p>",
+    "c": "<p>The aircraft is flying at a faster ground speed than expected.</p>",
+    "d": "<p>The aircraft is flying at a slower ground speed than expected.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0054",
+      "publicUrl": "/attachments/061/061-att-0054.png"
+    }
+  ]
+}

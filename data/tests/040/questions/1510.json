@@ -1,0 +1,14 @@
+{
+  "number": 1510,
+  "questionId": "040-1510",
+  "questionNumber": "040-1510",
+  "stemHtml": "The crew of an aircraft encounters total loss of both electrical power generators. The electrical sources remaining are the batteries which are designed to provide power for 30 minutes. The crew detects the failure but does NOT complete the check-list and does not disconnect non-essential electrical equipment. The nearest suitable aerodrome is 20 minutes away, but the Commander decides to continue to destination, which is 30 minutes away. During the approach to the destination aerodrome a complete electrical failure is encountered and critical flight instruments are lost. Which statements best describes the decision-making errors in this scenario?",
+  "options": {
+    "a": "Once the crew decide on their course of action, they fail to review their choice. In this type of emergency, it is important to make an immediate decision, as soon as the checklist is started.",
+    "b": "The error lies in the implementation phase of the decision-making process: the decision to continue to the destination is a good one, since the batteries should last for 30 minutes, but the crew fail to follow the flight plan.",
+    "c": "The crew misinterpret the situation, and the decision to continue to the destination is a consequence of this. Since they do NOT collect and evaluate all the relevant information about the electrical failure, a review of their decision is NOT necessary.",
+    "d": "The crew correctly recognise the failure, but they act incorrectly regarding the checklist, they fail to properly assess the risk associated with the problem, they poorly evaluate the available options, and they fail to review their decision."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 14,
+  "questionId": "050-0014",
+  "questionNumber": "050-0014",
+  "stemHtml": "<p>Given the following information, what is the approximate relative humidity of the air mass?</p>\r\r<p>Temperature: 21\u00b0C <br /> \rDew point: 8\u00b0C</p>",
+  "options": {
+    "a": "<p>50%</p>",
+    "b": "<p>75%</p>",
+    "c": "<p>35%</p>",
+    "d": "<p>65%</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

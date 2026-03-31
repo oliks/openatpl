@@ -1,0 +1,19 @@
+{
+  "number": 1247,
+  "questionId": "050-1247",
+  "questionNumber": "050-1247",
+  "stemHtml": "<p>Refer to figure.<br>You are planning a flight from Chennai (VOMM) to Male (VRMM). While analysing the SIGWX chart valid for your estimated time en-route, you observe that no cloud areas are indicated over Sri Lanka. Satellite imagery and TAFs, however, suggest layered cloud with bases around FL100 and tops near FL140 over the region. What is the most appropriate interpretation of the absence of cloud depiction on the SIGWX chart?</p>",
+  "options": {
+    "a": "<p>No cloud is expected over Sri Lanka at the forecast time.</p>",
+    "b": "<p>Cloud layers may be present, but they are not expected to produce moderate or severe icing and/or turbulence.</p>",
+    "c": "<p>Cloud below FL250 is not shown on high-level SIGWX charts regardless of intensity.</p>",
+    "d": "<p>Only cumulonimbus clouds are shown on SIGWX charts; layered cloud is never depicted.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0036",
+      "publicUrl": "/attachments/050/050-att-0036.png"
+    }
+  ]
+}

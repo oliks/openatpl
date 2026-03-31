@@ -1,0 +1,14 @@
+{
+  "number": 2205,
+  "questionId": "050-2205",
+  "questionNumber": "050-2205",
+  "stemHtml": "<p>The Instrumented Runway Visual Range System (IRVR) measures runway visibility. Which of the following correctly describes the averaging time period for the collected data, assuming there has been no marked discontinuity?</p>",
+  "options": {
+    "a": "<p>5 minutes for local services or ATS units.</p>",
+    "b": "<p>5 minutes for METAR or SPECI reports.</p>",
+    "c": "<p>10 minutes for local services or ATS units.</p>",
+    "d": "<p>10 minutes for METAR or SPECI reports.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

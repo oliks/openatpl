@@ -1,0 +1,19 @@
+{
+  "number": 214,
+  "questionId": "061-0214",
+  "questionNumber": "061-0214",
+  "stemHtml": "Refer to GSPRM Jeppesen E(LO)2. <br /> You are planning to fly from Pole Hill (POL, N53\u00ba45' W002\u00ba06') to Dean Cross (DCS, N54\u00ba43' W003\u00ba20'). What is the shortest applicable route between those two points?",
+  "options": {
+    "a": "<p>POL - RIBEL - N601 - TLA - UNURO - N864 - DCS</p>",
+    "b": "POL - Y70 - KOLID - GUNTU - N864 - DCS",
+    "c": "POL - Y70 - CROFT - L612 - DCS",
+    "d": "POL - N57 - DCS"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0216",
+      "publicUrl": "/attachments/061/061-att-0216.jpg"
+    }
+  ]
+}

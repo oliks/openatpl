@@ -1,0 +1,14 @@
+{
+  "number": 27,
+  "questionId": "062-0027",
+  "questionNumber": "062-0027",
+  "stemHtml": "<p>An aircraft is on final approach for a CAT II ILS. As the aircraft starts down the glide path, the driver of a ground vehicle passes a hold marker without clearance and enters the ILS sensitive area. The ILS monitoring system shuts down the ILS signal and the crew execute a missed approach. This would happen if the monitoring system detects too much of which of the following options?</p>",
+  "options": {
+    "a": "A change in the magnetic variation in the ILS sensitive area.",
+    "b": "A shift in the LOC or GP course.",
+    "c": "A change in signal polarisation.",
+    "d": "An increase in signal strength."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

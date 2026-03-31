@@ -1,0 +1,14 @@
+{
+  "number": 1483,
+  "questionId": "061-1483",
+  "questionNumber": "061-1483",
+  "stemHtml": "<p>Given:</p>\r\r<p>Magnetic track: 324\u00b0 <br /> \rDrift angle: 8\u00b0 R <br /> \rVariation:14\u00b0 E <br /> \rTAS:420 kts <br /> \rWind component: 30 kts (tail)</p>\r\r<p>Calculate the wind (magnetic):</p>",
+  "options": {
+    "a": "<p>218\u00b0 / 68 kts</p>",
+    "b": "<p>084\u00b0 / 68 kts</p>",
+    "c": "<p>204\u00b0 / 68 kts</p>",
+    "d": "<p>256\u00b0 / 64 kts</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

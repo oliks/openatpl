@@ -1,0 +1,14 @@
+{
+  "number": 235,
+  "questionId": "062-0235",
+  "questionNumber": "062-0235",
+  "stemHtml": "<p>SBAS is required to comply with the PBN specifications for RNP approaches down to\u2026</p>",
+  "options": {
+    "a": "<p>Type B CAT II minima.</p>",
+    "b": "<p>Baro-VNAV minima.</p>",
+    "c": "<p>LNAV minima.</p>",
+    "d": "<p>LPV minima.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

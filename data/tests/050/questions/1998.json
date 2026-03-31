@@ -1,0 +1,14 @@
+{
+  "number": 1998,
+  "questionId": "050-1998",
+  "questionNumber": "050-1998",
+  "stemHtml": "<p>At FL180, the air temperature is -35\u00b0C. The air density at this level is\u2026</p>",
+  "options": {
+    "a": "unable to be determined without knowing the QNH.",
+    "b": "less than the density of the ISA atmosphere at FL180.",
+    "c": "greater than the density of the ISA atmosphere at FL180.",
+    "d": "equal to the density of the ISA atmosphere at FL180."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

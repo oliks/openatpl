@@ -1,0 +1,14 @@
+{
+  "number": 189,
+  "questionId": "062-0189",
+  "questionNumber": "062-0189",
+  "stemHtml": "In the descent it is important to set the tilt setting of AWR to a higher setting. Why is this?",
+  "options": {
+    "a": "To avoid scanning below the clouds layer and missing turbulence/weather",
+    "b": "To avoid clutter from ground returns",
+    "c": "To scan the higher altitude clouds to avoid hail",
+    "d": "During descent the AWR is not required"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

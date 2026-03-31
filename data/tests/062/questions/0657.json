@@ -1,0 +1,14 @@
+{
+  "number": 657,
+  "questionId": "062-0657",
+  "questionNumber": "062-0657",
+  "stemHtml": "<p dir=\"ltr\">How will an SSR interrogation be directed toward a specific aircraft?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Controller-Pilot Data-Link Communications (CPDLC) will reply with a unique aircraft identifier.</p>",
+    "b": "The SSR interrogation is directed to the aircraft\u2019s position.",
+    "c": "<p dir=\"ltr\">By limiting the beam width of the SSR transmission.</p>",
+    "d": "With a unique 24-bit address in the interrogation."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

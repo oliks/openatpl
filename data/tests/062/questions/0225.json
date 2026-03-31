@@ -1,0 +1,14 @@
+{
+  "number": 225,
+  "questionId": "062-0225",
+  "questionNumber": "062-0225",
+  "stemHtml": "One of the more significant errors that reduces the accuracy of the GNSS signal-in-space is\u2026",
+  "options": {
+    "a": "dilution of precision caused by the relative positions of the navigation satellites.",
+    "b": "interference from other space vehicles operating in the same frequency band.",
+    "c": "tropospheric propagation delay caused by pollution in lower atmospheric layers.",
+    "d": "receiver clock error caused by variations in the satellites' orbits."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

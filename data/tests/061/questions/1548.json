@@ -1,0 +1,14 @@
+{
+  "number": 1548,
+  "questionId": "061-1548",
+  "questionNumber": "061-1548",
+  "stemHtml": "<p>What is the track error angle? <br>Given:</p><p>Planned track: 257\u00b0(T) <br>WAC: 16\u00b0R <br>Actual in-flight drift: 12\u00b0L</p>",
+  "options": {
+    "a": "<p>4\u00b0L</p>",
+    "b": "<p>4\u00b0R</p>",
+    "c": "<p>12\u00b0L</p>",
+    "d": "<p>16\u00b0L</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

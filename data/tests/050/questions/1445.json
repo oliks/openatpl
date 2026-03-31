@@ -1,0 +1,14 @@
+{
+  "number": 1445,
+  "questionId": "050-1445",
+  "questionNumber": "050-1445",
+  "stemHtml": "<p>The METAR for your destination aerodrome reads: EGUB 280950Z 05019KT 9999 BKN032TCU 03/M00 Q1000 TEMPO 1000 +SHSN.\u00a0<br>What does the \"TEMPO 1000 +SHSN\" mean?</p>",
+  "options": {
+    "a": "<p>Heavy shower of snow <br />  </p>",
+    "b": "<p>Heavy shower of rain <br />  </p>",
+    "c": "<p>Snow <br />  </p>",
+    "d": "<p>Light shower of snow</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

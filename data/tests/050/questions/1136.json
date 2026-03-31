@@ -1,0 +1,14 @@
+{
+  "number": 1136,
+  "questionId": "050-1136",
+  "questionNumber": "050-1136",
+  "stemHtml": "<p>What type of meteorological hazard to safe flight is most likely to be experienced during the final approach to Geneva (ETA 12:00 UTC) ?</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF LSGG 020900Z 0210/0219 18007KT 9999 SCT020 BKN100 BECMG 0211/0214 RA SCT010 OVC020 PROB30 TEMPO 0211/0218 VRB10G25KT 4000 TSRA SCT005 BKN015CB=</span></p>",
+  "options": {
+    "a": "Radiation fog",
+    "b": "Roll cloud associated with standing waves",
+    "c": "Anabatic winds",
+    "d": "Low level wind shear"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

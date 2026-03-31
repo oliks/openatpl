@@ -1,0 +1,14 @@
+{
+  "number": 84,
+  "questionId": "062-0084",
+  "questionNumber": "062-0084",
+  "stemHtml": "What is the function of the DME Echo Protection Circuit (EPC)?",
+  "options": {
+    "a": "To detect if unwanted squitter pulses are interfering with the well-functioning of the interrogator receiver.",
+    "b": "To detect if pulse pairs reflected by the ionosphere are interfering with directly received pulse pairs.",
+    "c": "To protect the interrogator receiver from tracking reflected pulse pairs.",
+    "d": "To protect the transponder receiver from interrogating pulse pairs from other aircraft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

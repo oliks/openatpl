@@ -1,0 +1,14 @@
+{
+  "number": 920,
+  "questionId": "062-0920",
+  "questionNumber": "062-0920",
+  "stemHtml": "<p>Ground-Based Augmentation System (GBAS) provides differential GPS positioning to calculate an error correction. The ground-based receiver uses\u2026</p>",
+  "options": {
+    "a": "Only one satellite to check its position with the position calculated by the incoming signal, and then relays any error back to the satellite.",
+    "b": "Timing signals from at least four satellites to establish the position error correction, which is then relayed to the aircraft's GPS receiver.",
+    "c": "The precision codes broadcast by the satellites to determine any position errors.",
+    "d": "Only the satellites being used by the aircraft to compute the error information."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

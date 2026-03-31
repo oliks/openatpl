@@ -1,0 +1,14 @@
+{
+  "number": 71,
+  "questionId": "062-0071",
+  "questionNumber": "062-0071",
+  "stemHtml": "<p>A transponder set to Mode A/C is responding to an intermode radar that is capable of interrogating modes A, C and S. What does the operating mode of the transponder depend on?</p>",
+  "options": {
+    "a": "<p>The repetition frequency of pulse pairs in the interrogation signal.</p>",
+    "b": "<p>The carrier wave frequency of the interrogation signal.</p>",
+    "c": "<p>The time between paired interrogation pulses.</p>",
+    "d": "<p>The length of the interrogation pulse.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

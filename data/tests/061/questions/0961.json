@@ -1,0 +1,14 @@
+{
+  "number": 961,
+  "questionId": "061-0961",
+  "questionNumber": "061-0961",
+  "stemHtml": "<p>Given the following information, which flight level gives the shortest distance in NAM?</p>\r\r<p>Ground distance: 200 NM <br /> \rCAS: 180 kt <br /> \rOAT: ISA +10\u00b0C <br /> \rTrack wind component at FL50: 10 kt headwind <br /> \rTrack wind component at FL70: 5 kt tailwind <br /> \rTrack wind component at FL100: 0 kt <br /> \rTrack wind component at FL120: 5 kt headwind</p>",
+  "options": {
+    "a": "<p>FL50</p>",
+    "b": "<p>FL120</p>",
+    "c": "<p>FL100</p>",
+    "d": "<p>FL70</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

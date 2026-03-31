@@ -1,0 +1,14 @@
+{
+  "number": 164,
+  "questionId": "062-0164",
+  "questionNumber": "062-0164",
+  "stemHtml": "<p>What are the two functions of GBAS?</p>",
+  "options": {
+    "a": "<p>When the aircraft is approaching the airfield and is fitted with a GBAS receiver, GBAS replaces the aircraft's on-board GPS position and provides the non precision approach path details.</p>",
+    "b": "<p>When the aircraft is approaching the airfield and is fitted with a GBAS receiver, GBAS replaces the aircraft's on-board GPS position and provides the precision approach path details.</p>",
+    "c": "<p>When the aircraft is approaching the airfield and is fitted with a GBAS receiver, GBAS corrects the aircraft's on-board GPS position and provides the non precision approach path details.</p>",
+    "d": "<p>When the aircraft is approaching the airfield and is fitted with a GBAS receiver, GBAS correct the aircraft's on-board GPS position and provides the precision approach path details.  <br />   </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

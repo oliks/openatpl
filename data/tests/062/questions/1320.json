@@ -1,0 +1,14 @@
+{
+  "number": 1320,
+  "questionId": "062-1320",
+  "questionNumber": "062-1320",
+  "stemHtml": "<p>A Mode S transponder knows that it is receiving interrogations from a Mode S ground interrogator because:</p>",
+  "options": {
+    "a": "<p>The ground interrogator will transmit extra pulses once it has had the initial reply from the airborne transponder.</p>",
+    "b": "<p>The ground interrogator transmits the same pulses for all modes, but for Mode S, the pulses are stronger.</p>",
+    "c": "<p>Extra pulses are transmitted directly following the Mode A and Mode C pulses.</p>",
+    "d": "<p>Only pulses specific to Mode S are transmitted by the ground interrogator.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

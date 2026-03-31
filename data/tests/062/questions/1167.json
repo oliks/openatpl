@@ -1,0 +1,14 @@
+{
+  "number": 1167,
+  "questionId": "062-1167",
+  "questionNumber": "062-1167",
+  "stemHtml": "What information will be displayed on the ATC radar screen if a mode S transponder receives a mode A interrogation?",
+  "options": {
+    "a": "Identification only.",
+    "b": "ALT only.",
+    "c": "Normal mode S information.",
+    "d": "ALT, identification and ground speed."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

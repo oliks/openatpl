@@ -1,0 +1,14 @@
+{
+  "number": 510,
+  "questionId": "062-0510",
+  "questionNumber": "062-0510",
+  "stemHtml": "<p>What are the two functions of GBAS?. When the aircraft is approaching the airfield and is fitted with a GBAS receiver, GBAS (1) _____ the aircraft's on-board GPS position and provides the (2) _____ approach path details.</p>",
+  "options": {
+    "a": "<p>(1) replaces; (2) non-precision</p>",
+    "b": "<p>(1) replaces; (2) precision</p>",
+    "c": "<p>(1) corrects; (2) non-precision</p>",
+    "d": "<p>(1) corrects; (2) precision<br> </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

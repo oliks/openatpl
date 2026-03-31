@@ -1,0 +1,19 @@
+{
+  "number": 2013,
+  "questionId": "050-2013",
+  "questionNumber": "050-2013",
+  "stemHtml": "<p>Refer to figure. <br>Flight from Bordeaux to Berlin at FL180. What can be expected at cruising level?</p>",
+  "options": {
+    "a": "<p>A strong wind from the left with 150 kt at the crossing of the jet stream.</p>",
+    "b": "<p>ISOL EMBD CB in the area of Berlin.</p>",
+    "c": "<p>Moderate clear air turbulence over Frankfurt.</p>",
+    "d": "<p>Moderate icing about half way along the route and moderate turbulence second part of the route.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0039",
+      "publicUrl": "/attachments/050/050-att-0039.png"
+    }
+  ]
+}

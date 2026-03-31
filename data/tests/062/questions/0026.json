@@ -1,0 +1,14 @@
+{
+  "number": 26,
+  "questionId": "062-0026",
+  "questionNumber": "062-0026",
+  "stemHtml": "<p>Receiver autonomous integrity monitoring (RAIM) is achieved by consistency checks between the range measurements\u2026</p>",
+  "options": {
+    "a": "<p>obtained from VOR ground stations.</p>",
+    "b": "<p>provided by DME ground stations.</p>",
+    "c": "<p>provided by the WAAS or EGNOS satellites.</p>",
+    "d": "<p>of the GNSS satellites in view.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

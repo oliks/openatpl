@@ -1,0 +1,14 @@
+{
+  "number": 513,
+  "questionId": "050-0513",
+  "questionNumber": "050-0513",
+  "stemHtml": "<p>The crew get the ATIS for their destination aerodrome, which is summarised as follows:</p><p>Temperature: -18\u00baC <br /> Dew point: -24\u00baC <br /> Wind: Calm <br /> Temperature inversion present</p><p>Which of the following may be a flight hazard in this situation?</p>",
+  "options": {
+    "a": "The altimeter will overread the aerodrome elevation when the QNH is set.",
+    "b": "<p>Hail</p>",
+    "c": "Low visibility due to snow.",
+    "d": "Low level wind shear."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

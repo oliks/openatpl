@@ -1,0 +1,14 @@
+{
+  "number": 1421,
+  "questionId": "061-1421",
+  "questionNumber": "061-1421",
+  "stemHtml": "<p>An aircraft is flying on a heading of 040\u00b0 from point A to point B in a crosswind.  <br /> \rConsider that the actual wind in-flight matches the wind used for the flight planning calculations.  <br /> \rIf the applied WCA is 5\u00b0 left, the aircraft's True Track will be (1) _____ and its in-flight drift will be (2) _____. </p>",
+  "options": {
+    "a": "<p>(1) 035\u00b0; (2) 5\u00b0 right</p>",
+    "b": "<p>(1) 045\u00b0; (2) 5\u00b0 left</p>",
+    "c": "<p>(1) 045\u00b0; (2) 5\u00b0 right</p>",
+    "d": "<p>(1) 035\u00b0; (2) 5\u00b0 left</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

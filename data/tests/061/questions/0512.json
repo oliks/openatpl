@@ -1,0 +1,14 @@
+{
+  "number": 512,
+  "questionId": "061-0512",
+  "questionNumber": "061-0512",
+  "stemHtml": "Given the following information, calculate the true track and groundspeed: <br /> TAS: 370 kt <br /> Heading: 181\u00b0T <br /> Wind velocity: 095\u00b0T /35 kt",
+  "options": {
+    "a": "Track: 176\u00b0T, groundspeed: 370 kt",
+    "b": "Track: 186\u00b0T, groundspeed: 370 kt",
+    "c": "Track: 189\u00b0T, groundspeed: 375 kt",
+    "d": "Track: 192\u00b0T, groundspeed: 375 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

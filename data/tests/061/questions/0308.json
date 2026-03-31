@@ -1,0 +1,14 @@
+{
+  "number": 308,
+  "questionId": "061-0308",
+  "questionNumber": "061-0308",
+  "stemHtml": "<p>Given the following information, what is the ETA at B?</p><p>Track A to B: 250\u00b0T <br /> Distance A to B: 315 NM <br /> TAS: 450 kt <br /> Wind direction and velocity: 200\u00b0T /60 kt ETD A: 06:50 UTC</p>",
+  "options": {
+    "a": "07:30 UTC",
+    "b": "08:10 UTC",
+    "c": "07:36 UTC",
+    "d": "07:16 UTC"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

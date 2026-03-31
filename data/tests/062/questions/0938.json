@@ -1,0 +1,14 @@
+{
+  "number": 938,
+  "questionId": "062-0938",
+  "questionNumber": "062-0938",
+  "stemHtml": "<p>Given:</p>\n\n<p>Aircraft position 36\u00b015'S 178\u00b0E, magnetic variation 21\u00b0W, FL 310. <br /> \nUEB VOR/DME position 36\u00b015'S 178\u00b0W, magnetic variation 21\u00b0E.</p>\n\n<p>In order to read the most accurate ground speed on the DME receiver from his present position, the pilot must fly which UEB radial?</p>",
+  "options": {
+    "a": "291\u00b0",
+    "b": "069\u00b0",
+    "c": "111\u00b0",
+    "d": "249\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

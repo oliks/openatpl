@@ -1,0 +1,14 @@
+{
+  "number": 1069,
+  "questionId": "062-1069",
+  "questionNumber": "062-1069",
+  "stemHtml": "What factors contribute to the formation of User Equivalent Range Error (UERE)?",
+  "options": {
+    "a": "Position Dilution of Precision (PDOP) and Ephemeris Error (EE).",
+    "b": "Geometric Dilution of Precision (GDOP) and Ionospheric Delay.",
+    "c": "Satellite Clock Error and Tropospheric Delay.",
+    "d": "Combination of various errors including Selective Availability (SA), Ephemeris Error (EE), Satellite Clock Error, and Atmospheric Delays."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

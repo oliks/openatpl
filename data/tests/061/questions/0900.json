@@ -1,0 +1,14 @@
+{
+  "number": 900,
+  "questionId": "061-0900",
+  "questionNumber": "061-0900",
+  "stemHtml": "<p>While flying on a magnetic heading of 193\u00b0(M) in the northern hemisphere, an aircraft measures the relative bearing of \u2018ONO\u2019 NDB on an RBI Relative Bearing Indicator as 063\u00b0R. Given the following information, what bearing should be plotted from the beacon to the aircraft on a Lambert chart?</p><p>Variation at the aircraft: 6\u00b0E\u00a0<br>Variation at the station: 4\u00b0E\u00a0<br>Chart convergence between the aircraft and the NDB: 8\u00b0</p>",
+  "options": {
+    "a": "<p>074\u00b0 (T)</p>",
+    "b": "<p>070\u00b0 (T)</p>",
+    "c": "<p>068\u00b0 (T)</p>",
+    "d": "<p>076\u00b0 (T)</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

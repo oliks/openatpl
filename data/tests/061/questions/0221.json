@@ -1,0 +1,14 @@
+{
+  "number": 221,
+  "questionId": "061-0221",
+  "questionNumber": "061-0221",
+  "stemHtml": "<p>An aircraft departs from Schiphol airport and flies to Santa Cruz in Bolivia (South America) via Miami in Florida. The departure time (off blocks) is 07:45 ST on the 10th of November, and taxi time before take off at Schiphol is 25 minutes. The flight time to Miami over the Atlantic Ocean is 09h 20m. The total taxi time in Miami to and from the gate is 25 minutes. The time spend at the gate is 02h 40m. From Miami to Santa Cruz the airborne time is 06h 30m.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Calculate the time and date of touch down in Santa Cruz in ST Bolivia if the difference between ST and UTC is 5 hours.</span></p>",
+  "options": {
+    "a": "22:05 10th Nov.",
+    "b": "07:05 11th Nov.",
+    "c": "21:05 10th Nov.",
+    "d": "09:05 11th Nov."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

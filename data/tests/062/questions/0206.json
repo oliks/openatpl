@@ -1,0 +1,14 @@
+{
+  "number": 206,
+  "questionId": "062-0206",
+  "questionNumber": "062-0206",
+  "stemHtml": "<p>Multipath errors are caused by\u2026</p>",
+  "options": {
+    "a": "<p>Objects outside of the ILS critical area.</p>",
+    "b": "Objects within the ILS sensitive area.",
+    "c": "Objects within the ILS coverage area.",
+    "d": "Objects within the ILS critical area."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 755,
+  "questionId": "062-0755",
+  "questionNumber": "062-0755",
+  "stemHtml": "An aircraft equipped with RNAV 1 navigation specifications is cleared by the ATC to execute a Standard Instrument Departure (SID) that requires RNP 1 equipment. The pilot is not qualified for RNP 1 procedures, and the aircraft is not equipped with RNP 1. What should the pilot do?",
+  "options": {
+    "a": "He/she shall accept the SID, since the requirement for lateral accuracy is assured.",
+    "b": "<p>Advise ATC, that he/she is UNABLE to comply and should request a different SID.</p>\r\n",
+    "c": "He/she shall accept the SID and monitor system performance during departure.",
+    "d": "He/she should first check the integrity of the system and then advise ATC accordingly."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

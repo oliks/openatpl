@@ -1,0 +1,14 @@
+{
+  "number": 311,
+  "questionId": "062-0311",
+  "questionNumber": "062-0311",
+  "stemHtml": "<p>An air traffic controller's screen shows information about an aircraft, and this may include (1) _____ and/or (2) _____ from the (3) _____.</p>",
+  "options": {
+    "a": "<p>(1) TAS; (2) Flight Level; (3) PSR</p>",
+    "b": "<p>(1) GS; (2) Flight Level; (3) SSR</p>",
+    "c": "<p>(1) TAS; (2) Height; (3) SSR</p>",
+    "d": "<p>(1) GS; (2) Height; (3) PSR</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

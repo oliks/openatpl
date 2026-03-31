@@ -1,0 +1,14 @@
+{
+  "number": 2324,
+  "questionId": "050-2324",
+  "questionNumber": "050-2324",
+  "stemHtml": "<p>You are supposed to fly above a mountain which has a peak of 8600 feet on a westbound VFR flight. The ISA deviation in the area is - 9 degrees Celsius and the local QNH is 0995 hPa. What is the lowest usable flight level for this segment of the flight?</p>\r\n\r\n<p><em>Note that you are expected to clear terrain by 2000 ft. Assume 1 hPa = 27 ft.</em></p>",
+  "options": {
+    "a": "FL125",
+    "b": "FL115",
+    "c": "FL120",
+    "d": "FL100"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

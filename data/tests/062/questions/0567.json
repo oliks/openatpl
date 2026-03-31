@@ -1,0 +1,14 @@
+{
+  "number": 567,
+  "questionId": "062-0567",
+  "questionNumber": "062-0567",
+  "stemHtml": "<p>A pilot has become disorientated due to vertigo, and loses situational awareness. They decide to ask ATC for a GDF fix, and the reply is \"QDM 120\u00b0, Class Bravo\". If both the aircraft and the ATC station are in an area where magnetic variation is 5\u00b0E, which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>QDM is 120\u00b0, accuracy +/- 2\u00b0</p>",
+    "b": "<p>QDM is 125\u00b0, accuracy +/- 5\u00b0</p>",
+    "c": "<p>QDR is 305\u00b0, accuracy +/- 5\u00b0</p>",
+    "d": "<p>QDR is 300\u00b0, accuracy +/- 5\u00b0</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

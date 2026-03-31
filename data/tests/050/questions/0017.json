@@ -1,0 +1,23 @@
+{
+  "number": 17,
+  "questionId": "050-0017",
+  "questionNumber": "050-0017",
+  "stemHtml": "<p>Refer to figure. <br /> \rBased on the data presented in the attached figures, what are the prevailing weather conditions along the route?</p>",
+  "options": {
+    "a": "<p>Foehn.</p>",
+    "b": "<p>Mountain waves.</p>",
+    "c": "<p>Icing.</p>",
+    "d": "<p>Thunderstorm.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0086",
+      "publicUrl": "/attachments/050/050-att-0086.jpg"
+    },
+    {
+      "uniqueKey": "050-att-0441",
+      "publicUrl": "/attachments/050/050-att-0441.jpg"
+    }
+  ]
+}

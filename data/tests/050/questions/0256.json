@@ -1,0 +1,19 @@
+{
+  "number": 256,
+  "questionId": "050-0256",
+  "questionNumber": "050-0256",
+  "stemHtml": "The code \"01650428\" is attached to a METAR. What does it tell you about the runway surface condition?",
+  "options": {
+    "a": "Contamination covers 11% - 25% of the runway.",
+    "b": "Runway is covered with slush.",
+    "c": "Braking co-efficient of 42.",
+    "d": "Runway direction is 280\u00b0."
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0199",
+      "publicUrl": "/attachments/050/050-att-0199.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1549,
+  "questionId": "050-1549",
+  "questionNumber": "050-1549",
+  "stemHtml": "<p>An aircraft is expected to clear a terrain by 2000 ft. The elevation of the mountain is 6254 ft and the local QNH at an airport of elevation 3100 ft is 991 hPa, ISA +24\u00baC. Calculate the flight level in order to clear the mountain range by the specified clearance.</p>\r\n\r\n<p>Use 1 hPa = 30 ft</p>",
+  "options": {
+    "a": "FL85",
+    "b": "FL70",
+    "c": "FL75",
+    "d": "FL95"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

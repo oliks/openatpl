@@ -1,0 +1,14 @@
+{
+  "number": 1260,
+  "questionId": "062-1260",
+  "questionNumber": "062-1260",
+  "stemHtml": "An estimate of the position accuracy from the Global Navigation Satellite System (GNSS) can be derived from several factors, including:",
+  "options": {
+    "a": "Geometric Dilution Of Precision (GDOP) and User Equivalent Range Error (UERE).",
+    "b": "The correction for the receiver clock error as transmitted by a differential station.",
+    "c": "Inaccuracies from the geometry of the satellites above the user's horizon.",
+    "d": "User Equivalent Range Error (UERE) alone."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

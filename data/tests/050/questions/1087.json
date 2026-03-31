@@ -1,0 +1,19 @@
+{
+  "number": 1087,
+  "questionId": "050-1087",
+  "questionNumber": "050-1087",
+  "stemHtml": "<p>Refer to figure. <br /> \rFor 12:00 UTC select a METAR which you consider to be most appropriate to position \"T\".</p>",
+  "options": {
+    "a": "<p>19010KT 6000 RA BKN016 OVC090 08/06 Q1004=</p>",
+    "b": "<p>24020KT 5000 RA BKN100 11/10 Q1002=</p>",
+    "c": "<p>27030KT 8000 SCT020 07/03 Q1004=</p>",
+    "d": "<p>18015KT 9999 SCT020 03/01 Q1000=</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0400",
+      "publicUrl": "/attachments/050/050-att-0400.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 778,
+  "questionId": "061-0778",
+  "questionNumber": "061-0778",
+  "stemHtml": "<p>Refer to figure.  <br /> A pilot is performing a VFR flight just under the low cloud base following the route above, and at Fruges Windfarm, they get cleared to fly directly to DET VOR/DME. While flying directly towards DET VOR/DME, they realise at 15:00 that the on-board GPS equipment has been showing unreliable indications for a few minutes and becomes available after a while. Which of the following should the pilot do in this case?</p><p>1. Tune in to the DET VOR/DME frequency if within radio range <br /> 2. Climb to a higher level to increase radio range <br /> 3. Follow the calculated heading towards DET VOR/DME <br /> 4. Follow the flight legs according to the operational flight plan <br /> 5. Orbit and look for the M20 Junction</p>",
+  "options": {
+    "a": "<p>1 and 2</p>",
+    "b": "<p>1 and 3</p>",
+    "c": "<p>2 and 5</p>",
+    "d": "<p>1 and 4</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0025",
+      "publicUrl": "/attachments/061/061-att-0025.png"
+    }
+  ]
+}

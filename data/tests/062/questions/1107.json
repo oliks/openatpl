@@ -1,0 +1,14 @@
+{
+  "number": 1107,
+  "questionId": "062-1107",
+  "questionNumber": "062-1107",
+  "stemHtml": "<p dir=\"ltr\">Complete the following sentence:</p>\r\n\r\n<p dir=\"ltr\">Receiver Autonomous Integrity Monitoring (RAIM) of GNSS signals requires (1) _____ satellites with good geometry. For Fault Detection and Exclusion (FDE) (2) _____ satellites are required.</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">(1) six; (2) seven</p>",
+    "b": "<p dir=\"ltr\">(1) three; (2) four</p>",
+    "c": "<p dir=\"ltr\">(1) five; (2) six</p>",
+    "d": "<p>(1) four; (2) five</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

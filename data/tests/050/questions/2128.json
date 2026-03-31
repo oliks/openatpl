@@ -1,0 +1,14 @@
+{
+  "number": 2128,
+  "questionId": "050-2128",
+  "questionNumber": "050-2128",
+  "stemHtml": "<p>Given the following information, what is the approximate reading expected on the altimeter, when the pilot changes the subscale setting during a climb through the transition altitude?</p>\r\nTransition altitude: 18 000 ft<br />\r\nTransition level: FL175<br />\r\nQNH: 1035 hPa<br />\r\nAssume 30 ft per 1 hPa",
+  "options": {
+    "a": "18 590 ft",
+    "b": "17 410 ft",
+    "c": "17 340 ft",
+    "d": "18 660 ft"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

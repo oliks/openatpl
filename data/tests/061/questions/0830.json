@@ -1,0 +1,14 @@
+{
+  "number": 830,
+  "questionId": "061-0830",
+  "questionNumber": "061-0830",
+  "stemHtml": "<p>An aircraft has the following in flight conditions:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Altitude: FL140</span>  <br />  \nIAS: 210 kts  <br />  \nOAT: -5\u00b0C  <br />  \nWind component : -35 kts</p>\n\n<p>When 150 NM from the reporting point, what IAS reduction is required to arrive 5 minutes later than planned?</p>",
+  "options": {
+    "a": "25 kt",
+    "b": "20 kt",
+    "c": "15 kt",
+    "d": "30 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

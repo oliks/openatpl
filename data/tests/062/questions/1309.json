@@ -1,0 +1,14 @@
+{
+  "number": 1309,
+  "questionId": "062-1309",
+  "questionNumber": "062-1309",
+  "stemHtml": "<p>The effect of masking the DME antenna of the aircraft from the ground installation is a potential interruption of the signal, which may result in\u2026</p>",
+  "options": {
+    "a": "The airborne equipment switching directly to the search mode.",
+    "b": "The ground installation not sending any pulse pairs.",
+    "c": "The signal controlled search circuit (SCS) blanking the DME display.",
+    "d": "The Airborne installation switching to the memory mode for about 10 to 15 seconds."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

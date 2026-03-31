@@ -1,0 +1,19 @@
+{
+  "number": 233,
+  "questionId": "050-0233",
+  "questionNumber": "050-0233",
+  "stemHtml": "Refer to figure. <br /> Given the navigation display in the image, how should the pilot alter the aircraft's heading?",
+  "options": {
+    "a": "Turn left to avoid the storm.",
+    "b": "Turn to the right.",
+    "c": "No heading change is required.",
+    "d": "Perform a few orbits until the storm passes."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0325",
+      "publicUrl": "/attachments/050/050-att-0325.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2345,
+  "questionId": "050-2345",
+  "questionNumber": "050-2345",
+  "stemHtml": "Flying in the southern hemisphere at 3000 ft you notice a drift to the left. What will happen to your true altitude?",
+  "options": {
+    "a": "No change",
+    "b": "Increase",
+    "c": "Decrease",
+    "d": "First no change, then increase"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1223,
+  "questionId": "061-1223",
+  "questionNumber": "061-1223",
+  "stemHtml": "<p>Refer to Jeppesen GSPRM Training Route Manual - Chart \"E LO 2\". <br /> \nFind the radials from Turnberry (TRN) and Talla (TLA) to the aircraft position, given:</p>\n\n<p>TALLA (TLA) VOR/DME (55\u00b030N, 003\u00b021\u00b4W) <br /> \nTURNBERRY (TRN) VOR/DME (55\u00b019\u00b4N, 004\u00b047\u00b4W) <br /> \nAircraft position: 54\u00b058\u00b4N, 003\u00b047\u00b4W</p>",
+  "options": {
+    "a": "123\u00b0 from TRN and 209\u00b0 from TLA.",
+    "b": "161\u00b0 from TRN and 316\u00b0 from TLA.",
+    "c": "161\u00b0 from TRN and 29\u00b0 from TLA.",
+    "d": "302\u00b0 from TRN and 29\u00b0 from TLA."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0242",
+      "publicUrl": "/attachments/061/061-att-0242.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 569,
+  "questionId": "050-0569",
+  "questionNumber": "050-0569",
+  "stemHtml": "<p>Refer to figure.<br>A red circle is drawn on the chart highlighting an area between FL250 and FL360 along the planned route.\u00a0What does this marked area most likely represent?</p>",
+  "options": {
+    "a": "<p>An area of moderate turbulence expected between FL250 and FL360.</p>",
+    "b": "<p>An area of severe icing forecast between FL250 and FL360.</p>",
+    "c": "<p>A region of moderate to severe clear air turbulence (CAT) associated with a jet stream core.</p>",
+    "d": "<p>A zone of cumulonimbus (CB) cloud tops extending from FL250 to FL360.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0127",
+      "publicUrl": "/attachments/050/050-att-0127.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1125,
+  "questionId": "050-1125",
+  "questionNumber": "050-1125",
+  "stemHtml": "<p>During the preparation for approach to Zurich airport (1416 ft/AMSL) a pilot hears the following message on the ATIS: \"Inversion warning. Inversion of 12\u00b0C between 1900 ft and 2300 ft altitude.\" This message indicates that the pilot should be prepared\u2026</p>",
+  "options": {
+    "a": "<p>that the performance of the engine will be reduced from inversion level down to ground.</p>",
+    "b": "<p>for wind shear just above the inversion.</p>",
+    "c": "<p>for fog below the inversion.</p>",
+    "d": "<p>for freezing precipitation below the inversion.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

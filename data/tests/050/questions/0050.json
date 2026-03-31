@@ -1,0 +1,14 @@
+{
+  "number": 50,
+  "questionId": "050-0050",
+  "questionNumber": "050-0050",
+  "stemHtml": "What does the term METAR signify?",
+  "options": {
+    "a": "A METAR is a flight forecast, issued by the meteorological station several times daily.",
+    "b": "A METAR is a landing forecast added to the actual weather report as a brief prognostic report.",
+    "c": "A METAR is a warning of dangerous meteorological conditions within a FIR.",
+    "d": "A METAR signifies the actual weather report at an aerodrome and is generally issued in half-hourly intervals."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

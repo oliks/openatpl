@@ -1,0 +1,14 @@
+{
+  "number": 1126,
+  "questionId": "062-1126",
+  "questionNumber": "062-1126",
+  "stemHtml": "<p dir=\"ltr\">In the context of PBN operations, what is \u201cNavigation System Error (NSE)\u201d?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">NSE occurs when the path defined in the RNAV system does NOT correspond to the desired path, that is, the path expected to be flown over the ground.</p>",
+    "b": "<p dir=\"ltr\">NSE is part of the total system error, which relates to the air crew or autopilot\u2019s ability to follow the defined path or track, including any display error.</p>",
+    "c": "<p dir=\"ltr\">It refers to the difference between the aircraft\u2019s estimated position and its actual position.</p>",
+    "d": "<p dir=\"ltr\">It is a system error that relates specifically to longitudinal accuracy.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 288,
+  "questionId": "062-0288",
+  "questionNumber": "062-0288",
+  "stemHtml": "<p>An aircraft operating with the FMS in the LNAV/VNAV mode is operating in a busy terminal area approaching its destination. Bad weather in the area has resulted in ATC requiring the pilots to make several changes to the aircraft's flight path. What is the best action for the pilots to take, in order to maintain their situational awareness?</p>",
+  "options": {
+    "a": "<p>The FMS in LNAV/VNAV mode is the primary, and most accurate, navigation system available to the pilots, and its use should be maintained. In order to minimise data entry errors, both pilots should check the entry of the new LNAV/VNAV parameters at the same time.</p>",
+    "b": "<p>In order to mitigate against loss of situational awareness, and avoid the risk of errors while entering new data, the FMS should be switched off, and the pilots should respond to ATC instructions by flying the aircraft manually.</p>",
+    "c": "<p>Re-programming of the FMS in the LNAV/VNAV mode during periods of high workload can lead to errors and also cause a loss of situational awareness. Therefore, the pilots should downgrade to a lower, simpler level of automation such as ALT/HDG or even to manual flying.</p>",
+    "d": "<p>The main risk is that the pilots become distracted while re-programming the FMS. To reduce this risk, the Pilot-in-Command should immediately request a short delay or a hold, in order to complete the entry of the new LNAV/VNAV parameters, before continuing with the approach.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

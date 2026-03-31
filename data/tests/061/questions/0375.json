@@ -1,0 +1,14 @@
+{
+  "number": 375,
+  "questionId": "061-0375",
+  "questionNumber": "061-0375",
+  "stemHtml": "<p>On a Lambert conformal conical chart projection, two waypoints RASNO and LOSUL are connected by a straight line. Given the following information, calculate the latitude of the parallel of origin:</p>\r\r<p>Waypoint RASNO: 34\u00b020.0'N 021\u00b028.0'E <br /> \rWaypoint LOSUL: 31\u00b041.0'N 025\u00b008.0'E <br /> \rInitial TT in RASNO: 126\u00b0 <br /> \rInitial TT in LOSUL: 308\u00b0</p>",
+  "options": {
+    "a": "<p>15\u00b049.6'N</p>",
+    "b": "<p>25\u00b022.6'N</p>",
+    "c": "<p>33\u00b003.3'N</p>",
+    "d": "<p>34\u00b051.0'N</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 482,
+  "questionId": "062-0482",
+  "questionNumber": "062-0482",
+  "stemHtml": "<p>Which of the following systems can be used to augment GNSS for use in a precision landing approach?</p>\r\r<p>1. GBAS (Ground Based Augmentation System) <br /> \r2. SBAS (Satellite Based Augmentation System) <br /> \r3. ILS (Instrument Landing System) <br /> \r4. VOR (VHF Omnidirectional Range)</p>",
+  "options": {
+    "a": "<p>1 only</p>",
+    "b": "<p>1 and 2</p>",
+    "c": "<p>1 and 3</p>",
+    "d": "<p>1, 2, 3 and 4</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

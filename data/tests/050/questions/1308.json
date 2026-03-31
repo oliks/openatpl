@@ -1,0 +1,14 @@
+{
+  "number": 1308,
+  "questionId": "050-1308",
+  "questionNumber": "050-1308",
+  "stemHtml": "The ICAO Standard Atmosphere (ISA) assumes that temperature will reduce at the rate of:",
+  "options": {
+    "a": "2\u00b0C per 1 000 ft up to 65 617 ft after which it will remain constant to 104 987 ft.",
+    "b": "2\u00b0C per 1 000 ft up to 36 090 ft and will then rise at 0.3\u00b0C per 1 000 ft up to 65 617 ft then it will remain constant.",
+    "c": "2\u00b0C per 1 000 ft up to 36 090 ft after which it remains constant to 65 617 ft.",
+    "d": "2 \u00b0C per 1 000 ft up to 36 090 ft and will then decrease at 0.3\u00b0C per 1 000 ft up to 65 617 ft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

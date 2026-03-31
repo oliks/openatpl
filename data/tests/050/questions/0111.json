@@ -1,0 +1,14 @@
+{
+  "number": 111,
+  "questionId": "050-0111",
+  "questionNumber": "050-0111",
+  "stemHtml": "In a METAR message, what do the abbreviations \"SQ\" and \"PL\" mean respectively?",
+  "options": {
+    "a": "SQ = large increase in wind lasting more than 1 min; PL = dust whirls",
+    "b": "SQ = large increase in wind lasting more than 1 min; PL = ice pellets",
+    "c": "SQ = large increase in wind lasting less than 1 min; PL = ice pellets",
+    "d": "SQ = large increase in wind lasting less than 1 min; PL = pollution"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

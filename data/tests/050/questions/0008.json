@@ -1,0 +1,14 @@
+{
+  "number": 8,
+  "questionId": "050-0008",
+  "questionNumber": "050-0008",
+  "stemHtml": "<p>According to ICAO Annex 3, which of the following statements about vertical visibility is correct/incorrect?</p><ol><li>It can be reported in a METAR in feet or meters.</li><li>It is reported in a SPECI only in feet.</li></ol>",
+  "options": {
+    "a": "<p>1. Correct; 2. correct.</p>",
+    "b": "<p>1. Correct; 2. incorrect.</p>",
+    "c": "<p>1. Incorrect; 2. incorrect.</p>",
+    "d": "<p>1. Incorrect; 2. correct.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

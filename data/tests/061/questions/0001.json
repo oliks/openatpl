@@ -2,13 +2,13 @@
   "number": 1,
   "questionId": "061-0001",
   "questionNumber": "061-0001",
-  "stemHtml": "<p>One nautical mile is equal to:</p>",
+  "stemHtml": "<p>An aircraft departs from A and flies to location B. The flight involves crossing the International Date Line. Determine the Local Mean Time (LMT) and date upon arrival at B, given: <br /> \r <br /> \rFlight time: 1 hour <br /> \rChange of longitude between A and B: 15 degrees <br /> \rTrack direction: West <br /> \rDeparture time and date from A: 12:00 LMT, 5th August</p>",
   "options": {
-    "a": "<p>One minute of arc of longitude at the equator</p>",
-    "b": "<p>One minute of arc of latitude</p>",
-    "c": "<p>One degree of arc of latitude</p>",
-    "d": "<p>1,000 metres</p>"
+    "a": "<p>12:00, 4th August</p>",
+    "b": "<p>14:00, 5th August</p>",
+    "c": "<p>14:00, 6th August</p>",
+    "d": "<p>12:00, 6th August</p>"
   },
-  "correctOption": "b",
+  "correctOption": "d",
   "attachments": []
 }

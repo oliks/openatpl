@@ -1,0 +1,14 @@
+{
+  "number": 1327,
+  "questionId": "062-1327",
+  "questionNumber": "062-1327",
+  "stemHtml": "<p>If a pilot is planning to fly a PBN procedure classified as RNP 1, which of the following statements is true regarding the aircraft's navigation equipment?</p>",
+  "options": {
+    "a": "<p>It must be able to achieve an actual navigation performance accuracy of equal to or greater than 1 NM.</p>",
+    "b": "<p>There must be multiple navigation sources, including at least one inertial navigation system and a GNSS receiver.</p>",
+    "c": "<p>There must be a GNSS receiver that is capable of receiving GBAS signals in order to ensure the appropriate accuracy.</p>",
+    "d": "<p>It must be capable of monitoring its own performance and alerting the pilot in the event of a loss of navigation accuracy.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

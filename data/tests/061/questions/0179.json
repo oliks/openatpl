@@ -1,0 +1,14 @@
+{
+  "number": 179,
+  "questionId": "061-0179",
+  "questionNumber": "061-0179",
+  "stemHtml": "<p>Given the following information. Calculate the required heading and groundspeed.</p><p>W/V: 300\u00b0 (T) / 50 kt <br>TAS: 220 kt <br>Required Track: 350\u00b0 (T)</p>",
+  "options": {
+    "a": "Heading 002\u00b0 T; GS 202 Kt",
+    "b": "Heading 338\u00b0 T; GS 192 Kt",
+    "c": "<p>Heading 340\u00b0 T; GS 185 Kt</p>",
+    "d": "Heading 344\u00b0 T ; GS 188 Kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 554,
+  "questionId": "061-0554",
+  "questionNumber": "061-0554",
+  "stemHtml": "<p>Given:</p>\r\r<p>True Track: 180\u00b0 <br /> \rTAS: 180 kt <br /> \rW/V: 100\u00b0(T)/18 kts</p>\r\r<p>Calculate True Heading and Groundspeed.</p>",
+  "options": {
+    "a": "<p>TH 174\u00b0; GS 184 kts</p>",
+    "b": "<p>TH 186\u00b0; GS 182 kts</p>",
+    "c": "<p>TH 174\u00b0; GS 178 kts</p>",
+    "d": "<p>TH 186\u00b0; GS 178 kts</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

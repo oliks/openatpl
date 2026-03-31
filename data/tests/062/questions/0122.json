@@ -1,0 +1,14 @@
+{
+  "number": 122,
+  "questionId": "062-0122",
+  "questionNumber": "062-0122",
+  "stemHtml": "<p>What can be used to assess the GNSS calculated pseudo-range integrity?</p>",
+  "options": {
+    "a": "<p>GBAS</p>",
+    "b": "<p>RAIM</p>",
+    "c": "<p>RAIM predictability</p>",
+    "d": "<p>SBAS</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

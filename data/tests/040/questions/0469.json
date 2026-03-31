@@ -1,0 +1,14 @@
+{
+  "number": 469,
+  "questionId": "040-0469",
+  "questionNumber": "040-0469",
+  "stemHtml": "<p>Consider the following scenario during the initial approach phase of a commercial flight into an airfield situated in mountainous terrain:</p><p>1) The pilots notice that information from two engine instruments does NOT agree<br>2) Both pilots are fully focused on analysing the problem<br>3) The weather is VMC and there is a lot of light and heavy aircraft traffic in the area<br>4) The ETA is 30 minutes behind schedule, endangering a timely departure for the next leg</p><p>Considering the theories and models of human error, to ensure the safety of the flight, what should the pilots do at this point?</p>",
+  "options": {
+    "a": "<p>This might just be an isolated case of an engine indication error. Because the pilots are not sure they should ignore the indication until after landing.</p>",
+    "b": "<p>The pilots should continue to focus their attention on the problem while they proceed to the destination for landing.</p>",
+    "c": "<p>An error chain might be developing: preventative actions should be taken to manage the threats and errors.</p>",
+    "d": "The pilots should contact ATC and request advice on how to proceed."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

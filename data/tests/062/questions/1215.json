@@ -1,0 +1,14 @@
+{
+  "number": 1215,
+  "questionId": "062-1215",
+  "questionNumber": "062-1215",
+  "stemHtml": "<p>Within the PBN concept, how is \u201cavailability\u201d defined?</p>",
+  "options": {
+    "a": "<p>The ability of a system to maintain position accuracy 99.99% of the time</p>",
+    "b": "<p>The assurance that position accuracy is within 1x RNAV/RNP requirements 95% of the time</p>",
+    "c": "<p>The ability of a system to provide timely warnings when it should not be used for navigation</p>",
+    "d": "<p>The percentage of time (annually) during which the system is available for use</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

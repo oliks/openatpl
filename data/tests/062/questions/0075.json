@@ -1,0 +1,14 @@
+{
+  "number": 75,
+  "questionId": "062-0075",
+  "questionNumber": "062-0075",
+  "stemHtml": "Which of the following statements is correct regarding the accuracy that can be obtained with the LAAS (Local Area Augmentation System) of the satellite navigation system NAVSTAR/GPS?",
+  "options": {
+    "a": "A LAAS cannot correct for satellite timing and orbital position error.",
+    "b": "A LAAS corrects the position of the aircraft by relaying the information via a geostationary satellite.",
+    "c": "The increase in accuracy of position fixes is independent of the aircraft position in relation to the LAAS ground reference station.",
+    "d": "The closer the receiver is to a LAAS ground reference station, the more accurate is the aircraft position fix."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 625,
+  "questionId": "061-0625",
+  "questionNumber": "061-0625",
+  "stemHtml": "<p>Refer to figure. <br /> The attached flight log shows the distances and planned ground speeds between different waypoints on a route. Assuming the aircraft flies at the planned groundspeed of 167 kt, what is the time taken between points C and E?</p>",
+  "options": {
+    "a": "<p>10 minutes</p>",
+    "b": "<p>12 minutes</p>",
+    "c": "<p>16 minutes</p>",
+    "d": "<p>9 minutes</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0146",
+      "publicUrl": "/attachments/061/061-att-0146.png"
+    }
+  ]
+}

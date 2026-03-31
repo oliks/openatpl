@@ -1,0 +1,14 @@
+{
+  "number": 1317,
+  "questionId": "061-1317",
+  "questionNumber": "061-1317",
+  "stemHtml": "<p>On a Lambert conformal conical chart projection, two waypoints A and B are connected by a straight line. Given the following information, calculate the latitude of the parallel of origin:</p><p>A: 59\u00b052'N 001\u00b017'W <br>B: 58\u00b052'N 005\u00b038'E <br>Initial track point A to B: 109\u00b0(M), variation 007\u00b0W <br>Initial track point B to A: 291\u00b0(M), variation 003\u00b0W</p>",
+  "options": {
+    "a": "<p>59\u00b0N</p>",
+    "b": "<p>60\u00b0N</p>",
+    "c": "<p>63\u00b0N</p>",
+    "d": "<p>73\u00b0N</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

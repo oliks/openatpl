@@ -1,0 +1,14 @@
+{
+  "number": 1165,
+  "questionId": "061-1165",
+  "questionNumber": "061-1165",
+  "stemHtml": "<p>Given the following, calculate the climb gradient (%):</p><p>Rate Of Climb: 740 ft/min <br /> TAS: 200 kt <br /> Headwind: 15 kt</p><div> </div>",
+  "options": {
+    "a": "2.5%",
+    "b": "3.7%",
+    "c": "3.4%",
+    "d": "4%"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

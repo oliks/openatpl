@@ -1,0 +1,14 @@
+{
+  "number": 380,
+  "questionId": "062-0380",
+  "questionNumber": "062-0380",
+  "stemHtml": "<p>An aircraft plans to fly an RNP APCH to LNAV/VNAV minima based on Barometric VNAV. In which segment(s) of the approach can temperature compensation systems with an airworthiness approval provide corrections to the Baro-VNAV guidance?</p>",
+  "options": {
+    "a": "<p>All stages of the flight, for terrain clearance.</p>",
+    "b": "<p>Initial and intermediate approach segments.</p>",
+    "c": "<p>Initial and final approach segments.</p>",
+    "d": "<p>Final approach segment.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

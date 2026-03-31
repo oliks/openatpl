@@ -1,0 +1,14 @@
+{
+  "number": 379,
+  "questionId": "062-0379",
+  "questionNumber": "062-0379",
+  "stemHtml": "<p dir=\"ltr\">A GBAS system communicates with an aircraft using GPS to provide aircraft with information, including:</p><p dir=\"ltr\">1. Integrity information, <br /> 2. Almanac data, <br /> 3. Approach data, <br /> 4. Receiver noise correction.</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">1 and 3</p>",
+    "b": "<p dir=\"ltr\">1 and 4</p>",
+    "c": "<p dir=\"ltr\">2 and 3</p>",
+    "d": "<p dir=\"ltr\">2 and 4</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1141,
+  "questionId": "062-1141",
+  "questionNumber": "062-1141",
+  "stemHtml": "\nWhich statement is correct about the SBAS (Satellite-Based Augmentation Systems)?\n\n\n\n\n\n",
+  "options": {
+    "a": "In an SBAS the pseudo range correction are sent to the users by the satellite of the satellite systems (e.g. by GPS satellites for GPS).",
+    "b": "In an SBAS the pseudo range corrections are determined by geostationary satellites and sent to the users by the satellite of the satellite systems (e.g. by GPS satellites for GPS).",
+    "c": "In an SBAS the pseudo range correction are determined by geostationary satellites and sent to the users by a network of ground stations.",
+    "d": "In an SBAS the pseudo range corrections are sent to the users by geostationary satellites."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

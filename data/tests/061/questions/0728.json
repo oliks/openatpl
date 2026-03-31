@@ -1,0 +1,14 @@
+{
+  "number": 728,
+  "questionId": "061-0728",
+  "questionNumber": "061-0728",
+  "stemHtml": "<p>While flying in the northern hemisphere, an aircraft has a VOR RMI reading of 285\u00b0 M to \u2018BUB\u2019 VOR. Given the following information, what bearing should be plotted from the VOR to the aircraft on a Mercator chart?</p>\r\r<p>Variation at the aircraft: 4\u00b0E <br /> \rVariation at the station: 8\u00b0E <br /> \rEarth convergence between the aircraft and the VOR: 6\u00b0</p>",
+  "options": {
+    "a": "<p>112\u00b0 T</p>",
+    "b": "<p>116\u00b0 T</p>",
+    "c": "<p>108\u00b0 T</p>",
+    "d": "<p>113\u00b0 T</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

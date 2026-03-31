@@ -1,0 +1,14 @@
+{
+  "number": 234,
+  "questionId": "050-0234",
+  "questionNumber": "050-0234",
+  "stemHtml": "<p>An aircraft is flying from Bratislava, Slovakia to Hamburg, Germany and there is a polar front lying across the route. Where around the front is freezing rain most likely to be encountered?</p>",
+  "options": {
+    "a": "<p>Below the front, in the cold sector, below the 0\u00b0C isotherm.</p>",
+    "b": "<p>Below the front, in the cold sector, above the 0\u00b0C isotherm.</p>",
+    "c": "<p>Above the front, in the warm sector, above the 0\u00b0C isotherm.</p>",
+    "d": "<p>Above the front, in the cold sector, below the 0\u00b0C isotherm.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 301,
+  "questionId": "062-0301",
+  "questionNumber": "062-0301",
+  "stemHtml": "An approach using only GNSS must meet which of the following RNP APCH minima?",
+  "options": {
+    "a": "LNAV minima.",
+    "b": "CAT I, II, II minima.",
+    "c": "<p>CAT II minima.</p>",
+    "d": "Baro-VNAV minima."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

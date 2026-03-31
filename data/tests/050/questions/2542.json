@@ -1,0 +1,14 @@
+{
+  "number": 2542,
+  "questionId": "050-2542",
+  "questionNumber": "050-2542",
+  "stemHtml": "<p>How does infrared satellite imagery compare regarding day/night usability and capability to differentiate between high-altitude and low-altitude clouds?</p>",
+  "options": {
+    "a": "<p>It can only be used at night and clearly distinguishes between high- and low-level clouds.</p>",
+    "b": "<p>It can only be used during the day but gives an accurate indication of cloud height.</p>",
+    "c": "<p>It can be used both day and night, but it does not reliably distinguish between high-and low-altitude clouds.</p>",
+    "d": "<p>It can only be used for low-level clouds and requires visible light.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

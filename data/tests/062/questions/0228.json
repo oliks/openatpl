@@ -1,0 +1,14 @@
+{
+  "number": 228,
+  "questionId": "062-0228",
+  "questionNumber": "062-0228",
+  "stemHtml": "What is the pulse power of a radar pulse string?",
+  "options": {
+    "a": "average pulse power multiplied by pulse width",
+    "b": "<p>the peak power of the pulse</p>",
+    "c": "<p>power measured over a period of time equal to the pulse width</p>",
+    "d": "the continuous power"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

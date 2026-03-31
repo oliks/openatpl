@@ -1,0 +1,19 @@
+{
+  "number": 386,
+  "questionId": "050-0386",
+  "questionNumber": "050-0386",
+  "stemHtml": "<p>Refer to figure. <br /> \rAt which airport is the following weather development taking place?</p>\r\r<p>TAF 060600Z 0607/0616 25006KT 8000 NSC BECMG 0613/0616 23016KT 4500 RA SCT030 OVC050=</p>",
+  "options": {
+    "a": "<p>LOWW</p>",
+    "b": "<p>EDDL</p>",
+    "c": "<p>LFPO</p>",
+    "d": "<p>LEMD</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0213",
+      "publicUrl": "/attachments/050/050-att-0213.jpeg"
+    }
+  ]
+}

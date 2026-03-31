@@ -1,0 +1,14 @@
+{
+  "number": 721,
+  "questionId": "062-0721",
+  "questionNumber": "062-0721",
+  "stemHtml": "An aircraft is flying eastbound, speaking with a very distant ATC station near its destination airport with the sun setting behind it. 10 minutes later the pilot stops receiving voice communications from the ATC. What has caused this?",
+  "options": {
+    "a": "The aircraft is now inside the skip zone, between the ground wave and the sky wave, and therefore cannot receive the controller.",
+    "b": "The sky wave and ground wave are fading each other out as they arrive out of phase.",
+    "c": "The ground wave has been reduced by the night effect and the aircraft is no longer within its range.",
+    "d": "The aircraft's communication systems have failed and it must divert to the nearest suitable alternate."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

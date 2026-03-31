@@ -1,0 +1,14 @@
+{
+  "number": 361,
+  "questionId": "061-0361",
+  "questionNumber": "061-0361",
+  "stemHtml": "<p>Consider the points A (40\u00b0S 173\u00b0E) and B (60\u00b0S 169\u00b0W). Which formula gives the Earth convergence between these two positions? <br /> (Convergency = change in)</p>",
+  "options": {
+    "a": "<p>longitude (20\u00b0) x cos (171\u00b0)</p>",
+    "b": "<p>longitude (20\u00b0) x sin (40\u00b0)</p>",
+    "c": "<p>longitude (18\u00b0) x sin (50\u00b0)</p>",
+    "d": "longitude (4\u00b0) x cos (60\u00b0)"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 211,
+  "questionId": "062-0211",
+  "questionNumber": "062-0211",
+  "stemHtml": "<p>The legend for a chart states that the procedure is an APV Baro or APV SBAS instrument approach procedure. The significance of this is that the approach is an approach procedure with vertical guidance, which is....</p>",
+  "options": {
+    "a": "<p>3D precision approach down to minima published as DA or DH.</p>",
+    "b": "<p>2D non - precision approach down to minima published as MDA, LNAV or LP.</p>",
+    "c": "<p>2D non - precision approach down to minima published as LNAV or LP.</p>",
+    "d": "<p>3D approach down to minima published as LNAV/VNAV or LPV.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

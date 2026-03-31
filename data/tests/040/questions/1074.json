@@ -1,0 +1,14 @@
+{
+  "number": 1074,
+  "questionId": "040-1074",
+  "questionNumber": "040-1074",
+  "stemHtml": "<p>The commander of a twin engined aircraft is 40 years old and has logged 5 800 total flight hours (1 500 on type). The 55 year old Co-Pilot, who used to be a senior commander, recently joined the Operator, and has logged 11 200 total flight hours (also with 1 500 on type). The Co-Pilot is Pilot Flying on approach. Below the Minimum Descent Altitude the crew still do NOT have sufficient visual contact with the runway. The Ground Proximity Warning System then sounds, \"too low terrain\". The Co-Pilot says: \"We're going to make it\", and continues the approach, instead of starting the mandatory go-around procedure. The commander does NOT challenge the decision of the Co-Pilot and does NOT take control of the aircraft. The result is a crash caused by a Controlled Flight into Terrain.</p>\r\n\r\n<p>Which of the following options best explains the poor Crew Resource Management (CRM) that is illustrated in this scenario?</p>",
+  "options": {
+    "a": "The CRM is good, since the more experienced pilot makes the decision; the problem is due to different training programmes among different Operators, which should be addressed during briefings.",
+    "b": "Status and role are mixed: the less experienced commander fails to assert his/her authority over the more experienced co-pilot.",
+    "c": "The authority gradient in the cockpit is too steep: the less experienced commander can NOT assert his/her authority over the more experienced co-pilot.",
+    "d": "Roles, responsibilities and expertise are clearly defined; it is a problem of miscommunication between the co-pilot and the commander."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

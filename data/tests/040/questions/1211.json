@@ -1,0 +1,14 @@
+{
+  "number": 1211,
+  "questionId": "040-1211",
+  "questionNumber": "040-1211",
+  "stemHtml": "<p>Which of the following statements fits best the concept of latent error?</p>",
+  "options": {
+    "a": "<p>Latent errors are rarely made by front-line operators, and are consequently readily identified and detected by the monitoring, detection and warning links.</p>",
+    "b": "<p>Latent errors are detected rapidly.</p>",
+    "c": "<p>Latent errors are mainly associated with the behaviour of front-line operators and are only detected after advanced problem-solving.</p>",
+    "d": "<p>Latent errors are hard to identify because they can lie dormant for a long period of time before consequences of the errors are felt.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

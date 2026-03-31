@@ -1,0 +1,14 @@
+{
+  "number": 1393,
+  "questionId": "061-1393",
+  "questionNumber": "061-1393",
+  "stemHtml": "<p>Given the following information, calculate the maximum allowable wind speed:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Maximum allowable crosswind component: 20 kt</span> <br /> \nRunway centreline direction: 063\u00b0M <br /> \nWind direction: 100\u00b0M</p>",
+  "options": {
+    "a": "33 kt",
+    "b": "16 kt",
+    "c": "37 kt",
+    "d": "25 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

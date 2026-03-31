@@ -1,0 +1,14 @@
+{
+  "number": 1039,
+  "questionId": "050-1039",
+  "questionNumber": "050-1039",
+  "stemHtml": "When will the surface wind in a METAR record a gust factor?",
+  "options": {
+    "a": "With gusts of at least 25 knots.",
+    "b": "With gusts of at least 35 knots.",
+    "c": "When gusts are at least 10 knots above the mean wind speed.",
+    "d": "When gusts are at least 15 knots above the mean wind speed."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

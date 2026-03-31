@@ -1,0 +1,14 @@
+{
+  "number": 509,
+  "questionId": "062-0509",
+  "questionNumber": "062-0509",
+  "stemHtml": "<p>When using Baro-VNAV to fly an RNP approach, setting the altimeter correctly is vital. Which of the following options is correct?</p>",
+  "options": {
+    "a": "<p>This must be a 2D approach, and the crew check that the radio altimeter is functioning before initiating the approach.</p>",
+    "b": "<p>This must be a 3D approach, and the crew check that the radio altimeter is functioning before initiating the approach.</p>",
+    "c": "<p>This must be a 2D approach, and the crew cross-check each pilot's primary barometric altimeter to ensure that the readings are identical or similar.</p>",
+    "d": "<p>This must be a 3D approach, and the crew cross-check each pilot's primary barometric altimeter to ensure that the readings are identical or similar.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

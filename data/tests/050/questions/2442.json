@@ -1,0 +1,14 @@
+{
+  "number": 2442,
+  "questionId": "050-2442",
+  "questionNumber": "050-2442",
+  "stemHtml": "<p>Which of the answers below is a correct decode of parts of the METAR for Barcelona/Intl?</p>\r\n\r\n<p>METAR LEBL 020830Z 11008KT 070V130 9999 FEW030 SCT055 25/17 Q1013 NOSIG=</p>",
+  "options": {
+    "a": "<div>Wind direction varying between 70\u00b0 and 130\u00b0, visibility 10 km or more, no significant change within the next two hours.</div>",
+    "b": "<div>Issued at the 2nd day of the month at 08:30 local time, wind direction varying between 70\u00b0 and 130\u00b0, QFE 1013 hPa.</div>",
+    "c": "<div>Runway visual range varying between 700 and 1300 m, 1-2 oktas clouds at 300 ft AGL, 3-4 oktas clouds at 550 ft AGL, no significant change within the next two hours.</div>",
+    "d": "Visibility 10 km or more, 1-2 oktas clouds at 3000 ft above MSL, 3-5 oktas clouds at 5500 ft above MSL, air temperature 25\u00b0C, dew point 17\u00b0C."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

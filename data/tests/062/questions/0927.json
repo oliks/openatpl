@@ -1,0 +1,14 @@
+{
+  "number": 927,
+  "questionId": "062-0927",
+  "questionNumber": "062-0927",
+  "stemHtml": "<p>SBAS improves the performance (position accuracy) of GNSS/GPS receivers by which of the following methods?</p>",
+  "options": {
+    "a": "<p>Reducing clock errors.</p>",
+    "b": "<p>Providing an additional signal to GPS receivers.</p>",
+    "c": "<p>Providing an additional signal coming from the geostationary satellites.</p>",
+    "d": "<p>Providing an additional signal coming from the navigation satellites.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

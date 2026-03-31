@@ -1,0 +1,14 @@
+{
+  "number": 698,
+  "questionId": "061-0698",
+  "questionNumber": "061-0698",
+  "stemHtml": "<p>A pilot is approaching runway 34L and preparing to turn onto final. Using mental dead reckoning, calculate the Wind Correction Angle from the data provided.</p>\r\r<p>W/V given by ATC Tower Controller: 020\u00b0/25 kt <br /> \rMagnetic Variation: 20\u00b0W <br /> \rTAS: 115 kt</p>",
+  "options": {
+    "a": "<p>8\u00b0 right</p>",
+    "b": "<p>11\u00b0 right</p>",
+    "c": "<p>10\u00b0 right</p>",
+    "d": "<p>12\u00b0 right</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

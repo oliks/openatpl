@@ -1,0 +1,19 @@
+{
+  "number": 2000,
+  "questionId": "050-2000",
+  "questionNumber": "050-2000",
+  "stemHtml": "<p>Refer to figure.  <br />  After approximately 15 minutes in the cruise, you begin your descent toward Oslo. The planned track takes the aircraft through a small, developing cumulonimbus cloud situated about 1000 ft above its base, between waypoints TITLA and XINLO. Immediately prior to entering the cloud, the Outside Air Temperature is observed to be +3\u00b0C. Based on these conditions, what degree of airframe icing can be expected while operating within the cloud?</p>",
+  "options": {
+    "a": "<p>Light airframe icing.</p>",
+    "b": "<p>NO airframe icing.</p>",
+    "c": "<p>Moderate airframe icing.</p>",
+    "d": "<p>Severe airframe icing.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0124",
+      "publicUrl": "/attachments/050/050-att-0124.png"
+    }
+  ]
+}

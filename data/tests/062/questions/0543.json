@@ -1,0 +1,14 @@
+{
+  "number": 543,
+  "questionId": "062-0543",
+  "questionNumber": "062-0543",
+  "stemHtml": "<p>Which of the following correctly describes multipath?</p>",
+  "options": {
+    "a": "<p>An antenna emitting both ground wave and sky wave.</p>",
+    "b": "<p>An antenna transmitting and receiving at the same time.</p>",
+    "c": "<p>A signal reaching the receiving antenna via two or more different propagation paths.</p>",
+    "d": "<p>An antenna receiving radio waves from a VOR and an NDB simultaneously.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

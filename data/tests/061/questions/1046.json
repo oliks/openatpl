@@ -1,0 +1,14 @@
+{
+  "number": 1046,
+  "questionId": "061-1046",
+  "questionNumber": "061-1046",
+  "stemHtml": "<p>Given the following information, calculate the magnetic track at 018\u00b0E, if you're flying a great circle track from DETSO (58.6\u00b0N 014.265\u00b0E) to RASEL (58.03\u00b0N 020.415\u00b0E):</p><p>Variation at 18\u00b0E: +6\u00b0 <br>Track at DETSO: 094\u00b0M <br>Variation at DETSO: +4\u00b0</p>",
+  "options": {
+    "a": "<p>099\u00b0M</p>",
+    "b": "<p>101\u00b0M</p>",
+    "c": "<p>095\u00b0M</p>",
+    "d": "<p>103\u00b0M</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 254,
+  "questionId": "062-0254",
+  "questionNumber": "062-0254",
+  "stemHtml": "Why is a secondary radar display screen free of storm clutter?",
+  "options": {
+    "a": "A moving target indicator facility suppresses the display of static or near-static returns.",
+    "b": "The frequencies used are too high to give returns from moisture sources.",
+    "c": "Echo returns are not used in secondary radar.",
+    "d": "The frequencies used are too low to give returns from moisture sources."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

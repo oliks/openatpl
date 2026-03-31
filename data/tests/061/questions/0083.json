@@ -1,0 +1,14 @@
+{
+  "number": 83,
+  "questionId": "061-0083",
+  "questionNumber": "061-0083",
+  "stemHtml": "<p>Given the following information, what is the magnetic bearing from the aircraft to the NDB?</p><p>NDB position: 55\u00b026\u2019N, 005\u00b042\u2019W <br>Aircraft position: 56\u00b000\u2019N, 010\u00b000\u2019W <br>Variation at the NDB: 9\u00b0W <br>Variation at the aircraft: 11\u00b0W <br>Great circle track, aircraft to NDB: 101.5\u00b0T</p>",
+  "options": {
+    "a": "110.5\u00b0",
+    "b": "112.5\u00b0",
+    "c": "114.5\u00b0",
+    "d": "108.5\u00b0"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1197,
+  "questionId": "061-1197",
+  "questionNumber": "061-1197",
+  "stemHtml": "<p>Given the following information, calculate the average Groundspeed (GS) during the climb between FL50 and FL150:</p>\r\r<p>True Track: 098\u00b0 <br /> \rTAS at FL50: 150 kt <br /> \rTAS at FL150: 200 kt <br /> \rWV at FL50: 200\u00b0T/35 kt <br /> \rWV at FL150: 250\u00b0T/60 kt</p>",
+  "options": {
+    "a": "<p>216 kt</p>",
+    "b": "<p>178 kt</p>",
+    "c": "<p>199 kt</p>",
+    "d": "<p>175 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1310,
+  "questionId": "062-1310",
+  "questionNumber": "062-1310",
+  "stemHtml": "A pilot is setting up the radio navigation aids for an ILS approach at the destination. The ILS frequency is given on the approach chart as 109.90 MHz. The glide path frequency is...",
+  "options": {
+    "a": "109.90 MHz, the same frequency as the localiser.",
+    "b": "109.90 MHz and tuning this also tunes a paired UHF localiser frequency.",
+    "c": "tuned automatically when 109.90 MHz is tuned for the localiser.",
+    "d": "a second frequency that the pilot tunes on the ILS receiver, and it is paired with 109.90 MHz."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

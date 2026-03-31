@@ -1,0 +1,14 @@
+{
+  "number": 707,
+  "questionId": "061-0707",
+  "questionNumber": "061-0707",
+  "stemHtml": "<p>Given the following information, what radial is the aircraft on?</p>\n\n<p><span style=\"letter-spacing:0.7px\">VOR position: 55\u00b026\u2019N, 005\u00b042\u2019W</span>  <br />  \nAircraft position: 56\u00b000\u2019N, 010\u00b000\u2019W  <br />  \nVariation at the VOR: 9\u00b0W  <br />  \nVariation at the aircraft: 11\u00b0W  <br />  \nGreat circle track, aircraft to VOR: 101.5\u00b0 T</p>",
+  "options": {
+    "a": "278\u00b0",
+    "b": "294\u00b0",
+    "c": "296\u00b0",
+    "d": "276\u00b0"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

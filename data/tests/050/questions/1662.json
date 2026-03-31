@@ -1,0 +1,14 @@
+{
+  "number": 1662,
+  "questionId": "050-1662",
+  "questionNumber": "050-1662",
+  "stemHtml": "Which of the following weather reports could be, in accordance with the regulations, abbreviated to &quot;CAVOK&quot;? (MSA minus airport elevation equals: LSZB 15000 ft, LSZH 8000 ft, LSGG 10000 ft, LSZG 7000 ft)",
+  "options": {
+    "a": "LSZH VRB02KT 9000 BKN080 21/14 Q1022 NOSIG=",
+    "b": "LSGG 22006KT 9999 BKN090 17/15 Q1008 RERA NOSIG=",
+    "c": "LSZB 28012KT 9999 OVC150 16/12 Q1012 BECMG 5000 -RA=",
+    "d": "LSZG 24008KT 9999 SCT050 18/11 Q1017 RERA NOSIG="
+  },
+  "correctOption": "c",
+  "attachments": []
+}

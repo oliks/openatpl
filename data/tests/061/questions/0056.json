@@ -1,0 +1,14 @@
+{
+  "number": 56,
+  "questionId": "061-0056",
+  "questionNumber": "061-0056",
+  "stemHtml": "You are traveling westward towards your destination and during cruise you cross the International Date Line. At the destination, the calendar date will (1) _____, and the clock time should (2) _____.",
+  "options": {
+    "a": "(1) go back one day, (2) increase by 12 hours.",
+    "b": "(1) go forward one day, (2) decrease by 12 hours.",
+    "c": "(1) not change, (2) increase by 12 hours.",
+    "d": "(1) not change, (2) not change."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

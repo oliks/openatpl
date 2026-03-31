@@ -1,0 +1,14 @@
+{
+  "number": 1265,
+  "questionId": "061-1265",
+  "questionNumber": "061-1265",
+  "stemHtml": "<p>Given the following information, calculate the drift and groundspeed:</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAS: 230 kt</span> <br /> \nHeading: 250\u00b0T <br /> \nWind velocity: 205\u00b0T /10 kt</p>\n\n<div> </div>",
+  "options": {
+    "a": "Drift: 2\u00b0L, groundspeed: 224 kt",
+    "b": "Drift: 2\u00b0R, groundspeed: 223 kt",
+    "c": "Drift: 1\u00b0L, groundspeed: 225 kt",
+    "d": "Drift: 1\u00b0R, groundspeed: 221 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

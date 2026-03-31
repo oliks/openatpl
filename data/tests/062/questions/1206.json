@@ -1,0 +1,14 @@
+{
+  "number": 1206,
+  "questionId": "062-1206",
+  "questionNumber": "062-1206",
+  "stemHtml": "<p>A pilot requests the QDM to be passed by an ATC station. The station replies \"QDM 125\u00b0 Class B\". The variation in the vicinity of the station is 10\u00b0 East and the variation in the vicinity of the aircraft is negligible. Select the correct option.</p>",
+  "options": {
+    "a": "<p>True bearing from the station is 125\u00b0 \u00b1 5\u00b0.</p>",
+    "b": "<p>Magnetic bearing to the station 125\u00b0 \u00b1 2\u00b0.</p>",
+    "c": "<p>True bearing to the station is 125\u00b0 \u00b1 5\u00b0.</p>",
+    "d": "<p>Magnetic bearing to the station is 125\u00b0 \u00b1 5\u00b0.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

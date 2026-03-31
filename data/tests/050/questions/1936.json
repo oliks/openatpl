@@ -1,0 +1,14 @@
+{
+  "number": 1936,
+  "questionId": "050-1936",
+  "questionNumber": "050-1936",
+  "stemHtml": "<p>According to ICAO Annex 3, gridded data sets used for weather forecasting include which of the following information?</p>\r\r<p>1. Wind and temperature from FL50 to FL530. <br /> \r2. Altitude and temperature of the tropopause. <br /> \r3. Horizontal and vertical extent of any precipitation. <br /> \r4. Air density at different levels. <br /> \r5. Humidity at different levels.</p>",
+  "options": {
+    "a": "<p>1, 3 and 5.</p>",
+    "b": "<p>2, 4 and 5.</p>",
+    "c": "<p>1, 2 and 5.</p>",
+    "d": "<p>2, 3 and 4.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

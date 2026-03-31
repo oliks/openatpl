@@ -1,0 +1,14 @@
+{
+  "number": 2333,
+  "questionId": "050-2333",
+  "questionNumber": "050-2333",
+  "stemHtml": "<p>In what way does ozone contribute to atmospheric heating, and what effect can this have on flight operations?</p>",
+  "options": {
+    "a": "<p>Ozone primarily absorbs ultraviolet radiation, which heats the stratosphere and can lead to turbulence at cruising altitudes.   </p>",
+    "b": "<p>Ozone absorbs UV radiation, mainly cooling the upper atmosphere and leading to calm, stable air at high altitudes.    </p>",
+    "c": "<p>Ozone does not affect atmospheric temperatures significantly; its primary role is in filtering out visible light from the sun.    </p>",
+    "d": "<p>Ozone absorbs infrared radiation, directly increasing temperatures in the troposphere, which can cause thermal updrafts near the Earth's surface.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

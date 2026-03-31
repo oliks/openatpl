@@ -1,0 +1,14 @@
+{
+  "number": 2378,
+  "questionId": "050-2378",
+  "questionNumber": "050-2378",
+  "stemHtml": "<p>A flight from Shannon to Newcastle must make an en-route diversion. The flight crew are considering diverting to Belfast (EGAA), and find the following TAF in their briefing pack. What visibility and weather conditions can they expect at Belfast at 19:00 UTC on the 27th day of the month?</p>\r\n\r\n<p>EGAA 270600Z 2708/2720 14011KT 9999 SCT012 BKN040 TEMPO 2712/2720 13015G20KT BKN012 PROB40 TEMPO 2712/2720 4000 SHRA=</p>\r\n",
+  "options": {
+    "a": "Visibility 10 km or more; reducing to 4000 m in heavy rain.",
+    "b": "Visibility 4000 in showers of rain.",
+    "c": "<p>Visibility between greater than 10 000 m and 4000 m reducing in moderate rain showers.</p>",
+    "d": "<p>Prevailing visibility between greater than 10 000 m and 4000 m in wet hail and rain.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 100,
+  "questionId": "050-0100",
+  "questionNumber": "050-0100",
+  "stemHtml": "Comparing pictures from geostationary satelittes and pictures from polar orbiting satellites, which meteorological satellite pictures have a higher resolution?",
+  "options": {
+    "a": "Meteorological satellites are always polar orbiting satellites, because geostationary satellites are not used for meteorological services.",
+    "b": "The resolution of pictures from both, geostationary satellites and polar orbiting satellites is the same.",
+    "c": "Pictures from geostationary satellites.",
+    "d": "Pictures from polar orbiting satellites."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

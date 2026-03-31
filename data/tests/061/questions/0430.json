@@ -1,0 +1,14 @@
+{
+  "number": 430,
+  "questionId": "061-0430",
+  "questionNumber": "061-0430",
+  "stemHtml": "<p>An aircraft departs from an aerodrome at 10:00 with a planned track of 090\u00b0T and a groundspeed of 100 kt. The wind correction angle for the planned flight is -5\u00b0. At 10:12 the aircraft is 2 NM off track to the left. What is the Track Error Angle and the actual Drift?</p>",
+  "options": {
+    "a": "<p>Track Error Angle: 6\u00b0 Left; Actual Drift: 1\u00b0 Left</p>",
+    "b": "<p>Track Error Angle: 4\u00b0 Left; Actual Drift: 2\u00b0 Left</p>",
+    "c": "<p>Track Error Angle: 1\u00b0 Left; Actual Drift: 6\u00b0 Left</p>",
+    "d": "<p>Track Error Angle: 2\u00b0 Left; Actual Drift: 4\u00b0 Left</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

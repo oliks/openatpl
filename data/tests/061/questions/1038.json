@@ -1,0 +1,19 @@
+{
+  "number": 1038,
+  "questionId": "061-1038",
+  "questionNumber": "061-1038",
+  "stemHtml": "<p style=\"\">Refer to figure. <br /> Refer to \"E(LO)2\" chart from the Jeppesen GSPRM 2017. <br /> Given the following bearing and range information obtained from TRENT (TNT) VOR/DME (53\u00b003'N, 001\u00b040'W), what is the aircraft's position?</p><p style=\"\">Radial: 093\u00b0 <br /> Range: 72 NM</p>",
+  "options": {
+    "a": "53\u00b059'N, 000\u00b025'W",
+    "b": "53\u00b001'N, 001\u00b040'E",
+    "c": "53\u00b000'N, 000\u00b020'W",
+    "d": "52\u00b059'N, 000\u00b020'E"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0134",
+      "publicUrl": "/attachments/061/061-att-0134.jpg"
+    }
+  ]
+}

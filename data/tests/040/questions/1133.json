@@ -1,0 +1,14 @@
+{
+  "number": 1133,
+  "questionId": "040-1133",
+  "questionNumber": "040-1133",
+  "stemHtml": "Programming of autoflight systems can add to the pilot's workload, and slips can easily occur during such programming. Which of the following methods is the safest to use?",
+  "options": {
+    "a": "Rely on the autoflight systems, which identify errors as a result of slips and bring them to the attention of the crew.",
+    "b": "Frequently update the programming to ensure the correct flight path is followed. Cross-checking of programming should be completed after acceptance.",
+    "c": "Avoid programming during critical stages of flight. Cross checking of programming should be completed prior to acceptance.",
+    "d": "Actively monitor the displays throughout the flight and monitor the flight. Slips within the system CANNOT be identified as they are latent in nature."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

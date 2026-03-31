@@ -1,0 +1,19 @@
+{
+  "number": 2060,
+  "questionId": "050-2060",
+  "questionNumber": "050-2060",
+  "stemHtml": "Refer to figure. <br /> Using the significant weather chart indicated, regarding the jet stream located to the north-west of Norway, what is the significance of the number \"480?\" written underneath the jet \"150/480?\"?",
+  "options": {
+    "a": "This is the upper boundary of the jet stream expressed as a flight level.",
+    "b": "This is the maximum speed in knots attained in the jet core.",
+    "c": "This is the local temperature in Kelvin at the height of the jet stream core.",
+    "d": "This is the upper limit of the associated Clear Air Turbulence area expressed as a flight level."
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0074",
+      "publicUrl": "/attachments/050/050-att-0074.jpg"
+    }
+  ]
+}

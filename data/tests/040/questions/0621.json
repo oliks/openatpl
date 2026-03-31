@@ -1,0 +1,14 @@
+{
+  "number": 621,
+  "questionId": "040-0621",
+  "questionNumber": "040-0621",
+  "stemHtml": "<p>In a light single engine piston aircraft, there is a leak in the exhaust manifold, allowing carbon monoxide to enter the cockpit. What effect will this have on the pilot?</p>",
+  "options": {
+    "a": "<p>Carbon monoxide inhalation causes a build up of carbonic acid in the blood, leading to hyperventilation and dizziness. These symptoms will clear, so it does not represent a serious threat to the pilot.</p>",
+    "b": "<p>Haemoglobin has a much greater affinity to bind with carbon monoxide than with oxygen. The pilot will suffer from carbon monoxide poisoning and have difficulties in transporting oxygen around the body.</p>",
+    "c": "<p>Carbon monoxide is toxic to the nervous system and will cause brain damage.</p>",
+    "d": "<p>Carbon monoxide destroys the heamoglobin within red blood cells, so the pilot's body will have trouble transporting oxygen in the blood.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

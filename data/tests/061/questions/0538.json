@@ -1,0 +1,14 @@
+{
+  "number": 538,
+  "questionId": "061-0538",
+  "questionNumber": "061-0538",
+  "stemHtml": "<p>Calculate the Wind Correction Angle (WCA) by using the following values:</p>\r\r<p>TAS: 120 kt <br /> \rTrack: 135\u00b0(T) <br /> \rCrosswind from left: 21 kt</p>",
+  "options": {
+    "a": "<p>+6\u00b0</p>",
+    "b": "<p>-10.5\u00b0</p>",
+    "c": "<p>+10.5\u00b0</p>",
+    "d": "<p>-6\u00b0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

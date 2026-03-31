@@ -1,0 +1,14 @@
+{
+  "number": 1061,
+  "questionId": "040-1061",
+  "questionNumber": "040-1061",
+  "stemHtml": "<p>A pilot enters an incorrect waypoint in to the FMS. What kind of error is this?</p>",
+  "options": {
+    "a": "<p>Error of omission</p>",
+    "b": "<p>Latent error</p>",
+    "c": "<p>Rule based error</p>",
+    "d": "<p>Routine error</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

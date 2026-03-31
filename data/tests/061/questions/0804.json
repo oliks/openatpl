@@ -1,0 +1,14 @@
+{
+  "number": 804,
+  "questionId": "061-0804",
+  "questionNumber": "061-0804",
+  "stemHtml": "<p>Given the following information, calculate the elapsed time between Waypoint 1 and Waypoint 2. </p>\r\r<p>Distance from Waypoint 1 to Waypoint 2: 350 km  <br /> \rTAS: 440 kt <br /> \rWind component: -55 kt</p>",
+  "options": {
+    "a": "<p>26 minutes</p>",
+    "b": "<p>29 minutes 30 seconds</p>",
+    "c": "<p>54 minutes 30 seconds</p>",
+    "d": "<p>48 minutes</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

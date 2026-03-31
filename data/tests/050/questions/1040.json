@@ -1,0 +1,19 @@
+{
+  "number": 1040,
+  "questionId": "050-1040",
+  "questionNumber": "050-1040",
+  "stemHtml": "<p>Refer to figure. <br>The red dotted line shows the track crossing a front. There is a cold front with CBs up to FL370. The cruising altitude is FL360, and the maximum altitude is FL380. What is the best course of action?</p>",
+  "options": {
+    "a": "<p>It is safe to fly straight through the cold front at FL360 and keep the flight plan route. Only up to moderate turbulence can be expected within the cloud tops, without further hazards for flight safety.</p>",
+    "b": "<p>Climb to FL380 to fly above the cold front. Moderate to severe turbulence can be expected within the CB cells, but only light turbulence above the CB cells.</p>",
+    "c": "<p>Use the airborne weather radar and visual cues to circumnavigate the CB cells. Turbulence can be expected circumnavigating the CB cells.</p>",
+    "d": "<p>Descend to FL280 to increase the margin for manoeuvring and avoid severe turbulence. Request help from ATC to find a safe path through the front, as they have better weather radar equipment.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0453",
+      "publicUrl": "/attachments/050/050-att-0453.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 640,
+  "questionId": "050-0640",
+  "questionNumber": "050-0640",
+  "stemHtml": "<p>Refer to figure. <br>Using the following METAR report:</p><p>LPPT 251200Z 21010KT CAVOK 18/10 Q1015 NOSIG</p><p>Determine the wind\u2019s orientation in relation to Runway 23 during take-off, taking into account a magnetic variation of 10\u00b0 East.</p>",
+  "options": {
+    "a": "<p>15\u00b0 from the right at 10 kt.</p>",
+    "b": "<p>20\u00b0 from the left at 10 kt.</p>",
+    "c": "<p>30\u00b0 from the left at 10 kt.</p>",
+    "d": "<p>30\u00b0 from the right at 10 kt.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0348",
+      "publicUrl": "/attachments/050/050-att-0348.png"
+    }
+  ]
+}

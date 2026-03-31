@@ -1,0 +1,19 @@
+{
+  "number": 573,
+  "questionId": "061-0573",
+  "questionNumber": "061-0573",
+  "stemHtml": "<p>Refer to Jeppesen GSPRM Training Route Manual - Chart \"E LO 2\". <br /> \nFind the current aircraft's position, given the following bearing and distance information obtained from SPIJKERBOOR (SPY, VOR/DME, N52\u00b0 32' E004\u00b0 51\u2019):</p>\n\n<p>Radial: 023\u00b0 <br /> \nDistance: 63 NM</p>",
+  "options": {
+    "a": "53\u00b0 25\u2019 N 005\u00b0 30\u2019 E",
+    "b": "54\u00b0 34\u2019 N 004\u00b0 37\u2019 E",
+    "c": "53\u00b0 30\u2019 N 005\u00b0 33\u2019 E",
+    "d": "53\u00b0 40\u2019 N 005\u00b0 41\u2019 E"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0053",
+      "publicUrl": "/attachments/061/061-att-0053.jpg"
+    }
+  ]
+}

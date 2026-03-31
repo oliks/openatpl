@@ -1,0 +1,14 @@
+{
+  "number": 1133,
+  "questionId": "050-1133",
+  "questionNumber": "050-1133",
+  "stemHtml": "<p>Below is the forecast for the destination of a flight whose ETA is 20:30 UTC.</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF YUDO 120600Z 1212/1306 17010KT 3000 SCT005 BECMG 1218/1220 VRB03KT BCFG NSC TEMPO 1220/1222 0300 FG VV001= What can be said about the destination airport at 20:30 UTC if ILS minima 350 m RVR, 200 ft Decision Height are being considered?</span></p>",
+  "options": {
+    "a": "There is the possibility that the weather conditions may be below the applicable landing minima.",
+    "b": "The weather conditions will be above the applicable landing minima until 22:00 UTC because the weather change is not completed before this time.",
+    "c": "The weather conditions will be above the applicable landing minima because the decrease in visibility below the ILS minima will be a little bit later than 20:30 UTC.",
+    "d": "The weather conditions will be above the applicable landing minima throughout the forecast period because 300m of visibility corresponds to at least 900m RVR."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

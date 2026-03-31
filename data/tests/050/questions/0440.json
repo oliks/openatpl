@@ -1,0 +1,14 @@
+{
+  "number": 440,
+  "questionId": "050-0440",
+  "questionNumber": "050-0440",
+  "stemHtml": "<p>YSCB AD WRNG 1 VALID 161500/162230ZFROST EXPECTED AT THE AERODROME DURING THE VALIDITY PERIOD. THE MINIMUM TEMPERATURE IS EXPECTED TO BE MINUS THREE DEGREEES.</p>\r\n\r\n<p>This message is (1) __ providing information about (2) __.</p>",
+  "options": {
+    "a": "1. a NOTAM; 2. closure of the aerodrome.",
+    "b": "1. an aerodrome warning; 2. frost.",
+    "c": "1. an AIRMET; 2. low temperatures.",
+    "d": "1. a SIGMET; 2. Icing conditions."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

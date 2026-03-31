@@ -1,0 +1,14 @@
+{
+  "number": 1448,
+  "questionId": "050-1448",
+  "questionNumber": "050-1448",
+  "stemHtml": "<p>Which of these statements best describes the weather most likely to be experienced at 15:00 UTC?</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF LSZH 211200Z 2113/2122 22018G35KT 9999 SCT012 BKN030 BECMG 2113/2115 25025G45KT TEMPO 2117/2120 4000 +SHRA BKN025TCU BECMG 2120/2122 25015KT TX18/15Z TN14/21Z=</span></p>",
+  "options": {
+    "a": "Visibility 4 000 metres, gusts up to 25 knots, temperature 18\u00b0C.",
+    "b": "Visibility 10 kilometres or more, ceiling 1 200 feet, gusts up to 45 knots.",
+    "c": "Severe rain showers, visibility 4 000 metres, temperature 15 \u00b0C, gusts up to 35 knots.",
+    "d": "Visibility 10 kilometres or more, ceiling 3 000 feet, wind 250, temperature 18\u00b0C."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

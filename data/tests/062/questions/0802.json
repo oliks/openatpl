@@ -1,0 +1,14 @@
+{
+  "number": 802,
+  "questionId": "062-0802",
+  "questionNumber": "062-0802",
+  "stemHtml": "<p dir=\"ltr\">Consider PBN operations, what is one advantage of navigating using computed data, compared to raw data? The area navigation system will:</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Provide 3D navigation for the whole route.</p>",
+    "b": "<p dir=\"ltr\">Check the validity and in some cases consistency of sensor data before use.</p>",
+    "c": "<p dir=\"ltr\">Give a more accurate position, regardless of the sensor data that is being used.</p>",
+    "d": "Only use data from one sensor for navigation."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

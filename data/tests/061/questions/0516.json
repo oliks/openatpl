@@ -1,0 +1,14 @@
+{
+  "number": 516,
+  "questionId": "061-0516",
+  "questionNumber": "061-0516",
+  "stemHtml": "<p>Given the following information, calculate the current in-flight true (\u00b0(T)) wind velocity.</p>\n\n<p>Cruise level: FL90 <br /> \nCAS: 140 kt <br /> \nOAT: -7\u00b0C <br /> \nWind Component: -15 kt <br /> \nHeading: 304\u00b0(T) <br /> \nTrack: 316\u00b0(T)</p>",
+  "options": {
+    "a": "245\u00b0(T)/35 kt",
+    "b": "003\u00b0(T)/35 kt",
+    "c": "051\u00b0(T)/38 kt",
+    "d": "245\u00b0(T)/43 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

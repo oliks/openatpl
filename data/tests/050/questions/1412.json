@@ -1,0 +1,14 @@
+{
+  "number": 1412,
+  "questionId": "050-1412",
+  "questionNumber": "050-1412",
+  "stemHtml": "<p>An aircraft is standing on an aerodrome with a QNH of 1025 hPa and a QFE of 993 hPa. If the pilot sets QNH on the altimeter sub-scale, what altitude will the altimeter display while the aircraft is on the ground? <br>(Use a pressure change of 1 hPa \u2248 30 ft)</p>",
+  "options": {
+    "a": "<p>300 ft</p>",
+    "b": "<p>960 ft</p>",
+    "c": "<p>0 ft</p>",
+    "d": "<p>-960 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

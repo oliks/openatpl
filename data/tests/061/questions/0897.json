@@ -1,0 +1,19 @@
+{
+  "number": 897,
+  "questionId": "061-0897",
+  "questionNumber": "061-0897",
+  "stemHtml": "Refer to figure. <br /> Complete line 2 of the 'FLIGHT NAVIGATION LOG', positions \"C\" to \"D\". What is the HDG\u00b0(M) and ETA?",
+  "options": {
+    "a": "HDG 188\u00b0; ETA 12:29 UTC.",
+    "b": "HDG 193\u00b0; ETA 12:49 UTC.",
+    "c": "HDG 183\u00b0; ETA 11:59 UTC.",
+    "d": "HDG 193\u00b0; ETA 12:39 UTC."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0011",
+      "publicUrl": "/attachments/061/061-att-0011.png"
+    }
+  ]
+}

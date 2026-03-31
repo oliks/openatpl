@@ -1,0 +1,14 @@
+{
+  "number": 943,
+  "questionId": "062-0943",
+  "questionNumber": "062-0943",
+  "stemHtml": "<p>Receiver Autonomous Integrity Monitoring (RAIM) is a method used to ensure GNSS position integrity within a GNSS receiver. This is achieved by using the 3D position and timing data from...</p>",
+  "options": {
+    "a": "a database in the GPS receiver and compare to the 3D position and time data derived from 4 satellites.",
+    "b": "more than one GPS receiver and compare these to eliminate the receiver that shows incorrect data.",
+    "c": "multiple aircraft systems and compare to the GPS 3D position and time data to check for consistency<strong>.</strong>",
+    "d": "any number of visible satellites beyond 4 to create several independent positions which should agree."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 111,
+  "questionId": "062-0111",
+  "questionNumber": "062-0111",
+  "stemHtml": "The BFO selection will:",
+  "options": {
+    "a": "cause the ADF to automatically select the best frequency of nearby NDBs.",
+    "b": "make the modulation tone audible.",
+    "c": "make the carrier wave audible.",
+    "d": "increase the transmission signal of the NDB."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

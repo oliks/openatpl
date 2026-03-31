@@ -1,0 +1,14 @@
+{
+  "number": 923,
+  "questionId": "061-0923",
+  "questionNumber": "061-0923",
+  "stemHtml": "<p>What is the correct statement regarding the scale of a Lambert Conformal Conic projection?</p>",
+  "options": {
+    "a": "<p>The distortion in scale further away from the standard parallels should be minimal, compared to the scale printed on the chart.</p>",
+    "b": "<p>The scale within the standard parallels is larger than the given scale in the index of the chart.</p>",
+    "c": "<p>The distortion in scale outside of the standard parallels is much greater (above 5%) than the distortion in scale within the standard parallels.</p>",
+    "d": "<p>The given scale in the index of the chart is valid for the parallel of origin of the chart but for other parts of the chart there is distortion.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

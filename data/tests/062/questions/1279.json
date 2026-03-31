@@ -1,0 +1,14 @@
+{
+  "number": 1279,
+  "questionId": "062-1279",
+  "questionNumber": "062-1279",
+  "stemHtml": "How can an air traffic control unit determine the position of an aircraft without the use of radar?",
+  "options": {
+    "a": "By using auto-triangulation provided from several VDF bearings from a single station.",
+    "b": "<p>Auto-triangulation provided from several VOR bearings from a single station is used.</p>",
+    "c": "By using auto-triangulation provided from several VDF bearings from different stations.",
+    "d": "VHF NAV frequencies are used to calculate the position of the aircraft by triangulation."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1018,
+  "questionId": "050-1018",
+  "questionNumber": "050-1018",
+  "stemHtml": "<p>Refer to figure.<br>TC ADVISORY <br>DTG: 20150503/1900Z <br>TCAC: MIAMI <br>TC: DORIAN <br>TC ADVISORY NR: 2013/4 <br>OBS PSN: 12/1800Z N2706 W07306 <br>MOV: NW 18KT <br>INTST CHANGE: INTSF <br>C: 962 HPA <br>MAX WIND: 030MPS <br>FCST MAX WIND +24 HR: 027MPS <br>RMK: NILL <br>NXT MSG: 20150503/2000z</p><p>According to the tropical cyclone advisory above, which of the following statements are correct?</p><p>1. The average pressure is 962 hPa<br>2. Next message is expected at 2000z<br>3. Maximum surface wind is 30 metres per second<br>4. Date of issue is 5th March 2015<br>5. The tendency of the TC is to gain intensity<br>6. The maximum wind speed in 24 hours expected to be 28 MPS</p>",
+  "options": {
+    "a": "<p>1, 4 and 6.</p>",
+    "b": "<p>2, 4 and 5.</p>",
+    "c": "<p>2, 3 and 5.</p>",
+    "d": "<p>1, 4 and 5.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0223",
+      "publicUrl": "/attachments/050/050-att-0223.png"
+    }
+  ]
+}

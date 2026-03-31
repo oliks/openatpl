@@ -1,0 +1,14 @@
+{
+  "number": 944,
+  "questionId": "040-0944",
+  "questionNumber": "040-0944",
+  "stemHtml": "<p dir=\"ltr\">The co-pilot is assigned the role of communicating with ATC. The ATC relays to the co-pilot the clearance, and the co-pilot responds with an incorrect clearance. The ATC controller and the PIC fail to notice the co-pilot makes an incorrect read back. What errors have occurred?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Communication error by the co-pilot, PIC, and ATC.</p>",
+    "b": "<p dir=\"ltr\">Handling error by the co-pilot, and procedural error by the ATC and PIC.</p>",
+    "c": "Communication error by the co-pilot and ATC, handling error by the PIC.",
+    "d": "Handling error by the co-pilot, and procedural error by the PIC."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

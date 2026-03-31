@@ -1,0 +1,14 @@
+{
+  "number": 1016,
+  "questionId": "062-1016",
+  "questionNumber": "062-1016",
+  "stemHtml": "Which one of the following methods is used by a Microwave Landing System (MLS) to indicate distance from the runway threshold?",
+  "options": {
+    "a": "Measurement of the frequency shift between the MLS azimuth and elevation transmissions",
+    "b": "Timing the interval between the reception of sequential secondary radar pulses from the MLS station to the aircraft",
+    "c": "Measurement of range by a precision facility DME frequency paired with the azimuth and elevation channels.",
+    "d": "Timing the interval between the transmission and reception of primary radar pulses from the aircraft to MLS station"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

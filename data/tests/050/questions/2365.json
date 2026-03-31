@@ -1,0 +1,14 @@
+{
+  "number": 2365,
+  "questionId": "050-2365",
+  "questionNumber": "050-2365",
+  "stemHtml": "Which units are used for the forecast wind at higher levels?",
+  "options": {
+    "a": "Direction in degrees relative to magnetic north and speed in knots.",
+    "b": "Direction in degrees relative to grid north and speed in km/h.",
+    "c": "Direction in degrees relative to true north and speed in knots.",
+    "d": "Direction in degrees relative to magnetic north and speed in km/h."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

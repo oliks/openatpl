@@ -1,0 +1,14 @@
+{
+  "number": 1413,
+  "questionId": "061-1413",
+  "questionNumber": "061-1413",
+  "stemHtml": "<p style=\"\">Given the following information, using a mechanical computer, calculate the equivalent wind component.</p><p style=\"\">Track: 240\u00b0(T) <br /> Wind vector: 030\u00b0(T)/25 kt <br /> TAS: 90 kt</p>",
+  "options": {
+    "a": "<p>Headwind 12 kt</p>",
+    "b": "Tailwind 12 kt",
+    "c": "Headwind 22 kt",
+    "d": "Tailwind 22 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

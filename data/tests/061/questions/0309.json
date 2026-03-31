@@ -1,0 +1,14 @@
+{
+  "number": 309,
+  "questionId": "061-0309",
+  "questionNumber": "061-0309",
+  "stemHtml": "<p>Given the following information, calculate the headwind/tailwind component (HWC/TWC) and the crosswind component (XWC).</p>Aircraft lined-up on runway 26 <br /> ATIS W/V: 285\u00b0/24 kt <br /> Variation: 15\u00b0 W",
+  "options": {
+    "a": "HWC: 22 kt, XWC: 10 kt",
+    "b": "HWC: 4 kt, XWC: 22 kt",
+    "c": "HWC: 24 kt, XWC: 4 kt",
+    "d": "HWC: 18 kt, XWC: 15 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

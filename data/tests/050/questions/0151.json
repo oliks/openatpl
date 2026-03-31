@@ -1,0 +1,14 @@
+{
+  "number": 151,
+  "questionId": "050-0151",
+  "questionNumber": "050-0151",
+  "stemHtml": "<p>YBBN AD WRNG 1 VALID 070800/071200Z TC MELBA SFC WSPD 50KT MAX 100KT INTSF</p>\r\n\r\n<p>This message is (1) _____ informing about (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) a strong wind warning; (2) an inter-tropical stationary front.</p>",
+    "b": "(1) an aerodrome warning; (2) a tropical cyclone.",
+    "c": "<p>(1) an AIRMET; (2) wind shear conditions.</p>",
+    "d": "(1) a SIGMET; (2) a tropical cyclone."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

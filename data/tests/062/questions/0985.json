@@ -1,0 +1,14 @@
+{
+  "number": 985,
+  "questionId": "062-0985",
+  "questionNumber": "062-0985",
+  "stemHtml": "An aircraft is equipped with a DME receiver that provides a ground speed read-out. It is being flown at FL70 and is currently crossing radial 090 from a VOR DME station at an indicated DME range of 20 NM. The aircraft is flying in a north-easterly direction. The ground speed shown on the DME display is...",
+  "options": {
+    "a": "accurate as the change in slant range gives an accurate measurement of the ground speed.",
+    "b": "inaccurate as the aircraft is at an insufficient height and distance from the station to give a correct calculation of the ground speed.",
+    "c": "inaccurate as the aircraft is crossing the radials rather than flying an inbound or outbound radial.",
+    "d": "accurate as the aircraft is at a sufficient height and distance from the station for a correct calculation of the ground distance."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

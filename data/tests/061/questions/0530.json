@@ -1,0 +1,14 @@
+{
+  "number": 530,
+  "questionId": "061-0530",
+  "questionNumber": "061-0530",
+  "stemHtml": "<p>Determine the CAS of the aircraft, given the following information:</p>\n\n<p>Flight Level: FL100 <br /> \nOAT: +15 \u00b0C <br /> \nTAS: 215 kt</p>",
+  "options": {
+    "a": "178 kt",
+    "b": "184 kt",
+    "c": "188 kt",
+    "d": "260 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

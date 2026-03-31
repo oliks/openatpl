@@ -1,0 +1,14 @@
+{
+  "number": 1180,
+  "questionId": "062-1180",
+  "questionNumber": "062-1180",
+  "stemHtml": "When do you have to select or not to select the BFO?",
+  "options": {
+    "a": "When receiving a N0N A1A, BFO must be selected OFF.",
+    "b": "BFO is never required to be selected, it is only used for maintenance purposes.",
+    "c": "When receiving a N0N A2A, BFO must be selected ON.",
+    "d": "On most modern aircraft BFO is activated automatically."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 731,
+  "questionId": "062-0731",
+  "questionNumber": "062-0731",
+  "stemHtml": "For PBN operations, what is correct regarding fly-by waypoints and fly-over waypoints?",
+  "options": {
+    "a": "For fly-by waypoints, the turn to the next course is commenced when overhead the waypoint, and for fly-over waypoints the turn is commenced prior to reaching the waypoint.",
+    "b": "For fly-by waypoints, the turn is commenced prior to reaching the waypoint, and for fly-over waypoints the turn is commenced when overhead the waypoint.",
+    "c": "Fly-by waypoints use turn anticipation whereas fly-over waypoints require the pilot to turn 30 seconds before or after reaching the waypoint.",
+    "d": "Fly-over waypoints use turn anticipation but fly-by waypoints do not."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

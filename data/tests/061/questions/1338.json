@@ -1,0 +1,14 @@
+{
+  "number": 1338,
+  "questionId": "061-1338",
+  "questionNumber": "061-1338",
+  "stemHtml": "<p>Given the following information, calculate the Wind Correction Angle (WCA) using Mental Dead Reckoning (MDR):</p><p>Cruising airspeed: 120 kt<br>Headwind component: 20 kt<br>Crosswind component: 12 kt</p>",
+  "options": {
+    "a": "<p>13\u00b0</p>",
+    "b": "<p>10\u00b0</p>",
+    "c": "<p>3\u00b0</p>",
+    "d": "<p>6\u00b0</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

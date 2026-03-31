@@ -1,0 +1,14 @@
+{
+  "number": 93,
+  "questionId": "061-0093",
+  "questionNumber": "061-0093",
+  "stemHtml": "<p dir=\"ltr\">Determine the ETA for a flight from A to B, given:</p><p dir=\"ltr\">Distance A to B: 287 km <br /> Groundspeed: 60 kt <br /> Actual time of departure: 13:35</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">18:22</p>",
+    "b": "<p dir=\"ltr\">17:03</p>",
+    "c": "<p dir=\"ltr\">16:10</p>",
+    "d": "16:48"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

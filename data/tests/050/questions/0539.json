@@ -1,0 +1,14 @@
+{
+  "number": 539,
+  "questionId": "050-0539",
+  "questionNumber": "050-0539",
+  "stemHtml": "<p>DALR: Dry Adiabatic Lapse rate <br>ELR: Environmental Lapse rate <br>SALR: Saturated Adiabatic Lapse rate</p><p>An isothermal layer may exist when in that layer _____.</p>",
+  "options": {
+    "a": "<p>SALR is lower than ELR is lower than DALR.</p>",
+    "b": "<p>ELR is greater than DALR.</p>",
+    "c": "<p>ELR is lower than SALR.</p>",
+    "d": "ELR is equal to DALR."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

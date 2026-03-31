@@ -1,0 +1,19 @@
+{
+  "number": 2635,
+  "questionId": "050-2635",
+  "questionNumber": "050-2635",
+  "stemHtml": "<p>Refer to figure. <br /> \rTo which aerodrome is the following TAF most applicable?</p>\r\r<p>TAF 230900Z 2310/2319 24014KT 6000 SCT030 BKN100 TEMPO 2311/2313 25020G38KT 2500 +TSRA SCT008 BKN025CB BECMG 2313/2315 28012KT 9999 SCT025 TEMPO 2315/2317 4000 SHRA BKN020 BECMG 2317/2319 9999 SCT030=</p>",
+  "options": {
+    "a": "<p>Aerodrome \u201cH\u201d</p>",
+    "b": "<p>Aerodrome \u201cG\u201d</p>",
+    "c": "<p>Aerodrome \u201cJ\u201d</p>",
+    "d": "<p>Aerodrome \u201cB\u201d</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0222",
+      "publicUrl": "/attachments/050/050-att-0222.jpeg"
+    }
+  ]
+}

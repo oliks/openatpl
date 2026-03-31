@@ -1,0 +1,14 @@
+{
+  "number": 198,
+  "questionId": "061-0198",
+  "questionNumber": "061-0198",
+  "stemHtml": "<p>An aeronautical chart is conformal when\u2026</p>",
+  "options": {
+    "a": "<p>the map is an equidistant normal projection.</p>",
+    "b": "<p>the meridians and parallels are perpendicular to each other.</p>",
+    "c": "<p>every great circle is represented by a straight line in the map.</p>",
+    "d": "<p>at any point the scale over a short distance in the direction of the parallel is equal to the scale in the direction of the meridian and the meridians are perpendicular to the parallels.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

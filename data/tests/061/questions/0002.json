@@ -1,0 +1,19 @@
+{
+  "number": 2,
+  "questionId": "061-0002",
+  "questionNumber": "061-0002",
+  "stemHtml": "<p>Refer to figure. <br /> \rA pilot is flying the route depicted. After completing the first leg, the pilot realizes that the actual wind conditions differ from the forecast used for flight planning. On the leg between the Fruges Windfarm and Wimereux, the pilot checks the aircraft's satellite navigation system and notes a ground speed of 115 kt. When should the pilot expect to arrive at the turning point over Wimereux?</p>",
+  "options": {
+    "a": "<p>14:43</p>",
+    "b": "<p>14:42</p>",
+    "c": "<p>14:45</p>",
+    "d": "<p>14:56</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0265",
+      "publicUrl": "/attachments/061/061-att-0265.png"
+    }
+  ]
+}

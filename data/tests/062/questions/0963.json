@@ -1,0 +1,14 @@
+{
+  "number": 963,
+  "questionId": "062-0963",
+  "questionNumber": "062-0963",
+  "stemHtml": "<p>You are flying RNP1 based on ATC clearance, but a waypoint is missing from the FMS. Which of the following is correct/incorrect?</p>\r\n\r\n<ol>\r\n\t<li>You are allowed to add waypoints manually</li>\r\n\t<li>You are not allowed to add waypoints manually</li>\r\n</ol>",
+  "options": {
+    "a": "<p>1. correct; 2. incorrect.</p>",
+    "b": "<p>1. correct; 2. correct.</p>",
+    "c": "<p>1. incorrect; 2. correct.</p>",
+    "d": "<p>Both incorrect.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

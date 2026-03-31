@@ -1,0 +1,14 @@
+{
+  "number": 991,
+  "questionId": "050-0991",
+  "questionNumber": "050-0991",
+  "stemHtml": "<p>Following an alert received from the Low Level Wind Shear Alerting System (LLWSAS), ATC informs the crew of an aircraft on approach:</p>\n\n<p><span style=\"letter-spacing:0.7px\">\"Wind shear alert, centre-field wind 150 at 12, north-east boundary wind 060 at 25.\" (The centre-field wind is obtained from an anemometer approximately in the middle of the airfield, the north-east boundary wind from a different anemometer near that location). How should this message be interpreted?</span></p>\n\n<div> </div>",
+  "options": {
+    "a": "The change in wind direction and speed may indicate an active downburst.",
+    "b": "A weak warm front is passing the airfield, causing a shift in wind direction and speed.",
+    "c": "A cold front moving east is causing a marked veering of the wind from centre field to the boundary.",
+    "d": "An active anticyclone over the airfield is causing a marked backing of the wind from centre field to the boundary"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

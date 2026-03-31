@@ -1,0 +1,14 @@
+{
+  "number": 745,
+  "questionId": "061-0745",
+  "questionNumber": "061-0745",
+  "stemHtml": "<p>An aircraft will climb from an airport at an elevation of 3000 ft to a cruising altitude of 30 000 ft. Given the following information, which wind vector should be used to plan the climb?</p><p>The reported surface wind is 200\u00ba/22 kt. Both temperature and pressure are ISA. <br /> The upper winds are:</p><p>FL050: 210\u00ba/25 kt <br /> FL100: 230\u00ba/30 kt <br /> FL180: 260\u00ba/50 kt <br /> FL240: 290\u00ba/70 kt <br /> FL300: 320\u00ba/80 kt <br /> FL340: 350\u00ba/95 kt</p>",
+  "options": {
+    "a": "275\u00ba/60 kt",
+    "b": "260\u00ba/50 kt",
+    "c": "255\u00ba/45 kt",
+    "d": "285\u00ba/75 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

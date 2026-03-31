@@ -1,0 +1,19 @@
+{
+  "number": 2292,
+  "questionId": "050-2292",
+  "questionNumber": "050-2292",
+  "stemHtml": "<p>Refer to figure. <br /> Find the altitude of the condensation level, when an air parcel is lifted from MSL to 20 000 ft, given:</p><p>Static air temperature at MSL: +20\u00b0C <br /> Dew point at MSL: +5\u00b0C. <br /> Grey dashed line: constant saturation mixing ratio <br /> Green line: dry adiabatic lapse rate <br /> Magenta line: saturated adiabatic lapse rate</p>",
+  "options": {
+    "a": "10 000 ft",
+    "b": "7 000 ft",
+    "c": "6 100 ft",
+    "d": "9 500 ft"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0104",
+      "publicUrl": "/attachments/050/050-att-0104.png"
+    }
+  ]
+}

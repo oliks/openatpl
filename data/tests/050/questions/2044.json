@@ -1,0 +1,14 @@
+{
+  "number": 2044,
+  "questionId": "050-2044",
+  "questionNumber": "050-2044",
+  "stemHtml": "<p>An aircraft departs from India, the altimeter setting is adjusted at the transition altitude. Determine the altimeter reading during the resetting procedure considering that the local QNH is 1024 hPa, the transition altitude is at 11 000 ft and transition level is at FL105.</p>\n\n<p><em>(Assume 27 ft / hPa)</em></p>",
+  "options": {
+    "a": "10 203 ft.",
+    "b": "10 595 ft.",
+    "c": "10 700 ft.",
+    "d": "11 300 ft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

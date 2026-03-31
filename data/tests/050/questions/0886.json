@@ -1,0 +1,19 @@
+{
+  "number": 886,
+  "questionId": "050-0886",
+  "questionNumber": "050-0886",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is requested by ATC to hold over Zurich at 12 000 ft. What weather is it likely to experience?</p>",
+  "options": {
+    "a": "<p>Smooth.</p>",
+    "b": "<p>Moderate to severe icing/turbulence and small hail grains.</p>",
+    "c": "<p>Light turbulence and icing.</p>",
+    "d": "<p>Drizzle.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0102",
+      "publicUrl": "/attachments/050/050-att-0102.jpeg"
+    }
+  ]
+}

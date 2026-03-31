@@ -1,0 +1,14 @@
+{
+  "number": 210,
+  "questionId": "062-0210",
+  "questionNumber": "062-0210",
+  "stemHtml": "<p>Refer to figure.<br />You are performing an NDB approach on RWY 23. Given a Magnetic Approach Track of 230\u00b0, Magnetic HDG of 240\u00b0, and a QDM 236. Are you established?</p>",
+  "options": {
+    "a": "No, because the Magnetic Heading is not within 5\u00ba of the required NDB bearing.",
+    "b": "Yes, because the Magnetic Heading is within 10\u00ba of the required NDB bearing.",
+    "c": "No, because the QDM is more than 5\u00ba apart from the required bearing.",
+    "d": "Yes, because the QDM is within 10\u00ba of from the required bearing."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

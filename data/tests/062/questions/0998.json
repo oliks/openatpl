@@ -1,0 +1,14 @@
+{
+  "number": 998,
+  "questionId": "062-0998",
+  "questionNumber": "062-0998",
+  "stemHtml": "<p>How do you tune MLS system in your aircraft, select two of the following combination:</p>\r\r<p>1. Approach can only be upload from FMS. <br /> \r2. Select the appropriate channel number. <br /> \r3. Course obtained from ATC only. <br /> \r4. Select the appropriate glideslope angle for approach.</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">1 and 2.</p>",
+    "b": "<p dir=\"ltr\">1 and 3.</p>",
+    "c": "<p dir=\"ltr\">2 and 3.</p>",
+    "d": "<p dir=\"ltr\">2 and 4.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 314,
+  "questionId": "040-0314",
+  "questionNumber": "040-0314",
+  "stemHtml": "<div class=\"WordSection1\">One issue with operating a propeller-driven or rotor-driven aircraft in bright sunlight is the flicker effect of the light passing through the rotating blades. What is the most significant problem associated with the flicker effect?</div>",
+  "options": {
+    "a": "<div class=\"WordSection1\">At certain flicker frequencies, it can cause nausea or other physical discomfort and possibly epileptic fits.</div>",
+    "b": "<div class=\"WordSection1\">The pilot's ability to judge height is improved, which is particularly critical when flying at low level and approaching to land.</div>",
+    "c": "During flight it can cause the pilot to feel nauseous or dizzy, but it has little or no effect when taxiing.",
+    "d": "At certain flicker frequencies the instruments become difficult to read, preventing an effective scan of the instruments."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

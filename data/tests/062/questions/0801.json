@@ -1,0 +1,14 @@
+{
+  "number": 801,
+  "questionId": "062-0801",
+  "questionNumber": "062-0801",
+  "stemHtml": "What kind of aircraft-related data does a primary route surveillance radar system calculate?",
+  "options": {
+    "a": "The direction by measuring antenna azimuth angle, the range by measuring the interrogation signal's travel time, but no altitudes.",
+    "b": "The range by interrogating the DME transponder, the altitude by interrogating the Mode- transponder, but no direction.",
+    "c": "The four-digit octal (squawk) code, but no direction, no range, and no altitude.",
+    "d": "<p>The altitude by measuring the antenna's angle of elevation, the direction by measuring the antenna's angle of azimuth, but no range.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

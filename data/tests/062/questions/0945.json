@@ -1,0 +1,14 @@
+{
+  "number": 945,
+  "questionId": "062-0945",
+  "questionNumber": "062-0945",
+  "stemHtml": "<p>Why are slotted planar array antennas usually preferred for use in aviation weather radar installations rather than a parabolic antenna?</p>",
+  "options": {
+    "a": "<p>Broader bandwidth coverage for increased weather detection</p>",
+    "b": "<p>Better ability to distinguish weather echoes from ground clutter</p>",
+    "c": "<p>Cheaper to install</p>",
+    "d": "<p>One fixed beam pattern means it is more accurate at detecting weather returns</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

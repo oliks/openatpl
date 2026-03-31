@@ -1,0 +1,14 @@
+{
+  "number": 2297,
+  "questionId": "050-2297",
+  "questionNumber": "050-2297",
+  "stemHtml": "<p>The LLWAS (Low-Level Wind Shear Alert System) is a system that is designed to detect low-level wind shear conditions in the local area around an airport.In this situation, 2 such sensors are present. One sensor is in the center of the aerodrome, at an elevation of 150 ft, measuring a 12 kt wind, and another one further NE, at 60 ft elevation, measuring 25 kt.</p>\r\n\r\n<p>What is a likely reason for this to occur?</p>",
+  "options": {
+    "a": "The wind is veering.",
+    "b": "A weak warm front is passing overhead, causing differences in wind speed and direction.",
+    "c": "A cold front is nearby, causing wind to back.",
+    "d": "There are downbursts or strong downdrafts present in the area."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

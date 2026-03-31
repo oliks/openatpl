@@ -1,0 +1,14 @@
+{
+  "number": 1003,
+  "questionId": "062-1003",
+  "questionNumber": "062-1003",
+  "stemHtml": "<p>How does the GBAS precision approach work?</p>",
+  "options": {
+    "a": "<p>A GBAS ground station sends correction data to the aircraft, which uses the data to determine the correct azimuth and glidepath.</p>",
+    "b": "<p>A GBAS ground station sends correction signals to a ground transmitter, which sends azimuth and glidepath information to the aircraft.</p>",
+    "c": "<p>A GBAS satellite sends azimuth and glidepath information to the aircraft.</p>",
+    "d": "<p>A GBAS station sends approach path information directly to the aircraft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

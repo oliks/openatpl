@@ -1,0 +1,14 @@
+{
+  "number": 593,
+  "questionId": "050-0593",
+  "questionNumber": "050-0593",
+  "stemHtml": "<p>Which of the following options regarding the reporting of surface winds could potentially explain the slight difference observed between the surface wind speed reported on the ATIS and the METAR, despite having the same report time?</p>",
+  "options": {
+    "a": "<p>ATIS surface wind is reported from the instantaneous wind reading immediately before the report, whereas METAR surface wind is averaged over a rolling ten-minute period at the time is issue. </p>",
+    "b": "METAR surface wind is averaged over a five-minute period just prior to the report, whereas ATIS surface wind is averaged over a two-minute period.",
+    "c": "METAR surface wind is averaged over a five-minute period just prior to the report, whereas ATIS surface wind is averaged over one-minute period.",
+    "d": "ATIS surface wind is averaged over a two-minute period, whereas METAR surface wind is averaged over a ten-minute period."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

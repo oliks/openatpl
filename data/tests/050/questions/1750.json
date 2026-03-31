@@ -1,0 +1,14 @@
+{
+  "number": 1750,
+  "questionId": "050-1750",
+  "questionNumber": "050-1750",
+  "stemHtml": "<p>Two aircraft, one with a sharp wing profile (S), and the other with a thick profile (T), are flying through the same cloud with the same true airspeed. The cloud consists of small supercooled droplets.</p>\r\n\r\n<p>Which of the following statements is most correct concerning ice accretion?</p>",
+  "options": {
+    "a": "<p>Neither of the aircraft accumulate ice due to the small size of droplets.</p>",
+    "b": "<p>Aircraft T experiences more icing than S.</p>",
+    "c": "<p>Aircraft S experiences more icing than T.</p>",
+    "d": "<p>Aircraft S and T experience the same amount of icing.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

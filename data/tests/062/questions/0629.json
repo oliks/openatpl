@@ -1,0 +1,14 @@
+{
+  "number": 629,
+  "questionId": "062-0629",
+  "questionNumber": "062-0629",
+  "stemHtml": "How is the GPS receiver able to calculate aircraft's ground speed?",
+  "options": {
+    "a": "Using the space vehicle (SV) Doppler frequency shift.",
+    "b": "Using the time measured from the signal leaving the satellite to the receiver.",
+    "c": "Using the pseudo-range measurements.",
+    "d": "Using aircraft position and known reference points on the ground."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

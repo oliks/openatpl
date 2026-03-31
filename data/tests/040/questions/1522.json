@@ -1,0 +1,14 @@
+{
+  "number": 1522,
+  "questionId": "040-1522",
+  "questionNumber": "040-1522",
+  "stemHtml": "<p>While flying VFR \"wings level\" on top of clouds at 10 000 feet, your artificial horizon indicates a 20 degree bank.</p>",
+  "options": {
+    "a": "You pull the circuit breaker to the artificial horizon knowing that perceptional illusions called \u201cleans\u201d might severely impair your control of the aircraft.",
+    "b": "You trust the instrument and level off according to the instrument read-out.",
+    "c": "You take the proper action by \u201cleaning\u201d toward the lower end of the artificial horizon, thus compensating for the perceptional illusion.",
+    "d": "No attitude correction is needed since you know that your vision is more reliable than the instrument with regards to spatial orientation."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

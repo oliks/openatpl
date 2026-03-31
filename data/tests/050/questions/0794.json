@@ -1,0 +1,14 @@
+{
+  "number": 794,
+  "questionId": "050-0794",
+  "questionNumber": "050-0794",
+  "stemHtml": "<p>Which source provides the most accurate information regarding the presence and intensity of high-level, en-route Clear Air Turbulence (CAT)?</p>",
+  "options": {
+    "a": "<p>Reports from other pilots, submitted via PlREPs or SIGMETs.</p>",
+    "b": "<p>Cloud bands seen on satellite images (visual or infra-red).</p>",
+    "c": "<p>Remote sensing from satellites in turbulence mode.</p>",
+    "d": "<p>Echos from on-board WX radar in MAP mode.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 995,
+  "questionId": "062-0995",
+  "questionNumber": "062-0995",
+  "stemHtml": "<div>What is an advantage of an SSR with a \u2018selective addressing mode\u2019 over primary radar?</div>",
+  "options": {
+    "a": "<div>It is independent from airborne(and space)based systems.</div>",
+    "b": "<div>Its range is unrelated to its transmitting power.</div>",
+    "c": "<div>It allows for unambiguous aircraft identification.</div>",
+    "d": "In case of a transponder malfunction, the SSR can be used as a primary radar.<br>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

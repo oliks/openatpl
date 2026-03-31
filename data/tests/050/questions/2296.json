@@ -1,0 +1,14 @@
+{
+  "number": 2296,
+  "questionId": "050-2296",
+  "questionNumber": "050-2296",
+  "stemHtml": "<p>Given the following tropical cyclone advisory information, which of the following statements is correct?</p><p>MOV: SLW   <br />   C: 990 HPA   <br />   MAX WIND: 30KT   <br />   FCST PSN +6 HR: 12/1800Z N3200 E13955   <br />   FCST MAX WIND +6 HR: 40 KT   <br />   FCST PSN +12 HR: 13/0000Z N3235 E13925   <br />   FCST MAX WIND +12 HR: 40 KT   <br />   FCST PSN +18 HR: 13/0060Z N3310 E13855   <br />   FCST MAX WIND +12 HR: 40 KT   <br />   FCST PSN +24 HR: 13/0012Z N3345 E13825   <br />   FCST MAX WIND +12 HR: 40 KT   <br />   RMK: NIL   <br />   NXT MSG: 20180812/1800Z=</p>",
+  "options": {
+    "a": "The tropical cyclone moves at a speed lower than 3 kt and the atmospheric pressure of its centre is 990 hPa.",
+    "b": "The tropical cyclone is expected to have wind speeds higher than 80 kt in the next 12 hours.",
+    "c": "The tropical cyclone moves at a speed lower than 3 kt and the max wind speed is 40 kt.",
+    "d": "The tropical cyclone is already weakening and this is the last advisory message."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 735,
+  "questionId": "062-0735",
+  "questionNumber": "062-0735",
+  "stemHtml": "<p>Consider the following situations. An aircraft is flying:</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. directly towards a DME</span> <br /> \n2. directly away from a DME <br /> \n3. a DME ARC <br /> \n4. passing abeam a DME station.</p>\n\n<p>In which of the above given situations should the DME give an accurate groundspeed reading?</p>\n\n<div> </div>",
+  "options": {
+    "a": "1 and 2",
+    "b": "1, 2, 3 and 4",
+    "c": "1, 2 and 3",
+    "d": "Only 1"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

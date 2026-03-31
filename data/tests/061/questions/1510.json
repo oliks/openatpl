@@ -1,0 +1,14 @@
+{
+  "number": 1510,
+  "questionId": "061-1510",
+  "questionNumber": "061-1510",
+  "stemHtml": "<p>Given the following information, calculate the deviation:</p>\n\n<p><span style=\"letter-spacing:0.7px\">True Track: 245\u00b0</span>  <br />  \nDrift: 5\u00b0 right  <br />  \nVariation: 3\u00b0 E  <br />  \nCompass heading: 242\u00b0</p>\n\n<div> </div>",
+  "options": {
+    "a": "1\u00b0 E",
+    "b": "5\u00b0 E",
+    "c": "11\u00b0 E",
+    "d": "5\u00b0 W"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

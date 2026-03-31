@@ -1,0 +1,14 @@
+{
+  "number": 1321,
+  "questionId": "061-1321",
+  "questionNumber": "061-1321",
+  "stemHtml": "<p>Given the following information,determine the crosswind components (XWC), according to Mental Dead Reckoning (MDR)...</p><p>Magnetic track: 315\u00b0 <br /> Wind (magnetic): 015\u00b0/20 kt</p>",
+  "options": {
+    "a": "<p>5 kt</p>",
+    "b": "<p>10 kt</p>",
+    "c": "<p>15 kt</p>",
+    "d": "20 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

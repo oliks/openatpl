@@ -1,0 +1,14 @@
+{
+  "number": 911,
+  "questionId": "062-0911",
+  "questionNumber": "062-0911",
+  "stemHtml": "<p>In the case of an Airborne-Based Augmentation System (ABAS), which method of integrity monitoring uses information from GNSS and from additional on-board sensors?</p>",
+  "options": {
+    "a": "Receiver Autonomous Integrity Monitoring (RAIM)",
+    "b": "Aircraft Autonomous Integrity Monitoring (AAIM)",
+    "c": "GNSS/IRS Autonomous Integrity Monitoring (GIAIM)",
+    "d": "Aircraft Station Autonomous Integrity Monitoring (ASAIM)"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

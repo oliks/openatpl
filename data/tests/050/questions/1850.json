@@ -1,0 +1,14 @@
+{
+  "number": 1850,
+  "questionId": "050-1850",
+  "questionNumber": "050-1850",
+  "stemHtml": "<p dir=\"ltr\">Surface visibility at a destination in the centre of France in August is reported as 1 500 metres in haze, with an inversion at 500 feet above aerodrome level and sky clear above. The pilot makes a non-precision approach to runway 27 shortly before sunset with a minimum descent altitude of 600 feet above aerodrome level. At what range would the pilot expect to see the runway and why?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Less than 1 500 metres because the Sun in the pilot\u2019s eyes will reduce the ability to distinguish objects and therefore air-to-ground visibility.</p>",
+    "b": "Less than 1 500 metres because the sunlight reflecting from the top of the haze layer will reduce air-to-ground visibility.",
+    "c": "<p dir=\"ltr\">Less than 1 500 metres because the sunlight reflecting from the haze particles will reduce flight visibility.</p>",
+    "d": "<p dir=\"ltr\">More than 1500 metres because the aircraft will still be flying above the haze.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

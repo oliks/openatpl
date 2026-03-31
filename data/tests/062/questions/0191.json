@@ -1,0 +1,14 @@
+{
+  "number": 191,
+  "questionId": "062-0191",
+  "questionNumber": "062-0191",
+  "stemHtml": "On what carrier frequency does the ILS inner marker transmit?",
+  "options": {
+    "a": "3000 Hz",
+    "b": "Same frequency as the localiser",
+    "c": "75 MHz",
+    "d": "Same frequency as the glide path"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

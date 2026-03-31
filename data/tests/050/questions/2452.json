@@ -1,0 +1,19 @@
+{
+  "number": 2452,
+  "questionId": "050-2452",
+  "questionNumber": "050-2452",
+  "stemHtml": "<p>Refer to figure. <br /> \rBased on the provided satellite image showing different types of clouds, where is the jet stream most likely located?</p>",
+  "options": {
+    "a": "<p>Region 3: Smooth, elongated cloud bands.</p>",
+    "b": "<p>Region 4: Jagged, elongated clouds indicating strong winds.</p>",
+    "c": "<p>Region 2: Large, scattered cumuliform clouds.</p>",
+    "d": "<p>Region 1: Uniform stratus clouds covering a broad area.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0387",
+      "publicUrl": "/attachments/050/050-att-0387.jpg"
+    }
+  ]
+}

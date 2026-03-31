@@ -1,0 +1,14 @@
+{
+  "number": 692,
+  "questionId": "062-0692",
+  "questionNumber": "062-0692",
+  "stemHtml": "How can a DME interrogator distinguish between its own reply pulse pairs and the reply pulse pairs of other aircraft in the area, using the same DME station?",
+  "options": {
+    "a": "The DME transponder uses a slightly different, randomly varying, delay for each interrogating aircraft.",
+    "b": "The Pulse Repetition Frequency of the pulse pairs transmitted by the interrogator varies, for each interrogator, in a unique rhythm.",
+    "c": "The time interval between both pulses of consecutive pulse pairs transmitted by the interrogator varies, for each interrogator, in a unique pattern.",
+    "d": "On the Y-channel the time interval between the pulses of an interrogator pulse pair is 36 msec and of a transponder pulse pair 30 m/sec."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

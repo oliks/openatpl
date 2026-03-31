@@ -1,0 +1,14 @@
+{
+  "number": 1287,
+  "questionId": "062-1287",
+  "questionNumber": "062-1287",
+  "stemHtml": "Your aircraft is approved to conduct RNP APP. Can you fly RNP 2?",
+  "options": {
+    "a": "Yes, because the most restricted procedure contains the least requirements.",
+    "b": "Yes, because your aircraft is approved for a more restricted procedure.",
+    "c": "Yes, because the requirements for all RNP operations are the same.",
+    "d": "<p>No, because your aircraft may not have the requirements for RNP 2.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

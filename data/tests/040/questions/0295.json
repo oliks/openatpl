@@ -1,0 +1,14 @@
+{
+  "number": 295,
+  "questionId": "040-0295",
+  "questionNumber": "040-0295",
+  "stemHtml": "An aircraft encounters a left engine failure, the crew promptly identifies and diagnoses the issue. Aware that they have 30 minutes of flying time left with only one engine operational, the crew chooses not to divert the plane, which could have led to a landing in 20 minutes. Instead, they continue the flight for the exact remaining 30 minutes. Despite checking weather charts and confirming favorable wind conditions, stronger headwinds than anticipated near the airport result in a crash. Which of the following options is correct?",
+  "options": {
+    "a": "In this scenario, there's no option. The crew must always divert.",
+    "b": "The crew correctly identified the engine failure, but were unable to review and assess the risks associated with their actions.",
+    "c": "The crew performed everything well.",
+    "d": "The crew correctly assessed the risks but were unlucky with unforeseen weather changes, they could have not anticipated this."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

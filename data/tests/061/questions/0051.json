@@ -1,0 +1,14 @@
+{
+  "number": 51,
+  "questionId": "061-0051",
+  "questionNumber": "061-0051",
+  "stemHtml": "<p>An aircraft flying from A to B (total distance 110 NM) departed from A at 09:55 UTC. The planned arrival time at B is 10:35 UTC. After 25 minutes of flight, the aircraft overflies waypoint C located 65 NM away from A.</p>\n\n<p><span style=\"letter-spacing:0.7px\">What Ground Speed should be flown as from C in order to reach point B at the planned arrival time?</span></p>",
+  "options": {
+    "a": "165 kt",
+    "b": "180 kt",
+    "c": "260 kt",
+    "d": "156 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

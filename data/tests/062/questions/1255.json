@@ -1,0 +1,14 @@
+{
+  "number": 1255,
+  "questionId": "062-1255",
+  "questionNumber": "062-1255",
+  "stemHtml": "<p>Which of the following statements is true regarding phase modulation?</p>",
+  "options": {
+    "a": "<p>It results in a change of polarisation of the modulated signal</p>",
+    "b": "<p>It is a modulation form used in GPS where the phase of the carrier wave is reversed</p>",
+    "c": "<p>It results in a change of amplitude of the carrier wave</p>",
+    "d": "<p>It is a modulation form used in ILS where the phase of the navigation signals is changed with 90\u00b0 or 150\u00b0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

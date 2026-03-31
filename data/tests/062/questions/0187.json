@@ -1,0 +1,14 @@
+{
+  "number": 187,
+  "questionId": "062-0187",
+  "questionNumber": "062-0187",
+  "stemHtml": "<p>One of the main differences between Mode A/C transponders and Mode S transponders is that Mode S transponders have a...</p>",
+  "options": {
+    "a": "<p>Unique address code based on the aircraft which is approved by ICAO.</p>",
+    "b": "<p>Unique address code based on the flight plan.</p>",
+    "c": "<p>A 4-digit Mode A code based on the flight plan.</p>",
+    "d": "<p>A 4-digit Mode A code based on the aircraft registration.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

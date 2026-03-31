@@ -1,0 +1,19 @@
+{
+  "number": 1325,
+  "questionId": "050-1325",
+  "questionNumber": "050-1325",
+  "stemHtml": "<p>Refer to figure. <br>If you are flying from Rome to Amsterdam at FL200, what conditions can you expect at cruising altitude?</p>",
+  "options": {
+    "a": "<p>CAT for the first half of the flight</p>",
+    "b": "<p>moderate or severe turbulence</p>",
+    "c": "<p>Moderate or severe turbulence and icing</p>",
+    "d": "<p>Flight largely in cloud</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0097",
+      "publicUrl": "/attachments/050/050-att-0097.png"
+    }
+  ]
+}

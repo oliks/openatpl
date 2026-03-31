@@ -1,0 +1,19 @@
+{
+  "number": 2391,
+  "questionId": "050-2391",
+  "questionNumber": "050-2391",
+  "stemHtml": "<p>Refer to figure. <br /> \rYou are planning a flight from Madrid to Kingston (Jamaica) following the routing shown in the significant weather chart above. Given the above chart, which flight level would be the most appropriate to minimize the risk of icing and turbulence?</p>",
+  "options": {
+    "a": "<p>FL280</p>",
+    "b": "<p>FL330</p>",
+    "c": "<p>FL380</p>",
+    "d": "<p>FL410</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0228",
+      "publicUrl": "/attachments/050/050-att-0228.png"
+    }
+  ]
+}

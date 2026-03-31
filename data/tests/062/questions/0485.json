@@ -1,0 +1,14 @@
+{
+  "number": 485,
+  "questionId": "062-0485",
+  "questionNumber": "062-0485",
+  "stemHtml": "<p>A pilot is planning to fly an RNP 1 STAR (Standard Terminal Arrival) but notices that one of the waypoints is missing in the FMS readout of the procedure, when comparing to the chart. It appears that due to an error, the missing waypoint is NOT defined in the FMS database. As a result of this error, the pilot may...</p>",
+  "options": {
+    "a": "<p>create a waypoint based on the known latitude and longitude of the missing waypoint.</p>",
+    "b": "<p>create a waypoint based on a radial and distance from a nearby VOR DME station.</p>",
+    "c": "<p>NOT fly the planned procedure and must request an alternative STAR.</p>",
+    "d": "<p>fly the STAR provided there are NO gaps in the coding of the arrival.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 99,
+  "questionId": "040-0099",
+  "questionNumber": "040-0099",
+  "stemHtml": "<p>In the context of the TEM (Threat and Error Management) model, which statement describes an undesired aircraft state example?</p>",
+  "options": {
+    "a": "<p>Aircraft taxiing on the wrong taxiway.</p>",
+    "b": "<p>Indication of engine malfunction after a birdstrike.</p>",
+    "c": "<p>Ground crew failing to load up the required fuel.</p>",
+    "d": "<p>Missing readback clearances between flight crew and ATC.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

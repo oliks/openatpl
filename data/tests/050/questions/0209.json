@@ -1,0 +1,14 @@
+{
+  "number": 209,
+  "questionId": "050-0209",
+  "questionNumber": "050-0209",
+  "stemHtml": "<p>An aircraft has to fly over a mountain ridge. The highest obstacle, indicated in the navigation chart, has an elevation of 9800 ft. The QNH, given by a meteorological station at an elevation of 6200 ft, is 1022 hPa. The OAT = ISA +5\u00b0C.</p>\r\n\r\n<p>Calculate the approximate indicated altitude to obtain a clearance of 2000 ft.</p>",
+  "options": {
+    "a": "<p>11 200 ft.</p>",
+    "b": "<p>12 000 ft.</p>",
+    "c": "<p>11 100 ft.</p>",
+    "d": "<p>11 700 ft.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

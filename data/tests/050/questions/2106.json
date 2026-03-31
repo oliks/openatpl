@@ -1,0 +1,14 @@
+{
+  "number": 2106,
+  "questionId": "050-2106",
+  "questionNumber": "050-2106",
+  "stemHtml": "<p>An aircraft is flying over a mountainous region at flight level 290. The highest peak in the flight path is approximately 25 400 feet high. Given that the temperature at FL290 is -60\u00b0C and the local QNH reported by nearby station close to sea level is 981 hPa, what is the approximate minimum ground clearance of the aircraft over the highest peak? Assume the pressure altitude is affected by the non-standard temperature and pressure.</p>",
+  "options": {
+    "a": "<p>590 feet</p>",
+    "b": "<p>750 feet</p>",
+    "c": "<p>1410 feet</p>",
+    "d": "<p>2500 feet</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

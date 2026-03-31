@@ -1,0 +1,14 @@
+{
+  "number": 599,
+  "questionId": "050-0599",
+  "questionNumber": "050-0599",
+  "stemHtml": "<p>Which of the following gridded forecasts do the WAFCs prepare for flight-planning purposes?</p>",
+  "options": {
+    "a": "<p>Geostrophic wind speed, vertical extent of CBs, humidity and CAT.</p>",
+    "b": "<p>Density, pressure and precipitation intensity.</p>",
+    "c": "<p>Upper wind, temperature and humidity.</p>",
+    "d": "<p>Upper wind, surface wind, and jet streams.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

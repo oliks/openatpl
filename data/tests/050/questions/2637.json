@@ -1,0 +1,14 @@
+{
+  "number": 2637,
+  "questionId": "050-2637",
+  "questionNumber": "050-2637",
+  "stemHtml": "<p>Flight Lisbon to Bordeaux, ETA 1800 UTC. What type of precipitation is forecast on the approach to Bordeaux?</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF LFBD 281400Z 2815/2824 26015KT 9999 SHRA BKN020 TEMPO 2816/2820 26020G30KT 3000 +SHRA BKN015CB PROB30 2816/2820 TSRA=</span></p>",
+  "options": {
+    "a": "Light drizzle and fog",
+    "b": "Moderate snow showers",
+    "c": "Continuous moderate rain",
+    "d": "Heavy rain showers"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

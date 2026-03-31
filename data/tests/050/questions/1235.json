@@ -1,0 +1,14 @@
+{
+  "number": 1235,
+  "questionId": "050-1235",
+  "questionNumber": "050-1235",
+  "stemHtml": "<p>The following METAR Is reported by an inland aerodrome (Eindhoven, The Netherlands), shortly after dawn:</p>\r\n\r\n<p>EHEH 010610Z 33005KT 0300 R21/0450 FG NSC 06/06 Q1018=</p>\r\n\r\n<p>Considering the above METAR, we can say that the aerodrome is experiencing (1)__ which probably extends from the surface to (2)__.</p>",
+  "options": {
+    "a": "(1) radiation fog; (2) 1 000 ft or more.",
+    "b": "(1) radiation fog; (2) less than 300 ft.",
+    "c": "(1) frontal fog; (2) less than 300 ft.",
+    "d": "(1) frontal fog; (2) 1 000 ft or more."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

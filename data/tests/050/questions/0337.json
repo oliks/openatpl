@@ -1,0 +1,14 @@
+{
+  "number": 337,
+  "questionId": "050-0337",
+  "questionNumber": "050-0337",
+  "stemHtml": "<p>Which of the following statements is an interpretation of the METAR ?</p>\r\n\r\n<p>00000KT 0200 R14/0800U R16/P1500U FZFG VV001 M03/M03 Q1022 BECMG 0800=</p>",
+  "options": {
+    "a": "Visibility 200 feet, RVR for runway 16 is more than 1500 metres, vertical visibility 100 feet, fog with hoar frost",
+    "b": "Visibility for runway 14 is 800 metres, fog with hoar frost, RVR for runway 16 more than 1500 metres",
+    "c": "RVR for runway 14 is 800 metres, vertical visibility 100 feet, calm, visibility improving to 800 metres in the next 2 hours",
+    "d": "Visibility 200 metres, RVR for runway 16 is 1500 metres, temperature -3\u00b0C, vertical visibility 100 metres."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

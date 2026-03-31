@@ -1,0 +1,14 @@
+{
+  "number": 277,
+  "questionId": "040-0277",
+  "questionNumber": "040-0277",
+  "stemHtml": "<p>In an emergency situation where both sound and visual warnings are activated in the cockpit, which type of warning is likely to be ignored over time, and for what reason?</p>",
+  "options": {
+    "a": "<p>The audible alarm due to habituation.</p>",
+    "b": "<p>The visual alarm due to visual overload.</p>",
+    "c": "<p>The visual alarm because it requires more attention to interpret.</p>",
+    "d": "<p>The audible alarms because cockpit noise masks all warning sounds.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1702,
+  "questionId": "050-1702",
+  "questionNumber": "050-1702",
+  "stemHtml": "<p>Calculate the local QNH, given:</p>\n\n<p>During descent, Transition Level given by ATC is at FL55; True altitude is 6 000 ft; temperature is on average ISA +10\u00baC.</p>\n\n<p><em>(Assume: 30 ft / hPa)</em></p>",
+  "options": {
+    "a": "1 013 hPa",
+    "b": "1 021 hPa",
+    "c": "1 029 hPa",
+    "d": "It is not possible to calculate the local QNH."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

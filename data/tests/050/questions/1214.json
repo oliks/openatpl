@@ -1,0 +1,14 @@
+{
+  "number": 1214,
+  "questionId": "050-1214",
+  "questionNumber": "050-1214",
+  "stemHtml": "<p>A pilot wants to select airport for arrival with a runway where RVR is at least 300 metres. Considering the following METARs, valid for the arrival time, and choose the appropriate airport (assume all other criteria for landing to each airport).</p>\r\r<p>EGKK 191050Z 09002KT 0200 FZFG R08R/0250 R08L/0350 VV001 M03/M02 Q1008 88910195. <br /> \rEGLF 191050Z 07003KT 0000 FZFG R06/0075D VV// M03/M03 Q1008. <br /> \rEGGW 191050Z 08004KT 0100 FZFG R08/0175U VV001 M02/M02 Q1007 RESG 08920294. <br /> \rEGLL 191050Z 09002KT 0100 FZFG R09L/0200U R09R/0250U VV001 M02/M02 Q1008.</p>",
+  "options": {
+    "a": "<p>EGLF</p>",
+    "b": "<p>EGKK</p>",
+    "c": "<p>EGLL</p>",
+    "d": "<p>EGGW</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

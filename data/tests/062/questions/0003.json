@@ -1,0 +1,14 @@
+{
+  "number": 3,
+  "questionId": "062-0003",
+  "questionNumber": "062-0003",
+  "stemHtml": "<p>Airborne Weather Radar has a frequency of (1) _____ Ghz with a wavelength of approximately (2) _____ cm. It detects (3) _____ and is used to avoid areas of (4) _____. Select the answer that lists the correct options.</p>",
+  "options": {
+    "a": "<p>(1) 9 GHz (2) 9 cm (3) Wet hail (4) Icing</p>",
+    "b": "<p>(1) 9 GHz (2) 3 cm (3) Wet hail (4) Icing</p>",
+    "c": "<p>(1) 3 GHz (2) 9 cm (3) Wet hail (4) Turbulence in cloud</p>",
+    "d": "<p>(1) 9 GHz (2) 3 cm (3) Wet hail (4) Turbulence in cloud</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

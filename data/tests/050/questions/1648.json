@@ -1,0 +1,14 @@
+{
+  "number": 1648,
+  "questionId": "050-1648",
+  "questionNumber": "050-1648",
+  "stemHtml": "<p>An aircraft must make an unplanned diversion and the pilot wishes to climb as little as possible. The aircraft is required to fly at an altitude of 6340 ft. The local QNH at an airport of elevation 2420 ft is 993 hPa, OAT +9\u00b0C. Calculate the minimum usable flight level in order to clear the mountain by the specified clearance. (Use 1 hPa = 30 ft)</p>",
+  "options": {
+    "a": "<p>FL75</p>",
+    "b": "<p>FL60</p>",
+    "c": "<p>FL70</p>",
+    "d": "<p>FL50</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1257,
+  "questionId": "050-1257",
+  "questionNumber": "050-1257",
+  "stemHtml": "What is the formula for relative humidity given temperature and dewpoint?",
+  "options": {
+    "a": "Td = T - ((100 - RH) / 5)",
+    "b": "Td = T ((100 - RH) / 5)",
+    "c": "Td = T ((100 - RH /) 10)",
+    "d": "Td = (100 - RH / 5) + T"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

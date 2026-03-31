@@ -1,0 +1,14 @@
+{
+  "number": 991,
+  "questionId": "061-0991",
+  "questionNumber": "061-0991",
+  "stemHtml": "<p>A VFR flight is navigated by dead reckoning. When flying from point B to point C, the position of the aircraft is fixed, and a change of heading is calculated. The 1:60 rule is used to determine the heading from the fix position in order to get back on track in approximately the same time it took from point B to the fix position. With the given information, what heading is required?</p><p>Planned DR heading from B to C: 313\u00b0  <br /> Cross track error: 3 NM left  <br /> Along track distance from B: 45 NM</p>",
+  "options": {
+    "a": "315\u00b0 C",
+    "b": "317\u00b0 C",
+    "c": "305\u00b0 C",
+    "d": "321\u00b0 C"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

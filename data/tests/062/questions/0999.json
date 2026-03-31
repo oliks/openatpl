@@ -1,0 +1,14 @@
+{
+  "number": 999,
+  "questionId": "062-0999",
+  "questionNumber": "062-0999",
+  "stemHtml": "What does a Ground-Based Augmentation System (GBAS) require?",
+  "options": {
+    "a": "At least two ground stations to transmit to arriving aircraft; one to give differential position corrections and the other to give integrity information for each satellite.",
+    "b": "One ground station, transmitting on UHF, to send error signals to all the aircraft in the final approach segment.",
+    "c": "One ground station to support an unlimited number of aircraft in the airspace of its jurisdiction.",
+    "d": "At least two ground stations, one for each runway's end."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

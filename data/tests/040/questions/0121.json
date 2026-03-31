@@ -1,0 +1,14 @@
+{
+  "number": 121,
+  "questionId": "040-0121",
+  "questionNumber": "040-0121",
+  "stemHtml": "<p>Which of the following statements is true about the layers of the Swiss Cheese model?</p>",
+  "options": {
+    "a": "<p>They represent active failures.</p>",
+    "b": "<p>They represent safeguards designed to prevent accidents.</p>",
+    "c": "<p>They represent errors in the system which can lead to an accident.</p>",
+    "d": "<p>They  represent latent conditions which can lead to an accident.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

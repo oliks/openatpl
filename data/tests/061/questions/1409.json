@@ -1,0 +1,14 @@
+{
+  "number": 1409,
+  "questionId": "061-1409",
+  "questionNumber": "061-1409",
+  "stemHtml": "How does the chart convergency change with latitude in a Lambert Conformal projection?",
+  "options": {
+    "a": "It increases with increase of latitude.",
+    "b": "It is constant and does not change with latitude.",
+    "c": "It changes with cosine of latitude.",
+    "d": "It changes with sine of latitude."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

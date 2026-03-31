@@ -1,0 +1,14 @@
+{
+  "number": 82,
+  "questionId": "062-0082",
+  "questionNumber": "062-0082",
+  "stemHtml": "You are established on an ILS approach at 4 NM on the DME and get some signal interference. What could be the reason for this?",
+  "options": {
+    "a": "<p>You get interference because of being outside the published coverage area.</p>",
+    "b": "Multipath interference from reflections off objects within the published coverage area.",
+    "c": "Reverse-sensing side lobes.",
+    "d": "Picking up the \"false glide slope\""
+  },
+  "correctOption": "b",
+  "attachments": []
+}

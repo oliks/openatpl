@@ -1,0 +1,14 @@
+{
+  "number": 1262,
+  "questionId": "062-1262",
+  "questionNumber": "062-1262",
+  "stemHtml": "A particular DME ground station is very busy and can sometimes be used by more than 100 aircraft at a time. When during one of these extremely busy periods, the DME ground station may not respond to some aircraft based on...",
+  "options": {
+    "a": "the transmitter power of the aircraft and its range from the DME.",
+    "b": "how long each aircraft has been searching for a lock-on, with the one waiting longest having the highest priority.",
+    "c": "the type of aircraft operation, with aircraft on IFR approaches having the highest priority.",
+    "d": "the range of the aircraft from the DME, and how long it has been searching for a lock-on."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

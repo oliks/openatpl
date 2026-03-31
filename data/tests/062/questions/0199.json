@@ -1,0 +1,14 @@
+{
+  "number": 199,
+  "questionId": "062-0199",
+  "questionNumber": "062-0199",
+  "stemHtml": "<p>Select from the following options the measures that the flight crew should take to ensure ANP or EPE is less than RNP.</p>",
+  "options": {
+    "a": "<p>The autopilot or pilots should follow a specific procedure to ensure that ANP/EPE remains within acceptable limits.</p>",
+    "b": "<p>No specific action is required as long as the navigation system is functioning normally.</p>",
+    "c": "<p>ANP/EPE is automatically kept within limits by the aircraft\u2019s navigation system, and pilots are not involved in the process.</p>",
+    "d": "<p>The pilots must manually calculate and monitor ANP/EPE to ensure it stays less than RNP.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

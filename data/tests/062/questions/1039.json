@@ -1,0 +1,14 @@
+{
+  "number": 1039,
+  "questionId": "062-1039",
+  "questionNumber": "062-1039",
+  "stemHtml": "<p>You are flying VFR at 2000 feet with the cloud base immediately above you. You are tuned to a correctly identified NDB and tracking it. In order for the pilot to increase the signal strength, which of the following should they perform?</p><p>1. Climb <br>2. Decrease distance <br>3. Change the frequency <br>4. Increase volume</p>",
+  "options": {
+    "a": "<p>3 and 4, because frequency adjustments are the key to improving reception and increased volume will improve range</p>",
+    "b": "<p>1 and 2, as they are equally important, and 3 because frequencies propagate differently and you must select the correct one for your flight</p>",
+    "c": "<p>2, 3 and 4, as they all help to improve NDB reception</p>",
+    "d": "<p>1 and 2, as they are both equally important</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 101,
+  "questionId": "061-0101",
+  "questionNumber": "061-0101",
+  "stemHtml": "<p>What is the wind vector that should be used to plan the average ground speed for a descent from FL180 to FL80? The following wind vectors are given.</p><p>FL50 W/V: 250\u00b0/25 kt <br>FL100 W/V: 250\u00b0/35 kt <br>FL180 W/V: 280\u00b0/40 kt <br>FL240 W/V: 300\u00b0/80 kt</p>",
+  "options": {
+    "a": "<p>275\u00b0/35 kt</p>",
+    "b": "<p>270\u00b0/40 kt</p>",
+    "c": "<p>260\u00b0/35 kt</p>",
+    "d": "<p>250\u00b0/35 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

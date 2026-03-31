@@ -1,0 +1,19 @@
+{
+  "number": 33,
+  "questionId": "050-0033",
+  "questionNumber": "050-0033",
+  "stemHtml": "<p>Refer to figure.<br>Given the satellite image above, how would you expect the air temperature and surface pressure to change on a flight from Stockholm to Umea?</p>",
+  "options": {
+    "a": "<p>Temperature increases and pressure decreases.</p>",
+    "b": "<p>Temperature decreases and pressure decreases.</p>",
+    "c": "<p>Temperature decreases and pressure increases.</p>",
+    "d": "<p>Temperature increases and pressure increases.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0438",
+      "publicUrl": "/attachments/050/050-att-0438.jpg"
+    }
+  ]
+}

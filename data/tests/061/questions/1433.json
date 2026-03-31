@@ -1,0 +1,14 @@
+{
+  "number": 1433,
+  "questionId": "061-1433",
+  "questionNumber": "061-1433",
+  "stemHtml": "<p>Given the following information, using trigonometry, calculate the headwind component, to the nearest full knot.</p><p>Runway: 14 <br>Surface wind (from the Tower): 200\u00b0/20 kt <br>Variation: 20\u00b0E</p>",
+  "options": {
+    "a": "<p>4</p>",
+    "b": "<p>10</p>",
+    "c": "<p>16</p>",
+    "d": "<p>18</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

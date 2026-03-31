@@ -1,0 +1,14 @@
+{
+  "number": 1280,
+  "questionId": "062-1280",
+  "questionNumber": "062-1280",
+  "stemHtml": "<p>Which of the following transmissions can be received by an ADF?</p>",
+  "options": {
+    "a": "<p>The transmission of an ATIS</p>",
+    "b": "<p>A commercial radio station transmitting in the LF/MF band</p>",
+    "c": "<p>A VDF call for bearing</p>",
+    "d": "<p>The transmission of a VOLMET</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

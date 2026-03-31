@@ -1,0 +1,14 @@
+{
+  "number": 1379,
+  "questionId": "061-1379",
+  "questionNumber": "061-1379",
+  "stemHtml": "<p>Consider the distance between any two geodetic lines of longitude (meridians) separated by 10\u00b0 on the surface of the Earth ellipsoid. What happens to the distance between the meridians, when measured at the same latitude?</p>",
+  "options": {
+    "a": "It increases then decreases with increasing longitude.",
+    "b": "It remains constant for a given change of longitude.",
+    "c": "It decreases with increasing longitude.",
+    "d": "It increases with increasing longitude."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

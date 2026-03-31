@@ -1,0 +1,14 @@
+{
+  "number": 611,
+  "questionId": "040-0611",
+  "questionNumber": "040-0611",
+  "stemHtml": "<p>Automation (autoflight) is aimed to aid and protect the flight of aircraft. Select the correct statement:</p>",
+  "options": {
+    "a": "<p>Automation can reduce crew workload and protect from exceeding aircraft limitations, especially in an emergency or unexpected condition. For this reason automation concepts always ensure that the flight computers have ultimate control authority, to correct for pilot error.</p>",
+    "b": "<p>Primary flight computers can fully control an aircraft, aiding the crew in preventing the aircraft from exceeding limitations, and to fly efficiently. One automation concept has the pilot as the last operator while another allows the automation to correct pilot error.</p>",
+    "c": "Automation is more reliable than humans but the crew are more capable than the automation of making decisions and performing in unexpected situations and emergencies. Therefore, central to all automation concepts is that the pilot is the last operator.",
+    "d": "In a fly-by-wire aircraft, computer-controlled flight modes are used to control surface movements and prevent the aircraft from exceeding operational limits; in such aircraft, the pilot has full control authority and therefore is the last operator."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

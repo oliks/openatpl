@@ -1,0 +1,14 @@
+{
+  "number": 662,
+  "questionId": "061-0662",
+  "questionNumber": "061-0662",
+  "stemHtml": "<p>An aircraft is flying under VFR by DR along a track of 312\u00b0(T), heading 310\u00b0(M) to account for the wind, and the variation of 2\u00b0W. On the first part of the leg, the pilot sees several gliders and turns to the left off the intended track to avoid them. After clearing the gliders the pilot spots a railway bridge and is able to fix the position of the aircraft. Determine the best magnetic heading to fly to the next check feature, given:</p>\r\r<p>Fix position: 15 NM from the start of the leg and 2 NM off track <br /> \rDistance to the next check feature: 18 NM</p>",
+  "options": {
+    "a": "<p>325\u00b0 (M)</p>",
+    "b": "<p>321\u00b0 (M)</p>",
+    "c": "<p>319\u00b0 (M)</p>",
+    "d": "<p>317\u00b0 (M)</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

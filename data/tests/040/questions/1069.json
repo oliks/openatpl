@@ -1,0 +1,14 @@
+{
+  "number": 1069,
+  "questionId": "040-1069",
+  "questionNumber": "040-1069",
+  "stemHtml": "In the context of operating complex and highly automated aircraft, the term \"mode awareness\" is used to describe that\u2026 ",
+  "options": {
+    "a": "the automation system should provide unambiguous feedback to the pilot in which mode it is operating, including the requirement for specific pilot input depending on the particular phase of flight.",
+    "b": "the pilot should always be aware of the automation mode under which the aircraft is operating and understand the interaction between a mode of automation and a particular phase of flight or pilot input.",
+    "c": "the current mode in which the cockpit automation is operating should always be transparent to the pilot, and that the interface allows for pilot interaction, including manual override of the automation.",
+    "d": "the pilot should maintain situational awareness as regards the appropriate automation mode required for a particular phase of flight, and the opportunity for manual pilot input to interact with the various modes."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

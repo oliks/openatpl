@@ -1,0 +1,14 @@
+{
+  "number": 726,
+  "questionId": "061-0726",
+  "questionNumber": "061-0726",
+  "stemHtml": "<p>Given the following:</p><p>Runway 31  <br /> Surface wind given by ATIS: 265\u00b0/32 kt  <br /> Variation: 18\u00b0E </p><p>Using trigonometry, what is the headwind component to the nearest full knot?</p><p> </p>",
+  "options": {
+    "a": "15 kt",
+    "b": "32 kt",
+    "c": "23 kt",
+    "d": "29 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

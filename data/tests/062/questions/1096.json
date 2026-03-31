@@ -1,0 +1,14 @@
+{
+  "number": 1096,
+  "questionId": "062-1096",
+  "questionNumber": "062-1096",
+  "stemHtml": "<p>An aircraft is flying a heading of 245\u00b0 towards a VOR at FL300. The HSI displays a \"selected course\" of 255\u00b0 with a TO-indication. The variation at the VOR is 15\u00b0E. Variation at the aircraft position is 16\u00b0E and the deviation is +1\u00b0.</p>\n\n<p>When the pilot keeps the CDI on the left inner dot on a display with two dots on either side:</p>",
+  "options": {
+    "a": "the VOR will be approached along radial 070.",
+    "b": "the aircraft will pass north of the VOR.",
+    "c": "the VOR will be approached along radial 080.",
+    "d": "the aircraft will pass south of the VOR."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

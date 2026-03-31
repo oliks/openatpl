@@ -1,0 +1,14 @@
+{
+  "number": 557,
+  "questionId": "061-0557",
+  "questionNumber": "061-0557",
+  "stemHtml": "<p>An aircraft is flying a distance of 50 NM from A to B. After 15 minutes of flying with the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM ahead of the dead reckoning position. Determine the approximate correction angle on the heading to reach destination B from this position, given:</p>\n\n<p>True course in the flight log: 090\u00b0  <br />  \nForecast wind: 225\u00b0 (T) / 15 kts  <br />  \nTAS: 120 kts</p>",
+  "options": {
+    "a": "5\u00b0",
+    "b": "15\u00b0",
+    "c": "12\u00b0",
+    "d": "17\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

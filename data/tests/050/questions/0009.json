@@ -1,0 +1,14 @@
+{
+  "number": 9,
+  "questionId": "050-0009",
+  "questionNumber": "050-0009",
+  "stemHtml": "<div class=\"questionText\" style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(51, 51, 51);float:left;font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:500 !important;letter-spacing:0.8px;margin-bottom:20px;margin-top:15px;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-rendering:optimizelegibility;text-transform:none;white-space:normal;widows:2;width:1130px;word-break:break-word;word-spacing:0px;\" _ngcontent-ng-c859741441=\"\"><p style=\"box-sizing:border-box;margin-bottom:1rem;margin-top:0px;\"><span class=\"fontSetting questionItem\" style=\"box-sizing:border-box;letter-spacing:0.05em;line-height:24px;\" _ngcontent-ng-c859741441=\"\">In a moderate tropical storm, what is the maximum sustained wind speed that can be encountered?</span></p></div>",
+  "options": {
+    "a": "<p>112 kt </p>",
+    "b": "<p>63 kt</p>",
+    "c": "<p>95 kt</p>",
+    "d": "<p>47 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

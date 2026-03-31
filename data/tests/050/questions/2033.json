@@ -1,0 +1,19 @@
+{
+  "number": 2033,
+  "questionId": "050-2033",
+  "questionNumber": "050-2033",
+  "stemHtml": "<p>Refer to figure.</p>\r\n\r\n<p>Given the significant weather chart above, and without altering their level, how may the pilots steer clear of turbulence during a direct flight (i.e. a straight line) from Paris to New York at FL380?</p>",
+  "options": {
+    "a": "<p>Immediately deviate by turning South by at least 5\u00ba to avoid the region near 50\u00baN 010\u00baW.</p>",
+    "b": "<p>Immediately deviate by turning South by at least 5\u00ba to avoid the region near 50\u00baN 010\u00baW, then regain the track and turn South again before the region at 45\u00baN 060\u00baW.</p>",
+    "c": "<p>Follow the planned route and deviate South before the turbulence in the region of 45\u00baN 060\u00baW.</p>",
+    "d": "<p>Fly direct and do not make any deviations.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0148",
+      "publicUrl": "/attachments/050/050-att-0148.gif"
+    }
+  ]
+}

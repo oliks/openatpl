@@ -1,0 +1,14 @@
+{
+  "number": 182,
+  "questionId": "050-0182",
+  "questionNumber": "050-0182",
+  "stemHtml": "<p>Two aircraft are flying simultaneously in level flight at different flight levels on opposite tracks overhead a given position. Aircraft A flying at FL070 experiences a 30 kt headwind. Aircraft B flying at FL060 experiences a 20 kt headwind. None of the aircraft experiences cross wind.</p><p>This wind condition will be referred to as</p>",
+  "options": {
+    "a": "vertical and horizontal wind shear",
+    "b": "vertical wind shear only",
+    "c": "horizontal wind shear only",
+    "d": "no wind shear since the absolute value of the difference in wind velocity per height unit is too small to fit the definition of wind shear at all"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

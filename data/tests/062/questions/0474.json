@@ -1,0 +1,14 @@
+{
+  "number": 474,
+  "questionId": "062-0474",
+  "questionNumber": "062-0474",
+  "stemHtml": "<p>The Secondary Surveillance Radar (SSR) Mode S transponder will transmit a 24-bit Aircraft Address (AA).</p><p>This Aircraft Address is\u2026</p>",
+  "options": {
+    "a": "An ICAO code corresponding to the aircraft identification number, which is set from the flight deck.",
+    "b": "A unique identification number that is hard-coded into the transponder.",
+    "c": "A unique code associated with the Operator and the flight number.",
+    "d": "The squawk code as assigned by ATC."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

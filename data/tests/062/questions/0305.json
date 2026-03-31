@@ -1,0 +1,14 @@
+{
+  "number": 305,
+  "questionId": "062-0305",
+  "questionNumber": "062-0305",
+  "stemHtml": "<p>Which of the following are the basic functionalities of RNAV and RNP specifications?</p><p>1) Indicated airspeed or time to the (TO) next waypoint<br>2) Appropriate Indication/Display to show inaccuracy of RNAV or RNP<br>3) Distance or bearing from the previous waypoint<br>4) Continuous monitor of lateral deviation<br>5) Groundspeed or time to the (TO) next waypoint<br>6) Distance or bearing to the (TO) next waypoint</p>",
+  "options": {
+    "a": "<p>1, 2, 3, 4.</p>",
+    "b": "<p>2, 3, 4, 5.</p>",
+    "c": "<p>2, 4, 5, 6.</p>",
+    "d": "<p>1, 4, 5, 6.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

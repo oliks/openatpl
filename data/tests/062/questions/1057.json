@@ -1,0 +1,14 @@
+{
+  "number": 1057,
+  "questionId": "062-1057",
+  "questionNumber": "062-1057",
+  "stemHtml": "<p>Based on Doc 9613, which one of the following options is an RNP APCH?</p>",
+  "options": {
+    "a": "<p>An approach using SBAS containing the arrival segment</p>",
+    "b": "<p>ILS</p>",
+    "c": "<p>An approach made using any RNP navigation specification</p>",
+    "d": "<p>An approach to LNAV/VNAV minima, using GNSS</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

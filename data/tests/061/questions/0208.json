@@ -1,0 +1,14 @@
+{
+  "number": 208,
+  "questionId": "061-0208",
+  "questionNumber": "061-0208",
+  "stemHtml": "An aircraft is flying from Position A (53\u00b0N, 10\u00b035\u2019W) to Position B (53\u00b0N, 51\u00b045'E). Its average ground speed is equal to 375 kt. The time difference to UTC is 1 hour for Position A and 4 hours for Position B. Assuming the aircraft arrives at Position B on August 5th, 15:00 ST, what is its time of departure from Position A?",
+  "options": {
+    "a": "August 4<sup>th</sup>, 06:00 ST",
+    "b": "August 5<sup>th</sup>, 04:00 ST",
+    "c": "August 5<sup>th</sup>, 14:00 ST",
+    "d": "August 4<sup>th</sup>, 16:00 ST"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

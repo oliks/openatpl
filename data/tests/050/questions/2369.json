@@ -1,0 +1,14 @@
+{
+  "number": 2369,
+  "questionId": "050-2369",
+  "questionNumber": "050-2369",
+  "stemHtml": "<p>Surface wind reports provide averaged values...</p>",
+  "options": {
+    "a": "<p>Over 30 minutes for ATIS and METAR/SPECI. </p>",
+    "b": "<p>Over 5 minutes for ATIS and 2 min for METAR/SPECI. </p>",
+    "c": "<p>Over 5 minutes for METAR but actual reports for ATIS. </p>",
+    "d": "<p>Over 2 minutes for ATIS and 10 min for METAR/SPECI. </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

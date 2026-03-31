@@ -1,0 +1,14 @@
+{
+  "number": 243,
+  "questionId": "062-0243",
+  "questionNumber": "062-0243",
+  "stemHtml": "What is an \"ARINC 424 Path Terminator\" in reference to Performance Based Navigation?",
+  "options": {
+    "a": "<p>It is the point at which an RNAV specification segment of a procedure changes to a different RNAV or RNP specification.</p>",
+    "b": "It is the point at which an RNAV specification segment of a procedure changes to an RNP specification.",
+    "c": "It is the point at which an RNAV specification segment of a procedure changes to another RNAV specification.",
+    "d": "It is a code that defines a specific type of flight path along a segment of a procedure and a specific type of termination of that flight path."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

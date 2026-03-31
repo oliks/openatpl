@@ -1,0 +1,14 @@
+{
+  "number": 895,
+  "questionId": "061-0895",
+  "questionNumber": "061-0895",
+  "stemHtml": "<p>Using the convergency formula, the change of longitude is equal to (1) _____. Convergency is expressed in (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) convergency / sin (mean latitude); (2) nautical miles</p>",
+    "b": "<p>(1) convergency x sin (mean latitude); (2) minutes in latitude</p>",
+    "c": "<p>(1) convergency / sin (mean latitude); (2) degrees and minutes</p>",
+    "d": "<p>(1) convergency x sin (mean latitude); (2) minutes in longitude</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 739,
+  "questionId": "062-0739",
+  "questionNumber": "062-0739",
+  "stemHtml": "If the transmission power of an NDB is doubled, what will be the result on the range?",
+  "options": {
+    "a": "Range does not change.",
+    "b": "Range increases.",
+    "c": "Range decreases.",
+    "d": "The range can only be increased by increasing the frequency of the signal."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

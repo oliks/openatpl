@@ -1,0 +1,14 @@
+{
+  "number": 1326,
+  "questionId": "050-1326",
+  "questionNumber": "050-1326",
+  "stemHtml": "<p>Given that the temperature at FL70 is +4\u00b0C and at FL100 is \u22122\u00b0C, calculate the actual altitude difference between these two flight levels, taking into account the ISA deviation at each level.</p>",
+  "options": {
+    "a": "<p>3036 ft</p>",
+    "b": "<p>3952 ft</p>",
+    "c": "<p>4080 ft</p>",
+    "d": "<p>4160 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

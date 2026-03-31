@@ -1,0 +1,14 @@
+{
+  "number": 873,
+  "questionId": "061-0873",
+  "questionNumber": "061-0873",
+  "stemHtml": "<p>The Automatic Flight Control System (AFCS) in an aircraft is coupled to the guidance outputs from an Inertial Navigation System (INS) and the aircraft is flying from waypoint No.2 (60\u00b000'S 070\u00b000'W) to No.3 (60\u00b000'S 080\u00b000'W). Comparing the initial true track at 070\u00b000'W and the final true track at 080\u00b000'W, the initial true track is approximately...</p>",
+  "options": {
+    "a": "<p>5\u00b0 greater than the final one.</p>",
+    "b": "<p>9\u00b0 greater than the final one.</p>",
+    "c": "<p>9\u00b0 less than the final one.</p>",
+    "d": "<p>5\u00b0 less than the final one.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

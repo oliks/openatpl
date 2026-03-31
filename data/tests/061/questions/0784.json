@@ -1,0 +1,31 @@
+{
+  "number": 784,
+  "questionId": "061-0784",
+  "questionNumber": "061-0784",
+  "stemHtml": "<p>Refer to figures.<br>An aircraft is executing a flight from Chihuahua (Mexico) to Okayama (Japan). What is the ST time and date of arrival at Okayama (Japan)?</p><p>Departure aerodrome: Chihuahua\u00a0<br>Departure date: 29 April 2004\u00a0<br>Departure time: 02:47 ST\u00a0<br>Flight time: 10 h 38 min</p>",
+  "options": {
+    "a": "<p>22:25, 28 April 2004</p>",
+    "b": "<p>04:25, 30 April 2004</p>",
+    "c": "<p>04:25, 29 April 2004</p>",
+    "d": "<p>22:25, 29 April 2004</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0155",
+      "publicUrl": "/attachments/061/061-att-0155.png"
+    },
+    {
+      "uniqueKey": "061-att-0042",
+      "publicUrl": "/attachments/061/061-att-0042.png"
+    },
+    {
+      "uniqueKey": "061-att-0266",
+      "publicUrl": "/attachments/061/061-att-0266.png"
+    },
+    {
+      "uniqueKey": "061-att-0090",
+      "publicUrl": "/attachments/061/061-att-0090.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1992,
+  "questionId": "050-1992",
+  "questionNumber": "050-1992",
+  "stemHtml": "<p>METAR EGTK 090950Z 09003KT 6000 NSC 04/00 Q1031 NOSIG</p>\n\n<p><em>Based on the METAR, fill in the gaps:</em></p>\n\n<p>There are no (1)___ under the height of (2)___ above the aerodrome, and no (3)___ at any height. No expected changes within the next (4)___.</p>",
+  "options": {
+    "a": "(1) Clouds;  <br />  (2) 10 000ft;  <br />  (3) Turbulence;  <br />  (4) 1 hour.",
+    "b": "(1) Clouds covering more than half of the sky;  <br />  (2) 5 000ft;  <br />  (3) CB;  <br />  (4) 2 hours.",
+    "c": "(1) Clouds;  <br />  (2) 5 000ft;  <br />  (3) CB or TCU;  <br />  (4) 2 hours.",
+    "d": "(1) cumulonimbus;  <br />  (2) 5 000ft;  <br />  (3) Clouds;  <br />  (4) 1 hour.<strong>   </strong>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

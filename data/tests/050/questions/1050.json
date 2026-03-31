@@ -1,0 +1,19 @@
+{
+  "number": 1050,
+  "questionId": "050-1050",
+  "questionNumber": "050-1050",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft follows the green dashed route and crosses only an occluded front, shown on the chart with alternating purple symbols (^\u2022^\u2022^\u2022). Based on the weather depicted, what conditions is the pilot likely to encounter after crossing the occlusion, en route to the destination?</p>",
+  "options": {
+    "a": "<p>Cumulonimbus clouds with thunderstorms.</p>",
+    "b": "<p>Light, intermittent rain with scattered cumulus clouds.</p>",
+    "c": "<p>Nimbostratus and stratus clouds with continuous precipitation.</p>",
+    "d": "<p>Clearer skies with improving visibility.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0044",
+      "publicUrl": "/attachments/050/050-att-0044.jpg"
+    }
+  ]
+}

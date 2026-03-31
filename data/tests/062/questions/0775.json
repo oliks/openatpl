@@ -1,0 +1,14 @@
+{
+  "number": 775,
+  "questionId": "062-0775",
+  "questionNumber": "062-0775",
+  "stemHtml": "What criteria must be met to be considered \"established\" on an NDB approch?",
+  "options": {
+    "a": "The relative bearing must be less than 5\u00ba.",
+    "b": "The bearing pointer must be within 5\u00ba of the required course.",
+    "c": "The wind correction angle must be less than 5\u00ba.",
+    "d": "variation due to reflections from terrain may NOT exceed 5\u00ba."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

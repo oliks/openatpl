@@ -1,0 +1,14 @@
+{
+  "number": 786,
+  "questionId": "062-0786",
+  "questionNumber": "062-0786",
+  "stemHtml": "<p>What are the currently available modes of NAVSTAR/GPS?</p>",
+  "options": {
+    "a": "<p>Selective Availability Service (SAS) and Receiver Autonomous Integrity Monitoring (RAIM)</p>",
+    "b": "<p>Standard Positioning Service (SPS) and Precise Positioning Service (PPS)</p>",
+    "c": "<p>Mode-C Positioning Service (MCPS) and Mode-S Coordinate Positioning Service (SCPS)</p>",
+    "d": "<p>Civilian Positioning Service (CPS) and Military Positioning Service (MPS)</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

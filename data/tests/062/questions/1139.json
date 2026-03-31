@@ -1,0 +1,14 @@
+{
+  "number": 1139,
+  "questionId": "062-1139",
+  "questionNumber": "062-1139",
+  "stemHtml": "In order to follow a magnetic track of 230\u00ba, an aircraft is flying on a magnetic heading of 240\u00ba due to drift. The current QDM to the VOR station is 236\u00ba. Is the aircraft considered to be established on course?",
+  "options": {
+    "a": "Yes, our desired and true bearing are less than 5\u00ba.",
+    "b": "No, our magnetic heading and desired bearing are more than 5\u00ba.",
+    "c": "No, our desired and true bearing is more than 5\u00ba.",
+    "d": "Yes, our heading and desired bearing are less than 5\u00ba."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2647,
+  "questionId": "050-2647",
+  "questionNumber": "050-2647",
+  "stemHtml": "<p>A flight is scheduled from aerodrome A (elevation 800 ft, QFE 1000 hPa) to aerodrome B (elevation 80 ft, QFE 1020 hPa). En route, there's a hill with an elevation of 2550 feet. The regional QNH is 1026 hPa. Departing from A, the aircraft sets the altimeter subscale to the QFE of aerodrome A and maintains an indicated altitude of 3000 feet. Given these conditions, the aircraft will likely...</p><p><i>Assume 1 hPa = 30 ft.</i></p>",
+  "options": {
+    "a": "<p>Fly over the hill at a height of approximately 1230 ft above the top.</p>",
+    "b": "<p>Fly over the hill at a height of approximately 690 ft above the top.</p>",
+    "c": "<p>Crash on the hill, approximately 240 ft below the top.</p>",
+    "d": "<p>Crash on the hill, approximately 690 ft below the top.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

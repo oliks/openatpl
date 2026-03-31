@@ -1,0 +1,14 @@
+{
+  "number": 642,
+  "questionId": "050-0642",
+  "questionNumber": "050-0642",
+  "stemHtml": "<p>Given the following information, what is the corresponding true altitude, considering that the pressure altitude was determined using an aerodrome elevation of 500 ft AMSL?</p><p>Pressure altitude: 3000 ft <br>Indicated altitude: 2500 ft <br>Temperature: ISA +21\u00b0C</p><p> </p>",
+  "options": {
+    "a": "<p>2710 ft</p>",
+    "b": "<p>2668 ft</p>",
+    "c": "<p>4914 ft</p>",
+    "d": "<p>2290 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

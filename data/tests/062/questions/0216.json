@@ -1,0 +1,14 @@
+{
+  "number": 216,
+  "questionId": "062-0216",
+  "questionNumber": "062-0216",
+  "stemHtml": "Single sideband two way communication is used in what frequency band and how can such radio waves propagate?",
+  "options": {
+    "a": "HF (3-30 MHZ), as ground waves only.",
+    "b": "HF (3-30 MHZ), as ground waves and sky waves.",
+    "c": "MF (3-30 MHZ), as ground waves.",
+    "d": "MF (3-30 MHZ), as ground waves and sky waves."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 668,
+  "questionId": "062-0668",
+  "questionNumber": "062-0668",
+  "stemHtml": "<p>Given:</p>\n\n<p>Aircraft position 34\u00b015'N 098\u00b0E, magnetic variation 28\u00b0W, FL 280. <br /> \nPTC VOR/DME position 36\u00b012'N 098\u00b0E, magnetic variation 13\u00b0E.</p>\n\n<p>In order to read the most accurate ground speed given by the DME receiver from his present position, the pilot must fly on which PTC radial?</p>",
+  "options": {
+    "a": "332\u00b0",
+    "b": "Aircraft will not receive DME information from PTC due to the line of sight rule.",
+    "c": "193\u00b0",
+    "d": "167\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

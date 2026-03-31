@@ -1,0 +1,14 @@
+{
+  "number": 635,
+  "questionId": "061-0635",
+  "questionNumber": "061-0635",
+  "stemHtml": "<p>You are flying at FL180 and descending to 8000 ft with a transition level is FL120. The pressure is higher than ISA with a 600 ft correction added to the altitude. In order to reach 8000 ft in 33 NM, what is the minimum rate of descent?</p>\r\r<p>TAS = 100 kt <br /> \rWind = 6 kt tailwind</p>",
+  "options": {
+    "a": "<p>500 ft/min</p>",
+    "b": "<p>570 ft/min</p>",
+    "c": "<p>840 ft/min</p>",
+    "d": "<p>480 ft/min</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 844,
+  "questionId": "062-0844",
+  "questionNumber": "062-0844",
+  "stemHtml": "Determine the distance which will be shown on a DME display when the aircraft is at FL 240 and 4 NM plan range from the DME station: <br />  <br /> For the calculation use the following assumptions/approximations: <br /> QNH is 1013 hPa <br /> Pressure altitude is true altitude. <br /> Result to the nearest whole nautical mile.",
+  "options": {
+    "a": "3 NM",
+    "b": "4 NM",
+    "c": "6 NM",
+    "d": "8 NM"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

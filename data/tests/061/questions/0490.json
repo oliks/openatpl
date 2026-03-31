@@ -1,0 +1,14 @@
+{
+  "number": 490,
+  "questionId": "061-0490",
+  "questionNumber": "061-0490",
+  "stemHtml": "<p>A Pilot has planned a flight leg from A to B, a distance of 175 NM, with a planned heading of 160\u00b0, and a planned groundspeed 150 kt in still air conditions. The actual time of departure is 14:15, and at 15:00 a fix is obtained 6 NM left off the planned track with 52 NM to go to B. What is the revised ETA and revised heading to reach B?</p>",
+  "options": {
+    "a": "<p>Revised ETA 15:19; Revised Heading 170\u00b0</p>",
+    "b": "<p>Revised ETA 15:21; Revised Heading 170\u00b0</p>",
+    "c": "<p>Revised ETA 15:21; Revised Heading 150\u00b0</p>",
+    "d": "<p>Revised ETA 15:19; Revised Heading 150\u00b0</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1536,
+  "questionId": "061-1536",
+  "questionNumber": "061-1536",
+  "stemHtml": "<p>Refer to figure.  <br /> What do the symbols 1, 7 and 8 stand for?</p>",
+  "options": {
+    "a": "<p>1. VOR check-point.  <br /> 7. Tree/shrub. <br /> 8. Aerodrome Reference Point (ARP).</p>",
+    "b": "<p>1. Compulsory RP <br /> 7. Aerodrome Reference Point (ARP). <br /> 8. Tree/shrub.</p>",
+    "c": "<p>1. Fly-over on request RP.\u00a0<br>7. At or above altitude/FL.\u00a0<br>8. Mandatory altitude/FL.</p>",
+    "d": "<p>1. Non-Compulsory RP.  <br /> 7. Closed/Abandoned aerodrome. <br /> 8. Tree/shrub.</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0261",
+      "publicUrl": "/attachments/061/061-att-0261.png"
+    }
+  ]
+}

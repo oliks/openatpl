@@ -1,0 +1,19 @@
+{
+  "number": 2048,
+  "questionId": "050-2048",
+  "questionNumber": "050-2048",
+  "stemHtml": "<p>Refer to figure.<br />At the location indicated in the figure, how will the temperature and air pressure change?</p>",
+  "options": {
+    "a": "<p>Temperature decreases, pressure decreases</p>",
+    "b": "<p>Temperature decreases, pressure increases</p>",
+    "c": "<p>Temperature increases, pressure remains constant</p>",
+    "d": "<p>Temperature increases, pressure decreases</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0276",
+      "publicUrl": "/attachments/050/050-att-0276.jpeg"
+    }
+  ]
+}

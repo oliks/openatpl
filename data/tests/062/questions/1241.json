@@ -1,0 +1,14 @@
+{
+  "number": 1241,
+  "questionId": "062-1241",
+  "questionNumber": "062-1241",
+  "stemHtml": "<p>You are flying on radial 123, inbound to a VOR. The wind is from 040\u00b0(T) and produces 3 degrees of drift. The magnetic variation is 10\u00b0W. The OBS should be set to (1) _____ and magnetic heading should be (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) 123\u00b0; (2) 120\u00b0</p>",
+    "b": "<p>(1) 303\u00b0; (2) 306\u00b0</p>",
+    "c": "<p>(1) 303\u00b0; (2) 300\u00b0</p>",
+    "d": "<p>(1) 126\u00b0; (2) 123\u00b0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

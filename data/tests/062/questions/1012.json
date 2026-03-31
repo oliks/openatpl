@@ -1,0 +1,14 @@
+{
+  "number": 1012,
+  "questionId": "062-1012",
+  "questionNumber": "062-1012",
+  "stemHtml": "What can be the possible result of activating the approach mode (APP) of an autopilot whilst high above the glide path?",
+  "options": {
+    "a": "The autopilot might try to capture a false glide path.",
+    "b": "The autopilot could initiate a premature descent and fly into terrain.",
+    "c": "The aircraft's altitude will increase.",
+    "d": "The aircraft's speed may be reduced below the correct approach speed."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

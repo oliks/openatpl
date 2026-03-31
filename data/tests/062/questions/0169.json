@@ -1,0 +1,14 @@
+{
+  "number": 169,
+  "questionId": "062-0169",
+  "questionNumber": "062-0169",
+  "stemHtml": "What is the frequency band of the GBAS data link?",
+  "options": {
+    "a": "A signal with the same frequency as GPS.",
+    "b": "UHF band between 960 - 1215 MHz.",
+    "c": "VHF band of ILS and VOR systems.",
+    "d": "VHF band 108.0 to 111.975 MHz."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

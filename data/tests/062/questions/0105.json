@@ -1,0 +1,14 @@
+{
+  "number": 105,
+  "questionId": "062-0105",
+  "questionNumber": "062-0105",
+  "stemHtml": "<p>The ILS sensitive area is defined based on the locations of which of the following antennas?</p>\r\r<p>1. LOC <br /> \r2. GP <br /> \r3. DME <br /> \r4. Locator Beacon</p>",
+  "options": {
+    "a": "<p>Only 1</p>",
+    "b": "<p>1 and 2</p>",
+    "c": "<p>1, 2 and 3</p>",
+    "d": "<p>1, 2 and 4</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

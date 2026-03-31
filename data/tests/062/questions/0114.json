@@ -1,0 +1,14 @@
+{
+  "number": 114,
+  "questionId": "062-0114",
+  "questionNumber": "062-0114",
+  "stemHtml": "Which statement about VHF/UHF propagation in connection with Ground Direction Finders is correct?",
+  "options": {
+    "a": "VHF has, under normal conditions, a sky wave, whereas UHF has not. For both VHF/UHF propagation the space wave is the main propagation path.",
+    "b": "Neither VHF/UHF has a sky wave under any conditions. For VHF the surface wave is the main propagation path and for UHF the space wave.",
+    "c": "For both VHF/UHF propagation, the space wave is the only propagation path of practical use. There is no sky wave under normal conditions.",
+    "d": "VHF-frequencies below 120 MHz may be subjected to sporadic E-reflection and then have a sky wave. For both VHF/UHF the surface wave is the only propagation path of practical use."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

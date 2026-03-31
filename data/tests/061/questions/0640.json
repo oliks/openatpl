@@ -1,0 +1,14 @@
+{
+  "number": 640,
+  "questionId": "061-0640",
+  "questionNumber": "061-0640",
+  "stemHtml": "<p>What is the wind vector that should be used when planning a descent from FL150 to FL90, given the following:</p><p>FL200 W/V: 230\u00b0/40 kt <br>FL150 W/V: 210\u00b0/30 kt <br>FL100 W/V: 180\u00b0/20 kt <br>FL50 W/V: 140\u00b0/40 kt</p>",
+  "options": {
+    "a": "<p>175\u00b0/30 kt</p>",
+    "b": "<p>180\u00b0/20 kt</p>",
+    "c": "<p>190\u00b0/25 kt</p>",
+    "d": "<p>200\u00b0/25 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

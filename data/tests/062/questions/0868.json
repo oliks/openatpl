@@ -1,0 +1,14 @@
+{
+  "number": 868,
+  "questionId": "062-0868",
+  "questionNumber": "062-0868",
+  "stemHtml": "<p>When flying at the minimum Flight Level (FL) for line-of-sight propagation and using an NDB (Non-Directional Beacon), how could a pilot increase the signal strength?</p>\r\r<p>1. Fly higher <br /> \r2. Fly toward the station <br /> \r3. Decrease the frequency <br /> \r4. Change frequency</p>",
+  "options": {
+    "a": "<p>1 and 2, they are both equally important.</p>",
+    "b": "<p>1 and 2 as they are equally important, and 3 because lower frequencies propagate better.</p>",
+    "c": "<p>2, 3 and 4, as they all help in improving NDB reception.</p>",
+    "d": "<p>3 and 4, because frequency adjustments are the key to improving reception.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

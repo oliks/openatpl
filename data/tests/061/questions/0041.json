@@ -1,0 +1,14 @@
+{
+  "number": 41,
+  "questionId": "061-0041",
+  "questionNumber": "061-0041",
+  "stemHtml": "<p>Given the following information, calculate the rate of descent in order to achieve the glide path below:</p>\r\r<p>Ground speed: 110 kt <br /> \rILS GP angle: 3.5\u00b0</p>",
+  "options": {
+    "a": "<p>550 ft/min</p>",
+    "b": "<p>440 ft/min</p>",
+    "c": "<p>730 ft/min</p>",
+    "d": "<p>640 ft/min</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

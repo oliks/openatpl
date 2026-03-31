@@ -1,0 +1,14 @@
+{
+  "number": 540,
+  "questionId": "050-0540",
+  "questionNumber": "050-0540",
+  "stemHtml": "<p>Which of the following is a suitable method for measuring airfield visibility at night?</p><p>Note: In this case, the equipment being used is the Gold Visibility Meter.</p>",
+  "options": {
+    "a": "<p>Visibility is determined by human observers as this is more reliable than automatic measurement.</p>",
+    "b": "<p>A filter in an automatic viewing mechanism is adjusted until the light is no longer seen.</p>",
+    "c": "<p>A laser beam is used to determine the visibility with great accuracy in all directions.</p>",
+    "d": "<p>An infrared sensor is used to measure visibility during both daytime and nighttime.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

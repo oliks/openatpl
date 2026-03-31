@@ -1,0 +1,14 @@
+{
+  "number": 520,
+  "questionId": "062-0520",
+  "questionNumber": "062-0520",
+  "stemHtml": "In a GBAS...",
+  "options": {
+    "a": "The L2 frequency is used, and compared to the data received from the L1 frequency, to reduce the ionospheric error.",
+    "b": "A pseudolite is positioned close to the runway, transmitting information about the ionospheric and tropospheric errors to nearby aircraft.",
+    "c": "An extra satellite is used to verify the integrity of the signals from the other satellites.",
+    "d": "Information about the ionosphere is up-linked to a geostationary satellite, which distributes the information to properly equipped receivers."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

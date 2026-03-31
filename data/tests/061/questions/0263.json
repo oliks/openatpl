@@ -1,0 +1,14 @@
+{
+  "number": 263,
+  "questionId": "061-0263",
+  "questionNumber": "061-0263",
+  "stemHtml": "<p>Determine the aircraft's final position, given:</p><p>An aircraft takes off from position 05\u00b052\u2019N, 000\u00b000\u2019E/W and flies westwards for 704 NM, then southwards for 704 NM, then eastwards for 1 304 km and finally northwards for arc-to-time 352 minutes.</p>",
+  "options": {
+    "a": "00\u00ba00' N/S 000\u00ba00' E/W",
+    "b": "02\u00ba00'N 000\u00baE/W",
+    "c": "00\u00ba00' N/S 010\u00ba02'E",
+    "d": "05\u00ba52'S 000\u00ba00' E/W"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

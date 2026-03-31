@@ -1,0 +1,14 @@
+{
+  "number": 226,
+  "questionId": "050-0226",
+  "questionNumber": "050-0226",
+  "stemHtml": "<p>In a neutral stable atmosphere, the Environmental Lapse Rate (ELR) in the case of unsaturated air equals (1)_____, and ELR in the case of saturated air equals (2)_____.</p>\r\n\r\n<p>DALR Dry Adiabatic Lapse Rate<br />\r\nSALR Saturated Adiabatic Lapse Rate</p>\r\n",
+  "options": {
+    "a": "<p>(1) 1.98\u00b0C/1000ft, (2) DALR.</p>",
+    "b": "<p>(1) SALR, (2) DALR.</p>",
+    "c": "<p>(1) DALR, (2) SALR.</p>",
+    "d": "(1) SALR, (2) 1.98\u00b0C/1000 ft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

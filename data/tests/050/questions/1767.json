@@ -1,0 +1,14 @@
+{
+  "number": 1767,
+  "questionId": "050-1767",
+  "questionNumber": "050-1767",
+  "stemHtml": "<p>Different reports of the surface wind at an aerodrome are listed below. Which of the statements best explains the variability in the reported surface wind?</p><p>09:20Z METAR: 270/07 kt <br /> 09:20Z ATIS: 260/06 kt <br /> 09:20Z Aerodrome controller: 260/06 kt</p>",
+  "options": {
+    "a": "All aerodromes average their reported surface wind over 2 minutes, but it is measured by an anemometer at 10 m above ground level for METARs and 6 m above ground level for the ATIS and aerodrome controller.",
+    "b": "At larger aerodromes, the reported surface wind is measured by an anemometer at a height of 10 m and averaged over 2 minutes for the ATIS and the aerodrome controller, but averaged over 10 minutes for the METAR.",
+    "c": "All aerodromes report the surface wind obtained from an anemometer at a height of 4 ft above ground level, but METAR surface wind are averaged over 10 minutes and ATIS and aerodrome controller surface winds are averaged over 1 minute.",
+    "d": "The METAR surface wind is measured by an anemometer at a height of 10 m and averaged over 10 minutes, but for the ATIS aerodrome controller the wind is measured at a height of 33 m and averaged over 5 minutes."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

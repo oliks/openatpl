@@ -1,0 +1,14 @@
+{
+  "number": 50,
+  "questionId": "062-0050",
+  "questionNumber": "062-0050",
+  "stemHtml": "During an ILS approach with 3\u00ba glide slope you initiate a go around. When the DME reads 1 NM from the threshold (and decreasing), you are at a height of 1 200 ft over the runway elevation and you notice that the glidepath indicator is showing no deflection and no flags, as if you were correctly on the glidepath. What is happening?",
+  "options": {
+    "a": "The aircraft is flying within the side lobes of the glide path signal.",
+    "b": "The instrument has failed and has kept the previous indication.",
+    "c": "The aircraft is flying through the opposite runway glide path",
+    "d": "The approach has a higher glide path."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

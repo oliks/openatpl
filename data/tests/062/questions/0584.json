@@ -1,0 +1,14 @@
+{
+  "number": 584,
+  "questionId": "062-0584",
+  "questionNumber": "062-0584",
+  "stemHtml": "<p>An RNP APCH to LNAV/VNAV minima based on BARO-VNAV can only be conducted when the aircraft is within a promulgated temperature range. What is the reason for this?</p>",
+  "options": {
+    "a": "<p>Static vents can be blocked due to icing when approaching in IMC, hence leading to a loss of vertical guidance.</p>",
+    "b": "<p>The calculated true air speed (TAS) is based on the standard atmosphere and any significant differences will lead to an approach speed which could be too slow or too fast.</p>",
+    "c": "<p>The difference between true height and published decision height has to be limited to a maximum value.</p>",
+    "d": "<p>Temperature effects also influence terrain clearance on final approach segment. Obstacle clearance is reduced in low temperatures and the descent angle may be too steep in high temperatures, leading to an excessive rate of descent.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

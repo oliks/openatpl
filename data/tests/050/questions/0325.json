@@ -1,0 +1,14 @@
+{
+  "number": 325,
+  "questionId": "050-0325",
+  "questionNumber": "050-0325",
+  "stemHtml": "<p>On a busy descent, the flight crew forgets to set the airfield QNH when passing the transition level and ends up landing with the standard pressure setting still set on the altimeter subscale. With an airfield elevation of 520 ft and a QNH of 1003 hPa, what would the altimeter read upon landing? <br>(Assume 30 ft per 1 hPa.)</p>",
+  "options": {
+    "a": "250 ft",
+    "b": "270 ft",
+    "c": "<p>820 ft</p>",
+    "d": "520 ft"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

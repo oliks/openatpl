@@ -1,0 +1,14 @@
+{
+  "number": 206,
+  "questionId": "050-0206",
+  "questionNumber": "050-0206",
+  "stemHtml": "<p>An aircraft is flying at FL140 from overhead Airfield A to overhead Airfield B. The QNH at both airfields is 1013 hPa. Given the following information, calculate the approximate change in the true altitude whilst flying from Airfield A to Airfield B:</p><p>Airfield A <br>Elevation: 4000 ft <br>OAT: ISA -15\u00b0C</p><p>Airfield B <br>Elevation: 3000 ft <br>OAT: ISA +5\u00b0C</p>",
+  "options": {
+    "a": "<p>+380 ft</p>",
+    "b": "<p>+820 ft</p>",
+    "c": "<p>-820 ft</p>",
+    "d": "<p>-380 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

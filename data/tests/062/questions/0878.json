@@ -1,0 +1,14 @@
+{
+  "number": 878,
+  "questionId": "062-0878",
+  "questionNumber": "062-0878",
+  "stemHtml": "<p>A pilot wishes to demonstrate flying in IMC using only an NDB to a curious passenger who is a retired radar engineer. Which of the following would be a suitable procedure?</p>",
+  "options": {
+    "a": "<p>Fly a DME arc and then track a QDM to the station.</p>",
+    "b": "<p>Track the QDR from the NDB for a specified time, then turn to intercept the QDM back to the station.</p>",
+    "c": "<p>Fly between GNSS waypoints and intercept the NDB radial.</p>",
+    "d": "<p>Track a VOR radial and then intercept the NDB.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

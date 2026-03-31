@@ -1,0 +1,14 @@
+{
+  "number": 777,
+  "questionId": "061-0777",
+  "questionNumber": "061-0777",
+  "stemHtml": "As the INS position of the departure aerodrome, coordinates 35\u00b032.7'N 139\u00b046.3'W are input instead of 35\u00b032.7'N 139\u00b046.3'E. What will be the longitude value shown on the INS when the aircraft subsequently passes point 52\u00b0N 180\u00b0W?",
+  "options": {
+    "a": "099\u00b032,6'E",
+    "b": "080\u00b027,4'E",
+    "c": "080\u00b027,4'W",
+    "d": "099\u00b032,6'W"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

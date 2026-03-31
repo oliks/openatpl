@@ -1,0 +1,19 @@
+{
+  "number": 505,
+  "questionId": "050-0505",
+  "questionNumber": "050-0505",
+  "stemHtml": "<p>Refer to figure.    <br />    You are planning a flight from Ostend (52\u00b0N 003\u00b0E) to D\u00fcsseldorf (51\u00b0N 007\u00b0E), following the route indicated on the chart. Your estimated time of arrival at D\u00fcsseldorf is 1600 UTC. The terrain in the vicinity of D\u00fcsseldorf is about 200 feet above mean sea level. Based on the forecast, what is the minimum visibility expected at your time of arrival?</p>",
+  "options": {
+    "a": "<p>Occasionally 200 metres in rain or drizzle.</p>",
+    "b": "<p>In isolated places 200 metres.</p>",
+    "c": "<p>300 metres in snow showers.</p>",
+    "d": "<p>3000 metres in showers.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0078",
+      "publicUrl": "/attachments/050/050-att-0078.png"
+    }
+  ]
+}

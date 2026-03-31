@@ -1,0 +1,19 @@
+{
+  "number": 817,
+  "questionId": "061-0817",
+  "questionNumber": "061-0817",
+  "stemHtml": "<p>Refer to figure.  <br /> A pilot is plotting a track from Hohenfels NDB (N49\u00b013' E011\u00b052'). The dead reckoning (DR) position is N49\u00b000'E 13\u00b008'. Given the following data, what is the true bearing that should be plotted from the NDB to the aircraft (QTE), corrected for all relevant factors?</p><p>Compass heading: 005\u00b0C  <br /> Deviation: 3\u00b0 East  <br /> Constant of the cone: 0.82  <br /> Relative bearing on your omni bearing indicator: 255\u00b0</p>",
+  "options": {
+    "a": "<p>82\u00b0T</p>",
+    "b": "<p>85\u00b0T</p>",
+    "c": "<p>83\u00b0T</p>",
+    "d": "<p>87\u00b0T</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0255",
+      "publicUrl": "/attachments/061/061-att-0255.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 365,
+  "questionId": "050-0365",
+  "questionNumber": "050-0365",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following weather phenomena is most pronounced in the cloud which is shown on the attached figure?</p>",
+  "options": {
+    "a": "<p>SHRA and GR. <strong> </strong><strong> </strong></p>",
+    "b": "<p>RA and OVC.</p>",
+    "c": "<p>RA and IC.</p>",
+    "d": "<p>FG and GR.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0307",
+      "publicUrl": "/attachments/050/050-att-0307.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1375,
+  "questionId": "061-1375",
+  "questionNumber": "061-1375",
+  "stemHtml": "<p>You are climbing to FL 280 in ISA conditions, maintaining a constant CAS of 250 kt. At the beginning of the climb your cross-check of the instruments shows TAS at 336 kt and Mach 0.55. When you check the instruments again at some point during the climb, which option contains readings that you would expect to see?</p>",
+  "options": {
+    "a": "TAS at 316 kt and Mach at 0.59.",
+    "b": "<p>TAS at 357 kt and Mach at 0.51.</p>",
+    "c": "TAS at 316 kt and Mach at 0.51.",
+    "d": "<p>TAS at 357 kt and Mach at 0.59.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

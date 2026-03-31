@@ -1,0 +1,14 @@
+{
+  "number": 1267,
+  "questionId": "061-1267",
+  "questionNumber": "061-1267",
+  "stemHtml": "<p>An aircraft approaches runway 24 of Ryan airfield. The tower gives a wind of 260\u00b0/26 kt.The magnetic variation is 12\u00b0E. According to the airport chart the direction of runway 24 is 238\u00b0.</p>\n\n<p>Calculate the head/tailwind component.</p>",
+  "options": {
+    "a": "28 kt tailwind",
+    "b": "24 kt tailwind",
+    "c": "24 kt headwind",
+    "d": "28 kt headwind"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1802,
+  "questionId": "050-1802",
+  "questionNumber": "050-1802",
+  "stemHtml": "<p>Which of the following messages could represent a pilot report from an aircraft during the departure phase?</p>",
+  "options": {
+    "a": "<p>LPPR Airport, WS WRNG 1 160520 VALID 160520/161200 WS ALL RWY FCST</p>",
+    "b": "<p>EDDM Airport, WS WRNG 1 160520 MBST APCH RWY08 REP AT 0500 A320 35KT LOSS 1NM FNA</p>",
+    "c": "<p>LPPT Airport, WS WRNG 1 160520 MBST IN CLIMB OUT RWY21 REP AT 0500 A320</p>",
+    "d": "<p>EDDB Airport, WS WRNG 1 160520 VALID 160520/161200 WS RWY24 FCST</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 799,
+  "questionId": "062-0799",
+  "questionNumber": "062-0799",
+  "stemHtml": "<p>A DME ground station can generally respond to a maximum of 100 aircraft at once. What is the reason for this limitation?</p>",
+  "options": {
+    "a": "The difference in strengths of the received signals CANNOT be differentiated by the DME ground station, and consequently the weakest signals fall off.",
+    "b": "Saturation of the DME receivers in the aircraft, receiving all interrogations of other aircraft in the vicinity that are on the same frequency.",
+    "c": "Limitation of transmission by the echo protection circuit, which avoids replies being reflected and coming back into the DME ground station.",
+    "d": "Saturation of the DME ground station working on only one receive frequency and one transmit frequency."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 2259,
+  "questionId": "050-2259",
+  "questionNumber": "050-2259",
+  "stemHtml": "<p>Refer to figure. <br>The figure shows a cross-section of a polar front. Which of the points does the following METAR suit best?</p><p>24006KT 6000 -DZ BR OVC006\u202f06/05\u202fQ0999 NOSIG</p>",
+  "options": {
+    "a": "<p>Point 1</p>",
+    "b": "<p>Point 2</p>",
+    "c": "<p>Point 3</p>",
+    "d": "<p>Point 4</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0269",
+      "publicUrl": "/attachments/050/050-att-0269.jpg"
+    }
+  ]
+}

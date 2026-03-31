@@ -1,0 +1,14 @@
+{
+  "number": 616,
+  "questionId": "061-0616",
+  "questionNumber": "061-0616",
+  "stemHtml": "<p>Calculate the true track and the ground speed using the following data:</p>\n\n<p><span style=\"letter-spacing:0.7px\">True heading: 254\u00b0</span>  <br />  \nTAS: 163 kt  <br />  \nW/V: 130/30</p>\n\n<p>True track and GS are:</p>",
+  "options": {
+    "a": "True track 246\u00b0, GS 182 kt.",
+    "b": "True track 264\u00b0, GS 149 kt.",
+    "c": "True track 244\u00b0, GS 149 kt.",
+    "d": "True track 262\u00b0, GS 182 kt."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

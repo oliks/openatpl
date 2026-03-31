@@ -1,0 +1,14 @@
+{
+  "number": 1478,
+  "questionId": "061-1478",
+  "questionNumber": "061-1478",
+  "stemHtml": "<p>Use the following parameters to calculate the groundspeed of the aircraft with the Mental Dead Reckoning (MDR) technique.</p><p>True track: 180\u00b0 <br>TAS: 125 kt <br>Wind from a meteorological chart: 300\u00b0 at 30 kt <br>Magnetic variation: 20\u00b0W</p>",
+  "options": {
+    "a": "<p>131 kt</p>",
+    "b": "<p>110 kt</p>",
+    "c": "<p>140 kt</p>",
+    "d": "<p>155 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 39,
+  "questionId": "062-0039",
+  "questionNumber": "062-0039",
+  "stemHtml": "<p>Why is it necessary for both pilots and air traffic controllers to be aware of the capabilities and performance of RNAV and RNP systems when entering and operating in a particular airspace?</p>",
+  "options": {
+    "a": "<p>It ensures that both pilots and air traffic controllers are confident that the aircraft will follow published tracks also in the event of systems downgrade.</p>",
+    "b": "<p>It ensures that all aircraft entering are capable of following the procedures and therefore reduces workload by eliminating the need for monitoring.</p>",
+    "c": "<p>To be confident that all aircraft follow the same path and follow the same turn radius, giving the same predictable track-keeping performance.</p>",
+    "d": "<p>To be confident that the aircraft is capable of navigating with the appropriate accuracy to ensure adherence to procedures and separation.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

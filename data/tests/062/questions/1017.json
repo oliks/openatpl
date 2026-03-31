@@ -1,0 +1,14 @@
+{
+  "number": 1017,
+  "questionId": "062-1017",
+  "questionNumber": "062-1017",
+  "stemHtml": "A pilot of an aircraft flying in the daytime at FL80 on heading 030\u00b0(M) is instructed by ATC to route directly towards an NDB. The ADF is already tuned to this NDB and identified correctly, with a QDM of 340\u00b0(M) and about 8 NM away. Upon banking left to start a turn, the indication on the RMI rapidly moves to the left. What is the most probable cause of this?",
+  "options": {
+    "a": "Antenna shadowing",
+    "b": "Station interference",
+    "c": "Quadrantal error",
+    "d": "Dip error"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

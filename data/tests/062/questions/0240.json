@@ -1,0 +1,14 @@
+{
+  "number": 240,
+  "questionId": "062-0240",
+  "questionNumber": "062-0240",
+  "stemHtml": "<p>What value of RNP is required for an approach to LPV minima?</p>",
+  "options": {
+    "a": "<p>0.1 nm</p>",
+    "b": "<p>0.3 nm</p>",
+    "c": "<p>0.3 nm (with SBAS augmentation)</p>",
+    "d": "<p>1.0 nm</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

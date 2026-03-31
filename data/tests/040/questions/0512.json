@@ -1,0 +1,14 @@
+{
+  "number": 512,
+  "questionId": "040-0512",
+  "questionNumber": "040-0512",
+  "stemHtml": "<p>If aeronautical decision making is performed correctly, the choice of a solution will depend on which of the following?</p>1. The risks associated with each option. <br /> 2. The hierarchical position of the person making a suggestion. <br /> 3. The objective to be achieved. <br /> 4. The performance capability of crew members. <br /> 5. Any time constraints. <br /> 6. The interpersonal relationships among crew members.",
+  "options": {
+    "a": "1, 2, 3 and 4",
+    "b": "1, 3, 4 and 5",
+    "c": "2, 4, 5 and 6",
+    "d": "1, 2, 3 and 6"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

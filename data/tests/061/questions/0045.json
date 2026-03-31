@@ -1,0 +1,14 @@
+{
+  "number": 45,
+  "questionId": "061-0045",
+  "questionNumber": "061-0045",
+  "stemHtml": "<p>Given the following information, Calculate the drift and groundspeed:</p><p>True Track = 020<strong>\u00b0</strong> <br>TAS = 180 kt <br>W/V = 060<strong>\u00b0</strong>(T)/30 kt</p>",
+  "options": {
+    "a": "<p>Drift = 6\u00b0 left; GS = 156 kt</p>",
+    "b": "<p>Drift = 7\u00b0 left; GS = 158 kt</p>",
+    "c": "<p>Drift = 8\u00b0 left; GS = 161 kt</p>",
+    "d": "<p>Drift = 5\u00b0 left; GS = 204 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

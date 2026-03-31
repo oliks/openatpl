@@ -1,0 +1,14 @@
+{
+  "number": 244,
+  "questionId": "062-0244",
+  "questionNumber": "062-0244",
+  "stemHtml": "What are the effects of shadowing by parts of the aircraft on the reception of signals from NAVSTAR GPS satellites?",
+  "options": {
+    "a": "The signals will be distorted, however the error can be corrected for using an algorithm and information from unaffected signals.",
+    "b": "It has no influence because high frequency signals are unaffected.",
+    "c": "It may prevent the reception of signals.",
+    "d": "It causes multipath propagation."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

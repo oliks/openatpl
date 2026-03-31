@@ -1,0 +1,14 @@
+{
+  "number": 508,
+  "questionId": "050-0508",
+  "questionNumber": "050-0508",
+  "stemHtml": "<p>If an aircraft was flying at 8 500 feet indicated altitude with QNH set to 1030 hPa and ATC requested a change to local QNH 1010 hPa, what would be the true altitude if the pilot forgot to switch the QNH setting and remained on 1030 hPa?</p>",
+  "options": {
+    "a": "<p>600 feet</p>",
+    "b": "<p>8 500 feet</p>",
+    "c": "<p>9 100 feet</p>",
+    "d": "<p>7 900 feet</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

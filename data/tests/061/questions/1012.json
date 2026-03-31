@@ -1,0 +1,14 @@
+{
+  "number": 1012,
+  "questionId": "061-1012",
+  "questionNumber": "061-1012",
+  "stemHtml": "<p>A pilot flies from Aerodrome A to Aerodrome B. The return flight to Aerodrome A is scheduled after a quick turn-around. Assume the same wind conditions for both flights. Given the following information, calculate the average groundspeed for the return.</p>\r\nAverage TAS for both flights: 145 kt<br />\r\nHWC from Aerodrome A to Aerodrome B: 25 kt",
+  "options": {
+    "a": "120 kt",
+    "b": "160 kt",
+    "c": "110 kt",
+    "d": "170 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

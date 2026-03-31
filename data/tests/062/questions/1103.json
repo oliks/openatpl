@@ -1,0 +1,14 @@
+{
+  "number": 1103,
+  "questionId": "062-1103",
+  "questionNumber": "062-1103",
+  "stemHtml": "<p>Some Flight Management Systems have dedicated navigation receivers (for example, DME) allowing for the automatic tune function. The main advantage of the automatic tuning is that...</p>",
+  "options": {
+    "a": "<p>tuning occurs much quicker than with manual selection.</p>",
+    "b": "<p>tuning is also possible outside the Designated Operational Coverage (DOC).</p>",
+    "c": "<p>the calculated position is more correct than with manual selection.</p>",
+    "d": "<p>it provides the best available signals for position calculation.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

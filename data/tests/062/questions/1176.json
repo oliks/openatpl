@@ -1,0 +1,14 @@
+{
+  "number": 1176,
+  "questionId": "062-1176",
+  "questionNumber": "062-1176",
+  "stemHtml": "A functional Mode S transponder interrogated in Mode A. What is provided to the ATC screen apart from the aircraft position (bearing and range)?",
+  "options": {
+    "a": "Transponder code and pressure altitude.",
+    "b": "Transponder code, pressure altitude, aircraft address, and other flight data.",
+    "c": "Transponder code, pressure altitude, and aircraft address.",
+    "d": "Transponder code only."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

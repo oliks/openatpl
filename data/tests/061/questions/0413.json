@@ -1,0 +1,14 @@
+{
+  "number": 413,
+  "questionId": "061-0413",
+  "questionNumber": "061-0413",
+  "stemHtml": "<p>Given the following information, calculate the average TAS during the descent:</p><p>Cruising altitude: FL130 <br /> Target level: FL60 <br /> Average CAS during descent: 130 kt <br /> Temperature Conditions: ISA</p>",
+  "options": {
+    "a": "161 kt",
+    "b": "150 kt",
+    "c": "115 kt",
+    "d": "143 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

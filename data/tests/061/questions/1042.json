@@ -1,0 +1,19 @@
+{
+  "number": 1042,
+  "questionId": "061-1042",
+  "questionNumber": "061-1042",
+  "stemHtml": "<p>Refer to figure. <br /> \rComplete line 3 of the \u2018FLIGHT NAVIGATION LOG\u2019, positions \u2018E\u2019 to \u2018F\u2019.</p>\r\r<p>What is the HDG\u00b0M and ETA?</p>",
+  "options": {
+    "a": "<p>HDG: 095\u00b0M, ETA: 11:55 UTC</p>",
+    "b": "<p>HDG: 105\u00b0M, ETA: 12:05 UTC</p>",
+    "c": "<p>HDG: 115\u00b0M, ETA: 11:45 UTC</p>",
+    "d": "<p>HDG: 106\u00b0M, ETA: 12:15 UTC</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0304",
+      "publicUrl": "/attachments/061/061-att-0304.jpg"
+    }
+  ]
+}

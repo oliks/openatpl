@@ -1,0 +1,14 @@
+{
+  "number": 433,
+  "questionId": "040-0433",
+  "questionNumber": "040-0433",
+  "stemHtml": "<p>In order to be allowed to fly, a pilot must hold a valid medical certificate. When the pilot visits his/her AME, the measurement and recording of blood pressure is mandatory. Why is that?</p>",
+  "options": {
+    "a": "Should the systolic pressure exceed the value of 160 mm Hg, a state of hypertension is diagnosed, which may lead to cardiovascular failure, with the risk of incapacitation during flight.",
+    "b": "With a blood pressure measurement of 140/90 mm Hg, a pilot is to be considered temporarily unfit, because of the high risk of fainting in flight due to very low diastolic pressure.",
+    "c": "<p>If the diastolic pressure value is found to be below 100 mm Hg, a state of hypotension is diagnosed, and the pilot could be unable to fly if that value remains so low.</p>",
+    "d": "A blood pressure measurement of 90/60 mm Hg may be dangerous with a high risk of strokes, and the pilot would be considered temporarily unfit."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1154,
+  "questionId": "062-1154",
+  "questionNumber": "062-1154",
+  "stemHtml": "Your radar has a slotted planar array. Which functions can it perform?",
+  "options": {
+    "a": "Use a cosecant squared beam and tilt down for mapping the ground ahead.",
+    "b": "Use cosecant square beam to view mapping function vertically down.",
+    "c": "Use cosecant squared beam to scan in mapping mode.",
+    "d": "Omnidirectional mapping."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

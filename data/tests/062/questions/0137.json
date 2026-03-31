@@ -1,0 +1,14 @@
+{
+  "number": 137,
+  "questionId": "062-0137",
+  "questionNumber": "062-0137",
+  "stemHtml": "<p>In an Aircraft-Based Augmentation System (ABAS), the method of integrity monitoring that only uses information from the GNSS is called..</p>",
+  "options": {
+    "a": "<p>Receiver Automatic Identity Monitoring (RAIM).</p>",
+    "b": "GNSS Autonomous Integrity Monitoring (GAIM).",
+    "c": "Aircraft Autonomous Integrity Monitoring (AAIM).",
+    "d": "Receiver Autonomous Integrity Monitoring (RAIM)."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

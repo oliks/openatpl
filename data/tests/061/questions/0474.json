@@ -1,0 +1,14 @@
+{
+  "number": 474,
+  "questionId": "061-0474",
+  "questionNumber": "061-0474",
+  "stemHtml": "<p>Determine the wind direction/velocity (\u00baT), given:</p>\n\n<p>TAS: 135 kt <br /> \nMagnetic track: 144\u00b0 <br /> \nVariation: 12\u00b0W <br /> \nDrift angle: 6\u00b0L <br /> \nHeadwind: 15 kt</p>",
+  "options": {
+    "a": "200\u00b0/20 kt",
+    "b": "087\u00b0/20 kt",
+    "c": "177\u00b0/20 kt",
+    "d": "189\u00b0/20 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 89,
+  "questionId": "062-0089",
+  "questionNumber": "062-0089",
+  "stemHtml": "<p>An NDB can be used for an approach or holding procedure. Which of the following correct describes the procedure a pilot should follow when flying an NDB hold without GNSS or DME available?</p>",
+  "options": {
+    "a": "<p>Fly a QDR from the station, and after a specified time, turn to intercept and fly the reciprocal QDM inbound.</p>",
+    "b": "<p>Maintain a QDM to the station and upon crossing overhead, turn outbound and re-intercept the same QDM.</p>",
+    "c": "<p>Fly outbound until reaching a specified distance, then turn inbound.</p>",
+    "d": "<p>Fly a radial outbound and maintain distance using DME before turning inbound.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

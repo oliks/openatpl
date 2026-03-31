@@ -1,0 +1,14 @@
+{
+  "number": 1218,
+  "questionId": "062-1218",
+  "questionNumber": "062-1218",
+  "stemHtml": "<p>From the the following options, choose those that are PBN navigation specifications that may be encountered in NAT HLA airspace.</p>\r\r<p>1) RNP 10 and RNP 4 <br /> \r2) RNAV 10 <br /> \r3) RNP 2 <br /> \r4) RNAV 2</p>\r\r<p> </p>",
+  "options": {
+    "a": "<p>1, 2, 3</p>",
+    "b": "<p>2, 3, 4</p>",
+    "c": "<p>1, 2, 3, 4</p>",
+    "d": "<p>1, 3, 4</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

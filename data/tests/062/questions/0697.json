@@ -1,0 +1,14 @@
+{
+  "number": 697,
+  "questionId": "062-0697",
+  "questionNumber": "062-0697",
+  "stemHtml": "Which of the following options contains the correct frequency band, propagation path and frequency range for radio communications using a single side band?",
+  "options": {
+    "a": "<p>VHF, 108 MHz to 117.975 MHz, sky waves.</p>",
+    "b": "<p>MF, 190 KHz to 1750 KHz, surface and sky waves.</p>",
+    "c": "<p>HF, 3 MHz to 30 MHz, surface and sky waves.</p>",
+    "d": "<p>HF, 3 MHz to 30 MHz, surface waves only.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

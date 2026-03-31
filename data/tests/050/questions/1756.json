@@ -1,0 +1,14 @@
+{
+  "number": 1756,
+  "questionId": "050-1756",
+  "questionNumber": "050-1756",
+  "stemHtml": "<p>Your aircraft is parked at an uncontrolled airfield and there is NO reported local QNH setting. The airport elevation is 1411ft and the pilot sets the altimeter to indicate 0ft. Which barometric pressure would the altimeter indicate? Local barometric pressure:</p>",
+  "options": {
+    "a": "Converted to mean sea level using ISA- QNH.",
+    "b": "Converted to transition altitude- QNH.",
+    "c": "<p>At the aerodrome datum- QFE.</p>",
+    "d": "<p>At sea level- QFF.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

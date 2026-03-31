@@ -1,0 +1,19 @@
+{
+  "number": 204,
+  "questionId": "050-0204",
+  "questionNumber": "050-0204",
+  "stemHtml": "<p>Refer to figure. <br>What is the mean temperature at flight level 180 along the route from Berlin (52\u00b031\u2032N 13\u00b024\u2032E) to Stockholm (59\u00b020\u2032N 18\u00b003\u2032E)?</p>",
+  "options": {
+    "a": "<p>ISA -14\u00b0C</p>",
+    "b": "<p>ISA -12\u00b0C</p>",
+    "c": "<p>ISA -8\u00b0C</p>",
+    "d": "<p>ISA -10\u00b0C</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0352",
+      "publicUrl": "/attachments/050/050-att-0352.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1404,
+  "questionId": "050-1404",
+  "questionNumber": "050-1404",
+  "stemHtml": "Due to a rapid depressurization the crew of a commercial jet aircraft has to rapidly descend and return to the departure airport. In the turmoil, the crew forgets to switch back from standard pressure to the local QNH which is 1030. With an airport elevation of 224 feet, a transition altitude of 17 000 feet and a transition level at FL180, what is the indicated altitude after landing? <br /> <em>(Assume 1 hPa equals 27 feet)</em>",
+  "options": {
+    "a": "Negative 201 feet.",
+    "b": "201 feet.",
+    "c": "425 feet.",
+    "d": "Negative 235 feet."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

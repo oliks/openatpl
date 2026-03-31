@@ -1,0 +1,14 @@
+{
+  "number": 887,
+  "questionId": "040-0887",
+  "questionNumber": "040-0887",
+  "stemHtml": "<p>An aircraft departs from a major airport. According to the pre-flight brief, the Commander flies the departure procedure and the Co-Pilot monitors speed, level, and communications. After departure, due to the distraction caused by ATC transmissions, the Co-Pilot retracts the flaps without noticing that the speed is below that required for flap retraction. While responding to the subsequent speed warning, the Commander allows the aircraft to climb above its cleared altitude. What are the error types illustrated in this scenario?</p><p>1. Communication error: Co-Pilot fails to inform the Commander of the speed before retracting the flaps<br />2. Communication error: Co-Pilot fails to tell the Commander about the altitude deviation<br />3. Handling error: Commander fails to control the speed and fails to control the rate of climb<br />4. Procedural error: Co-Pilot fails to monitor the speed and altitude<br />5. Procedural error: Commander fails to achieve the correct flap retraction speed<br />6. Procedural error: Commander and Co-Pilot fail to level the aircraft at the cleared altitude</p>",
+  "options": {
+    "a": "<p>1, 2, 3, and 5.</p>",
+    "b": "1, 4 and 5.",
+    "c": "<p>2, 5, and 6.</p>",
+    "d": "3 and 4."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

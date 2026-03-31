@@ -1,0 +1,14 @@
+{
+  "number": 157,
+  "questionId": "062-0157",
+  "questionNumber": "062-0157",
+  "stemHtml": "<p>How might you go about cross-checking your aircraft's position using the Airborne Weather Radar (AWR)?</p>",
+  "options": {
+    "a": "<p>By looking for a suitable point on the VFR map and comparing it with the dead reckoning position, using the heading and distance on the radar screen.</p>",
+    "b": "<p>By using the mapping mode to obtain a magnetic bearing from the aircraft to suitable echoes on the display.</p>",
+    "c": "<p>By selecting a suitable echo from the display, obtaining the relative bearing and distance, and converting it into a true bearing to plot on the chart.</p>",
+    "d": "<p>By selecting a suitable point such as a large built-up area to obtain a fix.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

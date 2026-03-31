@@ -1,0 +1,14 @@
+{
+  "number": 1236,
+  "questionId": "061-1236",
+  "questionNumber": "061-1236",
+  "stemHtml": "<p>Given the following information from an Air Almanac, what is the daylight saving time and date in country B if the time and date in country A is 01:50 standard Time (ST) 20th June?</p><p>ST in country A is UTC +13 hours <br /> ST in country B is UTC -11 hours.</p><p>Daylight saving times (ST +1 hour) is kept in country B from March to October.</p>",
+  "options": {
+    "a": "02:50 19th June",
+    "b": "00:50 19th June",
+    "c": "01:50 19th June",
+    "d": "01:50 21st June"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

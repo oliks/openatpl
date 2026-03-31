@@ -1,0 +1,14 @@
+{
+  "number": 585,
+  "questionId": "062-0585",
+  "questionNumber": "062-0585",
+  "stemHtml": "<p>The Automatic Direction Finder (ADF) is a navigation instrument which determines the direction (relative bearing) of a radio signal, usually from a ground based station. Which of the following statements accurately describes the ADF?</p>",
+  "options": {
+    "a": "<p>ADF receivers operate in the 1 MHz to 10 MHz range and can receive bearing information.</p>",
+    "b": "<p>ADF receivers operate in the 190 kHz to 1750 kHz range and can receive bearing information from compatible NDB (Non-Directional Beacon) stations.</p>",
+    "c": "<p>ADF receivers operate in the 110 MHz to 136 MHz range, can receive bearing information, but require a visual reference to the station.</p>",
+    "d": "<p>ADF receivers operate in the 190 kHz to 535 kHz range and cannot receive bearing information.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

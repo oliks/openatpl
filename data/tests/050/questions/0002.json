@@ -1,0 +1,14 @@
+{
+  "number": 2,
+  "questionId": "050-0002",
+  "questionNumber": "050-0002",
+  "stemHtml": "<p>The cloud base, reported in the METAR, is the height above\u2026</p>",
+  "options": {
+    "a": "the pressure altitude of the observation station at the time of observation.",
+    "b": "the highest terrain within a radius of 8 km from the observation station.",
+    "c": "aerodrome level.",
+    "d": "mean sea level."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

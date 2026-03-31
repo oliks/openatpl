@@ -1,0 +1,19 @@
+{
+  "number": 2294,
+  "questionId": "050-2294",
+  "questionNumber": "050-2294",
+  "stemHtml": "<p>Refer to figure.  <br />  \rConsider a flight operating from Brussels to Paris, planned for the afternoon 2nd of July 2018, flying at 6 000 ft AMSL. What type of turbulence and icing can you expect?</p>",
+  "options": {
+    "a": "<p>Moderate icing, no turbulence within clouds.</p>",
+    "b": "<p>Severe turbulence, moderate icing within clouds.</p>",
+    "c": "<p>Moderate icing and turbulence within clouds.</p>",
+    "d": "<p>Moderate turbulence, no icing within clouds.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0145",
+      "publicUrl": "/attachments/050/050-att-0145.png"
+    }
+  ]
+}

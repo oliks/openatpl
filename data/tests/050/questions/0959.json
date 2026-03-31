@@ -1,0 +1,14 @@
+{
+  "number": 959,
+  "questionId": "050-0959",
+  "questionNumber": "050-0959",
+  "stemHtml": "<p>Given:</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\" style=\"letter-spacing:0.7px; width:320px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Altimeter setting:</td>\n\t\t\t<td>1013 hPa</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Altimeter reading:</td>\n\t\t\t<td>5 000 ft</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Outside air temperature at 5 000 ft:</td>\n\t\t\t<td>+5\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>QFE:</td>\n\t\t\t<td>958 hPa</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>QNH:</td>\n\t\t\t<td>983 hPa</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the true height of the aeroplane above the aerodrome? <br /> \n<em>(Barometric lapse rate: 27 ft/hPa)</em>",
+  "options": {
+    "a": "4 190 ft",
+    "b": "4 325 ft",
+    "c": "4 865 ft",
+    "d": "3 515 ft"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

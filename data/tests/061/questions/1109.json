@@ -1,0 +1,19 @@
+{
+  "number": 1109,
+  "questionId": "061-1109",
+  "questionNumber": "061-1109",
+  "stemHtml": "<p>Refer to figure or VFR chart ED-4 from Jeppesen GSPRM 2017. <br>What is the true track and distance between the small town of Grafenau (N48\u00b051\u2032, E13\u00b023\u2032) and Freistadt VOR (N48\u00b026', E014\u00b008')?</p>",
+  "options": {
+    "a": "<p>True track 120\u00b0, distance 35 NM</p>",
+    "b": "<p>True track 145\u00b0, distance 28 NM</p>",
+    "c": "<p>True track 160\u00b0, distance 42 NM</p>",
+    "d": "<p>True track 130\u00b0, distance 39 NM</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0297",
+      "publicUrl": "/attachments/061/061-att-0297.jpg"
+    }
+  ]
+}

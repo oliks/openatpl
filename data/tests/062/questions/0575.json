@@ -1,0 +1,14 @@
+{
+  "number": 575,
+  "questionId": "062-0575",
+  "questionNumber": "062-0575",
+  "stemHtml": "Which of the following are contents of the navigation message from NAVSTAR/GPS? <br />  <br /> 1. Almanac data <br /> 2. Ephemeris <br /> 3. Satellite clock correction parameters <br /> 4. UTC parameters <br /> 5. Ionospheric model <br /> 6. Satellite health data",
+  "options": {
+    "a": "1, 2 and 6.",
+    "b": "1, 4, 5 and 6.",
+    "c": "1, 2 and 3.",
+    "d": "3, 4, 5 and 6."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 592,
+  "questionId": "062-0592",
+  "questionNumber": "062-0592",
+  "stemHtml": "<p>Which of the following statements concerning the use of airborne weather radar in the vicinity of thunderstorms is true?</p>",
+  "options": {
+    "a": "<p>The radar reflectivity echoes are much more determined by the number of reflecting particles than by the particle size.</p>",
+    "b": "<p>Accurate assessment of the weather ahead of the aircraft might be hampered due to the attenuation of the radar echoes by heavy rain.</p>",
+    "c": "<p>The antenna tilt shall be adjusted in order to receive the most significant echoes (generally received from an altitude of approximately 30 000 ft).</p>",
+    "d": "<p>The most significant echoes will be received due to lightning discharges near the freezing level.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

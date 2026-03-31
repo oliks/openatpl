@@ -1,0 +1,14 @@
+{
+  "number": 73,
+  "questionId": "061-0073",
+  "questionNumber": "061-0073",
+  "stemHtml": "<p>Given:</p><p>Conditions: ISA <br>Top of descent (TOD): FL130 <br>Wind at the TOD: 280\u00b0/45 kt <br>Descent altitude: 1000 ft AMSL <br>Wind in 1000 ft AMSL 230\u00b0/15 kt <br>IAS and track during descent: 170 kt / 220\u00b0</p><p>What is your approximate ground speed (GS) during the descent?</p>",
+  "options": {
+    "a": "144 kt",
+    "b": "165 kt",
+    "c": "214 kt",
+    "d": "190 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

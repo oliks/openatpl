@@ -1,0 +1,14 @@
+{
+  "number": 93,
+  "questionId": "040-0093",
+  "questionNumber": "040-0093",
+  "stemHtml": "A small aircraft has joined the circuit and is on final approach. Code 4202 is set on the transponder and QNH of 1009 is set on the altimeter. The pilot receives the following message from ATC: \"G-ABCD cleared to land, runway 01, wind 350 degrees, 10 knots\". Which option lists the information that the pilot is expected to hold in working memory at this point?",
+  "options": {
+    "a": "The direction (350 degrees) and speed (10 knots) of the wind vector.",
+    "b": "The VHF radio frequency of the Control Tower delivering the clearance.",
+    "c": "The 4 digit code assigned by ATC and set into the transponder (4292) prior to entering the ATZ.",
+    "d": "The QNH value (1009) that is set into the altimeter."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

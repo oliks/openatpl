@@ -1,0 +1,14 @@
+{
+  "number": 1043,
+  "questionId": "062-1043",
+  "questionNumber": "062-1043",
+  "stemHtml": "Which statement about Satellite Based Augmentation Systems (SBAS) is correct?",
+  "options": {
+    "a": "The use of SBAS improves neither the integrity nor the accuracy of the position of the user, but augments the number of satellites available.",
+    "b": "The use of SBAS improves the accuracy of the position of the user but does not improve the integrity.",
+    "c": "The use of SBAS improves both the accuracy and the integrity of the position of the user.",
+    "d": "The use of SBAS improves the integrity of the position of the user but does not improve the accuracy."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

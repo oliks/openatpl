@@ -1,0 +1,14 @@
+{
+  "number": 652,
+  "questionId": "062-0652",
+  "questionNumber": "062-0652",
+  "stemHtml": "What is the statement describing the effect of ionosperic delay and satellite clock errors on the position of an aircraft using NAVSTAR GPS without augmentation?",
+  "options": {
+    "a": "Satellite clock error affects the position, but the ionospheric delay is more significant.",
+    "b": "The ionospheric delay affects the position, but satellite clock error is more significant.",
+    "c": "Neither ionospheric delay NOR satellite clock error gives significant position errors.",
+    "d": "Satellite clocks are so accurate that their contribution to the position error is zero."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

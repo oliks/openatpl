@@ -1,0 +1,14 @@
+{
+  "number": 292,
+  "questionId": "061-0292",
+  "questionNumber": "061-0292",
+  "stemHtml": "<p>Given the following, what is the Mach number?</p>\r\r<p>True Airspeed TAS: 488 kt <br /> \rPressure altitude: 32000 feet <br /> \rOutside Air Temperature OAT: ISA +15\u00b0C</p>\r\r<div> </div>",
+  "options": {
+    "a": "<p>0.87 M</p>",
+    "b": "<p>0.81 M</p>",
+    "c": "<p>0.83 M</p>",
+    "d": "<p>0.74 M</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

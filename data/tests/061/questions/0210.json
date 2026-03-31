@@ -1,0 +1,14 @@
+{
+  "number": 210,
+  "questionId": "061-0210",
+  "questionNumber": "061-0210",
+  "stemHtml": "<p>What is the 'standard parallel' with reference to a Lambert chart?</p>",
+  "options": {
+    "a": "<p>The parallel where the projection surface touches the surface of the reduced Earth.</p>",
+    "b": "<p>The latitudes where the scale is similar to the scale of the parallel of origin.</p>",
+    "c": "<p>The parallel where Earth convergency is equal to chart convergency.</p>",
+    "d": "<p>The latitudes where the cone cuts the reduced Earth.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1140,
+  "questionId": "062-1140",
+  "questionNumber": "062-1140",
+  "stemHtml": "<div>What additional information is transmitted when Mode C is selected on the aircraft\u2019s SSR transponder?</div>",
+  "options": {
+    "a": "<div>Pressure altitude based on 1013.25 hPa.</div>",
+    "b": "<div>Aircraft height based on sub-scale setting.</div>\r\n\r\n<div> </div>",
+    "c": "<div>Height based on QFE.</div>",
+    "d": "<p>Altitude based on regional QNH.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

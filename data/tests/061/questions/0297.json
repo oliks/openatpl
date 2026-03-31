@@ -1,0 +1,14 @@
+{
+  "number": 297,
+  "questionId": "061-0297",
+  "questionNumber": "061-0297",
+  "stemHtml": "<p>An aircraft flying from A to B (total distance 110 NM) departed from A at 09:55 UTC. The planned arrival time at B is 10:40 UTC. After 25 minutes of flight, the aircraft overflies waypoint C located 65 NM away from A. How should the Ground Speed change from C to reach point B at the planned arrival time?</p>",
+  "options": {
+    "a": "<p>+ 15 kt</p>",
+    "b": "<p>- 9 kt </p>",
+    "c": "<p>+ 70 kt</p>",
+    "d": "<p>- 21 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

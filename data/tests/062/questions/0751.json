@@ -1,0 +1,14 @@
+{
+  "number": 751,
+  "questionId": "062-0751",
+  "questionNumber": "062-0751",
+  "stemHtml": "Which statement about GPS navigation is true?",
+  "options": {
+    "a": "The Dilution of Precision (DOP) has to be more than level 6 for position fixing in en-route navigation.",
+    "b": "The satellite clock error correction is important for accurate position fixing.",
+    "c": "The tropospheric delay is negligible when navigating in P-RNAV condition.",
+    "d": "The combination of GPS and INS has no advantages."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

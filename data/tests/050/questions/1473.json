@@ -1,0 +1,19 @@
+{
+  "number": 1473,
+  "questionId": "050-1473",
+  "questionNumber": "050-1473",
+  "stemHtml": "<p>Refer to figure.  <br />  A flight is planned between 0300 and 0700 UTC at FL290. Several route options are available, each with forecast areas of severe turbulence at specific flight levels and times. Based on the information on the chart, which route allows the flight to remain clear of severe turbulence during the planned time period?</p>",
+  "options": {
+    "a": "<p>Route 2</p>",
+    "b": "<p>Route 3</p>",
+    "c": "<p>Route 4</p>",
+    "d": "<p>Route 1</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0283",
+      "publicUrl": "/attachments/050/050-att-0283.png"
+    }
+  ]
+}

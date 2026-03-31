@@ -1,0 +1,14 @@
+{
+  "number": 635,
+  "questionId": "062-0635",
+  "questionNumber": "062-0635",
+  "stemHtml": "<p>ATC sends out an interrogation to all Mode S 24 bit addresses. Which aircraft will respond?</p>",
+  "options": {
+    "a": "<p>All aircraft with 24 bit mode S transponder.</p>",
+    "b": "<p>All Aircraft with Mode S ELS.</p>",
+    "c": "<p>All Aircraft with Mode S EHS.</p>",
+    "d": "<p>All Aircraft with ADS-B.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

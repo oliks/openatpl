@@ -1,0 +1,14 @@
+{
+  "number": 2332,
+  "questionId": "050-2332",
+  "questionNumber": "050-2332",
+  "stemHtml": "<p>You have departed Brussels (EBBR) at 11:45Z to fly to Glasgow (EGPF). In the cruise at FL180 you receive the following message relating to an area the flight is expected to pass through:</p><p>\u201cEGTT SIGMET 2 VALID 041000/041100 EGRR- EGTT LONDON FIR SEV MTW FCST WI N5300 W00130 - N5300 W00300 - N5500 W00200 FL070/200 STNR WKN\u201d</p><p>What hazard can be expected?</p>",
+  "options": {
+    "a": "<p>You will not encounter mountain wave turbulence, as the SIGMET expires before your departure.</p>",
+    "b": "<p>Mountain wave turbulence will still be encountered, even after the SIGMET expires.</p>",
+    "c": "<p>You cannot be certain whether mountain wave turbulence will be present after 11:00Z.</p>",
+    "d": "<p>The SIGMET only applies to aircraft flying below FL100, so it is not relevant at FL180.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

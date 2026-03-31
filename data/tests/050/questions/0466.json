@@ -1,0 +1,19 @@
+{
+  "number": 466,
+  "questionId": "050-0466",
+  "questionNumber": "050-0466",
+  "stemHtml": "<p>Refer to figure. <br>What weather phenomena can be expected when flying from Perth (32\u00b0S 116\u00b0E) to Melbourne (38\u00b0S 144\u00b0E) at FL250?</p>",
+  "options": {
+    "a": "<p>Individual thunderstorms with hail and moderate or severe turbulence and ice.</p>",
+    "b": "<p>North-westerly winds of around 100 kt and associated moderate CAT.</p>",
+    "c": "<p>There are NO dangerous phenomena at this FL.</p>",
+    "d": "<p>A strong south-westerly wind on departure.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0343",
+      "publicUrl": "/attachments/050/050-att-0343.gif"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 133,
+  "questionId": "061-0133",
+  "questionNumber": "061-0133",
+  "stemHtml": "<p>Refer to figure or E(LO)2 chart from the Jeppesen GSPRM 2017.\u00a0<br>Given the following information, what is the aircraft\u2019s position, if both DME ranges are decreasing?</p><p>ST ABBS (SAB) VOR/DME (55\u00b054\u2019N 002\u00b012W\u2019), range: 81 NM\u00a0<br>TURNBERRY (TRN) VOR/DME (55\u00b019\u2019N 004\u00b047\u2019W), range: 19 NM\u00a0<br>Aircraft\u2019s track: 161\u00b0(T)\u00a0<br>Slant range correction should be ignored</p>",
+  "options": {
+    "a": "<p>54\u00b037\u2019N 003\u00b038\u2019W</p>",
+    "b": "<p>55\u00b037\u2019N 005\u00b038\u2019W</p>",
+    "c": "<p>54\u00b037\u2019N 004\u00b038\u2019W</p>",
+    "d": "<p>55\u00b037\u2019N 004\u00b038\u2019W</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0301",
+      "publicUrl": "/attachments/061/061-att-0301.png"
+    }
+  ]
+}

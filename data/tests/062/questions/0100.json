@@ -1,0 +1,14 @@
+{
+  "number": 100,
+  "questionId": "062-0100",
+  "questionNumber": "062-0100",
+  "stemHtml": "What should an aircraft that operates to RNP1 or better be able to do?",
+  "options": {
+    "a": "Compute estimated value of aircraft position error.",
+    "b": "Correct estimated value of aircraft position error.",
+    "c": "Compute exact value of aircraft position error.",
+    "d": "Correct exact value of aircraft position error."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

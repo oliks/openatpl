@@ -1,0 +1,19 @@
+{
+  "number": 567,
+  "questionId": "061-0567",
+  "questionNumber": "061-0567",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is flying from position A (N46\u00b030' E009\u00b030') to B (N46\u00b040' E009\u00b030'). What is depicted on the VFR chart along this route?</p>",
+  "options": {
+    "a": "<p>There are two distincts mountains with peaks at 10036 ft and 9751 ft.</p>",
+    "b": "<p>A flat area with uniform elevation.</p>",
+    "c": "<p>A valley with no significant elevation changes.</p>",
+    "d": "<p>There is a mountain ridge with a peak at 10 036 ft.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0036",
+      "publicUrl": "/attachments/061/061-att-0036.jpg"
+    }
+  ]
+}

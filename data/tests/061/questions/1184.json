@@ -1,0 +1,14 @@
+{
+  "number": 1184,
+  "questionId": "061-1184",
+  "questionNumber": "061-1184",
+  "stemHtml": "<p>An aircraft descends from flight level 180 to ground level with a constant TAS of 220 kt.The TT in descent is 080\u00b0. The W/V at various flight levels in the area are given below.</p>\r\r<p>FL W/V <br /> \rground level 260\u00b0/25 kt <br /> \r30 270\u00b0/30 kt <br /> \r60 270\u00b0/35 kt <br /> \r90 270\u00b0/40 kt <br /> \r120 280\u00b0/50 kt <br /> \r150 285\u00b0/55 kt <br /> \r180 290\u00b0/55 kt</p>\r\r<p>Calculate the average GS in descent.</p>",
+  "options": {
+    "a": "<p>273 kt</p>",
+    "b": "<p>259 kt</p>",
+    "c": "<p>266 kt</p>",
+    "d": "<p>254 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

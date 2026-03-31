@@ -1,0 +1,14 @@
+{
+  "number": 522,
+  "questionId": "040-0522",
+  "questionNumber": "040-0522",
+  "stemHtml": "What is correct regarding active errors? An active error is:",
+  "options": {
+    "a": "Produced either by a front-line operator (e.g. pilot) or by a remote operator (e.g. maintenance engineer) and the effects are hidden or have a delayed impact.",
+    "b": "NOT common at the human-system interface and difficult to detect as it usually occurs in a complex system of uncontrolled and involuntary deviations.",
+    "c": "The consequence of the application of a bad rule or poor application of a good rule by aircraft designers and/or manufacturers.",
+    "d": "Committed by the operator (e.g. pilot, air traffic controller) and has an immediate effect."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

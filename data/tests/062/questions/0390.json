@@ -1,0 +1,14 @@
+{
+  "number": 390,
+  "questionId": "062-0390",
+  "questionNumber": "062-0390",
+  "stemHtml": "<p>An aircraft is flying on a given VOR radial. ATC instructs the pilot to track outbound on radial XXX, which is a 1) _____, before turning inbound to track radial XXX, which is a 2) _____. Select the correct options to fill in the blanks correctly.</p>",
+  "options": {
+    "a": "<p>1) Initial approach 2) Final approach</p>",
+    "b": "<p>1) Final approach 2) Initial approach</p>",
+    "c": "<p>1) QDM 2) QDR</p>",
+    "d": "<p>1) QDR 2) QDM</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1524,
+  "questionId": "050-1524",
+  "questionNumber": "050-1524",
+  "stemHtml": "Refer to figure. <br /> What flight conditions are most likely to be experienced in square 2B by an aircraft at FL 120?",
+  "options": {
+    "a": "VMC below an overcast of AS and CS, generally smooth air",
+    "b": "VMC above layers of ST and SC, generally stable conditions",
+    "c": "IMC in layers of AS and isolated CB risk of severe turbulence and icing",
+    "d": "IMC in NS with risk of light icing"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0346",
+      "publicUrl": "/attachments/050/050-att-0346.jpg"
+    }
+  ]
+}

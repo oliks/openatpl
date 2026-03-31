@@ -1,0 +1,14 @@
+{
+  "number": 1048,
+  "questionId": "061-1048",
+  "questionNumber": "061-1048",
+  "stemHtml": "<p>A pilot is planning a leg between point A (43\u00b0S 169\u00b0W) and point B (43\u00b0S 171\u00b0W). Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>Only one great circle can be drawn, with its radius equal to the earth radius.</p>",
+    "b": "<p>Only one rhumb line can be drawn, with its radius smaller than the earth radius.</p>",
+    "c": "<p>An infinite number of great circles can be drawn with their radius smaller than the earth radius.</p>",
+    "d": "<p>An infinite number of small circles can be drawn, with their radius equal to the earth radius.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 375,
+  "questionId": "062-0375",
+  "questionNumber": "062-0375",
+  "stemHtml": "<p>Which statement about ADFs is correct?</p>",
+  "options": {
+    "a": "<p>ADFs cannot receive broadcasting stations transmitting within the frequency band 190 \u2013 1750 kHz because NDBs are amplitude modulated and not frequency modulated like broadcasting stations.</p>",
+    "b": "<p>ADFs can receive and take bearings on any broadcasting station transmitting within the frequency band 190 \u2013 1750 kHz.</p>",
+    "c": "<p>ADFs can receive any broadcasting station transmitting within the frequency band 190 \u2013 1750 kHz but cannot take bearings on them.</p>",
+    "d": "<p>ADFs cannot receive broadcasting stations transmitting within the frequency band 190 \u2013 1750 kHz because NDBs are either N0N/A1A or A2A modulated and not A3E modulated like broadcasting stations.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

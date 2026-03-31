@@ -1,0 +1,14 @@
+{
+  "number": 1203,
+  "questionId": "061-1203",
+  "questionNumber": "061-1203",
+  "stemHtml": "Calculate the magnetic heading required to maintain the given track if: True track: 192&deg; Magnetic variation: 7&deg;E Drift angle: 5&deg; left.",
+  "options": {
+    "a": "190&deg;",
+    "b": "194&deg;",
+    "c": "204&deg;",
+    "d": "180&deg;"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

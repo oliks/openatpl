@@ -1,0 +1,19 @@
+{
+  "number": 1557,
+  "questionId": "061-1557",
+  "questionNumber": "061-1557",
+  "stemHtml": "<p>Refer to E(LO)2 Chart from Jeppesen GSPRM 2017. <br>Given the following information, what is the aircraft's position, if both DME ranges are increasing?</p><p>HONILEY (HON) VOR/DME (52\u00b021'N, 001\u00b040\u200b'W), DME Range: 57 NM <br>POLE HILL (POL) VOR/DME (53\u00b045'N, 002\u00b006'W), DME Range: 41 NM <br>Aircraft's track: 080\u00b0(T) <br>Ignore slant range corrections.</p>",
+  "options": {
+    "a": "53\u00b008'N, 003\u00b026'W",
+    "b": "53\u00b017'N, 001\u00b018'W",
+    "c": "53\u00b017'N, 002\u00b042'W",
+    "d": "53\u00b008'N, 002\u00b034'W"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0166",
+      "publicUrl": "/attachments/061/061-att-0166.jpg"
+    }
+  ]
+}

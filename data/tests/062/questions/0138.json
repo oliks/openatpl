@@ -1,0 +1,14 @@
+{
+  "number": 138,
+  "questionId": "062-0138",
+  "questionNumber": "062-0138",
+  "stemHtml": "Refer to figure.\r\n<p>The ADF in the aircraft has been tuned to a nearby NDB, which has been identified. The annex shows the accompanying RBI and the direction indicator (DI) in the aircraft, which is correctly aligned with the on-board compass. Ignoring any effects of turn radius, and assuming an appropriate intercept, choose the correct statement from the below.</p>",
+  "options": {
+    "a": "To intercept QDR 270\u00b0, continue on the present heading and turn left away from the NDB.",
+    "b": "To intercept QDM 315\u00b0, continue on the present heading and turn right towards the NDB.",
+    "c": "To intercept QDM 270\u00b0, continue on the present heading and turn right towards the NDB.",
+    "d": "To intercept QDR 180\u00b0, continue on the present heading and turn left towards the NDB."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

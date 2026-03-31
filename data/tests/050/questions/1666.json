@@ -1,0 +1,19 @@
+{
+  "number": 1666,
+  "questionId": "050-1666",
+  "questionNumber": "050-1666",
+  "stemHtml": "<p>Refer to figure. <br /> \rYou are flying from Amsterdam to Shannon at FL310. What will be the difference in temperature between ToC and ToD?</p>",
+  "options": {
+    "a": "<p>It will be warmer near Shannon.</p>",
+    "b": "<p>It will be warmer near Amsterdam.</p>",
+    "c": "<p>There is not enough information to say.</p>",
+    "d": "<p>The temperature will remain the same in the cruise.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0224",
+      "publicUrl": "/attachments/050/050-att-0224.png"
+    }
+  ]
+}

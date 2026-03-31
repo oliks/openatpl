@@ -1,0 +1,14 @@
+{
+  "number": 675,
+  "questionId": "062-0675",
+  "questionNumber": "062-0675",
+  "stemHtml": "<p>An aircraft is flying an RNP APCH. In which of the following situations would a missed approach be initiated?</p><p>1) Loss of RAIM<br>2) Loss of comms<br>3) Any difference between GPS position & DME distance to go<br>4) The receiver fails to engage the correct approach mode<br>5) The CDI indication is greater than half scale displacement</p>",
+  "options": {
+    "a": "<p>1, 3 and 5</p>",
+    "b": "<p>2, 3 and 5</p>",
+    "c": "<p>1, 2 and 4</p>",
+    "d": "<p>1, 4 and 5</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

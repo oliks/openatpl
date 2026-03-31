@@ -1,0 +1,14 @@
+{
+  "number": 1171,
+  "questionId": "040-1171",
+  "questionNumber": "040-1171",
+  "stemHtml": "<p>Which of the following operations are performed more effectively by automatic systems than by people?</p><p>1-Waiting for an infrequent phenomenon  <br />  2-Long-term controlling of a set value (e.g. holding of trajectory)  <br />  3-Monitoring to ensure that certain values are not exceeded (e.g. holding of flight path)  <br />  4-Qualitative decision-making</p><div> </div>",
+  "options": {
+    "a": "2, 4",
+    "b": "1, 2, 3",
+    "c": "3, 4",
+    "d": "2, 3, 4"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

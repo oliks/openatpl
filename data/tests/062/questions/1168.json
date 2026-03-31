@@ -1,0 +1,14 @@
+{
+  "number": 1168,
+  "questionId": "062-1168",
+  "questionNumber": "062-1168",
+  "stemHtml": "In preparation for an RNP approach, the GNSS equipment intended to be used shows a RAIM prediction error. This means, that...",
+  "options": {
+    "a": "the GNSS cannot calculate the estimated time of arrival at the initial approach fix.",
+    "b": "at the expected time of approach, the predicted navigation accuracy of the system is worse than the requirement for that approach coded in the database.",
+    "c": "the automatic RAIM prediction function has failed and the pilot has to verify the number of available satellites with the ATC.",
+    "d": "at the expected time of approach, an insufficient number of satellites to assure fault detection is predicted to be available."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

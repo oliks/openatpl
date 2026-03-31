@@ -1,0 +1,14 @@
+{
+  "number": 320,
+  "questionId": "061-0320",
+  "questionNumber": "061-0320",
+  "stemHtml": "<p>Given:</p>\n\n<p>FL 390 <br /> \nOAT = ISA +15\u00b0C <br /> \nCAS = 240 kt</p>\n\n<p>Calculate the TAS, assuming a compressibility factor of 0.96.</p>",
+  "options": {
+    "a": "523 kt",
+    "b": "487 kt",
+    "c": "468 kt",
+    "d": "507 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

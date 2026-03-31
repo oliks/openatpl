@@ -1,0 +1,19 @@
+{
+  "number": 67,
+  "questionId": "061-0067",
+  "questionNumber": "061-0067",
+  "stemHtml": "<p>Refer to Jeppesen GSPRM Training Route Manual - Chart \"E LO 2\". <br /> \nThe following bearing and range information obtained from HONILEY (HON) VOR/DME (52\u00b021\u00b4N, 001\u00b040\u00b4W) is given:</p>\n\n<p>Radial: 034\u00b0 <br /> \nRange: 44 NM</p>\n\n<p>Find the current position of the aircraft (note: slant range corrections should be ignored)..</p>",
+  "options": {
+    "a": "52\u00b044\u00b4N, 001\u00b017\u00b4W",
+    "b": "52\u00b059\u00b4N, 000\u00b059\u00b4W",
+    "c": "52\u00b056\u00b4N, 000\u00b050\u00b4W",
+    "d": "53\u00b003\u00b4N, 001\u00b007\u00b4W"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0139",
+      "publicUrl": "/attachments/061/061-att-0139.jpg"
+    }
+  ]
+}

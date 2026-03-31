@@ -1,0 +1,14 @@
+{
+  "number": 915,
+  "questionId": "061-0915",
+  "questionNumber": "061-0915",
+  "stemHtml": "<p>An aircraft is departing from departure point A 25\u00b0N, 175\u00b0W on the 7th January at 14:23 LMT. Given the following information, calculate the time (standard time) and date of arrival at B STB.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Difference UTC and STA: 11 hours</span>  <br />  \n<span style=\"letter-spacing:0.7px\">Destination point B: 15\u00b0N, 155\u00b0E</span>  <br />  \nDifference between UTC and STB: 10 hours  <br />  \n<span style=\"letter-spacing:0.7px\">Distance along the great circle between A and B: 1790 NM</span>  <br />  \nAverage head wind component: 19 kt  <br />  \nAverage TAS: 400 kt</p>",
+  "options": {
+    "a": "16:45 STB on the 08/01.",
+    "b": "16:19 STB on the 08/01.",
+    "c": "06:19 STB on the 08/01.",
+    "d": "06:45 STB on the 08/01."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1054,
+  "questionId": "050-1054",
+  "questionNumber": "050-1054",
+  "stemHtml": "<p>Considering the lapse rates listed below, the air is absolutely stable when\u2026</p>\n\n<p>1. Dry Adiabatic Lapse Rate (DALR)  <br />  \n2. Saturated Adiabatic Lapse Rate (SALR)  <br />  \n3. Environmental Lapse Rate (ELR)</p>",
+  "options": {
+    "a": "ELR < SALR and DALR.",
+    "b": "SALR < ELR < DALR.",
+    "c": "ELR > DALR and SALR.",
+    "d": "DALR < ELR < SALR."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

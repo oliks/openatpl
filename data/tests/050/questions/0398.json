@@ -1,0 +1,14 @@
+{
+  "number": 398,
+  "questionId": "050-0398",
+  "questionNumber": "050-0398",
+  "stemHtml": "<p>Given the following METAR for a Spanish aerodrome in September, an hour before sunset; at what distance might a pilot expect to see the threshold of runway 26 whilst on final approach?</p>\r\n\r\n<p>METAR LEXX 211730Z 26008KT 220V320 3000 HZ SKC Q1010.</p>",
+  "options": {
+    "a": "More than 3000 m.",
+    "b": "3000 m.",
+    "c": "More than 1000 m but less than 1500 m.",
+    "d": "More than 1500 m but less than 3000 m."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

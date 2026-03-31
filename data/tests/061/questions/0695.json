@@ -1,0 +1,19 @@
+{
+  "number": 695,
+  "questionId": "061-0695",
+  "questionNumber": "061-0695",
+  "stemHtml": "<p>Refer to E(LO)2 Chart from Jeppesen GSPRM 2107. Given the following information, what is the aircraft\u2019s position at the cross bearing?</p><p>TALLA (TLA) VOR (N55\u00ba30, W003\u00ba21'): Radial 249\u00ba <br /> GLASGOW (GOW) VOR (N55\u00ba52'N, W004\u00ba27'): Radial 166\u00ba</p>",
+  "options": {
+    "a": "N55\u00ba19', W004\u00ba17'",
+    "b": "N55\u00ba17', W004\u00ba08'",
+    "c": "N55\u00b021', W003\u00b058'",
+    "d": "N55\u00ba14', W004\u00b001'"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0014",
+      "publicUrl": "/attachments/061/061-att-0014.jpg"
+    }
+  ]
+}

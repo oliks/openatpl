@@ -1,0 +1,19 @@
+{
+  "number": 168,
+  "questionId": "050-0168",
+  "questionNumber": "050-0168",
+  "stemHtml": "<p>Refer to figure. <br>You are in the process of planning a flight from Brussels (B) (50\u00b055'N 004\u00b030'E) to Deauville (D) (49\u00b000'N 000\u00b000'E) on 12th March 2017, departing at 20:00 UTC and with a flight time of approximately 3 hours. The route will follow the red line from \"B\" to \"D\" on the chart, and the minimum altitude that can be flown is 3200 feet. What would be the lowest cloud base en route?</p>",
+  "options": {
+    "a": "<p>400 ft</p>",
+    "b": "<p>300 ft</p>",
+    "c": "<p>1500 ft</p>",
+    "d": "<p>1000 ft</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0156",
+      "publicUrl": "/attachments/050/050-att-0156.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 28,
+  "questionId": "050-0028",
+  "questionNumber": "050-0028",
+  "stemHtml": "<p>You are en route to an airport with a TAF valid from 0600Z:</p>\r\r<p>METAR: <br /> \rLPPR 200850Z 0915 9999 SHRA TEMPO 4500 SHRA</p>\r\r<p>TAF: <br /> \rLPPR 200300Z 0600/2200 QNH 1013 <br /> \rPROB30 0600/2200 5000 SHRA</p>\r\r<p>Given the information above, what visibility condition are you most likely to encounter upon arrival at 0915Z?</p>",
+  "options": {
+    "a": "<p>Visibility of 5000 associated with heavy showers (but heavy was not mentioned in TAF or METAR).</p>",
+    "b": "<p>Visibility of 9999, with a 30% chance of reduction to 5000.</p>",
+    "c": "<p>Visibility of 9999, with temporary reduction to 4500.</p>",
+    "d": "<p>Visibility of 9999.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

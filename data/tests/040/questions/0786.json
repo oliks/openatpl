@@ -1,0 +1,14 @@
+{
+  "number": 786,
+  "questionId": "040-0786",
+  "questionNumber": "040-0786",
+  "stemHtml": "<p>During a descent through 18 000 ft, the Pilot inCommand carries out the whole descent checklist from memory. This is not in accordance with the company's Standard Operating Procedures (SOPs). According to the Threat and Error Management model, which of the following options could the co-pilot do to provide an effective countermeasure? </p>",
+  "options": {
+    "a": "<p>Wait until a safe phase in the flight to discuss the procedure deviation. After an uneventful landing, report this to the company's safety department.</p>",
+    "b": "<p>Request a level-off from the Air Traffic Controller and challenge the Commander about the procedure deviation.</p>",
+    "c": "<p>Notice the procedure deviation and insist on using the company's checklist to be sure that all items are checked.</p>",
+    "d": "<p>Ignore the procedure deviation to maintain a good cockpit environment. The aircraft lands uneventfully.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

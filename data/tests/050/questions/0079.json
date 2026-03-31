@@ -1,0 +1,14 @@
+{
+  "number": 79,
+  "questionId": "050-0079",
+  "questionNumber": "050-0079",
+  "stemHtml": "<p>The following temperatures have been observed over a station at 12:00 UTC. Assume the station is at MSL.</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"5\" style=\"letter-spacing:0.7px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\"><strong>Height</strong></td>\n\t\t\t<td style=\"text-align:center\"> </td>\n\t\t\t<td colspan=\"2\" style=\"text-align:center\"><strong>Temperature</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">20 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">-12</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">18 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">-11</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">16 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">-10</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">14 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">-10</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">12 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">-6</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">10 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">-2</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">8 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">+2</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">6 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">+6</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">4 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">+12</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">2 000 ft</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">+15</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:right\">surface</td>\n\t\t\t<td> </td>\n\t\t\t<td style=\"text-align:right\">+15</td>\n\t\t\t<td>\u00b0C</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+  "options": {
+    "a": "The layer between 16 000 and 18 000 ft is absolutely unstable.",
+    "b": "Assuming that the MSL pressure is 1 013.25 hPa the true altitude of an aircraft would actually be higher than the indicated altitude.",
+    "c": "The temperature at 10 000 ft is in agreement with the temperature in the International Standard Atmosphere.",
+    "d": "The height of the freezing level over the station is approximately 12 000 ft."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

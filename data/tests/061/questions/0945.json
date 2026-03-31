@@ -1,0 +1,14 @@
+{
+  "number": 945,
+  "questionId": "061-0945",
+  "questionNumber": "061-0945",
+  "stemHtml": "<p>You are flying with a TAS of 180 knots and you want to maintain a constant track. There is wind coming from the right at a 30 degrees angle from your track, at a speed of 60 knots. Use mental dead reckoning to find out the XWC and WCA.</p>",
+  "options": {
+    "a": "<p>XWC of 30 kts and WCA 3</p>",
+    "b": "<p>XWC of 30 kts and WCA 10</p>",
+    "c": "<p>XWC of 52 kts and WCA 3</p>",
+    "d": "<p>XWC of 52 kts and WCA 10</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

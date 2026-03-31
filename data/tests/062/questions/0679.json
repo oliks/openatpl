@@ -1,0 +1,14 @@
+{
+  "number": 679,
+  "questionId": "062-0679",
+  "questionNumber": "062-0679",
+  "stemHtml": "Which statement about the Special Position Identification (SPI) pulse is correct?",
+  "options": {
+    "a": "This pulse is transmitted by the SSR-interrogator in order to request for identification of a certain aircraft.",
+    "b": "This pulse is transmitted by the transponder as a result of the pilot pushing the IDENT-button.",
+    "c": "This pulse is transmitted by the SSR-interrogator if it is suspected that responses are received from aircraft which are located in the direction of the side lobes of the interrogator antenna.",
+    "d": "This pulse is transmitted automatically every time the transponder responds to a mode A interrogation."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

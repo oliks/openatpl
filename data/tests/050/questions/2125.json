@@ -1,0 +1,14 @@
+{
+  "number": 2125,
+  "questionId": "050-2125",
+  "questionNumber": "050-2125",
+  "stemHtml": "In a METAR message, the wind group is 23010MPS. This means:",
+  "options": {
+    "a": "wind from 230\u00b0 magnetic at 10 miles per hour.",
+    "b": "wind from 230\u00b0 true at 20 knots.",
+    "c": "wind from 230\u00b0 magnetic at 20 knots.",
+    "d": "wind from 230\u00b0 true at 10 miles per hour."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

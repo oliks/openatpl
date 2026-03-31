@@ -1,0 +1,14 @@
+{
+  "number": 131,
+  "questionId": "050-0131",
+  "questionNumber": "050-0131",
+  "stemHtml": "<p>According to the following TAF, a pilot planning to take off from Frankfurt airport (EDDF) on the 7th of the month at 14:00 UTC could expect (1) _____ visibility, a wind speed of (2) _____, and (3) _____ clouds.</p><p>EDDF TAF 061000Z 0612/0718 23012KT 7000 SCT026 BECMG 0615/0618 22020KT BECMG 0700/0703 16015KT 8000 FEW026 BECMG 0709/0712 24010KT 7000 SCT028 BECMG 0715/0718 22008KT FEW035</p>",
+  "options": {
+    "a": "<p>(1) 7000 m; (2) 12 kt; (3) scattered.</p>",
+    "b": "<p>(1) 7000 m; (2) 8 kt; (3) few.</p>",
+    "c": "<p>(1) 8000 m; (2) 15 kt; (3) few.</p>",
+    "d": "<p>(1) 7000 m; (2) 10 kt; (3) scattered.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2407,
+  "questionId": "050-2407",
+  "questionNumber": "050-2407",
+  "stemHtml": "<p>You are approaching an aerodrome with an elevation of 630 ft and have set the altimeter to a QNH of 982 hPa.</p>\r\r<p>The latest METAR for the aerodrome is: <br /> \r150630 230/06 M20/M22 Q0982</p>\r\r<p>Based on this information, what will the altimeter indicate when the aircraft is on the ground?</p>",
+  "options": {
+    "a": "<p>More than 630 ft.</p>",
+    "b": "<p>Less than 630 ft.</p>",
+    "c": "<p>630 ft.</p>",
+    "d": "<p>0 ft.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 483,
+  "questionId": "062-0483",
+  "questionNumber": "062-0483",
+  "stemHtml": "<p>Referring to the NAVSTAR/GPS satellite navigation system, what is the meaning of the term Pseudo Random Noise (PRN)?</p>",
+  "options": {
+    "a": "<p>PRN describes the continuous electro-magnetic background noise that exists in space.</p>",
+    "b": "<p>PRN is a code used for the identification of the satellites and the measurement of the time taken by the signal to reach the receiver.</p>",
+    "c": "<p>PRN is the atmospheric jamming that affects the signals transmitted by the satellites.</p>",
+    "d": "<p>PRN occurs in the receiver. It is caused by the signal from one satellite being received from different locations.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

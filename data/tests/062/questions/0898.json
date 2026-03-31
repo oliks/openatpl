@@ -1,0 +1,14 @@
+{
+  "number": 898,
+  "questionId": "062-0898",
+  "questionNumber": "062-0898",
+  "stemHtml": "What is the difference between the on-board navigation specifications RNP 1 and RNAV 1?",
+  "options": {
+    "a": "A performance-monitoring and alerting function is required for RNAV 1 only.",
+    "b": "An alerting function is required for both RNP 1 and RNAV 1. A performance-monitoring function is only required for RNP 1.",
+    "c": "A performance-monitoring and alerting function is required for RNP 1 only.",
+    "d": "A performance-monitoring function is required for both RNP 1 and RNAV 1. An alerting function is only required for RNP 1."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

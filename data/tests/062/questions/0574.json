@@ -1,0 +1,14 @@
+{
+  "number": 574,
+  "questionId": "062-0574",
+  "questionNumber": "062-0574",
+  "stemHtml": "<p>You are flying in continental airspace, but you lose your PBN capability due to suspected GNSS spoofing. There are no ground-based navigation aids available in the area. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>You must maintain your track using heading mode</p>",
+    "b": "<p>You must inform ATC and request radar vectors</p>",
+    "c": "<p>You may continue navigating using the IRS in ATT mode</p>",
+    "d": "<p>You may continue only if flying a lateral offset procedure</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

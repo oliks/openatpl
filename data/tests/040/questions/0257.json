@@ -1,0 +1,14 @@
+{
+  "number": 257,
+  "questionId": "040-0257",
+  "questionNumber": "040-0257",
+  "stemHtml": "All human senses are prone to often competing sensory inputs that can create illusions and be misleading in determining the pilot's spatial orientation. Is this statement correct or incorrect and why?",
+  "options": {
+    "a": "Incorrect, because interaction between the senses is coordinated by the brain, which is able to distinguish between correct and incorrect sensory inputs.",
+    "b": "Incorrect, because each sensory input acts independently as a standalone input; therefore, the spatial orientation of a pilot is not affected.",
+    "c": "Correct, because we habitually trust all senses equally, which can disturb our sensory system when all sensory inputs seem equally strong.",
+    "d": "Correct, because we normally trust vision as our primary and most accurate sense, even when other sensory inputs are conflicting."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

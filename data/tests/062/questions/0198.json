@@ -1,0 +1,14 @@
+{
+  "number": 198,
+  "questionId": "062-0198",
+  "questionNumber": "062-0198",
+  "stemHtml": "How does Microwave Landing Systems allow the aircraft to fix its position accurately in three dimensions? By means of:",
+  "options": {
+    "a": "Timing the interval between pulses in azimuth and elevation and timing the delay for pulses to reach the aircraft to define range.",
+    "b": "Timing the passage of two scanning beams from transmitters co-located with DME.",
+    "c": "Information from four satellites transmitting microwaves.",
+    "d": "Directional aerials and DME."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

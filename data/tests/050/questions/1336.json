@@ -1,0 +1,14 @@
+{
+  "number": 1336,
+  "questionId": "050-1336",
+  "questionNumber": "050-1336",
+  "stemHtml": "Grid point parameters are produced by World Area Forecast Centres (WAFCs). What parameters would allow third parties and flight planners to create visualisations of CB flight hazards?",
+  "options": {
+    "a": "Two-dimensional areas of 1.25 degrees latitude by 1.25 degrees longitude in size.",
+    "b": "Mean, maximum, and horizontal extent of convective activity.",
+    "c": "Algorithms using cloud amount and precipitation intensity.",
+    "d": "Horizontal extent of CB and CB cloud top height."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2158,
+  "questionId": "050-2158",
+  "questionNumber": "050-2158",
+  "stemHtml": "<p>The visibility transmitted in a METAR is\u2026</p>",
+  "options": {
+    "a": "given by transmissometer when the visibility is below 1 500 metres.",
+    "b": "the lowest observed in a 360\u00b0 scan from the meteorological station.",
+    "c": "the maximum determined by a meteorologist in a 360\u00b0 scan at the horizon.",
+    "d": "the greatest value, which is reached within at least half the horizon circle of the aerodrome."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

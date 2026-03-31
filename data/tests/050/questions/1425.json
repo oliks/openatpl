@@ -1,0 +1,19 @@
+{
+  "number": 1425,
+  "questionId": "050-1425",
+  "questionNumber": "050-1425",
+  "stemHtml": "<p>Refer to figure. <br /> \rBased on the image, what type of lightning is being observed?</p>",
+  "options": {
+    "a": "<p>Lightning that originates within a cloud and strikes the ground directly.</p>",
+    "b": "<p>Intra-cloud lightning that stays within the cloud, producing a diffuse, sheet-like flash.</p>",
+    "c": "<p>The bolt exits the cloud into the surrounding clear air without touching the ground.</p>",
+    "d": "<p>The lightning flows upwards, and may have a few small upwards branches, but is mostly made up of just one path.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0413",
+      "publicUrl": "/attachments/050/050-att-0413.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 370,
+  "questionId": "050-0370",
+  "questionNumber": "050-0370",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is flying from A to B at FL90. As we fly in front of the second cold front on the route (at approximately half route distance), the wind speed will (1) _____ and wind direction will be (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) increase; (2) veer.</p>",
+    "b": "<p>(1) decrease; (2) veer.</p>",
+    "c": "<p>(1) increase; (2) back.</p>",
+    "d": "<p>(1) decrease; (2) back.</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0278",
+      "publicUrl": "/attachments/050/050-att-0278.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1316,
+  "questionId": "061-1316",
+  "questionNumber": "061-1316",
+  "stemHtml": "Determine the Standard Time (ST) and date of arrival in Chile, given the following information: <br />  <br /> Route: New Zealand to Chile, crossing the international date line on an easterly course <br /> Departure time and date: 03:00 UTC, 19th November <br /> Flight time: 12 hours 30 minutes <br /> New Zealand ST: UTC + 12 hours <br /> Chile ST: UTC - 4 hours",
+  "options": {
+    "a": "23:30, 18th November",
+    "b": "11:30, 18th November",
+    "c": "11:30, 19th November",
+    "d": "15:30, 19th November"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

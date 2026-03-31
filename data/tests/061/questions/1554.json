@@ -1,0 +1,14 @@
+{
+  "number": 1554,
+  "questionId": "061-1554",
+  "questionNumber": "061-1554",
+  "stemHtml": "<p>An aircraft climbs from ground level to a cruising flight level of 180. In the table the W/V at various flight levels in the area are given.</p>\n\n<p>FL W/V  <br />  \nground level 260\u00b0/25 kt,  <br />  \n30 270\u00b0/30 kt,  <br />  \n60 270\u00b0/35 kt,  <br />  \n90 270\u00b0/40 kt,  <br />  \n120 280\u00b0/50 kt,  <br />  \n150 285\u00b0/55 kt,  <br />  \n180 290\u00b0/55 kt.</p>\n\n<p>Which W/V should be used to solve climb problems e.g. the calculation of the GS from TAS and the Track in climb</p>",
+  "options": {
+    "a": "270\u00b0/40 kt",
+    "b": "280\u00b0/50 kt",
+    "c": "275\u00b0/40 kt",
+    "d": "270\u00b0/35 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 967,
+  "questionId": "062-0967",
+  "questionNumber": "062-0967",
+  "stemHtml": "<p>Which of these would class as \"erroneous ADS-B\"?</p>",
+  "options": {
+    "a": "<p>A delayed data transmission.</p>",
+    "b": "<p>A secure data transmission.</p>",
+    "c": "<p>Correctly transmitted data.</p>",
+    "d": "<p>Incorrectly transmitted or received data.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

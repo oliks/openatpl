@@ -1,0 +1,14 @@
+{
+  "number": 852,
+  "questionId": "062-0852",
+  "questionNumber": "062-0852",
+  "stemHtml": "<p>To determine the VOR radial, the aircraft VOR receiver\u2026</p>",
+  "options": {
+    "a": "uses pulse techniques.",
+    "b": "measures the time difference between sending the interrogation signal and receiving the transponder signal.",
+    "c": "measures the phase difference between the reference phase and the variable phase signals.",
+    "d": "measures the time difference between reception of the two signals transmitted by the ground installation."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

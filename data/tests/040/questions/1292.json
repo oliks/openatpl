@@ -1,0 +1,14 @@
+{
+  "number": 1292,
+  "questionId": "040-1292",
+  "questionNumber": "040-1292",
+  "stemHtml": "Is it possible to survive depressurised flight at 40000 feet for more than 10 minutes?",
+  "options": {
+    "a": "No \u2013 because the brain can never receive sufficient oxygen at 40000 feet, even with an oxygen mask.",
+    "b": "Yes \u2013 provided 100 % oxygen under pressure is immediately available from masks.",
+    "c": "Yes \u2013 because the partial pressure of oxygen in the blood is independent of that in the lungs.",
+    "d": "No \u2013 because the partial pressure of carbon dioxide in the lung alveoles at 40000 feet is lower than in the blood, causing carbon dioxide to flow backwards from blood to lungs, depleting the brain of its oxygen."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

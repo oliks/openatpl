@@ -1,0 +1,14 @@
+{
+  "number": 618,
+  "questionId": "062-0618",
+  "questionNumber": "062-0618",
+  "stemHtml": "Which data can be determined and displayed by ATC Secondary Surveillance Radar (SSR) and Primary Surveillance Radar (PSR) systems?",
+  "options": {
+    "a": "PSR: Target range, bearing, and aircraft altitude. SSR: Target range and bearing, aircraft identification codes, aircraft height, selective addressing, and full two-way data link.",
+    "b": "PSR: Target range and bearing. SSR: Target range and bearing, aircraft identification codes, aircraft altitude, selective addressing, and full two-way data link.",
+    "c": "PSR: Target range. SSR: Target range and bearing, aircraft altitude and height, selective addressing, and full two-way data link.",
+    "d": "PSR: Target range, bearing, and aircraft identification. SSR: Aircraft identification codes, aircraft altitude, selective addressing, and full two-way data link."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

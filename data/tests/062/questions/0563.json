@@ -1,0 +1,14 @@
+{
+  "number": 563,
+  "questionId": "062-0563",
+  "questionNumber": "062-0563",
+  "stemHtml": "Referring to the NAVSTAR/GPS satellite navigation system, what is the meaning of the term Receiver Autonomous Integrity Monitoring (RAIM)?",
+  "options": {
+    "a": "it is a technique that ensures the integrity of the provided data by redundant measurements.",
+    "b": "it is a technique whereby the receivers of the world-wide distributed monitor stations \u2013 ground segment \u2013 automatically determine the integrity of the navigation message.",
+    "c": "it is a method whereby a receiver ensures the integrity of the Pseudo Random Noise -PRN- code transmitted by the satellites.",
+    "d": "it is the ability of the GPS satellites to check the integrity of the data transmitted by the monitoring stations of the ground segment."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

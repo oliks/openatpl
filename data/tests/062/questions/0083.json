@@ -1,0 +1,14 @@
+{
+  "number": 83,
+  "questionId": "062-0083",
+  "questionNumber": "062-0083",
+  "stemHtml": "<p>Select the correct statement regarding RNP AR APCH.</p>",
+  "options": {
+    "a": "<p>No specific authorization is required for this navigation specification.</p>",
+    "b": "<p>An aircraft approved for RNP AR APCH automatically grants approval for every navigation specification.</p>",
+    "c": "<p>The operator needs to be approved to operate in this airspace.</p>",
+    "d": "<p>RNP AR APCH requires lateral navigation (LNAV) accuracy of \u00b1 1 NM.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

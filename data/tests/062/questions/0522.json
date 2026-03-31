@@ -1,0 +1,14 @@
+{
+  "number": 522,
+  "questionId": "062-0522",
+  "questionNumber": "062-0522",
+  "stemHtml": "<p>You are flying an RNP 1 procedure but due to an ATC clearance you need to manually insert new waypoints. Which of the following statements is correct? </p><p>1. You are allowed to insert new waypoints based on longitude/latitude <br>2. You are not allowed to insert new waypoints based on range/bearing/distance information</p>",
+  "options": {
+    "a": "<p>1) is correct, 2) is incorrect</p>",
+    "b": "<p>1) is incorrect, 2) is correct</p>",
+    "c": "<p>Both are correct</p>",
+    "d": "<p>Both are incorrect</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

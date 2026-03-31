@@ -1,0 +1,14 @@
+{
+  "number": 312,
+  "questionId": "061-0312",
+  "questionNumber": "061-0312",
+  "stemHtml": "<p>Given the following information, calculate the ground distance covered during the climb, rounded to the nearest NM.</p>Climb time: 00 h 15 min <br /> Average W/V: 250\u00b0(T)/25 kt <br /> Average True Track: 280\u00b0 <br /> Air distance covered during climb: 34 NM",
+  "options": {
+    "a": "39 NM",
+    "b": "31 NM",
+    "c": "29 NM",
+    "d": "34 NM"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

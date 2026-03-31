@@ -1,0 +1,14 @@
+{
+  "number": 1777,
+  "questionId": "050-1777",
+  "questionNumber": "050-1777",
+  "stemHtml": "<p>Determine the True Altitude, given the following conditions\u2026<br>Pressure Altitude: 2500 ft <br>Indicated Altitude: 2000 ft by QFE of aerodrome at 1000 ft AMSL</p>",
+  "options": {
+    "a": "<p>1500 ft</p>",
+    "b": "<p>2000 ft</p>",
+    "c": "<p>2500 ft</p>",
+    "d": "<p>3000 ft</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

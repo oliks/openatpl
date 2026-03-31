@@ -1,0 +1,14 @@
+{
+  "number": 2285,
+  "questionId": "050-2285",
+  "questionNumber": "050-2285",
+  "stemHtml": "<p>An aircraft flying at FL 100 from Marseille (QNH 1012 hPa) to Palma de Mallorca (QNH 1006 hPa) experiences no change to true altitude. The reason for this is that\u2026</p>",
+  "options": {
+    "a": "the air over Palma de Mallorca is colder than that over Marseille",
+    "b": "the altimeters are erroneous, and need to be tested",
+    "c": "the air over Palma de Mallorca is warmer than that over Marseille",
+    "d": "one of the two QNH values may be incorrect"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

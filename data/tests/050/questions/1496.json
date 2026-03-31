@@ -1,0 +1,14 @@
+{
+  "number": 1496,
+  "questionId": "050-1496",
+  "questionNumber": "050-1496",
+  "stemHtml": "<p>When a pilot reports a potential lightning strike, which of the following effects or actions may be associated with such an incident?</p><p>1. Localised skin damage to the aircraft structure<br>2. On small aeroplanes, pitot instruments may be affected<br>3. In modern aircraft it is generally not a concern because the aircraft is electrically bonded<br>4. Malfunction of the magnetic compass<br>5. The aircraft must be checked by an engineer after landing<br>6. If the crew confirms that instruments are working normally, no engineering inspection is required</p>",
+  "options": {
+    "a": "<p>1, 2, 4 and 5</p>",
+    "b": "<p>1, 2, 3 and 4</p>",
+    "c": "<p>1, 3, 4 and 6</p>",
+    "d": "<p>2, 3, 4 and 6</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 341,
+  "questionId": "062-0341",
+  "questionNumber": "062-0341",
+  "stemHtml": "What is the purpose of ABAS?",
+  "options": {
+    "a": "Correct GPS altitude calculated by the FMC.",
+    "b": "Ensure integrity of navigational data.",
+    "c": "Update IRS navigational data.",
+    "d": "Increase accuracy of GNSS transmission."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

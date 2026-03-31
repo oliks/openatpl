@@ -1,0 +1,14 @@
+{
+  "number": 906,
+  "questionId": "061-0906",
+  "questionNumber": "061-0906",
+  "stemHtml": "<p>What is the True Airspeed TAS, given the following:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Calibrated Airspeed CAS: 320 kt</span>  <br />  \nPressure Altitude: 29000 ft  <br />  \nOutside Air Temperature OAT: -45\u00b0C  <br />  \nCompressibility Factor: 0.95</p>",
+  "options": {
+    "a": "504 kt",
+    "b": "484 kt",
+    "c": "496 kt",
+    "d": "479 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

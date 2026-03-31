@@ -1,0 +1,14 @@
+{
+  "number": 261,
+  "questionId": "050-0261",
+  "questionNumber": "050-0261",
+  "stemHtml": "<p>A pre-flight weather briefing must be prepared, and information is needed on the expected weather at the destination for an arrival approximately 3 hours later. Which of the following, available from meteorological services during flight planning, can provide this information?</p>\n\n<p><span style=\"letter-spacing:0.7px\">1. The TAF covering the estimated time of arrival.</span>  <br />  \n2. The current ATIS message promulgated by the destination airport.  <br />  \n3. NOTAMS in force at the estimated time of arrival.  <br />  \n4. The latest METAR (giving particular scrutiny to any trend information).  <br />  \n5. Aerodrome warnings in force at the estimated time of arrival.  <br />  \n6. The current VOLMET information promulgated by the destination airport.  <br />  \n7. The Significant Weather Chart covering the area of the destination airport valid at the estimated time of arrival.  <br />  \n8. Relevant SIGMET information valid at the estimated time of arrival.</p>",
+  "options": {
+    "a": "1, 2, 5, 6 and 8.",
+    "b": "1, 3, 4, 5, 6, 7 and 8.",
+    "c": "1, 4, 5, 7 and 8.",
+    "d": "1, 3, 4, and 7."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

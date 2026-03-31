@@ -1,0 +1,19 @@
+{
+  "number": 1028,
+  "questionId": "061-1028",
+  "questionNumber": "061-1028",
+  "stemHtml": "<p>Refer to \"E(LO)2\" chart from the Jeppesen GSPRM 2017. <br>Given the following information, what is the aircraft\u2019s position?</p><p>TRENT (TNT) VOR (N53\u00b003\u2019, W001\u00b040\u2019): Radial 306\u00b0 <br>POLE HILL(POL) VOR (N53\u00b045\u2019, W002\u00b006\u2019): Radial 223\u00b0</p>",
+  "options": {
+    "a": "N53\u00b030, W002\u00b025\u2019",
+    "b": "N53\u00b027, W002\u00b042\u2019",
+    "c": "<p dir=\"ltr\">N53\u00b015, W002\u00b034\u2019</p>",
+    "d": "N53\u00b025, W002\u00b035\u2019"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0210",
+      "publicUrl": "/attachments/061/061-att-0210.jpg"
+    }
+  ]
+}

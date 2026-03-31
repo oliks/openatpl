@@ -1,0 +1,19 @@
+{
+  "number": 1499,
+  "questionId": "061-1499",
+  "questionNumber": "061-1499",
+  "stemHtml": "<p>Refer to E(LO)2 chart from the Jeppesen GSPRM 2017. <br>Given the following information, what is the aircraft\u2019s position, if both DME ranges are increasing?</p><p>TLA VOR/DME (55\u00b030.0'N 003\u00b021.2'W), range: 32 NM <br>DCS DME (54\u00b043.3'N 003\u00b020.4'W), range: 54 NM <br>Aircraft\u2019s heading: 100\u00b0(T) <br>Slant range correction should be ignored.</p>",
+  "options": {
+    "a": "55\u00b028'N, 002\u00b023'W",
+    "b": "55\u00b028'N, 004\u00b018'W",
+    "c": "55\u00b034'N, 002\u00b023'W",
+    "d": "55\u00b025'N, 002\u00b013'W"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0305",
+      "publicUrl": "/attachments/061/061-att-0305.jpg"
+    }
+  ]
+}

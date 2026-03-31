@@ -1,0 +1,14 @@
+{
+  "number": 1311,
+  "questionId": "061-1311",
+  "questionNumber": "061-1311",
+  "stemHtml": "<p>Given the following information, calculate the groundspeed during the descent:</p>\n\n<p><span style=\"letter-spacing:0.7px\">W/V at TOD at FL100: 260\u00b0/50 kt</span> <br /> \nW/V at arrival aerodrome at MSL: 200\u00b0/20 kt <br /> \nAverage track after TOD: 190\u00b0 <br /> \nISA conditions <br /> \nDescent speed: 150 kt IAS</p>",
+  "options": {
+    "a": "162 kt",
+    "b": "135 kt",
+    "c": "145 kt",
+    "d": "122 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

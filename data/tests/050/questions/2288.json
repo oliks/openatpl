@@ -1,0 +1,14 @@
+{
+  "number": 2288,
+  "questionId": "050-2288",
+  "questionNumber": "050-2288",
+  "stemHtml": "<p>Determine the altimeter reading on the ground, given:</p>\r\n\r\n<p>An aircraft is on an airport with QFE 1015 hPa, and altimeter set to QNH 1010 hPa.</p>\r\n\r\n<p><em>(Assume: 30 ft / hPa)</em></p>",
+  "options": {
+    "a": "150 ft",
+    "b": "0 ft",
+    "c": "70 ft",
+    "d": "Minus 150 ft"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

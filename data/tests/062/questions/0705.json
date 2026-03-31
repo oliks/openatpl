@@ -1,0 +1,14 @@
+{
+  "number": 705,
+  "questionId": "062-0705",
+  "questionNumber": "062-0705",
+  "stemHtml": "<p>Assume that one of the satellites used by a GPS-receiver is faulty. When the signals of 5 satellites are received (including the faulty one) the RAIM software in the receiver\u2026</p>",
+  "options": {
+    "a": "is not active, as the software needs at least 8 satellites to function correctly.",
+    "b": "is able to detect that one of the satellites is faulty and is able to identify the faulty one.",
+    "c": "is unable to detect and identify the faulty satellite.",
+    "d": "is able to detect that one of the satellites is faulty but is unable to identify the faulty one."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2497,
+  "questionId": "050-2497",
+  "questionNumber": "050-2497",
+  "stemHtml": "<p>An aircraft is expected to clear a terrain by 2000 ft. The elevation of the mountain is 14200 ft and the local QNH at an airport of elevation 6500 ft is 1013 hPa, OAT -23\u00baC. Calculate the indicated altitude to be shown in the altimeter in order to clear the mountain range by specified clearance.</p>\r\n\r\n<p>Use 1 hPa = 27 ft</p>",
+  "options": {
+    "a": "<p>17200 ft</p>",
+    "b": "<p>17800 ft</p>",
+    "c": "<p>15450 ft</p>",
+    "d": "<p>16450 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

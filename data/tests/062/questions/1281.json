@@ -1,0 +1,14 @@
+{
+  "number": 1281,
+  "questionId": "062-1281",
+  "questionNumber": "062-1281",
+  "stemHtml": "Which of the following statements is true about the navigation specification RNP 1?",
+  "options": {
+    "a": "It may be used for the initial part of a STAR outside 30 NM and above MSA.",
+    "b": "RNP 1 is limited to use on STARs, SIDs, the initial and intermediate segments of Instrument Approach Procedures and the missed approach after the initial climb phase.",
+    "c": "RNP 1 is used in all phases of flight except for oceanic/remote and final approach, and is primarily intended for helicopter operations.",
+    "d": "It permits a range of scalable RNP lateral and longitudinal navigation accuracies."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

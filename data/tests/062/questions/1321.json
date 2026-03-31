@@ -1,0 +1,14 @@
+{
+  "number": 1321,
+  "questionId": "062-1321",
+  "questionNumber": "062-1321",
+  "stemHtml": "<p>An aircraft equipped with an ADF is flying over land during sunset. The pilot tunes the frequency of an NDB station located 50 NM from the aircraft. About 1 minute later, they notice the ADF needle swinging erratically. What is the most probable cause?</p>",
+  "options": {
+    "a": "<p>Changes in the signal polarisation due to sky waves.</p>",
+    "b": "<p>Flying close to the station, into the cone of confusion.</p>",
+    "c": "<p>Attenuation of the VHF surface wave.</p>",
+    "d": "<p>Coastal refraction as the waves transit from land to sea.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

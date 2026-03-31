@@ -1,0 +1,14 @@
+{
+  "number": 1044,
+  "questionId": "062-1044",
+  "questionNumber": "062-1044",
+  "stemHtml": "<p>According to the Definition from Annex I to Part-FCL regarding linear and angular laterally guided operations during approach phases of flight, which of the following statements is true?</p><p> </p><p> </p>",
+  "options": {
+    "a": "<p>Linear guidance means instrument approach operation in which the maximum tolerable error/deviation from the planned track is expressed in terms of deflection of the needles on the Course Deviation Indicator (CDI) or equivalent display in the cockpit.</p>",
+    "b": "Angular guidance means instrument approach operation in which the maximum tolerable error/deviation from the planned track is expressed in units of length, for instance nautical miles, for cross-track lateral deviation.",
+    "c": "Angular guidance means instrument approach operation in which the maximum tolerable error/deviation from the planned track is expressed in percent of maximum deviation distance for cross-track lateral deviation.",
+    "d": "Linear guidance means instrument approach operation in which the maximum tolerable error/deviation from the planned track is expressed in units of length, for instance nautical miles, for cross-track lateral deviation."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

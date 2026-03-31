@@ -1,0 +1,14 @@
+{
+  "number": 1500,
+  "questionId": "061-1500",
+  "questionNumber": "061-1500",
+  "stemHtml": "<p>Given:</p><p>Mach number .34 <br /> Pressure Altitude = 9000 ft <br /> OAT = ISA-15\u00ba</p><p>Calculate TAS:</p>",
+  "options": {
+    "a": "204 kt",
+    "b": "190 kt",
+    "c": "218 kt",
+    "d": "212 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

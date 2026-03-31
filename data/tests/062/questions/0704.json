@@ -1,0 +1,14 @@
+{
+  "number": 704,
+  "questionId": "062-0704",
+  "questionNumber": "062-0704",
+  "stemHtml": "<p>Refer to figure. <br /> \rConsider the instrument displays shown in the annex. Which of the following statements is true?</p>",
+  "options": {
+    "a": "<p>If turning 90\u00b0 to the left, the QDM will be 000\u00b0.</p>",
+    "b": "<p>If turning 90\u00b0 to the left, the QDM will be 030\u00b0.</p>",
+    "c": "<p>If maintaining the heading of 120\u00b0, the QDM will continuously increase.</p>",
+    "d": "<p>If maintaining the heading of 120\u00b0, the QDM will remain 270\u00b0.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

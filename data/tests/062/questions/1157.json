@@ -1,0 +1,14 @@
+{
+  "number": 1157,
+  "questionId": "062-1157",
+  "questionNumber": "062-1157",
+  "stemHtml": "<p>A pilot loses situational awareness during a flight and requests a QDM from ATC. The reply is \u201cQDM 110\u00b0 Class A\u201d. Which of the following is correct regarding the reply from ATC?</p>",
+  "options": {
+    "a": "<p>Magnetic track from the station is between 108\u00b0 and 112\u00b0 magnetic.</p>",
+    "b": "<p>Magnetic track to the station is between 108\u00b0 and 112\u00b0 magnetic.</p>",
+    "c": "<p>True bearing to the station is exactly 110\u00b0.</p>",
+    "d": "<p>Magnetic heading to steer is exactly 110\u00b0.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

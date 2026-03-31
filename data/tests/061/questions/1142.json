@@ -1,0 +1,14 @@
+{
+  "number": 1142,
+  "questionId": "061-1142",
+  "questionNumber": "061-1142",
+  "stemHtml": "<p>An aircraft is flying from SALCO to BERRY HEAD on Magnetic Track 007\u00b0, TAS 445 kts. The wind is 050\u00b0 (T) / 40 kts. Variation 5\u00b0W, deviation +2\u00b0 At 10:00 UTC the RB of locator PY is 311\u00b0. At 10:03 UTC the RB of locator PY is 266\u00b0.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Calculate the distance of the aircraft from locator PY at 10:03 UTC.</span></p>",
+  "options": {
+    "a": "23 NM",
+    "b": "24 NM",
+    "c": "22 NM",
+    "d": "21 NM"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

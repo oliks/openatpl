@@ -1,0 +1,14 @@
+{
+  "number": 766,
+  "questionId": "061-0766",
+  "questionNumber": "061-0766",
+  "stemHtml": "Using Mental Dead Reckoning, determine the drift and Wind Correction Angle (WCA), given: <br />  <br /> TAS: 180 kt <br /> Wind is blowing 45\u00b0 from the left of your track at 50 kt",
+  "options": {
+    "a": "<p>Drift: 14.5&ordm; Left.<br />\r\nWCA: +7.5&ordm;.</p>\r\n",
+    "b": "Drift: 12.5\u00ba Left. <br /> WCA: +12.5\u00ba.",
+    "c": "<p>Drift: 12.5\u00ba Right. <br /> WCA: -12.5\u00ba.</p>",
+    "d": "<p>Drift: 14.5&ordm; Right.<br />\r\nWCA: -7.5&ordm;.</p>\r\n"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1554,
+  "questionId": "050-1554",
+  "questionNumber": "050-1554",
+  "stemHtml": "<p>Compare the following TAF and VOLMET reports for Nice:</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF 240600Z 2407/2416 VRB02KT CAVOK= VOLMET</span> <br /> \nreport: 0920Z 13012KT 8000 SCT040CB BKN100 20/18 Q1015 TEMPO TS</p>\n\n<p>What can be concluded from the differences between the two reports?</p>",
+  "options": {
+    "a": "That the weather at Nice is clearly more volatile than the TAF could have predicted earlier in the morning",
+    "b": "That the weather in Nice after 0920 is also likely to be as predicted in the TAF",
+    "c": "That the VOLMET speaker has got his locations mixed up, because there is no way the latest VOLMET report could be so different from the TAF",
+    "d": "That the weather conditions at 0920 were actually predicted in the TAF"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

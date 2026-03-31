@@ -1,0 +1,14 @@
+{
+  "number": 272,
+  "questionId": "050-0272",
+  "questionNumber": "050-0272",
+  "stemHtml": "<p dir=\"ltr\">What are examples of grid point datasets prepared by the World Area Forecast Centres (WAFCs)?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Horizontal extent of CBs, humidity, and direction and speed of the geostrophic wind.</p>",
+    "b": "<p dir=\"ltr\">Upper wind and temperature data, humidity, icing, and clear air turbulence.</p>",
+    "c": "<p dir=\"ltr\">Temperature of the tropopause, precipitation, and in-cloud turbulence.</p>",
+    "d": "Surface wind, upper air pressure, and humidity."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

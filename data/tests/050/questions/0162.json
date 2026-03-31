@@ -1,0 +1,14 @@
+{
+  "number": 162,
+  "questionId": "050-0162",
+  "questionNumber": "050-0162",
+  "stemHtml": "How is the meteorological visibility determined in the METAR?",
+  "options": {
+    "a": "It is the greatest value which is reached at least within half of the horizon as seen from the aerodrome.",
+    "b": "The maximum determined by a meteorologist in a 360\u00b0 scan at the horizon.",
+    "c": "The lowest observed in a 360\u00b0 scan from the meteorological station.",
+    "d": "Given by transmissometer when the visibility is below 1 500 metres."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

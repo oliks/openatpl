@@ -1,0 +1,14 @@
+{
+  "number": 1065,
+  "questionId": "061-1065",
+  "questionNumber": "061-1065",
+  "stemHtml": "<p>Find the actual track of the aircraft, given:</p><p>Planned track: 157\u00b0(T)<br>Pre-flight wind correction angle calculation: 8\u00b0 right<br>Actual in-flight drift: 10\u00b0 left</p>",
+  "options": {
+    "a": "<p>147\u00b0(T)</p>",
+    "b": "<p>155\u00b0(T)</p>",
+    "c": "<p>159\u00b0(T)</p>",
+    "d": "<p>149\u00b0(T)</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

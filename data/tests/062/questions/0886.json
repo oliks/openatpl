@@ -1,0 +1,14 @@
+{
+  "number": 886,
+  "questionId": "062-0886",
+  "questionNumber": "062-0886",
+  "stemHtml": "Your aircraft is able to conduct RNP APCH. Are you allowed to conduct RNP2?",
+  "options": {
+    "a": "Yes, if you can perform an RNP APCH, you can conduct any RNP operation.",
+    "b": "Not necessarily. First, establish the aircraft eligibility.",
+    "c": "Yes, navigation databases are the same for all RNP operations.",
+    "d": "Yes, provided that clearance is obtained from ATC."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

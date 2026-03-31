@@ -1,0 +1,14 @@
+{
+  "number": 1106,
+  "questionId": "062-1106",
+  "questionNumber": "062-1106",
+  "stemHtml": "Which of the following types of interrogations will a mode S transponder reply to?",
+  "options": {
+    "a": "SSR and ADS-B interrogations.",
+    "b": "SSR and primary radar interrogations.",
+    "c": "SSR and TCAS interrogations.",
+    "d": "TCAS and ADS-B interrogations."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

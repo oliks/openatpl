@@ -1,0 +1,14 @@
+{
+  "number": 1143,
+  "questionId": "050-1143",
+  "questionNumber": "050-1143",
+  "stemHtml": "<p>What surface wind is forecast for 22:00 UTC?</p>\n\n<p><span style=\"letter-spacing:0.7px\">EDDF 272200Z 2806/2824 VRB05KT 4000 BR SCT005 OVC013 BECMG 2813/2814 9000 SHRA OVC015 PROB40 TEMPO 2814/2816 VRB15G25KT 1600 TSRA OVC010CB BECMG 2816/2818 26010KT BKN030 BECMG 2821/2822 CAVOK</span></p>",
+  "options": {
+    "a": "Calm",
+    "b": "Variable/05 kts.",
+    "c": "260\u00b0/10 kts.",
+    "d": "Variable/15 to 25 kts."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

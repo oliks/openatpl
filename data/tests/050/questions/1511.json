@@ -1,0 +1,19 @@
+{
+  "number": 1511,
+  "questionId": "050-1511",
+  "questionNumber": "050-1511",
+  "stemHtml": "<p>Refer to figure.  <br />  \rWhich feature can be identified based on the satellite image provided?</p>",
+  "options": {
+    "a": "<p>Cloud height.</p>",
+    "b": "<p>Precipitation or water content.</p>",
+    "c": "<p>Convective activity.</p>",
+    "d": "<p>Intensity of the radar return.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0350",
+      "publicUrl": "/attachments/050/050-att-0350.png"
+    }
+  ]
+}

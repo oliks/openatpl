@@ -1,0 +1,19 @@
+{
+  "number": 819,
+  "questionId": "061-0819",
+  "questionNumber": "061-0819",
+  "stemHtml": "<p>Refer to figure.\u00a0<br />An aircraft is flying a true heading of 200\u00b0. The local magnetic variation is 10\u00b0W. What compass heading is the aircraft on and what is the deviation?</p>",
+  "options": {
+    "a": "<p>210\u00b0; 1\u00b0 West</p>",
+    "b": "<p>209\u00b0; 1\u00b0 East</p>",
+    "c": "<p>182\u00b0; 1\u00b0 West</p>",
+    "d": "<p>152\u00b0; 1\u00b0 East</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0310",
+      "publicUrl": "/attachments/061/061-att-0310.png"
+    }
+  ]
+}

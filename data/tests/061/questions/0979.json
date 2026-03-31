@@ -1,0 +1,14 @@
+{
+  "number": 979,
+  "questionId": "061-0979",
+  "questionNumber": "061-0979",
+  "stemHtml": "<p>Given the following information, calculate the actual track.</p><p>Planned track: 031\u00b0 <br /> Planned drift angle: 6\u00b0R <br /> Actual drift angle: 4\u00b0L</p>",
+  "options": {
+    "a": "041\u00b0",
+    "b": "033\u00b0",
+    "c": "025\u00b0",
+    "d": "021\u00b0"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

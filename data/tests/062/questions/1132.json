@@ -1,0 +1,14 @@
+{
+  "number": 1132,
+  "questionId": "062-1132",
+  "questionNumber": "062-1132",
+  "stemHtml": "<p>AAIM (Aircraft Autonomous Integrity Monitoring) is a type of Airborne Based Augmentation System that\u2026</p>",
+  "options": {
+    "a": "<p>relies on GNSS information as well as information from additional on-board systems.</p>",
+    "b": "relies on information from additional on-board sensors only.",
+    "c": "relies on GNSS information only.",
+    "d": "can only function within the range of a Ground Based Augmentation System."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 861,
+  "questionId": "062-0861",
+  "questionNumber": "062-0861",
+  "stemHtml": "<p>Which of the following correctly lists the possible inputs to a RAIM system?</p>",
+  "options": {
+    "a": "<p>Signals from GNSS and DME</p>",
+    "b": "<p>Signals from GNSS and onboard sensors such as the inertial reference system</p>",
+    "c": "<p>Signals from GNSS and IRS</p>",
+    "d": "<p>Signals from GNSS and barometric input</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

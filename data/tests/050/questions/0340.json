@@ -1,0 +1,19 @@
+{
+  "number": 340,
+  "questionId": "050-0340",
+  "questionNumber": "050-0340",
+  "stemHtml": "<p>Refer to figure. <br /> \rWhich of the following weather conditions would be expected at <span style=\"font-size:15px\">Ellinikon International airport</span> (LGAT) at around 14:50 UTC?</p>",
+  "options": {
+    "a": "<p>16002KT 0200 R33L/0600N FG VV001 12/12 Q1031 BECMG 0800=</p>",
+    "b": "<p>26014KT 8000 BKN090 17/12 Q1009 BECMG 4000 RA=</p>",
+    "c": "<p>21002KT 5000 HZ SCT040 29/16 Q1026 NOSIG=</p>",
+    "d": "<p>23018G35KT 9999 SCT035 10/04 Q0988 NOSIG=</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0211",
+      "publicUrl": "/attachments/050/050-att-0211.jpeg"
+    }
+  ]
+}

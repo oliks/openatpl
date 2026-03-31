@@ -1,0 +1,14 @@
+{
+  "number": 1939,
+  "questionId": "050-1939",
+  "questionNumber": "050-1939",
+  "stemHtml": "<p>You are planning a flight from Barcelona to Castres in Southern France. The planned route will take you over the eastern end of the Pyrenees with a maximum terrain elevation of 8000 feet. Your flight is planned at 9500 feet. As you approach the Pyrenees from the south you notice small lens shaped clouds on your track ahead. What is your best course of action?</p>",
+  "options": {
+    "a": "<p>The lens shaped clouds indicate a stable atmosphere, therefore, the air will be smooth, no action will be required and the flight can continue as planned.</p>",
+    "b": "<p>The lens shaped clouds indicate mountain wave activity, climbing to 11 500 feet will avoid this.</p>",
+    "c": "<p>The pilot should divert to the east and go around the mountains.</p>",
+    "d": "<p>Continue flight at the planned level. Secure all loose objects in the cabin, get the passengers to fasten/tighten their seatbelts and warn them it's going to get rough.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

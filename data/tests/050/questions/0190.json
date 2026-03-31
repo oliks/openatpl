@@ -1,0 +1,14 @@
+{
+  "number": 190,
+  "questionId": "050-0190",
+  "questionNumber": "050-0190",
+  "stemHtml": "<p>You are flying from Manchester to Dublin and the highest obstruction is 3 860 ft.</p><p>Given the following meteorological report from a nearby aerodrome at 36 ft AMSL, determine the lowest safe flight level giving 2 000 ft terrain separation:</p><p>QNH: 972 hPa <br /> Temperature: -2\u00b0C <br /> Assume 30 ft per 1 hPa</p>",
+  "options": {
+    "a": "<p>FL50</p>",
+    "b": "<p>FL60</p>",
+    "c": "<p>FL70</p>",
+    "d": "FL75"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 398,
+  "questionId": "061-0398",
+  "questionNumber": "061-0398",
+  "stemHtml": "<p>Refer to figure.\u00a0<br>For the legs B-C and E-F the following apply:</p><p>B-C: Track 047\u00b0, Heading 055\u00b0, TAS 190 kt, GS 167 kt\u00a0<br>E-F: Track 048\u00b0, Heading 056\u00b0, TAS 190 kt, GS 166 kt</p><p>What is the difference in wind between the two legs?</p>",
+  "options": {
+    "a": "<p>Headwind increased by 1 kt.</p>",
+    "b": "<p>Tailwind increased by 1 kt.</p>",
+    "c": "<p>Crosswind from the left increased.</p>",
+    "d": "<p>No change in wind component.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0152",
+      "publicUrl": "/attachments/061/061-att-0152.png"
+    }
+  ]
+}

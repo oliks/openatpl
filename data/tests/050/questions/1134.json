@@ -1,0 +1,14 @@
+{
+  "number": 1134,
+  "questionId": "050-1134",
+  "questionNumber": "050-1134",
+  "stemHtml": "<p>Flight from Bordeaux to Amsterdam, ETA 2100 UTC. What is the minimum visibility forecast for ETA Amsterdam?</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAF EHAM 281500Z 2816/2901 14010KT 6000 RA SCT025 BKN040 BECMG 2816/2818 12015G25KT SCT008 BKN013 TEMPO 2818/2823 3000 BKN005 OVC010 BECMG 2823/2901 25020KT 8000 NSW BKN020=</span></p>",
+  "options": {
+    "a": "3 km",
+    "b": "6 km",
+    "c": "8 NM",
+    "d": "8 km"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

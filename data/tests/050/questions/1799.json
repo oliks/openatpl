@@ -1,0 +1,14 @@
+{
+  "number": 1799,
+  "questionId": "050-1799",
+  "questionNumber": "050-1799",
+  "stemHtml": "<p>In which of the following situations will the altimeter correctly display the airport elevation at touchdown?</p>",
+  "options": {
+    "a": "<p>If QFF of the airport is set as reference.</p>",
+    "b": "<p>If QNH of the airport is set as reference.</p>",
+    "c": "<p>At standard setting.</p>",
+    "d": "<p>If QFE of the airport is set as reference.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

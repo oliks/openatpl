@@ -1,0 +1,14 @@
+{
+  "number": 33,
+  "questionId": "061-0033",
+  "questionNumber": "061-0033",
+  "stemHtml": "<p>Given the following information, calculate the approximate rate of descent:</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAS: 197 kt</span> <br /> \nTrue course: 240\u00b0T <br /> \nW/V: 180/30 kt <br /> \nDescent is initiated at FL 220 and completed at FL 40 Distance to be covered during descent: 39 NM</p>\n\n<div> </div>",
+  "options": {
+    "a": "950 ft/min",
+    "b": "800 ft/min",
+    "c": "1500 ft/min",
+    "d": "1400 ft/min"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

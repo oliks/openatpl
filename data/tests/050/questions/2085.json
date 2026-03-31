@@ -1,0 +1,19 @@
+{
+  "number": 2085,
+  "questionId": "050-2085",
+  "questionNumber": "050-2085",
+  "stemHtml": "Refer to figure. <br /> Which of the following atmospheric conditions would reduce or prevent turbulence in that area?",
+  "options": {
+    "a": "Atmospheric stability, with an Environmental Lapse Rate (ELR) greater than the Saturated Adiabatic Lapse Rate (SALR).",
+    "b": "Atmospheric instability, with an Environmental Lapse Rate (ELR) greater than the Dry Adiabatic Lapse Rate (DALR).",
+    "c": "Atmospheric instability, with an Environmental Lapse Rate (ELR) less than the Dry Adiabatic Lapse Rate (DALR).",
+    "d": "Atmospheric stability, with an Environmental Lapse Rate (ELR) less than the Saturated Adiabatic Lapse Rate (SALR)."
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0419",
+      "publicUrl": "/attachments/050/050-att-0419.png"
+    }
+  ]
+}

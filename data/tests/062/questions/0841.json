@@ -1,0 +1,14 @@
+{
+  "number": 841,
+  "questionId": "062-0841",
+  "questionNumber": "062-0841",
+  "stemHtml": "Which of the following correctly describes the principle of integrity monitoring within Airborne-Based Augmentation Systems (ABAS)? ABAS..",
+  "options": {
+    "a": "uses redundant range measurements to support Fault Detection (FD) or Fault Detection and Exclusion (FDE).",
+    "b": "requires a Ground-Based Augmentation System (GBAS) to broadcast differential corrections and integrity messages.",
+    "c": "uses ground-based radio navigation aids to support Fault Detection (FD) or Fault Detection and Exclusion (FDE).",
+    "d": "requires a Satellite-Based Augmentation System (SBAS) to broadcast differential corrections and integrity messages."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

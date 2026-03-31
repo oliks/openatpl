@@ -1,0 +1,14 @@
+{
+  "number": 1258,
+  "questionId": "050-1258",
+  "questionNumber": "050-1258",
+  "stemHtml": "<p>Your destination aerodrome in Western Europe lies on the crest of a ridge, inland, with an elevation of 700 feet AMSL.\u00a0</p><p>Before take-off, the METAR for your destination is: \"0850Z 27015KT 0100 R29/0650 FG VV/// 03/03 Q1005\".</p><p>There is another aerodrome a few miles west of the destination aerodrome at an elevation of 200 feet AMSL.</p><p>The METAR for this aerodrome is: \"0850Z 26011KT 9999 SCT050 05/03 Q1005\".</p><p>Considering this situation, what type of fog is present at the destination aerodrome and which of these statement correctly describes the dissipation of this fog?</p>",
+  "options": {
+    "a": "Advection fog; and a change of air mass is necessary to dissipate the fog.",
+    "b": "Orographic fog; and as the temperature rises with diurnal heating, the fog is likely to lift into cloud.",
+    "c": "Radiation fog; and diurnal heating will increase the wind speed to lift the fog into a low-level layer of stratus cloud.",
+    "d": "Advection fog; and diurnal heating will increase the wind speed to lift the fog into a low-level layer of stratus cloud."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1264,
+  "questionId": "062-1264",
+  "questionNumber": "062-1264",
+  "stemHtml": "<p dir=\"ltr\">Navigating to an NDB at dusk, you notice the ADF needle swinging erratically. What could be the reason?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Sky waves are amplified by the ionosphere, which causes the ADF needle to alternate between the sky wave and the ground wave.</p>",
+    "b": "<p dir=\"ltr\">Interference occurs between the ground wave and sky wave causing the signal to fade when the two waves are out of phases.</p>",
+    "c": "<p dir=\"ltr\">The ionospheric reflections travel shorter distances than the ground signal, which causes fading of the signal when they interfere.</p>",
+    "d": "Interference between the ground wave and sky wave, which causes fading when the signals arrive at the receiver in phase."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

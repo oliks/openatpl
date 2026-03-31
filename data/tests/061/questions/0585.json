@@ -1,0 +1,19 @@
+{
+  "number": 585,
+  "questionId": "061-0585",
+  "questionNumber": "061-0585",
+  "stemHtml": "<p>Refer to figure or E(LO)2 chart from Jeppesen GSPRM 2017. <br />Given the following information, find the geographical position of the aircraft, if the DME indications are increasing while following a true track of 180\u00b0</p><p>TALLA (TLA) VOR/DME (55\u00b030N 003\u00b021'W) <br />TURNBERRY (TRN) VOR/DME (55\u00b019'N 004\u00b047'W) <br />Aircraft position: 46 NM from TLA and 35 NM from TRN <br />Disregard slant range corrections</p>",
+  "options": {
+    "a": "<p>55\u00b053'N 004\u00b034'W</p>",
+    "b": "<p>54\u00b050'N 004\u00b012'W</p>",
+    "c": "<p>54\u00b052'N 004\u00b007'W</p>",
+    "d": "<p>55\u00b049'N 004\u00b036'W</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0038",
+      "publicUrl": "/attachments/061/061-att-0038.jpg"
+    }
+  ]
+}

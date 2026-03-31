@@ -1,0 +1,14 @@
+{
+  "number": 724,
+  "questionId": "061-0724",
+  "questionNumber": "061-0724",
+  "stemHtml": "<p>Given the following information, what would be the approximate ground speed during a descent from FL290 to MSL (QNH 1013)?</p>\r\r<p>Descent speed: 250 kt CAS  <br />  \rAverage ISA Deviation : -8\u00b0C  <br />  \rDescent track: 210\u00b0(T)  <br />  \rMSL W/V: 275\u00b0(T)/10 kt  <br />  \r5000 ft W/V: 280\u00b0(T) /20 kt  <br />  \r10000 ft W/V : 310\u00b0(T) / 45 kt  <br />  \r15000 ft W/V : 310\u00b0(T) / 45 kt  <br />  \r20000 ft W/V : 330\u00b0(T) / 50 kt  <br />  \r25000 ft W/V : 330\u00b0(T) / 55 kt  <br />  \r30000 ft W/V : 330\u00b0(T) / 55 kt</p>",
+  "options": {
+    "a": "<p>315 kt</p>",
+    "b": "<p>320 kt</p>",
+    "c": "<p>306 kt</p>",
+    "d": "<p>330 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

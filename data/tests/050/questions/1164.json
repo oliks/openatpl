@@ -1,0 +1,19 @@
+{
+  "number": 1164,
+  "questionId": "050-1164",
+  "questionNumber": "050-1164",
+  "stemHtml": "<p>Refer to figure.<br>What runway surface conditions are indicated by the runway state group 88229394 in a METAR?</p>",
+  "options": {
+    "a": "<p>Wet or water patches, 11-25%, 15 cm, braking action medium/good.</p>",
+    "b": "<p>Dry snow, 11-25%, 15 cm, braking action medium.</p>",
+    "c": "<p>Wet or water patches, 26-50%, 15 cm, braking action medium/good.</p>",
+    "d": "<p>Slush, 11-25%, less than 1 mm, braking action medium.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0433",
+      "publicUrl": "/attachments/050/050-att-0433.png"
+    }
+  ]
+}

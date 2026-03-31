@@ -1,0 +1,14 @@
+{
+  "number": 1297,
+  "questionId": "061-1297",
+  "questionNumber": "061-1297",
+  "stemHtml": "<p>Given the following information, calculate the compass heading.</p>\n\n<p>True track: 352\u00b0 <br /> \nVariation: 11\u00b0W <br /> \nDeviation: -5\u00b0 <br /> \nDrift: 10\u00b0R</p>\n\n<p> </p>",
+  "options": {
+    "a": "346\u00b0",
+    "b": "018\u00b0",
+    "c": "358\u00b0",
+    "d": "025\u00b0"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1842,
+  "questionId": "050-1842",
+  "questionNumber": "050-1842",
+  "stemHtml": "<p dir=\"ltr\">It is 17:30 UTC on a day in March. You are listening to the ATIS for an aerodrome with a single runway near London. The following is reported \u2018\u2019Visibility 3000 metres in haze, sky clear\u2019\u2019. When about to land on Runway 27, the runway in use, what flight visibility would you expect? (NO RVR information is given in the ATIS message)</p>",
+  "options": {
+    "a": "<p>Visibility will be lower than 3000 m but less than 1500 m due to sun's position at the time of arrival.</p>",
+    "b": "<p>Considerably less than 3000 m but more than 1500 m.</p>",
+    "c": "<p>Visibility is greater than 3 000 m in all directions.</p>",
+    "d": "<p dir=\"ltr\">3 000 metres.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

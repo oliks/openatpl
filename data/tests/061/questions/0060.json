@@ -1,0 +1,14 @@
+{
+  "number": 60,
+  "questionId": "061-0060",
+  "questionNumber": "061-0060",
+  "stemHtml": "<p>Given the following information, what groundspeed must be maintained from the fix in order to achieve planned ETA at \u2018B\u2019?</p>\n\n<p><span style=\"letter-spacing:0.7px\">Distance \u2018A\u2019 to \u2018B\u2019: 325 NM</span> <br /> \nPlanned groundspeed: 315 kt <br /> \nATD: 11:30 UTC 12:05 UTC: fix obtained 165 NM along track</p>",
+  "options": {
+    "a": "355 kt",
+    "b": "375 kt",
+    "c": "395 kt",
+    "d": "335 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

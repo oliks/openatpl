@@ -1,0 +1,14 @@
+{
+  "number": 259,
+  "questionId": "061-0259",
+  "questionNumber": "061-0259",
+  "stemHtml": "<p>Given the following information,determine the heading required and the groundspeed...</p><p>Required track: 230\u00b0(T)     <br />     Wind velocity: 315\u00b0(T)/45 kt     <br />     TAS: 320 kt</p>",
+  "options": {
+    "a": "<p>HDG 222\u00b0(T); GS 334 kt</p>",
+    "b": "<p>HDG 222\u00b0(T); GS 324 kt</p>",
+    "c": "<p>HDG 238\u00b0(T); GS 320 kt</p>",
+    "d": "HDG 238\u00b0(T); GS 312 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

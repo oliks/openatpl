@@ -1,0 +1,14 @@
+{
+  "number": 1315,
+  "questionId": "061-1315",
+  "questionNumber": "061-1315",
+  "stemHtml": "<p>Given the following information, calculate the True Track (TT) and TAS.</p><p>True Heading: 321\u00b0      <br />     GS: 123 kt      <br />     W/V: 213\u00b0(T) / 21 kt</p>",
+  "options": {
+    "a": "<p>TT: 311\u00b0; TAS: 115 kt</p>",
+    "b": "<p>TT: 330\u00b0; TAS: 130 kt</p>",
+    "c": "<p>TT: 331\u00b0; TAS: 115 kt</p>",
+    "d": "<p>TT: 311\u00b0; TAS: 130 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

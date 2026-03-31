@@ -1,0 +1,14 @@
+{
+  "number": 2310,
+  "questionId": "050-2310",
+  "questionNumber": "050-2310",
+  "stemHtml": "<p>An aircraft is cruising at an indicated altitude of 8500 feet with the altimeter subscale set to a QNH of 1030 hPa. During the flight, the local QNH decreases to 1010 hPa. Assuming a uniform vertical pressure variation with a lapse rate of 27 feet per hPa, determine the aircraft\u2019s true altitude if the altimeter setting remains unchanged at 1030 hPa.</p>",
+  "options": {
+    "a": "<p>7960 ft</p>",
+    "b": "<p>8500 ft</p>",
+    "c": "<p>9040 ft</p>",
+    "d": "<p>9580 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

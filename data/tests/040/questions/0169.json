@@ -1,0 +1,14 @@
+{
+  "number": 169,
+  "questionId": "040-0169",
+  "questionNumber": "040-0169",
+  "stemHtml": "<p>After checking the flight planning sheets in flight, when the pilot looks out again he/she realises that the aircraft is banked 20 degrees to the right. The pilot immediately restores level flight, however feels that he/she is turning left. What is being described?</p>",
+  "options": {
+    "a": "<p>This is \"the leans\", a vestibular illusion that does NOT occur during VFR flight, because outside visual cues are present, and sight is the most important sense to rely on in case of conflicting sensorial information.</p>",
+    "b": "<p>This is a vestibular illusion called the \"leans\", which can occur during VFR and IFR flights: it must be counteracted by referring to the instruments, since the false sensation of bank may last for quite a long time.</p>",
+    "c": "<p>This is a somatogravic illusion, which involves angular accelerations lasting for more than 30 seconds, giving the false sensation of being in straight and level flight while the aircraft is actually turning.</p>",
+    "d": "<p>This is an illusion caused by a malfunction of the vestibular system that usually occurs when visual reference is lost for more than 30 seconds and the pilot is NOT trained in reduced visibility.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

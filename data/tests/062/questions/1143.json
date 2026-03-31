@@ -1,0 +1,14 @@
+{
+  "number": 1143,
+  "questionId": "062-1143",
+  "questionNumber": "062-1143",
+  "stemHtml": "<p>During a flight using PBN, the navigation system provides a pilot with an RNP of 1.0 NM and an EPE of 1.3 NM. What does this tell the pilot?</p>",
+  "options": {
+    "a": "<p>Flight Technical Error (FTE) is within tolerance but the pilot should use the autopilot to improve accuracy.</p>",
+    "b": "<p>Navigation System Error (NSE) is within tolerance but the pilot should use the autopilot to improve accuracy.</p>",
+    "c": "<p>Navigation System Error (NSE) is outside of tolerance due to the inaccuracy of the aircraft position.</p>",
+    "d": "<p>Flight Technical Error (FTE) is outside of tolerance due to inaccurate track-keeping.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

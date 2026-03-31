@@ -1,0 +1,14 @@
+{
+  "number": 1155,
+  "questionId": "062-1155",
+  "questionNumber": "062-1155",
+  "stemHtml": "<p>Which of the following errors are used to calculate UERE?</p>",
+  "options": {
+    "a": "<p>Troposhpheric delay and satellite clock error</p>",
+    "b": "<p>Satellite clock error and ionospheric modelling</p>",
+    "c": "<p>Satellite clock error and GDOP</p>",
+    "d": "<p>The sum of errors that affect pseudo range</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,19 @@
+{
+  "number": 1135,
+  "questionId": "061-1135",
+  "questionNumber": "061-1135",
+  "stemHtml": "<p>Refer to figure. <br /> At 10:07 you make a note of your position (shown on the image) over the intersection of highways A3 and A92 (N48\u00b049.0', E012\u00b056.3\"). Consider the DR positions DR-1 to DR-4 shown on the image. Given the following information, determine your DR position at 10:19.</p>TAS: 107 kt <br /> Wind: 110\u00b0/35 kt <br /> True heading: 130\u00b0",
+  "options": {
+    "a": "DR-4 (N48\u00b039.1', E013\u00b013.1')",
+    "b": "DR-3 (N48\u00b037.3', E013\u00b010.9')",
+    "c": "DR-2 (N48\u00b041.5', E013\u00b006.0')",
+    "d": "DR-1 (N48\u00b042.7', E013\u00b007.0')"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0235",
+      "publicUrl": "/attachments/061/061-att-0235.png"
+    }
+  ]
+}

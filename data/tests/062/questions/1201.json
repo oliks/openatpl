@@ -1,0 +1,14 @@
+{
+  "number": 1201,
+  "questionId": "062-1201",
+  "questionNumber": "062-1201",
+  "stemHtml": "<p>A pilot is trying to obtain a position fix from a nearby navigation aid. The true bearing from the aircraft to a VOR station is 030\u00b0. Variation in the aircraft position is 4\u00b0W and variation at the station is 3\u00b0W. The Earth convergency can be ignored. What is the QDR?</p>",
+  "options": {
+    "a": "<p>207\u00b0</p>",
+    "b": "<p>213\u00b0</p>",
+    "c": "<p>034\u00b0</p>",
+    "d": "<p>033\u00b0</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1742,
+  "questionId": "050-1742",
+  "questionNumber": "050-1742",
+  "stemHtml": "What is an aerodrome warning?",
+  "options": {
+    "a": "The part of a METAR message that is called supplementary information.",
+    "b": "A message issued by a meteorological office concerning the meteorological conditions which could adversely affect aircraft on the ground, including parked aircraft, and the aerodrome facilities and services.",
+    "c": "A message prepared by a meteorological office concerning wind shear which could adversely affect aircraft on the approach or take-off path, or during a circling approach, between the runway level and a specified upper level, and aircraft on the runway during the landing roll or take-off run.",
+    "d": "A message issued by a meteorological watch office concerning the occurrence and/or expected occurrence of specified en-route weather phenomena, which may affect the safety of aircraft operations."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

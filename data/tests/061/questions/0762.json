@@ -1,0 +1,14 @@
+{
+  "number": 762,
+  "questionId": "061-0762",
+  "questionNumber": "061-0762",
+  "stemHtml": "<div>A pilot plans to fly from an accurate fix at 22:00z with a heading of 175\u00b0. The track is planned to fly directly overhead an aerodrome after 37 NM, then continue in the same direction for another 50 NM after that. At 22:14 the aircraft actually passes 5 NM to the right of the aerodrome. What should the pilot make the new heading to reach the next turning point 50 NM away, and what is their new ETA at that turning point?</div>",
+  "options": {
+    "a": "<p>Heading: 195\u00b0, ETA: 22:44</p>",
+    "b": "<p>Heading: 195\u00b0, ETA: 22:33</p>",
+    "c": "<p>Heading: 166\u00b0, ETA: 22:33</p>",
+    "d": "Heading: 161\u00b0, ETA: 22:33"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

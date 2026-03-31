@@ -1,0 +1,14 @@
+{
+  "number": 213,
+  "questionId": "062-0213",
+  "questionNumber": "062-0213",
+  "stemHtml": "<p>The reason for using different frequencies for the airborne and ground equipment of a DME is\u2026</p>",
+  "options": {
+    "a": "to avoid second trace returns when a DME is more than 200 NM away.",
+    "b": "that side lobes can be suppressed by the Side Lobe Suppressor (SLS).",
+    "c": "to prevent that DME interrogation pulse pairs being received by the aircraft after reflection on the earth surface.",
+    "d": "that more DME frequencies are available for different beacons.  "
+  },
+  "correctOption": "c",
+  "attachments": []
+}

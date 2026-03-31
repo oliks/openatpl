@@ -1,0 +1,14 @@
+{
+  "number": 326,
+  "questionId": "062-0326",
+  "questionNumber": "062-0326",
+  "stemHtml": "After tuning and receiving a correct ident, you become established on an ILS and follow the approach. On short final, the Localiser (LOC) and Glide Path (GP) indications disappear, and both show warning flags instead. What is the most probable explanation for the warnings?",
+  "options": {
+    "a": "The modulation of the 90 Hz and 150 Hz signals is 0%.",
+    "b": "Loss of both the LOC and the GP identification transmissions.",
+    "c": "<p>The aircraft is flying through the cone of confusion of the ILS transmitters.</p>",
+    "d": "Signal strength increases to the point where it becomes distorted."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

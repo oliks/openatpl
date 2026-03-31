@@ -1,0 +1,14 @@
+{
+  "number": 1031,
+  "questionId": "061-1031",
+  "questionNumber": "061-1031",
+  "stemHtml": "<p>Calculate the true wind direction and speed given the following information:</p>\r\r<p>TAS: 165 kt <br /> \rTrack: 022\u00b0(T) <br /> \rWind Correction Angle: -15\u00b0 <br /> \rGroundspeed: 160 kt</p>",
+  "options": {
+    "a": "<p>098\u00b0; 42 kt</p>",
+    "b": "<p>113\u00b0; 43 kt</p>",
+    "c": "<p>291\u00b0; 43 kt</p>",
+    "d": "<p>307\u00b0; 44 kt</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

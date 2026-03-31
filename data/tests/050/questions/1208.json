@@ -1,0 +1,14 @@
+{
+  "number": 1208,
+  "questionId": "050-1208",
+  "questionNumber": "050-1208",
+  "stemHtml": "<p>METAR reads:</p><p>LMML 201046Z 23020KT 9999 VA FEW023 16/12 Q1014</p><p>What does this indicate?</p>",
+  "options": {
+    "a": "<p>Light winds with variable visibility</p>",
+    "b": "<p>Volcanic ash from the north of Malta</p>",
+    "c": "<p>Volcanic ash from the south of Malta</p>",
+    "d": "<p>Reduced visibility due to mist</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

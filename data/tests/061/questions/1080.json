@@ -1,0 +1,14 @@
+{
+  "number": 1080,
+  "questionId": "061-1080",
+  "questionNumber": "061-1080",
+  "stemHtml": "Which formula can be used to calculate the climb gradient?",
+  "options": {
+    "a": "Gradient in degrees = Gradient (%) \u00d7 Groundspeed (kts)",
+    "b": "Gradient in degrees = (Groundspeed (kts) \u00d7 Gradient (ft/NM)) \u00f7 60",
+    "c": "Gradient in degrees = (Altitude difference (ft) \u00d7 100) \u00f7 Ground difference (in ft)",
+    "d": "<div>Gradient in degrees = Arctg (Altitude difference (feet) / ground distance (feet)).</div><div><br></div>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

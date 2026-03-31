@@ -1,0 +1,14 @@
+{
+  "number": 1303,
+  "questionId": "062-1303",
+  "questionNumber": "062-1303",
+  "stemHtml": "Select the correct statement about the European Satellite Based Augmentation System, EGNOS:",
+  "options": {
+    "a": "EGNOS uses at least 1 geostationary satellite to transmit integrity and safety related messages to aircraft.",
+    "b": "EGNOS uses up to 2 geostationary satellites to transmit ranging signals in the L2 frequency.",
+    "c": "EGNOS uses at least 3 geostationary satellites to transmit receiver clock error and integrity data.",
+    "d": "EGNOS uses up to 4 geostationary satellites to transmit integrity data and ranging signals to aircraft."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 932,
+  "questionId": "061-0932",
+  "questionNumber": "061-0932",
+  "stemHtml": "<p>Refer to the extract below from an Operational Flight Plan (OFP). What is the average TAS over the given route segments?</p><figure class=\"table\"><table><tbody><tr><td style=\"text-align:center;\"><p style=\"text-align:center;\">Leg</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">TAS</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">t (min)</p></td></tr><tr><td style=\"text-align:center;\"><p style=\"text-align:center;\">1</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">216</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">22</p></td></tr><tr><td style=\"text-align:center;\"><p style=\"text-align:center;\">2</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">228</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">17</p></td></tr><tr><td style=\"text-align:center;\"><p style=\"text-align:center;\">3</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">221</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">13</p></td></tr><tr><td style=\"text-align:center;\"><p style=\"text-align:center;\">4</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">224</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">16</p></td></tr><tr><td style=\"text-align:center;\"><p style=\"text-align:center;\">5</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">224</p></td><td style=\"text-align:center;\"><p style=\"text-align:center;\">8</p></td></tr></tbody></table></figure><p> </p>",
+  "options": {
+    "a": "<p>224 kt</p>",
+    "b": "<p>223 kt</p>",
+    "c": "<p>221 kt</p>",
+    "d": "<p>222 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

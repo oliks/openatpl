@@ -1,0 +1,14 @@
+{
+  "number": 2505,
+  "questionId": "050-2505",
+  "questionNumber": "050-2505",
+  "stemHtml": "<p>Given:</p>\n\n<p><span style=\"letter-spacing:0.7px\">Pressure altitude: 4 000 ft</span>  <br />  \nIndicated altitude: 4 500 ft  <br />  \nTemperature : ISA+23\u00b0C</p>\n\n<p>What is the true altitude?</p>",
+  "options": {
+    "a": "4 368 ft",
+    "b": "4 914 ft",
+    "c": "4 086 ft",
+    "d": "3 632 ft"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

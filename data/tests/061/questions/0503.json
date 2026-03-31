@@ -1,0 +1,14 @@
+{
+  "number": 503,
+  "questionId": "061-0503",
+  "questionNumber": "061-0503",
+  "stemHtml": "<p>Using a mechanical computer, determine the TAS, given the following information:</p><p>OAT: -41\u00b0C at 3000 ft<br>QNH: 1041 <br>CAS: 145 kt</p><p>What is the TAS?</p>",
+  "options": {
+    "a": "<p>136 kt</p>",
+    "b": "<p>145 kt</p>",
+    "c": "<p>138 kt</p>",
+    "d": "<p>142 kt</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 378,
+  "questionId": "050-0378",
+  "questionNumber": "050-0378",
+  "stemHtml": "While using the airborne weather radar in order to circumnavigate thunderstorms, the radar scope is clear between heavy echoes. Which of the following interpretations of the scope is correct?",
+  "options": {
+    "a": "The clear area indicates an area from which no echoes are received because the number of cloud droplets is too small to generate a significant echo. Thus, the pilot will have a good visual sight of the thunderstorm clouds.",
+    "b": "The clear area indicates an area from which no echoes are received. However, this radar scope provides no assurance of being in VMC while flying in this area.",
+    "c": "The clear area indicates an area from which no echoes are received. An aircraft flying in this area will be in VMC due to the absence of precipitation drops.",
+    "d": "This is a typical radar scope from which the region of clear air turbulence between thunderstorm clouds can be detected."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

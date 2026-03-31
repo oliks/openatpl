@@ -1,0 +1,14 @@
+{
+  "number": 1521,
+  "questionId": "061-1521",
+  "questionNumber": "061-1521",
+  "stemHtml": "<p>Given the following information, calculate the aircraft's TAS:</p><p>GS: 485 kt <br /> Cruising level: FL340 <br /> Wind component: 35 kt tailwind <br /> OAT: ISA -15\u00baC</p>",
+  "options": {
+    "a": "450 kt",
+    "b": "278 kt",
+    "c": "324 kt",
+    "d": "520 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

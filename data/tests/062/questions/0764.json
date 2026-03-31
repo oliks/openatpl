@@ -1,0 +1,14 @@
+{
+  "number": 764,
+  "questionId": "062-0764",
+  "questionNumber": "062-0764",
+  "stemHtml": "What is a common characteristic of GPS, GLONASS and GALILEO?",
+  "options": {
+    "a": "For position fixing they are all based on the WGS 84 ellipsoid.",
+    "b": "They all reach their highest degree of accuracy in polar areas.",
+    "c": "They are all using the same frequencies to permit a single receiver to work all three systems.",
+    "d": "All three systems use time measurement to determine a position."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

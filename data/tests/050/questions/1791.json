@@ -1,0 +1,14 @@
+{
+  "number": 1791,
+  "questionId": "050-1791",
+  "questionNumber": "050-1791",
+  "stemHtml": "<p>At 17:00 in a mountain valley, the outside air temperature at the surface is +17\u00b0C. At 5000 m height, a radiosonde measures a temperature of -7\u00b0C. What is the stability of this air, and how will it change over the next few hours?</p>",
+  "options": {
+    "a": "<p>Stable, and likely to get more stable.</p>",
+    "b": "<p>Unstable, but likely to get become stable.</p>",
+    "c": "<p>Stable, but likely to get become unstable.</p>",
+    "d": "<p>Unstable, and likely to get more unstable.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

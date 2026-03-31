@@ -1,0 +1,14 @@
+{
+  "number": 769,
+  "questionId": "061-0769",
+  "questionNumber": "061-0769",
+  "stemHtml": "<p>The pilot of an aircraft changes its heading to the right, from 214\u00ba to 334\u00ba and makes a rate-1 turn. The duration of this manoeuvre is\u2026</p>",
+  "options": {
+    "a": "impossible to calculate, because we need the aircraft's TAS.",
+    "b": "40 seconds.",
+    "c": "30 seconds.",
+    "d": "impossible to calculate, because we need the aircraft's angle of bank."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

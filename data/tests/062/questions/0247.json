@@ -1,0 +1,14 @@
+{
+  "number": 247,
+  "questionId": "062-0247",
+  "questionNumber": "062-0247",
+  "stemHtml": "<p>Which of the following correctly describes the phenomenon of multipath in radio wave propagation?</p>",
+  "options": {
+    "a": "<p>Receiving the same signal from multiple directions at the same time due to reflections from surfaces.</p>",
+    "b": "<p>A situation where multiple transmitters send the same signal to a receiver.</p>",
+    "c": "<p>Interference caused by signals from different frequencies converging at the receiver.</p>",
+    "d": "<p>A signal being blocked by obstacles, resulting in a loss of reception.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

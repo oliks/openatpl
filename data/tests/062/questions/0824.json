@@ -1,0 +1,14 @@
+{
+  "number": 824,
+  "questionId": "062-0824",
+  "questionNumber": "062-0824",
+  "stemHtml": "According to the International Telecommunication Union (ITU) code, a radio signal may be classified by three symbols. The abbreviation A3E is used for the type of transmission in which the carrier wave is:",
+  "options": {
+    "a": "A continuous wave interrupted with a keyed Morse code ident as used by an NDB.",
+    "b": "Amplitude modulated to transmit the Morse code ident, as is used by a VOR.",
+    "c": "Amplitude modulated by a speech signal, such as is used for VHF-COM.",
+    "d": "Interrupted to transmit the Morse code identification, as used by an NDB."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

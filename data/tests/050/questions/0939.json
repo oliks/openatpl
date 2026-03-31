@@ -1,0 +1,19 @@
+{
+  "number": 939,
+  "questionId": "050-0939",
+  "questionNumber": "050-0939",
+  "stemHtml": "<p>Refer to figure. <br /> \rJudging from the provided image, what kind of weather conditions would you anticipate at an airport situated within the marked area?</p>",
+  "options": {
+    "a": "<p>Strong to very strong precipitation.</p>",
+    "b": "<p>Light precipitation.</p>",
+    "c": "<p>Fog and low cloud.</p>",
+    "d": "<p>Snow.</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0332",
+      "publicUrl": "/attachments/050/050-att-0332.jpg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 127,
+  "questionId": "061-0127",
+  "questionNumber": "061-0127",
+  "stemHtml": "Determine the True Heading (TH) and true airspeed (TAS), given: <br />  <br /> True Track: 119\u00b0 <br /> Groundspeed: 195 kt <br /> W/V: 181\u00b0(T)/41 kt",
+  "options": {
+    "a": "TH: 113\u00b0. <br /> TAS: 188 kt.",
+    "b": "TH: 107\u00b0. <br /> TAS: 179 kt.",
+    "c": "TH: 124\u00b0. <br /> TAS: 205 kt.",
+    "d": "\u200bTH: 129\u00b0. <br /> TAS: 217 kt."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

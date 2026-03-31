@@ -1,0 +1,14 @@
+{
+  "number": 1851,
+  "questionId": "050-1851",
+  "questionNumber": "050-1851",
+  "stemHtml": "<p>An aircraft is flying over an aerodrome with an indicated altitude of 1500 feet. The aerodrome elevation is 600 feet AMSL, and the outside air temperature is significantly higher than ISA. What can be said about the aircraft\u2019s true altitude?</p>",
+  "options": {
+    "a": "<p>True altitude is less than 1500 feet.</p>",
+    "b": "<p>True altitude is equal to 1500 feet.</p>",
+    "c": "<p>True altitude is more than 1500 feet.</p>",
+    "d": "<p>True altitude is 900 feet.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

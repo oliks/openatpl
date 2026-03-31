@@ -1,0 +1,19 @@
+{
+  "number": 1485,
+  "questionId": "061-1485",
+  "questionNumber": "061-1485",
+  "stemHtml": "<p>Refer to figure or E(LO)2 chart from the Jeppesen GSPRM 2017. <br>Given the following information, identify the two radials which correspond to the aircraft's position.</p><p>Aircraft's coordinates: N53\u00b047' W002\u00b042' <br>POLE HILL (POL) VOR/DME: N53\u00b045' W002\u00b006' <br>WALLASEY (WAL) VOR/DME: N53\u00b023' W003\u00b008'</p>",
+  "options": {
+    "a": "<p>POL VOR/DME: 332\u00b0; WAL VOR/DME: 035\u00b0</p>",
+    "b": "<p>POL VOR/DME: 285\u00b0; WAL VOR/DME: 045\u00b0</p>",
+    "c": "<p>POL VOR/DME: 282\u00b0; WAL VOR/DME: 035\u00b0</p>",
+    "d": "<p>POL VOR/DME: 265\u00b0; WAL VOR/DME: 043\u00b0</p>"
+  },
+  "correctOption": "c",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0180",
+      "publicUrl": "/attachments/061/061-att-0180.png"
+    }
+  ]
+}

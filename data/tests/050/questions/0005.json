@@ -1,0 +1,23 @@
+{
+  "number": 5,
+  "questionId": "050-0005",
+  "questionNumber": "050-0005",
+  "stemHtml": "Refer to figures. <br /> Using the wind and temperature charts, determine the ISA Deviation at FL150.",
+  "options": {
+    "a": "-9\u00baC",
+    "b": "+14\u00baC",
+    "c": "+9\u00baC",
+    "d": "-12\u00baC"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0389",
+      "publicUrl": "/attachments/050/050-att-0389.png"
+    },
+    {
+      "uniqueKey": "050-att-0006",
+      "publicUrl": "/attachments/050/050-att-0006.png"
+    }
+  ]
+}

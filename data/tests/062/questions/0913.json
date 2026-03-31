@@ -1,0 +1,14 @@
+{
+  "number": 913,
+  "questionId": "062-0913",
+  "questionNumber": "062-0913",
+  "stemHtml": "With respect to the monitoring system of a VOR which statement is correct?",
+  "options": {
+    "a": "failure of the VOR station to stay within the required limits will trigger a VOR caution annunciator in the cockpit.",
+    "b": "if the monitoring system detects a change in the measured radial the transmission power will be reduced and consequently only aircraft in the terminal area can use the VOR.",
+    "c": "the system monitors directly the phase of the reference signal and the phase of the variable signal.",
+    "d": "failure of the VOR station to stay within the required limits can cause the removal of identification and navigation components from the carrier or radiation to cease."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

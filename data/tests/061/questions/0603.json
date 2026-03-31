@@ -1,0 +1,14 @@
+{
+  "number": 603,
+  "questionId": "061-0603",
+  "questionNumber": "061-0603",
+  "stemHtml": "<p>An aircraft is flying directly from A 30\u00b0S, 060\u00b0W to B 25\u00b0S, 020\u00b0W. At a certain moment in time the true track of the aircraft is 091\u00b0. The aircraft is on track and the track angle error is 0\u00b0.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Which statement about this situation is correct?</span></p>",
+  "options": {
+    "a": "The aircraft is flying along the great circle from A to B and has not yet passed the vertex of this great circle.",
+    "b": "The aircraft is flying along the rhumb line from A to B and the true track angle of the rhumb line is 091\u00b0.",
+    "c": "The aircraft is flying along the great circle from A to B and has already passed the vertex of this great circle.",
+    "d": "The aircraft is flying along the great circle from A to B and will not pass the vertex of this great circle as it is not situated on the leg A to B."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

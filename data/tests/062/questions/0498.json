@@ -1,0 +1,14 @@
+{
+  "number": 498,
+  "questionId": "062-0498",
+  "questionNumber": "062-0498",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft is cleared to execute an RNP approach. The pilots cannot find anywhere to enter the channel number in the GNSS receiver in their aircraft. Which of the following statements is correct?</p>",
+  "options": {
+    "a": "<p>The GNSS receiver may still be used for EGNOS-based approaches since it is an independent navigation system but using the standard GPS frequency.</p>",
+    "b": "<p>This GNSS receiver does NOT support SBAS and therefore any EGNOS-based minima are unavailable and non-augmented GNSS minima must be chosen.</p>",
+    "c": "<p>The channel number is a code for the VHF frequency of the GBAS transmitter that forms part of the EGNOS and must be selected on the VOR receiver.</p>",
+    "d": "<p>This does NOT affect the ability to fly a GNSS approach augmented by SBAS, provided the FAS data block is manually programmed by the pilots.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

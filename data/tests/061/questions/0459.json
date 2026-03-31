@@ -1,0 +1,14 @@
+{
+  "number": 459,
+  "questionId": "061-0459",
+  "questionNumber": "061-0459",
+  "stemHtml": "You are flying on a magnetic heading (MH) of 185&deg; and your location is in the northern hemisphere. The relative bearing of an NDB is indicated on your relative bearing indicator as 065&deg;. What true bearing should be plotted from the beacon to the aircraft on a Lambert chart if the variation at the aircraft is 6&deg;E and the variation at the station is 4&deg;E and the chart convergence between the aircraft and the NDB is 8&deg;?",
+  "options": {
+    "a": "<p>062\u00b0</p>",
+    "b": "068&deg;",
+    "c": "076&deg;",
+    "d": "066&deg;"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 826,
+  "questionId": "050-0826",
+  "questionNumber": "050-0826",
+  "stemHtml": "<p>During a low level flight at 2000 ft over the sea, an aircraft approaches an intense area of high pressure. What is correct regarding the aircraft\u2019s altitude with a QNH of 1014 hPa set on the subscale?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">The indicated altitude from the aneroid altimeter will be decreasing.</p>",
+    "b": "<p dir=\"ltr\">The radio altimeter will show a decrease in altitude.</p>",
+    "c": "<p dir=\"ltr\">The aircraft\u2019s true altitude will be increasing.</p>",
+    "d": "The pressure altitude will be increasing."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

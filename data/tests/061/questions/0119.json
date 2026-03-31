@@ -1,0 +1,14 @@
+{
+  "number": 119,
+  "questionId": "061-0119",
+  "questionNumber": "061-0119",
+  "stemHtml": "<p>An aircraft is flying from A to B a distance of 45 NM. The True Course in the flight log is 270\u00b0, the forecast wind is 045\u00b0T/15 kt and the TAS is 120 kt. After 15 minutes of flying with the planned TAS and TH the aircraft is 3 NM south of the intended track and 2.5 NM ahead of the dead reckoning position.</p>\r\n\r\n<p>To reach destination B from this position, the correction angle on the heading should be..</p>",
+  "options": {
+    "a": "<p>21\u00b0.</p>",
+    "b": "<p>17\u00b0.</p>",
+    "c": "<p>15\u00b0.</p>",
+    "d": "<p>6\u00b0.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

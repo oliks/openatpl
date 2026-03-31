@@ -1,0 +1,14 @@
+{
+  "number": 663,
+  "questionId": "062-0663",
+  "questionNumber": "062-0663",
+  "stemHtml": "<p>What is the Global Navigation Satellite Systems (GNSS) error triggered by the ionosphere?</p>",
+  "options": {
+    "a": "<p>Receiver clock error.</p>",
+    "b": "<p>Signal multipath.</p>",
+    "c": "<p>Dilution of Precision (DoP).</p>",
+    "d": "<p>Variations in signal path length.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

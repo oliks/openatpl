@@ -1,0 +1,14 @@
+{
+  "number": 298,
+  "questionId": "061-0298",
+  "questionNumber": "061-0298",
+  "stemHtml": "Determine the True Track (TT) and Groundspeed (GS), given: <br />  <br /> True HDG: 024\u00b0 <br /> TAS: 198 kt <br /> W/V: 088\u00b0(T)/14 kt",
+  "options": {
+    "a": "TT: 019\u00b0. <br /> GS: 202 kt.",
+    "b": "TT: 020\u00b0. <br /> GS: 192 kt.",
+    "c": "TT: 028\u00b0. <br /> GS: 205 kt.",
+    "d": "TT: 029\u00b0. <br /> GS: 186 kt."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2050,
+  "questionId": "050-2050",
+  "questionNumber": "050-2050",
+  "stemHtml": "What information is given on a significant weather chart?",
+  "options": {
+    "a": "The significant weather forecast for the time given on the chart",
+    "b": "The significant weather forecast for a period 6 hours after the time given on the chart",
+    "c": "The significant weather in a period from 3 hours before until 3 hours after the time given on the chart",
+    "d": "The significant weather that is observed at the time given on the chart"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

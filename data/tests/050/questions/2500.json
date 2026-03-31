@@ -1,0 +1,14 @@
+{
+  "number": 2500,
+  "questionId": "050-2500",
+  "questionNumber": "050-2500",
+  "stemHtml": "Decode the following message: <br />  <br /> CNL AD WRNG 3 101100/101130",
+  "options": {
+    "a": "Cancelled all aerodrome warnings.",
+    "b": "Cancelled 3 aerodrome warnings between 1100 and 1130.",
+    "c": "Cancelled 3rd aerodrome warning of the day.",
+    "d": "Cancelled aerodrome warning no 3."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

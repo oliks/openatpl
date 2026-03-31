@@ -1,0 +1,19 @@
+{
+  "number": 2057,
+  "questionId": "050-2057",
+  "questionNumber": "050-2057",
+  "stemHtml": "<p>Refer to figure. <br /> \rAn aircraft plans to fly the route from A (20\u00b0N 105\u00b0E) to B (08\u00b0S 110\u00b0E), as shown on the significant weather chart above. The aircraft will fly the first half of the route at FL350, but will fly the second half at FL300 due to airspace restrictions. Where along the routing will there be a high likelihood of hazardous ice crystals?</p>",
+  "options": {
+    "a": "<p>There are no areas of hazardous ice crystals on that routing.</p>",
+    "b": "<p>For the first 600 NM of the flight, once reaching cruising altitude.</p>",
+    "c": "<p>For the last 200 NM of cruising before the top of descent to the destination.</p>",
+    "d": "<p>The first 1000 NM of the route should be clear, but hazardous ice crystals may be encountered after that point.</p>"
+  },
+  "correctOption": "d",
+  "attachments": [
+    {
+      "uniqueKey": "050-att-0179",
+      "publicUrl": "/attachments/050/050-att-0179.png"
+    }
+  ]
+}

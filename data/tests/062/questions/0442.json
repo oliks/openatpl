@@ -1,0 +1,14 @@
+{
+  "number": 442,
+  "questionId": "062-0442",
+  "questionNumber": "062-0442",
+  "stemHtml": "<p>How does the Instrument Landing System (ILS) guide an aircraft during approach and landing?</p>",
+  "options": {
+    "a": "<p>The aircraft's ILS receiver senses the glide slope and localiser signals transmitted from the ground</p>",
+    "b": "<p>The glide slope transmitter senses the aircraft's position and adjusts the signal accordingly</p>",
+    "c": "<p>The ILS ground station tracks the aircraft and sends directional commands to the autopilot</p>",
+    "d": "<p>The aircraft's onboard radar system calculates the glide slope and localiser paths independently</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 38,
+  "questionId": "062-0038",
+  "questionNumber": "062-0038",
+  "stemHtml": "You are flying in IMC at night above the 73\u00b0North latitude. Because of the high latitude and the GNSS satellite positions, you elect to fly an RNP APCH to LNAV/VNAV minima based on barometric VNAV with GNSS horizontal guidance. The minimum published temperature for the approach is -8\u00b0C, and your aircraft does not have automatic temperature-compensation fitted. The temperature given by the most recent ATIS is -6\u00b0C. During final approach, ATC tells you to make an immediate go around because terrain separation is no longer guaranteed. What is the most likely reason for losing minimum terrain separation?",
+  "options": {
+    "a": "The wrong QNH was given, leading to reduced terrain separation due to indicated altitude being higher than true altitude.",
+    "b": "The temperature has increased above the limiting value.",
+    "c": "The wrong VNAV barometric data for the given conditions is being used.",
+    "d": "Incorrect FMS setup."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

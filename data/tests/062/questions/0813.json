@@ -1,0 +1,14 @@
+{
+  "number": 813,
+  "questionId": "062-0813",
+  "questionNumber": "062-0813",
+  "stemHtml": "Which pair of factors, when brought together, can establish the estimate of the GNSS position accuracy?",
+  "options": {
+    "a": "The Time Dilution of Precision (TDOP) and the Geometric Dilution of Precision (GDOP).",
+    "b": "<p>The User Equivalent Range Error (UERE) and Position Dilution of Precision (PDOP).</p>",
+    "c": "The Horizontal Dilution of Precision (HDOP) and Vertical Dilution of Precision (VDOP).",
+    "d": "The User Equivalent Range Error (UERE) and the Geometric Dilution of Precision (GDOP)."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

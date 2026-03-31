@@ -1,0 +1,14 @@
+{
+  "number": 443,
+  "questionId": "050-0443",
+  "questionNumber": "050-0443",
+  "stemHtml": "Regarding the following message extract, which of the following statements is correct? MOD WS APCH RWY18 FCST=",
+  "options": {
+    "a": "Wind shear of unspecified intensity associated with a forecast weather system is approaching the aerodrome which may affect aircraft making approaches to the runway in use: 18.",
+    "b": "This is a wind shear warning forecasting moderate wind shear in the runway 18 approach.",
+    "c": "Moderate wind shear is affecting the approach to runway 18 caused by one or more of a combination of: a front, cumulonimbus cloud, the surrounding terrain, or a temperature inversion.",
+    "d": "This is an aerodrome warning forecasting moderate wind shear in the runway 18 approach."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 53,
+  "questionId": "062-0053",
+  "questionNumber": "062-0053",
+  "stemHtml": "In the Global Navigation Satellite System (GNSS), what is the User Equivalent Range Error (UERE)? It is a computed value for:",
+  "options": {
+    "a": "The correction for the receiver errors as transmitted in the navigation message.",
+    "b": "The correction for the receiver clock error as transmitted by a differential station.",
+    "c": "Inaccuracies from the geometry of the satellites above the user's horizon.",
+    "d": "<p>Residual errors in the receivers which have NOT been corrected.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

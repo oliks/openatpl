@@ -1,0 +1,14 @@
+{
+  "number": 134,
+  "questionId": "062-0134",
+  "questionNumber": "062-0134",
+  "stemHtml": "Which one of the following errors can be compensated for by a NAVSTAR/GPS receiver comparing L1 and L2 frequencies?",
+  "options": {
+    "a": "Receiver noise",
+    "b": "Tropospheric",
+    "c": "Ionospheric delay",
+    "d": "Multipath"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

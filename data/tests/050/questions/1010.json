@@ -1,0 +1,14 @@
+{
+  "number": 1010,
+  "questionId": "050-1010",
+  "questionNumber": "050-1010",
+  "stemHtml": "Which statement about the content of continuous VOLMET messages(VHF) and scheduled VOLMET messages(HF) is correct?",
+  "options": {
+    "a": "Both types of VOLMET messages contain trend forecasts, where available.",
+    "b": "A continuous VOLMET contains information from the TAF.",
+    "c": "Forecast information e.g. a trend or TAF, is prohibited in VOLMETs.",
+    "d": "TAFs are included in both VOLMET messages."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

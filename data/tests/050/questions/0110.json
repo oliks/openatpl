@@ -1,0 +1,14 @@
+{
+  "number": 110,
+  "questionId": "050-0110",
+  "questionNumber": "050-0110",
+  "stemHtml": "A METAR reads: SA1430 35002KT 7000 SKC 21/03 Q1024 = Which of the following information is contained in this METAR?",
+  "options": {
+    "a": "Period of validity",
+    "b": "Temperature/dew point",
+    "c": "Day/month",
+    "d": "Runway in use"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

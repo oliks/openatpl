@@ -1,0 +1,19 @@
+{
+  "number": 943,
+  "questionId": "061-0943",
+  "questionNumber": "061-0943",
+  "stemHtml": "<p>Refer to figure or E(LO)2 Chart from Jeppesen GSPRM 2107. <br /> \rGiven the following information, what is the aircraft\u2019s position at the cross-bearing?</p>\r\r<p>ISLE OF MAN (IOM) VOR (N54\u00b006, W004\u00b048'): Radial 087\u00b0 <br /> \rWALLASEY (WAL) VOR (N53\u00b018'N, W003\u00b009'): Radial 349\u00b0</p>",
+  "options": {
+    "a": "<p>N54\u00b007', W003\u00b033'</p>",
+    "b": "<p>N54\u00b008', W003\u00b026'</p>",
+    "c": "<p>N54\u00b005', W003\u00b022'</p>",
+    "d": "<p>N54\u00b008', W004\u00b026'</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0131",
+      "publicUrl": "/attachments/061/061-att-0131.png"
+    }
+  ]
+}

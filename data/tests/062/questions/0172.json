@@ -1,0 +1,14 @@
+{
+  "number": 172,
+  "questionId": "062-0172",
+  "questionNumber": "062-0172",
+  "stemHtml": "<p>Determine the distance which will be shown on a DME display when the aircraft is at FL 360 and 6 NM plan range from the DME station:</p>\r\r<p>For the calculation use the following assumptions/approximations: <br /> \rQNH is 1013 hPa <br /> \rPressure altitude is true altitude.</p>",
+  "options": {
+    "a": "<p>6 NM</p>",
+    "b": "<p>10 NM</p>",
+    "c": "<p>8 NM</p>",
+    "d": "<p>12 NM</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

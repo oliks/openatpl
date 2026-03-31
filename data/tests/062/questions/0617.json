@@ -1,0 +1,14 @@
+{
+  "number": 617,
+  "questionId": "062-0617",
+  "questionNumber": "062-0617",
+  "stemHtml": "When in the WX+T mode, what is the airborne weather radar able to detect?",
+  "options": {
+    "a": "Clear air turbulence at cruising altitude by using Doppler techniques with an increased PRF (Pulse Repetition Frequency).",
+    "b": "Turbulent clouds by looking for ice crystals in the upper part of a thunderstorm at a reduced wavelength.",
+    "c": "Thunderstorms with strong updraft and downdraft by measuring static emitted from lightning.",
+    "d": "Turbulence by looking for a frequency shift in combination with pulse flattening."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

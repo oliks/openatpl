@@ -1,0 +1,14 @@
+{
+  "number": 195,
+  "questionId": "061-0195",
+  "questionNumber": "061-0195",
+  "stemHtml": "<p>Given the following information and with the use of a flight computer, what is the TAS for an aircraft flying at FL100?</p><p>OAT: ISA -20\u00b0C <br>CAS: 200 kt</p>",
+  "options": {
+    "a": "<p>180 kt</p>",
+    "b": "<p>233 kt</p>",
+    "c": "<p>240 kt</p>",
+    "d": "<p>223 kt</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

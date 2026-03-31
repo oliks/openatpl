@@ -1,0 +1,14 @@
+{
+  "number": 24,
+  "questionId": "062-0024",
+  "questionNumber": "062-0024",
+  "stemHtml": "<p>Which information should be provided by a single VDF on request from an aircraft that is within the range of the direction finding system?</p>",
+  "options": {
+    "a": "<p>True bearing from the station (including wind correction), magnetic bearing from the station (including wind correction), true bearing to the station (including wind correction), magnetic bearing to the station (including wind correction)</p>",
+    "b": "<p>Magnetic bearing to the station, magnetic bearing from the station, aircraft position</p>",
+    "c": "<p>Magnetic bearing to the station (no wind), magnetic bearing from the station (no wind), aircraft position</p>",
+    "d": "<p>True bearing from the station (no wind), Magnetic bearing from the station (no wind), true bearing to the station (no wind), magnetic bearing to the station (no wind)</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

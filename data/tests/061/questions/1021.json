@@ -1,0 +1,14 @@
+{
+  "number": 1021,
+  "questionId": "061-1021",
+  "questionNumber": "061-1021",
+  "stemHtml": "<p>Using the data below, determine the magnetic heading and groundspeed.</p><p>Track: 175\u00b0(T)\u00a0<br>TAS: 240 kt\u00a0<br>Wind: 240\u00b0 / 40 kt\u00a0<br>Variation: 8\u00b0E</p>",
+  "options": {
+    "a": "<p>167\u00b0(M) 221 kt</p>",
+    "b": "<p>175\u00b0(M) 221 kt</p>",
+    "c": "<p>171\u00b0(M) 233 kt</p>",
+    "d": "<p>179\u00b0(M) 239 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

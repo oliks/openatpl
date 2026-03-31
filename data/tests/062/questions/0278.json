@@ -1,0 +1,14 @@
+{
+  "number": 278,
+  "questionId": "062-0278",
+  "questionNumber": "062-0278",
+  "stemHtml": "<p>NAVSTAR-GPS and GLONASS are interoperable. What does this mean about the two systems?</p>",
+  "options": {
+    "a": "<p>Both can be used simultaneously to give more accurate location.</p>",
+    "b": "<p>When combined, they can provide a 3 dimensional position, which is otherwise only 2 dimensional.</p>",
+    "c": "<p>GPS NAVSTAR and GLONASS are complimentary. One covers North America and the other covers Europe.</p>",
+    "d": "<p>They allow the usage of each other's satellites.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

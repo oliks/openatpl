@@ -1,0 +1,14 @@
+{
+  "number": 1519,
+  "questionId": "050-1519",
+  "questionNumber": "050-1519",
+  "stemHtml": "<p>An aircraft is set to depart in the Northern Hemisphere from an airfield situated on flat terrain, far from any coastline or mountainous areas, at 11:00 local time. Flight planning is based on an ATIS report indicating wind from 060\u00b0 at 8 knots, with the planned departure from Runway 08. However, due to airspace congestion, departure is delayed by 2 hours. How will the headwind component and wind speed be affected by this delay?</p>",
+  "options": {
+    "a": "<p>Veers/increases</p>",
+    "b": "<p>Backs/increases</p>",
+    "c": "<p>Veers/decreases</p>",
+    "d": "<p>Backs/decreases</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

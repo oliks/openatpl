@@ -1,0 +1,19 @@
+{
+  "number": 1475,
+  "questionId": "061-1475",
+  "questionNumber": "061-1475",
+  "stemHtml": "<p>Refer to figure. <br /> \rAccording to ICAO Annex 4, what does symbol 5 represent?</p>",
+  "options": {
+    "a": "<p>Compulsory RP</p>",
+    "b": "<p>VOR check-point</p>",
+    "c": "<p>Fly-by waypoint</p>",
+    "d": "<p>Aerodrome Reference Point (ARP)</p>"
+  },
+  "correctOption": "b",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0064",
+      "publicUrl": "/attachments/061/061-att-0064.png"
+    }
+  ]
+}

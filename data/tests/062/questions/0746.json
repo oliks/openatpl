@@ -1,0 +1,14 @@
+{
+  "number": 746,
+  "questionId": "062-0746",
+  "questionNumber": "062-0746",
+  "stemHtml": "How is the Final Approach Segment (FAS) of a GBAS Precision Approach Procedure defined?",
+  "options": {
+    "a": "The GNSS space segment transmits the approach-path guidance parameters to the GBAS-equipped aircraft.",
+    "b": "The GBAS ground facility transmits an error correction message to the ground-based azimuth and glidepath-guidance transmitters.",
+    "c": "The GBAS reference receivers transmit-error correction messages to the ground-based azimuth and elevation-guidance transmitters.",
+    "d": "The GBAS ground facility transmits the approach-path guidance parameters to the GBAS-equipped aircraft."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

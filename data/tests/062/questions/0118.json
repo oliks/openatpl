@@ -1,0 +1,14 @@
+{
+  "number": 118,
+  "questionId": "062-0118",
+  "questionNumber": "062-0118",
+  "stemHtml": "<p>An aircraft is flying with the SSR in Mode S. ATC sends a 24-bit interrogation. Which aircraft should respond?</p>",
+  "options": {
+    "a": "<p>All aircraft with a transponder.</p>",
+    "b": "<p>Only the aircraft in Mode S.</p>",
+    "c": "<p>Only the aircraft in Mode S ELS.</p>",
+    "d": "<p>Only the aircraft in Mode S EHS.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

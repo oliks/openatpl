@@ -1,0 +1,14 @@
+{
+  "number": 1014,
+  "questionId": "062-1014",
+  "questionNumber": "062-1014",
+  "stemHtml": "<p>Refer to figure. <br /> \rIf you were to select 109.0 as a VHF Nav frequency, and if the TACAN was serviceable, and correctly tuned and identified, what information would you receive in your aircraft?</p>",
+  "options": {
+    "a": "<p>Magnetic bearing and slant range from the transmitter.</p>",
+    "b": "<p>Slant range from the transmitter.</p>",
+    "c": "<p>Nothing as TACAN is military equipment.</p>",
+    "d": "<p>Magnetic bearing and plan range from the transmitter.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

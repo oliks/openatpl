@@ -1,0 +1,14 @@
+{
+  "number": 993,
+  "questionId": "061-0993",
+  "questionNumber": "061-0993",
+  "stemHtml": "<p>Given the following information, determine the actual magnetic track of the aircraft:</p>\r\r<p>Planned track: 283\u00b0(T) <br /> \rHeading: 289\u00b0(T) <br /> \rActual in-flight drift: 7\u00b0 right <br /> \rVariation: 12\u00b0W</p>",
+  "options": {
+    "a": "<p>270\u00b0</p>",
+    "b": "<p>284\u00b0</p>",
+    "c": "<p>278\u00b0</p>",
+    "d": "<p>308\u00b0</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

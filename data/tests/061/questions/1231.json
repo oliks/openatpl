@@ -1,0 +1,14 @@
+{
+  "number": 1231,
+  "questionId": "061-1231",
+  "questionNumber": "061-1231",
+  "stemHtml": "<p>On the 15<sup>th</sup> October, a pilot is departing from Auckland, New Zealand (37\u00b000\u2019S 174\u00b047\u2019E position west of the international Date Line) to Honolulu in Hawaii, US (21\u00b019\u2019N 157\u00b055\u2019W position east of the international Date line) where LT = UTC - 10 hours. When departing the aircrafts master clock displays 08:15 UTC. After landing, the pilot records a flight time of 8 hours and 37 minutes. Which of the below statements is correct?</p>",
+  "options": {
+    "a": "Upon arrival the master clock of the aircraft displays 16:52 UTC and the local dates in the 16<sup>th</sup> October.",
+    "b": "The aircraft arrives in Honolulu at 16:52 LT on the 15<sup>th</sup> October.",
+    "c": "The aircraft arrives in Honolulu at 06:52 LT on the 15<sup>th</sup> October.",
+    "d": "When the aircraft arrives in Honolulu, the local date in Auckland is still the 15<sup>th</sup> October."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

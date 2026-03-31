@@ -1,0 +1,14 @@
+{
+  "number": 1086,
+  "questionId": "061-1086",
+  "questionNumber": "061-1086",
+  "stemHtml": "<p>An aircraft departs from Waypoint 1 at 10:00 UTC for Waypoint 2 which is 75 NM away. At a fixpoint 30 NM along the route the pilot realizes that the aircraft is 1 minute late. If the planned groundspeed is 90 kt, what is the new groundspeed that should be followed from the fixpoint until Waypoint 2, in order to arrive at Waypoint 2 at the planned arrival time?</p>",
+  "options": {
+    "a": "<p>91 kt</p>",
+    "b": "<p>93 kt</p>",
+    "c": "<p>96 kt</p>",
+    "d": "<p>100 kt</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

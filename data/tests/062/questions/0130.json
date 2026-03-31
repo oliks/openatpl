@@ -1,0 +1,14 @@
+{
+  "number": 130,
+  "questionId": "062-0130",
+  "questionNumber": "062-0130",
+  "stemHtml": "As an aeroplane is approaching the runway while taxiing for departure, the flight crew observes two sets of yellow lines drawn across the taxiway. One line further away from the runway has a sign stating \"S2 CAT II/III,\" and the line closer to the runway has a sign stating \"SI\". Why is there a separate holding position for category II and Ill operations when compared to all other operations, including CAT l?",
+  "options": {
+    "a": "Because of the lower visibility observed during CAT II and III operations, the landing pilot(s) may mistake the lights from the waiting aircraft as runway lighting, causing a distraction during the landing.",
+    "b": "The landing minima for CAT II and Ill operations are lower and therefore require greater precision, and an aircraft waiting too close to the landing runway may affect the quality of the ILS signals.",
+    "c": "Since aeroplanes perform an autoland during CAT I operations, the autopilot is able to fly the aeroplane more accurately and therefore the CAT I position may be closer to the runway.",
+    "d": "Aircraft must be kept further away from the runway during CAT II and Ill operations as arriving aeroplanes may land automatically and therefore require more space."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

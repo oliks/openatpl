@@ -1,0 +1,14 @@
+{
+  "number": 661,
+  "questionId": "061-0661",
+  "questionNumber": "061-0661",
+  "stemHtml": "<p>An aircraft is flying at FL300 and the crew is preparing for the approach. Calculate the Mach number when passing FL210 in a descent with constant CAS, given the following information:</p>\r\r<p>CAS in the descent: 180 kt <br /> \rDescent: from FL300 to FL50 <br /> \rAverage wind component: 35 kt <br /> \rOutside Air Temperature at FL210: -31<strong>\u00b0</strong>C</p>",
+  "options": {
+    "a": "<p>0.38</p>",
+    "b": "<p>0.4</p>",
+    "c": "<p>0.62</p>",
+    "d": "<p>0.57</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

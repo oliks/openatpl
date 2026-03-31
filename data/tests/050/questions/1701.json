@@ -1,0 +1,14 @@
+{
+  "number": 1701,
+  "questionId": "050-1701",
+  "questionNumber": "050-1701",
+  "stemHtml": "<p>You\u2019re landing at London City Airport that has runway 27 in use, what visibility can be expected If haze is reported?</p>\n\n<p>METAR EGLC 231720 260/10kt 3000 HZ NSW</p>",
+  "options": {
+    "a": "<p>Less than 3000 m but not less than 1500 m.</p>",
+    "b": "<p>3000 m.</p>",
+    "c": "Less than 5000 m but more than 1500 m.",
+    "d": "<p>Less than 3000 m, but in the direction of landing, probably less than 1500 m.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

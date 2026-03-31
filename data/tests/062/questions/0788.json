@@ -1,0 +1,14 @@
+{
+  "number": 788,
+  "questionId": "062-0788",
+  "questionNumber": "062-0788",
+  "stemHtml": "<p>There are many types of error which may affect the transmitted signal from radio navaids (such as VOR, ILS). One such error type is multipath, which is when the signal is...</p>",
+  "options": {
+    "a": "<p>refracted by the ionosphere causing fading when the reflected signal mixes with the main signal. </p>",
+    "b": "<p>refracted by the ionosphere causing the signal to return on multiple paths to the ground from space.</p>",
+    "c": "<p>diffracted by nearby terrain causing a bending to the propagation path of the signal and splitting it into multiple paths. </p>",
+    "d": "<p>reflected by structures in the vicinity of the transmitter causing multiple signal paths. </p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1471,
+  "questionId": "050-1471",
+  "questionNumber": "050-1471",
+  "stemHtml": "<p>As taken from the METAR excerpt: 22005KT 0400 R24/0650 FG NSC 03/03 Q1022=</p><p>What phenomenon can be expected?</p>",
+  "options": {
+    "a": "<p>Radiation fog with vertical extent up to 3 000 ft.</p>",
+    "b": "<p>Radiation fog with vertical extent up to 300 ft.</p>",
+    "c": "<p>Overcast sky with low stratus in 1 000 ft and more.</p>",
+    "d": "Low stratus from 400 ft to 650 ft."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

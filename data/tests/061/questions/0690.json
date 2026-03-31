@@ -1,0 +1,14 @@
+{
+  "number": 690,
+  "questionId": "061-0690",
+  "questionNumber": "061-0690",
+  "stemHtml": "<p>The following information is for an aircraft in the cruise at 11:50 UTC.</p>\n\n<p><span style=\"letter-spacing:0.7px\">Cruise level: FL410</span> <br /> \nOAT: ISA +10\u00b0C <br /> \nMach No: 0.86 <br /> \nWind component: -25 kt</p>\n\n<p>What will be the Groundspeed?</p>",
+  "options": {
+    "a": "504 kt",
+    "b": "479 kt",
+    "c": "529 kt",
+    "d": "467 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

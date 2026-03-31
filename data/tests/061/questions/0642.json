@@ -1,0 +1,14 @@
+{
+  "number": 642,
+  "questionId": "061-0642",
+  "questionNumber": "061-0642",
+  "stemHtml": "<p>Given the parameters:</p><p>TAS : 250 kts  <br />  HDG: 080\u00b0 (T)  <br />  TRK : 090\u00b0 (T)  <br />  GS: 290 kts</p><p>What is the value of the crosswind on your heading and which way is it blowing you?</p>",
+  "options": {
+    "a": "<div>43 kts left</div>",
+    "b": "<div>43 kts right</div>",
+    "c": "<div>49 kts right</div>",
+    "d": "<div>49 kts left</div>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

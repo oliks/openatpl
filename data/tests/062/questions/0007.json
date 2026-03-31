@@ -1,0 +1,14 @@
+{
+  "number": 7,
+  "questionId": "062-0007",
+  "questionNumber": "062-0007",
+  "stemHtml": "With respect to the inherent satellite errors and User Equivalent Range Error (UERE) in GNSS, which of the following statements is true?",
+  "options": {
+    "a": "Satellite clock errors are more significant than ionospheric effects.",
+    "b": "Ionospheric effects are more significant than satellite clock errors.",
+    "c": "The user equivalent range error is the difference between errors due to ionospheric effects and satellite clock errors.",
+    "d": "Satellite clocks are so accurate that clock errors can practically be ignored."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

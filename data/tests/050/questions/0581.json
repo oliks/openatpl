@@ -1,0 +1,14 @@
+{
+  "number": 581,
+  "questionId": "050-0581",
+  "questionNumber": "050-0581",
+  "stemHtml": "An aircraft follows the flight plan, cruising at FL140 within clouds, which leads over a mountain range, followed by flat areas and then crosses an area of open sea. Over which area do you expect airframe icing to be most intense?",
+  "options": {
+    "a": "Over the sea, as air masses tends to be more humid there than elsewhere leading to more intense airframe icing.",
+    "b": "Over mountain range, as this causes upward air motion on the windward side, forcing large supercooled water droplets to rise above the freezing level.",
+    "c": "Over flat areas, where convection is usually most intense, leading to convective clouds containing a lot of water and a greater tendency for icing.",
+    "d": "The risk of encountering airframe icing is the same over all areas, due to the flight level being flown."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

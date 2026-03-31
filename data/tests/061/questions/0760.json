@@ -1,0 +1,14 @@
+{
+  "number": 760,
+  "questionId": "061-0760",
+  "questionNumber": "061-0760",
+  "stemHtml": "The departure airfield is at 2000 ft elevation.Temperature at the field is +20\u00b0C, QNH = 1013 hPa\r\n<div> </div>\r\n\r\n<div>The plan is to climb to FL 290, where outside air temperature is -40\u00b0C. The average TAS in the climb should be calculated using what FL and temperature?</div>",
+  "options": {
+    "a": "FL 155 with temperature -10\u00b0C",
+    "b": "FL 180 with temperature -20\u00b0C",
+    "c": "FL 200 with temperature -20\u00b0C",
+    "d": "FL 290 with temperature -40\u00b0C"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

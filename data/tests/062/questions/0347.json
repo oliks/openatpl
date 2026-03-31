@@ -1,0 +1,14 @@
+{
+  "number": 347,
+  "questionId": "062-0347",
+  "questionNumber": "062-0347",
+  "stemHtml": "<div>Which statement about dilution of precision is correct? The value of the dilution of precision depends upon the..</div>",
+  "options": {
+    "a": "<div>geometry and the number of satellites in view.</div>",
+    "b": "<div>accuracy with which the range between the satellite and receiver can be measured.</div>",
+    "c": "<div>availability of receiver autonomous integrity monitoring software.</div>",
+    "d": "availability of aircraft-based augmentation systems.<br>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

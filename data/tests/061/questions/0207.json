@@ -1,0 +1,14 @@
+{
+  "number": 207,
+  "questionId": "061-0207",
+  "questionNumber": "061-0207",
+  "stemHtml": "<p>A VFR flight is planned with a chart whose scale is 1:500 000. Which of the following ground features should be used for orientation?</p>\r\r<p>1. A high tower <br /> \r2. A large city <br /> \r3. A fruit farm <br /> \r4. A small road crossing a city <br /> \r5. A large forest patch</p>",
+  "options": {
+    "a": "<p>1, 2, 5</p>",
+    "b": "<p>1, 3, 4</p>",
+    "c": "<p>3, 4, 5</p>",
+    "d": "<p>2, 3, 5</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

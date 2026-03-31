@@ -1,0 +1,14 @@
+{
+  "number": 1080,
+  "questionId": "062-1080",
+  "questionNumber": "062-1080",
+  "stemHtml": "<p>What is the Required Navigation Performance (RNP) based on?</p>",
+  "options": {
+    "a": "<p>The accuracy of commercially available Inertial Navigation Systems.</p>",
+    "b": "<p>The horizontal position accuracy to be achieved within an airspace.</p>",
+    "c": "<p>The number of available flight levels within the airspace.</p>",
+    "d": "<p>The number of satellites available to perform RAIM.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

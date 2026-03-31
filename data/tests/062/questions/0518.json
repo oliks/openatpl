@@ -1,0 +1,14 @@
+{
+  "number": 518,
+  "questionId": "062-0518",
+  "questionNumber": "062-0518",
+  "stemHtml": "The FMS can be used to check the Estimated Position Error (EPE) of the FMS position. What does this value mean to the pilot?",
+  "options": {
+    "a": "The EPE is the total position error of the aircraft including the Flight Technical Error.",
+    "b": "The pilot is able to check that the aircraft follows the track as defined in the database.",
+    "c": "The EPE value must be equal to or less than the required navigation specification.",
+    "d": "The pilot uses this value to assess the Flight Technical Error of the aircraft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

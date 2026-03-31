@@ -1,0 +1,14 @@
+{
+  "number": 938,
+  "questionId": "061-0938",
+  "questionNumber": "061-0938",
+  "stemHtml": "<p>Given the following information, calculate the wind velocity:</p>\n\n<p><span style=\"letter-spacing:0.7px\">HDG: 233\u00b0T</span> <br /> \nTAS: 480 kt <br /> \nTrack: 240\u00b0T <br /> \nGS: 523 kt</p>\n\n<div> </div>",
+  "options": {
+    "a": "105\u00b0T /75 kt",
+    "b": "110\u00b0T /75 kt",
+    "c": "110\u00b0T /80 kt",
+    "d": "115\u00b0T /70 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 23,
+  "questionId": "061-0023",
+  "questionNumber": "061-0023",
+  "stemHtml": "<p>Given the following information, calculate the fuel consumption per NM.</p><p>Fuel flow: 177 kg / 22 min <br>GS: 154 kt</p>",
+  "options": {
+    "a": "<p>2.95 kg</p>",
+    "b": "<p>3.13 kg</p>",
+    "c": "<p>8.05 kg</p>",
+    "d": "<p>1.15 kg</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

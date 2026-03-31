@@ -1,0 +1,14 @@
+{
+  "number": 1427,
+  "questionId": "061-1427",
+  "questionNumber": "061-1427",
+  "stemHtml": "<p>An aircraft climbs from the ground level to FL180 with a constant TAS of 220 kt. The TT in climb is 080\u00b0. The W/V at various flight levels in the area are given below:</p>\n\n<table border=\"1\" cellpadding=\"3\" cellspacing=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p><strong>FL</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p><strong>W/V</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>ground level</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>260\u00b0/25 kt</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>30</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>270\u00b0/30 kt</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>60</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>270\u00b0/35 kt</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>90</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>270\u00b0/40 kt</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>120</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>280\u00b0/50 kt</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>150</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>285\u00b0/55 kt</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>180</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align:center\">\n\t\t\t<p>290\u00b0/55 kt</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n \n\n<p>Calculate the average GS in climb:</p>",
+  "options": {
+    "a": "259 kt",
+    "b": "273 kt",
+    "c": "266 kt",
+    "d": "254 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

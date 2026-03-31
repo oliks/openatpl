@@ -1,0 +1,14 @@
+{
+  "number": 300,
+  "questionId": "061-0300",
+  "questionNumber": "061-0300",
+  "stemHtml": "<p>Calculate the Track Error Angle (TKE) given the following data.</p><p>Planned track: 197\u00b0(T)\u00a0<br />Planned heading: 213\u00b0(T)\u00a0<br />Actual in-flight drift: 12\u00b0 right</p>",
+  "options": {
+    "a": "<p>4\u00b0 left</p>",
+    "b": "<p>4\u00b0 right</p>",
+    "c": "<p>28\u00b0 right</p>",
+    "d": "<p>28\u00b0 left</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

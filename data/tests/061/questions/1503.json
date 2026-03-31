@@ -1,0 +1,19 @@
+{
+  "number": 1503,
+  "questionId": "061-1503",
+  "questionNumber": "061-1503",
+  "stemHtml": "<p>Refer to figure or Jeppesen GSPRM Training Route Manual - Chart \"E LO 2\". <br /> Find the aircraft location using the following data.</p><p>MANCHESTER (MCT) VOR/DME (53\u00b021'N 002\u00b016'W): Radial 040\u00b0 <br /> TRENT (TNT) VOR/DME (N53\u00b003' W001\u00b040'): Radial 016\u00b0</p>",
+  "options": {
+    "a": "<p>54\u00b010'N 001\u00b015'W</p>",
+    "b": "<p>53\u00b050'N 001\u00b010'W</p>",
+    "c": "<p>54\u00b020'N 000\u00b045'W</p>",
+    "d": "<p>54\u00b000'N 001\u00b030'W</p>"
+  },
+  "correctOption": "a",
+  "attachments": [
+    {
+      "uniqueKey": "061-att-0148",
+      "publicUrl": "/attachments/061/061-att-0148.jpg"
+    }
+  ]
+}

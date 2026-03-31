@@ -1,0 +1,14 @@
+{
+  "number": 1384,
+  "questionId": "050-1384",
+  "questionNumber": "050-1384",
+  "stemHtml": "Which interpretation of the following message is correct? LFLD AD WRNG 1 VALID 050430/050900 FROST FCST=",
+  "options": {
+    "a": "It is forecast for the period between 04:30 and 09:00 on the 5th of that month that especially an aircraft in the final approach phase will be covered by hoar frost.",
+    "b": "The aerodrome warning for runway 05 due to frost issued at 04:30 UTC has been cancelled at 09:00 UTC.",
+    "c": "It is forecast for the period between 04:30 and 09:00 on the 5th of that month that a departing or arriving aircraft will pass through a layer of ground fog in which the aircraft will be contaminated by hoar frost.",
+    "d": "It is forecast that some parts of the surface, vehicles, and aircraft parked outside will be contaminated by hoar frost between 04:30 and 09:00 on the 5th of that month."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 361,
+  "questionId": "062-0361",
+  "questionNumber": "062-0361",
+  "stemHtml": "<p>An aircraft is flying at an altitude of 8500 ft, and the distance received from a DME station situated at 596 ft elevation is 1.3 NM. What is the GPS distance readout between the aircraft and the station?<br>(the DME range readout accuracy is 0.1 nm)</p>",
+  "options": {
+    "a": "<p>0 nm</p>",
+    "b": "<p>1.5 nm</p>",
+    "c": "<p>1.3 nm</p>",
+    "d": "<p>1.8 nm</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

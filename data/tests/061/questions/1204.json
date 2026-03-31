@@ -1,0 +1,14 @@
+{
+  "number": 1204,
+  "questionId": "061-1204",
+  "questionNumber": "061-1204",
+  "stemHtml": "<p>Using a mechanical computer, determine the TAS of the aircraft. Given the following information:</p><p>Indicated Altitude: 3 000 ft  <br /> QNH: 1 046 hPa  <br /> OAT: +10 \u00b0C  <br /> CAS: 154 kt</p>",
+  "options": {
+    "a": "150 kt",
+    "b": "156 kt",
+    "c": "158 kt",
+    "d": "162 kt"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1250,
+  "questionId": "040-1250",
+  "questionNumber": "040-1250",
+  "stemHtml": "<p>What is one of the advantages of Standard Operating Procedures (SOPs) in flight operations?</p>",
+  "options": {
+    "a": "SOPs for emergency situations must be followed by the crew, as they help to ensure a safe outcome, though flight crew can modify SOPs for normal situations, if so agreed during the pre-flight briefing.",
+    "b": "A well-trained pilot will follow SOPs without the need to employ cognitive resources in the decision-making process, thereby maintaining the workload at an optimum level.",
+    "c": "SOPs are an effective aid to decision-making for the flight crew, reducing their workload and reducing the probability of taking poor decisions and making errors.",
+    "d": "<p>SOPs are presented in written form as checklists and manuals, so pilots do NOT need to store in long-term memory the correct procedure for a given situation.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

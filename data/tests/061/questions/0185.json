@@ -1,0 +1,14 @@
+{
+  "number": 185,
+  "questionId": "061-0185",
+  "questionNumber": "061-0185",
+  "stemHtml": "<p>You are flying a VFR flight by dead reckoning. Flying from point B to point C, you make a position fix. The aircraft is 4 NM off track after 40 NM of flight. Using the 1:60 rule, determine the heading to fly parallel to the intended track, using the given information.</p>\r\r<p>Planned DR heading from B to C: 313\u00b0(T) <br /> \rCross track error: 4 NM left <br /> \rAlong track distance from B: 40 NM</p>",
+  "options": {
+    "a": "<p>313\u00b0(T)</p>",
+    "b": "<p>319\u00b0(T)</p>",
+    "c": "<p>304\u00b0(T)</p>",
+    "d": "<p>325\u00b0(T)</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

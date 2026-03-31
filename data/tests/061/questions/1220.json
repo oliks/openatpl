@@ -1,0 +1,14 @@
+{
+  "number": 1220,
+  "questionId": "061-1220",
+  "questionNumber": "061-1220",
+  "stemHtml": "<p>Given the following information, calculate the heading (\u00b0T) and groundspeed:</p>\n\n<p><span style=\"letter-spacing:0.7px\">TAS: 155 kt</span>  <br />  \nTrack: 305\u00b0T  <br />  \nWind velocity: 160\u00b0T /18 kt</p>\n\n<div> </div>",
+  "options": {
+    "a": "Heading: 305\u00b0T, groundspeed: 169 kt",
+    "b": "Heading: 301\u00b0T, groundspeed: 169 kt",
+    "c": "Heading: 309\u00b0T, groundspeed: 170 kt",
+    "d": "Heading: 309\u00b0T, groundspeed: 141 kt"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

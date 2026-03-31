@@ -1,0 +1,14 @@
+{
+  "number": 343,
+  "questionId": "062-0343",
+  "questionNumber": "062-0343",
+  "stemHtml": "<p>Select the correct combination to complete the sentence. Procedures must be in place for the crew/autopilot to monitor and correct (1) _____ and onboard alerting is a requirement for (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) FTE; (2) FTE</p>",
+    "b": "<p>(1) NSE; (2) FTE</p>",
+    "c": "<p>(1) FTE; (2) NSE</p>",
+    "d": "<p>(1) NSE; (2) NSE</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

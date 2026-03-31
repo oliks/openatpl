@@ -1,0 +1,14 @@
+{
+  "number": 782,
+  "questionId": "061-0782",
+  "questionNumber": "061-0782",
+  "stemHtml": "<p>Given the following information:</p><p>Distance from A to B: 450 NM <br /> Groundspeed: 125 kt <br /> Actual time of departure: 10:20</p><p>Calculate the ETA for a flight from A to B.</p>",
+  "options": {
+    "a": "13:26",
+    "b": "13:20",
+    "c": "10:56",
+    "d": "13:56"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

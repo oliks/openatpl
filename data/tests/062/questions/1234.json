@@ -1,0 +1,14 @@
+{
+  "number": 1234,
+  "questionId": "062-1234",
+  "questionNumber": "062-1234",
+  "stemHtml": "The function of the antenna in a radio communication system is to..",
+  "options": {
+    "a": "separate the baseband signal from the carrier wave signal.",
+    "b": "act as a transducer between free-space propagation and transmission line propagation.",
+    "c": "split the electromagnetic field into separate E (Electric) and H (Magnetic) waves for transmission.",
+    "d": "prevent the receiver from demodulating background noise."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

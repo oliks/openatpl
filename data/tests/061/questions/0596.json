@@ -1,0 +1,14 @@
+{
+  "number": 596,
+  "questionId": "061-0596",
+  "questionNumber": "061-0596",
+  "stemHtml": "<p>Which choice of cruising flight level will result in the lowest distance in NAM, given the following conditions?</p>\r\r<p>Ground distance: 200 NGM <br /> \rCAS: 180 kt <br /> \rTemperature: ISA +10 <br /> \rWind at FL50: 5 kt tailwind <br /> \rWind at FL60: nil wind <br /> \rWind at FL70: 10 kt headwind <br /> \rWind at FL100: 5 kt headwind</p>",
+  "options": {
+    "a": "<p>FL50</p>",
+    "b": "<p>FL60</p>",
+    "c": "<p>FL70</p>",
+    "d": "<p>FL100</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

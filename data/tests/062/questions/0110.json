@@ -1,0 +1,14 @@
+{
+  "number": 110,
+  "questionId": "062-0110",
+  "questionNumber": "062-0110",
+  "stemHtml": "With mode-S each aircraft can be uniquely interrogated and identified by using the..",
+  "options": {
+    "a": "twelve-pulse train, giving 212 possible codes.",
+    "b": "long (30.25 msec) P3 pulse.",
+    "c": "24-bits address code, giving more than 16 million possible codes.",
+    "d": "Special Position Identification (SPI) pulse."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

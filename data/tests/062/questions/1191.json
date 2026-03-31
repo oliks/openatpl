@@ -1,0 +1,14 @@
+{
+  "number": 1191,
+  "questionId": "062-1191",
+  "questionNumber": "062-1191",
+  "stemHtml": "Flying around different parts of Europe, it is apparent that there are a significant number of EGNOS based procedures available. When it comes to approaches, all parts of the continent use the same EGNOS system but for each runway there is a given 5-digit channel number. Which of the following statements is correct?",
+  "options": {
+    "a": "EGNOS covers an extensive area by using geostationary satellites and the channel number is used for approach identification only since EGNOS uses the normal GPS frequency.",
+    "b": "EGNOS is the European SBAS that is used to improve accuracy and integrity of general GNSS navigation and GBAS is used to augment SBAS when selecting its channel number.",
+    "c": "EGNOS is the European satellite system running in parallel with GPS but has more satellites, enabling greater accuracy, and the channel number is to tune the receiver to EGNOS.",
+    "d": "Any GNSS receivers are by default capable of using the EGNOS signals since they use the same frequency as GPS whereas additional equipment is needed to receive GBAS."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

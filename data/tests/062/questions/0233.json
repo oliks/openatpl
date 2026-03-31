@@ -1,0 +1,14 @@
+{
+  "number": 233,
+  "questionId": "062-0233",
+  "questionNumber": "062-0233",
+  "stemHtml": "Which information should be provided by a single direction-finding station on request from an aircraft that is within range of the direction-finding system?",
+  "options": {
+    "a": "The true bearing of the aircraft from the station, magnetic bearing of the aircraft from the station, true heading to the station (with a wind correction angle applied), and magnetic heading (with a wind correction angle applied) to the station.",
+    "b": "The true bearing of the aircraft from the station, magnetic bearing of the aircraft from the station, true heading (in no wind) to the station, and magnetic heading (in no wind) to the station.",
+    "c": "The true bearing of the aircraft from the station, true heading (in no wind) to the station, aircraft position in relation to the station, and distance from the station.",
+    "d": "The magnetic bearing of the aircraft from the station, magnetic heading to the station, aircraft position in relation to the station, and distance from the station."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1174,
+  "questionId": "061-1174",
+  "questionNumber": "061-1174",
+  "stemHtml": "<p>Consider the following factors that determine the accuracy of a DR position:</p>\r\r<p>1. The flight time since the last position update. <br /> \r2. The accuracy of the forecasted wind. <br /> \r3. The accuracy of the TAS. <br /> \r4. The accuracy of the steered heading.</p>\r\r<p>Using the list above which of the following contains the most complete answer?</p>",
+  "options": {
+    "a": "<p>1, 2, 3 and 4</p>",
+    "b": "<p>1, 2 and 4</p>",
+    "c": "<p>1, 2 and 3</p>",
+    "d": "<p>1 and 2</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

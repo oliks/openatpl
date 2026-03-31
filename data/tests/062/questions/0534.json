@@ -1,0 +1,14 @@
+{
+  "number": 534,
+  "questionId": "062-0534",
+  "questionNumber": "062-0534",
+  "stemHtml": "The aircraft DME receiver cannot lock on to interrogation signals reflected from the ground because..",
+  "options": {
+    "a": "DME transmits twin pulses.",
+    "b": "aircraft transmitter and DME ground station are transmitting on different frequencies.",
+    "c": "DME pulse recurrence rates are varied.",
+    "d": "reflections are subject to doppler frequency shift."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

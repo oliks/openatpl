@@ -1,0 +1,14 @@
+{
+  "number": 51,
+  "questionId": "050-0051",
+  "questionNumber": "050-0051",
+  "stemHtml": "<p>You are planning a flight from Lisbon to Palermo. The latest TAF and SIGMET for Palermo show no indication of cumulonimbus (CB) clouds or thunderstorm activity in the area. However, while checking additional resources, you come across an online thunderstorm reporting tool that shows active CB clouds and thunderstorms southwest of Palermo. Given this information, should you still take the risk of turbulence and thunderstorm activity into account during your approach into Palermo?</p>",
+  "options": {
+    "a": "<p>During the flight planning phase, pilots may use multiple sources to prepare for the flight. They may expect CB clouds and thunderstorms in the vicinity of the airport.</p>",
+    "b": "<p>The SIG weather charts provided by official authorities may not contain sufficient information; therefore, pilots must always consider other sources.</p>",
+    "c": "<p>The pilot does not need to consider CB clouds or thunderstorms as the wind is easterly.</p>",
+    "d": "<p>Pilots should not use any unofficial sources of information during flight planning.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

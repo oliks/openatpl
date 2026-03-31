@@ -1,0 +1,14 @@
+{
+  "number": 918,
+  "questionId": "062-0918",
+  "questionNumber": "062-0918",
+  "stemHtml": "What is correct regarding antenna shadowing?",
+  "options": {
+    "a": "Poor reception of GPS signals due to very weak signals compared to the background noise at that frequency.",
+    "b": "Protection of a radar-reception antenna from the strong signals produced by a nearby transmission antenna.",
+    "c": "Terrain blocking the path between the transmitter and receiver/aircraft antenna.",
+    "d": "Reduced reception by an antenna when part of the airframe blocks the signal to the antenna."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 560,
+  "questionId": "061-0560",
+  "questionNumber": "061-0560",
+  "stemHtml": "If a straight line is drawn on an aeronautical chart between any two positions, what will determine the true track change along that line between the two positions?",
+  "options": {
+    "a": "The chart convergence between the two meridians.",
+    "b": "The Earth convergence between the two meridians and the sine of the mean latitude.",
+    "c": "The Earth convergence between the two meridians.",
+    "d": "The chart convergence between the two meridians and the sine of the parallel of origin."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

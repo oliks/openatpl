@@ -1,0 +1,14 @@
+{
+  "number": 2477,
+  "questionId": "050-2477",
+  "questionNumber": "050-2477",
+  "stemHtml": "<p>An aircraft is departing from Christchurch Airport, New Zealand, on an instrument departure, with a transition altitude of 13 000 ft. Given the ATIS information, what reading should the pilot expect on the altimeter after resetting the subscale upon passing through the transition altitude during the climb?</p><p>QNH: 970 hPa</p>",
+  "options": {
+    "a": "<p>11 710 ft</p>",
+    "b": "<p>13 710 ft</p>",
+    "c": "<p>14 290 ft</p>",
+    "d": "<p>16 290 ft</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

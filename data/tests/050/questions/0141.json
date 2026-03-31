@@ -1,0 +1,14 @@
+{
+  "number": 141,
+  "questionId": "050-0141",
+  "questionNumber": "050-0141",
+  "stemHtml": "<p>You are flying at FL80 (approximately 8000 feet) during the en-route phase. Under what atmospheric conditions would the indicated altitude on the altimeter be higher than the aircraft\u2019s true altitude?</p>",
+  "options": {
+    "a": "<p>High surface pressure.</p>",
+    "b": "<p>Temperature inversion.</p>",
+    "c": "<p>Low surface pressure.</p>",
+    "d": "<p>Absolute instability.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

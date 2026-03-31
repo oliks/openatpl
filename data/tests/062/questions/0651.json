@@ -1,0 +1,14 @@
+{
+  "number": 651,
+  "questionId": "062-0651",
+  "questionNumber": "062-0651",
+  "stemHtml": "<p>User Equivalent Range Error (UERE) or User Range Error (URE) is a signal in space error consisting of several individual GNSS errors. One of these individual errors consists of the variations of the satellites' orbits, called ephemeris. What causes this ephemeris error to occur?</p>",
+  "options": {
+    "a": "<p>high solar activity causing variations to the depth of the ionosphere.</p>",
+    "b": "<p>solar winds and gravitational forces of the Sun and the Moon.</p>",
+    "c": "<p>stronger than forecast ionospheric winds and electromagnetic forces.</p>",
+    "d": "<p>jet streams and areas of significant weather along the orbit.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1249,
+  "questionId": "062-1249",
+  "questionNumber": "062-1249",
+  "stemHtml": "How may pilots retrieve an RNAV / RNP1 / RNP2 SID or STAR for use?",
+  "options": {
+    "a": "<p>Selecting the approach from the company's route database.</p>",
+    "b": "<p>Selecting the approach number associated with the approach.</p>",
+    "c": "<p>Defined by the waypoints and conforms to the charted route.</p>",
+    "d": "<p>Retrievable by SID/STAR name from the on-board navigation database and conforms to the charted route.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

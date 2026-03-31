@@ -1,0 +1,14 @@
+{
+  "number": 544,
+  "questionId": "050-0544",
+  "questionNumber": "050-0544",
+  "stemHtml": "<p>A pilot will depart from ESSA (Stockholm Arlanda) airport. During the briefing, the meteorologist informs them that there is strong instability in the area and provides the following special weather report.</p><p>SPECI ESSA 31035G45KT 270V360 3000 BKN010CB BKN023TCU OVC040 24/20 Q0990 RERA WS.</p><p>Given the available information, a tornado...</p><p> </p>",
+  "options": {
+    "a": "could form because the air temperature is close to the dew point.",
+    "b": "could NOT form because the OAT is below 26\u00b0C which is the temperature at which a tornado could form.",
+    "c": "<p>could NOT form because dry and dusty ground is NOT existent in the area.</p>",
+    "d": "could form because of the current circular air motion and the prevailing low pressure."
+  },
+  "correctOption": "d",
+  "attachments": []
+}
