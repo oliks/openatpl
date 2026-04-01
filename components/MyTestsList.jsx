@@ -2,7 +2,10 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import dynamic from "next/dynamic";
 import { useEffect, useState } from "react";
+
+const OfflineButton = dynamic(() => import("@/components/OfflineButton"), { ssr: false });
 import {
   appendSavedTest,
   buildSavedTestHref,
@@ -368,6 +371,10 @@ export default function MyTestsList({ availableSubjectCount }) {
                 </div>
               );
             })()}
+            <OfflineButton
+              savedTestId={savedTest.id}
+              subjectId={savedTest.subjectId}
+            />
           </article>
         ))}
       </section>

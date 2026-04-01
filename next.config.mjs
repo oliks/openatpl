@@ -9,6 +9,7 @@ const nextConfig = {
       "/tests/[testId]/run": ["./data/tests/**/*"],
       "/api/question": ["./data/tests/**/*"],
       "/api/subject": ["./data/tests/**/*"],
+      "/api/subject/questions": ["./data/tests/**/*"],
     },
   },
 };

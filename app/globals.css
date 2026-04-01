@@ -1650,6 +1650,71 @@ a {
   padding: 0.7rem 1rem;
 }
 
+/* ── Offline download ─── */
+
+.offline-status {
+  display: grid;
+  gap: 0.4rem;
+  padding: 0.6rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface);
+}
+
+.offline-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-heading), sans-serif;
+  font-size: 0.82rem;
+  color: var(--ok);
+  font-weight: 600;
+}
+
+.offline-badge-icon {
+  font-size: 0.9rem;
+}
+
+.offline-trash {
+  min-height: 28px;
+  min-width: 28px;
+  font-size: 0.72rem;
+  padding: 0.3rem;
+}
+
+.offline-progress-bar {
+  height: 8px;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+}
+
+.offline-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-strong) 0%, var(--accent-light) 100%);
+  transition: width 200ms ease;
+}
+
+.offline-download-btn {
+  gap: 0.45rem;
+  font-size: 0.82rem;
+  min-height: 32px;
+  min-width: 32px;
+  padding: 0.45rem 0.56rem;
+}
+
+.offline-status-done {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.35rem 0.35rem 0.35rem 0.6rem;
+  border: 1px solid rgba(11, 126, 79, 0.3);
+  border-radius: 8px;
+  background: rgba(11, 126, 79, 0.06);
+}
+
 /* ── BMC widget overrides ─── */
 
 #bmc-wbtn {
