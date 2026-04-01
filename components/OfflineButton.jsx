@@ -9,7 +9,7 @@ import {
   removeTestOffline,
 } from "@/lib/offline-client";
 
-export default function OfflineButton({ savedTestId, subjectId }) {
+export default function OfflineButton({ savedTestId, subjectId, testHref }) {
   const [supported, setSupported] = useState(false);
   const [offline, setOffline] = useState(false);
   const [questionIds, setQuestionIds] = useState(null);
@@ -33,7 +33,7 @@ export default function OfflineButton({ savedTestId, subjectId }) {
     setDownloading(true);
     setStatus("Starting...");
     try {
-      await downloadTestForOffline(savedTestId, subjectId, questionIds, (done, total, msg) => {
+      await downloadTestForOffline(savedTestId, subjectId, questionIds, testHref, (done, total, msg) => {
         setProgress({ done, total });
         if (msg) setStatus(msg);
       });

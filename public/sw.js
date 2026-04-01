@@ -28,47 +28,6 @@ self.addEventListener("activate", (event) => {
   self.clients.claim();
 });
 
-// Message handler for explicit offline download
-self.addEventListener("message", (event) => {
-  if (event.data?.type === "CACHE_URLS") {
-    const urls = event.data.urls || [];
-    event.waitUntil(
-      caches.open(OFFLINE_CACHE).then(async (cache) => {
-        let done = 0;
-        for (const url of urls) {
-          try {
-            await cache.add(url);
-          } catch {
-            // Skip failed URLs
-          }
-          done++;
-          // Report progress back
-          if (event.source) {
-            event.source.postMessage({ type: "CACHE_PROGRESS", done, total: urls.length });
-          }
-        }
-        if (event.source) {
-          event.source.postMessage({ type: "CACHE_COMPLETE", total: urls.length });
-        }
-      })
-    );
-  }
-
-  if (event.data?.type === "DELETE_CACHE") {
-    const key = event.data.key;
-    if (key) {
-      event.waitUntil(
-        caches.open(OFFLINE_CACHE).then(async (cache) => {
-          const requests = await cache.keys();
-          for (const req of requests) {
-            if (req.url.includes(key)) await cache.delete(req);
-          }
-        })
-      );
-    }
-  }
-});
-
 // Fetch strategy
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
@@ -90,18 +49,56 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // API + attachments: check offline cache first, then network
+  // API + attachments: offline cache first, then network, cache on success
   if (url.pathname.startsWith("/api/") || url.pathname.startsWith("/attachments/")) {
     event.respondWith(
       caches.match(event.request).then((cached) => {
         if (cached) return cached;
-        return fetch(event.request);
+        return fetch(event.request).then((response) => {
+          if (response.ok && event.request.method === "GET") {
+            const clone = response.clone();
+            caches.open(OFFLINE_CACHE).then((cache) => cache.put(event.request, clone));
+          }
+          return response;
+        });
       })
     );
     return;
   }
 
-  // Pages: network-first, fallback to cache, then home
+  // RSC flight requests (Next.js client navigation): cache for offline
+  const isRsc = event.request.headers.get("rsc") === "1"
+    || url.searchParams.has("_rsc");
+  if (isRsc && url.pathname.match(/^\/tests\/\d+\/run/)) {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const clone = response.clone();
+          caches.open(OFFLINE_CACHE).then((cache) => cache.put(event.request, clone));
+          return response;
+        })
+        .catch(() => caches.match(event.request))
+    );
+    return;
+  }
+
+  // Test runner pages (/tests/*/run): network-first, cache response for offline
+  if (url.pathname.match(/^\/tests\/\d+\/run/)) {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const clone = response.clone();
+          caches.open(OFFLINE_CACHE).then((cache) => cache.put(event.request, clone));
+          return response;
+        })
+        .catch(() =>
+          caches.match(event.request).then((cached) => cached || caches.match("/"))
+        )
+    );
+    return;
+  }
+
+  // Other pages: network-first, fallback to cache, then home
   if (event.request.mode === "navigate") {
     event.respondWith(
       fetch(event.request)

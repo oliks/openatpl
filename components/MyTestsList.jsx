@@ -374,6 +374,7 @@ export default function MyTestsList({ availableSubjectCount }) {
             <OfflineButton
               savedTestId={savedTest.id}
               subjectId={savedTest.subjectId}
+              testHref={buildSavedTestHref(savedTest)}
             />
           </article>
         ))}
