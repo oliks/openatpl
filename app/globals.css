@@ -1082,6 +1082,22 @@ a {
   color: var(--ink-soft);
 }
 
+.site-banner {
+  max-width: 1200px;
+  margin: 1.5rem auto 0;
+  padding: 1rem 1.5rem;
+  background: var(--card-bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text);
+}
+.site-banner a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   background: var(--footer-bg);

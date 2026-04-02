@@ -106,6 +106,12 @@ export default function RootLayout({ children }) {
             </nav>
           </div>
         </header>
+        {process.env.NEXT_PUBLIC_SITE_BANNER && (
+          <div
+            className="site-banner"
+            dangerouslySetInnerHTML={{ __html: process.env.NEXT_PUBLIC_SITE_BANNER }}
+          />
+        )}
         {children}
         {/* eslint-disable-next-line @next/next/no-sync-scripts */}
         <script
