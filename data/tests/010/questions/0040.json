@@ -1,0 +1,14 @@
+{
+  "number": 40,
+  "questionId": "010-0040",
+  "questionNumber": "010-0040",
+  "stemHtml": "<p>When should a serviceable transponder be operated?</p>",
+  "options": {
+    "a": "Only in controlled airspace.",
+    "b": "At all times during flight, regardless of SSR use.",
+    "c": "Only where SSR is used for ATS.",
+    "d": "Only when ATC directs."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

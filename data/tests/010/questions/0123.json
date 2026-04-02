@@ -1,0 +1,14 @@
+{
+  "number": 123,
+  "questionId": "010-0123",
+  "questionNumber": "010-0123",
+  "stemHtml": "A Traffic Advisory (TA) may be followed by a Resolution Advisory (RA). Which statement is correct?",
+  "options": {
+    "a": "A TA may lead to an RA if no action is taken.",
+    "b": "A TA is a warning referring to vertical manoeuvres with small inputs.",
+    "c": "A TA is a warning referring to horizontal manoeuvres with small inputs.",
+    "d": "A TA only requires speed changes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1412,
+  "questionId": "010-1412",
+  "questionNumber": "010-1412",
+  "stemHtml": "<p>ATC assigns heading 150, but the aircraft's weather radar shows a CB cloud on that heading. What should the crew do?</p>",
+  "options": {
+    "a": "<p>Report 'UNABLE'.</p>",
+    "b": "<p>Deviate from the ATC clearance without reporting.</p>",
+    "c": "<p>Report 'NEGATIVE'.</p>",
+    "d": "<p>Accept the heading.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

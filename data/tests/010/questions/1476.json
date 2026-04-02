@@ -1,0 +1,14 @@
+{
+  "number": 1476,
+  "questionId": "010-1476",
+  "questionNumber": "010-1476",
+  "stemHtml": "<p>After TCAS conflict resolved, the pilot reports \"clear of conflict\" and then...</p>",
+  "options": {
+    "a": "returns to assigned routing and altitude most directly unless otherwise instructed.",
+    "b": "continues heading and altitude until ATC advises.",
+    "c": "turns direct to next FMS waypoint and selects closest altitude.",
+    "d": "enters a hold and resumes previous altitude."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

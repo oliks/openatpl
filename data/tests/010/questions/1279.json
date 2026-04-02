@@ -1,0 +1,14 @@
+{
+  "number": 1279,
+  "questionId": "010-1279",
+  "questionNumber": "010-1279",
+  "stemHtml": "<p>Which items from a clearance must be read back?</p><p>1. Wind<br>2. Time<br>3. Taxi clearance<br>4. Runway in use<br>5. Altimeter settings<br>6. SSR codes<br>7. Level/heading/speed instructions</p>",
+  "options": {
+    "a": "3, 4, 5, 6 and 7.",
+    "b": "1, 3, 4, 6 and 7.",
+    "c": "2, 3, 4, 5 and 6.",
+    "d": "1, 2, 3, 6 and 7."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

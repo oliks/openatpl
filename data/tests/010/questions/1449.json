@@ -1,0 +1,14 @@
+{
+  "number": 1449,
+  "questionId": "010-1449",
+  "questionNumber": "010-1449",
+  "stemHtml": "<p>An aircraft has PBN capabilities of RNP10, RNAV5, basic RNP1, and RNP APCH. Per ICAO Doc 4444, what should be entered in Item 10 and Item 18 of the flight plan?</p>",
+  "options": {
+    "a": "<p>Item 10: R; Item 18: PBN/A1 B1 B2 B3 O1 S1</p>",
+    "b": "<p>Item 10: R; Item 18: A1, B1, B2, B3, O1, S1</p>",
+    "c": "<p>Item 10: PBN; Item 18: A1, B1, B2, B3, O1, S1</p>",
+    "d": "<p>Item 10: R; Item 18: PBN/A1 B1 B2 B3 O1 S2</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

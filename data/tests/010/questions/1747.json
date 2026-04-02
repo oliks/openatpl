@@ -1,0 +1,14 @@
+{
+  "number": 1747,
+  "questionId": "010-1747",
+  "questionNumber": "010-1747",
+  "stemHtml": "<p>Where may ATIS messages NOT be transmitted?</p>",
+  "options": {
+    "a": "On the voice channel of an ILS.",
+    "b": "On a discrete VHF frequency.",
+    "c": "On the voice channel of a VOR.",
+    "d": "On any of the listed channels — all are permitted."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 390,
+  "questionId": "010-0390",
+  "questionNumber": "010-0390",
+  "stemHtml": "<p>A pilot may change flight rules by reporting \"CANCELING MY (1) _____ FLIGHT\". This change may (2) _____ by ATC.</p>",
+  "options": {
+    "a": "(1) IFR; (2) be suggested",
+    "b": "(1) VFR; (2) be suggested",
+    "c": "(1) VFR; (2) not be suggested",
+    "d": "(1) IFR; (2) not be suggested"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

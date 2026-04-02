@@ -1,0 +1,14 @@
+{
+  "number": 1116,
+  "questionId": "010-1116",
+  "questionNumber": "010-1116",
+  "stemHtml": "Per ICAO Annex 2, when a controlled flight inadvertently deviates from its flight plan, ATS must be informed when…",
+  "options": {
+    "a": "<p>the average TAS varies by plus or minus 5% from the flight-plan TAS.</p>",
+    "b": "any track deviation exceeds 2 NM from the ATS route centreline for more than one minute.",
+    "c": "there is any deviation in TAS.",
+    "d": "the time estimate to the next reporting point is in error by more than one minute."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

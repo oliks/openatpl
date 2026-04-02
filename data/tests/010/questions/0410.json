@@ -1,0 +1,14 @@
+{
+  "number": 410,
+  "questionId": "010-0410",
+  "questionNumber": "010-0410",
+  "stemHtml": "When are ATIS broadcasts updated?",
+  "options": {
+    "a": "Immediately when a significant change occurs.",
+    "b": "Every 30 minutes in sub-VFR conditions; otherwise hourly.",
+    "c": "Only when ceiling/visibility changes by a reportable value.",
+    "d": "Only when a runway or approach change is needed."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

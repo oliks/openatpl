@@ -1,0 +1,14 @@
+{
+  "number": 812,
+  "questionId": "010-0812",
+  "questionNumber": "010-0812",
+  "stemHtml": "<p>Alerting service shall be provided to which aircraft?</p><p>1. Under ATC<br>2. Not arrived 15 min after ETA<br>3. Last radio contact 15+ min ago<br>4. Filed a flight plan<br>5. Known or believed to be subject to unlawful interference<br>6. Flying above FL200</p>",
+  "options": {
+    "a": "1, 2, 4 and 6",
+    "b": "2, 3, 4 and 5",
+    "c": "1, 2, 4 and 5",
+    "d": "1, 4, 5 and 6"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

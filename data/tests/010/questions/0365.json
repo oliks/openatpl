@@ -1,0 +1,14 @@
+{
+  "number": 365,
+  "questionId": "010-0365",
+  "questionNumber": "010-0365",
+  "stemHtml": "<p>After receiving the initial taxi information, a pilot normally expects further updates before take-off. Which items of information are communicated to the pilot prior to departure?</p><p>1. Significant wind changes<br />2. Significant weather changes near or at the airport<br />3. QNH<br />4. Runway in use<br />5. Time<br />6. Significant RVR changes<br />7. Air temperature<br />8. Significant air temperature changes</p>",
+  "options": {
+    "a": "1, 2, 6 and 8.",
+    "b": "1, 2, 3, 4, 6 and 8.",
+    "c": "1, 3 and 4.",
+    "d": "1, 2, 3, 4 and 7."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

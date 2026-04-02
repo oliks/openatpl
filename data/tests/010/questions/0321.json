@@ -1,0 +1,14 @@
+{
+  "number": 321,
+  "questionId": "010-0321",
+  "questionNumber": "010-0321",
+  "stemHtml": "What are the privileges of an ATPL(A) licence holder?",
+  "options": {
+    "a": "Privileges of LAPL, PPL, CPL, ATPL; may act as PIC on commercial flights.",
+    "b": "Privileges of LAPL, CPL, ATPL; PIC on single-engine commercial flights.",
+    "c": "Privileges of LAPL, CPL, ATPL; PIC on multi-engine commercial flights only.",
+    "d": "<p>Privileges of LAPL, PPL, CPL, ATPL, MPL; PIC on single-engine commercial flights.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 604,
+  "questionId": "010-0604",
+  "questionNumber": "010-0604",
+  "stemHtml": "<p>When changes are made to an IFR or VFR flight plan, how should the pilot notify ATC?</p>",
+  "options": {
+    "a": "<p>Report as soon as practicable to the relevant ATS unit.</p>",
+    "b": "<p>Inform ground control after landing.</p>",
+    "c": "<p>Notify ATC only if changing flight rules.</p>",
+    "d": "<p>Notify only if changing altitude or route.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

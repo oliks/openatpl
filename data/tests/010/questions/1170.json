@@ -1,0 +1,14 @@
+{
+  "number": 1170,
+  "questionId": "010-1170",
+  "questionNumber": "010-1170",
+  "stemHtml": "<p>What is the definition of the Final Approach Point (FAP)?</p>",
+  "options": {
+    "a": "<p>The point in space on the final approach track where the intermediate approach altitude/height meets the nominal glide path or MLS elevation angle.</p>",
+    "b": "<p>The point that marks the start of the intermediate approach segment of an instrument approach.</p>",
+    "c": "<p>The point designed to align the aircraft with the localizer or MLS azimuth for the final approach track.</p>",
+    "d": "<p>The intersection of the electronic glide path with the applicable DA/H in APV or precision approaches.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1575,
+  "questionId": "010-1575",
+  "questionNumber": "010-1575",
+  "stemHtml": "<p>An aerodrome has ALS installed for two runways. Runway 03L has a 150 m displaced threshold; runway 16 has no displaced threshold. What is true about the ALS reference point for these runways?</p>",
+  "options": {
+    "a": "<p>They differ: the ALS for 03L is referenced from the threshold, while the ALS for 16 is referenced from a point 300 m from the threshold.</p>",
+    "b": "<p>There is no difference — both ALS systems are referenced from the respective thresholds.</p>",
+    "c": "<p>There is no difference — both ALS systems are referenced from the pavement edge.</p>",
+    "d": "<p>They differ: the ALS for 03L is referenced from a point 150 m from the displaced threshold, while the ALS for 16 is referenced from the threshold.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1215,
+  "questionId": "010-1215",
+  "questionNumber": "010-1215",
+  "stemHtml": "You are told to enter a standard holding with an inbound track of 010° and you are presently tracking 030°. What is the appropriate holding entry?",
+  "options": {
+    "a": "Direct.",
+    "b": "Parallel.",
+    "c": "Direct or Offset.",
+    "d": "Offset."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

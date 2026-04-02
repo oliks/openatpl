@@ -1,0 +1,14 @@
+{
+  "number": 234,
+  "questionId": "010-0234",
+  "questionNumber": "010-0234",
+  "stemHtml": "<p>You are flying an instrument approach and reach the MAPt with no visual contact with the runway. What should you do?</p>",
+  "options": {
+    "a": "Execute the missed approach procedure immediately.",
+    "b": "Continue descending until visual references are acquired.",
+    "c": "Level off and continue searching for visual references.",
+    "d": "If CAT II minima are published, continue down to them."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1417,
+  "questionId": "010-1417",
+  "questionNumber": "010-1417",
+  "stemHtml": "<p>An uncontrolled flight is delayed. The flight plan must be amended/cancelled when the delay exceeds...</p>",
+  "options": {
+    "a": "departure time by 30 min.",
+    "b": "departure time by 60 min.",
+    "c": "off-block time by 60 min.",
+    "d": "off-block time by 30 min."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

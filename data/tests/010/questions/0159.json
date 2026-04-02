@@ -1,0 +1,14 @@
+{
+  "number": 159,
+  "questionId": "010-0159",
+  "questionNumber": "010-0159",
+  "stemHtml": "<p>Radio failure while taxiing. You see a steady red light, then a flashing green. What do they mean?</p>",
+  "options": {
+    "a": "Red: Stop; Green: Return to apron.",
+    "b": "Red: Stop; Green: Cleared to taxi.",
+    "c": "Red: Taxi clear of runway; Green: Cleared to taxi.",
+    "d": "Red: Taxi clear of runway; Green: Cleared for take-off."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

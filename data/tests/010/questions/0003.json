@@ -1,0 +1,14 @@
+{
+  "number": 3,
+  "questionId": "010-0003",
+  "questionNumber": "010-0003",
+  "stemHtml": "<p>An aircraft departs from an aerodrome using an omnidirectional departure procedure that requires flying straight ahead to 940 ft before turning in any direction while climbing to the minimum safe altitude. During which phase is obstacle clearance guaranteed?</p>",
+  "options": {
+    "a": "<p>Only above 940 ft.</p>",
+    "b": "<p>From take-off onward.</p>",
+    "c": "<p>Only until reaching 940 ft.</p>",
+    "d": "<p>It is never guaranteed.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

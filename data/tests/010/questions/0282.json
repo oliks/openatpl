@@ -1,0 +1,14 @@
+{
+  "number": 282,
+  "questionId": "010-0282",
+  "questionNumber": "010-0282",
+  "stemHtml": "<p>When must airport signs be illuminated?</p>",
+  "options": {
+    "a": "<p>From sunset to sunrise when the airport is open for operations.</p>",
+    "b": "<p>Only when a non-precision approach is in use at night.</p>",
+    "c": "<p>Only when the airport serves an instrument runway at night.</p>",
+    "d": "<p>Only during periods of reduced visibility.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 822,
+  "questionId": "010-0822",
+  "questionNumber": "010-0822",
+  "stemHtml": "<p>ATC instructs you to climb at 2500 ft/min but your aircraft can only manage 2000 ft/min. How do you respond?</p>",
+  "options": {
+    "a": "AFFIRMATIVE.",
+    "b": "NEGATIVE.",
+    "c": "UNABLE.",
+    "d": "Comply with the instruction."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

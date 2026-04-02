@@ -1,0 +1,14 @@
+{
+  "number": 476,
+  "questionId": "010-0476",
+  "questionNumber": "010-0476",
+  "stemHtml": "<p>If average TAS varies from the flight plan by _____, ATC must be informed.</p>",
+  "options": {
+    "a": "at least 2% TAS, time deviation >5 min.",
+    "b": "at least 5 kt.",
+    "c": "±5% TAS, time deviation >2 min.",
+    "d": "more than 15 kt."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

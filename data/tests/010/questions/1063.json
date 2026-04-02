@@ -1,0 +1,14 @@
+{
+  "number": 1063,
+  "questionId": "010-1063",
+  "questionNumber": "010-1063",
+  "stemHtml": "You are appointed as the Pilot-in-Command of an aircraft departing from Airport A, State 1, and bound for destination Airport B, State 2. Who has the final authority as to the disposition of the aircraft?",
+  "options": {
+    "a": "<p>You, while in command.</p>",
+    "b": "The Operator, provided that you operate the aircraft in accordance with the specifications laid out within the Operations Manual.",
+    "c": "You, while manipulating the controls, and your Co-Pilot pilot while he/she is manipulating the controls.",
+    "d": "The departure ATC of State 1 while inside that departure FIR, the relevant en-route ATC unit while en route, and the destination ATC while inside the destination FIR."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 250,
+  "questionId": "010-0250",
+  "questionNumber": "010-0250",
+  "stemHtml": "<p>Which statement is correct about EASA Implementing Rules?</p>",
+  "options": {
+    "a": "<p>They are binding in their entirety, used to ensure a high and uniform level of safety and compliance. They are adopted by the European Commission in the form of regulations.</p>",
+    "b": "<p>They are non-binding technical standards adopted by EASA to meet the essential requirements of the Basic Regulation.</p>",
+    "c": "<p>They are binding explanatory and interpretive material on how to meet the requirements in the Basic Regulation, IRs, AMCs, and CSs.</p>",
+    "d": "<p>They are non-binding special detailed technical specifications determined by the NAA for an aerodrome.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

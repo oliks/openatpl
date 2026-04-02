@@ -1,0 +1,14 @@
+{
+  "number": 279,
+  "questionId": "010-0279",
+  "questionNumber": "010-0279",
+  "stemHtml": "<p>ICAO definition of an \"International Airport\"?</p>",
+  "options": {
+    "a": "Any airport accepting international traffic.",
+    "b": "An airport near a border.",
+    "c": "An airport with capacity for customs, immigration, health, etc.",
+    "d": "An airport designated by the State for international traffic with customs, immigration, health, quarantine."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

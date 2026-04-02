@@ -1,0 +1,14 @@
+{
+  "number": 657,
+  "questionId": "010-0657",
+  "questionNumber": "010-0657",
+  "stemHtml": "<p>Determine the LDA given:</p><p>TORA: 2100 m<br>Stopway: 200 m<br>Displaced Threshold: 100 m</p>",
+  "options": {
+    "a": "<p>2200 m</p>",
+    "b": "<p>2000 m</p>",
+    "c": "<p>2300 m</p>",
+    "d": "<p>2100 m</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

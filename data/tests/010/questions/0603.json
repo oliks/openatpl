@@ -1,0 +1,14 @@
+{
+  "number": 603,
+  "questionId": "010-0603",
+  "questionNumber": "010-0603",
+  "stemHtml": "<p>A pilot in contact with Berlin ATC experiences a sudden depressurisation and must declare an emergency. What should the pilot do regarding communications?</p>",
+  "options": {
+    "a": "<p>Continue on Berlin ATC's frequency, or switch to 121.5 MHz.</p>",
+    "b": "Immediately switch to 121.5 MHz and wait for clearance to transmit.",
+    "c": "<p>Ask ATC which frequency to use for declaring an emergency.</p>",
+    "d": "<p>Contact Eurocontrol first; if unsuccessful, revert to Berlin ATC.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

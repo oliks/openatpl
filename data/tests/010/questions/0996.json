@@ -1,0 +1,14 @@
+{
+  "number": 996,
+  "questionId": "010-0996",
+  "questionNumber": "010-0996",
+  "stemHtml": "<p>Which items should be included in an arrival ATIS broadcast?</p><p>1) Wind<br />2) Temperature<br />3) Dew point<br />4) Braking action<br />5) Expect ILS Approach<br />6) Expect 30 mins holding<br />7) Transition altitude<br />8) ATIS issue time and current time</p>",
+  "options": {
+    "a": "<p>1, 2, 3, 4, 5 and 6</p>",
+    "b": "<p>1, 2, 4, 5, 7 and 8</p>",
+    "c": "<p>2, 3, 4, 5, 7 and 8</p>",
+    "d": "<p>1, 2, 3, 5, 6 and 7</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

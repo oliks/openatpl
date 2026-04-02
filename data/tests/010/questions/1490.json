@@ -1,0 +1,14 @@
+{
+  "number": 1490,
+  "questionId": "010-1490",
+  "questionNumber": "010-1490",
+  "stemHtml": "<p>ACAS RA in cruise: first \"descend 2000 ft/min\", then reversal to \"climb 2000 ft/min\". Correct action?</p>",
+  "options": {
+    "a": "Comply immediately with minimum deviation from the flight path.",
+    "b": "Disregard the RA and continue.",
+    "c": "Look out first, then comply.",
+    "d": "Only follow if ATC confirms."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 581,
+  "questionId": "010-0581",
+  "questionNumber": "010-0581",
+  "stemHtml": "<p>You report \"Final Runway 28\". Tower: \"Continue approach, wind 180°/15 kt.\" Interpretation?</p>",
+  "options": {
+    "a": "Continue but a missed approach is recommended.",
+    "b": "Land at your own risk — no formal clearance.",
+    "c": "Runway not yet clear but expected to be shortly — landing clearance delayed.",
+    "d": "Runway not clear but you may land."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

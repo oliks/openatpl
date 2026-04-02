@@ -1,0 +1,14 @@
+{
+  "number": 656,
+  "questionId": "010-0656",
+  "questionNumber": "010-0656",
+  "stemHtml": "<p>Not enough final reserve fuel, 70 min remaining. Departure (A) 60 min away, destination (B) 50 min, aerodrome C in sight but ATC says it's closed. What should you do?</p>",
+  "options": {
+    "a": "Return to A.",
+    "b": "Continue to B.",
+    "c": "Land at C — safety is compromised.",
+    "d": "Declare emergency and ask ATC."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

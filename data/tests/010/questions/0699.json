@@ -1,0 +1,14 @@
+{
+  "number": 699,
+  "questionId": "010-0699",
+  "questionNumber": "010-0699",
+  "stemHtml": "<p>What is the Obstacle Clearance Altitude (OCA)?</p>",
+  "options": {
+    "a": "The lowest altitude above MSL below which obstacle clearance is not maintained.",
+    "b": "The altitude where the aircraft must initiate a missed approach.",
+    "c": "The minimum safe altitude for en-route operations.",
+    "d": "The altitude of the highest obstacle in the approach area."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 352,
+  "questionId": "010-0352",
+  "questionNumber": "010-0352",
+  "stemHtml": "<p>You are setting up a precision approach in a Boeing 777. Given the following data from the approach chart, what is the correct missed approach point value?</p><p>OCH for A/B category aircraft: 400 ft<br />OCH for C/D category aircraft: 420 ft<br />(50 ft to be added for operational factors)</p>",
+  "options": {
+    "a": "MDH = 470 ft",
+    "b": "MDH = 450 ft",
+    "c": "DH = 470 ft",
+    "d": "DH = 420 ft"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

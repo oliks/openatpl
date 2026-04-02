@@ -1,0 +1,14 @@
+{
+  "number": 216,
+  "questionId": "010-0216",
+  "questionNumber": "010-0216",
+  "stemHtml": "<p>If a pilot needs to dump fuel, ATC should...</p>",
+  "options": {
+    "a": "vector to the nearest airport regardless of dumping.",
+    "b": "instruct immediate dumping on present heading.",
+    "c": "clear to an area at least 2000 ft from other traffic.",
+    "d": "vector to the nearest designated dumping area and clear other traffic."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

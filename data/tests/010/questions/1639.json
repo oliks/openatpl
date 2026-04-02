@@ -1,0 +1,14 @@
+{
+  "number": 1639,
+  "questionId": "010-1639",
+  "questionNumber": "010-1639",
+  "stemHtml": "<p>Radio failure during visual patterns. Which light signals apply?</p><p>1. Steady green = cleared to land<br>2. Steady red = stop<br>3. Flashing green = return for landing<br>4. Red flare = do not land for now<br>5. Flashing white = cleared to taxi</p>",
+  "options": {
+    "a": "1, 2, 3, 4",
+    "b": "1, 3, 4, 5",
+    "c": "1, 3, 4",
+    "d": "1, 2, 3, 4, 5"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

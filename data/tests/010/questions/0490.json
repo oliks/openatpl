@@ -1,0 +1,14 @@
+{
+  "number": 490,
+  "questionId": "010-0490",
+  "questionNumber": "010-0490",
+  "stemHtml": "<p>Per ICAO Doc 7300/9 (Convention on International Civil Aviation), regarding the article on 'Landing at customs airport', which statement is correct?</p>",
+  "options": {
+    "a": "<p>Aircraft from another Contracting State may land at a non-customs airport solely for refuelling before continuing to another Contracting State.</p>",
+    "b": "<p>Aircraft may cross a Contracting State's territory without landing, unless that State's regulations require a landing for customs inspection.</p>",
+    "c": "<p>All designated customs airports must be published by the State and communicated to IATA.</p>",
+    "d": "<p>Aircraft may depart from a non-customs airport provided the destination airport has customs facilities.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

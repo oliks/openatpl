@@ -1,0 +1,14 @@
+{
+  "number": 1107,
+  "questionId": "010-1107",
+  "questionNumber": "010-1107",
+  "stemHtml": "<p>An aircraft is conducting an LNAV/VNAV approach to runway 26L at an aerodrome with simultaneous parallel operations on all four parallel runways. Per ICAO Doc 8168, what must the aircraft satisfy to perform this approach?</p>",
+  "options": {
+    "a": "<p>It must carry receivers capable of acquiring signals from multiple GNSS constellations (European, US, and Russian).</p>",
+    "b": "<p>It must fulfil the eligibility criteria for the specific navigation specification under which the procedure was designed.</p>",
+    "c": "<p>It must hold at minimum a CAT I operations certification.</p>",
+    "d": "<p>It must be fitted with a Head-Up Display.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

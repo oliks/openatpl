@@ -1,0 +1,14 @@
+{
+  "number": 1162,
+  "questionId": "010-1162",
+  "questionNumber": "010-1162",
+  "stemHtml": "<p>An aircraft under Mach number separation encounters turbulence. Can the pilot reduce separation?</p>",
+  "options": {
+    "a": "No.",
+    "b": "Yes, by notifying ATC.",
+    "c": "Yes, without notifying ATC.",
+    "d": "Yes, since other aircraft will also encounter the turbulence."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 178,
+  "questionId": "010-0178",
+  "questionNumber": "010-0178",
+  "stemHtml": "On a VMC day, may the pilot-in-command choose to fly under IFR despite visual conditions?",
+  "options": {
+    "a": "Yes, the pilot may choose to do so.",
+    "b": "No, if the planned cruise level is below 5000 ft AMSL.",
+    "c": "No, the pilot must fly under VFR.",
+    "d": "It is mandatory if the pilot and aircraft are IFR-approved."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

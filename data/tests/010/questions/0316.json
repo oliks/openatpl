@@ -1,0 +1,14 @@
+{
+  "number": 316,
+  "questionId": "010-0316",
+  "questionNumber": "010-0316",
+  "stemHtml": "<p>At FL100, how can the pilot obtain the transition level when it is at 3000 ft?</p>",
+  "options": {
+    "a": "Via ATIS when passing 3000 ft.",
+    "b": "Via voice at 2500 ft.",
+    "c": "Via VOLMET.",
+    "d": "Via datalink well before reaching the transition level."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 304,
+  "questionId": "010-0304",
+  "questionNumber": "010-0304",
+  "stemHtml": "<p>Which of the following statements about an aircraft's Certificate of Airworthiness are correct?</p><p>1. It is issued by the State of Registry<br>2. It confirms the aircraft meets required airworthiness standards<br>3. It must be renewed every 12 months regardless of aircraft condition<br>4. The aircraft needs it to be operated legally<br>5. Complete and accurate records of all maintenance, repairs, and airworthiness actions must be maintained<br>6. It may be suspended or revoked if the aircraft is found to be unairworthy<br>7. It guarantees the aircraft is free from mechanical issues<br>8. It becomes invalid if major modifications are made without approval</p>",
+  "options": {
+    "a": "<p>1, 2, 4, 5, 6 and 8</p>",
+    "b": "<p>1, 2, 3 and 4</p>",
+    "c": "<p>1, 5, 7 and 8</p>",
+    "d": "<p>1, 2, 3, 4, 5, 6 and 7</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

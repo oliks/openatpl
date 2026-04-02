@@ -1,0 +1,14 @@
+{
+  "number": 972,
+  "questionId": "010-0972",
+  "questionNumber": "010-0972",
+  "stemHtml": "<p>A controlled VFR flight cannot continue in VMC. Per ICAO Annex 2, it shall...</p>",
+  "options": {
+    "a": "continue VMC and land at nearest airport.",
+    "b": "continue VMC and report after landing.",
+    "c": "request authorisation for special VFR (if in a CTR).",
+    "d": "continue IMC and inform ATC."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

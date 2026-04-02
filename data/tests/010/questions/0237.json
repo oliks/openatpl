@@ -1,0 +1,14 @@
+{
+  "number": 237,
+  "questionId": "010-0237",
+  "questionNumber": "010-0237",
+  "stemHtml": "<p>While en route, the crew receives a Traffic Advisory (TA) with conflicting traffic shown on the navigation display. Why should they not manoeuvre based on the TA alone?</p>",
+  "options": {
+    "a": "<p>The navigation display provides limited information on the conflicting traffic's bearing and altitude, which can be misinterpreted, making action based on it hazardous.</p>",
+    "b": "<p>A rapid avoidance manoeuvre without an RA guidance has a very high risk of upsetting the aircraft.</p>",
+    "c": "<p>Crew manoeuvring would cause TCAS to stop monitoring the conflict, preventing a proper RA if needed.</p>",
+    "d": "<p>The crew should wait for ATC's deconflicting instructions; early avoidance would prevent the controller from intervening.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

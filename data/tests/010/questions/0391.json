@@ -1,0 +1,14 @@
+{
+  "number": 391,
+  "questionId": "010-0391",
+  "questionNumber": "010-0391",
+  "stemHtml": "<p>A runway inspection reveals standing water. This information is reported to AIS and ATS units so they can…</p>",
+  "options": {
+    "a": "Provide the necessary information to arriving and departing aircraft.",
+    "b": "Provide the information to arriving aircraft only.",
+    "c": "<p>Provide the information to departing aircraft only.</p>",
+    "d": "Calculate the runway PCN and update aerodrome charts."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

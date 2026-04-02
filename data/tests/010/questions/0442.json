@@ -1,0 +1,14 @@
+{
+  "number": 442,
+  "questionId": "010-0442",
+  "questionNumber": "010-0442",
+  "stemHtml": "<p>Aircraft A (IFR) and Aircraft B (VFR) approach each other on converging courses in VMC at the same level in Class D. Who has right of way?</p>",
+  "options": {
+    "a": "<p>Aircraft B, provided Aircraft A is on its left.</p>",
+    "b": "<p>Aircraft A, provided Aircraft B is on its right.</p>",
+    "c": "<p>Aircraft B, regardless of direction.</p>",
+    "d": "<p>Aircraft A, regardless of direction.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

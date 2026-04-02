@@ -1,0 +1,14 @@
+{
+  "number": 294,
+  "questionId": "010-0294",
+  "questionNumber": "010-0294",
+  "stemHtml": "<p>Two aircraft are on the same route at different levels, with Aircraft A above Aircraft B. Both request descent due to heavy weather above. ATC instructs Aircraft A to (1) _____ and Aircraft B to (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) descend at the minimum rate necessary to stay below the weather; (2) descend at an average rate</p>",
+    "b": "<p>(1) descend at maximum rate; (2) descend at the minimum rate necessary to stay below the weather</p>",
+    "c": "<p>(1) descend at an average rate; (2) descend at maximum rate</p>",
+    "d": "<p>(1) descend at maximum rate; (2) descend at maximum rate</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

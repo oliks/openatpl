@@ -1,0 +1,14 @@
+{
+  "number": 1168,
+  "questionId": "010-1168",
+  "questionNumber": "010-1168",
+  "stemHtml": "<p>On a SID requiring 6000 ft within 10 NM, your aircraft cannot meet this due to performance. What should you do?</p>",
+  "options": {
+    "a": "Inform ATC you are UNABLE to comply; expect amended instructions.",
+    "b": "Continue climbing despite not meeting the SID criteria.",
+    "c": "Ignore the SID and follow a different route.",
+    "d": "Inform ATC you are UNABLE; ATC will only note it."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

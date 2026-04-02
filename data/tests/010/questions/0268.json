@@ -1,0 +1,14 @@
+{
+  "number": 268,
+  "questionId": "010-0268",
+  "questionNumber": "010-0268",
+  "stemHtml": "<p>How long must a State's AIS be available for a flight in its area?</p>",
+  "options": {
+    "a": "During the flight plus 2 hours before and after.",
+    "b": "24-hour daily service.",
+    "c": "As requested by operators per their schedule.",
+    "d": "Daily 04:00 to 24:00 local."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

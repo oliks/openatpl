@@ -1,0 +1,14 @@
+{
+  "number": 34,
+  "questionId": "010-0034",
+  "questionNumber": "010-0034",
+  "stemHtml": "<p>IFR in IMC on the flight plan route. At 18:36 UTC you acknowledge: \"Turn immediately heading 050° until further advised.\" Then radio fails. What do you do?</p>",
+  "options": {
+    "a": "Continue heading 050° for 30 minutes.",
+    "b": "Return to the current flight plan route.",
+    "c": "Continue heading 050° for 15 minutes.",
+    "d": "Continue heading 050° indefinitely."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

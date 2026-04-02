@@ -1,0 +1,14 @@
+{
+  "number": 1023,
+  "questionId": "010-1023",
+  "questionNumber": "010-1023",
+  "stemHtml": "<p>A near-collision occurs but the flight continues safely. Are there mandatory reporting obligations under EU Regulations?</p>",
+  "options": {
+    "a": "Yes — after completing the flight, the PIC reports through the operator's system.",
+    "b": "Yes — land at the nearest aerodrome and report.",
+    "c": "Yes — the operator decides if reporting is necessary.",
+    "d": "No — no injuries or damage means no reporting."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

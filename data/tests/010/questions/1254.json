@@ -1,0 +1,14 @@
+{
+  "number": 1254,
+  "questionId": "010-1254",
+  "questionNumber": "010-1254",
+  "stemHtml": "<p>The transponder is inoperative prior to departure and cannot be repaired at the departure aerodrome. Which option statements is correct?</p>",
+  "options": {
+    "a": "<p>The operation is allowed to the nearest suitable aerodrome where repair can be carried out.</p>",
+    "b": "<p>The aircraft is grounded and can not be operated.</p>",
+    "c": "<p>The pilot has to indicate the unserviceable equipment in the fight plan. ATC provides guidance for the continuation of the flight.</p>",
+    "d": "<p>The flight is allowed to continue to the destination via a direct routing.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

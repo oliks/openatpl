@@ -1,0 +1,14 @@
+{
+  "number": 1471,
+  "questionId": "010-1471",
+  "questionNumber": "010-1471",
+  "stemHtml": "<p>\"Expected Approach Time\" is the time ATC expects the aircraft to...</p>",
+  "options": {
+    "a": "leave the holding fix for the approach after a delay.",
+    "b": "arrive overhead for the approach (pilot estimate).",
+    "c": "arrive at the IAF (pilot estimate).",
+    "d": "arrive over the IAF (ATC estimate)."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

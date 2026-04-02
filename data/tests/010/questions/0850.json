@@ -1,0 +1,14 @@
+{
+  "number": 850,
+  "questionId": "010-0850",
+  "questionNumber": "010-0850",
+  "stemHtml": "<p>An aircraft contacts approach control to land. What should ATC report as early as possible?</p><p>1. Approach type and runway<br>2. Met information<br>3. Correct time<br>4. RVR / visibility<br>5. Parking position<br>6. Runway condition</p>",
+  "options": {
+    "a": "2, 3, 4, and 5",
+    "b": "1, 2, 4, and 6",
+    "c": "1, 3, 5, and 6",
+    "d": "2, 3, 4, and 6"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

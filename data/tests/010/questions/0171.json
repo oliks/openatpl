@@ -1,0 +1,14 @@
+{
+  "number": 171,
+  "questionId": "010-0171",
+  "questionNumber": "010-0171",
+  "stemHtml": "<p>An aircraft at FL330 needs to descend to 2000 ft. The transition level is FL045 and the transition altitude is 3000 ft. How does the aircraft receive information about the transition level?</p>",
+  "options": {
+    "a": "<p>Via VOLMET at any altitude.</p>",
+    "b": "<p>Through ATC at 3000 ft.</p>",
+    "c": "<p>Via VOLMET at 4500 ft.</p>",
+    "d": "<p>It is published by ATC in the ATIS broadcast.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

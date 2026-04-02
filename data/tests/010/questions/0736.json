@@ -1,0 +1,14 @@
+{
+  "number": 736,
+  "questionId": "010-0736",
+  "questionNumber": "010-0736",
+  "stemHtml": "<p>Per ICAO Annex 2, a controlled flight in VMC that loses radio contact shall...</p>",
+  "options": {
+    "a": "use the emergency frequency to inform ATC and land at the nearest aerodrome.",
+    "b": "continue in VMC to the nearest suitable aerodrome and report to ATC after landing.",
+    "c": "continue in VMC to the destination and report after landing.",
+    "d": "use visual signals and set transponder to the appropriate code."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

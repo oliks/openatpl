@@ -1,0 +1,14 @@
+{
+  "number": 700,
+  "questionId": "010-0700",
+  "questionNumber": "010-0700",
+  "stemHtml": "<p>When an AIP consists of multiple volumes, which section contains information about aerodrome radio navigation and landing aids, as specified in ICAO Annex 15?</p>",
+  "options": {
+    "a": "<p>En-route (ENR)</p>",
+    "b": "<p>Aerodrome Index (AI)</p>",
+    "c": "Aerodrome (AD)",
+    "d": "General (GEN)"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

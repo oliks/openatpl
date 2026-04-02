@@ -1,0 +1,14 @@
+{
+  "number": 203,
+  "questionId": "010-0203",
+  "questionNumber": "010-0203",
+  "stemHtml": "<p>A crew receives departure clearance but prefers a different route due to forecast bad weather. What should ATC do?</p>",
+  "options": {
+    "a": "Approve only if a new flight plan is filed.",
+    "b": "Suggest cancelling if impractical.",
+    "c": "Advise to continue as cleared.",
+    "d": "Issue an amended clearance with a new route."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

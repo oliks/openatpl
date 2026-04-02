@@ -1,0 +1,14 @@
+{
+  "number": 1006,
+  "questionId": "010-1006",
+  "questionNumber": "010-1006",
+  "stemHtml": "<p>Taxiing to the active runway — which significant weather changes must be transmitted without delay?</p><p>1. QNH<br>2. Current RVR<br>3. Significant wind direction/speed changes<br>4. Sudden visibility changes<br>5. Significant precipitation changes<br>6. Temperature changes</p>",
+  "options": {
+    "a": "1, 3, 4 and 6.",
+    "b": "2, 3, 4 and 5.",
+    "c": "1, 2, 3 and 6.",
+    "d": "2, 4, 5 and 6."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

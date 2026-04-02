@@ -1,0 +1,14 @@
+{
+  "number": 1369,
+  "questionId": "010-1369",
+  "questionNumber": "010-1369",
+  "stemHtml": "<p>An aircraft on an IFR flight in IMC experiences a total radio communication failure. If possible, when should it land?</p>",
+  "options": {
+    "a": "Within 30 minutes of the ETA or the last acknowledged expected approach time, whichever comes later.",
+    "b": "Within 15 minutes after crossing the designated navigation fix from which a standard instrument approach can be made.",
+    "c": "Within 15 minutes of the ETA stated in the current IFR flight plan, or hold at a designated fix.",
+    "d": "<p>Within 10 minutes of the ETA or the last acknowledged expected approach time, whichever comes later.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

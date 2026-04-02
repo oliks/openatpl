@@ -1,0 +1,14 @@
+{
+  "number": 1583,
+  "questionId": "010-1583",
+  "questionNumber": "010-1583",
+  "stemHtml": "ATC gives you traffic information, 4 NM ahead of your position in opposite direction. What should you do?",
+  "options": {
+    "a": "Monitor your ND throughout the TA, and follow the TCAS RA if triggered.",
+    "b": "Start a turn with max bank angle and push back the sidestick to make the turn even tighter.",
+    "c": "Start a turn at a normal rate.",
+    "d": "Start climbing immediately to a higher level."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

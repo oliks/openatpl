@@ -1,0 +1,14 @@
+{
+  "number": 167,
+  "questionId": "010-0167",
+  "questionNumber": "010-0167",
+  "stemHtml": "<p>Which flight receives the highest landing priority?</p>",
+  "options": {
+    "a": "An aircraft requiring an emergency landing.",
+    "b": "An air ambulance carrying a patient needing immediate medical care.",
+    "c": "A military aircraft.",
+    "d": "An aircraft on a diplomatic flight."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

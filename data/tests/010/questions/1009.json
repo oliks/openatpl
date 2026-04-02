@@ -1,0 +1,14 @@
+{
+  "number": 1009,
+  "questionId": "010-1009",
+  "questionNumber": "010-1009",
+  "stemHtml": "<p>Aircraft A and B are both flying to Paris. Aircraft A departs London Heathrow 1 minute ahead of Aircraft B, which departs London City Airport. Both are on magnetic track 150° inbound Paris CDG VOR for holding before landing. What are the appropriate flight levels?</p>",
+  "options": {
+    "a": "<p>Aircraft A: FL250; Aircraft B: FL270.</p>",
+    "b": "<p>Aircraft A: FL270; Aircraft B: FL250.</p>",
+    "c": "<p>Aircraft A: FL260; Aircraft B: FL240.</p>",
+    "d": "<p>Aircraft A: FL240; Aircraft B: FL260.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

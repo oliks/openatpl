@@ -1,0 +1,14 @@
+{
+  "number": 687,
+  "questionId": "010-0687",
+  "questionNumber": "010-0687",
+  "stemHtml": "<p>Three aircraft arrive over the scene of a recent aircraft accident at ten-minute intervals:</p><p>(1) cannot establish contact with the Search and Rescue Centre<br>(2) can contact the Search and Rescue Centre<br>(3) is a Search and Rescue helicopter</p><p>How does command of the situation pass between them?</p>",
+  "options": {
+    "a": "(1) first, then by mutual consent to (2), then to (3).",
+    "b": "(2) first, then by mutual consent to (3) until operations are complete.",
+    "c": "(1) first, then by mutual consent directly to (3).",
+    "d": "(1) until all operations are complete."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

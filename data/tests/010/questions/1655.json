@@ -1,0 +1,14 @@
+{
+  "number": 1655,
+  "questionId": "010-1655",
+  "questionNumber": "010-1655",
+  "stemHtml": "<p>Per ICAO Annex 2, time in aviation is expressed in...</p>",
+  "options": {
+    "a": "Local time.",
+    "b": "UTC.",
+    "c": "GMT.",
+    "d": "Zulu time (same as UTC but with different notation)."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

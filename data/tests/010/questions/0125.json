@@ -1,0 +1,14 @@
+{
+  "number": 125,
+  "questionId": "010-0125",
+  "questionNumber": "010-0125",
+  "stemHtml": "<p>An aircraft is lining up on a runway at a controlled aerodrome. The pilot sees a vehicle entering the runway from another holding point and backtracking. What does this indicate?</p>",
+  "options": {
+    "a": "<p>The runway is controlled, and vehicles require a clearance to enter, preventing hazards for both vehicles and aircraft.</p>",
+    "b": "<p>The runway is non-controlled, so only aircraft need a clearance.</p>",
+    "c": "<p>The runway is non-controlled, so vehicles may enter freely.</p>",
+    "d": "<p>The runway is controlled, but vehicles may enter without clearance to check surface conditions.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

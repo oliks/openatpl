@@ -1,0 +1,14 @@
+{
+  "number": 1657,
+  "questionId": "010-1657",
+  "questionNumber": "010-1657",
+  "stemHtml": "<p>What factors are considered when determining DA/DH?</p>",
+  "options": {
+    "a": "<p>The OCA/H based on the highest obstacle in the approach or missed approach paths, an allowance for aircraft speed and height loss on go-around, plus a margin for operational factors.</p>",
+    "b": "<p>The OCA/H based on the highest obstacle in the missed approach path only, plus a height-loss allowance for go-around.</p>",
+    "c": "<p>The OCA/H based on the highest obstacle in the final approach path only, plus a go-around margin.</p>",
+    "d": "<p>The OCA/H based on the highest obstacle in the final approach path including an aircraft speed allowance, plus a margin.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

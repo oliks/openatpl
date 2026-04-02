@@ -1,0 +1,14 @@
+{
+  "number": 1206,
+  "questionId": "010-1206",
+  "questionNumber": "010-1206",
+  "stemHtml": "<p>A TCAS Resolution Advisory (RA) calls for an immediate descent at the same moment ATC instructs an immediate climb. What should the flight crew do?</p>",
+  "options": {
+    "a": "Obey the TCAS RA and notify ATC accordingly.",
+    "b": "Initiate the climb first, then comply with the TCAS RA.",
+    "c": "Follow the ATC instruction.",
+    "d": "Weigh both instructions and maintain the current level."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

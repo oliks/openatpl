@@ -1,0 +1,14 @@
+{
+  "number": 1001,
+  "questionId": "010-1001",
+  "questionNumber": "010-1001",
+  "stemHtml": "<p>A pilot has begun taxiing for departure on runway 32. It is around midnight and snow is worsening conditions. Although runway 32 is the noise-abatement preference, runway 24 is longer and offers a greater safety margin. The pilot requests ATC clearance for runway 24. What response should the pilot expect?</p>",
+  "options": {
+    "a": "<p>Clearance for runway 24, as safety takes priority over noise abatement.</p>",
+    "b": "<p>Clearance for runway 32, since ATC has sole authority over runway selection.</p>",
+    "c": "<p>Clearance for runway 32, with an instruction to use maximum available thrust.</p>",
+    "d": "<p>Clearance for runway 24, but ATC will be required to file an incident report.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 896,
+  "questionId": "010-0896",
+  "questionNumber": "010-0896",
+  "stemHtml": "<p>On 30 September, a construction site near an aerodrome will erect three cranes: one until 1 December, another until 2 January, and a third until 3 March. How should this information be distributed to pilots?</p>",
+  "options": {
+    "a": "<p>The first crane's information is distributed as a NOTAM; the rest via an AIP supplement.</p>",
+    "b": "<p>The first and second cranes via NOTAM; the third via an AIP supplement.</p>",
+    "c": "<p>All as a NOTAM.</p>",
+    "d": "<p>All as an AIP supplement.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

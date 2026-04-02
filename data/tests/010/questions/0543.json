@@ -1,0 +1,14 @@
+{
+  "number": 543,
+  "questionId": "010-0543",
+  "questionNumber": "010-0543",
+  "stemHtml": "<p>Per ICAO Doc 8168, if a transponder cannot be restored before departure, what is the pilot's primary action?</p>",
+  "options": {
+    "a": "Inform AIS as soon as possible.",
+    "b": "Inform ATC as soon as possible.",
+    "c": "Cancel the flight.",
+    "d": "Inform the RCC as soon as possible."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 459,
+  "questionId": "010-0459",
+  "questionNumber": "010-0459",
+  "stemHtml": "<p>An airway designator should contain:</p>",
+  "options": {
+    "a": "At least 1 letter and 1 number, not exceeding 6 characters.",
+    "b": "At least 2 letters and 2 numbers, not exceeding 6 characters.",
+    "c": "At least 1 letter and 2 numbers, not exceeding 5 characters.",
+    "d": "At least 1 letter and 3 numbers, not exceeding 5 characters."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

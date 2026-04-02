@@ -1,0 +1,14 @@
+{
+  "number": 1225,
+  "questionId": "010-1225",
+  "questionNumber": "010-1225",
+  "stemHtml": "When radar vectoring is ended, what phraseology does the controller use to instruct the pilot to resume navigation?",
+  "options": {
+    "a": "<p>D-CC resume own navigation, direct XX VOR, 270° track 25 miles.</p>",
+    "b": "<p>D-CC resume own navigation, direct XX VOR, 270° T.</p>",
+    "c": "Radar service terminated.",
+    "d": "D-CC resume own navigation, direct XX VOR, 25 miles from YYYY."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

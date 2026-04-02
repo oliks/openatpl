@@ -1,0 +1,14 @@
+{
+  "number": 534,
+  "questionId": "010-0534",
+  "questionNumber": "010-0534",
+  "stemHtml": "<p>Per ICAO Annex 14, mandatory instruction signs include:</p><p>1. Runway designation<br>2. Runway exit<br>3. CAT I/II/III holding position<br>4. Runway-holding position<br>5. Road-holding position<br>6. No entry<br>7. Taxiway location<br>8. Direction</p>",
+  "options": {
+    "a": "2, 3, 4, 5, 7, 8",
+    "b": "2, 3, 4, 5, 6, 7",
+    "c": "1, 3, 4, 5, 8",
+    "d": "1, 3, 4, 5, 6"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 704,
+  "questionId": "010-0704",
+  "questionNumber": "010-0704",
+  "stemHtml": "<p>How is local QNH rounded?</p>",
+  "options": {
+    "a": "Rounded down to the nearest whole hectopascal.",
+    "b": "Rounded up to the nearest tenth.",
+    "c": "Rounded down to the nearest tenth.",
+    "d": "Rounded up to the nearest whole hectopascal."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

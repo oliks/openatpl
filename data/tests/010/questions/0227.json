@@ -1,0 +1,14 @@
+{
+  "number": 227,
+  "questionId": "010-0227",
+  "questionNumber": "010-0227",
+  "stemHtml": "<p>When does an ATC clearance include prevention of collision with terrain?</p>",
+  "options": {
+    "a": "When radar vectoring a VFR flight.",
+    "b": "When an aircraft enters a holding area.",
+    "c": "When an aircraft is in a control zone.",
+    "d": "When radar vectoring an IFR flight."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

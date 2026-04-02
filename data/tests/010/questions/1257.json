@@ -1,0 +1,14 @@
+{
+  "number": 1257,
+  "questionId": "010-1257",
+  "questionNumber": "010-1257",
+  "stemHtml": "<p>TCAS RA commands climb at 2000 ft/min, then seconds later commands descent at 2000 ft/min. What should you do?</p>",
+  "options": {
+    "a": "Stay level — net result is zero.",
+    "b": "Visually confirm traffic before following.",
+    "c": "Ignore the second contradictory RA.",
+    "d": "Follow the RA immediately with minimum flight path deviation."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

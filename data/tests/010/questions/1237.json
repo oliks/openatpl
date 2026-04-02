@@ -1,0 +1,14 @@
+{
+  "number": 1237,
+  "questionId": "010-1237",
+  "questionNumber": "010-1237",
+  "stemHtml": "<p>If the active runway changes, will the ATIS (arrival and departure info) be amended?</p>",
+  "options": {
+    "a": "Yes, within 15 minutes.",
+    "b": "No — changes are transmitted directly by ATC.",
+    "c": "Yes, with the next regular report.",
+    "d": "Yes, immediately."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 844,
+  "questionId": "010-0844",
+  "questionNumber": "010-0844",
+  "stemHtml": "<p>Per ICAO Doc 8168, which statements about the fix tolerance area are correct?</p><p>1. Its dimensions are based on ground system tolerance.<br />2. Its dimensions are based on airborne receiving system tolerance.</p>",
+  "options": {
+    "a": "<p>Both 1 and 2 are correct.</p>",
+    "b": "<p>1 is incorrect, 2 is correct.</p>",
+    "c": "<p>Both are incorrect.</p>",
+    "d": "<p>1 is correct, 2 is incorrect.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

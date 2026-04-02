@@ -1,0 +1,14 @@
+{
+  "number": 1533,
+  "questionId": "010-1533",
+  "questionNumber": "010-1533",
+  "stemHtml": "How is an ATIS broadcast typically transmitted?",
+  "options": {
+    "a": "For arriving and departing aircraft, preferably on a VOR frequency.",
+    "b": "For departing aircraft only, on the ILS localiser frequency.",
+    "c": "For arriving aircraft only, on the ILS localiser frequency.",
+    "d": "For departing and arriving aircraft, lasting one minute, in English only."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

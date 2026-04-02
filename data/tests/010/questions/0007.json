@@ -1,0 +1,14 @@
+{
+  "number": 7,
+  "questionId": "010-0007",
+  "questionNumber": "010-0007",
+  "stemHtml": "ATC must relay essential local traffic information to departing and arriving aircraft without delay. How is \"essential local traffic\" defined?",
+  "options": {
+    "a": "Aircraft, vehicles, or personnel on or near the runway, or traffic in the take-off, climb-out, or final approach area that may pose a collision hazard to departing or arriving aircraft.",
+    "b": "Aircraft, vehicles, or personnel on the runway, or traffic in the take-off, climb-out, or initial approach area that may pose a collision hazard to departing or arriving aircraft.",
+    "c": "Aircraft, vehicles, or personnel on or near the runway, or traffic in the take-off, climb-out, or final approach area that may pose a collision hazard to IFR flights.",
+    "d": "Aircraft, vehicles, or personnel on the runway, or traffic in the take-off, climb-out, or final approach area that may pose a collision hazard to IFR flights."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

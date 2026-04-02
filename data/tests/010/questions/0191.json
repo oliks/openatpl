@@ -1,0 +1,14 @@
+{
+  "number": 191,
+  "questionId": "010-0191",
+  "questionNumber": "010-0191",
+  "stemHtml": "<p>Which statements about the Certificate of Airworthiness are true?</p><p>1. State of Landing may prevent a damaged aircraft from flying<br>2. Non-English certificate needs English translation<br>3. Issued by State of Operator<br>4. Issued by State of Registry<br>5. Valid indefinitely<br>6. Valid if regulations are met<br>7. Shall be carried aboard</p>",
+  "options": {
+    "a": "1, 2, 3, 6, 7",
+    "b": "1, 2, 4, 5, 7",
+    "c": "1, 2, 4, 6, 7",
+    "d": "1, 2, 3, 5, 7"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1083,
+  "questionId": "010-1083",
+  "questionNumber": "010-1083",
+  "stemHtml": "<p>Which element must be in an ATIS message with both arrival and departure info?</p>",
+  "options": {
+    "a": "Transition altitude.",
+    "b": "Wind direction in degrees true.",
+    "c": "Altimeter setting.",
+    "d": "Taxiway conditions."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

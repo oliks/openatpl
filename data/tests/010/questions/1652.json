@@ -1,0 +1,14 @@
+{
+  "number": 1652,
+  "questionId": "010-1652",
+  "questionNumber": "010-1652",
+  "stemHtml": "<p>The ATIS broadcast \"OTOPENI INFORMATION OSCAR\" is expected to contain...</p>",
+  "options": {
+    "a": "approach type, runway(s) in use, present weather.",
+    "b": "STAR(s), runway(s), aerodrome altitude.",
+    "c": "departure route(s), runway(s), altitude.",
+    "d": "taxi delay, runway characteristics, weather."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

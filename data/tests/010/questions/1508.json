@@ -1,0 +1,14 @@
+{
+  "number": 1508,
+  "questionId": "010-1508",
+  "questionNumber": "010-1508",
+  "stemHtml": "<p>Two-way comm failure during IFR in VMC. The correct procedure is to...</p>",
+  "options": {
+    "a": "fly VMC and return to departure.",
+    "b": "maintain assigned level and route, adjust as per flight plan.",
+    "c": "maintain level and route, land where VMC is available.",
+    "d": "fly VMC, land at the nearest suitable aerodrome, report arrival to ATC."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

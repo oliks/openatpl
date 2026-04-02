@@ -1,0 +1,14 @@
+{
+  "number": 658,
+  "questionId": "010-0658",
+  "questionNumber": "010-0658",
+  "stemHtml": "<p>You offset 20 NM left for weather while your route turns right. After clearing the weather, ATC says \"continue own navigation\". What do you do?</p>",
+  "options": {
+    "a": "Ask ATC where to go.",
+    "b": "Hold at the next waypoint.",
+    "c": "Regain track to the coming waypoint.",
+    "d": "Continue with the 20 NM offset."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

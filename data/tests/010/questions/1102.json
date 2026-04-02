@@ -1,0 +1,14 @@
+{
+  "number": 1102,
+  "questionId": "010-1102",
+  "questionNumber": "010-1102",
+  "stemHtml": "<p>Per ICAO Doc 9433, under which circumstance may a civil aircraft be intercepted?</p>",
+  "options": {
+    "a": "Requesting a flight plan change after departure.",
+    "b": "TAS variation exceeding 3% from the planned speed.",
+    "c": "Time estimate for the next reporting point changes by more than 2 minutes.",
+    "d": "Deviating from a designated ATS route without an apparent valid reason."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

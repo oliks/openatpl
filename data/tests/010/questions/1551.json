@@ -1,0 +1,14 @@
+{
+  "number": 1551,
+  "questionId": "010-1551",
+  "questionNumber": "010-1551",
+  "stemHtml": "<p>On a cold winter day with an OAT of -8°C you are under radar vectors. You (1) _____ within the coverage of a navigation aid to verify your position. The altitude assigned by ATC (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) can expect to be; (2) is temperature corrected</p>",
+    "b": "<p>(1) should not expect to be; (2) is not temperature corrected</p>",
+    "c": "<p>(1) can expect to be; (2) is not temperature corrected</p>",
+    "d": "<p>(1) should not expect to be; (2) is temperature corrected</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

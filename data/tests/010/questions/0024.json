@@ -1,0 +1,14 @@
+{
+  "number": 24,
+  "questionId": "010-0024",
+  "questionNumber": "010-0024",
+  "stemHtml": "<p>Altitude should be referred to as flight levels...</p>",
+  "options": {
+    "a": "above the transition altitude.",
+    "b": "above airport elevation.",
+    "c": "above the 1013.25 hPa isobar.",
+    "d": "above the lowest possible altitude."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

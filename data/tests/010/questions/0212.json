@@ -1,0 +1,14 @@
+{
+  "number": 212,
+  "questionId": "010-0212",
+  "questionNumber": "010-0212",
+  "stemHtml": "<p>For a complex multi-engine aircraft type rating, what is its validity period and scope?</p>",
+  "options": {
+    "a": "<p>1 year, valid for that aircraft type only.</p>",
+    "b": "<p>2 years, valid for that aircraft type only.</p>",
+    "c": "<p>1 year, also valid for non-complex aircraft.</p>",
+    "d": "<p>2 years, also valid for non-complex aircraft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

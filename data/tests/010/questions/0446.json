@@ -1,0 +1,14 @@
+{
+  "number": 446,
+  "questionId": "010-0446",
+  "questionNumber": "010-0446",
+  "stemHtml": "<p>Which of the following would trigger the publication of a NOTAM?</p><p>1. Opening, closure, or major operational changes at aerodromes/heliports or runways<br />2. Routine apron and taxiway maintenance that does not affect safe aircraft movement<br />3. Introduction, removal, or significant modification of visual aids<br />4. Failure or restoration of major aerodrome lighting components<br />5. Observations or forecasts of space weather phenomena<br />6. Disease outbreaks requiring changes to inoculation or quarantine measures<br />7. Unserviceability of location, destination, or instruction signs on the movement area</p>",
+  "options": {
+    "a": "1, 3, 4, 5 and 6.",
+    "b": "1, 4, 5 and 7.",
+    "c": "2, 3, 6 and 7.",
+    "d": "<p>1, 2, 4, 5 and 6.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

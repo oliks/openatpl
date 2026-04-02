@@ -1,0 +1,14 @@
+{
+  "number": 649,
+  "questionId": "010-0649",
+  "questionNumber": "010-0649",
+  "stemHtml": "<p>Pre-taxi information ATC should provide (if not already received):</p><p>1. Runway in use<br>2. Vis/RVR<br>3. Significant wind changes<br>4. Transition altitude<br>5. Temperature (turboprops)<br>6. QNH<br>7. Dew point<br>8. Surface condition</p>",
+  "options": {
+    "a": "1, 3, 4, 5, 6, 8.",
+    "b": "1, 2, 3, 5, 6, 8.",
+    "c": "1, 2, 3, 4, 5, 6.",
+    "d": "2, 3, 4, 6, 7, 8."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

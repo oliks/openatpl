@@ -1,0 +1,14 @@
+{
+  "number": 1527,
+  "questionId": "010-1527",
+  "questionNumber": "010-1527",
+  "stemHtml": "<p>ATC issues a clearance to climb to 6000 ft, but the pilot-in-command cannot comply due to stall speed limitations. What is the appropriate course of action?</p>",
+  "options": {
+    "a": "Proceed to the nearest suitable airport for diversion.",
+    "b": "Decline the climb and request a revised clearance.",
+    "c": "Descend to a lower altitude.",
+    "d": "<p>Comply and climb to 6000 ft regardless.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

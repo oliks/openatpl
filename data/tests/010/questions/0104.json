@@ -1,0 +1,14 @@
+{
+  "number": 104,
+  "questionId": "010-0104",
+  "questionNumber": "010-0104",
+  "stemHtml": "<p>An aircraft equipped with SSR is flying in a control zone. ATC does NOT have SSR capability. What transponder mode should the aircraft use?</p>",
+  "options": {
+    "a": "<p>Mode C continuously, Mode A upon request.</p>",
+    "b": "<p>Mode A continuously, Mode C when passing specific altitudes.</p>",
+    "c": "<p>Mode S continuously, Mode A only in emergencies.</p>",
+    "d": "<p>Mode A continuously, Mode C upon request.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1013,
+  "questionId": "010-1013",
+  "questionNumber": "010-1013",
+  "stemHtml": "<p>During cruise, a passenger reports a broken lavatory lock and the crew declares that lavatory inoperative. Under EU occurrence reporting regulations, what action should be taken after the flight?</p>",
+  "options": {
+    "a": "<p>The malfunction should be reported through the operator's voluntary reporting system.</p>",
+    "b": "<p>No action is needed since the report came from a passenger rather than a crew member and this type of defect has no reporting requirement.</p>",
+    "c": "<p>The malfunction must be reported through the operator's mandatory occurrence reporting system.</p>",
+    "d": "<p>The aircraft must be grounded until repaired, and the defect must be reported through the maintenance organisation's reporting system.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

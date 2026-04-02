@@ -1,0 +1,14 @@
+{
+  "number": 1573,
+  "questionId": "010-1573",
+  "questionNumber": "010-1573",
+  "stemHtml": "<p>The basic ATS route designator consists of (1) _____ followed by a number from (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) one letter; (2) 1 to 999.</p>",
+    "b": "<p>(1) one letter; (2) 1 to 9999.</p>",
+    "c": "<p>(1) two letters; (2) 1 to 9999.</p>",
+    "d": "(1) two letters; (2) 1 to 999."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1299,
+  "questionId": "010-1299",
+  "questionNumber": "010-1299",
+  "stemHtml": "<p>Per ICAO Doc 4444, which statement correctly describes the provisions for separating controlled traffic?</p>",
+  "options": {
+    "a": "<p>No clearance shall be issued that would reduce the spacing between two aircraft to less than the applicable separation minimum.</p>",
+    "b": "<p>Vertical or horizontal separation shall be applied between VFR flights in Class C, D, and E airspace.</p>",
+    "c": "<p>Clearances for horizontal separation are only issued during the en-route phase.</p>",
+    "d": "<p>Smaller separations than specified minima may be applied in exceptional circumstances with due regard to all relevant factors.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

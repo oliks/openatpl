@@ -1,0 +1,14 @@
+{
+  "number": 925,
+  "questionId": "010-0925",
+  "questionNumber": "010-0925",
+  "stemHtml": "<p>Your ACN is 45. Taxiway PCN is 50. May you taxi on it?</p>",
+  "options": {
+    "a": "Yes, use is allowed.",
+    "b": "No, need operator waiver.",
+    "c": "No, bearing capacity too low.",
+    "d": "Yes, but overload operation."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

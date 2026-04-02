@@ -1,0 +1,14 @@
+{
+  "number": 1445,
+  "questionId": "010-1445",
+  "questionNumber": "010-1445",
+  "stemHtml": "<p>ICAO Annex 14 describes the PCN/ACN system for pavement strength assessment. Which statement is correct?</p>",
+  "options": {
+    "a": "An aircraft with a given ACN value may operate on a surface with a lower PCN value provided certain operational limitations are observed.",
+    "b": "The PCN must exactly equal the aircraft's ACN for unrestricted operation.",
+    "c": "The published PCN must be equal to or lower than the ACN for continuous unlimited operation.",
+    "d": "An aircraft's ACN is independent of actual weight and tyre pressure and is always reported at maximum weight."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

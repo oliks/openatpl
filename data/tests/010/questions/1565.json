@@ -1,0 +1,14 @@
+{
+  "number": 1565,
+  "questionId": "010-1565",
+  "questionNumber": "010-1565",
+  "stemHtml": "<p>Per ICAO Annex 2, what are the requirements for a simulated instrument flight?</p>",
+  "options": {
+    "a": "<p>The aircraft must have dual controls, and a qualified safety pilot must occupy one of the control seats.</p>",
+    "b": "<p>The aircraft must have a full set of flight instruments at each seat, and a pilot with an instrument rating.</p>",
+    "c": "<p>The aircraft must have two complete sets of controls, a qualified safety pilot at one seat, and the safety pilot must have 360° vision.</p>",
+    "d": "<p>The aircraft must have a full set of flight instruments at each seat, and a qualified flight instructor at one seat.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

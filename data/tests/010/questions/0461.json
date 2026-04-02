@@ -1,0 +1,14 @@
+{
+  "number": 461,
+  "questionId": "010-0461",
+  "questionNumber": "010-0461",
+  "stemHtml": "<p>Given the following SNOWTAMs, what is true about the runway contamination and braking action at 02:25 UTC?</p><p>11300200 04L 5/5/5 75/100/75 NR/03/03 WET/SLUSH/WET SNOW<br />11300225 04R 5/3/2 100/50/75 NR/06/06 WET/SLUSH/SLUSH</p>",
+  "options": {
+    "a": "<p>On the last third of the runway, conditions are medium to poor.</p>",
+    "b": "<p>Conditions are medium just after the threshold.</p>",
+    "c": "<p>On the first half of the runway, conditions are medium to good.</p>",
+    "d": "<p>On the second third of the runway, conditions are medium to good.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

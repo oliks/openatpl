@@ -1,0 +1,14 @@
+{
+  "number": 100,
+  "questionId": "010-0100",
+  "questionNumber": "010-0100",
+  "stemHtml": "<p>Under what conditions must runway signs be illuminated?</p>",
+  "options": {
+    "a": "<p>At night, in connection with instrument runways.</p>",
+    "b": "<p>At night, only for non-precision approach runways.</p>",
+    "c": "<p>At night, for non-instrument runways with code number 2.</p>",
+    "d": "<p>At night, for non-instrument runways with code number 1.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

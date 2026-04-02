@@ -1,0 +1,14 @@
+{
+  "number": 1093,
+  "questionId": "010-1093",
+  "questionNumber": "010-1093",
+  "stemHtml": "<p>A pilot preparing an IFR flight is consulting NOTAMs and AIPs for the relevant data. Which FIRs must be reviewed?</p><p>1. FIR covering the departure aerodrome<br>2. FIR of the entire state<br>3. FIRs of adjacent states<br>4. FIR of the whole continent containing the departure aerodrome<br>5. FIR covering the planned route</p>",
+  "options": {
+    "a": "<p>1, 3 and 5</p>",
+    "b": "<p>1, 2 and 3</p>",
+    "c": "<p>2 only</p>",
+    "d": "<p>1, 3 and 4</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

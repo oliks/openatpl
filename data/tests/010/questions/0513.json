@@ -1,0 +1,14 @@
+{
+  "number": 513,
+  "questionId": "010-0513",
+  "questionNumber": "010-0513",
+  "stemHtml": "<p>An aircraft above the transition level is descending. When may the crew change the altimeter from 1013.2 hPa to QNH?</p>",
+  "options": {
+    "a": "After approach clearance is issued, provided level flight above the transition altitude is not indicated or anticipated.",
+    "b": "Flight above the transition level using QNH is never permitted.",
+    "c": "When atmospheric pressure differs significantly from standard and level flight above the TA is not anticipated.",
+    "d": "Only if specified in Item 18 of the flight plan."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

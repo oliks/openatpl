@@ -1,0 +1,14 @@
+{
+  "number": 56,
+  "questionId": "010-0056",
+  "questionNumber": "010-0056",
+  "stemHtml": "<p>An aircraft at FL330 is about to begin its descent. How and when is the transition level communicated?</p>",
+  "options": {
+    "a": "<p>Via ATIS, with sufficient time before the aircraft descends through the transition level.</p>",
+    "b": "<p>Via VOLMET at any altitude.</p>",
+    "c": "<p>By ATC at 3000 ft.</p>",
+    "d": "<p>By data link at 2500 ft.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

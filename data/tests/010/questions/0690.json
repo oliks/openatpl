@@ -1,0 +1,14 @@
+{
+  "number": 690,
+  "questionId": "010-0690",
+  "questionNumber": "010-0690",
+  "stemHtml": "<p>Based on the following transmissions, identify the service provided by ATS unit B:</p><p>ATS unit A: \"G-CD, cleared to cross A1 at Wicken\"<br>ATS unit B: \"G-CD, suggest right heading 120 degrees\"</p>",
+  "options": {
+    "a": "<p>Air Traffic Advisory Service, offering a lower level of safety than unit A.</p>",
+    "b": "<p>Alerting Service, offering a lower level of safety than unit A.</p>",
+    "c": "<p>Air Traffic Control Service, offering the same level of safety as unit A.</p>",
+    "d": "<p>Air Traffic Control Service, offering a higher level of safety than unit A.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

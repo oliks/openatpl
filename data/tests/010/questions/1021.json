@@ -1,0 +1,14 @@
+{
+  "number": 1021,
+  "questionId": "010-1021",
+  "questionNumber": "010-1021",
+  "stemHtml": "<p>Cleared to hold at VENSA FL080. Weather reports show embedded CB and hail from FL070 up. AWR is unserviceable. What should the crew do?</p>",
+  "options": {
+    "a": "Request a new level at VENSA to avoid the weather.",
+    "b": "Advise ATC immediately that you cannot comply with the clearance.",
+    "c": "Proceed to VENSA and hold at FL080 as cleared.",
+    "d": "Divert to an alternate to avoid the weather."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

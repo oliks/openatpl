@@ -1,0 +1,14 @@
+{
+  "number": 1111,
+  "questionId": "010-1111",
+  "questionNumber": "010-1111",
+  "stemHtml": "<p>What does ATC provide to an aircraft during radar vectoring?</p>",
+  "options": {
+    "a": "<p>Heading instructions.</p>",
+    "b": "<p>Surveillance services.</p>",
+    "c": "<p>Squawk ident requests.</p>",
+    "d": "<p>Traffic advisories.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

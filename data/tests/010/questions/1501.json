@@ -1,0 +1,14 @@
+{
+  "number": 1501,
+  "questionId": "010-1501",
+  "questionNumber": "010-1501",
+  "stemHtml": "<p>State B requires visas from State A passengers. As a pilot arriving in State B, do you need a visa per ICAO Annex 9?</p>",
+  "options": {
+    "a": "Yes — visa rules apply to everyone including crew.",
+    "b": "Yes — a CMC doesn't exempt you.",
+    "c": "No — crew with valid passports are exempt.",
+    "d": "No — your Crew Member Certificate exempts you from visa requirements."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

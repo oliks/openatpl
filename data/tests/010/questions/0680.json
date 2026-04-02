@@ -1,0 +1,14 @@
+{
+  "number": 680,
+  "questionId": "010-0680",
+  "questionNumber": "010-0680",
+  "stemHtml": "<p>Rank the following in order of priority at an aerodrome from lowest to highest:</p><p>1. Aircraft on final<br>2. Aircraft taxiing<br>3. Vehicle moving<br>4. Aircraft being towed</p>",
+  "options": {
+    "a": "<p>3, 4, 2, 1.</p>",
+    "b": "<p>3, 2, 4, 1.</p>",
+    "c": "<p>4, 3, 2, 1.</p>",
+    "d": "<p>2, 3, 4, 1.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

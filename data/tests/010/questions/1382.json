@@ -1,0 +1,14 @@
+{
+  "number": 1382,
+  "questionId": "010-1382",
+  "questionNumber": "010-1382",
+  "stemHtml": "<p>What level should be assigned to the first aircraft to arrive at a holding pattern?</p>",
+  "options": {
+    "a": "The lowest available level in the holding stack.",
+    "b": "The highest available level in the holding stack.",
+    "c": "A level close to its current altitude.",
+    "d": "A level based on the aircraft's wake-turbulence category."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

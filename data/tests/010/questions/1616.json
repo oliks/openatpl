@@ -1,0 +1,14 @@
+{
+  "number": 1616,
+  "questionId": "010-1616",
+  "questionNumber": "010-1616",
+  "stemHtml": "<p>A crew is taxiing for a night departure from runway 27 when they receive a runway condition update — snowfall has made conditions marginal. Runway 27 is normally preferred at night for noise abatement reasons, but the updated conditions make runway 18, which is longer, the safer choice. The crew requests a runway change to 18. What is the most likely ATC response?</p>",
+  "options": {
+    "a": "<p>Clear the departure on runway 27, since selecting the runway in use is solely an ATC decision.</p>",
+    "b": "<p>Clear the departure on runway 18, because safety takes precedence over noise abatement.</p>",
+    "c": "Clear the departure on runway 27 but direct the crew to apply maximum available thrust.",
+    "d": "<p>Clear the departure on runway 18, though ATC will need to file an incident report.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

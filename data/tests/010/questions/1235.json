@@ -1,0 +1,14 @@
+{
+  "number": 1235,
+  "questionId": "010-1235",
+  "questionNumber": "010-1235",
+  "stemHtml": "<p>Which of the following situations may trigger the publication of a NOTAM?</p><p>1. Extended construction work on the aerodrome<br>2. Work or repairs on the fuel supply area<br>3. Elevated security level increasing time at security checks<br>4. Intense solar radiation<br>5. Disease outbreak requiring new passenger vaccinations<br>6. Removal, modification, or installation of aerodrome lighting<br>7. Work on the manoeuvring area that does not affect aircraft movements<br>8. Changes to aerodrome designation signs</p>",
+  "options": {
+    "a": "1, 2, 4, 5 and 8",
+    "b": "1, 2, 3, 4 and 8",
+    "c": "1, 2, 4, 7 and 8",
+    "d": "1, 2, 4, 6 and 8"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

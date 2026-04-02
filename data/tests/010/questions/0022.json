@@ -1,0 +1,14 @@
+{
+  "number": 22,
+  "questionId": "010-0022",
+  "questionNumber": "010-0022",
+  "stemHtml": "<p>A flight is planned to arrive at 19:00. The destination AIS normally closes at 20:00. If the flight is delayed, until when could the AIS continue service?</p>",
+  "options": {
+    "a": "<p>22:00.</p>",
+    "b": "<p>24:00.</p>",
+    "c": "<p>20:00.</p>",
+    "d": "<p>19:00.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

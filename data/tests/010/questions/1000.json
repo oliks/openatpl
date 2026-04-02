@@ -1,0 +1,14 @@
+{
+  "number": 1000,
+  "questionId": "010-1000",
+  "questionNumber": "010-1000",
+  "stemHtml": "<p>Cleared to cross runway 15 to the holding position. A red crossbar is lit. You may proceed...</p>",
+  "options": {
+    "a": "after clearance when the green light shows.",
+    "b": "after clearance and the light is switched off.",
+    "c": "without clearance — runway 15 isn't in use.",
+    "d": "without clearance when the light turns off."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

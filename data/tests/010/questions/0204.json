@@ -1,0 +1,14 @@
+{
+  "number": 204,
+  "questionId": "010-0204",
+  "questionNumber": "010-0204",
+  "stemHtml": "<p>ATC has both PSR and SSR (Primary and Secondary Surveillance Radar) available. By which methods can an aircraft be identified?</p><p>1) Assigning a specific squawk code<br>2) Requesting squawk IDENT<br>3) Requesting an emergency squawk code<br>4) Instructing the aircraft to turn 30 degrees<br>5) Instructing the aircraft to climb or descend</p>",
+  "options": {
+    "a": "1, 2 and 4",
+    "b": "1, 2 and 5",
+    "c": "2, 3 and 4",
+    "d": "1, 3 and 5"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

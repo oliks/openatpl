@@ -1,0 +1,14 @@
+{
+  "number": 275,
+  "questionId": "010-0275",
+  "questionNumber": "010-0275",
+  "stemHtml": "All passenger seats on the aircraft are occupied, and an additional passenger requests to board. What options are available?",
+  "options": {
+    "a": "The additional passenger is not permitted in the cockpit under any circumstances, although the captain may allow another crew member on the jump seat.",
+    "b": "The passenger may be allowed to occupy the cockpit jump seat, subject to the Operations Manual provisions, with the captain making the final decision.",
+    "c": "The captain may decide whether the extra passenger can be accommodated, considering all available seating throughout the aircraft.",
+    "d": "The passenger must find alternative arrangements as no passengers are ever allowed in the cockpit."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

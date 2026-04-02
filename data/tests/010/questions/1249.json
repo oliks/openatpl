@@ -1,0 +1,14 @@
+{
+  "number": 1249,
+  "questionId": "010-1249",
+  "questionNumber": "010-1249",
+  "stemHtml": "<p>During flight, a change from IFR to VFR can only be accepted when…</p>",
+  "options": {
+    "a": "<p>It is initiated by the pilot.</p>",
+    "b": "It is initiated by ATC.",
+    "c": "ATC has confirmed all other ATS units agree with the change.",
+    "d": "ATC has verified VFR conditions will persist for the rest of the flight."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 955,
+  "questionId": "010-0955",
+  "questionNumber": "010-0955",
+  "stemHtml": "<p>Which statements about runway strips are correct?</p><p>1. Includes stopway or RESA<br>2. Includes runway and stopway<br>3. No moving objects except emergency<br>4. No fixed objects except frangible navaids<br>5. Extends laterally at least 50m<br>6. Includes only the runway<br>7. At least 75m from centreline<br>8. Extends to stopway end<br>9. Width equals runway width</p>",
+  "options": {
+    "a": "1, 4, 5, 7",
+    "b": "2, 3, 6, 9",
+    "c": "2, 4, 6, 8",
+    "d": "1, 4, 5, 8"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

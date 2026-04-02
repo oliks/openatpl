@@ -1,0 +1,14 @@
+{
+  "number": 400,
+  "questionId": "010-0400",
+  "questionNumber": "010-0400",
+  "stemHtml": "<p>When would all four declared distances (TORA, TODA, ASDA, LDA) be equal?</p>",
+  "options": {
+    "a": "No stopway and no displaced threshold.",
+    "b": "Stopway and clearway equal, no displaced threshold.",
+    "c": "No stopway or clearway, and no displaced threshold.",
+    "d": "No stopway or clearway, but with a displaced threshold."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

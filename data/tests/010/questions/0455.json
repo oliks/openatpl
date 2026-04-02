@@ -1,0 +1,14 @@
+{
+  "number": 455,
+  "questionId": "010-0455",
+  "questionNumber": "010-0455",
+  "stemHtml": "<p>Both VORs at an airport are inoperative, and as a result aircraft are being vectored to runway 14. Which option ATC instructions is correct is such a situation?</p>",
+  "options": {
+    "a": "<p>Resume own navigation, position is ... proceed via ... for ILS approach runway 14.</p>",
+    "b": "<p>Only “resume own navigation”.</p>",
+    "c": "<p>Radar vectors terminated, resume previously assigned navigation.</p>",
+    "d": "<p>Radar vectoring terminated, position is ... proceed via ... for ILS approach runway 14.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

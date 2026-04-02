@@ -1,0 +1,14 @@
+{
+  "number": 255,
+  "questionId": "010-0255",
+  "questionNumber": "010-0255",
+  "stemHtml": "<p>The MAPt of a non-precision approach might be...</p>",
+  "options": {
+    "a": "a navaid, a fix, or a specified distance from the FAF.",
+    "b": "always at the inner marker.",
+    "c": "not applicable — only used for precision approaches.",
+    "d": "the intersection of electronic glide path with DA/DH."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1024,
+  "questionId": "010-1024",
+  "questionNumber": "010-1024",
+  "stemHtml": "<p dir=\"ltr\">Consider EU Regulations on accidents, incidents, and occurrences in aviation. Which option options is correct?</p>",
+  "options": {
+    "a": "<p dir=\"ltr\">Reg.(EU) 996/2010 addresses safety investigations but excludes, amongst others, incident investigation involving military aircraft; Reg. (EU) 376/2014 adresses occurrence reporting and use of safety information in order to improve aviation safety.</p>",
+    "b": "Reg.(EU) 996/2010 contains procedures for the investigation of occurrences and incidents; Reg(EU) 376/2014 contains the procedures for the investigation of accidents: both regulations aim to prove aviation safety.",
+    "c": "<p dir=\"ltr\">Reg.(EU) 996/2010 addresses accident and incident investigations, and implements the SARPs of ICAO Annex 13; Reg.(EU) 376/2014 contains procedures for accident and incident investigations, applicable to all ICAO Member States.</p>",
+    "d": "<p dir=\"ltr\">Reg.(EU) 996/2010 addresses accident and incident investigations for aircraft with an MTOM > 5700 kg; Reg.(EU) 376/2014 regulates accident and incident investigations for aircraft with an MTOM =< 5700 kg.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

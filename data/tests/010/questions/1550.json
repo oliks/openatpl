@@ -1,0 +1,14 @@
+{
+  "number": 1550,
+  "questionId": "010-1550",
+  "questionNumber": "010-1550",
+  "stemHtml": "<p>When must ATC be informed if a controlled flight inadvertently deviates from its plan?</p>",
+  "options": {
+    "a": "When the estimated time to the next point is in error by more than 3 minutes.",
+    "b": "When a cabin depressurisation occurs.",
+    "c": "When any track deviation is made.",
+    "d": "When the average TAS varies by ±5% from the flight plan value."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

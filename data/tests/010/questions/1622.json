@@ -1,0 +1,14 @@
+{
+  "number": 1622,
+  "questionId": "010-1622",
+  "questionNumber": "010-1622",
+  "stemHtml": "<p>Per ICAO Annex 14, how does adding a stopway affect declared distances?</p>",
+  "options": {
+    "a": "ASDA increases; TORA, TODA, and LDA remain unchanged.",
+    "b": "LDA increases; ASDA, TORA, and TODA remain unchanged.",
+    "c": "ASDA, TORA, and TODA increase; LDA remains unchanged.",
+    "d": "ASDA and TORA increase; TODA and LDA remain unchanged."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

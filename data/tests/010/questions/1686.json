@@ -1,0 +1,14 @@
+{
+  "number": 1686,
+  "questionId": "010-1686",
+  "questionNumber": "010-1686",
+  "stemHtml": "<p>How should these events be classified?</p><p>(1) An aircraft has a near miss that nearly led to a collision.<br>(2) Another aircraft sustains damage to its landing gear and fuselage.</p>",
+  "options": {
+    "a": "<p>(1) Serious incident (near collision); (2) Accident (fuselage damage).</p>",
+    "b": "<p>(1) Serious incident; (2) Serious incident.</p>",
+    "c": "<p>(1) Accident (near collision); (2) Serious incident.</p>",
+    "d": "<p>(1) Accident; (2) Accident.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

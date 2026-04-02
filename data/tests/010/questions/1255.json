@@ -1,0 +1,14 @@
+{
+  "number": 1255,
+  "questionId": "010-1255",
+  "questionNumber": "010-1255",
+  "stemHtml": "<p>Is it sufficient for the PIC to study only current weather before an IFR departure?</p>",
+  "options": {
+    "a": "No — forecast weather must also be studied.",
+    "b": "Yes — a forecast study should be done during the flight.",
+    "c": "No — the operator is responsible for providing weather data.",
+    "d": "Yes — the weather will change anyway."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

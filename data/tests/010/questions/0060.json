@@ -1,0 +1,14 @@
+{
+  "number": 60,
+  "questionId": "010-0060",
+  "questionNumber": "010-0060",
+  "stemHtml": "<p>A holding pattern at a VOR has the following parameters: standard turns, 1-minute outbound leg, inbound magnetic track 010°. An aircraft approaches the VOR on a heading of 030°. Which entry procedure is appropriate?</p>",
+  "options": {
+    "a": "<p>teardrop.</p>",
+    "b": "<p>parallel.</p>",
+    "c": "<p>offset or parallel.</p>",
+    "d": "<p>direct.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

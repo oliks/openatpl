@@ -1,0 +1,14 @@
+{
+  "number": 1721,
+  "questionId": "010-1721",
+  "questionNumber": "010-1721",
+  "stemHtml": "<p>Aircraft A has clearance to land on RWY 35L. On final, the pilot spots an unexpected aircraft B on final for the same runway at a lower altitude. What should aircraft A do?</p>",
+  "options": {
+    "a": "Give way to aircraft B and notify ATC.",
+    "b": "Continue the approach per the clearance.",
+    "c": "Accelerate to overtake aircraft B.",
+    "d": "Descend below aircraft B and inform ATC."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

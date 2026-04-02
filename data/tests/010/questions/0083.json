@@ -1,0 +1,14 @@
+{
+  "number": 83,
+  "questionId": "010-0083",
+  "questionNumber": "010-0083",
+  "stemHtml": "<p>Take-Off Distance Available (TODA) is defined as the…</p>",
+  "options": {
+    "a": "<p>TORA plus the length of any provided clearway.</p>",
+    "b": "<p>TORA plus the length of any provided stopway.</p>",
+    "c": "<p>Runway length plus the length of any provided clearway.</p>",
+    "d": "<p>TORA plus the length of any provided stopway and clearway.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

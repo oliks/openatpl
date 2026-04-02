@@ -1,0 +1,14 @@
+{
+  "number": 99,
+  "questionId": "010-0099",
+  "questionNumber": "010-0099",
+  "stemHtml": "<p>QNH measured as 1008.8 hPa. What value is reported in METAR/ATIS?</p>",
+  "options": {
+    "a": "1008 hPa",
+    "b": "1009 hPa",
+    "c": "1010 hPa",
+    "d": "1006 hPa"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

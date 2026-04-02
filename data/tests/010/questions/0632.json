@@ -1,0 +1,14 @@
+{
+  "number": 632,
+  "questionId": "010-0632",
+  "questionNumber": "010-0632",
+  "stemHtml": "<p>Can an IFR flight in VMC in controlled airspace change to VFR?</p>",
+  "options": {
+    "a": "No — IFR in VMC must remain IFR.",
+    "b": "No — IFR in VMC is prohibited.",
+    "c": "Yes — notify ATS using \"Cancelling my IFR flight\".",
+    "d": "Yes — but ATS must invite the change."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

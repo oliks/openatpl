@@ -1,0 +1,14 @@
+{
+  "number": 1040,
+  "questionId": "010-1040",
+  "questionNumber": "010-1040",
+  "stemHtml": "<p>When is flight above a congested area permitted?</p><p>1. With 1000 ft clearance within 8 km<br>2. Landing at a certified area<br>3. With authority authorisation<br>4. During take-off<br>5. During approach<br>6. In controlled airspace<br>7. In an emergency</p>",
+  "options": {
+    "a": "1, 3, 4, 6, 7",
+    "b": "2, 3, 4, 5, 7",
+    "c": "1, 2, 3, 4, 7",
+    "d": "2, 3, 4, 6, 7"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

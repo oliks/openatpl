@@ -1,0 +1,14 @@
+{
+  "number": 1528,
+  "questionId": "010-1528",
+  "questionNumber": "010-1528",
+  "stemHtml": "<p>A speed restriction of 120 knots is assigned. How does this affect compulsory position reports?</p>",
+  "options": {
+    "a": "<p>The 120 kt restriction must be reported when changing ATC frequency.</p>",
+    "b": "<p>No speed report is needed since time is already part of the position report.</p>",
+    "c": "<p>Speed must be reported as mandatory.</p>",
+    "d": "<p>Time should be reported instead of speed.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

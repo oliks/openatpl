@@ -1,0 +1,14 @@
+{
+  "number": 1290,
+  "questionId": "010-1290",
+  "questionNumber": "010-1290",
+  "stemHtml": "<p>Parallel runway instrument operations:</p><p>1. Independent = both for departures<br>2. Independent = one for dep, one for arr<br>3. Tracks must diverge immediately<br>4. Dependent approaches<br>5. Independent approaches<br>6. Segregated = one dep, one arr</p><p>Which is correct for departures and arrivals?</p>",
+  "options": {
+    "a": "Dep: 2, 3; Arr: 2, 4",
+    "b": "Dep: 1, 3; Arr: 4, 5",
+    "c": "Dep: 1, 3; Arr: 5, 6",
+    "d": "Dep: 2, 3; Arr: 4, 6"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

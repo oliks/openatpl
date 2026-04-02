@@ -1,0 +1,14 @@
+{
+  "number": 575,
+  "questionId": "010-0575",
+  "questionNumber": "010-0575",
+  "stemHtml": "<p>Which list contains only items requiring mandatory readback?</p>",
+  "options": {
+    "a": "QNH, SSR code, and approach aid serviceability.",
+    "b": "ATC clearance, speed instructions, and runway state.",
+    "c": "SSR code, QNH, take-off clearance, and speed instructions.",
+    "d": "QNH, weather, and runway-in-use."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

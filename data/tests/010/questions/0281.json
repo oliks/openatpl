@@ -1,0 +1,14 @@
+{
+  "number": 281,
+  "questionId": "010-0281",
+  "questionNumber": "010-0281",
+  "stemHtml": "<p>Under what condition may pilots squawk IDENT?</p>",
+  "options": {
+    "a": "Only when instructed to do so by ATC.",
+    "b": "Only when operating with a Mode C transponder.",
+    "c": "Only when operating within controlled airspace.",
+    "d": "Only when operating outside controlled airspace."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

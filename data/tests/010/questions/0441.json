@@ -1,0 +1,14 @@
+{
+  "number": 441,
+  "questionId": "010-0441",
+  "questionNumber": "010-0441",
+  "stemHtml": "<p>Per ICAO Doc 8168 (PANS-OPS), which of these SIDs qualify as straight departures?</p><p>1. SID RWY 26: initial track 4° left of runway alignment<br>2. SID RWY 14: initial track 20° right of runway alignment<br>3. SID RWY 08: initial track 10° right of runway alignment<br>4. SID RWY 05: initial track 16° left of runway alignment</p>",
+  "options": {
+    "a": "<p>1 and 3 only.</p>",
+    "b": "<p>2 and 4 only.</p>",
+    "c": "2, 3 and 4.",
+    "d": "1, 3 and 4."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

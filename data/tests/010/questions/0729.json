@@ -1,0 +1,14 @@
+{
+  "number": 729,
+  "questionId": "010-0729",
+  "questionNumber": "010-0729",
+  "stemHtml": "<p>Per ICAO Doc 4444:</p><p>1. Crew shall read back safety-related parts of voice ATC clearances<br>2. Route clearances, runway, QNH and wind should always be read back</p>",
+  "options": {
+    "a": "1 correct; 2 incorrect.",
+    "b": "1 incorrect; 2 correct.",
+    "c": "Both correct.",
+    "d": "Both incorrect."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 427,
+  "questionId": "010-0427",
+  "questionNumber": "010-0427",
+  "stemHtml": "<p>The OCH for a precision approach is...</p>",
+  "options": {
+    "a": "The lowest height above ground for a missed approach.",
+    "b": "The lowest height above threshold, or the elevation if the threshold elevation is less.",
+    "c": "The lowest height above threshold at which a missed approach must be initiated if required visual reference is not established.",
+    "d": "The lowest altitude below which flight is not permitted."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

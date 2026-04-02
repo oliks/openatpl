@@ -1,0 +1,14 @@
+{
+  "number": 78,
+  "questionId": "010-0078",
+  "questionNumber": "010-0078",
+  "stemHtml": "<p>Cruising IFR in uncontrolled airspace at 2600 ft. Is this permitted?</p>",
+  "options": {
+    "a": "Yes, if the competent authority uses flight levels from 3000 ft and above.",
+    "b": "Yes, if transition altitude is below 3000 ft.",
+    "c": "No, IFR below 3000 ft is not allowed.",
+    "d": "No, should be at FL20 or FL30."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

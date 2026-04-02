@@ -1,0 +1,14 @@
+{
+  "number": 16,
+  "questionId": "010-0016",
+  "questionNumber": "010-0016",
+  "stemHtml": "<p>If a transponder fails before departure at an aerodrome where repair is not possible…</p>",
+  "options": {
+    "a": "<p>A flight to the nearest airport where repair can be made is permitted.</p>",
+    "b": "<p>The flight may continue to destination only under VFR in VMC.</p>",
+    "c": "<p>No flight may be made.</p>",
+    "d": "<p>The flight may continue to destination only.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

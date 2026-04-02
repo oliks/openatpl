@@ -1,0 +1,14 @@
+{
+  "number": 213,
+  "questionId": "010-0213",
+  "questionNumber": "010-0213",
+  "stemHtml": "<p>Determine the correct VFR flight level given:</p><p>Compass heading: 175°<br />Deviation: 4°E<br />Variation: 1°W</p>",
+  "options": {
+    "a": "FL75",
+    "b": "FL65",
+    "c": "FL70",
+    "d": "FL60"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

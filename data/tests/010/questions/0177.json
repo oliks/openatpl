@@ -1,0 +1,14 @@
+{
+  "number": 177,
+  "questionId": "010-0177",
+  "questionNumber": "010-0177",
+  "stemHtml": "<p>An Italian-registered aircraft departs the USA for France. While still over US territory in IMC above the Atlantic, it experiences radio failure. The US AIP's radio failure procedure differs from ICAO Annex 2. Which procedure should be followed?</p>",
+  "options": {
+    "a": "<p>Per ICAO Annex 2 and Part-SERA, the US procedure must be followed.</p>",
+    "b": "<p>Per Part-SERA, European rules apply since they comply with US rules.</p>",
+    "c": "<p>Per ICAO Annex 2, the French procedure applies because France is the destination.</p>",
+    "d": "<p>Per Italian rules, the Italian procedure applies because the aircraft is Italian-registered.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

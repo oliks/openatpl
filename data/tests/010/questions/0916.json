@@ -1,0 +1,14 @@
+{
+  "number": 916,
+  "questionId": "010-0916",
+  "questionNumber": "010-0916",
+  "stemHtml": "<p>A B777 is executing a precision approach. Find the appropriate limit to be used based on the following data?</p><p>CAT A/B minimum: 400 ft<br>CAT C/D minimum: 450 ft<br>Safe operation margin: +50 ft</p>",
+  "options": {
+    "a": "<p>500 ft DH</p>",
+    "b": "<p>450 ft MDH</p>",
+    "c": "<p>450 ft DH</p>",
+    "d": "<p>500 ft MDH</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

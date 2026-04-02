@@ -1,0 +1,14 @@
+{
+  "number": 831,
+  "questionId": "010-0831",
+  "questionNumber": "010-0831",
+  "stemHtml": "<p>Aircraft A at FL170 wants FL160, occupied by Aircraft B. B then requests FL120 and reports vacating FL160. ATC may delay A's descent to FL160 if...</p>",
+  "options": {
+    "a": "B has a significantly higher descent rate than A.",
+    "b": "A has a significantly higher descent rate than B.",
+    "c": "A has an unserviceable transponder.",
+    "d": "A lacks CPDLC."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1436,
+  "questionId": "010-1436",
+  "questionNumber": "010-1436",
+  "stemHtml": "<p>When can a TCAS \"CLIMB\" RA be ignored?</p>",
+  "options": {
+    "a": "When traffic is at least 5 NM away.",
+    "b": "If ATC says to ignore it.",
+    "c": "In case of terrain alert.",
+    "d": "If you receive a stall warning."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

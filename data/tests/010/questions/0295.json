@@ -1,0 +1,14 @@
+{
+  "number": 295,
+  "questionId": "010-0295",
+  "questionNumber": "010-0295",
+  "stemHtml": "<p>On an aerodrome with parallel runways, how is the runway designation number supplemented?</p>",
+  "options": {
+    "a": "For two parallel runways, by the letters \"L\" and \"R\" in sequence from left to right.",
+    "b": "For three parallel runways, \"L\" for the leftmost, one \"R\" for the centre, and two \"R\" for the rightmost.",
+    "c": "For two parallel runways, by adding 10 to the left runway designation and subtracting 10 from the right.",
+    "d": "For three parallel runways, \"L\" and \"R\" for the outer runways with no supplement for the centre."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

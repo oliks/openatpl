@@ -1,0 +1,14 @@
+{
+  "number": 1641,
+  "questionId": "010-1641",
+  "questionNumber": "010-1641",
+  "stemHtml": "<p>An aircraft is registered in Morocco and operated in Tunisia. During a flight from Egypt to Germany, should the aircraft follow European regulations?</p>",
+  "options": {
+    "a": "<p>Yes, only in airspace where ATS is provided by an EU State.</p>",
+    "b": "<p>Yes, always.</p>",
+    "c": "<p>No, it should follow the state of registry regulations.</p>",
+    "d": "<p>No, it should follow the state of operator regulations.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

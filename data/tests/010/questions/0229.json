@@ -1,0 +1,14 @@
+{
+  "number": 229,
+  "questionId": "010-0229",
+  "questionNumber": "010-0229",
+  "stemHtml": "<p>A pilot forgets to close the flight plan. 30 minutes pass after the ETA. What happens?</p>",
+  "options": {
+    "a": "Nothing.",
+    "b": "ATC is disrupted; a costly SAR operation may begin.",
+    "c": "ATC calls the pilot; no further consequence.",
+    "d": "Closing is good airmanship but has no further effect."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

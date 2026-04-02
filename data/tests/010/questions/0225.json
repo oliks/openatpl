@@ -1,0 +1,14 @@
+{
+  "number": 225,
+  "questionId": "010-0225",
+  "questionNumber": "010-0225",
+  "stemHtml": "<p>Altimeter (0–30,000 ft) at a known elevation with QNH set. It reads the elevation...</p>",
+  "options": {
+    "a": "plus instrument height above ground, ±80 ft.",
+    "b": "±80 ft.",
+    "c": "plus instrument height above ground, ±60 ft.",
+    "d": "±25 ft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

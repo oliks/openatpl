@@ -1,0 +1,14 @@
+{
+  "number": 163,
+  "questionId": "010-0163",
+  "questionNumber": "010-0163",
+  "stemHtml": "<p>An aircraft reaches the holding fix at 15:30. ATC gives an EAT of 15:38. When should the pilot cross the fix to leave?</p>",
+  "options": {
+    "a": "At 15:39 — slightly late is safer.",
+    "b": "At 15:37 — time for a 360° turn if needed.",
+    "c": "At 15:38 — to comply with the EAT.",
+    "d": "Any time while maintaining ATC clearance."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

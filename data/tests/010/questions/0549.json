@@ -1,0 +1,14 @@
+{
+  "number": 549,
+  "questionId": "010-0549",
+  "questionNumber": "010-0549",
+  "stemHtml": "The crew of a Boeing 747 on a transoceanic flight have been assigned a speed of Mach 0.76 in order to provide longitudinal separation using the Mach number technique. Suddenly, the aircraft experiences severe turbulence and has to decrease speed. What does the crew have to do, with regards to their longitudinal separation?",
+  "options": {
+    "a": "They must contact ATC to notify them of the change as soon as possible.",
+    "b": "They can reduce their speed immediately as the traffic behind will also have to reduce speed due to turbulence.",
+    "c": "Reduce Mach number without contacting ATC.",
+    "d": "They can change their Mach number by up to M0.05 without notifying ATC."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 300,
+  "questionId": "010-0300",
+  "questionNumber": "010-0300",
+  "stemHtml": "<p>Per ICAO Annex 2, IFR navigation equipment must be...</p>",
+  "options": {
+    "a": "one VOR and one ADF.",
+    "b": "one VOR, ADF, and DME.",
+    "c": "VOR, ADF, DME, and GNSS.",
+    "d": "suitable and appropriate for the route to be flown."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

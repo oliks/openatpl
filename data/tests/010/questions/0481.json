@@ -1,0 +1,14 @@
+{
+  "number": 481,
+  "questionId": "010-0481",
+  "questionNumber": "010-0481",
+  "stemHtml": "<p>After refuelling, the tanks hold 2900 kg more than planned. What should be done?</p>",
+  "options": {
+    "a": "Check ZFM is within limits and proceed.",
+    "b": "Always defuel.",
+    "c": "Redo performance calculations and check aircraft/runway conditions.",
+    "d": "Extra fuel won't significantly affect performance — proceed."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

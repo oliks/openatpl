@@ -1,0 +1,14 @@
+{
+  "number": 1099,
+  "questionId": "010-1099",
+  "questionNumber": "010-1099",
+  "stemHtml": "<p>Mishandled baggage arrives at State A instead of State B. What happens?</p>",
+  "options": {
+    "a": "Subject to State A taxes and customs.",
+    "b": "Cleared if under 12 kg.",
+    "c": "Transported as cargo; operator presents it in State B for customs.",
+    "d": "Not transported — returned to owner."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

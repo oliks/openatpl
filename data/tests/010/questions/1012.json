@@ -1,0 +1,14 @@
+{
+  "number": 1012,
+  "questionId": "010-1012",
+  "questionNumber": "010-1012",
+  "stemHtml": "<p>Multi-engine aircraft 50 NM from departure at FL120. Engine failure, must divert, but 15,000 kg over max landing mass. Airport elevation 2000 ft. What should ATC do for fuel dumping?</p>",
+  "options": {
+    "a": "Hold at present position and dump immediately.",
+    "b": "Clear direct; dump on final.",
+    "c": "Vector to an area at minimum 6000 ft AMSL or 2000 ft AGL, clear of traffic.",
+    "d": "Clear to any area clear of traffic regardless of altitude."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

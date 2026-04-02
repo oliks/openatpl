@@ -1,0 +1,14 @@
+{
+  "number": 1633,
+  "questionId": "010-1633",
+  "questionNumber": "010-1633",
+  "stemHtml": "<p>Unidentified baggage arrives at the wrong airport. What should the destination do?</p>",
+  "options": {
+    "a": "Allow the operator to forward it to the owner's destination.",
+    "b": "Forward it without clearance.",
+    "c": "Store it until the next flight.",
+    "d": "Retain it until the passenger claims it."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1456,
+  "questionId": "010-1456",
+  "questionNumber": "010-1456",
+  "stemHtml": "<p>What is the minimum flight altitude for an IFR flight over mountainous terrain?</p>",
+  "options": {
+    "a": "At least 600 m (2000 ft) above the highest obstacle within 8 km of the estimated position.",
+    "b": "At least 600 m (2000 ft) above the highest obstacle within 25 NM of the estimated position.",
+    "c": "At least 600 m (2000 ft) above the highest obstacle within 8 NM of the estimated position.",
+    "d": "At least 300 m (1000 ft) above the highest obstacle within 8 km of the estimated position."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

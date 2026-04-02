@@ -1,0 +1,14 @@
+{
+  "number": 1333,
+  "questionId": "010-1333",
+  "questionNumber": "010-1333",
+  "stemHtml": "<p>Why is a single upper FIR covering several lower FIRs desirable?</p>",
+  "options": {
+    "a": "To limit VHF frequency changes for low-flying aircraft.",
+    "b": "To limit FIRs for low-flying aircraft.",
+    "c": "To limit VLF changes for high-flying aircraft.",
+    "d": "To limit FIRs a high-flying aircraft must operate in."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

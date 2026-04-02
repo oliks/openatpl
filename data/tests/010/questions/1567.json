@@ -1,0 +1,14 @@
+{
+  "number": 1567,
+  "questionId": "010-1567",
+  "questionNumber": "010-1567",
+  "stemHtml": "<p>An aircraft on an IFR flight is performing a circling approach. Descent below the MDA should not be made until which conditions are met?</p><p>1. The landing threshold is in sight<br>2. Visual reference is established and can be maintained<br>3. Required obstacle clearance can be maintained and a landing can be made<br>4. The circling manoeuvre lights are in sight</p>",
+  "options": {
+    "a": "<p>1, 2 and 3.</p>",
+    "b": "<p>2 and 3.</p>",
+    "c": "<p>1 and 2.</p>",
+    "d": "<p>1, 3 and 4.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

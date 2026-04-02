@@ -1,0 +1,14 @@
+{
+  "number": 6,
+  "questionId": "010-0006",
+  "questionNumber": "010-0006",
+  "stemHtml": "<p>The transition level is...</p>",
+  "options": {
+    "a": "the highest FL below the transition altitude.",
+    "b": "published in the AIP MAP section.",
+    "c": "the lowest FL available above the transition altitude.",
+    "d": "calculated by the PIC for each approach."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

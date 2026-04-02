@@ -1,0 +1,14 @@
+{
+  "number": 1466,
+  "questionId": "010-1466",
+  "questionNumber": "010-1466",
+  "stemHtml": "<p>For which flights is an ATC clearance required?</p>",
+  "options": {
+    "a": "<p>IFR or VFR flights in Class B, C, or D.</p>",
+    "b": "<p>IFR flights in Class E and F.</p>",
+    "c": "<p>IFR flights in Class B and C only.</p>",
+    "d": "<p>VFR flights in Class D and E.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

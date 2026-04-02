@@ -1,0 +1,14 @@
+{
+  "number": 1038,
+  "questionId": "010-1038",
+  "questionNumber": "010-1038",
+  "stemHtml": "<p>Two aircraft are holding. Aircraft A is higher than B. Both need to descend. How does ATC maintain separation?</p>",
+  "options": {
+    "a": "B gets a minimum descent rate; A gets a maximum descent rate.",
+    "b": "B gets a minimum descent rate; A gets a minimum descent rate.",
+    "c": "B gets an average descent rate; A gets a minimum descent rate.",
+    "d": "B gets a maximum descent rate; A gets a minimum descent rate."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

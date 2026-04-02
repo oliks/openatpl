@@ -1,0 +1,14 @@
+{
+  "number": 1628,
+  "questionId": "010-1628",
+  "questionNumber": "010-1628",
+  "stemHtml": "<p>Which items must be included in a repetitive flight plan (RPL) for an international departure?</p><p>1. Aircraft identification<br />2. Aircraft type and wake turbulence category<br />3. Number of passengers<br />4. Departure aerodrome<br />5. Cruising speed<br />6. Number of crew members<br />7. Fuel on board<br />8. ILS capability</p>",
+  "options": {
+    "a": "<p>1, 2, 4 and 5</p>",
+    "b": "<p>2, 4, 5 and 7</p>",
+    "c": "<p>1, 3, 4 and 6</p>",
+    "d": "<p>1, 2, 4 and 8</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

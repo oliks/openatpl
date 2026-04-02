@@ -1,0 +1,14 @@
+{
+  "number": 1144,
+  "questionId": "010-1144",
+  "questionNumber": "010-1144",
+  "stemHtml": "<p>Under SERA, what minimum distance from clouds is required for a VFR flight in the following conditions?</p><p>Airspace: Class G<br />Aircraft altitude: 3500 ft AMSL<br />Terrain elevation: 2800 ft AMSL</p>",
+  "options": {
+    "a": "<p>Clear of clouds and with the surface in sight.</p>",
+    "b": "<p>1500 m horizontally and 1000 m vertically.</p>",
+    "c": "<p>1000 m horizontally and 300 m vertically.</p>",
+    "d": "<p>1500 m horizontally and 300 m vertically.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

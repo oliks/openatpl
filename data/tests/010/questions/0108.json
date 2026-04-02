@@ -1,0 +1,14 @@
+{
+  "number": 108,
+  "questionId": "010-0108",
+  "questionNumber": "010-0108",
+  "stemHtml": "<p>An aircraft is cleared to transit a zone at 2000 ft. Who bears responsibility for terrain separation?</p>",
+  "options": {
+    "a": "The PIC, unless the aircraft is being radar-vectored under IFR.",
+    "b": "ATC when flying IFR in Class A, B, C, or D airspace.",
+    "c": "ATC when flying VFR.",
+    "d": "The PIC is never responsible when receiving ATS."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

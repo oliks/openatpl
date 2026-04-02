@@ -1,0 +1,14 @@
+{
+  "number": 707,
+  "questionId": "010-0707",
+  "questionNumber": "010-0707",
+  "stemHtml": "<p>During cruise, the crew receives an ACAS RA that conflicts with an ATC instruction. Which should they follow?</p>",
+  "options": {
+    "a": "<p>The RA, to minimise the risk of collision with another aircraft.</p>",
+    "b": "<p>The RA, to minimise the risk of terrain impact.</p>",
+    "c": "<p>The ATC clearance, to minimise terrain risk.</p>",
+    "d": "<p>The ATC clearance, to minimise collision risk.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 585,
+  "questionId": "010-0585",
+  "questionNumber": "010-0585",
+  "stemHtml": "<p>In a holding pattern where the outbound leg is defined by DME distance, when does the outbound leg terminate?</p>",
+  "options": {
+    "a": "As soon as the limiting DME distance is reached.",
+    "b": "0.5 NM before reaching the limiting DME distance.",
+    "c": "Half a minute before reaching the limiting DME distance.",
+    "d": "1 NM before reaching the limiting DME distance."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

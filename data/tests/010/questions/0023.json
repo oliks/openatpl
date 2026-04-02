@@ -1,0 +1,14 @@
+{
+  "number": 23,
+  "questionId": "010-0023",
+  "questionNumber": "010-0023",
+  "stemHtml": "<p>What types of airspace are included in an FIR?</p>",
+  "options": {
+    "a": "All types of controlled airspace.",
+    "b": "<p>All controlled airspace below 10 000 ft; other types are in a UIR.</p>",
+    "c": "<p>Most controlled airspace except restricted areas and control areas.</p>",
+    "d": "<p>Most controlled airspace except control zones.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

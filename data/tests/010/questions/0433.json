@@ -1,0 +1,14 @@
+{
+  "number": 433,
+  "questionId": "010-0433",
+  "questionNumber": "010-0433",
+  "stemHtml": "<p>What is the correct definition of PCN (Pavement Classification Number)?</p>",
+  "options": {
+    "a": "<p>A number indicating the bearing strength of a pavement for unrestricted operations.</p>",
+    "b": "<p>A number indicating the relative effect of an aircraft on a pavement for a specified standard subgrade category.</p>",
+    "c": "<p>A value used to assess overall pavement condition.</p>",
+    "d": "<p>A letter expressing the bearing strength of a pavement for restricted operations.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

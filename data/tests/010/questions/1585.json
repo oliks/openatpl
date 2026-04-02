@@ -1,0 +1,14 @@
+{
+  "number": 1585,
+  "questionId": "010-1585",
+  "questionNumber": "010-1585",
+  "stemHtml": "<p>What width is required for a stopway?</p>",
+  "options": {
+    "a": "<p>Not less than the width of the associated runway.</p>",
+    "b": "<p>Half the width of the associated runway.</p>",
+    "c": "<p>Not less than the width of the associated runway strip.</p>",
+    "d": "<p>Not less than the width of the obstacle-free zone.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

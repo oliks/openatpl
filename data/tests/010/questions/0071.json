@@ -1,0 +1,14 @@
+{
+  "number": 71,
+  "questionId": "010-0071",
+  "questionNumber": "010-0071",
+  "stemHtml": "<p>TCAS RA says \"DESCEND, DESCEND NOW\". Seconds later: \"CLIMB, CLIMB NOW\". What should the pilots do?</p>",
+  "options": {
+    "a": "Follow the RA reversal and be mindful of flight path deviation.",
+    "b": "Ignore — TCAS is clearly unserviceable.",
+    "c": "Stay level since both RAs cancel out.",
+    "d": "Establish visual contact first, then follow the RA."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

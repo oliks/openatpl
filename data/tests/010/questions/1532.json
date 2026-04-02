@@ -1,0 +1,14 @@
+{
+  "number": 1532,
+  "questionId": "010-1532",
+  "questionNumber": "010-1532",
+  "stemHtml": "<p>Is a flight plan required for an IFR flight in VMC in Class C airspace?</p>",
+  "options": {
+    "a": "<p>Yes, it is mandatory.</p>",
+    "b": "<p>It is optional.</p>",
+    "c": "<p>It is recommended.</p>",
+    "d": "<p>No, it is not required.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

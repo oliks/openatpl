@@ -1,0 +1,14 @@
+{
+  "number": 999,
+  "questionId": "010-0999",
+  "questionNumber": "010-0999",
+  "stemHtml": "<p>Per ICAO Annex 14, why are taxiway curves widened?</p>",
+  "options": {
+    "a": "To maintain clearance between outer main wheels and the taxiway edge.",
+    "b": "To protect aircraft and reduce damage risk.",
+    "c": "To resist erosion and prevent surface ingestion.",
+    "d": "To provide a transition area at the pavement edge."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

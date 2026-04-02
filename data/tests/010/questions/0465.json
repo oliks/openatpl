@@ -1,0 +1,14 @@
+{
+  "number": 465,
+  "questionId": "010-0465",
+  "questionNumber": "010-0465",
+  "stemHtml": "<p>When might an aircraft be intercepted?</p>",
+  "options": {
+    "a": "Time to next point changed by 3 minutes.",
+    "b": "Changing flight plan airborne.",
+    "c": "Deviating from route without a valid reason.",
+    "d": "TAS deviation of 3%."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

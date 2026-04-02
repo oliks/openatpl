@@ -1,0 +1,14 @@
+{
+  "number": 1384,
+  "questionId": "010-1384",
+  "questionNumber": "010-1384",
+  "stemHtml": "<p>An aircraft enters a holding pattern at 15:40 UTC. ATC clears it to exit and commence approach at 15:46 UTC. A full pattern takes 4 minutes. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Adjust the holding within safe limits to remain in the protected zone.</p>",
+    "b": "<p>Fly a 6-minute holding to stay in the safe zone.</p>",
+    "c": "<p>Lengthen the outbound leg by 2 minutes.</p>",
+    "d": "<p>Leave the holding and request a visual approach on a direct heading.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

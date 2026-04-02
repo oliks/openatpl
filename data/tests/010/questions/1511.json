@@ -1,0 +1,14 @@
+{
+  "number": 1511,
+  "questionId": "010-1511",
+  "questionNumber": "010-1511",
+  "stemHtml": "<p>Aircraft 1 at 5000 ft AGL and Aircraft 2 at 1000 ft AGL in mountainous terrain. Best checkpoints?</p>",
+  "options": {
+    "a": "1: path; 2: large lake",
+    "b": "1: small lake; 2: 200 ft obstacle",
+    "c": "1: 200 ft obstacle; 2: path",
+    "d": "1: large lake; 2: 200 ft mast"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

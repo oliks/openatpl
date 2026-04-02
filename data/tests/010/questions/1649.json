@@ -1,0 +1,14 @@
+{
+  "number": 1649,
+  "questionId": "010-1649",
+  "questionNumber": "010-1649",
+  "stemHtml": "When is ATC responsible for preventing terrain collisions?",
+  "options": {
+    "a": "When an IFR flight is being radar-vectored.",
+    "b": "Whenever an aircraft is flying IFR in IMC.",
+    "c": "Whenever an ATS service is provided.",
+    "d": "When the aircraft's GPWS is declared unserviceable."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

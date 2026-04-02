@@ -1,0 +1,14 @@
+{
+  "number": 1103,
+  "questionId": "010-1103",
+  "questionNumber": "010-1103",
+  "stemHtml": "<p>Under what condition may ATC clear aircraft to maintain a specified vertical separation during climb or descent?</p>",
+  "options": {
+    "a": "<p>When communication between the aircraft has been established.</p>",
+    "b": "<p>When equipped with ACAS II.</p>",
+    "c": "<p>When flying in airspace classes B, C, and D.</p>",
+    "d": "<p>When under radar control.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 567,
+  "questionId": "010-0567",
+  "questionNumber": "010-0567",
+  "stemHtml": "<p>After landing, when should \"runway vacated\" be reported?</p>",
+  "options": {
+    "a": "When the entire aircraft has passed the runway-holding position.",
+    "b": "As soon as the aircraft is on the exit taxiway.",
+    "c": "As soon as the aircraft crosses the runway edge.",
+    "d": "When the aircraft begins turning onto the exit."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 309,
+  "questionId": "010-0309",
+  "questionNumber": "010-0309",
+  "stemHtml": "<p>A pilot completes an ILS to RWY 22 then circles to land on RWY 04. On the base leg for RWY 04, visual reference is lost. The correct missed approach is to initiate a climbing turn toward the _____, return to circling altitude or _____, then intercept and execute the missed approach on the _____.</p>",
+  "options": {
+    "a": "<p>Landing runway 04; higher; instrument approach procedure.</p>",
+    "b": "<p>Approach runway 22; lower; visual approach procedure.</p>",
+    "c": "<p>Landing runway 04; lower; visual approach procedure.</p>",
+    "d": "<p>Approach runway 22; higher; instrument approach procedure.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

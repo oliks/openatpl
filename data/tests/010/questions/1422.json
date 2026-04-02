@@ -1,0 +1,14 @@
+{
+  "number": 1422,
+  "questionId": "010-1422",
+  "questionNumber": "010-1422",
+  "stemHtml": "<p>Per ICAO Doc 8168 (PANS-OPS), what avionics are needed to perform a parallel instrument approach?</p>",
+  "options": {
+    "a": "Standard IFR avionics including full ILS or MLS capability.",
+    "b": "A navigation system meeting RNP APCH requirements.",
+    "c": "A navigation system meeting RNP-RNAV requirements.",
+    "d": "<p>IFR avionics with LCD displays on both the commander's and co-pilot's sides.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

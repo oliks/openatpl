@@ -1,0 +1,14 @@
+{
+  "number": 908,
+  "questionId": "010-0908",
+  "questionNumber": "010-0908",
+  "stemHtml": "<p>You are in a controlled airspace under VFR, your minimal IAS is 150 kt. Visibility dropped below 5000 m. What are your actions?</p>",
+  "options": {
+    "a": "<p>Request an amended clearance to maintain in VMC and divert to the nearest suitable aerodrome.</p>",
+    "b": "Request special VFR.",
+    "c": "Continue flying, trusting your instruments only.",
+    "d": "Request IFR clearance."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

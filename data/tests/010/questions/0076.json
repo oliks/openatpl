@@ -1,0 +1,14 @@
+{
+  "number": 76,
+  "questionId": "010-0076",
+  "questionNumber": "010-0076",
+  "stemHtml": "<p>An IFR flight in IMC in controlled airspace without radar loses communications. What should the aircraft do?</p>",
+  "options": {
+    "a": "<p>Maintain last assigned speed and level for 20 minutes, then adjust per the filed flight plan.</p>",
+    "b": "<p>Maintain last assigned level for 5 minutes, then continue per the flight plan.</p>",
+    "c": "<p>Maintain last assigned speed and level for 10 minutes, then descend in VMC to the nearest aerodrome.</p>",
+    "d": "<p>Maintain last assigned speed and level for 10 minutes, then descend and land at the nearest aerodrome.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

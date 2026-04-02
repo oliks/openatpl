@@ -1,0 +1,14 @@
+{
+  "number": 418,
+  "questionId": "010-0418",
+  "questionNumber": "010-0418",
+  "stemHtml": "<p>After a suspected two-way communication failure, what is the correct order of actions to try to regain communication?</p><p>1. Try to call another aircraft<br>2. Call on the company frequency<br>3. Contact previous frequency<br>4. Try a frequency that is usual for this route<br>5. Call another station nearby</p>",
+  "options": {
+    "a": "3, 5, 4, 1, 2.",
+    "b": "2, 5, 4, 1, 3.",
+    "c": "1, 2, 3, 4, 5.",
+    "d": "1, 5, 2, 3, 4."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

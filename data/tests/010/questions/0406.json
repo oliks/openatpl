@@ -1,0 +1,14 @@
+{
+  "number": 406,
+  "questionId": "010-0406",
+  "questionNumber": "010-0406",
+  "stemHtml": "<p>A pilot flying IFR in VMC experiences radio failure. ATC had cleared a descent to FL40 at the IAF for ILS RWY 07 with a report crossing FL100. What should the pilot do?</p>",
+  "options": {
+    "a": "<p>Descend to FL40, squawk 7600, and land as soon as possible.</p>",
+    "b": "<p>Descend to FL40, hold at the IAF, and approach within 20 minutes of the ETA.</p>",
+    "c": "<p>Squawk 7500 and follow normal ATC instructions.</p>",
+    "d": "<p>Maintain FL100 until the IAF, then descend.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

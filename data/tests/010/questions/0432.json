@@ -1,0 +1,14 @@
+{
+  "number": 432,
+  "questionId": "010-0432",
+  "questionNumber": "010-0432",
+  "stemHtml": "<p>An aircraft with an Italian registration departs from the USA and heads to France. Find the corrective action to be taken when the aircraft is over US airspace and a communication failure persists?</p>",
+  "options": {
+    "a": "<p>The aircraft shall follow the rules according to SERA and follow the rules according to the US airspace.</p>",
+    "b": "The aircraft shall follow the rules regarding operations over high seas.",
+    "c": "<p>The aircraft shall follow the rules according to the France airspace since that's the destination.</p>",
+    "d": "<p>The aircraft shall follow the rules from the State of Registry since it’s registered in Italy.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

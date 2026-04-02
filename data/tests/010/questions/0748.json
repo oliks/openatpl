@@ -1,0 +1,14 @@
+{
+  "number": 748,
+  "questionId": "010-0748",
+  "questionNumber": "010-0748",
+  "stemHtml": "<p>40 min after departure, fuel emergency declared — 70 min endurance. Airport A: 60 min away. Airport B: closer but bad weather. Airport C: 30 min away with good conditions. Where to land?</p>",
+  "options": {
+    "a": "At departure — it's closest.",
+    "b": "Airport A — planned destination with known conditions.",
+    "c": "Airport C — safety is compromised.",
+    "d": "Airport B — closest to A with better weather."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

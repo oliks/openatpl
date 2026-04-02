@@ -1,0 +1,14 @@
+{
+  "number": 886,
+  "questionId": "010-0886",
+  "questionNumber": "010-0886",
+  "stemHtml": "<p>Per ICAO Doc 4444, how is lateral separation achieved between aircraft using the same navigation aid on specified tracks?</p>",
+  "options": {
+    "a": "<p>The tracks must be separated by the minimum amount appropriate to the navigation aid in use.</p>",
+    "b": "<p>Both aircraft must be on VOR radials diverging by at least 25° with one at 5 NM or more from the aid.</p>",
+    "c": "<p>Both aircraft must be on tracks diverging by at least 15° from an NDB with one at 10 NM or more from the facility.</p>",
+    "d": "<p>Visual observation must confirm a lateral distance of at least 10 NM.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

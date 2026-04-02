@@ -1,0 +1,14 @@
+{
+  "number": 1313,
+  "questionId": "010-1313",
+  "questionNumber": "010-1313",
+  "stemHtml": "<p>An aircraft is executing an NDB approach to Runway 20 with an OCH of 154 ft. Per ICAO Doc 8168, calculate the OCA for this non-precision approach.</p><p>Aerodrome elevation: 135 ft<br>RWY 20 threshold elevation: 130 ft</p>",
+  "options": {
+    "a": "<p>289 ft</p>",
+    "b": "<p>284 ft</p>",
+    "c": "<p>270 ft</p>",
+    "d": "<p>264 ft</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

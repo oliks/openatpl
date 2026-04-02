@@ -1,0 +1,14 @@
+{
+  "number": 14,
+  "questionId": "010-0014",
+  "questionNumber": "010-0014",
+  "stemHtml": "<p>A change to an IFR or controlled VFR flight plan requires...</p>",
+  "options": {
+    "a": "Inform ATC only if flight rules change.",
+    "b": "Report to aerodrome authorities after arrival.",
+    "c": "Inform the arrival briefing office.",
+    "d": "Report ASAP to the appropriate ATS unit."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

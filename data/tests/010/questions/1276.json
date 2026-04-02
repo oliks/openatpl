@@ -1,0 +1,14 @@
+{
+  "number": 1276,
+  "questionId": "010-1276",
+  "questionNumber": "010-1276",
+  "stemHtml": "<p>Berlin ATC (119.000) is told of suspected unlawful interference on G-GGDG. The aircraft is unaware. A military interceptor has launched. Which actions are correct?</p><p>A. Inform the aircraft directly<br>B. Avoid informing the aircraft<br>C. Warn other traffic<br>D. Change the aircraft's frequency<br>E. Alert appropriate authorities</p>",
+  "options": {
+    "a": "A, C",
+    "b": "A, D",
+    "c": "B, E",
+    "d": "C, E"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

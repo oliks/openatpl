@@ -1,0 +1,14 @@
+{
+  "number": 1173,
+  "questionId": "010-1173",
+  "questionNumber": "010-1173",
+  "stemHtml": "At Stuttgart airport, an aircraft requests taxi clearance. The current wind conditions favor runway 25, but the aircraft is cleared to taxi to the holding point of runway 07. How can the pilot(s) respond in this situation?",
+  "options": {
+    "a": "Take off from runway 07 or wait for take-off in a preferred direction.",
+    "b": "Request a take-off from runway 25, which will be granted immediately by the control tower.",
+    "c": "Request a take-off from runway 25, which will be granted, and then file an incident report after the flight.",
+    "d": "Take off from runway 07 but file an incident report on ATC after completion of the flight."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

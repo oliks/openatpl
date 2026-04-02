@@ -1,0 +1,14 @@
+{
+  "number": 170,
+  "questionId": "010-0170",
+  "questionNumber": "010-0170",
+  "stemHtml": "<p>Which statement about a passenger ticket is correct?</p>",
+  "options": {
+    "a": "<p>It constitutes a form of contract between the airline and the passenger.</p>",
+    "b": "<p>It provides gate information and, if desired, a seat reservation.</p>",
+    "c": "<p>It is used only for seat reservations and flight planning.</p>",
+    "d": "<p>It entitles the passenger to fly on a later flight in case of delay.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

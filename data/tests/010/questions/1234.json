@@ -1,0 +1,14 @@
+{
+  "number": 1234,
+  "questionId": "010-1234",
+  "questionNumber": "010-1234",
+  "stemHtml": "<p>A navigation fix is not always exact but remains usable. The accuracy of a fix depends on which factors?</p><p>1. Airborne receiver tolerance<br>2. ATC tolerance<br>3. Ground equipment tolerance<br>4. Flight technical tolerance<br>5. Weather tolerance</p>",
+  "options": {
+    "a": "1, 3 and 4",
+    "b": "2, 3 and 4",
+    "c": "1, 4 and 5",
+    "d": "1, 3 and 5"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

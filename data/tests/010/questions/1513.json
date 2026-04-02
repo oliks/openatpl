@@ -1,0 +1,14 @@
+{
+  "number": 1513,
+  "questionId": "010-1513",
+  "questionNumber": "010-1513",
+  "stemHtml": "<p>Consider the following methods by which a radar service may communicate position information to an aircraft. Which combination is correct?</p><p>1. Direction (compass points) and distance from a known position<br>2. Direction and distance from an ATS route centreline<br>3. True track and distance to an ATS route centreline<br>4. Magnetic track and distance to a significant point<br>5. True track and distance to a significant point</p>",
+  "options": {
+    "a": "1, 2 and 4.",
+    "b": "1 and 5.",
+    "c": "2 and 4.",
+    "d": "1, 3 and 5."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1198,
+  "questionId": "010-1198",
+  "questionNumber": "010-1198",
+  "stemHtml": "<p>Wind direction in degrees magnetic shall be given when...</p>",
+  "options": {
+    "a": "local variation exceeds 10°.",
+    "b": "in upper wind forecasts poleward of 60°.",
+    "c": "for take-off and landing.",
+    "d": "in a PIREP on request of a MWO."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

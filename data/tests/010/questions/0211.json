@@ -1,0 +1,14 @@
+{
+  "number": 211,
+  "questionId": "010-0211",
+  "questionNumber": "010-0211",
+  "stemHtml": "<p>On an instrument departure, pilots should...</p>",
+  "options": {
+    "a": "correct track for known wind to stay within protected airspace.",
+    "b": "request ATC clearance for wind correction.",
+    "c": "request heading for wind correction.",
+    "d": "ignore wind and fly heading equal to track."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

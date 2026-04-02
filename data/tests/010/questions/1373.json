@@ -1,0 +1,14 @@
+{
+  "number": 1373,
+  "questionId": "010-1373",
+  "questionNumber": "010-1373",
+  "stemHtml": "<p>Which relationship correctly describes MDA (Minimum Descent Altitude)?</p>",
+  "options": {
+    "a": "<p>MDA = OCA + additional safety margin.</p>",
+    "b": "<p>OCA = MDA + threshold elevation.</p>",
+    "c": "<p>OCA = MDA + additional safety margin.</p>",
+    "d": "<p>MDA = OCA + threshold elevation.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

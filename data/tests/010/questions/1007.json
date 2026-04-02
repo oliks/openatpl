@@ -1,0 +1,14 @@
+{
+  "number": 1007,
+  "questionId": "010-1007",
+  "questionNumber": "010-1007",
+  "stemHtml": "<p>On an RNP 1 route B235 Y, the letter Y means all turns must be within RNP tolerance of a tangential arc with a radius of…</p>",
+  "options": {
+    "a": "22.5 NM for turns between 30° and 90° at and above FL200.",
+    "b": "25 NM for turns between 30° and 90° at and above FL200.",
+    "c": "22.5 NM for turns between 30° and 90° at and above FL190.",
+    "d": "15 NM for turns between 30° and 90° at and below FL190."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

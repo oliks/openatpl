@@ -1,0 +1,14 @@
+{
+  "number": 1363,
+  "questionId": "010-1363",
+  "questionNumber": "010-1363",
+  "stemHtml": "<p>Which statement about the flight crew compartment door lock is correct?</p>",
+  "options": {
+    "a": "<p>The lock button must be accessible to both the captain and the co-pilot.</p>",
+    "b": "The lock button is accessible only to the captain.",
+    "c": "<p>The lock button must be accessible from both inside and outside the cockpit.</p>",
+    "d": "<p>The lock button must be accessible from the cockpit and from the ground.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

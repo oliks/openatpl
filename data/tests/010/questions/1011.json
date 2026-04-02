@@ -1,0 +1,14 @@
+{
+  "number": 1011,
+  "questionId": "010-1011",
+  "questionNumber": "010-1011",
+  "stemHtml": "<p>A GA aircraft on fire declares MAYDAY and sees a runway ahead. ATC says the runway is closed for administrative reasons. Per SERA, the pilot...</p>",
+  "options": {
+    "a": "cannot land on a closed runway.",
+    "b": "can decide to land on it for safety.",
+    "c": "must find another suitable surface.",
+    "d": "must divert to an open airport."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

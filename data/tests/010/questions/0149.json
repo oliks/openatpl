@@ -1,0 +1,14 @@
+{
+  "number": 149,
+  "questionId": "010-0149",
+  "questionNumber": "010-0149",
+  "stemHtml": "<p>Which items should be included in essential traffic information provided to an aircraft?</p><p>1. Cruising level<br />2. Sequence on approach<br />3. Type and wake turbulence category<br />4. Direction of flight<br />5. Position<br />6. Speed</p>",
+  "options": {
+    "a": "<p>1, 3, 4 and 5.</p>",
+    "b": "<p>1, 2, 3, 4, 5 and 6.</p>",
+    "c": "<p>1, 3, 4, 5 and 6.</p>",
+    "d": "3, 4, 5 and 6."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 152,
+  "questionId": "010-0152",
+  "questionNumber": "010-0152",
+  "stemHtml": "<p>Weather in a CTR falls below VMC. What should the tower do?</p>",
+  "options": {
+    "a": "VFR not permitted but local flights may depart.",
+    "b": "Close the CTR and clear VFR traffic.",
+    "c": "Let the control unit decide.",
+    "d": "Communicate with incoming VFR traffic and recall VFR traffic on the ground."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1154,
+  "questionId": "010-1154",
+  "questionNumber": "010-1154",
+  "stemHtml": "<p>An aircraft is on final approach to RWY 04 at Stansted. To maintain desired traffic spacing, the controller instructs a speed reduction. Speed control should only be requested when the aircraft is more than (1) _____ from the threshold, and speed adjustments must not exceed plus or minus (2) _____.</p>",
+  "options": {
+    "a": "<p>(1) 4 NM; (2) 20 kt IAS</p>",
+    "b": "<p>(1) 7 NM; (2) 40 kt IAS</p>",
+    "c": "<p>(1) 7 NM; (2) 20 kt IAS</p>",
+    "d": "<p>(1) 4 km; (2) 20 km/h IAS</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 458,
+  "questionId": "010-0458",
+  "questionNumber": "010-0458",
+  "stemHtml": "Without specific regional agreements, how do two en-route aircraft report their vertical positions?",
+  "options": {
+    "a": "Aircraft A reports as a flight level (at or above the lowest usable FL); Aircraft B reports as an altitude (below the lowest usable FL).",
+    "b": "Both report as altitudes if at or above the lowest usable flight level.",
+    "c": "Aircraft A reports altitude at or above lowest usable FL; Aircraft B reports flight level below it.",
+    "d": "Both report as flight levels if below the lowest usable flight level."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

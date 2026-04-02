@@ -1,0 +1,14 @@
+{
+  "number": 709,
+  "questionId": "010-0709",
+  "questionNumber": "010-0709",
+  "stemHtml": "After following an ACAS Resolution Advisory, why should the pilot notify ATC?",
+  "options": {
+    "a": "<p>Because only the pilot knows when ACAS issues RAs.</p>",
+    "b": "To check if the aircraft should return to its initial clearance.",
+    "c": "Because CPDLC already provides ATC with real-time information.",
+    "d": "So ATC can testify about the serious incident for legal purposes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

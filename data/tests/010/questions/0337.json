@@ -1,0 +1,14 @@
+{
+  "number": 337,
+  "questionId": "010-0337",
+  "questionNumber": "010-0337",
+  "stemHtml": "<p>While descending through FL260, ATC clears the aircraft to 2000 ft. When should the altimeter setting be changed?</p>",
+  "options": {
+    "a": "<p>Set to local QNH when passing the transition level.</p>",
+    "b": "<p>Set to QNH immediately while under ATC control.</p>",
+    "c": "<p>Set to local QNH when passing the transition altitude.</p>",
+    "d": "<p>Keep QNH until passing the transition level.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 741,
+  "questionId": "010-0741",
+  "questionNumber": "010-0741",
+  "stemHtml": "An aircraft is executing an approach on runway 22 followed by a visual manoeuvering (circling) on runway 04. During the base leg, the crew loses visual references with runway 04. Find the correct course of action?",
+  "options": {
+    "a": "Fly toward RWY 04 and initiate the missed approach for RWY 22.",
+    "b": "Fly toward RWY 22 and initiate the missed approach for RWY 22.",
+    "c": "Continue until the minimums and initiate missed approach if visual references are not recovered.",
+    "d": "Fly toward RWY 04 and initiate the missed approach for RWY 04."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

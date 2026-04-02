@@ -1,0 +1,14 @@
+{
+  "number": 174,
+  "questionId": "010-0174",
+  "questionNumber": "010-0174",
+  "stemHtml": "<p>An A320 at FL100 is told to maintain 250 kt IAS. ATC also reports embedded CB ahead, restricted airspace changes, and possible wake turbulence. Which must be read back?</p>",
+  "options": {
+    "a": "Restricted airspace update.",
+    "b": "Wake turbulence.",
+    "c": "The speed instruction.",
+    "d": "Significant weather."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

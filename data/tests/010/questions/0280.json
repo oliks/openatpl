@@ -1,0 +1,14 @@
+{
+  "number": 280,
+  "questionId": "010-0280",
+  "questionNumber": "010-0280",
+  "stemHtml": "<p>An aircraft on an IFR flight in IMC under radar control experiences radio communication failure. What is the aircraft expected to do?</p>",
+  "options": {
+    "a": "<p>Maintain the last assigned speed and level (or minimum flight altitude if higher) for 20 minutes after failing to report over a compulsory reporting point, then adjust level and speed per the filed flight plan.</p>",
+    "b": "<p>Proceed to an area where VFR flight is possible.</p>",
+    "c": "<p>Maintain last assigned speed and level (or minimum safe altitude if higher) for 7 minutes, then divert to the nearest suitable aerodrome.</p>",
+    "d": "<p>Maintain last assigned speed and level (or minimum safe altitude if higher) for 7 minutes, then proceed per the flight plan to the destination navigation aid.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

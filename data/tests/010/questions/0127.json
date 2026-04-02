@@ -1,0 +1,14 @@
+{
+  "number": 127,
+  "questionId": "010-0127",
+  "questionNumber": "010-0127",
+  "stemHtml": "<p>Once radar identification of an aircraft has been established, what must the radar controller do?</p>",
+  "options": {
+    "a": "<p>Advise the pilot of the identification.</p>",
+    "b": "<p>Ask the pilot to squawk ident.</p>",
+    "c": "<p>Notify the pilot only when the identification was achieved using primary radar.</p>",
+    "d": "<p>Contact the pilot only when workload allows.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

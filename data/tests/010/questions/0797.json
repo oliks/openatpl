@@ -1,0 +1,14 @@
+{
+  "number": 797,
+  "questionId": "010-0797",
+  "questionNumber": "010-0797",
+  "stemHtml": "<p>How is the Minimum Descent Height (MDH) derived from the Obstacle Clearance Height (OCH)?</p>",
+  "options": {
+    "a": "<p>MDH = OCH plus a safe margin applying specific operational minima.</p>",
+    "b": "<p>MDH = OCH plus threshold elevation.</p>",
+    "c": "<p>OCH = MDH plus threshold elevation.</p>",
+    "d": "<p>OCH = MDH plus a safe margin applying specific operational minima.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

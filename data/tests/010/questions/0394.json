@@ -1,0 +1,14 @@
+{
+  "number": 394,
+  "questionId": "010-0394",
+  "questionNumber": "010-0394",
+  "stemHtml": "<p>A flight from New York JFK is preparing for taxi. Given the following information, what should the crew do?</p><ul><li>Runway 31L: only 11 000 ft available due to works, currently used for landings only.</li><li>Runway 31R: 10 000 ft available, used for departures with noise abatement in effect — but too short per the aircraft's TOM calculations.</li><li>Runway 04L: not available, currently used for landings only.</li><li>Runway 04R: not in use.</li></ul><p>Wind: 230°/15 kt</p>",
+  "options": {
+    "a": "Request runway 31L on safety grounds.",
+    "b": "Offload one cargo container so the aircraft can depart from runway 31R.",
+    "c": "Wait for ATC to change from runway 31R to 31L.",
+    "d": "Delay until the wind changes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

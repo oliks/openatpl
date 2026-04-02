@@ -1,0 +1,14 @@
+{
+  "number": 1365,
+  "questionId": "010-1365",
+  "questionNumber": "010-1365",
+  "stemHtml": "Per ICAO Doc 8168, why might a Resolution Advisory (RA) follow a Traffic Advisory (TA)?",
+  "options": {
+    "a": "Because TAs show the approximate positions of intruding aircraft that may subsequently trigger RAs.",
+    "b": "Because TAs suggest vertical manoeuvres intended to increase or maintain separation from threatening aircraft.",
+    "c": "<p>Because a threatening aircraft must first generate an RA before a TA can be issued.</p>",
+    "d": "Because TAs suggest horizontal manoeuvres intended to increase or maintain separation from threatening aircraft."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

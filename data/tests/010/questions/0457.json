@@ -1,0 +1,14 @@
+{
+  "number": 457,
+  "questionId": "010-0457",
+  "questionNumber": "010-0457",
+  "stemHtml": "<p>In which ATC clearance is the QNH altimeter setting included?</p>",
+  "options": {
+    "a": "All climb or descent clearances to an altitude.",
+    "b": "When first cleared to descend below the transition level.",
+    "c": "All clearances below 2000 ft above aerodrome level.",
+    "d": "When first cleared to climb above the transition level."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

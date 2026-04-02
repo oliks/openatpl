@@ -1,0 +1,14 @@
+{
+  "number": 542,
+  "questionId": "010-0542",
+  "questionNumber": "010-0542",
+  "stemHtml": "When radar vectoring is terminated and ATC wants the pilot to navigate to waypoint LESDA, what phraseology will the controller use?",
+  "options": {
+    "a": "Proceed with own navigation.",
+    "b": "<p>Resume own navigation. Fly direct to \"LESDA\", magnetic track 150, distance to \"LESDA\" 41 nautical miles.</p>",
+    "c": "Radar service terminated. Fly direct to \"LESDA\".",
+    "d": "Resume previous navigation, position 15 NM South of VOR XY."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

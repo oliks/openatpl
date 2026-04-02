@@ -1,0 +1,14 @@
+{
+  "number": 402,
+  "questionId": "010-0402",
+  "questionNumber": "010-0402",
+  "stemHtml": "<p>Your aircraft has a minimum speed of 160 kt. If you cannot maintain VMC, what should you do?</p>",
+  "options": {
+    "a": "<p>Inform ATC you are leaving their airspace to maintain VMC.</p>",
+    "b": "<p>Continue flying on instruments only.</p>",
+    "c": "<p>Request an IFR clearance.</p>",
+    "d": "<p>Request special VFR.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

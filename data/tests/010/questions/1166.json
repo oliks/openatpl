@@ -1,0 +1,14 @@
+{
+  "number": 1166,
+  "questionId": "010-1166",
+  "questionNumber": "010-1166",
+  "stemHtml": "<p>Per ICAO Annex 14 and the European Aerodromes Regulation, rank the following three water-based contaminants in order of INCREASING braking performance, where (1) provides the least braking and (3) the most.</p>",
+  "options": {
+    "a": "<p>(1) wet ice; (2) ice; (3) compacted snow.</p>",
+    "b": "<p>(1) ice; (2) compacted snow; (3) wet ice.</p>",
+    "c": "<p>(1) compacted snow; (2) ice; (3) wet ice.</p>",
+    "d": "<p>(1) ice; (2) wet ice; (3) compacted snow.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

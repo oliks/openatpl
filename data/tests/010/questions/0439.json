@@ -1,0 +1,14 @@
+{
+  "number": 439,
+  "questionId": "010-0439",
+  "questionNumber": "010-0439",
+  "stemHtml": "<p>ATC issues the following taxi clearance:</p><p>\"FGACC, runway 27, wind 220 degrees 10 knots visibility 8 km, QNH 1019, transition level 45, time 06, squawk will be 3636. Taxi to holding point runway 27 via taxiway Bravo, cross runway 22, give way to Airbus crossing left to right.\"</p><p>Per ICAO Doc 4444, if the pilot can comply, what must the readback contain?</p>",
+  "options": {
+    "a": "\"Taxi to holding point runway 27 via taxiway Bravo, cross runway 22, giving way to Airbus. Squawk 3636, QNH 1019, transition level 45, FGACC.\"",
+    "b": "\"Taxi via taxiway Bravo, cross runway 22, giving way to Airbus. Squawk 3636, QNH 1019, transition level 45, FGACC.\"",
+    "c": "\"Taxi to holding point runway 27 via taxiway Bravo. Squawk 3636, QNH 1019, wind 220 degrees 10 knots, transition level 45, time 06, FGACC.\"",
+    "d": "\"Taxi to holding point runway 27, cross runway 22, giving way to Airbus. Squawk 3636, QNH 1019, time 06, FGACC.\""
+  },
+  "correctOption": "a",
+  "attachments": []
+}

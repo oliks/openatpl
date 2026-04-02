@@ -1,0 +1,14 @@
+{
+  "number": 1095,
+  "questionId": "010-1095",
+  "questionNumber": "010-1095",
+  "stemHtml": "Per SERA, when an IFR pilot wants to change to VFR, what must they do?",
+  "options": {
+    "a": "Notify ATC; however, if IMC is encountered the flight must remain under IFR.",
+    "b": "Request ATC approval; no weather conditions need to be met.",
+    "c": "<p>Request ATC approval; then fly above 3000 ft AMSL.</p>",
+    "d": "Notify ATC; however, if VMC prevails the flight must remain under IFR."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

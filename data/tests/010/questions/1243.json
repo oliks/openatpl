@@ -1,0 +1,14 @@
+{
+  "number": 1243,
+  "questionId": "010-1243",
+  "questionNumber": "010-1243",
+  "stemHtml": "Under what circumstances may an ATC unit ask an aircraft to change its call sign?",
+  "options": {
+    "a": "It may request a temporary call sign change in the interest of safety when there is a risk of confusion with similar call signs.",
+    "b": "It should never ask an aircraft to change its call sign.",
+    "c": "It may not request a change after accepting the call sign with the flight plan.",
+    "d": "It may require a permanent change only for aircraft on repetitive flight plans."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

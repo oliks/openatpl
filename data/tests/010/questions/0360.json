@@ -1,0 +1,14 @@
+{
+  "number": 360,
+  "questionId": "010-0360",
+  "questionNumber": "010-0360",
+  "stemHtml": "<p>Multiple aircraft enter controlled airspace at the same level. What can the controller do to provide separation?</p>",
+  "options": {
+    "a": "Request strategic lateral offsets.",
+    "b": "Give VOR radials diverging by 5°.",
+    "c": "Track via NDB on tracks diverging by 10°.",
+    "d": "Assign different ATS routes."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

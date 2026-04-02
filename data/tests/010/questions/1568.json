@@ -1,0 +1,14 @@
+{
+  "number": 1568,
+  "questionId": "010-1568",
+  "questionNumber": "010-1568",
+  "stemHtml": "<p>Paris CDG ATIS India includes approach type, runway, TL, wind, temperature, QNH, and a SNOWTAM. Is this ATIS correct?</p>",
+  "options": {
+    "a": "Incorrect — RVR missing.",
+    "b": "Incorrect — approach type shouldn't be included.",
+    "c": "Incorrect — SNOWTAM missing.",
+    "d": "Correct."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

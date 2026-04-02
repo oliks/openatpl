@@ -1,0 +1,14 @@
+{
+  "number": 733,
+  "questionId": "010-0733",
+  "questionNumber": "010-0733",
+  "stemHtml": "During an emergency with all avionics inoperative and no ATS contact, by how much should the PIC deviate from the normal IFR cruising level to indicate a problem?",
+  "options": {
+    "a": "<p>500 ft where a 1000 ft vertical separation minimum applies, and 1000 ft where a 2000 ft minimum applies.</p>",
+    "b": "<p>500 ft where a 1500 ft vertical separation minimum applies, and 1000 ft where a 2000 ft minimum applies.</p>",
+    "c": "150 ft where a 300 ft vertical separation minimum applies, and 300 ft where a 600 ft minimum applies.",
+    "d": "<p>150 ft where a 1000 ft vertical separation minimum applies, and 300 ft where a 2000 ft minimum applies.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

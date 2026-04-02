@@ -1,0 +1,14 @@
+{
+  "number": 743,
+  "questionId": "010-0743",
+  "questionNumber": "010-0743",
+  "stemHtml": "<p>A controlled flight is unlawfully interfered with (hostage situation). Per SERA, the pilot shall attempt to inform ATC of...</p>",
+  "options": {
+    "a": "Aircraft position and UTC time when interference started.",
+    "b": "Flight number, remaining flight time, and nature of interference.",
+    "c": "Any significant circumstances associated with the interference.",
+    "d": "Aircraft type."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

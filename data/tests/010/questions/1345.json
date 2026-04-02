@@ -1,0 +1,14 @@
+{
+  "number": 1345,
+  "questionId": "010-1345",
+  "questionNumber": "010-1345",
+  "stemHtml": "<p>After landing at your destination, you must submit an arrival report. Which items should it include?</p><p>1. Aircraft identification<br />2. Aircraft type and operator<br />3. Departure aerodrome<br />4. Cargo manifest<br />5. Arrival aerodrome<br />6. Time of arrival<br />7. Fuel on board</p>",
+  "options": {
+    "a": "1, 3, 5 and 6.",
+    "b": "2, 4, 5 and 6.",
+    "c": "1, 2, 3 and 4.",
+    "d": "2, 3, 4 and 7."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

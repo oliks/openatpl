@@ -1,0 +1,14 @@
+{
+  "number": 89,
+  "questionId": "010-0089",
+  "questionNumber": "010-0089",
+  "stemHtml": "<p>When flying on a VFR flight, ATC clearance is required.</p>",
+  "options": {
+    "a": "When the whole flight or portions thereof are controlled and part of a flight plan.",
+    "b": "When flying VFR in an advisory zone.",
+    "c": "Before entering a dangerous area.",
+    "d": "Prior entering airspace A, B, C, D, E and F."
+  },
+  "correctOption": "a",
+  "attachments": []
+}
