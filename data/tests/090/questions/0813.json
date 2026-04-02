@@ -1,0 +1,14 @@
+{
+  "number": 813,
+  "questionId": "090-0813",
+  "questionNumber": "090-0813",
+  "stemHtml": "<p>ATC transmits to aircraft XY-ABC: \"X-BC reset squawk 1015\". What is the meaning of this instruction?</p>",
+  "options": {
+    "a": "<p>X-BC should reselect the SSR code 1015 already assigned.</p>",
+    "b": "<p>X-BC has been identified using SSR code 1015.</p>",
+    "c": "<p>X-BC was identified at 10:15 UTC.</p>",
+    "d": "<p>X-BC should select a new transponder code of 1015.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

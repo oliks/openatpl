@@ -1,0 +1,14 @@
+{
+  "number": 175,
+  "questionId": "090-0175",
+  "questionNumber": "090-0175",
+  "stemHtml": "<p>Aircraft A is transmitting distress to ATC. Meanwhile you develop urgency. When may you transmit?</p>",
+  "options": {
+    "a": "Not until the distress is resolved.",
+    "b": "After Aircraft A completes its distress call.",
+    "c": "Only when your situation becomes MAYDAY.",
+    "d": "After ATC imposes radio silence."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

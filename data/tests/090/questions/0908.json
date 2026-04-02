@@ -1,0 +1,14 @@
+{
+  "number": 908,
+  "questionId": "090-0908",
+  "questionNumber": "090-0908",
+  "stemHtml": "<p>Departing Lille as F-GTPO, three aircraft ahead at the holding point. ATC says: \"F-PO, contact Lille Tower 118.550\". What do you do?</p>",
+  "options": {
+    "a": "Readback \"118.550, F-PO\", switch, wait for Tower to call you.",
+    "b": "Readback \"Calling 118.550, F-PO\", switch, and call Lille Tower.",
+    "c": "Readback \"Contacting 118.550, F-PO\", switch, wait for Tower.",
+    "d": "Readback \"118.550, F-PO\", switch, and call Lille Tower."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

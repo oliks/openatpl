@@ -1,0 +1,14 @@
+{
+  "number": 895,
+  "questionId": "090-0895",
+  "questionNumber": "090-0895",
+  "stemHtml": "<p>After another aircraft has made a distress call to ATC, under which conditions may you transmit?</p><p>1. To send a flight safety message<br>2. The distress is cancelled or traffic terminated<br>3. All distress traffic transferred to another frequency<br>4. To relay weather data<br>5. Silence is imposed by the controlling station and you need to assist</p>",
+  "options": {
+    "a": "3, 4, and 5.",
+    "b": "1, 3, and 4.",
+    "c": "2, 3, and 5.",
+    "d": "1, 2, and 4."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

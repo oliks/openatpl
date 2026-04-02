@@ -1,0 +1,14 @@
+{
+  "number": 800,
+  "questionId": "090-0800",
+  "questionNumber": "090-0800",
+  "stemHtml": "<p>Flying inland from the coast, you encounter incoming colder air. Will this affect VHF communication?</p>",
+  "options": {
+    "a": "Attenuation increases, reducing range.",
+    "b": "Signals reflect off the cold layer, extending range.",
+    "c": "Quality improves due to denser air.",
+    "d": "No effect — VHF is immune to atmosphere."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 303,
+  "questionId": "090-0303",
+  "questionNumber": "090-0303",
+  "stemHtml": "<p>Your aircraft lacks RNAV but receives clearance for the RNAV departure 'ODEMI SIX VICTOR'. What is the correct response?</p>",
+  "options": {
+    "a": "'Unable ODEMI SIX VICTOR due to RNAV type'.",
+    "b": "'Negative ODEMI SIX VICTOR due to RNAV type'.",
+    "c": "'Negative RNAV'.",
+    "d": "'Unable RNAV'."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

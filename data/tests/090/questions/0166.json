@@ -1,0 +1,14 @@
+{
+  "number": 166,
+  "questionId": "090-0166",
+  "questionNumber": "090-0166",
+  "stemHtml": "<p>Uncertain of your position, you request a QDM from a nearby aerodrome tower. What information will you receive?</p>",
+  "options": {
+    "a": "<p>True heading (zero wind) to the aerodrome.</p>",
+    "b": "<p>Magnetic bearing from the aerodrome.</p>",
+    "c": "<p>True bearing from the aerodrome.</p>",
+    "d": "<p>Magnetic heading (zero wind) to the aerodrome.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

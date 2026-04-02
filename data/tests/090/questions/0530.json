@@ -1,0 +1,14 @@
+{
+  "number": 530,
+  "questionId": "090-0530",
+  "questionNumber": "090-0530",
+  "stemHtml": "<p>Call sign abbreviation rules. Which are correct?</p><p>1. Only after comm established<br>2. Only after ATC abbreviates first<br>3. BIGJET 334 → BIGJET 34<br>4. BIGJET 334 → BIGJET 4<br>5. G-ABCD → G-CD<br>6. G-ABCD → ABCD</p>",
+  "options": {
+    "a": "1, 3 and 4.",
+    "b": "3, 5 and 6.",
+    "c": "2, 4 and 6.",
+    "d": "1, 2 and 5."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

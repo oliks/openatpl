@@ -1,0 +1,14 @@
+{
+  "number": 1052,
+  "questionId": "090-1052",
+  "questionNumber": "090-1052",
+  "stemHtml": "<p>You execute a TCAS RA climb. Before you can report to ATC, another aircraft transmits a MAYDAY. What should your crew do?</p>",
+  "options": {
+    "a": "<p>Wait because the other aircraft transmitted first.</p>",
+    "b": "<p>Interrupt the distress call since ATC must be informed of your RA immediately.</p>",
+    "c": "<p>Wait until the distress message concludes before transmitting, as distress has priority.</p>",
+    "d": "<p>Wait because you are now clear of conflict and your situation is resolved.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

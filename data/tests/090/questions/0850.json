@@ -1,0 +1,14 @@
+{
+  "number": 850,
+  "questionId": "090-0850",
+  "questionNumber": "090-0850",
+  "stemHtml": "<p>Suspecting erroneous FMS position data, you want to plot true bearings from two VDF-equipped stations. What should you request from each?</p>",
+  "options": {
+    "a": "QDM",
+    "b": "QTE",
+    "c": "QDR",
+    "d": "QNH"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

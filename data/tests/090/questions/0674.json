@@ -1,0 +1,14 @@
+{
+  "number": 674,
+  "questionId": "090-0674",
+  "questionNumber": "090-0674",
+  "stemHtml": "<p>Jetsun 1154 at FL350 over BCN VOR has a rapid depressurisation. Correct distress call?</p>",
+  "options": {
+    "a": "Mayday x3, Barcelona Control, Jetsun 1154, descending FL100, depressurisation, intend landing Barcelona.",
+    "b": "Mayday x3, Barcelona Control, Jetsun 1154, descending FL100, depressurisation, overhead BCN.",
+    "c": "Mayday x3, Barcelona Control, Jetsun 1154, depressurisation, descending FL100, overhead BCN, heading 180, 150 POB.",
+    "d": "Mayday x3, Barcelona Control, Jetsun 1154, passing FL340, descending FL100, depressurisation, overhead BCN."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

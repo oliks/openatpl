@@ -1,0 +1,14 @@
+{
+  "number": 992,
+  "questionId": "090-0992",
+  "questionNumber": "090-0992",
+  "stemHtml": "<p>On approach, you hear continuous crackling/static, then a brief conversation. Is your receiver working?</p>",
+  "options": {
+    "a": "No — transmitter is defective.",
+    "b": "No — receiver is defective.",
+    "c": "Yes — another aircraft has a stuck microphone.",
+    "d": "Yes — simultaneous transmissions blocking each other."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

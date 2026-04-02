@@ -1,0 +1,14 @@
+{
+  "number": 589,
+  "questionId": "090-0589",
+  "questionNumber": "090-0589",
+  "stemHtml": "<p>Which interpretation of this METAR is correct?</p><p>LSGG 241420Z 21001KT 2200 SN FEW003 BKN010 01/00 Q1020 BLSN</p>",
+  "options": {
+    "a": "Wind 210° magnetic at 10 kt, QFE 1020.",
+    "b": "Wind 210° true at 10 kt, QNH 1020.",
+    "c": "Visibility 2200 m, broken 10000 ft, QFE 1020.",
+    "d": "Visibility 2200 m, QNH 1020, blowing snow."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

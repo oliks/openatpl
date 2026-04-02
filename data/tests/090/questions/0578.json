@@ -1,0 +1,14 @@
+{
+  "number": 578,
+  "questionId": "090-0578",
+  "questionNumber": "090-0578",
+  "stemHtml": "<p>What does Expected Approach Time mean?</p>",
+  "options": {
+    "a": "The time the aircraft expects to be over the destination navaid.",
+    "b": "The time the aircraft will begin the approach at the destination navaid.",
+    "c": "Holding time from the radio facility before approach.",
+    "d": "The time ATC expects a delayed aircraft to leave the holding fix for the approach."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

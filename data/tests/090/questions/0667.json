@@ -1,0 +1,14 @@
+{
+  "number": 667,
+  "questionId": "090-0667",
+  "questionNumber": "090-0667",
+  "stemHtml": "<p>You understood only the first part of a message. What phrase do you use?</p>",
+  "options": {
+    "a": "SAY AGAIN ALL AFTER...",
+    "b": "CONFIRM ALL AFTER...",
+    "c": "CHECK MESSAGE AFTER...",
+    "d": "READ BACK AFTER..."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

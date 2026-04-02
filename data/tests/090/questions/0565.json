@@ -1,0 +1,14 @@
+{
+  "number": 565,
+  "questionId": "090-0565",
+  "questionNumber": "090-0565",
+  "stemHtml": "<p>ATC changed AIC515 to AIC999 and now wants it reverted at waypoint BRAVO. Correct instruction?</p>",
+  "options": {
+    "a": "\"AIC999, revert to original flight plan callsign AIC515 at waypoint BRAVO.\"",
+    "b": "\"AIC515, revert to original callsign AIC999 at waypoint BRAVO.\"",
+    "c": "\"AIC515, revert to original flight plan.\"",
+    "d": "\"AIC999, change back to original callsign.\""
+  },
+  "correctOption": "a",
+  "attachments": []
+}

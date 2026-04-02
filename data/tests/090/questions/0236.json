@@ -1,0 +1,14 @@
+{
+  "number": 236,
+  "questionId": "090-0236",
+  "questionNumber": "090-0236",
+  "stemHtml": "<p>Near Bern, you want the true bearing from the station. What is the correct transmission?</p>",
+  "options": {
+    "a": "Bern Approach request QTE.",
+    "b": "G-ABCD, Bern Approach, request true bearing, I say again, request true bearing.",
+    "c": "Bern Approach, G-ABCD, request QDM G-ABCD.",
+    "d": "True bearing, true bearing, Bern approach, G-ABCD, request true bearing, G-ABCD."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

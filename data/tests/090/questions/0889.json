@@ -1,0 +1,14 @@
+{
+  "number": 889,
+  "questionId": "090-0889",
+  "questionNumber": "090-0889",
+  "stemHtml": "<p>What elements form a ground station's call sign?</p>",
+  "options": {
+    "a": "Location plus a frequency suffix (e.g. 118.725).",
+    "b": "A service prefix (e.g. GROUND) plus location name.",
+    "c": "Location name plus a service suffix (e.g. DELIVERY).",
+    "d": "Elements vary by national rules, may include prefix and suffix."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 89,
+  "questionId": "090-0089",
+  "questionNumber": "090-0089",
+  "stemHtml": "<p>A passenger falls ill during a routine flight and you decide to divert. How do you inform ATC and get priority?</p>",
+  "options": {
+    "a": "Transmit PAN PAN MEDICAL (\"PAN PAN MAY-DE-CALL\").",
+    "b": "Set transponder to 7700 and send a distress message.",
+    "c": "Declare urgency and inform ATC of the reason.",
+    "d": "Request an amended clearance without any prefix."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 489,
+  "questionId": "090-0489",
+  "questionNumber": "090-0489",
+  "stemHtml": "<p>Gulfstream HTK is cleared via RNAV departure PONTI4G but equipment is degraded below required accuracy. How should they advise ATC?</p>",
+  "options": {
+    "a": "NEGATIVE RNAV",
+    "b": "UNABLE PONTI4G DEPARTURE DUE RNAV TYPE",
+    "c": "NEGATIVE PONTI4G DEPARTURE DUE EQUIPMENT",
+    "d": "UNABLE RNAV DUE EQUIPMENT"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

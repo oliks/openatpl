@@ -1,0 +1,14 @@
+{
+  "number": 46,
+  "questionId": "090-0046",
+  "questionNumber": "090-0046",
+  "stemHtml": "<p>ATC issues the following instruction: 'F-GTPO cross runway 18, taxi holding point B2, hold short runway 26'. What is the correct readback?</p>",
+  "options": {
+    "a": "<p>F-GTPO cross runway 18, taxi holding point B2, hold short runway 26.</p>",
+    "b": "<p>Cross runway 18, taxi holding point B2, hold short runway 26, F-GTPO.</p>",
+    "c": "<p>Taxi holding point B2, hold short runway 26, F-GTPO.</p>",
+    "d": "<p>Cross runway 18, hold short runway 26, F-GTPO.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

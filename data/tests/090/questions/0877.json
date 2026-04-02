@@ -1,0 +1,14 @@
+{
+  "number": 877,
+  "questionId": "090-0877",
+  "questionNumber": "090-0877",
+  "stemHtml": "<p>ATC asks you to fly left heading 240° for radar identification. Correct readback?</p>",
+  "options": {
+    "a": "Heading two four zero, [call sign].",
+    "b": "Left heading two four zero, [call sign].",
+    "c": "Heading two fourty degrees, [call sign].",
+    "d": "Left heading two four zero degrees to identify, [call sign]."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 454,
+  "questionId": "090-0454",
+  "questionNumber": "090-0454",
+  "stemHtml": "<p>How would a controller ask you to reselect mode and code on the transponder?</p>",
+  "options": {
+    "a": "G-ACZG, RESET SQUAWK ALFA THREE SIX ONE SIX.",
+    "b": "G-ACZG, SQUAWK IDENT THREE SIX ONE SIX.",
+    "c": "G-ACZG, TURN ALFA THREE SIX ONE SIX.",
+    "d": "G-ACZG, RESELECT SQUAWK ALFA THREE SIX ONE SIX."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

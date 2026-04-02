@@ -1,0 +1,14 @@
+{
+  "number": 400,
+  "questionId": "090-0400",
+  "questionNumber": "090-0400",
+  "stemHtml": "<p>You hear an urgency message on the distress frequency and no other station responds. Among other actions, you must...</p>",
+  "options": {
+    "a": "Retransmit it on the distress frequency.",
+    "b": "Acknowledge the message, then immediately relay it to the appropriate ATS unit.",
+    "c": "Retransmit the urgency message on the frequency you were using.",
+    "d": "Acknowledge and await instructions from ATS."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

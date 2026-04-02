@@ -1,0 +1,14 @@
+{
+  "number": 284,
+  "questionId": "090-0284",
+  "questionNumber": "090-0284",
+  "stemHtml": "<p>The cloud ceiling in a METAR (e.g. BKN040) references vertical distance from...</p>",
+  "options": {
+    "a": "Mean Sea Level",
+    "b": "Surface",
+    "c": "WGS 84",
+    "d": "Aerodrome Elevation"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

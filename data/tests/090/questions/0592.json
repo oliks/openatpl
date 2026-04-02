@@ -1,0 +1,14 @@
+{
+  "number": 592,
+  "questionId": "090-0592",
+  "questionNumber": "090-0592",
+  "stemHtml": "<p>Approaching Girona passing IAF BANOL, landing gear warning activates. You want a tower fly-by. Correct phraseology?</p>",
+  "options": {
+    "a": "PAN PAN x3, Girona tower, Globeair xxx, suspect gear malfunction, request low pass.",
+    "b": "MAYDAY x3, Girona tower, Globeair xxx, gear malfunction, request low pass.",
+    "c": "PAN PAN x3, Girona tower, Globeair xxx, cockpit anomaly, request low pass.",
+    "d": "PAN PAN x3, Girona tower, Globeair xxx, suspect gear malfunction, request low pass to confirm."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

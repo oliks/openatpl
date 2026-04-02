@@ -1,0 +1,14 @@
+{
+  "number": 106,
+  "questionId": "090-0106",
+  "questionNumber": "090-0106",
+  "stemHtml": "<p>Your aircraft's maximum climb rate is 1500 ft/min. ATC asks: \"Are you able to increase rate of climb to 2000 ft/min or greater?\" What is the correct reply?</p>",
+  "options": {
+    "a": "<p>Cancel</p>",
+    "b": "<p>No</p>",
+    "c": "<p>Unable</p>",
+    "d": "<p>Disregard</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

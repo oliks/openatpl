@@ -1,0 +1,14 @@
+{
+  "number": 62,
+  "questionId": "090-0062",
+  "questionNumber": "090-0062",
+  "stemHtml": "<p>About to request a controlled airspace crossing, you hear a Mayday. What should you do?</p>",
+  "options": {
+    "a": "Respond to the Mayday and ask for details.",
+    "b": "Switch to 121.5 and stand by.",
+    "c": "Contact ATC immediately to avoid blocking the frequency.",
+    "d": "Do not transmit until the distress traffic ends or is transferred to another frequency."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

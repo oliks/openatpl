@@ -1,0 +1,14 @@
+{
+  "number": 345,
+  "questionId": "090-0345",
+  "questionNumber": "090-0345",
+  "stemHtml": "<p>Helicopter F-HBHT (skids only) wants to move from stand F to the fuel station. What is the correct request?</p><p>\"Foxtrot Hotel Bravo Hotel Tango, stand Foxtrot, request _____.\"</p>",
+  "options": {
+    "a": "Air-taxiing to the fuel station.",
+    "b": "Rolling to the fuel station.",
+    "c": "Proceed to the fuel station.",
+    "d": "Hover to the fuel station."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

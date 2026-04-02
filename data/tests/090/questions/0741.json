@@ -1,0 +1,14 @@
+{
+  "number": 741,
+  "questionId": "090-0741",
+  "questionNumber": "090-0741",
+  "stemHtml": "<p>IFR in IMC with comm failure. How long must you hold at the destination navaid?</p>",
+  "options": {
+    "a": "5 minutes in any case.",
+    "b": "3 minutes if no EAT was acknowledged.",
+    "c": "Until 10 minutes after the last received EAT.",
+    "d": "Until the last received and acknowledged expected approach time."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

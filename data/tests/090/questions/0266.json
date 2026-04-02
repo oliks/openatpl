@@ -1,0 +1,14 @@
+{
+  "number": 266,
+  "questionId": "090-0266",
+  "questionNumber": "090-0266",
+  "stemHtml": "<p>In the circuit, all attempts to reach the tower fail. Which actions?</p><p>1. Squawk 7600 if radar used<br>2. Squawk 7700<br>3. Continue and land<br>4. Divert<br>5. Watch for light signals<br>6. Rock wings<br>7. Flash nav lights<br>8. Make blind transmissions</p>",
+  "options": {
+    "a": "1, 4, and 6",
+    "b": "1, 3, and 5",
+    "c": "2, 4, and 8",
+    "d": "2, 3, and 7"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

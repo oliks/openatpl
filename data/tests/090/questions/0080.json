@@ -1,0 +1,14 @@
+{
+  "number": 80,
+  "questionId": "090-0080",
+  "questionNumber": "090-0080",
+  "stemHtml": "<p>What is the priority level of the instruction \"taxi to runway 05\"?</p>",
+  "options": {
+    "a": "<p>Equal to \"line-up runway 07 and wait\"</p>",
+    "b": "<p>Lower than \"runway 07 cleared to land\"</p>",
+    "c": "<p>Higher than \"transmit for QDM\"</p>",
+    "d": "<p>Lower than \"caution, construction work left of taxiway\"</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

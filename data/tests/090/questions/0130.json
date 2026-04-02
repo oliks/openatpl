@@ -1,0 +1,14 @@
+{
+  "number": 130,
+  "questionId": "090-0130",
+  "questionNumber": "090-0130",
+  "stemHtml": "<p>An aircraft is squawking 7600. This indicates...</p>",
+  "options": {
+    "a": "Unable to communicate due to radio failure.",
+    "b": "Requesting immediate level change.",
+    "c": "Diverting to alternate.",
+    "d": "About to make a forced landing."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

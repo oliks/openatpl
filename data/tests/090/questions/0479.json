@@ -1,0 +1,14 @@
+{
+  "number": 479,
+  "questionId": "090-0479",
+  "questionNumber": "090-0479",
+  "stemHtml": "<p>What is the purpose of the CPDLC LOG-ON procedure?</p>",
+  "options": {
+    "a": "To exchange application information between an aircraft and a specific ATS unit.",
+    "b": "To ensure the aircraft ID matches the flight plan exactly.",
+    "c": "To allow an ATS unit to set up an ADS-C contract under certain conditions.",
+    "d": "To exchange information between an aircraft and the Tower, providing position data."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

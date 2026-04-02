@@ -1,0 +1,14 @@
+{
+  "number": 645,
+  "questionId": "090-0645",
+  "questionNumber": "090-0645",
+  "stemHtml": "<p>FASTAIR 345 receives a TCAS Traffic Advisory (TA). Must it be reported to ATC?</p>",
+  "options": {
+    "a": "Yes — report \"FASTAIR 345, TCAS TA\" because traffic is on the display.",
+    "b": "Yes — TAs must always be reported using standard phraseology.",
+    "c": "No — ATC has a separate alert system.",
+    "d": "No — but Resolution Advisories requiring deviation from ATC clearance must be reported."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

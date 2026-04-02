@@ -1,0 +1,14 @@
+{
+  "number": 686,
+  "questionId": "090-0686",
+  "questionNumber": "090-0686",
+  "stemHtml": "<p>At what interval must automated weather reports be transmitted from an aircraft cruising at FL200?</p>",
+  "options": {
+    "a": "Every 30 minutes.",
+    "b": "Not required, but recommended above FL290.",
+    "c": "Not required below FL290.",
+    "d": "Every 15 minutes."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

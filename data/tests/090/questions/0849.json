@@ -1,0 +1,14 @@
+{
+  "number": 849,
+  "questionId": "090-0849",
+  "questionNumber": "090-0849",
+  "stemHtml": "<p>At FL350, TCAS RA commands \"Descend\". You descend and inform ATC. TCAS then says \"Clear of conflict\". What next?</p>",
+  "options": {
+    "a": "Maintain vertical speed and report \"TCAS RA complete. Request vectors.\"",
+    "b": "Maintain current altitude and report \"TCAS descent complete. Request vectors.\"",
+    "c": "Climb to FL350 and immediately report \"Clear of conflict. Returning to FL350.\"",
+    "d": "Climb to FL350 and report \"TCAS RA clear of conflict. FL350 RESUMED.\""
+  },
+  "correctOption": "c",
+  "attachments": []
+}

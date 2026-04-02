@@ -1,0 +1,14 @@
+{
+  "number": 558,
+  "questionId": "090-0558",
+  "questionNumber": "090-0558",
+  "stemHtml": "<p>Listening to ATIS, assuming no CB. What clouds are reported?</p>",
+  "options": {
+    "a": "Clouds below 1500 m (5000 ft) or below highest MSA, whichever is greater.",
+    "b": "Only clouds below 1500 m (5000 ft).",
+    "c": "All clouds in the TMA.",
+    "d": "All clouds at all altitudes near the aerodrome."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

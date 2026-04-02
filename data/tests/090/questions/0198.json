@@ -1,0 +1,14 @@
+{
+  "number": 198,
+  "questionId": "090-0198",
+  "questionNumber": "090-0198",
+  "stemHtml": "<p>ATC: \"G-ABCD, turn right heading 050, traffic 11 o'clock left to right, G450 climbing.\" You have a TCAS TA. Reply?</p>",
+  "options": {
+    "a": "Heading right, G-ABCD.",
+    "b": "Turn right heading 050, G-ABCD.",
+    "c": "Unable, TCAS TA, G-ABCD.",
+    "d": "Heading 050, G-ABCD."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

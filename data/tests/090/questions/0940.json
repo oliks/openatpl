@@ -1,0 +1,14 @@
+{
+  "number": 940,
+  "questionId": "090-0940",
+  "questionNumber": "090-0940",
+  "stemHtml": "<p>ATC: \"LOOPAIR 125, TRAFFIC 11 O'CLOCK, 5 MILES, CROSSING LEFT TO RIGHT, G150, DESCENDING.\" Not visual, but TCAS TA showing. Reply?</p>",
+  "options": {
+    "a": "WATCHING OUT, LOOPAIR 125.",
+    "b": "TCAS TA, LOOPAIR 125.",
+    "c": "LOOKING OUT, LOOPAIR 125.",
+    "d": "MONITORING TCAS, LOOPAIR 125."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

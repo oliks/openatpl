@@ -1,0 +1,14 @@
+{
+  "number": 203,
+  "questionId": "090-0203",
+  "questionNumber": "090-0203",
+  "stemHtml": "<p>TCAS RA resolved, returning to FL240. Choose the correct pilot/controller interchange:</p><p>(1) Clear of conflict, returning to FL240<br>(2) Clear of conflict, resuming FL240<br>(3) Roger<br>(4) Affirm</p>",
+  "options": {
+    "a": "(1) Pilot; (4) Controller.",
+    "b": "(1) Pilot; (3) Controller.",
+    "c": "(2) Pilot; (4) Controller.",
+    "d": "(2) Pilot; (3) Controller."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

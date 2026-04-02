@@ -1,0 +1,14 @@
+{
+  "number": 202,
+  "questionId": "090-0202",
+  "questionNumber": "090-0202",
+  "stemHtml": "<p>Miami International Airport's METAR reports the local altimeter setting as 28.95 inches of mercury. How should this value be interpreted by the pilot?</p>",
+  "options": {
+    "a": "<p>28.95 in.Hg</p>",
+    "b": "<p>0.9806 bar</p>",
+    "c": "<p>980.6 hPa</p>",
+    "d": "<p>75.63 kPa</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

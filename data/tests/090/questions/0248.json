@@ -1,0 +1,14 @@
+{
+  "number": 248,
+  "questionId": "090-0248",
+  "questionNumber": "090-0248",
+  "stemHtml": "<p>Controller: \"STOP SQUAWK CHARLIE, WRONG INDICATION.\" This means...</p>",
+  "options": {
+    "a": "Switch off the transponder completely.",
+    "b": "Position indication is incorrect on primary radar.",
+    "c": "Bearing accuracy is limited to 10°.",
+    "d": "Turn off the altitude reporting function."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

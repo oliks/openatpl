@@ -1,0 +1,14 @@
+{
+  "number": 96,
+  "questionId": "090-0096",
+  "questionNumber": "090-0096",
+  "stemHtml": "<p>ATC: \"D-EASA, reset squawk 5416, new QNH 1022, contact Bern Control on 124.680\". What must your readback include?</p>",
+  "options": {
+    "a": "Squawk, QNH, and frequency.",
+    "b": "Frequency only.",
+    "c": "QNH only.",
+    "d": "Frequency and QNH only — controller sees the squawk on radar."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

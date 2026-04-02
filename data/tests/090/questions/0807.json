@@ -1,0 +1,14 @@
+{
+  "number": 807,
+  "questionId": "090-0807",
+  "questionNumber": "090-0807",
+  "stemHtml": "<p>Which interpretation of this D-ATIS is correct?</p><p>WSSS Dep ATIS F 0130 METAR Exp ILS Apch segregated PARL Ops in use ARR RWY 02L DEP 02C...</p>",
+  "options": {
+    "a": "Runway 02L is for departures; visibility 10 km+; wind 010° at 4 kt.",
+    "b": "ATIS for departing and arriving traffic; RWY 02C for departures; no significant changes.",
+    "c": "ICAO code WSSS; taxiway E3 southbound closed; clouds reported at multiple layers.",
+    "d": "ATIS F is current; temperature 26°C; no significant weather changes expected."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

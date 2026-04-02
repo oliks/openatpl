@@ -1,0 +1,14 @@
+{
+  "number": 907,
+  "questionId": "090-0907",
+  "questionNumber": "090-0907",
+  "stemHtml": "<p>A pilot flying where no ATC or advisory service is provided suffers a receiver failure. Besides prefacing all transmissions with \"Transmitting blind due to receiver failure\", which actions must be taken?</p><p>1. Land at nearest suitable aerodrome<br>2. Transmit position reports at scheduled times<br>3. Squawk 7600<br>4. Monitor 121.5<br>5. Transmit intended actions<br>6. Descend to circuit height</p>",
+  "options": {
+    "a": "<p>1, 3, 4, 5</p>",
+    "b": "<p>2, 3, 5, 6</p>",
+    "c": "<p>2, 4, 5, 6</p>",
+    "d": "<p>1, 2, 3, 5</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

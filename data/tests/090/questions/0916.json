@@ -1,0 +1,14 @@
+{
+  "number": 916,
+  "questionId": "090-0916",
+  "questionNumber": "090-0916",
+  "stemHtml": "<p>Unable to contact a station on the designated frequency. What should the pilot do?</p>",
+  "options": {
+    "a": "Try an alternative frequency.",
+    "b": "Return to the departure airport.",
+    "c": "Continue without communication.",
+    "d": "Land at the nearest airport without ATC."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

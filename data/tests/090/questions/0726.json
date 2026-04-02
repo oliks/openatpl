@@ -1,0 +1,14 @@
+{
+  "number": 726,
+  "questionId": "090-0726",
+  "questionNumber": "090-0726",
+  "stemHtml": "<p>Oceanic routing without data link. How can you get weather for destination and alternate?</p>",
+  "options": {
+    "a": "VOLMET on HF.",
+    "b": "D-ATIS via ACARS.",
+    "c": "Request from ATC by voice.",
+    "d": "VOLMET on VHF."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

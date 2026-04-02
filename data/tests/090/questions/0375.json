@@ -1,0 +1,14 @@
+{
+  "number": 375,
+  "questionId": "090-0375",
+  "questionNumber": "090-0375",
+  "stemHtml": "<p>What is the standard time format for aviation?</p>",
+  "options": {
+    "a": "hh:mm, local time",
+    "b": "hh:mm:ss, local time",
+    "c": "hh:mm:ss, UTC",
+    "d": "hh:mm, UTC"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

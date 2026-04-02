@@ -1,0 +1,14 @@
+{
+  "number": 275,
+  "questionId": "090-0275",
+  "questionNumber": "090-0275",
+  "stemHtml": "<p>Cruising mid-Atlantic, you need a weather update. Given VHF line-of-sight limitations, which frequencies are suitable?</p><p>1. 3000 kHz<br>2. 10 000 kHz<br>3. 123.450 MHz<br>4. 126.900 MHz</p>",
+  "options": {
+    "a": "<p>1 and 3</p>",
+    "b": "<p>2 and 4</p>",
+    "c": "<p>3 and 4</p>",
+    "d": "<p>1 and 2</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

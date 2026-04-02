@@ -1,0 +1,14 @@
+{
+  "number": 715,
+  "questionId": "090-0715",
+  "questionNumber": "090-0715",
+  "stemHtml": "<p>What phraseology notifies a single CPDLC message failure?</p>",
+  "options": {
+    "a": "Disregard CPDLC (message type) message, Break (correct clearance).",
+    "b": "(All stations) stop sending CPDLC requests (until advised) (reason).",
+    "c": "CPDLC message failure (appropriate clearance, instruction, or request).",
+    "d": "(All stations) CPDLC failure (instructions)."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

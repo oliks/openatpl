@@ -1,0 +1,14 @@
+{
+  "number": 112,
+  "questionId": "090-0112",
+  "questionNumber": "090-0112",
+  "stemHtml": "<p>Two aircraft on your frequency have call signs ABC 123 and DCB 123. What would you expect?</p>",
+  "options": {
+    "a": "You may be asked to create a new call sign.",
+    "b": "You should change your call sign on your own initiative.",
+    "c": "You may be told to leave the frequency.",
+    "d": "ATC may instruct one aircraft to change call sign temporarily."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

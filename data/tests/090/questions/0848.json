@@ -1,0 +1,14 @@
+{
+  "number": 848,
+  "questionId": "090-0848",
+  "questionNumber": "090-0848",
+  "stemHtml": "<p>RUSHAIR 142 receives: \"ALL STATIONS, STOP SENDING CPDLC REQUESTS UNTIL ADVISED\". What should the crew do?</p>",
+  "options": {
+    "a": "Log off and log on again to resume CPDLC.",
+    "b": "Send \"WILCO\" via CPDLC and wait.",
+    "c": "Stop CPDLC requests and use voice communication.",
+    "d": "Switch to voice and request a frequency change."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

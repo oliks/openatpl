@@ -1,0 +1,14 @@
+{
+  "number": 323,
+  "questionId": "090-0323",
+  "questionNumber": "090-0323",
+  "stemHtml": "<p>From this WSSS ATIS F, what is correct?</p><p>WSSS ATIS F, 0230 METAR, Exp ILS Apch, segregated PARL Ops, ARR 02L DEP 02C, TWY EP/A3 and E3 southbound closed...</p>",
+  "options": {
+    "a": "ATIS based on 0230Z METAR; some taxiways closed due to work in progress.",
+    "b": "RWY 02C for departures; info F available on 121.65.",
+    "c": "Wind shear warning is in force; wind 010° variable.",
+    "d": "Dew point 26°C; info F on 120.3."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 663,
+  "questionId": "090-0663",
+  "questionNumber": "090-0663",
+  "stemHtml": "<p>METAR: LSGG 241420Z 21001KT 2200 SN FEW003 BKN030 01/00 Q1020. Which pair is correct?</p><p>1. Few at 300 ft AGL<br>2. Few at 3000 ft ASL<br>3. Scattered at 30,000 ft<br>4. Broken at 3000 ft AGL</p>",
+  "options": {
+    "a": "1 and 4",
+    "b": "2 and 3",
+    "c": "3 and 4",
+    "d": "1 and 3"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 708,
+  "questionId": "090-0708",
+  "questionNumber": "090-0708",
+  "stemHtml": "<p>At FL140 on a scheduled international flight, the data-link becomes unserviceable 30 minutes into cruise. What about weather observations?</p>",
+  "options": {
+    "a": "Routine observations still auto-transmit every 15 minutes regardless.",
+    "b": "Attempt to restart data-link so routine observations resume.",
+    "c": "Exempt from both routine and special observations.",
+    "d": "Special observations must be reported by voice since data-link is unavailable."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

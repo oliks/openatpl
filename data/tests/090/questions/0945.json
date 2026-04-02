@@ -1,0 +1,14 @@
+{
+  "number": 945,
+  "questionId": "090-0945",
+  "questionNumber": "090-0945",
+  "stemHtml": "<p>In what order should ATC describe a holding procedure?</p>",
+  "options": {
+    "a": "Fix, inbound track, level, turns, time of leg.",
+    "b": "Fix, inbound track, turns, level, time of leg.",
+    "c": "Fix, level, turns, level, inbound track, time of leg.",
+    "d": "Fix, level, inbound track, turns, time of leg."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 649,
+  "questionId": "090-0649",
+  "questionNumber": "090-0649",
+  "stemHtml": "<p>The FANS LOG ON notification phase involves transmitting aircraft information and...</p>",
+  "options": {
+    "a": "park stand information to the pre-flight controller for a data-link PDC.",
+    "b": "aircraft position to the ground controller for a data-link taxi clearance.",
+    "c": "aircraft position to request data-link clearance to enter an airspace.",
+    "d": "associated data-link capability, before initiating any data-link communication with ATC."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

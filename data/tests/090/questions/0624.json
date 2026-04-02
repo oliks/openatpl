@@ -1,0 +1,14 @@
+{
+  "number": 624,
+  "questionId": "090-0624",
+  "questionNumber": "090-0624",
+  "stemHtml": "<p>A microphone button is stuck in transmit. What is the result?</p><p>1. Pilot loses ability to transmit<br>2. Pilot hears intercom and static noise<br>3. ATC can still receive from other aircraft<br>4. Other aircraft cannot transmit on the frequency</p>",
+  "options": {
+    "a": "4 only",
+    "b": "2 and 3",
+    "c": "1 and 3",
+    "d": "2 and 4"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

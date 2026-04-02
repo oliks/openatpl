@@ -1,0 +1,14 @@
+{
+  "number": 473,
+  "questionId": "090-0473",
+  "questionNumber": "090-0473",
+  "stemHtml": "<p>Following the 'PAN PAN' call (typically repeated three times), what elements should an urgency message contain?</p><p>1. Addressee station name<br>2. Aircraft call sign<br>3. Nature of the urgent condition<br>4. Pilot's intentions<br>5. Position, level and heading</p>",
+  "options": {
+    "a": "<p>Element 5 is mandatory; the rest are optional.</p>",
+    "b": "<p>Elements 3 and 4 are mandatory; the rest are optional.</p>",
+    "c": "<p>Elements 2 and 4 are mandatory; the rest are optional.</p>",
+    "d": "<p>As many elements as the situation requires.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

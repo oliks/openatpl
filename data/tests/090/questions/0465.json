@@ -1,0 +1,14 @@
+{
+  "number": 465,
+  "questionId": "090-0465",
+  "questionNumber": "090-0465",
+  "stemHtml": "<p>ATC: \"XBC reset squawk 1015\". What does this mean?</p>",
+  "options": {
+    "a": "XBC identified at 10:15 UTC.",
+    "b": "XBC should press IDENT.",
+    "c": "XBC should reselect SSR code 1015.",
+    "d": "XBC identified by code 1015."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

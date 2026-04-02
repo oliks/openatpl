@@ -1,0 +1,14 @@
+{
+  "number": 250,
+  "questionId": "090-0250",
+  "questionNumber": "090-0250",
+  "stemHtml": "<p>Thunderstorms were forecast. In nimbostratus, you see lightning. What should you do?</p>",
+  "options": {
+    "a": "PAN call — urgent message.",
+    "b": "Include it in the next position report (15 minutes).",
+    "c": "Special observation report — embedded thunderstorm encountered and must be reported immediately.",
+    "d": "No report needed since thunderstorms were forecast."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 597,
+  "questionId": "090-0597",
+  "questionNumber": "090-0597",
+  "stemHtml": "<p>Which Q-code gives the magnetic bearing to the airport, and who must correct for wind?</p>",
+  "options": {
+    "a": "QDR; Pilot",
+    "b": "QTE; No correction needed",
+    "c": "QDM; Pilot",
+    "d": "QDM; Controller"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

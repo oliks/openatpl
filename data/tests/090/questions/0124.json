@@ -1,0 +1,14 @@
+{
+  "number": 124,
+  "questionId": "090-0124",
+  "questionNumber": "090-0124",
+  "stemHtml": "<p>Under what circumstances would the instruction \"revert to flight plan call sign\" be issued?</p>",
+  "options": {
+    "a": "<p>When the aircraft station considers it appropriate to use its flight plan call sign.</p>",
+    "b": "<p>When transferring to the next sector frequency.</p>",
+    "c": "<p>This instruction is never used.</p>",
+    "d": "<p>When there is a risk of confusion due to similar sounding call signs.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

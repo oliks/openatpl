@@ -1,0 +1,14 @@
+{
+  "number": 104,
+  "questionId": "090-0104",
+  "questionNumber": "090-0104",
+  "stemHtml": "<p>What information is available to aircraft in flight via VOLMET broadcasts?</p>",
+  "options": {
+    "a": "<p>SPECIAL reports and TAF forecasts.</p>",
+    "b": "<p>SIGMET information.</p>",
+    "c": "<p>Runway condition reports.</p>",
+    "d": "<p>Routine weather reports (METAR) for selected aerodromes.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

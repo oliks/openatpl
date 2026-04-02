@@ -1,0 +1,14 @@
+{
+  "number": 1051,
+  "questionId": "090-1051",
+  "questionNumber": "090-1051",
+  "stemHtml": "<p>Which statements about VFR arrivals are correct?</p><p>1. May need to contact approach for joining instructions<br>2. Should acknowledge ATIS if available<br>3. Must inform ATC of wind conditions<br>4. Should report ATIS information designator<br>5. Must broadcast position every 5 minutes<br>6. May request a frequency change</p>",
+  "options": {
+    "a": "1, 2, and 4",
+    "b": "2, 4, and 6",
+    "c": "3, 5, and 6",
+    "d": "1, 3, and 5"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

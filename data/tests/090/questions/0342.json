@@ -1,0 +1,14 @@
+{
+  "number": 342,
+  "questionId": "090-0342",
+  "questionNumber": "090-0342",
+  "stemHtml": "<p>Near Bern, you wish to obtain the magnetic heading to the airport. What request should you make?</p>",
+  "options": {
+    "a": "<p>Tower and magnetic bearing, XY-ABC.</p>",
+    "b": "<p>Bern approach, XY-ABC, request magnetic bearing information from the airport.</p>",
+    "c": "<p>Bern approach and QTE.</p>",
+    "d": "<p>Bern approach, XY-ABC, request QDM.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 431,
+  "questionId": "090-0431",
+  "questionNumber": "090-0431",
+  "stemHtml": "<p>Departing Lille (runways 26 and 20), ATC says: \"F-PO, behind the landing Airbus, line up and wait runway 26 behind.\" What preceded this message?</p>",
+  "options": {
+    "a": "\"F-PO, report the Airbus on final in sight\" and pilot confirmed visual contact.",
+    "b": "\"F-PO, report the Airbus on final in sight\" and pilot confirmed readiness.",
+    "c": "\"F-PO, ready for immediate departure\" and pilot readback follows.",
+    "d": "The pilot reads back: \"Behind the Airbus, line up and wait, F-PO.\""
+  },
+  "correctOption": "a",
+  "attachments": []
+}

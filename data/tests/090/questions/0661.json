@@ -1,0 +1,14 @@
+{
+  "number": 661,
+  "questionId": "090-0661",
+  "questionNumber": "090-0661",
+  "stemHtml": "<p>ATC: \"Fastair 345 expect radar vectors for visual approach runway 31\". Correct readback?</p>",
+  "options": {
+    "a": "\"Expecting radar vectors for a visual approach runway 31, Fastair 345\".",
+    "b": "\"Fastair 345 expects radar vectors for visual approach to runway 31\".",
+    "c": "\"Cleared to land runway 31, Fastair 345\".",
+    "d": "\"Fastair 345 runway 31 visual approach\"."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

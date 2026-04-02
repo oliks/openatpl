@@ -1,0 +1,14 @@
+{
+  "number": 894,
+  "questionId": "090-0894",
+  "questionNumber": "090-0894",
+  "stemHtml": "<p>\"ALL STATIONS STOP SENDING CPDLC MESSAGES UNTIL ADVISED\". What should you do?</p>",
+  "options": {
+    "a": "Revert to voice and request new frequency.",
+    "b": "Send WILCO via CPDLC then revert to voice.",
+    "c": "Revert to voice and request confirmation.",
+    "d": "Revert to voice communication."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

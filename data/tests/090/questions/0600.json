@@ -1,0 +1,14 @@
+{
+  "number": 600,
+  "questionId": "090-0600",
+  "questionNumber": "090-0600",
+  "stemHtml": "<p>Who or what transmits automated routine weather observations during cruise at FL100?</p><p>1. The pilot via voice<br>2. The aircraft if equipped with data-link<br>3. The pilot via data-link</p>",
+  "options": {
+    "a": "2 and 3.",
+    "b": "3 only.",
+    "c": "1 and 2.",
+    "d": "2 only."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 64,
+  "questionId": "090-0064",
+  "questionNumber": "090-0064",
+  "stemHtml": "<p>Flying towards Bern, you are told to contact the tower. What is the correct station call sign to use?</p>",
+  "options": {
+    "a": "Bern only, since just the station name is needed.",
+    "b": "No call sign if the captain is uncertain of the name.",
+    "c": "Just Tower, if the commander is unsure of the location name.",
+    "d": "Bern Tower, as the call sign comprises the location name and service type."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

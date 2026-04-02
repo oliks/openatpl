@@ -1,0 +1,14 @@
+{
+  "number": 304,
+  "questionId": "090-0304",
+  "questionNumber": "090-0304",
+  "stemHtml": "<p>Before entering KARLSRUHE UAC FIR, CPDLC is required. What should you do?</p>",
+  "options": {
+    "a": "Start CPDLC without logging on.",
+    "b": "Contact ATC by voice and skip logon.",
+    "c": "Wait for the logon request from ATC, then respond.",
+    "d": "Send a request to Ground Control."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

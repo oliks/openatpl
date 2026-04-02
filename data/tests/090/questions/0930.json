@@ -1,0 +1,14 @@
+{
+  "number": 930,
+  "questionId": "090-0930",
+  "questionNumber": "090-0930",
+  "stemHtml": "<p>Flying near Bern, you need the magnetic heading to the airport assuming no wind. What is the correct transmission?</p>",
+  "options": {
+    "a": "<p>Bern Approach, G-ABCD, request QTE G-ABCD</p>",
+    "b": "<p>Bern Approach, G-ABCD, request QDM G-ABCD</p>",
+    "c": "<p>Bern Approach, G-ABCD, request QDR G-ABCD</p>",
+    "d": "<p>G-ABCD request QDM, G-ABCD</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

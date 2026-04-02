@@ -1,0 +1,14 @@
+{
+  "number": 212,
+  "questionId": "090-0212",
+  "questionNumber": "090-0212",
+  "stemHtml": "<p>ATC transmits: \"Bigjet 345, Wind 030 at 8 kt, runway 08R, cleared for takeoff\". What is the correct readback?</p>",
+  "options": {
+    "a": "<p>Cleared for take off, Bigjet 345.</p>",
+    "b": "<p>Wilco, Bigjet 345.</p>",
+    "c": "<p>Runway 08R, cleared for take off, Bigjet 345.</p>",
+    "d": "<p>Bigjet 345, wilco.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

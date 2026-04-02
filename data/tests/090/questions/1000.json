@@ -1,0 +1,14 @@
+{
+  "number": 1000,
+  "questionId": "090-1000",
+  "questionNumber": "090-1000",
+  "stemHtml": "<p>What does \"Break Break\" mean when used by an ATS unit?</p>",
+  "options": {
+    "a": "An incident has occurred and service will soon cease.",
+    "b": "All stations should omit readbacks.",
+    "c": "An urgent relay message follows.",
+    "d": "Separation between messages to different aircraft in a very busy environment."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 252,
+  "questionId": "090-0252",
+  "questionNumber": "090-0252",
+  "stemHtml": "<p>For a special VFR departure, which ATC phrase would you expect to hear?</p>",
+  "options": {
+    "a": "Via route Whiskey, cleared 3000 feet or below, report Whiskey one as special VFR.",
+    "b": "Cleared to leave the control zone VFR under special routing via route Whiskey, 3000 feet or below.",
+    "c": "Leave control zone special VFR via route Whiskey, 3000 feet or below, report Whiskey one.",
+    "d": "Special VFR to destination, passing Wicken VOR, climbing 3000 feet."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

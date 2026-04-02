@@ -1,0 +1,14 @@
+{
+  "number": 376,
+  "questionId": "090-0376",
+  "questionNumber": "090-0376",
+  "stemHtml": "<p>Fastair 345 on stand 24 at Georgetown has received clearance from DELIVERY and is told to contact GROUND when ready. Complete the message: \"GEORGETOWN _____, FASTAIR 345, STAND 24...\"</p>",
+  "options": {
+    "a": "ENGINES READY",
+    "b": "READY TO START ENGINES",
+    "c": "REQUEST START UP",
+    "d": "REQUEST DEPARTURE"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

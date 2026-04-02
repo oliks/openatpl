@@ -1,0 +1,14 @@
+{
+  "number": 935,
+  "questionId": "090-0935",
+  "questionNumber": "090-0935",
+  "stemHtml": "<p>In a METAR, what sky coverage does \"Scattered\" indicate?</p>",
+  "options": {
+    "a": "Full sky coverage (8 octas).",
+    "b": "Clear below 5000 ft/GND.",
+    "c": "Half or less of the sky (3-4 octas).",
+    "d": "More than half but not all of the sky (5-7 octas)."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

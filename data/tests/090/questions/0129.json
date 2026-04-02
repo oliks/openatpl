@@ -1,0 +1,14 @@
+{
+  "number": 129,
+  "questionId": "090-0129",
+  "questionNumber": "090-0129",
+  "stemHtml": "<p>ATC reports traffic at 11 o'clock. You don't see it visually but have it on TCAS. What do you reply?</p>",
+  "options": {
+    "a": "Monitoring TCAS, F-ABCD",
+    "b": "TCAS TA, F-ABCD",
+    "c": "Watching out, F-ABCD",
+    "d": "Looking out, F-ABCD"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

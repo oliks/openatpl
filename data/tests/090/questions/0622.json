@@ -1,0 +1,14 @@
+{
+  "number": 622,
+  "questionId": "090-0622",
+  "questionNumber": "090-0622",
+  "stemHtml": "<p>Controller: \"HOTAIR AG, RESET SQUAWK CHARLIE 3363\". What should you do?</p>",
+  "options": {
+    "a": "Verify 3363 is displayed with altitude, and reply \"SQUAWK VERIFIED, HOTAIR AG\".",
+    "b": "Reselect 3363 and reply \"WILCO, HOTAIR AG\".",
+    "c": "Reselect 3363, confirm altitude reporting is on, and read back \"RESETTING 3363, HOTAIR AG\".",
+    "d": "Verify display, press IDENT, and reply \"SQUAWKING 3363, HOTAIR AG\"."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

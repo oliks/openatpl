@@ -1,0 +1,14 @@
+{
+  "number": 219,
+  "questionId": "090-0219",
+  "questionNumber": "090-0219",
+  "stemHtml": "<p>An aircraft in distress stays on the current frequency. How can ATC offer better assistance?</p>",
+  "options": {
+    "a": "Tell the distressed aircraft to climb for better signal.",
+    "b": "Move all other aircraft to a new frequency.",
+    "c": "Direct all other aircraft to change course.",
+    "d": "Request the crew to change frequency."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

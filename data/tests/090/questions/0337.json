@@ -1,0 +1,14 @@
+{
+  "number": 337,
+  "questionId": "090-0337",
+  "questionNumber": "090-0337",
+  "stemHtml": "<p>Which message category takes priority over urgency messages?</p>",
+  "options": {
+    "a": "Flight safety",
+    "b": "Direction-finding",
+    "c": "Distress",
+    "d": "Meteorological"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 748,
+  "questionId": "090-0748",
+  "questionNumber": "090-0748",
+  "stemHtml": "<p>Aircraft D-CURE receives: \"Runway in use 10, Wind 130/10kts, Braking action poor, QNH 1008\". Which readback is correct?</p>",
+  "options": {
+    "a": "<p>RWY 10, Wind 130/10kts, QNH 1008, DCURE</p>",
+    "b": "<p>RWY 10, QNH 1008, DCURE</p>",
+    "c": "<p>QNH 1008</p>",
+    "d": "<p>RWY 10, RE</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

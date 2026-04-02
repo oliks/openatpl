@@ -1,0 +1,14 @@
+{
+  "number": 923,
+  "questionId": "090-0923",
+  "questionNumber": "090-0923",
+  "stemHtml": "<p>Squawk 4414 assigned, then radio fails. What do you do?</p>",
+  "options": {
+    "a": "Set transponder to standby.",
+    "b": "Keep 4414.",
+    "c": "Set 7600.",
+    "d": "Keep 4414 until level change then switch to 7600."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

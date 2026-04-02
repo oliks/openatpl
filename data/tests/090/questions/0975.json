@@ -1,0 +1,14 @@
+{
+  "number": 975,
+  "questionId": "090-0975",
+  "questionNumber": "090-0975",
+  "stemHtml": "<p>During radar vectoring, the controller instructs XY-ABC to turn to heading 360°. What is the correct readback?</p>",
+  "options": {
+    "a": "No readback is needed as the aircraft is identified.",
+    "b": "Heading three hundred sixty, X-BC.",
+    "c": "Heading three six zero, X-BC.",
+    "d": "Heading north, X-BC."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 430,
+  "questionId": "090-0430",
+  "questionNumber": "090-0430",
+  "stemHtml": "<p>Near Bern, you want the true bearing from the airport. What should you request?</p>",
+  "options": {
+    "a": "Bern approach, XY-ABC, request QTE.",
+    "b": "Bern approach, XY-ABC, request true bearing from the airport.",
+    "c": "Tower and true bearing, XY-ABC.",
+    "d": "Bern approach and QDM."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

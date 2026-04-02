@@ -1,0 +1,14 @@
+{
+  "number": 618,
+  "questionId": "090-0618",
+  "questionNumber": "090-0618",
+  "stemHtml": "<p>The departure ATIS is unserviceable. In your request for departure information, which items and in what order?</p><p>1. Station addressed<br>2. Planned altitude/level<br>3. Regional QNH<br>4. Route intentions<br>5. Departure aerodrome<br>6. Aircraft call sign<br>7. Aircraft type</p>",
+  "options": {
+    "a": "6, 7, 3, 4",
+    "b": "6, 1, 7, 2",
+    "c": "1, 5, 6, 2",
+    "d": "1, 6, 4, 5"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

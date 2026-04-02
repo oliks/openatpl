@@ -1,0 +1,14 @@
+{
+  "number": 329,
+  "questionId": "090-0329",
+  "questionNumber": "090-0329",
+  "stemHtml": "<p>On an IFR flight, you are about to make a compulsory report when a PAN PAN message is heard. Which is correct?</p>",
+  "options": {
+    "a": "Your position report has higher priority.",
+    "b": "The urgency message outranks even distress messages.",
+    "c": "The urgency message has higher priority than your position report.",
+    "d": "The urgency message takes priority over all other messages."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

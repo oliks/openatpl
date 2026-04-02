@@ -1,0 +1,14 @@
+{
+  "number": 12,
+  "questionId": "090-0012",
+  "questionNumber": "090-0012",
+  "stemHtml": "<p>ATC transmits: \"F-GTPO Recleared FL50\". What is the correct readback?</p>",
+  "options": {
+    "a": "<p>Recleared FL50, F-GTPO.</p>",
+    "b": "<p>F-GTPO, recleared FL50.</p>",
+    "c": "<p>Wilco, F-GTPO.</p>",
+    "d": "<p>Climb to and maintain FL50, F-GTPO.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

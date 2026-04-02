@@ -1,0 +1,14 @@
+{
+  "number": 791,
+  "questionId": "090-0791",
+  "questionNumber": "090-0791",
+  "stemHtml": "<p>Complete: A controller receives a (1)_____ call that takes priority over all other messages and instructs other stations to (2)_____.</p>",
+  "options": {
+    "a": "(1) PAN PAN; (2) stop transmitting.",
+    "b": "(1) PAN PAN; (2) change frequency.",
+    "c": "(1) MAYDAY; (2) change frequency.",
+    "d": "(1) MAYDAY; (2) stop transmitting."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 627,
+  "questionId": "090-0627",
+  "questionNumber": "090-0627",
+  "stemHtml": "<p>What does \"Squawk 1234\" mean?</p>",
+  "options": {
+    "a": "Standby on frequency 123.4 MHz.",
+    "b": "Transmit a test on 123.4 MHz.",
+    "c": "Short count for direction finding.",
+    "d": "Select code 1234 on the SSR transponder."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

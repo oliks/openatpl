@@ -1,0 +1,14 @@
+{
+  "number": 267,
+  "questionId": "090-0267",
+  "questionNumber": "090-0267",
+  "stemHtml": "<p>At an aerodrome without ATIS, you request departure information and receive: FASTAIR 345, DEPARTURE RUNWAY 32, WIND 290 DEGREES 4 KNOTS, QNH 1022, TEMPERATURE 10, DEWPOINT 5, RVR 550 METRES, TIME 27. In what unit is the air temperature expressed?</p>",
+  "options": {
+    "a": "<p>Total Air Temperature (TAT) units</p>",
+    "b": "<p>Degrees Fahrenheit (°F)</p>",
+    "c": "<p>Degrees Celsius (°C)</p>",
+    "d": "<p>Kelvin (K)</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

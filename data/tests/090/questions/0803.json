@@ -1,0 +1,14 @@
+{
+  "number": 803,
+  "questionId": "090-0803",
+  "questionNumber": "090-0803",
+  "stemHtml": "<p>ATC: \"SUN AIR 764, RESET SQUAWK MODE Charlie 5503\". What should you do and reply?</p>",
+  "options": {
+    "a": "Reply \"resetting squawk 5503 Sun Air 764\".",
+    "b": "Reset 5503, ensure altitude reporting, reply \"resetting squawk 5503 mode Charlie, SUN AIR 764\".",
+    "c": "Reset 5503, ensure altitude reporting, reply \"resetting mode Charlie 5503, SUN AIR 764\".",
+    "d": "Reset 5503, reply \"resetting squawk 5503\"."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

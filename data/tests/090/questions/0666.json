@@ -1,0 +1,14 @@
+{
+  "number": 666,
+  "questionId": "090-0666",
+  "questionNumber": "090-0666",
+  "stemHtml": "<p>You are carrying medical supplies and personnel to a conflict zone for the government. To ensure priority with ATS, what message should you use?</p>",
+  "options": {
+    "a": "Only registered ambulance aircraft get priority; state your registration.",
+    "b": "After PAN PAN three times, state call sign, medical cargo, position, and intentions.",
+    "c": "State call sign, position, level, heading, frequencies, and SSR code.",
+    "d": "After PAN PAN three times plus \"MEDICAL\", state call sign, position, level, heading, frequencies monitored and SSR code."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

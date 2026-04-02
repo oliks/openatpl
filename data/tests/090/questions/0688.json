@@ -1,0 +1,14 @@
+{
+  "number": 688,
+  "questionId": "090-0688",
+  "questionNumber": "090-0688",
+  "stemHtml": "<p>ATC cannot reach a specific aircraft on any expected frequency. What should the controller do?</p>",
+  "options": {
+    "a": "Let the aircraft follow its clearance.",
+    "b": "Try a secondary frequency.",
+    "c": "Use another aircraft to relay the message.",
+    "d": "Stop attempting contact — pilots may be handling an emergency."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

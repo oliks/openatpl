@@ -1,0 +1,14 @@
+{
+  "number": 22,
+  "questionId": "090-0022",
+  "questionNumber": "090-0022",
+  "stemHtml": "<p>300 NM from destination, concerned about possible low cloud at arrival in one hour. How can you get the most current forecast?</p>",
+  "options": {
+    "a": "Request a forecast on the ATIS frequency.",
+    "b": "Listen to the VOLMET broadcast.",
+    "c": "Rely on the TAF issued 5 hours ago.",
+    "d": "Ask the flight information service to check for TAF amendments."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

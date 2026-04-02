@@ -1,0 +1,14 @@
+{
+  "number": 193,
+  "questionId": "090-0193",
+  "questionNumber": "090-0193",
+  "stemHtml": "<p>Landing gear may not be fully extended. The crew wants a low pass for tower inspection. What is the correct message element order?</p>",
+  "options": {
+    "a": "Pan pan (x3), station called, call sign, reason, intentions.",
+    "b": "Pan pan (x3), call sign, station called, reason, intentions.",
+    "c": "Mayday (x3), station called, call sign, reason, intentions.",
+    "d": "Mayday (x3), station called, reason, intentions, call sign."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

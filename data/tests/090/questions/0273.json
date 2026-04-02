@@ -1,0 +1,14 @@
+{
+  "number": 273,
+  "questionId": "090-0273",
+  "questionNumber": "090-0273",
+  "stemHtml": "<p>On which frequency should a message prefaced with \"transmitting blind due to receiver failure\" be sent?</p>",
+  "options": {
+    "a": "On the frequency currently in use.",
+    "b": "On the regional guard frequency.",
+    "c": "On all available aeronautical frequencies.",
+    "d": "On the international emergency frequency."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

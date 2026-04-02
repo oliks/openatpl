@@ -1,0 +1,14 @@
+{
+  "number": 822,
+  "questionId": "090-0822",
+  "questionNumber": "090-0822",
+  "stemHtml": "<p>In cruise, you hear a click on the ATC frequency — no speech, but the frequency is blocked. What is most likely happening?</p>",
+  "options": {
+    "a": "A station is transmitting but its carrier wave is not modulated.",
+    "b": "The ATC station is not broadcasting the modulated carrier.",
+    "c": "The receiving station sends an unmodulated signal.",
+    "d": "Only sidebands are being transmitted, carrier wave missing."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

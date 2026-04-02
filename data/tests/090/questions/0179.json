@@ -1,0 +1,14 @@
+{
+  "number": 179,
+  "questionId": "090-0179",
+  "questionNumber": "090-0179",
+  "stemHtml": "<p>ATC instructs: \"X-BC squawk standby\". What is required?</p>",
+  "options": {
+    "a": "<p>X-BC should hold position and await radar vectors.</p>",
+    "b": "<p>X-BC should set the transponder to standby mode.</p>",
+    "c": "<p>X-BC should wait as the radar controller is occupied.</p>",
+    "d": "<p>X-BC should remain on the current frequency and wait.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

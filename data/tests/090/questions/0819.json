@@ -1,0 +1,14 @@
+{
+  "number": 819,
+  "questionId": "090-0819",
+  "questionNumber": "090-0819",
+  "stemHtml": "<p>When CAVOK is used in a METAR, what are the visibility and cloud conditions?</p>",
+  "options": {
+    "a": "Visibility 8 km+, no cloud below 3000 ft.",
+    "b": "Visibility 5000 m+, no cloud below 1500 ft.",
+    "c": "Visibility 10 km+, no cloud below 1500 ft.",
+    "d": "Visibility 10 km+, no cloud below 5000 ft."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 999,
+  "questionId": "090-0999",
+  "questionNumber": "090-0999",
+  "stemHtml": "<p>Your call sign is GOLF ALFA CHARLIE ZULU GOLF. ATC wants you to use company call sign SKYFALL ZULU GOLF. What phraseology would they use?</p>",
+  "options": {
+    "a": "ADOPT CALL SIGN SKYFALL ZULU GOLF.",
+    "b": "CHANGE YOUR CALL SIGN TO SKYFALL ZULU GOLF.",
+    "c": "ADOPT COMPANY CALL SIGN.",
+    "d": "ATC would only abbreviate, not change call signs."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 186,
+  "questionId": "090-0186",
+  "questionNumber": "090-0186",
+  "stemHtml": "<p>You request a magnetic bearing from a station and plot it on a chart without applying variation correction. Which statement applies?</p>",
+  "options": {
+    "a": "You requested QDM and plotted corrected for variation.",
+    "b": "You requested QDM and plotted without correcting for variation.",
+    "c": "You requested QDR and plotted without correcting for variation.",
+    "d": "You requested QDR and plotted corrected for variation."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

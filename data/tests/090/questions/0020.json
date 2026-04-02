@@ -1,0 +1,14 @@
+{
+  "number": 20,
+  "questionId": "090-0020",
+  "questionNumber": "090-0020",
+  "stemHtml": "<p>You are captain of Air Europe flight 749, operating an Airbus A320 registered D-EASA. The operator's telephony designator is Europalia. What is the correct full call sign?</p>",
+  "options": {
+    "a": "Europalia 749",
+    "b": "Europalia DEASA",
+    "c": "Airbus DSA",
+    "d": "Air Europe EASA 749"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

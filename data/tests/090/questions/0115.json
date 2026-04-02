@@ -1,0 +1,14 @@
+{
+  "number": 115,
+  "questionId": "090-0115",
+  "questionNumber": "090-0115",
+  "stemHtml": "<p>After receiving a weather deviation clearance via CPDLC and subsequently returning to your original route, what CPDLC message should you send?</p>",
+  "options": {
+    "a": "<p>Back on route.</p>",
+    "b": "<p>Clear of weather.</p>",
+    "c": "<p>Original routing resumed.</p>",
+    "d": "<p>Clear of weather, rejoined the planned route.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

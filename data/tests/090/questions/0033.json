@@ -1,0 +1,14 @@
+{
+  "number": 33,
+  "questionId": "090-0033",
+  "questionNumber": "090-0033",
+  "stemHtml": "<p>Select the correct combination of navigation station, frequency band, and approximate wavelength.</p>",
+  "options": {
+    "a": "<p>NDB, MF, 20 NM</p>",
+    "b": "<p>VOR, VHF, 5 m</p>",
+    "c": "<p>VOR, HF, 50 NM</p>",
+    "d": "<p>NDB, LF, 15 NM</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

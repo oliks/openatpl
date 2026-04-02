@@ -1,0 +1,14 @@
+{
+  "number": 746,
+  "questionId": "090-0746",
+  "questionNumber": "090-0746",
+  "stemHtml": "<p>While following a TCAS RA, ATC issues a conflicting clearance. The pilot should reply (1) _____ and ATC should respond (2) _____.</p>",
+  "options": {
+    "a": "(1) Unable, TCAS RA; (2) Affirm",
+    "b": "(1) TCAS RA; (2) Affirm",
+    "c": "(1) Unable, TCAS; (2) Roger",
+    "d": "(1) Unable, TCAS RA; (2) Roger"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

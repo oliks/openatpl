@@ -1,0 +1,14 @@
+{
+  "number": 998,
+  "questionId": "090-0998",
+  "questionNumber": "090-0998",
+  "stemHtml": "<p>ATC changed your call sign from XY-GBD to X-BD at 11:20 UTC for safety. When do you revert?</p>",
+  "options": {
+    "a": "After 30 minutes.",
+    "b": "Only when ATC instructs you to change back.",
+    "c": "Whenever you consider it necessary.",
+    "d": "When the danger passes."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

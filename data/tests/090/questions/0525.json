@@ -1,0 +1,14 @@
+{
+  "number": 525,
+  "questionId": "090-0525",
+  "questionNumber": "090-0525",
+  "stemHtml": "<p>You hear a click on ATC frequency — no voice but the frequency is blocked. Most likely cause?</p>",
+  "options": {
+    "a": "Carrier wave received but not modulated.",
+    "b": "Interference from another station.",
+    "c": "Modulating wave received but carrier missing.",
+    "d": "Aircraft comm equipment failure."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

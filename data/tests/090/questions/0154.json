@@ -1,0 +1,14 @@
+{
+  "number": 154,
+  "questionId": "090-0154",
+  "questionNumber": "090-0154",
+  "stemHtml": "<p>What does the instruction \"Fastair 345 reset 1240\" require?</p>",
+  "options": {
+    "a": "Fastair 345 should reselect its currently assigned code 1240.",
+    "b": "Fastair 345 must immediately stop squawking 1240.",
+    "c": "Fastair 345 is advised that radar service ends at 12:40.",
+    "d": "Fastair 345 should set a new transponder code of 1240."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

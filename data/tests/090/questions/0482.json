@@ -1,0 +1,14 @@
+{
+  "number": 482,
+  "questionId": "090-0482",
+  "questionNumber": "090-0482",
+  "stemHtml": "<p>Is it permitted to abbreviate a call sign that begins with an airline telephony designator?</p>",
+  "options": {
+    "a": "<p>No, call signs beginning with an operator's telephony designator cannot be shortened.</p>",
+    "b": "<p>Yes, provided the abbreviation retains the last four characters of the registration mark.</p>",
+    "c": "<p>No, call signs may never be abbreviated.</p>",
+    "d": "<p>Yes, abbreviation is always permitted.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

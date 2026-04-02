@@ -1,0 +1,14 @@
+{
+  "number": 675,
+  "questionId": "090-0675",
+  "questionNumber": "090-0675",
+  "stemHtml": "<p>ATC cuts your transmission and says \"Stop transmitting, Mayday\". What should you do?</p>",
+  "options": {
+    "a": "Resume your message from where interrupted.",
+    "b": "Stop transmitting — someone is in distress.",
+    "c": "Broadcast the distress message to all stations.",
+    "d": "Restart your message from the beginning."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

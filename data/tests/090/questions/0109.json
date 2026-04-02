@@ -1,0 +1,14 @@
+{
+  "number": 109,
+  "questionId": "090-0109",
+  "questionNumber": "090-0109",
+  "stemHtml": "<p>Over the sea, cold air moves over warmer water creating an inversion. How does this affect ATIS reception from a coastal airfield?</p>",
+  "options": {
+    "a": "Worsens — cold air increases temperature difference, reducing range.",
+    "b": "Worsens — refraction degrades signal.",
+    "c": "Improves — refraction enhances propagation.",
+    "d": "No effect — air masses don't influence VHF."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

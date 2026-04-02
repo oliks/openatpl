@@ -1,0 +1,14 @@
+{
+  "number": 243,
+  "questionId": "090-0243",
+  "questionNumber": "090-0243",
+  "stemHtml": "<p>METAR: LFPG 161250Z 27015KT 9999 SCT016 OVC024 M09/M12 Q1006 NOSIG. What is the wind?</p>",
+  "options": {
+    "a": "270°(M) / 15 kt",
+    "b": "270°(M) / 15 km/h",
+    "c": "270°(T) / 15 km/h",
+    "d": "270°(T) / 15 kt"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

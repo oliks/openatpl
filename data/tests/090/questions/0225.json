@@ -1,0 +1,14 @@
+{
+  "number": 225,
+  "questionId": "090-0225",
+  "questionNumber": "090-0225",
+  "stemHtml": "<p>ATC changed your call sign from ABC 123 to ABC 999. When do you revert?</p>",
+  "options": {
+    "a": "It's temporary — expect ATC to instruct you to revert to the flight plan call sign.",
+    "b": "Automatically at the airspace boundary.",
+    "c": "It's permanent until landing.",
+    "d": "After 20 minutes."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 934,
+  "questionId": "090-0934",
+  "questionNumber": "090-0934",
+  "stemHtml": "<p>METAR: LPPT 150505Z 11006KT 9999 BKN016 M09/M16 Q1006 NOSIG. Which interpretation is correct?</p>",
+  "options": {
+    "a": "Temperature is 16° below ISA, visibility 10 km+, QNH 1006.",
+    "b": "Temperature minus 9°C, report time 15:05 PM, 5-7/8 cloud at 1600 ft.",
+    "c": "Report at 05:05 UTC, dew point minus 16°C, QNH 1006 hPa.",
+    "d": "Wind 110° true, QNH 9 hPa less than standard, no significant change."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 760,
+  "questionId": "090-0760",
+  "questionNumber": "090-0760",
+  "stemHtml": "<p>ATC requests hourly AIREPs. You encounter turbulence (passengers strained against belts) with your next AIREP due shortly. What should you do?</p>",
+  "options": {
+    "a": "Report the turbulence in your next routine AIREP.",
+    "b": "Moderate turbulence doesn't require reporting.",
+    "c": "Omit the routine report and submit a special AIREP.",
+    "d": "Special AIREP and include turbulence in the next routine report."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

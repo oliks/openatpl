@@ -1,0 +1,14 @@
+{
+  "number": 254,
+  "questionId": "090-0254",
+  "questionNumber": "090-0254",
+  "stemHtml": "<p>Two aircraft are 80 NM from the destination, both tuned to its ATIS. Aircraft X is at 1,500 ft and Y at 15,000 ft. Whose VHF reception will be better and why?</p>",
+  "options": {
+    "a": "<p>Aircraft Y, because higher altitude improves VHF line-of-sight range.</p>",
+    "b": "<p>Aircraft X, because lower altitude reduces signal attenuation.</p>",
+    "c": "<p>Both equally, since they are equidistant from the station.</p>",
+    "d": "<p>Altitude has no influence on VHF reception.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

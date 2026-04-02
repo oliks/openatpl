@@ -1,0 +1,14 @@
+{
+  "number": 362,
+  "questionId": "090-0362",
+  "questionNumber": "090-0362",
+  "stemHtml": "<p>ATC: \"Globe Air 321 cleared to Barcelona, flight plan route, FL280, squawk 5233.\" Correct readback?</p>",
+  "options": {
+    "a": "\"Cleared flight plan route to Barcelona, FL280, Globe Air 321.\"",
+    "b": "\"Cleared to Barcelona, flight plan route, FL280, squawk 5233, Globe Air 321.\"",
+    "c": "\"Globe Air 321 cleared to Barcelona as filed. Climb to FL280, squawk 5233.\"",
+    "d": "\"Globe Air 321 cleared flight plan route, FL280, squawk 5233.\""
+  },
+  "correctOption": "b",
+  "attachments": []
+}

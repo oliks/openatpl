@@ -1,0 +1,14 @@
+{
+  "number": 367,
+  "questionId": "090-0367",
+  "questionNumber": "090-0367",
+  "stemHtml": "<p>Cruising at FL290 with ADS-B and Mode S. How often are automatic weather reports sent?</p>",
+  "options": {
+    "a": "Not required — only above FL290.",
+    "b": "Every 15 minutes.",
+    "c": "Every 30 seconds.",
+    "d": "Not required — only during climb."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

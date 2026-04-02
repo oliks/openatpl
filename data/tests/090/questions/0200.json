@@ -1,0 +1,14 @@
+{
+  "number": 200,
+  "questionId": "090-0200",
+  "questionNumber": "090-0200",
+  "stemHtml": "<p>Departing at 12:15 local (UTC+2), you request a time check. What will ATC say?</p>",
+  "options": {
+    "a": "12:15",
+    "b": "02:15",
+    "c": "14:15",
+    "d": "10:15"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

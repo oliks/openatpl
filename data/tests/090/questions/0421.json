@@ -1,0 +1,14 @@
+{
+  "number": 421,
+  "questionId": "090-0421",
+  "questionNumber": "090-0421",
+  "stemHtml": "<p>ATC clears: \"Globe Air 123 cleared to London Heathrow flight plan route, FL210, squawk 4577.\" What is the correct readback?</p>",
+  "options": {
+    "a": "\"Globe Air 123 is cleared to London Heathrow flight plan route, FL210, squawk 4577\".",
+    "b": "\"Globe Air 123 is cleared flight plan route, FL210, squawk 4577\".",
+    "c": "\"Cleared as filed, climb to FL210, squawk 4577, Globe Air 123\".",
+    "d": "\"Cleared to London Heathrow flight plan route, FL210, squawk 4577, Globe Air 123\"."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

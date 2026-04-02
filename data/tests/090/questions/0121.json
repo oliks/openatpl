@@ -1,0 +1,14 @@
+{
+  "number": 121,
+  "questionId": "090-0121",
+  "questionNumber": "090-0121",
+  "stemHtml": "<p>At FL330, you request FL350 via CPDLC but ATC cannot approve it due to traffic. What CPDLC message does ATC send to reject the request?</p>",
+  "options": {
+    "a": "<p>NEGATIVE CLIMB</p>",
+    "b": "<p>UNABLE</p>",
+    "c": "<p>NOT APPROVED</p>",
+    "d": "<p>DENIED</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 910,
+  "questionId": "090-0910",
+  "questionNumber": "090-0910",
+  "stemHtml": "<p>On IFR in IMC, cleared from FL370 to FL60 at the IAF for ILS runway 08. ATC asked for a report passing FL180. No acknowledgement received at FL180 and you suspect comm failure. What should you do?</p>",
+  "options": {
+    "a": "Continue descent to FL60, squawk 7600, and land as soon as possible.",
+    "b": "Continue to the destination and land within 20 minutes after ETA.",
+    "c": "Proceed to the IAF, descend to FL60, and hold to arrive at or as close as possible to the ETA.",
+    "d": "Maintain FL180 and fly the route to the designated navaid."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

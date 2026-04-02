@@ -1,0 +1,14 @@
+{
+  "number": 857,
+  "questionId": "090-0857",
+  "questionNumber": "090-0857",
+  "stemHtml": "<p>F-EAVX is outside Lille Approach's radio range. Fastair 144 is asked to relay a frequency change to Paris Control on 128.10. What does Fastair 144 transmit?</p>",
+  "options": {
+    "a": "Fastair 144, relaying Lille Approach for F-EAVX, call Paris control 128.10.",
+    "b": "F-EAVX, Fastair 144, contact Paris control 128.10.",
+    "c": "F-EAVX, Fastair 144, call Paris control 128.10.",
+    "d": "Fastair 144, relaying Lille approach for F-EAVX, contact Paris control 128.10."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

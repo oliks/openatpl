@@ -1,0 +1,14 @@
+{
+  "number": 222,
+  "questionId": "090-0222",
+  "questionNumber": "090-0222",
+  "stemHtml": "<p>You hear the beginning of a distress message from another aircraft to ATS. What should you do immediately?</p>",
+  "options": {
+    "a": "Stop transmitting, note the message, and listen to confirm assistance is being provided.",
+    "b": "Transmit to the distress aircraft with your position and offer help.",
+    "c": "Leave the frequency and call ATS on another frequency.",
+    "d": "Transmit to ATS with your position and offer assistance."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

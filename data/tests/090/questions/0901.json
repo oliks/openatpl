@@ -1,0 +1,14 @@
+{
+  "number": 901,
+  "questionId": "090-0901",
+  "questionNumber": "090-0901",
+  "stemHtml": "<p>ATC transmits: \"X-BC identified\". What does this indicate?</p>",
+  "options": {
+    "a": "X-BC should press the IDENT button.",
+    "b": "X-BC is not currently displayed on radar.",
+    "c": "Radar identification of X-BC has been established.",
+    "d": "X-BC should perform an identification turn."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 10,
+  "questionId": "090-0010",
+  "questionNumber": "090-0010",
+  "stemHtml": "<p>Unable to establish radio contact with an aeronautical station. What must the pilot do?</p>",
+  "options": {
+    "a": "Squawk 7500 and land at the nearest suitable aerodrome.",
+    "b": "Check radio equipment and make a test transmission.",
+    "c": "Attempt communication with other aircraft or other aeronautical stations.",
+    "d": "Squawk 7600 and proceed to the destination per the flight plan."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

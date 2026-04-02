@@ -1,0 +1,14 @@
+{
+  "number": 1001,
+  "questionId": "090-1001",
+  "questionNumber": "090-1001",
+  "stemHtml": "<p>Under radar control over Germany at 280 kt, crossing the FIR border to Brussels Control. What should you report?</p>",
+  "options": {
+    "a": "No need to mention the speed restriction.",
+    "b": "Call sign and flight level only.",
+    "c": "Registration, position, and border crossing time.",
+    "d": "Inform the controller of the assigned speed from previous contact."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

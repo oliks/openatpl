@@ -1,0 +1,14 @@
+{
+  "number": 638,
+  "questionId": "090-0638",
+  "questionNumber": "090-0638",
+  "stemHtml": "<p>Aircraft A follows a TCAS RA and deviates from clearance. Simultaneously, aircraft B declares distress. Aircraft A is ready to report. What should A do?</p>",
+  "options": {
+    "a": "Wait for B to finish — distress has priority over all messages.",
+    "b": "Interrupt to report the ACAS RA — similar messages take priority.",
+    "c": "Interrupt — the ACAS RA is treated as urgency, which outranks other messages.",
+    "d": "Wait because aircraft B started transmitting first."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 44,
+  "questionId": "090-0044",
+  "questionNumber": "090-0044",
+  "stemHtml": "<p>Regarding in-flight weather information sources, which statement is correct?</p>",
+  "options": {
+    "a": "Any thunderstorm seen by another aircraft triggers a mandatory special report.",
+    "b": "ATS cannot provide aerodrome forecasts as part of FIS.",
+    "c": "ATIS broadcasts the TAF and METAR for the transmitting aerodrome.",
+    "d": "VOLMET broadcasts recent METAR and SPECI for a group of aerodromes."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

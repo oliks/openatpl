@@ -1,0 +1,14 @@
+{
+  "number": 184,
+  "questionId": "090-0184",
+  "questionNumber": "090-0184",
+  "stemHtml": "<p>RNAV failure means the ILS won't arm. ATC: \"F-CD expect ILS Runway 23R\". How do you respond?</p>",
+  "options": {
+    "a": "Negative on the ILS due to RNAV failure.",
+    "b": "Unable ILS due to RNAV failure.",
+    "c": "Sorry, cannot comply due to RNAV failure.",
+    "d": "Not possible due to RNAV issues."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

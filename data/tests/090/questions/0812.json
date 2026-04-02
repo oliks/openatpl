@@ -1,0 +1,14 @@
+{
+  "number": 812,
+  "questionId": "090-0812",
+  "questionNumber": "090-0812",
+  "stemHtml": "<p>Another aircraft has declared distress on your frequency. When may you now transmit?</p>",
+  "options": {
+    "a": "If you and the distressed aircraft are the only stations on the frequency.",
+    "b": "Only if ATC permits.",
+    "c": "If flying IFR.",
+    "d": "To perform a radio check."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

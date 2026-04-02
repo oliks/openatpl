@@ -1,0 +1,14 @@
+{
+  "number": 476,
+  "questionId": "090-0476",
+  "questionNumber": "090-0476",
+  "stemHtml": "<p>Aircraft D-DENE has experienced a degradation of navigation performance that prevents a GNSS approach. How should the pilot report this?</p>",
+  "options": {
+    "a": "<p>D-NE... negative RNAV due equipment.</p>",
+    "b": "<p>RNAV not possible.</p>",
+    "c": "<p>Unable RNAV due equipment.</p>",
+    "d": "<p>We are not RNAV equipped.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

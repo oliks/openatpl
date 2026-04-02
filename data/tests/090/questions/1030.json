@@ -1,0 +1,14 @@
+{
+  "number": 1030,
+  "questionId": "090-1030",
+  "questionNumber": "090-1030",
+  "stemHtml": "<p>Which AIREP elements may be omitted from a standard position report?</p><p>(i) ETA<br>(ii) Aircraft ID<br>(iii) Endurance<br>(iv) Wind<br>(v) Flight level<br>(vi) Next position and ETA<br>(vii) Temperature</p>",
+  "options": {
+    "a": "(i), (iii), (iv) and (vii).",
+    "b": "(i), (iii) and (iv).",
+    "c": "(iv) and (vii).",
+    "d": "(i), (iii), (iv), (vi) and (vii)."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

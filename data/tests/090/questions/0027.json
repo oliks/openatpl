@@ -1,0 +1,14 @@
+{
+  "number": 27,
+  "questionId": "090-0027",
+  "questionNumber": "090-0027",
+  "stemHtml": "<p>Via CPDLC you request descent to FL220 but the controller denies it. What CPDLC message would ATC send?</p>",
+  "options": {
+    "a": "NEGATIVE",
+    "b": "NEGATIVE MAINTAIN FL240",
+    "c": "UNABLE",
+    "d": "UNABLE MAINTAIN FL240"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

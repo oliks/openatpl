@@ -1,0 +1,14 @@
+{
+  "number": 37,
+  "questionId": "090-0037",
+  "questionNumber": "090-0037",
+  "stemHtml": "<p>You request QTE and receive 190 degrees. What does this mean for chart plotting?</p>",
+  "options": {
+    "a": "Magnetic bearing from the station (no wind).",
+    "b": "True bearing from station — variation must be applied for chart plotting.",
+    "c": "True bearing from station — can be plotted directly without variation correction.",
+    "d": "Magnetic heading to the station (no wind)."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 310,
+  "questionId": "090-0310",
+  "questionNumber": "090-0310",
+  "stemHtml": "<p>Parked at Nantes, you need an ATC clearance. Complete: \"Nantes _____, request ATC clearance.\"</p>",
+  "options": {
+    "a": "Delivery",
+    "b": "Tower",
+    "c": "Dispatch",
+    "d": "Departure"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

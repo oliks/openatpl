@@ -1,0 +1,14 @@
+{
+  "number": 81,
+  "questionId": "090-0081",
+  "questionNumber": "090-0081",
+  "stemHtml": "<p>You want to know the true bearing from your current position to the airport. What should you request?</p>",
+  "options": {
+    "a": "Tower, G-ABCD, request true bearing.",
+    "b": "Approach, G-ABCD, request QFE.",
+    "c": "Tower, G-ABCD, request QNH.",
+    "d": "Approach, G-ABCD, request magnetic track."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

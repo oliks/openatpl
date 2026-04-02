@@ -1,0 +1,14 @@
+{
+  "number": 669,
+  "questionId": "090-0669",
+  "questionNumber": "090-0669",
+  "stemHtml": "<p>In this exchange between F-GTPO and Lille Tower, which elements were correctly read back?</p><p>\"F-PO, squawk 6101\" / \"6101, F-PO\" / \"F-PO, radar identified, cleared to Lille via route SA then leave via route N\" / \"Cleared to Lille via SA then leave via N, F-PO\"</p><p>1. Squawk readback<br>2. Squawk not read back<br>3. Route readback<br>4. Route not read back</p>",
+  "options": {
+    "a": "1 and 4",
+    "b": "1 and 3",
+    "c": "2 and 4",
+    "d": "2 and 3"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

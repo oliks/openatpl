@@ -1,0 +1,14 @@
+{
+  "number": 787,
+  "questionId": "090-0787",
+  "questionNumber": "090-0787",
+  "stemHtml": "<p>You request the true bearing from the station. What do you receive?</p>",
+  "options": {
+    "a": "QFE.",
+    "b": "QUJ — can be plotted without correction.",
+    "c": "QTE — can be plotted without variation correction.",
+    "d": "QTE — needs variation correction for chart plotting."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

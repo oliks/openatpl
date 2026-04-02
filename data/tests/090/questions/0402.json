@@ -1,0 +1,14 @@
+{
+  "number": 402,
+  "questionId": "090-0402",
+  "questionNumber": "090-0402",
+  "stemHtml": "<p>When is the ICAO Phonetic Alphabet used to spell out words?</p>",
+  "options": {
+    "a": "Always when reading a registration or routing to a waypoint/navaid.",
+    "b": "Always when cleared to a navaid or waypoint.",
+    "c": "When the spelling of proper names, abbreviations, or words could be unclear.",
+    "d": "Always when cleared to a VOR."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

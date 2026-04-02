@@ -1,0 +1,14 @@
+{
+  "number": 863,
+  "questionId": "090-0863",
+  "questionNumber": "090-0863",
+  "stemHtml": "<p>A controlled VFR flight transiting a CTR loses radio contact. What actions should the pilot take?</p><p>1. Continue in VMC or IMC as conditions require<br>2. Remain in VMC<br>3. Land at the nearest suitable aerodrome<br>4. Continue to destination<br>5. Select 7600<br>6. Watch for light signals</p>",
+  "options": {
+    "a": "<p>2, 4 and 6</p>",
+    "b": "<p>2, 3, 5 and 6</p>",
+    "c": "<p>1, 3, 4 and 6</p>",
+    "d": "<p>1, 5 and 6</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

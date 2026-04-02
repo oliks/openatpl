@@ -1,0 +1,14 @@
+{
+  "number": 43,
+  "questionId": "090-0043",
+  "questionNumber": "090-0043",
+  "stemHtml": "<p>Under what circumstances may ATS request a temporary call sign change?</p>",
+  "options": {
+    "a": "When your company requests it.",
+    "b": "When you request it.",
+    "c": "ATS cannot make such a request.",
+    "d": "When there is a risk of confusion between similar call signs."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

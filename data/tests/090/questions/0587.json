@@ -1,0 +1,14 @@
+{
+  "number": 587,
+  "questionId": "090-0587",
+  "questionNumber": "090-0587",
+  "stemHtml": "<p>A pilot transmits \"blocked\" on the radio. What does this mean?</p>",
+  "options": {
+    "a": "You accidentally transmitted on 121.5.",
+    "b": "Someone's microphone is stuck.",
+    "c": "Two or more simultaneous transmissions occurred — repeat your call.",
+    "d": "An emergency is in progress — do not transmit."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

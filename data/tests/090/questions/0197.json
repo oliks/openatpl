@@ -1,0 +1,14 @@
+{
+  "number": 197,
+  "questionId": "090-0197",
+  "questionNumber": "090-0197",
+  "stemHtml": "<p>After following a TCAS RA manoeuvre, why should the pilot notify ATC?</p>",
+  "options": {
+    "a": "CPDLC provides the information automatically — notification can be delayed.",
+    "b": "For legal documentation of the serious incident.",
+    "c": "ATC needs to check if the aircraft should return to its clearance.",
+    "d": "Only the pilot knows when ACAS issues RAs — ATC must be informed."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

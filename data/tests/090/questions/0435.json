@@ -1,0 +1,14 @@
+{
+  "number": 435,
+  "questionId": "090-0435",
+  "questionNumber": "090-0435",
+  "stemHtml": "<p>After TCAS reports \"clear of conflict\", the pilot should report and then...</p>",
+  "options": {
+    "a": "Turn direct to the next waypoint and select the closest non-conflicting altitude.",
+    "b": "Return to the assigned routing and altitude most directly, unless otherwise instructed.",
+    "c": "Continue present heading and altitude until ATC advises.",
+    "d": "Enter a holding pattern at the previous altitude."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

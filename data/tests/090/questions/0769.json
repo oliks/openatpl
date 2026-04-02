@@ -1,0 +1,14 @@
+{
+  "number": 769,
+  "questionId": "090-0769",
+  "questionNumber": "090-0769",
+  "stemHtml": "<p>Given this METAR: LFPG 150505Z 27015KT 9999 SCT016 OVC024 M09/M12 Q1006 NOSIG. Which interpretation is correct?</p>",
+  "options": {
+    "a": "Report time is 15:05 UTC, scattered clouds at 1600 ft AMSL, dewpoint is minus 12°C.",
+    "b": "Visibility exceeds 10 km, cloud base at 2400 ft, temperature is 6°C below zero.",
+    "c": "Report time is 05:05 UTC, temperature is 9°C, weather expected to remain stable.",
+    "d": "Wind is westerly at 15 kt, temperature is minus 9°C, QNH is 7 hPa below standard."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 477,
+  "questionId": "090-0477",
+  "questionNumber": "090-0477",
+  "stemHtml": "<p>How are routine weather observations made from an aircraft cruising at FL100?</p>",
+  "options": {
+    "a": "By the pilot via VHF voice.",
+    "b": "By the pilot through data-link.",
+    "c": "Automatically by the aircraft if data-link equipped.",
+    "d": "Either pilot or aircraft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

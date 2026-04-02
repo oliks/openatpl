@@ -1,0 +1,14 @@
+{
+  "number": 878,
+  "questionId": "090-0878",
+  "questionNumber": "090-0878",
+  "stemHtml": "<p>An IFR flight in VMC loses radio contact. May the pilot continue the flight under IFR?</p>",
+  "options": {
+    "a": "No, the flight must return to the departure aerodrome in VMC.",
+    "b": "No, VMC must be maintained.",
+    "c": "Continuation under IFR is mandatory.",
+    "d": "Yes, if the PIC considers it advisable."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

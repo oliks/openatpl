@@ -1,0 +1,14 @@
+{
+  "number": 311,
+  "questionId": "090-0311",
+  "questionNumber": "090-0311",
+  "stemHtml": "<p>H-APPG contacted ATC as \"BLUE PAPA GOLF\". Was this abbreviation correct?</p>",
+  "options": {
+    "a": "No — should be first letter of registration + last two.",
+    "b": "No — abbreviations aren't allowed for registrations.",
+    "c": "Yes, follows IATA conventions.",
+    "d": "Yes, if the company call sign is BLUE."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 572,
+  "questionId": "090-0572",
+  "questionNumber": "090-0572",
+  "stemHtml": "<p>ATC says: \"Globe Air 345, line up and wait runway 23 left.\" What is the correct response?</p>",
+  "options": {
+    "a": "<p>Line up and wait runway 23 left, Globe Air 345.</p>",
+    "b": "<p>Globe Air 345 line up.</p>",
+    "c": "<p>Line up runway 23, Globe Air 345.</p>",
+    "d": "<p>Globe Air 345 line up and wait runway 23 left, awaiting take-off clearance.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

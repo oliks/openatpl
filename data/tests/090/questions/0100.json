@@ -1,0 +1,14 @@
+{
+  "number": 100,
+  "questionId": "090-0100",
+  "questionNumber": "090-0100",
+  "stemHtml": "<p>OAL 136 departs Bern on MOLUS 4A RNAV departure. Total electrical failure — flying on standby instruments in IMC. Correct DISTRESS message?</p>",
+  "options": {
+    "a": "PAN PAN x3, Bern Departure, OAL 136, unable RNAV due equipment, turning left heading 100 climbing 7000 ft.",
+    "b": "PAN PAN x3, OAL 136, unable RNAV, total electrical failure, turning left heading 100 climbing 7000 ft.",
+    "c": "MAYDAY, Bern Departure, OAL 136, unable RNAV due equipment, total electrical failure, request vectors, turning left heading 100 climbing 7000 ft.",
+    "d": "MAYDAY x3, OAL 136, turning left heading 100 climbing 7000 ft."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

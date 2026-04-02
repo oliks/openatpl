@@ -1,0 +1,14 @@
+{
+  "number": 344,
+  "questionId": "090-0344",
+  "questionNumber": "090-0344",
+  "stemHtml": "<p>ATC issues: \"JETAIR 136 CLEARED TO BURY, VIA E40 FL280 BOLDEN 3 DELTA DEPARTURE, SQUAWK 5501\". What is the proper readback?</p>",
+  "options": {
+    "a": "<p>CLEARED TO BURY, VIA E40 FL280 BOLDEN 3 DELTA DEPARTURE, SQUAWK 5501 JETAIR 136.</p>",
+    "b": "<p>VIA E40 FL280 BOLDEN 3 DELTA DEPARTURE, SQUAWK 5501 JETAIR 136.</p>",
+    "c": "<p>CLEARED TO BURY, VIA ROUTE E40 FL280 BOLDEN 3DELTA STANDARD DEPARTURE JETAIR 136.</p>",
+    "d": "<p>CLEARED TO BURY, SQUAWK 5501 JETAIR 136.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

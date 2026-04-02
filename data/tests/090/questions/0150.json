@@ -1,0 +1,14 @@
+{
+  "number": 150,
+  "questionId": "090-0150",
+  "questionNumber": "090-0150",
+  "stemHtml": "<p>Radar controller: \"F-AGDZ, TRAFFIC TWO O'CLOCK EIGHT MILES, CLOSING, SAME LEVEL.\" You cannot see it. What do you reply?</p>",
+  "options": {
+    "a": "ACKNOWLEDGED, WE ARE LOOKING, F-AGDZ.",
+    "b": "REPORT HEADING, F-AGDZ.",
+    "c": "NEGATIVE CONTACT, REQUEST VECTORS, F-AGDZ.",
+    "d": "REQUEST LEAVE HEADING, F-AGDZ."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

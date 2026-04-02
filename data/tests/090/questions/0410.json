@@ -1,0 +1,14 @@
+{
+  "number": 410,
+  "questionId": "090-0410",
+  "questionNumber": "090-0410",
+  "stemHtml": "<p>What must all other stations on the frequency do when distress communications are taking place?</p>",
+  "options": {
+    "a": "Tune to the next sector frequency.",
+    "b": "Switch back to their previously assigned frequency.",
+    "c": "Cease all transmissions on that frequency.",
+    "d": "Relay the distress messages to a ground station."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

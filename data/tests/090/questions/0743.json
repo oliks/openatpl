@@ -1,0 +1,14 @@
+{
+  "number": 743,
+  "questionId": "090-0743",
+  "questionNumber": "090-0743",
+  "stemHtml": "<p>As the first station to receive a distress message, what actions must you take?</p><p>1. Maintain radio silence<br>2. Acknowledge the distress message immediately<br>3. Relay information to the appropriate ATS unit<br>4. Assume control of communications if no ATS unit responds</p>",
+  "options": {
+    "a": "<p>1, 5</p>",
+    "b": "<p>1, 3, 4</p>",
+    "c": "<p>3, 5</p>",
+    "d": "<p>2, 3, 4</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

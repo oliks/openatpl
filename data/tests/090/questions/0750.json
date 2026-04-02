@@ -1,0 +1,14 @@
+{
+  "number": 750,
+  "questionId": "090-0750",
+  "questionNumber": "090-0750",
+  "stemHtml": "<p>What message does the controlling station use to impose radio silence during distress?</p>",
+  "options": {
+    "a": "Stop communications, MAYDAY.",
+    "b": "Break transmission, MAYDAY.",
+    "c": "All stations on this frequency, MAYDAY traffic.",
+    "d": "Stop transmitting, MAYDAY."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 987,
+  "questionId": "090-0987",
+  "questionNumber": "090-0987",
+  "stemHtml": "<p>You encounter moderate turbulence crossing a mountain range. Are you required to report it?</p>",
+  "options": {
+    "a": "Yes, a special observation shall be made by data-link, or by voice if data-link is unavailable.",
+    "b": "No, reporting is only mandatory for severe turbulence or severe mountain wave.",
+    "c": "No obligation, but voluntary reports are appreciated if safety of other aircraft could be affected.",
+    "d": "Only if data-link is available; voice reporting alone is not required."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

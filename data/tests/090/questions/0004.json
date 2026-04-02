@@ -1,0 +1,14 @@
+{
+  "number": 4,
+  "questionId": "090-0004",
+  "questionNumber": "090-0004",
+  "stemHtml": "<p>How is the clearance \"cleared for immediate take-off runway 03\" categorised?</p>",
+  "options": {
+    "a": "An unauthorised message.",
+    "b": "A flight regularity message.",
+    "c": "An urgency message.",
+    "d": "A flight safety message."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

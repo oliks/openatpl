@@ -1,0 +1,14 @@
+{
+  "number": 1014,
+  "questionId": "090-1014",
+  "questionNumber": "090-1014",
+  "stemHtml": "<p>Transponder fails before departure on IFR. The pilot must...</p>",
+  "options": {
+    "a": "Inform FIS for relay to ATC.",
+    "b": "Inform ATC after departure.",
+    "c": "Note in item 18 of the flight plan.",
+    "d": "Obtain prior ATC permission."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

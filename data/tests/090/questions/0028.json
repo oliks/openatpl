@@ -1,0 +1,14 @@
+{
+  "number": 28,
+  "questionId": "090-0028",
+  "questionNumber": "090-0028",
+  "stemHtml": "<p>An aerodrome with ATIS is also in the VOLMET list. QNH is transmitted in...</p>",
+  "options": {
+    "a": "VOLMET only.",
+    "b": "ATIS only.",
+    "c": "neither.",
+    "d": "both ATIS and VOLMET."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

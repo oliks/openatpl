@@ -1,0 +1,14 @@
+{
+  "number": 957,
+  "questionId": "090-0957",
+  "questionNumber": "090-0957",
+  "stemHtml": "<p>FLUGPROP 546 is cleared via ODEMI SIX VICTOR departure (requires GNSS), squawk 1046. The crew's equipment doesn't meet requirements. What do they say?</p>",
+  "options": {
+    "a": "Negative ODEMI SIX VICTOR due RNAV type, squawk 1046.",
+    "b": "Negative RNAV, squawk 1046.",
+    "c": "Unable ODEMI SIX VICTOR due RNAV type.",
+    "d": "Unable RNAV."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

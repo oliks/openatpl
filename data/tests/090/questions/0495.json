@@ -1,0 +1,14 @@
+{
+  "number": 495,
+  "questionId": "090-0495",
+  "questionNumber": "090-0495",
+  "stemHtml": "<p>Boeing 747, registration F-ACME, flight 1234. What is the correct call sign?</p>",
+  "options": {
+    "a": "Air France ACME.",
+    "b": "Air France F-ACME.",
+    "c": "AF-1234.",
+    "d": "Boeing 747."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 777,
+  "questionId": "090-0777",
+  "questionNumber": "090-0777",
+  "stemHtml": "<p>What does ATIS provide?</p>",
+  "options": {
+    "a": "En-route weather hazards information.",
+    "b": "Weather for multiple aerodromes in a FIR.",
+    "c": "Routine info for arriving/departing aircraft via continuous repetitive broadcast.",
+    "d": "Current met and operational info essential for air navigation safety."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

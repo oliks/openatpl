@@ -1,0 +1,14 @@
+{
+  "number": 744,
+  "questionId": "090-0744",
+  "questionNumber": "090-0744",
+  "stemHtml": "<p>The CPDLC logon provides the ATS unit with...</p>",
+  "options": {
+    "a": "Only the unique aircraft identification.",
+    "b": "Navigation equipment information.",
+    "c": "Systems supported, unique aircraft identification, and associated data-link capability.",
+    "d": "CPDLC system information and software version only."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

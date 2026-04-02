@@ -1,0 +1,14 @@
+{
+  "number": 350,
+  "questionId": "090-0350",
+  "questionNumber": "090-0350",
+  "stemHtml": "<p>D-EASA is VFR in a CTR with two Tower frequencies. Tower says: \"DSA, new QNH 1014, contact TOWER on [new freq]\". What must be read back?</p>",
+  "options": {
+    "a": "New frequency only.",
+    "b": "Both the new QNH and the new frequency.",
+    "c": "Just \"ROGER\".",
+    "d": "New QNH only."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

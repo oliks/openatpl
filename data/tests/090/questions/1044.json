@@ -1,0 +1,14 @@
+{
+  "number": 1044,
+  "questionId": "090-1044",
+  "questionNumber": "090-1044",
+  "stemHtml": "<p>You receive a TCAS RA but ATC instructs a conflicting manoeuvre. What do you reply?</p>",
+  "options": {
+    "a": "Negative, TCAS RA.",
+    "b": "Read back the ATC instruction.",
+    "c": "Unable, TCAS RA.",
+    "d": "Standby, TCAS RA."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

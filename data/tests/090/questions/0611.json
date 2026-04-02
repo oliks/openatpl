@@ -1,0 +1,14 @@
+{
+  "number": 611,
+  "questionId": "090-0611",
+  "questionNumber": "090-0611",
+  "stemHtml": "<p>RUSHAIR 123 receives CPDLC \"CLIMB TO FL410\". Seconds later, voice: \"DISREGARD CPDLC CLIMB MESSAGE, BREAK, CLIMB FL380.\" What should they do?</p>",
+  "options": {
+    "a": "Send WILCO via CPDLC and climb to FL410.",
+    "b": "Send STANDBY via CPDLC and wait.",
+    "c": "Disregard the voice, read back and climb to FL410.",
+    "d": "Disregard the CPDLC, read back the voice instruction, climb to FL380."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

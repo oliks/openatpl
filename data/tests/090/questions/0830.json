@@ -1,0 +1,14 @@
+{
+  "number": 830,
+  "questionId": "090-0830",
+  "questionNumber": "090-0830",
+  "stemHtml": "<p>How is visibility expressed in a METAR?</p>",
+  "options": {
+    "a": "In metres up to 5000 m, then kilometres.",
+    "b": "In nautical miles only.",
+    "c": "In feet and nautical miles.",
+    "d": "In metres up to 1500 m, then kilometres."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 862,
+  "questionId": "090-0862",
+  "questionNumber": "090-0862",
+  "stemHtml": "<p>Flying where no ATC or advisory service exists, what must you do if you suffer a receiver failure?</p>",
+  "options": {
+    "a": "Precede all transmissions with \"Transmitting blind due to receiver failure\", report at scheduled times, and transmit intended actions.",
+    "b": "Say it twice on the first call, then transmit normally.",
+    "c": "Say it twice on the first transmission, then report at scheduled times.",
+    "d": "Say \"Transmitting blind due to receiver failure\" twice on the first call, then make no further transmissions."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

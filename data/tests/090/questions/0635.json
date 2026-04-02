@@ -1,0 +1,14 @@
+{
+  "number": 635,
+  "questionId": "090-0635",
+  "questionNumber": "090-0635",
+  "stemHtml": "<p>ATC taxi clearance: \"F-GACC, runway 27, wind 220/10, vis 8 km, QNH 1019, TL 45, time 06, squawk 3636. Taxi to holding point 27 via Bravo, cross 22, give way to Airbus.\" Correct readback?</p>",
+  "options": {
+    "a": "Taxi holding point 27, cross 22, give way to Airbus. Squawk 3636, QNH 1019, time 06, F-GACC.",
+    "b": "Taxi holding point 27 via Bravo. Squawk 3636, QNH 1019, wind 220/10, vis 8 km, F-GACC.",
+    "c": "Taxi holding point 27 via Bravo, cross 22, give way to Airbus. Squawk 3636, QNH 1019, F-GACC.",
+    "d": "Taxi via Bravo, cross 22, give way to Airbus. Squawk 3636, QNH 1019, TL 45, F-GACC."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

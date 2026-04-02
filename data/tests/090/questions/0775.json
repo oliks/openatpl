@@ -1,0 +1,14 @@
+{
+  "number": 775,
+  "questionId": "090-0775",
+  "questionNumber": "090-0775",
+  "stemHtml": "<p>Controller instructs: \"SQUAWK CHARLIE\". This means...</p>",
+  "options": {
+    "a": "Aircraft not visible on primary radar.",
+    "b": "Switch off transponder.",
+    "c": "Transmit pressure altitude from transponder.",
+    "d": "Bearing accuracy is within 10°."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

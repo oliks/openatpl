@@ -1,0 +1,14 @@
+{
+  "number": 704,
+  "questionId": "090-0704",
+  "questionNumber": "090-0704",
+  "stemHtml": "<p>What does the Q-code QDM represent?</p>",
+  "options": {
+    "a": "Magnetic bearing from the station.",
+    "b": "True heading to the station (no wind).",
+    "c": "Magnetic heading to the station (no wind).",
+    "d": "True bearing from the station."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

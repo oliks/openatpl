@@ -1,0 +1,14 @@
+{
+  "number": 719,
+  "questionId": "090-0719",
+  "questionNumber": "090-0719",
+  "stemHtml": "<p>Regarding routine weather reports, aircraft WITHOUT data-link are...</p>",
+  "options": {
+    "a": "Required at ATS reporting points, approximately every 30 minutes.",
+    "b": "Required every 30 minutes regardless of position.",
+    "c": "Required to report only once after the request.",
+    "d": "Exempt unless specifically requested by ATC."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

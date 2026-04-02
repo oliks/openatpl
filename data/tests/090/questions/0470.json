@@ -1,0 +1,14 @@
+{
+  "number": 470,
+  "questionId": "090-0470",
+  "questionNumber": "090-0470",
+  "stemHtml": "<p>From this Bristol D-ATIS A, what is the additional operational information?</p><p>\"Bristol D-ATIS A, 1120 UTC. Arrival RWY 20R, departure RWY 02L...QNH 1005...\"</p>",
+  "options": {
+    "a": "WORK IN PROGRESS ON APRON AREA.",
+    "b": "QNH 1005 hPa.",
+    "c": "APPROACH FREQUENCY 122.525.",
+    "d": "DEPARTURE RWY 02L, ARRIVAL RWY 20R."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1033,
+  "questionId": "090-1033",
+  "questionNumber": "090-1033",
+  "stemHtml": "<p>Time is 11:23 UTC. Radar asks for your estimate for AAL VOR/DME, 12 minutes away. What is your transmission?</p>",
+  "options": {
+    "a": "Estimate AAL VOR/DME in one-two minutes.",
+    "b": "Estimate AAL at eleven-thirty-five.",
+    "c": "Estimate AAL at three-five.",
+    "d": "Have one-two minutes to go to AAL."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

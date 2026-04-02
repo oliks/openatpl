@@ -1,0 +1,14 @@
+{
+  "number": 524,
+  "questionId": "090-0524",
+  "questionNumber": "090-0524",
+  "stemHtml": "<p>You requested FL340 via CPDLC. ATC replies: \"REPORT MAINTAINING FL340\". What do you respond?</p>",
+  "options": {
+    "a": "WILCO",
+    "b": "STANDBY",
+    "c": "AFFIRM",
+    "d": "ROGER"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

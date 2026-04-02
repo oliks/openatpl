@@ -1,0 +1,14 @@
+{
+  "number": 206,
+  "questionId": "090-0206",
+  "questionNumber": "090-0206",
+  "stemHtml": "<p>Approaching your destination, you experience a communication failure. What should you do?</p>",
+  "options": {
+    "a": "Squawk 7700 and proceed per the flight plan.",
+    "b": "Rock wings and flash nav lights to signal a comm failure.",
+    "c": "Join the circuit to land and try all available means to contact ATC.",
+    "d": "Fly runway heading at MSA and set transponder to 7600."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 536,
+  "questionId": "090-0536",
+  "questionNumber": "090-0536",
+  "stemHtml": "<p>What information does an ATS unit receive during the data-link logon procedure?</p>",
+  "options": {
+    "a": "<p>Flight plan data only</p>",
+    "b": "<p>Unique aircraft identification</p>",
+    "c": "<p>Crew member names</p>",
+    "d": "<p>Weather data</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

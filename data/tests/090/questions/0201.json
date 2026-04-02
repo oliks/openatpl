@@ -1,0 +1,14 @@
+{
+  "number": 201,
+  "questionId": "090-0201",
+  "questionNumber": "090-0201",
+  "stemHtml": "<p>ATC clears Fastair 345 from FL100 to FL80. Correct readback?</p>",
+  "options": {
+    "a": "Down to flight level 80, Fastair 345.",
+    "b": "Leaving flight level 100 descending to flight level 80, Fastair 345.",
+    "c": "Descending to 80, Fastair 345.",
+    "d": "Leaving 100 to 80, Fastair 345."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

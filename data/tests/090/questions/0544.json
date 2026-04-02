@@ -1,0 +1,14 @@
+{
+  "number": 544,
+  "questionId": "090-0544",
+  "questionNumber": "090-0544",
+  "stemHtml": "<p>D-TKSA in a CTR with two Tower frequencies. You hear: \"D-SA, new QNH 1015, contact Tower 119.575\". What must be read back?</p>",
+  "options": {
+    "a": "New frequency only.",
+    "b": "No readback required.",
+    "c": "Both QNH and frequency.",
+    "d": "New QNH only."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

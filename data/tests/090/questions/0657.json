@@ -1,0 +1,14 @@
+{
+  "number": 657,
+  "questionId": "090-0657",
+  "questionNumber": "090-0657",
+  "stemHtml": "<p>Cleared to FL330, you temporarily lost RVSM capability due to equipment failure. After resolving the issue, what do you tell ATC?</p>",
+  "options": {
+    "a": "<p>Affirm RVSM</p>",
+    "b": "<p>Request climb to FL330</p>",
+    "c": "<p>Able to fly RVSM</p>",
+    "d": "<p>Able to climb to FL330</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

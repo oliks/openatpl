@@ -1,0 +1,14 @@
+{
+  "number": 612,
+  "questionId": "090-0612",
+  "questionNumber": "090-0612",
+  "stemHtml": "<p>ATC instructs: \"Climb to altitude 2500 ft\". What is the correct readback?</p>",
+  "options": {
+    "a": "<p>Climbing to two point five.</p>",
+    "b": "<p>Climbing to two thousand five hundred.</p>",
+    "c": "<p>Climbing to altitude two thousand five hundred feet.</p>",
+    "d": "<p>Up to two thousand five hundred.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

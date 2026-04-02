@@ -1,0 +1,14 @@
+{
+  "number": 948,
+  "questionId": "090-0948",
+  "questionNumber": "090-0948",
+  "stemHtml": "<p>METAR: EGLL 080120Z 21010KT 9999 SCT030 07/04 Q1023 NOSIG. The wind is...</p>",
+  "options": {
+    "a": "210° magnetic, 10 statute mph.",
+    "b": "210° true, 10 statute mph.",
+    "c": "210° true, 10 knots.",
+    "d": "210° magnetic, 10 knots."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1032,
+  "questionId": "090-1032",
+  "questionNumber": "090-1032",
+  "stemHtml": "<p>When should words be spelled using the ICAO phonetic alphabet in a radio transmission?</p>",
+  "options": {
+    "a": "Any time a call sign or direct-to waypoint is mentioned.",
+    "b": "Every time a waypoint or VOR is referenced.",
+    "c": "When the spelling of proper names, abbreviations, or words could be unclear.",
+    "d": "Whenever the crew is unfamiliar with the area."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 440,
+  "questionId": "090-0440",
+  "questionNumber": "090-0440",
+  "stemHtml": "<p>ATC wants you to manually log on to the next ATSU after a failed transfer. What phraseology is used?</p>",
+  "options": {
+    "a": "CPDLC WILL BE SHUTDOWN. DISCONNECT CPDLC. CONTINUE ON VOICE.",
+    "b": "DISCONNECT CPDLC THEN LOGON TO [facility designation].",
+    "c": "CPDLC FAILURE.",
+    "d": "RESUME NORMAL CPDLC OPERATIONS. LOGON TO [facility designation]."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

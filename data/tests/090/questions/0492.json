@@ -1,0 +1,14 @@
+{
+  "number": 492,
+  "questionId": "090-0492",
+  "questionNumber": "090-0492",
+  "stemHtml": "<p>Aircraft F-PO at FL50 requests descent to 3000 ft with QFE 1005 hPa. The transition altitude is published. How should ATC respond?</p>",
+  "options": {
+    "a": "<p>\"F-PO, descend to height 3000 ft QFE 1005.\"</p>",
+    "b": "<p>\"F-PO is cleared to descend to FL50 to 3000 ft, QFE 1005.\"</p>",
+    "c": "<p>\"F-PO is cleared to descend from FL50 to 3000 ft, QFE 1005.\"</p>",
+    "d": "<p>\"F-PO, you are cleared to descend from FL50, transition altitude 3000 ft, QFE 1005.\"</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

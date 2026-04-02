@@ -1,0 +1,14 @@
+{
+  "number": 980,
+  "questionId": "090-0980",
+  "questionNumber": "090-0980",
+  "stemHtml": "<p>A pilot notes the latest ATIS for Dusseldorf on the 20th of the month. Based on the broadcast details, which METAR encoding is correct?</p>",
+  "options": {
+    "a": "201020Z 36004KT 1000 R23 -RA FEW015 SCT020 BKN040 13/11 Q1014 NOSIG=",
+    "b": "201020Z T06036004KT 9999 -RA FEW015 SCT020 BKN040 13/11 Q1014=",
+    "c": "201020Z 36004KT 9999 -RA FEW015 SCT020 BKN040 13/11 Q1014 NOSIG=",
+    "d": "201020Z 36004KT 9999 RA FEW015 SCT020 BKN040 13/11 Q1014="
+  },
+  "correctOption": "c",
+  "attachments": []
+}

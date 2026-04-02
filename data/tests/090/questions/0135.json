@@ -1,0 +1,14 @@
+{
+  "number": 135,
+  "questionId": "090-0135",
+  "questionNumber": "090-0135",
+  "stemHtml": "<p>A MAYDAY message should contain these elements. What is the correct transmission order?</p><p>1. Current position<br>2. Nature of emergency<br>3. Station addressed and call sign<br>4. Intentions<br>5. Other useful information (persons on board, fuel)</p>",
+  "options": {
+    "a": "5, 4, 1, 2, 3",
+    "b": "3, 2, 5, 1, 4",
+    "c": "4, 2, 3, 1, 5",
+    "d": "3, 5, 2, 4, 1"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

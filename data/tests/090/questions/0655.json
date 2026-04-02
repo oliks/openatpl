@@ -1,0 +1,14 @@
+{
+  "number": 655,
+  "questionId": "090-0655",
+  "questionNumber": "090-0655",
+  "stemHtml": "<p>ATC receives: \"Disconnected from LOVV. Connecting to LOVL.\" What does this mean?</p>",
+  "options": {
+    "a": "The pilot was informed of the automatic switch.",
+    "b": "The aircraft is not connected to any CPDLC station.",
+    "c": "The aircraft automatically disconnected from LOVV and is connecting to LOVL.",
+    "d": "The pilot manually disconnected and connected."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

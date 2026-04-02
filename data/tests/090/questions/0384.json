@@ -1,0 +1,14 @@
+{
+  "number": 384,
+  "questionId": "090-0384",
+  "questionNumber": "090-0384",
+  "stemHtml": "<p>What does a 'RAIM ALERT' indicate in GPS navigation?</p>",
+  "options": {
+    "a": "All satellite signals are lost.",
+    "b": "GPS works but needs crosschecking with other navaids.",
+    "c": "GPS is functioning normally.",
+    "d": "GPS signal is unreliable and integrity cannot be assured."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

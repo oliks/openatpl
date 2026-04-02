@@ -1,0 +1,14 @@
+{
+  "number": 725,
+  "questionId": "090-0725",
+  "questionNumber": "090-0725",
+  "stemHtml": "<p>In a METAR, cloud base (e.g. SCT040) is measured above...</p>",
+  "options": {
+    "a": "mean sea level.",
+    "b": "radio altimeter datum.",
+    "c": "aerodrome elevation.",
+    "d": "WGS-84 geoid."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

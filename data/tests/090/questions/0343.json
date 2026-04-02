@@ -1,0 +1,14 @@
+{
+  "number": 343,
+  "questionId": "090-0343",
+  "questionNumber": "090-0343",
+  "stemHtml": "<p>From ATC's message, which items require readback?</p>",
+  "options": {
+    "a": "Descent 3000 ft, heading 210, speed 160 kt, squawk 1723, braking action.",
+    "b": "Descent 3000 ft, heading 210, speed 160 kt, squawk 1723.",
+    "c": "Descent 3000 ft, wind, heading 210, squawk 1723.",
+    "d": "Descent 3000 ft, wind, heading 210, speed 160 kt, squawk 1723."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

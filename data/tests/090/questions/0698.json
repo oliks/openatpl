@@ -1,0 +1,14 @@
+{
+  "number": 698,
+  "questionId": "090-0698",
+  "questionNumber": "090-0698",
+  "stemHtml": "<p>Per ICAO Annex 10, what is the priority order for air-ground messages?</p><p>1. Distress<br>2. Flight regularity<br>3. Flight safety<br>4. Meteorological<br>5. Direction finding<br>6. Urgency</p>",
+  "options": {
+    "a": "1, 6, 3, 4, 5, 2.",
+    "b": "1, 3, 6, 2, 5, 4.",
+    "c": "1, 6, 3, 5, 4, 2.",
+    "d": "1, 6, 4, 3, 5, 2."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

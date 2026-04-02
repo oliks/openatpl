@@ -1,0 +1,14 @@
+{
+  "number": 581,
+  "questionId": "090-0581",
+  "questionNumber": "090-0581",
+  "stemHtml": "<p>500 NM out, weather changing at destination. How can you check latest conditions?</p>",
+  "options": {
+    "a": "ATIS on HF.",
+    "b": "ATIS on VHF from an en-route airport.",
+    "c": "D-ATIS via Satcom and ACARS.",
+    "d": "VOLMET on SHF."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

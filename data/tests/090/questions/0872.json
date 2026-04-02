@@ -1,0 +1,14 @@
+{
+  "number": 872,
+  "questionId": "090-0872",
+  "questionNumber": "090-0872",
+  "stemHtml": "<p>If there is doubt whether ATC correctly understood a VOR name in your position report, you should...</p>",
+  "options": {
+    "a": "<p>Repeat the full position report, then say 'I say again' followed by the VOR name.</p>",
+    "b": "<p>Repeat the report more slowly for ATC to understand.</p>",
+    "c": "<p>Spell out the VOR name using the ICAO phonetic alphabet.</p>",
+    "d": "<p>Ask the controller to confirm they understood correctly.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 433,
+  "questionId": "090-0433",
+  "questionNumber": "090-0433",
+  "stemHtml": "<p>Flying over the sea, you check coastal ATIS. Cold air over the warmer sea creates an inversion. How does this affect reception?</p>",
+  "options": {
+    "a": "No effect — VHF is immune to atmospheric changes.",
+    "b": "Worsens due to refraction.",
+    "c": "Ionosphere causes signal scatter.",
+    "d": "Improves due to refraction."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1,
+  "questionId": "090-0001",
+  "questionNumber": "090-0001",
+  "stemHtml": "<p>A CPDLC clearance message from ATC fails to deliver. What should ATC do?</p><p>1. CPDLC failure (reissue)<br>2. CPDLC message failure (reissue)<br>3. Reissue by voice<br>4. All stations CPDLC failure (reissue)</p>",
+  "options": {
+    "a": "2 and 3",
+    "b": "1 only",
+    "c": "1 and 4",
+    "d": "4 only"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

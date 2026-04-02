@@ -1,0 +1,14 @@
+{
+  "number": 689,
+  "questionId": "090-0689",
+  "questionNumber": "090-0689",
+  "stemHtml": "<p>METAR/SPECI report wind in degrees true. Wind from the tower for landing/take-off is in degrees...</p>",
+  "options": {
+    "a": "grid.",
+    "b": "compass.",
+    "c": "true.",
+    "d": "magnetic."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 616,
+  "questionId": "090-0616",
+  "questionNumber": "090-0616",
+  "stemHtml": "<p>ATC: \"G-ACZG, TURN RIGHT IMMEDIATELY SIXTY DEGREES TO AVOID TRAFFIC ELEVEN O'CLOCK FOUR MILES\". What do you do?</p>",
+  "options": {
+    "a": "Look for the traffic first, then acknowledge and turn.",
+    "b": "Acknowledge, then check it's safe before turning.",
+    "c": "Start a standard rate right turn onto the new heading immediately, and acknowledge.",
+    "d": "Maximum bank immediately to complete the turn quickly."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

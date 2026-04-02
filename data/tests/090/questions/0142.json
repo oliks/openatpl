@@ -1,0 +1,14 @@
+{
+  "number": 142,
+  "questionId": "090-0142",
+  "questionNumber": "090-0142",
+  "stemHtml": "<p>ATC clears: \"BIGJET 591, RUNWAY 09 CLEARED TO LAND, WIND CALM\". What is the correct readback?</p>",
+  "options": {
+    "a": "BIGJET 591 IS CLEARED TO LAND ON 09.",
+    "b": "CLEARED TO LAND, WIND CALM, BIGJET.",
+    "c": "BIGJET 591 LANDING RUNWAY 09, WIND CALM.",
+    "d": "RUNWAY 09 CLEARED TO LAND, BIGJET 591."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

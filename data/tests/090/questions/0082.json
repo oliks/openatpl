@@ -1,0 +1,14 @@
+{
+  "number": 82,
+  "questionId": "090-0082",
+  "questionNumber": "090-0082",
+  "stemHtml": "<p>What does this ATC instruction mean: \"Fastair 345 standby 118.9 for TOWER\"?</p>",
+  "options": {
+    "a": "<p>Fastair 345 should contact TOWER on 118.9.</p>",
+    "b": "<p>Fastair 345 should tune to 118.9 for aerodrome information broadcasts.</p>",
+    "c": "<p>Fastair 345 should monitor 118.9 and await contact from TOWER.</p>",
+    "d": "<p>Fastair 345 should remain on the current frequency.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

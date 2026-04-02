@@ -1,0 +1,14 @@
+{
+  "number": 56,
+  "questionId": "090-0056",
+  "questionNumber": "090-0056",
+  "stemHtml": "<p>IFR in IMC under radar, radio fails. Set 7600, maintain last speed and level (or MFA if higher) for how long?</p>",
+  "options": {
+    "a": "30°R or 30°L depending on level.",
+    "b": "Until VMC, then divert.",
+    "c": "20 minutes, then adjust per flight plan.",
+    "d": "10 minutes, then adjust per flight plan."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

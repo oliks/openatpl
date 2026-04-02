@@ -1,0 +1,14 @@
+{
+  "number": 953,
+  "questionId": "090-0953",
+  "questionNumber": "090-0953",
+  "stemHtml": "<p>You are cleared for a PBN approach when a RAIM availability fault appears. What should you tell the controller?</p>",
+  "options": {
+    "a": "<p>NEGATIVE RAIM.</p>",
+    "b": "<p>CANNOT due to RAIM availability.</p>",
+    "c": "<p>UNABLE due to RAIM availability.</p>",
+    "d": "<p>UNAVAILABLE RAIM.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 706,
+  "questionId": "090-0706",
+  "questionNumber": "090-0706",
+  "stemHtml": "<p>Once a successful SELCAL connection is established, it is used by...</p>",
+  "options": {
+    "a": "the pilot to communicate with ground services.",
+    "b": "the pilot to broadcast an emergency.",
+    "c": "the ATSU to send clearances or instructions.",
+    "d": "the ATSU to initiate a call."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

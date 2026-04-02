@@ -1,0 +1,14 @@
+{
+  "number": 781,
+  "questionId": "090-0781",
+  "questionNumber": "090-0781",
+  "stemHtml": "<p>The CPDLC logon is the first step of the data-link process. Who can initiate it?</p>",
+  "options": {
+    "a": "It must be pre-arranged before use.",
+    "b": "Only the ATS unit can send the request.",
+    "c": "Either the flight crew or automatically following a contact request from another ATS unit.",
+    "d": "Only the captain or first officer from the cockpit."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

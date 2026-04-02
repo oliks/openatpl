@@ -1,0 +1,14 @@
+{
+  "number": 70,
+  "questionId": "090-0070",
+  "questionNumber": "090-0070",
+  "stemHtml": "<p>During a SELCAL check, no cockpit indication. What do you report?</p>",
+  "options": {
+    "a": "Roger.",
+    "b": "Negative SELCAL. Try again.",
+    "c": "Standby.",
+    "d": "No SELCAL (repeat code)."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

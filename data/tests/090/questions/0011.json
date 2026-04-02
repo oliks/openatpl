@@ -1,0 +1,14 @@
+{
+  "number": 11,
+  "questionId": "090-0011",
+  "questionNumber": "090-0011",
+  "stemHtml": "<p>In a METAR, \"Broken\" indicates what sky coverage?</p>",
+  "options": {
+    "a": "Clear below 5,000 ft.",
+    "b": "1 to 4 octas.",
+    "c": "8 octas below 10,000 ft.",
+    "d": "5 to 7 octas."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

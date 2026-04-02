@@ -1,0 +1,14 @@
+{
+  "number": 381,
+  "questionId": "090-0381",
+  "questionNumber": "090-0381",
+  "stemHtml": "<p>How does D-ATIS compare to voice ATIS in terms of content?</p>",
+  "options": {
+    "a": "<p>Only voice ATIS includes pressure settings like QNH.</p>",
+    "b": "<p>The encoded portion of the information is identical.</p>",
+    "c": "<p>D-ATIS includes forecast data like TAFs.</p>",
+    "d": "<p>D-ATIS updates continuously while voice ATIS updates at intervals.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 915,
+  "questionId": "090-0915",
+  "questionNumber": "090-0915",
+  "stemHtml": "<p>In the circuit of a controlled aerodrome, you lose radio communication. Which actions should you take?</p><p>1. Squawk 7600 if under radar control<br>2. Squawk 7700 if under radar control<br>3. Continue flight and land<br>4. Return to departure aerodrome<br>5. Watch for visual signals from ATC<br>6. Watch for light signals</p>",
+  "options": {
+    "a": "4, 5 and 6.",
+    "b": "1, 3 and 6.",
+    "c": "2, 5 and 6.",
+    "d": "1, 3 and 5."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

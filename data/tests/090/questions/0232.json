@@ -1,0 +1,14 @@
+{
+  "number": 232,
+  "questionId": "090-0232",
+  "questionNumber": "090-0232",
+  "stemHtml": "<p>After a TCAS RA evasion, 'Clear of Conflict' is received. Before you can report to ATC, another aircraft declares urgency. What should you do?</p>",
+  "options": {
+    "a": "Return to previous level and interrupt the urgency to report the TCAS event.",
+    "b": "Return to your previous altitude, wait until the urgency ends, then report TCAS RA to ATC.",
+    "c": "Stay at the new altitude and hold until the urgency ends, then report.",
+    "d": "Stay at the new altitude until urgency ends, then advise ATC and request a new clearance."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

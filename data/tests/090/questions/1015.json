@@ -1,0 +1,14 @@
+{
+  "number": 1015,
+  "questionId": "090-1015",
+  "questionNumber": "090-1015",
+  "stemHtml": "<p>When CPDLC fails for all aircraft, what should ATC transmit?</p>",
+  "options": {
+    "a": "All stations CPDLC failure (instructions).",
+    "b": "Disregard CPDLC.",
+    "c": "CPDLC message failure.",
+    "d": "(All stations) stop sending CPDLC requests (until advised) (reason)."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

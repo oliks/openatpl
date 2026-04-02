@@ -1,0 +1,14 @@
+{
+  "number": 32,
+  "questionId": "090-0032",
+  "questionNumber": "090-0032",
+  "stemHtml": "<p>Approaching Otopeni, you receive the following ATIS. What is the additional operational information contained in this broadcast?</p><p>''OTOPENI INFORMATION OSCAR. TIME 12:50. EXPECT AN ILS APPROACH. ARRIVALS RUNWAY 08 LEFT. DEPARTURES RUNWAY 08 RIGHT...''</p>",
+  "options": {
+    "a": "DEPARTURE WITH DELIVERY ON 121.955.",
+    "b": "WORK IN PROGRESS ON APRON TWO.",
+    "c": "TEMPERATURE +19 and QNH 1007.",
+    "d": "ARRIVALS RUNWAY 08 LEFT, DEPARTURES RUNWAY 08 RIGHT."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

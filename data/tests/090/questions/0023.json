@@ -1,0 +1,14 @@
+{
+  "number": 23,
+  "questionId": "090-0023",
+  "questionNumber": "090-0023",
+  "stemHtml": "<p>Flugprop 565 at FL180 heading south over RODRI with Brussels Control. Fire develops — descending to FL70, diverting to Charleroi. What is the correct distress call?</p>",
+  "options": {
+    "a": "Mayday x3, Brussels Control, turning right to Charleroi due to fire, descending FL70.",
+    "b": "Mayday x3, Brussels Control, Flugprop 565, fire on board, diverting to Charleroi, position RODRI FL180, descending FL70, heading south.",
+    "c": "Mayday x3, Brussels Control, Flugprop 565, passing RODRI, fire on board, descending FL70, diverting Charleroi.",
+    "d": "Brussels Control, Flugprop 565, Mayday x3, descending FL70, turning to Charleroi."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

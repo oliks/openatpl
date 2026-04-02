@@ -1,0 +1,14 @@
+{
+  "number": 91,
+  "questionId": "090-0091",
+  "questionNumber": "090-0091",
+  "stemHtml": "<p>VFR flight, you suspect receiver failure (can't hear others but they can hear you). How do you proceed?</p>",
+  "options": {
+    "a": "Say it twice on the first call, then transmit normally.",
+    "b": "Preface each call with \"Transmitting blind due to receiver failure\" and state intentions, only on first call.",
+    "c": "Say it twice on the first call only.",
+    "d": "Preface each call with \"Transmitting blind due to receiver failure\" and state intentions, on every call."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

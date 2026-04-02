@@ -1,0 +1,14 @@
+{
+  "number": 407,
+  "questionId": "090-0407",
+  "questionNumber": "090-0407",
+  "stemHtml": "<p>G-ACME wants the true bearing from Karlsgrab aerodrome. Correct transmission?</p>",
+  "options": {
+    "a": "Karlsgrab Homer, G-ACME request QTE.",
+    "b": "Karlsgrab Approach, G-ACME request QDM.",
+    "c": "Karlsgrab Approach, G-ACME request QGH.",
+    "d": "Karlsgrab Homer, G-ACME request QDR."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

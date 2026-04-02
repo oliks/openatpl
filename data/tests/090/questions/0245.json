@@ -1,0 +1,14 @@
+{
+  "number": 245,
+  "questionId": "090-0245",
+  "questionNumber": "090-0245",
+  "stemHtml": "<p>On a discrete frequency, ATC hears a distress message. What should they do?</p>",
+  "options": {
+    "a": "Broadcast to all traffic.",
+    "b": "Immediately acknowledge the distress call.",
+    "c": "Relay to the guard frequency.",
+    "d": "Relay to company frequency."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

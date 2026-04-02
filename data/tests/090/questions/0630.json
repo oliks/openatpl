@@ -1,0 +1,14 @@
+{
+  "number": 630,
+  "questionId": "090-0630",
+  "questionNumber": "090-0630",
+  "stemHtml": "<p>A passenger needs medical help. Arrange these elements in the correct transmission order:</p><p>1. Pan pan (x3)<br>2. Air Europe 123<br>3. Heading 160 at FL280<br>4. Pan pan medical (x3)<br>5. Passenger illness details<br>6. Station addressed<br>7. Intentions</p>",
+  "options": {
+    "a": "<p>1, 6, 2, 5, 7, and 3.</p>",
+    "b": "<p>4, 6, 2, 3, 5 and 7.</p>",
+    "c": "<p>2, 1, 6, 3, 7 and 5.</p>",
+    "d": "<p>6, 4, 3, 7, 1 and 2.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

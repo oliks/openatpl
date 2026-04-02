@@ -1,0 +1,14 @@
+{
+  "number": 799,
+  "questionId": "090-0799",
+  "questionNumber": "090-0799",
+  "stemHtml": "<p>Flying VFR in controlled airspace, you detect a receiver failure. Which actions must you take?</p><p>1. Squawk 7500<br>2. Transmit reports at scheduled times/positions<br>3. Preface with \"TRANSMITTING BLIND DUE TO RECEIVER FAILURE\"<br>4. Squawk 7600<br>5. Continue flight plan route<br>6. Land at nearest aerodrome</p>",
+  "options": {
+    "a": "2, 3, 4 and 5",
+    "b": "1, 2, 3 and 6",
+    "c": "2, 3 and 4",
+    "d": "1 and 6"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

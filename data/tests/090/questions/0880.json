@@ -1,0 +1,14 @@
+{
+  "number": 880,
+  "questionId": "090-0880",
+  "questionNumber": "090-0880",
+  "stemHtml": "<p>How should conditional clearances be handled in readback?</p>",
+  "options": {
+    "a": "Conditional clearances need not be read back.",
+    "b": "Read back clearly to show they have been understood.",
+    "c": "Only read back the parts you can comply with.",
+    "d": "Respond only if unable to comply."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

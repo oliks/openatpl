@@ -1,0 +1,14 @@
+{
+  "number": 1022,
+  "questionId": "090-1022",
+  "questionNumber": "090-1022",
+  "stemHtml": "<p>Cleared for take-off on 09 with climb to 4000 ft then right turn heading 270, report when turning. At 4000 ft you have a radio failure in VMC. Your blind transmission ends with...</p>",
+  "options": {
+    "a": "heading 270 altitude 4000 feet.",
+    "b": "continue VFR landing runway 09.",
+    "c": "continue VFR heading 270, next report final Runway 09 at time 1600.",
+    "d": "continue VFR heading 270, reporting 12:01. All stations stop transmitting."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

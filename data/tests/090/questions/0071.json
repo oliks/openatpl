@@ -1,0 +1,14 @@
+{
+  "number": 71,
+  "questionId": "090-0071",
+  "questionNumber": "090-0071",
+  "stemHtml": "<p>Connected to aerodrome control via CPDLC logon. A ground station calls you by radio. Your response?</p>",
+  "options": {
+    "a": "Callsign, CPDLC on",
+    "b": "Callsign, go ahead",
+    "c": "Callsign",
+    "d": "Callsign, CPDLC active"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 167,
+  "questionId": "090-0167",
+  "questionNumber": "090-0167",
+  "stemHtml": "<p>After landing, tower clears you to taxi to your stand. You read back and ATC says \"Monitor Ground on 118.7\". What do you do?</p>",
+  "options": {
+    "a": "Stop after vacating, switch to 118.7, wait for Ground.",
+    "b": "Continue taxiing and call Ground on 118.7.",
+    "c": "Continue taxiing per the tower clearance, switch to 118.7, and wait for Ground to call you.",
+    "d": "Stop after vacating the runway and call Ground on 118.7."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

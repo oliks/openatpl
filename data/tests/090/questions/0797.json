@@ -1,0 +1,14 @@
+{
+  "number": 797,
+  "questionId": "090-0797",
+  "questionNumber": "090-0797",
+  "stemHtml": "<p>When transmitting blind due to receiver failure, which element may be omitted?</p>",
+  "options": {
+    "a": "Time of next intended transmission.",
+    "b": "The phrase \"transmitting blind due to receiver failure\".",
+    "c": "Complete repetition of the message.",
+    "d": "The frequency on which the message is transmitted."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

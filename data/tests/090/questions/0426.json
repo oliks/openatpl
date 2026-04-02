@@ -1,0 +1,14 @@
+{
+  "number": 426,
+  "questionId": "090-0426",
+  "questionNumber": "090-0426",
+  "stemHtml": "<p>F-PO at FL50 requests descent to 3000 ft. The transition level is published. How does ATC correctly clear this descent?</p>",
+  "options": {
+    "a": "\"DESCEND TO 3000 FT QNH 1002, F-PO\"",
+    "b": "\"F-PO, DESCEND TO ALTITUDE 3000 FT QNH 1002\"",
+    "c": "\"F-PO, CLEARED FROM FL50 3000 FT QFE 1005\"",
+    "d": "\"F-PO, IS CLEARED TO DESCEND TO 3000 FT QFE 1005\""
+  },
+  "correctOption": "b",
+  "attachments": []
+}

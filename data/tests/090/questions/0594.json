@@ -1,0 +1,14 @@
+{
+  "number": 594,
+  "questionId": "090-0594",
+  "questionNumber": "090-0594",
+  "stemHtml": "<p>How does D-ATIS compare to voice ATIS?</p>",
+  "options": {
+    "a": "They can differ on wind data.",
+    "b": "ATIS includes TAF forecasts.",
+    "c": "They contain identical information.",
+    "d": "D-ATIS updates in real time, voice at intervals."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

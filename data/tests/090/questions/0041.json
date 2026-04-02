@@ -1,0 +1,14 @@
+{
+  "number": 41,
+  "questionId": "090-0041",
+  "questionNumber": "090-0041",
+  "stemHtml": "<p>En route from Cairo to Rome, hijackers enter the cockpit and demand a diversion. During the breach all radios are destroyed. How might you inform ATC?</p>",
+  "options": {
+    "a": "<p>Select squawk 7600.</p>",
+    "b": "<p>Attempt contact via ADS-B.</p>",
+    "c": "<p>Attempt contact via CPDLC.</p>",
+    "d": "<p>Do not attempt to contact ATC.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

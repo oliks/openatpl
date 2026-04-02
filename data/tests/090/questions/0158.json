@@ -1,0 +1,14 @@
+{
+  "number": 158,
+  "questionId": "090-0158",
+  "questionNumber": "090-0158",
+  "stemHtml": "<p>For a single CPDLC message failure regarding a climb clearance to FL70, what should ATC do?</p><p>1. Broadcast complete failure to all stations<br>2. Attempt to resend the single message<br>3. Issue the clearance by voice<br>4. Revert all communication to voice</p>",
+  "options": {
+    "a": "2, 3",
+    "b": "3, 4",
+    "c": "1, 4",
+    "d": "1, 2"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

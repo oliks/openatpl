@@ -1,0 +1,14 @@
+{
+  "number": 556,
+  "questionId": "090-0556",
+  "questionNumber": "090-0556",
+  "stemHtml": "<p>Engine failure — need weather for several nearby airports quickly. Fastest method?</p>",
+  "options": {
+    "a": "Ask the ATSU.",
+    "b": "Call each tower directly.",
+    "c": "D-ATIS",
+    "d": "D-VOLMET"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

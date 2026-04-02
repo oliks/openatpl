@@ -1,0 +1,14 @@
+{
+  "number": 298,
+  "questionId": "090-0298",
+  "questionNumber": "090-0298",
+  "stemHtml": "<p>What does a data downlink refer to?</p>",
+  "options": {
+    "a": "<p>Downloading ATIS or weather data via the onboard internet service.</p>",
+    "b": "<p>A transmission of signals from an airborne aircraft to a ground station.</p>",
+    "c": "<p>Uploading ATIS, weather, or maintenance data to an airborne unit.</p>",
+    "d": "<p>Printing an ATC clearance from CPDLC.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 295,
+  "questionId": "090-0295",
+  "questionNumber": "090-0295",
+  "stemHtml": "<p>A passenger has a heart attack. You decide to divert to an en-route aerodrome. Which elements and order for your initial radio message?</p><p>1. Aircraft position<br>2. PAN PAN (x3)<br>3. Station addressed<br>4. Aircraft call sign<br>5. Nature of urgency<br>6. Pilot's intentions</p>",
+  "options": {
+    "a": "2, 3, 4 then 6.",
+    "b": "2, 3, 4, 5 then 6.",
+    "c": "1, 3, 5 then 6.",
+    "d": "1, 3, 4 then 2."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

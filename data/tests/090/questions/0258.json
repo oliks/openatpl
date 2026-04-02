@@ -1,0 +1,14 @@
+{
+  "number": 258,
+  "questionId": "090-0258",
+  "questionNumber": "090-0258",
+  "stemHtml": "<p>Globe Air 261 is en route from Dubai to London Gatwick and contacts Maastricht for descent clearance. Which response uses correct radiotelephony pronunciation?</p>",
+  "options": {
+    "a": "<p>Globe Air TOO SIX WUN, cleared to descend flight level TOO FOW-er FIFE.</p>",
+    "b": "<p>TWO SIXER WUN, cleared to descend flight level WUN AIT.</p>",
+    "c": "<p>Globe Air TWO SIX WUN, cleared to descend and maintain flight level TOO FOW-er FIFE.</p>",
+    "d": "<p>TWO SIXER WUN, cleared to descend flight level WUN HUN-dred AITY.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 38,
+  "questionId": "090-0038",
+  "questionNumber": "090-0038",
+  "stemHtml": "<p>Decode from a METAR: R28/1000U</p>",
+  "options": {
+    "a": "Runway 28, 1000 metres upper limit",
+    "b": "Runway 28, under 1000 metres",
+    "c": "Runway 28, 1000 metres with upward trend",
+    "d": "Runway 28, 1000 metres unchanged"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 990,
+  "questionId": "090-0990",
+  "questionNumber": "090-0990",
+  "stemHtml": "<p>While in contact with a radar ATS unit, you receive these three messages (call signs omitted). Which set of responses is fully correct?</p><p>1. \"Advise type of transponder capability\"<br>2. \"Check altimeter setting and confirm level\"<br>3. \"Turn left immediately heading 050\"</p>",
+  "options": {
+    "a": "<p>1. Transponder Sierra, 2. Altimeter 1008 altitude 2000 ft, 3. Left heading 050</p>",
+    "b": "<p>1. Transponder Charlie, 2. Altimeter 1008 flight level 110, 3. Left immediately 050</p>",
+    "c": "<p>1. Transponder Alpha, 2. Altimeter 1008 flight level 110, 3. Left immediately 050</p>",
+    "d": "<p>1. Transponder Bravo, 2. Altimeter 1008 altitude 2000 ft, 3. Left immediately heading 050</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 603,
+  "questionId": "090-0603",
+  "questionNumber": "090-0603",
+  "stemHtml": "<p>During taxi: \"All stations, ATHINAI Ground, CPDLC failure, standby for Ground 121.750\". What is ATC communicating?</p>",
+  "options": {
+    "a": "Complete CPDLC failure — contact Ground on 121.750.",
+    "b": "Single CPDLC message failure — contact Ground on 121.750.",
+    "c": "Complete CPDLC failure — wait to be called by Ground.",
+    "d": "Single CPDLC message failure — wait to be called by Ground."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

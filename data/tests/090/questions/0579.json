@@ -1,0 +1,14 @@
+{
+  "number": 579,
+  "questionId": "090-0579",
+  "questionNumber": "090-0579",
+  "stemHtml": "<p>How should flight crew verify that their SELCAL system works?</p>",
+  "options": {
+    "a": "Rely on the built-in test equipment (BITE).",
+    "b": "Call a company aircraft on the ATC frequency to test.",
+    "c": "Make an 'All Stations' SELCAL call.",
+    "d": "Contact the appropriate ATC unit and request a SELCAL check, providing the code if needed."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

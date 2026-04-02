@@ -1,0 +1,14 @@
+{
+  "number": 313,
+  "questionId": "090-0313",
+  "questionNumber": "090-0313",
+  "stemHtml": "<p>After your transmission, ATC says \"blocked\". What does this indicate?</p>",
+  "options": {
+    "a": "<p>Two transmissions occurred simultaneously; repeat your message.</p>",
+    "b": "<p>A pilot has obstructed the taxiway.</p>",
+    "c": "<p>Your push-to-talk button is stuck.</p>",
+    "d": "<p>Ensure no restrictions are blocked by a pilot acknowledgement.</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

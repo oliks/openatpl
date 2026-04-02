@@ -1,0 +1,14 @@
+{
+  "number": 180,
+  "questionId": "090-0180",
+  "questionNumber": "090-0180",
+  "stemHtml": "<p>An IFR flight in VMC experiences radio failure. The pilot believes VMC flight can continue. What should be done?</p>",
+  "options": {
+    "a": "Proceed to the destination and report arrival to ATC by the fastest means.",
+    "b": "Continue to the destination unless inaccessible, then report by the quickest means.",
+    "c": "Land at the nearest suitable aerodrome and notify the appropriate ATS unit as quickly as possible.",
+    "d": "Land at the destination and report arrival to the nearest ATS unit."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

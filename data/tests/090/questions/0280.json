@@ -1,0 +1,14 @@
+{
+  "number": 280,
+  "questionId": "090-0280",
+  "questionNumber": "090-0280",
+  "stemHtml": "<p>An aircraft on your frequency declares urgency. After several attempts, the controller appears not to have received it. What must you do?</p>",
+  "options": {
+    "a": "Relay the message on the guard frequency.",
+    "b": "Acknowledge the urgency, notify ATS, and if needed take control of communications.",
+    "c": "Keep silent until ATC acknowledges.",
+    "d": "Confirm with other aircraft on the frequency."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

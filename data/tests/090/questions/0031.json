@@ -1,0 +1,14 @@
+{
+  "number": 31,
+  "questionId": "090-0031",
+  "questionNumber": "090-0031",
+  "stemHtml": "<p>You are told to contact the Tower at Bern airport. What is the correct station call sign?</p>",
+  "options": {
+    "a": "\"Tower Bern\" or \"Bern Tower\" — either order is acceptable.",
+    "b": "\"Bern Tower\" — location name followed by the service suffix.",
+    "c": "No standard exists — the Commander should not guess.",
+    "d": "\"Bern\" alone, or with a suffix if other stations are nearby."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

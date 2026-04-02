@@ -1,0 +1,14 @@
+{
+  "number": 246,
+  "questionId": "090-0246",
+  "questionNumber": "090-0246",
+  "stemHtml": "<p>Which time system must be used when transmitting time in radiotelephony?</p>",
+  "options": {
+    "a": "Local time, AM/PM.",
+    "b": "No specific system — only minutes are normally needed.",
+    "c": "Coordinated Universal Time (UTC).",
+    "d": "Local time, 24-hour clock."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 55,
+  "questionId": "090-0055",
+  "questionNumber": "090-0055",
+  "stemHtml": "<p>For an aircraft operating a medical flight, which radio procedure is correct?</p>",
+  "options": {
+    "a": "MAYDAY MAYDAY MEDICAL before the call sign; priority over all except distress.",
+    "b": "PAN PAN PAN before the call sign; priority over all except urgency.",
+    "c": "PAN PAN MEDICAL before the call sign; priority over all messages except distress.",
+    "d": "MAYDAY MAYDAY MAYDAY before the call sign; priority over all except urgency."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

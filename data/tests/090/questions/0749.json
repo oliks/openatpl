@@ -1,0 +1,14 @@
+{
+  "number": 749,
+  "questionId": "090-0749",
+  "questionNumber": "090-0749",
+  "stemHtml": "<p>A pilot says: \"Disconnected from LOVV. Logging in to LOVL.\" What does this mean?</p>",
+  "options": {
+    "a": "Unable to connect to LOVV, trying LOVL.",
+    "b": "Manually disconnected from LOVV and connecting to LOVL.",
+    "c": "Requesting a CPDLC systems check.",
+    "d": "Requesting ATC log on to LOVL."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

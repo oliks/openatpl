@@ -1,0 +1,14 @@
+{
+  "number": 527,
+  "questionId": "090-0527",
+  "questionNumber": "090-0527",
+  "stemHtml": "<p>ATC: \"G-ABCD, Radar Identification is lost.\" Correct readback and action?</p>",
+  "options": {
+    "a": "\"Identification lost G-ABCD\" — wait for procedural separation instructions.",
+    "b": "\"Roger G-ABCD\" — wait for procedural separation instructions.",
+    "c": "\"Identification lost, G-ABCD\" — turn off transponder.",
+    "d": "\"Roger G-ABCD\" — turn off transponder."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

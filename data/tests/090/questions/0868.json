@@ -1,0 +1,14 @@
+{
+  "number": 868,
+  "questionId": "090-0868",
+  "questionNumber": "090-0868",
+  "stemHtml": "<p>Transponder code 7601 should be used by...</p>",
+  "options": {
+    "a": "<p>An IFR aircraft in IMC with comm failure, intending to land at the nearest aerodrome.</p>",
+    "b": "<p>An IFR aircraft in VMC with comm failure, continuing to the destination.</p>",
+    "c": "<p>An IFR aircraft in VMC with comm failure, intending to land at the nearest aerodrome.</p>",
+    "d": "<p>An IFR aircraft in IMC with comm failure, continuing to the destination.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

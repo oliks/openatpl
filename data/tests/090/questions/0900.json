@@ -1,0 +1,14 @@
+{
+  "number": 900,
+  "questionId": "090-0900",
+  "questionNumber": "090-0900",
+  "stemHtml": "<p>On IFR approach to Aberdeen as BIGJET 123, you request descent twice with no response. ATC calls: \"BIGJET 123, NOTHING HEARD, IF YOU HEAR THIS MESSAGE SQUAWK IDENT\". What do you do?</p>",
+  "options": {
+    "a": "Enter a hold and await further instructions.",
+    "b": "Squawk the correct code and request vectors.",
+    "c": "Squawk ident and repeat your message twice.",
+    "d": "Follow VMC radio failure procedure."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

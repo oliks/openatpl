@@ -1,0 +1,14 @@
+{
+  "number": 567,
+  "questionId": "090-0567",
+  "questionNumber": "090-0567",
+  "stemHtml": "<p>You hear an urgency message in flight but no station responds. What must you do?</p>",
+  "options": {
+    "a": "Acknowledge the urgency message.",
+    "b": "Return to the previous frequency.",
+    "c": "Squawk 7700 and relay on 121.5.",
+    "d": "Stop transmitting until ATS replies."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

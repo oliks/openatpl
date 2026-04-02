@@ -1,0 +1,14 @@
+{
+  "number": 646,
+  "questionId": "090-0646",
+  "questionNumber": "090-0646",
+  "stemHtml": "<p>Regarding SELCAL:</p><p>1) The controller initiates the communication via SELCAL<br>2) SELCAL allows the controller to issue instructions or clearances</p><p>Which statements are correct?</p>",
+  "options": {
+    "a": "Both are correct.",
+    "b": "1 is correct; 2 is incorrect.",
+    "c": "1 is incorrect; 2 is correct.",
+    "d": "Both are incorrect."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

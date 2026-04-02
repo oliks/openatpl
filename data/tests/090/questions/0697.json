@@ -1,0 +1,14 @@
+{
+  "number": 697,
+  "questionId": "090-0697",
+  "questionNumber": "090-0697",
+  "stemHtml": "<p>Solo navigation to Freetown. You enter frequency 112.25 on the radio. What has happened?</p>",
+  "options": {
+    "a": "The correct Tower frequency has been entered.",
+    "b": "A radio frequency was entered but it contacts Ground, not Tower.",
+    "c": "112.25 is a VOR frequency that cannot be selected on the VHF comm radio.",
+    "d": "112.25 is an obsolete 25 kHz frequency needing conversion to 8.33 kHz."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

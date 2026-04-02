@@ -1,0 +1,14 @@
+{
+  "number": 126,
+  "questionId": "090-0126",
+  "questionNumber": "090-0126",
+  "stemHtml": "<p>A departing IFR aircraft under radar vectors loses radio contact and squawks 7600. It should then...</p>",
+  "options": {
+    "a": "hold present heading for 1 minute then return to the flight plan route.",
+    "b": "proceed to the flight plan route by the most direct means.",
+    "c": "regardless of any previous ATC limitation, return to the flight plan route.",
+    "d": "maintain the last ATC-assigned heading for 3 minutes then rejoin the flight plan."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

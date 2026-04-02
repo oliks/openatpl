@@ -1,0 +1,14 @@
+{
+  "number": 73,
+  "questionId": "090-0073",
+  "questionNumber": "090-0073",
+  "stemHtml": "<p>ATC instructs aircraft X-BC: \"X-BC squawk ident\". What action is required?</p>",
+  "options": {
+    "a": "<p>Radar has correlated the observed blip with aircraft XY-ABC.</p>",
+    "b": "<p>X-BC must reselect the currently assigned mode and code.</p>",
+    "c": "<p>X-BC must press the IDENT feature on the transponder.</p>",
+    "d": "<p>X-BC should execute an identification turn of at least 020 degrees.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

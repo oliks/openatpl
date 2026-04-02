@@ -1,0 +1,14 @@
+{
+  "number": 283,
+  "questionId": "090-0283",
+  "questionNumber": "090-0283",
+  "stemHtml": "<p>Under what circumstances are you exempt from making routine meteorological voice reports?</p>",
+  "options": {
+    "a": "<p>If flying in uncontrolled airspace.</p>",
+    "b": "<p>When your aircraft has ADS-C and ATC has not specifically requested reports.</p>",
+    "c": "<p>When you have not logged on to CPDLC.</p>",
+    "d": "<p>Never; they are always mandatory.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

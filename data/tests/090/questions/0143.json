@@ -1,0 +1,14 @@
+{
+  "number": 143,
+  "questionId": "090-0143",
+  "questionNumber": "090-0143",
+  "stemHtml": "<p>At FL350, you receive a TCAS RA \"Descend, descend\" and begin descending. Simultaneously, ATC instructs \"Climb immediately\". What should you do?</p>",
+  "options": {
+    "a": "Level off and request clarification: \"TCAS RA. Confirm climb.\"",
+    "b": "Comply with ATC and adjust to climb, confirming \"climb immediately.\"",
+    "c": "Continue descent and reply \"Standby, TCAS descent.\"",
+    "d": "Continue descending and tell ATC \"Unable, TCAS RA.\""
+  },
+  "correctOption": "d",
+  "attachments": []
+}

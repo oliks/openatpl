@@ -1,0 +1,14 @@
+{
+  "number": 192,
+  "questionId": "090-0192",
+  "questionNumber": "090-0192",
+  "stemHtml": "<p>Approaching Bucharest as Quickjet 123, ATC says: \"Quickjet 123, standby for Bucharest Approach on 119.415\". What do you do?</p>",
+  "options": {
+    "a": "\"119.415, Quickjet 123\" and contact Bucharest Approach.",
+    "b": "Do nothing.",
+    "c": "Make a blind transmission to Bucharest Approach.",
+    "d": "\"119.415, Quickjet 123\" and wait for Bucharest Approach to call you."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

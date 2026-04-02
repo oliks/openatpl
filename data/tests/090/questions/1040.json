@@ -1,0 +1,14 @@
+{
+  "number": 1040,
+  "questionId": "090-1040",
+  "questionNumber": "090-1040",
+  "stemHtml": "<p>What is the correct order of elements in a distress message?</p>",
+  "options": {
+    "a": "Call sign, nature of distress, intentions, position, level and heading.",
+    "b": "Nature of distress, call sign, position, destination, assistance needed.",
+    "c": "Call sign, route, destination, nature of distress, level.",
+    "d": "Nature of distress, call sign, departure, position, intentions."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

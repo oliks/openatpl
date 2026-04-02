@@ -1,0 +1,14 @@
+{
+  "number": 188,
+  "questionId": "090-0188",
+  "questionNumber": "090-0188",
+  "stemHtml": "<p>What is the priority level of \"RUNWAY 09, CLEARED FOR IMMEDIATE TAKE-OFF\"?</p>",
+  "options": {
+    "a": "Same as \"TAXI TO HOLDING POINT RUNWAY 09\".",
+    "b": "Same as \"REQUEST QDM\".",
+    "c": "Higher than \"REQUEST QDM\".",
+    "d": "Same as \"CAUTION, WORK IN PROGRESS ON THE TAXIWAY\"."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

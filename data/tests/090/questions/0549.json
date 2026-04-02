@@ -1,0 +1,14 @@
+{
+  "number": 549,
+  "questionId": "090-0549",
+  "questionNumber": "090-0549",
+  "stemHtml": "<p>What procedure should an aircraft follow when unable to establish communication due to a faulty receiver?</p>",
+  "options": {
+    "a": "<p>Divert to the nearest uncontrolled airfield.</p>",
+    "b": "Transmit reports at scheduled times or positions, prefaced with \"Transmitting blind due to receiver failure\", twice on each occasion.",
+    "c": "Transmit at regular intervals the phrase \"Transmitting blind due to receiver failure\".",
+    "d": "<p>Switch to 121.5 MHz and select squawk 7700.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 237,
+  "questionId": "090-0237",
+  "questionNumber": "090-0237",
+  "stemHtml": "<p>ATC asks for your time overhead EUCAA. FMC shows 10:18 UTC (09:18 local). It is now 09:08 local. How do you report?</p>",
+  "options": {
+    "a": "Overhead EUCAA at one-zero minutes.",
+    "b": "Overhead EUCAA at zero-niner-one-eight.",
+    "c": "Overhead EUCAA at one-eight.",
+    "d": "Overhead EUCAA at ten-eighteen."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

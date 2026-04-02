@@ -1,0 +1,14 @@
+{
+  "number": 617,
+  "questionId": "090-0617",
+  "questionNumber": "090-0617",
+  "stemHtml": "<p>Call sign AIRFLY12345, cruising at FL350, passing BCN VOR, in contact with Barcelona Approach. You suffer a depressurisation. What is the correct distress call?</p>",
+  "options": {
+    "a": "Mayday, mayday, mayday, Barcelona approach, AIRFLY12345, passing BCN VOR, descending FL100, depressurisation.",
+    "b": "Barcelona Approach AIRFLY12345 depressurisation problem descending FL100, VOR passed, mayday.",
+    "c": "Mayday, mayday, mayday, Barcelona approach, AIRFLY12345, depressurisation problem, descending FL100, overhead BCN, heading 180, 150 POB.",
+    "d": "Mayday, mayday, mayday, Barcelona approach, AIRFLY12345, depressurisation problem, descending FL100, intend to land Barcelona."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

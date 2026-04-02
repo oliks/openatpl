@@ -1,0 +1,14 @@
+{
+  "number": 19,
+  "questionId": "090-0019",
+  "questionNumber": "090-0019",
+  "stemHtml": "<p>Which CPDLC message gets a \"ROGER\" response from the pilot?</p>",
+  "options": {
+    "a": "\"Maintain FL350\"",
+    "b": "\"At 10 West climb to FL350\"",
+    "c": "\"Expect flight level change passing 10 West\"",
+    "d": "\"Cross 10 West at BANIM and maintain FL350 at Mach 0.81\""
+  },
+  "correctOption": "c",
+  "attachments": []
+}

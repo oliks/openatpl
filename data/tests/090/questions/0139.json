@@ -1,0 +1,14 @@
+{
+  "number": 139,
+  "questionId": "090-0139",
+  "questionNumber": "090-0139",
+  "stemHtml": "<p>After departure as a special VFR flight, what happens as you approach the control zone boundary?</p>",
+  "options": {
+    "a": "ATC will clear you to exit the control zone following established procedures.",
+    "b": "Report passing the boundary and state \"CANCELLING SPECIAL VFR\".",
+    "c": "Broadcast your position and in-flight visibility on the current frequency.",
+    "d": "You may automatically contact the next ATC unit."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

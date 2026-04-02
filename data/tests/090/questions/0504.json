@@ -1,0 +1,14 @@
+{
+  "number": 504,
+  "questionId": "090-0504",
+  "questionNumber": "090-0504",
+  "stemHtml": "<p>Aircraft D-EENE is on stand at Nice Airport (LFMN), already in contact with ATC. The pilot wants to know the correct time. The request should be: \"Delta Echo Echo November Echo request...\"</p>",
+  "options": {
+    "a": "<p>Aerodrome information.</p>",
+    "b": "<p>ATIS.</p>",
+    "c": "<p>Time Check.</p>",
+    "d": "<p>Local Information.</p>"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

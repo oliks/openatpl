@@ -1,0 +1,14 @@
+{
+  "number": 886,
+  "questionId": "090-0886",
+  "questionNumber": "090-0886",
+  "stemHtml": "<p>Distress traffic is in progress and ATC has acknowledged the distress. Which conditions must all be met before you may transmit on that frequency?</p><p>1. Distress is cancelled<br>2. Distress traffic transferred to another frequency<br>3. Controlling station restores normal working<br>4. You have a flight safety message</p>",
+  "options": {
+    "a": "1, 2, 4.",
+    "b": "2, 3, 4.",
+    "c": "1, 3, 4.",
+    "d": "1, 2, 3."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

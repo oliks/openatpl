@@ -1,0 +1,14 @@
+{
+  "number": 155,
+  "questionId": "090-0155",
+  "questionNumber": "090-0155",
+  "stemHtml": "<p>IFR in IMC, being vectored or flying an RNAV offset without limit, radio fails. You must rejoin the flight plan route considering...</p>",
+  "options": {
+    "a": "the applicable minimum flight altitude.",
+    "b": "maximum 45° turn back to route.",
+    "c": "separation from other vectored aircraft.",
+    "d": "maintaining visual separation."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

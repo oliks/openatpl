@@ -1,0 +1,14 @@
+{
+  "number": 86,
+  "questionId": "090-0086",
+  "questionNumber": "090-0086",
+  "stemHtml": "<p>At 15:15, ATC changed your call sign from GOLF ALFA CHARLIE ZULU GOLF to SKYFALL ZULU GOLF. When do you revert?</p>",
+  "options": {
+    "a": "Automatically on the next frequency change, or when ATC instructs.",
+    "b": "Automatically at the next reporting point, or when ATC instructs.",
+    "c": "When instructed by ATC, or automatically at 15:45.",
+    "d": "When ATC instructs \"REVERT TO FLIGHT PLAN CALL SIGN GOLF ALFA CHARLIE ZULU GOLF\"."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

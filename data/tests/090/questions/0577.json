@@ -1,0 +1,14 @@
+{
+  "number": 577,
+  "questionId": "090-0577",
+  "questionNumber": "090-0577",
+  "stemHtml": "<p>How can a pilot without ACAS obtain routine aerodrome weather reports (METARs) for specific airports while in flight?</p>",
+  "options": {
+    "a": "Listen on the VOLMET broadcast frequency.",
+    "b": "Request a SIGMET on the international guard frequency.",
+    "c": "Monitor the AFIS frequency.",
+    "d": "Make a voice request on the ATIS frequency."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

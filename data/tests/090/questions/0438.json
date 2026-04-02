@@ -1,0 +1,14 @@
+{
+  "number": 438,
+  "questionId": "090-0438",
+  "questionNumber": "090-0438",
+  "stemHtml": "<p>What is ATIS?</p>",
+  "options": {
+    "a": "Aerodrome Traffic Indication Service — times of other aircraft.",
+    "b": "Airborne Traffic Information Service — positions of nearby aircraft.",
+    "c": "Aerodrome Terminal Instruction Service — instrument approach routing.",
+    "d": "Automatic Terminal Information Service — weather, runway, approach type."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

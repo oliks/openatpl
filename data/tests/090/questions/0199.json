@@ -1,0 +1,14 @@
+{
+  "number": 199,
+  "questionId": "090-0199",
+  "questionNumber": "090-0199",
+  "stemHtml": "<p>You tune a new ATC-assigned frequency. After multiple calls there's no reply and the frequency is silent. What next?</p>",
+  "options": {
+    "a": "Transmit on the guard frequency.",
+    "b": "Try the previous frequency.",
+    "c": "Contact other traffic on the current frequency.",
+    "d": "Declare urgency."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

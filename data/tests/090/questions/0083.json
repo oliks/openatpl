@@ -1,0 +1,14 @@
+{
+  "number": 83,
+  "questionId": "090-0083",
+  "questionNumber": "090-0083",
+  "stemHtml": "<p>At what interval must automated weather reports be transmitted from an aircraft climbing to FL200?</p>",
+  "options": {
+    "a": "<p>Every 15 minutes.</p>",
+    "b": "<p>Every 30 seconds.</p>",
+    "c": "<p>Not required, but recommended above FL290.</p>",
+    "d": "<p>Every 30 minutes.</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

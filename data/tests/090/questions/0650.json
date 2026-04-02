@@ -1,0 +1,14 @@
+{
+  "number": 650,
+  "questionId": "090-0650",
+  "questionNumber": "090-0650",
+  "stemHtml": "<p>Which interpretation of this D-ATIS is correct?</p><p>WSSS ARR ATIS F 0130 METAR Exp ILS Apch segregated PARL Ops in use ARR RWY 02L DEP 02C...</p>",
+  "options": {
+    "a": "RWY 02L for departures; visibility 10 km+; wind 010° at 4 kt.",
+    "b": "ATIS for departing and arriving traffic; RWY 02C for departures; no significant change expected.",
+    "c": "ATIS F current; temperature 26°C; no significant weather change expected.",
+    "d": "The ATIS is for arriving aircraft only, with CB clouds at 1300 ft base, and runway 02L for arrivals."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 855,
+  "questionId": "090-0855",
+  "questionNumber": "090-0855",
+  "stemHtml": "<p>After radar vectors, ATC says: \"G-ABCD, clear of traffic, resume own navigation, direct OCKHAM\". What is your reply?</p>",
+  "options": {
+    "a": "<p>Roger, direct Ockham, G-ABCD</p>",
+    "b": "<p>Resume own navigation, G-ABCD</p>",
+    "c": "<p>Clear of traffic, resume own navigation via Ockham, G-ABCD</p>",
+    "d": "<p>Cancel radar vectors, direct Ockham, G-ABCD</p>"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

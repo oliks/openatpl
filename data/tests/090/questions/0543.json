@@ -1,0 +1,14 @@
+{
+  "number": 543,
+  "questionId": "090-0543",
+  "questionNumber": "090-0543",
+  "stemHtml": "<p>From the following Otopeni ATIS, what is the departure runway and Delivery frequency?</p><p>\"OTOPENI INFORMATION OSCAR. TIME 12:50. EXPECT ILS. ARRIVALS 08 LEFT. DEPARTURES 08 RIGHT...DELIVERY 121.955\"</p>",
+  "options": {
+    "a": "RWY 08L, frequency 121.955",
+    "b": "RWY 08L, frequency 119.415",
+    "c": "RWY 08R, frequency 121.955",
+    "d": "RWY 08R, frequency 119.415"
+  },
+  "correctOption": "c",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 676,
+  "questionId": "090-0676",
+  "questionNumber": "090-0676",
+  "stemHtml": "<p>After take-off from runway 09 with clearance to climb straight ahead to 4000 ft before turning right heading 270, the aircraft suffers a receiver failure in VMC. The blind transmission should end with...</p>",
+  "options": {
+    "a": "<p>...RIGHT TURN HEADING 270 SPEED 160 KNOTS. CONTINUING VFR FOR LANDING RWY 09.\"</p>",
+    "b": "<p>...RIGHT TURN. CONTINUING VFR FOR LANDING RWY 09. NEXT REPORT FINAL.\"</p>",
+    "c": "<p>...RIGHT TURN HEADING 270 MAINTAINING 4000 FT. CONTINUING VFR FOR LANDING RWY 09.\"</p>",
+    "d": "<p>...RIGHT TURN MAINTAINING 4000 FT. NEXT REPORT AT TIME 1201. ALL STATIONS RADIO CHECK.\"</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

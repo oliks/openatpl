@@ -1,0 +1,14 @@
+{
+  "number": 793,
+  "questionId": "090-0793",
+  "questionNumber": "090-0793",
+  "stemHtml": "<p>ATC sends via CPDLC: \"MAINTAIN PRESENT SPEED\". What is the correct CPDLC response?</p>",
+  "options": {
+    "a": "ROGER",
+    "b": "COPIED",
+    "c": "ROGER WILCO",
+    "d": "WILCO"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

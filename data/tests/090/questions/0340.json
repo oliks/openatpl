@@ -1,0 +1,14 @@
+{
+  "number": 340,
+  "questionId": "090-0340",
+  "questionNumber": "090-0340",
+  "stemHtml": "<p>The PTT button on the microphone gets stuck. Which statement is correct?</p>",
+  "options": {
+    "a": "ATC will not be able to receive calls from other aircraft on the frequency.",
+    "b": "ATC will still hear all other aircraft.",
+    "c": "The pilot will hear static only.",
+    "d": "The pilot can still transmit and receive normally."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 92,
+  "questionId": "090-0092",
+  "questionNumber": "090-0092",
+  "stemHtml": "<p>A student pilot reads their frequency card where \"126.305\" looks like \"116.305\". They enter 116.305. What happens?</p>",
+  "options": {
+    "a": "The frequency is correct — they will hear Tower.",
+    "b": "They hear the FRT VOR Morse code.",
+    "c": "This is a VOR frequency and cannot be used for communication.",
+    "d": "The radio auto-corrects the frequency."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

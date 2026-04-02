@@ -1,0 +1,14 @@
+{
+  "number": 255,
+  "questionId": "090-0255",
+  "questionNumber": "090-0255",
+  "stemHtml": "<p>F-GTPO transmits on Lille Tower 118.550: \"Mayday x3, Lille Tower, F-GTPO, complete engine failure, forced landing on grass strip parallel to runway 20, right hand downwind...\" Is this correct?</p>",
+  "options": {
+    "a": "The elements are in the correct order and on the frequency in use.",
+    "b": "Emergency calls must always be on 121.500 MHz.",
+    "c": "The position report should be placed differently.",
+    "d": "Even on the correct frequency, position should precede intentions."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 85,
+  "questionId": "090-0085",
+  "questionNumber": "090-0085",
+  "stemHtml": "<p>When ATC initiates a SELCAL transmission, what do you reply?</p>",
+  "options": {
+    "a": "GO AHEAD",
+    "b": "SELCAL RECEIVED",
+    "c": "SELCAL OKAY",
+    "d": "LISTENING"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

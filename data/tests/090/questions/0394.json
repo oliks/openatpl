@@ -1,0 +1,14 @@
+{
+  "number": 394,
+  "questionId": "090-0394",
+  "questionNumber": "090-0394",
+  "stemHtml": "<p>Aircraft \"ABC 312\" is on frequency when \"ECHO 312\" also appears. What may the controller do?</p>",
+  "options": {
+    "a": "No action needed since the first parts differ.",
+    "b": "Require both to use registrations as call signs.",
+    "c": "Ask one aircraft to create a new call sign.",
+    "d": "Instruct one aircraft to temporarily change its call sign type."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

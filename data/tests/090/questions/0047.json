@@ -1,0 +1,14 @@
+{
+  "number": 47,
+  "questionId": "090-0047",
+  "questionNumber": "090-0047",
+  "stemHtml": "<p>Using CPDLC, you send: \"REQUEST WEATHER DEVIATION UP TO 15 NM LEFT OF ROUTE\". What is the most likely initial response from ATC?</p>",
+  "options": {
+    "a": "<p>WILCO</p>",
+    "b": "<p>STANDBY</p>",
+    "c": "<p>AFFIRM</p>",
+    "d": "<p>ROGER</p>"
+  },
+  "correctOption": "b",
+  "attachments": []
+}

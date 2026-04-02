@@ -1,0 +1,14 @@
+{
+  "number": 87,
+  "questionId": "090-0087",
+  "questionNumber": "090-0087",
+  "stemHtml": "<p>IFR flight in VMC, radio failure occurs. What should you do?</p>",
+  "options": {
+    "a": "Set transponder 7500 and land at the nearest en-route alternate.",
+    "b": "Continue VMC to the destination.",
+    "c": "If weather permits, set transponder 7601 and land at the nearest suitable aerodrome.",
+    "d": "Maintain last assigned speed and level for 10 minutes."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

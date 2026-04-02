@@ -1,0 +1,14 @@
+{
+  "number": 633,
+  "questionId": "090-0633",
+  "questionNumber": "090-0633",
+  "stemHtml": "<p>Turbulence prevents you from maintaining an RNAV route. ATC asks if you can navigate it. What do you say?</p>",
+  "options": {
+    "a": "Unable [route] RNAV due turbulence.",
+    "b": "Unable [route] due RNAV type.",
+    "c": "Negative RNAV.",
+    "d": "RNAV [route] not possible."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

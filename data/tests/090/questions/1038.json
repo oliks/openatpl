@@ -1,0 +1,14 @@
+{
+  "number": 1038,
+  "questionId": "090-1038",
+  "questionNumber": "090-1038",
+  "stemHtml": "<p>What must the station addressed or first acknowledging station do upon receiving a distress message?</p><p>1. Maintain radio silence<br>2. Immediately acknowledge<br>3. Ensure all necessary information reaches the right parties<br>4. Assume control of distress traffic if no ATS responds<br>5. Relay to all aircraft on frequency</p>",
+  "options": {
+    "a": "2, 3, and 4.",
+    "b": "1, 2, and 3.",
+    "c": "1, 4, and 5.",
+    "d": "2, 4, and 5."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

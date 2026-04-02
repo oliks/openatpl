@@ -1,0 +1,14 @@
+{
+  "number": 598,
+  "questionId": "090-0598",
+  "questionNumber": "090-0598",
+  "stemHtml": "<p>Cruising at FL260, equipped with VHF and transponder but NOT data link. Are routine weather observations required?</p>",
+  "options": {
+    "a": "Exempt — no data link means no automatic reports required.",
+    "b": "Must report 1 hour after departure.",
+    "c": "Must report every 15 minutes.",
+    "d": "Required for severe weather only."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1020,
+  "questionId": "090-1020",
+  "questionNumber": "090-1020",
+  "stemHtml": "<p>From this METAR — LPPT 150505Z 21010KT 9999 BKN016 M09/M16 Q1006 NOSIG — what is the wind?</p>",
+  "options": {
+    "a": "210° true at 10 kt",
+    "b": "210° true at 010 kt",
+    "c": "210° magnetic at 10 kt",
+    "d": "210° magnetic at 010 kt"
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 321,
+  "questionId": "090-0321",
+  "questionNumber": "090-0321",
+  "stemHtml": "<p>As an arriving VFR pilot approaching your destination (ATIS available), how do you request instructions from approach control before entering their jurisdiction?</p>",
+  "options": {
+    "a": "EC-IOS, PA28, VFR FROM MADRID TO BARCELONA, 3000 FEET, CONTROL ZONE BOUNDARY 08, BARCELONA 12, INFORMATION WHISKEY.",
+    "b": "EC-IOS, INFORMATION WHISKEY, PA28, 3000 FEET, ESTIMATES BARCELONA AT 1312, DEPARTED MADRID.",
+    "c": "BARCELONA APPROACH, THIS IS EC-IOS APPROACHING FROM SOUTH AT 3000 FEET, REQUEST LATEST WEATHER.",
+    "d": "EC-IOS, INBOUND FROM MADRID, 3000 FEET, INFORMATION WHISKEY."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 406,
+  "questionId": "090-0406",
+  "questionNumber": "090-0406",
+  "stemHtml": "<p>Cleared to fly an RNAV offset with no specified limits, you experience a communication failure. What should you do?</p>",
+  "options": {
+    "a": "Orbit in place while attempting to fix the communications.",
+    "b": "Return to the flight plan route no later than the next significant point.",
+    "c": "Deviate and try to contact an alternative ATC station.",
+    "d": "Maintain last assigned speed and level for 10 minutes."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1027,
+  "questionId": "090-1027",
+  "questionNumber": "090-1027",
+  "stemHtml": "<p>ATC: \"G-ABCD, contact GROUND 118.050\". Ground handles...</p>",
+  "options": {
+    "a": "Aerodrome traffic including the circuit.",
+    "b": "Movements on the manoeuvring area, including vehicles.",
+    "c": "Surface movements including aircraft on the runway.",
+    "d": "Weather reports and operational information."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

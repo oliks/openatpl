@@ -1,0 +1,14 @@
+{
+  "number": 1041,
+  "questionId": "090-1041",
+  "questionNumber": "090-1041",
+  "stemHtml": "<p>At Tenerife 1977, one aircraft reported \"we are now at take-off\" and the tower replied \"OK, stand by for take-off\" — but neither message was received by the other. What is the likely explanation?</p>",
+  "options": {
+    "a": "The tower's message must have been received — ground transmitters have greater range.",
+    "b": "The crew was focused on take-off and missed the transmission.",
+    "c": "A receiver failure on the departing aircraft.",
+    "d": "Simultaneous transmissions on one frequency blocked each other out."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

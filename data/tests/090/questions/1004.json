@@ -1,0 +1,14 @@
+{
+  "number": 1004,
+  "questionId": "090-1004",
+  "questionNumber": "090-1004",
+  "stemHtml": "<p>ATC says: \"G-ABCD disregard CPDLC route clearance direct DASNI message, break, cleared direct ALKIS, rest of route unchanged.\" Why?</p>",
+  "options": {
+    "a": "To correct the direct-to clearance, reissuing it to ALKIS.",
+    "b": "To inform of complete CPDLC failure, reverting to voice.",
+    "c": "To inform of a single-message failure, passing the new clearance to ALKIS.",
+    "d": "To correct the clearance, reissuing it to DASNI."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

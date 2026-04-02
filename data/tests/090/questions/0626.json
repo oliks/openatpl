@@ -1,0 +1,14 @@
+{
+  "number": 626,
+  "questionId": "090-0626",
+  "questionNumber": "090-0626",
+  "stemHtml": "<p>ATC clears you: \"Foxtrot Alfa Charlie India Papa is cleared to Bravo November Echo via Lima 5, Alfa 3, at Flight Level 150 to climb to Flight Level 170 after Delta Victor Romeo.\" What must be read back?</p>",
+  "options": {
+    "a": "Cleared to Bravo November Echo at Flight Level 170 after Delta Victor Romeo.",
+    "b": "Cleared to Bravo November Echo at Flight Level 150.",
+    "c": "Cleared to Bravo November Echo at Flight Level 150, to climb to Flight Level 170 after Delta Victor Romeo.",
+    "d": "Cleared to Bravo November Echo via Lima 5, Alfa 3, at Flight Level 150 to climb to Flight Level 170 after Delta Victor Romeo, Foxtrot Alfa Charlie India Papa."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

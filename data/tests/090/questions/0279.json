@@ -1,0 +1,14 @@
+{
+  "number": 279,
+  "questionId": "090-0279",
+  "questionNumber": "090-0279",
+  "stemHtml": "<p>VFR to Freetown (controlled aerodrome), you've lost your frequency notes. On the VFR map you find: FRT VOR 116.350, Freetown TWR 126.305, and Freetown APP 118.680. Which should you use for ATIS?</p>",
+  "options": {
+    "a": "118.680 MHz.",
+    "b": "116.350 MHz.",
+    "c": "126.305 MHz.",
+    "d": "126.305 MHz or 118.680 MHz depending on CTR entry point."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

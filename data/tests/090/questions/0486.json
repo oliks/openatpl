@@ -1,0 +1,14 @@
+{
+  "number": 486,
+  "questionId": "090-0486",
+  "questionNumber": "090-0486",
+  "stemHtml": "<p>ATC taxi clearances always contain a clearance limit. Which statement about crossing a runway during taxi is correct?</p>",
+  "options": {
+    "a": "If the taxi route crosses a runway, an explicit clearance to cross must be included.",
+    "b": "ATC would never issue instructions routing past a runway.",
+    "c": "A runway crossing is implied in the clearance limit.",
+    "d": "Taxi instructions never include a runway crossing even if the limit is beyond it."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

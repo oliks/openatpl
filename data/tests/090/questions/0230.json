@@ -1,0 +1,14 @@
+{
+  "number": 230,
+  "questionId": "090-0230",
+  "questionNumber": "090-0230",
+  "stemHtml": "<p>Which phrase corrects an error in a transmission? Example: you said QNH 1017 but meant 1016.</p>",
+  "options": {
+    "a": "QNH 1017, correction QNH 1016.",
+    "b": "QNH 1017, negative 1016.",
+    "c": "QNH 1017, negative QNH 1016.",
+    "d": "QNH 1017, negative I say again 1016."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

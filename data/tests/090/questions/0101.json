@@ -1,0 +1,14 @@
+{
+  "number": 101,
+  "questionId": "090-0101",
+  "questionNumber": "090-0101",
+  "stemHtml": "<p>Which factor could reduce an aircraft's VHF reception range from a ground station?</p>",
+  "options": {
+    "a": "Using a frequency at the lower end of the VHF band.",
+    "b": "A temperature inversion above the aircraft.",
+    "c": "Vehicles parked near the ground transmitter.",
+    "d": "Flying at a higher altitude."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

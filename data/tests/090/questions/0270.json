@@ -1,0 +1,14 @@
+{
+  "number": 270,
+  "questionId": "090-0270",
+  "questionNumber": "090-0270",
+  "stemHtml": "<p>How should ATC transmit the RVR for runway 16?</p>",
+  "options": {
+    "a": "RVR runway 16 touchdown ... metres, mid-point ... metres, stop end ... metres.",
+    "b": "RVR at the beginning of runway 16 is ... metres.",
+    "c": "RVR runway 16 ... metres diagonal ... metres diagonal ... metres.",
+    "d": "Transmissometer values are ... metres and ... metres."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

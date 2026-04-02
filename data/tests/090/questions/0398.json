@@ -1,0 +1,14 @@
+{
+  "number": 398,
+  "questionId": "090-0398",
+  "questionNumber": "090-0398",
+  "stemHtml": "<p>IFR in VMC, comm failure. What should the pilot do?</p>",
+  "options": {
+    "a": "Continue to destination adding 500 ft to altitudes.",
+    "b": "Continue VMC to destination, land within 30 min of ETA.",
+    "c": "Continue VMC, land at nearest suitable aerodrome, report arrival to ATC.",
+    "d": "Squawk 7700 and continue per flight plan."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

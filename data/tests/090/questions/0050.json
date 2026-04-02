@@ -1,0 +1,14 @@
+{
+  "number": 50,
+  "questionId": "090-0050",
+  "questionNumber": "090-0050",
+  "stemHtml": "<p>On which frequency should direction finding instructions be requested?</p>",
+  "options": {
+    "a": "121.5 MHz.",
+    "b": "The frequency currently in use.",
+    "c": "An ATIS frequency.",
+    "d": "Company frequency."
+  },
+  "correctOption": "b",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 509,
+  "questionId": "090-0509",
+  "questionNumber": "090-0509",
+  "stemHtml": "<p>A single-engine piston aircraft approaches its destination. Both destination and alternate report IMC for the rest of the day. Approaching the IAF, the radio fails and the pilot cannot contact ATC. What should the pilot do?</p>",
+  "options": {
+    "a": "Continue to the IAF and complete the published instrument approach for the assigned runway.",
+    "b": "Divert to the alternate and hold there until weather improves.",
+    "c": "Hold at the IAF for 30 minutes, then attempt the approach.",
+    "d": "Cancel IFR, continue VFR to the destination and wait for conditions to improve."
+  },
+  "correctOption": "a",
+  "attachments": []
+}

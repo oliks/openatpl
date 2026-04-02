@@ -1,0 +1,14 @@
+{
+  "number": 419,
+  "questionId": "090-0419",
+  "questionNumber": "090-0419",
+  "stemHtml": "<p>How does flying over the sea affect VHF signal propagation?</p>",
+  "options": {
+    "a": "<p>No change when warm air moves over the sea.</p>",
+    "b": "<p>No effect regardless of atmospheric conditions.</p>",
+    "c": "<p>Signal weakens when warm air passes over cool water.</p>",
+    "d": "<p>Signal strength increases when warm air passes over cool water due to super-refraction.</p>"
+  },
+  "correctOption": "d",
+  "attachments": []
+}

@@ -1,0 +1,14 @@
+{
+  "number": 42,
+  "questionId": "090-0042",
+  "questionNumber": "090-0042",
+  "stemHtml": "<p>Your filed call sign is GOLF ALFA CHARLIE ZULU GOLF. ATC instructs: \"CHANGE YOUR CALLSIGN TO SKYFALL ZULU GOLF\" (your company name). Why would ATC issue this?</p>",
+  "options": {
+    "a": "If the company specifically requested it.",
+    "b": "If the pilot requested the change.",
+    "c": "ATC would not make such a request.",
+    "d": "Solely for safety purposes."
+  },
+  "correctOption": "d",
+  "attachments": []
+}

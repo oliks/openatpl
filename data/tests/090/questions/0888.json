@@ -1,0 +1,14 @@
+{
+  "number": 888,
+  "questionId": "090-0888",
+  "questionNumber": "090-0888",
+  "stemHtml": "<p>What is the correct priority order for messages in the aeronautical mobile service?</p>",
+  "options": {
+    "a": "Meteorological, direction finding, flight safety.",
+    "b": "Flight safety, direction finding, urgency.",
+    "c": "Flight safety, meteorological, flight regularity.",
+    "d": "Flight regularity, distress, meteorological."
+  },
+  "correctOption": "c",
+  "attachments": []
+}

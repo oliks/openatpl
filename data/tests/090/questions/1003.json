@@ -1,0 +1,14 @@
+{
+  "number": 1003,
+  "questionId": "090-1003",
+  "questionNumber": "090-1003",
+  "stemHtml": "<p>On which frequency should a distress message be transmitted?</p>",
+  "options": {
+    "a": "The emergency frequency.",
+    "b": "The regional guard frequency.",
+    "c": "The FIS frequency for the airspace.",
+    "d": "The air-ground frequency currently in use."
+  },
+  "correctOption": "d",
+  "attachments": []
+}
