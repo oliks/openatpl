@@ -1,0 +1,77 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+
+  validate-manifest:
+    name: Validate Question Bank
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate manifest structure
+        run: |
+          node -e "
+          const fs = require('fs');
+          const manifest = JSON.parse(fs.readFileSync('data/tests/manifest.json', 'utf8'));
+          if (!Array.isArray(manifest)) { console.error('manifest.json must be an array'); process.exit(1); }
+          let errors = 0;
+          for (const entry of manifest) {
+            if (!entry.id || !entry.name || !entry.sourceFile) {
+              console.error('Invalid manifest entry:', JSON.stringify(entry));
+              errors++;
+              continue;
+            }
+            if (!fs.existsSync(entry.sourceFile)) {
+              console.error('Missing source file:', entry.sourceFile);
+              errors++;
+              continue;
+            }
+            const index = JSON.parse(fs.readFileSync(entry.sourceFile, 'utf8'));
+            if (!index.questions || !Array.isArray(index.questions)) {
+              console.error(entry.id + ': index.json missing questions array');
+              errors++;
+              continue;
+            }
+            let missing = 0;
+            for (const q of index.questions) {
+              const qPath = entry.sourceFile.replace('index.json', '') + q.file;
+              if (!fs.existsSync(qPath)) { missing++; }
+            }
+            if (missing > 0) {
+              console.error(entry.id + ': ' + missing + ' question files missing');
+              errors++;
+            } else {
+              console.log(entry.id + ': OK (' + index.questions.length + ' questions)');
+            }
+          }
+          if (errors > 0) { process.exit(1); }
+          console.log('All subjects validated successfully');
+          "
