@@ -1,0 +1,21 @@
+{
+  "name": "OpenATPL",
+  "short_name": "OpenATPL",
+  "description": "Free open-source EASA ATPL question bank practice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f7a69",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
